@@ -88,7 +88,7 @@ func (m *Movie) renameFile() {
 		filepath.Dir(m.nfoPath)+"/"+"banner.", m.rootPath+"/"+embyDirName+"/"+"banner.",
 		filepath.Dir(m.nfoPath)+"/"+"disc.", m.rootPath+"/"+embyDirName+"/"+"disc.",
 		filepath.Dir(m.nfoPath)+"/"+"cdart.", m.rootPath+"/"+embyDirName+"/"+"cdart.",
-		filepath.Dir(m.nfoPath)+"/"+"clearlogo.", m.rootPath+"/"+embyDirName+"/"+"clearlogo .",
+		filepath.Dir(m.nfoPath)+"/"+"clearlogo.", m.rootPath+"/"+embyDirName+"/"+"clearlogo.",
 		filepath.Dir(m.nfoPath)+"/"+"logo.", m.rootPath+"/"+embyDirName+"/"+"logo.",
 		filepath.Dir(m.nfoPath)+"/"+"thumb.", m.rootPath+"/"+embyDirName+"/"+"thumb.",
 		filepath.Dir(m.nfoPath)+"/"+"landscape.", m.rootPath+"/"+embyDirName+"/"+"landscape.",

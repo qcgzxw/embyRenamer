@@ -4062,7 +4062,7 @@
 │   ├── 1408.en.srt
 │   ├── 1408.mkv
 │   ├── 1408.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   └── poster.jpg
@@ -4091,7 +4091,7 @@
 │   ├── poster.jpg
 │   └── 미인.rmvb
 ├── 복수는 나의 것 (2002) [imdbid=tt0310775]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── 복수는 나의 것.mkv
@@ -4099,7 +4099,7 @@
 │   ├── poster.jpg
 │   └── 복수는 나의 것.zh-cn.srt
 ├── 오아시스 (2002) [imdbid=tt0320193]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── 오아시스.mkv
 │   ├── 오아시스.nfo
@@ -4108,13 +4108,13 @@
 ├── 색즉시공 (2002) [imdbid=tt0341555]
 │   ├── 색즉시공-320-10.bif
 │   ├── 색즉시공.avi
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── 색즉시공.en.srt
 │   ├── 색즉시공-fanart.jpg
 │   ├── 색즉시공.nfo
 │   └── 색즉시공-poster.jpg
 ├── 살인의 추억 (2003) [imdbid=tt0353969]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── 살인의 추억.mkv
@@ -4173,7 +4173,7 @@
 │   └── poster.jpg
 ├── 황해 (2010) [imdbid=tt1230385]
 │   ├── 황해-320-10.bif
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── 황해.mkv
 │   ├── 황해.nfo
@@ -4181,7 +4181,7 @@
 │   ├── 황해.srt
 │   └── 황해.ssa
 ├── 김복남 살인사건의 전말 (2010) [imdbid=tt1646959]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── 김복남 살인사건의 전말.mkv
 │   ├── 김복남 살인사건의 전말.nfo
@@ -4199,7 +4199,7 @@
 │   ├── 부당거래-poster.jpg
 │   └── 부당거래.rmvb
 ├── 도가니 (2011) [imdbid=tt2070649]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── 도가니.mkv
@@ -4218,14 +4218,14 @@
 │   └── 은밀하게 위대하게-poster.jpg
 ├── 소원 (2013) [imdbid=tt3153634]
 │   ├── 소원-320-10.bif
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── 소원.mkv
 │   ├── 소원.nfo
 │   └── poster.jpg
 ├── 변호인 (2013) [imdbid=tt3404140]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── 변호인.mkv
@@ -4246,7 +4246,7 @@
 │   └── 내부자들_s.jpg
 ├── 아가씨 (2016) [imdbid=tt4016934]
 │   ├── 아가씨-320-10.bif
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── 아가씨.en.srt
 │   ├── fanart.jpg
 │   ├── 아가씨.mkv
@@ -4254,7 +4254,7 @@
 │   └── poster.jpg
 ├── 곡성 (2016) [imdbid=tt5215952]
 │   ├── 곡성-320-10.bif
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── 곡성.mp4
@@ -4262,7 +4262,7 @@
 │   └── poster.jpg
 ├── 터널 (2016) [imdbid=tt5910280]
 │   ├── 터널-320-10.bif
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── 터널.mp4
 │   ├── 터널.nfo
@@ -4309,7 +4309,7 @@
 │   ├── 반드시 잡는다.nfo
 │   └── poster.jpg
 ├── 버닝 (2018) [imdbid=tt7282468]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── 버닝.mkv
 │   ├── 버닝.nfo
@@ -4335,7 +4335,7 @@
 │   └── 공작.zh-cn.ssa
 ├── 마녀 (2018) [imdbid=tt8574252]
 │   ├── 마녀-320-10.bif
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── 마녀.mkv
 │   ├── 마녀.nfo
@@ -4343,14 +4343,14 @@
 │   └── 마녀.zh-cn.srt
 ├── 도어락 (2018) [imdbid=tt9402676]
 │   ├── 도어락-320-10.bif
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── 도어락.mkv
 │   ├── 도어락.nfo
 │   └── poster.jpg
 ├── 악인전 (2019) [imdbid=tt10208198]
 │   ├── 악인전.bif
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── 악인전.mp4
@@ -4359,7 +4359,7 @@
 ├── 기생충 (2019) [imdbid=tt6751668]
 │   ├── 기생충-320-10.bif
 │   ├── 기생충.ass
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── 기생충.en.srt
 │   ├── fanart.jpg
 │   ├── landscape.jpg
@@ -4368,7 +4368,7 @@
 │   ├── poster.jpg
 │   └── 기생충.zh-cn.ssa
 ├── 벌새 (2019) [imdbid=tt8951086]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── 벌새.mkv
 │   ├── 벌새.nfo
@@ -4377,7 +4377,7 @@
 │   ├── 괴물 2.mkv
 │   ├── 괴물 2.nfo
 │   ├── 괴물 2_s.jpg
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── 2 Fast 2 Furious (2003) [imdbid=tt0322259]
@@ -4390,7 +4390,7 @@
 │   ├── 3 Idiots-320-10.bif
 │   ├── 3 Idiots.mkv
 │   ├── 3 Idiots.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   └── poster.jpg
@@ -4398,7 +4398,7 @@
 │   ├── 7. Koğuştaki Mucize-320-10.bif
 │   ├── 7. Koğuştaki Mucize.mkv
 │   ├── 7. Koğuştaki Mucize.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── 제8일의 밤 (2021) [imdbid=tt14781176]
@@ -4435,7 +4435,7 @@
 ├── 玻璃樽 (1999) [imdbid=tt0184526]
 │   ├── 玻璃樽.mkv
 │   ├── 玻璃樽.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── cover.jpg
 │   └── fanart.jpg
 ├── 不成问题的问题 (2017) [imdbid=tt6128782]
@@ -4456,7 +4456,7 @@
 ├── 長江七號 (2008) [imdbid=tt0940709]
 │   ├── 長江七號.mkv
 │   ├── 長江七號.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── cover.jpg
 │   └── fanart.jpg
 ├── 乘风破浪 (2017) [imdbid=tt6461514]
@@ -4468,13 +4468,13 @@
 │   ├── 春光乍洩.简体.default.ass
 │   ├── 春光乍洩.mkv
 │   ├── 春光乍洩.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── 刺杀小说家 (2021) [imdbid=tt9685342]
 │   ├── 刺杀小说家.mkv
 │   ├── 刺杀小说家.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── 大佛普拉斯 (2017) [imdbid=tt7010412]
@@ -4496,7 +4496,7 @@
 │   ├── 大象席地而坐-320-10.bif
 │   ├── 大象席地而坐.mp4
 │   ├── 大象席地而坐.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── 地球最后的夜晚 (2018) [imdbid=tt8185182]
@@ -4552,13 +4552,13 @@
 ├── 告白 (2010) [imdbid=tt1590089]
 │   ├── 告白.mkv
 │   ├── 告白.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── 功夫 (2004) [imdbid=tt0373074]
 │   ├── 功夫.mkv
 │   ├── 功夫.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── cover.jpg
 │   ├── fanart.jpg
 │   ├── landscape.jpg
@@ -4585,7 +4585,7 @@
 │   ├── 鬼子来了.mkv
 │   ├── 鬼子来了.nfo
 │   ├── 鬼子来了-poster.jpg
-│   └── clearlogo .png
+│   └──  clearlogo.png
 ├── 國產凌凌漆 (1994) [imdbid=tt0109962]
 │   ├── 國產凌凌漆.mkv
 │   ├── 國產凌凌漆.nfo
@@ -4594,7 +4594,7 @@
 ├── 花樣年華 (2000) [imdbid=tt0118694]
 │   ├── 花樣年華.mkv
 │   ├── 花樣年華.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── 回魂夜 (1995) [imdbid=tt0113356]
@@ -4651,7 +4651,7 @@
 ├── 烈日灼心 (2015) [imdbid=tt4079152]
 │   ├── 烈日灼心.mp4
 │   ├── 烈日灼心.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── 猎谎者 (2020) [imdbid=tt12644232]
@@ -4679,7 +4679,7 @@
 │   ├── 驴得水-320-10.bif
 │   ├── 驴得水.mp4
 │   ├── 驴得水.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── 買兇拍人 (2001) [imdbid=tt0312932]
@@ -4692,12 +4692,12 @@
 │   ├── 盲井.mp4
 │   ├── 盲井.nfo
 │   ├── 盲井-poster.jpg
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   └── fanart.jpg
 ├── 美人鱼 (2016) [imdbid=tt4701660]
 │   ├── 美人鱼.mkv
 │   ├── 美人鱼.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── cover.jpg
 │   └── fanart.jpg
 ├── 無敵幸運星 (1990) [imdbid=tt0100959]
@@ -4722,7 +4722,7 @@
 │   ├── 哪吒之魔童降世-320-10.bif
 │   ├── 哪吒之魔童降世.mp4
 │   ├── 哪吒之魔童降世.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   └── poster.jpg
@@ -4763,20 +4763,20 @@
 ├── 让子弹飞 (2010) [imdbid=tt1533117]
 │   ├── 让子弹飞.mkv
 │   ├── 让子弹飞.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   └── poster.jpg
 ├── 人潮汹涌 (2021) [imdbid=tt11564214]
 │   ├── 人潮汹涌.mp4
 │   ├── 人潮汹涌.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── 色‧戒 (2007) [imdbid=tt0808357]
 │   ├── 色‧戒.iso
 │   ├── 色‧戒.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── 杀生 (2012) [imdbid=tt2290645]
@@ -4787,7 +4787,7 @@
 ├── 少林足球 (2001) [imdbid=tt0286112]
 │   ├── 少林足球.mkv
 │   ├── 少林足球.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── cover.jpg
 │   ├── fanart.jpg
 │   ├── landscape.jpg
@@ -4796,7 +4796,7 @@
 │   ├── 神探-320-10.bif
 │   ├── 神探.mkv
 │   ├── 神探.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── 審死官 (1992) [imdbid=tt0105385]
@@ -4854,32 +4854,32 @@
 ├── 逃学威龙 II (1992) [imdbid=tt0105534]
 │   ├── 逃学威龙 II.mkv
 │   ├── 逃学威龙 II.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── cover.jpg
 │   └── fanart.jpg
 ├── 逃學威龍 (1991) [imdbid=tt0103045]
 │   ├── 逃學威龍.mkv
 │   ├── 逃學威龍.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── cover.jpg
 │   └── fanart.jpg
 ├── 逃學威龍III之龍過雞年 (1993) [imdbid=tt0108293]
 │   ├── 逃學威龍III之龍過雞年.mkv
 │   ├── 逃學威龍III之龍過雞年.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── cover.jpg
 │   └── fanart.jpg
 ├── 天注定 (2013) [imdbid=tt2852400]
 │   ├── 天注定-320-10.bif
 │   ├── 天注定.mkv
 │   ├── 天注定.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── 推手 (1991) [imdbid=tt0105652]
 │   ├── 推手.mkv
 │   ├── 推手.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── 万箭穿心 (2012) [imdbid=tt2513344]
@@ -4891,7 +4891,7 @@
 │   ├── 万引き家族-320-10.bif
 │   ├── 万引き家族.mkv
 │   ├── 万引き家族.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── 望夫成龍 (1990) [imdbid=tt0100902]
@@ -4911,12 +4911,12 @@
 │   ├── 我不是药神.mp4
 │   ├── 我不是药神.nfo
 │   ├── 我不是药神-poster.jpg
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   └── landscape.jpg
 ├── 卧虎藏龍 (2000) [imdbid=tt0190332]
 │   ├── 卧虎藏龍.mkv
 │   ├── 卧虎藏龍.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── cover.jpg
 │   ├── fanart.jpg
 │   └── landscape.jpg
@@ -4926,7 +4926,7 @@
 │   ├── 无名之辈.mp4
 │   ├── 无名之辈.nfo
 │   ├── 无名之辈-poster.jpg
-│   └── clearlogo .png
+│   └──  clearlogo.png
 ├── 武狀元蘇乞兒 (1992) [imdbid=tt0100963]
 │   ├── 武狀元蘇乞兒.mkv
 │   ├── 武狀元蘇乞兒.nfo
@@ -4941,26 +4941,26 @@
 ├── 西游·伏妖篇 (2017) [imdbid=tt5273624]
 │   ├── 西游·伏妖篇.mkv
 │   ├── 西游·伏妖篇.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── cover.jpg
 │   └── fanart.jpg
 ├── 西游·降魔篇 (2013) [imdbid=tt2017561]
 │   ├── 西游·降魔篇.mkv
 │   ├── 西游·降魔篇.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── cover.jpg
 │   ├── fanart.jpg
 │   └── landscape.jpg
 ├── 西遊記大結局之仙履奇緣 (1995) [imdbid=tt0114996]
 │   ├── 西遊記大結局之仙履奇緣.mkv
 │   ├── 西遊記大結局之仙履奇緣.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── cover.jpg
 │   └── fanart.jpg
 ├── 西遊記第壹佰零壹回之月光寶盒 (1995) [imdbid=tt0112778]
 │   ├── 西遊記第壹佰零壹回之月光寶盒.mkv
 │   ├── 西遊記第壹佰零壹回之月光寶盒.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── cover.jpg
 │   └── fanart.jpg
 ├── 喜宴 (1993) [imdbid=tt0107156]
@@ -4982,7 +4982,7 @@
 ├── 心花路放 (2014) [imdbid=tt3890264]
 │   ├── 心花路放.mp4
 │   ├── 心花路放.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── 新天龍八部之天山童姥 (1994) [imdbid=tt0111776]
@@ -5031,7 +5031,7 @@
 ├── 飲食男女 (1994) [imdbid=tt0111797]
 │   ├── 飲食男女.mkv
 │   ├── 飲食男女.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── 愚行録 (2017) [imdbid=tt5560592]
@@ -5068,7 +5068,7 @@
 │   ├── Aladdin.简体&英文.srt
 │   ├── Aladdin.mkv
 │   ├── Aladdin.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   └── poster.jpg
@@ -5086,7 +5086,7 @@
 │   ├── All the Money in the World.en.srt
 │   ├── All the Money in the World.nfo
 │   ├── All the Money in the World.srt
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   └── poster.jpg
@@ -5094,7 +5094,7 @@
 │   ├── Alvin and the Chipmunks-320-10.bif
 │   ├── Alvin and the Chipmunks.mkv
 │   ├── Alvin and the Chipmunks.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── American Hustle (2013) [imdbid=tt1800241]
@@ -5103,7 +5103,7 @@
 │   ├── American Hustle..mkv
 │   ├── American Hustle..nfo
 │   ├── American Hustle.-poster.jpg
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   └── landscape.jpg
 ├── Annihilation (2018) [imdbid=tt2798920]
 │   ├── Annihilation.mkv
@@ -5121,7 +5121,7 @@
 │   ├── Antichrist.ass
 │   ├── Antichrist.mkv
 │   ├── Antichrist.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   └── poster.jpg
@@ -5137,7 +5137,7 @@
 │   ├── Arrival.chs&eng.ass
 │   ├── Arrival.mkv
 │   ├── Arrival.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   └── poster.jpg
@@ -5145,7 +5145,7 @@
 │   ├── A Simple Favor-320-10.bif
 │   ├── A Simple Favor.mkv
 │   ├── A Simple Favor.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   └── poster.jpg
@@ -5154,7 +5154,7 @@
 │   ├── Avengers: Age of Ultron.mkv
 │   ├── Avengers: Age of Ultron.nfo
 │   ├── Avengers: Age of Ultron.zh-cn.srt
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   └── poster.jpg
@@ -5162,7 +5162,7 @@
 │   ├── Avengers: Endgame-320-10.bif
 │   ├── Avengers: Endgame.mp4
 │   ├── Avengers: Endgame.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   └── poster.jpg
@@ -5171,7 +5171,7 @@
 │   ├── Avengers: Infinity War.en.srt
 │   ├── Avengers: Infinity War.mkv
 │   ├── Avengers: Infinity War.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   └── poster.jpg
@@ -5179,7 +5179,7 @@
 │   ├── Big Fish-320-10.bif
 │   ├── Big Fish.mkv
 │   ├── Big Fish.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   └── poster.jpg
@@ -5187,7 +5187,7 @@
 │   ├── Bird Box-320-10.bif
 │   ├── Bird Box.mkv
 │   ├── Bird Box.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── Black Mirror: Bandersnatch (2018) [imdbid=tt9495224]
@@ -5222,18 +5222,18 @@
 │   ├── Bohemian Rhapsody.mkv
 │   ├── Bohemian Rhapsody.nfo
 │   ├── Bohemian Rhapsody-poster.jpg
-│   └── clearlogo .png
+│   └──  clearlogo.png
 ├── Brokeback Mountain (2005) [imdbid=tt0388795]
 │   ├── Brokeback Mountain.mkv
 │   ├── Brokeback Mountain.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── cover.jpg
 │   └── fanart.jpg
 ├── Bumblebee (2018) [imdbid=tt4701182]
 │   ├── Bumblebee-320-10.bif
 │   ├── Bumblebee.mkv
 │   ├── Bumblebee.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   └── poster.jpg
@@ -5242,7 +5242,7 @@
 │   ├── Buried.en.srt
 │   ├── Buried.mkv
 │   ├── Buried.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   └── poster.jpg
@@ -5259,14 +5259,14 @@
 │   ├── Captain Marvel.mkv
 │   ├── Captain Marvel.nfo
 │   ├── Captain Marvel.zh-cn.srt
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── Cast Away (2000) [imdbid=tt0162222]
 │   ├── Cast Away-320-10.bif
 │   ├── Cast Away.nfo
 │   ├── Cast Away.rmvb
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   └── poster.jpg
@@ -5291,14 +5291,14 @@
 │   ├── Coco.nfo
 │   └── Coco-poster.jpg
 ├── Coherence (2013) [imdbid=tt2866360]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── Coherence-320-10.bif
 │   ├── Coherence.mkv
 │   ├── Coherence.nfo
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── Con Air (1997) [imdbid=tt0118880]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── Con Air-320-10.bif
 │   ├── Con Air-fanart.jpg
 │   ├── Con Air-landscape.jpg
@@ -5306,7 +5306,7 @@
 │   ├── Con Air.nfo
 │   └── Con Air-poster.jpg
 ├── Crisis (2021) [imdbid=tt9731682]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── Crisis.ChS&En.default.ass
 │   ├── Crisis.mkv
 │   ├── Crisis.nfo
@@ -5314,13 +5314,13 @@
 │   ├── landscape.jpg
 │   └── poster.jpg
 ├── Critters Attack! (2019) [imdbid=tt10240612]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── Critters Attack!.mkv
 │   ├── Critters Attack!.nfo
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── Dans la maison (2012) [imdbid=tt1964624]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── Dans la maison-320-10.bif
 │   ├── Dans la maison.nfo
 │   ├── Dans la maison.rmvb
@@ -5335,7 +5335,7 @@
 │   ├── D'après une histoire vraie..nfo
 │   └── D'après une histoire vraie.-poster.jpg
 ├── Deadwood: The Movie (2019) [imdbid=tt4943998]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── Deadwood: The Movie-320-10.bif
 │   ├── Deadwood: The Movie.mkv
 │   ├── Deadwood: The Movie.nfo
@@ -5375,7 +5375,7 @@
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── Eden Lake (2008) [imdbid=tt1020530]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── Eden Lake-320-10.bif
 │   ├── Eden Lake.mkv
 │   ├── Eden Lake.nfo
@@ -5383,7 +5383,7 @@
 │   ├── landscape.jpg
 │   └── poster.jpg
 ├── El hoyo (2019) [imdbid=tt8228288]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── El hoyo-320-10.bif
 │   ├── El hoyo.mkv
 │   ├── El hoyo.nfo
@@ -5391,7 +5391,7 @@
 │   ├── landscape.jpg
 │   └── poster.jpg
 ├── Escape Room (2019) [imdbid=tt5886046]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── Escape Room-320-10.bif
 │   ├── Escape Room.en.srt
 │   ├── Escape Room.mkv
@@ -5407,7 +5407,7 @@
 │   ├── F9-poster.jpg
 │   └── F9.zh-cn.srt
 ├── Face Off (1997) [imdbid=tt0119094]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── Face Off-320-10.bif
 │   ├── Face Off-fanart.jpg
 │   ├── Face Off-landscape.jpg
@@ -5415,7 +5415,7 @@
 │   ├── Face Off.nfo
 │   └── Face Off-poster.jpg
 ├── Fantastic Beasts: The Crimes of Grindelwald (2018) [imdbid=tt4123430]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── Fantastic Beasts: The Crimes of Grindelwald-320-10.bif
 │   ├── Fantastic Beasts: The Crimes of Grindelwald.mkv
@@ -5449,7 +5449,7 @@
 │   ├── Fast & Furious Presents: Hobbs & Shaw.nfo
 │   └── Fast & Furious Presents: Hobbs & Shaw-poster.jpg
 ├── Fight Club (1999) [imdbid=tt0137523]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── Fight Club-320-10.bif
 │   ├── Fight Club.mkv
@@ -5485,7 +5485,7 @@
 │   ├── Final Destination 5.nfo
 │   └── Final Destination 5-poster.jpg
 ├── Following (1999) [imdbid=tt0154506]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── Following-320-10.bif
 │   ├── Following.mkv
@@ -5507,7 +5507,7 @@
 │   ├── Fracture.nfo
 │   └── Fracture-poster.jpg
 ├── Free Solo (2018) [imdbid=tt7775622]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── Free Solo-320-10.bif
 │   ├── Free Solo.ass
@@ -5515,14 +5515,14 @@
 │   ├── Free Solo.nfo
 │   └── poster.jpg
 ├── Frozen (2013) [imdbid=tt2294629]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── cover.jpg
 │   ├── fanart.jpg
 │   ├── Frozen.mkv
 │   ├── Frozen.nfo
 │   └── landscape.jpg
 ├── Frozen II (2019) [imdbid=tt4520988]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── cover.jpg
 │   ├── fanart.jpg
 │   ├── Frozen II.mkv
@@ -5542,7 +5542,7 @@
 │   ├── Game Night.nfo
 │   └── poster.jpg
 ├── Glass (2019) [imdbid=tt6823368]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── Glass-320-10.bif
 │   ├── Glass.mkv
@@ -5550,7 +5550,7 @@
 │   ├── landscape.jpg
 │   └── poster.jpg
 ├── Godzilla vs. Kong (2021) [imdbid=tt5034838]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── Godzilla vs. Kong.mkv
 │   ├── Godzilla vs. Kong.nfo
@@ -5564,7 +5564,7 @@
 │   ├── Gone Girl.nfo
 │   └── Gone Girl-poster.jpg
 ├── GoodFellas (1990) [imdbid=tt0099685]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── GoodFellas.Chs&Eng.default.srt
 │   ├── GoodFellas.mkv
@@ -5593,7 +5593,7 @@
 │   ├── Hannibal.nfo
 │   └── Hannibal-poster.jpg
 ├── Happy Death Day (2017) [imdbid=tt5308322]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── Happy Death Day-320-10.bif
 │   ├── Happy Death Day.en.srt
@@ -5602,7 +5602,7 @@
 │   ├── landscape.jpg
 │   └── poster.jpg
 ├── Happy Death Day 2U (2019) [imdbid=tt8155288]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── Happy Death Day 2U-320-10.bif
 │   ├── Happy Death Day 2U.en.srt
@@ -5624,14 +5624,14 @@
 │   ├── Hereditary.nfo
 │   └── Hereditary-poster.jpg
 ├── Hitman (2007) [imdbid=tt0465494]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── Hitman-320-10.bif
 │   ├── Hitman.mkv
 │   ├── Hitman.nfo
 │   └── poster.jpg
 ├── How to Train Your Dragon: The Hidden World (2019) [imdbid=tt2386490]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── How to Train Your Dragon: The Hidden World-320-10.bif
 │   ├── How to Train Your Dragon: The Hidden World.en.srt
@@ -5640,7 +5640,7 @@
 │   ├── How to Train Your Dragon: The Hidden World.srt
 │   └── poster.jpg
 ├── Hulk (2003) [imdbid=tt0286716]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── cover.jpg
 │   ├── fanart.jpg
 │   ├── Hulk.mkv
@@ -5653,7 +5653,7 @@
 │   ├── Identity.nfo
 │   └── poster.jpg
 ├── Inglourious Basterds (2009) [imdbid=tt0361748]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── Inglourious Basterds-320-10.bif
 │   ├── Inglourious Basterds-fanart.jpg
 │   ├── Inglourious Basterds.mkv
@@ -5681,7 +5681,7 @@
 │   ├── Isle of Dogs.nfo
 │   └── Isle of Dogs-poster.jpg
 ├── Jagten (2012) [imdbid=tt2106476]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── Jagten.mkv
 │   ├── Jagten.nfo
@@ -5696,7 +5696,7 @@
 │   ├── Jim Gaffigan: Obsessed.nfo
 │   └── Jim Gaffigan: Obsessed-poster.jpg
 ├── Joker (2019) [imdbid=tt7286456]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── Joker-320-10.bif
 │   ├── Joker.ass
@@ -5763,7 +5763,7 @@
 │   ├── La Pianiste-poster.jpg
 │   └── La Pianiste.zh-cn.srt
 ├── La vita è bella (1997) [imdbid=tt0118799]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── La vita è bella-320-10.bif
@@ -5793,7 +5793,7 @@
 │   ├── League of Legends Origins.nfo
 │   └── poster.jpg
 ├── Le Fabuleux Destin d'Amélie Poulain (2001) [imdbid=tt0211915]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── Le Fabuleux Destin d'Amélie Poulain-320-10.bif
@@ -5808,14 +5808,14 @@
 │   ├── Les Choristes.srt
 │   └── poster.jpg
 ├── Life of Pi (2012) [imdbid=tt0454876]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── cover.jpg
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── Life of Pi.mkv
 │   └── Life of Pi.nfo
 ├── Logan Lucky (2017) [imdbid=tt5439796]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── Logan Lucky-320-10.bif
@@ -5823,7 +5823,7 @@
 │   ├── Logan Lucky.nfo
 │   └── poster.jpg
 ├── Lolita (1997) [imdbid=tt0119558]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── Lolita-320-10.bif
@@ -5833,7 +5833,7 @@
 │   ├── Lolita.nfo
 │   └── poster.jpg
 ├── Lord of War (2005) [imdbid=tt0399295]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── Lord of War-320-10.bif
 │   ├── Lord of War.mkv
@@ -5871,13 +5871,13 @@
 │   ├── CERTIFICATE
 │   │   └── BACKUP
 │   │       └── bd.nfo
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── Malèna.nfo
 │   └── poster.jpg
 ├── Marrowbone (2017) [imdbid=tt5886440]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── Marrowbone.2017.1080p.BluRay.x264.DTS-FGT.Chs.srt
 │   ├── Marrowbone.2017.1080p.BluRay.x264.DTS-FGT.Cht.srt
@@ -5906,7 +5906,7 @@
 │   ├── Mortal Engines.nfo
 │   └── Mortal Engines-poster.jpg
 ├── Mulan (2020) [imdbid=tt4566758]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── Mulan-320-10.bif
@@ -5916,7 +5916,7 @@
 │   ├── Mulan.nfo
 │   └── Mulan-poster.jpg
 ├── Munich (2005) [imdbid=tt0408306]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── Munich.mkv
 │   ├── Munich.nfo
@@ -5930,7 +5930,7 @@
 │   ├── Muži v naději.nfo
 │   └── Muži v naději-poster.jpg
 ├── Nobody (2021) [imdbid=tt7888964]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── Nobody.iso
@@ -5939,14 +5939,14 @@
 │   ├── Nobody.zh-cn.ssa
 │   └── poster.jpg
 ├── No Country for Old Men (2007) [imdbid=tt0477348]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── No Country for Old Menn-320-10.bif
 │   ├── No Country for Old Menn-backdrop.jpg
 │   ├── No Country for Old Menn.mkv
 │   ├── No Country for Old Menn.nfo
 │   └── No Country for Old Menn-poster.jpg
 ├── Nomadland (2021) [imdbid=tt9770150]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── Nomadland-320-10.bif
@@ -6001,13 +6001,13 @@
 │   ├── Pegasus Hunter.nfo
 │   └── poster.jpg
 ├── Perfetti sconosciuti (2016) [imdbid=tt4901306]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── Perfetti sconosciuti.mkv
 │   ├── Perfetti sconosciuti.nfo
 │   └── poster.jpg
 ├── Perfume: The Story of a Murderer (2006) [imdbid=tt0396171]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── Perfume: The Story of a Murderer-320-10.bif
 │   ├── Perfume: The Story of a Murderer.mkv
@@ -6029,7 +6029,7 @@
 │   ├── Phone Booth.nfo
 │   └── poster.jpg
 ├── Pi (1998) [imdbid=tt0138704]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── Pi.ChsEngA.default.ass
@@ -6044,21 +6044,21 @@
 │   ├── Pieles.nfo
 │   └── poster.jpg
 ├── Pig (2021) [imdbid=tt11003218]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── Pig.mkv
 │   ├── Pig.nfo
 │   ├── Pig.zh-cn.srt
 │   └── poster.jpg
 ├── Portrait de la jeune fille en feu (2019) [imdbid=tt8613070]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── Portrait de la jeune fille en feu.chs&eng.default.ass
 │   ├── Portrait de la jeune fille en feu.mkv
 │   ├── Portrait de la jeune fille en feu.nfo
 │   └── poster.jpg
 ├── Primal Fear (1996) [imdbid=tt0117381]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── Primal Fear-320-10.bif
 │   ├── Primal Fear-fanart.jpg
 │   ├── Primal Fear-landscape.jpg
@@ -6066,7 +6066,7 @@
 │   ├── Primal Fear-poster.jpg
 │   └── Primal Fear.rmvb
 ├── Pulp Fiction (1994) [imdbid=tt0110912]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -6080,14 +6080,14 @@
 │   ├── Quarantine Girl.mkv
 │   └── Quarantine Girl.nfo
 ├── Quills (2000) [imdbid=tt0180073]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── Quills-320-10.bif
 │   ├── Quills-backdrop.jpg
 │   ├── Quills.mkv
 │   ├── Quills.nfo
 │   └── Quills-poster.jpg
 ├── Ratatouille (2007) [imdbid=tt0382932]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── poster.jpg
 │   ├── Ratatouille-320-10.bif
@@ -6108,28 +6108,28 @@
 │   ├── Reservoir Dogs.nfo
 │   └── Reservoir Dogs-poster.jpg
 ├── Ride with the Devil (1999) [imdbid=tt0134154]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── cover.jpg
 │   ├── fanart.jpg
 │   ├── Ride with the Devil.mkv
 │   ├── Ride with the Devil.nfo
 │   └── Ride with the Devil.zh-cn.srt
 ├── Room (2015) [imdbid=tt3170832]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
 │   ├── Room.nfo
 │   └── Room.rmvb
 ├── Ruben Brandt, a gyűjtő (2018) [imdbid=tt6241872]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── poster.jpg
 │   ├── Ruben Brandt, a gyűjtő-320-10.bif
 │   ├── Ruben Brandt, a gyűjtő.mkv
 │   └── Ruben Brandt, a gyűjtő.nfo
 ├── Salò o le 120 giornate di Sodoma (1975) [imdbid=tt0073650]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -6137,7 +6137,7 @@
 │   ├── Salò o le 120 giornate di Sodoma.nfo
 │   └── Salò o le 120 giornate di Sodoma.zh-cn.srt
 ├── Saving Private Ryan (1998) [imdbid=tt0120815]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -6796,7 +6796,7 @@
 │   │   │   └── id.bdmv
 │   │   ├── bu.discroot.crt
 │   │   └── id.bdmv
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -6814,20 +6814,20 @@
 │   ├── Searching.nfo
 │   └── Searching-poster.jpg
 ├── Sense and Sensibility (1995) [imdbid=tt0114388]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── cover.jpg
 │   ├── fanart.jpg
 │   ├── Sense and Sensibility.mkv
 │   └── Sense and Sensibility.nfo
 ├── Shame (2011) [imdbid=tt1723811]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── Shame-320-10.bif
 │   ├── Shame-fanart.jpg
 │   ├── Shame.mp4
 │   ├── Shame.nfo
 │   └── Shame-poster.jpg
 ├── Shazam! (2019) [imdbid=tt0448115]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── Shazam!-320-10.bif
 │   ├── Shazam!-fanart.jpg
 │   ├── Shazam!-landscape.jpg
@@ -6850,7 +6850,7 @@
 │   ├── Snatch..nfo
 │   └── Snatch.-poster.jpg
 ├── Source Code (2011) [imdbid=tt0945513]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -6944,7 +6944,7 @@
 │   ├── poster.jpg
 │   └── Spencer.nfo
 ├── Spider-Man: Into the Spider-Verse (2018) [imdbid=tt4633694]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -6952,7 +6952,7 @@
 │   ├── Spider-Man: Into the Spider-Verse.mp4
 │   └── Spider-Man: Into the Spider-Verse.nfo
 ├── Taking Woodstock (2009) [imdbid=tt1127896]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── cover.jpg
 │   ├── fanart.jpg
 │   ├── landscape.jpg
@@ -6969,7 +6969,7 @@
 │   ├── Taxi Driver-poster.jpg
 │   └── Taxi Driver.zh-cn.srt
 ├── Thank You for Smoking (2006) [imdbid=tt0427944]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -6977,7 +6977,7 @@
 │   ├── Thank You for Smoking.mkv
 │   └── Thank You for Smoking.nfo
 ├── The Avengers (2012) [imdbid=tt0848228]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -7024,7 +7024,7 @@
 │   ├── The Fate of the Furious.nfo
 │   └── The Fate of the Furious-poster.jpg
 ├── The Father (2020) [imdbid=tt10272386]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -7032,7 +7032,7 @@
 │   ├── The Father.mkv
 │   └── The Father.nfo
 ├── The Favourite (2018) [imdbid=tt5083738]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -7057,7 +7057,7 @@
 │   ├── The Game.mkv
 │   └── The Game.nfo
 ├── The Gentlemen (2019) [imdbid=tt8367814]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── poster.jpg
 │   ├── The Gentlemen-320-10.bif
@@ -7097,7 +7097,7 @@
 │   ├── The Greatest Showmann.nfo
 │   └── The Greatest Showmann-poster.jpg
 ├── The Green Mile (1999) [imdbid=tt0120689]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── landscape.jpg
 │   ├── The Green Mile-320-10.bif
 │   ├── The Green Mile-fanart.jpg
@@ -7105,7 +7105,7 @@
 │   ├── The Green Mile.nfo
 │   └── The Green Mile-poster.jpg
 ├── The Hangover (2009) [imdbid=tt1119646]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -7128,7 +7128,7 @@
 │   ├── The Hangover Part III.nfo
 │   └── The Hangover Part III-poster.jpg
 ├── The Hateful Eight (2015) [imdbid=tt3460252]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -7136,14 +7136,14 @@
 │   ├── The Hateful Eight.mp4
 │   └── The Hateful Eight.nfo
 ├── The House That Jack Built (2018) [imdbid=tt4003440]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── poster.jpg
 │   ├── The House That Jack Built-320-10.bif
 │   ├── The House That Jack Built.mp4
 │   └── The House That Jack Built.nfo
 ├── The Hunt (2020) [imdbid=tt8244784]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -7151,14 +7151,14 @@
 │   ├── The Hunt.mp4
 │   └── The Hunt.nfo
 ├── The Ice Storm (1997) [imdbid=tt0119349]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── cover.jpg
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── The Ice Storm.mkv
 │   └── The Ice Storm.nfo
 ├── The Incredibles (2004) [imdbid=tt0317705]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── poster.jpg
 │   ├── The Incredibles-320-10.bif
@@ -7176,7 +7176,7 @@
 │   ├── The Insanity of God.nfo
 │   └── The Insanity of God-poster.jpg
 ├── The Last Emperor (1987) [imdbid=tt0093389]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -7185,7 +7185,7 @@
 │   ├── The Last Emperor.mkv
 │   └── The Last Emperor.nfo
 ├── The Life of David Gale (2003) [imdbid=tt0289992]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -7193,7 +7193,7 @@
 │   ├── The Life of David Gale.mkv
 │   └── The Life of David Gale.nfo
 ├── The Lighthouse (2019) [imdbid=tt7984734]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -7253,7 +7253,7 @@
 │   ├── The Outsider-poster.jpg
 │   └── The Outsider.sv.srt
 ├── The Post (2017) [imdbid=tt6294822]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── The Post-320-10.bif
 │   ├── The Post-fanart.jpg
 │   ├── The Post-landscape.jpg
@@ -7277,7 +7277,7 @@
 │   ├── The Shape of Water.nfo
 │   └── The Shape of Water-poster.jpg
 ├── The Shawshank Redemption (1994) [imdbid=tt0111161]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -7405,7 +7405,7 @@
 │   │   │   ├── app.discroot.crt
 │   │   │   └── id.bdmv
 │   │   └── id.bdmv
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── disc.inf
 │   ├── fanart.jpg
 │   ├── landscape.jpg
@@ -7429,7 +7429,7 @@
 │   ├── The Skeleton Key.mkv
 │   └── The Skeleton Key.nfo
 ├── The Sorcerer's Apprentice (2010) [imdbid=tt0963966]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── The Sorcerer's Apprentice.mkv
 │   ├── The Sorcerer's Apprentice.nfo
@@ -7449,7 +7449,7 @@
 │   ├── The Talented Mr. Ripley.nfo
 │   └── The Talented Mr. Ripley-poster.jpg
 ├── The Town (2010) [imdbid=tt0840361]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -7464,7 +7464,7 @@
 │   ├── The Truman Show.mkv.jpg
 │   └── The Truman Show.nfo
 ├── The Upside (2019) [imdbid=tt1987680]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -7472,7 +7472,7 @@
 │   ├── The Upside.mkv
 │   └── The Upside.nfo
 ├── The Wizard of Lies (2017) [imdbid=tt1933667]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -7486,7 +7486,7 @@
 │   ├── The World to Come.mkv
 │   └── The World to Come.nfo
 ├── They Shall Not Grow Old (2018) [imdbid=tt7905466]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -7494,7 +7494,7 @@
 │   ├── They Shall Not Grow Old.mkv
 │   └── They Shall Not Grow Old.nfo
 ├── Three Billboards Outside Ebbing, Missouri (2017) [imdbid=tt5027774]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── Three Billboards Outside Ebbing, Missouri-320-10.bif
 │   ├── Three Billboards Outside Ebbing, Missouri-fanart.jpg
 │   ├── Three Billboards Outside Ebbing, Missouri-landscape.jpg
@@ -7502,7 +7502,7 @@
 │   ├── Three Billboards Outside Ebbing, Missouri.nfo
 │   └── Three Billboards Outside Ebbing, Missouri-poster.jpg
 ├── Tickled (2016) [imdbid=tt5278506]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── poster.jpg
 │   ├── Tickled-320-10.bif
@@ -7515,35 +7515,35 @@
 │   ├── Titane.mkv
 │   └── Titane.nfo
 ├── Titanic (1997) [imdbid=tt0120338]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── poster.jpg
 │   ├── Titanic.chs&eng.srt
 │   ├── Titanic.mkv
 │   └── Titanic.nfo
 ├── Trois couleurs : Blanc (1994) [imdbid=tt0111507]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── poster.jpg
 │   ├── Trois couleurs : Blanc.chs.default.ass
 │   ├── Trois couleurs : Blanc.mkv
 │   └── Trois couleurs : Blanc.nfo
 ├── Trois couleurs : Bleu (1993) [imdbid=tt0108394]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── poster.jpg
 │   ├── Trois couleurs : Bleu.ChsFreA.ass
 │   ├── Trois couleurs : Bleu.mkv
 │   └── Trois couleurs : Bleu.nfo
 ├── Trois couleurs : Rouge (1994) [imdbid=tt0111495]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── poster.jpg
 │   ├── Trois couleurs : Rouge.chs.default.srt
 │   ├── Trois couleurs : Rouge.mkv
 │   └── Trois couleurs : Rouge.nfo
 ├── Upgrade (2018) [imdbid=tt6499752]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -7551,7 +7551,7 @@
 │   ├── Upgrade.mkv
 │   └── Upgrade.nfo
 ├── Us (2019) [imdbid=tt6857112]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── poster.jpg
 │   ├── Us-320-10.bif
@@ -7773,7 +7773,7 @@
 │   │   ├── online.crl
 │   │   ├── online.crt
 │   │   └── online.sig
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -7786,7 +7786,7 @@
 │   ├── Werckmeister harmóniák.mkv
 │   └── Werckmeister harmóniák.nfo
 ├── Wind River (2017) [imdbid=tt5362988]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -7805,7 +7805,7 @@
 │   ├── Wrath of Man.nfo
 │   └── Wrath of Man-poster.jpg
 ├── Zack Snyder's Justice League (2021) [imdbid=tt12361974]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
@@ -7818,7 +7818,7 @@
 │   ├── شیطان وجود ندارد.nfo
 │   └── شیطان وجود ندارد-poster.jpg
 ├── अंधाधुन (2018) [imdbid=tt8108198]
-│   ├── clearlogo .png
+│   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── poster.jpg
 │   ├── अंधाधुन-320-10.bif
