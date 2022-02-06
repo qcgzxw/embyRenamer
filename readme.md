@@ -6,6 +6,15 @@
 该程序不具备撤销能力，如需使用，请自行备份以免造成文件丢失。
 
 ### 电影目录结构
+默认采用emby官方推荐的格式 **Name (Year) [tmdbid=xxxx]**
+```
+└── Movie
+    └── Name (Year) [tmdbid=xxxx]
+        ├── Name.mkv
+        ├── Name.nfo
+        ├── poster.jpg
+        └── fanart.jpg
+```
 <details><summary>before</summary>
 
 ```
