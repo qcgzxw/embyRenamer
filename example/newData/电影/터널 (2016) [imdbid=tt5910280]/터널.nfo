@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[曾凭借《走到底》入围戛纳国际电影节的韩国导演金成勋联手《恐怖直播》主演河正宇，打造了又一出直面韩国社会黑暗面的重拳。河正宇饰演的男主角李正洙，被困在了坍塌的隧道内，为了生存下去而努力。裴斗娜饰演焦急却无力的妻子，吴达庶饰演想尽一切办法的救援队长。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-06-01 01:51:27</dateadded>
+  <title>隧道</title>
+  <originaltitle>터널</originaltitle>
+  <actor>
+    <name>Ha Jung-woo</name>
+    <role>Lee Jung-Soo</role>
+    <type>Actor</type>
+    <tmdbid>75913</tmdbid>
+    <imdbid>nm1978402</imdbid>
+  </actor>
+  <actor>
+    <name>Bae Doo-na</name>
+    <role>Se-Hyun</role>
+    <type>Actor</type>
+    <tmdbid>21688</tmdbid>
+  </actor>
+  <actor>
+    <name>Oh Dal-su</name>
+    <role>Dae-Kyung</role>
+    <type>Actor</type>
+    <tmdbid>77188</tmdbid>
+    <imdbid>nm1367681</imdbid>
+  </actor>
+  <actor>
+    <name>Shin Jung-geun</name>
+    <role>Captain Kang</role>
+    <type>Actor</type>
+    <tmdbid>578838</tmdbid>
+    <imdbid>nm3083982</imdbid>
+  </actor>
+  <actor>
+    <name>Nam Ji-hyun</name>
+    <role>Mi-Na</role>
+    <type>Actor</type>
+    <tmdbid>939137</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeong Seok-yong</name>
+    <role>Chief Choi</role>
+    <type>Actor</type>
+    <tmdbid>17127</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Han-seo</name>
+    <role>Soo-Jin</role>
+    <type>Actor</type>
+    <tmdbid>2159391</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Hae-sook</name>
+    <role>Minister</role>
+    <type>Actor</type>
+    <tmdbid>93252</tmdbid>
+    <imdbid>nm3482070</imdbid>
+  </actor>
+  <actor>
+    <name>Yoo Seung-mok</name>
+    <role>Reporter Jo</role>
+    <type>Actor</type>
+    <tmdbid>1128004</tmdbid>
+    <imdbid>nm2182458</imdbid>
+  </actor>
+  <actor>
+    <name>Park Hyuk-kwon</name>
+    <role>Government official (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>587676</tmdbid>
+  </actor>
+  <actor>
+    <name>Cho Hyun-chul</name>
+    <role>Young rescuer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1750380</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Dong-jin</name>
+    <role>Radio DJ (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2145396</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Cheol-min</name>
+    <role>Driller captain (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1299283</tmdbid>
+    <imdbid>nm2713055</imdbid>
+  </actor>
+  <actor>
+    <name>Han Soo-hyun</name>
+    <role>Drone technician (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1313733</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Seung-hoon</name>
+    <role>Public hearing moderator (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1309296</tmdbid>
+  </actor>
+  <actor>
+    <name>Ye Soo-jung</name>
+    <role>Old mother (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1351055</tmdbid>
+  </actor>
+  <actor>
+    <name>Jin Yong-uk</name>
+    <role>Construction worker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1162596</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Dong-yong</name>
+    <role>Construction worker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2159392</tmdbid>
+  </actor>
+  <actor>
+    <name>Ju Seok-tae</name>
+    <role>employee of Korea Expressway Corporation (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2159393</tmdbid>
+    <imdbid>nm3754545</imdbid>
+  </actor>
+  <actor>
+    <name>Ahn Se-ho</name>
+    <role>Driller (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2098630</tmdbid>
+  </actor>
+  <actor>
+    <name>Seo Hyun-woo</name>
+    <role>SNC reporter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1591370</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Sang-hee</name>
+    <role>YTN reporter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1374543</tmdbid>
+    <imdbid>nm5471670</imdbid>
+  </actor>
+  <actor>
+    <name>Kang Shin-chul</name>
+    <role>Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1326155</tmdbid>
+  </actor>
+  <actor>
+    <name>Jin Sun-kyu</name>
+    <role>Equipment manager (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1989290</tmdbid>
+    <imdbid>nm5887272</imdbid>
+  </actor>
+  <actor>
+    <name>Yeo Min-Gyu</name>
+    <role>Voice of 119 telephone operator, helicopter agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1309292</tmdbid>
+  </actor>
+  <actor>
+    <name>Chang-jik Lee</name>
+    <role>veteran workman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1101371</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Sung-kyu</name>
+    <role>Civic group 3 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2159394</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Jin-woo</name>
+    <role>Government aide (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1631996</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Ooh-jin</name>
+    <role>SNC anchor</role>
+    <type>Actor</type>
+    <tmdbid>1607569</tmdbid>
+  </actor>
+  <director tmdbid="1135240">Kim Sung-hoon</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GTsY-ol1ays</trailer>
+  <rating>6.9</rating>
+  <year>2016</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt5910280</imdbid>
+  <tmdbid>390497</tmdbid>
+  <premiered>2016-08-10</premiered>
+  <releasedate>2016-08-10</releasedate>
+  <runtime>126</runtime>
+  <country>South Korea</country>
+  <genre>剧情</genre>
+  <genre>动作</genre>
+  <genre>惊悚</genre>
+  <studio>Showbox</studio>
+  <studio>BA Entertainment</studio>
+  <uniqueid type="Tmdb">390497</uniqueid>
+  <uniqueid type="Imdb">tt5910280</uniqueid>
+  <id>tt5910280</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6730655</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>126</duration>
+        <durationinseconds>7583</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>135982</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

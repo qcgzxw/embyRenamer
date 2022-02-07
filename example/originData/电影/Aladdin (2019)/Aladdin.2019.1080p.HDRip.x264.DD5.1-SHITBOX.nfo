@@ -1,0 +1,408 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[在充满异域风情的古代阿拉伯王国，善良的穷小子阿拉丁（莫纳·马苏德 饰）和勇敢的茉莉公主（娜奥米·斯科特 饰）浪漫邂逅，在可以满足主人三个愿望的神灯精灵（威尔·史密斯 饰）的帮助下，两人踏上了一次寻找真爱和自我的魔幻冒险。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-08-14 13:52:29</dateadded>
+  <title>阿拉丁</title>
+  <originaltitle>Aladdin</originaltitle>
+  <actor>
+    <name>Mena Massoud</name>
+    <role>Aladdin</role>
+    <type>Actor</type>
+    <tmdbid>1515478</tmdbid>
+    <imdbid>nm4565815</imdbid>
+  </actor>
+  <actor>
+    <name>Naomi Scott</name>
+    <role>Jasmine</role>
+    <type>Actor</type>
+    <tmdbid>240724</tmdbid>
+    <imdbid>nm4305463</imdbid>
+  </actor>
+  <actor>
+    <name>Will Smith</name>
+    <role>Genie / Mariner</role>
+    <type>Actor</type>
+    <tmdbid>2888</tmdbid>
+    <imdbid>nm0000226</imdbid>
+  </actor>
+  <actor>
+    <name>Marwan Kenzari</name>
+    <role>Jafar</role>
+    <type>Actor</type>
+    <tmdbid>935235</tmdbid>
+    <imdbid>nm3092471</imdbid>
+  </actor>
+  <actor>
+    <name>Navid Negahban</name>
+    <role>The Sultan</role>
+    <type>Actor</type>
+    <tmdbid>103330</tmdbid>
+    <imdbid>nm1041023</imdbid>
+  </actor>
+  <actor>
+    <name>Nasim Pedrad</name>
+    <role>Dalia</role>
+    <type>Actor</type>
+    <tmdbid>476163</tmdbid>
+    <imdbid>nm1840659</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Magnussen</name>
+    <role>Prince Anders</role>
+    <type>Actor</type>
+    <tmdbid>141034</tmdbid>
+    <imdbid>nm2915105</imdbid>
+  </actor>
+  <actor>
+    <name>Numan Acar</name>
+    <role>Hakim</role>
+    <type>Actor</type>
+    <tmdbid>35434</tmdbid>
+    <imdbid>nm1485637</imdbid>
+  </actor>
+  <actor>
+    <name>Nina Wadia</name>
+    <role>Zulla</role>
+    <type>Actor</type>
+    <tmdbid>150469</tmdbid>
+    <imdbid>nm0905564</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Tudyk</name>
+    <role>Iago (voice)</role>
+    <type>Actor</type>
+    <tmdbid>21088</tmdbid>
+    <imdbid>nm0876138</imdbid>
+  </actor>
+  <actor>
+    <name>Frank Welker</name>
+    <role>Abu / Rajah / Cave of Wonders (voice)</role>
+    <type>Actor</type>
+    <tmdbid>15831</tmdbid>
+    <imdbid>nm0919798</imdbid>
+  </actor>
+  <actor>
+    <name>Taliyah Blair</name>
+    <role>Lian</role>
+    <type>Actor</type>
+    <tmdbid>2321764</tmdbid>
+    <imdbid>nm10382002</imdbid>
+  </actor>
+  <actor>
+    <name>Jordan A. Nash</name>
+    <role>Omar</role>
+    <type>Actor</type>
+    <tmdbid>1804409</tmdbid>
+  </actor>
+  <actor>
+    <name>Aubrey Lin</name>
+    <role>Omi</role>
+    <type>Actor</type>
+    <tmdbid>2321766</tmdbid>
+  </actor>
+  <actor>
+    <name>Amir Boutrous</name>
+    <role>Jamal</role>
+    <type>Actor</type>
+    <tmdbid>1771325</tmdbid>
+  </actor>
+  <actor>
+    <name>Omari Bernard</name>
+    <role>Guard #1</role>
+    <type>Actor</type>
+    <tmdbid>2382759</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathaniel Ellul</name>
+    <role>Guard #2</role>
+    <type>Actor</type>
+    <tmdbid>2382767</tmdbid>
+    <imdbid>nm9108970</imdbid>
+  </actor>
+  <actor>
+    <name>Sebastien Torkia</name>
+    <role>Guard #3</role>
+    <type>Actor</type>
+    <tmdbid>140575</tmdbid>
+    <imdbid>nm0868088</imdbid>
+  </actor>
+  <actor>
+    <name>Buckso Dhillon-Woolley</name>
+    <role>Matron</role>
+    <type>Actor</type>
+    <tmdbid>2321769</tmdbid>
+  </actor>
+  <actor>
+    <name>Ceara Batson</name>
+    <role>School Girl</role>
+    <type>Actor</type>
+    <tmdbid>2382771</tmdbid>
+  </actor>
+  <actor>
+    <name>Vinani Mwazanzale</name>
+    <role>School Girl</role>
+    <type>Actor</type>
+    <tmdbid>2382772</tmdbid>
+  </actor>
+  <actor>
+    <name>Demii Lee Walker</name>
+    <role>School Girl</role>
+    <type>Actor</type>
+    <tmdbid>2382773</tmdbid>
+  </actor>
+  <actor>
+    <name>Elena Zacharia</name>
+    <role>School Girl</role>
+    <type>Actor</type>
+    <tmdbid>2382774</tmdbid>
+  </actor>
+  <actor>
+    <name>Nazerene Williams</name>
+    <role>School Girl</role>
+    <type>Actor</type>
+    <tmdbid>2382776</tmdbid>
+  </actor>
+  <actor>
+    <name>Bessy Naidu</name>
+    <role>School Girl</role>
+    <type>Actor</type>
+    <tmdbid>2382777</tmdbid>
+  </actor>
+  <actor>
+    <name>Marisha Wallace</name>
+    <role>Busybody Woman</role>
+    <type>Actor</type>
+    <tmdbid>2382762</tmdbid>
+  </actor>
+  <actor>
+    <name>Maya Saroya</name>
+    <role>Beguiling Woman</role>
+    <type>Actor</type>
+    <tmdbid>2382763</tmdbid>
+  </actor>
+  <actor>
+    <name>Amer Chadha-Patel</name>
+    <role>Mounted Palace Guard</role>
+    <type>Actor</type>
+    <tmdbid>1616920</tmdbid>
+    <imdbid>nm0149447</imdbid>
+  </actor>
+  <actor>
+    <name>Omar Abidi</name>
+    <role>Chubby Aladdin</role>
+    <type>Actor</type>
+    <tmdbid>2321772</tmdbid>
+  </actor>
+  <actor>
+    <name>Stefan Kalipha</name>
+    <role>Imam</role>
+    <type>Actor</type>
+    <tmdbid>25079</tmdbid>
+    <imdbid>nm0435875</imdbid>
+  </actor>
+  <actor>
+    <name>Firas Waleed Al-Taybeh</name>
+    <role>Thief</role>
+    <type>Actor</type>
+    <tmdbid>2382766</tmdbid>
+  </actor>
+  <actor>
+    <name>Elif Knight</name>
+    <role>Mother</role>
+    <type>Actor</type>
+    <tmdbid>2382768</tmdbid>
+    <imdbid>nm1552725</imdbid>
+  </actor>
+  <actor>
+    <name>Saikat Ahamed</name>
+    <role>Jailer</role>
+    <type>Actor</type>
+    <tmdbid>1247966</tmdbid>
+    <imdbid>nm0013840</imdbid>
+  </actor>
+  <actor>
+    <name>Amed Hashimi</name>
+    <role>Prisoner #1</role>
+    <type>Actor</type>
+    <tmdbid>1265272</tmdbid>
+    <imdbid>nm4640846</imdbid>
+  </actor>
+  <actor>
+    <name>Stefan Capper</name>
+    <role>Prisoner #2</role>
+    <type>Actor</type>
+    <tmdbid>2382769</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamal Sims</name>
+    <role>Handsome Prince</role>
+    <type>Actor</type>
+    <tmdbid>29215</tmdbid>
+    <imdbid>nm1744801</imdbid>
+  </actor>
+  <actor>
+    <name>Robby Haynes</name>
+    <role>Razoul Chief City Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>578697</tmdbid>
+    <imdbid>nm3346556</imdbid>
+  </actor>
+  <actor>
+    <name>Bern Collaço</name>
+    <role>Palace Guard</role>
+    <type>Actor</type>
+    <tmdbid>1502439</tmdbid>
+    <imdbid>nm0171625</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Herne</name>
+    <role>Mediterranean Townsfolk / Wedding Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2063504</tmdbid>
+    <imdbid>nm9811545</imdbid>
+  </actor>
+  <actor>
+    <name>Hiten Patel</name>
+    <role>Haatim City Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1973190</tmdbid>
+    <imdbid>nm9316536</imdbid>
+  </actor>
+  <actor>
+    <name>Joey Ansah</name>
+    <role>Jafar's Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>29406</tmdbid>
+    <imdbid>nm1438275</imdbid>
+  </actor>
+  <director tmdbid="956" imdbid="nm0005363">Guy Ritchie</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=foyufD52aog</trailer>
+  <rating>6.9</rating>
+  <year>2019</year>
+  <mpaa>PG</mpaa>
+  <imdbid>tt6139732</imdbid>
+  <tmdbid>420817</tmdbid>
+  <premiered>2019-05-22</premiered>
+  <releasedate>2019-05-22</releasedate>
+  <criticrating>57</criticrating>
+  <runtime>128</runtime>
+  <country>United States of America</country>
+  <genre>冒险</genre>
+  <genre>奇幻</genre>
+  <genre>爱情</genre>
+  <genre>家庭</genre>
+  <studio>Walt Disney Pictures</studio>
+  <studio>Lin Pictures</studio>
+  <studio>Rideback</studio>
+  <studio>Marc Platt Productions</studio>
+  <set tmdbcolid="748401">
+    <name>阿拉丁（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">420817</uniqueid>
+  <uniqueid type="Imdb">tt6139732</uniqueid>
+  <id>tt6139732</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6342679</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>127</duration>
+        <durationinseconds>7678</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[斯特吉斯博士精神崩溃后，玛丽担心谢尔顿也会走上类似的道路。同时，乔治发现他有销售的天分。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-11 23:30:14</dateadded>
+  <title>古怪的书呆子和德州雪花玻璃球</title>
+  <actor>
+    <name>Iain Armitage</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1684536</tmdbid>
+    <imdbid>nm8071137</imdbid>
+  </actor>
+  <actor>
+    <name>Zoe Perry</name>
+    <role>Mary Cooper</role>
+    <type>Actor</type>
+    <tmdbid>133450</tmdbid>
+    <imdbid>nm1409365</imdbid>
+  </actor>
+  <actor>
+    <name>Lance Barber</name>
+    <role>George Cooper Sr.</role>
+    <type>Actor</type>
+    <tmdbid>1212111</tmdbid>
+    <imdbid>nm1115741</imdbid>
+  </actor>
+  <actor>
+    <name>Montana Jordan</name>
+    <role>Georgie Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1817307</tmdbid>
+    <imdbid>nm7718664</imdbid>
+  </actor>
+  <actor>
+    <name>Raegan Revord</name>
+    <role>Missy Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1575317</tmdbid>
+    <imdbid>nm6862942</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Potts</name>
+    <role>Connie Tucker</role>
+    <type>Actor</type>
+    <tmdbid>8873</tmdbid>
+    <imdbid>nm0001633</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Hobby</name>
+    <role>Jeff Difford</role>
+    <type>Actor</type>
+    <tmdbid>1536526</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Carlease Burke</name>
+    <role>Mrs. Ebner</role>
+    <type>GuestStar</type>
+    <tmdbid>149486</tmdbid>
+    <imdbid>nm0121620</imdbid>
+  </actor>
+  <actor>
+    <name>Jayne Taini</name>
+    <role>Phyllis</role>
+    <type>GuestStar</type>
+    <tmdbid>1695658</tmdbid>
+    <imdbid>nm0846834</imdbid>
+  </actor>
+  <actor>
+    <name>Dennis Cockrum</name>
+    <role>Mr. Stover</role>
+    <type>GuestStar</type>
+    <tmdbid>155825</tmdbid>
+    <imdbid>nm0168371</imdbid>
+  </actor>
+  <actor>
+    <name>Duane R. Shepard Sr.</name>
+    <role>Mr. Bustifer</role>
+    <type>GuestStar</type>
+    <tmdbid>1356753</tmdbid>
+    <imdbid>nm0791591</imdbid>
+  </actor>
+  <actor>
+    <name>Carol Mansell</name>
+    <role>Mrs. Krawcynski</role>
+    <type>GuestStar</type>
+    <tmdbid>172271</tmdbid>
+  </actor>
+  <actor>
+    <name>Chelsea Rae Bernier</name>
+    <role>Lynette</role>
+    <type>GuestStar</type>
+    <tmdbid>995469</tmdbid>
+    <imdbid>nm4109208</imdbid>
+  </actor>
+  <actor>
+    <name>Karen Constantine</name>
+    <role>Lorraine</role>
+    <type>GuestStar</type>
+    <tmdbid>2429631</tmdbid>
+    <imdbid>nm0176067</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Howard</name>
+    <role>Edwin</role>
+    <type>GuestStar</type>
+    <tmdbid>82581</tmdbid>
+    <imdbid>nm0397394</imdbid>
+  </actor>
+  <actor>
+    <name>John Hartman</name>
+    <role>Dr. Goetsch</role>
+    <type>GuestStar</type>
+    <tmdbid>2174626</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Baker</name>
+    <role>Sheryl Hutchins</role>
+    <type>GuestStar</type>
+    <tmdbid>461542</tmdbid>
+    <imdbid>nm1807222</imdbid>
+  </actor>
+  <actor>
+    <name>Doc Farrow</name>
+    <role>Wayne Wilkins</role>
+    <type>GuestStar</type>
+    <tmdbid>2050369</tmdbid>
+    <imdbid>nm4402680</imdbid>
+  </actor>
+  <director>Jaffar Mahmood</director>
+  <rating>6.7</rating>
+  <year>2019</year>
+  <imdbid>tt9832344</imdbid>
+  <tvdbid>7234495</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <uniqueid type="Imdb">tt9832344</uniqueid>
+  <uniqueid type="Tvdb">7234495</uniqueid>
+  <episode>1</episode>
+  <season>3</season>
+  <aired>2019-09-26</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>17839651</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1170</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

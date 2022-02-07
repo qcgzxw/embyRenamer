@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[在經濟蕭條的大背景下，一個工人階級、熱鬧非凡的家庭日常生活夾雜著愛情，冒險，欺詐，溫情等等有血有淚的故事，為我們展現了這個非凡的家庭。]]></plot>
+  <outline><![CDATA[在經濟蕭條的大背景下，一個工人階級、熱鬧非凡的家庭日常生活夾雜著愛情，冒險，欺詐，溫情等等有血有淚的故事，為我們展現了這個非凡的家庭。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-15 03:31:32</dateadded>
+  <title>无耻之徒（US）</title>
+  <originaltitle>Shameless</originaltitle>
+  <trailer>http://www.youtube.com/watch?v=CHstRRD_8LE</trailer>
+  <trailer>http://www.youtube.com/watch?v=-7QA-uMAiLw</trailer>
+  <rating>8.6</rating>
+  <year>2011</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt1586680</imdb_id>
+  <tmdbid>34307</tmdbid>
+  <premiered>2011-01-09</premiered>
+  <releasedate>2011-01-09</releasedate>
+  <criticrating>38</criticrating>
+  <runtime>55</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <studio>Showtime</studio>
+  <zap2itid>SH01347868</zap2itid>
+  <tvrageid>25117</tvrageid>
+  <tvdbid>161511</tvdbid>
+  <actor>
+    <name>Elise Eberle</name>
+    <role>Sandy Milkovich</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Phillip 'Lip' Gallagher</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Noel Fisher</name>
+    <role>Mickey Milkovich</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin 'Kev' Ball</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Christian Isaiah</name>
+    <role>Liam Gallagher</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kate Miner</name>
+    <role>Tami Tamietti</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Isidora Goreshter</name>
+    <role>Svetlana</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Justin Chatwin</name>
+    <role>Steve/Jimmy Lishman</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Joan Cusack</name>
+    <role>Sheila Jackson</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Laura Wiggins</name>
+    <role>Karen Jackson</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Emily Bergl</name>
+    <role>Sammi</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Dermot Mulroney</name>
+    <role>Sean Pierce</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Emma Greenwell</name>
+    <role>Mandy Milkovich</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Zach McGowan</name>
+    <role>Jody Silverman</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Nichole Sakura</name>
+    <role>Amanda</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Steve Kazee</name>
+    <role>Gus Pfender</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ruby Modine</name>
+    <role>Sierra</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Chloe Webb</name>
+    <role>Monica Gallagher</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Jessica Szohr</name>
+    <role>Nessa</role>
+    <type>Actor</type>
+  </actor>
+  <id>161511</id>
+  <episodeguide>
+    <url cache="161511.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/161511/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

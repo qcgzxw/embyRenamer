@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Jimmy finds comfort in familiarity; Kim receives a life-changing proposal; when he is threatened, Mike finds himself pushed to the limit.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-07-28 16:40:11</dateadded>
+  <title>巴利嗨</title>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Jimmy McGill</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Rhea Seehorn</name>
+    <role>Kim Wexler</role>
+    <type>Actor</type>
+    <tmdbid>62765</tmdbid>
+    <imdbid>nm0781533</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Fabian</name>
+    <role>Howard Hamlin</role>
+    <type>Actor</type>
+    <tmdbid>58791</tmdbid>
+    <imdbid>nm0264579</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Mando</name>
+    <role>Nacho Varga</role>
+    <type>Actor</type>
+    <tmdbid>829372</tmdbid>
+    <imdbid>nm3103126</imdbid>
+  </actor>
+  <actor>
+    <name>Michael McKean</name>
+    <role>Chuck McGill</role>
+    <type>Actor</type>
+    <tmdbid>21731</tmdbid>
+  </actor>
+  <actor>
+    <name>Eileen Fogarty</name>
+    <role>Mrs. Nguyen</role>
+    <type>GuestStar</type>
+    <tmdbid>1411168</tmdbid>
+    <imdbid>nm1658328</imdbid>
+  </actor>
+  <actor>
+    <name>Luis Moncada</name>
+    <role>Marco</role>
+    <type>GuestStar</type>
+    <tmdbid>945491</tmdbid>
+    <imdbid>nm1616991</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Moncada</name>
+    <role>Leonel</role>
+    <type>GuestStar</type>
+    <tmdbid>1371007</tmdbid>
+    <imdbid>nm3718379</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Margolis</name>
+    <role>Hector Salamanca</role>
+    <type>GuestStar</type>
+    <tmdbid>1173</tmdbid>
+    <imdbid>nm0546797</imdbid>
+  </actor>
+  <director>Michael Slovis</director>
+  <rating>7.882</rating>
+  <year>2016</year>
+  <imdbid>tt4462680</imdbid>
+  <tvdbid>5538565</tvdbid>
+  <runtime>46</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <tvrageid>1065899974</tvrageid>
+  <uniqueid type="Imdb">tt4462680</uniqueid>
+  <uniqueid type="Tvdb">5538565</uniqueid>
+  <uniqueid type="TvRage">1065899974</uniqueid>
+  <episode>6</episode>
+  <season>2</season>
+  <aired>2016-03-21</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>23918102</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>46</duration>
+        <durationinseconds>2783</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-11-04 06:26:32</dateadded>
+  <title>第 3 集</title>
+  <actor>
+    <name>Phoebe Waller-Bridge</name>
+    <role>Fleabag</role>
+    <type>Actor</type>
+    <tmdbid>1023483</tmdbid>
+    <imdbid>nm3564817</imdbid>
+  </actor>
+  <actor>
+    <name>Sian Clifford</name>
+    <role>Claire</role>
+    <type>Actor</type>
+    <tmdbid>1648728</tmdbid>
+    <imdbid>nm5427486</imdbid>
+  </actor>
+  <actor>
+    <name>Olivia Colman</name>
+    <role>Godmother</role>
+    <type>Actor</type>
+    <tmdbid>39187</tmdbid>
+    <imdbid>nm1469236</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Paterson</name>
+    <role>Dad</role>
+    <type>Actor</type>
+    <tmdbid>104795</tmdbid>
+    <imdbid>nm0665473</imdbid>
+  </actor>
+  <actor>
+    <name>Jenny Rainsford</name>
+    <role>Boo</role>
+    <type>Actor</type>
+    <tmdbid>1648727</tmdbid>
+    <imdbid>nm5082535</imdbid>
+  </actor>
+  <actor>
+    <name>Brett Gelman</name>
+    <role>Martin</role>
+    <type>Actor</type>
+    <tmdbid>224197</tmdbid>
+    <imdbid>nm1443368</imdbid>
+  </actor>
+  <actor>
+    <name>Hugh Skinner</name>
+    <role>Harry</role>
+    <type>Actor</type>
+    <tmdbid>1206337</tmdbid>
+    <imdbid>nm2369260</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Scott</name>
+    <role>The Priest</role>
+    <type>Actor</type>
+    <tmdbid>125660</tmdbid>
+    <imdbid>nm0778831</imdbid>
+  </actor>
+  <actor>
+    <name>Hugh Dennis</name>
+    <role>Bank Manager</role>
+    <type>Actor</type>
+    <tmdbid>151344</tmdbid>
+    <imdbid>nm0219465</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Demetriou</name>
+    <role>Bus Rodent</role>
+    <type>Actor</type>
+    <tmdbid>1470911</tmdbid>
+    <imdbid>nm5857152</imdbid>
+  </actor>
+  <director>Harry Bradbeer</director>
+  <rating>8.412</rating>
+  <year>2019</year>
+  <imdbid>tt9679522</imdbid>
+  <tvdbid>7052022</tvdbid>
+  <runtime>23</runtime>
+  <uniqueid type="Tvdb">7052022</uniqueid>
+  <uniqueid type="Imdb">tt9679522</uniqueid>
+  <episode>3</episode>
+  <season>2</season>
+  <aired>2019-03-18</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9813960</bitrate>
+        <width>1920</width>
+        <height>808</height>
+        <aspect>240:101</aspect>
+        <aspectratio>240:101</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1362</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>True</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>DVDSUB</codec>
+        <micodec>DVDSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

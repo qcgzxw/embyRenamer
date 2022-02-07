@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　富豪刘轩的地产计划涉及填海工程，威胁靠海为生的居民。因为人类对大海及生态的破坏，美人鱼只能被赶到了一艘破船里艰难生存，背负家族秘密的珊珊被派遣前往阻止填海计划。刘轩是一个靠自己努力才取得成就的人，虽然表面有钱但实则空虚寂寞的他和美人鱼珊珊在交手过程中互生情愫。刘轩最终因为爱上珊珊而停止填海工作，但珊珊却因意外受伤而消失于大海。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-04 14:16:34</dateadded>
+  <title>美人鱼</title>
+  <originaltitle>美人鱼</originaltitle>
+  <actor>
+    <name>Lin Yun</name>
+    <role>Mermaid Shan</role>
+    <type>Actor</type>
+    <tmdbid>1574909</tmdbid>
+    <imdbid>nm7467125</imdbid>
+  </actor>
+  <actor>
+    <name>Deng Chao</name>
+    <role>Liu Xuan</role>
+    <type>Actor</type>
+    <tmdbid>99689</tmdbid>
+    <imdbid>nm2874732</imdbid>
+  </actor>
+  <actor>
+    <name>Kitty Zhang</name>
+    <role>Ruolan</role>
+    <type>Actor</type>
+    <tmdbid>74947</tmdbid>
+    <imdbid>nm2514879</imdbid>
+  </actor>
+  <actor>
+    <name>Show Lo</name>
+    <role>Brother Eight</role>
+    <type>Actor</type>
+    <tmdbid>1245759</tmdbid>
+    <imdbid>nm3881333</imdbid>
+  </actor>
+  <actor>
+    <name>Tsui Hark</name>
+    <role>Uncle Rich</role>
+    <type>Actor</type>
+    <tmdbid>26760</tmdbid>
+    <imdbid>nm0007139</imdbid>
+  </actor>
+  <actor>
+    <name>Wen Zhang</name>
+    <role>Constable Mo</role>
+    <type>Actor</type>
+    <tmdbid>572084</tmdbid>
+    <imdbid>nm3491286</imdbid>
+  </actor>
+  <actor>
+    <name>Kris Wu</name>
+    <role>Long Jianfei</role>
+    <type>Actor</type>
+    <tmdbid>1390948</tmdbid>
+    <imdbid>nm6806246</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Sheung-Ching</name>
+    <role>Constable Shi</role>
+    <type>Actor</type>
+    <tmdbid>1173215</tmdbid>
+  </actor>
+  <actor>
+    <name>Lu Zhengyu</name>
+    <role>Mr Liao</role>
+    <type>Actor</type>
+    <tmdbid>1316499</tmdbid>
+    <imdbid>nm5533999</imdbid>
+  </actor>
+  <actor>
+    <name>Chiu Chi-Ling</name>
+    <role>Mermaid Long</role>
+    <type>Actor</type>
+    <tmdbid>1173216</tmdbid>
+    <imdbid>nm1787710</imdbid>
+  </actor>
+  <actor>
+    <name>Zhang Mei'e</name>
+    <role>Mermaid</role>
+    <type>Actor</type>
+    <tmdbid>1627290</tmdbid>
+    <imdbid>nm7914478</imdbid>
+  </actor>
+  <actor>
+    <name>Linah Matsuoka</name>
+    <role>George's assistant</role>
+    <type>Actor</type>
+    <tmdbid>1747015</tmdbid>
+  </actor>
+  <actor>
+    <name>Barbie Liu</name>
+    <role>Mermaid</role>
+    <type>Actor</type>
+    <tmdbid>1747016</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Zhenzhen</name>
+    <role>George's assistant</role>
+    <type>Actor</type>
+    <tmdbid>1747017</tmdbid>
+  </actor>
+  <actor>
+    <name>Bai Ke</name>
+    <role>Museum visitor</role>
+    <type>Actor</type>
+    <tmdbid>1627281</tmdbid>
+    <imdbid>nm7403141</imdbid>
+  </actor>
+  <actor>
+    <name>Kong Lian-Shun</name>
+    <role>Museum visitor</role>
+    <type>Actor</type>
+    <tmdbid>1627288</tmdbid>
+  </actor>
+  <actor>
+    <name>Tenky Tin Kai-Man</name>
+    <role>Museum visitor</role>
+    <type>Actor</type>
+    <tmdbid>1136808</tmdbid>
+    <imdbid>nm1214151</imdbid>
+  </actor>
+  <actor>
+    <name>Wilson Chin</name>
+    <role>Mermaid Fat</role>
+    <type>Actor</type>
+    <tmdbid>587490</tmdbid>
+    <imdbid>nm4577722</imdbid>
+  </actor>
+  <actor>
+    <name>Lam Tze-chung</name>
+    <role>Technician</role>
+    <type>Actor</type>
+    <tmdbid>545277</tmdbid>
+    <imdbid>nm1125531</imdbid>
+  </actor>
+  <actor>
+    <name>Zheng Ji-Feng</name>
+    <role>Cheng</role>
+    <type>Actor</type>
+    <tmdbid>1747018</tmdbid>
+  </actor>
+  <actor>
+    <name>Fan Shu-Zhen</name>
+    <role>Mermaid Shitai</role>
+    <type>Actor</type>
+    <tmdbid>1747019</tmdbid>
+  </actor>
+  <actor>
+    <name>Ivan Kotik</name>
+    <role>Dr George</role>
+    <type>Actor</type>
+    <tmdbid>1747020</tmdbid>
+    <imdbid>nm5666529</imdbid>
+  </actor>
+  <actor>
+    <name>Pierre Bourdaud</name>
+    <role>Auctioneer</role>
+    <type>Actor</type>
+    <tmdbid>1102422</tmdbid>
+    <imdbid>nm3968703</imdbid>
+  </actor>
+  <actor>
+    <name>Yeung Lun</name>
+    <role>Curator</role>
+    <type>Actor</type>
+    <tmdbid>1427528</tmdbid>
+  </actor>
+  <actor>
+    <name>Sun Jia Ling</name>
+    <role>Courier</role>
+    <type>Actor</type>
+    <tmdbid>1747021</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Ye-Qing</name>
+    <role>Ruo-Lan's assistant</role>
+    <type>Actor</type>
+    <tmdbid>1747022</tmdbid>
+  </actor>
+  <actor>
+    <name>Kabby Hui</name>
+    <role>Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1328204</tmdbid>
+    <imdbid>nm6301736</imdbid>
+  </actor>
+  <director tmdbid="57607" imdbid="nm0159507">Stephen Chow</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UvMk7Z0Sp7E</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6yJCJIZP9iw</trailer>
+  <rating>6.2</rating>
+  <year>2016</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt4701660</imdbid>
+  <tmdbid>381890</tmdbid>
+  <premiered>2016-02-08</premiered>
+  <releasedate>2016-02-08</releasedate>
+  <criticrating>95</criticrating>
+  <runtime>94</runtime>
+  <country>China</country>
+  <genre>喜剧</genre>
+  <genre>奇幻</genre>
+  <genre>爱情</genre>
+  <studio>China Film Group</studio>
+  <studio>Edko Films Ltd.</studio>
+  <uniqueid type="Imdb">tt4701660</uniqueid>
+  <uniqueid type="Tmdb">381890</uniqueid>
+  <id>tt4701660</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>9334148</bitrate>
+        <width>1920</width>
+        <height>1012</height>
+        <aspect>480:253</aspect>
+        <aspectratio>480:253</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>93</duration>
+        <durationinseconds>5625</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

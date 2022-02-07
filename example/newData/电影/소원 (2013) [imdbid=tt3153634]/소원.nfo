@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　她是一个美丽平凡的小女孩，和爸爸妈妈生活在位于街角的家中。家里经营着以她的名字素媛命名的杂货店，母亲作为老板娘日夜忙碌不得闲暇，父亲则在工厂干着繁重的工作。在那个飘雨的早上，素媛打着雨伞独自上学。在离学校近在咫尺的地方，她遭遇一个相貌猥琐、酒气冲天的大叔，由此开启了她的悲剧之旅。柔嫩的小花遭到暴风雨无情摧残，受伤的岂止枝枝叶叶，更是那迎着阳光无忧成长的心。无良媒体铺天盖地大肆渲染，作为受害者的素媛一家仿佛成了周身污秽的耻辱之人，被四周诧异好奇的目光所包围。妈妈悲痛欲绝，几近崩溃。爸爸全力保护女儿，但受伤的小天使却拒绝爸爸的靠近。问凶之路伴随着天使的治愈旅程，美丽的女孩可会再露灿烂笑容？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-09-11 03:32:02</dateadded>
+  <title>素媛</title>
+  <originaltitle>소원</originaltitle>
+  <actor>
+    <name>Sol Kyung-gu</name>
+    <role>Dong-Hoon</role>
+    <type>Actor</type>
+    <tmdbid>85008</tmdbid>
+    <imdbid>nm0812555</imdbid>
+  </actor>
+  <actor>
+    <name>Uhm Ji-won</name>
+    <role>Mi-Hee</role>
+    <type>Actor</type>
+    <tmdbid>1299243</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Re</name>
+    <role>So-Won</role>
+    <type>Actor</type>
+    <tmdbid>1299244</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Sang-ho</name>
+    <role>Gwang-Sik</role>
+    <type>Actor</type>
+    <tmdbid>123820</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Hae-sook</name>
+    <role>Psychiatrist Jung-Sook</role>
+    <type>Actor</type>
+    <tmdbid>93252</tmdbid>
+    <imdbid>nm3482070</imdbid>
+  </actor>
+  <actor>
+    <name>Jo Bok-rae</name>
+    <role>Cocomong (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1428091</tmdbid>
+    <imdbid>nm7109993</imdbid>
+  </actor>
+  <actor>
+    <name>Ra Mi-ran</name>
+    <role>Young-Suk's mother (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>980225</tmdbid>
+  </actor>
+  <actor>
+    <name>Kwon Tae-won</name>
+    <role>Manager (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>123818</tmdbid>
+    <imdbid>nm2135094</imdbid>
+  </actor>
+  <actor>
+    <name>Kang Shin-chul</name>
+    <role>Prosecutor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1326155</tmdbid>
+  </actor>
+  <actor>
+    <name>Seo Hyun-woo</name>
+    <role>Paramedic (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1591370</tmdbid>
+  </actor>
+  <director tmdbid="126809">Lee Joon-ik</director>
+  <rating>8.3</rating>
+  <year>2013</year>
+  <imdbid>tt3153634</imdbid>
+  <tmdbid>255709</tmdbid>
+  <premiered>2013-10-02</premiered>
+  <releasedate>2013-10-02</releasedate>
+  <criticrating>89</criticrating>
+  <runtime>123</runtime>
+  <country>South Korea</country>
+  <genre>剧情</genre>
+  <studio>Lotte Entertainment</studio>
+  <studio>Film Momentum</studio>
+  <studio>Michigan Venture Capital</studio>
+  <uniqueid type="Tmdb">255709</uniqueid>
+  <uniqueid type="Imdb">tt3153634</uniqueid>
+  <id>tt3153634</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1986936</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976042</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>123</duration>
+        <durationinseconds>7387</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

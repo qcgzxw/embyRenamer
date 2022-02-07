@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Walter 和 Jesse 现似乎已经没有什么阻碍了，最大的问题是 Walter 依然没法向妻子解释自己每天的去向。Jesse 的父母发现了 Jesse 藏在地下室的制毒设备，伤心愤怒之余将他扫地出门。Jesse 发现自己无处可去，而且没有朋友愿意留他过夜。他于是回到了当初的房车中，在此过夜。而 Skyler 也受够了 Walter 的闪烁其词的言行，她发誓要弄清 Walter 每天到底在干什么。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-20 18:08:32</dateadded>
+  <title>坠落（Down）</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Drew Waters</name>
+    <role>Paul Tyree</role>
+    <type>GuestStar</type>
+    <tmdbid>211742</tmdbid>
+    <imdbid>nm1988958</imdbid>
+  </actor>
+  <actor>
+    <name>Shauna McLean</name>
+    <role>Sara Tyree</role>
+    <type>GuestStar</type>
+    <tmdbid>207201</tmdbid>
+    <imdbid>nm1851920</imdbid>
+  </actor>
+  <actor>
+    <name>Argos MacCallum</name>
+    <role>Wino</role>
+    <type>GuestStar</type>
+    <tmdbid>569548</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Bofshever</name>
+    <role>Mr. Pinkman</role>
+    <type>GuestStar</type>
+    <tmdbid>95195</tmdbid>
+    <imdbid>nm0091480</imdbid>
+  </actor>
+  <actor>
+    <name>Dan Desmond</name>
+    <role>Mr. Gardiner</role>
+    <type>GuestStar</type>
+    <tmdbid>1217972</tmdbid>
+    <imdbid>nm0221430</imdbid>
+  </actor>
+  <actor>
+    <name>Caleb Landry Jones</name>
+    <role>Louis</role>
+    <type>GuestStar</type>
+    <tmdbid>572541</tmdbid>
+    <imdbid>nm2655177</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Kiesche</name>
+    <role>Clovis</role>
+    <type>GuestStar</type>
+    <tmdbid>76537</tmdbid>
+    <imdbid>nm0452622</imdbid>
+  </actor>
+  <actor>
+    <name>Tess Harper</name>
+    <role>Mrs. Pinkman</role>
+    <type>GuestStar</type>
+    <tmdbid>41249</tmdbid>
+    <imdbid>nm0002128</imdbid>
+  </actor>
+  <director>John Dahl</director>
+  <rating>7.784</rating>
+  <year>2009</year>
+  <imdbid>tt1232251</imdbid>
+  <tvdbid>438915</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <tvrageid>692036</tvrageid>
+  <uniqueid type="Imdb">tt1232251</uniqueid>
+  <uniqueid type="Tvdb">438915</uniqueid>
+  <uniqueid type="TvRage">692036</uniqueid>
+  <episode>4</episode>
+  <season>2</season>
+  <aired>2009-03-29</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9886135</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2844</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[家里乱成一团，瑞克、莫蒂和桑美于是前往末日过后的世界，用相当野蛮的方法解决几件私事。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 07:58:54</dateadded>
+  <title>末日之后</title>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Hale</name>
+    <role>Death Stalker Eli (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>25147</tmdbid>
+    <imdbid>nm0355024</imdbid>
+  </actor>
+  <actor>
+    <name>Joel McHale</name>
+    <role>Hemorrhage (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>74949</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Bailey</name>
+    <role>Eli's Girlfriend (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>75037</tmdbid>
+  </actor>
+  <actor>
+    <name>John DiMaggio</name>
+    <role>Death Stalker Leader / Knight (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>31531</tmdbid>
+    <imdbid>nm0224007</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Ridley</name>
+    <role>Slave Owner (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1365425</tmdbid>
+  </actor>
+  <director>Dominic Polcino</director>
+  <rating>8.2</rating>
+  <year>2017</year>
+  <imdbid>tt5218256</imdbid>
+  <tvdbid>6111227</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <uniqueid type="Tvdb">6111227</uniqueid>
+  <uniqueid type="Imdb">tt5218256</uniqueid>
+  <episode>2</episode>
+  <season>3</season>
+  <aired>2017-07-30</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>1847382</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1357</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[除了象甲学院之外，天水、雷霆、神风和炽火四所学院进行了重组并 更名为四元素学院。以风笑天为代表的四元素学院一行人这次出现在史莱克自然是有事而来。火舞再次见到唐三，决定和他较量一番，但唐三可没那么好对付，火舞、风笑天和火无双三人联手都不是唐三的对手...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-21 01:45:32</dateadded>
+  <title>第 8 部分（海神之光篇）：第 147 集「唐三一对三，风笑天仍不敌唐三」</title>
+  <actor>
+    <name>Shen Lei</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Yuzhu Cheng</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Xiaobing Wang</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kang Ni</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Leo Wu</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Qi Zhang</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Dian Tao</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ying Huang</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Zhao Qianjing</name>
+    <type>Actor</type>
+  </actor>
+  <rating>0</rating>
+  <year>2021</year>
+  <runtime>21</runtime>
+  <episode>147</episode>
+  <season>1</season>
+  <aired>2021-03-13</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6286864</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1289</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>93407</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

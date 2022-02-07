@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[影片讲述了泰国伊桑地区是一个被萨满继承的地方，看似附身在一位家庭成员身上的女神，并不像她最初看起来那样善良。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-19 19:48:16</dateadded>
+  <title>灵媒</title>
+  <originaltitle>ร่างทรง</originaltitle>
+  <actor>
+    <name>Narilya Gulmongkolpech</name>
+    <role>Mink</role>
+    <type>Actor</type>
+    <tmdbid>3131642</tmdbid>
+  </actor>
+  <actor>
+    <name>Sawanee Utoomma</name>
+    <role>Nim</role>
+    <type>Actor</type>
+    <tmdbid>2424471</tmdbid>
+  </actor>
+  <actor>
+    <name>Sirani Yankittikan</name>
+    <role>Noi</role>
+    <type>Actor</type>
+    <tmdbid>3131643</tmdbid>
+  </actor>
+  <actor>
+    <name>Yasaka Chaisorn</name>
+    <role>Manit</role>
+    <type>Actor</type>
+    <tmdbid>3131644</tmdbid>
+  </actor>
+  <actor>
+    <name>Boonsong Nakphoo</name>
+    <role>Santi</role>
+    <type>Actor</type>
+    <tmdbid>1272350</tmdbid>
+  </actor>
+  <actor>
+    <name>Arunee Wattana</name>
+    <role>Pang</role>
+    <type>Actor</type>
+    <tmdbid>3161926</tmdbid>
+  </actor>
+  <actor>
+    <name>Thanutphon Boonsang</name>
+    <role>Lisa</role>
+    <type>Actor</type>
+    <tmdbid>3161927</tmdbid>
+  </actor>
+  <actor>
+    <name>Akkaradech Rattanawong</name>
+    <role>Pong</role>
+    <type>Actor</type>
+    <tmdbid>3161929</tmdbid>
+  </actor>
+  <actor>
+    <name>Chatchawat Sanveang</name>
+    <role>Cameraman</role>
+    <type>Actor</type>
+    <tmdbid>3161931</tmdbid>
+  </actor>
+  <actor>
+    <name>Pakapol Srirongmuang</name>
+    <role>Producer</role>
+    <type>Producer</type>
+    <tmdbid>3161928</tmdbid>
+  </actor>
+  <director tmdbid="81251">Banjong Pisanthanakun</director>
+  <rating>7.2</rating>
+  <year>2021</year>
+  <imdbid>tt13446168</imdbid>
+  <tmdbid>745881</tmdbid>
+  <premiered>2021-07-14</premiered>
+  <releasedate>2021-07-14</releasedate>
+  <runtime>131</runtime>
+  <country>South Korea</country>
+  <country>Thailand</country>
+  <genre>恐怖</genre>
+  <genre>惊悚</genre>
+  <studio>GDH 559</studio>
+  <studio>Northern Cross</studio>
+  <studio>Jorkwang Films</studio>
+  <uniqueid type="Tmdb">745881</uniqueid>
+  <uniqueid type="Imdb">tt13446168</uniqueid>
+  <id>tt13446168</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>8192985</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>130</duration>
+        <durationinseconds>7836</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

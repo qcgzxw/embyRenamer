@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Trevor and Julia always want to make Christmas really special for their family but with money tight, it won't be easy. As each door of the advent calendar opens, everyone will have to do their bit to make Christmas happen.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-05-05 16:25:14</dateadded>
+  <title>爱的伟大冒险</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Olly Hudson-Croker</name>
+    <role>Connor</role>
+    <type>GuestStar</type>
+    <tmdbid>2559786</tmdbid>
+  </actor>
+  <actor>
+    <name>Debbie Rush</name>
+    <role>Julia</role>
+    <type>GuestStar</type>
+    <tmdbid>123508</tmdbid>
+    <imdbid>nm2382197</imdbid>
+  </actor>
+  <actor>
+    <name>Gaby French</name>
+    <role>Mia</role>
+    <type>GuestStar</type>
+    <tmdbid>2535720</tmdbid>
+    <imdbid>nm10525456</imdbid>
+  </actor>
+  <actor>
+    <name>Bobby Schofield</name>
+    <role>Patrick</role>
+    <type>GuestStar</type>
+    <tmdbid>1523242</tmdbid>
+    <imdbid>nm4435667</imdbid>
+  </actor>
+  <director>Guillem Morales</director>
+  <rating>5.5</rating>
+  <year>2020</year>
+  <imdbid>tt10948252</imdbid>
+  <tvdbid>7575162</tvdbid>
+  <runtime>29</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Horror</genre>
+  <uniqueid type="Imdb">tt10948252</uniqueid>
+  <uniqueid type="Tvdb">7575162</uniqueid>
+  <episode>3</episode>
+  <season>5</season>
+  <aired>2020-02-17</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9240907</bitrate>
+        <width>1920</width>
+        <height>960</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1748</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

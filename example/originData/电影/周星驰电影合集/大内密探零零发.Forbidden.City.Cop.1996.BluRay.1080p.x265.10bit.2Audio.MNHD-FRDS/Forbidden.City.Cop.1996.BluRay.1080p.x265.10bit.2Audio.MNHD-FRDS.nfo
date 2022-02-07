@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　零零恭、零零喜、零零发（周星驰 饰）、零零财是宫廷四大高手，专职保卫皇帝（张达明 饰）的安全。虽号称四大高手之一，零零发实际上只会搞些小发明完全不会武功，某次因为未完成皇帝交办的捉拿江湖四大怪杰的任务，他被开除出宫。回家后，零零发开了一家妇科诊所，时常会用一些小发明讨得老婆（刘嘉玲 饰）心花怒放，日子也算怡然自乐。 金国以“天外飞仙”尸体为由将皇帝从宫中骗出，并伺机杀死了紧跟皇帝的三大高手，关键时刻，零零发用他发明的“直升机”和“机关枪”救皇帝一命。不死心的敌手随后派来名妓琴操（李若彤 饰）引诱零零发，零零发与老婆将计就计演起双簧。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-05 03:45:39</dateadded>
+  <title>大内密探零零发</title>
+  <originaltitle>大內密探零零發</originaltitle>
+  <actor>
+    <name>Stephen Chow</name>
+    <role>Ling Ling Faat (Double 0 Fat)</role>
+    <type>Actor</type>
+    <tmdbid>57607</tmdbid>
+    <imdbid>nm0159507</imdbid>
+  </actor>
+  <actor>
+    <name>Carina Lau</name>
+    <role>Ling Kar Ting / Faat's wife</role>
+    <type>Actor</type>
+    <tmdbid>12672</tmdbid>
+    <imdbid>nm0490500</imdbid>
+  </actor>
+  <actor>
+    <name>Carman Lee</name>
+    <role>Gum Tso / Kam Cho</role>
+    <type>Actor</type>
+    <tmdbid>110845</tmdbid>
+    <imdbid>nm0496944</imdbid>
+  </actor>
+  <actor>
+    <name>Law Kar-Ying</name>
+    <role>Fat Yan</role>
+    <type>Actor</type>
+    <tmdbid>87944</tmdbid>
+    <imdbid>nm0492344</imdbid>
+  </actor>
+  <actor>
+    <name>Cheung Tat-Ming</name>
+    <role>Emperor</role>
+    <type>Actor</type>
+    <tmdbid>118350</tmdbid>
+    <imdbid>nm0156579</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Lik-Chi</name>
+    <role>Court Official</role>
+    <type>Actor</type>
+    <tmdbid>118355</tmdbid>
+    <imdbid>nm0497758</imdbid>
+  </actor>
+  <actor>
+    <name>Tats Lau</name>
+    <role>Forbidden City Cop</role>
+    <type>Actor</type>
+    <tmdbid>118352</tmdbid>
+    <imdbid>nm0490624</imdbid>
+  </actor>
+  <actor>
+    <name>Charlie Yuen Cheung-Yan</name>
+    <role>Evil mother</role>
+    <type>Actor</type>
+    <tmdbid>65975</tmdbid>
+    <imdbid>nm0950713</imdbid>
+  </actor>
+  <actor>
+    <name>Sunny Yuen Shun-Yi</name>
+    <role>Evil son</role>
+    <type>Actor</type>
+    <tmdbid>65976</tmdbid>
+    <imdbid>nm0950751</imdbid>
+  </actor>
+  <actor>
+    <name>Kingdom Yuen</name>
+    <role>Brothel procuress</role>
+    <type>Actor</type>
+    <tmdbid>94076</tmdbid>
+    <imdbid>nm0950738</imdbid>
+  </actor>
+  <actor>
+    <name>Poon Hang-Sang</name>
+    <role>Faat's father-in-law</role>
+    <type>Actor</type>
+    <tmdbid>29692</tmdbid>
+    <imdbid>nm0690940</imdbid>
+  </actor>
+  <actor>
+    <name>Mimi Chu</name>
+    <role>Faat's mother-in-law</role>
+    <type>Actor</type>
+    <tmdbid>1135781</tmdbid>
+  </actor>
+  <actor>
+    <name>Noel Chik King-Man</name>
+    <role>Faat's horny patient</role>
+    <type>Actor</type>
+    <tmdbid>1160576</tmdbid>
+  </actor>
+  <actor>
+    <name>Alvina Kong Yai-Yin</name>
+    <role>Faat's doctor patient</role>
+    <type>Actor</type>
+    <tmdbid>240927</tmdbid>
+    <imdbid>nm0465020</imdbid>
+  </actor>
+  <actor>
+    <name>Wong Chi-Keung</name>
+    <role>Sai Mun Tsui Suet</role>
+    <type>Actor</type>
+    <tmdbid>1415225</tmdbid>
+  </actor>
+  <actor>
+    <name>Wong Yat-fei</name>
+    <role>Yip Koo Shing</role>
+    <type>Actor</type>
+    <tmdbid>956575</tmdbid>
+    <imdbid>nm0939431</imdbid>
+  </actor>
+  <actor>
+    <name>Manfred Wong</name>
+    <role>Luk Siu Fung</role>
+    <type>Actor</type>
+    <tmdbid>21902</tmdbid>
+    <imdbid>nm0939236</imdbid>
+  </actor>
+  <actor>
+    <name>Chan Kim-Wan</name>
+    <role>Fa Moon Lau</role>
+    <type>Actor</type>
+    <tmdbid>1619922</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Shen</name>
+    <role>Ling Ling Kung</role>
+    <type>Actor</type>
+    <tmdbid>1619923</tmdbid>
+  </actor>
+  <actor>
+    <name>Jackson Ng Yuk-Sue</name>
+    <role>Ling Ling Hei</role>
+    <type>Actor</type>
+    <tmdbid>1398251</tmdbid>
+  </actor>
+  <actor>
+    <name>Wong Kwan-Hong</name>
+    <role>Ling Ling Choi</role>
+    <type>Actor</type>
+    <tmdbid>1616889</tmdbid>
+  </actor>
+  <director tmdbid="57607" imdbid="nm0159507">Stephen Chow</director>
+  <director tmdbid="65934" imdbid="nm0463674">Vincent Kok</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xNWp9GY46eE</trailer>
+  <rating>7</rating>
+  <year>1996</year>
+  <imdbid>tt0116014</imdbid>
+  <tmdbid>37702</tmdbid>
+  <premiered>1996-02-16</premiered>
+  <releasedate>1996-02-16</releasedate>
+  <criticrating>77</criticrating>
+  <runtime>89</runtime>
+  <country>Hong Kong</country>
+  <genre>动作</genre>
+  <genre>冒险</genre>
+  <genre>喜剧</genre>
+  <studio>Win's Movie Production Limited</studio>
+  <studio>Samico Films Production Co., Ltd.</studio>
+  <uniqueid type="Imdb">tt0116014</uniqueid>
+  <uniqueid type="Tmdb">37702</uniqueid>
+  <id>tt0116014</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5797591</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>88</duration>
+        <durationinseconds>5322</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

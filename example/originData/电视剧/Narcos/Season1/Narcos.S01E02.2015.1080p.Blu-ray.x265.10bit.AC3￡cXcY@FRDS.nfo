@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[共产主义激进组织 M-19 发起针对毒枭的行动，而墨菲在哥伦比亚执法部门接受新拍档潘纳的教育。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-15 03:41:50</dateadded>
+  <title>西蒙·玻利瓦尔之剑</title>
+  <actor>
+    <name>Wagner Moura</name>
+    <role>Pablo Escobar</role>
+    <type>Actor</type>
+    <tmdbid>52583</tmdbid>
+  </actor>
+  <actor>
+    <name>Pedro Pascal</name>
+    <role>Javier Peña</role>
+    <type>Actor</type>
+    <tmdbid>1253360</tmdbid>
+  </actor>
+  <actor>
+    <name>Boyd Holbrook</name>
+    <role>Steve Murphy</role>
+    <type>Actor</type>
+    <tmdbid>467645</tmdbid>
+  </actor>
+  <actor>
+    <name>Joanna Christie</name>
+    <role>Connie Murphy</role>
+    <type>Actor</type>
+    <tmdbid>1230988</tmdbid>
+  </actor>
+  <actor>
+    <name>Maurice Compte</name>
+    <role>Horacio Carrillo</role>
+    <type>Actor</type>
+    <tmdbid>48530</tmdbid>
+    <imdbid>nm0173997</imdbid>
+  </actor>
+  <actor>
+    <name>Paulina Gaitán</name>
+    <role>Tata Escobar</role>
+    <type>Actor</type>
+    <tmdbid>36586</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Sigman</name>
+    <role>Valeria Velez</role>
+    <type>Actor</type>
+    <tmdbid>929937</tmdbid>
+  </actor>
+  <actor>
+    <name>Diego Cataño</name>
+    <role>La Quica</role>
+    <type>Actor</type>
+    <tmdbid>112129</tmdbid>
+    <imdbid>nm1593407</imdbid>
+  </actor>
+  <actor>
+    <name>Jorge A. Jimenez</name>
+    <role>Poison</role>
+    <type>Actor</type>
+    <tmdbid>99508</tmdbid>
+    <imdbid>nm2784856</imdbid>
+  </actor>
+  <actor>
+    <name>Juan Pablo Raba</name>
+    <role>Gustavo Gaviria</role>
+    <type>Actor</type>
+    <tmdbid>937009</tmdbid>
+    <imdbid>nm0704696</imdbid>
+  </actor>
+  <actor>
+    <name>Raúl Méndez</name>
+    <role>Cesar Gaviria</role>
+    <type>Actor</type>
+    <tmdbid>18463</tmdbid>
+  </actor>
+  <actor>
+    <name>Bruno Bichir</name>
+    <role>Fernando Duque</role>
+    <type>Actor</type>
+    <tmdbid>52745</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Guzmán</name>
+    <role>José Rodríguez Gacha</role>
+    <type>Actor</type>
+    <tmdbid>40481</tmdbid>
+  </actor>
+  <actor>
+    <name>Paulina García</name>
+    <role>Hermilda Gaviria</role>
+    <type>GuestStar</type>
+    <tmdbid>1532436</tmdbid>
+  </actor>
+  <actor>
+    <name>Ana de la Reguera</name>
+    <role>Elisa Alvaro</role>
+    <type>GuestStar</type>
+    <tmdbid>57409</tmdbid>
+  </actor>
+  <director>José Padilha</director>
+  <rating>7.56</rating>
+  <year>2015</year>
+  <imdbid>tt3736868</imdbid>
+  <tvdbid>5292342</tvdbid>
+  <runtime>46</runtime>
+  <uniqueid type="Tvdb">5292342</uniqueid>
+  <uniqueid type="Imdb">tt3736868</uniqueid>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2015-08-28</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3516226</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>46</duration>
+        <durationinseconds>2776</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

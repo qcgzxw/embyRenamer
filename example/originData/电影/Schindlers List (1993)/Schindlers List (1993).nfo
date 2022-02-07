@@ -1,0 +1,1093 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[1939年9月，二次世界大战方兴未艾，德军进驻波兰，将纳綷军队组成“精卫队”，下令重新安顿犹太人的户口。德商辛德勒值此战乱，一方面迎逢德军各级军官，另一方面则进行低价引进犹太劳工，并委任犹太工头以撒处理场内大小事。辛德勒虽藉机大发战争财，但对以撒却颇为仁厚而备受爱戴。“精卫队”司令阿蒙生性残暴，以枪杀劳工为乐，整个占领区如同炼狱般。1941年3月，德军将维斯图拉河以南归为犹太区，阿蒙更变本加厉，1944年4月甚至大规模展开焚尸行动，辛德勒看不惯如此行为便和以撒商议出一计，以所有资产行贿阿蒙，以捷克新厂需要大批劳工制作军火为由，列出一份长至千人的名单，运往家乡布蓝恩利兹躲藏，待德方发现时，大战结束了，辛德勒则仍以战争罪犯法办。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-20 16:57:00</dateadded>
+  <title>辛德勒的名单</title>
+  <originaltitle>Schindler's List</originaltitle>
+  <actor>
+    <name>Liam Neeson</name>
+    <role>Oskar Schindler</role>
+    <type>Actor</type>
+    <tmdbid>3896</tmdbid>
+    <imdbid>nm0000553</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Kingsley</name>
+    <role>Itzhak Stern</role>
+    <type>Actor</type>
+    <tmdbid>2282</tmdbid>
+    <imdbid>nm0001426</imdbid>
+  </actor>
+  <actor>
+    <name>Ralph Fiennes</name>
+    <role>Amon Göth</role>
+    <type>Actor</type>
+    <tmdbid>5469</tmdbid>
+  </actor>
+  <actor>
+    <name>Caroline Goodall</name>
+    <role>Emilie Schindler</role>
+    <type>Actor</type>
+    <tmdbid>6692</tmdbid>
+    <imdbid>nm0328751</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Sagall</name>
+    <role>Poldek Pfefferberg</role>
+    <type>Actor</type>
+    <tmdbid>6693</tmdbid>
+  </actor>
+  <actor>
+    <name>Embeth Davidtz</name>
+    <role>Helen Hirsch</role>
+    <type>Actor</type>
+    <tmdbid>6368</tmdbid>
+    <imdbid>nm0001110</imdbid>
+  </actor>
+  <actor>
+    <name>Malgorzata Gebel</name>
+    <role>Wiktoria Klonowska</role>
+    <type>Actor</type>
+    <tmdbid>6694</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Ivanir</name>
+    <role>Marcel Goldberg</role>
+    <type>Actor</type>
+    <tmdbid>6696</tmdbid>
+  </actor>
+  <actor>
+    <name>Béatrice Macola</name>
+    <role>Ingrid</role>
+    <type>Actor</type>
+    <tmdbid>6697</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrzej Seweryn</name>
+    <role>Julian Scherner</role>
+    <type>Actor</type>
+    <tmdbid>2829</tmdbid>
+  </actor>
+  <actor>
+    <name>Friedrich von Thun</name>
+    <role>Rolf Czurda</role>
+    <type>Actor</type>
+    <tmdbid>6698</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerzy Nowak</name>
+    <role>Investor</role>
+    <type>Actor</type>
+    <tmdbid>7119</tmdbid>
+  </actor>
+  <actor>
+    <name>Norbert Weisser</name>
+    <role>Albert Hujar</role>
+    <type>Actor</type>
+    <tmdbid>6701</tmdbid>
+    <imdbid>nm0919256</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Mucha</name>
+    <role>Danka Dresner</role>
+    <type>Actor</type>
+    <tmdbid>6705</tmdbid>
+  </actor>
+  <actor>
+    <name>Adi Nitzan</name>
+    <role>Mila Pfefferberg</role>
+    <type>Actor</type>
+    <tmdbid>6702</tmdbid>
+  </actor>
+  <actor>
+    <name>Piotr Polk</name>
+    <role>Leo Rosner</role>
+    <type>Actor</type>
+    <tmdbid>6711</tmdbid>
+  </actor>
+  <actor>
+    <name>Rami Heuberger</name>
+    <role>Josef Bau</role>
+    <type>Actor</type>
+    <tmdbid>86359</tmdbid>
+  </actor>
+  <actor>
+    <name>Ezra Dagan</name>
+    <role>Rabbi Menasha Lewartow</role>
+    <type>Actor</type>
+    <tmdbid>6712</tmdbid>
+  </actor>
+  <actor>
+    <name>Elina Löwensohn</name>
+    <role>Diana Reiter</role>
+    <type>Actor</type>
+    <tmdbid>17257</tmdbid>
+  </actor>
+  <actor>
+    <name>Hans-Jörg Assmann</name>
+    <role>Julius Madritsch</role>
+    <type>Actor</type>
+    <tmdbid>43350</tmdbid>
+  </actor>
+  <actor>
+    <name>Hans-Michael Rehberg</name>
+    <role>Rudolf Höß</role>
+    <type>Actor</type>
+    <tmdbid>35263</tmdbid>
+  </actor>
+  <actor>
+    <name>August Schmölzer</name>
+    <role>Dieter Reeder</role>
+    <type>Actor</type>
+    <tmdbid>45694</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Del-Ponte</name>
+    <role>Josef Mengele</role>
+    <type>Actor</type>
+    <tmdbid>1950758</tmdbid>
+  </actor>
+  <actor>
+    <name>Ludger Pistor</name>
+    <role>Josef Leipold</role>
+    <type>Actor</type>
+    <tmdbid>1088</tmdbid>
+    <imdbid>nm0685598</imdbid>
+  </actor>
+  <actor>
+    <name>Oliwia Dabrowska</name>
+    <role>Girl in Red</role>
+    <type>Actor</type>
+    <tmdbid>1950731</tmdbid>
+  </actor>
+  <actor>
+    <name>Shmuel Levy</name>
+    <role>Wilek Chilowicz</role>
+    <type>Actor</type>
+    <tmdbid>6695</tmdbid>
+  </actor>
+  <actor>
+    <name>Krzysztof Luft</name>
+    <role>Herman Toffel</role>
+    <type>Actor</type>
+    <tmdbid>6699</tmdbid>
+  </actor>
+  <actor>
+    <name>Harry Nehring</name>
+    <role>Leo John</role>
+    <type>Actor</type>
+    <tmdbid>6700</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Schneider</name>
+    <role>Juda Dresner</role>
+    <type>Actor</type>
+    <tmdbid>6703</tmdbid>
+  </actor>
+  <actor>
+    <name>Miri Fabian</name>
+    <role>Chaja Dresner</role>
+    <type>Actor</type>
+    <tmdbid>6704</tmdbid>
+  </actor>
+  <actor>
+    <name>Albert Misak</name>
+    <role>Mordecai Wulkan</role>
+    <type>Actor</type>
+    <tmdbid>6706</tmdbid>
+  </actor>
+  <actor>
+    <name>Aldona Grochal</name>
+    <role>Mrs. Nussbaum</role>
+    <type>Actor</type>
+    <tmdbid>6708</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacek Wójcicki</name>
+    <role>Henry Rosner</role>
+    <type>Actor</type>
+    <tmdbid>6709</tmdbid>
+  </actor>
+  <actor>
+    <name>Beata Paluch</name>
+    <role>Manci Rosner</role>
+    <type>Actor</type>
+    <tmdbid>6710</tmdbid>
+  </actor>
+  <actor>
+    <name>Uri Avrahami</name>
+    <role>Chaim Nowak</role>
+    <type>Actor</type>
+    <tmdbid>1317875</tmdbid>
+  </actor>
+  <actor>
+    <name>Magdalena Komornicka</name>
+    <role>Goeth's Girl</role>
+    <type>Actor</type>
+    <tmdbid>1448565</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Gordon</name>
+    <role>Mr. Nussbaum</role>
+    <type>Actor</type>
+    <tmdbid>1592167</tmdbid>
+  </actor>
+  <actor>
+    <name>Beata Deskur</name>
+    <role>Rebecca Tannenbaum</role>
+    <type>Actor</type>
+    <tmdbid>1950661</tmdbid>
+  </actor>
+  <actor>
+    <name>Leopold Kozlowski</name>
+    <role>Investor</role>
+    <type>Actor</type>
+    <tmdbid>1611171</tmdbid>
+  </actor>
+  <actor>
+    <name>Magdalena Dandourian</name>
+    <role>Nuisa Horowitz</role>
+    <type>Actor</type>
+    <tmdbid>1950665</tmdbid>
+  </actor>
+  <actor>
+    <name>Shabtai Konorti</name>
+    <role>Garage mechanic</role>
+    <type>Actor</type>
+    <tmdbid>1950725</tmdbid>
+  </actor>
+  <actor>
+    <name>Henryk Bista</name>
+    <role>Mr. Löwenstein</role>
+    <type>Actor</type>
+    <tmdbid>1068465</tmdbid>
+  </actor>
+  <actor>
+    <name>Tadeusz Bradecki</name>
+    <role>DEF foreman</role>
+    <type>Actor</type>
+    <tmdbid>544038</tmdbid>
+  </actor>
+  <actor>
+    <name>Wojciech Klata</name>
+    <role>Lisiek</role>
+    <type>Actor</type>
+    <tmdbid>1211521</tmdbid>
+  </actor>
+  <actor>
+    <name>Ewa Kolasińska</name>
+    <role>irrational woman</role>
+    <type>Actor</type>
+    <tmdbid>1138248</tmdbid>
+  </actor>
+  <actor>
+    <name>Bettina Kupfer</name>
+    <role>Regina Perlman</role>
+    <type>Actor</type>
+    <tmdbid>294079</tmdbid>
+  </actor>
+  <actor>
+    <name>Grzegorz Kwas</name>
+    <role>Mietek Pemper</role>
+    <type>Actor</type>
+    <tmdbid>1708199</tmdbid>
+  </actor>
+  <actor>
+    <name>Vili Matula</name>
+    <role>Investigator</role>
+    <type>Actor</type>
+    <tmdbid>1015378</tmdbid>
+  </actor>
+  <actor>
+    <name>Stanislaw Koczanowicz</name>
+    <role>Doorman</role>
+    <type>Actor</type>
+    <tmdbid>1950740</tmdbid>
+  </actor>
+  <actor>
+    <name>Geno Lechner</name>
+    <role>Majola</role>
+    <type>Actor</type>
+    <tmdbid>575906</tmdbid>
+  </actor>
+  <actor>
+    <name>Beata Rybotycka</name>
+    <role>Club singer</role>
+    <type>Actor</type>
+    <tmdbid>1950744</tmdbid>
+  </actor>
+  <actor>
+    <name>Branko Lustig</name>
+    <role>Nightclub maître d’</role>
+    <type>Actor</type>
+    <tmdbid>930</tmdbid>
+  </actor>
+  <actor>
+    <name>Artus-Maria Matthiessen</name>
+    <role>Treblinka Commandant</role>
+    <type>Actor</type>
+    <tmdbid>1303981</tmdbid>
+  </actor>
+  <actor>
+    <name>Eugeniusz Priwieziencew</name>
+    <role>Waiter</role>
+    <type>Actor</type>
+    <tmdbid>37354</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Z. Hoffmann</name>
+    <role>Montelupich Colonel</role>
+    <type>Actor</type>
+    <tmdbid>1587013</tmdbid>
+  </actor>
+  <actor>
+    <name>Erwin Leder</name>
+    <role>Waffen-SS officer</role>
+    <type>Actor</type>
+    <tmdbid>3970</tmdbid>
+  </actor>
+  <actor>
+    <name>Jochen Nickel</name>
+    <role>Wilhelm Kunde</role>
+    <type>Actor</type>
+    <tmdbid>4936</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrzej Welminski</name>
+    <role>Dr. Blancke</role>
+    <type>Actor</type>
+    <tmdbid>1950757</tmdbid>
+  </actor>
+  <actor>
+    <name>Marian Glinka</name>
+    <role>DEF SS Officer</role>
+    <type>Actor</type>
+    <tmdbid>1138906</tmdbid>
+  </actor>
+  <actor>
+    <name>Grzegorz Damięcki</name>
+    <role>SS Sgt. Kunder</role>
+    <type>Actor</type>
+    <tmdbid>1065359</tmdbid>
+  </actor>
+  <actor>
+    <name>Stanisław Brejdygant</name>
+    <role>DEF guard</role>
+    <type>Actor</type>
+    <tmdbid>1151168</tmdbid>
+  </actor>
+  <actor>
+    <name>Olaf Lubaszenko</name>
+    <role>Auschwitz guard</role>
+    <type>Actor</type>
+    <tmdbid>107571</tmdbid>
+  </actor>
+  <actor>
+    <name>Haymon Maria Buttinger</name>
+    <role>Auschwitz guard</role>
+    <type>Actor</type>
+    <tmdbid>3738</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Appiano</name>
+    <role>Auschwitz guard</role>
+    <type>Actor</type>
+    <tmdbid>134477</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacek Pulanecki</name>
+    <role>Brinnlitz guard</role>
+    <type>Actor</type>
+    <tmdbid>1950761</tmdbid>
+  </actor>
+  <actor>
+    <name>Tomasz Dedek</name>
+    <role>Gestapo officer</role>
+    <type>Actor</type>
+    <tmdbid>1138295</tmdbid>
+  </actor>
+  <actor>
+    <name>Slawomir Holland</name>
+    <role>Gestapo officer</role>
+    <type>Actor</type>
+    <tmdbid>1435269</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Semmelrogge</name>
+    <role>Waffen-SS man</role>
+    <type>Actor</type>
+    <tmdbid>4924</tmdbid>
+  </actor>
+  <actor>
+    <name>Tadeusz Huk</name>
+    <role>Gestapo officer</role>
+    <type>Actor</type>
+    <tmdbid>1083400</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Held</name>
+    <role>SS bureaucrat</role>
+    <type>Actor</type>
+    <tmdbid>21743</tmdbid>
+  </actor>
+  <actor>
+    <name>Piotr Cyrwus</name>
+    <role>Ukranian guard</role>
+    <type>Actor</type>
+    <tmdbid>1041803</tmdbid>
+  </actor>
+  <actor>
+    <name>Joachim Paul Assböck</name>
+    <role>Gestapo clerk Klaus Tauber</role>
+    <type>Actor</type>
+    <tmdbid>51651</tmdbid>
+  </actor>
+  <actor>
+    <name>Osman Ragheb</name>
+    <role>Border guard</role>
+    <type>Actor</type>
+    <tmdbid>150797</tmdbid>
+  </actor>
+  <actor>
+    <name>Maciej Orłoś</name>
+    <role>German clerk</role>
+    <type>Actor</type>
+    <tmdbid>1138273</tmdbid>
+  </actor>
+  <actor>
+    <name>Marek Wrona</name>
+    <role>Toffel’s secretary</role>
+    <type>Actor</type>
+    <tmdbid>1950765</tmdbid>
+  </actor>
+  <actor>
+    <name>Zbigniew Kozłowski</name>
+    <role>Scherner’s secretary</role>
+    <type>Actor</type>
+    <tmdbid>1950766</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcin Grzymowicz</name>
+    <role>Czurda’s secretary</role>
+    <type>Actor</type>
+    <tmdbid>1950767</tmdbid>
+  </actor>
+  <actor>
+    <name>Dieter Witting</name>
+    <role>Bosch</role>
+    <type>Actor</type>
+    <tmdbid>1540798</tmdbid>
+  </actor>
+  <actor>
+    <name>Agnieszka Krukówna</name>
+    <role>Czurda’s girl</role>
+    <type>Actor</type>
+    <tmdbid>572358</tmdbid>
+  </actor>
+  <actor>
+    <name>Anemona Knut</name>
+    <role>Polish girl</role>
+    <type>Actor</type>
+    <tmdbid>1950769</tmdbid>
+  </actor>
+  <actor>
+    <name>Agnieszka Wagner</name>
+    <role>Brinnlitz girl</role>
+    <type>Actor</type>
+    <tmdbid>131237</tmdbid>
+  </actor>
+  <actor>
+    <name>Jan Jurewicz</name>
+    <role>Russian officer</role>
+    <type>Actor</type>
+    <tmdbid>1139843</tmdbid>
+  </actor>
+  <actor>
+    <name>Wiesław Komasa</name>
+    <role>Plaszow depot SS guard</role>
+    <type>Actor</type>
+    <tmdbid>1140804</tmdbid>
+  </actor>
+  <actor>
+    <name>Maciej Kozłowski</name>
+    <role>SS guard Zablocie</role>
+    <type>Actor</type>
+    <tmdbid>107634</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Bergmann</name>
+    <role>SS NCO</role>
+    <type>Actor</type>
+    <tmdbid>70509</tmdbid>
+  </actor>
+  <actor>
+    <name>Wilhelm Manske</name>
+    <role>SS NCO</role>
+    <type>Actor</type>
+    <tmdbid>1366124</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Flechtner</name>
+    <role>SS NCO</role>
+    <type>Actor</type>
+    <tmdbid>1907883</tmdbid>
+  </actor>
+  <actor>
+    <name>Sigurd Bemme</name>
+    <role>SS NCO</role>
+    <type>Actor</type>
+    <tmdbid>1950771</tmdbid>
+  </actor>
+  <actor>
+    <name>Etl Szyc</name>
+    <role>Ghetto woman</role>
+    <type>Actor</type>
+    <tmdbid>1880661</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucyna Zabawa</name>
+    <role>Ghetto woman</role>
+    <type>Actor</type>
+    <tmdbid>1950772</tmdbid>
+  </actor>
+  <actor>
+    <name>Ruth Farhi</name>
+    <role>Old Jewisch woman</role>
+    <type>Actor</type>
+    <tmdbid>1201212</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerzy Sagan</name>
+    <role>Old Ghetto man</role>
+    <type>Actor</type>
+    <tmdbid>1495473</tmdbid>
+  </actor>
+  <actor>
+    <name>Dariusz Szymaniak</name>
+    <role>Depot prisoner</role>
+    <type>Actor</type>
+    <tmdbid>1950773</tmdbid>
+  </actor>
+  <actor>
+    <name>Dirk Bender</name>
+    <role>Clerk at depot</role>
+    <type>Actor</type>
+    <tmdbid>1950774</tmdbid>
+  </actor>
+  <actor>
+    <name>Maciej Winkler</name>
+    <role>Black marketeer</role>
+    <type>Actor</type>
+    <tmdbid>1881651</tmdbid>
+  </actor>
+  <actor>
+    <name>Radosław Krzyżowski</name>
+    <role>Black marketeer</role>
+    <type>Actor</type>
+    <tmdbid>1913580</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacek Lenczowski</name>
+    <role>Black marketeer</role>
+    <type>Actor</type>
+    <tmdbid>1950775</tmdbid>
+  </actor>
+  <actor>
+    <name>Hanna Kossowska</name>
+    <role>Ghetto doctor</role>
+    <type>Actor</type>
+    <tmdbid>1950777</tmdbid>
+  </actor>
+  <actor>
+    <name>Maja Ostaszewska</name>
+    <role>frantic woman</role>
+    <type>Actor</type>
+    <tmdbid>82312</tmdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Skalski</name>
+    <role>Stable boy</role>
+    <type>Actor</type>
+    <tmdbid>1950780</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryszard Radwański</name>
+    <role>Pankiewicz</role>
+    <type>Actor</type>
+    <tmdbid>1176618</tmdbid>
+  </actor>
+  <actor>
+    <name>Piotr Kadlcik</name>
+    <role>Man in pharmacy</role>
+    <type>Actor</type>
+    <tmdbid>1950783</tmdbid>
+  </actor>
+  <actor>
+    <name>Lech Niebielski</name>
+    <role>NCO Plaszow</role>
+    <type>Actor</type>
+    <tmdbid>1950785</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Morris</name>
+    <role>Grun</role>
+    <type>Actor</type>
+    <tmdbid>40224</tmdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Konrad</name>
+    <role>Engineer</role>
+    <type>Actor</type>
+    <tmdbid>1140840</tmdbid>
+  </actor>
+  <actor>
+    <name>Lidia Wyrobiec-Bank</name>
+    <role>Clara Sternberg</role>
+    <type>Actor</type>
+    <tmdbid>1950787</tmdbid>
+  </actor>
+  <actor>
+    <name>Ravit Ferera</name>
+    <role>Maria Mischel</role>
+    <type>Actor</type>
+    <tmdbid>1950788</tmdbid>
+  </actor>
+  <actor>
+    <name>Agnieszka Korzeniowska</name>
+    <role>Ghetto girl</role>
+    <type>Actor</type>
+    <tmdbid>1950789</tmdbid>
+  </actor>
+  <actor>
+    <name>Dominika Bednarczyk</name>
+    <role>Ghetto girl</role>
+    <type>Actor</type>
+    <tmdbid>1703732</tmdbid>
+  </actor>
+  <actor>
+    <name>Alicja Kubaszewska</name>
+    <role>Ghetto girl</role>
+    <type>Actor</type>
+    <tmdbid>1950790</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Marcu</name>
+    <role>Ghetto man</role>
+    <type>Actor</type>
+    <tmdbid>1950791</tmdbid>
+  </actor>
+  <actor>
+    <name>Hans Rosner</name>
+    <role>Ghetto man</role>
+    <type>Actor</type>
+    <tmdbid>1950792</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward Linde-Lubaszenko</name>
+    <role>ksiądz w Brinnlitz</role>
+    <type>Actor</type>
+    <tmdbid>588931</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Strobele</name>
+    <role>Montelupich prisoner</role>
+    <type>Actor</type>
+    <tmdbid>134469</tmdbid>
+  </actor>
+  <actor>
+    <name>Georges Kern</name>
+    <role>Depot master</role>
+    <type>Actor</type>
+    <tmdbid>238212</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Buczolich</name>
+    <role>Plaszow SS guard</role>
+    <type>Actor</type>
+    <tmdbid>1950793</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Schiller</name>
+    <role>Plaszow SS guard</role>
+    <type>Actor</type>
+    <tmdbid>567802</tmdbid>
+  </actor>
+  <actor>
+    <name>Götz Otto</name>
+    <role>Plaszow guard</role>
+    <type>Actor</type>
+    <tmdbid>10744</tmdbid>
+  </actor>
+  <actor>
+    <name>Wolfgang Seidenberg</name>
+    <role>Plaszow SS guard</role>
+    <type>Actor</type>
+    <tmdbid>1287142</tmdbid>
+  </actor>
+  <actor>
+    <name>Hubert Kramar</name>
+    <role>Plaszow SS guard</role>
+    <type>Actor</type>
+    <tmdbid>1072887</tmdbid>
+  </actor>
+  <actor>
+    <name>Razia Israeli</name>
+    <role>Plaszow Jewish girl</role>
+    <type>Actor</type>
+    <tmdbid>1164910</tmdbid>
+  </actor>
+  <actor>
+    <name>Dorit Seadia</name>
+    <role>Plaszow Jewish girl</role>
+    <type>Actor</type>
+    <tmdbid>1950794</tmdbid>
+  </actor>
+  <actor>
+    <name>Esti Yerushalmi</name>
+    <role>Plaszow Jewish girl</role>
+    <type>Actor</type>
+    <tmdbid>1449875</tmdbid>
+  </actor>
+  <actor>
+    <name>Marta Bizoń</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1271855</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Csitos</name>
+    <type>Actor</type>
+    <tmdbid>1950795</tmdbid>
+  </actor>
+  <actor>
+    <name>Blythe Daniel</name>
+    <role>young woman</role>
+    <type>Actor</type>
+    <tmdbid>1950796</tmdbid>
+  </actor>
+  <actor>
+    <name>Janek Dresner</name>
+    <role>Himself—Schindler mourner</role>
+    <type>Actor</type>
+    <tmdbid>1950797</tmdbid>
+  </actor>
+  <actor>
+    <name>Maciej Kowalewski</name>
+    <role>Boy</role>
+    <type>Actor</type>
+    <tmdbid>1062688</tmdbid>
+  </actor>
+  <actor>
+    <name>Kamil Krawiec</name>
+    <role>little Jewish boy</role>
+    <type>Actor</type>
+    <tmdbid>1950798</tmdbid>
+  </actor>
+  <actor>
+    <name>Zuzanna Lipiec</name>
+    <role>Woman</role>
+    <type>Actor</type>
+    <tmdbid>1950799</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Peszek</name>
+    <role>young worker</role>
+    <type>Actor</type>
+    <tmdbid>563592</tmdbid>
+  </actor>
+  <actor>
+    <name>Leopold Pfefferberg</name>
+    <role>Himself—Schindler mourner</role>
+    <type>Actor</type>
+    <tmdbid>1950800</tmdbid>
+  </actor>
+  <actor>
+    <name>Leopold Rosner</name>
+    <role>Himself—Schindler mourner</role>
+    <type>Actor</type>
+    <tmdbid>1950801</tmdbid>
+  </actor>
+  <actor>
+    <name>Emilie Schindler</name>
+    <role>Herself—Schindler mourner</role>
+    <type>Actor</type>
+    <tmdbid>1950802</tmdbid>
+  </actor>
+  <actor>
+    <name>Katarzyna Śmiechowicz</name>
+    <role>German girl</role>
+    <type>Actor</type>
+    <tmdbid>645243</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Talar</name>
+    <role>Jewish boy</role>
+    <type>Actor</type>
+    <tmdbid>1950803</tmdbid>
+  </actor>
+  <actor>
+    <name>Katarzyna Tlalka</name>
+    <role>Worker in factory</role>
+    <type>Actor</type>
+    <tmdbid>1950804</tmdbid>
+  </actor>
+  <actor>
+    <name>Paweł Deląg</name>
+    <role>Dolek Horowitz</role>
+    <type>Actor</type>
+    <tmdbid>107637</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Flynn</name>
+    <role>Brinnlitz Man</role>
+    <type>Actor</type>
+    <tmdbid>2981772</tmdbid>
+  </actor>
+  <director tmdbid="488" imdbid="nm0000229">Steven Spielberg</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bJcLRFWxRno</trailer>
+  <rating>8.9</rating>
+  <year>1993</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0108052</imdbid>
+  <tmdbid>424</tmdbid>
+  <premiered>1993-11-30</premiered>
+  <releasedate>1993-11-30</releasedate>
+  <criticrating>98</criticrating>
+  <runtime>195</runtime>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>历史</genre>
+  <genre>战争</genre>
+  <studio>Universal Pictures</studio>
+  <studio>Amblin Entertainment</studio>
+  <uniqueid type="Tmdb">424</uniqueid>
+  <uniqueid type="Imdb">tt0108052</uniqueid>
+  <id>tt0108052</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>33714410</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>195</duration>
+        <durationinseconds>11706</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>768000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>768000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>768000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>768000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>truehd</codec>
+        <micodec>truehd</micodec>
+        <language>zho</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <scantype>progressive</scantype>
+        <channels>0</channels>
+        <samplingrate>0</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>zho</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>zho</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>zho</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>zho</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

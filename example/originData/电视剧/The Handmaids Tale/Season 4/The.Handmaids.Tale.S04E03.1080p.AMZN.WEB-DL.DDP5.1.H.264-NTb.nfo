@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-11 12:59:59</dateadded>
+  <title>第 3 集</title>
+  <actor>
+    <name>Elisabeth Moss</name>
+    <role>June Osborne / Offred / Ofjoseph</role>
+    <type>Actor</type>
+    <tmdbid>32798</tmdbid>
+  </actor>
+  <actor>
+    <name>Yvonne Strahovski</name>
+    <role>Serena Joy Waterford</role>
+    <type>Actor</type>
+    <tmdbid>63312</tmdbid>
+    <imdbid>nm2088803</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Fiennes</name>
+    <role>Commander Fred Waterford</role>
+    <type>Actor</type>
+    <tmdbid>12763</tmdbid>
+    <imdbid>nm0001212</imdbid>
+  </actor>
+  <actor>
+    <name>Ann Dowd</name>
+    <role>Aunt Lydia / Miss Clements</role>
+    <type>Actor</type>
+    <tmdbid>43366</tmdbid>
+    <imdbid>nm0235652</imdbid>
+  </actor>
+  <actor>
+    <name>Madeline Brewer</name>
+    <role>Janine Lindo / Ofwarren / Ofdaniel / Ofhoward</role>
+    <type>Actor</type>
+    <tmdbid>1443712</tmdbid>
+    <imdbid>nm5483400</imdbid>
+  </actor>
+  <actor>
+    <name>Max Minghella</name>
+    <role>Nick Blaine</role>
+    <type>Actor</type>
+    <tmdbid>2978</tmdbid>
+    <imdbid>nm1540404</imdbid>
+  </actor>
+  <actor>
+    <name>O.T. Fagbenle</name>
+    <role>Lucas 'Luke' Bankole</role>
+    <type>Actor</type>
+    <tmdbid>113970</tmdbid>
+  </actor>
+  <actor>
+    <name>Samira Wiley</name>
+    <role>Moira</role>
+    <type>Actor</type>
+    <tmdbid>1034197</tmdbid>
+    <imdbid>nm4148126</imdbid>
+  </actor>
+  <director tmdbid="32798">Elisabeth Moss</director>
+  <rating>9.077</rating>
+  <year>2021</year>
+  <imdbid>tt11563892</imdbid>
+  <tvdbid>8238176</tvdbid>
+  <runtime>63</runtime>
+  <uniqueid type="Tvdb">8238176</uniqueid>
+  <uniqueid type="Imdb">tt11563892</uniqueid>
+  <episode>3</episode>
+  <season>4</season>
+  <aired>2021-04-28</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5740634</bitrate>
+        <width>1920</width>
+        <height>960</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>62</duration>
+        <durationinseconds>3757</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

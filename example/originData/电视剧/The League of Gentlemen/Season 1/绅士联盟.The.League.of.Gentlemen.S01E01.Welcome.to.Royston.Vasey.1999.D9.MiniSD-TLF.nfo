@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Innocent young Benjamin Denton arrives in the isolated village of Royston Vasey where pre-operation transsexual cabbie Barbara takes him to the house of his weird aunt and uncle Val and ...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-15 18:54:56</dateadded>
+  <title>第 1 集</title>
+  <actor>
+    <name>Mark Gatiss</name>
+    <type>Actor</type>
+    <tmdbid>34546</tmdbid>
+    <imdbid>nm0309693</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Hays-Marshall</name>
+    <type>Actor</type>
+    <tmdbid>1231013</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Dyson</name>
+    <type>Actor</type>
+    <tmdbid>1227405</tmdbid>
+  </actor>
+  <director>Steve Bendelack</director>
+  <rating>0</rating>
+  <year>1999</year>
+  <imdbid>tt0630135</imdbid>
+  <tvdbid>87697</tvdbid>
+  <runtime>30</runtime>
+  <genre>Comedy</genre>
+  <genre>Horror</genre>
+  <tvrageid>193845</tvrageid>
+  <uniqueid type="Imdb">tt0630135</uniqueid>
+  <uniqueid type="Tvdb">87697</uniqueid>
+  <uniqueid type="TvRage">193845</uniqueid>
+  <episode>1</episode>
+  <season>1</season>
+  <aired>1999-01-11</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1271782</bitrate>
+        <width>714</width>
+        <height>570</height>
+        <aspect>6426:3515</aspect>
+        <aspectratio>6426:3515</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1784</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

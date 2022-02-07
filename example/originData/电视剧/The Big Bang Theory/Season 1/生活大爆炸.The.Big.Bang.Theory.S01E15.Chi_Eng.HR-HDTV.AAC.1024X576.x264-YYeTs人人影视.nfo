@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[莱纳德、霍华德和拉杰什都对谢尔顿的孪生姐姐米西有兴趣，谢尔顿却认为这三人都配不上她。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 16:53:45</dateadded>
+  <title>孪生姐姐</title>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Leonard Hofstadter</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>Howard Wolowitz</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Nayyar</name>
+    <role>Rajesh Koothrappali</role>
+    <type>Actor</type>
+    <tmdbid>208099</tmdbid>
+    <imdbid>nm2471798</imdbid>
+  </actor>
+  <actor>
+    <name>Courtney Henggeler</name>
+    <role>Missy Cooper</role>
+    <type>GuestStar</type>
+    <tmdbid>43483</tmdbid>
+    <imdbid>nm1136435</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.1</rating>
+  <year>2008</year>
+  <imdbid>tt1127906</imdbid>
+  <tvdbid>365914</tvdbid>
+  <runtime>21</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>641161</tvrageid>
+  <uniqueid type="Imdb">tt1127906</uniqueid>
+  <uniqueid type="Tvdb">365914</uniqueid>
+  <uniqueid type="TvRage">641161</uniqueid>
+  <episode>15</episode>
+  <season>1</season>
+  <aired>2008-05-05</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1398949</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1281</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

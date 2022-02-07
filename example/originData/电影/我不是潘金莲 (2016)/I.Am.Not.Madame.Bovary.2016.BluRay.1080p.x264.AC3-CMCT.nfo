@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一个普通的农村妇女李雪莲（范冰冰 饰），为了纠正一句话，与上上下下、方方面面打了十年交道。打交道的过程中，她没想到一件事变成了另一件事，接着变成了第三件事。十年过去，她没有把这句话纠正过来，但她饱尝了世间的人情冷暖，悟明白了另外一个道理。李雪莲要纠正的这句话是她前夫说的。她前夫说：你是李雪莲吗？我咋觉得你是潘金莲呢？李雪莲要告诉大家的是：我不是潘金莲]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-04 11:02:13</dateadded>
+  <title>我不是潘金莲</title>
+  <originaltitle>我不是潘金莲</originaltitle>
+  <actor>
+    <name>Fan Bingbing</name>
+    <role>Li Xuelian</role>
+    <type>Actor</type>
+    <tmdbid>64439</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Jiayi</name>
+    <role>Mayor Ma</role>
+    <type>Actor</type>
+    <tmdbid>107775</tmdbid>
+    <imdbid>nm2192622</imdbid>
+  </actor>
+  <actor>
+    <name>Guo Tao</name>
+    <role>Zhao Datou</role>
+    <type>Actor</type>
+    <tmdbid>548608</tmdbid>
+    <imdbid>nm0849919</imdbid>
+  </actor>
+  <actor>
+    <name>Dong Chengpeng</name>
+    <role>Wang Gungdao</role>
+    <type>Actor</type>
+    <tmdbid>1292116</tmdbid>
+    <imdbid>nm3934959</imdbid>
+  </actor>
+  <actor>
+    <name>Zhang Yi</name>
+    <role>Jia Jongming</role>
+    <type>Actor</type>
+    <tmdbid>146098</tmdbid>
+    <imdbid>nm3589263</imdbid>
+  </actor>
+  <actor>
+    <name>Yu Hewei</name>
+    <role>Zheng Zhong</role>
+    <type>Actor</type>
+    <tmdbid>1344903</tmdbid>
+    <imdbid>nm3388842</imdbid>
+  </actor>
+  <actor>
+    <name>Li Zonghan</name>
+    <role>Qin Yuhe</role>
+    <type>Actor</type>
+    <tmdbid>1356429</tmdbid>
+  </actor>
+  <actor>
+    <name>Tian Xiaojie</name>
+    <role>Mayor's secretary</role>
+    <type>Actor</type>
+    <tmdbid>1637213</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhao Lixin</name>
+    <role>County Chief Shi</role>
+    <type>Actor</type>
+    <tmdbid>1513411</tmdbid>
+  </actor>
+  <actor>
+    <name>Fan Wei</name>
+    <role>Tree owner</role>
+    <type>Actor</type>
+    <tmdbid>134029</tmdbid>
+    <imdbid>nm1981215</imdbid>
+  </actor>
+  <actor>
+    <name>Liu Hua</name>
+    <role>Luo Hu</role>
+    <type>Actor</type>
+    <tmdbid>929120</tmdbid>
+    <imdbid>nm2348837</imdbid>
+  </actor>
+  <actor>
+    <name>Huang Jianxin</name>
+    <role>Governor Chu</role>
+    <type>Actor</type>
+    <tmdbid>134026</tmdbid>
+  </actor>
+  <actor>
+    <name>Gao Ming</name>
+    <role>Party Leader</role>
+    <type>Actor</type>
+    <tmdbid>2035972</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerry Lee</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>130984</tmdbid>
+  </actor>
+  <actor>
+    <name>Feng Enhe</name>
+    <role>Retired Judge</role>
+    <type>Actor</type>
+    <tmdbid>3075887</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiang Yongbo</name>
+    <role>Mayor Sai</role>
+    <type>Actor</type>
+    <tmdbid>2309910</tmdbid>
+  </actor>
+  <actor>
+    <name>Hu Ming</name>
+    <role>Ambulance Driver</role>
+    <type>Actor</type>
+    <tmdbid>1995085</tmdbid>
+  </actor>
+  <actor>
+    <name>Yin Yuhang</name>
+    <role>Wife of Xiao Jiao</role>
+    <type>Actor</type>
+    <tmdbid>2795464</tmdbid>
+  </actor>
+  <director tmdbid="1287732" imdbid="nm0271815">Feng Xiaogang</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4iQXpdcX33A</trailer>
+  <rating>6.9</rating>
+  <year>2016</year>
+  <mpaa>HK-IIA</mpaa>
+  <imdbid>tt5918090</imdbid>
+  <tmdbid>400114</tmdbid>
+  <premiered>2016-09-29</premiered>
+  <releasedate>2016-09-29</releasedate>
+  <criticrating>83</criticrating>
+  <runtime>139</runtime>
+  <country>China</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <studio>Huayi Brothers Pictures</studio>
+  <uniqueid type="Tmdb">400114</uniqueid>
+  <uniqueid type="Imdb">tt5918090</uniqueid>
+  <id>tt5918090</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10648001</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>139</duration>
+        <durationinseconds>8340</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

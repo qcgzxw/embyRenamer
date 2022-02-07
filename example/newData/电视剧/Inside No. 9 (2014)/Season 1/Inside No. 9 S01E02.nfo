@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Gerald拥有的一张名画招来的事端…]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-06 22:41:43</dateadded>
+  <title>静夜</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Denis Lawson</name>
+    <role>Gerald</role>
+    <type>GuestStar</type>
+    <tmdbid>47698</tmdbid>
+  </actor>
+  <actor>
+    <name>Oona Chaplin</name>
+    <role>Sabrina</role>
+    <type>GuestStar</type>
+    <tmdbid>566331</tmdbid>
+  </actor>
+  <actor>
+    <name>Joyce Veheary</name>
+    <role>Kim</role>
+    <type>GuestStar</type>
+    <tmdbid>1403217</tmdbid>
+  </actor>
+  <actor>
+    <name>Kayvan Novak</name>
+    <role>Paul</role>
+    <type>GuestStar</type>
+    <tmdbid>2959</tmdbid>
+  </actor>
+  <director>David Kerr</director>
+  <rating>8.818</rating>
+  <year>2014</year>
+  <imdbid>tt3280024</imdbid>
+  <tvdbid>4756887</tvdbid>
+  <runtime>29</runtime>
+  <tvrageid>1065471573</tvrageid>
+  <uniqueid type="Tvdb">4756887</uniqueid>
+  <uniqueid type="TvRage">1065471573</uniqueid>
+  <uniqueid type="Imdb">tt3280024</uniqueid>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2014-02-12</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10675240</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1757</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

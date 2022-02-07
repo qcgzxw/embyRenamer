@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[武泽竹夫（阿部宽 饰），绰号“老武”，人过中年的他是一个有着丰富经验的职业欺诈师，他与貌不惊人并且反应迟钝的入川铁巳“老铁”（村上昭二 饰）不打不相识，将后者引入行与自己结为搭档，穿行于都市的各个角落，银行、赛马场、当铺随处可见他们行骗的身影。拥有不堪回首过去的二人相互扶持，在底层过着不咸不淡的生活。某天，这对搭档与姐妹花河合八寻（石原里美 饰）、河合真寻（能年玲奈 饰）以及男孩石屋贯太郎（小柳友 饰）的人生发生交集。五个人生处于最底层的人，组成了一个略显别扭的临时家庭，他们朝着人生的转折点携手前进...]]></plot>
+  <outline><![CDATA[乌鸦的拇指]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2018-11-11 15:51:21</dateadded>
+  <title>乌鸦的拇指</title>
+  <originaltitle>カラスの親指</originaltitle>
+  <actor>
+    <name>Hiroshi Abe</name>
+    <role>Take</role>
+    <type>Actor</type>
+    <tmdbid>66155</tmdbid>
+    <imdbid>nm0008346</imdbid>
+  </actor>
+  <actor>
+    <name>Satomi Ishihara</name>
+    <role>Yahiro</role>
+    <type>Actor</type>
+    <tmdbid>224664</tmdbid>
+    <imdbid>nm1595000</imdbid>
+  </actor>
+  <actor>
+    <name>Shôji Murakami</name>
+    <role>Irikawa</role>
+    <type>Actor</type>
+    <tmdbid>1209292</tmdbid>
+    <imdbid>nm0613489</imdbid>
+  </actor>
+  <actor>
+    <name>Yū Koyanagi</name>
+    <role>Kantaro</role>
+    <type>Actor</type>
+    <tmdbid>85004</tmdbid>
+    <imdbid>nm2431331</imdbid>
+  </actor>
+  <actor>
+    <name>Non</name>
+    <role>Mahiro</role>
+    <type>Actor</type>
+    <tmdbid>1405924</tmdbid>
+    <imdbid>nm3945531</imdbid>
+  </actor>
+  <actor>
+    <name>Takeshi Nadagi</name>
+    <role>Tontontei restaurant employee</role>
+    <type>Actor</type>
+    <tmdbid>144948</tmdbid>
+    <imdbid>nm2165911</imdbid>
+  </actor>
+  <actor>
+    <name>Shingo Tsurumi</name>
+    <role>Higuchi</role>
+    <type>Actor</type>
+    <tmdbid>58665</tmdbid>
+    <imdbid>nm0875457</imdbid>
+  </actor>
+  <actor>
+    <name>Shigeyuki Totsugi</name>
+    <role>Tontontei restaurant manager</role>
+    <type>Actor</type>
+    <tmdbid>1251804</tmdbid>
+    <imdbid>nm1926657</imdbid>
+  </actor>
+  <actor>
+    <name>Yūsuke Santamaria</name>
+    <role>racetrack customer</role>
+    <type>Actor</type>
+    <tmdbid>120435</tmdbid>
+    <imdbid>nm0763227</imdbid>
+  </actor>
+  <actor>
+    <name>Kôichi Ueda</name>
+    <role>Higuchi's subordinate</role>
+    <type>Actor</type>
+    <tmdbid>50659</tmdbid>
+    <imdbid>nm0879919</imdbid>
+  </actor>
+  <actor>
+    <name>Nao Okabe</name>
+    <type>Actor</type>
+    <tmdbid>1057923</tmdbid>
+    <imdbid>nm2486937</imdbid>
+  </actor>
+  <actor>
+    <name>Kosaka Daimao</name>
+    <role>Nogami</role>
+    <type>Actor</type>
+    <tmdbid>1501217</tmdbid>
+  </actor>
+  <actor>
+    <name>Kei Ishibashi</name>
+    <type>Actor</type>
+    <tmdbid>1078678</tmdbid>
+    <imdbid>nm0410896</imdbid>
+  </actor>
+  <actor>
+    <name>Jiro Kagoshima</name>
+    <type>Actor</type>
+    <tmdbid>1501218</tmdbid>
+  </actor>
+  <actor>
+    <name>Wakato Kanematsu</name>
+    <type>Actor</type>
+    <tmdbid>1461421</tmdbid>
+  </actor>
+  <actor>
+    <name>Bengal</name>
+    <type>Actor</type>
+    <tmdbid>564894</tmdbid>
+  </actor>
+  <director tmdbid="1024385" imdbid="nm3037814">Tadafumi Ito</director>
+  <rating>6.3</rating>
+  <year>2012</year>
+  <imdbid>tt2005255</imdbid>
+  <tmdbid>219049</tmdbid>
+  <premiered>2012-11-21</premiered>
+  <releasedate>2012-11-21</releasedate>
+  <runtime>160</runtime>
+  <tagline>乌鸦的拇指</tagline>
+  <country>Japan</country>
+  <genre>惊悚</genre>
+  <genre>剧情</genre>
+  <genre>喜剧</genre>
+  <studio>Fox International Productions</studio>
+  <uniqueid type="Tmdb">219049</uniqueid>
+  <uniqueid type="Imdb">tt2005255</uniqueid>
+  <id>tt2005255</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1576978</bitrate>
+        <width>1024</width>
+        <height>552</height>
+        <aspect>128:69</aspect>
+        <aspectratio>128:69</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>160</duration>
+        <durationinseconds>9624</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

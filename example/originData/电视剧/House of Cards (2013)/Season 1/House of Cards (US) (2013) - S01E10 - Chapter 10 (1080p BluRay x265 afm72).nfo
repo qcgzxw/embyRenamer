@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[　　弗兰克决定清理组织内的叛徒，佐伊告知弗兰克其实是被克莱尔在背后捅刀子，经过商量克莱尔认为自己仍需要雷米的帮助，在这点上两人意见发生了严重不合，两人不欢而散。罗素也掌握了弗兰克的把柄，并要挟弗兰克尽快帮他解决问题，弗兰克陷入窘境。克莱尔专程去找佐伊，弗兰克知情后回家克莱尔却已经走了。罗素得知要与雷米合作后有些惊讶，但还是同意了。瑞秋受道格委托去接近罗素。罗素抵不住诱惑，与其翻云覆雨了一番，到了早上才发现自己误事搞砸了采访。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-24 07:18:19</dateadded>
+  <title>第 10 集</title>
+  <actor>
+    <name>Kevin Spacey</name>
+    <role>Frank Underwood</role>
+    <type>Actor</type>
+    <tmdbid>1979</tmdbid>
+    <imdbid>nm0000228</imdbid>
+  </actor>
+  <actor>
+    <name>Robin Wright</name>
+    <role>Claire Underwood</role>
+    <type>Actor</type>
+    <tmdbid>32</tmdbid>
+    <imdbid>nm0000705</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Kelly</name>
+    <role>Doug Stamper</role>
+    <type>Actor</type>
+    <tmdbid>50217</tmdbid>
+    <imdbid>nm0446672</imdbid>
+  </actor>
+  <actor>
+    <name>Kristen Connolly</name>
+    <role>Christina Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>210824</tmdbid>
+    <imdbid>nm1393354</imdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Arcelus</name>
+    <role>Lucas Goodwin</role>
+    <type>Actor</type>
+    <tmdbid>103545</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathan Darrow</name>
+    <role>Edward Meechum</role>
+    <type>Actor</type>
+    <tmdbid>1224255</tmdbid>
+    <imdbid>nm2080557</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Mara</name>
+    <role>Zoe Barnes</role>
+    <type>Actor</type>
+    <tmdbid>51072</tmdbid>
+  </actor>
+  <actor>
+    <name>Constance Zimmer</name>
+    <role>Janine Skorsky</role>
+    <type>Actor</type>
+    <tmdbid>156204</tmdbid>
+    <imdbid>nm0956603</imdbid>
+  </actor>
+  <actor>
+    <name>Sakina Jaffrey</name>
+    <role>Linda Vasquez</role>
+    <type>Actor</type>
+    <tmdbid>34200</tmdbid>
+  </actor>
+  <actor>
+    <name>Michel Gill</name>
+    <role>Garrett Walker</role>
+    <type>Actor</type>
+    <tmdbid>1224256</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Brosnahan</name>
+    <role>Rachel Posner</role>
+    <type>Actor</type>
+    <tmdbid>993774</tmdbid>
+    <imdbid>nm3014031</imdbid>
+  </actor>
+  <actor>
+    <name>Boris McGiver</name>
+    <role>Tom Hammerschmidt</role>
+    <type>Actor</type>
+    <tmdbid>151432</tmdbid>
+    <imdbid>nm0569409</imdbid>
+  </actor>
+  <actor>
+    <name>Corey Stoll</name>
+    <role>Peter Russo</role>
+    <type>Actor</type>
+    <tmdbid>74541</tmdbid>
+  </actor>
+  <actor>
+    <name>Mahershala Ali</name>
+    <role>Remy Danton</role>
+    <type>Actor</type>
+    <tmdbid>932967</tmdbid>
+    <imdbid>nm0991810</imdbid>
+  </actor>
+  <actor>
+    <name>Chance Kelly</name>
+    <role>Steve</role>
+    <type>Actor</type>
+    <tmdbid>17194</tmdbid>
+    <imdbid>nm0446257</imdbid>
+  </actor>
+  <actor>
+    <name>Reg E. Cathey</name>
+    <role>Freddy</role>
+    <type>GuestStar</type>
+    <tmdbid>38951</tmdbid>
+    <imdbid>nm0146146</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Daniels</name>
+    <role>Adam Galloway</role>
+    <type>GuestStar</type>
+    <tmdbid>27632</tmdbid>
+    <imdbid>nm0199842</imdbid>
+  </actor>
+  <rating>7.8</rating>
+  <year>2013</year>
+  <imdbid>tt2468204</imdbid>
+  <tvdbid>4481716</tvdbid>
+  <runtime>53</runtime>
+  <genre>Drama</genre>
+  <tvrageid>1065274666</tvrageid>
+  <uniqueid type="Imdb">tt2468204</uniqueid>
+  <uniqueid type="Tvdb">4481716</uniqueid>
+  <uniqueid type="TvRage">1065274666</uniqueid>
+  <episode>10</episode>
+  <season>1</season>
+  <aired>2013-02-01</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3421742</bitrate>
+        <width>1920</width>
+        <height>962</height>
+        <aspect>960:481</aspect>
+        <aspectratio>960:481</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>52</duration>
+        <durationinseconds>3178</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

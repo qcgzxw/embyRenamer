@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[“你好，我是小舞，跳舞的舞”。刚刚被硬推上宿舍老大位置的唐三，因为规矩不得不跟小舞切磋一番而后因为小舞的柔技而败给了小舞，成为当七舍老大时间最短的人。但小舞却对他格外关心，还要求把他俩的床拼在一起，引起了众人的非议...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-21 01:45:32</dateadded>
+  <title>第 1 部分（缘起篇）：第 5 集「唐三跟小舞切磋了一番」</title>
+  <actor>
+    <name>Shen Lei</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Yuzhu Cheng</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Xiaobing Wang</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kang Ni</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Leo Wu</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Qi Zhang</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Dian Tao</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ying Huang</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Zhao Qianjing</name>
+    <type>Actor</type>
+  </actor>
+  <rating>0</rating>
+  <year>2018</year>
+  <runtime>22</runtime>
+  <episode>5</episode>
+  <season>1</season>
+  <aired>2018-02-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3598796</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>30</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1311</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>95030</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

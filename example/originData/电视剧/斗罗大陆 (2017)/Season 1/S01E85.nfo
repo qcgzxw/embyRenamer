@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[在火无双被唐三击败后，炽火学院又派出了5名队员，却接连战败，难道炽火学院真的要被唐三一个人一穿七吗？紧接着最后一个上场的是副队长火舞，经过这段时间的修炼，火舞突破了43级的瓶颈，成了44级的魂宗。凭借精准的魂力操控和一手独特的融环技能，火舞使出了最强魂技“火舞耀阳”，可她知道这样还是不敌唐三，为了学院的荣辱，火舞决心和唐三同归于尽在这第四魂技之下。为了不让史莱克和炽火学院结仇，唐三用八蛛魂骨包围着二人挡下了这一魂技，救了火舞一命，可唐三却受伤不能继续战斗，最终二人这一战以火舞的胜利结束...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-21 01:45:32</dateadded>
+  <title>第 3 部分（昊天扬威篇）：第 85 集「火舞成了44级的魂宗」</title>
+  <actor>
+    <name>Shen Lei</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Yuzhu Cheng</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Xiaobing Wang</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kang Ni</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Leo Wu</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Qi Zhang</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Dian Tao</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ying Huang</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Zhao Qianjing</name>
+    <type>Actor</type>
+  </actor>
+  <rating>0</rating>
+  <year>2019</year>
+  <runtime>21</runtime>
+  <episode>85</episode>
+  <season>1</season>
+  <aired>2019-08-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3142848</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>30</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>20</duration>
+        <durationinseconds>1258</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>94488</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

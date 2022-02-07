@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[红军精英部队在西伯利亚密林中与远古邪灵展开了恶战。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-27 15:23:37</dateadded>
+  <title>秘密战争</title>
+  <actor>
+    <name>Stefan Kapičić</name>
+    <role>Lt. Nikolai Zakharov (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>80507</tmdbid>
+    <imdbid>nm1292973</imdbid>
+  </actor>
+  <actor>
+    <name>Bruce Thomas</name>
+    <role>Sr. Sergeant Kravchenko / Private Kaminsky (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>79497</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Berg</name>
+    <role>Malenchenko (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1362293</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Álvarez</name>
+    <role>Jr. Sergeant Okhchen (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1580214</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor Brandt</name>
+    <role>Corporal Pogodin (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>153606</tmdbid>
+  </actor>
+  <actor>
+    <name>Sergej Onopko</name>
+    <role>Private Kaminsky (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1577093</tmdbid>
+  </actor>
+  <director>István Zorkóczy</director>
+  <rating>7.339</rating>
+  <year>2019</year>
+  <imdbid>tt9788518</imdbid>
+  <tvdbid>7069846</tvdbid>
+  <runtime>16</runtime>
+  <genre>Animation</genre>
+  <genre>Short</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <genre>Horror</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt9788518</uniqueid>
+  <uniqueid type="Tvdb">7069846</uniqueid>
+  <episode>18</episode>
+  <season>1</season>
+  <aired>2019-03-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5258082</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>16</duration>
+        <durationinseconds>982</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>361115</bitrate>
+        <language>war</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

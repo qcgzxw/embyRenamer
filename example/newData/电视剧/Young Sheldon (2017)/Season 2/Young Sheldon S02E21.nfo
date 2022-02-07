@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[库珀夫妇帮助杰夫牧师度过了婚姻中的一段艰难时期。另外，当玛丽带他去工作一天时，谢尔顿向教会成员施压，要求他们捐款。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-11 05:58:50</dateadded>
+  <title>一颗破碎的心和一个瓦罐怪物</title>
+  <actor>
+    <name>Iain Armitage</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1684536</tmdbid>
+    <imdbid>nm8071137</imdbid>
+  </actor>
+  <actor>
+    <name>Zoe Perry</name>
+    <role>Mary Cooper</role>
+    <type>Actor</type>
+    <tmdbid>133450</tmdbid>
+    <imdbid>nm1409365</imdbid>
+  </actor>
+  <actor>
+    <name>Lance Barber</name>
+    <role>George Cooper Sr.</role>
+    <type>Actor</type>
+    <tmdbid>1212111</tmdbid>
+    <imdbid>nm1115741</imdbid>
+  </actor>
+  <actor>
+    <name>Montana Jordan</name>
+    <role>Georgie Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1817307</tmdbid>
+    <imdbid>nm7718664</imdbid>
+  </actor>
+  <actor>
+    <name>Raegan Revord</name>
+    <role>Missy Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1575317</tmdbid>
+    <imdbid>nm6862942</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Potts</name>
+    <role>Connie Tucker</role>
+    <type>Actor</type>
+    <tmdbid>8873</tmdbid>
+    <imdbid>nm0001633</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Hobby</name>
+    <role>Jeff Difford</role>
+    <type>GuestStar</type>
+    <tmdbid>1536526</tmdbid>
+  </actor>
+  <actor>
+    <name>Mary Grill</name>
+    <role>Robin</role>
+    <type>GuestStar</type>
+    <tmdbid>1569790</tmdbid>
+    <imdbid>nm4464409</imdbid>
+  </actor>
+  <actor>
+    <name>Danielle Pinnock</name>
+    <role>Evelyn Ingram</role>
+    <type>GuestStar</type>
+    <tmdbid>2000332</tmdbid>
+    <imdbid>nm8492984</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Stepanek</name>
+    <role>Hubert Givens</role>
+    <type>GuestStar</type>
+    <tmdbid>146391</tmdbid>
+    <imdbid>nm0826745</imdbid>
+  </actor>
+  <actor>
+    <name>Nancy Linehan Charles</name>
+    <role>Peg</role>
+    <type>GuestStar</type>
+    <tmdbid>110928</tmdbid>
+    <imdbid>nm0153108</imdbid>
+  </actor>
+  <actor>
+    <name>Wallace Shawn</name>
+    <role>John Sturgis</role>
+    <type>GuestStar</type>
+    <tmdbid>12900</tmdbid>
+    <imdbid>nm0001728</imdbid>
+  </actor>
+  <actor>
+    <name>Doc Farrow</name>
+    <role>Wayne Wilkins</role>
+    <type>GuestStar</type>
+    <tmdbid>2050369</tmdbid>
+    <imdbid>nm4402680</imdbid>
+  </actor>
+  <rating>6.7</rating>
+  <year>2019</year>
+  <imdbid>tt9547998</imdbid>
+  <tvdbid>7152841</tvdbid>
+  <runtime>21</runtime>
+  <genre>Comedy</genre>
+  <uniqueid type="Imdb">tt9547998</uniqueid>
+  <uniqueid type="Tvdb">7152841</uniqueid>
+  <episode>21</episode>
+  <season>2</season>
+  <aired>2019-05-09</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3047894</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>20</duration>
+        <durationinseconds>1247</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

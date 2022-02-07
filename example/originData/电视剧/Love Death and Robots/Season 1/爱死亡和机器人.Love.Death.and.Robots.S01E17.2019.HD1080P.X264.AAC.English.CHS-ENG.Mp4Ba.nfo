@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[想看希特勒花式脑洞嗝屁？
+
+千万嫑错过虚拟多重宇宙！]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-27 16:09:28</dateadded>
+  <title>不一样的历史</title>
+  <actor>
+    <name>Rebecca Riedy</name>
+    <role>Computer Voice</role>
+    <type>GuestStar</type>
+    <tmdbid>2219585</tmdbid>
+  </actor>
+  <actor>
+    <name>Dieter Jansen</name>
+    <role>Young Hitler (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>2268729</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Whyte</name>
+    <role>Future Nazi (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>71520</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Cox</name>
+    <role>Male Backgound (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>136930</tmdbid>
+  </actor>
+  <director>Victor Maldonado</director>
+  <director>Alfredo Torres Martínez</director>
+  <rating>6.382</rating>
+  <year>2019</year>
+  <imdbid>tt9788516</imdbid>
+  <tvdbid>7069845</tvdbid>
+  <runtime>8</runtime>
+  <genre>Animation</genre>
+  <genre>Short</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <genre>Horror</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt9788516</uniqueid>
+  <uniqueid type="Tvdb">7069845</uniqueid>
+  <episode>17</episode>
+  <season>1</season>
+  <aired>2019-03-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4849352</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>7</duration>
+        <durationinseconds>474</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>357322</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

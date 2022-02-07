@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[　　弗兰西斯.安德伍德做了一段漂亮的开场白，他是美国国会多数党领袖，一个老谋深算的职业政客，已经在国会待了很多年。他坚信新当选的美国总统和他的幕僚背叛了他，于是便发誓要将这一任总统赶下台。他在立法问题上多次与现任总统作对，并且命令自己一手扶持起来的年轻女记者利用新闻武器来帮助他。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-23 00:14:30</dateadded>
+  <title>第 1 集</title>
+  <actor>
+    <name>Kevin Spacey</name>
+    <role>Frank Underwood</role>
+    <type>Actor</type>
+    <tmdbid>1979</tmdbid>
+    <imdbid>nm0000228</imdbid>
+  </actor>
+  <actor>
+    <name>Robin Wright</name>
+    <role>Claire Underwood</role>
+    <type>Actor</type>
+    <tmdbid>32</tmdbid>
+    <imdbid>nm0000705</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Kelly</name>
+    <role>Doug Stamper</role>
+    <type>Actor</type>
+    <tmdbid>50217</tmdbid>
+    <imdbid>nm0446672</imdbid>
+  </actor>
+  <actor>
+    <name>Kristen Connolly</name>
+    <role>Christina Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>210824</tmdbid>
+    <imdbid>nm1393354</imdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Arcelus</name>
+    <role>Lucas Goodwin</role>
+    <type>Actor</type>
+    <tmdbid>103545</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathan Darrow</name>
+    <role>Edward Meechum</role>
+    <type>Actor</type>
+    <tmdbid>1224255</tmdbid>
+    <imdbid>nm2080557</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Mara</name>
+    <role>Zoe Barnes</role>
+    <type>Actor</type>
+    <tmdbid>51072</tmdbid>
+  </actor>
+  <actor>
+    <name>Constance Zimmer</name>
+    <role>Janine Skorsky</role>
+    <type>Actor</type>
+    <tmdbid>156204</tmdbid>
+    <imdbid>nm0956603</imdbid>
+  </actor>
+  <actor>
+    <name>Sakina Jaffrey</name>
+    <role>Linda Vasquez</role>
+    <type>Actor</type>
+    <tmdbid>34200</tmdbid>
+  </actor>
+  <actor>
+    <name>Michel Gill</name>
+    <role>Garrett Walker</role>
+    <type>Actor</type>
+    <tmdbid>1224256</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Brosnahan</name>
+    <role>Rachel Posner</role>
+    <type>Actor</type>
+    <tmdbid>993774</tmdbid>
+    <imdbid>nm3014031</imdbid>
+  </actor>
+  <actor>
+    <name>Boris McGiver</name>
+    <role>Tom Hammerschmidt</role>
+    <type>Actor</type>
+    <tmdbid>151432</tmdbid>
+    <imdbid>nm0569409</imdbid>
+  </actor>
+  <actor>
+    <name>Corey Stoll</name>
+    <role>Peter Russo</role>
+    <type>Actor</type>
+    <tmdbid>74541</tmdbid>
+  </actor>
+  <actor>
+    <name>Mahershala Ali</name>
+    <role>Remy Danton</role>
+    <type>Actor</type>
+    <tmdbid>932967</tmdbid>
+    <imdbid>nm0991810</imdbid>
+  </actor>
+  <actor>
+    <name>Chance Kelly</name>
+    <role>Steve</role>
+    <type>Actor</type>
+    <tmdbid>17194</tmdbid>
+    <imdbid>nm0446257</imdbid>
+  </actor>
+  <actor>
+    <name>Jayne Atkinson</name>
+    <role>Catherine Durant</role>
+    <type>GuestStar</type>
+    <tmdbid>18261</tmdbid>
+    <imdbid>nm0040739</imdbid>
+  </actor>
+  <actor>
+    <name>Dan Ziskie</name>
+    <role>Jim Matthews</role>
+    <type>GuestStar</type>
+    <tmdbid>61323</tmdbid>
+    <imdbid>nm0957201</imdbid>
+  </actor>
+  <actor>
+    <name>Reg E. Cathey</name>
+    <role>Freddy</role>
+    <type>GuestStar</type>
+    <tmdbid>38951</tmdbid>
+    <imdbid>nm0146146</imdbid>
+  </actor>
+  <actor>
+    <name>Reed Birney</name>
+    <role>Donald Blythe</role>
+    <type>GuestStar</type>
+    <tmdbid>163774</tmdbid>
+  </actor>
+  <director tmdbid="7467" imdbid="nm0000399">David Fincher</director>
+  <rating>7.7</rating>
+  <year>2013</year>
+  <imdbid>tt2161930</imdbid>
+  <tvdbid>4411361</tvdbid>
+  <runtime>56</runtime>
+  <genre>Drama</genre>
+  <tvrageid>1065229295</tvrageid>
+  <uniqueid type="Imdb">tt2161930</uniqueid>
+  <uniqueid type="Tvdb">4411361</uniqueid>
+  <uniqueid type="TvRage">1065229295</uniqueid>
+  <episode>1</episode>
+  <season>1</season>
+  <aired>2013-02-01</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4428958</bitrate>
+        <width>1920</width>
+        <height>962</height>
+        <aspect>960:481</aspect>
+        <aspectratio>960:481</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>55</duration>
+        <durationinseconds>3357</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

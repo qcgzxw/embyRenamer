@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[弗兰克得知一位亿万富翁慈善家已经购买了无家可归者收容所，他和他的家族可以留下。 伊恩为特雷弗的感情挣扎。菲奥娜从Tinder获得了明智的财务建议。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-17 01:02:47</dateadded>
+  <title>自己动手</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Isidora Goreshter</name>
+    <role>Svetlana Yevgenivna</role>
+    <type>Actor</type>
+    <tmdbid>1677397</tmdbid>
+  </actor>
+  <actor>
+    <name>Elliot Fletcher</name>
+    <role>Trevor</role>
+    <type>GuestStar</type>
+    <tmdbid>1601960</tmdbid>
+  </actor>
+  <actor>
+    <name>Arden Myrin</name>
+    <role>Dollface Dolores</role>
+    <type>GuestStar</type>
+    <tmdbid>120244</tmdbid>
+  </actor>
+  <actor>
+    <name>Zack Pearlman</name>
+    <role>Neil Morton</role>
+    <type>GuestStar</type>
+    <tmdbid>130535</tmdbid>
+  </actor>
+  <director>Christopher Chulack</director>
+  <rating>5.3</rating>
+  <year>2016</year>
+  <imdbid>tt5638836</imdbid>
+  <tvdbid>5719829</tvdbid>
+  <runtime>53</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt5638836</uniqueid>
+  <uniqueid type="Tvdb">5719829</uniqueid>
+  <episode>5</episode>
+  <season>7</season>
+  <aired>2016-10-30</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10762882</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>52</duration>
+        <durationinseconds>3168</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

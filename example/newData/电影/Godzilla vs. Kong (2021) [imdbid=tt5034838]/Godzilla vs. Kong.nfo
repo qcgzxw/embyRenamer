@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[帝王组织在险峻未知的地心世界执行一项危险任务时找到了巨兽起源的线索。与此同时，人类计划将所有巨兽从地球上抹去的阴谋渐渐浮出水面，而传说中哥斯拉和金刚两个王者的世纪对决也将一触即发。]]></plot>
+  <outline><![CDATA[世纪对决，激战解压]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-01 20:36:47</dateadded>
+  <title>哥斯拉大战金刚</title>
+  <originaltitle>Godzilla vs. Kong</originaltitle>
+  <actor>
+    <name>Alexander Skarsgård</name>
+    <role>Dr. Nathan Lind</role>
+    <type>Actor</type>
+    <tmdbid>28846</tmdbid>
+    <imdbid>nm0002907</imdbid>
+  </actor>
+  <actor>
+    <name>Millie Bobby Brown</name>
+    <role>Madison Russell</role>
+    <type>Actor</type>
+    <tmdbid>1356210</tmdbid>
+    <imdbid>nm5611121</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Hall</name>
+    <role>Dr. Ilene Andrews</role>
+    <type>Actor</type>
+    <tmdbid>15556</tmdbid>
+    <imdbid>nm0356017</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Tyree Henry</name>
+    <role>Bernie Hayes</role>
+    <type>Actor</type>
+    <tmdbid>226366</tmdbid>
+    <imdbid>nm3109964</imdbid>
+  </actor>
+  <actor>
+    <name>Shun Oguri</name>
+    <role>Ren Serizawa</role>
+    <type>Actor</type>
+    <tmdbid>46364</tmdbid>
+    <imdbid>nm1040419</imdbid>
+  </actor>
+  <actor>
+    <name>Eiza González</name>
+    <role>Maia Simmons</role>
+    <type>Actor</type>
+    <tmdbid>1222992</tmdbid>
+    <imdbid>nm2555462</imdbid>
+  </actor>
+  <actor>
+    <name>Julian Dennison</name>
+    <role>Josh Valentine</role>
+    <type>Actor</type>
+    <tmdbid>1139349</tmdbid>
+    <imdbid>nm5421877</imdbid>
+  </actor>
+  <actor>
+    <name>Lance Reddick</name>
+    <role>Guillermin</role>
+    <type>Actor</type>
+    <tmdbid>129101</tmdbid>
+    <imdbid>nm0714698</imdbid>
+  </actor>
+  <actor>
+    <name>Kyle Chandler</name>
+    <role>Mark Russell</role>
+    <type>Actor</type>
+    <tmdbid>3497</tmdbid>
+    <imdbid>nm0151419</imdbid>
+  </actor>
+  <actor>
+    <name>Demián Bichir</name>
+    <role>Walter Simmons</role>
+    <type>Actor</type>
+    <tmdbid>76961</tmdbid>
+    <imdbid>nm0065007</imdbid>
+  </actor>
+  <actor>
+    <name>Kaylee Hottle</name>
+    <role>Jia</role>
+    <type>Actor</type>
+    <tmdbid>2948491</tmdbid>
+    <imdbid>nm10544447</imdbid>
+  </actor>
+  <actor>
+    <name>Hakeem Kae-Kazim</name>
+    <role>Admiral Wilcox</role>
+    <type>Actor</type>
+    <tmdbid>2603</tmdbid>
+    <imdbid>nm0434444</imdbid>
+  </actor>
+  <actor>
+    <name>Ronny Chieng</name>
+    <role>Jay Wayne</role>
+    <type>Actor</type>
+    <tmdbid>1319469</tmdbid>
+    <imdbid>nm5307044</imdbid>
+  </actor>
+  <actor>
+    <name>John Pirruccello</name>
+    <role>Horace</role>
+    <type>Actor</type>
+    <tmdbid>1178193</tmdbid>
+    <imdbid>nm0685328</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Chalk</name>
+    <role>Ben</role>
+    <type>Actor</type>
+    <tmdbid>172096</tmdbid>
+    <imdbid>nm1663252</imdbid>
+  </actor>
+  <actor>
+    <name>Conlan Casal</name>
+    <role>Apex Cybernetics Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>2545317</tmdbid>
+    <imdbid>nm9176519</imdbid>
+  </actor>
+  <actor>
+    <name>Brad McMurray</name>
+    <role>Apex Cybernetics Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>123540</tmdbid>
+    <imdbid>nm1070820</imdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Rigby</name>
+    <role>Sonar Operator</role>
+    <type>Actor</type>
+    <tmdbid>1371541</tmdbid>
+    <imdbid>nm4430268</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Turello</name>
+    <role>Apex Cybernetics Armed Guard</role>
+    <type>Actor</type>
+    <tmdbid>2272452</tmdbid>
+    <imdbid>nm3821718</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Nelson</name>
+    <role>Hayworth</role>
+    <type>Actor</type>
+    <tmdbid>2881089</tmdbid>
+    <imdbid>nm4260641</imdbid>
+  </actor>
+  <actor>
+    <name>Priscilla Doueihy</name>
+    <role>Monarch Mission Tech</role>
+    <type>Actor</type>
+    <tmdbid>2102960</tmdbid>
+    <imdbid>nm6695727</imdbid>
+  </actor>
+  <actor>
+    <name>Kei Kudo</name>
+    <role>HEAV Pilot</role>
+    <type>Actor</type>
+    <tmdbid>2958901</tmdbid>
+    <imdbid>nm11035117</imdbid>
+  </actor>
+  <actor>
+    <name>Bradd Buckley</name>
+    <role>HEAV Pilot</role>
+    <type>Actor</type>
+    <tmdbid>1871679</tmdbid>
+    <imdbid>nm0118575</imdbid>
+  </actor>
+  <actor>
+    <name>John Walton</name>
+    <role>HEAV Co-Pilot</role>
+    <type>Actor</type>
+    <tmdbid>1265157</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Tuiara</name>
+    <role>HEAV Co-Pilot</role>
+    <type>Actor</type>
+    <tmdbid>2612144</tmdbid>
+  </actor>
+  <actor>
+    <name>David Castillo</name>
+    <role>Maia Apex Cybernetics Guard</role>
+    <type>Actor</type>
+    <tmdbid>1696636</tmdbid>
+    <imdbid>nm0145045</imdbid>
+  </actor>
+  <actor>
+    <name>Kofi Yiadom</name>
+    <role>Maia Apex Cybernetics Guard</role>
+    <type>Actor</type>
+    <tmdbid>1298704</tmdbid>
+    <imdbid>nm1560081</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Palmer</name>
+    <role>Maia Apex Cybernetics Guard</role>
+    <type>Actor</type>
+    <tmdbid>9568</tmdbid>
+    <imdbid>nm0658293</imdbid>
+  </actor>
+  <actor>
+    <name>Drew Walton</name>
+    <role>David Lind (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2958904</tmdbid>
+    <imdbid>nm11311752</imdbid>
+  </actor>
+  <actor>
+    <name>Tara Wraith</name>
+    <role>Monarch Flight Crew (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1692993</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Virgil</name>
+    <role>Bartender (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2027791</tmdbid>
+  </actor>
+  <actor>
+    <name>Grisel Toledo</name>
+    <role>Apex Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2524631</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Szabo</name>
+    <role>Monarch Tactical Guard</role>
+    <type>Actor</type>
+    <tmdbid>2265521</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Speer</name>
+    <role>Monarch Board Member (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1486626</tmdbid>
+  </actor>
+  <actor>
+    <name>Sen Shao</name>
+    <role>Thug (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2030686</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott M. Schewe</name>
+    <role>Fisherman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1879911</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Sans</name>
+    <role>Apex Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2965914</tmdbid>
+  </actor>
+  <actor>
+    <name>Tasneem Roc</name>
+    <role>Reporter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1244248</tmdbid>
+  </actor>
+  <actor>
+    <name>Diezel Ramos</name>
+    <role>Monarch Military (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2573855</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon Quested</name>
+    <role>Construction Worker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1840497</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Pierce</name>
+    <role>Monarch Tech #2 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2269093</tmdbid>
+  </actor>
+  <actor>
+    <name>Sofia Nolan</name>
+    <role>Mean Girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2537658</tmdbid>
+  </actor>
+  <actor>
+    <name>Shawn McBride</name>
+    <role>Fisherman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1879895</tmdbid>
+  </actor>
+  <actor>
+    <name>Clay Mason</name>
+    <role>Refugee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2545358</tmdbid>
+  </actor>
+  <actor>
+    <name>Victoria Liu</name>
+    <role>HEAV Pilot #3 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1338706</tmdbid>
+  </actor>
+  <actor>
+    <name>Sonny Le</name>
+    <role>Thug (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2267140</tmdbid>
+  </actor>
+  <actor>
+    <name>Santi Lawson</name>
+    <role>Apex Lab Tech (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2969884</tmdbid>
+  </actor>
+  <actor>
+    <name>Garreth Hadfield</name>
+    <role>U.S. Navy Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1840496</tmdbid>
+  </actor>
+  <director tmdbid="98631" imdbid="nm1417392">Adam Wingard</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=odM92ap8_c0</trailer>
+  <rating>6.4</rating>
+  <year>2021</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt5034838</imdbid>
+  <tmdbid>399566</tmdbid>
+  <premiered>2021-03-24</premiered>
+  <releasedate>2021-03-24</releasedate>
+  <criticrating>75</criticrating>
+  <runtime>113</runtime>
+  <tagline>世纪对决，激战解压</tagline>
+  <country>United States of America</country>
+  <genre>奇幻</genre>
+  <genre>冒险</genre>
+  <genre>动作</genre>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>Legendary Pictures</studio>
+  <set tmdbcolid="535313">
+    <name>哥斯拉（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">399566</uniqueid>
+  <uniqueid type="Imdb">tt5034838</uniqueid>
+  <id>tt5034838</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>19061504</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>113</duration>
+        <durationinseconds>6789</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>png</codec>
+        <micodec>png</micodec>
+        <width>1024</width>
+        <height>612</height>
+        <aspect>256:153</aspect>
+        <aspectratio>256:153</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>png</codec>
+        <micodec>png</micodec>
+        <width>600</width>
+        <height>775</height>
+        <aspect>24:31</aspect>
+        <aspectratio>24:31</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

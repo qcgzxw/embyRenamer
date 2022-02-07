@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[拥有有六个孩子的单身父亲Frank和孩子们生活在周围到处是酒鬼、乞丐和罪犯的最底层社区。他收入不高，整天酗酒，根本不管儿女们的死活，不到20岁的大女儿Fiona不得不承担起照顾五个弟妹以及养家糊口的责任。跨过宿醉的父亲的身体争抢着偷来的早餐；凌晨4点大开着摇滚乐狂欢；纵容邻居在他们的楼梯上做爱；这个热闹非凡的家庭忙碌、自由、无法无天、充满冒险。他们拥有的不多，但他们懂得生活中最重要的是什么……]]></plot>
+  <outline><![CDATA[拥有有六个孩子的单身父亲Frank和孩子们生活在周围到处是酒鬼、乞丐和罪犯的最底层社区。他收入不高，整天酗酒，根本不管儿女们的死活，不到20岁的大女儿Fiona不得不承担起照顾五个弟妹以及养家糊口的责任。跨过宿醉的父亲的身体争抢着偷来的早餐；凌晨4点大开着摇滚乐狂欢；纵容邻居在他们的楼梯上做爱；这个热闹非凡的家庭忙碌、自由、无法无天、充满冒险。他们拥有的不多，但他们懂得生活中最重要的是什么……]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-09 10:54:54</dateadded>
+  <title>无耻之徒</title>
+  <originaltitle>Shameless</originaltitle>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Noel Fisher</name>
+    <role>Mickey Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>80352</tmdbid>
+    <imdbid>nm0279720</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Isaiah</name>
+    <role>Liam Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>2563541</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Miner</name>
+    <role>Tami Tamietti</role>
+    <type>Actor</type>
+    <tmdbid>214695</tmdbid>
+    <imdbid>nm1567202</imdbid>
+  </actor>
+  <actor>
+    <name>Paris Newton</name>
+    <role>Franny Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>2982464</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Michael Campbell</name>
+    <role>Brad</role>
+    <type>Actor</type>
+    <tmdbid>65728</tmdbid>
+  </actor>
+  <actor>
+    <name>Elise Eberle</name>
+    <role>Sandy Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>983707</tmdbid>
+    <imdbid>nm2195169</imdbid>
+  </actor>
+  <actor>
+    <name>Dennis Cockrum</name>
+    <role>Terry Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>155825</tmdbid>
+    <imdbid>nm0168371</imdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=-7QA-uMAiLw</trailer>
+  <trailer>http://www.youtube.com/watch?v=4GE7fFDNGMA</trailer>
+  <trailer>http://www.youtube.com/watch?v=CHstRRD_8LE</trailer>
+  <rating>8</rating>
+  <year>2011</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt1586680</imdb_id>
+  <tmdbid>34307</tmdbid>
+  <premiered>2011-01-09</premiered>
+  <releasedate>2011-01-09</releasedate>
+  <enddate>2021-04-11</enddate>
+  <criticrating>38</criticrating>
+  <runtime>57</runtime>
+  <genre>剧情</genre>
+  <genre>喜剧</genre>
+  <studio>Showtime</studio>
+  <zap2itid>SH01347868</zap2itid>
+  <tvrageid>25117</tvrageid>
+  <uniqueid type="Imdb">tt1586680</uniqueid>
+  <uniqueid type="Tmdb">34307</uniqueid>
+  <uniqueid type="Zap2It">SH01347868</uniqueid>
+  <uniqueid type="Tvdb">161511</uniqueid>
+  <tvdbid>161511</tvdbid>
+  <uniqueid type="TvRage">25117</uniqueid>
+  <id>161511</id>
+  <episodeguide>
+    <url cache="161511.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/161511/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Ended</status>
+</tvshow>

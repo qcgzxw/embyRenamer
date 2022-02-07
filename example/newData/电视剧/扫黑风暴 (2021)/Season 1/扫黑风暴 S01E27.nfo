@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[孙兴将林浩的头压在桌子上，林浩的头被孙兴打出血，他趁着其他人不注意，偷偷打开录音录像手表。林浩已经知晓孙兴乃高赫的身份，没想到孙兴一点都不担心，他笑着说自己已经被枪毙过一次了。另一边，贺芸告诉黄希，自己会去自首，但在此之前她还是要再出一次警。警察按照林浩发的定位来到这儿，闯入屋内时，孙兴慌忙逃离，他跑出小巷，上了贺芸开的警车。林浩与何勇碰面，他发现有一辆警车突然启动离开，何勇也发现异常，他们今天出警只开了四辆警车。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-04 13:46:03</dateadded>
+  <title>证据</title>
+  <actor>
+    <name>Sun Honglei</name>
+    <role>李成阳</role>
+    <type>Actor</type>
+    <tmdbid>73774</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Yixing</name>
+    <role>林浩</role>
+    <type>Actor</type>
+    <tmdbid>1532511</tmdbid>
+    <imdbid>nm7344694</imdbid>
+  </actor>
+  <actor>
+    <name>Liu Yijun</name>
+    <role>何勇</role>
+    <type>Actor</type>
+    <tmdbid>1971602</tmdbid>
+  </actor>
+  <actor>
+    <name>Wu Yue</name>
+    <role>贺芸</role>
+    <type>Actor</type>
+    <tmdbid>113791</tmdbid>
+  </actor>
+  <actor>
+    <name>Maggie Jiang</name>
+    <role>黄希</role>
+    <type>Actor</type>
+    <tmdbid>1590275</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Zhifei</name>
+    <role>高明远</role>
+    <type>Actor</type>
+    <tmdbid>1291458</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Zhibing</name>
+    <role>骆山河</role>
+    <type>Actor</type>
+    <tmdbid>1418366</tmdbid>
+  </actor>
+  <actor>
+    <name>Wu Xiaoliang</name>
+    <role>孙兴</role>
+    <type>Actor</type>
+    <tmdbid>1381455</tmdbid>
+  </actor>
+  <actor>
+    <name>Ning Li</name>
+    <role>马帅</role>
+    <type>Actor</type>
+    <tmdbid>987205</tmdbid>
+    <imdbid>nm1280632</imdbid>
+  </actor>
+  <actor>
+    <name>Che Xiao</name>
+    <role>李丽涓</role>
+    <type>Actor</type>
+    <tmdbid>143845</tmdbid>
+  </actor>
+  <actor>
+    <name>Tan Kai</name>
+    <role>董耀</role>
+    <type>Actor</type>
+    <tmdbid>1183237</tmdbid>
+  </actor>
+  <actor>
+    <name>Hou Chang-Rong</name>
+    <role>赵立根</role>
+    <type>Actor</type>
+    <tmdbid>1721000</tmdbid>
+  </actor>
+  <actor>
+    <name>Sun Hao</name>
+    <role>胡笑伟</role>
+    <type>Actor</type>
+    <tmdbid>1712882</tmdbid>
+  </actor>
+  <actor>
+    <name>Xiaoou Zhou</name>
+    <role>陈建波</role>
+    <type>Actor</type>
+    <tmdbid>237822</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhao Xiaorui</name>
+    <role>曹鹏</role>
+    <type>Actor</type>
+    <tmdbid>1418469</tmdbid>
+  </actor>
+  <actor>
+    <name>Ruijia Jiang</name>
+    <role>麦佳</role>
+    <type>Actor</type>
+    <tmdbid>1180915</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Yang</name>
+    <role>刘铭</role>
+    <type>Actor</type>
+    <tmdbid>2450488</tmdbid>
+  </actor>
+  <rating>0</rating>
+  <year>2021</year>
+  <tvdbid>8605734</tvdbid>
+  <runtime>46</runtime>
+  <genre>中国大陆</genre>
+  <uniqueid type="Tvdb">8605734</uniqueid>
+  <episode>27</episode>
+  <season>1</season>
+  <aired>2021-08-30</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3732022</bitrate>
+        <width>1920</width>
+        <height>958</height>
+        <aspect>960:479</aspect>
+        <aspectratio>960:479</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>46</duration>
+        <durationinseconds>2765</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>93406</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1999</width>
+        <height>931</height>
+        <aspect>1999:931</aspect>
+        <aspectratio>1999:931</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

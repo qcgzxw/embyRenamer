@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[查克身为联邦快递的系统工程师，不论是他的私生活或是工作都讲求精准效率，他的个性急躁，因此对一切都讲求速度，加上他有绝对的控制欲，所以他的起居生活和工作行程随时随地都在他的掌握之中。虽然他的事业成功，但是情感却是另一回事。由于他是个超级工作狂，所以很少有时间陪女友凯莉，因此他们的关系出现危机。在一次出差的旅程中，查克搭的小飞机失事，他被困在一座资源贫瘠的无人荒岛，当他失去现代生活的便利以及人与人之间的互动，生活唯一的目的就是求生，他的人生观反而逐渐有所转变，当他发现生活的压力顿时消失，便开始反思人生的目的，最后对于工作、感情，甚至生命本身都有全新的体会和领悟。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2017-12-24 15:40:41</dateadded>
+  <title>荒岛余生</title>
+  <originaltitle>Cast Away</originaltitle>
+  <actor>
+    <name>Tom Hanks</name>
+    <role>Chuck Noland</role>
+    <type>Actor</type>
+    <tmdbid>31</tmdbid>
+    <imdbid>nm0000158</imdbid>
+  </actor>
+  <actor>
+    <name>Helen Hunt</name>
+    <role>Kelly Frears</role>
+    <type>Actor</type>
+    <tmdbid>9994</tmdbid>
+    <imdbid>nm0000166</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Noth</name>
+    <role>Jerry Lovett</role>
+    <type>Actor</type>
+    <tmdbid>38026</tmdbid>
+    <imdbid>nm0636562</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Sanchez</name>
+    <role>Ramon</role>
+    <type>Actor</type>
+    <tmdbid>11892</tmdbid>
+    <imdbid>nm0584052</imdbid>
+  </actor>
+  <actor>
+    <name>Lari White</name>
+    <role>Bettina Peterson</role>
+    <type>Actor</type>
+    <tmdbid>55433</tmdbid>
+    <imdbid>nm0925096</imdbid>
+  </actor>
+  <actor>
+    <name>Leonid Citer</name>
+    <role>Fyodor</role>
+    <type>Actor</type>
+    <tmdbid>55434</tmdbid>
+    <imdbid>nm0162904</imdbid>
+  </actor>
+  <actor>
+    <name>David Allen Brooks</name>
+    <role>Dick Peterson</role>
+    <type>Actor</type>
+    <tmdbid>55435</tmdbid>
+    <imdbid>nm0111948</imdbid>
+  </actor>
+  <actor>
+    <name>Semion Sudarikov</name>
+    <role>Nicolai</role>
+    <type>Actor</type>
+    <tmdbid>55436</tmdbid>
+    <imdbid>nm0839532</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Von Berg</name>
+    <role>Yuri</role>
+    <type>Actor</type>
+    <tmdbid>55437</tmdbid>
+    <imdbid>nm0901952</imdbid>
+  </actor>
+  <actor>
+    <name>Dmitri S. Boudrine</name>
+    <role>Lev</role>
+    <type>Actor</type>
+    <tmdbid>55438</tmdbid>
+    <imdbid>nm0099228</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Searcy</name>
+    <role>Stan</role>
+    <type>Actor</type>
+    <tmdbid>12538</tmdbid>
+    <imdbid>nm0780678</imdbid>
+  </actor>
+  <actor>
+    <name>François Duhamel</name>
+    <role>French FedEx Loader</role>
+    <type>Actor</type>
+    <tmdbid>1177850</tmdbid>
+    <imdbid>nm0241042</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Forest</name>
+    <role>Pilot Jack</role>
+    <type>Actor</type>
+    <tmdbid>1007561</tmdbid>
+    <imdbid>nm0148061</imdbid>
+  </actor>
+  <actor>
+    <name>Lauren Birkell</name>
+    <role>Lauren Madden</role>
+    <type>Actor</type>
+    <tmdbid>51537</tmdbid>
+    <imdbid>nm0083564</imdbid>
+  </actor>
+  <actor>
+    <name>Yelena Popovic</name>
+    <role>Beautiful Russian Woman</role>
+    <type>Actor</type>
+    <tmdbid>1268193</tmdbid>
+    <imdbid>nm0660528</imdbid>
+  </actor>
+  <actor>
+    <name>Viveka Davis</name>
+    <role>Pilot Gwen</role>
+    <type>Actor</type>
+    <tmdbid>156774</tmdbid>
+    <imdbid>nm0205630</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Choe</name>
+    <role>Memphis State Student</role>
+    <type>Actor</type>
+    <tmdbid>2212011</tmdbid>
+  </actor>
+  <actor>
+    <name>Nan Martin</name>
+    <role>Kelly's Mother</role>
+    <type>Actor</type>
+    <tmdbid>87039</tmdbid>
+    <imdbid>nm0552832</imdbid>
+  </actor>
+  <actor>
+    <name>Anne Bellamy</name>
+    <role>Anne Larson</role>
+    <type>Actor</type>
+    <tmdbid>154181</tmdbid>
+    <imdbid>nm0068679</imdbid>
+  </actor>
+  <actor>
+    <name>Dennis Letts</name>
+    <role>Dennis Larson</role>
+    <type>Actor</type>
+    <tmdbid>1219220</tmdbid>
+    <imdbid>nm0504822</imdbid>
+  </actor>
+  <actor>
+    <name>Wendy Worthington</name>
+    <role>Wendy Larson</role>
+    <type>Actor</type>
+    <tmdbid>94904</tmdbid>
+    <imdbid>nm0941781</imdbid>
+  </actor>
+  <actor>
+    <name>Valerie Wildman</name>
+    <role>Virginia Larson</role>
+    <type>Actor</type>
+    <tmdbid>47884</tmdbid>
+    <imdbid>nm0928720</imdbid>
+  </actor>
+  <actor>
+    <name>John Duerler</name>
+    <role>John Larson</role>
+    <type>Actor</type>
+    <tmdbid>52274</tmdbid>
+    <imdbid>nm0240269</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Monroe</name>
+    <role>Steve Larson</role>
+    <type>Actor</type>
+    <tmdbid>131125</tmdbid>
+    <imdbid>nm0598569</imdbid>
+  </actor>
+  <actor>
+    <name>Lisa Long</name>
+    <role>Lisa Madden</role>
+    <type>Actor</type>
+    <tmdbid>98533</tmdbid>
+    <imdbid>nm0519076</imdbid>
+  </actor>
+  <actor>
+    <name>Elden Henson</name>
+    <role>Elden Madden</role>
+    <type>Actor</type>
+    <tmdbid>20220</tmdbid>
+    <imdbid>nm0711805</imdbid>
+  </actor>
+  <actor>
+    <name>Timothy Stack</name>
+    <role>Morgan Stockton</role>
+    <type>Actor</type>
+    <tmdbid>28168</tmdbid>
+    <imdbid>nm0821048</imdbid>
+  </actor>
+  <actor>
+    <name>Alice Vaughn</name>
+    <role>Alice Stockton</role>
+    <type>Actor</type>
+    <tmdbid>1080072</tmdbid>
+    <imdbid>nm0891138</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Conley</name>
+    <role>Joe Wally</role>
+    <type>Actor</type>
+    <tmdbid>188129</tmdbid>
+    <imdbid>nm0174783</imdbid>
+  </actor>
+  <actor>
+    <name>Garret Davis</name>
+    <role>Pilot Blaine</role>
+    <type>Actor</type>
+    <tmdbid>1440067</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Acovone</name>
+    <role>Pilot Peter</role>
+    <type>Actor</type>
+    <tmdbid>42547</tmdbid>
+    <imdbid>nm0010264</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Kriesa</name>
+    <role>Pilot Kevin</role>
+    <type>Actor</type>
+    <tmdbid>1297931</tmdbid>
+  </actor>
+  <actor>
+    <name>Derick Alexander</name>
+    <role>Taxi Driver</role>
+    <type>Actor</type>
+    <tmdbid>1236002</tmdbid>
+    <imdbid>nm0018373</imdbid>
+  </actor>
+  <actor>
+    <name>Vsevolod Boldin</name>
+    <type>Actor</type>
+    <tmdbid>2368524</tmdbid>
+    <imdbid>nm6358634</imdbid>
+  </actor>
+  <actor>
+    <name>Jenifer Lewis</name>
+    <role>Becca Twig</role>
+    <type>Actor</type>
+    <tmdbid>15899</tmdbid>
+    <imdbid>nm0507338</imdbid>
+  </actor>
+  <actor>
+    <name>Vince Martin</name>
+    <role>Albert Miller</role>
+    <type>Actor</type>
+    <tmdbid>45215</tmdbid>
+    <imdbid>nm0553179</imdbid>
+  </actor>
+  <director tmdbid="24" imdbid="nm0000709">Robert Zemeckis</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4olwbrY2kwE</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yY9Nm4RF-K0</trailer>
+  <rating>7.8</rating>
+  <year>2000</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt0162222</imdbid>
+  <tmdbid>8358</tmdbid>
+  <premiered>2000-12-22</premiered>
+  <releasedate>2000-12-22</releasedate>
+  <criticrating>89</criticrating>
+  <runtime>144</runtime>
+  <country>United States of America</country>
+  <genre>冒险</genre>
+  <genre>剧情</genre>
+  <studio>Playtone</studio>
+  <studio>ImageMovers</studio>
+  <studio>20th Century Fox</studio>
+  <studio>DreamWorks Pictures</studio>
+  <studio>CJ Entertainment</studio>
+  <uniqueid type="Imdb">tt0162222</uniqueid>
+  <uniqueid type="Tmdb">8358</uniqueid>
+  <id>tt0162222</id>
+  <fileinfo>
+    <streamdetails>
+      <audio>
+        <codec>cook</codec>
+        <micodec>cook</micodec>
+        <bitrate>96468</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>rv40</codec>
+        <micodec>rv40</micodec>
+        <bitrate>1675634</bitrate>
+        <width>1280</width>
+        <height>688</height>
+        <aspect>80:43</aspect>
+        <aspectratio>80:43</aspectratio>
+        <framerate>23.976044</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>143</duration>
+        <durationinseconds>8626</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+</movie>

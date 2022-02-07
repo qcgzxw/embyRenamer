@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[尚恩似乎注定是个失败者，在家里他郁郁寡欢，在学校里也是形单影只，唯一能够带给他乐趣的，就是非法的街头赛车，速度带来刹那的激情，让他感受到这个世界赋予自己的天分和快乐。然而非法赛车已经引起了当局的重视，为了逃避牢狱之灾，尚恩被送到国外他在军中服役的叔叔家里，那是一栋位于东京郊区的空间狭小价格低廉的单身公寓。东京是改装汽车爱好者的天堂，这里的街道也成为他们挥霍激情的跑道，但单纯的街道赛已经被替换为一种对抗引力和离心力的高级挑战，漂移技术比赛，在那些令人心跳加速的发夹弯和 Z 字弯道上，近乎残忍的速度与这种高难度技巧结合在一起，让比赛变得更加刺激、紧张和有观赏性。在初次尝试失败之后，尚恩不知不觉地已经被漂移技术深深吸引，同时他也遇到因此遭遇到号称“漂移之王”的DK，一名与日本犯罪集团有紧密联系的青年车手。尚恩卷入其中，为了补偿自己的过失，不得不在为自己赌上一次，这一次比赛的方式就是漂移，而赌注就是自己的生命。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-04 03:19:45</dateadded>
+  <title>速度与激情3</title>
+  <originaltitle>The Fast and the Furious: Tokyo Drift</originaltitle>
+  <actor>
+    <name>Lucas Black</name>
+    <role>Sean Boswell</role>
+    <type>Actor</type>
+    <tmdbid>155</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathalie Kelley</name>
+    <role>Neela</role>
+    <type>Actor</type>
+    <tmdbid>116277</tmdbid>
+  </actor>
+  <actor>
+    <name>Sung Kang</name>
+    <role>Han Lue</role>
+    <type>Actor</type>
+    <tmdbid>61697</tmdbid>
+    <imdbid>nm0437646</imdbid>
+  </actor>
+  <actor>
+    <name>Shad Moss</name>
+    <role>Twinkie</role>
+    <type>Actor</type>
+    <tmdbid>58197</tmdbid>
+    <imdbid>nm0510168</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Tee</name>
+    <role>D.K.</role>
+    <type>Actor</type>
+    <tmdbid>116278</tmdbid>
+  </actor>
+  <actor>
+    <name>Leonardo Nam</name>
+    <role>Morimoto</role>
+    <type>Actor</type>
+    <tmdbid>24200</tmdbid>
+    <imdbid>nm1211344</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Goodman</name>
+    <role>Major Boswell</role>
+    <type>Actor</type>
+    <tmdbid>80978</tmdbid>
+  </actor>
+  <actor>
+    <name>Zachery Ty Bryan</name>
+    <role>Clay</role>
+    <type>Actor</type>
+    <tmdbid>52477</tmdbid>
+  </actor>
+  <actor>
+    <name>Nikki Griffin</name>
+    <role>Cindy (Clay's Girlfriend)</role>
+    <type>Actor</type>
+    <tmdbid>88677</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Tobin</name>
+    <role>Earl</role>
+    <type>Actor</type>
+    <tmdbid>162367</tmdbid>
+    <imdbid>nm0864937</imdbid>
+  </actor>
+  <actor>
+    <name>Keiko Kitagawa</name>
+    <role>Reiko</role>
+    <type>Actor</type>
+    <tmdbid>120923</tmdbid>
+  </actor>
+  <actor>
+    <name>Lynda Boyd</name>
+    <role>Ms. Boswell</role>
+    <type>Actor</type>
+    <tmdbid>20188</tmdbid>
+  </actor>
+  <actor>
+    <name>Shin'ichi Chiba</name>
+    <role>Uncle Kamata</role>
+    <type>Actor</type>
+    <tmdbid>2537</tmdbid>
+  </actor>
+  <actor>
+    <name>Damien Marzett</name>
+    <role>High School Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>1670874</tmdbid>
+  </actor>
+  <actor>
+    <name>Trula M. Marcus</name>
+    <role>American Math Teacher</role>
+    <type>Actor</type>
+    <tmdbid>60390</tmdbid>
+    <imdbid>nm0546197</imdbid>
+  </actor>
+  <actor>
+    <name>Brandon Brendel</name>
+    <role>Clay's Buddy</role>
+    <type>Actor</type>
+    <tmdbid>1450799</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Booko</name>
+    <role>Clay's Buddy</role>
+    <type>Actor</type>
+    <tmdbid>183066</tmdbid>
+  </actor>
+  <actor>
+    <name>David V. Thomas</name>
+    <role>Clay's Buddy</role>
+    <type>Actor</type>
+    <tmdbid>59012</tmdbid>
+  </actor>
+  <actor>
+    <name>Amber Stevens West</name>
+    <role>Cheerleader</role>
+    <type>Actor</type>
+    <tmdbid>1187106</tmdbid>
+  </actor>
+  <actor>
+    <name>Ashika Gogna</name>
+    <role>Cheerleader</role>
+    <type>Actor</type>
+    <tmdbid>1670875</tmdbid>
+  </actor>
+  <actor>
+    <name>Vincent Laresca</name>
+    <role>Case Worker</role>
+    <type>Actor</type>
+    <tmdbid>1983</tmdbid>
+    <imdbid>nm0488095</imdbid>
+  </actor>
+  <actor>
+    <name>Maki Yoko</name>
+    <role>Woman at Boswell's Apt.</role>
+    <type>Actor</type>
+    <tmdbid>592147</tmdbid>
+  </actor>
+  <actor>
+    <name>Toshi Hayama</name>
+    <role>Toshi at Underground Garage</role>
+    <type>Actor</type>
+    <tmdbid>1670886</tmdbid>
+  </actor>
+  <actor>
+    <name>Atley Siauw</name>
+    <role>DJ Atley</role>
+    <type>Actor</type>
+    <tmdbid>1670887</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaila Yu</name>
+    <role>Cowgirl at Starting Line</role>
+    <type>Actor</type>
+    <tmdbid>564615</tmdbid>
+  </actor>
+  <actor>
+    <name>Aiko Tanaka</name>
+    <role>Cowgirl at Starting Line</role>
+    <type>Actor</type>
+    <tmdbid>1232381</tmdbid>
+  </actor>
+  <actor>
+    <name>Satoshi Tsumabuki</name>
+    <role>Exceedingly Handsome Guy</role>
+    <type>Actor</type>
+    <tmdbid>80108</tmdbid>
+    <imdbid>nm1070494</imdbid>
+  </actor>
+  <actor>
+    <name>Alden Ray</name>
+    <role>Alden</role>
+    <type>Actor</type>
+    <tmdbid>1000089</tmdbid>
+  </actor>
+  <actor>
+    <name>Konishiki</name>
+    <role>Paw Man</role>
+    <type>Actor</type>
+    <tmdbid>1670890</tmdbid>
+  </actor>
+  <actor>
+    <name>Caroline de Souza Correa</name>
+    <role>Sexy Brazilian Model</role>
+    <type>Actor</type>
+    <tmdbid>1291386</tmdbid>
+  </actor>
+  <actor>
+    <name>Silvia Šuvadová</name>
+    <role>Russian Model</role>
+    <type>Actor</type>
+    <tmdbid>213359</tmdbid>
+  </actor>
+  <actor>
+    <name>Kazutoshi Wadakura</name>
+    <role>Old Fisherman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>132118</tmdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Lin</name>
+    <role>Jimmy</role>
+    <type>Actor</type>
+    <tmdbid>1670892</tmdbid>
+  </actor>
+  <actor>
+    <name>Shoko Nakagawa</name>
+    <role>Bo-Peep Girl</role>
+    <type>Actor</type>
+    <tmdbid>1024388</tmdbid>
+  </actor>
+  <actor>
+    <name>Koji Kataoka</name>
+    <role>Pinkie (Yakuza)</role>
+    <type>Actor</type>
+    <tmdbid>62766</tmdbid>
+  </actor>
+  <actor>
+    <name>Stuart Yee</name>
+    <role>Yakuza Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1670898</tmdbid>
+  </actor>
+  <actor>
+    <name>Mitsuki Koga</name>
+    <role>Yakuza Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>63698</tmdbid>
+  </actor>
+  <actor>
+    <name>Vin Diesel</name>
+    <role>Dominic Toretto (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>12835</tmdbid>
+    <imdbid>nm0004874</imdbid>
+  </actor>
+  <actor>
+    <name>Britten Kelley</name>
+    <role>Model (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1586675</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Ryan</name>
+    <role>Bully (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>201914</tmdbid>
+  </actor>
+  <actor>
+    <name>Kazuki Namioka</name>
+    <role>Tea Hair (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>226738</tmdbid>
+  </actor>
+  <director tmdbid="58189">Justin Lin</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xZ96tl5MrfU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rGzig4ugMJ0</trailer>
+  <rating>6</rating>
+  <year>2006</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt0463985</imdbid>
+  <tmdbid>9615</tmdbid>
+  <premiered>2006-06-03</premiered>
+  <releasedate>2006-06-03</releasedate>
+  <criticrating>37</criticrating>
+  <runtime>104</runtime>
+  <country>Germany</country>
+  <country>Japan</country>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <studio>MP Munich Pape Filmproductions</studio>
+  <studio>Original Film</studio>
+  <studio>Relativity Media</studio>
+  <studio>Universal Pictures</studio>
+  <set tmdbcolid="9485">
+    <name>速度与激情（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">9615</uniqueid>
+  <uniqueid type="Imdb">tt0463985</uniqueid>
+  <id>tt0463985</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>21273162</bitrate>
+        <width>3840</width>
+        <height>1608</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6246</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

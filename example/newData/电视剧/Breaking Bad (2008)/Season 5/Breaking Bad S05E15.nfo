@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Jack 一伙人搜遍 Hank 的家中找到 Jesse 的口供录像并且供出 Todd 杀死了失踪的孩子一事件，Jack 想为侄子出气杀掉 Jesse，经过 Todd 劝说最后同意了 Todd 的意见让 Jesse 把剩下的甲胺交给 Jesse 去制毒，另一边策划逃亡的 Walter 和律师 Saul 无意中又碰到一起，让 Walter 的计划有变，想让 Saul 找最好的杀手去找 Jack 一伙人算账但是 Saul 决心已定，Walter 留下并且先在世外桃园避风头。 Jesse 在逃跑中被抓回为了惩罚他 Todd 当面杀死 Andrea，之后 Jesse 每天都过着奴隶一样的制毒和监狱一样的生活。Walter 联系儿子想寄钱却遭拒并且儿子痛恨自己，失落间无意看到电视里一个慈善活动是以前的合伙人，Walter 决心找到他们再计划下一步。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 16:02:26</dateadded>
+  <title>花岗岩之州</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Carmen Serano</name>
+    <role>Carmen Molina</role>
+    <type>GuestStar</type>
+    <tmdbid>115688</tmdbid>
+    <imdbid>nm0784831</imdbid>
+  </actor>
+  <actor>
+    <name>Brennan Brown</name>
+    <role>US Attorney</role>
+    <type>GuestStar</type>
+    <tmdbid>1218149</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Rios</name>
+    <role>Andrea Cantillo</role>
+    <type>GuestStar</type>
+    <tmdbid>211474</tmdbid>
+    <imdbid>nm1986960</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Price</name>
+    <role>Public Defender</role>
+    <type>GuestStar</type>
+    <tmdbid>1063149</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Forster</name>
+    <role>Ed</role>
+    <type>GuestStar</type>
+    <tmdbid>5694</tmdbid>
+    <imdbid>nm0001233</imdbid>
+  </actor>
+  <actor>
+    <name>Todd Terry</name>
+    <role>SAC Ramey</role>
+    <type>GuestStar</type>
+    <tmdbid>1178637</tmdbid>
+    <imdbid>nm0856086</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Nemmers</name>
+    <role>DEA Agent Scott</role>
+    <type>GuestStar</type>
+    <tmdbid>110999</tmdbid>
+  </actor>
+  <actor>
+    <name>Kurt Soderstrom</name>
+    <role>Bartender</role>
+    <type>GuestStar</type>
+    <tmdbid>173129</tmdbid>
+  </actor>
+  <actor>
+    <name>Deborah Martinez</name>
+    <role>School Office Worker</role>
+    <type>GuestStar</type>
+    <tmdbid>208060</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Rose</name>
+    <role>Himself</role>
+    <type>GuestStar</type>
+    <tmdbid>70177</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Hecht</name>
+    <role>Gretchen Schwartz</role>
+    <type>GuestStar</type>
+    <tmdbid>14984</tmdbid>
+    <imdbid>nm0372961</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Godley</name>
+    <role>Elliott Schwartz</role>
+    <type>GuestStar</type>
+    <tmdbid>23429</tmdbid>
+    <imdbid>nm0324134</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Sane</name>
+    <role>Frankie</role>
+    <type>GuestStar</type>
+    <tmdbid>1268114</tmdbid>
+    <imdbid>nm4577760</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse Plemons</name>
+    <role>Todd</role>
+    <type>GuestStar</type>
+    <tmdbid>88124</tmdbid>
+    <imdbid>nm0687146</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Bowen</name>
+    <role>Uncle Jack</role>
+    <type>GuestStar</type>
+    <tmdbid>2234</tmdbid>
+    <imdbid>nm0100889</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Rankin</name>
+    <role>Kenny</role>
+    <type>GuestStar</type>
+    <tmdbid>114000</tmdbid>
+    <imdbid>nm0710271</imdbid>
+  </actor>
+  <actor>
+    <name>Tait Fletcher</name>
+    <role>Lester</role>
+    <type>GuestStar</type>
+    <tmdbid>1105706</tmdbid>
+  </actor>
+  <director>Peter Gould</director>
+  <rating>9.081</rating>
+  <year>2013</year>
+  <imdbid>tt2301453</imdbid>
+  <tvdbid>4553041</tvdbid>
+  <runtime>53</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt2301453</uniqueid>
+  <uniqueid type="Tvdb">4553041</uniqueid>
+  <episode>15</episode>
+  <season>5</season>
+  <aired>2013-09-22</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10631271</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>53</duration>
+        <durationinseconds>3206</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

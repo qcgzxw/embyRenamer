@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[弗兰克教黛比如何发挥福利系统的作用。凯文和维罗妮卡去医院探望瘫痪的亚尼斯并试图做出赔偿。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-17 16:01:44</dateadded>
+  <title>F 词</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Jenica Bergere</name>
+    <role>Lisa</role>
+    <type>GuestStar</type>
+    <tmdbid>113818</tmdbid>
+  </actor>
+  <actor>
+    <name>Dermot Mulroney</name>
+    <role>Sean Pierce</role>
+    <type>GuestStar</type>
+    <tmdbid>20212</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Kazee</name>
+    <role>Gus Pfender</role>
+    <type>GuestStar</type>
+    <tmdbid>207062</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Macon</name>
+    <role>Luther Winslow</role>
+    <type>GuestStar</type>
+    <tmdbid>1444816</tmdbid>
+  </actor>
+  <actor>
+    <name>José Julián</name>
+    <role>Joaquin</role>
+    <type>GuestStar</type>
+    <tmdbid>1350973</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaylen Barron</name>
+    <role>Dominique Winslow</role>
+    <type>GuestStar</type>
+    <tmdbid>1837705</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Rosenberg</name>
+    <role>Clyde Youens</role>
+    <type>GuestStar</type>
+    <tmdbid>3008</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Sasso</name>
+    <role>Yanis</role>
+    <type>GuestStar</type>
+    <tmdbid>39125</tmdbid>
+    <imdbid>nm0766005</imdbid>
+  </actor>
+  <director>Nisha Ganatra</director>
+  <rating>7</rating>
+  <year>2016</year>
+  <imdbid>tt4881556</imdbid>
+  <tvdbid>5457923</tvdbid>
+  <runtime>53</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <tvrageid>1065873669</tvrageid>
+  <uniqueid type="Imdb">tt4881556</uniqueid>
+  <uniqueid type="Tvdb">5457923</uniqueid>
+  <uniqueid type="TvRage">1065873669</uniqueid>
+  <episode>3</episode>
+  <season>6</season>
+  <aired>2016-01-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10671173</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>53</duration>
+        <durationinseconds>3195</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

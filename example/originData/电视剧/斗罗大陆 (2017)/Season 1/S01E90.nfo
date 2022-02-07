@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[十五支参赛队伍在皇家骑士团的护送下共同前往总决赛地点——武魂城。当队伍途经一个峡谷时，不料却出现了敌袭。无数巨石落下，将各个学院在这个峡谷中分割开来。激战开始，皇家骑士团的防御阵被十几名刺客融合发动的万年魂技所攻破，弗兰德和柳二龙又分别被插翅虎魂圣和铁甲龟魂圣牵制，唐三这边还出现了一名魂斗罗，形势危急啊...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-21 01:45:32</dateadded>
+  <title>第 3 部分（昊天扬威篇）：第 90 集「十五支参赛队伍共同前往总决赛地点——武魂城」</title>
+  <actor>
+    <name>Shen Lei</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Yuzhu Cheng</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Xiaobing Wang</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kang Ni</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Leo Wu</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Qi Zhang</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Dian Tao</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ying Huang</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Zhao Qianjing</name>
+    <type>Actor</type>
+  </actor>
+  <rating>0</rating>
+  <year>2019</year>
+  <runtime>20</runtime>
+  <episode>90</episode>
+  <season>1</season>
+  <aired>2019-09-28</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3617195</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>30</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>20</duration>
+        <durationinseconds>1212</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>94471</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

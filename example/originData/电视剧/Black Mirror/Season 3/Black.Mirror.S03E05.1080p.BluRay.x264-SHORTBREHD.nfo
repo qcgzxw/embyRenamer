@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[被植入了“感知封闭系统”的士兵，他们要对抗的真正敌人究竟是什么？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-06-09 07:49:19</dateadded>
+  <title>战火英雄</title>
+  <actor>
+    <name>Malachi Kirby</name>
+    <role>Stripe</role>
+    <type>GuestStar</type>
+    <tmdbid>1145665</tmdbid>
+    <imdbid>nm3142672</imdbid>
+  </actor>
+  <actor>
+    <name>Madeline Brewer</name>
+    <role>Raiman</role>
+    <type>GuestStar</type>
+    <tmdbid>1443712</tmdbid>
+    <imdbid>nm5483400</imdbid>
+  </actor>
+  <actor>
+    <name>Ariane Labed</name>
+    <role>Catarina</role>
+    <type>GuestStar</type>
+    <tmdbid>235125</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Snook</name>
+    <role>Medina</role>
+    <type>GuestStar</type>
+    <tmdbid>235416</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Kelly</name>
+    <role>Arquette</role>
+    <type>GuestStar</type>
+    <tmdbid>50217</tmdbid>
+    <imdbid>nm0446672</imdbid>
+  </actor>
+  <actor>
+    <name>Kola Bokinni</name>
+    <role>Lennard</role>
+    <type>GuestStar</type>
+    <tmdbid>1711173</tmdbid>
+  </actor>
+  <actor>
+    <name>Francis Magee</name>
+    <role>Parn Heidekker</role>
+    <type>GuestStar</type>
+    <tmdbid>39661</tmdbid>
+  </actor>
+  <director>Jakob Verbruggen</director>
+  <rating>7.27</rating>
+  <year>2016</year>
+  <imdbid>tt5709234</imdbid>
+  <tvdbid>5692428</tvdbid>
+  <runtime>60</runtime>
+  <genre>Drama</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt5709234</uniqueid>
+  <uniqueid type="Tvdb">5692428</uniqueid>
+  <episode>5</episode>
+  <season>3</season>
+  <aired>2016-10-21</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10434745</bitrate>
+        <width>1920</width>
+        <height>960</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>59</duration>
+        <durationinseconds>3596</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

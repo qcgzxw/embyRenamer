@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[瑞克和莫蒂结束令人筋疲力尽的冒险后，决定得度个假。情况却在他俩尝试特殊的排毒机后，变得有点儿失控。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 07:57:17</dateadded>
+  <title>瑞克式舒压假期</title>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <actor>
+    <name>Melique Berger</name>
+    <role>Jacqueline / Mrs. Pancakes (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1423227</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Johnson</name>
+    <role>Mr. Goldenfold / Student (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>167411</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Kenny</name>
+    <role>Tour Guide (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>78798</tmdbid>
+  </actor>
+  <actor>
+    <name>Maurice LaMarche</name>
+    <role>Alien / Waiter (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>34521</tmdbid>
+  </actor>
+  <actor>
+    <name>Tara Strong</name>
+    <role>Stacy (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>15762</tmdbid>
+  </actor>
+  <actor>
+    <name>Kari Wahlgren</name>
+    <role>Jessica / Rick's Computer / Customs Announcement (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>116315</tmdbid>
+  </actor>
+  <actor>
+    <name>William Holmes</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1491527</tmdbid>
+  </actor>
+  <actor>
+    <name>Cassie Steele</name>
+    <role>Tricia Lange (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>180986</tmdbid>
+  </actor>
+  <director>Anthony Chun</director>
+  <rating>8.9</rating>
+  <year>2017</year>
+  <imdbid>tt5218318</imdbid>
+  <tvdbid>6231155</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <uniqueid type="Tvdb">6231155</uniqueid>
+  <uniqueid type="Imdb">tt5218318</uniqueid>
+  <episode>6</episode>
+  <season>3</season>
+  <aired>2017-08-27</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>1953714</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1359</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

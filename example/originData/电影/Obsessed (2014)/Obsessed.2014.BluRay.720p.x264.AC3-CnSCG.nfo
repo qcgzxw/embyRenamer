@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Jim Gaffigan bursts back on the scene with this eagerly anticipated fourth comedy special. Dubbed the "King of Clean Comedy" by The Wall Street Journal, Jim's obsession with all things food comes to fruition on Obsessed as he tackles a cornucopia of new food topics from fruit to seafood to donuts. Get ready for 70 minutes of non-stop laughs at Jim's twisted-yet-enlightened observations on the seemingly mundane topics that have made him a fixture in the comedy world for audiences of all ages.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-11-12 11:41:56</dateadded>
+  <title>Jim Gaffigan: Obsessed</title>
+  <originaltitle>Jim Gaffigan: Obsessed</originaltitle>
+  <actor>
+    <name>Jim Gaffigan</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>84407</tmdbid>
+  </actor>
+  <director tmdbid="139280">Jay Chapman</director>
+  <rating>7.6</rating>
+  <year>2014</year>
+  <imdbid>tt3481550</imdbid>
+  <tmdbid>263111</tmdbid>
+  <premiered>2014-04-27</premiered>
+  <releasedate>2014-04-27</releasedate>
+  <criticrating>100</criticrating>
+  <runtime>133</runtime>
+  <genre>喜剧</genre>
+  <uniqueid type="Tmdb">263111</uniqueid>
+  <uniqueid type="Imdb">tt3481550</uniqueid>
+  <id>tt3481550</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3767742</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>132</duration>
+        <durationinseconds>7971</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

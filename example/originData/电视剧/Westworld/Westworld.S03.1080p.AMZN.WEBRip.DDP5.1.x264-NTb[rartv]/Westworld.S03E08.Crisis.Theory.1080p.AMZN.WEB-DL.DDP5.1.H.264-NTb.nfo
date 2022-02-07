@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[变为现实。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-05-21 06:39:32</dateadded>
+  <title> 危机理论</title>
+  <actor>
+    <name>Clifton Collins Jr.</name>
+    <type>GuestStar</type>
+    <tmdbid>5365</tmdbid>
+    <imdbid>nm0004286</imdbid>
+  </actor>
+  <actor>
+    <name>Enrico Colantoni</name>
+    <type>GuestStar</type>
+    <tmdbid>15029</tmdbid>
+    <imdbid>nm0170186</imdbid>
+  </actor>
+  <actor>
+    <name>Gina Torres</name>
+    <type>GuestStar</type>
+    <tmdbid>9576</tmdbid>
+    <imdbid>nm0868659</imdbid>
+  </actor>
+  <actor>
+    <name>Iddo Goldberg</name>
+    <type>GuestStar</type>
+    <tmdbid>94958</tmdbid>
+    <imdbid>nm0325221</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Tucker</name>
+    <type>GuestStar</type>
+    <tmdbid>17243</tmdbid>
+    <imdbid>nm0006958</imdbid>
+  </actor>
+  <actor>
+    <name>Lena Waithe</name>
+    <type>GuestStar</type>
+    <tmdbid>1059572</tmdbid>
+    <imdbid>nm2913119</imdbid>
+  </actor>
+  <actor>
+    <name>Marshawn Lynch</name>
+    <type>GuestStar</type>
+    <tmdbid>1420679</tmdbid>
+    <imdbid>nm2834234</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Rose</name>
+    <type>GuestStar</type>
+    <tmdbid>53330</tmdbid>
+    <imdbid>nm0741580</imdbid>
+  </actor>
+  <director>Jennifer Getzinger</director>
+  <rating>7.2</rating>
+  <year>2020</year>
+  <imdbid>tt10011160</imdbid>
+  <tvdbid>7579004</tvdbid>
+  <runtime>77</runtime>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt10011160</uniqueid>
+  <uniqueid type="Tvdb">7579004</uniqueid>
+  <episode>8</episode>
+  <season>3</season>
+  <aired>2020-05-03</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10027899</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>77</duration>
+        <durationinseconds>4634</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

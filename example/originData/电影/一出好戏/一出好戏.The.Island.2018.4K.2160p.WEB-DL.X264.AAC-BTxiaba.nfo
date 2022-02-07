@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　马进欠下债务，与远房表弟小兴在底层社会摸爬滚打，习惯性的买彩票，企图一夜暴富，并迎娶自己的同事姗姗。一日，公司全体员工出海团建，途中，马进收到了彩票中头奖的信息，六千万！就在马进狂喜自己翻身的日子终于到来之际，一场突如其来的滔天巨浪打破了一切。苏醒过来的众人发现身处荒岛 ，丧失了一切与外界的联系……]]></plot>
+  <outline><![CDATA[醒握强权 醉拥美人]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2018-09-24 04:13:52</dateadded>
+  <title>一出好戏</title>
+  <originaltitle>一出好戏 The Island</originaltitle>
+  <actor>
+    <name>Huang Bo</name>
+    <role>Ma Jin</role>
+    <type>Actor</type>
+    <tmdbid>128026</tmdbid>
+    <imdbid>nm2348646</imdbid>
+  </actor>
+  <actor>
+    <name>Shu Qi</name>
+    <role>Shanshan</role>
+    <type>Actor</type>
+    <tmdbid>21911</tmdbid>
+    <imdbid>nm0795517</imdbid>
+  </actor>
+  <actor>
+    <name>Baoqiang Wang</name>
+    <role>Xiao Wang</role>
+    <type>Actor</type>
+    <tmdbid>71051</tmdbid>
+    <imdbid>nm1316170</imdbid>
+  </actor>
+  <actor>
+    <name>Zhang Yixing</name>
+    <role>Xiao Xing</role>
+    <type>Actor</type>
+    <tmdbid>1532511</tmdbid>
+    <imdbid>nm7344694</imdbid>
+  </actor>
+  <actor>
+    <name>Yu Hewei</name>
+    <role>President Zhang</role>
+    <type>Actor</type>
+    <tmdbid>1344903</tmdbid>
+    <imdbid>nm3388842</imdbid>
+  </actor>
+  <actor>
+    <name>Wang Xun</name>
+    <role>Lao Pan (Old Pan)</role>
+    <type>Actor</type>
+    <tmdbid>1134976</tmdbid>
+    <imdbid>nm2355740</imdbid>
+  </actor>
+  <actor>
+    <name>Li Qinqin</name>
+    <role>Sister Qi</role>
+    <type>Actor</type>
+    <tmdbid>1297751</tmdbid>
+    <imdbid>nm0702671</imdbid>
+  </actor>
+  <actor>
+    <name>Li Youlin</name>
+    <role>Professor</role>
+    <type>Actor</type>
+    <tmdbid>2884006</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Yanqing</name>
+    <role>Zhao Tianlong</role>
+    <type>Actor</type>
+    <tmdbid>2231013</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Lei</name>
+    <role>Lao Yu (Old Yu)</role>
+    <type>Actor</type>
+    <tmdbid>2027686</tmdbid>
+  </actor>
+  <actor>
+    <name>Hao Wenting</name>
+    <role>Wen Juan</role>
+    <type>Actor</type>
+    <tmdbid>2625139</tmdbid>
+  </actor>
+  <actor>
+    <name>Cady Yang</name>
+    <role>Lucy</role>
+    <type>Actor</type>
+    <tmdbid>1623138</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Zheng</name>
+    <role>Passenger</role>
+    <type>Actor</type>
+    <tmdbid>118711</tmdbid>
+    <imdbid>nm1905770</imdbid>
+  </actor>
+  <actor>
+    <name>Guan Hu</name>
+    <type>Actor</type>
+    <tmdbid>131301</tmdbid>
+    <imdbid>nm1299690</imdbid>
+  </actor>
+  <actor>
+    <name>Ning Hao</name>
+    <role>Psychiatric patient</role>
+    <type>Actor</type>
+    <tmdbid>17295</tmdbid>
+    <imdbid>nm1928500</imdbid>
+  </actor>
+  <actor>
+    <name>Teddy Chan</name>
+    <type>Actor</type>
+    <tmdbid>70703</tmdbid>
+    <imdbid>nm0151125</imdbid>
+  </actor>
+  <actor>
+    <name>Liang Jing</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>130866</tmdbid>
+    <imdbid>nm1981463</imdbid>
+  </actor>
+  <director tmdbid="128026" imdbid="nm2348646">Huang Bo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lLtNiDDb5yk</trailer>
+  <rating>6.2</rating>
+  <year>2018</year>
+  <imdbid>tt8755316</imdbid>
+  <tmdbid>535170</tmdbid>
+  <premiered>2018-08-10</premiered>
+  <releasedate>2018-08-10</releasedate>
+  <criticrating>100</criticrating>
+  <runtime>133</runtime>
+  <tagline>醒握强权 醉拥美人</tagline>
+  <country>China</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <genre>悬疑</genre>
+  <studio>Beijing Enlight Pictures</studio>
+  <uniqueid type="Tmdb">535170</uniqueid>
+  <uniqueid type="Imdb">tt8755316</uniqueid>
+  <id>tt8755316</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6718106</bitrate>
+        <width>3840</width>
+        <height>1608</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24.000004</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>133</duration>
+        <durationinseconds>8003</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>62863</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

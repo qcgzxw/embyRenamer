@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[As Chuck plots his next move, another lie comes back to haunt Jimmy. A rattled Mike tries to find out who's been tracking his movements - and how.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-07-28 01:41:54</dateadded>
+  <title>马贝尔</title>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Jimmy McGill</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Rhea Seehorn</name>
+    <role>Kim Wexler</role>
+    <type>Actor</type>
+    <tmdbid>62765</tmdbid>
+    <imdbid>nm0781533</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Fabian</name>
+    <role>Howard Hamlin</role>
+    <type>Actor</type>
+    <tmdbid>58791</tmdbid>
+    <imdbid>nm0264579</imdbid>
+  </actor>
+  <actor>
+    <name>Michael McKean</name>
+    <role>Chuck McGill</role>
+    <type>Actor</type>
+    <tmdbid>21731</tmdbid>
+  </actor>
+  <actor>
+    <name>Teddy Eggleston</name>
+    <role>Mrs. Siemasko</role>
+    <type>GuestStar</type>
+    <tmdbid>2068093</tmdbid>
+  </actor>
+  <actor>
+    <name>Dylan Riley Snyder</name>
+    <role>Young Skeev</role>
+    <type>GuestStar</type>
+    <tmdbid>1251975</tmdbid>
+  </actor>
+  <director>Vince Gilligan</director>
+  <rating>8.1</rating>
+  <year>2017</year>
+  <imdbid>tt5554490</imdbid>
+  <tvdbid>5907283</tvdbid>
+  <runtime>52</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt5554490</uniqueid>
+  <uniqueid type="Tvdb">5907283</uniqueid>
+  <episode>1</episode>
+  <season>3</season>
+  <aired>2017-04-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>34067663</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>52</duration>
+        <durationinseconds>3129</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

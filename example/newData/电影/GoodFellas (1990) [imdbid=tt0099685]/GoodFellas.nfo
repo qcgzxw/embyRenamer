@@ -1,0 +1,911 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[亨利•希尔（雷•李欧塔 饰）从小不学无术，跟着老大保利，靠收取保护费、走私、抢劫，他娶了美丽的妻子凯伦，有可爱的女儿，迷人的情妇，名车豪宅，生活优渥。吉米•康维（罗伯特•德尼罗 饰）和汤米（乔•佩西 饰）是亨利的好朋友，三人一起经历和很多事情：杀死羞辱汤米的意大利黑手党头领比利•贝兹；策划德航劫案，并干掉同伙，私吞赃款；甚至背着老大保利贩毒。当然，他们的生活，除了享受金钱带来的权势之外，更多的，是朝不保夕的动荡：汤米因为比利•贝兹的死，被人枪杀；亨利自己因为贩毒被警方逮捕，其他人也受到牵连。凯伦想尽办法将亨利保释出来，此时他们已经一无所有，被人孤立，危机四伏。他们要想尽办法活下去，无论以怎样的方式，付出怎样的代价……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-04 13:12:47</dateadded>
+  <title>好家伙</title>
+  <originaltitle>GoodFellas</originaltitle>
+  <actor>
+    <name>Ray Liotta</name>
+    <role>Henry Hill</role>
+    <type>Actor</type>
+    <tmdbid>11477</tmdbid>
+    <imdbid>nm0000501</imdbid>
+  </actor>
+  <actor>
+    <name>Robert De Niro</name>
+    <role>James Conway</role>
+    <type>Actor</type>
+    <tmdbid>380</tmdbid>
+    <imdbid>nm0000134</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Pesci</name>
+    <role>Tommy DeVito</role>
+    <type>Actor</type>
+    <tmdbid>4517</tmdbid>
+  </actor>
+  <actor>
+    <name>Lorraine Bracco</name>
+    <role>Karen Hill</role>
+    <type>Actor</type>
+    <tmdbid>11478</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Sorvino</name>
+    <role>Paul Cicero</role>
+    <type>Actor</type>
+    <tmdbid>7004</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Sivero</name>
+    <role>Frankie Carbone</role>
+    <type>Actor</type>
+    <tmdbid>11480</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Darrow</name>
+    <role>Sonny Bunz</role>
+    <type>Actor</type>
+    <tmdbid>11482</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Starr</name>
+    <role>Frenchy</role>
+    <type>Actor</type>
+    <tmdbid>5170</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Vincent</name>
+    <role>Billy Batts</role>
+    <type>Actor</type>
+    <tmdbid>7164</tmdbid>
+  </actor>
+  <actor>
+    <name>Chuck Low</name>
+    <role>Morris Kessler</role>
+    <type>Actor</type>
+    <tmdbid>11479</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank DiLeo</name>
+    <role>Tuddy Cicero</role>
+    <type>Actor</type>
+    <tmdbid>11481</tmdbid>
+  </actor>
+  <actor>
+    <name>Henny Youngman</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>99939</tmdbid>
+  </actor>
+  <actor>
+    <name>Gina Mastrogiacomo</name>
+    <role>Janice Rossi</role>
+    <type>Actor</type>
+    <tmdbid>11485</tmdbid>
+  </actor>
+  <actor>
+    <name>Catherine Scorsese</name>
+    <role>Tommy's Mother</role>
+    <type>Actor</type>
+    <tmdbid>11483</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Scorsese</name>
+    <role>Vinnie</role>
+    <type>Actor</type>
+    <tmdbid>1006721</tmdbid>
+  </actor>
+  <actor>
+    <name>Suzanne Shepherd</name>
+    <role>Karen's Mother</role>
+    <type>Actor</type>
+    <tmdbid>11484</tmdbid>
+    <imdbid>nm0791877</imdbid>
+  </actor>
+  <actor>
+    <name>Debi Mazar</name>
+    <role>Sandy</role>
+    <type>Actor</type>
+    <tmdbid>5578</tmdbid>
+  </actor>
+  <actor>
+    <name>Margo Winkler</name>
+    <role>Belle Kessler</role>
+    <type>Actor</type>
+    <tmdbid>1079544</tmdbid>
+  </actor>
+  <actor>
+    <name>Welker White</name>
+    <role>Lois Byrd</role>
+    <type>Actor</type>
+    <tmdbid>93620</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerry Vale</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>1212532</tmdbid>
+  </actor>
+  <actor>
+    <name>Julie Garfield</name>
+    <role>Mickey Conway</role>
+    <type>Actor</type>
+    <tmdbid>155890</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Serrone</name>
+    <role>Young Henry</role>
+    <type>Actor</type>
+    <tmdbid>232946</tmdbid>
+  </actor>
+  <actor>
+    <name>Elaine Kagan</name>
+    <role>Henry's Mother</role>
+    <type>Actor</type>
+    <tmdbid>153926</tmdbid>
+  </actor>
+  <actor>
+    <name>Beau Starr</name>
+    <role>Henry's Father</role>
+    <type>Actor</type>
+    <tmdbid>42308</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Corrigan</name>
+    <role>Michael Hill</role>
+    <type>Actor</type>
+    <tmdbid>18472</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Imperioli</name>
+    <role>Spider</role>
+    <type>Actor</type>
+    <tmdbid>11486</tmdbid>
+  </actor>
+  <actor>
+    <name>Robbie Vinton</name>
+    <role>Bobby  Vinton</role>
+    <type>Actor</type>
+    <tmdbid>1888768</tmdbid>
+  </actor>
+  <actor>
+    <name>Johnny Williams</name>
+    <role>Johnny Roastbeef</role>
+    <type>Actor</type>
+    <tmdbid>53401</tmdbid>
+    <imdbid>nm0930971</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel P. Conte</name>
+    <role>Dr. Dan</role>
+    <type>Actor</type>
+    <tmdbid>120303</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Conforti</name>
+    <role>Tony</role>
+    <type>Actor</type>
+    <tmdbid>985096</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Pellegrino</name>
+    <role>Johnny Dio</role>
+    <type>Actor</type>
+    <tmdbid>1701137</tmdbid>
+  </actor>
+  <actor>
+    <name>Ronald Maccone</name>
+    <role>Ronnie</role>
+    <type>Actor</type>
+    <tmdbid>233121</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Sirico</name>
+    <role>Tony Stacks</role>
+    <type>Actor</type>
+    <tmdbid>21385</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph D'Onofrio</name>
+    <role>Young Tommy</role>
+    <type>Actor</type>
+    <tmdbid>17928</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Forleo</name>
+    <role>City Detective #1</role>
+    <type>Actor</type>
+    <tmdbid>1888769</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Dioguardi</name>
+    <role>City Detective #2</role>
+    <type>Actor</type>
+    <tmdbid>1555143</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Adonis</name>
+    <role>Anthony Stabile</role>
+    <type>Actor</type>
+    <tmdbid>4692</tmdbid>
+  </actor>
+  <actor>
+    <name>John Manca</name>
+    <role>Nickey Eyes</role>
+    <type>Actor</type>
+    <tmdbid>1888770</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Bono</name>
+    <role>Mikey Franzese</role>
+    <type>Actor</type>
+    <tmdbid>1888773</tmdbid>
+  </actor>
+  <actor>
+    <name>Katherine Wallach</name>
+    <role>Diane</role>
+    <type>Actor</type>
+    <tmdbid>164093</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Evan Jacobs</name>
+    <role>Bruce</role>
+    <type>Actor</type>
+    <tmdbid>1586080</tmdbid>
+  </actor>
+  <actor>
+    <name>Angela Pietropinto</name>
+    <role>Cicero's Wife</role>
+    <type>Actor</type>
+    <tmdbid>80542</tmdbid>
+  </actor>
+  <actor>
+    <name>Marianne Leone Cooper</name>
+    <role>Tuddy's Wife</role>
+    <type>Actor</type>
+    <tmdbid>1223750</tmdbid>
+  </actor>
+  <actor>
+    <name>Marie Michaels</name>
+    <role>Mrs. Carbone</role>
+    <type>Actor</type>
+    <tmdbid>1730666</tmdbid>
+  </actor>
+  <actor>
+    <name>LoNardo</name>
+    <role>Frenchy's Wife</role>
+    <type>Actor</type>
+    <tmdbid>1888777</tmdbid>
+  </actor>
+  <actor>
+    <name>Melissa Prophet</name>
+    <role>Angie</role>
+    <type>Actor</type>
+    <tmdbid>105623</tmdbid>
+  </actor>
+  <actor>
+    <name>Illeana Douglas</name>
+    <role>Rosie</role>
+    <type>Actor</type>
+    <tmdbid>7796</tmdbid>
+  </actor>
+  <actor>
+    <name>Susan Varon</name>
+    <role>Susan</role>
+    <type>Actor</type>
+    <tmdbid>1218231</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Whitcraft</name>
+    <role>Tommy's Girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>9172</tmdbid>
+  </actor>
+  <actor>
+    <name>Clem Caserta</name>
+    <role>Joe Buddha</role>
+    <type>Actor</type>
+    <tmdbid>17921</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel L. Jackson</name>
+    <role>Stacks Edwards</role>
+    <type>Actor</type>
+    <tmdbid>2231</tmdbid>
+    <imdbid>nm0000168</imdbid>
+  </actor>
+  <actor>
+    <name>Fran McGee</name>
+    <role>Johnny Roastbeef's Wife</role>
+    <type>Actor</type>
+    <tmdbid>171851</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Herman</name>
+    <role>Dealer</role>
+    <type>Actor</type>
+    <tmdbid>58535</tmdbid>
+    <imdbid>nm0379200</imdbid>
+  </actor>
+  <actor>
+    <name>Edward McDonald</name>
+    <role>Edward McDonald</role>
+    <type>Actor</type>
+    <tmdbid>1888782</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward Hayes</name>
+    <role>Defense Attorney</role>
+    <type>Actor</type>
+    <tmdbid>1888784</tmdbid>
+  </actor>
+  <actor>
+    <name>Gina Mattia</name>
+    <role>Young Henry's Sister #2</role>
+    <type>Actor</type>
+    <tmdbid>1888786</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Calendrillo</name>
+    <role>Young Henry's Older Brother</role>
+    <type>Actor</type>
+    <tmdbid>1888788</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Valentin</name>
+    <role>Young Michael</role>
+    <type>Actor</type>
+    <tmdbid>1888791</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward D. Murphy</name>
+    <role>Liquor Cop #1</role>
+    <type>Actor</type>
+    <tmdbid>106663</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Citriniti</name>
+    <role>Liquor Cop #2</role>
+    <type>Actor</type>
+    <tmdbid>147618</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Hock</name>
+    <role>Mailman</role>
+    <type>Actor</type>
+    <tmdbid>138097</tmdbid>
+  </actor>
+  <actor>
+    <name>Erasmus C. Alfano</name>
+    <role>Barbeque Wiseguy</role>
+    <type>Actor</type>
+    <tmdbid>1888808</tmdbid>
+  </actor>
+  <actor>
+    <name>John Di Benedetto</name>
+    <role>Bleeding Man</role>
+    <type>Actor</type>
+    <tmdbid>60121</tmdbid>
+  </actor>
+  <actor>
+    <name>Manny Alfaro</name>
+    <role>Gambling Doorman</role>
+    <type>Actor</type>
+    <tmdbid>163985</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Lowry</name>
+    <role>Hijacked Driver</role>
+    <type>Actor</type>
+    <tmdbid>1888809</tmdbid>
+  </actor>
+  <actor>
+    <name>Margaret Smith</name>
+    <role>School Guard</role>
+    <type>Actor</type>
+    <tmdbid>1218682</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Mullally</name>
+    <role>Cop #1</role>
+    <type>Actor</type>
+    <tmdbid>1888811</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Albanese</name>
+    <role>Mob Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>1507690</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul McIsaac</name>
+    <role>Judge - 1956</role>
+    <type>Actor</type>
+    <tmdbid>993064</tmdbid>
+  </actor>
+  <actor>
+    <name>Bob Golub</name>
+    <role>Truck Driver at Diner</role>
+    <type>Actor</type>
+    <tmdbid>1667612</tmdbid>
+  </actor>
+  <actor>
+    <name>Louis Eppolito</name>
+    <role>Fat Andy</role>
+    <type>Actor</type>
+    <tmdbid>9286</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Lip</name>
+    <role>Frankie The Wop</role>
+    <type>Actor</type>
+    <tmdbid>61241</tmdbid>
+  </actor>
+  <actor>
+    <name>Mikey Black</name>
+    <role>Freddy No Nose</role>
+    <type>Actor</type>
+    <tmdbid>1888812</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Cicale</name>
+    <role>Pete The Killer</role>
+    <type>Actor</type>
+    <tmdbid>1888813</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Powers</name>
+    <role>Jimmy Two Times</role>
+    <type>Actor</type>
+    <tmdbid>1852819</tmdbid>
+  </actor>
+  <actor>
+    <name>Vincent Pastore</name>
+    <role>Man with Coatrack</role>
+    <type>Actor</type>
+    <tmdbid>47774</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Alessandro</name>
+    <role>Henry's 60's crew</role>
+    <type>Actor</type>
+    <tmdbid>166890</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor Colicchio</name>
+    <role>Henry's 60's crew</role>
+    <type>Actor</type>
+    <tmdbid>5298</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Contessa</name>
+    <role>Cicero 60's Crew</role>
+    <type>Actor</type>
+    <tmdbid>1888814</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Suriano</name>
+    <role>Cicero's 60's crew</role>
+    <type>Actor</type>
+    <tmdbid>14332</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Mougey</name>
+    <role>Terrorized Waiter</role>
+    <type>Actor</type>
+    <tmdbid>1888816</tmdbid>
+  </actor>
+  <actor>
+    <name>Norman Barbera</name>
+    <role>Bouncer</role>
+    <type>Actor</type>
+    <tmdbid>1888817</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Polemeni</name>
+    <role>Copa Captain</role>
+    <type>Actor</type>
+    <tmdbid>1888818</tmdbid>
+  </actor>
+  <actor>
+    <name>James Quattrochi</name>
+    <role>Henry Greeter #1</role>
+    <type>Actor</type>
+    <tmdbid>51656</tmdbid>
+  </actor>
+  <actor>
+    <name>Lawrence Sacco</name>
+    <role>Henry Greeter #2</role>
+    <type>Actor</type>
+    <tmdbid>1393358</tmdbid>
+  </actor>
+  <actor>
+    <name>Dino Laudicina</name>
+    <role>Henry Greeter #3</role>
+    <type>Actor</type>
+    <tmdbid>1637058</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas E. Camuti</name>
+    <role>Mr. Tony Hood #1</role>
+    <type>Actor</type>
+    <tmdbid>1888819</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Scudiero</name>
+    <role>Mr. Tony Hood #2</role>
+    <type>Actor</type>
+    <tmdbid>1888820</tmdbid>
+  </actor>
+  <actor>
+    <name>Irving Welzer</name>
+    <role>Copa Announcer</role>
+    <type>Actor</type>
+    <tmdbid>1888821</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesse Kirtzman</name>
+    <role>Beach Club Waiter</role>
+    <type>Actor</type>
+    <tmdbid>1888827</tmdbid>
+  </actor>
+  <actor>
+    <name>Russell Halley</name>
+    <role>Bruce's Brother #1</role>
+    <type>Actor</type>
+    <tmdbid>1888828</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Bradley</name>
+    <role>Bruce's Brother #2</role>
+    <type>Actor</type>
+    <tmdbid>1888829</tmdbid>
+  </actor>
+  <actor>
+    <name>Bob Altman</name>
+    <role>Karen's Dad</role>
+    <type>Actor</type>
+    <tmdbid>1888830</tmdbid>
+  </actor>
+  <actor>
+    <name>Joanna Bennett</name>
+    <role>Marie #1</role>
+    <type>Actor</type>
+    <tmdbid>1888832</tmdbid>
+  </actor>
+  <actor>
+    <name>Gayle Lewis</name>
+    <role>Marie #2</role>
+    <type>Actor</type>
+    <tmdbid>1888833</tmdbid>
+  </actor>
+  <actor>
+    <name>Gaetano Lisi</name>
+    <role>Paul #3</role>
+    <type>Actor</type>
+    <tmdbid>1770993</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Walter</name>
+    <role>Truck Driver</role>
+    <type>Actor</type>
+    <tmdbid>1888834</tmdbid>
+  </actor>
+  <actor>
+    <name>Ed Deacy</name>
+    <role>Detective Deacy</role>
+    <type>Actor</type>
+    <tmdbid>1888835</tmdbid>
+  </actor>
+  <actor>
+    <name>Larry Silvestri</name>
+    <role>Detective Silvestri</role>
+    <type>Actor</type>
+    <tmdbid>1888836</tmdbid>
+  </actor>
+  <actor>
+    <name>John 'Cha Cha' Ciarcia</name>
+    <role>Batts' Crew #1</role>
+    <type>Actor</type>
+    <tmdbid>1291639</tmdbid>
+  </actor>
+  <actor>
+    <name>Vito Picone</name>
+    <role>Vito</role>
+    <type>Actor</type>
+    <tmdbid>1888837</tmdbid>
+  </actor>
+  <actor>
+    <name>Janis Corsair</name>
+    <role>Vito's Girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>1788103</tmdbid>
+  </actor>
+  <actor>
+    <name>Lisa D’Apolito</name>
+    <role>Lisa</role>
+    <type>Actor</type>
+    <tmdbid>1888838</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Aquilino</name>
+    <role>Batt's Crew #2</role>
+    <type>Actor</type>
+    <tmdbid>1315514</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Calandrino</name>
+    <role>Godfather at Table</role>
+    <type>Actor</type>
+    <tmdbid>1888840</tmdbid>
+  </actor>
+  <actor>
+    <name>Vito Antuofermo</name>
+    <role>Prizefighter</role>
+    <type>Actor</type>
+    <tmdbid>1169885</tmdbid>
+  </actor>
+  <actor>
+    <name>Vincent Gallo</name>
+    <role>Henry's 70's Crew</role>
+    <type>Actor</type>
+    <tmdbid>22461</tmdbid>
+  </actor>
+  <actor>
+    <name>Gaetano LoGiudice</name>
+    <role>Henry's 70's Crew</role>
+    <type>Actor</type>
+    <tmdbid>1850605</tmdbid>
+  </actor>
+  <actor>
+    <name>Garry Pastore</name>
+    <role>Henry's 70's Crew</role>
+    <type>Actor</type>
+    <tmdbid>1513512</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicole Burdette</name>
+    <role>Carbone's Girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>4159</tmdbid>
+  </actor>
+  <actor>
+    <name>Stella Keitel</name>
+    <role>Henry's Older Child - Judy</role>
+    <type>Actor</type>
+    <tmdbid>209069</tmdbid>
+  </actor>
+  <actor>
+    <name>Dominique DeVito</name>
+    <role>Henry's Baby - Ruth</role>
+    <type>Actor</type>
+    <tmdbid>1888842</tmdbid>
+  </actor>
+  <actor>
+    <name>Michaelangelo Graziano</name>
+    <role>Bar Patron</role>
+    <type>Actor</type>
+    <tmdbid>1888843</tmdbid>
+  </actor>
+  <actor>
+    <name>Paula Kcira</name>
+    <role>Janice's Girlfriend #1</role>
+    <type>Actor</type>
+    <tmdbid>1888844</tmdbid>
+  </actor>
+  <actor>
+    <name>Nadine Kay</name>
+    <role>Janoce's Girlfriend #2</role>
+    <type>Actor</type>
+    <tmdbid>1888845</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Ellis</name>
+    <role>Bridal Shop Owner</role>
+    <type>Actor</type>
+    <tmdbid>1888853</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Onorati</name>
+    <role>Florida Bookie</role>
+    <type>Actor</type>
+    <tmdbid>21490</tmdbid>
+    <imdbid>nm0648846</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie deRoy</name>
+    <role>Bookie's Sister</role>
+    <type>Actor</type>
+    <tmdbid>1879781</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Blake</name>
+    <role>Judge - 1971</role>
+    <type>Actor</type>
+    <tmdbid>1888846</tmdbid>
+  </actor>
+  <actor>
+    <name>H. Clay Dear</name>
+    <role>Security Guard with Lobsters</role>
+    <type>Actor</type>
+    <tmdbid>1888848</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Hewson</name>
+    <role>Drug Buyer</role>
+    <type>Actor</type>
+    <tmdbid>1888849</tmdbid>
+  </actor>
+  <actor>
+    <name>Gene Canfield</name>
+    <role>Prison Guard in Booth</role>
+    <type>Actor</type>
+    <tmdbid>21382</tmdbid>
+    <imdbid>nm0133932</imdbid>
+  </actor>
+  <actor>
+    <name>Margaux Guerard</name>
+    <role>Judy Hill at 10 Years</role>
+    <type>Actor</type>
+    <tmdbid>1888856</tmdbid>
+  </actor>
+  <actor>
+    <name>Violet Gaynor</name>
+    <role>Ruth Hill at 8 Years</role>
+    <type>Actor</type>
+    <tmdbid>1888857</tmdbid>
+  </actor>
+  <actor>
+    <name>Tobin Bell</name>
+    <role>Parole Officer</role>
+    <type>Actor</type>
+    <tmdbid>2144</tmdbid>
+  </actor>
+  <actor>
+    <name>Berlinda Tolbert</name>
+    <role>Stacks' Girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>56951</tmdbid>
+  </actor>
+  <actor>
+    <name>Nancy Cassaro</name>
+    <role>Joe Buddha's Wife</role>
+    <type>Actor</type>
+    <tmdbid>1226292</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Wandt</name>
+    <role>Kid</role>
+    <type>Actor</type>
+    <tmdbid>1888859</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Gioco</name>
+    <role>Garbage Man</role>
+    <type>Actor</type>
+    <tmdbid>1888860</tmdbid>
+  </actor>
+  <actor>
+    <name>Isiah Whitlock Jr.</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>17490</tmdbid>
+    <imdbid>nm0926086</imdbid>
+  </actor>
+  <actor>
+    <name>Alyson Jones</name>
+    <role>Judy Hill at 13 Years</role>
+    <type>Actor</type>
+    <tmdbid>1888861</tmdbid>
+  </actor>
+  <actor>
+    <name>Ruby Gaynor</name>
+    <role>Ruth Hill at 11 Years</role>
+    <type>Actor</type>
+    <tmdbid>1888862</tmdbid>
+  </actor>
+  <actor>
+    <name>Bo Dietl</name>
+    <role>Arresting Narc</role>
+    <type>Actor</type>
+    <tmdbid>131119</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Cassini</name>
+    <role>50's Wiseguy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>25390</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Caso</name>
+    <role>Truck Hijacker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>556870</tmdbid>
+  </actor>
+  <actor>
+    <name>Lisa Bostnar</name>
+    <role>Nickey Eyes' Girlfriend (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1558846</tmdbid>
+  </actor>
+  <actor>
+    <name>Billy L. Sullivan</name>
+    <role>Jimmy's Son (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>21735</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniela Barbosa</name>
+    <role>Young Henry's Sister #1</role>
+    <type>Actor</type>
+    <tmdbid>2472568</tmdbid>
+  </actor>
+  <director tmdbid="1032" imdbid="nm0000217">Martin Scorsese</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2ilzidi_J8Q</trailer>
+  <rating>8.7</rating>
+  <year>1990</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0099685</imdbid>
+  <tmdbid>769</tmdbid>
+  <premiered>1990-09-12</premiered>
+  <releasedate>1990-09-12</releasedate>
+  <criticrating>96</criticrating>
+  <runtime>145</runtime>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>犯罪</genre>
+  <studio>Winkler Films</studio>
+  <uniqueid type="Tmdb">769</uniqueid>
+  <uniqueid type="Imdb">tt0099685</uniqueid>
+  <id>tt0099685</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>15071401</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>145</duration>
+        <durationinseconds>8720</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

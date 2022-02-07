@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[剧中讲述三个年代的三名女主，分别是60年代的家庭主妇、80年代的社交名媛及2018 年的律师，她们的共同点是得应付婚姻里的不忠。贝斯从小的梦想就是能够成为一名家庭主妇，如今她嫁给了罗伯特为妻，总算是实现了理想。没想到第三者的出现将她美好的生活幻影撕成了碎片。社交名媛西蒙尼嫁给了非常疼爱她的卡尔，哪知道竟然在偶然之中发现卡尔竟然是一名同性恋者，在守住秘密和守住尊严之间，西蒙尼必须做出选择。泰勒和埃里正在进行一场开放式婚姻，泰勒的情人杰德的出现让埃里开始觉得，在他们两个人里面再加一个人似乎也是个不错的主意。]]></plot>
+  <outline><![CDATA[剧中讲述三个年代的三名女主，分别是60年代的家庭主妇、80年代的社交名媛及2018 年的律师，她们的共同点是得应付婚姻里的不忠。贝斯从小的梦想就是能够成为一名家庭主妇，如今她嫁给了罗伯特为妻，总算是实现了理想。没想到第三者的出现将她美好的生活幻影撕成了碎片。社交名媛西蒙尼嫁给了非常疼爱她的卡尔，哪知道竟然在偶然之中发现卡尔竟然是一名同性恋者，在守住秘密和守住尊严之间，西蒙尼必须做出选择。泰勒和埃里正在进行一场开放式婚姻，泰勒的情人杰德的出现让埃里开始觉得，在他们两个人里面再加一个人似乎也是个不错的主意。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-10-31 07:13:31</dateadded>
+  <title>致命女人</title>
+  <originaltitle>Why Women Kill</originaltitle>
+  <actor>
+    <name>Allison Tolman</name>
+    <role>Alma Fillcot</role>
+    <type>Actor</type>
+    <tmdbid>1331652</tmdbid>
+  </actor>
+  <actor>
+    <name>Lana Parrilla</name>
+    <role>Rita Castillo</role>
+    <type>Actor</type>
+    <tmdbid>177231</tmdbid>
+  </actor>
+  <actor>
+    <name>B.K. Cannon</name>
+    <role>Dee Fillcot</role>
+    <type>Actor</type>
+    <tmdbid>1437461</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordane Christie</name>
+    <role>Vern</role>
+    <type>Actor</type>
+    <tmdbid>2145598</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Daddario</name>
+    <role>Scooter</role>
+    <type>Actor</type>
+    <tmdbid>1272291</tmdbid>
+  </actor>
+  <actor>
+    <name>Veronica Falcón</name>
+    <role>Catherine Castillo</role>
+    <type>Actor</type>
+    <tmdbid>1029593</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Frost</name>
+    <role>Bertram Fillcot</role>
+    <type>Actor</type>
+    <tmdbid>11109</tmdbid>
+  </actor>
+  <actor>
+    <name>Virginia Williams</name>
+    <role>Grace Berk</role>
+    <type>Actor</type>
+    <tmdbid>168986</tmdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=rFYNqmKdaoI</trailer>
+  <rating>8.3</rating>
+  <year>2019</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt9054904</imdb_id>
+  <tmdbid>87428</tmdbid>
+  <premiered>2019-08-15</premiered>
+  <releasedate>2019-08-15</releasedate>
+  <enddate>2021-07-29</enddate>
+  <runtime>50</runtime>
+  <genre>喜剧</genre>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <studio>CBS All Access</studio>
+  <studio>Paramount+</studio>
+  <uniqueid type="Imdb">tt9054904</uniqueid>
+  <uniqueid type="Tmdb">87428</uniqueid>
+  <uniqueid type="Tvdb">365069</uniqueid>
+  <tvdbid>365069</tvdbid>
+  <id>365069</id>
+  <episodeguide>
+    <url cache="365069.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/365069/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

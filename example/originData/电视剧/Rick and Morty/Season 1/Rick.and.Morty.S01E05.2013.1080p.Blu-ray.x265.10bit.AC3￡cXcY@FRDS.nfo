@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[莫蒂越来越受不了瑞克胡闹，因此主导一场应当比较安全的冒险。杰瑞召来奇怪的生物，在高尔夫球赛中助他一臂之力。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 07:46:45</dateadded>
+  <title>米西魔术盒</title>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Kenny</name>
+    <role>Bad Cop / Mr. Jellybean (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>78798</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Ridley</name>
+    <role>Giant Lawyer / Peasant 2 (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1365425</tmdbid>
+  </actor>
+  <actor>
+    <name>Kari Wahlgren</name>
+    <role>Samantha / Hostage Woman (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>116315</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Paulsen</name>
+    <role>Peasant 1 / Good Cop / Giant Judge (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>43125</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Agee</name>
+    <role>Giant / Restaurant Owner (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>559457</tmdbid>
+    <imdbid>nm0012948</imdbid>
+  </actor>
+  <actor>
+    <name>Vatche Panos</name>
+    <role>Slippery Stair (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1260936</tmdbid>
+  </actor>
+  <actor>
+    <name>Cree Summer</name>
+    <role>Giant Woman (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>34985</tmdbid>
+  </actor>
+  <actor>
+    <name>Phil Hendrie</name>
+    <role>Principal Gene Vagina / Mr. Booby Buyer (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>181234</tmdbid>
+  </actor>
+  <director>Bryan Newton</director>
+  <rating>9</rating>
+  <year>2014</year>
+  <imdbid>tt3333832</imdbid>
+  <tvdbid>4743886</tvdbid>
+  <runtime>21</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <uniqueid type="Tvdb">4743886</uniqueid>
+  <uniqueid type="Imdb">tt3333832</uniqueid>
+  <episode>5</episode>
+  <season>1</season>
+  <aired>2014-01-20</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2144796</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1269</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

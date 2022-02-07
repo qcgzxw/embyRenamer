@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[唐三在魂兽森林遇到了武魂殿一行人，还和他们起了冲突。唐三知道独自寻找小舞是不可行的办法，倒不如跟着武魂殿一行人，这样既能更快找到小舞又能在紧急关头保护她，恰巧胡列娜也有挽留唐三的心思...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-21 01:45:32</dateadded>
+  <title>第 7 部分（瀚海乾坤篇）：第 131 集「唐三跟随武魂殿寻找小舞」</title>
+  <actor>
+    <name>Shen Lei</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Yuzhu Cheng</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Xiaobing Wang</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kang Ni</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Leo Wu</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Qi Zhang</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Dian Tao</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ying Huang</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Zhao Qianjing</name>
+    <type>Actor</type>
+  </actor>
+  <rating>0</rating>
+  <year>2020</year>
+  <runtime>21</runtime>
+  <episode>131</episode>
+  <season>1</season>
+  <aired>2020-11-21</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4333343</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>20</duration>
+        <durationinseconds>1239</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>93404</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

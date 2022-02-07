@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[本片长居韩国电影 Top 100 的首位。电影以 1986 年起震撼韩国的 6 年内 10 宗连环奸杀案为背景。1986年，京畿道某处发现了一名女尸。该名女子死去前曾遭人强奸。两个月后，以相同手法的奸杀案再度出现。斗满发现现场留下颇多死者的头发，来推断行凶者专挑选有脱发毛病的女子为行凶对象。另一方面，泰允亦发现受害人全是在雨天穿著红色的衣服。而且受害女性的阴部都遭受严重受损。终于有线索可循，证据环环相扣，剥丝抽茧步步接近真相，本以为真相就要呼之欲出，但案情急转直下，再一次陷入沉寂中。十七年过后，昔日的警官已经成为商人，养儿育女，他再一次来到发生凶案的那片稻田。风吹麦浪，宁静祥和。从一个天真的女童口中得知，凶手不久前来过此地。再继续追问，答案让所有人都为之绝望……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-02 15:21:17</dateadded>
+  <title>杀人回忆</title>
+  <originaltitle>살인의 추억</originaltitle>
+  <actor>
+    <name>Song Kang-ho</name>
+    <role>Detective Park Doo-man</role>
+    <type>Actor</type>
+    <tmdbid>20738</tmdbid>
+    <imdbid>nm0814280</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Sang-kyung</name>
+    <role>Detective Seo Tae-yoon</role>
+    <type>Actor</type>
+    <tmdbid>69378</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Roe-ha</name>
+    <role>Detective Cho Yong-koo</role>
+    <type>Actor</type>
+    <tmdbid>69379</tmdbid>
+  </actor>
+  <actor>
+    <name>Song Jae-ho</name>
+    <role>Sergeant Shin Dong-chul</role>
+    <type>Actor</type>
+    <tmdbid>1080904</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Hae-il</name>
+    <role>Park Hyeon-gyu</role>
+    <type>Actor</type>
+    <tmdbid>21687</tmdbid>
+  </actor>
+  <actor>
+    <name>Go Seo-hee</name>
+    <role>Officer Kwon Kwi-ok</role>
+    <type>Actor</type>
+    <tmdbid>1299348</tmdbid>
+    <imdbid>nm1325300</imdbid>
+  </actor>
+  <actor>
+    <name>Ryu Tae-ho</name>
+    <role>Jo Byung-soon</role>
+    <type>Actor</type>
+    <tmdbid>1136064</tmdbid>
+  </actor>
+  <actor>
+    <name>Park No-shik</name>
+    <role>Baek Kwang-ho</role>
+    <type>Actor</type>
+    <tmdbid>1075838</tmdbid>
+  </actor>
+  <actor>
+    <name>Choi Jong-ryul</name>
+    <role>Kwang-ho's father</role>
+    <type>Actor</type>
+    <tmdbid>139513</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeon Mi-seon</name>
+    <role>Kwok Seol-yung</role>
+    <type>Actor</type>
+    <tmdbid>994248</tmdbid>
+  </actor>
+  <actor>
+    <name>Byun Hee-bong</name>
+    <role>Sergeant Koo Hee-bong</role>
+    <type>Actor</type>
+    <tmdbid>116180</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoon Ga-hyun</name>
+    <role>Shaman</role>
+    <type>Actor</type>
+    <tmdbid>2240042</tmdbid>
+  </actor>
+  <actor>
+    <name>Jung In-sun</name>
+    <role>Girl in ending scene</role>
+    <type>Actor</type>
+    <tmdbid>932764</tmdbid>
+  </actor>
+  <actor>
+    <name>Seo Young-hwa</name>
+    <role>Woman from hill</role>
+    <type>Actor</type>
+    <tmdbid>564849</tmdbid>
+  </actor>
+  <actor>
+    <name>Woo Go-na</name>
+    <role>Kim So-hyun</role>
+    <type>Actor</type>
+    <tmdbid>3084955</tmdbid>
+  </actor>
+  <actor>
+    <name>Shin Dong-hwan</name>
+    <role>Farmer in opening scene</role>
+    <type>Actor</type>
+    <tmdbid>1991273</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Jae-eung</name>
+    <role>Boy in opening scene</role>
+    <type>Actor</type>
+    <tmdbid>1307736</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoo Seung-mok</name>
+    <role>Journalist</role>
+    <type>Actor</type>
+    <tmdbid>1128004</tmdbid>
+    <imdbid>nm2182458</imdbid>
+  </actor>
+  <actor>
+    <name>Baek Bong-ki</name>
+    <role>Cop dressed as woman</role>
+    <type>Actor</type>
+    <tmdbid>1095825</tmdbid>
+  </actor>
+  <actor>
+    <name>Choi Hyeon-gi</name>
+    <role>Farmer</role>
+    <type>Actor</type>
+    <tmdbid>1010956</tmdbid>
+  </actor>
+  <actor>
+    <name>Kwon Hyeok-Pung</name>
+    <role>Investigator at So-Hyun's crime scene</role>
+    <type>Actor</type>
+    <tmdbid>587684</tmdbid>
+  </actor>
+  <actor>
+    <name>Jo Deok-jae</name>
+    <role>Investigator at So-Hyun's crime scene</role>
+    <type>Actor</type>
+    <tmdbid>564848</tmdbid>
+  </actor>
+  <actor>
+    <name>Jo Moon-ee</name>
+    <role>Pharmacist</role>
+    <type>Actor</type>
+    <tmdbid>2499516</tmdbid>
+  </actor>
+  <actor>
+    <name>Ha-kyeong Kim</name>
+    <role>Lee Han-suk</role>
+    <type>Actor</type>
+    <tmdbid>2504453</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Joo-ryoung</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>587677</tmdbid>
+  </actor>
+  <actor>
+    <name>Kwon Byung-gil</name>
+    <role>Doctor Noh</role>
+    <type>Actor</type>
+    <tmdbid>543671</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Dong-yong</name>
+    <role>Suspect</role>
+    <type>Actor</type>
+    <tmdbid>2159392</tmdbid>
+  </actor>
+  <actor>
+    <name>Oh Yong</name>
+    <role>Cop (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1191165</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Jin-woo</name>
+    <role>Broadcast Station AD</role>
+    <type>Actor</type>
+    <tmdbid>548071</tmdbid>
+  </actor>
+  <actor>
+    <name>Son Jin-hwan</name>
+    <role>Fellow detective</role>
+    <type>Actor</type>
+    <tmdbid>577399</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Tae-kyeong</name>
+    <role>Fellow Detective</role>
+    <type>Actor</type>
+    <tmdbid>2504456</tmdbid>
+  </actor>
+  <actor>
+    <name>Son Kang-gook</name>
+    <role>Fellow detective</role>
+    <type>Actor</type>
+    <tmdbid>115294</tmdbid>
+    <imdbid>nm3680865</imdbid>
+  </actor>
+  <actor>
+    <name>Son Jin-ho</name>
+    <role>Fellow detective</role>
+    <type>Actor</type>
+    <tmdbid>2372939</tmdbid>
+  </actor>
+  <actor>
+    <name>Shim Sung-bo</name>
+    <role>Photojournalist</role>
+    <type>Actor</type>
+    <tmdbid>69384</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Hyun-young</name>
+    <role>School nurse</role>
+    <type>Actor</type>
+    <tmdbid>577394</tmdbid>
+    <imdbid>nm0661843</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Kang-san</name>
+    <role>Boiler Kim</role>
+    <type>Actor</type>
+    <tmdbid>2853351</tmdbid>
+  </actor>
+  <actor>
+    <name>Shin Woon-seob</name>
+    <role>Rapist</role>
+    <type>Actor</type>
+    <tmdbid>560079</tmdbid>
+  </actor>
+  <actor>
+    <name>Yeom Hye-ran</name>
+    <role>So-hyun's mother</role>
+    <type>Actor</type>
+    <tmdbid>2084416</tmdbid>
+    <imdbid>nm9470536</imdbid>
+  </actor>
+  <director tmdbid="21684" imdbid="nm0094435">Bong Joon-ho</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0n_HQwQU8ls</trailer>
+  <rating>8.1</rating>
+  <year>2003</year>
+  <imdbid>tt0353969</imdbid>
+  <tmdbid>11423</tmdbid>
+  <premiered>2003-05-02</premiered>
+  <releasedate>2003-05-02</releasedate>
+  <runtime>131</runtime>
+  <country>South Korea</country>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <studio>CJ Entertainment</studio>
+  <studio>Muhan Investment</studio>
+  <studio>Sidus</studio>
+  <uniqueid type="Tmdb">11423</uniqueid>
+  <uniqueid type="Imdb">tt0353969</uniqueid>
+  <id>tt0353969</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>13337396</bitrate>
+        <width>1920</width>
+        <height>1036</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>131</duration>
+        <durationinseconds>7878</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[当谢尔顿得知童年发育不良的人会变成社会弃儿时，他试着去行动。当奶奶教斯特吉斯博士开车时，她和斯特吉斯博士的关系受到了考验。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-11 05:56:43</dateadded>
+  <title>发育不良的童年和一罐奇特的混合坚果</title>
+  <actor>
+    <name>Iain Armitage</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1684536</tmdbid>
+    <imdbid>nm8071137</imdbid>
+  </actor>
+  <actor>
+    <name>Zoe Perry</name>
+    <role>Mary Cooper</role>
+    <type>Actor</type>
+    <tmdbid>133450</tmdbid>
+    <imdbid>nm1409365</imdbid>
+  </actor>
+  <actor>
+    <name>Lance Barber</name>
+    <role>George Cooper Sr.</role>
+    <type>Actor</type>
+    <tmdbid>1212111</tmdbid>
+    <imdbid>nm1115741</imdbid>
+  </actor>
+  <actor>
+    <name>Montana Jordan</name>
+    <role>Georgie Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1817307</tmdbid>
+    <imdbid>nm7718664</imdbid>
+  </actor>
+  <actor>
+    <name>Raegan Revord</name>
+    <role>Missy Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1575317</tmdbid>
+    <imdbid>nm6862942</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Potts</name>
+    <role>Connie Tucker</role>
+    <type>Actor</type>
+    <tmdbid>8873</tmdbid>
+    <imdbid>nm0001633</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Wylde</name>
+    <role>Glenn</role>
+    <type>GuestStar</type>
+    <tmdbid>588231</tmdbid>
+    <imdbid>nm0943699</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Phuong</name>
+    <role>Tam Nguyen</role>
+    <type>GuestStar</type>
+    <tmdbid>2181372</tmdbid>
+    <imdbid>nm7910690</imdbid>
+  </actor>
+  <actor>
+    <name>Wyatt McClure</name>
+    <role>Billy Sparks</role>
+    <type>GuestStar</type>
+    <tmdbid>2162097</tmdbid>
+    <imdbid>nm5976411</imdbid>
+  </actor>
+  <actor>
+    <name>Mckenna Grace</name>
+    <role>Paige Swanson</role>
+    <type>GuestStar</type>
+    <tmdbid>1172108</tmdbid>
+    <imdbid>nm5085683</imdbid>
+  </actor>
+  <actor>
+    <name>Wallace Shawn</name>
+    <role>John Sturgis</role>
+    <type>GuestStar</type>
+    <tmdbid>12900</tmdbid>
+    <imdbid>nm0001728</imdbid>
+  </actor>
+  <actor>
+    <name>Andrea Anders</name>
+    <role>Linda Swanson</role>
+    <type>GuestStar</type>
+    <tmdbid>1216355</tmdbid>
+    <imdbid>nm1627969</imdbid>
+  </actor>
+  <director>Rebecca Asher</director>
+  <rating>6.4</rating>
+  <year>2018</year>
+  <imdbid>tt9153692</imdbid>
+  <tvdbid>6891096</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <uniqueid type="Imdb">tt9153692</uniqueid>
+  <uniqueid type="Tvdb">6891096</uniqueid>
+  <episode>10</episode>
+  <season>2</season>
+  <aired>2018-12-06</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3169135</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1174</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Alone in the chapel of hope on Christmas Eve Reverend Bernice hates Christmas,since her mother was carried off by Papa Lazarou disguised as Santa Claus when she was a child. She has three ...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-15 23:19:03</dateadded>
+  <title>The League of Gentlemen Christmas Special</title>
+  <actor>
+    <name>Jeremy Dyson</name>
+    <type>Actor</type>
+    <tmdbid>1227405</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Gatiss</name>
+    <type>Actor</type>
+    <tmdbid>34546</tmdbid>
+    <imdbid>nm0309693</imdbid>
+  </actor>
+  <actor>
+    <name>David Arnold</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Frances Cox</name>
+    <type>Actor</type>
+  </actor>
+  <director>Steve Bendelack</director>
+  <writer tmdbid="34546" imdbid="nm0309693">Mark Gatiss</writer>
+  <writer tmdbid="28485" imdbid="nm0671487">Steve Pemberton</writer>
+  <writer tmdbid="34551" imdbid="nm0790501">Reece Shearsmith</writer>
+  <writer tmdbid="1227405">Jeremy Dyson</writer>
+  <credits tmdbid="34546" imdbid="nm0309693">Mark Gatiss</credits>
+  <credits tmdbid="28485" imdbid="nm0671487">Steve Pemberton</credits>
+  <credits tmdbid="34551" imdbid="nm0790501">Reece Shearsmith</credits>
+  <credits tmdbid="1227405">Jeremy Dyson</credits>
+  <rating>8.5</rating>
+  <year>2000</year>
+  <imdbid>tt0630129</imdbid>
+  <runtime>56</runtime>
+  <genre>Comedy</genre>
+  <genre>Horror</genre>
+  <uniqueid type="Imdb">tt0630129</uniqueid>
+  <episode>7</episode>
+  <season>2</season>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1265996</bitrate>
+        <width>716</width>
+        <height>572</height>
+        <aspect>40454:22165</aspect>
+        <aspectratio>40454:22165</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>56</duration>
+        <durationinseconds>3382</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

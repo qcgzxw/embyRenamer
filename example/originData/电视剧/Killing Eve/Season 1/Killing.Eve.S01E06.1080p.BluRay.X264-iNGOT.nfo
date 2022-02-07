@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Villanelle is smuggled into a Russian prison on a secret mission, while Eve and Carolyn travel to the country in search of information.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-06-24 14:04:09</dateadded>
+  <title>让我关禁闭吧！</title>
+  <actor>
+    <name>Sandra Oh</name>
+    <role>Eve Polastri</role>
+    <type>Actor</type>
+    <tmdbid>25540</tmdbid>
+    <imdbid>nm0644897</imdbid>
+  </actor>
+  <actor>
+    <name>Jodie Comer</name>
+    <role>Villanelle</role>
+    <type>Actor</type>
+    <tmdbid>1388593</tmdbid>
+    <imdbid>nm3069650</imdbid>
+  </actor>
+  <actor>
+    <name>Fiona Shaw</name>
+    <role>Carolyn Martens</role>
+    <type>Actor</type>
+    <tmdbid>10981</tmdbid>
+    <imdbid>nm0789716</imdbid>
+  </actor>
+  <actor>
+    <name>Kirby Howell-Baptiste</name>
+    <role>Elena Felton</role>
+    <type>Actor</type>
+    <tmdbid>1532312</tmdbid>
+    <imdbid>nm4624730</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Bodnia</name>
+    <role>Konstantin</role>
+    <type>Actor</type>
+    <tmdbid>3398</tmdbid>
+    <imdbid>nm0091035</imdbid>
+  </actor>
+  <actor>
+    <name>Owen McDonnell</name>
+    <role>Niko Polastri</role>
+    <type>Actor</type>
+    <tmdbid>365333</tmdbid>
+    <imdbid>nm1711652</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Delaney</name>
+    <role>Kenny Stowton</role>
+    <type>Actor</type>
+    <tmdbid>2021417</tmdbid>
+    <imdbid>nm7780301</imdbid>
+  </actor>
+  <actor>
+    <name>Olivia Ross</name>
+    <role>Nadia</role>
+    <type>GuestStar</type>
+    <tmdbid>82183</tmdbid>
+    <imdbid>nm2684840</imdbid>
+  </actor>
+  <actor>
+    <name>Irina Kara</name>
+    <role>Head Guard</role>
+    <type>GuestStar</type>
+    <tmdbid>1646440</tmdbid>
+  </actor>
+  <actor>
+    <name>Elina Alminas</name>
+    <role>Prison Guard 1</role>
+    <type>GuestStar</type>
+    <tmdbid>1394348</tmdbid>
+    <imdbid>nm6045387</imdbid>
+  </actor>
+  <actor>
+    <name>Laurentiu Possa</name>
+    <role>Vladimir Betkin</role>
+    <type>GuestStar</type>
+    <tmdbid>1280233</tmdbid>
+  </actor>
+  <actor>
+    <name>David Agranov</name>
+    <role>Dr. Marat</role>
+    <type>GuestStar</type>
+    <tmdbid>1610301</tmdbid>
+    <imdbid>nm1290815</imdbid>
+  </actor>
+  <actor>
+    <name>Larissa Kouznetsova</name>
+    <role>Prison Guard 2</role>
+    <type>GuestStar</type>
+    <tmdbid>1352513</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhenya Leverett</name>
+    <role>Agniya</role>
+    <type>GuestStar</type>
+    <tmdbid>2107249</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrei Zayats</name>
+    <role>Concierge</role>
+    <type>GuestStar</type>
+    <tmdbid>1202629</tmdbid>
+    <imdbid>nm3507110</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Vodovoz</name>
+    <role>Prison Guard 3</role>
+    <type>GuestStar</type>
+    <tmdbid>1500879</tmdbid>
+    <imdbid>nm2380292</imdbid>
+  </actor>
+  <director>Damon Thomas</director>
+  <rating>8.2</rating>
+  <year>2018</year>
+  <imdbid>tt7081294</imdbid>
+  <tvdbid>6668421</tvdbid>
+  <runtime>43</runtime>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt7081294</uniqueid>
+  <uniqueid type="Tvdb">6668421</uniqueid>
+  <episode>6</episode>
+  <season>1</season>
+  <aired>2018-05-13</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11016378</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>42</duration>
+        <durationinseconds>2554</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

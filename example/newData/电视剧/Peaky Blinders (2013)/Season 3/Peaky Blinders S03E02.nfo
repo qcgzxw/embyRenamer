@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Tommy discovers the extent of the mission given to him and the extreme lengths his new paymasters are willing to go to in their quest for power. Meanwhile his own family's activities lead to escalating danger in Birmingham.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-05-17 00:07:50</dateadded>
+  <title>第 2 集</title>
+  <actor>
+    <name>Cillian Murphy</name>
+    <role>Tommy Shelby</role>
+    <type>Actor</type>
+    <tmdbid>2037</tmdbid>
+    <imdbid>nm0614165</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Anderson</name>
+    <role>Arthur Shelby</role>
+    <type>Actor</type>
+    <tmdbid>220448</tmdbid>
+    <imdbid>nm2167957</imdbid>
+  </actor>
+  <actor>
+    <name>Finn Cole</name>
+    <role>Michael Gray</role>
+    <type>Actor</type>
+    <tmdbid>1508313</tmdbid>
+    <imdbid>nm6806440</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Cole</name>
+    <role>John Shelby</role>
+    <type>Actor</type>
+    <tmdbid>1081875</tmdbid>
+    <imdbid>nm3771184</imdbid>
+  </actor>
+  <actor>
+    <name>Helen McCrory</name>
+    <role>Polly Gray</role>
+    <type>Actor</type>
+    <tmdbid>15737</tmdbid>
+    <imdbid>nm0567031</imdbid>
+  </actor>
+  <actor>
+    <name>Sophie Rundle</name>
+    <role>Ada Shelby</role>
+    <type>Actor</type>
+    <tmdbid>1088620</tmdbid>
+    <imdbid>nm2570706</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Hardy</name>
+    <role>Alfie Solomons</role>
+    <type>Actor</type>
+    <tmdbid>2524</tmdbid>
+    <imdbid>nm0362766</imdbid>
+  </actor>
+  <actor>
+    <name>Natasha O'Keeffe</name>
+    <role>Lizzie Stark</role>
+    <type>Actor</type>
+    <tmdbid>1167897</tmdbid>
+    <imdbid>nm3761798</imdbid>
+  </actor>
+  <actor>
+    <name>Jordan Bolger</name>
+    <role>Isaiah Jesus</role>
+    <type>GuestStar</type>
+    <tmdbid>1674734</tmdbid>
+  </actor>
+  <actor>
+    <name>Aimee-Ffion Edwards</name>
+    <role>Esme Shelby</role>
+    <type>GuestStar</type>
+    <tmdbid>1224269</tmdbid>
+    <imdbid>nm2929682</imdbid>
+  </actor>
+  <actor>
+    <name>Greg Kolpakchi</name>
+    <role>Violinist</role>
+    <type>GuestStar</type>
+    <tmdbid>1294465</tmdbid>
+  </actor>
+  <actor>
+    <name>Pedro Caxade</name>
+    <role>Carlo</role>
+    <type>GuestStar</type>
+    <tmdbid>1489426</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Hyam</name>
+    <role>Charlotte Murray</role>
+    <type>GuestStar</type>
+    <tmdbid>1339629</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Pitts</name>
+    <role>Inspector Moss</role>
+    <type>GuestStar</type>
+    <tmdbid>1229255</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Gallagher</name>
+    <role>Angel Nurse</role>
+    <type>GuestStar</type>
+    <tmdbid>1306850</tmdbid>
+  </actor>
+  <actor>
+    <name>Ralph Ineson</name>
+    <role>Connor Nutley</role>
+    <type>GuestStar</type>
+    <tmdbid>202032</tmdbid>
+    <imdbid>nm0408591</imdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Colley</name>
+    <role>Vicente Changretta</role>
+    <type>GuestStar</type>
+    <tmdbid>10734</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Peck</name>
+    <role>Curly</role>
+    <type>GuestStar</type>
+    <tmdbid>208467</tmdbid>
+  </actor>
+  <actor>
+    <name>Ned Dennehy</name>
+    <role>Charlie Strong</role>
+    <type>GuestStar</type>
+    <tmdbid>63362</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Phillips</name>
+    <role>Linda Shelby</role>
+    <type>GuestStar</type>
+    <tmdbid>1392625</tmdbid>
+    <imdbid>nm2669186</imdbid>
+  </actor>
+  <actor>
+    <name>Harry Kirton</name>
+    <role>Finn Shelby</role>
+    <type>GuestStar</type>
+    <tmdbid>1839855</tmdbid>
+  </actor>
+  <actor>
+    <name>Dina Korzun</name>
+    <role>Grand Duchess Izabella</role>
+    <type>GuestStar</type>
+    <tmdbid>105668</tmdbid>
+  </actor>
+  <actor>
+    <name>Jan Bijvoet</name>
+    <role>Grand Duke Leon Petrovna</role>
+    <type>GuestStar</type>
+    <tmdbid>1106964</tmdbid>
+  </actor>
+  <actor>
+    <name>Gaite Jansen</name>
+    <role>Princess Tatiana Petrovna</role>
+    <type>GuestStar</type>
+    <tmdbid>234235</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Siddig</name>
+    <role>Ruben Oliver</role>
+    <type>GuestStar</type>
+    <tmdbid>2957</tmdbid>
+  </actor>
+  <actor>
+    <name>Wendy Nottingham</name>
+    <role>Mary</role>
+    <type>GuestStar</type>
+    <tmdbid>37052</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron Neil</name>
+    <role>Maitre d'</role>
+    <type>GuestStar</type>
+    <tmdbid>204802</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex MacQueen</name>
+    <role>Patrick Jarvis MP</role>
+    <type>GuestStar</type>
+    <tmdbid>126042</tmdbid>
+  </actor>
+  <actor>
+    <name>Paddy Considine</name>
+    <role>Father John Hughes</role>
+    <type>GuestStar</type>
+    <tmdbid>14887</tmdbid>
+    <imdbid>nm0175916</imdbid>
+  </actor>
+  <director>Tim Mielants</director>
+  <rating>7.9</rating>
+  <year>2016</year>
+  <imdbid>tt4370544</imdbid>
+  <tvdbid>5495122</tvdbid>
+  <runtime>58</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt4370544</uniqueid>
+  <uniqueid type="Tvdb">5495122</uniqueid>
+  <episode>2</episode>
+  <season>3</season>
+  <aired>2016-05-12</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9749314</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>58</duration>
+        <durationinseconds>3497</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

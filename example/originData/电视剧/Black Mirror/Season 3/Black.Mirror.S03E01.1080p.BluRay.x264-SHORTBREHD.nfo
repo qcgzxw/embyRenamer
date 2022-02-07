@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[莱西（布莱丝·达拉斯·霍华德 Bryce Dallas Howard 饰）生活在一个十分看重个人评分的世界之中，在这个世界里，你可以给你遇到的所有人打分，自身分数越高的人，给他人打分的权重就越高。每个人的分数决定了他们能够过上怎样的生活。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-06-09 08:46:45</dateadded>
+  <title>急转直下</title>
+  <actor>
+    <name>James Norton</name>
+    <role>Ryan Pound</role>
+    <type>GuestStar</type>
+    <tmdbid>1205278</tmdbid>
+    <imdbid>nm3584268</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Ritchson</name>
+    <role>Paul Mathesen</role>
+    <type>GuestStar</type>
+    <tmdbid>64295</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryce Dallas Howard</name>
+    <role>Lacie Pound</role>
+    <type>GuestStar</type>
+    <tmdbid>18997</tmdbid>
+    <imdbid>nm0397171</imdbid>
+  </actor>
+  <actor>
+    <name>Alice Eve</name>
+    <role>Naomi Blestow</role>
+    <type>GuestStar</type>
+    <tmdbid>59860</tmdbid>
+    <imdbid>nm1404408</imdbid>
+  </actor>
+  <actor>
+    <name>Cherry Jones</name>
+    <role>Susan Taylor</role>
+    <type>GuestStar</type>
+    <tmdbid>1956</tmdbid>
+  </actor>
+  <actor>
+    <name>Daisy Haggard</name>
+    <role>Bethany 'Bets' Jones</role>
+    <type>GuestStar</type>
+    <tmdbid>209458</tmdbid>
+  </actor>
+  <actor>
+    <name>Susannah Fielding</name>
+    <role>Carol</role>
+    <type>GuestStar</type>
+    <tmdbid>884406</tmdbid>
+  </actor>
+  <actor>
+    <name>Michaela Coel</name>
+    <role>Airline Stewardess</role>
+    <type>GuestStar</type>
+    <tmdbid>1368012</tmdbid>
+  </actor>
+  <actor>
+    <name>Demetri Goritsas</name>
+    <role>Hansen</role>
+    <type>GuestStar</type>
+    <tmdbid>20471</tmdbid>
+    <imdbid>nm0330983</imdbid>
+  </actor>
+  <actor>
+    <name>Kadiff Kirwan</name>
+    <role>Chester</role>
+    <type>GuestStar</type>
+    <tmdbid>1411379</tmdbid>
+  </actor>
+  <actor>
+    <name>Sope Dirisu</name>
+    <role>Man in Jail</role>
+    <type>GuestStar</type>
+    <tmdbid>1479869</tmdbid>
+  </actor>
+  <actor>
+    <name>Clayton Evertson</name>
+    <role>Ted</role>
+    <type>GuestStar</type>
+    <tmdbid>1491629</tmdbid>
+  </actor>
+  <actor>
+    <name>Colin Moss</name>
+    <role>Anthony</role>
+    <type>GuestStar</type>
+    <tmdbid>107525</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Munitz</name>
+    <role>Keith Jackson</role>
+    <type>GuestStar</type>
+    <tmdbid>1288403</tmdbid>
+  </actor>
+  <actor>
+    <name>Shane Zaza</name>
+    <role>Chuck</role>
+    <type>GuestStar</type>
+    <tmdbid>1250452</tmdbid>
+  </actor>
+  <actor>
+    <name>Ntokozo Majozi</name>
+    <role>Jack</role>
+    <type>GuestStar</type>
+    <tmdbid>1938293</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Roux</name>
+    <type>GuestStar</type>
+    <tmdbid>1360630</tmdbid>
+  </actor>
+  <director>Joe Wright</director>
+  <rating>7.72</rating>
+  <year>2016</year>
+  <imdbid>tt5497778</imdbid>
+  <tvdbid>5692427</tvdbid>
+  <runtime>63</runtime>
+  <genre>Drama</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt5497778</uniqueid>
+  <uniqueid type="Tvdb">5692427</uniqueid>
+  <episode>1</episode>
+  <season>3</season>
+  <aired>2016-10-21</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9971910</bitrate>
+        <width>1920</width>
+        <height>1016</height>
+        <aspect>240:127</aspect>
+        <aspectratio>240:127</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>62</duration>
+        <durationinseconds>3761</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

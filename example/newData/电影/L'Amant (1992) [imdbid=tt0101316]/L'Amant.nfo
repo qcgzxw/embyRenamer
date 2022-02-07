@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[1929年的越南是法国殖民地，简（珍·玛奇 饰）是一个15岁的法国少女，在西贡女子寄宿学校读书。每逢假期简便回家，母亲办了一所很小的学校，收入甚少。简有两个哥哥，大哥比尔吸毒成瘾且横行霸道，二哥保罗生性懦弱，常受大哥的欺负。一天简一如往常一样告别母亲乘上渡船回学校，在船上遇到一个坐黑色大轿车的阔少爷东尼（梁家辉饰）。东尼是华侨富翁的独生子，东尼喜欢这名白人少女便去搭讪，两人便搭上了。  　  简在寄宿学校里知道有的女生在外卖淫，她也想找个有钱人试试，因此很主动与东尼交谈。上岸后两人逛了西贡，还一起上馆子吃中国饭菜，东尼并用汽车送她回学校。第二天刚放学，黑色汽车就等在校门口了。  简和东尼很快就坠入爱河。东尼把简带到他的公馆，这是中国富人们常用来金屋藏娇的地方。他俩在这里幽会、洗澡、玩耍。有时晚上也不回学校，校方只好通知她的母亲，然而……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2017-12-07 11:40:17</dateadded>
+  <title>情人</title>
+  <originaltitle>L'Amant</originaltitle>
+  <actor>
+    <name>Jane March</name>
+    <role>The Young Girl</role>
+    <type>Actor</type>
+    <tmdbid>21817</tmdbid>
+    <imdbid>nm0001506</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Leung Ka-Fai</name>
+    <role>The Chinaman</role>
+    <type>Actor</type>
+    <tmdbid>56861</tmdbid>
+    <imdbid>nm0504899</imdbid>
+  </actor>
+  <actor>
+    <name>Frédérique Meininger</name>
+    <role>The Mother</role>
+    <type>Actor</type>
+    <tmdbid>40582</tmdbid>
+    <imdbid>nm0576928</imdbid>
+  </actor>
+  <actor>
+    <name>Arnaud Giovaninetti</name>
+    <role>The Elder Brother</role>
+    <type>Actor</type>
+    <tmdbid>67780</tmdbid>
+    <imdbid>nm0320481</imdbid>
+  </actor>
+  <actor>
+    <name>Melvil Poupaud</name>
+    <role>The Younger Brother</role>
+    <type>Actor</type>
+    <tmdbid>26100</tmdbid>
+    <imdbid>nm0693799</imdbid>
+  </actor>
+  <actor>
+    <name>Lisa Faulkner</name>
+    <role>Helene Lagonelle</role>
+    <type>Actor</type>
+    <tmdbid>182054</tmdbid>
+    <imdbid>nm0269096</imdbid>
+  </actor>
+  <actor>
+    <name>Jeanne Moreau</name>
+    <role>Narrator</role>
+    <type>Actor</type>
+    <tmdbid>14812</tmdbid>
+    <imdbid>nm0603402</imdbid>
+  </actor>
+  <actor>
+    <name>Xiem Mang</name>
+    <role>The Chinaman's Father</role>
+    <type>Actor</type>
+    <tmdbid>2966581</tmdbid>
+  </actor>
+  <actor>
+    <name>Philippe Le Dem</name>
+    <role>The French Teacher</role>
+    <type>Actor</type>
+    <tmdbid>231601</tmdbid>
+    <imdbid>nm0494231</imdbid>
+  </actor>
+  <actor>
+    <name>Ann Schaufuss</name>
+    <role>Anne-Marie Stretter</role>
+    <type>Actor</type>
+    <tmdbid>1430347</tmdbid>
+    <imdbid>nm0770301</imdbid>
+  </actor>
+  <actor>
+    <name>Tania Torrens</name>
+    <role>The Principal</role>
+    <type>Actor</type>
+    <tmdbid>1759734</tmdbid>
+    <imdbid>nm0868477</imdbid>
+  </actor>
+  <actor>
+    <name>Espérance Pham Thai Lan</name>
+    <role>Femme</role>
+    <type>Actor</type>
+    <tmdbid>1430430</tmdbid>
+    <imdbid>nm0679615</imdbid>
+  </actor>
+  <actor>
+    <name>Hélène Patarot</name>
+    <role>The Assistant Mistress</role>
+    <type>Actor</type>
+    <tmdbid>109127</tmdbid>
+    <imdbid>nm0665269</imdbid>
+  </actor>
+  <actor>
+    <name>Yvonne Wingerter</name>
+    <role>The Writer (beginning)</role>
+    <type>Actor</type>
+    <tmdbid>2966582</tmdbid>
+    <imdbid>nm0935043</imdbid>
+  </actor>
+  <actor>
+    <name>Raymonde Heudeline</name>
+    <role>The Writer (end)</role>
+    <type>Actor</type>
+    <tmdbid>2652303</tmdbid>
+  </actor>
+  <actor>
+    <name>Quach Van An</name>
+    <role>The Driver</role>
+    <type>Actor</type>
+    <tmdbid>2966583</tmdbid>
+  </actor>
+  <actor>
+    <name>Do Minh Vien</name>
+    <role>The Young Boy</role>
+    <type>Actor</type>
+    <tmdbid>1792363</tmdbid>
+  </actor>
+  <actor>
+    <name>Frédéric Auburtin</name>
+    <role>Liner Pianist</role>
+    <type>Actor</type>
+    <tmdbid>21126</tmdbid>
+    <imdbid>nm0041474</imdbid>
+  </actor>
+  <actor>
+    <name>Alido H. Gaudencio</name>
+    <role>Anne-Marie Stretters Driver</role>
+    <type>Actor</type>
+    <tmdbid>2966584</tmdbid>
+  </actor>
+  <actor>
+    <name>Vu Dinh Thi</name>
+    <role>Ferry Captain</role>
+    <type>Actor</type>
+    <tmdbid>2966585</tmdbid>
+  </actor>
+  <actor>
+    <name>Truong Thu</name>
+    <role>Bus Driver</role>
+    <type>Actor</type>
+    <tmdbid>2747487</tmdbid>
+  </actor>
+  <actor>
+    <name>Thi Cam Thuy Nguyen</name>
+    <role>Bride</role>
+    <type>Actor</type>
+    <tmdbid>2966587</tmdbid>
+    <imdbid>nm0862294</imdbid>
+  </actor>
+  <actor>
+    <name>Lu Van Trang</name>
+    <role>Bus Controller</role>
+    <type>Actor</type>
+    <tmdbid>2966588</tmdbid>
+  </actor>
+  <actor>
+    <name>Vu Kim Trong</name>
+    <role>Young Girls Coolie</role>
+    <type>Actor</type>
+    <tmdbid>2966590</tmdbid>
+  </actor>
+  <director tmdbid="2352" imdbid="nm0000269">Jean-Jacques Annaud</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ObXJvC49_4k</trailer>
+  <rating>6.9</rating>
+  <year>1992</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0101316</imdbid>
+  <tmdbid>10995</tmdbid>
+  <premiered>1992-02-22</premiered>
+  <releasedate>1992-02-22</releasedate>
+  <criticrating>32</criticrating>
+  <runtime>116</runtime>
+  <country>France</country>
+  <country>United Kingdom</country>
+  <country>Vietnam</country>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <studio>Timothy Burrill Productions</studio>
+  <studio>Renn Productions</studio>
+  <studio>Grai Phang Film Studio</studio>
+  <studio>Films A2</studio>
+  <uniqueid type="Imdb">tt0101316</uniqueid>
+  <uniqueid type="Tmdb">10995</uniqueid>
+  <id>tt0101316</id>
+  <fileinfo>
+    <streamdetails>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>rv40</codec>
+        <micodec>rv40</micodec>
+        <bitrate>1667594</bitrate>
+        <width>1280</width>
+        <height>688</height>
+        <aspect>80:43</aspect>
+        <aspectratio>80:43</aspectratio>
+        <framerate>24.000046</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6933</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+</movie>

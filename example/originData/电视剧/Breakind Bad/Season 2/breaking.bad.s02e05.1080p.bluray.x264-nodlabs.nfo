@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Walter 继续接受治疗，他感觉身体状况有所好转。Jesse 必须重新振作，还掉债务。他找到新的住处，很快喜欢上了自己的新邻居兼房东 —— Jane Margolis。Walter 和 Jesse 把房车武装起来，做成制毒实验室。Jesse 不想在街上兜售毒品，他想代替 Tuco 的角色—批发商。Hank 和 DEA 那边查到了一个名叫 Heisenberg 的毒枭，但是他们不确定这是否是真名。Hank 升职了并且被任命监管三州的毒品事宜，然而他的健康也可能出了问题。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 17:40:45</dateadded>
+  <title>损失</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Krysten Ritter</name>
+    <role>Jane Margolis</role>
+    <type>GuestStar</type>
+    <tmdbid>78080</tmdbid>
+    <imdbid>nm1269983</imdbid>
+  </actor>
+  <actor>
+    <name>Judith Rane</name>
+    <role>Office Manager</role>
+    <type>GuestStar</type>
+    <tmdbid>210057</tmdbid>
+  </actor>
+  <actor>
+    <name>Lawrence Varnado</name>
+    <role>Agent Buddy</role>
+    <type>GuestStar</type>
+    <tmdbid>61566</tmdbid>
+  </actor>
+  <actor>
+    <name>David Ury</name>
+    <role>Spooge</role>
+    <type>GuestStar</type>
+    <tmdbid>1237876</tmdbid>
+    <imdbid>nm1352845</imdbid>
+  </actor>
+  <actor>
+    <name>Dale Dickey</name>
+    <role>Spooge's Woman</role>
+    <type>GuestStar</type>
+    <tmdbid>46814</tmdbid>
+    <imdbid>nm0225460</imdbid>
+  </actor>
+  <actor>
+    <name>David House</name>
+    <role>Dr. Delcavoli</role>
+    <type>GuestStar</type>
+    <tmdbid>79211</tmdbid>
+    <imdbid>nm1450145</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Kiesche</name>
+    <role>Clovis</role>
+    <type>GuestStar</type>
+    <tmdbid>76537</tmdbid>
+    <imdbid>nm0452622</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Shamus Wiles</name>
+    <role>ASAC George Merkert</role>
+    <type>GuestStar</type>
+    <tmdbid>9291</tmdbid>
+    <imdbid>nm0928795</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Jones</name>
+    <role>Badger</role>
+    <type>GuestStar</type>
+    <tmdbid>191202</tmdbid>
+    <imdbid>nm2804503</imdbid>
+  </actor>
+  <actor>
+    <name>Charles Baker</name>
+    <role>Skinny Pete</role>
+    <type>GuestStar</type>
+    <tmdbid>82945</tmdbid>
+    <imdbid>nm1889973</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Michael Quezada</name>
+    <role>Steven Gomez</role>
+    <type>GuestStar</type>
+    <tmdbid>61535</tmdbid>
+    <imdbid>nm2366374</imdbid>
+  </actor>
+  <director>Johan Renck</director>
+  <rating>7.808</rating>
+  <year>2009</year>
+  <imdbid>tt1232252</imdbid>
+  <tvdbid>438916</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <tvrageid>710918</tvrageid>
+  <uniqueid type="Imdb">tt1232252</uniqueid>
+  <uniqueid type="Tvdb">438916</uniqueid>
+  <uniqueid type="TvRage">710918</uniqueid>
+  <episode>5</episode>
+  <season>2</season>
+  <aired>2009-04-05</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9911457</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2841</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

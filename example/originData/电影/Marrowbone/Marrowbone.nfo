@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[兄弟姐妹四人在母亲去世后，去到一座老房子寻求庇护，逐渐发现房子背后隐藏的险恶秘密。]]></plot>
+  <outline><![CDATA[马柔本宅秘事]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2018-03-25 14:25:51</dateadded>
+  <title>马柔本宅秘事</title>
+  <originaltitle>Marrowbone</originaltitle>
+  <actor>
+    <name>George MacKay</name>
+    <role>Jack Marrowbone</role>
+    <type>Actor</type>
+    <tmdbid>146750</tmdbid>
+    <imdbid>nm1126657</imdbid>
+  </actor>
+  <actor>
+    <name>Anya Taylor-Joy</name>
+    <role>Allie</role>
+    <type>Actor</type>
+    <tmdbid>1397778</tmdbid>
+    <imdbid>nm5896355</imdbid>
+  </actor>
+  <actor>
+    <name>Charlie Heaton</name>
+    <role>Billy Marrowbone</role>
+    <type>Actor</type>
+    <tmdbid>1448222</tmdbid>
+    <imdbid>nm6390427</imdbid>
+  </actor>
+  <actor>
+    <name>Mia Goth</name>
+    <role>Jane Marrowbone</role>
+    <type>Actor</type>
+    <tmdbid>1137824</tmdbid>
+    <imdbid>nm5301405</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Stagg</name>
+    <role>Sam Marrowbone</role>
+    <type>Actor</type>
+    <tmdbid>1675329</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicola Harrison</name>
+    <role>Rose Marrowbone, Mother</role>
+    <type>Actor</type>
+    <tmdbid>1675330</tmdbid>
+  </actor>
+  <actor>
+    <name>Kyle Soller</name>
+    <role>Tom Porter</role>
+    <type>Actor</type>
+    <tmdbid>1390505</tmdbid>
+    <imdbid>nm4964567</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Fisher</name>
+    <role>Simon Fairbairn, Father</role>
+    <type>Actor</type>
+    <tmdbid>27678</tmdbid>
+    <imdbid>nm1433660</imdbid>
+  </actor>
+  <actor>
+    <name>Myra Kathryn Pearse</name>
+    <role>Molly</role>
+    <type>Actor</type>
+    <tmdbid>1976937</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Jesson</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>72308</tmdbid>
+    <imdbid>nm0422234</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Nairne</name>
+    <role>Monster</role>
+    <type>Actor</type>
+    <tmdbid>1675328</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Brook</name>
+    <role>Thelma (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1675331</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Quintero</name>
+    <role>Mr. Gouldman (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1489422</tmdbid>
+    <imdbid>nm1971513</imdbid>
+  </actor>
+  <director tmdbid="51895" imdbid="nm1037221">Sergio G. Sánchez</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bkCqmAxZXvg</trailer>
+  <rating>6.7</rating>
+  <year>2017</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt5886440</imdbid>
+  <tmdbid>399366</tmdbid>
+  <premiered>2017-10-27</premiered>
+  <releasedate>2017-10-27</releasedate>
+  <criticrating>49</criticrating>
+  <runtime>111</runtime>
+  <tagline>马柔本宅秘事</tagline>
+  <country>Spain</country>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <genre>悬疑</genre>
+  <genre>恐怖</genre>
+  <studio>Mogambo Films</studio>
+  <studio>Lionsgate</studio>
+  <studio>Telecinco Cinema</studio>
+  <studio>Universal Pictures</studio>
+  <uniqueid type="Imdb">tt5886440</uniqueid>
+  <uniqueid type="Tmdb">399366</uniqueid>
+  <id>tt5886440</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>12910739</bitrate>
+        <width>1920</width>
+        <height>804</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>110</duration>
+        <durationinseconds>6641</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

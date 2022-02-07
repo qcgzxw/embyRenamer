@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[瑞克和莫蒂被一种叫做荣左（Glorzo）的抱脸虫心灵控制，并打算借助瑞克的飞碟为超级武器供能，将荣左传播至地球。两人从心灵控制中摆脱后，在星球上大搞一通后成功逃离。回到家后，他们才意识到把桑美忘了。回头去救她时缺发现，桑美不仅没被荣左附身，反倒被视作女王。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 07:38:41</dateadded>
+  <title>科幻莫蒂</title>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Tudyk</name>
+    <role>Observant Glorzo (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>21088</tmdbid>
+    <imdbid>nm0876138</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Bauza</name>
+    <role>Shane (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>89599</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Harmon</name>
+    <role>Council Of Glorzos Member (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>57194</tmdbid>
+  </actor>
+  <actor>
+    <name>Cassie Steele</name>
+    <role>Tricia Lange / Podcaster / Glorzos (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>180986</tmdbid>
+  </actor>
+  <actor>
+    <name>Nolan North</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>19508</tmdbid>
+  </actor>
+  <director>Bryan Newton</director>
+  <rating>8.1</rating>
+  <year>2020</year>
+  <imdbid>tt10655690</imdbid>
+  <tvdbid>7229022</tvdbid>
+  <runtime>21</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <uniqueid type="Tvdb">7229022</uniqueid>
+  <uniqueid type="Imdb">tt10655690</uniqueid>
+  <episode>7</episode>
+  <season>4</season>
+  <aired>2020-05-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2189052</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1282</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

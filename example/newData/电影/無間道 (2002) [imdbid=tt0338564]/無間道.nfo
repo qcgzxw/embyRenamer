@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[1991年，香港黑帮三合会会员刘健明听从老大韩琛的吩咐，加入警察部队成为黑帮卧底，韩琛许诺刘健明会帮其在七年后晋升为见习督察。1992年，警察训练学校优秀学员陈永仁被上级要求深入到三合会做卧底，终极目标是成为韩琛身边的红人。2002年，两人都不负重望，也都身背重压，刘健明渐想成为一个真正的好人，陈永仁则盼着尽快回归警察身份。重案组从陈永仁手中获悉一批毒品交易情报，锁紧目标人物韩琛，没料情报被刘健明泄出，双方行动均告失败。但此事将双方均有卧底的事实暴露，引发双方高层清除内鬼的决心。命运迥异又相似的刘健明和陈永仁开始在无间道的旅程中接受严峻考验。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-09 07:12:53</dateadded>
+  <title>无间道</title>
+  <originaltitle>無間道</originaltitle>
+  <actor>
+    <name>Andy Lau</name>
+    <role>Lau Kin-Ming</role>
+    <type>Actor</type>
+    <tmdbid>25246</tmdbid>
+    <imdbid>nm0490489</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Leung Chiu-Wai</name>
+    <role>Chan Wing-Yan</role>
+    <type>Actor</type>
+    <tmdbid>1337</tmdbid>
+    <imdbid>nm0504897</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Wong</name>
+    <role>Wong Chi-Shing</role>
+    <type>Actor</type>
+    <tmdbid>66717</tmdbid>
+    <imdbid>nm0938893</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Tsang</name>
+    <role>Hon Sam</role>
+    <type>Actor</type>
+    <tmdbid>26724</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelly Chen</name>
+    <role>Lee Sum-Yee</role>
+    <type>Actor</type>
+    <tmdbid>72730</tmdbid>
+  </actor>
+  <actor>
+    <name>Sammi Cheng</name>
+    <role>Mary</role>
+    <type>Actor</type>
+    <tmdbid>86318</tmdbid>
+  </actor>
+  <actor>
+    <name>Edison Chen</name>
+    <role>Lau Kin-Ming (young)</role>
+    <type>Actor</type>
+    <tmdbid>20372</tmdbid>
+    <imdbid>nm0155211</imdbid>
+  </actor>
+  <actor>
+    <name>Shawn Yue</name>
+    <role>Chan Wing-Yan (young)</role>
+    <type>Actor</type>
+    <tmdbid>78869</tmdbid>
+  </actor>
+  <actor>
+    <name>Chapman To</name>
+    <role>"Silly" Keung</role>
+    <type>Actor</type>
+    <tmdbid>118742</tmdbid>
+  </actor>
+  <actor>
+    <name>Dion Lam Dik-On</name>
+    <role>Del Piero</role>
+    <type>Actor</type>
+    <tmdbid>236116</tmdbid>
+  </actor>
+  <actor>
+    <name>Gordon Lam</name>
+    <role>Inspector B</role>
+    <type>Actor</type>
+    <tmdbid>83820</tmdbid>
+    <imdbid>nm0482628</imdbid>
+  </actor>
+  <actor>
+    <name>Wan Chi-Keung</name>
+    <role>Officer Leung</role>
+    <type>Actor</type>
+    <tmdbid>1000109</tmdbid>
+  </actor>
+  <actor>
+    <name>Berg Ng</name>
+    <role>Senior Inspector Cheung</role>
+    <type>Actor</type>
+    <tmdbid>1139045</tmdbid>
+    <imdbid>nm0628727</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Ho</name>
+    <role>Suspect</role>
+    <type>Actor</type>
+    <tmdbid>138489</tmdbid>
+  </actor>
+  <actor>
+    <name>Xiao Yaxuan</name>
+    <role>May</role>
+    <type>Actor</type>
+    <tmdbid>236115</tmdbid>
+  </actor>
+  <actor>
+    <name>Courtney Wu</name>
+    <role>Stereo Shop Owner</role>
+    <type>Actor</type>
+    <tmdbid>130564</tmdbid>
+  </actor>
+  <actor>
+    <name>Victy Wong Yin-Keung</name>
+    <role>CIB Team</role>
+    <type>Actor</type>
+    <tmdbid>1625432</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Li Tin Cheung</name>
+    <role>Double 8</role>
+    <type>Actor</type>
+    <tmdbid>2064579</tmdbid>
+  </actor>
+  <actor>
+    <name>So Wai-Nam</name>
+    <role>Sam's Follower</role>
+    <type>Actor</type>
+    <tmdbid>1400222</tmdbid>
+  </actor>
+  <director tmdbid="65994">Andrew Lau</director>
+  <director tmdbid="66718">Alan Mak</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=08YrmFqWJ8E</trailer>
+  <rating>8</rating>
+  <year>2002</year>
+  <mpaa>HK-IIB</mpaa>
+  <imdbid>tt0338564</imdbid>
+  <tmdbid>10775</tmdbid>
+  <premiered>2002-12-12</premiered>
+  <releasedate>2002-12-12</releasedate>
+  <criticrating>94</criticrating>
+  <runtime>101</runtime>
+  <country>Hong Kong</country>
+  <genre>剧情</genre>
+  <genre>动作</genre>
+  <genre>惊悚</genre>
+  <genre>犯罪</genre>
+  <genre>悬疑</genre>
+  <studio>Media Asia Films</studio>
+  <set tmdbcolid="58588">
+    <name>无间道（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">10775</uniqueid>
+  <uniqueid type="Imdb">tt0338564</uniqueid>
+  <id>tt0338564</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10797190</bitrate>
+        <width>1280</width>
+        <height>552</height>
+        <aspect>160:69</aspect>
+        <aspectratio>160:69</aspectratio>
+        <framerate>24</framerate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6052</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

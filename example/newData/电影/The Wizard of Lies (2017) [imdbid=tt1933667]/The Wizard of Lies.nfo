@@ -1,0 +1,438 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[电影以美国历史上最大庞氏骗局（金字塔骗局、非法集资）为背景，讲述了金融巨鳄、前纳斯达克主席麦道夫如何玩了一把庞氏骗局]]></plot>
+  <outline><![CDATA[投资者的贪欲成就了庞氏骗局]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2017-11-10 10:24:43</dateadded>
+  <title>欺诈圣手</title>
+  <originaltitle>The Wizard of Lies</originaltitle>
+  <actor>
+    <name>Robert De Niro</name>
+    <role>Bernie Madoff</role>
+    <type>Actor</type>
+    <tmdbid>380</tmdbid>
+    <imdbid>nm0000134</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Pfeiffer</name>
+    <role>Ruth Madoff</role>
+    <type>Actor</type>
+    <tmdbid>1160</tmdbid>
+    <imdbid>nm0000201</imdbid>
+  </actor>
+  <actor>
+    <name>Hank Azaria</name>
+    <role>Frank Dipascali</role>
+    <type>Actor</type>
+    <tmdbid>5587</tmdbid>
+    <imdbid>nm0000279</imdbid>
+  </actor>
+  <actor>
+    <name>Kristen Connolly</name>
+    <role>Stephanie Madoff</role>
+    <type>Actor</type>
+    <tmdbid>210824</tmdbid>
+    <imdbid>nm1393354</imdbid>
+  </actor>
+  <actor>
+    <name>Lily Rabe</name>
+    <role>Catherine Hooper</role>
+    <type>Actor</type>
+    <tmdbid>4888</tmdbid>
+    <imdbid>nm1143816</imdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Nivola</name>
+    <role>Mark Madoff</role>
+    <type>Actor</type>
+    <tmdbid>4941</tmdbid>
+    <imdbid>nm0005273</imdbid>
+  </actor>
+  <actor>
+    <name>Kathrine Narducci</name>
+    <role>Eleanor Squillari</role>
+    <type>Actor</type>
+    <tmdbid>17920</tmdbid>
+    <imdbid>nm0621393</imdbid>
+  </actor>
+  <actor>
+    <name>Nathan Darrow</name>
+    <role>Andrew Madoff</role>
+    <type>Actor</type>
+    <tmdbid>1224255</tmdbid>
+    <imdbid>nm2080557</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Coulter</name>
+    <role>Martin London</role>
+    <type>Actor</type>
+    <tmdbid>80619</tmdbid>
+    <imdbid>nm0183548</imdbid>
+  </actor>
+  <actor>
+    <name>Michael A. Goorjian</name>
+    <role>Dan Horwitz</role>
+    <type>Actor</type>
+    <tmdbid>49424</tmdbid>
+    <imdbid>nm0329640</imdbid>
+  </actor>
+  <actor>
+    <name>Geoffrey Cantor</name>
+    <role>Ostrow</role>
+    <type>Actor</type>
+    <tmdbid>944717</tmdbid>
+    <imdbid>nm0134666</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Babinsky</name>
+    <role>Michael Schwartz</role>
+    <type>Actor</type>
+    <tmdbid>1401841</tmdbid>
+    <imdbid>nm3389143</imdbid>
+  </actor>
+  <actor>
+    <name>Marta Milans</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>1181306</tmdbid>
+    <imdbid>nm2803689</imdbid>
+  </actor>
+  <actor>
+    <name>Kelly AuCoin</name>
+    <role>Agent Ted Cacioppi</role>
+    <type>Actor</type>
+    <tmdbid>171727</tmdbid>
+    <imdbid>nm1372572</imdbid>
+  </actor>
+  <actor>
+    <name>Amanda Warren</name>
+    <role>SEC Investigator</role>
+    <type>Actor</type>
+    <tmdbid>1170657</tmdbid>
+    <imdbid>nm2581729</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Kostroff</name>
+    <role>Peter Madoff</role>
+    <type>Actor</type>
+    <tmdbid>170737</tmdbid>
+    <imdbid>nm0467512</imdbid>
+  </actor>
+  <actor>
+    <name>Portland Helmich</name>
+    <role>Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1643247</tmdbid>
+  </actor>
+  <actor>
+    <name>Doris McCarthy</name>
+    <role>Upscale Gala Guest</role>
+    <type>Actor</type>
+    <tmdbid>1457224</tmdbid>
+    <imdbid>nm0565117</imdbid>
+  </actor>
+  <actor>
+    <name>Hamilton Clancy</name>
+    <role>David Sheehan</role>
+    <type>Actor</type>
+    <tmdbid>176777</tmdbid>
+    <imdbid>nm1750388</imdbid>
+  </actor>
+  <actor>
+    <name>Tommy Bayiokos</name>
+    <role>News Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1553053</tmdbid>
+    <imdbid>nm3793640</imdbid>
+  </actor>
+  <actor>
+    <name>Gary Wilmes</name>
+    <role>Reed</role>
+    <type>Actor</type>
+    <tmdbid>78404</tmdbid>
+    <imdbid>nm1675596</imdbid>
+  </actor>
+  <actor>
+    <name>Cece King</name>
+    <role>Club Codette</role>
+    <type>Actor</type>
+    <tmdbid>1557070</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelly Aaron</name>
+    <role>Trader</role>
+    <type>Actor</type>
+    <tmdbid>1758982</tmdbid>
+    <imdbid>nm7196672</imdbid>
+  </actor>
+  <actor>
+    <name>Amelia Brain</name>
+    <role>Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>1625687</tmdbid>
+    <imdbid>nm5583136</imdbid>
+  </actor>
+  <actor>
+    <name>Marion McCorry</name>
+    <role>Pinks</role>
+    <type>Actor</type>
+    <tmdbid>28046</tmdbid>
+    <imdbid>nm0566635</imdbid>
+  </actor>
+  <actor>
+    <name>Sophie von Haselberg</name>
+    <role>Nicole De Bello</role>
+    <type>Actor</type>
+    <tmdbid>1560332</tmdbid>
+    <imdbid>nm0902394</imdbid>
+  </actor>
+  <actor>
+    <name>Karen Goeller</name>
+    <role>Driver</role>
+    <type>Actor</type>
+    <tmdbid>1805549</tmdbid>
+  </actor>
+  <actor>
+    <name>Sydney Gayle</name>
+    <role>Emily Madoff</role>
+    <type>Actor</type>
+    <tmdbid>1522871</tmdbid>
+  </actor>
+  <actor>
+    <name>Vincent Chan</name>
+    <role>Photographer / Paparazzi</role>
+    <type>Actor</type>
+    <tmdbid>1805550</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Butterfield</name>
+    <role>Caterer</role>
+    <type>Actor</type>
+    <tmdbid>1805551</tmdbid>
+    <imdbid>nm4455013</imdbid>
+  </actor>
+  <actor>
+    <name>Razor Rizzotti</name>
+    <role>Mike</role>
+    <type>Actor</type>
+    <tmdbid>1805552</tmdbid>
+  </actor>
+  <actor>
+    <name>Derrick Simmons</name>
+    <role>FBI Agent Kane Partner</role>
+    <type>Actor</type>
+    <tmdbid>80831</tmdbid>
+    <imdbid>nm0799734</imdbid>
+  </actor>
+  <actor>
+    <name>James Brickhouse</name>
+    <role>Visitor</role>
+    <type>Actor</type>
+    <tmdbid>1805553</tmdbid>
+  </actor>
+  <actor>
+    <name>Ray Iannicelli</name>
+    <role>Kenneth Langone</role>
+    <type>Actor</type>
+    <tmdbid>155549</tmdbid>
+    <imdbid>nm0406320</imdbid>
+  </actor>
+  <actor>
+    <name>Guy Sparks</name>
+    <role>Florida Fisherman</role>
+    <type>Actor</type>
+    <tmdbid>1653335</tmdbid>
+    <imdbid>nm7481234</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Hammer</name>
+    <role>Carl Shapiro</role>
+    <type>Actor</type>
+    <tmdbid>96913</tmdbid>
+    <imdbid>nm0358432</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Coskay</name>
+    <role>Pool Kid</role>
+    <type>Actor</type>
+    <tmdbid>1805554</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor Joel Ortiz</name>
+    <role>Picard Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1461304</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris LaPanta</name>
+    <role>Federal Agent</role>
+    <type>Actor</type>
+    <tmdbid>1358980</tmdbid>
+    <imdbid>nm2018501</imdbid>
+  </actor>
+  <actor>
+    <name>Nicole Scimeca</name>
+    <role>Daughter</role>
+    <type>Actor</type>
+    <tmdbid>1706264</tmdbid>
+    <imdbid>nm5757950</imdbid>
+  </actor>
+  <actor>
+    <name>Anthoula Katsimatides</name>
+    <role>Young Mom</role>
+    <type>Actor</type>
+    <tmdbid>1127717</tmdbid>
+    <imdbid>nm3165703</imdbid>
+  </actor>
+  <actor>
+    <name>David Little</name>
+    <role>Irving Picard</role>
+    <type>Actor</type>
+    <tmdbid>170924</tmdbid>
+    <imdbid>nm0514539</imdbid>
+  </actor>
+  <actor>
+    <name>Jean Brassard</name>
+    <role>Pierre</role>
+    <type>Actor</type>
+    <tmdbid>171946</tmdbid>
+    <imdbid>nm0105448</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Axelowitz</name>
+    <role>Robert Jaffe</role>
+    <type>Actor</type>
+    <tmdbid>1805556</tmdbid>
+  </actor>
+  <actor>
+    <name>Reagan Grella</name>
+    <role>Audrey</role>
+    <type>Actor</type>
+    <tmdbid>1805557</tmdbid>
+  </actor>
+  <actor>
+    <name>Giulia Cicciari</name>
+    <role>Girl in Pool</role>
+    <type>Actor</type>
+    <tmdbid>1723560</tmdbid>
+  </actor>
+  <actor>
+    <name>Wayne J. Miller</name>
+    <role>Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>1805558</tmdbid>
+  </actor>
+  <actor>
+    <name>Neil Brooks Cunningham</name>
+    <role>Tom FitzMaurice</role>
+    <type>Actor</type>
+    <tmdbid>81563</tmdbid>
+    <imdbid>nm0192406</imdbid>
+  </actor>
+  <actor>
+    <name>Lori Burch</name>
+    <role>Palm Beach Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>1805559</tmdbid>
+  </actor>
+  <actor>
+    <name>Christine J. Carlson</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>1805560</tmdbid>
+  </actor>
+  <actor>
+    <name>Sammy Peralta</name>
+    <role>Inmate Gonzales</role>
+    <type>Actor</type>
+    <tmdbid>1805561</tmdbid>
+  </actor>
+  <actor>
+    <name>Ralph Bracco</name>
+    <role>17th floor Office worker</role>
+    <type>Actor</type>
+    <tmdbid>1373344</tmdbid>
+    <imdbid>nm4510672</imdbid>
+  </actor>
+  <actor>
+    <name>Eli Golden</name>
+    <role>Young Daniel</role>
+    <type>Actor</type>
+    <tmdbid>1805562</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark LaMura</name>
+    <role>Ike Sorkin</role>
+    <type>Actor</type>
+    <tmdbid>1232195</tmdbid>
+    <imdbid>nm0478760</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Levey II</name>
+    <role>Pool Party Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2575782</tmdbid>
+    <imdbid>nm8460084</imdbid>
+  </actor>
+  <director tmdbid="8246" imdbid="nm0001469">Barry Levinson</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jo_CYCumZgI</trailer>
+  <rating>6.8</rating>
+  <year>2017</year>
+  <mpaa>NR</mpaa>
+  <imdbid>tt1933667</imdbid>
+  <tmdbid>363992</tmdbid>
+  <premiered>2017-05-21</premiered>
+  <releasedate>2017-05-21</releasedate>
+  <criticrating>73</criticrating>
+  <runtime>133</runtime>
+  <tagline>投资者的贪欲成就了庞氏骗局</tagline>
+  <country>United States of America</country>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <genre>历史</genre>
+  <genre>惊悚</genre>
+  <genre>电视电影</genre>
+  <studio>Tribeca Productions</studio>
+  <studio>HBO Films</studio>
+  <uniqueid type="Imdb">tt1933667</uniqueid>
+  <uniqueid type="Tmdb">363992</uniqueid>
+  <id>tt1933667</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3969213</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>132</duration>
+        <durationinseconds>7960</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

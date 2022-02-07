@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[本片由莫娜·法斯特欧德执导，罗恩·汉森（《神枪手之死》）和吉姆·谢泼德编剧，故事改编自谢泼德的同名短篇小说，讲述了两个女人在19世纪中期的美国边疆逐渐建立起了紧密牢固的情谊。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-28 07:45:10</dateadded>
+  <title>打开心世界</title>
+  <originaltitle>The World to Come</originaltitle>
+  <actor>
+    <name>Katherine Waterston</name>
+    <role>Abigail</role>
+    <type>Actor</type>
+    <tmdbid>77795</tmdbid>
+    <imdbid>nm2239702</imdbid>
+  </actor>
+  <actor>
+    <name>Casey Affleck</name>
+    <role>Dyer</role>
+    <type>Actor</type>
+    <tmdbid>1893</tmdbid>
+    <imdbid>nm0000729</imdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Kirby</name>
+    <role>Tallie</role>
+    <type>Actor</type>
+    <tmdbid>556356</tmdbid>
+    <imdbid>nm3948952</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Abbott</name>
+    <role>Finney</role>
+    <type>Actor</type>
+    <tmdbid>984629</tmdbid>
+    <imdbid>nm3571592</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Ciobanu</name>
+    <role>Widow Weldon's Son</role>
+    <type>Actor</type>
+    <tmdbid>1913585</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Blumberg</name>
+    <role>Tinker</role>
+    <type>Actor</type>
+    <tmdbid>1711289</tmdbid>
+  </actor>
+  <actor>
+    <name>Andreea Vasile</name>
+    <role>Mother</role>
+    <type>Actor</type>
+    <tmdbid>1161505</tmdbid>
+    <imdbid>nm2464980</imdbid>
+  </actor>
+  <actor>
+    <name>James Longshore</name>
+    <role>Man No. 1</role>
+    <type>Actor</type>
+    <tmdbid>1871762</tmdbid>
+  </actor>
+  <director tmdbid="1280031" imdbid="nm2178754">Mona Fastvold</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RhQu4tcHLeU</trailer>
+  <rating>6.2</rating>
+  <year>2020</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt9738716</imdbid>
+  <tmdbid>506281</tmdbid>
+  <premiered>2020-07-23</premiered>
+  <releasedate>2020-07-23</releasedate>
+  <criticrating>74</criticrating>
+  <runtime>105</runtime>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <studio>Sea Change Media</studio>
+  <studio>Sailor Bear</studio>
+  <studio>Killer Films</studio>
+  <studio>Arsia Production</studio>
+  <studio>M.Y.R.A. Entertainment</studio>
+  <studio>Sony Pictures</studio>
+  <studio>Yellow Bear Films</studio>
+  <studio>Hype Film</studio>
+  <studio>Charades</studio>
+  <studio>Bleecker Street</studio>
+  <uniqueid type="Tmdb">506281</uniqueid>
+  <uniqueid type="Imdb">tt9738716</uniqueid>
+  <id>tt9738716</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>7765519</bitrate>
+        <width>1800</width>
+        <height>1080</height>
+        <aspect>5:3</aspect>
+        <aspectratio>5:3</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6283</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

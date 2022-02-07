@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一个美国承包商在伊拉克遭到绑架，醒来后发现自己被人活埋在沙漠的一个棺材里，手边只有手机、打火机和一把小刀，他该怎么办？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-23 18:42:46</dateadded>
+  <title>活埋</title>
+  <originaltitle>Buried</originaltitle>
+  <actor>
+    <name>Ryan Reynolds</name>
+    <role>Paul Conroy</role>
+    <type>Actor</type>
+    <tmdbid>10859</tmdbid>
+    <imdbid>nm0005351</imdbid>
+  </actor>
+  <actor>
+    <name>José Luis García Pérez</name>
+    <role>Jabir (voice)</role>
+    <type>Actor</type>
+    <tmdbid>43323</tmdbid>
+    <imdbid>nm0305825</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Paterson</name>
+    <role>Dan Brenner (voice)</role>
+    <type>Actor</type>
+    <tmdbid>559068</tmdbid>
+    <imdbid>nm1746358</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Tobolowsky</name>
+    <role>Alan Davenport (voice)</role>
+    <type>Actor</type>
+    <tmdbid>537</tmdbid>
+    <imdbid>nm0864997</imdbid>
+  </actor>
+  <actor>
+    <name>Samantha Mathis</name>
+    <role>Linda Conroy (voice)</role>
+    <type>Actor</type>
+    <tmdbid>20767</tmdbid>
+    <imdbid>nm0000526</imdbid>
+  </actor>
+  <actor>
+    <name>Ivana Miño</name>
+    <role>Pamela Lutti (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1040499</tmdbid>
+    <imdbid>nm2019764</imdbid>
+  </actor>
+  <actor>
+    <name>Warner Loughlin</name>
+    <role>Maryanne Conroy / Donna Mitchell / Rebecca Browning (voice)</role>
+    <type>Actor</type>
+    <tmdbid>194641</tmdbid>
+    <imdbid>nm0521762</imdbid>
+  </actor>
+  <actor>
+    <name>Erik Palladino</name>
+    <role>Special Agent Harris (voice)</role>
+    <type>Actor</type>
+    <tmdbid>43902</tmdbid>
+    <imdbid>nm0005292</imdbid>
+  </actor>
+  <actor>
+    <name>Kali Rocha</name>
+    <role>911 Operator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>149665</tmdbid>
+    <imdbid>nm0733812</imdbid>
+  </actor>
+  <actor>
+    <name>Chris William Martin</name>
+    <role>State Department Rep. (voice)</role>
+    <type>Actor</type>
+    <tmdbid>152820</tmdbid>
+    <imdbid>nm0552072</imdbid>
+  </actor>
+  <actor>
+    <name>Cade Dundish</name>
+    <role>Shane Conroy (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1062208</tmdbid>
+    <imdbid>nm3215138</imdbid>
+  </actor>
+  <actor>
+    <name>Mary Birdsong</name>
+    <role>411 Female Operator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>63232</tmdbid>
+    <imdbid>nm0083487</imdbid>
+  </actor>
+  <actor>
+    <name>Kirk Baily</name>
+    <role>411 Male Operator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176035</tmdbid>
+    <imdbid>nm0047358</imdbid>
+  </actor>
+  <actor>
+    <name>Anne Lockhart</name>
+    <role>CRT Operator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>41227</tmdbid>
+    <imdbid>nm0516860</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Clotworthy</name>
+    <role>CRT Spokesman (voice)</role>
+    <type>Actor</type>
+    <tmdbid>35172</tmdbid>
+    <imdbid>nm0167139</imdbid>
+  </actor>
+  <actor>
+    <name>Michalla Petersen</name>
+    <role>Nursing Home Nurse (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1208113</tmdbid>
+    <imdbid>nm1421387</imdbid>
+  </actor>
+  <actor>
+    <name>Juan Hidalgo</name>
+    <role>Kidnapper (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1208127</tmdbid>
+    <imdbid>nm4068595</imdbid>
+  </actor>
+  <actor>
+    <name>Abdelilah Ben Massou</name>
+    <role>Kidnapper (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1208128</tmdbid>
+    <imdbid>nm4067675</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Guarneri</name>
+    <role>Additional Voice (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1208129</tmdbid>
+    <imdbid>nm1336493</imdbid>
+  </actor>
+  <actor>
+    <name>Heath Centazzo</name>
+    <role>Additional Voice (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1145676</tmdbid>
+    <imdbid>nm0148304</imdbid>
+  </actor>
+  <director tmdbid="95320" imdbid="nm0181579">Rodrigo Cortés</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4CCXSG1WSwY</trailer>
+  <rating>7</rating>
+  <year>2010</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt1462758</imdbid>
+  <tmdbid>26388</tmdbid>
+  <premiered>2010-09-24</premiered>
+  <releasedate>2010-09-24</releasedate>
+  <criticrating>87</criticrating>
+  <runtime>95</runtime>
+  <country>Spain</country>
+  <country>United States of America</country>
+  <country>France</country>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <genre>悬疑</genre>
+  <studio>Versus Entertainment</studio>
+  <studio>The Safran Company</studio>
+  <studio>Dark Trick Films</studio>
+  <studio>Studio 37</studio>
+  <studio>Atresmedia</studio>
+  <studio>Canal+ España</studio>
+  <uniqueid type="Tmdb">26388</uniqueid>
+  <uniqueid type="Imdb">tt1462758</uniqueid>
+  <id>tt1462758</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11877588</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.976042</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5727</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,753 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一声响指，宇宙间半数生命灰飞烟灭。几近绝望的复仇者们在惊奇队长的帮助下找到灭霸归隐之处，却得知六颗无限宝石均被销毁，希望彻底破灭。如是过了五年，迷失在量子领域的蚁人意外回到现实世界，他的出现为幸存的复仇者们点燃了希望。与美国队长冰释前嫌的托尼找到了穿越时空的方法，星散各地的超级英雄再度集结，他们分别穿越不同的时代去搜集无限宝石。而在这一过程中，平行宇宙的灭霸察觉了他们的计划。  注定要载入史册的最终决战，超级英雄们为了心中恪守的信念前仆后继……]]></plot>
+  <outline><![CDATA[逆转无限 不惜一切代价]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2019-08-06 13:58:57</dateadded>
+  <title>复仇者联盟4：终局之战</title>
+  <originaltitle>Avengers: Endgame</originaltitle>
+  <actor>
+    <name>Robert Downey Jr.</name>
+    <role>Tony Stark / Iron Man</role>
+    <type>Actor</type>
+    <tmdbid>3223</tmdbid>
+    <imdbid>nm0000375</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Evans</name>
+    <role>Steve Rogers / Captain America</role>
+    <type>Actor</type>
+    <tmdbid>16828</tmdbid>
+    <imdbid>nm0262635</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Ruffalo</name>
+    <role>Bruce Banner / Hulk</role>
+    <type>Actor</type>
+    <tmdbid>103</tmdbid>
+    <imdbid>nm0749263</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Hemsworth</name>
+    <role>Thor Odinson</role>
+    <type>Actor</type>
+    <tmdbid>74568</tmdbid>
+    <imdbid>nm1165110</imdbid>
+  </actor>
+  <actor>
+    <name>Scarlett Johansson</name>
+    <role>Natasha Romanoff / Black Widow</role>
+    <type>Actor</type>
+    <tmdbid>1245</tmdbid>
+    <imdbid>nm0424060</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Renner</name>
+    <role>Clint Barton / Hawkeye</role>
+    <type>Actor</type>
+    <tmdbid>17604</tmdbid>
+    <imdbid>nm0719637</imdbid>
+  </actor>
+  <actor>
+    <name>Don Cheadle</name>
+    <role>James Rhodes / War Machine</role>
+    <type>Actor</type>
+    <tmdbid>1896</tmdbid>
+    <imdbid>nm0000332</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Rudd</name>
+    <role>Scott Lang / Ant-Man</role>
+    <type>Actor</type>
+    <tmdbid>22226</tmdbid>
+    <imdbid>nm0748620</imdbid>
+  </actor>
+  <actor>
+    <name>Chadwick Boseman</name>
+    <role>T'Challa / Black Panther</role>
+    <type>Actor</type>
+    <tmdbid>172069</tmdbid>
+    <imdbid>nm1569276</imdbid>
+  </actor>
+  <actor>
+    <name>Benedict Cumberbatch</name>
+    <role>Stephen Strange / Doctor Strange</role>
+    <type>Actor</type>
+    <tmdbid>71580</tmdbid>
+    <imdbid>nm1212722</imdbid>
+  </actor>
+  <actor>
+    <name>Brie Larson</name>
+    <role>Carol Danvers / Captain Marvel</role>
+    <type>Actor</type>
+    <tmdbid>60073</tmdbid>
+    <imdbid>nm0488953</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Holland</name>
+    <role>Peter Parker / Spider-Man</role>
+    <type>Actor</type>
+    <tmdbid>1136406</tmdbid>
+    <imdbid>nm4043618</imdbid>
+  </actor>
+  <actor>
+    <name>Karen Gillan</name>
+    <role>Nebula</role>
+    <type>Actor</type>
+    <tmdbid>543261</tmdbid>
+    <imdbid>nm2394794</imdbid>
+  </actor>
+  <actor>
+    <name>Zoe Saldana</name>
+    <role>Gamora</role>
+    <type>Actor</type>
+    <tmdbid>8691</tmdbid>
+    <imdbid>nm0757855</imdbid>
+  </actor>
+  <actor>
+    <name>Evangeline Lilly</name>
+    <role>Hope Van Dyne / Wasp</role>
+    <type>Actor</type>
+    <tmdbid>19034</tmdbid>
+    <imdbid>nm1431940</imdbid>
+  </actor>
+  <actor>
+    <name>Tessa Thompson</name>
+    <role>Valkyrie</role>
+    <type>Actor</type>
+    <tmdbid>62561</tmdbid>
+    <imdbid>nm1935086</imdbid>
+  </actor>
+  <actor>
+    <name>Rene Russo</name>
+    <role>Frigga</role>
+    <type>Actor</type>
+    <tmdbid>14343</tmdbid>
+    <imdbid>nm0000623</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Olsen</name>
+    <role>Wanda Maximoff / Scarlet Witch</role>
+    <type>Actor</type>
+    <tmdbid>550843</tmdbid>
+    <imdbid>nm0647634</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Mackie</name>
+    <role>Sam Wilson / Falcon</role>
+    <type>Actor</type>
+    <tmdbid>53650</tmdbid>
+    <imdbid>nm1107001</imdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Stan</name>
+    <role>Bucky Barnes / Winter Soldier</role>
+    <type>Actor</type>
+    <tmdbid>60898</tmdbid>
+    <imdbid>nm1659221</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Hiddleston</name>
+    <role>Loki</role>
+    <type>Actor</type>
+    <tmdbid>91606</tmdbid>
+    <imdbid>nm1089991</imdbid>
+  </actor>
+  <actor>
+    <name>Danai Gurira</name>
+    <role>Okoye</role>
+    <type>Actor</type>
+    <tmdbid>82104</tmdbid>
+    <imdbid>nm1775091</imdbid>
+  </actor>
+  <actor>
+    <name>Benedict Wong</name>
+    <role>Wong</role>
+    <type>Actor</type>
+    <tmdbid>30082</tmdbid>
+    <imdbid>nm0938950</imdbid>
+  </actor>
+  <actor>
+    <name>Pom Klementieff</name>
+    <role>Mantis</role>
+    <type>Actor</type>
+    <tmdbid>139820</tmdbid>
+    <imdbid>nm2962353</imdbid>
+  </actor>
+  <actor>
+    <name>Dave Bautista</name>
+    <role>Drax</role>
+    <type>Actor</type>
+    <tmdbid>543530</tmdbid>
+    <imdbid>nm1176985</imdbid>
+  </actor>
+  <actor>
+    <name>Letitia Wright</name>
+    <role>Shuri</role>
+    <type>Actor</type>
+    <tmdbid>1083010</tmdbid>
+    <imdbid>nm4004793</imdbid>
+  </actor>
+  <actor>
+    <name>John Slattery</name>
+    <role>Howard Stark</role>
+    <type>Actor</type>
+    <tmdbid>21134</tmdbid>
+    <imdbid>nm0805476</imdbid>
+  </actor>
+  <actor>
+    <name>Tilda Swinton</name>
+    <role>The Ancient One</role>
+    <type>Actor</type>
+    <tmdbid>3063</tmdbid>
+    <imdbid>nm0842770</imdbid>
+  </actor>
+  <actor>
+    <name>Cobie Smulders</name>
+    <role>Maria Hill</role>
+    <type>Actor</type>
+    <tmdbid>71189</tmdbid>
+    <imdbid>nm1130627</imdbid>
+  </actor>
+  <actor>
+    <name>Jon Favreau</name>
+    <role>Harold 'Happy' Hogan</role>
+    <type>Actor</type>
+    <tmdbid>15277</tmdbid>
+    <imdbid>nm0269463</imdbid>
+  </actor>
+  <actor>
+    <name>Hayley Atwell</name>
+    <role>Peggy Carter</role>
+    <type>Actor</type>
+    <tmdbid>39459</tmdbid>
+    <imdbid>nm2017943</imdbid>
+  </actor>
+  <actor>
+    <name>Natalie Portman</name>
+    <role>Jane Foster</role>
+    <type>Actor</type>
+    <tmdbid>524</tmdbid>
+    <imdbid>nm0000204</imdbid>
+  </actor>
+  <actor>
+    <name>Marisa Tomei</name>
+    <role>Aunt May</role>
+    <type>Actor</type>
+    <tmdbid>3141</tmdbid>
+    <imdbid>nm0000673</imdbid>
+  </actor>
+  <actor>
+    <name>Taika Waititi</name>
+    <role>Korg (voice)</role>
+    <type>Actor</type>
+    <tmdbid>55934</tmdbid>
+    <imdbid>nm0169806</imdbid>
+  </actor>
+  <actor>
+    <name>Angela Bassett</name>
+    <role>Ramonda</role>
+    <type>Actor</type>
+    <tmdbid>9780</tmdbid>
+    <imdbid>nm0000291</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Douglas</name>
+    <role>Dr. Hank Pym</role>
+    <type>Actor</type>
+    <tmdbid>3392</tmdbid>
+    <imdbid>nm0000140</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Pfeiffer</name>
+    <role>Janet Van Dyne</role>
+    <type>Actor</type>
+    <tmdbid>1160</tmdbid>
+    <imdbid>nm0000201</imdbid>
+  </actor>
+  <actor>
+    <name>William Hurt</name>
+    <role>Thaddeus 'Thunderbolt' Ross</role>
+    <type>Actor</type>
+    <tmdbid>227</tmdbid>
+    <imdbid>nm0000458</imdbid>
+  </actor>
+  <actor>
+    <name>Vin Diesel</name>
+    <role>Groot (voice)</role>
+    <type>Actor</type>
+    <tmdbid>12835</tmdbid>
+    <imdbid>nm0004874</imdbid>
+  </actor>
+  <actor>
+    <name>Bradley Cooper</name>
+    <role>Rocket (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51329</tmdbid>
+    <imdbid>nm0177896</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Redford</name>
+    <role>Alexander Pierce</role>
+    <type>Actor</type>
+    <tmdbid>4135</tmdbid>
+    <imdbid>nm0000602</imdbid>
+  </actor>
+  <actor>
+    <name>Gwyneth Paltrow</name>
+    <role>Pepper Potts</role>
+    <type>Actor</type>
+    <tmdbid>12052</tmdbid>
+    <imdbid>nm0000569</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Pratt</name>
+    <role>Peter Quill / Star-Lord</role>
+    <type>Actor</type>
+    <tmdbid>73457</tmdbid>
+    <imdbid>nm0695435</imdbid>
+  </actor>
+  <actor>
+    <name>Samuel L. Jackson</name>
+    <role>Nick Fury</role>
+    <type>Actor</type>
+    <tmdbid>2231</tmdbid>
+    <imdbid>nm0000168</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Brolin</name>
+    <role>Thanos</role>
+    <type>Actor</type>
+    <tmdbid>16851</tmdbid>
+    <imdbid>nm0000982</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Fuhrmann</name>
+    <role>Cassie Lang</role>
+    <type>Actor</type>
+    <tmdbid>1028454</tmdbid>
+    <imdbid>nm3409535</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Gunn</name>
+    <role>On-Set Rocket / Kraglin</role>
+    <type>Actor</type>
+    <tmdbid>51663</tmdbid>
+    <imdbid>nm0348231</imdbid>
+  </actor>
+  <actor>
+    <name>Winston Duke</name>
+    <role>M'Baku</role>
+    <type>Actor</type>
+    <tmdbid>1447932</tmdbid>
+    <imdbid>nm6328300</imdbid>
+  </actor>
+  <actor>
+    <name>Linda Cardellini</name>
+    <role>Laura Barton</role>
+    <type>Actor</type>
+    <tmdbid>1817</tmdbid>
+    <imdbid>nm0004802</imdbid>
+  </actor>
+  <actor>
+    <name>Maximiliano Hernández</name>
+    <role>Agent Sitwell</role>
+    <type>Actor</type>
+    <tmdbid>1018947</tmdbid>
+    <imdbid>nm0380073</imdbid>
+  </actor>
+  <actor>
+    <name>Frank Grillo</name>
+    <role>Brock Rumlow</role>
+    <type>Actor</type>
+    <tmdbid>81685</tmdbid>
+    <imdbid>nm0342029</imdbid>
+  </actor>
+  <actor>
+    <name>Hiroyuki Sanada</name>
+    <role>Akihiko</role>
+    <type>Actor</type>
+    <tmdbid>9195</tmdbid>
+    <imdbid>nm0760796</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Vaughan-Lawlor</name>
+    <role>Ebony Maw</role>
+    <type>Actor</type>
+    <tmdbid>29240</tmdbid>
+    <imdbid>nm2534167</imdbid>
+  </actor>
+  <actor>
+    <name>James D'Arcy</name>
+    <role>Jarvis</role>
+    <type>Actor</type>
+    <tmdbid>19655</tmdbid>
+    <imdbid>nm0195439</imdbid>
+  </actor>
+  <actor>
+    <name>Jacob Batalon</name>
+    <role>Ned</role>
+    <type>Actor</type>
+    <tmdbid>1649152</tmdbid>
+    <imdbid>nm8188622</imdbid>
+  </actor>
+  <actor>
+    <name>Lexi Rabe</name>
+    <role>Morgan Stark</role>
+    <type>Actor</type>
+    <tmdbid>2296235</tmdbid>
+    <imdbid>nm9962642</imdbid>
+  </actor>
+  <actor>
+    <name>Ross Marquand</name>
+    <role>Johann Schmidt / Red Skull / Stonekeeper</role>
+    <type>Actor</type>
+    <tmdbid>555249</tmdbid>
+    <imdbid>nm2739851</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Russo</name>
+    <role>Grieving Man</role>
+    <type>Actor</type>
+    <tmdbid>19272</tmdbid>
+    <imdbid>nm0751648</imdbid>
+  </actor>
+  <actor>
+    <name>Michael James Shaw</name>
+    <role>Corvus Glaive</role>
+    <type>Actor</type>
+    <tmdbid>1379821</tmdbid>
+    <imdbid>nm4473692</imdbid>
+  </actor>
+  <actor>
+    <name>Terry Notary</name>
+    <role>On-set Groot / Cull Obsidian</role>
+    <type>Actor</type>
+    <tmdbid>236696</tmdbid>
+    <imdbid>nm1024953</imdbid>
+  </actor>
+  <actor>
+    <name>Kerry Condon</name>
+    <role>F.R.I.D.A.Y. (voice)</role>
+    <type>Actor</type>
+    <tmdbid>62105</tmdbid>
+    <imdbid>nm0174403</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Sakamoto</name>
+    <role>Cooper Barton</role>
+    <type>Actor</type>
+    <tmdbid>1760879</tmdbid>
+  </actor>
+  <actor>
+    <name>Ava Russo</name>
+    <role>Lila Barton</role>
+    <type>Actor</type>
+    <tmdbid>2267329</tmdbid>
+  </actor>
+  <actor>
+    <name>Cade Woodward</name>
+    <role>Nathaniel Barton</role>
+    <type>Actor</type>
+    <tmdbid>1924769</tmdbid>
+    <imdbid>nm9330804</imdbid>
+  </actor>
+  <actor>
+    <name>Stan Lee</name>
+    <role>Driver</role>
+    <type>Actor</type>
+    <tmdbid>7624</tmdbid>
+    <imdbid>nm0498278</imdbid>
+  </actor>
+  <actor>
+    <name>Yvette Nicole Brown</name>
+    <role>S.H.I.E.L.D. Agent</role>
+    <type>Actor</type>
+    <tmdbid>111513</tmdbid>
+    <imdbid>nm1304328</imdbid>
+  </actor>
+  <actor>
+    <name>Callan Mulvey</name>
+    <role>Jack Rollins</role>
+    <type>Actor</type>
+    <tmdbid>208296</tmdbid>
+    <imdbid>nm0612534</imdbid>
+  </actor>
+  <actor>
+    <name>Lia Russo</name>
+    <role>Lia</role>
+    <type>Actor</type>
+    <tmdbid>2297907</tmdbid>
+  </actor>
+  <actor>
+    <name>Julian Russo</name>
+    <role>Julian</role>
+    <type>Actor</type>
+    <tmdbid>2378191</tmdbid>
+  </actor>
+  <actor>
+    <name>Taylor Patterson</name>
+    <role>Taylor</role>
+    <type>Actor</type>
+    <tmdbid>163768</tmdbid>
+    <imdbid>nm5698261</imdbid>
+  </actor>
+  <actor>
+    <name>Agostino Rosalina</name>
+    <role>Augie</role>
+    <type>Actor</type>
+    <tmdbid>2378192</tmdbid>
+  </actor>
+  <actor>
+    <name>Ken Jeong</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>83586</tmdbid>
+    <imdbid>nm0421822</imdbid>
+  </actor>
+  <actor>
+    <name>Ty Simpkins</name>
+    <role>Harley Keener</role>
+    <type>Actor</type>
+    <tmdbid>17181</tmdbid>
+    <imdbid>nm1339223</imdbid>
+  </actor>
+  <actor>
+    <name>Jackson A. Dunn</name>
+    <role>Scott Lang (12 Years Old)</role>
+    <type>Actor</type>
+    <tmdbid>2020904</tmdbid>
+    <imdbid>nm6676262</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Moore</name>
+    <role>Scott Lang (93 Years Old)</role>
+    <type>Actor</type>
+    <tmdbid>1468400</tmdbid>
+    <imdbid>nm2743632</imdbid>
+  </actor>
+  <actor>
+    <name>Bazlo LeClair</name>
+    <role>Baby Scott Lang #1</role>
+    <type>Actor</type>
+    <tmdbid>2298443</tmdbid>
+  </actor>
+  <actor>
+    <name>Loen LeClair</name>
+    <role>Baby Scott Lang #2</role>
+    <type>Actor</type>
+    <tmdbid>2298444</tmdbid>
+  </actor>
+  <actor>
+    <name>John Michael Morris</name>
+    <role>Young Hank Pym</role>
+    <type>Actor</type>
+    <tmdbid>1442722</tmdbid>
+    <imdbid>nm5609051</imdbid>
+  </actor>
+  <actor>
+    <name>Michael A. Cook</name>
+    <role>Male S.H.I.E.L.D. Agent</role>
+    <type>Actor</type>
+    <tmdbid>1502949</tmdbid>
+    <imdbid>nm6355840</imdbid>
+  </actor>
+  <actor>
+    <name>Brent McGee</name>
+    <role>Camp Lehigh Guard</role>
+    <type>Actor</type>
+    <tmdbid>1480044</tmdbid>
+    <imdbid>nm4230395</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Schaeffer</name>
+    <role>Military Police</role>
+    <type>Actor</type>
+    <tmdbid>1265796</tmdbid>
+    <imdbid>nm3169259</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Wedel</name>
+    <role>Drill Sergeant</role>
+    <type>Actor</type>
+    <tmdbid>2378190</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony G Breed</name>
+    <role>Young Stan Lee Double</role>
+    <type>Actor</type>
+    <tmdbid>2011373</tmdbid>
+    <imdbid>nm4193560</imdbid>
+  </actor>
+  <actor>
+    <name>Erica Ribley</name>
+    <role>Car Girl</role>
+    <type>Actor</type>
+    <tmdbid>2378189</tmdbid>
+  </actor>
+  <actor>
+    <name>Monique Ganderton</name>
+    <role>On-set Proxima Midnight</role>
+    <type>Actor</type>
+    <tmdbid>102744</tmdbid>
+    <imdbid>nm1244650</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Starlin</name>
+    <role>Support Group Man #1</role>
+    <type>Actor</type>
+    <tmdbid>1713975</tmdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Ray Pickens</name>
+    <role>Support Group Man #2</role>
+    <type>Actor</type>
+    <tmdbid>375719</tmdbid>
+    <imdbid>nm0681790</imdbid>
+  </actor>
+  <actor>
+    <name>Hye Jin Jang</name>
+    <role>Japanese Girl</role>
+    <type>Actor</type>
+    <tmdbid>1851154</tmdbid>
+  </actor>
+  <actor>
+    <name>Russell Bobbitt</name>
+    <role>Diner Owner</role>
+    <type>Actor</type>
+    <tmdbid>1004624</tmdbid>
+    <imdbid>nm0090309</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Champion</name>
+    <role>Kid on Bike</role>
+    <type>Actor</type>
+    <tmdbid>1895760</tmdbid>
+    <imdbid>nm6883081</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Hargrave</name>
+    <role>New Asgard Truck Driver</role>
+    <type>Actor</type>
+    <tmdbid>1120883</tmdbid>
+    <imdbid>nm1092087</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Gorman</name>
+    <role>Old Steve Rogers Double</role>
+    <type>Actor</type>
+    <tmdbid>136921</tmdbid>
+    <imdbid>nm0331112</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Lazar</name>
+    <role>Doctor Strange Double</role>
+    <type>Actor</type>
+    <tmdbid>964421</tmdbid>
+    <imdbid>nm1594381</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Pralgo</name>
+    <role>Thanos Reader</role>
+    <type>Actor</type>
+    <tmdbid>97844</tmdbid>
+    <imdbid>nm1128418</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Wisdom</name>
+    <role>Loki Reader</role>
+    <type>Actor</type>
+    <tmdbid>17292</tmdbid>
+    <imdbid>nm0936300</imdbid>
+  </actor>
+  <actor>
+    <name>John Posey</name>
+    <role>Alexander Pierce Reader</role>
+    <type>Actor</type>
+    <tmdbid>44060</tmdbid>
+    <imdbid>nm0692663</imdbid>
+  </actor>
+  <actor>
+    <name>Ameenah Kaplan</name>
+    <role>Gamora Reader</role>
+    <type>Actor</type>
+    <tmdbid>1448180</tmdbid>
+    <imdbid>nm0438188</imdbid>
+  </actor>
+  <actor>
+    <name>Olaniyan Thurmon</name>
+    <role>Teenage Groot Reader</role>
+    <type>Actor</type>
+    <tmdbid>2031105</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Elmore</name>
+    <role>On-set Reader #1</role>
+    <type>Actor</type>
+    <tmdbid>2378181</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Lutz</name>
+    <role>On-set Reader #2</role>
+    <type>Actor</type>
+    <tmdbid>1038939</tmdbid>
+    <imdbid>nm0527596</imdbid>
+  </actor>
+  <director tmdbid="19271" imdbid="nm0751577">Anthony Russo</director>
+  <director tmdbid="19272" imdbid="nm0751648">Joe Russo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hA6hldpSTF8</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TcMBFSGVi1c</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AMSITikqKiM</trailer>
+  <rating>8.4</rating>
+  <year>2019</year>
+  <mpaa>HK-IIA</mpaa>
+  <imdbid>tt4154796</imdbid>
+  <tmdbid>299534</tmdbid>
+  <premiered>2019-04-24</premiered>
+  <releasedate>2019-04-24</releasedate>
+  <criticrating>94</criticrating>
+  <runtime>181</runtime>
+  <tagline>逆转无限 不惜一切代价</tagline>
+  <country>United States of America</country>
+  <genre>冒险</genre>
+  <genre>科幻</genre>
+  <genre>动作</genre>
+  <studio>Marvel Studios</studio>
+  <set tmdbcolid="86311">
+    <name>复仇者联盟（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">299534</uniqueid>
+  <uniqueid type="Imdb">tt4154796</uniqueid>
+  <id>tt4154796</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>13748633</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>181</duration>
+        <durationinseconds>10867</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

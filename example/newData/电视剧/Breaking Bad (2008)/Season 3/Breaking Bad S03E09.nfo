@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[有了先进的实验室和更多的工作人员，Walter 和 Jesse 的制毒进行得十分顺利，两人一周均产 200 磅冰毒。Jesse 觉得 Gus 对他俩不公平，向 Walter 抱怨。但 Walter 深知 Gus 并不好惹，劝 Jesse 息事宁人。Jesse 不以为然，他偷偷拿了一些毒品回去散卖。Hank 的伤势严重，依然在医院进行康复治疗，但每天花费甚高，Skyler 建议她和 Walter 来支付 Hank 的医疗账单，为了自圆其说，Skyler 编出 Walter 赌博并且收益颇丰这个谎言来掩盖钱的来历。Walter 找到 Gus，表示自己已经知道当初是 Gus 打电话通知 Hank 有生命危险，而且也知道 Gus 是故意误导杀手去杀 Hank 的，想通过警方的力量来打击墨西哥的贩毒集团，一石二鸟。Gus 趁机向 Walter 提出了延长工作合约的要求。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-20 17:28:16</dateadded>
+  <title> 噩梦</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Harelik</name>
+    <role>Doctor</role>
+    <type>GuestStar</type>
+    <tmdbid>88949</tmdbid>
+    <imdbid>nm0362862</imdbid>
+  </actor>
+  <actor>
+    <name>Cynthia Ruffin</name>
+    <role>Hospital Administrator</role>
+    <type>GuestStar</type>
+    <tmdbid>156667</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernando Escandon</name>
+    <role>Commercial Narrator (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>176463</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremiah Bitsui</name>
+    <role>Victor</role>
+    <type>GuestStar</type>
+    <tmdbid>582668</tmdbid>
+    <imdbid>nm0084497</imdbid>
+  </actor>
+  <actor>
+    <name>Jere Burns</name>
+    <role>Group Leader</role>
+    <type>GuestStar</type>
+    <tmdbid>57167</tmdbid>
+    <imdbid>nm0122716</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Cousins</name>
+    <role>Ted Beneke</role>
+    <type>GuestStar</type>
+    <tmdbid>20379</tmdbid>
+    <imdbid>nm0184086</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Jones</name>
+    <role>Badger</role>
+    <type>GuestStar</type>
+    <tmdbid>191202</tmdbid>
+    <imdbid>nm2804503</imdbid>
+  </actor>
+  <actor>
+    <name>Charles Baker</name>
+    <role>Skinny Pete</role>
+    <type>GuestStar</type>
+    <tmdbid>82945</tmdbid>
+    <imdbid>nm1889973</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Michael Quezada</name>
+    <role>Steven Gomez</role>
+    <type>GuestStar</type>
+    <tmdbid>61535</tmdbid>
+    <imdbid>nm2366374</imdbid>
+  </actor>
+  <director>Michael Slovis</director>
+  <rating>8.101</rating>
+  <year>2010</year>
+  <imdbid>tt1615558</imdbid>
+  <tvdbid>2062401</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt1615558</uniqueid>
+  <uniqueid type="Tvdb">2062401</uniqueid>
+  <episode>9</episode>
+  <season>3</season>
+  <aired>2010-05-16</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9942675</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2832</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[欧帝斯固然缺乏性经验，他的母亲可是一名性治疗师。他决定将母亲的衣钵发扬光大，於是在就读的摩尔戴高中设立性爱治疗谘询服务，造福无可救药的同学。他们水乳交融，其乐无穷，一起渡过人生最灿烂的时光。]]></plot>
+  <outline><![CDATA[欧帝斯固然缺乏性经验，他的母亲可是一名性治疗师。他决定将母亲的衣钵发扬光大，於是在就读的摩尔戴高中设立性爱治疗谘询服务，造福无可救药的同学。他们水乳交融，其乐无穷，一起渡过人生最灿烂的时光。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-03-28 04:25:17</dateadded>
+  <title>性爱自修室</title>
+  <originaltitle>Sex Education</originaltitle>
+  <actor>
+    <name>Asa Butterfield</name>
+    <role>Otis Milburn</role>
+    <type>Actor</type>
+    <tmdbid>77996</tmdbid>
+    <imdbid>nm2633535</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Mackey</name>
+    <role>Maeve Wiley</role>
+    <type>Actor</type>
+    <tmdbid>2201315</tmdbid>
+    <imdbid>nm8076281</imdbid>
+  </actor>
+  <actor>
+    <name>Gillian Anderson</name>
+    <role>Jean Milburn</role>
+    <type>Actor</type>
+    <tmdbid>12214</tmdbid>
+    <imdbid>nm0000096</imdbid>
+  </actor>
+  <actor>
+    <name>Ncuti Gatwa</name>
+    <role>Eric Effiong</role>
+    <type>Actor</type>
+    <tmdbid>1475239</tmdbid>
+    <imdbid>nm6967441</imdbid>
+  </actor>
+  <actor>
+    <name>Kedar Williams-Stirling</name>
+    <role>Jackson Monroe</role>
+    <type>Actor</type>
+    <tmdbid>126169</tmdbid>
+    <imdbid>nm2809631</imdbid>
+  </actor>
+  <actor>
+    <name>Aimee Lou Wood</name>
+    <role>Aimee Gibbs</role>
+    <type>Actor</type>
+    <tmdbid>2201317</tmdbid>
+    <imdbid>nm10228854</imdbid>
+  </actor>
+  <actor>
+    <name>Connor Swindells</name>
+    <role>Adam Groff</role>
+    <type>Actor</type>
+    <tmdbid>2112439</tmdbid>
+    <imdbid>nm8874222</imdbid>
+  </actor>
+  <actor>
+    <name>Tolga Kahraman</name>
+    <role>Chris</role>
+    <type>Actor</type>
+    <tmdbid>2955529</tmdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=IRQGBZVlU0s</trailer>
+  <trailer>http://www.youtube.com/watch?v=qZhb0Vl_BaM</trailer>
+  <rating>8.3</rating>
+  <year>2019</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt7767422</imdb_id>
+  <tmdbid>81356</tmdbid>
+  <premiered>2019-01-11</premiered>
+  <releasedate>2019-01-11</releasedate>
+  <runtime>45</runtime>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <studio>Netflix</studio>
+  <uniqueid type="Imdb">tt7767422</uniqueid>
+  <uniqueid type="Tmdb">81356</uniqueid>
+  <uniqueid type="Tvdb">356317</uniqueid>
+  <tvdbid>356317</tvdbid>
+  <id>356317</id>
+  <episodeguide>
+    <url cache="356317.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/356317/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

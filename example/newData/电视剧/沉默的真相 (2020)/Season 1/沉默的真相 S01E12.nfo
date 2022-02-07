@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[严良保护张晓倩回程路上，卡恩集团死到临头，仍不惜一切想要绑架张晓倩。警方与其展开激烈斗争，最终捕获全部犯人，成功护送人证。最后，张晓倩出现在众人面前，铁证如山，真相大白。江阳出狱后被查出肺癌晚,期，内心不甘，为了能让侯贵平案翻案，于是跟朱伟，陈明章，李静，张超，张晓倩联合上演了一场"谋杀抛尸案”，目的是想引来高规格调查组的介入，通过法律途径将恶势力绳之以法。江阳实际上是在陈明章的协助下，通过老年扶手机器自杀。警方展开全面抓捕行动。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-23 02:59:19</dateadded>
+  <title>众人联手部署惊天计划 江阳以死换取程序正义</title>
+  <actor>
+    <name>Liao Fan</name>
+    <role>Yan Liang</role>
+    <type>Actor</type>
+    <tmdbid>99692</tmdbid>
+    <imdbid>nm1233224</imdbid>
+  </actor>
+  <actor>
+    <name>Bai Yu</name>
+    <role>Jiang Yang</role>
+    <type>Actor</type>
+    <tmdbid>1698814</tmdbid>
+    <imdbid>nm7889237</imdbid>
+  </actor>
+  <actor>
+    <name>Lü Xiaolin</name>
+    <role>Ren Yueting, Captain of the Criminal Police</role>
+    <type>Actor</type>
+    <tmdbid>1909342</tmdbid>
+    <imdbid>nm4892567</imdbid>
+  </actor>
+  <actor>
+    <name>Zhao Yang</name>
+    <role>Zhu Wei</role>
+    <type>Actor</type>
+    <tmdbid>1780719</tmdbid>
+  </actor>
+  <actor>
+    <name>Tan Zhuo</name>
+    <role>Li Jing</role>
+    <type>Actor</type>
+    <tmdbid>938326</tmdbid>
+    <imdbid>nm3431007</imdbid>
+  </actor>
+  <actor>
+    <name>Ning Li</name>
+    <role>Zhang Chao</role>
+    <type>Actor</type>
+    <tmdbid>987205</tmdbid>
+    <imdbid>nm1280632</imdbid>
+  </actor>
+  <actor>
+    <name>Lu Siyu</name>
+    <role>Hou Guiping</role>
+    <type>Actor</type>
+    <tmdbid>2802902</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhao Leiqi</name>
+    <role>Gu Yiming</role>
+    <type>Actor</type>
+    <tmdbid>2586775</tmdbid>
+  </actor>
+  <actor>
+    <name>Huang Yao</name>
+    <role>Zhang Xiaoqian, Jiangtan Evening News reporter</role>
+    <type>Actor</type>
+    <tmdbid>2149028</tmdbid>
+  </actor>
+  <actor>
+    <name>Tian Xiaojie</name>
+    <role>Chen Mingzhang, forensic doctor</role>
+    <type>Actor</type>
+    <tmdbid>1637213</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuanyuan Zhao</name>
+    <role>Wu Aike</role>
+    <type>Actor</type>
+    <tmdbid>1087177</tmdbid>
+    <imdbid>nm4593170</imdbid>
+  </actor>
+  <actor>
+    <name>Cao Weiyu</name>
+    <role>Li Jianguo, Criminal Police Chief from Pingkang County</role>
+    <type>Actor</type>
+    <tmdbid>1924494</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Lei</name>
+    <role>Hu Yilang</role>
+    <type>Actor</type>
+    <tmdbid>2827809</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Zhigang</name>
+    <role>Chief Prosecutor Wu</role>
+    <type>Actor</type>
+    <tmdbid>3112989</tmdbid>
+  </actor>
+  <rating>0</rating>
+  <year>2020</year>
+  <tvdbid>7937841</tvdbid>
+  <runtime>72</runtime>
+  <uniqueid type="Tvdb">7937841</uniqueid>
+  <episode>12</episode>
+  <season>1</season>
+  <aired>2020-09-18</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1168618</bitrate>
+        <width>1920</width>
+        <height>792</height>
+        <aspect>80:33</aspect>
+        <aspectratio>80:33</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>71</duration>
+        <durationinseconds>4317</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>124633</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

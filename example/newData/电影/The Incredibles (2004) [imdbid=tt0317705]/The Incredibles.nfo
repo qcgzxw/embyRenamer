@@ -1,0 +1,481 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　鲍勃是一个超人特工，他惩恶扬善，深受街坊邻里的爱戴。“不可思议”先生就是他的光荣外号。他和另一个超人特工“弹力女超人”相爱，两人结婚后过上平静的生活，１５年过去了，鲍勃已经像普通人一样生活，当上了保险公司的理赔员。然而他心中还是有着技痒之时。当他知道有发明家要展开攻击超人特工队、毁灭人类的计划，鲍勃终于按捺不住了。他要重出江湖，挽救人类护卫地球。但中年的超人已经大腹便便，他和敌人的斗争充满了悬念。鲍勃的妻子也跟丈夫一起投入到这场艰巨的战争中。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-10-25 11:10:09</dateadded>
+  <title>超人总动员</title>
+  <originaltitle>The Incredibles</originaltitle>
+  <actor>
+    <name>Craig T. Nelson</name>
+    <role>Bob Parr / Mr. Incredible (voice)</role>
+    <type>Actor</type>
+    <tmdbid>8977</tmdbid>
+    <imdbid>nm0005266</imdbid>
+  </actor>
+  <actor>
+    <name>Holly Hunter</name>
+    <role>Helen Parr / Elastigirl (voice)</role>
+    <type>Actor</type>
+    <tmdbid>18686</tmdbid>
+    <imdbid>nm0000456</imdbid>
+  </actor>
+  <actor>
+    <name>Samuel L. Jackson</name>
+    <role>Lucius Best / Frozone (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2231</tmdbid>
+    <imdbid>nm0000168</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Vowell</name>
+    <role>Violet Parr (voice)</role>
+    <type>Actor</type>
+    <tmdbid>59361</tmdbid>
+    <imdbid>nm1102970</imdbid>
+  </actor>
+  <actor>
+    <name>Spencer Fox</name>
+    <role>Dashiell 'Dash' Parr (voice)</role>
+    <type>Actor</type>
+    <tmdbid>59360</tmdbid>
+    <imdbid>nm1714016</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Lee</name>
+    <role>Buddy Pine / Syndrome (voice)</role>
+    <type>Actor</type>
+    <tmdbid>11662</tmdbid>
+    <imdbid>nm0005134</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Peña</name>
+    <role>Mirage (voice)</role>
+    <type>Actor</type>
+    <tmdbid>7430</tmdbid>
+    <imdbid>nm0001615</imdbid>
+  </actor>
+  <actor>
+    <name>Wallace Shawn</name>
+    <role>Gilbert Huph (voice)</role>
+    <type>Actor</type>
+    <tmdbid>12900</tmdbid>
+    <imdbid>nm0001728</imdbid>
+  </actor>
+  <actor>
+    <name>Brad Bird</name>
+    <role>Edna Mode (voice)</role>
+    <type>Actor</type>
+    <tmdbid>7087</tmdbid>
+    <imdbid>nm0083348</imdbid>
+  </actor>
+  <actor>
+    <name>Lou Romano</name>
+    <role>Bernie Kropp (voice)</role>
+    <type>Actor</type>
+    <tmdbid>7962</tmdbid>
+    <imdbid>nm0738918</imdbid>
+  </actor>
+  <actor>
+    <name>Eli Fucile</name>
+    <role>Jack-Jack Parr (voice)</role>
+    <type>Actor</type>
+    <tmdbid>59358</tmdbid>
+    <imdbid>nm1747568</imdbid>
+  </actor>
+  <actor>
+    <name>Maeve Andrews</name>
+    <role>Jack-Jack Parr (voice)</role>
+    <type>Actor</type>
+    <tmdbid>59359</tmdbid>
+    <imdbid>nm1751233</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Bird</name>
+    <role>Tony Rydinger (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1075148</tmdbid>
+    <imdbid>nm1520974</imdbid>
+  </actor>
+  <actor>
+    <name>Bud Luckey</name>
+    <role>Rick Dicker (voice)</role>
+    <type>Actor</type>
+    <tmdbid>7918</tmdbid>
+    <imdbid>nm0524726</imdbid>
+  </actor>
+  <actor>
+    <name>Dominique Louis</name>
+    <role>Bomb Voyage (voice)</role>
+    <type>Actor</type>
+    <tmdbid>7891</tmdbid>
+    <imdbid>nm0521861</imdbid>
+  </actor>
+  <actor>
+    <name>Teddy Newton</name>
+    <role>Newsreel Narrator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>59357</tmdbid>
+    <imdbid>nm0628599</imdbid>
+  </actor>
+  <actor>
+    <name>Jean Sincere</name>
+    <role>Mrs. Hogenson (voice)</role>
+    <type>Actor</type>
+    <tmdbid>155917</tmdbid>
+    <imdbid>nm0801548</imdbid>
+  </actor>
+  <actor>
+    <name>Wayne Canney</name>
+    <role>Principal (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1075147</tmdbid>
+    <imdbid>nm1750699</imdbid>
+  </actor>
+  <actor>
+    <name>Bret 'Brook' Parker</name>
+    <role>Kari (voice)</role>
+    <type>Actor</type>
+    <tmdbid>7998</tmdbid>
+    <imdbid>nm0662088</imdbid>
+  </actor>
+  <actor>
+    <name>Kimberly Adair Clark</name>
+    <role>Honey (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1338319</tmdbid>
+    <imdbid>nm1748347</imdbid>
+  </actor>
+  <actor>
+    <name>John Ratzenberger</name>
+    <role>Underminer (voice)</role>
+    <type>Actor</type>
+    <tmdbid>7907</tmdbid>
+    <imdbid>nm0001652</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Andrews</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>126638</tmdbid>
+    <imdbid>nm0028764</imdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Bird</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>981048</tmdbid>
+    <imdbid>nm1384126</imdbid>
+  </actor>
+  <actor>
+    <name>Louis Martin Braga III</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2005099</tmdbid>
+    <imdbid>nm0103789</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Clarke</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>200989</tmdbid>
+    <imdbid>nm1338615</imdbid>
+  </actor>
+  <actor>
+    <name>Pete Docter</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>12890</tmdbid>
+    <imdbid>nm0230032</imdbid>
+  </actor>
+  <actor>
+    <name>Louis Gonzales</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>7982</tmdbid>
+    <imdbid>nm0327530</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Greenberg</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1484864</tmdbid>
+    <imdbid>nm2666366</imdbid>
+  </actor>
+  <actor>
+    <name>Juliet Greenberg</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2005100</tmdbid>
+  </actor>
+  <actor>
+    <name>Billy Guardino</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2005101</tmdbid>
+  </actor>
+  <actor>
+    <name>Dennis 'D.J.' Jennings</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2002707</tmdbid>
+  </actor>
+  <actor>
+    <name>Ollie Johnston</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>143786</tmdbid>
+    <imdbid>nm0426508</imdbid>
+  </actor>
+  <actor>
+    <name>Brad Lewis</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>32532</tmdbid>
+    <imdbid>nm0506977</imdbid>
+  </actor>
+  <actor>
+    <name>Ted Mathot</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>225977</tmdbid>
+    <imdbid>nm1069780</imdbid>
+  </actor>
+  <actor>
+    <name>Jazzie Mahannah</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1599</tmdbid>
+    <imdbid>nm1065939</imdbid>
+  </actor>
+  <actor>
+    <name>Randy Nelson</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2005102</tmdbid>
+  </actor>
+  <actor>
+    <name>Bob Peterson</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>10</tmdbid>
+    <imdbid>nm0677037</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Pidgeon</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>7882</tmdbid>
+    <imdbid>nm0682066</imdbid>
+  </actor>
+  <actor>
+    <name>Juliet Pokorny</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1719099</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Ranft</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>7911</tmdbid>
+    <imdbid>nm0710020</imdbid>
+  </actor>
+  <actor>
+    <name>Lori Richardson</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>225986</tmdbid>
+    <imdbid>nm1751461</imdbid>
+  </actor>
+  <actor>
+    <name>A.J. Riebli III</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1443479</tmdbid>
+    <imdbid>nm1747995</imdbid>
+  </actor>
+  <actor>
+    <name>Katherine Ringgold</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>8066</tmdbid>
+    <imdbid>nm0727611</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Schaffer</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>59363</tmdbid>
+    <imdbid>nm0769863</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Scott</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>954958</tmdbid>
+    <imdbid>nm0778890</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Sohn</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>21198</tmdbid>
+    <imdbid>nm0812307</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Stanton</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>7</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Thomas</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>63646</tmdbid>
+    <imdbid>nm0858826</imdbid>
+  </actor>
+  <actor>
+    <name>Pamela Gaye Walker</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>932193</tmdbid>
+    <imdbid>nm1751521</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Walker</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1117784</tmdbid>
+    <imdbid>nm1746722</imdbid>
+  </actor>
+  <actor>
+    <name>Deirdre Warin</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>8082</tmdbid>
+    <imdbid>nm0912243</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Angel</name>
+    <role>Guard #2 / Firefighters (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>19545</tmdbid>
+    <imdbid>nm0029460</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Bergen</name>
+    <role>Firefighters (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>78317</tmdbid>
+    <imdbid>nm0074036</imdbid>
+  </actor>
+  <actor>
+    <name>Rodger Bumpass</name>
+    <role>Firefighters (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>70615</tmdbid>
+    <imdbid>nm0120309</imdbid>
+  </actor>
+  <actor>
+    <name>Philip L. Clarke</name>
+    <role>Firefighters (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>613123</tmdbid>
+    <imdbid>nm0164950</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Farmer</name>
+    <role>Oliver Sansweet's Lawyer / Firefighters (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>84213</tmdbid>
+    <imdbid>nm0267724</imdbid>
+  </actor>
+  <actor>
+    <name>Mickie McGowan</name>
+    <role>Citizen Mother (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>84493</tmdbid>
+    <imdbid>nm0569680</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Pinney</name>
+    <role>Oliver Sansweet / Firefighters (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>61968</tmdbid>
+    <imdbid>nm0684442</imdbid>
+  </actor>
+  <actor>
+    <name>Phil Proctor</name>
+    <role>Guard #1 / Firefighters (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>61969</tmdbid>
+    <imdbid>nm0698413</imdbid>
+  </actor>
+  <actor>
+    <name>John Walker</name>
+    <role>Reverend (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>33340</tmdbid>
+    <imdbid>nm0907869</imdbid>
+  </actor>
+  <director tmdbid="7087" imdbid="nm0083348">Brad Bird</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-UaGUdNJdRQ</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sZwWCrFNfzQ</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sJCjKQQOqT0</trailer>
+  <rating>8</rating>
+  <year>2004</year>
+  <mpaa>PG</mpaa>
+  <imdbid>tt0317705</imdbid>
+  <tmdbid>9806</tmdbid>
+  <premiered>2004-10-27</premiered>
+  <releasedate>2004-10-27</releasedate>
+  <runtime>118</runtime>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>冒险</genre>
+  <genre>动画</genre>
+  <genre>家庭</genre>
+  <studio>Pixar</studio>
+  <studio>Walt Disney Pictures</studio>
+  <set tmdbcolid="468222">
+    <name>超人总动员（系列）</name>
+  </set>
+  <uniqueid type="TmdbCollection">468222</uniqueid>
+  <tmdbcollectionid>468222</tmdbcollectionid>
+  <uniqueid type="Imdb">tt0317705</uniqueid>
+  <uniqueid type="Tmdb">9806</uniqueid>
+  <id>tt0317705</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1798774</bitrate>
+        <width>1920</width>
+        <height>804</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7069</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>125326</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

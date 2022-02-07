@@ -1,0 +1,441 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Alma realizes Sam has been lying to her and they get into a fight. Alma bounces between different timelines in her life, Sam's life, and their relationship.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-19 17:47:52</dateadded>
+  <title>第 5 集</title>
+  <actor>
+    <name>Rosa Salazar</name>
+    <role>Alma Winograd-Diaz</role>
+    <type>Actor</type>
+    <tmdbid>973667</tmdbid>
+    <imdbid>nm4023073</imdbid>
+  </actor>
+  <actor>
+    <name>Angelique Cabral</name>
+    <role>Becca Winograd-Diaz</role>
+    <type>Actor</type>
+    <tmdbid>1001536</tmdbid>
+    <imdbid>nm2512132</imdbid>
+  </actor>
+  <actor>
+    <name>Constance Marie</name>
+    <role>Camila Diaz</role>
+    <type>Actor</type>
+    <tmdbid>92326</tmdbid>
+    <imdbid>nm0005186</imdbid>
+  </actor>
+  <actor>
+    <name>Siddharth Dhananjay</name>
+    <role>Sam</role>
+    <type>Actor</type>
+    <tmdbid>1716711</tmdbid>
+    <imdbid>nm8615352</imdbid>
+  </actor>
+  <actor>
+    <name>Daveed Diggs</name>
+    <role>Tunde</role>
+    <type>Actor</type>
+    <tmdbid>1652371</tmdbid>
+    <imdbid>nm4377526</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Jacob Winograd</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Luna-Marie Katich</name>
+    <role>Young Alma</role>
+    <type>GuestStar</type>
+    <tmdbid>2786233</tmdbid>
+    <imdbid>nm10967786</imdbid>
+  </actor>
+  <actor>
+    <name>Sheila Vand</name>
+    <role>Farnaz</role>
+    <type>GuestStar</type>
+    <tmdbid>220573</tmdbid>
+    <imdbid>nm2611074</imdbid>
+  </actor>
+  <actor>
+    <name>Lotus Blossom</name>
+    <role>Margo</role>
+    <type>GuestStar</type>
+    <tmdbid>2392708</tmdbid>
+    <imdbid>nm9169328</imdbid>
+  </actor>
+  <actor>
+    <name>Zemhye Curtis</name>
+    <role>Second Boy</role>
+    <type>GuestStar</type>
+    <tmdbid>2786285</tmdbid>
+    <imdbid>nm10976414</imdbid>
+  </actor>
+  <actor>
+    <name>Holley Fain</name>
+    <role>Geraldine</role>
+    <type>GuestStar</type>
+    <tmdbid>208834</tmdbid>
+    <imdbid>nm2367213</imdbid>
+  </actor>
+  <actor>
+    <name>Suzanne Friedline</name>
+    <role>Book on Tape (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1230403</tmdbid>
+    <imdbid>nm0295121</imdbid>
+  </actor>
+  <actor>
+    <name>Kristalyn Harley</name>
+    <role>Three-Year Old Alma</role>
+    <type>GuestStar</type>
+    <tmdbid>2786283</tmdbid>
+    <imdbid>nm10730859</imdbid>
+  </actor>
+  <actor>
+    <name>Kandonache</name>
+    <role>Kandonache</role>
+    <type>GuestStar</type>
+    <tmdbid>2786288</tmdbid>
+    <imdbid>nm10976346</imdbid>
+  </actor>
+  <actor>
+    <name>Inesh Kumaravel</name>
+    <role>Indian Boy</role>
+    <type>GuestStar</type>
+    <tmdbid>2786289</tmdbid>
+    <imdbid>nm10976268</imdbid>
+  </actor>
+  <actor>
+    <name>Alexander Morehead</name>
+    <role>Young Jacob</role>
+    <type>GuestStar</type>
+    <tmdbid>2786290</tmdbid>
+    <imdbid>nm10976270</imdbid>
+  </actor>
+  <actor>
+    <name>Natasha Ofili</name>
+    <role>Teacher</role>
+    <type>GuestStar</type>
+    <tmdbid>2184031</tmdbid>
+  </actor>
+  <actor>
+    <name>Rose Portillo</name>
+    <role>Speech Teacher</role>
+    <type>GuestStar</type>
+    <tmdbid>162381</tmdbid>
+    <imdbid>nm0692419</imdbid>
+  </actor>
+  <actor>
+    <name>Janani Prakash</name>
+    <role>Indian Girl</role>
+    <type>GuestStar</type>
+    <tmdbid>2786291</tmdbid>
+    <imdbid>nm10976277</imdbid>
+  </actor>
+  <actor>
+    <name>Varun Prakash</name>
+    <role>Sanjeev</role>
+    <type>GuestStar</type>
+    <tmdbid>2786292</tmdbid>
+    <imdbid>nm10976278</imdbid>
+  </actor>
+  <actor>
+    <name>Dhanalakshmi Thirumalai</name>
+    <role>Ananya</role>
+    <type>GuestStar</type>
+    <tmdbid>2786294</tmdbid>
+    <imdbid>nm10976303</imdbid>
+  </actor>
+  <actor>
+    <name>Kingston Vernes</name>
+    <role>First Boy</role>
+    <type>GuestStar</type>
+    <tmdbid>2154582</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaryha Trin'A Wilson</name>
+    <role>Eight-Year Old Octavia</role>
+    <type>GuestStar</type>
+    <tmdbid>2786284</tmdbid>
+    <imdbid>nm10976347</imdbid>
+  </actor>
+  <actor>
+    <name>Giorgie Luck Vasquez</name>
+    <role>Young Becca</role>
+    <type>GuestStar</type>
+    <tmdbid>2786253</tmdbid>
+    <imdbid>nm10967787</imdbid>
+  </actor>
+  <director>Hisko Hulsing</director>
+  <rating>6</rating>
+  <year>2019</year>
+  <imdbid>tt10383520</imdbid>
+  <tvdbid>7350639</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Drama</genre>
+  <genre>Fantasy</genre>
+  <uniqueid type="Imdb">tt10383520</uniqueid>
+  <uniqueid type="Tvdb">7350639</uniqueid>
+  <episode>5</episode>
+  <season>1</season>
+  <aired>2019-09-13</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>8293116</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1363</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tam</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tel</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

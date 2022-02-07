@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[本集中，大波想出了一道赚钱的计划；达雅、美味蒂和疯眼面对现实；卡普托则想要在几个访客面前摆出好形象。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-09-22 08:52:10</dateadded>
+  <title>拯救</title>
+  <actor>
+    <name>Taylor Schilling</name>
+    <role>Piper Chapman</role>
+    <type>Actor</type>
+    <tmdbid>221809</tmdbid>
+    <imdbid>nm2279940</imdbid>
+  </actor>
+  <actor>
+    <name>Uzo Aduba</name>
+    <role>Suzanne 'Crazy Eyes' Warren</role>
+    <type>Actor</type>
+    <tmdbid>1332680</tmdbid>
+    <imdbid>nm2499064</imdbid>
+  </actor>
+  <actor>
+    <name>Danielle Brooks</name>
+    <role>Tasha 'Taystee' Jefferson</role>
+    <type>Actor</type>
+    <tmdbid>1075037</tmdbid>
+    <imdbid>nm5335029</imdbid>
+  </actor>
+  <actor>
+    <name>Selenis Leyva</name>
+    <role>Gloria Mendoza</role>
+    <type>Actor</type>
+    <tmdbid>162503</tmdbid>
+    <imdbid>nm0508139</imdbid>
+  </actor>
+  <actor>
+    <name>Taryn Manning</name>
+    <role>Tiffany 'Pennsatucky' Doggett</role>
+    <type>Actor</type>
+    <tmdbid>343</tmdbid>
+    <imdbid>nm0543383</imdbid>
+  </actor>
+  <actor>
+    <name>Adrienne C. Moore</name>
+    <role>Cindy Hayes</role>
+    <type>Actor</type>
+    <tmdbid>1443478</tmdbid>
+  </actor>
+  <actor>
+    <name>Dascha Polanco</name>
+    <role>Dayanara Diaz</role>
+    <type>Actor</type>
+    <tmdbid>1026947</tmdbid>
+    <imdbid>nm4745601</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Sandow</name>
+    <role>Joe Caputo</role>
+    <type>Actor</type>
+    <tmdbid>95519</tmdbid>
+    <imdbid>nm0762191</imdbid>
+  </actor>
+  <actor>
+    <name>Yael Stone</name>
+    <role>Lorna Morello</role>
+    <type>Actor</type>
+    <tmdbid>1028560</tmdbid>
+    <imdbid>nm0832227</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Mulgrew</name>
+    <role>Galina 'Red' Reznikov</role>
+    <type>Actor</type>
+    <tmdbid>35317</tmdbid>
+    <imdbid>nm0000550</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Prepon</name>
+    <role>Alex Vause</role>
+    <type>Actor</type>
+    <tmdbid>18974</tmdbid>
+    <imdbid>nm0696059</imdbid>
+  </actor>
+  <actor>
+    <name>Samira Wiley</name>
+    <role>Poussey Washington</role>
+    <type>Actor</type>
+    <tmdbid>1034197</tmdbid>
+    <imdbid>nm4148126</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Harney</name>
+    <role>Sam Healy</role>
+    <type>Actor</type>
+    <tmdbid>1214447</tmdbid>
+  </actor>
+  <actor>
+    <name>Jackie Cruz</name>
+    <role>Marisol 'Flaca' Gonzales</role>
+    <type>GuestStar</type>
+    <tmdbid>1443625</tmdbid>
+    <imdbid>nm3117320</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Carolan</name>
+    <role>Mr. Black</role>
+    <type>GuestStar</type>
+    <tmdbid>1218236</tmdbid>
+  </actor>
+  <actor>
+    <name>Donté Bonner</name>
+    <role>Male Bartender</role>
+    <type>GuestStar</type>
+    <tmdbid>66541</tmdbid>
+  </actor>
+  <actor>
+    <name>Dante Bruzzese</name>
+    <role>Teenaged Kid</role>
+    <type>GuestStar</type>
+    <tmdbid>2667637</tmdbid>
+  </actor>
+  <actor>
+    <name>Melanie Hinkle</name>
+    <role>13 Year Old Carrie</role>
+    <type>GuestStar</type>
+    <tmdbid>1948603</tmdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Kai</name>
+    <role>Elizabeth Wilkinson</role>
+    <type>GuestStar</type>
+    <tmdbid>1314554</tmdbid>
+  </actor>
+  <actor>
+    <name>Andi Matichak</name>
+    <role>Meadow</role>
+    <type>GuestStar</type>
+    <tmdbid>1511997</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael McKenzie</name>
+    <role>Robert Jones</role>
+    <type>GuestStar</type>
+    <tmdbid>1743505</tmdbid>
+  </actor>
+  <actor>
+    <name>Madison McKinley</name>
+    <role>Rachel</role>
+    <type>GuestStar</type>
+    <tmdbid>208659</tmdbid>
+  </actor>
+  <actor>
+    <name>Susan Louise O'Connor</name>
+    <role>Marcia Black</role>
+    <type>GuestStar</type>
+    <tmdbid>2346405</tmdbid>
+  </actor>
+  <actor>
+    <name>Portia Reiners</name>
+    <role>Tracy</role>
+    <type>GuestStar</type>
+    <tmdbid>928395</tmdbid>
+  </actor>
+  <actor>
+    <name>Curtis Shumaker</name>
+    <role>Reverend Tom Lawlor</role>
+    <type>GuestStar</type>
+    <tmdbid>1455804</tmdbid>
+  </actor>
+  <actor>
+    <name>Lolita Foster</name>
+    <role>Eliqua Maxwell</role>
+    <type>GuestStar</type>
+    <tmdbid>1375175</tmdbid>
+  </actor>
+  <actor>
+    <name>Germar Terrell Gardner</name>
+    <role>Charles Ford</role>
+    <type>GuestStar</type>
+    <tmdbid>2555241</tmdbid>
+  </actor>
+  <actor>
+    <name>Hamilton Clancy</name>
+    <role>CO Kowalski</role>
+    <type>GuestStar</type>
+    <tmdbid>176777</tmdbid>
+    <imdbid>nm1750388</imdbid>
+  </actor>
+  <actor>
+    <name>Eric J Carlson</name>
+    <role>Corrections Officer (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>1633485</tmdbid>
+  </actor>
+  <actor>
+    <name>Beth Fowler</name>
+    <role>Sister Jane Ingalls</role>
+    <type>GuestStar</type>
+    <tmdbid>171182</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Birbiglia</name>
+    <role>Danny Pearson</role>
+    <type>GuestStar</type>
+    <tmdbid>113373</tmdbid>
+  </actor>
+  <actor>
+    <name>Brendan Burke</name>
+    <role>Wade Donaldson</role>
+    <type>GuestStar</type>
+    <tmdbid>1422337</tmdbid>
+  </actor>
+  <actor>
+    <name>Jes Davis</name>
+    <role>Inmate (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>3078885</tmdbid>
+  </actor>
+  <actor>
+    <name>Blair Brown</name>
+    <role>Judy King</role>
+    <type>GuestStar</type>
+    <tmdbid>7571</tmdbid>
+  </actor>
+  <actor>
+    <name>Annie Golden</name>
+    <role>Norma Romano</role>
+    <type>GuestStar</type>
+    <tmdbid>66094</tmdbid>
+  </actor>
+  <actor>
+    <name>Kimiko Glenn</name>
+    <role>Brook Soso</role>
+    <type>GuestStar</type>
+    <tmdbid>1443708</tmdbid>
+    <imdbid>nm4733752</imdbid>
+  </actor>
+  <actor>
+    <name>Lin Tucci</name>
+    <role>Anita DeMarco</role>
+    <type>GuestStar</type>
+    <tmdbid>955883</tmdbid>
+  </actor>
+  <actor>
+    <name>Vicky Jeudy</name>
+    <role>Janae Watson</role>
+    <type>GuestStar</type>
+    <tmdbid>1443647</tmdbid>
+  </actor>
+  <actor>
+    <name>Abigail Savage</name>
+    <role>Gina Murphy</role>
+    <type>GuestStar</type>
+    <tmdbid>187847</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Peters</name>
+    <role>Joel Luschek</role>
+    <type>GuestStar</type>
+    <tmdbid>1448945</tmdbid>
+  </actor>
+  <actor>
+    <name>Deborah Rush</name>
+    <role>Carol Chapman</role>
+    <type>GuestStar</type>
+    <tmdbid>44830</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Bryan French</name>
+    <role>Jack Pearson</role>
+    <type>GuestStar</type>
+    <tmdbid>1224374</tmdbid>
+    <imdbid>nm0294153</imdbid>
+  </actor>
+  <actor>
+    <name>Laverne Cox</name>
+    <role>Sophia Burset</role>
+    <type>GuestStar</type>
+    <tmdbid>1298360</tmdbid>
+  </actor>
+  <actor>
+    <name>Catherine Curtin</name>
+    <role>Wanda Bell</role>
+    <type>GuestStar</type>
+    <tmdbid>205808</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Hoag</name>
+    <role>Bill Chapman</role>
+    <type>GuestStar</type>
+    <tmdbid>164177</tmdbid>
+  </actor>
+  <actor>
+    <name>Olga Merediz</name>
+    <role>Lourdes</role>
+    <type>GuestStar</type>
+    <tmdbid>53937</tmdbid>
+  </actor>
+  <actor>
+    <name>Diane Guerrero</name>
+    <role>Maritza Ramos</role>
+    <type>GuestStar</type>
+    <tmdbid>1010157</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Chernus</name>
+    <role>Cal Chapman</role>
+    <type>GuestStar</type>
+    <tmdbid>87070</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyler Alvarez</name>
+    <role>Benny Mendoza</role>
+    <type>GuestStar</type>
+    <tmdbid>1428081</tmdbid>
+  </actor>
+  <actor>
+    <name>Lea DeLaria</name>
+    <role>Big Boo</role>
+    <type>GuestStar</type>
+    <tmdbid>40063</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Garland</name>
+    <role>Scott O'Neill</role>
+    <type>GuestStar</type>
+    <tmdbid>88550</tmdbid>
+    <imdbid>nm0307534</imdbid>
+  </actor>
+  <actor>
+    <name>Tracee Chimo</name>
+    <role>Neri Feldman</role>
+    <type>GuestStar</type>
+    <tmdbid>1141410</tmdbid>
+  </actor>
+  <director>Constantine Makris</director>
+  <rating>7.467</rating>
+  <year>2015</year>
+  <imdbid>tt3807518</imdbid>
+  <tvdbid>5044434</tvdbid>
+  <runtime>58</runtime>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <tvrageid>1065740205</tvrageid>
+  <uniqueid type="Imdb">tt3807518</uniqueid>
+  <uniqueid type="Tvdb">5044434</uniqueid>
+  <uniqueid type="TvRage">1065740205</uniqueid>
+  <episode>4</episode>
+  <season>3</season>
+  <aired>2015-06-11</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10724248</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>58</duration>
+        <durationinseconds>3500</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

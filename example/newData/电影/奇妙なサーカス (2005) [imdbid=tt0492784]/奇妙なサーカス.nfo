@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[下身瘫痪、擅长变态情欲题材的人气女作家三泽妙子（宮崎ますみ 饰）正在创作一部最新作品。这部小说的大概情节是：小学生美津子（桑名里瑛 饰）偶然撞见父母行房的场面，她随后被丧失人性的父亲尾泽刚三（大口広司 饰）强暴，父女俩上演了一出近亲相奸的不伦之事。美津子的母亲小百合（宮崎ますみ 饰）并未感到气愤，反而对女儿产生隐隐的妒嫉。三人的关系由此变得愈加混乱。
+ 　　这部题材极具争议性、且带有极强自传性质的小说勾起出版社主编（田口トモロヲ 饰）的好奇心，他暗中命令责任编辑田宮雄二（いしだ壱成 饰）调查妙子的过去，结果却发现隐藏至深的秘密……
+ 　　本片荣获第56届柏林国际电影节观众审查奖。 ©豆瓣]]></plot>
+  <outline><![CDATA[快乐的扭曲]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2019-01-13 14:57:43</dateadded>
+  <title>神秘马戏团</title>
+  <originaltitle>奇妙なサーカス</originaltitle>
+  <actor>
+    <name>Rie Kuwana</name>
+    <role>Young Mitsuko</role>
+    <type>Actor</type>
+    <tmdbid>67087</tmdbid>
+    <imdbid>nm2130525</imdbid>
+  </actor>
+  <actor>
+    <name>Masumi Miyazaki</name>
+    <role>Mitsuko / Sayuri / Taeko</role>
+    <type>Actor</type>
+    <tmdbid>67084</tmdbid>
+    <imdbid>nm1185736</imdbid>
+  </actor>
+  <actor>
+    <name>Mai Takahashi</name>
+    <role>Young Mitsuko</role>
+    <type>Actor</type>
+    <tmdbid>67089</tmdbid>
+    <imdbid>nm1726595</imdbid>
+  </actor>
+  <actor>
+    <name>Issei Ishida</name>
+    <role>Yuji</role>
+    <type>Actor</type>
+    <tmdbid>67085</tmdbid>
+    <imdbid>nm0410917</imdbid>
+  </actor>
+  <actor>
+    <name>Fujiko</name>
+    <role>Gozo's mistress</role>
+    <type>Actor</type>
+    <tmdbid>35646</tmdbid>
+    <imdbid>nm1024345</imdbid>
+  </actor>
+  <actor>
+    <name>Madamu Rejînu</name>
+    <type>Actor</type>
+    <tmdbid>67090</tmdbid>
+    <imdbid>nm2216698</imdbid>
+  </actor>
+  <actor>
+    <name>Tomorowo Taguchi</name>
+    <type>Actor</type>
+    <tmdbid>67091</tmdbid>
+    <imdbid>nm0846630</imdbid>
+  </actor>
+  <actor>
+    <name>Yûya Ishikawa</name>
+    <type>Actor</type>
+    <tmdbid>67093</tmdbid>
+    <imdbid>nm1922588</imdbid>
+  </actor>
+  <actor>
+    <name>Hiroshi Ôguchi</name>
+    <role>Gozo</role>
+    <type>Actor</type>
+    <tmdbid>1137395</tmdbid>
+  </actor>
+  <actor>
+    <name>Mame Yamada</name>
+    <type>Actor</type>
+    <tmdbid>555018</tmdbid>
+    <imdbid>nm1218886</imdbid>
+  </actor>
+  <director tmdbid="67075" imdbid="nm0814469">Sion Sono</director>
+  <rating>7</rating>
+  <year>2005</year>
+  <imdbid>tt0492784</imdbid>
+  <tmdbid>10842</tmdbid>
+  <premiered>2005-12-24</premiered>
+  <releasedate>2005-12-24</releasedate>
+  <criticrating>80</criticrating>
+  <runtime>108</runtime>
+  <tagline>快乐的扭曲</tagline>
+  <country>Japan</country>
+  <genre>悬疑</genre>
+  <genre>剧情</genre>
+  <genre>恐怖</genre>
+  <genre>惊悚</genre>
+  <studio>Sedic</studio>
+  <uniqueid type="Tmdb">10842</uniqueid>
+  <uniqueid type="Imdb">tt0492784</uniqueid>
+  <id>tt0492784</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2298421</bitrate>
+        <width>720</width>
+        <height>464</height>
+        <aspect>109:58</aspect>
+        <aspectratio>109:58</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>108</duration>
+        <durationinseconds>6498</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

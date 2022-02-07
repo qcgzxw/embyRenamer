@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[37岁的女教师维奥娜（马莉卡•劳伦丝 Marika Lagercrantz 饰）美艳动人，当丝袜推销员的丈夫却整天出差，就算回到家也只是听音乐、喝闷酒，让她心里非常寂寞难耐。班上15岁的青春少年史迪（约翰•威德伯格 Johan Widerberg 饰）懵懂无知，有着青春期特有的冲动。师生间两眼对视的瞬间，自然而然产生了相互依赖的畸形恋情。  当他们完全沉醉在肉欲之欢里时，史迪对同龄的女生已经毫不感兴趣，拒绝了同班同学的暗恋。维奥娜的丈夫其实早已知道了妻子秘密，但他并没有揭穿妻子的秘密，而是继续饮酒、听音乐。此情此景，让史迪开始对自己的肉欲和这段畸形恋进行反思。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-10-13 11:23:32</dateadded>
+  <title>教室别恋</title>
+  <originaltitle>Lust och fägring stor</originaltitle>
+  <actor>
+    <name>Johan Widerberg</name>
+    <role>Stig</role>
+    <type>Actor</type>
+    <tmdbid>96935</tmdbid>
+    <imdbid>nm0927092</imdbid>
+  </actor>
+  <actor>
+    <name>Marika Lagercrantz</name>
+    <role>Viola</role>
+    <type>Actor</type>
+    <tmdbid>87724</tmdbid>
+    <imdbid>nm0481217</imdbid>
+  </actor>
+  <actor>
+    <name>Tomas von Brömssen</name>
+    <role>Kjell</role>
+    <type>Actor</type>
+    <tmdbid>56392</tmdbid>
+    <imdbid>nm0902059</imdbid>
+  </actor>
+  <actor>
+    <name>Karin Huldt</name>
+    <role>Lisbet</role>
+    <type>Actor</type>
+    <tmdbid>96936</tmdbid>
+    <imdbid>nm0401346</imdbid>
+  </actor>
+  <actor>
+    <name>Nina Gunke</name>
+    <role>Stig's Mother</role>
+    <type>Actor</type>
+    <tmdbid>96937</tmdbid>
+    <imdbid>nm0348140</imdbid>
+  </actor>
+  <actor>
+    <name>Björn Kjellman</name>
+    <role>Sigge</role>
+    <type>Actor</type>
+    <tmdbid>6001</tmdbid>
+    <imdbid>nm0458039</imdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Milldoff</name>
+    <role>Stig's Father</role>
+    <type>Actor</type>
+    <tmdbid>96938</tmdbid>
+    <imdbid>nm0587782</imdbid>
+  </actor>
+  <actor>
+    <name>Frida Lindholm</name>
+    <role>Olga</role>
+    <type>Actor</type>
+    <tmdbid>96939</tmdbid>
+    <imdbid>nm0511907</imdbid>
+  </actor>
+  <actor>
+    <name>Sigge Cederlund</name>
+    <role>Biografmaskinisten</role>
+    <type>Actor</type>
+    <tmdbid>96940</tmdbid>
+    <imdbid>nm0147789</imdbid>
+  </actor>
+  <actor>
+    <name>George Bisset</name>
+    <type>Actor</type>
+    <tmdbid>2349640</tmdbid>
+  </actor>
+  <actor>
+    <name>Gösta Ekstrand</name>
+    <type>Actor</type>
+    <tmdbid>2579654</tmdbid>
+  </actor>
+  <actor>
+    <name>Hilda Suovanen</name>
+    <type>Actor</type>
+    <tmdbid>2579655</tmdbid>
+  </actor>
+  <actor>
+    <name>Per Olov Börjeson</name>
+    <type>Actor</type>
+    <tmdbid>2579657</tmdbid>
+  </actor>
+  <actor>
+    <name>Jörgen Svensson</name>
+    <type>Actor</type>
+    <tmdbid>111355</tmdbid>
+    <imdbid>nm0841144</imdbid>
+  </actor>
+  <actor>
+    <name>Monica Stenbeck</name>
+    <role>Gym Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1881324</tmdbid>
+  </actor>
+  <actor>
+    <name>Nynne Schwartz</name>
+    <type>Actor</type>
+    <tmdbid>1560150</tmdbid>
+  </actor>
+  <director tmdbid="96934" imdbid="nm0927090">Bo Widerberg</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8nHhQwZkKc0</trailer>
+  <rating>6.9</rating>
+  <year>1995</year>
+  <imdbid>tt0113720</imdbid>
+  <tmdbid>27098</tmdbid>
+  <premiered>1995-03-08</premiered>
+  <releasedate>1995-03-08</releasedate>
+  <criticrating>78</criticrating>
+  <runtime>59</runtime>
+  <country>Denmark</country>
+  <country>Sweden</country>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <genre>战争</genre>
+  <studio>Per Holst Filmproduktion</studio>
+  <studio>malavida</studio>
+  <uniqueid type="Tmdb">27098</uniqueid>
+  <uniqueid type="Imdb">tt0113720</uniqueid>
+  <id>tt0113720</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>1400393</bitrate>
+        <width>608</width>
+        <height>352</height>
+        <aspect>19:11</aspect>
+        <aspectratio>19:11</aspectratio>
+        <framerate>23.976</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>59</duration>
+        <durationinseconds>3557</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>224000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>3</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

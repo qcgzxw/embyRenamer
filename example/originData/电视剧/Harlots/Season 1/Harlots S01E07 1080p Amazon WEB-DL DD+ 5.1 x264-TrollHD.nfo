@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[霍华德死后，韦尔斯家族摇摇欲坠，肯定会有人因他的谋杀而被绞死。玛格丽特能保证她所有女儿的安全吗?艾米丽被莉迪亚和她的生活的恐惧-会有人找到她之前，为时已晚?]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-25 15:31:41</dateadded>
+  <title>艾米丽</title>
+  <actor>
+    <name>Samantha Morton</name>
+    <role>Margaret Wells</role>
+    <type>Actor</type>
+    <tmdbid>2206</tmdbid>
+  </actor>
+  <actor>
+    <name>Lesley Manville</name>
+    <role>Lydia Quigley</role>
+    <type>Actor</type>
+    <tmdbid>72305</tmdbid>
+  </actor>
+  <actor>
+    <name>Dorothy Atkinson</name>
+    <role>Florence Scanwell</role>
+    <type>Actor</type>
+    <tmdbid>1221056</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Fleetwood</name>
+    <role>Nancy Birch</role>
+    <type>Actor</type>
+    <tmdbid>178630</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Brown Findlay</name>
+    <role>Charlotte Wells</role>
+    <type>Actor</type>
+    <tmdbid>567269</tmdbid>
+    <imdbid>nm3726887</imdbid>
+  </actor>
+  <actor>
+    <name>Eloise Smyth</name>
+    <role>Lucy Wells</role>
+    <type>Actor</type>
+    <tmdbid>1537048</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordon Stevens</name>
+    <role>Amelia Scanwell</role>
+    <type>Actor</type>
+    <tmdbid>1674278</tmdbid>
+  </actor>
+  <actor>
+    <name>Holli Dempsey</name>
+    <role>Emily Lacey</role>
+    <type>Actor</type>
+    <tmdbid>1475015</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosalind Eleazar</name>
+    <role>Violet Cross</role>
+    <type>Actor</type>
+    <tmdbid>1682679</tmdbid>
+    <imdbid>nm7424185</imdbid>
+  </actor>
+  <actor>
+    <name>Poppy Corby-Tuech</name>
+    <role>Marie-Louise D'Aubigne</role>
+    <type>Actor</type>
+    <tmdbid>1383392</tmdbid>
+    <imdbid>nm5304426</imdbid>
+  </actor>
+  <actor>
+    <name>Edward Hogg</name>
+    <role>Thomas Haxby</role>
+    <type>Actor</type>
+    <tmdbid>114252</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Sapani</name>
+    <role>William North</role>
+    <type>Actor</type>
+    <tmdbid>165424</tmdbid>
+    <imdbid>nm0764527</imdbid>
+  </actor>
+  <actor>
+    <name>Roy Beck</name>
+    <role>Mr. Abbadon</role>
+    <type>Actor</type>
+    <tmdbid>1809473</tmdbid>
+    <imdbid>nm8745734</imdbid>
+  </actor>
+  <actor>
+    <name>Bronwyn James</name>
+    <role>Fanny Lambert</role>
+    <type>Actor</type>
+    <tmdbid>1587577</tmdbid>
+    <imdbid>nm8882474</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Lambert</name>
+    <role>Lord Fallon</role>
+    <type>Actor</type>
+    <tmdbid>1066706</tmdbid>
+  </actor>
+  <actor>
+    <name>Douggie McMeekin</name>
+    <role>Charles Quigley</role>
+    <type>Actor</type>
+    <tmdbid>1625156</tmdbid>
+  </actor>
+  <actor>
+    <name>Hugh Skinner</name>
+    <role>Sir George Howard</role>
+    <type>Actor</type>
+    <tmdbid>1206337</tmdbid>
+    <imdbid>nm2369260</imdbid>
+  </actor>
+  <actor>
+    <name>Rory Fleck Byrne</name>
+    <role>Daniel Marney</role>
+    <type>Actor</type>
+    <tmdbid>1267122</tmdbid>
+  </actor>
+  <actor>
+    <name>Pippa Bennett-Warner</name>
+    <role>Harriet Lennox</role>
+    <type>Actor</type>
+    <tmdbid>1376880</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard McCabe</name>
+    <role>Justice Cunliffe</role>
+    <type>Actor</type>
+    <tmdbid>7025</tmdbid>
+  </actor>
+  <rating>3</rating>
+  <year>2017</year>
+  <imdbid>tt5928440</imdbid>
+  <tvdbid>6008671</tvdbid>
+  <runtime>45</runtime>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt5928440</uniqueid>
+  <uniqueid type="Tvdb">6008671</uniqueid>
+  <episode>7</episode>
+  <season>1</season>
+  <aired>2017-05-08</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11100346</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>45</duration>
+        <durationinseconds>2716</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

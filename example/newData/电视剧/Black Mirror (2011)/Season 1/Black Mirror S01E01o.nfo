@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[首相Michael Callow（罗里·金奈尔 Rory Kinnear 饰）被熟睡中的紧急电话召回办公室，得知广受喜爱的王室 成员Susannah公主遭人劫持，绑匪提出的交换条件匪夷所思。备感受辱的首相诸般尝试解救公主未果，最终在强大的社交网络民意压力下就范。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-06-08 15:40:17</dateadded>
+  <title>天佑吾主</title>
+  <actor>
+    <name>Rory Kinnear</name>
+    <role>Michael Callow</role>
+    <type>GuestStar</type>
+    <tmdbid>139549</tmdbid>
+    <imdbid>nm1239499</imdbid>
+  </actor>
+  <actor>
+    <name>Lindsay Duncan</name>
+    <role>Alex Cairns</role>
+    <type>GuestStar</type>
+    <tmdbid>30083</tmdbid>
+    <imdbid>nm0242026</imdbid>
+  </actor>
+  <actor>
+    <name>Donald Sumpter</name>
+    <role>Julian Hereford</role>
+    <type>GuestStar</type>
+    <tmdbid>20425</tmdbid>
+    <imdbid>nm0838910</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Goodman-Hill</name>
+    <role>Tom Blice</role>
+    <type>GuestStar</type>
+    <tmdbid>43034</tmdbid>
+    <imdbid>nm0329259</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Wilson-Jones</name>
+    <role>Jane Callow</role>
+    <type>GuestStar</type>
+    <tmdbid>145632</tmdbid>
+    <imdbid>nm0934318</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Kennedy</name>
+    <role>Section Chief Walker</role>
+    <type>GuestStar</type>
+    <tmdbid>14432</tmdbid>
+  </actor>
+  <actor>
+    <name>Lydia Wilson</name>
+    <role>Princess Susannah</role>
+    <type>GuestStar</type>
+    <tmdbid>1095524</tmdbid>
+    <imdbid>nm3575723</imdbid>
+  </actor>
+  <actor>
+    <name>Alastair Mackenzie</name>
+    <role>Martin</role>
+    <type>GuestStar</type>
+    <tmdbid>39970</tmdbid>
+    <imdbid>nm1034132</imdbid>
+  </actor>
+  <actor>
+    <name>Chetna Pandya</name>
+    <role>Malaika</role>
+    <type>GuestStar</type>
+    <tmdbid>1619295</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex MacQueen</name>
+    <role>Special Agent Callett</role>
+    <type>GuestStar</type>
+    <tmdbid>126042</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Simpson</name>
+    <role>Rod Senseless</role>
+    <type>GuestStar</type>
+    <tmdbid>86467</tmdbid>
+  </actor>
+  <actor>
+    <name>Helen Fospero</name>
+    <role>Lucinda Towne</role>
+    <type>GuestStar</type>
+    <tmdbid>2026848</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophie Kennedy Clark</name>
+    <role>Lauren</role>
+    <type>GuestStar</type>
+    <tmdbid>1151957</tmdbid>
+    <imdbid>nm4080531</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Knott</name>
+    <role>Brian</role>
+    <type>GuestStar</type>
+    <tmdbid>55468</tmdbid>
+  </actor>
+  <actor>
+    <name>Allen Leech</name>
+    <role>Pike</role>
+    <type>GuestStar</type>
+    <tmdbid>85718</tmdbid>
+    <imdbid>nm1395602</imdbid>
+  </actor>
+  <actor>
+    <name>Johann Myers</name>
+    <role>Noel</role>
+    <type>GuestStar</type>
+    <tmdbid>148142</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophie Wu</name>
+    <role>Jamie</role>
+    <type>GuestStar</type>
+    <tmdbid>116883</tmdbid>
+  </actor>
+  <actor>
+    <name>Rakie Ayola</name>
+    <role>Shelly</role>
+    <type>GuestStar</type>
+    <tmdbid>1238115</tmdbid>
+  </actor>
+  <actor>
+    <name>Amit Shah</name>
+    <role>Jack</role>
+    <type>GuestStar</type>
+    <tmdbid>150072</tmdbid>
+  </actor>
+  <actor>
+    <name>McKell David</name>
+    <role>Son</role>
+    <type>GuestStar</type>
+    <tmdbid>1419616</tmdbid>
+  </actor>
+  <director>Otto Bathurst</director>
+  <rating>7.557</rating>
+  <year>2011</year>
+  <imdbid>tt2089051</imdbid>
+  <tvdbid>4201395</tvdbid>
+  <runtime>44</runtime>
+  <genre>Drama</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt2089051</uniqueid>
+  <uniqueid type="Tvdb">4201395</uniqueid>
+  <episode>1</episode>
+  <season>1</season>
+  <aired>2011-12-04</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>7236636</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>44</duration>
+        <durationinseconds>2644</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

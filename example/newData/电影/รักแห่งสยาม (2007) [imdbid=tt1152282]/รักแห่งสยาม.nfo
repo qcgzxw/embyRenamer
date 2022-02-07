@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　Mew（Witwisit Hirunwongkul饰）和Tong（Mario Maurer饰）是一对小伙伴，一场悲剧却使二人不得不分开：Tong的姐姐阿红在一次野外旅行中不幸失踪，Tong的父母迅速决定离开这个伤心地。
+ 　　几年后，长大了的两人在曼谷广场意外重逢，此时，Mew是August乐团的创作加主唱，相依为命的嬷嬷去世后，他独自一人寂寞地生活。Tong的家庭也难现欢乐，爸爸因为过度思念死去的女儿，整日借酒浇愁。重逢后，时间就像是逆流回童年，两人重拾以往的亲密无间，还是无话不谈的朋友。
+ 　　渐渐的，一种新的情愫开始在两人心中滋生，派对上，Mew唱出他写的第一首情歌——为Tong而写的情歌，二人情不自禁亲吻了，不料这一幕却被Tong的妈妈尽收眼底……Tong和Mew的交往开始受到阻挠，二人陷入痛苦之中，亦因此得以重新审视这份感情。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-07-03 06:20:56</dateadded>
+  <title>爱在暹罗</title>
+  <originaltitle>รักแห่งสยาม</originaltitle>
+  <actor>
+    <name>Witwisit Hiranyawongkul</name>
+    <role>Mew</role>
+    <type>Actor</type>
+    <tmdbid>567013</tmdbid>
+    <imdbid>nm2859946</imdbid>
+  </actor>
+  <actor>
+    <name>Mario Maurer</name>
+    <role>Tong</role>
+    <type>Actor</type>
+    <tmdbid>226564</tmdbid>
+    <imdbid>nm2859853</imdbid>
+  </actor>
+  <actor>
+    <name>Songsit Roongnophakunsri</name>
+    <role>Korn</role>
+    <type>Actor</type>
+    <tmdbid>1259528</tmdbid>
+    <imdbid>nm2860382</imdbid>
+  </actor>
+  <actor>
+    <name>Pimpan Buranapim</name>
+    <role>Grandmother</role>
+    <type>Actor</type>
+    <tmdbid>1276353</tmdbid>
+    <imdbid>nm2865685</imdbid>
+  </actor>
+  <actor>
+    <name>Chermarn Boonyasak</name>
+    <role>Tang / June</role>
+    <type>Actor</type>
+    <tmdbid>69990</tmdbid>
+    <imdbid>nm1428198</imdbid>
+  </actor>
+  <actor>
+    <name>Arthit Niyomkul</name>
+    <role>Young Mew</role>
+    <type>Actor</type>
+    <tmdbid>1276354</tmdbid>
+    <imdbid>nm2868332</imdbid>
+  </actor>
+  <actor>
+    <name>Kanya Rattanapetch</name>
+    <role>Ying</role>
+    <type>Actor</type>
+    <tmdbid>133610</tmdbid>
+    <imdbid>nm2704234</imdbid>
+  </actor>
+  <actor>
+    <name>Aticha Pongsilpipat</name>
+    <role>Donut</role>
+    <type>Actor</type>
+    <tmdbid>1276355</tmdbid>
+    <imdbid>nm2860165</imdbid>
+  </actor>
+  <actor>
+    <name>Pongnarin Ulice</name>
+    <role>Pee Aod</role>
+    <type>Actor</type>
+    <tmdbid>1276356</tmdbid>
+    <imdbid>nm2868080</imdbid>
+  </actor>
+  <actor>
+    <name>Jarunee Boonsake</name>
+    <role>Physical Education Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1135334</tmdbid>
+    <imdbid>nm1846491</imdbid>
+  </actor>
+  <actor>
+    <name>Nattapong Arunnate</name>
+    <role>Earth</role>
+    <type>Actor</type>
+    <tmdbid>81040</tmdbid>
+    <imdbid>nm2421877</imdbid>
+  </actor>
+  <actor>
+    <name>Taveesak Pehtpraneenukul</name>
+    <role>Jeng</role>
+    <type>Actor</type>
+    <tmdbid>1276357</tmdbid>
+    <imdbid>nm2992086</imdbid>
+  </actor>
+  <actor>
+    <name>Atirat Praseartburanakul</name>
+    <role>Kao Sai</role>
+    <type>Actor</type>
+    <tmdbid>1276358</tmdbid>
+    <imdbid>nm2992785</imdbid>
+  </actor>
+  <actor>
+    <name>Chirayu La-ongmani</name>
+    <role>Young Tong</role>
+    <type>Actor</type>
+    <tmdbid>238450</tmdbid>
+    <imdbid>nm2528433</imdbid>
+  </actor>
+  <actor>
+    <name>Sinjai Plengpanit</name>
+    <role>Sunee</role>
+    <type>Actor</type>
+    <tmdbid>565528</tmdbid>
+    <imdbid>nm0393294</imdbid>
+  </actor>
+  <director tmdbid="81034" imdbid="nm1840848">Chookiat Sakveerakul</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jKjj9AYJe5E</trailer>
+  <rating>7.8</rating>
+  <year>2007</year>
+  <imdbid>tt1152282</imdbid>
+  <tmdbid>56295</tmdbid>
+  <premiered>2007-11-22</premiered>
+  <releasedate>2007-11-22</releasedate>
+  <criticrating>87</criticrating>
+  <runtime>171</runtime>
+  <country>Thailand</country>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <studio>Sahamongkolfilm</studio>
+  <uniqueid type="Tmdb">56295</uniqueid>
+  <uniqueid type="Imdb">tt1152282</uniqueid>
+  <id>tt1152282</id>
+  <fileinfo>
+    <streamdetails>
+      <audio>
+        <codec>cook</codec>
+        <micodec>cook</micodec>
+        <bitrate>96468</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>rv40</codec>
+        <micodec>rv40</micodec>
+        <bitrate>1656656</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>170</duration>
+        <durationinseconds>10257</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　本片是《沉默的羔羊》的续集，10年前FBI女干探史黛琳（朱丽安·摩尔 饰）曾在监狱拜访过一位神秘的变态教授汉尼拔（安东尼·霍普金斯 饰）。汉尼拔后来从禁卫森严的监狱中逃脱，从此销声匿迹。谁也想不到，汉尼拔在意大利隐姓埋名，过起了正常人的生活。不料，竟然有侦探揭开了他的秘密，无奈汉尼拔只好重操旧业，开始了血腥的杀人之旅。原来，昔日饱受汉尼拔折磨的受害者梅森竟然未死，他悬赏300万遍邀天下高手购买汉尼拔的项上人头。汉尼拔为摆脱杀手们的纠缠，回到美国寻找梅森复仇，但不慎被俘。梅森准备把汉尼拔让野猪活活吃掉以解心头之恨。史黛琳即时赶到，冒险将汉尼拔[1]救了出来，但自己也身受重伤。汉尼拔为史黛琳准备了一桌特殊的晚宴，还邀请她一起亡命天涯......]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-04 07:10:48</dateadded>
+  <title>汉尼拔</title>
+  <originaltitle>Hannibal</originaltitle>
+  <actor>
+    <name>Anthony Hopkins</name>
+    <role>Dr. Hannibal Lecter</role>
+    <type>Actor</type>
+    <tmdbid>4173</tmdbid>
+    <imdbid>nm0000164</imdbid>
+  </actor>
+  <actor>
+    <name>Julianne Moore</name>
+    <role>Clarice M. Starling</role>
+    <type>Actor</type>
+    <tmdbid>1231</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Oldman</name>
+    <role>Mason Verger</role>
+    <type>Actor</type>
+    <tmdbid>64</tmdbid>
+    <imdbid>nm0000198</imdbid>
+  </actor>
+  <actor>
+    <name>Ray Liotta</name>
+    <role>Paul Krendler</role>
+    <type>Actor</type>
+    <tmdbid>11477</tmdbid>
+    <imdbid>nm0000501</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Giannini</name>
+    <role>Insp. Renaldo Pazzi</role>
+    <type>Actor</type>
+    <tmdbid>3753</tmdbid>
+  </actor>
+  <actor>
+    <name>Zeljko Ivanek</name>
+    <role>Dr. Cordell Doemling</role>
+    <type>Actor</type>
+    <tmdbid>6752</tmdbid>
+    <imdbid>nm0411964</imdbid>
+  </actor>
+  <actor>
+    <name>Frankie Faison</name>
+    <role>Barney Matthews</role>
+    <type>Actor</type>
+    <tmdbid>13936</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesca Neri</name>
+    <role>Allegra Pazzi</role>
+    <type>Actor</type>
+    <tmdbid>3809</tmdbid>
+  </actor>
+  <actor>
+    <name>Hazelle Goodman</name>
+    <role>Evelda Drumgo</role>
+    <type>Actor</type>
+    <tmdbid>91756</tmdbid>
+  </actor>
+  <actor>
+    <name>David Andrews</name>
+    <role>FBI Agent Pearsall</role>
+    <type>Actor</type>
+    <tmdbid>7219</tmdbid>
+    <imdbid>nm0028625</imdbid>
+  </actor>
+  <actor>
+    <name>Francis Guinan</name>
+    <role>FBI Asst. Director Noonan</role>
+    <type>Actor</type>
+    <tmdbid>162754</tmdbid>
+  </actor>
+  <actor>
+    <name>James Opher</name>
+    <role>DEA Agent John Eldridge</role>
+    <type>Actor</type>
+    <tmdbid>953778</tmdbid>
+  </actor>
+  <actor>
+    <name>Enrico Lo Verso</name>
+    <role>Gnocco</role>
+    <type>Actor</type>
+    <tmdbid>27392</tmdbid>
+  </actor>
+  <actor>
+    <name>Ivano Marescotti</name>
+    <role>Carlo</role>
+    <type>Actor</type>
+    <tmdbid>15918</tmdbid>
+    <imdbid>nm0546515</imdbid>
+  </actor>
+  <actor>
+    <name>Fabrizio Gifuni</name>
+    <role>Matteo</role>
+    <type>Actor</type>
+    <tmdbid>35106</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Corrado</name>
+    <role>Piero</role>
+    <type>Actor</type>
+    <tmdbid>1187541</tmdbid>
+  </actor>
+  <actor>
+    <name>Marco Greco</name>
+    <role>Tommaso</role>
+    <type>Actor</type>
+    <tmdbid>18112</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Rietti</name>
+    <role>Sogliato</role>
+    <type>Actor</type>
+    <tmdbid>11841</tmdbid>
+  </actor>
+  <actor>
+    <name>Terry Serpico</name>
+    <role>Officer Bolton</role>
+    <type>Actor</type>
+    <tmdbid>2257</tmdbid>
+  </actor>
+  <actor>
+    <name>Boyd Kestner</name>
+    <role>Special Agent Burke</role>
+    <type>Actor</type>
+    <tmdbid>37206</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Shaw</name>
+    <role>Special Agent John Brigham</role>
+    <type>Actor</type>
+    <tmdbid>1884422</tmdbid>
+  </actor>
+  <actor>
+    <name>Kent Linville</name>
+    <role>Geoffrey, FBI Mail Boy</role>
+    <type>Actor</type>
+    <tmdbid>1884423</tmdbid>
+  </actor>
+  <actor>
+    <name>Don McManus</name>
+    <role>Asst. Mayor Benny Holcombe</role>
+    <type>Actor</type>
+    <tmdbid>79025</tmdbid>
+    <imdbid>nm0573134</imdbid>
+  </actor>
+  <actor>
+    <name>Harold Ginn</name>
+    <role>Larkin Wayne, I.A.B.</role>
+    <type>Actor</type>
+    <tmdbid>1884424</tmdbid>
+  </actor>
+  <actor>
+    <name>Ted Koch</name>
+    <role>BATF Agent Bob Sneed</role>
+    <type>Actor</type>
+    <tmdbid>155186</tmdbid>
+  </actor>
+  <actor>
+    <name>William Powell-Blair</name>
+    <role>FBI Agent</role>
+    <type>Actor</type>
+    <tmdbid>1884425</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron Craig</name>
+    <role>'Il Mostro' Detective</role>
+    <type>Actor</type>
+    <tmdbid>1884426</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Piedimonte</name>
+    <role>Agent Franco Benetti</role>
+    <type>Actor</type>
+    <tmdbid>1661620</tmdbid>
+    <imdbid>nm0682123</imdbid>
+  </actor>
+  <actor>
+    <name>Ennio Coltorti</name>
+    <role>Ricci</role>
+    <type>Actor</type>
+    <tmdbid>941087</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Margolis</name>
+    <role>Perfume Expert</role>
+    <type>Actor</type>
+    <tmdbid>1173</tmdbid>
+    <imdbid>nm0546797</imdbid>
+  </actor>
+  <actor>
+    <name>Ajay Naidu</name>
+    <role>Perfume Expert</role>
+    <type>Actor</type>
+    <tmdbid>1982</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelly Piper</name>
+    <role>Perfume Expert</role>
+    <type>Actor</type>
+    <tmdbid>101610</tmdbid>
+  </actor>
+  <actor>
+    <name>Judie Aronson</name>
+    <role>News Reporter</role>
+    <type>Actor</type>
+    <tmdbid>72541</tmdbid>
+  </actor>
+  <actor>
+    <name>Derrick Simmons</name>
+    <role>Evelda Drumgo's Bodyguard</role>
+    <type>Actor</type>
+    <tmdbid>80831</tmdbid>
+    <imdbid>nm0799734</imdbid>
+  </actor>
+  <actor>
+    <name>Chuck Jeffreys</name>
+    <role>Evelda Drumgo's Bodyguard</role>
+    <type>Actor</type>
+    <tmdbid>933507</tmdbid>
+  </actor>
+  <actor>
+    <name>Gano Grills</name>
+    <role>Evelda Drumgo's Bodyguard</role>
+    <type>Actor</type>
+    <tmdbid>105248</tmdbid>
+  </actor>
+  <actor>
+    <name>Giannina Facio</name>
+    <role>Verger's Fingerprint Technician</role>
+    <type>Actor</type>
+    <tmdbid>58787</tmdbid>
+    <imdbid>nm0264857</imdbid>
+  </actor>
+  <actor>
+    <name>Renne Gjoni</name>
+    <role>FBI Agent Michaels</role>
+    <type>Actor</type>
+    <tmdbid>1320844</tmdbid>
+  </actor>
+  <actor>
+    <name>Roberta Armani</name>
+    <role>Theatergoer</role>
+    <type>Actor</type>
+    <tmdbid>1024457</tmdbid>
+  </actor>
+  <director tmdbid="578" imdbid="nm0000631">Ridley Scott</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Lr3OavheNu0</trailer>
+  <rating>6.8</rating>
+  <year>2001</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0212985</imdbid>
+  <tmdbid>9740</tmdbid>
+  <premiered>2001-02-08</premiered>
+  <releasedate>2001-02-08</releasedate>
+  <criticrating>40</criticrating>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <genre>恐怖</genre>
+  <studio>Dino De Laurentiis Company</studio>
+  <studio>Universal Pictures</studio>
+  <studio>Scott Free Productions</studio>
+  <studio>Metro-Goldwyn-Mayer</studio>
+  <set tmdbcolid="9743">
+    <name>汉尼拔·莱克特（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">9740</uniqueid>
+  <uniqueid type="Imdb">tt0212985</uniqueid>
+  <id>tt0212985</id>
+  <fileinfo>
+    <streamdetails />
+  </fileinfo>
+</movie>

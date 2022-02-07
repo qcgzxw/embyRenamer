@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　林秀英（陈淑芳 饰）是台南赫赫有名的餐厅老板，在丈夫（龙劭华 饰）无声无息地离家后，便靠著卖虾卷独自抚养三个女儿长大成人，不仅把虾卷从路边摊卖到开餐厅，三个女儿更是成就非凡，大女儿阿青（谢盈萱 饰）是国际舞者，二女儿阿瑜（徐若瑄 饰）在台北当整形医生，小女儿佳佳（孙可芳 饰）则接手自己的餐厅事业。眼看就要苦尽甘来，秀英却在70大寿当天接到丈夫离世的噩耗，在替这位有名无实的丈夫筹办丧礼的同时，竟意外迎来了另一位陪伴丈夫度过晚年的女人，令她不得不再次面对内心埋藏已久的怨怼……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-21 05:48:21</dateadded>
+  <title>孤味</title>
+  <originaltitle>孤味</originaltitle>
+  <actor>
+    <name>Grace Chen Shu-Fang</name>
+    <role>Lin Sho-ying</role>
+    <type>Actor</type>
+    <tmdbid>1609496</tmdbid>
+    <imdbid>nm0155371</imdbid>
+  </actor>
+  <actor>
+    <name>Hsieh Ying Shiuan</name>
+    <role>Chen Wan-ching</role>
+    <type>Actor</type>
+    <tmdbid>1746243</tmdbid>
+    <imdbid>nm4612940</imdbid>
+  </actor>
+  <actor>
+    <name>Vivian Hsu</name>
+    <role>Chen Wan-yu</role>
+    <type>Actor</type>
+    <tmdbid>70706</tmdbid>
+    <imdbid>nm0398852</imdbid>
+  </actor>
+  <actor>
+    <name>Ke-Fang Sun</name>
+    <role>Chen Wan-jia (Jia Jia)</role>
+    <type>Actor</type>
+    <tmdbid>2289091</tmdbid>
+    <imdbid>nm8766055</imdbid>
+  </actor>
+  <actor>
+    <name>Ding Ning</name>
+    <role>Cai Mei-lin</role>
+    <type>Actor</type>
+    <tmdbid>1375776</tmdbid>
+  </actor>
+  <actor>
+    <name>Chen Yanfei</name>
+    <role>Xiao Cheng</role>
+    <type>Actor</type>
+    <tmdbid>2685341</tmdbid>
+    <imdbid>nm8665622</imdbid>
+  </actor>
+  <actor>
+    <name>Chang Han</name>
+    <role>Yang Cheng-xian</role>
+    <type>Actor</type>
+    <tmdbid>1089570</tmdbid>
+    <imdbid>nm0359217</imdbid>
+  </actor>
+  <actor>
+    <name>Lung Shao-Hua</name>
+    <role>Chen Bo-chang</role>
+    <type>Actor</type>
+    <tmdbid>1474356</tmdbid>
+    <imdbid>nm1541912</imdbid>
+  </actor>
+  <actor>
+    <name>Weber Yang</name>
+    <role>Chen Bo-chang (Young)</role>
+    <type>Actor</type>
+    <tmdbid>1765229</tmdbid>
+    <imdbid>nm3409390</imdbid>
+  </actor>
+  <actor>
+    <name>Sara Yu</name>
+    <role>Lin Sho-ying (Young)</role>
+    <type>Actor</type>
+    <tmdbid>581886</tmdbid>
+    <imdbid>nm6232708</imdbid>
+  </actor>
+  <actor>
+    <name>Honduras</name>
+    <role>Lin Sho-ying's brother</role>
+    <type>Actor</type>
+    <tmdbid>581375</tmdbid>
+    <imdbid>nm5356727</imdbid>
+  </actor>
+  <actor>
+    <name>Chia-Kuei Chen</name>
+    <role>Chen Wan-ching's Husband</role>
+    <type>Actor</type>
+    <tmdbid>2693118</tmdbid>
+    <imdbid>nm3650775</imdbid>
+  </actor>
+  <actor>
+    <name>許懷民</name>
+    <role>Kuan Zhen</role>
+    <type>Actor</type>
+    <tmdbid>2966925</tmdbid>
+  </actor>
+  <actor>
+    <name>Janine Chang</name>
+    <role>He Ching-mei</role>
+    <type>Actor</type>
+    <tmdbid>564891</tmdbid>
+    <imdbid>nm2100867</imdbid>
+  </actor>
+  <director tmdbid="2559079">Joseph Hsu Chen-Chieh</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TPxtIK7bug0</trailer>
+  <rating>7.3</rating>
+  <year>2020</year>
+  <imdbid>tt12397078</imdbid>
+  <tmdbid>739269</tmdbid>
+  <premiered>2020-11-06</premiered>
+  <releasedate>2020-11-06</releasedate>
+  <runtime>123</runtime>
+  <country>Taiwan</country>
+  <genre>剧情</genre>
+  <genre>家庭</genre>
+  <genre>爱情</genre>
+  <studio>Each Other Films</studio>
+  <uniqueid type="Tmdb">739269</uniqueid>
+  <uniqueid type="Imdb">tt12397078</uniqueid>
+  <id>tt12397078</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4150786</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>123</duration>
+        <durationinseconds>7402</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

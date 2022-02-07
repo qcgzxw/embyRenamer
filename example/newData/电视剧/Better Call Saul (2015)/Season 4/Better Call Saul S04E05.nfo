@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[吉米運用他在江湖闖蕩的智慧兜售手機，小金當起公設辯護人，麥克則訪問開鑿專家。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-07-25 11:10:41</dateadded>
+  <title>一路波澜</title>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Jimmy McGill</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Rhea Seehorn</name>
+    <role>Kim Wexler</role>
+    <type>Actor</type>
+    <tmdbid>62765</tmdbid>
+    <imdbid>nm0781533</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Fabian</name>
+    <role>Howard Hamlin</role>
+    <type>Actor</type>
+    <tmdbid>58791</tmdbid>
+    <imdbid>nm0264579</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Mando</name>
+    <role>Nacho Varga</role>
+    <type>Actor</type>
+    <tmdbid>829372</tmdbid>
+    <imdbid>nm3103126</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Margolis</name>
+    <role>Hector Salamanca</role>
+    <type>Actor</type>
+    <tmdbid>1173</tmdbid>
+    <imdbid>nm0546797</imdbid>
+  </actor>
+  <actor>
+    <name>Johnathan Nieves</name>
+    <role>David</role>
+    <type>GuestStar</type>
+    <tmdbid>2243679</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlin James</name>
+    <role>Scooter</role>
+    <type>GuestStar</type>
+    <tmdbid>1494542</tmdbid>
+    <imdbid>nm3285753</imdbid>
+  </actor>
+  <director>Michael Morris</director>
+  <rating>8.5</rating>
+  <year>2018</year>
+  <imdbid>tt7074010</imdbid>
+  <tvdbid>6757079</tvdbid>
+  <runtime>53</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt7074010</uniqueid>
+  <uniqueid type="Tvdb">6757079</uniqueid>
+  <episode>5</episode>
+  <season>4</season>
+  <aired>2018-09-03</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>8972228</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>52</duration>
+        <durationinseconds>3175</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

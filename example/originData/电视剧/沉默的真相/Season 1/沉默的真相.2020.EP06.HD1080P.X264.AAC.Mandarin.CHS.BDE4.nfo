@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[江阳和朱伟组成二人组，他们从“受害人”寡妇丁春妹开始走访。二人来到苗高乡丁春妹家，发现了一个管她叫“妈妈”的男孩，而丁春妹既没有再婚也没有领养孩子，朱伟提出质疑后，丁春妹打了几个电话，不一会儿黄毛就出现了。江阳继续在小卖部询问丁春妹，朱伟则把黄毛锁到了车里，丁春妹很快交代了黄毛给她一万块钱让她诱惑侯贵平和自己发生关系，当被问到侯贵平真正的死因时，黄毛从车里挣脱出来让丁春妹什么都不要说，询问中断。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-23 11:14:16</dateadded>
+  <title>朱伟江阳联合调查疑案 丁春妹承认诬陷侯贵平</title>
+  <actor>
+    <name>Liao Fan</name>
+    <role>Yan Liang</role>
+    <type>Actor</type>
+    <tmdbid>99692</tmdbid>
+    <imdbid>nm1233224</imdbid>
+  </actor>
+  <actor>
+    <name>Bai Yu</name>
+    <role>Jiang Yang</role>
+    <type>Actor</type>
+    <tmdbid>1698814</tmdbid>
+    <imdbid>nm7889237</imdbid>
+  </actor>
+  <actor>
+    <name>Lü Xiaolin</name>
+    <role>Ren Yueting, Captain of the Criminal Police</role>
+    <type>Actor</type>
+    <tmdbid>1909342</tmdbid>
+    <imdbid>nm4892567</imdbid>
+  </actor>
+  <actor>
+    <name>Zhao Yang</name>
+    <role>Zhu Wei</role>
+    <type>Actor</type>
+    <tmdbid>1780719</tmdbid>
+  </actor>
+  <actor>
+    <name>Tan Zhuo</name>
+    <role>Li Jing</role>
+    <type>Actor</type>
+    <tmdbid>938326</tmdbid>
+    <imdbid>nm3431007</imdbid>
+  </actor>
+  <actor>
+    <name>Ning Li</name>
+    <role>Zhang Chao</role>
+    <type>Actor</type>
+    <tmdbid>987205</tmdbid>
+    <imdbid>nm1280632</imdbid>
+  </actor>
+  <actor>
+    <name>Lu Siyu</name>
+    <role>Hou Guiping</role>
+    <type>Actor</type>
+    <tmdbid>2802902</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhao Leiqi</name>
+    <role>Gu Yiming</role>
+    <type>Actor</type>
+    <tmdbid>2586775</tmdbid>
+  </actor>
+  <actor>
+    <name>Huang Yao</name>
+    <role>Zhang Xiaoqian, Jiangtan Evening News reporter</role>
+    <type>Actor</type>
+    <tmdbid>2149028</tmdbid>
+  </actor>
+  <actor>
+    <name>Tian Xiaojie</name>
+    <role>Chen Mingzhang, forensic doctor</role>
+    <type>Actor</type>
+    <tmdbid>1637213</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuanyuan Zhao</name>
+    <role>Wu Aike</role>
+    <type>Actor</type>
+    <tmdbid>1087177</tmdbid>
+    <imdbid>nm4593170</imdbid>
+  </actor>
+  <actor>
+    <name>Cao Weiyu</name>
+    <role>Li Jianguo, Criminal Police Chief from Pingkang County</role>
+    <type>Actor</type>
+    <tmdbid>1924494</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Lei</name>
+    <role>Hu Yilang</role>
+    <type>Actor</type>
+    <tmdbid>2827809</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Zhigang</name>
+    <role>Chief Prosecutor Wu</role>
+    <type>Actor</type>
+    <tmdbid>3112989</tmdbid>
+  </actor>
+  <rating>0</rating>
+  <year>2020</year>
+  <tvdbid>7937835</tvdbid>
+  <runtime>47</runtime>
+  <uniqueid type="Tvdb">7937835</uniqueid>
+  <episode>6</episode>
+  <season>1</season>
+  <aired>2020-09-18</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1635401</bitrate>
+        <width>1920</width>
+        <height>792</height>
+        <aspect>80:33</aspect>
+        <aspectratio>80:33</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>46</duration>
+        <durationinseconds>2812</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>124619</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <embeddedimage>
+        <codec>png</codec>
+        <micodec>png</micodec>
+        <width>300</width>
+        <height>98</height>
+        <aspect>150:49</aspect>
+        <aspectratio>150:49</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[轻松就干掉了一票人的看起来傻乎乎的被出轨人妻告诉你人不可貌相。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-06 08:25:48</dateadded>
+  <title>搬家记</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Monica Dolan</name>
+    <role>May</role>
+    <type>GuestStar</type>
+    <tmdbid>229606</tmdbid>
+    <imdbid>nm0230826</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Moran</name>
+    <role>Spike</role>
+    <type>GuestStar</type>
+    <tmdbid>975</tmdbid>
+    <imdbid>nm0602941</imdbid>
+  </actor>
+  <actor>
+    <name>David Calder</name>
+    <role>Percy</role>
+    <type>GuestStar</type>
+    <tmdbid>10779</tmdbid>
+    <imdbid>nm0129464</imdbid>
+  </actor>
+  <actor>
+    <name>Emilia Fox</name>
+    <role>Natasha</role>
+    <type>GuestStar</type>
+    <tmdbid>6639</tmdbid>
+    <imdbid>nm0288976</imdbid>
+  </actor>
+  <actor>
+    <name>Rufus Jones</name>
+    <role>Charles</role>
+    <type>GuestStar</type>
+    <tmdbid>429541</tmdbid>
+    <imdbid>nm1257480</imdbid>
+  </actor>
+  <director>Jim O'Hanlon</director>
+  <rating>8.75</rating>
+  <year>2018</year>
+  <imdbid>tt7827656</imdbid>
+  <tvdbid>6453369</tvdbid>
+  <runtime>29</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Horror</genre>
+  <uniqueid type="Imdb">tt7827656</uniqueid>
+  <uniqueid type="Tvdb">6453369</uniqueid>
+  <episode>3</episode>
+  <season>4</season>
+  <aired>2018-01-16</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10706481</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1751</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

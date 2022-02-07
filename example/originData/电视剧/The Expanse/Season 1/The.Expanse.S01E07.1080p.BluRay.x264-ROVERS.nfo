@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[第谷空间站上的间谍潜入霍尔登几人的飞船，并发送信息引来了火星巡逻船。副国务卿孤身拜访霍尔登一家，想要借此判断霍尔登是否有意挑起战争。米勒查获阿努比斯号行踪，他决定前往爱神星。阿摩司想要杀死巡逻员解决危机，霍尔登不愿伤害曾经救过他们的火星军人。巡逻船到来之时，飞船伪装成执行秘密行动的火星军队躲过巡查。间谍其实是联合国特工，他传来的消息让联合国决定除掉霍尔登。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-07 19:42:34</dateadded>
+  <title>风车</title>
+  <actor>
+    <name>Steven Strait</name>
+    <role>Jim Holden</role>
+    <type>Actor</type>
+    <tmdbid>54815</tmdbid>
+    <imdbid>nm1711829</imdbid>
+  </actor>
+  <actor>
+    <name>Cas Anvar</name>
+    <role>Alex Kamal</role>
+    <type>Actor</type>
+    <tmdbid>59214</tmdbid>
+    <imdbid>nm0031679</imdbid>
+  </actor>
+  <actor>
+    <name>Dominique Tipper</name>
+    <role>Naomi Nagata</role>
+    <type>Actor</type>
+    <tmdbid>1361876</tmdbid>
+    <imdbid>nm4625680</imdbid>
+  </actor>
+  <actor>
+    <name>Wes Chatham</name>
+    <role>Amos Burton</role>
+    <type>Actor</type>
+    <tmdbid>51682</tmdbid>
+    <imdbid>nm1434871</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Jane</name>
+    <role>Detective Josephus Miller</role>
+    <type>Actor</type>
+    <tmdbid>11155</tmdbid>
+    <imdbid>nm0005048</imdbid>
+  </actor>
+  <actor>
+    <name>Shohreh Aghdashloo</name>
+    <role>Chrisjen Avasarala</role>
+    <type>Actor</type>
+    <tmdbid>21041</tmdbid>
+    <imdbid>nm0013037</imdbid>
+  </actor>
+  <actor>
+    <name>Florence Faivre</name>
+    <role>Julie Mao</role>
+    <type>Actor</type>
+    <tmdbid>88794</tmdbid>
+    <imdbid>nm1552467</imdbid>
+  </actor>
+  <actor>
+    <name>Athena Karkanis</name>
+    <role>Octavia Muss</role>
+    <type>GuestStar</type>
+    <tmdbid>51037</tmdbid>
+    <imdbid>nm1920701</imdbid>
+  </actor>
+  <actor>
+    <name>Alli Chung</name>
+    <role>Sam Rosenberg</role>
+    <type>GuestStar</type>
+    <tmdbid>1682052</tmdbid>
+  </actor>
+  <actor>
+    <name>Kyle Gatehouse</name>
+    <role>Gaunt Belter</role>
+    <type>GuestStar</type>
+    <tmdbid>131335</tmdbid>
+    <imdbid>nm2497549</imdbid>
+  </actor>
+  <actor>
+    <name>Craig Henry</name>
+    <role>Bouilotte dealer</role>
+    <type>GuestStar</type>
+    <tmdbid>1522268</tmdbid>
+  </actor>
+  <actor>
+    <name>Markus Parilo</name>
+    <role>Thierry</role>
+    <type>GuestStar</type>
+    <tmdbid>180916</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Snape</name>
+    <role>Father Tom</role>
+    <type>GuestStar</type>
+    <tmdbid>2431488</tmdbid>
+  </actor>
+  <actor>
+    <name>Drew Carrymore</name>
+    <role>Background</role>
+    <type>GuestStar</type>
+    <tmdbid>2431477</tmdbid>
+  </actor>
+  <actor>
+    <name>Elias Toufexis</name>
+    <role>Kenzo</role>
+    <type>GuestStar</type>
+    <tmdbid>58907</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Hanchard</name>
+    <role>Inspector Sematimba</role>
+    <type>GuestStar</type>
+    <tmdbid>1260782</tmdbid>
+  </actor>
+  <actor>
+    <name>Jared Harris</name>
+    <role>Anderson Dawes</role>
+    <type>GuestStar</type>
+    <tmdbid>15440</tmdbid>
+    <imdbid>nm0364813</imdbid>
+  </actor>
+  <actor>
+    <name>Shawn Doyle</name>
+    <role>Sadavir Errinwright</role>
+    <type>GuestStar</type>
+    <tmdbid>25878</tmdbid>
+    <imdbid>nm0236495</imdbid>
+  </actor>
+  <actor>
+    <name>Frances Fisher</name>
+    <role>Elise Holden</role>
+    <type>GuestStar</type>
+    <tmdbid>3713</tmdbid>
+  </actor>
+  <director>Bill Johnson</director>
+  <rating>7.438</rating>
+  <year>2016</year>
+  <imdbid>tt3983524</imdbid>
+  <tvdbid>5280279</tvdbid>
+  <runtime>43</runtime>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <tvrageid>1065742159</tvrageid>
+  <uniqueid type="Imdb">tt3983524</uniqueid>
+  <uniqueid type="Tvdb">5280279</uniqueid>
+  <uniqueid type="TvRage">1065742159</uniqueid>
+  <episode>7</episode>
+  <season>1</season>
+  <aired>2016-01-19</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11012477</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>42</duration>
+        <durationinseconds>2555</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

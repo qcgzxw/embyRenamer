@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[《宿醉2》的故事依然以一场婚礼开始，为庆祝Stu（艾德·赫尔姆斯）与杰米·钟结婚，一帮兄弟们集体移师泰国曼谷，然后在这座人生地不熟亚洲大都市，艾德·赫尔姆斯饰演的Stu惹了麻烦：这位老兄在一次，或者叫又一次喝得酩酊大醉之后搞上了一个泰国mm，结果却发现这是一个人妖！于是第二天，这帮兄弟再次必须拼凑线索，弄清这个宿醉之夜都发生了什么！]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-09-10 08:55:28</dateadded>
+  <title>宿醉2</title>
+  <originaltitle>The Hangover Part II</originaltitle>
+  <actor>
+    <name>Bradley Cooper</name>
+    <role>Phil Wenneck</role>
+    <type>Actor</type>
+    <tmdbid>51329</tmdbid>
+    <imdbid>nm0177896</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Helms</name>
+    <role>Stu Price</role>
+    <type>Actor</type>
+    <tmdbid>27105</tmdbid>
+    <imdbid>nm1159180</imdbid>
+  </actor>
+  <actor>
+    <name>Zach Galifianakis</name>
+    <role>Alan Garner</role>
+    <type>Actor</type>
+    <tmdbid>58225</tmdbid>
+    <imdbid>nm0302108</imdbid>
+  </actor>
+  <actor>
+    <name>Justin Bartha</name>
+    <role>Doug Billings</role>
+    <type>Actor</type>
+    <tmdbid>21180</tmdbid>
+    <imdbid>nm0058581</imdbid>
+  </actor>
+  <actor>
+    <name>Ken Jeong</name>
+    <role>Mr. Chow</role>
+    <type>Actor</type>
+    <tmdbid>83586</tmdbid>
+    <imdbid>nm0421822</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Giamatti</name>
+    <role>Kingsley</role>
+    <type>Actor</type>
+    <tmdbid>13242</tmdbid>
+    <imdbid>nm0316079</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Tyson</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>80757</tmdbid>
+    <imdbid>nm0005512</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Tambor</name>
+    <role>Sid Garner</role>
+    <type>Actor</type>
+    <tmdbid>4175</tmdbid>
+    <imdbid>nm0001787</imdbid>
+  </actor>
+  <actor>
+    <name>Mason Lee</name>
+    <role>Teddy</role>
+    <type>Actor</type>
+    <tmdbid>543138</tmdbid>
+    <imdbid>nm0497853</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Chung</name>
+    <role>Lauren</role>
+    <type>Actor</type>
+    <tmdbid>78324</tmdbid>
+    <imdbid>nm1512166</imdbid>
+  </actor>
+  <actor>
+    <name>Sasha Barrese</name>
+    <role>Tracy</role>
+    <type>Actor</type>
+    <tmdbid>83585</tmdbid>
+    <imdbid>nm0056936</imdbid>
+  </actor>
+  <actor>
+    <name>Gillian Vigman</name>
+    <role>Stephanie</role>
+    <type>Actor</type>
+    <tmdbid>61182</tmdbid>
+    <imdbid>nm0897005</imdbid>
+  </actor>
+  <actor>
+    <name>Aroon Seeboonruang</name>
+    <role>Monk</role>
+    <type>Actor</type>
+    <tmdbid>543139</tmdbid>
+    <imdbid>nm4442296</imdbid>
+  </actor>
+  <actor>
+    <name>Nirut Sirichanya</name>
+    <role>Fohn</role>
+    <type>Actor</type>
+    <tmdbid>116421</tmdbid>
+    <imdbid>nm1070323</imdbid>
+  </actor>
+  <actor>
+    <name>Yasmin Lee</name>
+    <role>Kimmy</role>
+    <type>Actor</type>
+    <tmdbid>543140</tmdbid>
+    <imdbid>nm2112851</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Cassavetes</name>
+    <role>Tattoo Joe</role>
+    <type>Actor</type>
+    <tmdbid>11151</tmdbid>
+    <imdbid>nm0001024</imdbid>
+  </actor>
+  <actor>
+    <name>Sondra Currie</name>
+    <role>Linda Garner</role>
+    <type>Actor</type>
+    <tmdbid>153621</tmdbid>
+    <imdbid>nm0192997</imdbid>
+  </actor>
+  <actor>
+    <name>Bryan Callen</name>
+    <role>Samir</role>
+    <type>Actor</type>
+    <tmdbid>78320</tmdbid>
+    <imdbid>nm0130437</imdbid>
+  </actor>
+  <actor>
+    <name>Brody Stevens</name>
+    <role>Kingsley Guy</role>
+    <type>Actor</type>
+    <tmdbid>142373</tmdbid>
+    <imdbid>nm0828290</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Berry Jr.</name>
+    <role>Vladi</role>
+    <type>Actor</type>
+    <tmdbid>1716</tmdbid>
+    <imdbid>nm1400913</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Howard</name>
+    <role>Nikolai</role>
+    <type>Actor</type>
+    <tmdbid>67206</tmdbid>
+    <imdbid>nm0397110</imdbid>
+  </actor>
+  <actor>
+    <name>Penpak Sirikul</name>
+    <role>Joi</role>
+    <type>Actor</type>
+    <tmdbid>1256326</tmdbid>
+    <imdbid>nm1500517</imdbid>
+  </actor>
+  <actor>
+    <name>Manel Soler</name>
+    <role>Kingsley Guy #2</role>
+    <type>Actor</type>
+    <tmdbid>1358973</tmdbid>
+    <imdbid>nm4474535</imdbid>
+  </actor>
+  <actor>
+    <name>Todd Phillips</name>
+    <role>Mr. Creepy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>57130</tmdbid>
+    <imdbid>nm0680846</imdbid>
+  </actor>
+  <actor>
+    <name>Crystal the Monkey</name>
+    <role>Drug Dealing Monkey (as Crystal)</role>
+    <type>Actor</type>
+    <tmdbid>2978386</tmdbid>
+    <imdbid>nm2640714</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Lee</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>3003802</tmdbid>
+    <imdbid>nm4292233</imdbid>
+  </actor>
+  <director tmdbid="57130" imdbid="nm0680846">Todd Phillips</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ohF5ZO_zOYU</trailer>
+  <rating>6.4</rating>
+  <year>2011</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt1411697</imdbid>
+  <tmdbid>45243</tmdbid>
+  <premiered>2011-05-25</premiered>
+  <releasedate>2011-05-25</releasedate>
+  <criticrating>33</criticrating>
+  <runtime>102</runtime>
+  <country>United States of America</country>
+  <genre>喜剧</genre>
+  <studio>Legendary Pictures</studio>
+  <studio>Living Films</studio>
+  <studio>Green Hat Films</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <set tmdbcolid="86119">
+    <name>宿醉（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">45243</uniqueid>
+  <uniqueid type="Imdb">tt1411697</uniqueid>
+  <id>tt1411697</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10752637</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6109</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

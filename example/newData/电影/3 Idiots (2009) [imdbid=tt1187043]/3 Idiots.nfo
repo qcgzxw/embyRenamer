@@ -1,0 +1,546 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[本片根据印度畅销书作家奇坦·巴哈特（Chetan Bhagat）的处女作小说《五点人》（Five Point Someone）改编而成。法兰、拉杜与兰乔是皇家工程学院的学生，三人共居一室，结为好友。在以严格著称的学院里，兰乔是个非常与众不同的学生，他不死记硬背，甚至还公然顶撞校长“病毒”，质疑他的教学方法。他不仅鼓动法兰与拉杜去勇敢追寻理想，还劝说校长的二女儿碧雅离开满眼铜臭的未婚夫。兰乔的特立独行引起了模范学生“消音器”的不满，他约定十年后再与兰乔一决高下，看哪种生活方式更能取得成功。本片获孟买电影博览奖最佳影片、最佳导演、最佳配角（波曼·伊拉尼）、最佳剧本等六项大奖，并获国际印度电影协会最佳影片、最佳导演、最佳剧情、最佳摄影等十六项大奖。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-01-18 20:12:36</dateadded>
+  <title>三傻大闹宝莱坞</title>
+  <originaltitle>3 Idiots</originaltitle>
+  <actor>
+    <name>Aamir Khan</name>
+    <role>Ranchoddas 'Rancho' Shyamaldas Chanchad / Phunsukh Wangdu</role>
+    <type>Actor</type>
+    <tmdbid>52763</tmdbid>
+    <imdbid>nm0451148</imdbid>
+  </actor>
+  <actor>
+    <name>R. Madhavan</name>
+    <role>Farhan Qureshi</role>
+    <type>Actor</type>
+    <tmdbid>85519</tmdbid>
+    <imdbid>nm0534856</imdbid>
+  </actor>
+  <actor>
+    <name>Sharman Joshi</name>
+    <role>Raju Rastogi</role>
+    <type>Actor</type>
+    <tmdbid>53674</tmdbid>
+    <imdbid>nm0430817</imdbid>
+  </actor>
+  <actor>
+    <name>Kareena Kapoor Khan</name>
+    <role>Pia</role>
+    <type>Actor</type>
+    <tmdbid>37233</tmdbid>
+    <imdbid>nm0004626</imdbid>
+  </actor>
+  <actor>
+    <name>Boman Irani</name>
+    <role>Viru Sahastrabudhhe</role>
+    <type>Actor</type>
+    <tmdbid>35779</tmdbid>
+    <imdbid>nm1224082</imdbid>
+  </actor>
+  <actor>
+    <name>Omi Vaidya</name>
+    <role>Chatur 'Silencer' Ramalingam</role>
+    <type>Actor</type>
+    <tmdbid>169201</tmdbid>
+    <imdbid>nm1437925</imdbid>
+  </actor>
+  <actor>
+    <name>Ali Fazal</name>
+    <role>Joy Lobo</role>
+    <type>Actor</type>
+    <tmdbid>492791</tmdbid>
+    <imdbid>nm3170495</imdbid>
+  </actor>
+  <actor>
+    <name>Mona Singh</name>
+    <role>Mona</role>
+    <type>Actor</type>
+    <tmdbid>99711</tmdbid>
+    <imdbid>nm1587175</imdbid>
+  </actor>
+  <actor>
+    <name>Javed Jaffrey</name>
+    <role>Ranchoddas Shyamaldas Chanchad (as Jaaved Jaaferi)</role>
+    <type>Actor</type>
+    <tmdbid>86086</tmdbid>
+    <imdbid>nm0412917</imdbid>
+  </actor>
+  <actor>
+    <name>Parikshat Sahni</name>
+    <role>Mr. Qureshi (as Pareekshit Sahani)</role>
+    <type>Actor</type>
+    <tmdbid>123317</tmdbid>
+    <imdbid>nm0756378</imdbid>
+  </actor>
+  <actor>
+    <name>Amardeep Jha</name>
+    <role>Mrs. Rastogi</role>
+    <type>Actor</type>
+    <tmdbid>128734</tmdbid>
+    <imdbid>nm1011383</imdbid>
+  </actor>
+  <actor>
+    <name>Jayant Kripalani</name>
+    <role>Campus Interview Panel Head</role>
+    <type>Actor</type>
+    <tmdbid>1325624</tmdbid>
+    <imdbid>nm0471389</imdbid>
+  </actor>
+  <actor>
+    <name>Arun Bali</name>
+    <role>Shamaldas Chanchad (as Aron Baali)</role>
+    <type>Actor</type>
+    <tmdbid>82076</tmdbid>
+    <imdbid>nm0050187</imdbid>
+  </actor>
+  <actor>
+    <name>Achyut Potdar</name>
+    <role>Machine Class Professor</role>
+    <type>Actor</type>
+    <tmdbid>629478</tmdbid>
+    <imdbid>nm0693027</imdbid>
+  </actor>
+  <actor>
+    <name>Aakash Dabhade</name>
+    <role>ICE Student 2</role>
+    <type>Actor</type>
+    <tmdbid>1491432</tmdbid>
+    <imdbid>nm3561962</imdbid>
+  </actor>
+  <actor>
+    <name>Akhil Mishra</name>
+    <role>Librarian Dubey</role>
+    <type>Actor</type>
+    <tmdbid>1241278</tmdbid>
+    <imdbid>nm0592783</imdbid>
+  </actor>
+  <actor>
+    <name>Atul Tiwari</name>
+    <role>Minister in Auditorium</role>
+    <type>Actor</type>
+    <tmdbid>1046499</tmdbid>
+    <imdbid>nm0864605</imdbid>
+  </actor>
+  <actor>
+    <name>Rakesh Sharma</name>
+    <role>Minister at Shyamaldas' Funeral</role>
+    <type>Actor</type>
+    <tmdbid>1491152</tmdbid>
+    <imdbid>nm1595330</imdbid>
+  </actor>
+  <actor>
+    <name>Pitobash Tripathy</name>
+    <role>Junior 1</role>
+    <type>Actor</type>
+    <tmdbid>225163</tmdbid>
+    <imdbid>nm3329873</imdbid>
+  </actor>
+  <actor>
+    <name>Pooja Goswami</name>
+    <role>Air Hostess</role>
+    <type>Actor</type>
+    <tmdbid>2468193</tmdbid>
+  </actor>
+  <actor>
+    <name>R.S. Kodange</name>
+    <role>Doctor at the Airport</role>
+    <type>Actor</type>
+    <tmdbid>2468197</tmdbid>
+  </actor>
+  <actor>
+    <name>Annapurna Kaul</name>
+    <role>Airline Ground Staff 1</role>
+    <type>Actor</type>
+    <tmdbid>2468198</tmdbid>
+  </actor>
+  <actor>
+    <name>Dharmendra Bhurji</name>
+    <role>Airport Cab Driver</role>
+    <type>Actor</type>
+    <tmdbid>2468199</tmdbid>
+  </actor>
+  <actor>
+    <name>Harvinder Singh</name>
+    <role>Mr. Dhillon</role>
+    <type>Actor</type>
+    <tmdbid>2468200</tmdbid>
+  </actor>
+  <actor>
+    <name>Rahul Kumar</name>
+    <role>Millimeter - MM</role>
+    <type>Actor</type>
+    <tmdbid>2468203</tmdbid>
+  </actor>
+  <actor>
+    <name>Mukund Bhatt</name>
+    <role>Mr. Rastogi</role>
+    <type>Actor</type>
+    <tmdbid>2469871</tmdbid>
+  </actor>
+  <actor>
+    <name>Chaitali Bose</name>
+    <role>Kamini 'Kammo' Rastogi</role>
+    <type>Actor</type>
+    <tmdbid>2469872</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivier Lafont</name>
+    <role>Suhas Tandon (as Sanjay Lafont)</role>
+    <type>Actor</type>
+    <tmdbid>2469878</tmdbid>
+  </actor>
+  <actor>
+    <name>Meghna Bhalla</name>
+    <role>Raju's Wife</role>
+    <type>Actor</type>
+    <tmdbid>2469881</tmdbid>
+  </actor>
+  <actor>
+    <name>Praful Kulkarni</name>
+    <role>Doctor Startled by Scooter in Hospital (as Dr. Praful Kulkarni)</role>
+    <type>Actor</type>
+    <tmdbid>2469909</tmdbid>
+  </actor>
+  <actor>
+    <name>Bharat Jha</name>
+    <role>Manager (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1819973</tmdbid>
+  </actor>
+  <actor>
+    <name>Komal Jha</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>1267540</tmdbid>
+  </actor>
+  <actor>
+    <name>Rohitash Gaud</name>
+    <role>Ranchoddas' Servant</role>
+    <type>Actor</type>
+    <tmdbid>123230</tmdbid>
+    <imdbid>nm1514271</imdbid>
+  </actor>
+  <actor>
+    <name>Freny Bhagat</name>
+    <role>Couple at Wedding</role>
+    <type>Actor</type>
+    <tmdbid>2508732</tmdbid>
+  </actor>
+  <actor>
+    <name>Jigmet Dorjey</name>
+    <role>Kid 2 at Rancho's School</role>
+    <type>Actor</type>
+    <tmdbid>2508733</tmdbid>
+  </actor>
+  <actor>
+    <name>Tsanwal Namgyal</name>
+    <role>Kid 1 at Rancho's School</role>
+    <type>Actor</type>
+    <tmdbid>2508734</tmdbid>
+  </actor>
+  <actor>
+    <name>Malvika Singh</name>
+    <role>Mona's Baby</role>
+    <type>Actor</type>
+    <tmdbid>2508735</tmdbid>
+  </actor>
+  <actor>
+    <name>Supriya Shukla</name>
+    <role>Matron in Hospital with Pia</role>
+    <type>Actor</type>
+    <tmdbid>2217420</tmdbid>
+  </actor>
+  <actor>
+    <name>Pundit Prayag Raj</name>
+    <role>Panditji at Pia's Wedding</role>
+    <type>Actor</type>
+    <tmdbid>2508743</tmdbid>
+  </actor>
+  <actor>
+    <name>Sitaram Sharma</name>
+    <role>Manager at Pia's Wedding</role>
+    <type>Actor</type>
+    <tmdbid>2508744</tmdbid>
+  </actor>
+  <actor>
+    <name>Saurabh Agnihotri</name>
+    <role>Housekeeping Boy at Pia's Wedding</role>
+    <type>Actor</type>
+    <tmdbid>2508745</tmdbid>
+  </actor>
+  <actor>
+    <name>Nishi Singh</name>
+    <role>Maid at Pia's House</role>
+    <type>Actor</type>
+    <tmdbid>2508746</tmdbid>
+  </actor>
+  <actor>
+    <name>Suhas Vaidya</name>
+    <role>Campus Interview Panelist 3</role>
+    <type>Actor</type>
+    <tmdbid>2508747</tmdbid>
+  </actor>
+  <actor>
+    <name>Lata Kurdikar</name>
+    <role>Campus Interview Panelist 2 (as Mrs Lata Kurdikar)</role>
+    <type>Actor</type>
+    <tmdbid>2508748</tmdbid>
+  </actor>
+  <actor>
+    <name>Keshav Rae</name>
+    <role>Campus Interview Panelist 1</role>
+    <type>Actor</type>
+    <tmdbid>2508749</tmdbid>
+  </actor>
+  <actor>
+    <name>Insia Lacewalla</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>2508756</tmdbid>
+  </actor>
+  <actor>
+    <name>Kishor Patil</name>
+    <role>Doctor in Ambulance with Raju (as Dr. Kishor Patil)</role>
+    <type>Actor</type>
+    <tmdbid>1113575</tmdbid>
+    <imdbid>nm4557603</imdbid>
+  </actor>
+  <actor>
+    <name>Shankar Sachdev</name>
+    <role>Ambulance Driver</role>
+    <type>Actor</type>
+    <tmdbid>1661765</tmdbid>
+  </actor>
+  <actor>
+    <name>Farida Dadi</name>
+    <role>Mrs. Qureshi</role>
+    <type>Actor</type>
+    <tmdbid>1678464</tmdbid>
+  </actor>
+  <actor>
+    <name>Shoaib Ahmed</name>
+    <role>Chhote</role>
+    <type>Actor</type>
+    <tmdbid>2229211</tmdbid>
+  </actor>
+  <actor>
+    <name>Dushyant Wagh</name>
+    <role>Centimeter</role>
+    <type>Actor</type>
+    <tmdbid>1255530</tmdbid>
+  </actor>
+  <actor>
+    <name>A.S. Duggal</name>
+    <role>Pilot (as Captain A.S. Duggal)</role>
+    <type>Actor</type>
+    <tmdbid>2590150</tmdbid>
+  </actor>
+  <actor>
+    <name>Dilshad Edibam</name>
+    <role>Aunt at Farhan's Birth</role>
+    <type>Actor</type>
+    <tmdbid>2590151</tmdbid>
+  </actor>
+  <actor>
+    <name>Rajeev Ravindranathan</name>
+    <role>Lead Ragging Senior (as Rajeev Ravindranath)</role>
+    <type>Actor</type>
+    <tmdbid>1790262</tmdbid>
+  </actor>
+  <actor>
+    <name>Hitesh Tak</name>
+    <role>Ragging Senior 2</role>
+    <type>Actor</type>
+    <tmdbid>2590152</tmdbid>
+  </actor>
+  <actor>
+    <name>Rajendra Patwardhan</name>
+    <role>Govind</role>
+    <type>Actor</type>
+    <tmdbid>2590153</tmdbid>
+  </actor>
+  <actor>
+    <name>Madhav Vaze</name>
+    <role>Joy's Father</role>
+    <type>Actor</type>
+    <tmdbid>1394126</tmdbid>
+    <imdbid>nm1196817</imdbid>
+  </actor>
+  <actor>
+    <name>Dileep Desai</name>
+    <role>Priest at Joy's Funeral</role>
+    <type>Actor</type>
+    <tmdbid>2590101</tmdbid>
+  </actor>
+  <actor>
+    <name>Raghunathan</name>
+    <role>Professor in Corridor (as Prof. Raghunath)</role>
+    <type>Actor</type>
+    <tmdbid>2590154</tmdbid>
+  </actor>
+  <actor>
+    <name>Vaidyanathan</name>
+    <role>Professor Vaidyanathan (as Prof. Vaidyanathan)</role>
+    <type>Actor</type>
+    <tmdbid>2590155</tmdbid>
+  </actor>
+  <actor>
+    <name>Kumar Veer Singh</name>
+    <role>Waiter at Mona's Wedding</role>
+    <type>Actor</type>
+    <tmdbid>2590156</tmdbid>
+  </actor>
+  <actor>
+    <name>Shailja Dhar</name>
+    <role>Lady at Mona's Wedding (as Shailaja Dhar)</role>
+    <type>Actor</type>
+    <tmdbid>2590157</tmdbid>
+  </actor>
+  <actor>
+    <name>Dinesh Kumar</name>
+    <role>Mona's Husband</role>
+    <type>Actor</type>
+    <tmdbid>2590160</tmdbid>
+  </actor>
+  <actor>
+    <name>Apul Jaisinghani</name>
+    <role>ICE Student 3</role>
+    <type>Actor</type>
+    <tmdbid>2590161</tmdbid>
+  </actor>
+  <actor>
+    <name>Trilok Sadhwani</name>
+    <role>ICE Student 4</role>
+    <type>Actor</type>
+    <tmdbid>2590162</tmdbid>
+  </actor>
+  <actor>
+    <name>Sonu</name>
+    <role>Library Clerk</role>
+    <type>Actor</type>
+    <tmdbid>2590163</tmdbid>
+  </actor>
+  <actor>
+    <name>Jalil Parkar</name>
+    <role>Doctor1 Attending on Raju's Father (as Dr. Jalil Parkar)</role>
+    <type>Actor</type>
+    <tmdbid>2590165</tmdbid>
+  </actor>
+  <actor>
+    <name>Debashish Naha</name>
+    <role>Doctor2 Attending on Raju's Father (as Dr. Debashish Naha)</role>
+    <type>Actor</type>
+    <tmdbid>2590166</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Joseph</name>
+    <role>Exam Hall Professor</role>
+    <type>Actor</type>
+    <tmdbid>2590170</tmdbid>
+  </actor>
+  <actor>
+    <name>Smriti</name>
+    <role>Girl at Notice Board with Chatur</role>
+    <type>Actor</type>
+    <tmdbid>2590171</tmdbid>
+  </actor>
+  <actor>
+    <name>Sanjay Sood</name>
+    <role>Peanut Vendor at Shimla</role>
+    <type>Actor</type>
+    <tmdbid>2590172</tmdbid>
+  </actor>
+  <actor>
+    <name>Dayal Sharma</name>
+    <role>Caretaker at Shyamaldas' House</role>
+    <type>Actor</type>
+    <tmdbid>2590173</tmdbid>
+  </actor>
+  <actor>
+    <name>Elihud George</name>
+    <role>Chote's Teacher (Masterji)</role>
+    <type>Actor</type>
+    <tmdbid>2590174</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarvanna</name>
+    <role>College Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>2590175</tmdbid>
+  </actor>
+  <actor>
+    <name>Tanveer Ahmed</name>
+    <role>Professor in Induction Motor Class</role>
+    <type>Actor</type>
+    <tmdbid>2590176</tmdbid>
+  </actor>
+  <director tmdbid="85675" imdbid="nm0386246">Rajkumar Hirani</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xvszmNXdM4w</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=K0eDlFX9GMc</trailer>
+  <rating>8.4</rating>
+  <year>2009</year>
+  <imdbid>tt1187043</imdbid>
+  <tmdbid>20453</tmdbid>
+  <premiered>2009-12-23</premiered>
+  <releasedate>2009-12-23</releasedate>
+  <criticrating>100</criticrating>
+  <runtime>171</runtime>
+  <country>India</country>
+  <genre>剧情</genre>
+  <genre>喜剧</genre>
+  <studio>Vidhu Vinod Chopra Productions</studio>
+  <studio>Vinod Chopra Films</studio>
+  <uniqueid type="Tmdb">20453</uniqueid>
+  <uniqueid type="Imdb">tt1187043</uniqueid>
+  <id>tt1187043</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10058968</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>171</duration>
+        <durationinseconds>10273</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

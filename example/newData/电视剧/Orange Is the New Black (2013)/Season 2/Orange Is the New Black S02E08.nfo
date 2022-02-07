@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[罗莎早年因抢劫银行被捕，狱中的她患有癌症，但监狱不给她报销手术费用。卡普托准备在温室里种蔬菜，红妈担心买卖被发现只好向歌洛丽娅求助。在海利的争取下，查普曼获得休假，监狱所有的犯人对此妒忌不已。菲格罗亚在狱中发现违禁物品，她责成卡普托彻查此事。费歇尔向卡普托抱怨记过方式不合理，卡普托将其开除。受不了自己被孤立，查普曼欲退休假，海利劝其改变想法，不幸的是查普曼的奶奶在孙女休假前去世。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-09-22 10:03:41</dateadded>
+  <title>大小刚好的盆栽</title>
+  <actor>
+    <name>Taylor Schilling</name>
+    <role>Piper Chapman</role>
+    <type>Actor</type>
+    <tmdbid>221809</tmdbid>
+    <imdbid>nm2279940</imdbid>
+  </actor>
+  <actor>
+    <name>Natasha Lyonne</name>
+    <role>Nicky Nichols</role>
+    <type>Actor</type>
+    <tmdbid>10871</tmdbid>
+    <imdbid>nm0005169</imdbid>
+  </actor>
+  <actor>
+    <name>Uzo Aduba</name>
+    <role>Suzanne 'Crazy Eyes' Warren</role>
+    <type>Actor</type>
+    <tmdbid>1332680</tmdbid>
+    <imdbid>nm2499064</imdbid>
+  </actor>
+  <actor>
+    <name>Danielle Brooks</name>
+    <role>Tasha 'Taystee' Jefferson</role>
+    <type>Actor</type>
+    <tmdbid>1075037</tmdbid>
+    <imdbid>nm5335029</imdbid>
+  </actor>
+  <actor>
+    <name>Taryn Manning</name>
+    <role>Tiffany 'Pennsatucky' Doggett</role>
+    <type>Actor</type>
+    <tmdbid>343</tmdbid>
+    <imdbid>nm0543383</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Mulgrew</name>
+    <role>Galina 'Red' Reznikov</role>
+    <type>Actor</type>
+    <tmdbid>35317</tmdbid>
+    <imdbid>nm0000550</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Harney</name>
+    <role>Sam Healy</role>
+    <type>Actor</type>
+    <tmdbid>1214447</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Biggs</name>
+    <role>Larry Bloom</role>
+    <type>Actor</type>
+    <tmdbid>21593</tmdbid>
+    <imdbid>nm0004755</imdbid>
+  </actor>
+  <actor>
+    <name>Jackie Cruz</name>
+    <role>Marisol 'Flaca' Gonzales</role>
+    <type>GuestStar</type>
+    <tmdbid>1443625</tmdbid>
+    <imdbid>nm3117320</imdbid>
+  </actor>
+  <actor>
+    <name>Selenis Leyva</name>
+    <role>Gloria Mendoza</role>
+    <type>GuestStar</type>
+    <tmdbid>162503</tmdbid>
+    <imdbid>nm0508139</imdbid>
+  </actor>
+  <actor>
+    <name>Adrienne C. Moore</name>
+    <role>Cindy Hayes</role>
+    <type>GuestStar</type>
+    <tmdbid>1443478</tmdbid>
+  </actor>
+  <actor>
+    <name>Dascha Polanco</name>
+    <role>Dayanara Diaz</role>
+    <type>GuestStar</type>
+    <tmdbid>1026947</tmdbid>
+    <imdbid>nm4745601</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Sandow</name>
+    <role>Joe Caputo</role>
+    <type>GuestStar</type>
+    <tmdbid>95519</tmdbid>
+    <imdbid>nm0762191</imdbid>
+  </actor>
+  <actor>
+    <name>Yael Stone</name>
+    <role>Lorna Morello</role>
+    <type>GuestStar</type>
+    <tmdbid>1028560</tmdbid>
+    <imdbid>nm0832227</imdbid>
+  </actor>
+  <actor>
+    <name>Lorraine Toussaint</name>
+    <role>Yvonne 'Vee' Parker</role>
+    <type>GuestStar</type>
+    <tmdbid>81726</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Konigsberg</name>
+    <role>Yusef</role>
+    <type>GuestStar</type>
+    <tmdbid>1423490</tmdbid>
+    <imdbid>nm2107758</imdbid>
+  </actor>
+  <actor>
+    <name>Edvin Ortega</name>
+    <role>Don</role>
+    <type>GuestStar</type>
+    <tmdbid>1559865</tmdbid>
+  </actor>
+  <actor>
+    <name>Andhy Méndez</name>
+    <role>Andy</role>
+    <type>GuestStar</type>
+    <tmdbid>2406126</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfredo de Quesada</name>
+    <role>Marco</role>
+    <type>GuestStar</type>
+    <tmdbid>172187</tmdbid>
+  </actor>
+  <actor>
+    <name>Abby C. Smith</name>
+    <role>Receptionist</role>
+    <type>GuestStar</type>
+    <tmdbid>2473352</tmdbid>
+  </actor>
+  <actor>
+    <name>Dena Tyler</name>
+    <role>Nurse</role>
+    <type>GuestStar</type>
+    <tmdbid>1931576</tmdbid>
+  </actor>
+  <actor>
+    <name>Shaleeni Ranchhod</name>
+    <role>Inmate</role>
+    <type>GuestStar</type>
+    <tmdbid>2510670</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Andujar</name>
+    <role>Young Rosa</role>
+    <type>GuestStar</type>
+    <tmdbid>109562</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan R. Rodriguez</name>
+    <role>Gallego</role>
+    <type>GuestStar</type>
+    <tmdbid>1447860</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt McGorry</name>
+    <role>John Bennett</role>
+    <type>GuestStar</type>
+    <tmdbid>979843</tmdbid>
+  </actor>
+  <actor>
+    <name>Yvette Freeman</name>
+    <role>Irma</role>
+    <type>GuestStar</type>
+    <tmdbid>167146</tmdbid>
+  </actor>
+  <actor>
+    <name>Barbara Rosenblat</name>
+    <role>Miss Rosa Cisneros</role>
+    <type>GuestStar</type>
+    <tmdbid>1353187</tmdbid>
+  </actor>
+  <actor>
+    <name>Germar Terrell Gardner</name>
+    <role>Charles Ford</role>
+    <type>GuestStar</type>
+    <tmdbid>2555241</tmdbid>
+  </actor>
+  <actor>
+    <name>Hamilton Clancy</name>
+    <role>CO Kowalski</role>
+    <type>GuestStar</type>
+    <tmdbid>176777</tmdbid>
+    <imdbid>nm1750388</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Rodriguez</name>
+    <role>Aleida Diaz</role>
+    <type>GuestStar</type>
+    <tmdbid>65421</tmdbid>
+  </actor>
+  <actor>
+    <name>Judith Roberts</name>
+    <role>Taslitz</role>
+    <type>GuestStar</type>
+    <tmdbid>14797</tmdbid>
+  </actor>
+  <actor>
+    <name>Beth Fowler</name>
+    <role>Sister Jane Ingalls</role>
+    <type>GuestStar</type>
+    <tmdbid>171182</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Pimentel</name>
+    <role>Maria Ruiz</role>
+    <type>GuestStar</type>
+    <tmdbid>171940</tmdbid>
+    <imdbid>nm1478791</imdbid>
+  </actor>
+  <actor>
+    <name>Jes Davis</name>
+    <role>Inmate (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>3078885</tmdbid>
+  </actor>
+  <actor>
+    <name>Samira Wiley</name>
+    <role>Poussey Washington</role>
+    <type>GuestStar</type>
+    <tmdbid>1034197</tmdbid>
+    <imdbid>nm4148126</imdbid>
+  </actor>
+  <actor>
+    <name>Angela Palmer-Haibach</name>
+    <role>Inmate (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>1910796</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Gómez</name>
+    <role>Blanca Flores</role>
+    <type>GuestStar</type>
+    <tmdbid>1443612</tmdbid>
+  </actor>
+  <actor>
+    <name>Kimiko Glenn</name>
+    <role>Brook Soso</role>
+    <type>GuestStar</type>
+    <tmdbid>1443708</tmdbid>
+    <imdbid>nm4733752</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Denbo</name>
+    <role>Shelly Ginsberg</role>
+    <type>GuestStar</type>
+    <tmdbid>1219121</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Myles</name>
+    <role>Leanne Taylor</role>
+    <type>GuestStar</type>
+    <tmdbid>1333708</tmdbid>
+  </actor>
+  <actor>
+    <name>Lin Tucci</name>
+    <role>Anita DeMarco</role>
+    <type>GuestStar</type>
+    <tmdbid>955883</tmdbid>
+  </actor>
+  <actor>
+    <name>Julie Lake</name>
+    <role>Angie Rice</role>
+    <type>GuestStar</type>
+    <tmdbid>1443714</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Peters</name>
+    <role>Joel Luschek</role>
+    <type>GuestStar</type>
+    <tmdbid>1448945</tmdbid>
+  </actor>
+  <actor>
+    <name>Dale Soules</name>
+    <role>Frieda Berlin</role>
+    <type>GuestStar</type>
+    <tmdbid>1102500</tmdbid>
+  </actor>
+  <actor>
+    <name>Deborah Rush</name>
+    <role>Carol Chapman</role>
+    <type>GuestStar</type>
+    <tmdbid>44830</tmdbid>
+  </actor>
+  <actor>
+    <name>Laverne Cox</name>
+    <role>Sophia Burset</role>
+    <type>GuestStar</type>
+    <tmdbid>1298360</tmdbid>
+  </actor>
+  <actor>
+    <name>Alysia Reiner</name>
+    <role>Natalie Figueroa</role>
+    <type>GuestStar</type>
+    <tmdbid>109740</tmdbid>
+  </actor>
+  <actor>
+    <name>Catherine Curtin</name>
+    <role>Wanda Bell</role>
+    <type>GuestStar</type>
+    <tmdbid>205808</tmdbid>
+  </actor>
+  <actor>
+    <name>Tamara Torres</name>
+    <role>Weeping Woman</role>
+    <type>GuestStar</type>
+    <tmdbid>176817</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren Lapkus</name>
+    <role>Susan Fischer</role>
+    <type>GuestStar</type>
+    <tmdbid>591834</tmdbid>
+    <imdbid>nm1944055</imdbid>
+  </actor>
+  <actor>
+    <name>Pablo Schreiber</name>
+    <role>George 'Pornstache' Mendez</role>
+    <type>GuestStar</type>
+    <tmdbid>59254</tmdbid>
+  </actor>
+  <actor>
+    <name>Thelma O'Leary</name>
+    <role>Prison Inmate (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>2749638</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Garland</name>
+    <role>Scott O'Neill</role>
+    <type>GuestStar</type>
+    <tmdbid>88550</tmdbid>
+    <imdbid>nm0307534</imdbid>
+  </actor>
+  <director>Daisy von Scherler Mayer</director>
+  <rating>8.25</rating>
+  <year>2014</year>
+  <imdbid>tt3262418</imdbid>
+  <tvdbid>4799307</tvdbid>
+  <runtime>57</runtime>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt3262418</uniqueid>
+  <uniqueid type="Tvdb">4799307</uniqueid>
+  <episode>8</episode>
+  <season>2</season>
+  <aired>2014-06-06</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11668756</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>57</duration>
+        <durationinseconds>3439</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

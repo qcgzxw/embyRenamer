@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[本片讲述了留守少年阿娟和好友阿猫、阿狗在退役狮王咸鱼强的培训下参加舞狮比赛，经过重重磨砺，从病猫变成雄狮的成长故事。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-02-05 18:16:38</dateadded>
+  <title>雄狮少年</title>
+  <originaltitle>雄狮少年</originaltitle>
+  <actor>
+    <name>Xin Li</name>
+    <type>Actor</type>
+    <tmdbid>3411867</tmdbid>
+  </actor>
+  <actor>
+    <name>Hao Guo</name>
+    <type>Actor</type>
+    <tmdbid>3411868</tmdbid>
+  </actor>
+  <actor>
+    <name>Meng Li</name>
+    <type>Actor</type>
+    <tmdbid>3411869</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiasi Li</name>
+    <type>Actor</type>
+    <tmdbid>3411870</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhuangzhuang Cai</name>
+    <type>Actor</type>
+    <tmdbid>3411871</tmdbid>
+  </actor>
+  <actor>
+    <name>Yexiong Chen</name>
+    <type>Actor</type>
+    <tmdbid>3411872</tmdbid>
+  </actor>
+  <director tmdbid="2163660">Sun Haipeng</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yWPx15h6Y6s</trailer>
+  <rating>7.6</rating>
+  <year>2021</year>
+  <imdbid>tt16345484</imdbid>
+  <tmdbid>839803</tmdbid>
+  <premiered>2021-12-17</premiered>
+  <releasedate>2021-12-17</releasedate>
+  <runtime>104</runtime>
+  <country>China</country>
+  <genre>动画</genre>
+  <studio>Yi Animation</studio>
+  <uniqueid type="Tmdb">839803</uniqueid>
+  <uniqueid type="Imdb">tt16345484</uniqueid>
+  <id>tt16345484</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>10574232</bitrate>
+        <width>3840</width>
+        <height>1608</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6240</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

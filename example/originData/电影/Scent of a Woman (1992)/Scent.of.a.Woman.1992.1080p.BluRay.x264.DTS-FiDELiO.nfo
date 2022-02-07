@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[查理（克里斯•奥唐纳 Chris O'Donnell 饰）是一个普通的中学生，他因为见证着一件恶作剧但又不想出卖朋友，于是面临着一道艰难的选择题——要么坦白，要么被学校勒退。而史法兰（阿尔•帕西诺 Al Pacino 饰）是一个退伍军官，因为意外失明，人生从顶点的辉煌滑落谷底。自从两人的人生有了交集，命运的转折慢慢清晰。史法兰打算结束失去了意义的生活，于是在查理的陪伴下，尽情享受着人生最后一趟出行。他吃最美味的佳肴，买光鲜的汽车，在狭窄的街道上飚车，住在豪华的套房里，跟随陌生女子的袅袅香水味，跳一段优雅性感的探戈……极乐的疯狂后，他拿枪对准了自己的头颅。然而，查理声嘶力竭的劝阻改变了一切，曙光亦渐渐在这个老人心中重新升起，二人情深如父子。史法兰在学校礼堂激昂演说，挽救了查理的前途，讽刺了学校的伪善。二人在互相鼓舞中得到重生。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-26 11:00:43</dateadded>
+  <title>闻香识女人</title>
+  <originaltitle>Scent of a Woman</originaltitle>
+  <actor>
+    <name>Al Pacino</name>
+    <role>Lieutenant Colonel Frank Slade</role>
+    <type>Actor</type>
+    <tmdbid>1158</tmdbid>
+    <imdbid>nm0000199</imdbid>
+  </actor>
+  <actor>
+    <name>Chris O'Donnell</name>
+    <role>Charlie Simms</role>
+    <type>Actor</type>
+    <tmdbid>5577</tmdbid>
+    <imdbid>nm0000563</imdbid>
+  </actor>
+  <actor>
+    <name>James Rebhorn</name>
+    <role>Mr. Trask</role>
+    <type>Actor</type>
+    <tmdbid>8986</tmdbid>
+    <imdbid>nm0714310</imdbid>
+  </actor>
+  <actor>
+    <name>Gabrielle Anwar</name>
+    <role>Donna</role>
+    <type>Actor</type>
+    <tmdbid>5503</tmdbid>
+    <imdbid>nm0000270</imdbid>
+  </actor>
+  <actor>
+    <name>Philip Seymour Hoffman</name>
+    <role>George Willis, Jr.</role>
+    <type>Actor</type>
+    <tmdbid>1233</tmdbid>
+    <imdbid>nm0000450</imdbid>
+  </actor>
+  <actor>
+    <name>Bradley Whitford</name>
+    <role>Randy</role>
+    <type>Actor</type>
+    <tmdbid>11367</tmdbid>
+    <imdbid>nm0925966</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Venture</name>
+    <role>W.R. Slade</role>
+    <type>Actor</type>
+    <tmdbid>88748</tmdbid>
+    <imdbid>nm0893390</imdbid>
+  </actor>
+  <actor>
+    <name>June Squibb</name>
+    <role>Mrs. Hunsaker</role>
+    <type>Actor</type>
+    <tmdbid>35515</tmdbid>
+    <imdbid>nm0820053</imdbid>
+  </actor>
+  <actor>
+    <name>Frances Conroy</name>
+    <role>Christine Downes</role>
+    <type>Actor</type>
+    <tmdbid>4432</tmdbid>
+    <imdbid>nm0175814</imdbid>
+  </actor>
+  <actor>
+    <name>Rochelle Oliver</name>
+    <role>Gretchen</role>
+    <type>Actor</type>
+    <tmdbid>571251</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Riis Farrell</name>
+    <role>Garry</role>
+    <type>Actor</type>
+    <tmdbid>60018</tmdbid>
+    <imdbid>nm0268356</imdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Sadler</name>
+    <role>Harry Havemeyer</role>
+    <type>Actor</type>
+    <tmdbid>50402</tmdbid>
+    <imdbid>nm0755556</imdbid>
+  </actor>
+  <actor>
+    <name>Todd Louiso</name>
+    <role>Trent Potter</role>
+    <type>Actor</type>
+    <tmdbid>3230</tmdbid>
+    <imdbid>nm0521974</imdbid>
+  </actor>
+  <actor>
+    <name>Gene Canfield</name>
+    <role>Manny</role>
+    <type>Actor</type>
+    <tmdbid>21382</tmdbid>
+    <imdbid>nm0133932</imdbid>
+  </actor>
+  <actor>
+    <name>Ron Eldard</name>
+    <role>Officer Gore</role>
+    <type>Actor</type>
+    <tmdbid>12260</tmdbid>
+    <imdbid>nm0253035</imdbid>
+  </actor>
+  <actor>
+    <name>Sally Murphy</name>
+    <role>Karen Rossi</role>
+    <type>Actor</type>
+    <tmdbid>164077</tmdbid>
+    <imdbid>nm0614684</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Santoro</name>
+    <role>Donny Rossi</role>
+    <type>Actor</type>
+    <tmdbid>149995</tmdbid>
+    <imdbid>nm0763913</imdbid>
+  </actor>
+  <actor>
+    <name>Anh Duong</name>
+    <role>Sofia</role>
+    <type>Actor</type>
+    <tmdbid>1137641</tmdbid>
+    <imdbid>nm0243117</imdbid>
+  </actor>
+  <actor>
+    <name>Leonard Gaines</name>
+    <role>Freddie Bisco</role>
+    <type>Actor</type>
+    <tmdbid>16540</tmdbid>
+    <imdbid>nm0301334</imdbid>
+  </actor>
+  <actor>
+    <name>David Lansbury</name>
+    <role>Michael</role>
+    <type>Actor</type>
+    <tmdbid>80991</tmdbid>
+    <imdbid>nm0487050</imdbid>
+  </actor>
+  <actor>
+    <name>Baxter Harris</name>
+    <role>George Willis, Sr.</role>
+    <type>Actor</type>
+    <tmdbid>170921</tmdbid>
+    <imdbid>nm0364463</imdbid>
+  </actor>
+  <actor>
+    <name>Francie Swift</name>
+    <role>Flight Attendant</role>
+    <type>Actor</type>
+    <tmdbid>118043</tmdbid>
+    <imdbid>nm0842587</imdbid>
+  </actor>
+  <actor>
+    <name>William Beckwith</name>
+    <role>Oak Room Maitre D'</role>
+    <type>Actor</type>
+    <tmdbid>98654</tmdbid>
+    <imdbid>nm0065894</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Carew</name>
+    <role>Bootblack</role>
+    <type>Actor</type>
+    <tmdbid>103205</tmdbid>
+    <imdbid>nm0136878</imdbid>
+  </actor>
+  <actor>
+    <name>Dan Gifford</name>
+    <role>Man in Hotel Lobby (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1235841</tmdbid>
+    <imdbid>nm0317516</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Mulcahy</name>
+    <role>Oak Room Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>86313</tmdbid>
+    <imdbid>nm0611673</imdbid>
+  </actor>
+  <actor>
+    <name>Margaret Eginton</name>
+    <role>Gail</role>
+    <type>Actor</type>
+    <tmdbid>1800161</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Smith</name>
+    <role>Jimmy Jameson</role>
+    <type>Actor</type>
+    <tmdbid>1800168</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Palmas</name>
+    <role>Bellhop</role>
+    <type>Actor</type>
+    <tmdbid>1800170</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Simon</name>
+    <role>Oak Room Waiter</role>
+    <type>Actor</type>
+    <tmdbid>1800172</tmdbid>
+  </actor>
+  <actor>
+    <name>Mansoor Najee-ullah</name>
+    <role>Skycap</role>
+    <type>Actor</type>
+    <tmdbid>1560235</tmdbid>
+    <imdbid>nm4525965</imdbid>
+  </actor>
+  <actor>
+    <name>J.T. Cromwell</name>
+    <role>Ballroom Waiter</role>
+    <type>Actor</type>
+    <tmdbid>1800174</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Stocker</name>
+    <role>Doorman</role>
+    <type>Actor</type>
+    <tmdbid>1800176</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Lisenco</name>
+    <role>Cab Driver</role>
+    <type>Actor</type>
+    <tmdbid>1800177</tmdbid>
+  </actor>
+  <actor>
+    <name>Divina Cook</name>
+    <role>Night Maid</role>
+    <type>Actor</type>
+    <tmdbid>1800178</tmdbid>
+    <imdbid>nm0177011</imdbid>
+  </actor>
+  <actor>
+    <name>Russell Gibson</name>
+    <role>Barber</role>
+    <type>Actor</type>
+    <tmdbid>1800179</tmdbid>
+    <imdbid>nm1154244</imdbid>
+  </actor>
+  <actor>
+    <name>Carlo Giuliano</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>1800180</tmdbid>
+  </actor>
+  <actor>
+    <name>George Grafas</name>
+    <role>Waldorf Guest</role>
+    <type>Actor</type>
+    <tmdbid>1800181</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke L. Hansen</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>1800182</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Reid Schroeder</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>1800183</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucy Smith</name>
+    <role>Airport Traveler</role>
+    <type>Actor</type>
+    <tmdbid>1800184</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Zimmerman</name>
+    <role>Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1800185</tmdbid>
+  </actor>
+  <director tmdbid="769" imdbid="nm0000976">Martin Brest</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3GUvsJc3vvE</trailer>
+  <rating>8</rating>
+  <year>1992</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0105323</imdbid>
+  <tmdbid>9475</tmdbid>
+  <premiered>1992-12-23</premiered>
+  <releasedate>1992-12-23</releasedate>
+  <criticrating>89</criticrating>
+  <runtime>156</runtime>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <studio>Universal Pictures</studio>
+  <studio>City Light Films</studio>
+  <uniqueid type="Tmdb">9475</uniqueid>
+  <uniqueid type="Imdb">tt0105323</uniqueid>
+  <id>tt0105323</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>12240575</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>156</duration>
+        <durationinseconds>9384</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

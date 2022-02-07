@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[他不相信，不相信这个世界上有鬼，不相信人死后会有灵魂，不相信上帝……他只相信自己双眼看到的一切，眼见为实，眼睛是鉴别真伪的最有力武器。他是恐怖小说家迈克·安瑟林，在文学界积累的名气则来自于他的作品中对一系列恐怖事件客观而中肯的剖析与见解。最近小说界流行着这样一个约定俗成的风向标：只要这本小说是对一个闹鬼的房间或墓地进行不负责任的胡说八道，肯定畅销，因为这种超出正常范围的灵异事件，往往能够满足读者永无止境的猎奇心理。迈克最近也在忙叨着一本这种类型的恐怖小说，然而苦于没有供参考的实例，迈克总感觉自己的故事中缺乏相应的灵魂。所以在惊闻发生在纽约海豚酒店的闹鬼事件之后，迈克迅速收拾行囊，登记入住到酒店里，不顾大堂经理奥林先生的警告，硬是住进了那间据说被鬼魂霸占了的1408室，成了这个房间许多年来的第一位客人……其实迈克心里自有他的如意算盘，根据以往的经验，他认为房间的闹鬼事件是经理伙同员工共同捏造出来的假消息，目的很简单，想通过这种方法吸引更多的客人慕名前来，他决定借助发生在这个房间的事件为自己小说结尾的一章提供素材，同时还可以揭发海豚酒店的卑鄙行为，让他们功亏一篑。然而这一次，迈克却彻底地想错了，住在1408室的几个晚上成了他一辈子都挥之不去的梦魇，让他从一个无神论者变成了彻头彻尾的信徒，每一个晚上他都在与恶魔不停地缠斗——对于迈克来说，现在最重要的不是创作出一部畅销小说，而是如何活命。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-10-18 14:53:48</dateadded>
+  <title>幻影凶间</title>
+  <originaltitle>1408</originaltitle>
+  <actor>
+    <name>John Cusack</name>
+    <role>Mike Enslin</role>
+    <type>Actor</type>
+    <tmdbid>3036</tmdbid>
+    <imdbid>nm0000131</imdbid>
+  </actor>
+  <actor>
+    <name>Samuel L. Jackson</name>
+    <role>Gerald Olin</role>
+    <type>Actor</type>
+    <tmdbid>2231</tmdbid>
+    <imdbid>nm0000168</imdbid>
+  </actor>
+  <actor>
+    <name>Mary McCormack</name>
+    <role>Lilly Enslin</role>
+    <type>Actor</type>
+    <tmdbid>1980</tmdbid>
+    <imdbid>nm0005203</imdbid>
+  </actor>
+  <actor>
+    <name>Jasmine Jessica Anthony</name>
+    <role>Katie</role>
+    <type>Actor</type>
+    <tmdbid>29612</tmdbid>
+    <imdbid>nm1278365</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Shalhoub</name>
+    <role>Sam Farrell</role>
+    <type>Actor</type>
+    <tmdbid>4252</tmdbid>
+    <imdbid>nm0001724</imdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Silber</name>
+    <role>Young Woman at Bookstore</role>
+    <type>Actor</type>
+    <tmdbid>29613</tmdbid>
+    <imdbid>nm2680682</imdbid>
+  </actor>
+  <actor>
+    <name>Noah Lee Margetts</name>
+    <role>Bellboy</role>
+    <type>Actor</type>
+    <tmdbid>29615</tmdbid>
+    <imdbid>nm0546664</imdbid>
+  </actor>
+  <actor>
+    <name>William Armstrong</name>
+    <role>Clay</role>
+    <type>Actor</type>
+    <tmdbid>29616</tmdbid>
+    <imdbid>nm0035628</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Birchard</name>
+    <role>Mr. Innkeeper</role>
+    <type>Actor</type>
+    <tmdbid>29617</tmdbid>
+    <imdbid>nm0083307</imdbid>
+  </actor>
+  <actor>
+    <name>Margot Leicester</name>
+    <role>Mrs. Innkeeper</role>
+    <type>Actor</type>
+    <tmdbid>192933</tmdbid>
+    <imdbid>nm0500065</imdbid>
+  </actor>
+  <actor>
+    <name>Angel Oquendo</name>
+    <role>Taxi Cab Driver</role>
+    <type>Actor</type>
+    <tmdbid>60573</tmdbid>
+    <imdbid>nm1665358</imdbid>
+  </actor>
+  <actor>
+    <name>Walter Lewis</name>
+    <role>Bookstore Cashier</role>
+    <type>Actor</type>
+    <tmdbid>1781739</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Meyers</name>
+    <role>Man #1 at Bookstore</role>
+    <type>Actor</type>
+    <tmdbid>933883</tmdbid>
+    <imdbid>nm0583534</imdbid>
+  </actor>
+  <actor>
+    <name>Holly Hayes</name>
+    <role>Lady at Bookstore</role>
+    <type>Actor</type>
+    <tmdbid>1781741</tmdbid>
+  </actor>
+  <actor>
+    <name>Johann Urb</name>
+    <role>Surfer Dude</role>
+    <type>Actor</type>
+    <tmdbid>101017</tmdbid>
+    <imdbid>nm1053380</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew-Lee Potts</name>
+    <role>Mailbox Guy</role>
+    <type>Actor</type>
+    <tmdbid>35863</tmdbid>
+    <imdbid>nm0498517</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Thomson</name>
+    <role>Desk Clerk</role>
+    <type>Actor</type>
+    <tmdbid>96699</tmdbid>
+    <imdbid>nm0861037</imdbid>
+  </actor>
+  <actor>
+    <name>Drew Powell</name>
+    <role>Assistant Hotel Manager</role>
+    <type>Actor</type>
+    <tmdbid>173995</tmdbid>
+    <imdbid>nm0694100</imdbid>
+  </actor>
+  <actor>
+    <name>Isiah Whitlock Jr.</name>
+    <role>Hotel Engineer</role>
+    <type>Actor</type>
+    <tmdbid>17490</tmdbid>
+    <imdbid>nm0926086</imdbid>
+  </actor>
+  <actor>
+    <name>Benny Urquidez</name>
+    <role>Claw Hammer Maniac</role>
+    <type>Actor</type>
+    <tmdbid>87841</tmdbid>
+    <imdbid>nm0882054</imdbid>
+  </actor>
+  <actor>
+    <name>Len Cariou</name>
+    <role>Mike's Father</role>
+    <type>Actor</type>
+    <tmdbid>41247</tmdbid>
+    <imdbid>nm0137230</imdbid>
+  </actor>
+  <actor>
+    <name>Ray Nicholas</name>
+    <role>Factory Owner</role>
+    <type>Actor</type>
+    <tmdbid>123503</tmdbid>
+    <imdbid>nm0629425</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Kasey</name>
+    <role>Kevin O'Malley</role>
+    <type>Actor</type>
+    <tmdbid>100085</tmdbid>
+    <imdbid>nm1208004</imdbid>
+  </actor>
+  <actor>
+    <name>George Cottle</name>
+    <role>Mailbox Worker</role>
+    <type>Actor</type>
+    <tmdbid>1081074</tmdbid>
+    <imdbid>nm0183037</imdbid>
+  </actor>
+  <actor>
+    <name>William Willoughby</name>
+    <role>Mailbox Worker</role>
+    <type>Actor</type>
+    <tmdbid>1766731</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas A. McMahon</name>
+    <role>Cop #1</role>
+    <type>Actor</type>
+    <tmdbid>150933</tmdbid>
+    <imdbid>nm0573087</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Dobson</name>
+    <role>Priest</role>
+    <type>Actor</type>
+    <tmdbid>105595</tmdbid>
+    <imdbid>nm0004878</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Conboy</name>
+    <role>Man Outside Hotel Fire (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1202712</tmdbid>
+    <imdbid>nm1502654</imdbid>
+  </actor>
+  <actor>
+    <name>Georgie Lee-Robinson</name>
+    <role>Bookstore Assistant (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1781758</tmdbid>
+  </actor>
+  <actor>
+    <name>Bernadette Lords</name>
+    <role>Hotel Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1246221</tmdbid>
+    <imdbid>nm2335221</imdbid>
+  </actor>
+  <actor>
+    <name>Rob McGillivray</name>
+    <role>Bellboy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1385478</tmdbid>
+    <imdbid>nm3316483</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Walsh</name>
+    <role>Mike Enslin's Ex-wife (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>61114</tmdbid>
+    <imdbid>nm0005532</imdbid>
+  </actor>
+  <director tmdbid="29605" imdbid="nm0405632">Mikael Håfström</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WIASqPZqnhs</trailer>
+  <rating>6.8</rating>
+  <year>2007</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt0450385</imdbid>
+  <tmdbid>3021</tmdbid>
+  <premiered>2007-06-22</premiered>
+  <releasedate>2007-06-22</releasedate>
+  <criticrating>79</criticrating>
+  <runtime>112</runtime>
+  <country>United States of America</country>
+  <genre>恐怖</genre>
+  <studio>Di Bonaventura Pictures</studio>
+  <studio>Dimension Films</studio>
+  <studio>The Weinstein Company</studio>
+  <uniqueid type="Imdb">tt0450385</uniqueid>
+  <uniqueid type="Tmdb">3021</uniqueid>
+  <id>tt0450385</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10118422</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>112</duration>
+        <durationinseconds>6746</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

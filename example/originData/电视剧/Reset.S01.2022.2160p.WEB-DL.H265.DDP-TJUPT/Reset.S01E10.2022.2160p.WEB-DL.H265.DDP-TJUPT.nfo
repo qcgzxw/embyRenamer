@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[警局中公交上遇难乘客地家属们痛哭流涕地坐在休息室中，卢笛地父亲看着手机忽然冲出去说着自己的儿子没有死。张成上前来，卢笛父亲告诉他儿子的电子设备一直和自己的手机绑定，他看到平板从动漫城出来后一直在移动。这一情况，引起了张成的警觉。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-02-05 15:31:57</dateadded>
+  <title>公交司机竟然是爆炸案同伙</title>
+  <actor>
+    <name>Bai Jingting</name>
+    <role>Xiao Heyun</role>
+    <type>Actor</type>
+    <tmdbid>1672869</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhao Jinmai</name>
+    <role>Li Shiqing</role>
+    <type>Actor</type>
+    <tmdbid>2113005</tmdbid>
+  </actor>
+  <actor>
+    <name>Huang Jue</name>
+    <role>Wang Xingde</role>
+    <type>Actor</type>
+    <tmdbid>106581</tmdbid>
+    <imdbid>nm1645275</imdbid>
+  </actor>
+  <actor>
+    <name>Liu Dan</name>
+    <role>Tao Yinghong</role>
+    <type>Actor</type>
+    <tmdbid>1487092</tmdbid>
+  </actor>
+  <actor>
+    <name>Song Jiateng</name>
+    <role>Key Man</role>
+    <type>Actor</type>
+    <tmdbid>3238981</tmdbid>
+  </actor>
+  <actor>
+    <name>Zeng Kelang</name>
+    <role>Lu Di</role>
+    <type>Actor</type>
+    <tmdbid>3161422</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Xiqian</name>
+    <role>Ma Guoqiang</role>
+    <type>Actor</type>
+    <tmdbid>1910102</tmdbid>
+  </actor>
+  <actor>
+    <name>Ma Lan</name>
+    <role>Medicine Woman</role>
+    <type>Actor</type>
+    <tmdbid>3094378</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiao Peng</name>
+    <role>Jiao Xiangrong</role>
+    <type>Actor</type>
+    <tmdbid>3312752</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Gan</name>
+    <role>Jiang Feng</role>
+    <type>Actor</type>
+    <tmdbid>3238976</tmdbid>
+  </actor>
+  <actor>
+    <name>Fan Shuaiqi</name>
+    <role>Ye Qian</role>
+    <type>Actor</type>
+    <tmdbid>2834895</tmdbid>
+  </actor>
+  <actor>
+    <name>Ju Bozhan</name>
+    <role>Xiao Liu</role>
+    <type>Actor</type>
+    <tmdbid>2317990</tmdbid>
+  </actor>
+  <actor>
+    <name>Yu Peishan</name>
+    <role>Yu Lei</role>
+    <type>Actor</type>
+    <tmdbid>3381361</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Yijun</name>
+    <role>Zhang Cheng</role>
+    <type>Actor</type>
+    <tmdbid>1971602</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Tao</name>
+    <role>Du Ju</role>
+    <type>Actor</type>
+    <tmdbid>1236264</tmdbid>
+  </actor>
+  <rating>0</rating>
+  <year>2022</year>
+  <runtime>44</runtime>
+  <episode>10</episode>
+  <season>1</season>
+  <aired>2022-01-18</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>1962864</bitrate>
+        <width>3840</width>
+        <height>1634</height>
+        <aspect>1920:817</aspect>
+        <aspectratio>1920:817</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>43</duration>
+        <durationinseconds>2625</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <bitrate>256000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

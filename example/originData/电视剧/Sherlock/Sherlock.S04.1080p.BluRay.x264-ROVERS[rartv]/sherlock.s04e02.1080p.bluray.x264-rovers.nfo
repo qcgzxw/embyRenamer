@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[富翁史密斯为下属们注射记忆阻化剂来让他们忘记听到的内容，史密斯女儿费丝因为隐约记起父亲想要杀人，她为此求助夏洛克。夏洛克在推特上公开称史密斯是连环杀手，史密斯派人去接夏洛克和约翰参观医院，夏洛克发现费丝根本不是他见到的那个女人。夏洛克因过量嗑药被留院治疗，而约翰在夏洛克家看完玛丽留下的光盘后预感夏洛克有危险。就在史密斯要杀害夏洛克时，约翰出现救了好友。约翰来到理疗师家治疗，但这一次理疗师却卸下伪装，原来她就是去见夏洛克的假费丝，理疗师的真正身份吓到了约翰。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-24 09:51:19</dateadded>
+  <title>说谎的侦探</title>
+  <actor>
+    <name>Benedict Cumberbatch</name>
+    <role>Sherlock Holmes</role>
+    <type>Actor</type>
+    <tmdbid>71580</tmdbid>
+    <imdbid>nm1212722</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Freeman</name>
+    <role>John Watson</role>
+    <type>Actor</type>
+    <tmdbid>7060</tmdbid>
+    <imdbid>nm0293509</imdbid>
+  </actor>
+  <actor>
+    <name>Una Stubbs</name>
+    <role>Mrs. Hudson</role>
+    <type>Actor</type>
+    <tmdbid>1218303</tmdbid>
+    <imdbid>nm0835939</imdbid>
+  </actor>
+  <actor>
+    <name>Rupert Graves</name>
+    <role>DI Greg Lestrade</role>
+    <type>Actor</type>
+    <tmdbid>11278</tmdbid>
+    <imdbid>nm0001291</imdbid>
+  </actor>
+  <actor>
+    <name>Louise Brealey</name>
+    <role>Molly Hooper</role>
+    <type>Actor</type>
+    <tmdbid>1244469</tmdbid>
+    <imdbid>nm1154764</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Gatiss</name>
+    <role>Mycroft Holmes</role>
+    <type>Actor</type>
+    <tmdbid>34546</tmdbid>
+    <imdbid>nm0309693</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Scott</name>
+    <role>Jim Moriarty</role>
+    <type>Actor</type>
+    <tmdbid>125660</tmdbid>
+    <imdbid>nm0778831</imdbid>
+  </actor>
+  <actor>
+    <name>Amanda Abbington</name>
+    <role>Mary Morstan</role>
+    <type>Actor</type>
+    <tmdbid>199522</tmdbid>
+    <imdbid>nm0007893</imdbid>
+  </actor>
+  <actor>
+    <name>Lindsay Duncan</name>
+    <role>Lady Smallwood</role>
+    <type>GuestStar</type>
+    <tmdbid>30083</tmdbid>
+    <imdbid>nm0242026</imdbid>
+  </actor>
+  <actor>
+    <name>Sian Brooke</name>
+    <role>Elizabeth</role>
+    <type>GuestStar</type>
+    <tmdbid>1237956</tmdbid>
+  </actor>
+  <actor>
+    <name>Toby Jones</name>
+    <role>Culverton Smith</role>
+    <type>GuestStar</type>
+    <tmdbid>13014</tmdbid>
+    <imdbid>nm0429363</imdbid>
+  </actor>
+  <actor>
+    <name>Georgina Rylance</name>
+    <role>Cornelia</role>
+    <type>GuestStar</type>
+    <tmdbid>58759</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Brooke</name>
+    <role>Wiggins</role>
+    <type>GuestStar</type>
+    <tmdbid>75066</tmdbid>
+  </actor>
+  <actor>
+    <name>Gina Bramhill</name>
+    <role>Faith</role>
+    <type>GuestStar</type>
+    <tmdbid>990278</tmdbid>
+  </actor>
+  <actor>
+    <name>Miranda Hennessy</name>
+    <role>Reporter</role>
+    <type>GuestStar</type>
+    <tmdbid>142871</tmdbid>
+  </actor>
+  <director>Nick Hurran</director>
+  <rating>8.402</rating>
+  <year>2017</year>
+  <imdbid>tt3845888</imdbid>
+  <tvdbid>5776503</tvdbid>
+  <runtime>93</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt3845888</uniqueid>
+  <uniqueid type="Tvdb">5776503</uniqueid>
+  <episode>2</episode>
+  <season>4</season>
+  <aired>2017-01-08</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10102451</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>92</duration>
+        <durationinseconds>5576</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[当阿德里安作为婚礼摄影师的职业生涯开始妨碍他自己的婚姻时，他的妻子哈丽特决定找出原因。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-06 08:32:39</dateadded>
+  <title>相扶相持</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Miranda Hennessy</name>
+    <role>Hannah</role>
+    <type>GuestStar</type>
+    <tmdbid>142871</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicola Walker</name>
+    <role>Harriet</role>
+    <type>GuestStar</type>
+    <tmdbid>141354</tmdbid>
+    <imdbid>nm0908070</imdbid>
+  </actor>
+  <actor>
+    <name>Magdalena Kurek</name>
+    <role>Agnes</role>
+    <type>GuestStar</type>
+    <tmdbid>2044883</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Mulheron</name>
+    <role>Levi</role>
+    <type>GuestStar</type>
+    <tmdbid>1813743</tmdbid>
+  </actor>
+  <director>David Kerr</director>
+  <rating>7.5</rating>
+  <year>2018</year>
+  <imdbid>tt7839436</imdbid>
+  <tvdbid>6453370</tvdbid>
+  <runtime>29</runtime>
+  <uniqueid type="Imdb">tt7839436</uniqueid>
+  <uniqueid type="Tvdb">6453370</uniqueid>
+  <episode>4</episode>
+  <season>4</season>
+  <aired>2018-01-23</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10762207</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1742</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

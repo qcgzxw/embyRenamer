@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[《卡里斯特号》：罗伯特（杰西·普莱蒙 Jesse Plemons 饰）是一家游戏公司的技术总监，却因为内向怯懦的性格而无法得到同事和下属们的尊重。然而这一切都无关紧要，因为在家里，有一个甜美而又邪恶的秘密等待着他去享用。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-07 10:22:49</dateadded>
+  <title>联邦星舰卡里斯特</title>
+  <actor>
+    <name>Jesse Plemons</name>
+    <role>Robert Daly</role>
+    <type>GuestStar</type>
+    <tmdbid>88124</tmdbid>
+    <imdbid>nm0687146</imdbid>
+  </actor>
+  <actor>
+    <name>Cristin Milioti</name>
+    <role>Nanette Cole</role>
+    <type>GuestStar</type>
+    <tmdbid>204392</tmdbid>
+  </actor>
+  <actor>
+    <name>Jimmi Simpson</name>
+    <role>Walton</role>
+    <type>GuestStar</type>
+    <tmdbid>22125</tmdbid>
+    <imdbid>nm0801051</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Gamer691 (Voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Michaela Coel</name>
+    <role>Shania</role>
+    <type>GuestStar</type>
+    <tmdbid>1368012</tmdbid>
+  </actor>
+  <actor>
+    <name>Billy Magnussen</name>
+    <role>Baldak</role>
+    <type>GuestStar</type>
+    <tmdbid>141034</tmdbid>
+    <imdbid>nm2915105</imdbid>
+  </actor>
+  <actor>
+    <name>Milanka Brooks</name>
+    <role>Elena Tulaska</role>
+    <type>GuestStar</type>
+    <tmdbid>1579304</tmdbid>
+  </actor>
+  <actor>
+    <name>Osy Ikhile</name>
+    <role>Nate Packer</role>
+    <type>GuestStar</type>
+    <tmdbid>1388917</tmdbid>
+    <imdbid>nm3247700</imdbid>
+  </actor>
+  <actor>
+    <name>Hammed Animashaun</name>
+    <role>Pizza Guy</role>
+    <type>GuestStar</type>
+    <tmdbid>1208302</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Mulheron</name>
+    <role>Tommy</role>
+    <type>GuestStar</type>
+    <tmdbid>1813743</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul G. Raymond</name>
+    <role>Kabir Dudani</role>
+    <type>GuestStar</type>
+    <tmdbid>1951011</tmdbid>
+  </actor>
+  <director>Toby Haynes</director>
+  <rating>7.647</rating>
+  <year>2017</year>
+  <imdbid>tt5710974</imdbid>
+  <tvdbid>6113562</tvdbid>
+  <runtime>77</runtime>
+  <uniqueid type="Tvdb">6113562</uniqueid>
+  <uniqueid type="Imdb">tt5710974</uniqueid>
+  <episode>1</episode>
+  <season>4</season>
+  <aired>2017-12-29</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3331460</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>76</duration>
+        <durationinseconds>4598</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

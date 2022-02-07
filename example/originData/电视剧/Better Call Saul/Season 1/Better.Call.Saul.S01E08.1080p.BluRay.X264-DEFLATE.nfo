@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Jimmy（吉米）走访调查胜百德十字养老院，发现居民的帐目清单上有多项不合理收费，为了维护养老院老年人的权益，Jimmy（吉米）努力在绞碎的账单中寻找证据，这也让哥哥 Chuck（查克）看在眼里，决定和他一起调查。通过和养老院律师的谈判，Jimmy（吉米）认为此案上升到诈骗范畴。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-08-01 22:57:45</dateadded>
+  <title>打老虎</title>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Jimmy McGill</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Rhea Seehorn</name>
+    <role>Kim Wexler</role>
+    <type>Actor</type>
+    <tmdbid>62765</tmdbid>
+    <imdbid>nm0781533</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Fabian</name>
+    <role>Howard Hamlin</role>
+    <type>Actor</type>
+    <tmdbid>58791</tmdbid>
+    <imdbid>nm0264579</imdbid>
+  </actor>
+  <actor>
+    <name>Michael McKean</name>
+    <role>Chuck McGill</role>
+    <type>Actor</type>
+    <tmdbid>21731</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon K. Hampton</name>
+    <role>Ernesto</role>
+    <type>GuestStar</type>
+    <tmdbid>1574846</tmdbid>
+    <imdbid>nm3346272</imdbid>
+  </actor>
+  <actor>
+    <name>Kerry Condon</name>
+    <role>Stacey Ehrmantraut</role>
+    <type>GuestStar</type>
+    <tmdbid>62105</tmdbid>
+    <imdbid>nm0174403</imdbid>
+  </actor>
+  <director>Colin Bucksey</director>
+  <rating>7.882</rating>
+  <year>2015</year>
+  <imdbid>tt3895284</imdbid>
+  <tvdbid>5126776</tvdbid>
+  <runtime>49</runtime>
+  <uniqueid type="Tvdb">5126776</uniqueid>
+  <uniqueid type="Imdb">tt3895284</uniqueid>
+  <episode>8</episode>
+  <season>1</season>
+  <aired>2015-03-23</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>12703176</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>49</duration>
+        <durationinseconds>2957</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

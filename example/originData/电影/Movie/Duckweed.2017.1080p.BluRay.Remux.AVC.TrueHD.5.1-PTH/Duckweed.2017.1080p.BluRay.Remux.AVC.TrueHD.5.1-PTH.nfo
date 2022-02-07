@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[赛车手阿浪一直对父亲反对自己的赛车事业耿耿于怀，在向父亲证明自己的过程中，阿浪却意外的卷入了一场奇妙的冒险。他在这段经历中结识了一群兄弟好友，一同闯过许多奇幻的经历，也对自己的身世有了更多的了解。]]></plot>
+  <outline><![CDATA[今日我 又与你试肩并肩]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-20 07:39:46</dateadded>
+  <title>乘风破浪</title>
+  <originaltitle>乘风破浪</originaltitle>
+  <actor>
+    <name>Eddie Peng</name>
+    <role>Xu Zhengtai</role>
+    <type>Actor</type>
+    <tmdbid>126778</tmdbid>
+  </actor>
+  <actor>
+    <name>Deng Chao</name>
+    <role>Xu Tailang</role>
+    <type>Actor</type>
+    <tmdbid>99689</tmdbid>
+    <imdbid>nm2874732</imdbid>
+  </actor>
+  <actor>
+    <name>Zhao Liying</name>
+    <role>Xiao Hua</role>
+    <type>Actor</type>
+    <tmdbid>1260868</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Zijian</name>
+    <role>Xiao Ma</role>
+    <type>Actor</type>
+    <tmdbid>1353695</tmdbid>
+    <imdbid>nm6039993</imdbid>
+  </actor>
+  <actor>
+    <name>Chin Shih-Chieh</name>
+    <role>Le chef de la police</role>
+    <type>Actor</type>
+    <tmdbid>582557</tmdbid>
+    <imdbid>nm0423084</imdbid>
+  </actor>
+  <actor>
+    <name>Zhang Benyu</name>
+    <role>Luo Li</role>
+    <type>Actor</type>
+    <tmdbid>1759993</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Ronghao</name>
+    <role>Huang Zhiqiang</role>
+    <type>Actor</type>
+    <tmdbid>1759994</tmdbid>
+  </actor>
+  <actor>
+    <name>Zack Gao</name>
+    <role>Liu Yi</role>
+    <type>Actor</type>
+    <tmdbid>1748885</tmdbid>
+  </actor>
+  <actor>
+    <name>Mason Lee</name>
+    <type>Actor</type>
+    <tmdbid>543138</tmdbid>
+    <imdbid>nm0497853</imdbid>
+  </actor>
+  <actor>
+    <name>Chow Yun-Fat</name>
+    <role>(archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>1619</tmdbid>
+    <imdbid>nm0000334</imdbid>
+  </actor>
+  <director tmdbid="1326036">Han Han</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aQ5dIPeBVgc</trailer>
+  <rating>6.4</rating>
+  <year>2017</year>
+  <mpaa>HK-IIA</mpaa>
+  <imdbid>tt6461514</imdbid>
+  <tmdbid>438081</tmdbid>
+  <premiered>2017-01-28</premiered>
+  <releasedate>2017-01-28</releasedate>
+  <criticrating>86</criticrating>
+  <runtime>102</runtime>
+  <tagline>今日我 又与你试肩并肩</tagline>
+  <country>China</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <studio>Shanghai Bona</studio>
+  <studio>Huaxia Film Distribution Company</studio>
+  <uniqueid type="Tmdb">438081</uniqueid>
+  <uniqueid type="Imdb">tt6461514</uniqueid>
+  <id>tt6461514</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>26829503</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6093</durationinseconds>
+      </video>
+      <audio>
+        <codec>truehd</codec>
+        <micodec>truehd</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>96000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

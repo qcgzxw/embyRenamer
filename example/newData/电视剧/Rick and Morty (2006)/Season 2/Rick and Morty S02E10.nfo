@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[杰瑞意外被送到鸟人和谭美举行婚礼的星球，导致整个家族都得参加这场灾难连连的仪式。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 07:53:12</dateadded>
+  <title>外星婚礼</title>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>James Callis</name>
+    <role>Pat Gueterman / Courier Flaps (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>9145</tmdbid>
+  </actor>
+  <actor>
+    <name>Tricia Helfer</name>
+    <role>Donna Gueterman / Federation Robot (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>74423</tmdbid>
+  </actor>
+  <actor>
+    <name>Arin Hanson</name>
+    <role>Photography Cyborgs / Three-Eyed Prisoner (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>230567</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Harmon</name>
+    <role>Birdperson / Wedding Singer / Screaming Sun (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>57194</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Kenny</name>
+    <role>Squanchy / Bartender / Customs Gromflomite (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>78798</tmdbid>
+  </actor>
+  <actor>
+    <name>Nolan North</name>
+    <role>Alien News Anchorman / Agent Gribbles (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>19508</tmdbid>
+  </actor>
+  <actor>
+    <name>Kari Wahlgren</name>
+    <role>Rick's Computer / Alien News Anchorwoman (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>116315</tmdbid>
+  </actor>
+  <actor>
+    <name>Cassie Steele</name>
+    <role>Tammy Gueterman (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>180986</tmdbid>
+  </actor>
+  <director>Wes Archer</director>
+  <rating>9.4</rating>
+  <year>2015</year>
+  <imdbid>tt4832278</imdbid>
+  <tvdbid>5335866</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Tvdb">5335866</uniqueid>
+  <uniqueid type="Imdb">tt4832278</uniqueid>
+  <episode>10</episode>
+  <season>2</season>
+  <aired>2015-10-04</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2209814</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+        <duration>23</duration>
+        <durationinseconds>1382</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

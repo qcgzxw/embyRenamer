@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[在物理竞赛上，谢尔顿不顾别人的想法，总是自己抢答问题，被其余三人开除出队，换上莱斯丽。他只得组建自己的临时团队。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 16:53:42</dateadded>
+  <title>物理竞赛</title>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Leonard Hofstadter</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>Howard Wolowitz</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Nayyar</name>
+    <role>Rajesh Koothrappali</role>
+    <type>Actor</type>
+    <tmdbid>208099</tmdbid>
+    <imdbid>nm2471798</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Harelik</name>
+    <role>Eric Gablehauser</role>
+    <type>GuestStar</type>
+    <tmdbid>88949</tmdbid>
+    <imdbid>nm0362862</imdbid>
+  </actor>
+  <actor>
+    <name>Sandra Marquez</name>
+    <role>Woman</role>
+    <type>GuestStar</type>
+    <tmdbid>1885408</tmdbid>
+    <imdbid>nm1640359</imdbid>
+  </actor>
+  <actor>
+    <name>Sergio Enrique</name>
+    <role>Son</role>
+    <type>GuestStar</type>
+    <tmdbid>1769687</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Gregor</name>
+    <role>Dmitri</role>
+    <type>GuestStar</type>
+    <tmdbid>1940300</tmdbid>
+    <imdbid>nm0339649</imdbid>
+  </actor>
+  <actor>
+    <name>Sara Gilbert</name>
+    <role>Leslie Winkle</role>
+    <type>GuestStar</type>
+    <tmdbid>3282</tmdbid>
+    <imdbid>nm0004960</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.2</rating>
+  <year>2008</year>
+  <imdbid>tt1127387</imdbid>
+  <tvdbid>363199</tvdbid>
+  <runtime>21</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>641159</tvrageid>
+  <uniqueid type="Imdb">tt1127387</uniqueid>
+  <uniqueid type="Tvdb">363199</uniqueid>
+  <uniqueid type="TvRage">641159</uniqueid>
+  <episode>13</episode>
+  <season>1</season>
+  <aired>2008-04-21</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1398103</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1270</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

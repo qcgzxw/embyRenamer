@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[A group of strangers are invited to attend a private exhibition at an art gallery, but none of them knows why they were invited.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-06 15:09:20</dateadded>
+  <title>Private View</title>
+  <actor>
+    <name>Johnny Flynn</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Muriel Gray</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Peter Kay</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Felicity Kendal</name>
+    <type>Actor</type>
+  </actor>
+  <director>Guillem Morales</director>
+  <writer tmdbid="28485" imdbid="nm0671487">Steve Pemberton</writer>
+  <writer tmdbid="34551" imdbid="nm0790501">Reece Shearsmith</writer>
+  <credits tmdbid="28485" imdbid="nm0671487">Steve Pemberton</credits>
+  <credits tmdbid="34551" imdbid="nm0790501">Reece Shearsmith</credits>
+  <rating>7.7</rating>
+  <year>2017</year>
+  <imdbid>tt6379390</imdbid>
+  <runtime>30</runtime>
+  <genre>Comedy</genre>
+  <uniqueid type="Imdb">tt6379390</uniqueid>
+  <episode>6</episode>
+  <season>3</season>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10585751</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1771</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

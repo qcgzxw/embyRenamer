@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[潘妮受邀在地方粉丝聚会签名，但真正受瞩目的是李奥纳德。 薛尔登和艾美首次一起办派对。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-16 17:27:50</dateadded>
+  <title>The Fetal Kick Catalyst</title>
+  <actor>
+    <name>Brian Posehn</name>
+    <type>GuestStar</type>
+    <tmdbid>20405</tmdbid>
+    <imdbid>nm0692634</imdbid>
+  </actor>
+  <actor>
+    <name>Bryan Safi</name>
+    <type>GuestStar</type>
+    <tmdbid>1171718</tmdbid>
+    <imdbid>nm2043855</imdbid>
+  </actor>
+  <actor>
+    <name>Jareb Dauplaise</name>
+    <type>GuestStar</type>
+    <tmdbid>205267</tmdbid>
+    <imdbid>nm1237494</imdbid>
+  </actor>
+  <actor>
+    <name>Joshua Banday</name>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Michelle Arthur</name>
+    <type>GuestStar</type>
+    <tmdbid>29054</tmdbid>
+    <imdbid>nm0037807</imdbid>
+  </actor>
+  <actor>
+    <name>Tucker Albrizzi</name>
+    <type>GuestStar</type>
+    <tmdbid>558925</tmdbid>
+    <imdbid>nm3235380</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.5</rating>
+  <year>2016</year>
+  <imdbid>tt5825290</imdbid>
+  <tvdbid>5779076</tvdbid>
+  <runtime>19</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <uniqueid type="Imdb">tt5825290</uniqueid>
+  <uniqueid type="Tvdb">5779076</uniqueid>
+  <episode>6</episode>
+  <season>10</season>
+  <aired>2016-10-27</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11216011</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>18</duration>
+        <durationinseconds>1112</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

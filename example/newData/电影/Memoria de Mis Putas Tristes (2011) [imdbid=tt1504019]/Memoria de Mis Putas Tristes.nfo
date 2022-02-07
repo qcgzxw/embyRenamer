@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[九十岁的老记者要迎来自己的寿辰，于是致电老朋友——妓院老鸨罗萨，要求她为自己找一个处女过夜。一位年轻的女工从此进入老人的生活，白天，她在工厂缝扣子，晚上，她穿过半个城市来到妓院，裸露睡下供老人把玩，在他面前始终昏迷不醒。老人把她叫作德尔加蒂娜，慢慢发觉自己爱上了她，在沉睡的她面前，他回忆起自己一生的所有风流荒唐，家里的洗衣妇，订过婚又被他抛弃的女孩，夜夜笙歌的妓院美景……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-06 18:44:04</dateadded>
+  <title>苦妓追忆录</title>
+  <originaltitle>Memoria de Mis Putas Tristes</originaltitle>
+  <actor>
+    <name>Emilio Echevarría</name>
+    <role>El Sabio</role>
+    <type>Actor</type>
+    <tmdbid>263</tmdbid>
+  </actor>
+  <actor>
+    <name>Geraldine Chaplin</name>
+    <role>Rosa Cabarcas / Brothel madam</role>
+    <type>Actor</type>
+    <tmdbid>400</tmdbid>
+    <imdbid>nm0001036</imdbid>
+  </actor>
+  <actor>
+    <name>Ángela Molina</name>
+    <role>Casilda Armenta</role>
+    <type>Actor</type>
+    <tmdbid>3822</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia Molina</name>
+    <role>Casilda Armenta (young)</role>
+    <type>Actor</type>
+    <tmdbid>224871</tmdbid>
+  </actor>
+  <actor>
+    <name>Dominika Paleta</name>
+    <role>Ximena</role>
+    <type>Actor</type>
+    <tmdbid>1031468</tmdbid>
+  </actor>
+  <actor>
+    <name>Tara Parra</name>
+    <role>Ximena (old)</role>
+    <type>Actor</type>
+    <tmdbid>1449768</tmdbid>
+  </actor>
+  <actor>
+    <name>Evangelina Sosa</name>
+    <role>Damiana / maid (young)</role>
+    <type>Actor</type>
+    <tmdbid>974929</tmdbid>
+  </actor>
+  <actor>
+    <name>Evangelina Martínez</name>
+    <role>Damiana / maid (old)</role>
+    <type>Actor</type>
+    <tmdbid>1016475</tmdbid>
+  </actor>
+  <actor>
+    <name>Alejandra Barros</name>
+    <role>Florina de Dios</role>
+    <type>Actor</type>
+    <tmdbid>239576</tmdbid>
+  </actor>
+  <actor>
+    <name>Arturo Beristáin</name>
+    <role>Marco Tulio / Newspaper manager</role>
+    <type>Actor</type>
+    <tmdbid>553141</tmdbid>
+  </actor>
+  <actor>
+    <name>Paola Medina</name>
+    <role>Delgadina</role>
+    <type>Actor</type>
+    <tmdbid>1302139</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfredo Sevilla</name>
+    <role>Alfredo / Ximena's father</role>
+    <type>Actor</type>
+    <tmdbid>974917</tmdbid>
+  </actor>
+  <director tmdbid="213457">Henning Carlsen</director>
+  <rating>5.9</rating>
+  <year>2011</year>
+  <imdbid>tt1504019</imdbid>
+  <tmdbid>114286</tmdbid>
+  <premiered>2011-10-13</premiered>
+  <releasedate>2011-10-13</releasedate>
+  <runtime>97</runtime>
+  <country>Denmark</country>
+  <country>Mexico</country>
+  <country>Spain</country>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <studio>Memorias Del Sabio Producciones</studio>
+  <studio>Crone Film Produktion A/S</studio>
+  <studio>Dagmar Film Produktion</studio>
+  <studio>Zip Films</studio>
+  <uniqueid type="Tmdb">114286</uniqueid>
+  <uniqueid type="Imdb">tt1504019</uniqueid>
+  <id>tt1504019</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>24171630</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5818</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[剧中将会描述当时究竟发生了甚么引致这事故，而且当年勇敢的众人是如何牺牲自己拯救处于灾难中的欧洲]]></plot>
+  <outline><![CDATA[剧中将会描述当时究竟发生了甚么引致这事故，而且当年勇敢的众人是如何牺牲自己拯救处于灾难中的欧洲]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2019-09-26 15:33:57</dateadded>
+  <title>切尔诺贝利</title>
+  <originaltitle>Chernobyl</originaltitle>
+  <actor>
+    <name>Jared Harris</name>
+    <role>Valery Legasov</role>
+    <type>Actor</type>
+    <tmdbid>15440</tmdbid>
+    <imdbid>nm0364813</imdbid>
+  </actor>
+  <actor>
+    <name>Stellan Skarsgård</name>
+    <role>Boris Shcherbina</role>
+    <type>Actor</type>
+    <tmdbid>1640</tmdbid>
+    <imdbid>nm0001745</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Watson</name>
+    <role>Ulana Khomyuk</role>
+    <type>Actor</type>
+    <tmdbid>1639</tmdbid>
+    <imdbid>nm0001833</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Ritter</name>
+    <role>Anatoly Dyatlov</role>
+    <type>Actor</type>
+    <tmdbid>52888</tmdbid>
+    <imdbid>nm0728795</imdbid>
+  </actor>
+  <actor>
+    <name>Jessie Buckley</name>
+    <role>Lyudmilla Ignatenko</role>
+    <type>Actor</type>
+    <tmdbid>1498158</tmdbid>
+    <imdbid>nm2976580</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Nagaitis</name>
+    <role>Vasily Ignatenko</role>
+    <type>Actor</type>
+    <tmdbid>1435230</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Troughton</name>
+    <role>Alexandr Akimov</role>
+    <type>Actor</type>
+    <tmdbid>5421</tmdbid>
+    <imdbid>nm0873744</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Emms</name>
+    <role>Leonid Toptunov</role>
+    <type>Actor</type>
+    <tmdbid>589652</tmdbid>
+    <imdbid>nm3016166</imdbid>
+  </actor>
+  <actor>
+    <name>Con O'Neill</name>
+    <role>Viktor Bryukhanov</role>
+    <type>Actor</type>
+    <tmdbid>96279</tmdbid>
+    <imdbid>nm0642126</imdbid>
+  </actor>
+  <actor>
+    <name>Adrian Rawlins</name>
+    <role>Nikolai Fomin</role>
+    <type>Actor</type>
+    <tmdbid>1643</tmdbid>
+    <imdbid>nm0712628</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Williams</name>
+    <role>KGB Chairman Charkov</role>
+    <type>Actor</type>
+    <tmdbid>122589</tmdbid>
+  </actor>
+  <actor>
+    <name>David Dencik</name>
+    <role>Mikhail Gorbachev</role>
+    <type>Actor</type>
+    <tmdbid>93236</tmdbid>
+    <imdbid>nm1399770</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Lewis Jones</name>
+    <role>General Pikalov</role>
+    <type>Actor</type>
+    <tmdbid>185460</tmdbid>
+  </actor>
+  <actor>
+    <name>Ralph Ineson</name>
+    <role>General Tarakanov</role>
+    <type>Actor</type>
+    <tmdbid>202032</tmdbid>
+    <imdbid>nm0408591</imdbid>
+  </actor>
+  <actor>
+    <name>Barry Keoghan</name>
+    <role>Pavel</role>
+    <type>Actor</type>
+    <tmdbid>1290466</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Ferns</name>
+    <role>Glukhov</role>
+    <type>Actor</type>
+    <tmdbid>60416</tmdbid>
+    <imdbid>nm0273159</imdbid>
+  </actor>
+  <actor>
+    <name>Fares Fares</name>
+    <role>Bacho</role>
+    <type>Actor</type>
+    <tmdbid>57012</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael McElhatton</name>
+    <role>Prosecutor Andrei Stepashin</role>
+    <type>Actor</type>
+    <tmdbid>73288</tmdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=s9APLXM9Ei8</trailer>
+  <rating>8.5</rating>
+  <year>2019</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt7366338</imdb_id>
+  <tmdbid>87108</tmdbid>
+  <premiered>2019-05-06</premiered>
+  <releasedate>2019-05-06</releasedate>
+  <enddate>2019-06-03</enddate>
+  <runtime>70</runtime>
+  <genre>剧情</genre>
+  <studio>HBO</studio>
+  <zap2itid>SH031812370000</zap2itid>
+  <uniqueid type="Imdb">tt7366338</uniqueid>
+  <uniqueid type="Tmdb">87108</uniqueid>
+  <uniqueid type="Zap2It">SH031812370000</uniqueid>
+  <uniqueid type="Tvdb">360893</uniqueid>
+  <tvdbid>360893</tvdbid>
+  <id>360893</id>
+  <episodeguide>
+    <url cache="360893.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/360893/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Ended</status>
+</tvshow>

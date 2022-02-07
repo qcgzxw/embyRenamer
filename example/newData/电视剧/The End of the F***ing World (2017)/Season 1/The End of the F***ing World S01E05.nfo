@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[詹姆斯回想起儿时的痛苦瞬间，于是改变计划。阿丽莎没钱了，决定去商店行窃。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-11-07 16:10:43</dateadded>
+  <title>第 5 集</title>
+  <actor>
+    <name>Alex Lawther</name>
+    <role>James</role>
+    <type>Actor</type>
+    <tmdbid>1379277</tmdbid>
+    <imdbid>nm3867299</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Barden</name>
+    <role>Alyssa</role>
+    <type>Actor</type>
+    <tmdbid>550552</tmdbid>
+    <imdbid>nm1875238</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Oram</name>
+    <role>Phil</role>
+    <type>Actor</type>
+    <tmdbid>219367</tmdbid>
+    <imdbid>nm1361530</imdbid>
+  </actor>
+  <actor>
+    <name>Christine Bottomley</name>
+    <role>Gwen</role>
+    <type>GuestStar</type>
+    <tmdbid>75070</tmdbid>
+    <imdbid>nm1180835</imdbid>
+  </actor>
+  <actor>
+    <name>Matt King</name>
+    <role>DC Eddie Onslow</role>
+    <type>GuestStar</type>
+    <tmdbid>23776</tmdbid>
+    <imdbid>nm0455057</imdbid>
+  </actor>
+  <actor>
+    <name>Kelly Harrison</name>
+    <role>Vanessa</role>
+    <type>GuestStar</type>
+    <tmdbid>126956</tmdbid>
+    <imdbid>nm1043326</imdbid>
+  </actor>
+  <actor>
+    <name>Leon Annor</name>
+    <role>Emil</role>
+    <type>GuestStar</type>
+    <tmdbid>1677379</tmdbid>
+  </actor>
+  <actor>
+    <name>Garry Summers</name>
+    <role>Distraught Dad</role>
+    <type>GuestStar</type>
+    <tmdbid>95880</tmdbid>
+    <imdbid>nm3125166</imdbid>
+  </actor>
+  <actor>
+    <name>Lily Kavanagh</name>
+    <role>Lost Child</role>
+    <type>GuestStar</type>
+    <tmdbid>2429724</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Veal</name>
+    <role>Little James</role>
+    <type>GuestStar</type>
+    <tmdbid>1972389</tmdbid>
+  </actor>
+  <actor>
+    <name>Navin Chowdhry</name>
+    <role>Tony</role>
+    <type>GuestStar</type>
+    <tmdbid>81267</tmdbid>
+    <imdbid>nm0159527</imdbid>
+  </actor>
+  <actor>
+    <name>Wunmi Mosaku</name>
+    <role>DC Teri Darego</role>
+    <type>GuestStar</type>
+    <tmdbid>134774</tmdbid>
+    <imdbid>nm2148911</imdbid>
+  </actor>
+  <actor>
+    <name>Gemma Whelan</name>
+    <role>DC Eunice Noon</role>
+    <type>GuestStar</type>
+    <tmdbid>1475127</tmdbid>
+    <imdbid>nm2247629</imdbid>
+  </actor>
+  <director>Jonathan Entwistle</director>
+  <director>Lucy Tcherniak</director>
+  <rating>8.4</rating>
+  <year>2017</year>
+  <imdbid>tt7054032</imdbid>
+  <tvdbid>6379882</tvdbid>
+  <runtime>21</runtime>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt7054032</uniqueid>
+  <uniqueid type="Tvdb">6379882</uniqueid>
+  <episode>5</episode>
+  <season>1</season>
+  <aired>2017-10-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>44363978</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>20</duration>
+        <durationinseconds>1254</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

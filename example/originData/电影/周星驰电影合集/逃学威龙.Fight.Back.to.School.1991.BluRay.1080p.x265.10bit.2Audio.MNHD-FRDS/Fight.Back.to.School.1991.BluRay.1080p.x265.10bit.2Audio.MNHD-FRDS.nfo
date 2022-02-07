@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　周星星（周星驰 饰）是飞虎队队长，奉命以卧底的身份到圣育强中学寻找警司于参观时被窃的配枪。周星星就算百般无奈还是接受了任务。他很快适应了学校的生活，功夫高强的他也受到了学校众多学生的拥戴，周星星也顺势调查失枪案件。警队的另一位卧底曹达华（吴孟达 饰）也参与了这个案件，最后也与同学一起合力，帮助周星星破获一踪大型军火贩卖案件。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-04 14:19:10</dateadded>
+  <title>逃学威龙</title>
+  <originaltitle>逃學威龍</originaltitle>
+  <actor>
+    <name>Stephen Chow</name>
+    <role>Star Chow</role>
+    <type>Actor</type>
+    <tmdbid>57607</tmdbid>
+    <imdbid>nm0159507</imdbid>
+  </actor>
+  <actor>
+    <name>Sharla Cheung</name>
+    <role>Miss Ho</role>
+    <type>Actor</type>
+    <tmdbid>67221</tmdbid>
+    <imdbid>nm0156522</imdbid>
+  </actor>
+  <actor>
+    <name>Ng Man-tat</name>
+    <role>Uncle Tat</role>
+    <type>Actor</type>
+    <tmdbid>70437</tmdbid>
+    <imdbid>nm0628806</imdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Wong</name>
+    <role>Turtle Wong</role>
+    <type>Actor</type>
+    <tmdbid>1329775</tmdbid>
+    <imdbid>nm0939065</imdbid>
+  </actor>
+  <actor>
+    <name>Roy Cheung</name>
+    <role>Teddy Big</role>
+    <type>Actor</type>
+    <tmdbid>12466</tmdbid>
+    <imdbid>nm0156559</imdbid>
+  </actor>
+  <actor>
+    <name>Karel Wong</name>
+    <role>Detective Wong</role>
+    <type>Actor</type>
+    <tmdbid>588144</tmdbid>
+  </actor>
+  <actor>
+    <name>Barry Wong</name>
+    <role>Scissor Legs</role>
+    <type>Actor</type>
+    <tmdbid>62412</tmdbid>
+    <imdbid>nm0938944</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Chun</name>
+    <role>Mr. Lam Cho-Tung</role>
+    <type>Actor</type>
+    <tmdbid>87733</tmdbid>
+    <imdbid>nm0157971</imdbid>
+  </actor>
+  <actor>
+    <name>Kingdom Yuen</name>
+    <role>Ms. Leung</role>
+    <type>Actor</type>
+    <tmdbid>94076</tmdbid>
+    <imdbid>nm0950738</imdbid>
+  </actor>
+  <actor>
+    <name>Dennis Chan Kwok-San</name>
+    <role>Mr. Cheng</role>
+    <type>Actor</type>
+    <tmdbid>64662</tmdbid>
+    <imdbid>nm0150862</imdbid>
+  </actor>
+  <actor>
+    <name>Leung Sap-Yat</name>
+    <role>Johnny</role>
+    <type>Actor</type>
+    <tmdbid>1190225</tmdbid>
+  </actor>
+  <actor>
+    <name>Tse Wai-Kit</name>
+    <role>Siu Yiu</role>
+    <type>Actor</type>
+    <tmdbid>1277921</tmdbid>
+  </actor>
+  <actor>
+    <name>Chang Gan-Wing</name>
+    <role>Chemistry teacher</role>
+    <type>Actor</type>
+    <tmdbid>1413335</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Lai Bei-Dak</name>
+    <role>Officer Wong</role>
+    <type>Actor</type>
+    <tmdbid>1191058</tmdbid>
+  </actor>
+  <actor>
+    <name>Pang Chi-Ching</name>
+    <role>Annie</role>
+    <type>Actor</type>
+    <tmdbid>1371594</tmdbid>
+  </actor>
+  <director tmdbid="64901" imdbid="nm0150906">Gordon Chan</director>
+  <rating>7.1</rating>
+  <year>1991</year>
+  <mpaa>HK-NR</mpaa>
+  <imdbid>tt0103045</imdbid>
+  <tmdbid>47647</tmdbid>
+  <premiered>1991-07-18</premiered>
+  <releasedate>1991-07-18</releasedate>
+  <criticrating>86</criticrating>
+  <runtime>101</runtime>
+  <country>Hong Kong</country>
+  <genre>动作</genre>
+  <genre>喜剧</genre>
+  <studio>永盛電影公司</studio>
+  <studio>三和電影製作</studio>
+  <studio>Win's Movie Productions Ltd.</studio>
+  <studio>Samico Films Production Co., Ltd.</studio>
+  <set tmdbcolid="192175">
+    <name>逃学威龙（系列）</name>
+  </set>
+  <uniqueid type="TmdbCollection">192175</uniqueid>
+  <tmdbcollectionid>192175</tmdbcollectionid>
+  <uniqueid type="Imdb">tt0103045</uniqueid>
+  <uniqueid type="Tmdb">47647</uniqueid>
+  <id>tt0103045</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>7944998</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6058</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>320000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

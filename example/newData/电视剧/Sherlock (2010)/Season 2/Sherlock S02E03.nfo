@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[根据《最后一案》改编。“犯罪界的拿破仑”—— Jim Moriarty 从未休息。在伦敦塔、英格兰银行和伦敦本顿维尔监狱，大事件几乎同时发生，而对于 Moriarty，这不过是他和 Sherlock 小小游戏的开头。Moriarty 要做的是将 Sherlock 变成一个伪英雄，使他名誉扫地。尽管不可思议，但怀疑的种子在经过一连串的事件之后，生根发芽了。大多数人都相信 Sherlock 的事迹全是虚构的，是一个骗局。最终 Sherlock 和 Moriarty 在大厦的顶楼对决，Moriarty 要求 Sherlock 跳下楼去，否则事先安排好的杀手会马上杀死 Sherlock 身边最重要的三个朋友：John、Mrs. Hudson 和  Lestrade。Sherlock则认为，只要 Moriarty 还活着，他的好友也就安全。没想到已经疯癫的 Moriarty 竟立刻吞枪自杀，只为了迫使 Sherlock 跳楼。这时约翰来到了楼下，刚好遇上 Sherlock 准备跳楼。Sherlock 给 John 打了一个电话。也许是为了不想让大家有负罪感，Sherlock 最后向 John 承认自己是一个骗子，并委托他将事实公布。但 John 相信 Sherlock 是清白的，恳求着他停止。这时狙击手已经瞄准。为了大家，Sherlock 最终在 John 的面前坠落，留下的最后一句话是“Goodbye，John”。其后与开场约翰因 Sherlock 的死去看心理医生的一幕互相呼应。片尾 John 和 Mrs. Hudson 来到 Sherlock 的墓前，追忆着他的种种令人“愤怒”的事迹：桌上的刀痕，噪声，凌晨一点半的枪声，冰箱里一堆该死的标本，和食物放在一起的尸体，还有各种打斗……说着说着就哽咽了。John 在 Sherlock 的墓前说道：“……you were ……the best man……the most human……human being that I've ever known,and no-one will ever convince me that you told me a lie……I was so alone……and I owe you so much……But ,please,there's just one more thing,one more thing,one more miracle,Sherlock,for me,don't be ……dead……just stop it……（……你是……最好的人……我见过的最……有人性的人，谁也别想让我相信你骗了我……我曾经是那么的孤单……我欠了你那么多……但是，求你了，还有一件事，就一件……再多一个奇迹，Sherlock，为了我，不要……那样……死去……让一切都停下来…… ）”John 的眼泪夺眶而出。真挚的泪水，落寞的背影，这一切都被站在暗处的 Sherlock 看在眼里。全片最终以 Sherlock 的转身结尾。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-24 18:16:48</dateadded>
+  <title>莱辛巴赫瀑布</title>
+  <actor>
+    <name>Benedict Cumberbatch</name>
+    <role>Sherlock Holmes</role>
+    <type>Actor</type>
+    <tmdbid>71580</tmdbid>
+    <imdbid>nm1212722</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Freeman</name>
+    <role>John Watson</role>
+    <type>Actor</type>
+    <tmdbid>7060</tmdbid>
+    <imdbid>nm0293509</imdbid>
+  </actor>
+  <actor>
+    <name>Una Stubbs</name>
+    <role>Mrs. Hudson</role>
+    <type>Actor</type>
+    <tmdbid>1218303</tmdbid>
+    <imdbid>nm0835939</imdbid>
+  </actor>
+  <actor>
+    <name>Rupert Graves</name>
+    <role>DI Greg Lestrade</role>
+    <type>Actor</type>
+    <tmdbid>11278</tmdbid>
+    <imdbid>nm0001291</imdbid>
+  </actor>
+  <actor>
+    <name>Louise Brealey</name>
+    <role>Molly Hooper</role>
+    <type>Actor</type>
+    <tmdbid>1244469</tmdbid>
+    <imdbid>nm1154764</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Gatiss</name>
+    <role>Mycroft Holmes</role>
+    <type>Actor</type>
+    <tmdbid>34546</tmdbid>
+    <imdbid>nm0309693</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Scott</name>
+    <role>Jim Moriarty</role>
+    <type>Actor</type>
+    <tmdbid>125660</tmdbid>
+    <imdbid>nm0778831</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Aris</name>
+    <role>Dr Anderson</role>
+    <type>Actor</type>
+    <tmdbid>28477</tmdbid>
+    <imdbid>nm0034877</imdbid>
+  </actor>
+  <actor>
+    <name>Vinette Robinson</name>
+    <role>Sgt Sally Donovan</role>
+    <type>Actor</type>
+    <tmdbid>21679</tmdbid>
+  </actor>
+  <actor>
+    <name>Tanya Moodie</name>
+    <role>Ella</role>
+    <type>GuestStar</type>
+    <tmdbid>31427</tmdbid>
+  </actor>
+  <director>Toby Haynes</director>
+  <rating>8.67</rating>
+  <year>2012</year>
+  <imdbid>tt1942614</imdbid>
+  <tvdbid>4103398</tvdbid>
+  <runtime>88</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Thriller</genre>
+  <tvrageid>1065067590</tvrageid>
+  <uniqueid type="Imdb">tt1942614</uniqueid>
+  <uniqueid type="Tvdb">4103398</uniqueid>
+  <uniqueid type="TvRage">1065067590</uniqueid>
+  <episode>3</episode>
+  <season>2</season>
+  <aired>2012-01-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>8845322</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>88</duration>
+        <durationinseconds>5307</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

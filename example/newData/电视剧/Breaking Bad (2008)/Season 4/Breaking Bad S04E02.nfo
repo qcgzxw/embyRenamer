@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Walter 为了杀 Gus 买了一把没有枪号的手枪。Jesse 找来了猴子瘦子 24 小时开派对。Walter 练习拔枪，准备找机会对付 Gus，但是来了一位新的黑人助手 Tyrus，Mike 告诉 Walter 将永远见不到 Gus 了。Hank 通过复健逐渐能慢慢行走了。Andrea 担心杀死弟弟 Tomas 的凶手和 Jesse 有关，找到 Jesse，Jesse 暗中赞助 Andrea 母子的生活费。Walter 深夜来到 Gus 家，准备暗杀他，却接到神秘电话让他回家，放弃行动。Hank 沉迷矿石，和 Marie 的关系越发僵持。Skyler 来到 Walter 以前兼职的洗车行，准备承包下来，老板 Bogdan 为了报复 Walter 羞辱他的一箭之仇，狮子大开口开价 1000 万，Skyler 愤怒离开。Walter 来到酒吧想拉拢 Mike 合伙对付 Gus，Mike 拒绝并击倒了 Walter。猴子瘦子连开 3 天派对实在吃不消了，众人离开了 Jesse 家，面对空旷的屋子，震耳欲聋的音乐依然无法消除 Jesse 内心的无助和杀人后的负罪感。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 16:08:50</dateadded>
+  <title>.38左轮手枪</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Tank Jones</name>
+    <role>Chuck</role>
+    <type>GuestStar</type>
+    <tmdbid>61883</tmdbid>
+  </actor>
+  <actor>
+    <name>Jefferson Arca</name>
+    <role>Delivery Man</role>
+    <type>GuestStar</type>
+    <tmdbid>1059256</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Minnich</name>
+    <role>Party Girl</role>
+    <type>GuestStar</type>
+    <tmdbid>1260554</tmdbid>
+    <imdbid>nm2075924</imdbid>
+  </actor>
+  <actor>
+    <name>Marius Stan</name>
+    <role>Bogdan Wolynetz</role>
+    <type>GuestStar</type>
+    <tmdbid>1223197</tmdbid>
+  </actor>
+  <actor>
+    <name>Ray Campbell</name>
+    <role>Tyrus Kitt</role>
+    <type>GuestStar</type>
+    <tmdbid>159334</tmdbid>
+    <imdbid>nm1530474</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Beaver</name>
+    <role>Lawson</role>
+    <type>GuestStar</type>
+    <tmdbid>29862</tmdbid>
+    <imdbid>nm0064769</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Rios</name>
+    <role>Andrea Cantillo</role>
+    <type>GuestStar</type>
+    <tmdbid>211474</tmdbid>
+    <imdbid>nm1986960</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Jones</name>
+    <role>Badger</role>
+    <type>GuestStar</type>
+    <tmdbid>191202</tmdbid>
+    <imdbid>nm2804503</imdbid>
+  </actor>
+  <actor>
+    <name>Charles Baker</name>
+    <role>Skinny Pete</role>
+    <type>GuestStar</type>
+    <tmdbid>82945</tmdbid>
+    <imdbid>nm1889973</imdbid>
+  </actor>
+  <director>Michelle MacLaren</director>
+  <rating>7.765</rating>
+  <year>2011</year>
+  <imdbid>tt1683089</imdbid>
+  <tvdbid>4103847</tvdbid>
+  <runtime>46</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt1683089</uniqueid>
+  <uniqueid type="Tvdb">4103847</uniqueid>
+  <episode>2</episode>
+  <season>4</season>
+  <aired>2011-07-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10206274</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>45</duration>
+        <durationinseconds>2758</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

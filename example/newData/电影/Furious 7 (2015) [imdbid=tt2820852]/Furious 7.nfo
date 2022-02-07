@@ -1,0 +1,461 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[故事发生在多米尼克（范·迪塞尔 Vin Diesel 饰）和布莱恩（保罗·沃克 Paul Walker 饰）重获自由一年多后，他们摆脱暗无天日的亡命生活，却发现这个家脱离现实。多米尼克忙着和莱蒂（米歇尔·罗德里格兹 Michelle Rodriguez 饰）重新培养感情，布莱恩则努力跟米娅（乔丹娜·布鲁斯特 Jordana Brewster 饰）和儿子适应郊区生活，泰吉（卢达·克里斯 Ludacris 饰）和罗曼（泰瑞斯·吉布森 Tyrese Gibson 饰）倒是实现花花公子的梦想，大肆庆祝得来不易的自由。可怕的是，他们都没发现危机伺伏。英国特种部队杀手伊恩·肖（杰森·斯坦森 Jason Statham 饰），正准备为弟弟欧文·肖报仇。东京的韩哥先遭到谋杀，洛杉矶的卢克·霍布斯（道恩·强森 Dwayne Johnson 饰）紧接遭暗算。伊恩·肖炸了多米尼克的家。那个家是玩命团队重获自由后，全家人所重返的避风港。多米尼克只好请求美国特种部队（库尔特·拉塞尔 Kurt Russell 饰）的协助。这些英雄们打算重操旧业，为美国政府夺回聪明的追踪装置，此装置可以帮他们找到伊恩·肖的下落，以免家人再度遭到毒手。玩命团队再度出击，有多米尼克、布莱恩、哈柏、莱蒂、罗曼、泰吉和米娅，他们在片中面临前所未见的威胁，并远征阿布达比和亚塞拜然，当然还有他们最熟悉不过的战场——洛杉矶的街头。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-04 01:48:21</dateadded>
+  <title>速度与激情7</title>
+  <originaltitle>Furious 7</originaltitle>
+  <actor>
+    <name>Vin Diesel</name>
+    <role>Dominic Toretto</role>
+    <type>Actor</type>
+    <tmdbid>12835</tmdbid>
+    <imdbid>nm0004874</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Walker</name>
+    <role>Brian O'Conner</role>
+    <type>Actor</type>
+    <tmdbid>8167</tmdbid>
+  </actor>
+  <actor>
+    <name>Dwayne Johnson</name>
+    <role>Luke Hobbs</role>
+    <type>Actor</type>
+    <tmdbid>18918</tmdbid>
+    <imdbid>nm0425005</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Rodriguez</name>
+    <role>Leticia 'Letty' Ortiz</role>
+    <type>Actor</type>
+    <tmdbid>17647</tmdbid>
+    <imdbid>nm0735442</imdbid>
+  </actor>
+  <actor>
+    <name>Tyrese Gibson</name>
+    <role>Roman Pearce</role>
+    <type>Actor</type>
+    <tmdbid>8169</tmdbid>
+  </actor>
+  <actor>
+    <name>Ludacris</name>
+    <role>Tej Parker</role>
+    <type>Actor</type>
+    <tmdbid>8171</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordana Brewster</name>
+    <role>Mia Toretto</role>
+    <type>Actor</type>
+    <tmdbid>22123</tmdbid>
+    <imdbid>nm0108287</imdbid>
+  </actor>
+  <actor>
+    <name>Djimon Hounsou</name>
+    <role>Jakande</role>
+    <type>Actor</type>
+    <tmdbid>938</tmdbid>
+    <imdbid>nm0005023</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Jaa</name>
+    <role>Kiet</role>
+    <type>Actor</type>
+    <tmdbid>57207</tmdbid>
+  </actor>
+  <actor>
+    <name>Ronda Rousey</name>
+    <role>Kara</role>
+    <type>Actor</type>
+    <tmdbid>997887</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathalie Emmanuel</name>
+    <role>Ramsey</role>
+    <type>Actor</type>
+    <tmdbid>1251069</tmdbid>
+  </actor>
+  <actor>
+    <name>Kurt Russell</name>
+    <role>Mr. Nobody</role>
+    <type>Actor</type>
+    <tmdbid>6856</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Statham</name>
+    <role>Deckard Shaw</role>
+    <type>Actor</type>
+    <tmdbid>976</tmdbid>
+    <imdbid>nm0005458</imdbid>
+  </actor>
+  <actor>
+    <name>Sung Kang</name>
+    <role>Han Lue (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>61697</tmdbid>
+    <imdbid>nm0437646</imdbid>
+  </actor>
+  <actor>
+    <name>Gal Gadot</name>
+    <role>Gisele Yashar (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>90633</tmdbid>
+    <imdbid>nm2933757</imdbid>
+  </actor>
+  <actor>
+    <name>Lucas Black</name>
+    <role>Sean Boswell</role>
+    <type>Actor</type>
+    <tmdbid>155</tmdbid>
+  </actor>
+  <actor>
+    <name>Elsa Pataky</name>
+    <role>Elena Neves</role>
+    <type>Actor</type>
+    <tmdbid>73269</tmdbid>
+    <imdbid>nm0665235</imdbid>
+  </actor>
+  <actor>
+    <name>Noel Gugliemi</name>
+    <role>Hector</role>
+    <type>Actor</type>
+    <tmdbid>53252</tmdbid>
+    <imdbid>nm0346595</imdbid>
+  </actor>
+  <actor>
+    <name>John Brotherton</name>
+    <role>Sheppard</role>
+    <type>Actor</type>
+    <tmdbid>222906</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Evans</name>
+    <role>Owen Shaw</role>
+    <type>Actor</type>
+    <tmdbid>114019</tmdbid>
+  </actor>
+  <actor>
+    <name>Ali Fazal</name>
+    <role>Safar</role>
+    <type>Actor</type>
+    <tmdbid>492791</tmdbid>
+    <imdbid>nm3170495</imdbid>
+  </actor>
+  <actor>
+    <name>Miller Kimsey</name>
+    <role>Jack</role>
+    <type>Actor</type>
+    <tmdbid>1880145</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Kimsey</name>
+    <role>Jack</role>
+    <type>Actor</type>
+    <tmdbid>1880146</tmdbid>
+  </actor>
+  <actor>
+    <name>Eden Estrella</name>
+    <role>Samantha Hobbs</role>
+    <type>Actor</type>
+    <tmdbid>1533850</tmdbid>
+  </actor>
+  <actor>
+    <name>Gentry White</name>
+    <role>Letty Fan</role>
+    <type>Actor</type>
+    <tmdbid>1534800</tmdbid>
+  </actor>
+  <actor>
+    <name>Iggy Azalea</name>
+    <role>Female Racer</role>
+    <type>Actor</type>
+    <tmdbid>1364893</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon Lee Brody</name>
+    <role>Male Racer</role>
+    <type>Actor</type>
+    <tmdbid>1161711</tmdbid>
+  </actor>
+  <actor>
+    <name>Levy Tran</name>
+    <role>Race Starter</role>
+    <type>Actor</type>
+    <tmdbid>1578220</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Colwell</name>
+    <role>Hot Teacher</role>
+    <type>Actor</type>
+    <tmdbid>118593</tmdbid>
+  </actor>
+  <actor>
+    <name>Viktor Hernandez</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1880147</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Coulter</name>
+    <role>Priest</role>
+    <type>Actor</type>
+    <tmdbid>80619</tmdbid>
+    <imdbid>nm0183548</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Pralgo</name>
+    <role>Merc Tech</role>
+    <type>Actor</type>
+    <tmdbid>97844</tmdbid>
+    <imdbid>nm1128418</imdbid>
+  </actor>
+  <actor>
+    <name>Antwan Mills</name>
+    <role>Weapons Tech</role>
+    <type>Actor</type>
+    <tmdbid>1381712</tmdbid>
+    <imdbid>nm1573836</imdbid>
+  </actor>
+  <actor>
+    <name>J.J. Phillips</name>
+    <role>Billionaire</role>
+    <type>Actor</type>
+    <tmdbid>1880148</tmdbid>
+  </actor>
+  <actor>
+    <name>Jorge Ferragut</name>
+    <role>Dominican Priest</role>
+    <type>Actor</type>
+    <tmdbid>1880149</tmdbid>
+  </actor>
+  <actor>
+    <name>Sara Sohn</name>
+    <role>Hana</role>
+    <type>Actor</type>
+    <tmdbid>1440699</tmdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Blankenship</name>
+    <role>Merc Driver</role>
+    <type>Actor</type>
+    <tmdbid>1093707</tmdbid>
+  </actor>
+  <actor>
+    <name>D.J. Hapa</name>
+    <role>DJ</role>
+    <type>Actor</type>
+    <tmdbid>1880150</tmdbid>
+  </actor>
+  <actor>
+    <name>T-Pain</name>
+    <role>DJ</role>
+    <type>Actor</type>
+    <tmdbid>224092</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Mahoney</name>
+    <role>Drone Tech</role>
+    <type>Actor</type>
+    <tmdbid>54792</tmdbid>
+  </actor>
+  <actor>
+    <name>Brittney Alger</name>
+    <role>Jasmine</role>
+    <type>Actor</type>
+    <tmdbid>1128522</tmdbid>
+  </actor>
+  <actor>
+    <name>Romeo Santos</name>
+    <role>Mando</role>
+    <type>Actor</type>
+    <tmdbid>1451616</tmdbid>
+  </actor>
+  <actor>
+    <name>Jocelin Donahue</name>
+    <role>Advisor</role>
+    <type>Actor</type>
+    <tmdbid>78804</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Langston</name>
+    <role>Field Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1880151</tmdbid>
+  </actor>
+  <actor>
+    <name>Jorge-Luis Pallo</name>
+    <role>Cop</role>
+    <type>Actor</type>
+    <tmdbid>1448173</tmdbid>
+  </actor>
+  <actor>
+    <name>Tego Calderón</name>
+    <role>Leo (uncredited / archive)</role>
+    <type>Actor</type>
+    <tmdbid>96321</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathalie Kelley</name>
+    <role>Neela (uncredited / archive)</role>
+    <type>Actor</type>
+    <tmdbid>116277</tmdbid>
+  </actor>
+  <actor>
+    <name>Shad Moss</name>
+    <role>Twinkie (uncredited/archive)</role>
+    <type>Actor</type>
+    <tmdbid>58197</tmdbid>
+    <imdbid>nm0510168</imdbid>
+  </actor>
+  <actor>
+    <name>Don Omar</name>
+    <role>Santos (uncredited / archive)</role>
+    <type>Actor</type>
+    <tmdbid>90634</tmdbid>
+  </actor>
+  <actor>
+    <name>Klement Tinaj</name>
+    <role>Race Wars Racer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1563213</tmdbid>
+  </actor>
+  <actor>
+    <name>Caleb Walker</name>
+    <role>Brian O'Conner (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1795034</tmdbid>
+  </actor>
+  <actor>
+    <name>Cody Walker</name>
+    <role>Brian O'Connor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480862</tmdbid>
+  </actor>
+  <actor>
+    <name>Lateef Crowder</name>
+    <role>Upscale Billionaire Party Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>123812</tmdbid>
+  </actor>
+  <actor>
+    <name>Dennis Keiffer</name>
+    <role>Security Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1221121</tmdbid>
+    <imdbid>nm0445022</imdbid>
+  </actor>
+  <actor>
+    <name>Tara Macken</name>
+    <role>Upscale Billionaire Bodyguard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>590821</tmdbid>
+  </actor>
+  <actor>
+    <name>John Koyama</name>
+    <role>Audi R8 Racer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>92495</tmdbid>
+    <imdbid>nm0468697</imdbid>
+  </actor>
+  <director tmdbid="2127" imdbid="nm1490123">James Wan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5DYDZ6e1sW8</trailer>
+  <rating>7.1</rating>
+  <year>2015</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt2820852</imdbid>
+  <tmdbid>168259</tmdbid>
+  <premiered>2015-04-01</premiered>
+  <releasedate>2015-04-01</releasedate>
+  <criticrating>82</criticrating>
+  <runtime>140</runtime>
+  <country>Canada</country>
+  <country>China</country>
+  <country>Japan</country>
+  <country>United Arab Emirates</country>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>惊悚</genre>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <genre>家庭</genre>
+  <studio>Abu Dhabi Film Commission</studio>
+  <studio>Universal Pictures</studio>
+  <studio>China Film Co.</studio>
+  <studio>Original Film</studio>
+  <studio>Fuji Television Network</studio>
+  <studio>Québec Production Services Tax Credit</studio>
+  <studio>Colorado Office of Film, Television &amp; Media</studio>
+  <studio>DENTSU</studio>
+  <studio>MRC</studio>
+  <studio>One Race</studio>
+  <set tmdbcolid="9485">
+    <name>速度与激情（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">168259</uniqueid>
+  <uniqueid type="Imdb">tt2820852</uniqueid>
+  <id>tt2820852</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>17641242</bitrate>
+        <width>3840</width>
+        <height>1600</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>139</duration>
+        <durationinseconds>8394</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[回到天斗城，唐三在四大宗族的基础上成立了四堂...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-10 19:58:55</dateadded>
+  <title>第 8 部分（海神之光篇）：第 151 集「四宗族归属唐门，唐三官宣小舞为宗主夫人」</title>
+  <rating>0</rating>
+  <year>2021</year>
+  <runtime>21</runtime>
+  <episode>151</episode>
+  <season>1</season>
+  <aired>2021-04-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4596399</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1284</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>93401</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

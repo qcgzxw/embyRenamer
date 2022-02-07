@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一具被切分得支离破碎的女性尸体，前所未闻的连环杀人事件！  国立科学搜查研究所要员姜民浩（薛景求饰）为了能腾出更多的时间陪伴与自己相依为命的女儿，与上司约定结束这个棘手案子后就放一段长假。死者吴恩雅生前是容貌美丽的女人，为酒吧坐台小姐，尸体缺了右手手臂。经他和具有天才推理能力的热血女警闵瑞英（韩惠珍饰）的联合调查，他们把杀人嫌疑锁定在李圣浩（柳承范饰）身上。  李圣浩还有其他的同谋？这绝对不是一宗偶然的杀人案。  李圣浩是提倡促进生态农业发展的环保事业家，在当地民众中享有极高的威望。被带回警察局接受盘问的他称自己就是连环杀人案的真凶，因反对死者生前主张的排水开垦事业而萌生杀意。李圣浩的招供令搜查队措手不及，事情似乎不像前者说的那么简单，姜民浩和闵瑞英陷入了调查的僵局中，一筹莫展。  事件还没有结束。正当姜民浩和同事们为搜查出更多的证据东奔西走时，他的女儿却失踪了！姜民浩确定女儿的失踪和李圣浩有莫大的关系，后者却提出如果姜民浩能够解开他在尸体上留下的谜团的话，就告诉他女儿的下落。  为了救出女儿，姜民浩开始与杀人魔争分夺秒的作战……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-01-04 10:58:35</dateadded>
+  <title>不可饶恕</title>
+  <originaltitle>용서는 없다</originaltitle>
+  <actor>
+    <name>Sol Kyung-gu</name>
+    <role>Kang Min-Ho</role>
+    <type>Actor</type>
+    <tmdbid>85008</tmdbid>
+    <imdbid>nm0812555</imdbid>
+  </actor>
+  <actor>
+    <name>Ryoo Seung-bum</name>
+    <role>Lee Sung-Ho</role>
+    <type>Actor</type>
+    <tmdbid>88876</tmdbid>
+    <imdbid>nm0753486</imdbid>
+  </actor>
+  <actor>
+    <name>Han Hye-jin</name>
+    <role>Min Seo-Young</role>
+    <type>Actor</type>
+    <tmdbid>1489755</tmdbid>
+    <imdbid>nm1626041</imdbid>
+  </actor>
+  <actor>
+    <name>Sung Ji-ru</name>
+    <role>Yun Jong-Kang</role>
+    <type>Actor</type>
+    <tmdbid>552572</tmdbid>
+    <imdbid>nm0839293</imdbid>
+  </actor>
+  <actor>
+    <name>Park Sang-wook</name>
+    <role>Park Pyung-Sik</role>
+    <type>Actor</type>
+    <tmdbid>1020867</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Jung-hak</name>
+    <role>Prosecutor Park</role>
+    <type>Actor</type>
+    <tmdbid>16963</tmdbid>
+    <imdbid>nm1120335</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Jeong-heon</name>
+    <role>Analyst</role>
+    <type>Actor</type>
+    <tmdbid>80985</tmdbid>
+    <imdbid>nm1489299</imdbid>
+  </actor>
+  <actor>
+    <name>Ju Seok-tae</name>
+    <role>Min Seo-Young's senior</role>
+    <type>Actor</type>
+    <tmdbid>2159393</tmdbid>
+    <imdbid>nm3754545</imdbid>
+  </actor>
+  <actor>
+    <name>Nam Kyung-eub</name>
+    <role>Chief Detective Oh</role>
+    <type>Actor</type>
+    <tmdbid>1045484</tmdbid>
+    <imdbid>nm4388690</imdbid>
+  </actor>
+  <actor>
+    <name>Jo Soo-jung</name>
+    <role>Oh Eun-Ah</role>
+    <type>Actor</type>
+    <tmdbid>2683619</tmdbid>
+  </actor>
+  <director tmdbid="938737" imdbid="nm3936368">Kim Hyoung-jun</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_2hiqv57RUU</trailer>
+  <rating>7.5</rating>
+  <year>2010</year>
+  <imdbid>tt1662557</imdbid>
+  <tmdbid>50475</tmdbid>
+  <premiered>2010-01-07</premiered>
+  <releasedate>2010-01-07</releasedate>
+  <criticrating>80</criticrating>
+  <runtime>119</runtime>
+  <country>South Korea</country>
+  <genre>犯罪</genre>
+  <genre>惊悚</genre>
+  <genre>动作</genre>
+  <studio>Cinema Service</studio>
+  <studio>CJ Entertainment</studio>
+  <studio>The Dream &amp; Pictures</studio>
+  <uniqueid type="Tmdb">50475</uniqueid>
+  <uniqueid type="Imdb">tt1662557</uniqueid>
+  <id>tt1662557</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2014729</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24.998598</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>118</duration>
+        <durationinseconds>7129</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

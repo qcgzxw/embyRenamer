@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[瓦列利·列加索夫和苏联副总理鲍里斯·谢比纳准备使用月球车清除核电站屋顶的放射性碎片。而乌拉娜·霍缪克在想要确定反应堆爆炸的真相时，面临着政府的层层障碍。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-06-08 11:48:57</dateadded>
+  <title>全人类的幸福</title>
+  <actor>
+    <name>Jared Harris</name>
+    <role>Valery Legasov</role>
+    <type>Actor</type>
+    <tmdbid>15440</tmdbid>
+    <imdbid>nm0364813</imdbid>
+  </actor>
+  <actor>
+    <name>Stellan Skarsgård</name>
+    <role>Boris Shcherbina</role>
+    <type>Actor</type>
+    <tmdbid>1640</tmdbid>
+    <imdbid>nm0001745</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Watson</name>
+    <role>Ulana Khomyuk</role>
+    <type>Actor</type>
+    <tmdbid>1639</tmdbid>
+    <imdbid>nm0001833</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Ritter</name>
+    <role>Anatoly Dyatlov</role>
+    <type>Actor</type>
+    <tmdbid>52888</tmdbid>
+    <imdbid>nm0728795</imdbid>
+  </actor>
+  <actor>
+    <name>Jessie Buckley</name>
+    <role>Lyudmilla Ignatenko</role>
+    <type>Actor</type>
+    <tmdbid>1498158</tmdbid>
+    <imdbid>nm2976580</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Nagaitis</name>
+    <role>Vasily Ignatenko</role>
+    <type>Actor</type>
+    <tmdbid>1435230</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Troughton</name>
+    <role>Alexandr Akimov</role>
+    <type>Actor</type>
+    <tmdbid>5421</tmdbid>
+    <imdbid>nm0873744</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Emms</name>
+    <role>Leonid Toptunov</role>
+    <type>Actor</type>
+    <tmdbid>589652</tmdbid>
+    <imdbid>nm3016166</imdbid>
+  </actor>
+  <actor>
+    <name>Con O'Neill</name>
+    <role>Viktor Bryukhanov</role>
+    <type>Actor</type>
+    <tmdbid>96279</tmdbid>
+    <imdbid>nm0642126</imdbid>
+  </actor>
+  <actor>
+    <name>Adrian Rawlins</name>
+    <role>Nikolai Fomin</role>
+    <type>Actor</type>
+    <tmdbid>1643</tmdbid>
+    <imdbid>nm0712628</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Williams</name>
+    <role>KGB Chairman Charkov</role>
+    <type>Actor</type>
+    <tmdbid>122589</tmdbid>
+  </actor>
+  <actor>
+    <name>David Dencik</name>
+    <role>Mikhail Gorbachev</role>
+    <type>Actor</type>
+    <tmdbid>93236</tmdbid>
+    <imdbid>nm1399770</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Lewis Jones</name>
+    <role>General Pikalov</role>
+    <type>Actor</type>
+    <tmdbid>185460</tmdbid>
+  </actor>
+  <actor>
+    <name>Ralph Ineson</name>
+    <role>General Tarakanov</role>
+    <type>Actor</type>
+    <tmdbid>202032</tmdbid>
+    <imdbid>nm0408591</imdbid>
+  </actor>
+  <actor>
+    <name>Barry Keoghan</name>
+    <role>Pavel</role>
+    <type>Actor</type>
+    <tmdbid>1290466</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Ferns</name>
+    <role>Glukhov</role>
+    <type>Actor</type>
+    <tmdbid>60416</tmdbid>
+    <imdbid>nm0273159</imdbid>
+  </actor>
+  <actor>
+    <name>Fares Fares</name>
+    <role>Bacho</role>
+    <type>Actor</type>
+    <tmdbid>57012</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael McElhatton</name>
+    <role>Prosecutor Andrei Stepashin</role>
+    <type>Actor</type>
+    <tmdbid>73288</tmdbid>
+  </actor>
+  <actor>
+    <name>June Watson</name>
+    <role>Old Woman Babushka</role>
+    <type>GuestStar</type>
+    <tmdbid>190516</tmdbid>
+  </actor>
+  <actor>
+    <name>Josef Altin</name>
+    <role>Soldier</role>
+    <type>GuestStar</type>
+    <tmdbid>43554</tmdbid>
+  </actor>
+  <actor>
+    <name>Sergejus Ivanovas</name>
+    <role>Survey Soldier</role>
+    <type>GuestStar</type>
+    <tmdbid>2019501</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexej Manvelov</name>
+    <role>Garo</role>
+    <type>GuestStar</type>
+    <tmdbid>1073425</tmdbid>
+  </actor>
+  <actor>
+    <name>Josef Davies</name>
+    <role>Janek</role>
+    <type>GuestStar</type>
+    <tmdbid>1587575</tmdbid>
+  </actor>
+  <actor>
+    <name>Velta Zygure</name>
+    <role>Elderly Librarian</role>
+    <type>GuestStar</type>
+    <tmdbid>2338585</tmdbid>
+  </actor>
+  <actor>
+    <name>Paulius Cizinauskas</name>
+    <role>KGB Agent Library</role>
+    <type>GuestStar</type>
+    <tmdbid>2338587</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Bagnall</name>
+    <role>Jughashvili (Robot Operator)</role>
+    <type>GuestStar</type>
+    <tmdbid>195673</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Pirie</name>
+    <role>Site Officer Masha</role>
+    <type>GuestStar</type>
+    <tmdbid>95716</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Sheridan</name>
+    <role>Biorobot</role>
+    <type>GuestStar</type>
+    <tmdbid>1232078</tmdbid>
+  </actor>
+  <actor>
+    <name>Lukas Malinauskas</name>
+    <role>Biorobot Soldier</role>
+    <type>GuestStar</type>
+    <tmdbid>1771459</tmdbid>
+  </actor>
+  <actor>
+    <name>Marius Karolis Gotbergas</name>
+    <role>Biorobot Soldier</role>
+    <type>GuestStar</type>
+    <tmdbid>2338588</tmdbid>
+  </actor>
+  <director>Johan Renck</director>
+  <rating>8.984</rating>
+  <year>2019</year>
+  <imdbid>tt9166678</imdbid>
+  <tvdbid>7116984</tvdbid>
+  <runtime>67</runtime>
+  <genre>Drama</genre>
+  <genre>History</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt9166678</uniqueid>
+  <uniqueid type="Tvdb">7116984</uniqueid>
+  <episode>4</episode>
+  <season>1</season>
+  <aired>2019-05-27</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5727471</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>66</duration>
+        <durationinseconds>4008</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>382780</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

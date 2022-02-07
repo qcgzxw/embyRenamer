@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[逃离了 Tuco 的沙漠小屋后，Walter 和 Jesse 发愁如何向家人解释这些天他们的去向。Walter 突然想到一个主意，两人分头回家。Walter 去了超市，并且在走廊上脱掉了身上的衣服。他因为精神问题被送到医院，然后告诉家人他记不起这几天发生的事情。Jesse 回到自己家整理储藏室，当DEA找到他的时候，他说自己周末在与妓女厮混。警察并不相信他的说辞，找到了 Tuco 的叔叔想要指证他，相比之下老人更加痛恨警察拒绝合作，Jesse 获释了。Walter 开始继续制毒。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-20 18:14:23</dateadded>
+  <title> 阴魂不散</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Harry Groener</name>
+    <role>Dr. Chavez</role>
+    <type>GuestStar</type>
+    <tmdbid>35518</tmdbid>
+    <imdbid>nm0342881</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Dempsey</name>
+    <role>Hospital Medic</role>
+    <type>GuestStar</type>
+    <tmdbid>36135</tmdbid>
+  </actor>
+  <actor>
+    <name>Kat Sawyer-Young</name>
+    <role>Dr. Soper</role>
+    <type>GuestStar</type>
+    <tmdbid>162098</tmdbid>
+  </actor>
+  <actor>
+    <name>David House</name>
+    <role>Dr. Delcavoli</role>
+    <type>GuestStar</type>
+    <tmdbid>79211</tmdbid>
+    <imdbid>nm1450145</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Kiesche</name>
+    <role>Clovis</role>
+    <type>GuestStar</type>
+    <tmdbid>76537</tmdbid>
+    <imdbid>nm0452622</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Shamus Wiles</name>
+    <role>ASAC George Merkert</role>
+    <type>GuestStar</type>
+    <tmdbid>9291</tmdbid>
+    <imdbid>nm0928795</imdbid>
+  </actor>
+  <actor>
+    <name>Todd Terry</name>
+    <role>SAC Ramey</role>
+    <type>GuestStar</type>
+    <tmdbid>1178637</tmdbid>
+    <imdbid>nm0856086</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Jones</name>
+    <role>Badger</role>
+    <type>GuestStar</type>
+    <tmdbid>191202</tmdbid>
+    <imdbid>nm2804503</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Margolis</name>
+    <role>Tio Salamanca</role>
+    <type>GuestStar</type>
+    <tmdbid>1173</tmdbid>
+    <imdbid>nm0546797</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Michael Quezada</name>
+    <role>Steven Gomez</role>
+    <type>GuestStar</type>
+    <tmdbid>61535</tmdbid>
+    <imdbid>nm2366374</imdbid>
+  </actor>
+  <director>Terry McDonough</director>
+  <rating>7.946</rating>
+  <year>2009</year>
+  <imdbid>tt1232250</imdbid>
+  <tvdbid>438914</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <tvrageid>692035</tvrageid>
+  <uniqueid type="Imdb">tt1232250</uniqueid>
+  <uniqueid type="Tvdb">438914</uniqueid>
+  <uniqueid type="TvRage">692035</uniqueid>
+  <episode>3</episode>
+  <season>2</season>
+  <aired>2009-03-22</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9977252</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>46</duration>
+        <durationinseconds>2819</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

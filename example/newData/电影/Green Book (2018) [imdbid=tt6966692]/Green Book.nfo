@@ -1,0 +1,501 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[托尼（维果·莫腾森 Viggo Mortensen 饰）是一个吊儿郎当游手好闲的混混，在一家夜总会做侍者。这间夜总会因故要停业几个月，可托尼所要支付的房租和生活费不会因此取消，所以他的当务之急是去寻找另一份工作来填补这几个月的空缺。在这个节骨眼上，一位名叫唐雪莉（马赫沙拉·阿里 Mahershala Ali 饰）的黑人钢琴家提出雇佣托尼。唐雪莉即将开始为期八个星期的南下巡回演出，可是，那个时候南方对黑人的歧视非常的严重...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-02-19 17:12:10</dateadded>
+  <title>绿皮书</title>
+  <originaltitle>Green Book</originaltitle>
+  <actor>
+    <name>Viggo Mortensen</name>
+    <role>Tony Lip</role>
+    <type>Actor</type>
+    <tmdbid>110</tmdbid>
+    <imdbid>nm0001557</imdbid>
+  </actor>
+  <actor>
+    <name>Mahershala Ali</name>
+    <role>Dr. Don Shirley</role>
+    <type>Actor</type>
+    <tmdbid>932967</tmdbid>
+    <imdbid>nm0991810</imdbid>
+  </actor>
+  <actor>
+    <name>Linda Cardellini</name>
+    <role>Dolores</role>
+    <type>Actor</type>
+    <tmdbid>1817</tmdbid>
+    <imdbid>nm0004802</imdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Maniscalco</name>
+    <role>Johnny Venere</role>
+    <type>Actor</type>
+    <tmdbid>299743</tmdbid>
+    <imdbid>nm1724319</imdbid>
+  </actor>
+  <actor>
+    <name>Dimiter D. Marinov</name>
+    <role>Oleg</role>
+    <type>Actor</type>
+    <tmdbid>1613744</tmdbid>
+    <imdbid>nm1221253</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Hatton</name>
+    <role>George</role>
+    <type>Actor</type>
+    <tmdbid>130532</tmdbid>
+    <imdbid>nm2273391</imdbid>
+  </actor>
+  <actor>
+    <name>P. J. Byrne</name>
+    <role>Record Exec</role>
+    <type>Actor</type>
+    <tmdbid>1211946</tmdbid>
+    <imdbid>nm0126260</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Cortese</name>
+    <role>Gio Loscudo</role>
+    <type>Actor</type>
+    <tmdbid>830</tmdbid>
+    <imdbid>nm0181288</imdbid>
+  </actor>
+  <actor>
+    <name>Maggie Nixon</name>
+    <role>Copa Coat Check Girl</role>
+    <type>Actor</type>
+    <tmdbid>2256709</tmdbid>
+  </actor>
+  <actor>
+    <name>Von Lewis</name>
+    <role>Bobby Rydell</role>
+    <type>Actor</type>
+    <tmdbid>2256705</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon Sortland</name>
+    <role>Rydell Band Leader</role>
+    <type>Actor</type>
+    <tmdbid>2949700</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Stark</name>
+    <role>Jules Podell</role>
+    <type>Actor</type>
+    <tmdbid>130129</tmdbid>
+    <imdbid>nm0823155</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Mangano</name>
+    <role>Copa Bouncer Danny</role>
+    <type>Actor</type>
+    <tmdbid>77585</tmdbid>
+    <imdbid>nm0542134</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Sloan</name>
+    <role>Copa Maitre D' Carmine</role>
+    <type>Actor</type>
+    <tmdbid>78335</tmdbid>
+    <imdbid>nm0806002</imdbid>
+  </actor>
+  <actor>
+    <name>Quinn Duffy</name>
+    <role>Mikey Cerrone</role>
+    <type>Actor</type>
+    <tmdbid>179954</tmdbid>
+    <imdbid>nm0240606</imdbid>
+  </actor>
+  <actor>
+    <name>Seth Hurwitz</name>
+    <role>Johnny Randazzo</role>
+    <type>Actor</type>
+    <tmdbid>2949703</tmdbid>
+  </actor>
+  <actor>
+    <name>Hudson Galloway</name>
+    <role>Nick Vallelonga</role>
+    <type>Actor</type>
+    <tmdbid>2949704</tmdbid>
+  </actor>
+  <actor>
+    <name>Gavin Foley</name>
+    <role>Frankie Vallelonga</role>
+    <type>Actor</type>
+    <tmdbid>2949705</tmdbid>
+  </actor>
+  <actor>
+    <name>Rodolfo Vallelonga</name>
+    <role>Grandpa Nicola Vallelonga</role>
+    <type>Actor</type>
+    <tmdbid>2949706</tmdbid>
+  </actor>
+  <actor>
+    <name>Louis Venere</name>
+    <role>Grandpa Anthony Venere</role>
+    <type>Actor</type>
+    <tmdbid>2949707</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Vallelonga</name>
+    <role>Rudy Vallelonga</role>
+    <type>Actor</type>
+    <tmdbid>2255038</tmdbid>
+  </actor>
+  <actor>
+    <name>Don DiPetta</name>
+    <role>Louie Venere</role>
+    <type>Actor</type>
+    <tmdbid>1537755</tmdbid>
+    <imdbid>nm5814494</imdbid>
+  </actor>
+  <actor>
+    <name>Jenna Laurenzo</name>
+    <role>Fran Venere</role>
+    <type>Actor</type>
+    <tmdbid>1786561</tmdbid>
+    <imdbid>nm2180059</imdbid>
+  </actor>
+  <actor>
+    <name>Suehyla El-Attar</name>
+    <role>Lynn Venere</role>
+    <type>Actor</type>
+    <tmdbid>74135</tmdbid>
+    <imdbid>nm2612326</imdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Israel</name>
+    <role>Bronx Floor Repairman #1</role>
+    <type>Actor</type>
+    <tmdbid>1737299</tmdbid>
+    <imdbid>nm5199565</imdbid>
+  </actor>
+  <actor>
+    <name>Derrick Spears</name>
+    <role>Bronx Floor Repairman #2</role>
+    <type>Actor</type>
+    <tmdbid>2949708</tmdbid>
+  </actor>
+  <actor>
+    <name>Johnny Williams</name>
+    <role>Fat Paulie</role>
+    <type>Actor</type>
+    <tmdbid>53401</tmdbid>
+    <imdbid>nm0930971</imdbid>
+  </actor>
+  <actor>
+    <name>Randal Gonzalez</name>
+    <role>Gorman</role>
+    <type>Actor</type>
+    <tmdbid>2256708</tmdbid>
+  </actor>
+  <actor>
+    <name>Iqbal Theba</name>
+    <role>Amit</role>
+    <type>Actor</type>
+    <tmdbid>154182</tmdbid>
+    <imdbid>nm0857290</imdbid>
+  </actor>
+  <actor>
+    <name>Sharon Landry</name>
+    <role>Carnegie Hall Manager</role>
+    <type>Actor</type>
+    <tmdbid>141765</tmdbid>
+    <imdbid>nm3163713</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Vallelonga</name>
+    <role>Augie</role>
+    <type>Actor</type>
+    <tmdbid>78336</tmdbid>
+    <imdbid>nm0885014</imdbid>
+  </actor>
+  <actor>
+    <name>David An</name>
+    <role>Bobby</role>
+    <type>Actor</type>
+    <tmdbid>1401565</tmdbid>
+    <imdbid>nm2859756</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Cerrone</name>
+    <role>Joe and Joe's Customer</role>
+    <type>Actor</type>
+    <tmdbid>21800</tmdbid>
+    <imdbid>nm0148808</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Gabb</name>
+    <role>Charlie the Pawn Guy</role>
+    <type>Actor</type>
+    <tmdbid>1849417</tmdbid>
+  </actor>
+  <actor>
+    <name>Gertrud Sigle</name>
+    <role>Marie</role>
+    <type>Actor</type>
+    <tmdbid>2949709</tmdbid>
+  </actor>
+  <actor>
+    <name>Geraldine Singer</name>
+    <role>Pittsburgh MC</role>
+    <type>Actor</type>
+    <tmdbid>1027298</tmdbid>
+    <imdbid>nm1046808</imdbid>
+  </actor>
+  <actor>
+    <name>Ron Flagge</name>
+    <role>Pittsburgh Chauffeur</role>
+    <type>Actor</type>
+    <tmdbid>1380009</tmdbid>
+    <imdbid>nm0280850</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Bats Bradford</name>
+    <role>Pittsburgh Busboy</role>
+    <type>Actor</type>
+    <tmdbid>1371236</tmdbid>
+    <imdbid>nm5243717</imdbid>
+  </actor>
+  <actor>
+    <name>Ted Huckabee</name>
+    <role>Indiana Stage Manager</role>
+    <type>Actor</type>
+    <tmdbid>97845</tmdbid>
+    <imdbid>nm1126197</imdbid>
+  </actor>
+  <actor>
+    <name>Gralen Bryant Banks</name>
+    <role>Horseshoe Man #1</role>
+    <type>Actor</type>
+    <tmdbid>557804</tmdbid>
+    <imdbid>nm2505507</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Malone</name>
+    <role>Horseshoe Man #2</role>
+    <type>Actor</type>
+    <tmdbid>1411644</tmdbid>
+    <imdbid>nm4896770</imdbid>
+  </actor>
+  <actor>
+    <name>Floyd Miles</name>
+    <role>Floyd</role>
+    <type>Actor</type>
+    <tmdbid>2949710</tmdbid>
+  </actor>
+  <actor>
+    <name>David Kallaway</name>
+    <role>Redneck #1</role>
+    <type>Actor</type>
+    <tmdbid>159300</tmdbid>
+    <imdbid>nm0436064</imdbid>
+  </actor>
+  <actor>
+    <name>James W. Evermore</name>
+    <role>Redneck #2</role>
+    <type>Actor</type>
+    <tmdbid>1435244</tmdbid>
+    <imdbid>nm6651234</imdbid>
+  </actor>
+  <actor>
+    <name>Harrison Stone</name>
+    <role>Redneck #3</role>
+    <type>Actor</type>
+    <tmdbid>1916438</tmdbid>
+  </actor>
+  <actor>
+    <name>Ricky Muse</name>
+    <role>Barkeep</role>
+    <type>Actor</type>
+    <tmdbid>1181570</tmdbid>
+    <imdbid>nm3239993</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Virtue</name>
+    <role>Morgan Anderson</role>
+    <type>Actor</type>
+    <tmdbid>38709</tmdbid>
+    <imdbid>nm0899487</imdbid>
+  </actor>
+  <actor>
+    <name>Christina Simpkins</name>
+    <role>Margaret Anderson</role>
+    <type>Actor</type>
+    <tmdbid>2949711</tmdbid>
+  </actor>
+  <actor>
+    <name>Kermit Burns III</name>
+    <role>Pimento Cheese Waiter</role>
+    <type>Actor</type>
+    <tmdbid>1773408</tmdbid>
+  </actor>
+  <actor>
+    <name>Lindsay Brice</name>
+    <role>Frances Selden</role>
+    <type>Actor</type>
+    <tmdbid>2764202</tmdbid>
+  </actor>
+  <actor>
+    <name>Shane Partlow</name>
+    <role>Tailor</role>
+    <type>Actor</type>
+    <tmdbid>1410264</tmdbid>
+    <imdbid>nm1018678</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Greene</name>
+    <role>Macon Cop #1</role>
+    <type>Actor</type>
+    <tmdbid>42199</tmdbid>
+    <imdbid>nm0338715</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Distance</name>
+    <role>Macon Cop #2</role>
+    <type>Actor</type>
+    <tmdbid>1334324</tmdbid>
+    <imdbid>nm3309592</imdbid>
+  </actor>
+  <actor>
+    <name>Craig DiFrancia</name>
+    <role>Dominic</role>
+    <type>Actor</type>
+    <tmdbid>1192766</tmdbid>
+    <imdbid>nm1538838</imdbid>
+  </actor>
+  <actor>
+    <name>Dennis W. Hall</name>
+    <role>Mags</role>
+    <type>Actor</type>
+    <tmdbid>168926</tmdbid>
+    <imdbid>nm1667150</imdbid>
+  </actor>
+  <actor>
+    <name>Leslie Castay</name>
+    <role>Well-Dressed Woman</role>
+    <type>Actor</type>
+    <tmdbid>1485328</tmdbid>
+    <imdbid>nm4747279</imdbid>
+  </actor>
+  <actor>
+    <name>David Simpson</name>
+    <role>Louisiana Host</role>
+    <type>Actor</type>
+    <tmdbid>1838558</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Klock</name>
+    <role>Patrolman #1</role>
+    <type>Actor</type>
+    <tmdbid>206624</tmdbid>
+    <imdbid>nm1145617</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Breed</name>
+    <role>Patrolman #2</role>
+    <type>Actor</type>
+    <tmdbid>2853432</tmdbid>
+  </actor>
+  <actor>
+    <name>Dane Rhodes</name>
+    <role>Police Chief</role>
+    <type>Actor</type>
+    <tmdbid>60874</tmdbid>
+    <imdbid>nm1694797</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Stepanek</name>
+    <role>Graham Kindell</role>
+    <type>Actor</type>
+    <tmdbid>146391</tmdbid>
+    <imdbid>nm0826745</imdbid>
+  </actor>
+  <actor>
+    <name>Jon Michael Davis</name>
+    <role>Birmingham Hotel Maitre D'</role>
+    <type>Actor</type>
+    <tmdbid>931219</tmdbid>
+    <imdbid>nm2788999</imdbid>
+  </actor>
+  <actor>
+    <name>Montrel Miller</name>
+    <role>Birmingham Hotel Waiter</role>
+    <type>Actor</type>
+    <tmdbid>2234735</tmdbid>
+  </actor>
+  <actor>
+    <name>Ninja N. Devoe</name>
+    <role>Orange Bird Bartender</role>
+    <type>Actor</type>
+    <tmdbid>1704653</tmdbid>
+    <imdbid>nm2816158</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Hayes Currie</name>
+    <role>Maryland State Trooper</role>
+    <type>Actor</type>
+    <tmdbid>1557939</tmdbid>
+  </actor>
+  <director tmdbid="7396" imdbid="nm0268380">Peter Farrelly</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QkZxoko_HC0</trailer>
+  <rating>8.2</rating>
+  <year>2018</year>
+  <mpaa>HK-IIA</mpaa>
+  <imdbid>tt6966692</imdbid>
+  <tmdbid>490132</tmdbid>
+  <premiered>2018-11-16</premiered>
+  <releasedate>2018-11-16</releasedate>
+  <criticrating>77</criticrating>
+  <runtime>130</runtime>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>喜剧</genre>
+  <genre>音乐</genre>
+  <studio>Participant</studio>
+  <studio>DreamWorks Pictures</studio>
+  <uniqueid type="Tmdb">490132</uniqueid>
+  <uniqueid type="Imdb">tt6966692</uniqueid>
+  <id>tt6966692</id>
+  <fileinfo>
+    <streamdetails>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5563369</bitrate>
+        <width>1920</width>
+        <height>956</height>
+        <aspect>480:239</aspect>
+        <aspectratio>480:239</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>130</duration>
+        <durationinseconds>7805</durationinseconds>
+      </video>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

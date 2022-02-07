@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　六位身份各异的陌生人，为赢取高额奖金，在神秘盒子的指引下受邀参与世界顶级密室逃脱游戏。谁知密室内布局精良机关重重，陷阱遍布杀机暗藏。是刺激游戏，还是博命赌局？谁在背后操控这一切？谁能够成功破解谜局，逃出生天？]]></plot>
+  <outline><![CDATA[致命游戏 解谜求生]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2019-04-12 13:16:31</dateadded>
+  <title>密室逃生</title>
+  <originaltitle>Escape Room</originaltitle>
+  <actor>
+    <name>Taylor Russell</name>
+    <role>Zoey Davis</role>
+    <type>Actor</type>
+    <tmdbid>1353827</tmdbid>
+    <imdbid>nm5347988</imdbid>
+  </actor>
+  <actor>
+    <name>Logan Miller</name>
+    <role>Ben Miller</role>
+    <type>Actor</type>
+    <tmdbid>116088</tmdbid>
+    <imdbid>nm2383250</imdbid>
+  </actor>
+  <actor>
+    <name>Deborah Ann Woll</name>
+    <role>Amanda Harper</role>
+    <type>Actor</type>
+    <tmdbid>212154</tmdbid>
+    <imdbid>nm2832695</imdbid>
+  </actor>
+  <actor>
+    <name>Jay Ellis</name>
+    <role>Jason Walker</role>
+    <type>Actor</type>
+    <tmdbid>151680</tmdbid>
+    <imdbid>nm1337350</imdbid>
+  </actor>
+  <actor>
+    <name>Nik Dodani</name>
+    <role>Danny Khan</role>
+    <type>Actor</type>
+    <tmdbid>1466581</tmdbid>
+    <imdbid>nm6516135</imdbid>
+  </actor>
+  <actor>
+    <name>Tyler Labine</name>
+    <role>Mike Nolan</role>
+    <type>Actor</type>
+    <tmdbid>51383</tmdbid>
+    <imdbid>nm0479527</imdbid>
+  </actor>
+  <actor>
+    <name>Yorick van Wageningen</name>
+    <role>Games Master WooTan Yu</role>
+    <type>Actor</type>
+    <tmdbid>31387</tmdbid>
+    <imdbid>nm0905691</imdbid>
+  </actor>
+  <actor>
+    <name>Cornelius Geaney Jr.</name>
+    <role>College Professor</role>
+    <type>Actor</type>
+    <tmdbid>1573781</tmdbid>
+  </actor>
+  <actor>
+    <name>Russell Crous</name>
+    <role>Charlie - Jason's Assistant</role>
+    <type>Actor</type>
+    <tmdbid>2282251</tmdbid>
+  </actor>
+  <actor>
+    <name>Bart Fouche</name>
+    <role>Gary - Ben's Boss</role>
+    <type>Actor</type>
+    <tmdbid>181269</tmdbid>
+    <imdbid>nm0288230</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Sutton</name>
+    <role>Allison - Zoey's Roommate</role>
+    <type>Actor</type>
+    <tmdbid>1854264</tmdbid>
+    <imdbid>nm7571075</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Hampshire</name>
+    <role>Hazmat One</role>
+    <type>Actor</type>
+    <tmdbid>1503832</tmdbid>
+    <imdbid>nm2518215</imdbid>
+  </actor>
+  <actor>
+    <name>Vere Tindale</name>
+    <role>Minos Security Guard / Hazmat Two</role>
+    <type>Actor</type>
+    <tmdbid>1657679</tmdbid>
+    <imdbid>nm4227608</imdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Fok</name>
+    <role>Detective Li</role>
+    <type>Actor</type>
+    <tmdbid>1029033</tmdbid>
+    <imdbid>nm3022996</imdbid>
+  </actor>
+  <actor>
+    <name>Caely-Jo Levy</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>2440153</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamie-Lee Money</name>
+    <role>Rosa / 1st Flight Attendant</role>
+    <type>Actor</type>
+    <tmdbid>1679882</tmdbid>
+    <imdbid>nm8249698</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Jess Boado</name>
+    <role>Business Passenger</role>
+    <type>Actor</type>
+    <tmdbid>1970931</tmdbid>
+  </actor>
+  <actor>
+    <name>Inge Beckmann</name>
+    <role>2nd Flight Attendant</role>
+    <type>Actor</type>
+    <tmdbid>1353810</tmdbid>
+    <imdbid>nm4125416</imdbid>
+  </actor>
+  <actor>
+    <name>Carl Coetzee</name>
+    <role>Pilot #1</role>
+    <type>Actor</type>
+    <tmdbid>2440154</tmdbid>
+  </actor>
+  <actor>
+    <name>Katheryn Griffiths</name>
+    <role>Pilot #2</role>
+    <type>Actor</type>
+    <tmdbid>2440155</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Green</name>
+    <role>Minos Technician #1</role>
+    <type>Actor</type>
+    <tmdbid>2440158</tmdbid>
+  </actor>
+  <actor>
+    <name>Raven Swart</name>
+    <role>Minos Technician #2</role>
+    <type>Actor</type>
+    <tmdbid>1450471</tmdbid>
+    <imdbid>nm6554354</imdbid>
+  </actor>
+  <director tmdbid="1306608" imdbid="nm0733263">Adam Robitel</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6dSKUoV0SNI</trailer>
+  <rating>6.4</rating>
+  <year>2019</year>
+  <mpaa>HK-IIB</mpaa>
+  <imdbid>tt5886046</imdbid>
+  <tmdbid>522681</tmdbid>
+  <premiered>2019-01-03</premiered>
+  <releasedate>2019-01-03</releasedate>
+  <criticrating>51</criticrating>
+  <runtime>100</runtime>
+  <tagline>致命游戏 解谜求生</tagline>
+  <country>United States of America</country>
+  <genre>惊悚</genre>
+  <genre>动作</genre>
+  <genre>悬疑</genre>
+  <genre>冒险</genre>
+  <genre>恐怖</genre>
+  <studio>Original Film</studio>
+  <studio>Columbia Pictures</studio>
+  <studio>Sony Pictures</studio>
+  <set tmdbcolid="769423">
+    <name>密室逃生（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">522681</uniqueid>
+  <uniqueid type="Imdb">tt5886046</uniqueid>
+  <id>tt5886046</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10993371</bitrate>
+        <width>1920</width>
+        <height>808</height>
+        <aspect>240:101</aspect>
+        <aspectratio>240:101</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5977</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

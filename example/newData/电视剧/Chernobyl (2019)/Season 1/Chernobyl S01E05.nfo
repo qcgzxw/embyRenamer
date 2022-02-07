@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[瓦列利·列加索夫、鲍里斯·谢比纳和乌拉娜·霍缪克冒着生命和名誉扫地的危险揭露出了切尔诺贝利灾难的真相。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-06-08 11:52:59</dateadded>
+  <title>永恒的记忆</title>
+  <actor>
+    <name>Jared Harris</name>
+    <role>Valery Legasov</role>
+    <type>Actor</type>
+    <tmdbid>15440</tmdbid>
+    <imdbid>nm0364813</imdbid>
+  </actor>
+  <actor>
+    <name>Stellan Skarsgård</name>
+    <role>Boris Shcherbina</role>
+    <type>Actor</type>
+    <tmdbid>1640</tmdbid>
+    <imdbid>nm0001745</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Watson</name>
+    <role>Ulana Khomyuk</role>
+    <type>Actor</type>
+    <tmdbid>1639</tmdbid>
+    <imdbid>nm0001833</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Ritter</name>
+    <role>Anatoly Dyatlov</role>
+    <type>Actor</type>
+    <tmdbid>52888</tmdbid>
+    <imdbid>nm0728795</imdbid>
+  </actor>
+  <actor>
+    <name>Jessie Buckley</name>
+    <role>Lyudmilla Ignatenko</role>
+    <type>Actor</type>
+    <tmdbid>1498158</tmdbid>
+    <imdbid>nm2976580</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Nagaitis</name>
+    <role>Vasily Ignatenko</role>
+    <type>Actor</type>
+    <tmdbid>1435230</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Troughton</name>
+    <role>Alexandr Akimov</role>
+    <type>Actor</type>
+    <tmdbid>5421</tmdbid>
+    <imdbid>nm0873744</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Emms</name>
+    <role>Leonid Toptunov</role>
+    <type>Actor</type>
+    <tmdbid>589652</tmdbid>
+    <imdbid>nm3016166</imdbid>
+  </actor>
+  <actor>
+    <name>Con O'Neill</name>
+    <role>Viktor Bryukhanov</role>
+    <type>Actor</type>
+    <tmdbid>96279</tmdbid>
+    <imdbid>nm0642126</imdbid>
+  </actor>
+  <actor>
+    <name>Adrian Rawlins</name>
+    <role>Nikolai Fomin</role>
+    <type>Actor</type>
+    <tmdbid>1643</tmdbid>
+    <imdbid>nm0712628</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Williams</name>
+    <role>KGB Chairman Charkov</role>
+    <type>Actor</type>
+    <tmdbid>122589</tmdbid>
+  </actor>
+  <actor>
+    <name>David Dencik</name>
+    <role>Mikhail Gorbachev</role>
+    <type>Actor</type>
+    <tmdbid>93236</tmdbid>
+    <imdbid>nm1399770</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Lewis Jones</name>
+    <role>General Pikalov</role>
+    <type>Actor</type>
+    <tmdbid>185460</tmdbid>
+  </actor>
+  <actor>
+    <name>Ralph Ineson</name>
+    <role>General Tarakanov</role>
+    <type>Actor</type>
+    <tmdbid>202032</tmdbid>
+    <imdbid>nm0408591</imdbid>
+  </actor>
+  <actor>
+    <name>Barry Keoghan</name>
+    <role>Pavel</role>
+    <type>Actor</type>
+    <tmdbid>1290466</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Ferns</name>
+    <role>Glukhov</role>
+    <type>Actor</type>
+    <tmdbid>60416</tmdbid>
+    <imdbid>nm0273159</imdbid>
+  </actor>
+  <actor>
+    <name>Fares Fares</name>
+    <role>Bacho</role>
+    <type>Actor</type>
+    <tmdbid>57012</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael McElhatton</name>
+    <role>Prosecutor Andrei Stepashin</role>
+    <type>Actor</type>
+    <tmdbid>73288</tmdbid>
+  </actor>
+  <actor>
+    <name>Douggie McMeekin</name>
+    <role>Yuvchenko</role>
+    <type>GuestStar</type>
+    <tmdbid>1625156</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Elphinstone</name>
+    <role>Oksana</role>
+    <type>GuestStar</type>
+    <tmdbid>1761275</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Socha</name>
+    <role>Mikhail</role>
+    <type>GuestStar</type>
+    <tmdbid>126171</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamie Sives</name>
+    <role>Sitnikov</role>
+    <type>GuestStar</type>
+    <tmdbid>1833</tmdbid>
+  </actor>
+  <actor>
+    <name>Simonas Dovidauskas</name>
+    <role>KGB Driver</role>
+    <type>GuestStar</type>
+    <tmdbid>2194800</tmdbid>
+  </actor>
+  <actor>
+    <name>Hilton McRae</name>
+    <role>Judge Milan Kadnikov</role>
+    <type>GuestStar</type>
+    <tmdbid>72705</tmdbid>
+  </actor>
+  <actor>
+    <name>Kieran O'Brien</name>
+    <role>Khodemchuck</role>
+    <type>GuestStar</type>
+    <tmdbid>176</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Lundgren</name>
+    <role>Brazhnik</role>
+    <type>GuestStar</type>
+    <tmdbid>526011</tmdbid>
+  </actor>
+  <actor>
+    <name>Karl Davies</name>
+    <role>Viktor Proskuryakov</role>
+    <type>GuestStar</type>
+    <tmdbid>1220189</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Simpson</name>
+    <role>Perevozchenko</role>
+    <type>GuestStar</type>
+    <tmdbid>86467</tmdbid>
+  </actor>
+  <actor>
+    <name>Billy Postlethwaite</name>
+    <role>Boris Stolyarchuk</role>
+    <type>GuestStar</type>
+    <tmdbid>1642036</tmdbid>
+  </actor>
+  <actor>
+    <name>Ross Armstrong</name>
+    <role>Nikolai Gorbachenko</role>
+    <type>GuestStar</type>
+    <tmdbid>1576829</tmdbid>
+  </actor>
+  <actor>
+    <name>Paulius Markevičius</name>
+    <role>Aleksandr Kudryavstev</role>
+    <type>GuestStar</type>
+    <tmdbid>1743455</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Leese</name>
+    <role>Kirschenbaum</role>
+    <type>GuestStar</type>
+    <tmdbid>2313960</tmdbid>
+  </actor>
+  <actor>
+    <name>Karolis Kasperavičius</name>
+    <role>Viktor Degtaryenko</role>
+    <type>GuestStar</type>
+    <tmdbid>2033547</tmdbid>
+  </actor>
+  <actor>
+    <name>Jan Ricica</name>
+    <role>Oksana's Kid</role>
+    <type>GuestStar</type>
+    <tmdbid>2313959</tmdbid>
+  </actor>
+  <director>Johan Renck</director>
+  <rating>9.5</rating>
+  <year>2019</year>
+  <imdbid>tt9166696</imdbid>
+  <tvdbid>7116987</tvdbid>
+  <runtime>76</runtime>
+  <genre>Drama</genre>
+  <genre>History</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt9166696</uniqueid>
+  <uniqueid type="Tvdb">7116987</uniqueid>
+  <episode>5</episode>
+  <season>1</season>
+  <aired>2019-06-03</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1802105</bitrate>
+        <width>1280</width>
+        <height>640</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>75</duration>
+        <durationinseconds>4550</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>488728</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

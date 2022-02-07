@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[当世界陷入混乱时，塞拉克（Serac）趁机控制了德洛斯公司（Delos），并最终发现了夏洛特（Charlotte）的计划和身份。 梅芙（Maeve）获得阻止德洛莉丝（Dolores）的最后机会。 威廉（William）开始接受精神治疗...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-05-21 04:54:38</dateadded>
+  <title>退相干</title>
+  <actor>
+    <name>Evan Rachel Wood</name>
+    <role>Dolores Abernathy</role>
+    <type>Actor</type>
+    <tmdbid>38940</tmdbid>
+    <imdbid>nm0939697</imdbid>
+  </actor>
+  <actor>
+    <name>Thandie Newton</name>
+    <role>Maeve Millay</role>
+    <type>Actor</type>
+    <tmdbid>9030</tmdbid>
+    <imdbid>nm0628601</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Wright</name>
+    <role>Bernard Lowe</role>
+    <type>Actor</type>
+    <tmdbid>2954</tmdbid>
+    <imdbid>nm0942482</imdbid>
+  </actor>
+  <actor>
+    <name>Tessa Thompson</name>
+    <role>Charlotte Hale</role>
+    <type>Actor</type>
+    <tmdbid>62561</tmdbid>
+    <imdbid>nm1935086</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Harris</name>
+    <role>Man in Black</role>
+    <type>Actor</type>
+    <tmdbid>228</tmdbid>
+    <imdbid>nm0000438</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Caleb</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Vincent Cassel</name>
+    <role>Serac</role>
+    <type>Actor</type>
+    <tmdbid>1925</tmdbid>
+    <imdbid>nm0001993</imdbid>
+  </actor>
+  <actor>
+    <name>Katja Herbers</name>
+    <role>Emily Grace</role>
+    <type>GuestStar</type>
+    <tmdbid>102137</tmdbid>
+    <imdbid>nm1126156</imdbid>
+  </actor>
+  <actor>
+    <name>Rodrigo Santoro</name>
+    <role>Hector Escaton</role>
+    <type>GuestStar</type>
+    <tmdbid>17289</tmdbid>
+    <imdbid>nm0763928</imdbid>
+  </actor>
+  <actor>
+    <name>Payman Maadi</name>
+    <role>Elliot</role>
+    <type>GuestStar</type>
+    <tmdbid>559566</tmdbid>
+  </actor>
+  <actor>
+    <name>Charmin Lee</name>
+    <role>Joanna</role>
+    <type>GuestStar</type>
+    <tmdbid>1628087</tmdbid>
+    <imdbid>nm0496980</imdbid>
+  </actor>
+  <actor>
+    <name>Russell Wong</name>
+    <role>Brompton</role>
+    <type>GuestStar</type>
+    <tmdbid>21354</tmdbid>
+    <imdbid>nm0005568</imdbid>
+  </actor>
+  <actor>
+    <name>Zayd Kiszonak</name>
+    <role>Child William</role>
+    <type>GuestStar</type>
+    <tmdbid>2655125</tmdbid>
+  </actor>
+  <actor>
+    <name>Siena Goines</name>
+    <role>Dr. Natasha Lang</role>
+    <type>GuestStar</type>
+    <tmdbid>116475</tmdbid>
+    <imdbid>nm0324788</imdbid>
+  </actor>
+  <actor>
+    <name>Louis Ferreira</name>
+    <role>Dr. Alpert</role>
+    <type>GuestStar</type>
+    <tmdbid>51036</tmdbid>
+    <imdbid>nm0274371</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Stamm</name>
+    <role>Sauer</role>
+    <type>GuestStar</type>
+    <tmdbid>1444927</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason McBeth</name>
+    <role>Father</role>
+    <type>GuestStar</type>
+    <tmdbid>2133679</tmdbid>
+  </actor>
+  <actor>
+    <name>Sadie Stratton</name>
+    <role>Mother</role>
+    <type>GuestStar</type>
+    <tmdbid>154615</tmdbid>
+  </actor>
+  <actor>
+    <name>Troy Ian Hall</name>
+    <role>Levon</role>
+    <type>GuestStar</type>
+    <tmdbid>2529396</tmdbid>
+  </actor>
+  <actor>
+    <name>Solomon Brende</name>
+    <role>Orderly</role>
+    <type>GuestStar</type>
+    <tmdbid>2083441</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Salazar</name>
+    <role>Worker</role>
+    <type>GuestStar</type>
+    <tmdbid>2181888</tmdbid>
+  </actor>
+  <actor>
+    <name>Eddie Perez</name>
+    <role>Nurse</role>
+    <type>GuestStar</type>
+    <tmdbid>1031469</tmdbid>
+    <imdbid>nm0673472</imdbid>
+  </actor>
+  <actor>
+    <name>Geri-Nikole Love</name>
+    <role>Nurse</role>
+    <type>GuestStar</type>
+    <tmdbid>1328422</tmdbid>
+  </actor>
+  <actor>
+    <name>Gregory Zarian</name>
+    <role>Reed Phillips</role>
+    <type>GuestStar</type>
+    <tmdbid>1415722</tmdbid>
+  </actor>
+  <actor>
+    <name>Annie Karstens</name>
+    <role>Female Tech</role>
+    <type>GuestStar</type>
+    <tmdbid>2655139</tmdbid>
+  </actor>
+  <actor>
+    <name>Iddo Goldberg</name>
+    <role>Sebastian</role>
+    <type>GuestStar</type>
+    <tmdbid>94958</tmdbid>
+    <imdbid>nm0325221</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Ealy</name>
+    <role>Jake Reed</role>
+    <type>GuestStar</type>
+    <tmdbid>8177</tmdbid>
+    <imdbid>nm1013003</imdbid>
+  </actor>
+  <director>Jennifer Getzinger</director>
+  <rating>7.409</rating>
+  <year>2020</year>
+  <imdbid>tt10011156</imdbid>
+  <tvdbid>7579000</tvdbid>
+  <runtime>59</runtime>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt10011156</uniqueid>
+  <uniqueid type="Tvdb">7579000</uniqueid>
+  <episode>6</episode>
+  <season>3</season>
+  <aired>2020-04-19</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10012449</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>58</duration>
+        <durationinseconds>3535</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

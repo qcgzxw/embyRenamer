@@ -1,0 +1,478 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[马克思的兄弟布鲁克斯筹划“谋杀”派对后却遭绑架，马克思、安妮以为这只是一场游戏，但显然他们已陷入困境。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-05-07 08:39:22</dateadded>
+  <title>游戏之夜</title>
+  <originaltitle>Game Night</originaltitle>
+  <actor>
+    <name>Jason Bateman</name>
+    <role>Max Davis</role>
+    <type>Actor</type>
+    <tmdbid>23532</tmdbid>
+    <imdbid>nm0000867</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel McAdams</name>
+    <role>Annie Davis</role>
+    <type>Actor</type>
+    <tmdbid>53714</tmdbid>
+    <imdbid>nm1046097</imdbid>
+  </actor>
+  <actor>
+    <name>Kyle Chandler</name>
+    <role>Brooks Davis</role>
+    <type>Actor</type>
+    <tmdbid>3497</tmdbid>
+    <imdbid>nm0151419</imdbid>
+  </actor>
+  <actor>
+    <name>Sharon Horgan</name>
+    <role>Sarah Darcy</role>
+    <type>Actor</type>
+    <tmdbid>21676</tmdbid>
+    <imdbid>nm1279721</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Magnussen</name>
+    <role>Ryan Huddle</role>
+    <type>Actor</type>
+    <tmdbid>141034</tmdbid>
+    <imdbid>nm2915105</imdbid>
+  </actor>
+  <actor>
+    <name>Lamorne Morris</name>
+    <role>Kevin Sterling</role>
+    <type>Actor</type>
+    <tmdbid>1181327</tmdbid>
+    <imdbid>nm2031358</imdbid>
+  </actor>
+  <actor>
+    <name>Kylie Bunbury</name>
+    <role>Michelle Sterling</role>
+    <type>Actor</type>
+    <tmdbid>999346</tmdbid>
+    <imdbid>nm3954896</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse Plemons</name>
+    <role>Gary Kingsbury</role>
+    <type>Actor</type>
+    <tmdbid>88124</tmdbid>
+    <imdbid>nm0687146</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Wright</name>
+    <role>FBI Agent Henderson</role>
+    <type>Actor</type>
+    <tmdbid>2954</tmdbid>
+    <imdbid>nm0942482</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Huston</name>
+    <role>Donald Anderton</role>
+    <type>Actor</type>
+    <tmdbid>6413</tmdbid>
+    <imdbid>nm0396812</imdbid>
+  </actor>
+  <actor>
+    <name>Michael C. Hall</name>
+    <role>The Bulgarian</role>
+    <type>Actor</type>
+    <tmdbid>53820</tmdbid>
+    <imdbid>nm0355910</imdbid>
+  </actor>
+  <actor>
+    <name>Chelsea Peretti</name>
+    <role>Glenda</role>
+    <type>Actor</type>
+    <tmdbid>1240868</tmdbid>
+    <imdbid>nm2003229</imdbid>
+  </actor>
+  <actor>
+    <name>Camille Chen</name>
+    <role>Dr. Chin</role>
+    <type>Actor</type>
+    <tmdbid>1218266</tmdbid>
+    <imdbid>nm0155166</imdbid>
+  </actor>
+  <actor>
+    <name>Zerrick Williams</name>
+    <role>Val</role>
+    <type>Actor</type>
+    <tmdbid>1991236</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Mikel</name>
+    <role>Colin</role>
+    <type>Actor</type>
+    <tmdbid>1046665</tmdbid>
+    <imdbid>nm2282254</imdbid>
+  </actor>
+  <actor>
+    <name>R.F. Daley</name>
+    <role>Tats</role>
+    <type>Actor</type>
+    <tmdbid>1503929</tmdbid>
+    <imdbid>nm1010938</imdbid>
+  </actor>
+  <actor>
+    <name>John Francis Daley</name>
+    <role>Carter</role>
+    <type>Actor</type>
+    <tmdbid>52935</tmdbid>
+    <imdbid>nm0197855</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Cyril Creighton</name>
+    <role>Bill</role>
+    <type>Actor</type>
+    <tmdbid>1325715</tmdbid>
+    <imdbid>nm1644112</imdbid>
+  </actor>
+  <actor>
+    <name>Brooke Jaye Taylor</name>
+    <role>Linda</role>
+    <type>Actor</type>
+    <tmdbid>1503930</tmdbid>
+    <imdbid>nm2349949</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Goldstein</name>
+    <role>Dan</role>
+    <type>Actor</type>
+    <tmdbid>111511</tmdbid>
+    <imdbid>nm0326245</imdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Haynes Hazzard</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>2055676</tmdbid>
+  </actor>
+  <actor>
+    <name>Chad Lail</name>
+    <role>Bulgarian Goon</role>
+    <type>Actor</type>
+    <tmdbid>1513914</tmdbid>
+  </actor>
+  <actor>
+    <name>Natasha Hall</name>
+    <role>Madison</role>
+    <type>Actor</type>
+    <tmdbid>1442956</tmdbid>
+    <imdbid>nm1706020</imdbid>
+  </actor>
+  <actor>
+    <name>Loren Schaffer</name>
+    <role>Ryan's Date</role>
+    <type>Actor</type>
+    <tmdbid>2055677</tmdbid>
+  </actor>
+  <actor>
+    <name>Kabby Borders</name>
+    <role>Ryan's Date</role>
+    <type>Actor</type>
+    <tmdbid>1466540</tmdbid>
+    <imdbid>nm3813298</imdbid>
+  </actor>
+  <actor>
+    <name>Kelly Johns</name>
+    <role>Ryan's Date</role>
+    <type>Actor</type>
+    <tmdbid>2055679</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Witting</name>
+    <role>Clown</role>
+    <type>Actor</type>
+    <tmdbid>152864</tmdbid>
+    <imdbid>nm0937059</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Benator</name>
+    <role>Clown</role>
+    <type>Actor</type>
+    <tmdbid>1217651</tmdbid>
+    <imdbid>nm0070235</imdbid>
+  </actor>
+  <actor>
+    <name>Malcolm X. Hughes</name>
+    <role>Not Denzel / Kenny</role>
+    <type>Actor</type>
+    <tmdbid>1991237</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Lee</name>
+    <role>Debbie</role>
+    <type>Actor</type>
+    <tmdbid>2055674</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia</name>
+    <role>Bastian</role>
+    <type>Actor</type>
+    <tmdbid>2205502</tmdbid>
+  </actor>
+  <actor>
+    <name>Bobby Akers</name>
+    <role>Rich Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>1752884</tmdbid>
+    <imdbid>nm5976574</imdbid>
+  </actor>
+  <actor>
+    <name>Buddy Cannon</name>
+    <role>Wedding Guest</role>
+    <type>Actor</type>
+    <tmdbid>2613519</tmdbid>
+  </actor>
+  <actor>
+    <name>Vinny Costa</name>
+    <role>Wedding Guest</role>
+    <type>Actor</type>
+    <tmdbid>2038195</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmen Dash</name>
+    <role>Club Girl</role>
+    <type>Actor</type>
+    <tmdbid>2613517</tmdbid>
+  </actor>
+  <actor>
+    <name>Robin Dyke</name>
+    <role>Wasp</role>
+    <type>Actor</type>
+    <tmdbid>2613516</tmdbid>
+  </actor>
+  <actor>
+    <name>Abigail Ford</name>
+    <role>Mrs. Anderton</role>
+    <type>Actor</type>
+    <tmdbid>2613515</tmdbid>
+  </actor>
+  <actor>
+    <name>Renah Gallagher</name>
+    <role>Infertility Clinic Patient</role>
+    <type>Actor</type>
+    <tmdbid>1883312</tmdbid>
+    <imdbid>nm8543248</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Gerrard</name>
+    <role>Rich Guy</role>
+    <type>Actor</type>
+    <tmdbid>2613514</tmdbid>
+  </actor>
+  <actor>
+    <name>Caleb Heiland</name>
+    <role>Convinient Store Kid</role>
+    <type>Actor</type>
+    <tmdbid>2613512</tmdbid>
+  </actor>
+  <actor>
+    <name>Candy Ibarra</name>
+    <role>Rachel Burns</role>
+    <type>Actor</type>
+    <tmdbid>2470261</tmdbid>
+    <imdbid>nm3137448</imdbid>
+  </actor>
+  <actor>
+    <name>August Kensington</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>2613511</tmdbid>
+  </actor>
+  <actor>
+    <name>Douglas LaPonzina</name>
+    <role>Party Attendee</role>
+    <type>Actor</type>
+    <tmdbid>2613510</tmdbid>
+  </actor>
+  <actor>
+    <name>Trent Longo</name>
+    <role>Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>2613509</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Lucente</name>
+    <role>Dan Steele</role>
+    <type>Actor</type>
+    <tmdbid>1542600</tmdbid>
+    <imdbid>nm7341201</imdbid>
+  </actor>
+  <actor>
+    <name>Curtis Lyons</name>
+    <role>Logan</role>
+    <type>Actor</type>
+    <tmdbid>1836649</tmdbid>
+    <imdbid>nm2315274</imdbid>
+  </actor>
+  <actor>
+    <name>Brendan O'Donovan</name>
+    <role>Fight Fan</role>
+    <type>Actor</type>
+    <tmdbid>2613508</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Ohara</name>
+    <role>Kramer</role>
+    <type>Actor</type>
+    <tmdbid>2613507</tmdbid>
+  </actor>
+  <actor>
+    <name>Shamara Rayner</name>
+    <role>Wedding Guest</role>
+    <type>Actor</type>
+    <tmdbid>2613504</tmdbid>
+  </actor>
+  <actor>
+    <name>Persephonie Rose</name>
+    <role>Club Girl</role>
+    <type>Actor</type>
+    <tmdbid>1993859</tmdbid>
+  </actor>
+  <actor>
+    <name>Liz Sanford</name>
+    <role>Wedding Guest</role>
+    <type>Actor</type>
+    <tmdbid>2613501</tmdbid>
+  </actor>
+  <actor>
+    <name>William G. Tomek</name>
+    <role>Wedding Reception Guest</role>
+    <type>Actor</type>
+    <tmdbid>2163720</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Tracy</name>
+    <role>Proposal Night Guest</role>
+    <type>Actor</type>
+    <tmdbid>2594870</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Twombley</name>
+    <role>Michael Bates</role>
+    <type>Actor</type>
+    <tmdbid>2613496</tmdbid>
+  </actor>
+  <actor>
+    <name>Corinne van den Heuvel</name>
+    <role>Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>2613495</tmdbid>
+  </actor>
+  <actor>
+    <name>Grace Wan</name>
+    <role>Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>1822332</tmdbid>
+    <imdbid>nm2324164</imdbid>
+  </actor>
+  <actor>
+    <name>Marvin E. West</name>
+    <role>Wall Street Guy</role>
+    <type>Actor</type>
+    <tmdbid>1635152</tmdbid>
+    <imdbid>nm1218295</imdbid>
+  </actor>
+  <actor>
+    <name>Maria Z. Wilson</name>
+    <role>Wedding Guest</role>
+    <type>Actor</type>
+    <tmdbid>2090856</tmdbid>
+    <imdbid>nm9212210</imdbid>
+  </actor>
+  <actor>
+    <name>Michael David Yuhl</name>
+    <role>Anderton Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>1787401</tmdbid>
+  </actor>
+  <director tmdbid="52935" imdbid="nm0197855">John Francis Daley</director>
+  <director tmdbid="1236679" imdbid="nm0326246">Jonathan M. Goldstein</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-76o69txkZs</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qmxMAdV6s4U</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XrR4SFtr0wg</trailer>
+  <rating>6.9</rating>
+  <year>2018</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt2704998</imdbid>
+  <tmdbid>445571</tmdbid>
+  <premiered>2018-02-22</premiered>
+  <releasedate>2018-02-22</releasedate>
+  <criticrating>85</criticrating>
+  <runtime>100</runtime>
+  <country>United States of America</country>
+  <genre>悬疑</genre>
+  <genre>喜剧</genre>
+  <genre>犯罪</genre>
+  <studio>New Line Cinema</studio>
+  <studio>Aggregate Films</studio>
+  <studio>Davis Entertainment</studio>
+  <studio>Access Entertainment</studio>
+  <studio>Access Industries</studio>
+  <studio>Dune Entertainment</studio>
+  <uniqueid type="Imdb">tt2704998</uniqueid>
+  <uniqueid type="Tmdb">445571</uniqueid>
+  <id>tt2704998</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>8288510</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6001</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>2000</width>
+        <height>3000</height>
+        <aspect>2:3</aspect>
+        <aspectratio>2:3</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

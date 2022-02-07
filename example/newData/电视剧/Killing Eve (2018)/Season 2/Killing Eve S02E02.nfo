@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Villanelle finds a Good Samaritan to take her in, while Carolyn introduces Eve to her new team.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-06-24 15:40:55</dateadded>
+  <title>干净俐落</title>
+  <actor>
+    <name>Sandra Oh</name>
+    <role>Eve Polastri</role>
+    <type>Actor</type>
+    <tmdbid>25540</tmdbid>
+    <imdbid>nm0644897</imdbid>
+  </actor>
+  <actor>
+    <name>Jodie Comer</name>
+    <role>Villanelle</role>
+    <type>Actor</type>
+    <tmdbid>1388593</tmdbid>
+    <imdbid>nm3069650</imdbid>
+  </actor>
+  <actor>
+    <name>Fiona Shaw</name>
+    <role>Carolyn Martens</role>
+    <type>Actor</type>
+    <tmdbid>10981</tmdbid>
+    <imdbid>nm0789716</imdbid>
+  </actor>
+  <actor>
+    <name>Nina Sosanya</name>
+    <role>Jess</role>
+    <type>Actor</type>
+    <tmdbid>7063</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Bodnia</name>
+    <role>Konstantin</role>
+    <type>Actor</type>
+    <tmdbid>3398</tmdbid>
+    <imdbid>nm0091035</imdbid>
+  </actor>
+  <actor>
+    <name>Edward Bluemel</name>
+    <role>Hugo</role>
+    <type>Actor</type>
+    <tmdbid>1731315</tmdbid>
+  </actor>
+  <actor>
+    <name>Owen McDonnell</name>
+    <role>Niko Polastri</role>
+    <type>Actor</type>
+    <tmdbid>365333</tmdbid>
+    <imdbid>nm1711652</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Delaney</name>
+    <role>Kenny Stowton</role>
+    <type>Actor</type>
+    <tmdbid>2021417</tmdbid>
+    <imdbid>nm7780301</imdbid>
+  </actor>
+  <actor>
+    <name>Victoria Howell</name>
+    <role>Launderette Owner</role>
+    <type>GuestStar</type>
+    <tmdbid>2297424</tmdbid>
+    <imdbid>nm1771595</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Hanratty</name>
+    <role>Supermarket Cashier</role>
+    <type>GuestStar</type>
+    <tmdbid>2297425</tmdbid>
+    <imdbid>nm7411781</imdbid>
+  </actor>
+  <actor>
+    <name>Diana Payan</name>
+    <role>Julian's Mother</role>
+    <type>GuestStar</type>
+    <tmdbid>208206</tmdbid>
+    <imdbid>nm0668166</imdbid>
+  </actor>
+  <actor>
+    <name>Claire Vousden</name>
+    <role>Supermarket Woman</role>
+    <type>GuestStar</type>
+    <tmdbid>2297426</tmdbid>
+    <imdbid>nm0903858</imdbid>
+  </actor>
+  <actor>
+    <name>Luke de Woolfson</name>
+    <role>British Dad</role>
+    <type>GuestStar</type>
+    <tmdbid>82636</tmdbid>
+    <imdbid>nm0212472</imdbid>
+  </actor>
+  <actor>
+    <name>Julian Barratt</name>
+    <role>Julian</role>
+    <type>GuestStar</type>
+    <tmdbid>98104</tmdbid>
+  </actor>
+  <actor>
+    <name>Jung Sun den Hollander</name>
+    <role>Jin / The Ghost</role>
+    <type>GuestStar</type>
+    <tmdbid>2297427</tmdbid>
+    <imdbid>nm5126666</imdbid>
+  </actor>
+  <actor>
+    <name>Shannon Tarbet</name>
+    <role>Amber Peel</role>
+    <type>GuestStar</type>
+    <tmdbid>1305924</tmdbid>
+    <imdbid>nm4381014</imdbid>
+  </actor>
+  <actor>
+    <name>Henry Lloyd-Hughes</name>
+    <role>Aaron Peel</role>
+    <type>GuestStar</type>
+    <tmdbid>513677</tmdbid>
+    <imdbid>nm1631222</imdbid>
+  </actor>
+  <actor>
+    <name>Adrian Scarborough</name>
+    <role>Raymond</role>
+    <type>GuestStar</type>
+    <tmdbid>40311</tmdbid>
+    <imdbid>nm0769083</imdbid>
+  </actor>
+  <director>Damon Thomas</director>
+  <rating>8.5</rating>
+  <year>2019</year>
+  <imdbid>tt9264262</imdbid>
+  <tvdbid>7062895</tvdbid>
+  <runtime>44</runtime>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt9264262</uniqueid>
+  <uniqueid type="Tvdb">7062895</uniqueid>
+  <episode>2</episode>
+  <season>2</season>
+  <aired>2019-04-14</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10680201</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>43</duration>
+        <durationinseconds>2635</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

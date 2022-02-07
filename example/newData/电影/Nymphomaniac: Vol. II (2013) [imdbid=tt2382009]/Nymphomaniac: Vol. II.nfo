@@ -1,0 +1,399 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[女性瘾者Joe继续向Seligman讲述自己的性经历。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-06-27 10:53:24</dateadded>
+  <title>女性瘾者：第二部</title>
+  <originaltitle>Nymphomaniac: Vol. II</originaltitle>
+  <actor>
+    <name>Charlotte Gainsbourg</name>
+    <role>Joe</role>
+    <type>Actor</type>
+    <tmdbid>4273</tmdbid>
+    <imdbid>nm0001250</imdbid>
+  </actor>
+  <actor>
+    <name>Stellan Skarsgård</name>
+    <role>Seligman</role>
+    <type>Actor</type>
+    <tmdbid>1640</tmdbid>
+    <imdbid>nm0001745</imdbid>
+  </actor>
+  <actor>
+    <name>Shia LaBeouf</name>
+    <role>Jerôme</role>
+    <type>Actor</type>
+    <tmdbid>10959</tmdbid>
+    <imdbid>nm0479471</imdbid>
+  </actor>
+  <actor>
+    <name>Willem Dafoe</name>
+    <role>L</role>
+    <type>Actor</type>
+    <tmdbid>5293</tmdbid>
+    <imdbid>nm0000353</imdbid>
+  </actor>
+  <actor>
+    <name>Stacy Martin</name>
+    <role>Young Joe</role>
+    <type>Actor</type>
+    <tmdbid>1137823</tmdbid>
+    <imdbid>nm5237479</imdbid>
+  </actor>
+  <actor>
+    <name>Udo Kier</name>
+    <role>The Waiter</role>
+    <type>Actor</type>
+    <tmdbid>1646</tmdbid>
+    <imdbid>nm0001424</imdbid>
+  </actor>
+  <actor>
+    <name>Jean-Marc Barr</name>
+    <role>Debtor Gentleman</role>
+    <type>Actor</type>
+    <tmdbid>1642</tmdbid>
+    <imdbid>nm0000852</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Bell</name>
+    <role>K</role>
+    <type>Actor</type>
+    <tmdbid>478</tmdbid>
+    <imdbid>nm0068260</imdbid>
+  </actor>
+  <actor>
+    <name>Mia Goth</name>
+    <role>P</role>
+    <type>Actor</type>
+    <tmdbid>1137824</tmdbid>
+    <imdbid>nm5301405</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Pas</name>
+    <role>Old Jerôme</role>
+    <type>Actor</type>
+    <tmdbid>140493</tmdbid>
+    <imdbid>nm0664203</imdbid>
+  </actor>
+  <actor>
+    <name>Shanti Roney</name>
+    <role>Interpreter</role>
+    <type>Actor</type>
+    <tmdbid>11044</tmdbid>
+    <imdbid>nm0740075</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Ashfield</name>
+    <role>Therapist</role>
+    <type>Actor</type>
+    <tmdbid>11110</tmdbid>
+    <imdbid>nm0038918</imdbid>
+  </actor>
+  <actor>
+    <name>Sophie Kennedy Clark</name>
+    <role>B</role>
+    <type>Actor</type>
+    <tmdbid>1151957</tmdbid>
+    <imdbid>nm4080531</imdbid>
+  </actor>
+  <actor>
+    <name>Lien Van De Kelder</name>
+    <role>Clerk in Horse Shop</role>
+    <type>Actor</type>
+    <tmdbid>237837</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Christensen</name>
+    <role>Babysitter</role>
+    <type>Actor</type>
+    <tmdbid>83011</tmdbid>
+    <imdbid>nm0159836</imdbid>
+  </actor>
+  <actor>
+    <name>Caroline Goodall</name>
+    <role>Psychologist</role>
+    <type>Actor</type>
+    <tmdbid>6692</tmdbid>
+    <imdbid>nm0328751</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Slater</name>
+    <role>Joe's Father</role>
+    <type>Actor</type>
+    <tmdbid>2224</tmdbid>
+    <imdbid>nm0000225</imdbid>
+  </actor>
+  <actor>
+    <name>Uma Thurman</name>
+    <role>Mrs. H</role>
+    <type>Actor</type>
+    <tmdbid>139</tmdbid>
+    <imdbid>nm0000235</imdbid>
+  </actor>
+  <actor>
+    <name>Tania Carlin</name>
+    <role>Renee</role>
+    <type>Actor</type>
+    <tmdbid>1137827</tmdbid>
+    <imdbid>nm5293787</imdbid>
+  </actor>
+  <actor>
+    <name>Maja Arsovic</name>
+    <role>Joe - 7 Years</role>
+    <type>Actor</type>
+    <tmdbid>1444099</tmdbid>
+    <imdbid>nm6167276</imdbid>
+  </actor>
+  <actor>
+    <name>Ananya Berg</name>
+    <role>Joe - 10 Years</role>
+    <type>Actor</type>
+    <tmdbid>1385628</tmdbid>
+    <imdbid>nm6174040</imdbid>
+  </actor>
+  <actor>
+    <name>Morgan Hartley</name>
+    <role>B - 12 Years</role>
+    <type>Actor</type>
+    <tmdbid>1444127</tmdbid>
+    <imdbid>nm6364543</imdbid>
+  </actor>
+  <actor>
+    <name>Andrea Thomsen</name>
+    <role>Joe's Girlfriend - 12 Years</role>
+    <type>Actor</type>
+    <tmdbid>1444128</tmdbid>
+    <imdbid>nm6280876</imdbid>
+  </actor>
+  <actor>
+    <name>Tine Burn</name>
+    <role>Joe's Girlfriend - 12 Years</role>
+    <type>Actor</type>
+    <tmdbid>1444129</tmdbid>
+    <imdbid>nm6280878</imdbid>
+  </actor>
+  <actor>
+    <name>Tabea Tarbiat</name>
+    <role>Valeria Messalina</role>
+    <type>Actor</type>
+    <tmdbid>1444130</tmdbid>
+    <imdbid>nm2905945</imdbid>
+  </actor>
+  <actor>
+    <name>Janine Romanowski</name>
+    <role>The Whore of Babylon</role>
+    <type>Actor</type>
+    <tmdbid>1444131</tmdbid>
+    <imdbid>nm5410740</imdbid>
+  </actor>
+  <actor>
+    <name>Lawrence Sheldon</name>
+    <role>Man 1 in Car</role>
+    <type>Actor</type>
+    <tmdbid>1444132</tmdbid>
+    <imdbid>nm2953565</imdbid>
+  </actor>
+  <actor>
+    <name>Ivan Pecnik</name>
+    <role>Man 2 in Car</role>
+    <type>Actor</type>
+    <tmdbid>1137826</tmdbid>
+    <imdbid>nm1099293</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Sawdon</name>
+    <role>Man 3 in Car</role>
+    <type>Actor</type>
+    <tmdbid>1012185</tmdbid>
+    <imdbid>nm2694952</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Craig</name>
+    <role>Man 4 in Car</role>
+    <type>Actor</type>
+    <tmdbid>1152394</tmdbid>
+    <imdbid>nm0185811</imdbid>
+  </actor>
+  <actor>
+    <name>Jacob Levin-Christensen</name>
+    <role>Marcel - 3 Years</role>
+    <type>Actor</type>
+    <tmdbid>1441065</tmdbid>
+    <imdbid>nm6280879</imdbid>
+  </actor>
+  <actor>
+    <name>Kookie Ryan</name>
+    <role>N - Black Man</role>
+    <type>Actor</type>
+    <tmdbid>1444134</tmdbid>
+    <imdbid>nm4646000</imdbid>
+  </actor>
+  <actor>
+    <name>Papou</name>
+    <role>Black Man 2</role>
+    <type>Actor</type>
+    <tmdbid>1444135</tmdbid>
+    <imdbid>nm3759149</imdbid>
+  </actor>
+  <actor>
+    <name>Nicole Sandweg</name>
+    <role>Madame</role>
+    <type>Actor</type>
+    <tmdbid>1444136</tmdbid>
+    <imdbid>nm6280880</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Soetaert</name>
+    <role>Boss</role>
+    <type>Actor</type>
+    <tmdbid>1444137</tmdbid>
+    <imdbid>nm6280881</imdbid>
+  </actor>
+  <actor>
+    <name>Sami Loris</name>
+    <role>Doctor 2</role>
+    <type>Actor</type>
+    <tmdbid>129125</tmdbid>
+    <imdbid>nm2264982</imdbid>
+  </actor>
+  <actor>
+    <name>Christine Urspruch</name>
+    <role>Litte My</role>
+    <type>Actor</type>
+    <tmdbid>28201</tmdbid>
+    <imdbid>nm0882162</imdbid>
+  </actor>
+  <actor>
+    <name>Daniela Lebang</name>
+    <role>Brunhelda</role>
+    <type>Actor</type>
+    <tmdbid>1444138</tmdbid>
+    <imdbid>nm0495442</imdbid>
+  </actor>
+  <actor>
+    <name>Omar Shargawi</name>
+    <role>Thug 1</role>
+    <type>Actor</type>
+    <tmdbid>141879</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcus Jakovljevic</name>
+    <role>Thug 2</role>
+    <type>Actor</type>
+    <tmdbid>1329095</tmdbid>
+    <imdbid>nm4575260</imdbid>
+  </actor>
+  <actor>
+    <name>Conny Dachs</name>
+    <role>Debtor Gets Whipped</role>
+    <type>Actor</type>
+    <tmdbid>1145463</tmdbid>
+    <imdbid>nm0196500</imdbid>
+  </actor>
+  <actor>
+    <name>Severin von Hoensbroech</name>
+    <role>Debtor in Greenhouse</role>
+    <type>Actor</type>
+    <tmdbid>1012903</tmdbid>
+    <imdbid>nm1042056</imdbid>
+  </actor>
+  <director tmdbid="42" imdbid="nm0001885">Lars von Trier</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VVIa7tvgKHg</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JPd1-DMkc18</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RY5r1xsYX1w</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jUA28gFO4S4</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ks2q1nMOP5s</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=x0H9fSEDilk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wXOMarZS6t4</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jY05rcPrAss</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=u-PHigXgaWI</trailer>
+  <rating>6.7</rating>
+  <year>2013</year>
+  <mpaa>NR</mpaa>
+  <imdbid>tt2382009</imdbid>
+  <tmdbid>249397</tmdbid>
+  <premiered>2013-12-25</premiered>
+  <releasedate>2013-12-25</releasedate>
+  <criticrating>60</criticrating>
+  <runtime>124</runtime>
+  <country>Germany</country>
+  <country>Belgium</country>
+  <country>Denmark</country>
+  <country>France</country>
+  <country>United Kingdom</country>
+  <country>Sweden</country>
+  <genre>剧情</genre>
+  <genre>悬疑</genre>
+  <studio>Zentropa Entertainments</studio>
+  <studio>ARTE France Cinéma</studio>
+  <set tmdbcolid="258664">
+    <name>女性瘾者（系列）</name>
+  </set>
+  <uniqueid type="Imdb">tt2382009</uniqueid>
+  <uniqueid type="Tmdb">249397</uniqueid>
+  <id>tt2382009</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3737255</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>123</duration>
+        <durationinseconds>7410</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

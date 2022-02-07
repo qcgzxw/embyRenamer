@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[一段往事震撼了菲奥娜对自己生活的看法。弗兰克加入了利亚姆的学校，成为家长会最受欢迎的父亲。利普意识到清醒的时候做爱比预想的要难。 伊恩和一个青少年中心的孩子越界了。小凯和小维去见他的亲生家人。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-17 12:30:51</dateadded>
+  <title>为未来买单</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Isaiah</name>
+    <role>Liam Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>2563541</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Ruby Modine</name>
+    <role>Sierra Morton</role>
+    <type>Actor</type>
+    <tmdbid>1602964</tmdbid>
+    <imdbid>nm4384329</imdbid>
+  </actor>
+  <actor>
+    <name>Isidora Goreshter</name>
+    <role>Svetlana Yevgenivna</role>
+    <type>Actor</type>
+    <tmdbid>1677397</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Michael Campbell</name>
+    <role>Brad</role>
+    <type>GuestStar</type>
+    <tmdbid>65728</tmdbid>
+  </actor>
+  <actor>
+    <name>Elliot Fletcher</name>
+    <role>Trevor</role>
+    <type>GuestStar</type>
+    <tmdbid>1601960</tmdbid>
+  </actor>
+  <actor>
+    <name>Levy Tran</name>
+    <role>Eddie</role>
+    <type>GuestStar</type>
+    <tmdbid>1578220</tmdbid>
+  </actor>
+  <director tmdbid="9788" imdbid="nm0005093">Regina King</director>
+  <rating>8.5</rating>
+  <year>2017</year>
+  <imdbid>tt6402814</imdbid>
+  <tvdbid>6227953</tvdbid>
+  <runtime>54</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt6402814</uniqueid>
+  <uniqueid type="Tvdb">6227953</uniqueid>
+  <episode>4</episode>
+  <season>8</season>
+  <aired>2017-11-26</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11685898</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>53</duration>
+        <durationinseconds>3213</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

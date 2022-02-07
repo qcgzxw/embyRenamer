@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[　　少女玛丽·阿德勒（凯特琳·德弗饰演）报警说自己在家中被一名闯入者强奸，但调查人 员以及她身边的人都怀疑这件事的真实性。与此同时，在数百里外，侦探格雷丝·拉斯马森 和卡伦·杜瓦尔（分别由艾美奖获得者托妮·科莱特和梅里特·韦弗饰演）在调查两起非常 相似的强奸案时相遇，她们合力追捕这名潜藏的连环强奸犯。
+
+　　《难以置信》改编自 The Marshall Project 和 ProPublica 出版的普利策奖获奖文章《令人难以置信的强奸事件（An Unbelievable Story of Rape）》（作者是 T·克里斯琴·米勒和肯·阿姆斯特朗），以及美国生活（This American Life）广播剧集《Anatomy of Doubt》。本剧由荣获奥斯卡提名的苏珊娜·格兰特 和丽莎·查罗登科执导，讲述了难以言表的创伤、坚定的决心和惊人的适应能力。
+
+　　本剧集由 CBS Television Studios 打造，剧集主管苏珊娜·格兰特与萨拉·缇波曼、卡尔 ·比沃利、丽莎·查罗登科、阿耶莱·沃尔德曼、迈克尔·夏邦、凯蒂·柯丽克、理查德· 托弗尔、尼尔·巴尔斯基、罗宾·斯米、玛丽共同担任监制。]]></plot>
+  <outline><![CDATA[　　少女玛丽·阿德勒（凯特琳·德弗饰演）报警说自己在家中被一名闯入者强奸，但调查人 员以及她身边的人都怀疑这件事的真实性。与此同时，在数百里外，侦探格雷丝·拉斯马森 和卡伦·杜瓦尔（分别由艾美奖获得者托妮·科莱特和梅里特·韦弗饰演）在调查两起非常 相似的强奸案时相遇，她们合力追捕这名潜藏的连环强奸犯。
+
+　　《难以置信》改编自 The Marshall Project 和 ProPublica 出版的普利策奖获奖文章《令人难以置信的强奸事件（An Unbelievable Story of Rape）》（作者是 T·克里斯琴·米勒和肯·阿姆斯特朗），以及美国生活（This American Life）广播剧集《Anatomy of Doubt》。本剧由荣获奥斯卡提名的苏珊娜·格兰特 和丽莎·查罗登科执导，讲述了难以言表的创伤、坚定的决心和惊人的适应能力。
+
+　　本剧集由 CBS Television Studios 打造，剧集主管苏珊娜·格兰特与萨拉·缇波曼、卡尔 ·比沃利、丽莎·查罗登科、阿耶莱·沃尔德曼、迈克尔·夏邦、凯蒂·柯丽克、理查德· 托弗尔、尼尔·巴尔斯基、罗宾·斯米、玛丽共同担任监制。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2019-10-13 18:06:25</dateadded>
+  <title>难以置信</title>
+  <originaltitle>Unbelievable</originaltitle>
+  <actor>
+    <name>Kaitlyn Dever</name>
+    <role>Marie Adler</role>
+    <type>Actor</type>
+    <tmdbid>481337</tmdbid>
+    <imdbid>nm3239803</imdbid>
+  </actor>
+  <actor>
+    <name>Toni Collette</name>
+    <role>Detective Grace Rasmussen</role>
+    <type>Actor</type>
+    <tmdbid>3051</tmdbid>
+    <imdbid>nm0001057</imdbid>
+  </actor>
+  <actor>
+    <name>Merritt Wever</name>
+    <role>Detective Karen Duvall</role>
+    <type>Actor</type>
+    <tmdbid>28044</tmdbid>
+    <imdbid>nm0923266</imdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=QTIkUzkbzQk</trailer>
+  <rating>8.1</rating>
+  <year>2019</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt7909970</imdb_id>
+  <tmdbid>91275</tmdbid>
+  <premiered>2019-09-13</premiered>
+  <releasedate>2019-09-13</releasedate>
+  <enddate>2019-09-13</enddate>
+  <runtime>58</runtime>
+  <genre>剧情</genre>
+  <genre>犯罪</genre>
+  <studio>Netflix</studio>
+  <uniqueid type="Imdb">tt7909970</uniqueid>
+  <uniqueid type="Tmdb">91275</uniqueid>
+  <uniqueid type="Tvdb">367030</uniqueid>
+  <tvdbid>367030</tvdbid>
+  <id>367030</id>
+  <episodeguide>
+    <url cache="367030.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/367030/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Ended</status>
+</tvshow>

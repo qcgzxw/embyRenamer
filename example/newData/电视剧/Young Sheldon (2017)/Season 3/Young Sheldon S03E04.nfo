@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[由于对《指环王》的新痴迷导致了一种不健康的习惯，谢尔顿不得不中断科学研究。此外，米茜要求老乔治教她如何玩接球。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-11 23:30:52</dateadded>
+  <title>霍比特人，物理和一个带拉链的球</title>
+  <actor>
+    <name>Iain Armitage</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1684536</tmdbid>
+    <imdbid>nm8071137</imdbid>
+  </actor>
+  <actor>
+    <name>Zoe Perry</name>
+    <role>Mary Cooper</role>
+    <type>Actor</type>
+    <tmdbid>133450</tmdbid>
+    <imdbid>nm1409365</imdbid>
+  </actor>
+  <actor>
+    <name>Lance Barber</name>
+    <role>George Cooper Sr.</role>
+    <type>Actor</type>
+    <tmdbid>1212111</tmdbid>
+    <imdbid>nm1115741</imdbid>
+  </actor>
+  <actor>
+    <name>Montana Jordan</name>
+    <role>Georgie Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1817307</tmdbid>
+    <imdbid>nm7718664</imdbid>
+  </actor>
+  <actor>
+    <name>Raegan Revord</name>
+    <role>Missy Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1575317</tmdbid>
+    <imdbid>nm6862942</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Potts</name>
+    <role>Connie Tucker</role>
+    <type>Actor</type>
+    <tmdbid>8873</tmdbid>
+    <imdbid>nm0001633</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Hobby</name>
+    <role>Jeff Difford</role>
+    <type>Actor</type>
+    <tmdbid>1536526</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Frank Gallegos</name>
+    <role>Frank</role>
+    <type>GuestStar</type>
+    <tmdbid>174454</tmdbid>
+    <imdbid>nm0302740</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Wylde</name>
+    <role>Glenn</role>
+    <type>GuestStar</type>
+    <tmdbid>588231</tmdbid>
+    <imdbid>nm0943699</imdbid>
+  </actor>
+  <actor>
+    <name>Winifred Freedman</name>
+    <role>Luann</role>
+    <type>GuestStar</type>
+    <tmdbid>154416</tmdbid>
+    <imdbid>nm0293242</imdbid>
+  </actor>
+  <actor>
+    <name>Valerie Mahaffey</name>
+    <role>Victoria MacElroy</role>
+    <type>GuestStar</type>
+    <tmdbid>99351</tmdbid>
+    <imdbid>nm0536723</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Baker</name>
+    <role>Sheryl Hutchins</role>
+    <type>GuestStar</type>
+    <tmdbid>461542</tmdbid>
+    <imdbid>nm1807222</imdbid>
+  </actor>
+  <actor>
+    <name>London Cheshire</name>
+    <role>Marcus Larson</role>
+    <type>GuestStar</type>
+    <tmdbid>2382678</tmdbid>
+    <imdbid>nm9397913</imdbid>
+  </actor>
+  <rating>6.6</rating>
+  <year>2019</year>
+  <imdbid>tt10932424</imdbid>
+  <tvdbid>7374310</tvdbid>
+  <runtime>19</runtime>
+  <genre>Comedy</genre>
+  <uniqueid type="Imdb">tt10932424</uniqueid>
+  <uniqueid type="Tvdb">7374310</uniqueid>
+  <episode>4</episode>
+  <season>3</season>
+  <aired>2019-10-17</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>17351120</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>18</duration>
+        <durationinseconds>1129</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

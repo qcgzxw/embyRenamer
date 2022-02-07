@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[家住乌金山的大海（姜武 饰）对村长和焦胜利利用煤矿大发不义之财愤愤不平，他几次三番要讨个说法，但都碰了一鼻子灰，甚至被对方暴揍一顿，大海心头的怒火被彻底点燃；游走全国各地的三儿（王宝强 饰）赶在春节前回家，家中正给七十岁老母祝寿，他对一切都兴致索然，只向往着佩带手枪行走江湖的血腥岁月；在按摩院工作的小玉（赵涛 饰）希望和情人（张嘉译 饰）早点儿确立关系，送走情人后，她被对方的妻子教训了一番。未过多久，两个仗势欺人的客人对她图谋不轨，由此引发了不可挽回的冲突；在东莞打工的小辉（罗蓝山 饰）为逃避给工友的生活费，来到一家夜总会谋生。他邂逅美丽的同乡（李梦 饰）。爱情很美好，现实太糟糕。对这个内心空洞的青年来说，似乎所有的路都被堵死了……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-26 04:36:32</dateadded>
+  <title>天注定</title>
+  <originaltitle>天注定</originaltitle>
+  <actor>
+    <name>Jiang Wu</name>
+    <role>Dahai</role>
+    <type>Actor</type>
+    <tmdbid>15170</tmdbid>
+    <imdbid>nm0422640</imdbid>
+  </actor>
+  <actor>
+    <name>Baoqiang Wang</name>
+    <role>Zhou San</role>
+    <type>Actor</type>
+    <tmdbid>71051</tmdbid>
+    <imdbid>nm1316170</imdbid>
+  </actor>
+  <actor>
+    <name>Zhao Tao</name>
+    <role>Xiao Yu</role>
+    <type>Actor</type>
+    <tmdbid>24044</tmdbid>
+    <imdbid>nm0955504</imdbid>
+  </actor>
+  <actor>
+    <name>Zhang Jiayi</name>
+    <role>Xiao Yu's Lover</role>
+    <type>Actor</type>
+    <tmdbid>107775</tmdbid>
+    <imdbid>nm2192622</imdbid>
+  </actor>
+  <actor>
+    <name>Luo Lanshan</name>
+    <role>Xiao Hui</role>
+    <type>Actor</type>
+    <tmdbid>1186922</tmdbid>
+    <imdbid>nm5667377</imdbid>
+  </actor>
+  <actor>
+    <name>Han Dong</name>
+    <type>Actor</type>
+    <tmdbid>1870179</tmdbid>
+  </actor>
+  <actor>
+    <name>Lu Liu</name>
+    <type>Actor</type>
+    <tmdbid>1523950</tmdbid>
+    <imdbid>nm6856737</imdbid>
+  </actor>
+  <actor>
+    <name>Qiang Wang</name>
+    <type>Actor</type>
+    <tmdbid>1672422</tmdbid>
+    <imdbid>nm1253700</imdbid>
+  </actor>
+  <actor>
+    <name>Li Meng</name>
+    <type>Actor</type>
+    <tmdbid>1174686</tmdbid>
+    <imdbid>nm4083288</imdbid>
+  </actor>
+  <actor>
+    <name>Wang Hongwei</name>
+    <type>Actor</type>
+    <tmdbid>27997</tmdbid>
+    <imdbid>nm0910912</imdbid>
+  </actor>
+  <director tmdbid="24011" imdbid="nm0422605">Jia Zhangke</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VUJt_kf7uKQ</trailer>
+  <rating>7.1</rating>
+  <year>2013</year>
+  <imdbid>tt2852400</imdbid>
+  <tmdbid>187022</tmdbid>
+  <premiered>2013-10-04</premiered>
+  <releasedate>2013-10-04</releasedate>
+  <criticrating>94</criticrating>
+  <runtime>130</runtime>
+  <country>China</country>
+  <country>France</country>
+  <country>Japan</country>
+  <genre>剧情</genre>
+  <genre>冒险</genre>
+  <studio>Office Kitano</studio>
+  <studio>Xstream Pictures</studio>
+  <studio>Shanghai Film Group</studio>
+  <studio>Shanxi Film &amp; Television Group</studio>
+  <studio>Bandai Visual</studio>
+  <studio>Bitters End</studio>
+  <studio>MK2 Productions</studio>
+  <uniqueid type="Tmdb">187022</uniqueid>
+  <uniqueid type="Imdb">tt2852400</uniqueid>
+  <id>tt2852400</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9645623</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>129</duration>
+        <durationinseconds>7784</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

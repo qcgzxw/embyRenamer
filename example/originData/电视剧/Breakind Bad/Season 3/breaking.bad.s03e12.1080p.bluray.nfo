@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Jesse 终于得知了自己朋友 Combo 被杀的真相，一帮把儿童当成毒贩子和杀人工具的团伙原来是 Gus 的手下。他决意要复仇。Jesse 在监视毒贩的过程中，心生一计。Jesse 求助 Walter，想要一些毒药，但 Walter 拒绝了他，又担心他会因此丧命。Jesse 的计划被 Gus 发现，他逼迫 Jesse 与自己的手下和好，Jesse 态度强硬的拒绝了，Gus 看在 Walter 的面子上，告诫手下以后不许利用儿童。Hank 不肯出院，但 Marie 想了一个办法。得知 Thomas 被帮派处决的消息，冲动的 Jesse 不顾 Gus 的警告，只身前往报仇，Walter 预感到危机，即时赶到开车撞死了两名毒贩。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 16:46:52</dateadded>
+  <title> 后患未尽</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Seal</name>
+    <role>Rival Dealer #1</role>
+    <type>GuestStar</type>
+    <tmdbid>1123871</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremiah Bitsui</name>
+    <role>Victor</role>
+    <type>GuestStar</type>
+    <tmdbid>582668</tmdbid>
+    <imdbid>nm0084497</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Rios</name>
+    <role>Andrea Cantillo</role>
+    <type>GuestStar</type>
+    <tmdbid>211474</tmdbid>
+    <imdbid>nm1986960</imdbid>
+  </actor>
+  <actor>
+    <name>Julia Minesci</name>
+    <role>Wendi</role>
+    <type>GuestStar</type>
+    <tmdbid>1834391</tmdbid>
+  </actor>
+  <director>Adam Bernstein</director>
+  <rating>8.958</rating>
+  <year>2010</year>
+  <imdbid>tt1615552</imdbid>
+  <tvdbid>2106591</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt1615552</uniqueid>
+  <uniqueid type="Tvdb">2106591</uniqueid>
+  <episode>12</episode>
+  <season>3</season>
+  <aired>2010-06-06</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9942915</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2832</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

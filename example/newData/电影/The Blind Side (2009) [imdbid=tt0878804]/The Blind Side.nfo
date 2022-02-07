@@ -1,0 +1,445 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[窗明几净、精致餐点、其乐融融，对于住在田纳西州的图伊一家，这样温馨的生活仿佛是与生俱来的事情。妻子莉安（桑德拉·布洛克）温柔贤惠，丈夫西恩（蒂姆·麦格劳）事业有成，还有一双听话乖巧的儿女，更在杯觥交错中深受上流社会欢迎。如果不是那天下午的意外，如果不是莉安心思细腻，他们或许还是像原来一样活在自己完美无缺的世界中。 那是一个高大壮硕、皮肤黝黑的孩子，面无表情的脸上，掩不住些许苦愁的滋味。明明天气阴冷，他却穿着单薄的T恤和短裤，在寒风中瑟瑟发抖。不管他看起来高大得多么让人戒备，他只是个16岁的孩子，和自己儿子同校的孩子。更别提这个名叫迈克尔·奥赫（昆顿·亚伦）的孩子从小就成了孤儿，辗转于无数收养家庭之间，在9年里上过11个学校，连小学一年级也能留级一年！莉安又有什么理由不收留他呢？从领进家门暂住一宿到提供衣食住所视为己出，甚至专门为他请来了私人家教苏小姐（凯西·贝茨），奥赫第一次从图伊一家身上感觉到了家的温暖。 除了无微不至的照顾，因为图伊夫妇的鼓励，奥赫决定善用自己的天赋，加入学校的橄榄球队。在赛场上，他就像一堵铜墙铁壁，没人能够突破他的防线。很快，奥赫就成为了橄榄球场上的风云人物，不仅为所在的中学赢得了区域冠军，还吸引了众多大学球队星探的注意，愿意为他提供全额奖学金。可是，对于平均成绩只有0.9分，IQ仅在低智边缘的奥赫，要想顺利踏上橄榄球之路，眼前还横亘着诸多障碍……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-11-21 12:15:39</dateadded>
+  <title>弱点</title>
+  <originaltitle>The Blind Side</originaltitle>
+  <actor>
+    <name>Sandra Bullock</name>
+    <role>Leigh Anne Tuohy</role>
+    <type>Actor</type>
+    <tmdbid>18277</tmdbid>
+    <imdbid>nm0000113</imdbid>
+  </actor>
+  <actor>
+    <name>Tim McGraw</name>
+    <role>Sean Tuohy</role>
+    <type>Actor</type>
+    <tmdbid>74428</tmdbid>
+  </actor>
+  <actor>
+    <name>Quinton Aaron</name>
+    <role>Michael Oher</role>
+    <type>Actor</type>
+    <tmdbid>112560</tmdbid>
+  </actor>
+  <actor>
+    <name>Jae Head</name>
+    <role>S.J. Tuohy</role>
+    <type>Actor</type>
+    <tmdbid>66658</tmdbid>
+  </actor>
+  <actor>
+    <name>Lily Collins</name>
+    <role>Collins Tuohy</role>
+    <type>Actor</type>
+    <tmdbid>112561</tmdbid>
+  </actor>
+  <actor>
+    <name>Ray McKinnon</name>
+    <role>Coach Cotton</role>
+    <type>Actor</type>
+    <tmdbid>1472</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Dickens</name>
+    <role>Mrs. Boswell</role>
+    <type>Actor</type>
+    <tmdbid>21165</tmdbid>
+    <imdbid>nm0225332</imdbid>
+  </actor>
+  <actor>
+    <name>Adriane Lenox</name>
+    <role>Denise Oher</role>
+    <type>Actor</type>
+    <tmdbid>53260</tmdbid>
+    <imdbid>nm0502180</imdbid>
+  </actor>
+  <actor>
+    <name>Kathy Bates</name>
+    <role>Miss Sue</role>
+    <type>Actor</type>
+    <tmdbid>8534</tmdbid>
+    <imdbid>nm0000870</imdbid>
+  </actor>
+  <actor>
+    <name>Catherine Dyer</name>
+    <role>Mrs. Smith</role>
+    <type>Actor</type>
+    <tmdbid>112562</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Stahl</name>
+    <role>Principal Sandstrom</role>
+    <type>Actor</type>
+    <tmdbid>21083</tmdbid>
+    <imdbid>nm0821436</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Nowicki</name>
+    <role>Literature Teacher</role>
+    <type>Actor</type>
+    <tmdbid>94854</tmdbid>
+  </actor>
+  <actor>
+    <name>Libby Whittemore</name>
+    <role>Sarcastic Teacher</role>
+    <type>Actor</type>
+    <tmdbid>226537</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Hollan</name>
+    <role>Jay Collis</role>
+    <type>Actor</type>
+    <tmdbid>1127790</tmdbid>
+  </actor>
+  <actor>
+    <name>Melody Weintraub</name>
+    <role>History Teacher</role>
+    <type>Actor</type>
+    <tmdbid>968305</tmdbid>
+  </actor>
+  <actor>
+    <name>Sharon Conley</name>
+    <role>Investigator Granger</role>
+    <type>Actor</type>
+    <tmdbid>142374</tmdbid>
+  </actor>
+  <actor>
+    <name>Omar J. Dorsey</name>
+    <role>"Big Tony" Hamilton</role>
+    <type>Actor</type>
+    <tmdbid>59844</tmdbid>
+    <imdbid>nm0234174</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Amadi</name>
+    <role>Steven Hamilton</role>
+    <type>Actor</type>
+    <tmdbid>1039342</tmdbid>
+  </actor>
+  <actor>
+    <name>Irone Singleton</name>
+    <role>Alton</role>
+    <type>Actor</type>
+    <tmdbid>1040864</tmdbid>
+  </actor>
+  <actor>
+    <name>Hampton Fluker</name>
+    <role>David</role>
+    <type>Actor</type>
+    <tmdbid>1758632</tmdbid>
+  </actor>
+  <actor>
+    <name>Rhoda Griffis</name>
+    <role>Beth</role>
+    <type>Actor</type>
+    <tmdbid>51456</tmdbid>
+  </actor>
+  <actor>
+    <name>Eaddy Mays</name>
+    <role>Elaine</role>
+    <type>Actor</type>
+    <tmdbid>1099429</tmdbid>
+  </actor>
+  <actor>
+    <name>Ashley LeConte Campbell</name>
+    <role>Sherry</role>
+    <type>Actor</type>
+    <tmdbid>928307</tmdbid>
+  </actor>
+  <actor>
+    <name>Stacey Turner</name>
+    <role>DMV Employee</role>
+    <type>Actor</type>
+    <tmdbid>1091772</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Omilami</name>
+    <role>CPS Employee</role>
+    <type>Actor</type>
+    <tmdbid>1478907</tmdbid>
+  </actor>
+  <actor>
+    <name>Afemo Omilami</name>
+    <role>CPS Caseworker</role>
+    <type>Actor</type>
+    <tmdbid>37825</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Howell</name>
+    <role>CPS Welfare Worker</role>
+    <type>Actor</type>
+    <tmdbid>80616</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick G. Keenan</name>
+    <role>Man In CPS Line</role>
+    <type>Actor</type>
+    <tmdbid>1084719</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Benson</name>
+    <role>Milford #66</role>
+    <type>Actor</type>
+    <tmdbid>1714641</tmdbid>
+  </actor>
+  <actor>
+    <name>David Dwyer</name>
+    <role>Milford Dad</role>
+    <type>Actor</type>
+    <tmdbid>21084</tmdbid>
+  </actor>
+  <actor>
+    <name>Catherine Combs</name>
+    <role>Collins's Friend #1</role>
+    <type>Actor</type>
+    <tmdbid>1367171</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelly Johns</name>
+    <role>Collins's Friend #2</role>
+    <type>Actor</type>
+    <tmdbid>2055679</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Pralgo</name>
+    <role>Lemming's Associate</role>
+    <type>Actor</type>
+    <tmdbid>97844</tmdbid>
+    <imdbid>nm1128418</imdbid>
+  </actor>
+  <actor>
+    <name>Whitney Branan</name>
+    <role>Lemming's Secretary #1</role>
+    <type>Actor</type>
+    <tmdbid>2764362</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Sutherin</name>
+    <role>Lemming's Secretary #2</role>
+    <type>Actor</type>
+    <tmdbid>2688071</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel St. Gelais</name>
+    <role>Little Girl on Playground</role>
+    <type>Actor</type>
+    <tmdbid>1570966</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Rivers</name>
+    <role>Michael Age Seven</role>
+    <type>Actor</type>
+    <tmdbid>2764363</tmdbid>
+  </actor>
+  <actor>
+    <name>Jody Thompson</name>
+    <role>Paramedic</role>
+    <type>Actor</type>
+    <tmdbid>1024312</tmdbid>
+    <imdbid>nm0860310</imdbid>
+  </actor>
+  <actor>
+    <name>James Donadio</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>1932603</tmdbid>
+  </actor>
+  <actor>
+    <name>L. Warren Young</name>
+    <role>Big and Tall Salesman</role>
+    <type>Actor</type>
+    <tmdbid>80618</tmdbid>
+  </actor>
+  <actor>
+    <name>Brett Rice</name>
+    <role>Cousin Bobby</role>
+    <type>Actor</type>
+    <tmdbid>29934</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Nichols</name>
+    <role>Memphis Policeman</role>
+    <type>Actor</type>
+    <tmdbid>200146</tmdbid>
+  </actor>
+  <actor>
+    <name>Preston Wigasi Brant</name>
+    <role>Michael's Brother</role>
+    <type>Actor</type>
+    <tmdbid>1572969</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Atkinson</name>
+    <role>Valet Parker</role>
+    <type>Actor</type>
+    <tmdbid>1490448</tmdbid>
+  </actor>
+  <actor>
+    <name>Trey Best</name>
+    <role>Michael's Brother Age Twelve</role>
+    <type>Actor</type>
+    <tmdbid>2707619</tmdbid>
+  </actor>
+  <actor>
+    <name>Omid Soltani</name>
+    <role>Rug Salesman</role>
+    <type>Actor</type>
+    <tmdbid>2764364</tmdbid>
+  </actor>
+  <actor>
+    <name>Destiny Long</name>
+    <role>Alton's Girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>2764365</tmdbid>
+  </actor>
+  <actor>
+    <name>April Rich</name>
+    <role>Teacher In Lounge</role>
+    <type>Actor</type>
+    <tmdbid>1667803</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaye Tyroff</name>
+    <role>Milford Player #35</role>
+    <type>Actor</type>
+    <tmdbid>1635222</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Keen</name>
+    <role>Wingate Quarterback</role>
+    <type>Actor</type>
+    <tmdbid>2764366</tmdbid>
+  </actor>
+  <actor>
+    <name>John Newberg</name>
+    <role>Official</role>
+    <type>Actor</type>
+    <tmdbid>1374152</tmdbid>
+  </actor>
+  <actor>
+    <name>John Henry Hancock</name>
+    <role>Rabid Ole Miss Fan</role>
+    <type>Actor</type>
+    <tmdbid>2764367</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Chrest</name>
+    <role>Clemson Coach</role>
+    <type>Actor</type>
+    <tmdbid>141762</tmdbid>
+    <imdbid>nm0159609</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Fisher</name>
+    <role>Georgia Assistant Coach</role>
+    <type>Actor</type>
+    <tmdbid>2764368</tmdbid>
+  </actor>
+  <actor>
+    <name>Lamont Koonce</name>
+    <role>Tennessee Assistant Coach</role>
+    <type>Actor</type>
+    <tmdbid>2314655</tmdbid>
+  </actor>
+  <actor>
+    <name>Phillip Fulmer</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>931006</tmdbid>
+  </actor>
+  <actor>
+    <name>Lou Holtz</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>2132194</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Lemming</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>2764369</tmdbid>
+  </actor>
+  <actor>
+    <name>Houston Nutt</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>2764370</tmdbid>
+  </actor>
+  <actor>
+    <name>Ed Orgeron</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>2764371</tmdbid>
+  </actor>
+  <actor>
+    <name>Franklin "Pepper" Rodgers</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>2764373</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Saban</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>1106616</tmdbid>
+  </actor>
+  <actor>
+    <name>Tommy Tuberville</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>2764374</tmdbid>
+  </actor>
+  <director tmdbid="54040">John Lee Hancock</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KA56LqFszYI</trailer>
+  <rating>7.6</rating>
+  <year>2009</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt0878804</imdbid>
+  <tmdbid>22881</tmdbid>
+  <premiered>2009-11-20</premiered>
+  <releasedate>2009-11-20</releasedate>
+  <criticrating>66</criticrating>
+  <runtime>95</runtime>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>Alcon Entertainment</studio>
+  <uniqueid type="Tmdb">22881</uniqueid>
+  <uniqueid type="Imdb">tt0878804</uniqueid>
+  <id>tt0878804</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1497527</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5723</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>96000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

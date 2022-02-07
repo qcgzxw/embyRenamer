@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Walter 想回家，可是妻子 Skyler 坚决要求分居。为此 Walter 心中十分愤懑，他甚至于和交警吵起来，被对方喷了辣椒水。Hank 十分同情 Walter，认为他事业不如意，又得了癌症，是中年危机的代表人物。儿子 Walter Jr. 担心父亲的身体，独自去探望 Walter。Walter 抓住机会回家，并且向妻子认错。没想到 Skyler 非但不接受他，还要申请禁足令。此事让 Walter 十分愤怒，他决定想办法回家。两个从墨西哥来的 Tuco 的表兄弟，偷渡过来要追杀 Walter。Jesse 回家，碰到父亲正在装修，还不许他进这所房子。对此，Jesse 十分生气，通过律师 Saul 使用手段低价买下了这所住宅。父母看着 Jesse 高傲地住进老房子，十分惊诧。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 15:55:04</dateadded>
+  <title>无名之马</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Bofshever</name>
+    <role>Mr. Pinkman</role>
+    <type>GuestStar</type>
+    <tmdbid>95195</tmdbid>
+    <imdbid>nm0091480</imdbid>
+  </actor>
+  <actor>
+    <name>Dan Desmond</name>
+    <role>Mr. Gardiner</role>
+    <type>GuestStar</type>
+    <tmdbid>1217972</tmdbid>
+    <imdbid>nm0221430</imdbid>
+  </actor>
+  <actor>
+    <name>Luis Moncada</name>
+    <role>Marco Salamanca</role>
+    <type>GuestStar</type>
+    <tmdbid>945491</tmdbid>
+    <imdbid>nm1616991</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremiah Bitsui</name>
+    <role>Victor</role>
+    <type>GuestStar</type>
+    <tmdbid>582668</tmdbid>
+    <imdbid>nm0084497</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Cousins</name>
+    <role>Ted Beneke</role>
+    <type>GuestStar</type>
+    <tmdbid>20379</tmdbid>
+    <imdbid>nm0184086</imdbid>
+  </actor>
+  <actor>
+    <name>Tess Harper</name>
+    <role>Mrs. Pinkman</role>
+    <type>GuestStar</type>
+    <tmdbid>41249</tmdbid>
+    <imdbid>nm0002128</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Margolis</name>
+    <role>Tio Salamanca</role>
+    <type>GuestStar</type>
+    <tmdbid>1173</tmdbid>
+    <imdbid>nm0546797</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Michael Quezada</name>
+    <role>Steven Gomez</role>
+    <type>GuestStar</type>
+    <tmdbid>61535</tmdbid>
+    <imdbid>nm2366374</imdbid>
+  </actor>
+  <director>Adam Bernstein</director>
+  <rating>8.219</rating>
+  <year>2010</year>
+  <imdbid>tt1615186</imdbid>
+  <tvdbid>1894731</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <tvrageid>1064845073</tvrageid>
+  <uniqueid type="Imdb">tt1615186</uniqueid>
+  <uniqueid type="Tvdb">1894731</uniqueid>
+  <uniqueid type="TvRage">1064845073</uniqueid>
+  <episode>2</episode>
+  <season>3</season>
+  <aired>2010-03-28</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9944547</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2832</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

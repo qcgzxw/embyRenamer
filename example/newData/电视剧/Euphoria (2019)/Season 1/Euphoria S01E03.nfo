@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[凯特准备尝试用视频聊天来赚取钞票，并迎来了他的第一个客户。朱尔斯在网上爱上一个男孩，并让茹帮她拍一些果照。麦迪在内特的手机上发现了一些奇怪的东西。凯西和麦凯在他的学校过周末，还去参加他的兄弟会的派对。茹在教会的戒毒发言被人质疑。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-31 19:43:37</dateadded>
+  <title>让你好好欣赏我</title>
+  <actor>
+    <name>Zendaya</name>
+    <role>Rue Bennett</role>
+    <type>Actor</type>
+    <tmdbid>505710</tmdbid>
+    <imdbid>nm3918035</imdbid>
+  </actor>
+  <actor>
+    <name>Hunter Schafer</name>
+    <role>Jules Vaughn</role>
+    <type>Actor</type>
+    <tmdbid>2340180</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Elordi</name>
+    <role>Nate Jacobs</role>
+    <type>Actor</type>
+    <tmdbid>2034418</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexa Demie</name>
+    <role>Maddy Perez</role>
+    <type>Actor</type>
+    <tmdbid>1497557</tmdbid>
+  </actor>
+  <actor>
+    <name>Barbie Ferreira</name>
+    <role>Kat Hernandez</role>
+    <type>Actor</type>
+    <tmdbid>2340185</tmdbid>
+  </actor>
+  <actor>
+    <name>Sydney Sweeney</name>
+    <role>Cassie Howard</role>
+    <type>Actor</type>
+    <tmdbid>115440</tmdbid>
+    <imdbid>nm2858875</imdbid>
+  </actor>
+  <actor>
+    <name>Angus Cloud</name>
+    <role>Fezco</role>
+    <type>Actor</type>
+    <tmdbid>2352372</tmdbid>
+  </actor>
+  <actor>
+    <name>Storm Reid</name>
+    <role>Gia Bennett</role>
+    <type>Actor</type>
+    <tmdbid>1344344</tmdbid>
+  </actor>
+  <actor>
+    <name>Algee Smith</name>
+    <role>Christopher McKay</role>
+    <type>Actor</type>
+    <tmdbid>1377458</tmdbid>
+  </actor>
+  <actor>
+    <name>Maude Apatow</name>
+    <role>Lexi Howard</role>
+    <type>Actor</type>
+    <tmdbid>41090</tmdbid>
+  </actor>
+  <actor>
+    <name>Nika King</name>
+    <role>Leslie Bennett</role>
+    <type>Actor</type>
+    <tmdbid>98415</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Dane</name>
+    <role>Cal Jacobs</role>
+    <type>Actor</type>
+    <tmdbid>58115</tmdbid>
+  </actor>
+  <actor>
+    <name>Keean Johnson</name>
+    <role>Daniel</role>
+    <type>GuestStar</type>
+    <tmdbid>1448516</tmdbid>
+    <imdbid>nm5277107</imdbid>
+  </actor>
+  <actor>
+    <name>Javon 'Wanna' Walton</name>
+    <role>Ashtray</role>
+    <type>GuestStar</type>
+    <tmdbid>2532098</tmdbid>
+  </actor>
+  <actor>
+    <name>Alanna Ubach</name>
+    <role>Suze Howard</role>
+    <type>GuestStar</type>
+    <tmdbid>10402</tmdbid>
+    <imdbid>nm0005513</imdbid>
+  </actor>
+  <actor>
+    <name>Austin Abrams</name>
+    <role>Ethan Lewis</role>
+    <type>GuestStar</type>
+    <tmdbid>148992</tmdbid>
+  </actor>
+  <actor>
+    <name>Erika Bowman</name>
+    <role>Cafeteria woman</role>
+    <type>GuestStar</type>
+    <tmdbid>2211036</tmdbid>
+  </actor>
+  <actor>
+    <name>Mercedes Colon</name>
+    <role>Kat's Mom</role>
+    <type>GuestStar</type>
+    <tmdbid>144975</tmdbid>
+  </actor>
+  <actor>
+    <name>Colman Domingo</name>
+    <role>Ali</role>
+    <type>GuestStar</type>
+    <tmdbid>91671</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophia Rose Wilson</name>
+    <role>BB</role>
+    <type>GuestStar</type>
+    <tmdbid>3386005</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Manson</name>
+    <role>Self  (archive footage)</role>
+    <type>GuestStar</type>
+    <tmdbid>150786</tmdbid>
+  </actor>
+  <director>Sam Levinson</director>
+  <rating>8.4</rating>
+  <year>2019</year>
+  <imdbid>tt8806262</imdbid>
+  <tvdbid>7191325</tvdbid>
+  <runtime>58</runtime>
+  <uniqueid type="Tvdb">7191325</uniqueid>
+  <uniqueid type="Imdb">tt8806262</uniqueid>
+  <episode>3</episode>
+  <season>1</season>
+  <aired>2019-06-30</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2429821</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>58</duration>
+        <durationinseconds>3507</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

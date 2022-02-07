@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[当大麻运输业务的安全性受到威胁时，伊恩和米奇发挥了他们的创意。活力二人组弗兰克和小凯为扳倒米尔科维奇家族做了最后的努力。利普和塔米租住的房屋被挂牌出售，迫使他们去别处寻找新的房源。他工作的摩托车行也换了新老板。小维游说黑人们去投票，但却发现南区已经几乎没有黑人了。黛比带弗兰妮去参加她最喜欢的摔跤手的漫画签售会，还发现桑迪身上藏着许多她不知道的秘密。卡尔和李茜对于治安的分歧达到了顶点。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-01 08:13:38</dateadded>
+  <title>杀戮</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Noel Fisher</name>
+    <role>Mickey Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>80352</tmdbid>
+    <imdbid>nm0279720</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Isaiah</name>
+    <role>Liam Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>2563541</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Miner</name>
+    <role>Tami Tamietti</role>
+    <type>Actor</type>
+    <tmdbid>214695</tmdbid>
+    <imdbid>nm1567202</imdbid>
+  </actor>
+  <actor>
+    <name>Paris Newton</name>
+    <role>Franny Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>2982464</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Michael Campbell</name>
+    <role>Brad</role>
+    <type>Actor</type>
+    <tmdbid>65728</tmdbid>
+  </actor>
+  <actor>
+    <name>Elise Eberle</name>
+    <role>Sandy Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>983707</tmdbid>
+    <imdbid>nm2195169</imdbid>
+  </actor>
+  <actor>
+    <name>Dennis Cockrum</name>
+    <role>Terry Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>155825</tmdbid>
+    <imdbid>nm0168371</imdbid>
+  </actor>
+  <director>Daniella Eisman</director>
+  <rating>0</rating>
+  <year>2021</year>
+  <imdbid>tt13389224</imdbid>
+  <tvdbid>4506425</tvdbid>
+  <runtime>57</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt13389224</uniqueid>
+  <uniqueid type="Tvdb">4506425</uniqueid>
+  <episode>5</episode>
+  <season>11</season>
+  <aired>2021-01-31</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10078860</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>56</duration>
+        <durationinseconds>3411</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

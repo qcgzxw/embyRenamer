@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[受主人公阿尔伯特·爱因斯坦的启发，谢耳朵试着拉起了小提琴。还有，玛丽和姥姥偷偷买了验孕棒，因为玛丽以为她怀孕了]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-11 05:56:16</dateadded>
+  <title>爱因斯坦和另一个玛丽的故事</title>
+  <actor>
+    <name>Iain Armitage</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1684536</tmdbid>
+    <imdbid>nm8071137</imdbid>
+  </actor>
+  <actor>
+    <name>Zoe Perry</name>
+    <role>Mary Cooper</role>
+    <type>Actor</type>
+    <tmdbid>133450</tmdbid>
+    <imdbid>nm1409365</imdbid>
+  </actor>
+  <actor>
+    <name>Lance Barber</name>
+    <role>George Cooper Sr.</role>
+    <type>Actor</type>
+    <tmdbid>1212111</tmdbid>
+    <imdbid>nm1115741</imdbid>
+  </actor>
+  <actor>
+    <name>Montana Jordan</name>
+    <role>Georgie Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1817307</tmdbid>
+    <imdbid>nm7718664</imdbid>
+  </actor>
+  <actor>
+    <name>Raegan Revord</name>
+    <role>Missy Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1575317</tmdbid>
+    <imdbid>nm6862942</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Potts</name>
+    <role>Connie Tucker</role>
+    <type>Actor</type>
+    <tmdbid>8873</tmdbid>
+    <imdbid>nm0001633</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Hobby</name>
+    <role>Jeff Difford</role>
+    <type>GuestStar</type>
+    <tmdbid>1536526</tmdbid>
+  </actor>
+  <actor>
+    <name>Melissa Tang</name>
+    <role>Ms. Fenley</role>
+    <type>GuestStar</type>
+    <tmdbid>212778</tmdbid>
+    <imdbid>nm2878390</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Gardell</name>
+    <role>Herschel Sparks</role>
+    <type>GuestStar</type>
+    <tmdbid>64344</tmdbid>
+    <imdbid>nm0974080</imdbid>
+  </actor>
+  <actor>
+    <name>Rex Linn</name>
+    <role>Tom Petersen</role>
+    <type>GuestStar</type>
+    <tmdbid>16937</tmdbid>
+    <imdbid>nm0513010</imdbid>
+  </actor>
+  <actor>
+    <name>Wyatt McClure</name>
+    <role>Billy Sparks</role>
+    <type>GuestStar</type>
+    <tmdbid>2162097</tmdbid>
+    <imdbid>nm5976411</imdbid>
+  </actor>
+  <actor>
+    <name>Nancy Linehan Charles</name>
+    <role>Peg</role>
+    <type>GuestStar</type>
+    <tmdbid>110928</tmdbid>
+    <imdbid>nm0153108</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa Peterman</name>
+    <role>Brenda Sparks</role>
+    <type>GuestStar</type>
+    <tmdbid>145816</tmdbid>
+    <imdbid>nm0676292</imdbid>
+  </actor>
+  <rating>6.2</rating>
+  <year>2019</year>
+  <imdbid>tt9547988</imdbid>
+  <tvdbid>7057679</tvdbid>
+  <runtime>21</runtime>
+  <genre>Comedy</genre>
+  <uniqueid type="Imdb">tt9547988</uniqueid>
+  <uniqueid type="Tvdb">7057679</uniqueid>
+  <episode>17</episode>
+  <season>2</season>
+  <aired>2019-03-07</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3292836</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>20</duration>
+        <durationinseconds>1252</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

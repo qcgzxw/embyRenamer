@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[1978年，只有高中学历的宋佑硕（宋康昊 饰）通过多年的艰苦努力，终于通过司法考试，并在成为法官后很快转行成为一名律师。他敏锐地从最新政策中嗅到商机，以不动产代书业务起家。  虽然被同行讥讽为随时随地派发名片的夜店小弟，但佑硕不以为忤，一步一步朝着心中的目标迈进。他依靠赚来的钱让妻儿过上富足的生活，也还了七年前在饭店大婶那里欠下的良心债。  进入20世纪80年代，韩国民主化斗争愈演愈烈。佑硕全然不管窗外事，关起门来继续赚钱。然而社会的巨变已经不容他置身事外，饭店大婶的儿子朴镇宇因从属的釜山读书联合会被控为左翼社团而遭到逮捕，更受到残酷的虐待和不公的指控。  虽然爱钱却更重感情的佑硕，就这样走上了为民主辩护的道路……]]></plot>
+  <outline><![CDATA[辩护人]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-19 23:23:34</dateadded>
+  <title>辩护人</title>
+  <originaltitle>변호인</originaltitle>
+  <actor>
+    <name>Song Kang-ho</name>
+    <role>Song Woo-seok</role>
+    <type>Actor</type>
+    <tmdbid>20738</tmdbid>
+    <imdbid>nm0814280</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Young-ae</name>
+    <role>Choi Sun-ae</role>
+    <type>Actor</type>
+    <tmdbid>496937</tmdbid>
+  </actor>
+  <actor>
+    <name>Oh Dal-su</name>
+    <role>Park Dong-ho</role>
+    <type>Actor</type>
+    <tmdbid>77188</tmdbid>
+    <imdbid>nm1367681</imdbid>
+  </actor>
+  <actor>
+    <name>Yim Si-wan</name>
+    <role>Park Jin-woo</role>
+    <type>Actor</type>
+    <tmdbid>1296713</tmdbid>
+  </actor>
+  <actor>
+    <name>Kwak Do-won</name>
+    <role>Cha Dong-yeong</role>
+    <type>Actor</type>
+    <tmdbid>1155298</tmdbid>
+    <imdbid>nm3483072</imdbid>
+  </actor>
+  <actor>
+    <name>Jo Min-ki</name>
+    <role>Kang Byeong-chul</role>
+    <type>Actor</type>
+    <tmdbid>1464875</tmdbid>
+  </actor>
+  <actor>
+    <name>Song Young-chang</name>
+    <role>Lee Seok-ju</role>
+    <type>Actor</type>
+    <tmdbid>88298</tmdbid>
+    <imdbid>nm0814309</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Sung-min</name>
+    <role>Lee Yoon-taek</role>
+    <type>Actor</type>
+    <tmdbid>141548</tmdbid>
+    <imdbid>nm1520129</imdbid>
+  </actor>
+  <actor>
+    <name>Jung Won-joong</name>
+    <role>Kim Sang-pil</role>
+    <type>Actor</type>
+    <tmdbid>462584</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Hang-na</name>
+    <role>Jang Soo-kyeong</role>
+    <type>Actor</type>
+    <tmdbid>1649157</tmdbid>
+  </actor>
+  <actor>
+    <name>Shim Hee-sub</name>
+    <role>Medical Officer</role>
+    <type>Actor</type>
+    <tmdbid>1164503</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryu Soo-young</name>
+    <role>Lee Chang-jun</role>
+    <type>Actor</type>
+    <tmdbid>1254390</tmdbid>
+  </actor>
+  <actor>
+    <name>Cha Kwang-Soo</name>
+    <role>Park Byeong-ho</role>
+    <type>Actor</type>
+    <tmdbid>1671444</tmdbid>
+  </actor>
+  <actor>
+    <name>Han Gi-joong</name>
+    <role>Lee Heung-gi</role>
+    <type>Actor</type>
+    <tmdbid>1295418</tmdbid>
+  </actor>
+  <actor>
+    <name>Cho Wan-ki</name>
+    <role>Gi-woong</role>
+    <type>Actor</type>
+    <tmdbid>1912573</tmdbid>
+    <imdbid>nm9086165</imdbid>
+  </actor>
+  <actor>
+    <name>Cha Eun-Jae</name>
+    <role>Miss Moon</role>
+    <type>Actor</type>
+    <tmdbid>1134246</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Jung-eun</name>
+    <role>House owner</role>
+    <type>Actor</type>
+    <tmdbid>1572354</tmdbid>
+    <imdbid>nm7553003</imdbid>
+  </actor>
+  <actor>
+    <name>Jeong Joon-won</name>
+    <role>Gun-woo</role>
+    <type>Actor</type>
+    <tmdbid>1278161</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Su-young</name>
+    <role>Um Tae-nam</role>
+    <type>Actor</type>
+    <tmdbid>939133</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoo Ha-bok</name>
+    <role>Colonel</role>
+    <type>Actor</type>
+    <tmdbid>1295420</tmdbid>
+    <imdbid>nm1361235</imdbid>
+  </actor>
+  <actor>
+    <name>Seol Chang-hee</name>
+    <role>Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2159485</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeon Kwang-jin</name>
+    <role>Law enforcement officer</role>
+    <type>Actor</type>
+    <tmdbid>2878484</tmdbid>
+  </actor>
+  <actor>
+    <name>Choi Jeong-hyun</name>
+    <role>Detective</role>
+    <type>Actor</type>
+    <tmdbid>3216779</tmdbid>
+  </actor>
+  <director tmdbid="1285352">Yang Woo-seok</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QDaG0IF7ucc</trailer>
+  <rating>7.7</rating>
+  <year>2013</year>
+  <imdbid>tt3404140</imdbid>
+  <tmdbid>242452</tmdbid>
+  <premiered>2013-12-18</premiered>
+  <releasedate>2013-12-18</releasedate>
+  <criticrating>77</criticrating>
+  <runtime>127</runtime>
+  <tagline>辩护人</tagline>
+  <country>South Korea</country>
+  <genre>历史</genre>
+  <genre>剧情</genre>
+  <studio>WithUs Films</studio>
+  <studio>Next Entertainment World</studio>
+  <uniqueid type="Tmdb">242452</uniqueid>
+  <uniqueid type="Imdb">tt3404140</uniqueid>
+  <id>tt3404140</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>16604886</bitrate>
+        <width>1920</width>
+        <height>1036</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>127</duration>
+        <durationinseconds>7640</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

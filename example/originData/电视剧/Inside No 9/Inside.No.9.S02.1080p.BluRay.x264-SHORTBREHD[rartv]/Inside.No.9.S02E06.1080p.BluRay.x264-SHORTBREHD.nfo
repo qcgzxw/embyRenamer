@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Tina之前从未咨询过通灵界，他不太清楚会发生什么。但是另一方面已经有一些东西在等着她了 - 胆小猫。然而，还有一些东西在等待胆小猫团队。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-06 12:36:09</dateadded>
+  <title>招魂会</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Sophie McShera</name>
+    <role>Tina</role>
+    <type>GuestStar</type>
+    <tmdbid>1186087</tmdbid>
+    <imdbid>nm2904789</imdbid>
+  </actor>
+  <actor>
+    <name>Alison Steadman</name>
+    <role>Madam Talbot</role>
+    <type>GuestStar</type>
+    <tmdbid>47699</tmdbid>
+    <imdbid>nm0824102</imdbid>
+  </actor>
+  <actor>
+    <name>Dan Starkey</name>
+    <role>Blue Demon Dwarf</role>
+    <type>GuestStar</type>
+    <tmdbid>1261087</tmdbid>
+  </actor>
+  <actor>
+    <name>Cariad Lloyd</name>
+    <role>Gemma</role>
+    <type>GuestStar</type>
+    <tmdbid>1411383</tmdbid>
+  </actor>
+  <actor>
+    <name>Alice Lowe</name>
+    <role>Amanda</role>
+    <type>GuestStar</type>
+    <tmdbid>182327</tmdbid>
+  </actor>
+  <actor>
+    <name>Caden Ellis Wall</name>
+    <role>William</role>
+    <type>GuestStar</type>
+    <tmdbid>1437584</tmdbid>
+  </actor>
+  <director>Dan Zeff</director>
+  <rating>7</rating>
+  <year>2015</year>
+  <imdbid>tt4533016</imdbid>
+  <tvdbid>5157106</tvdbid>
+  <runtime>28</runtime>
+  <genre>Comedy</genre>
+  <genre>Horror</genre>
+  <uniqueid type="Imdb">tt4533016</uniqueid>
+  <uniqueid type="Tvdb">5157106</uniqueid>
+  <episode>6</episode>
+  <season>2</season>
+  <aired>2015-04-29</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11032628</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>28</duration>
+        <durationinseconds>1700</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

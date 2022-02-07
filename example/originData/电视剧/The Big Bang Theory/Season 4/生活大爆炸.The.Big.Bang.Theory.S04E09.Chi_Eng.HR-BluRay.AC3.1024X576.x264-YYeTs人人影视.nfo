@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[佩妮的爸爸到访时，佩妮要莱纳德假装两人还在交往，因为在她所有的男友中，只有莱纳德才能得到她爸爸的青睐。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-19 03:51:18</dateadded>
+  <title>男朋友的复杂性</title>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Leonard Hofstadter</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>Howard Wolowitz</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Nayyar</name>
+    <role>Rajesh Koothrappali</role>
+    <type>Actor</type>
+    <tmdbid>208099</tmdbid>
+    <imdbid>nm2471798</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa Rauch</name>
+    <role>Bernadette Rostenkowski</role>
+    <type>Actor</type>
+    <tmdbid>1221716</tmdbid>
+    <imdbid>nm1851981</imdbid>
+  </actor>
+  <actor>
+    <name>Mayim Bialik</name>
+    <role>Amy Farrah Fowler</role>
+    <type>Actor</type>
+    <tmdbid>167640</tmdbid>
+    <imdbid>nm0080524</imdbid>
+  </actor>
+  <actor>
+    <name>Keith Carradine</name>
+    <role>Wyatt</role>
+    <type>GuestStar</type>
+    <tmdbid>30613</tmdbid>
+    <imdbid>nm0001018</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.6</rating>
+  <year>2010</year>
+  <imdbid>tt1632246</imdbid>
+  <tvdbid>3110921</tvdbid>
+  <runtime>21</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>1064990329</tvrageid>
+  <uniqueid type="Imdb">tt1632246</uniqueid>
+  <uniqueid type="Tvdb">3110921</uniqueid>
+  <uniqueid type="TvRage">1064990329</uniqueid>
+  <episode>9</episode>
+  <season>4</season>
+  <aired>2010-11-18</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1685269</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1266</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

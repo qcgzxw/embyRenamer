@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[莫蒂竟然闯进游民体内，来到怪诞的传染病主题乐园。杰瑞的爸妈向大家介绍两人的新欢。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 07:39:09</dateadded>
+  <title>解剖公园</title>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>Dana Carvey</name>
+    <role>Leonard Smith (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>56159</tmdbid>
+  </actor>
+  <actor>
+    <name>John Oliver</name>
+    <role>Dr. Xenon Bloom (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>84292</tmdbid>
+  </actor>
+  <actor>
+    <name>Jackie Buscarino</name>
+    <role>Annie / Train Announcement (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1296988</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Harmon</name>
+    <role>Alejandro (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>57194</tmdbid>
+  </actor>
+  <actor>
+    <name>Jess Harnell</name>
+    <role>Ruben Ridley / Roger (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>84495</tmdbid>
+  </actor>
+  <actor>
+    <name>Echo Kellum</name>
+    <role>Jacob / Eric McMan (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1255907</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia Lentz</name>
+    <role>Joyce Smith (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1207490</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Anthony Williams</name>
+    <role>Poncho / News Anchor (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>54043</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Schrab</name>
+    <role>Alexander / Tom Randolph (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>57195</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Benson</name>
+    <role>Ethan (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>220756</tmdbid>
+  </actor>
+  <director>John Rice</director>
+  <rating>8.4</rating>
+  <year>2013</year>
+  <imdbid>tt3333828</imdbid>
+  <tvdbid>4730467</tvdbid>
+  <runtime>22</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <uniqueid type="Tvdb">4730467</uniqueid>
+  <uniqueid type="Imdb">tt3333828</uniqueid>
+  <episode>3</episode>
+  <season>1</season>
+  <aired>2013-12-16</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2663982</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1315</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

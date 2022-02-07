@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[二十年前有“黄金右脚”之称，但因一场被师兄强雄设计陷害的比赛而断了右脚自此名誉扫地的明锋偶然认识了有惊人脚力的星，说服了对方练习足球参加不久会举行的全国超级杯足球大赛，星找来曾一同在少林寺习武的一帮师兄弟，并唤醒了他们快被平庸生活消磨光了的潜在斗志，众人经过历练终结成名副其实的“少林队”。阿梅以太极功夫制造馒头，令星十分敬佩与之成了好友，但阿梅不只当星为好友，只因样貌奇丑而自卑一直不敢表露心意。  “少林队”在全国超级杯足球大赛上屡战屡捷杀进决赛，不想卫冕之战对手竟是强雄所带领的“魔鬼队”，同二十年前一样，强雄再耍阴招令“少林队”节节败退，关键时刻，阿梅现身。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-04 14:14:44</dateadded>
+  <title>少林足球</title>
+  <originaltitle>少林足球</originaltitle>
+  <actor>
+    <name>Stephen Chow</name>
+    <role>Sing</role>
+    <type>Actor</type>
+    <tmdbid>57607</tmdbid>
+    <imdbid>nm0159507</imdbid>
+  </actor>
+  <actor>
+    <name>Zhao Wei</name>
+    <role>Mui</role>
+    <type>Actor</type>
+    <tmdbid>77304</tmdbid>
+    <imdbid>nm0955505</imdbid>
+  </actor>
+  <actor>
+    <name>Ng Man-tat</name>
+    <role>Fung</role>
+    <type>Actor</type>
+    <tmdbid>70437</tmdbid>
+    <imdbid>nm0628806</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Tse Yin</name>
+    <role>Hung</role>
+    <type>Actor</type>
+    <tmdbid>70439</tmdbid>
+    <imdbid>nm0874868</imdbid>
+  </actor>
+  <actor>
+    <name>Wong Yat-fei</name>
+    <role>Iron Head</role>
+    <type>Actor</type>
+    <tmdbid>956575</tmdbid>
+    <imdbid>nm0939431</imdbid>
+  </actor>
+  <actor>
+    <name>Tenky Tin Kai-Man</name>
+    <role>Iron Shirt</role>
+    <type>Actor</type>
+    <tmdbid>1136808</tmdbid>
+    <imdbid>nm1214151</imdbid>
+  </actor>
+  <actor>
+    <name>Mok Mei-Lam</name>
+    <role>Hooking Leg</role>
+    <type>Actor</type>
+    <tmdbid>1265974</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Chan Kwok-Kwan</name>
+    <role>Empty Hands</role>
+    <type>Actor</type>
+    <tmdbid>1173223</tmdbid>
+    <imdbid>nm2185928</imdbid>
+  </actor>
+  <actor>
+    <name>Lam Tze-chung</name>
+    <role>Weight Vest</role>
+    <type>Actor</type>
+    <tmdbid>545277</tmdbid>
+    <imdbid>nm1125531</imdbid>
+  </actor>
+  <actor>
+    <name>Karen Mok</name>
+    <role>Dragon Twin</role>
+    <type>Actor</type>
+    <tmdbid>57831</tmdbid>
+    <imdbid>nm0596297</imdbid>
+  </actor>
+  <actor>
+    <name>Cecilia Cheung</name>
+    <role>Dragon Twin</role>
+    <type>Actor</type>
+    <tmdbid>20652</tmdbid>
+    <imdbid>nm0156444</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Kin-Yan</name>
+    <role>Manny</role>
+    <type>Actor</type>
+    <tmdbid>237235</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Lau</name>
+    <role>[Singing voice]</role>
+    <type>Actor</type>
+    <tmdbid>25246</tmdbid>
+    <imdbid>nm0490489</imdbid>
+  </actor>
+  <actor>
+    <name>Jazz Lam</name>
+    <role>Team Gangster Player #1</role>
+    <type>Actor</type>
+    <tmdbid>1132933</tmdbid>
+    <imdbid>nm0482579</imdbid>
+  </actor>
+  <actor>
+    <name>Vincent Kok</name>
+    <role>Team Puma Leader</role>
+    <type>Actor</type>
+    <tmdbid>65934</tmdbid>
+    <imdbid>nm0463674</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Wong Ming-Kin</name>
+    <role>Team Gangster Player #3</role>
+    <type>Actor</type>
+    <tmdbid>2062365</tmdbid>
+  </actor>
+  <director tmdbid="57607" imdbid="nm0159507">Stephen Chow</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bREfcVPssiE</trailer>
+  <rating>7.3</rating>
+  <year>2001</year>
+  <mpaa>PG</mpaa>
+  <imdbid>tt0286112</imdbid>
+  <tmdbid>11770</tmdbid>
+  <premiered>2001-07-05</premiered>
+  <releasedate>2001-07-05</releasedate>
+  <criticrating>90</criticrating>
+  <runtime>110</runtime>
+  <country>China</country>
+  <country>Hong Kong</country>
+  <genre>动作</genre>
+  <genre>喜剧</genre>
+  <studio>Star Overseas</studio>
+  <studio>Universe Entertainment</studio>
+  <uniqueid type="Imdb">tt0286112</uniqueid>
+  <uniqueid type="Tmdb">11770</uniqueid>
+  <id>tt0286112</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>7929321</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6596</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

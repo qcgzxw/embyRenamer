@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[故事发生在1763年的伦敦，女性地位的低下和经济的落后使得女人们无法选择自己的生活，如果想要活下去，除了嫁一个金龟婿外，就只能成为妓女。玛格丽特（萨曼莎·莫顿 Samantha Morton 饰）和莉迪亚（莱丝利·曼维尔 Lesley Manville 饰）是当地最有名 的两名妓院老鸨，为了招揽生意，玛格丽特甚至拍卖了自己的两个女儿的初夜。玛格列特想将妓院搬到苏豪区，将目标转移到居住在那里的富豪们身上。这一举动威胁到了莉迪亚的利益，为了阻止玛格丽特的计划，莉迪亚暗中将玛格丽特的动向举报给了一位宗教狂热分子。愤怒的玛格丽特想要报复莉迪亚，但是她知道，一旦两人发生了正面的冲突，将会对她的家庭和事业造成不可挽回的破坏。]]></plot>
+  <outline><![CDATA[故事发生在1763年的伦敦，女性地位的低下和经济的落后使得女人们无法选择自己的生活，如果想要活下去，除了嫁一个金龟婿外，就只能成为妓女。玛格丽特（萨曼莎·莫顿 Samantha Morton 饰）和莉迪亚（莱丝利·曼维尔 Lesley Manville 饰）是当地最有名 的两名妓院老鸨，为了招揽生意，玛格丽特甚至拍卖了自己的两个女儿的初夜。玛格列特想将妓院搬到苏豪区，将目标转移到居住在那里的富豪们身上。这一举动威胁到了莉迪亚的利益，为了阻止玛格丽特的计划，莉迪亚暗中将玛格丽特的动向举报给了一位宗教狂热分子。愤怒的玛格丽特想要报复莉迪亚，但是她知道，一旦两人发生了正面的冲突，将会对她的家庭和事业造成不可挽回的破坏。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-30 15:40:51</dateadded>
+  <title>名姝</title>
+  <originaltitle>Harlots</originaltitle>
+  <actor>
+    <name>Roy Beck</name>
+    <role>Mr. Abbadon</role>
+    <type>Actor</type>
+    <tmdbid>1809473</tmdbid>
+    <imdbid>nm8745734</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Sapani</name>
+    <role>William North</role>
+    <type>Actor</type>
+    <tmdbid>165424</tmdbid>
+    <imdbid>nm0764527</imdbid>
+  </actor>
+  <actor>
+    <name>Rosalind Eleazar</name>
+    <role>Violet Cross</role>
+    <type>Actor</type>
+    <tmdbid>1682679</tmdbid>
+    <imdbid>nm7424185</imdbid>
+  </actor>
+  <actor>
+    <name>Bronwyn James</name>
+    <role>Fanny Lambert</role>
+    <type>Actor</type>
+    <tmdbid>1587577</tmdbid>
+    <imdbid>nm8882474</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Lambert</name>
+    <role>Lord Fallon</role>
+    <type>Actor</type>
+    <tmdbid>1066706</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfie Allen</name>
+    <role>Isaac Pincher</role>
+    <type>Actor</type>
+    <tmdbid>71586</tmdbid>
+    <imdbid>nm0654295</imdbid>
+  </actor>
+  <actor>
+    <name>Ash Hunter</name>
+    <role>Hal Pincher</role>
+    <type>Actor</type>
+    <tmdbid>1848125</tmdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=IKOzqfGf7cc</trailer>
+  <rating>7.9</rating>
+  <year>2017</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt5761478</imdb_id>
+  <tmdbid>69541</tmdbid>
+  <premiered>2017-03-27</premiered>
+  <releasedate>2017-03-27</releasedate>
+  <enddate>2019-08-28</enddate>
+  <runtime>47</runtime>
+  <genre>剧情</genre>
+  <studio>Hulu</studio>
+  <studio>ITV Encore</studio>
+  <uniqueid type="Tvdb">319861</uniqueid>
+  <tvdbid>319861</tvdbid>
+  <uniqueid type="Imdb">tt5761478</uniqueid>
+  <uniqueid type="Tmdb">69541</uniqueid>
+  <id>319861</id>
+  <episodeguide>
+    <url cache="319861.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/319861/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Ended</status>
+</tvshow>

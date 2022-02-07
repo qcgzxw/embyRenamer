@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[谢尔顿首次造访加州理工学院。同时，乔治对玛丽偷听了他与他的女朋友的电话感到愤怒，姥姥试图让嫉妒的米茜振作起来。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-11 23:30:07</dateadded>
+  <title>帕萨迪纳市</title>
+  <actor>
+    <name>Iain Armitage</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1684536</tmdbid>
+    <imdbid>nm8071137</imdbid>
+  </actor>
+  <actor>
+    <name>Zoe Perry</name>
+    <role>Mary Cooper</role>
+    <type>Actor</type>
+    <tmdbid>133450</tmdbid>
+    <imdbid>nm1409365</imdbid>
+  </actor>
+  <actor>
+    <name>Lance Barber</name>
+    <role>George Cooper Sr.</role>
+    <type>Actor</type>
+    <tmdbid>1212111</tmdbid>
+    <imdbid>nm1115741</imdbid>
+  </actor>
+  <actor>
+    <name>Montana Jordan</name>
+    <role>Georgie Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1817307</tmdbid>
+    <imdbid>nm7718664</imdbid>
+  </actor>
+  <actor>
+    <name>Raegan Revord</name>
+    <role>Missy Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1575317</tmdbid>
+    <imdbid>nm6862942</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Potts</name>
+    <role>Connie Tucker</role>
+    <type>Actor</type>
+    <tmdbid>8873</tmdbid>
+    <imdbid>nm0001633</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Hobby</name>
+    <role>Jeff Difford</role>
+    <type>Actor</type>
+    <tmdbid>1536526</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Amanda Payton</name>
+    <role>Meredith</role>
+    <type>GuestStar</type>
+    <tmdbid>211768</tmdbid>
+    <imdbid>nm3170406</imdbid>
+  </actor>
+  <actor>
+    <name>Kerry O'Malley</name>
+    <role>Travel Agent</role>
+    <type>GuestStar</type>
+    <tmdbid>100567</tmdbid>
+    <imdbid>nm0641747</imdbid>
+  </actor>
+  <actor>
+    <name>Ava Allan</name>
+    <role>Jana Boggs</role>
+    <type>GuestStar</type>
+    <tmdbid>1258895</tmdbid>
+    <imdbid>nm3709243</imdbid>
+  </actor>
+  <actor>
+    <name>Wallace Shawn</name>
+    <role>John Sturgis</role>
+    <type>GuestStar</type>
+    <tmdbid>12900</tmdbid>
+    <imdbid>nm0001728</imdbid>
+  </actor>
+  <rating>4.8</rating>
+  <year>2020</year>
+  <imdbid>tt11683464</imdbid>
+  <tvdbid>7564224</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <uniqueid type="Imdb">tt11683464</uniqueid>
+  <uniqueid type="Tvdb">7564224</uniqueid>
+  <episode>16</episode>
+  <season>3</season>
+  <aired>2020-02-20</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>16302178</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1193</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[严良安排专案组的同志全城搜寻朱伟的影子。朱伟执行其他任务回来，和江阳再次来到丁春妹家，却发现丁春妹失踪了，并在现场发现了血迹。他们立即去抓黄毛，通过他套出背后的李建国，牵扯出当地知名上市公司卡恩集团董事长--孙传福。朱伟和江阳带着一群警察来抓胡一浪和卡恩集团总经理孙传福，因为手续不全，审讯不了了之。严良和任玥婷着手调查烂尾楼爆炸案，为什么爆炸会发生在卡恩集团的烂尾楼盘上呢?这件事情跟卡恩集团又有什么关系?在小吃摊上，严良想明白了第一次爆炸案的原理。于此同时，严良和小马在垃圾处理厂找回了案发现场的老年扶手，通过内部的生产日期发现，张超父母家的老年扶手竟然是2009年6月才生产的。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-23 11:10:47</dateadded>
+  <title>丁春妹失踪疑似遇不测 诸多线索牵扯卡恩集团</title>
+  <actor>
+    <name>Liao Fan</name>
+    <role>Yan Liang</role>
+    <type>Actor</type>
+    <tmdbid>99692</tmdbid>
+    <imdbid>nm1233224</imdbid>
+  </actor>
+  <actor>
+    <name>Bai Yu</name>
+    <role>Jiang Yang</role>
+    <type>Actor</type>
+    <tmdbid>1698814</tmdbid>
+    <imdbid>nm7889237</imdbid>
+  </actor>
+  <actor>
+    <name>Lü Xiaolin</name>
+    <role>Ren Yueting, Captain of the Criminal Police</role>
+    <type>Actor</type>
+    <tmdbid>1909342</tmdbid>
+    <imdbid>nm4892567</imdbid>
+  </actor>
+  <actor>
+    <name>Zhao Yang</name>
+    <role>Zhu Wei</role>
+    <type>Actor</type>
+    <tmdbid>1780719</tmdbid>
+  </actor>
+  <actor>
+    <name>Tan Zhuo</name>
+    <role>Li Jing</role>
+    <type>Actor</type>
+    <tmdbid>938326</tmdbid>
+    <imdbid>nm3431007</imdbid>
+  </actor>
+  <actor>
+    <name>Ning Li</name>
+    <role>Zhang Chao</role>
+    <type>Actor</type>
+    <tmdbid>987205</tmdbid>
+    <imdbid>nm1280632</imdbid>
+  </actor>
+  <actor>
+    <name>Lu Siyu</name>
+    <role>Hou Guiping</role>
+    <type>Actor</type>
+    <tmdbid>2802902</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhao Leiqi</name>
+    <role>Gu Yiming</role>
+    <type>Actor</type>
+    <tmdbid>2586775</tmdbid>
+  </actor>
+  <actor>
+    <name>Huang Yao</name>
+    <role>Zhang Xiaoqian, Jiangtan Evening News reporter</role>
+    <type>Actor</type>
+    <tmdbid>2149028</tmdbid>
+  </actor>
+  <actor>
+    <name>Tian Xiaojie</name>
+    <role>Chen Mingzhang, forensic doctor</role>
+    <type>Actor</type>
+    <tmdbid>1637213</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuanyuan Zhao</name>
+    <role>Wu Aike</role>
+    <type>Actor</type>
+    <tmdbid>1087177</tmdbid>
+    <imdbid>nm4593170</imdbid>
+  </actor>
+  <actor>
+    <name>Cao Weiyu</name>
+    <role>Li Jianguo, Criminal Police Chief from Pingkang County</role>
+    <type>Actor</type>
+    <tmdbid>1924494</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Lei</name>
+    <role>Hu Yilang</role>
+    <type>Actor</type>
+    <tmdbid>2827809</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Zhigang</name>
+    <role>Chief Prosecutor Wu</role>
+    <type>Actor</type>
+    <tmdbid>3112989</tmdbid>
+  </actor>
+  <rating>0</rating>
+  <year>2020</year>
+  <tvdbid>7937836</tvdbid>
+  <runtime>48</runtime>
+  <uniqueid type="Tvdb">7937836</uniqueid>
+  <episode>7</episode>
+  <season>1</season>
+  <aired>2020-09-18</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1467446</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2862</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>124336</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

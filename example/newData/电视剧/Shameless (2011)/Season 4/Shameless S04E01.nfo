@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[服药成瘾、健康状况极度糟糕的弗兰克回来了。与此同时，菲欧娜一边全力照顾全家人的生活，一边在Worldwide Cup公司工作。迈克·普拉特不仅是她的老板，还是她的情人。另一方面，菲欧娜试图与黛比和卡尔取得联系，但这两个孩子已经因为青春期荷尔蒙激增而陷入深深的烦恼。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-16 15:13:26</dateadded>
+  <title>简单的快乐</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Noel Fisher</name>
+    <role>Mickey Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>80352</tmdbid>
+    <imdbid>nm0279720</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Greenwell</name>
+    <role>Mandy Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>1155473</tmdbid>
+  </actor>
+  <actor>
+    <name>Dennis Cockrum</name>
+    <role>Terry Milkovich</role>
+    <type>GuestStar</type>
+    <tmdbid>155825</tmdbid>
+    <imdbid>nm0168371</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Brochtrup</name>
+    <role>Hal</role>
+    <type>GuestStar</type>
+    <tmdbid>45397</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyler Jacob Moore</name>
+    <role>Tony Markovich</role>
+    <type>GuestStar</type>
+    <tmdbid>1225818</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Carter</name>
+    <role>Stan Kopchek</role>
+    <type>GuestStar</type>
+    <tmdbid>40429</tmdbid>
+  </actor>
+  <actor>
+    <name>Jake McDorman</name>
+    <role>Mike Pratt</role>
+    <type>GuestStar</type>
+    <tmdbid>94791</tmdbid>
+    <imdbid>nm1416330</imdbid>
+  </actor>
+  <actor>
+    <name>Maile Flanagan</name>
+    <role>Connie</role>
+    <type>GuestStar</type>
+    <tmdbid>23211</tmdbid>
+    <imdbid>nm0281068</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Cagley</name>
+    <role>Ron Kuzner</role>
+    <type>GuestStar</type>
+    <tmdbid>1246384</tmdbid>
+  </actor>
+  <actor>
+    <name>Joan Cusack</name>
+    <role>Sheila Jackson</role>
+    <type>GuestStar</type>
+    <tmdbid>3234</tmdbid>
+    <imdbid>nm0000349</imdbid>
+  </actor>
+  <actor>
+    <name>James Allen McCune</name>
+    <role>Matty Baker</role>
+    <type>GuestStar</type>
+    <tmdbid>1223879</tmdbid>
+  </actor>
+  <actor>
+    <name>Danika Yarosh</name>
+    <role>Holly Herkimer</role>
+    <type>GuestStar</type>
+    <tmdbid>1466613</tmdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Bell Calloway</name>
+    <role>Carol Fisher</role>
+    <type>GuestStar</type>
+    <tmdbid>100653</tmdbid>
+  </actor>
+  <actor>
+    <name>Nichole Sakura</name>
+    <role>Amanda</role>
+    <type>GuestStar</type>
+    <tmdbid>996697</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Patrick McGill</name>
+    <role>Tommy</role>
+    <type>GuestStar</type>
+    <tmdbid>154816</tmdbid>
+    <imdbid>nm1042946</imdbid>
+  </actor>
+  <actor>
+    <name>Isidora Goreshter</name>
+    <role>Svetlana Yevgenivna</role>
+    <type>GuestStar</type>
+    <tmdbid>1677397</tmdbid>
+  </actor>
+  <director>John Wells</director>
+  <rating>8.1</rating>
+  <year>2014</year>
+  <imdbid>tt2785156</imdbid>
+  <tvdbid>4624133</tvdbid>
+  <runtime>56</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt2785156</uniqueid>
+  <uniqueid type="Tvdb">4624133</uniqueid>
+  <episode>1</episode>
+  <season>4</season>
+  <aired>2014-01-12</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11155136</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>56</duration>
+        <durationinseconds>3367</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>X264-GHOULS</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

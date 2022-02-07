@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[卡罗尔（泽比纽·扎马洲斯基 Zbigniew Zamachowski饰）藏在妻子多明尼（朱丽·德尔比 Julie Delpy饰）的行李箱中，从波兰偷渡到了法国。天堂般的生活并没有如愿展开，换来的是卡罗尔心中巨大的生活压力。他甚至失去了性能力，被多明尼赶出家门。带着妻子有了外遇的惨痛心情，还有一张美发师证书，卡罗尔决心回到波兰经营事业，再卷土重来。历尽波折的卡罗尔终于回到自己的国土。他积极上进，忙于谋生，竟在房地产生意中打了漂亮的翻身仗，一举成为百万富翁。此时的他，以为可以让多明尼回到身边，然而妻子的拒绝却令他的自尊大为受伤。于是，卡罗尔决定用一场阴险的计谋，狠狠给妻子一个报复。然而当卡罗尔得逞后，他又能换来什么呢？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-04 17:24:53</dateadded>
+  <title>蓝白红三部曲之白</title>
+  <originaltitle>Trois couleurs : Blanc</originaltitle>
+  <actor>
+    <name>Zbigniew Zamachowski</name>
+    <role>Karol Karol</role>
+    <type>Actor</type>
+    <tmdbid>1145</tmdbid>
+    <imdbid>nm0952498</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Delpy</name>
+    <role>Dominique</role>
+    <type>Actor</type>
+    <tmdbid>1146</tmdbid>
+    <imdbid>nm0000365</imdbid>
+  </actor>
+  <actor>
+    <name>Janusz Gajos</name>
+    <role>Mikolaj</role>
+    <type>Actor</type>
+    <tmdbid>1147</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerzy Stuhr</name>
+    <role>Jurek</role>
+    <type>Actor</type>
+    <tmdbid>1148</tmdbid>
+  </actor>
+  <actor>
+    <name>Aleksander Bardini</name>
+    <role>Le notaire</role>
+    <type>Actor</type>
+    <tmdbid>1149</tmdbid>
+  </actor>
+  <actor>
+    <name>Grzegorz Warchoł</name>
+    <role>L'elegant</role>
+    <type>Actor</type>
+    <tmdbid>1138501</tmdbid>
+  </actor>
+  <actor>
+    <name>Cezary Harasimowicz</name>
+    <role>L'inspecteur</role>
+    <type>Actor</type>
+    <tmdbid>6415</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerzy Nowak</name>
+    <role>La vieux payson</role>
+    <type>Actor</type>
+    <tmdbid>7119</tmdbid>
+  </actor>
+  <actor>
+    <name>Philippe Morier-Genoud</name>
+    <role>Le juge</role>
+    <type>Actor</type>
+    <tmdbid>19075</tmdbid>
+  </actor>
+  <actor>
+    <name>Juliette Binoche</name>
+    <role>Julie Vignon</role>
+    <type>Actor</type>
+    <tmdbid>1137</tmdbid>
+    <imdbid>nm0000300</imdbid>
+  </actor>
+  <director tmdbid="1126" imdbid="nm0001425">Krzysztof Kieślowski</director>
+  <rating>7.6</rating>
+  <year>1994</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0111507</imdbid>
+  <tmdbid>109</tmdbid>
+  <premiered>1994-01-26</premiered>
+  <releasedate>1994-01-26</releasedate>
+  <criticrating>87</criticrating>
+  <runtime>92</runtime>
+  <country>France</country>
+  <country>Poland</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <genre>悬疑</genre>
+  <studio>Le Studio Canal+</studio>
+  <studio>France 3 Cinéma</studio>
+  <studio>Eurimages</studio>
+  <set tmdbcolid="131">
+    <name>蓝白红（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">109</uniqueid>
+  <uniqueid type="Imdb">tt0111507</uniqueid>
+  <id>tt0111507</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>16094179</bitrate>
+        <width>1920</width>
+        <height>1032</height>
+        <aspect>80:43</aspect>
+        <aspectratio>80:43</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5519</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

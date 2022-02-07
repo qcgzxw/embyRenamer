@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[封闭守旧的美国小镇闯进了一个神秘女子格蕾斯（妮可•基德曼 Nicole Kidman 饰）。她美丽善良，正在逃避歹徒追杀。镇中的作家汤姆力劝村民留下这个女子，让她暂时在镇里避过难关。然而条件就是格蕾丝要干各种农活来偿还。人们同意了，不久后却发现格蕾丝是一个通缉中的逃犯。大家要把格蕾丝赶走，最后答应，如果她更卖力的干活，才可以在这里逗留。
+ 格蕾丝日以继夜的劳作，终难逃过不幸的事情发生。一个镇民在警察搜捕后，强暴了格蕾丝。龌龊的事情拉开了序幕：人们开始随意的污辱她，甚至连汤姆，也揭开了善良的面具，格蕾斯沦为镇上的一条狗，干活，受罪，善良的心也有了渐渐的改变。镇上的人怎么也想不到，这个女子的神秘身世，让此刻的污辱成为了他日的灭顶之灾。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-20 07:49:12</dateadded>
+  <title>狗镇</title>
+  <originaltitle>Dogville</originaltitle>
+  <actor>
+    <name>Nicole Kidman</name>
+    <role>Grace Margaret Mulligan</role>
+    <type>Actor</type>
+    <tmdbid>2227</tmdbid>
+    <imdbid>nm0000173</imdbid>
+  </actor>
+  <actor>
+    <name>Harriet Andersson</name>
+    <role>Gloria</role>
+    <type>Actor</type>
+    <tmdbid>7569</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren Bacall</name>
+    <role>Ma Ginger</role>
+    <type>Actor</type>
+    <tmdbid>7570</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean-Marc Barr</name>
+    <role>Man with the big Hat</role>
+    <type>Actor</type>
+    <tmdbid>1642</tmdbid>
+    <imdbid>nm0000852</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Bettany</name>
+    <role>Tom Edison</role>
+    <type>Actor</type>
+    <tmdbid>6162</tmdbid>
+    <imdbid>nm0079273</imdbid>
+  </actor>
+  <actor>
+    <name>Blair Brown</name>
+    <role>Mrs. Henson</role>
+    <type>Actor</type>
+    <tmdbid>7571</tmdbid>
+  </actor>
+  <actor>
+    <name>James Caan</name>
+    <role>The Big Man</role>
+    <type>Actor</type>
+    <tmdbid>3085</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia Clarkson</name>
+    <role>Vera</role>
+    <type>Actor</type>
+    <tmdbid>1276</tmdbid>
+    <imdbid>nm0165101</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Davies</name>
+    <role>Bill Henson</role>
+    <type>Actor</type>
+    <tmdbid>4654</tmdbid>
+    <imdbid>nm0001111</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Gazzara</name>
+    <role>Jack McKay</role>
+    <type>Actor</type>
+    <tmdbid>856</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Baker Hall</name>
+    <role>Tom Edison Senior</role>
+    <type>Actor</type>
+    <tmdbid>4492</tmdbid>
+    <imdbid>nm0001311</imdbid>
+  </actor>
+  <actor>
+    <name>Thom Hoffman</name>
+    <role>Gangster</role>
+    <type>Actor</type>
+    <tmdbid>7572</tmdbid>
+  </actor>
+  <actor>
+    <name>Siobhan Fallon Hogan</name>
+    <role>Martha</role>
+    <type>Actor</type>
+    <tmdbid>6751</tmdbid>
+    <imdbid>nm0266441</imdbid>
+  </actor>
+  <actor>
+    <name>Zeljko Ivanek</name>
+    <role>Ben</role>
+    <type>Actor</type>
+    <tmdbid>6752</tmdbid>
+    <imdbid>nm0411964</imdbid>
+  </actor>
+  <actor>
+    <name>John Randolph Jones</name>
+    <role>Gangster</role>
+    <type>Actor</type>
+    <tmdbid>6758</tmdbid>
+  </actor>
+  <actor>
+    <name>Udo Kier</name>
+    <role>Man in the Coat</role>
+    <type>Actor</type>
+    <tmdbid>1646</tmdbid>
+    <imdbid>nm0001424</imdbid>
+  </actor>
+  <actor>
+    <name>Cleo King</name>
+    <role>Olivia</role>
+    <type>Actor</type>
+    <tmdbid>7574</tmdbid>
+    <imdbid>nm0454598</imdbid>
+  </actor>
+  <actor>
+    <name>Miles Purinton</name>
+    <role>Jason</role>
+    <type>Actor</type>
+    <tmdbid>7575</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Raymond</name>
+    <role>Mr. Henson</role>
+    <type>Actor</type>
+    <tmdbid>7576</tmdbid>
+  </actor>
+  <actor>
+    <name>Chloë Sevigny</name>
+    <role>Liz Henson</role>
+    <type>Actor</type>
+    <tmdbid>2838</tmdbid>
+  </actor>
+  <actor>
+    <name>Shauna Shim</name>
+    <role>June</role>
+    <type>Actor</type>
+    <tmdbid>7577</tmdbid>
+  </actor>
+  <actor>
+    <name>Stellan Skarsgård</name>
+    <role>Chuck</role>
+    <type>Actor</type>
+    <tmdbid>1640</tmdbid>
+    <imdbid>nm0001745</imdbid>
+  </actor>
+  <actor>
+    <name>Evelina Brinkemo</name>
+    <role>Athena</role>
+    <type>Actor</type>
+    <tmdbid>7578</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Brobeck</name>
+    <role>Olympia</role>
+    <type>Actor</type>
+    <tmdbid>7579</tmdbid>
+  </actor>
+  <actor>
+    <name>Tilde Lindgren</name>
+    <role>Pandora</role>
+    <type>Actor</type>
+    <tmdbid>7580</tmdbid>
+  </actor>
+  <actor>
+    <name>Evelina Lundqvist</name>
+    <role>Diana</role>
+    <type>Actor</type>
+    <tmdbid>7581</tmdbid>
+  </actor>
+  <actor>
+    <name>Helga Olofsson</name>
+    <role>Dahlia</role>
+    <type>Actor</type>
+    <tmdbid>7582</tmdbid>
+  </actor>
+  <actor>
+    <name>John Hurt</name>
+    <role>Narrator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5049</tmdbid>
+    <imdbid>nm0000457</imdbid>
+  </actor>
+  <actor>
+    <name>Jan Coster</name>
+    <role>Additional Cast</role>
+    <type>Actor</type>
+    <tmdbid>1480036</tmdbid>
+  </actor>
+  <actor>
+    <name>Ingvar Örner</name>
+    <role>Additional Cast</role>
+    <type>Actor</type>
+    <tmdbid>135708</tmdbid>
+  </actor>
+  <actor>
+    <name>Erich Silva</name>
+    <role>Additional Cast</role>
+    <type>Actor</type>
+    <tmdbid>1378316</tmdbid>
+  </actor>
+  <director tmdbid="42" imdbid="nm0001885">Lars von Trier</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=J5-LqwUHTaM</trailer>
+  <rating>7.8</rating>
+  <year>2003</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0276919</imdbid>
+  <tmdbid>553</tmdbid>
+  <premiered>2003-05-19</premiered>
+  <releasedate>2003-05-19</releasedate>
+  <runtime>178</runtime>
+  <country>Denmark</country>
+  <country>France</country>
+  <country>Netherlands</country>
+  <country>United Kingdom</country>
+  <country>Sweden</country>
+  <country>Germany</country>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <studio>YLE</studio>
+  <studio>Zentropa Entertainments</studio>
+  <studio>Danmarks Radio (DR)</studio>
+  <studio>Trollhättan Film</studio>
+  <studio>Memfis Film</studio>
+  <studio>France 3 Cinéma</studio>
+  <studio>Slot Machine</studio>
+  <studio>Liberator Productions</studio>
+  <studio>Nederlandse Programma Stichting (NPS)</studio>
+  <studio>Isabella Films B.V.</studio>
+  <studio>Pain Unlimited GmbH Filmproduktion</studio>
+  <studio>Something Else B.V.</studio>
+  <studio>Sigma Films</studio>
+  <studio>Zoma Films Ltd.</studio>
+  <studio>ARTE France Cinéma</studio>
+  <studio>SVT</studio>
+  <studio>WDR/Arte</studio>
+  <studio>Film i Väst</studio>
+  <studio>Edith Film Oy</studio>
+  <studio>Invicta Capital</studio>
+  <studio>4 1/2</studio>
+  <studio>TV 2</studio>
+  <uniqueid type="Tmdb">553</uniqueid>
+  <uniqueid type="Imdb">tt0276919</uniqueid>
+  <id>tt0276919</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>14476295</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>177</duration>
+        <durationinseconds>10675</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

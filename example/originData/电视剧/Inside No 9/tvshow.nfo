@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[《9号秘事》（英语：Inside No. 9）是一部英国黑色喜剧，每集分别讲述一个独立的怪诞故事，每次均与9号数字有关（通常是在不同的9号门牌房子或房间里），每集亦必定出现同一只铜制野兔雕像。]]></plot>
+  <outline><![CDATA[《9号秘事》（英语：Inside No. 9）是一部英国黑色喜剧，每集分别讲述一个独立的怪诞故事，每次均与9号数字有关（通常是在不同的9号门牌房子或房间里），每集亦必定出现同一只铜制野兔雕像。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-05-24 11:45:23</dateadded>
+  <title>9号秘事</title>
+  <originaltitle>Inside No. 9</originaltitle>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=oNPQ8-wpqG4</trailer>
+  <trailer>http://www.youtube.com/watch?v=K4mAQcWl-BM</trailer>
+  <rating>8.1</rating>
+  <year>2014</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt2674806</imdb_id>
+  <tmdbid>61746</tmdbid>
+  <premiered>2014-02-05</premiered>
+  <releasedate>2014-02-05</releasedate>
+  <runtime>30</runtime>
+  <genre>喜剧</genre>
+  <genre>悬疑</genre>
+  <studio>BBC Two</studio>
+  <tvrageid>39780</tvrageid>
+  <uniqueid type="Imdb">tt2674806</uniqueid>
+  <uniqueid type="Tmdb">61746</uniqueid>
+  <uniqueid type="Tvdb">276840</uniqueid>
+  <tvdbid>276840</tvdbid>
+  <uniqueid type="TvRage">39780</uniqueid>
+  <id>276840</id>
+  <episodeguide>
+    <url cache="276840.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/276840/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

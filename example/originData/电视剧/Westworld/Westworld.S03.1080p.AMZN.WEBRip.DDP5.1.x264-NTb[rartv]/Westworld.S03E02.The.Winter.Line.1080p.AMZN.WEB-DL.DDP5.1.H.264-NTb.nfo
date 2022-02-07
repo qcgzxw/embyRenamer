@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[梅芙（Maeve）发现自己在一个新公园里，仿佛回到了过去。 伯纳德（Bernard）正在重返西部世界园区...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-05-21 08:19:33</dateadded>
+  <title>冬季防线</title>
+  <actor>
+    <name>Evan Rachel Wood</name>
+    <role>Dolores Abernathy</role>
+    <type>Actor</type>
+    <tmdbid>38940</tmdbid>
+    <imdbid>nm0939697</imdbid>
+  </actor>
+  <actor>
+    <name>Thandie Newton</name>
+    <role>Maeve Millay</role>
+    <type>Actor</type>
+    <tmdbid>9030</tmdbid>
+    <imdbid>nm0628601</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Wright</name>
+    <role>Bernard Lowe</role>
+    <type>Actor</type>
+    <tmdbid>2954</tmdbid>
+    <imdbid>nm0942482</imdbid>
+  </actor>
+  <actor>
+    <name>Tessa Thompson</name>
+    <role>Charlotte Hale</role>
+    <type>Actor</type>
+    <tmdbid>62561</tmdbid>
+    <imdbid>nm1935086</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Harris</name>
+    <role>Man in Black</role>
+    <type>Actor</type>
+    <tmdbid>228</tmdbid>
+    <imdbid>nm0000438</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Caleb</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Vincent Cassel</name>
+    <role>Serac</role>
+    <type>Actor</type>
+    <tmdbid>1925</tmdbid>
+    <imdbid>nm0001993</imdbid>
+  </actor>
+  <actor>
+    <name>Candice Renee</name>
+    <role>Behavioral Tech</role>
+    <type>GuestStar</type>
+    <tmdbid>1386152</tmdbid>
+    <imdbid>nm2461114</imdbid>
+  </actor>
+  <actor>
+    <name>Cosima Cabrera</name>
+    <role>Behavioral Tech #3</role>
+    <type>GuestStar</type>
+    <tmdbid>1804520</tmdbid>
+  </actor>
+  <actor>
+    <name>Al Bayan</name>
+    <role>Behavioral Tech #4</role>
+    <type>GuestStar</type>
+    <tmdbid>2536396</tmdbid>
+  </actor>
+  <actor>
+    <name>Ptolemy Slocum</name>
+    <role>Sylvester</role>
+    <type>GuestStar</type>
+    <tmdbid>207453</tmdbid>
+    <imdbid>nm1784872</imdbid>
+  </actor>
+  <actor>
+    <name>Leonardo Nam</name>
+    <role>Felix Lutz</role>
+    <type>GuestStar</type>
+    <tmdbid>24200</tmdbid>
+    <imdbid>nm1211344</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Connors</name>
+    <role>Tom</role>
+    <type>GuestStar</type>
+    <tmdbid>1456325</tmdbid>
+  </actor>
+  <actor>
+    <name>David Danipour</name>
+    <role>Benny</role>
+    <type>GuestStar</type>
+    <tmdbid>2521034</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael T McIntosh</name>
+    <role>Robot</role>
+    <type>GuestStar</type>
+    <tmdbid>2575805</tmdbid>
+  </actor>
+  <actor>
+    <name>D. B. Weiss</name>
+    <role>Delos Technician #1</role>
+    <type>GuestStar</type>
+    <tmdbid>228068</tmdbid>
+    <imdbid>nm1888967</imdbid>
+  </actor>
+  <actor>
+    <name>David Benioff</name>
+    <role>Delos Technician #2</role>
+    <type>GuestStar</type>
+    <tmdbid>9813</tmdbid>
+    <imdbid>nm1125275</imdbid>
+  </actor>
+  <actor>
+    <name>Seth Adams</name>
+    <role>Security Officer</role>
+    <type>GuestStar</type>
+    <tmdbid>1182847</tmdbid>
+  </actor>
+  <actor>
+    <name>Bobbie Breckenridge</name>
+    <role>Screaming Woman</role>
+    <type>GuestStar</type>
+    <tmdbid>1495934</tmdbid>
+  </actor>
+  <actor>
+    <name>Mickey Cassidy</name>
+    <role>QA Officer</role>
+    <type>GuestStar</type>
+    <tmdbid>2575806</tmdbid>
+  </actor>
+  <actor>
+    <name>Zachary Chicos</name>
+    <role>Riot Policeman</role>
+    <type>GuestStar</type>
+    <tmdbid>2573644</tmdbid>
+  </actor>
+  <actor>
+    <name>Zack Duhame</name>
+    <role>QA Officer</role>
+    <type>GuestStar</type>
+    <tmdbid>186573</tmdbid>
+  </actor>
+  <actor>
+    <name>Chrystall Friedemann</name>
+    <role>Delores Double (archive footage)</role>
+    <type>GuestStar</type>
+    <tmdbid>1591185</tmdbid>
+  </actor>
+  <actor>
+    <name>Andreas Riter</name>
+    <role>Nazi</role>
+    <type>GuestStar</type>
+    <tmdbid>2349280</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon Quarterman</name>
+    <role>Lee Sizemore</role>
+    <type>GuestStar</type>
+    <tmdbid>141463</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Hemsworth</name>
+    <role>Ashley Stubbs</role>
+    <type>GuestStar</type>
+    <tmdbid>216986</tmdbid>
+  </actor>
+  <actor>
+    <name>Rodrigo Santoro</name>
+    <role>Hector Escaton</role>
+    <type>GuestStar</type>
+    <tmdbid>17289</tmdbid>
+    <imdbid>nm0763928</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Stamm</name>
+    <role>Sauer</role>
+    <type>GuestStar</type>
+    <tmdbid>1444927</tmdbid>
+  </actor>
+  <actor>
+    <name>Lena Waithe</name>
+    <role>Ash</role>
+    <type>GuestStar</type>
+    <tmdbid>1059572</tmdbid>
+    <imdbid>nm2913119</imdbid>
+  </actor>
+  <actor>
+    <name>Marshawn Lynch</name>
+    <role>Giggles</role>
+    <type>GuestStar</type>
+    <tmdbid>1420679</tmdbid>
+    <imdbid>nm2834234</imdbid>
+  </actor>
+  <director>Richard J. Lewis</director>
+  <rating>7.793</rating>
+  <year>2020</year>
+  <imdbid>tt9899922</imdbid>
+  <tvdbid>7578994</tvdbid>
+  <runtime>60</runtime>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt9899922</uniqueid>
+  <uniqueid type="Tvdb">7578994</uniqueid>
+  <episode>2</episode>
+  <season>3</season>
+  <aired>2020-03-22</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9946426</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>60</duration>
+        <durationinseconds>3625</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

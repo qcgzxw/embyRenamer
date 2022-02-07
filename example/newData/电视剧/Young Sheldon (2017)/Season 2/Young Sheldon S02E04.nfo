@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[老乔治让谢耳朵对玛丽保守秘密时，不诚实的压力迫使谢耳朵第一次在丹家过夜。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-11 05:55:30</dateadded>
+  <title>财务秘密和鱼露</title>
+  <actor>
+    <name>Iain Armitage</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1684536</tmdbid>
+    <imdbid>nm8071137</imdbid>
+  </actor>
+  <actor>
+    <name>Zoe Perry</name>
+    <role>Mary Cooper</role>
+    <type>Actor</type>
+    <tmdbid>133450</tmdbid>
+    <imdbid>nm1409365</imdbid>
+  </actor>
+  <actor>
+    <name>Lance Barber</name>
+    <role>George Cooper Sr.</role>
+    <type>Actor</type>
+    <tmdbid>1212111</tmdbid>
+    <imdbid>nm1115741</imdbid>
+  </actor>
+  <actor>
+    <name>Montana Jordan</name>
+    <role>Georgie Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1817307</tmdbid>
+    <imdbid>nm7718664</imdbid>
+  </actor>
+  <actor>
+    <name>Raegan Revord</name>
+    <role>Missy Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1575317</tmdbid>
+    <imdbid>nm6862942</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Potts</name>
+    <role>Connie Tucker</role>
+    <type>Actor</type>
+    <tmdbid>8873</tmdbid>
+    <imdbid>nm0001633</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>VyVy Nguyen</name>
+    <role>Trang Nguyen</role>
+    <type>GuestStar</type>
+    <tmdbid>2433222</tmdbid>
+    <imdbid>nm3065892</imdbid>
+  </actor>
+  <actor>
+    <name>Cheyenne Nguyen</name>
+    <role>Mai Nguyen</role>
+    <type>GuestStar</type>
+    <tmdbid>2433254</tmdbid>
+    <imdbid>nm4726194</imdbid>
+  </actor>
+  <actor>
+    <name>Angelina Nguyen</name>
+    <role>Kim-Ly Nguyen</role>
+    <type>GuestStar</type>
+    <tmdbid>2433255</tmdbid>
+    <imdbid>nm10187138</imdbid>
+  </actor>
+  <actor>
+    <name>Danielle Pinnock</name>
+    <role>Evelyn Ingram</role>
+    <type>GuestStar</type>
+    <tmdbid>2000332</tmdbid>
+    <imdbid>nm8492984</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Phuong</name>
+    <role>Tam Nguyen</role>
+    <type>GuestStar</type>
+    <tmdbid>2181372</tmdbid>
+    <imdbid>nm7910690</imdbid>
+  </actor>
+  <rating>6.3</rating>
+  <year>2018</year>
+  <imdbid>tt8943422</imdbid>
+  <tvdbid>6814895</tvdbid>
+  <runtime>19</runtime>
+  <genre>Comedy</genre>
+  <uniqueid type="Imdb">tt8943422</uniqueid>
+  <uniqueid type="Tvdb">6814895</uniqueid>
+  <episode>4</episode>
+  <season>2</season>
+  <aired>2018-10-11</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3545282</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1165</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

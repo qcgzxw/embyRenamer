@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[天才兼疯子科学家Rick在失踪多年后突然回到女儿Beth的身边，并且在她的车库里搞了一个科学实验室。Rick有一把“传送门枪”，可以穿越到宇宙的各个次元。孙子Morty莫名其妙就成了他的助手，经常被拖进他的自制太空船内，跟他一同开展各种疯狂刺激的宇宙冒险。女儿女婿对他的疯狂行为感到不满，却又对这个天才科学家无可奈何。本动画是由美剧《废柴联盟》的创作人Dan Harmon和Justin Roiland开发的动画连续剧。每集一个独立小故事，精妙无比的剧情安排，天马行空的想象力，突破天际的脑洞，是本剧最大的特点。]]></plot>
+  <outline><![CDATA[天才兼疯子科学家Rick在失踪多年后突然回到女儿Beth的身边，并且在她的车库里搞了一个科学实验室。Rick有一把“传送门枪”，可以穿越到宇宙的各个次元。孙子Morty莫名其妙就成了他的助手，经常被拖进他的自制太空船内，跟他一同开展各种疯狂刺激的宇宙冒险。女儿女婿对他的疯狂行为感到不满，却又对这个天才科学家无可奈何。本动画是由美剧《废柴联盟》的创作人Dan Harmon和Justin Roiland开发的动画连续剧。每集一个独立小故事，精妙无比的剧情安排，天马行空的想象力，突破天际的脑洞，是本剧最大的特点。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 13:57:34</dateadded>
+  <title>瑞克和莫蒂</title>
+  <originaltitle>Rick and Morty</originaltitle>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=F6Zy_mLgSNQ</trailer>
+  <rating>9.2</rating>
+  <year>2006</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt2861424</imdb_id>
+  <tmdbid>60625</tmdbid>
+  <premiered>2013-12-02</premiered>
+  <releasedate>2013-12-02</releasedate>
+  <runtime>22</runtime>
+  <genre>动画</genre>
+  <genre>喜剧</genre>
+  <genre>Sci-Fi &amp; Fantasy</genre>
+  <genre>动作冒险</genre>
+  <studio>Adult Swim</studio>
+  <zap2itid>EP01833673</zap2itid>
+  <tvrageid>33381</tvrageid>
+  <uniqueid type="Tvdb">275274</uniqueid>
+  <tvdbid>275274</tvdbid>
+  <uniqueid type="Imdb">tt2861424</uniqueid>
+  <uniqueid type="Zap2It">EP01833673</uniqueid>
+  <uniqueid type="Tmdb">60625</uniqueid>
+  <uniqueid type="TvRage">33381</uniqueid>
+  <id>275274</id>
+  <episodeguide>
+    <url cache="275274.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/275274/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[丢掉工作后，谢尔顿迷上了养萤光鱼和织披肩，莱纳德于是叫来了谢尔顿的妈妈。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 16:38:20</dateadded>
+  <title>被炒的谢尔顿</title>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Leonard Hofstadter</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>Howard Wolowitz</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Nayyar</name>
+    <role>Rajesh Koothrappali</role>
+    <type>Actor</type>
+    <tmdbid>208099</tmdbid>
+    <imdbid>nm2471798</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Harelik</name>
+    <role>Eric Gablehauser</role>
+    <type>GuestStar</type>
+    <tmdbid>88949</tmdbid>
+    <imdbid>nm0362862</imdbid>
+  </actor>
+  <actor>
+    <name>Sierra Edwards</name>
+    <role>Summer</role>
+    <type>GuestStar</type>
+    <tmdbid>104498</tmdbid>
+    <imdbid>nm1996356</imdbid>
+  </actor>
+  <actor>
+    <name>Laurie Metcalf</name>
+    <role>Mary Cooper</role>
+    <type>GuestStar</type>
+    <tmdbid>12133</tmdbid>
+    <imdbid>nm0582418</imdbid>
+  </actor>
+  <director>Bob Koherr</director>
+  <director>Mark Cendrowski</director>
+  <rating>7.7</rating>
+  <year>2007</year>
+  <imdbid>tt1091291</imdbid>
+  <tvdbid>338488</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>607807</tvrageid>
+  <uniqueid type="Imdb">tt1091291</uniqueid>
+  <uniqueid type="Tvdb">338488</uniqueid>
+  <uniqueid type="TvRage">607807</uniqueid>
+  <episode>4</episode>
+  <season>1</season>
+  <aired>2007-10-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1398599</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>20</duration>
+        <durationinseconds>1206</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

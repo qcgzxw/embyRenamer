@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[顾一鸣在搜寻朱伟的过程中与他擦肩而过。第五张照片出现。因为开枪威胁岳军被送到警校进修三年的朱伟终于出来了，三年时间变化太多，江阳要结婚了，陈明章辞职去江市创业，大家感慨唏嘘。江阳突然得到一个重要线索，刚刚逮捕的一个叫何伟的混混为了减刑，举报王海军当年杀掉一名苗高乡妇女后弃尸山后废井。这名妇女很可能就是当年失踪的丁春妹。在朱伟的配合下，他们果然发现尸体，嫌疑人王海军也被抓捕归案。朱伟和江阳喜出望外，没想到李建国强行把人带走，王海军在审讯过程中蹊跷死亡，死亡原因是“低血糖休克猝死"。江阳赶到太平间检查尸体，在陈明章的指点之下，在死者的脖颈处发现新鲜的针孔，初步断定是注射过量胰岛素致死。金钱作用下，王海军的家属拒绝尸检，尸体被火化。唯一的证据又被销毁。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-23 11:07:20</dateadded>
+  <title>朱伟江阳从头开始调查 案件出现转机屡遭破坏</title>
+  <actor>
+    <name>Liao Fan</name>
+    <role>Yan Liang</role>
+    <type>Actor</type>
+    <tmdbid>99692</tmdbid>
+    <imdbid>nm1233224</imdbid>
+  </actor>
+  <actor>
+    <name>Bai Yu</name>
+    <role>Jiang Yang</role>
+    <type>Actor</type>
+    <tmdbid>1698814</tmdbid>
+    <imdbid>nm7889237</imdbid>
+  </actor>
+  <actor>
+    <name>Lü Xiaolin</name>
+    <role>Ren Yueting, Captain of the Criminal Police</role>
+    <type>Actor</type>
+    <tmdbid>1909342</tmdbid>
+    <imdbid>nm4892567</imdbid>
+  </actor>
+  <actor>
+    <name>Zhao Yang</name>
+    <role>Zhu Wei</role>
+    <type>Actor</type>
+    <tmdbid>1780719</tmdbid>
+  </actor>
+  <actor>
+    <name>Tan Zhuo</name>
+    <role>Li Jing</role>
+    <type>Actor</type>
+    <tmdbid>938326</tmdbid>
+    <imdbid>nm3431007</imdbid>
+  </actor>
+  <actor>
+    <name>Ning Li</name>
+    <role>Zhang Chao</role>
+    <type>Actor</type>
+    <tmdbid>987205</tmdbid>
+    <imdbid>nm1280632</imdbid>
+  </actor>
+  <actor>
+    <name>Lu Siyu</name>
+    <role>Hou Guiping</role>
+    <type>Actor</type>
+    <tmdbid>2802902</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhao Leiqi</name>
+    <role>Gu Yiming</role>
+    <type>Actor</type>
+    <tmdbid>2586775</tmdbid>
+  </actor>
+  <actor>
+    <name>Huang Yao</name>
+    <role>Zhang Xiaoqian, Jiangtan Evening News reporter</role>
+    <type>Actor</type>
+    <tmdbid>2149028</tmdbid>
+  </actor>
+  <actor>
+    <name>Tian Xiaojie</name>
+    <role>Chen Mingzhang, forensic doctor</role>
+    <type>Actor</type>
+    <tmdbid>1637213</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuanyuan Zhao</name>
+    <role>Wu Aike</role>
+    <type>Actor</type>
+    <tmdbid>1087177</tmdbid>
+    <imdbid>nm4593170</imdbid>
+  </actor>
+  <actor>
+    <name>Cao Weiyu</name>
+    <role>Li Jianguo, Criminal Police Chief from Pingkang County</role>
+    <type>Actor</type>
+    <tmdbid>1924494</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Lei</name>
+    <role>Hu Yilang</role>
+    <type>Actor</type>
+    <tmdbid>2827809</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Zhigang</name>
+    <role>Chief Prosecutor Wu</role>
+    <type>Actor</type>
+    <tmdbid>3112989</tmdbid>
+  </actor>
+  <rating>0</rating>
+  <year>2020</year>
+  <tvdbid>7937838</tvdbid>
+  <runtime>60</runtime>
+  <uniqueid type="Tvdb">7937838</uniqueid>
+  <episode>9</episode>
+  <season>1</season>
+  <aired>2020-09-18</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1443368</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>59</duration>
+        <durationinseconds>3587</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>124737</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

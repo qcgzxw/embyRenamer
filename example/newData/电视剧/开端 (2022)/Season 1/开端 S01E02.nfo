@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[肖鹤云打车后跟着公交的方向前进，被人污蔑是色狼令他心情很不畅快，堵在公交后的他正和朋友解释着自己马上就到，却被前方的爆炸波及，浑身烧伤性命垂危。他最后的记忆，是医生为自己除颤，还有身旁那刺耳的心跳仪停止的声音。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-02-05 14:49:59</dateadded>
+  <title>肖鹤云被动加入爆炸循环</title>
+  <actor>
+    <name>Bai Jingting</name>
+    <role>Xiao Heyun</role>
+    <type>Actor</type>
+    <tmdbid>1672869</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhao Jinmai</name>
+    <role>Li Shiqing</role>
+    <type>Actor</type>
+    <tmdbid>2113005</tmdbid>
+  </actor>
+  <actor>
+    <name>Huang Jue</name>
+    <role>Wang Xingde</role>
+    <type>Actor</type>
+    <tmdbid>106581</tmdbid>
+    <imdbid>nm1645275</imdbid>
+  </actor>
+  <actor>
+    <name>Liu Dan</name>
+    <role>Tao Yinghong</role>
+    <type>Actor</type>
+    <tmdbid>1487092</tmdbid>
+  </actor>
+  <actor>
+    <name>Song Jiateng</name>
+    <role>Key Man</role>
+    <type>Actor</type>
+    <tmdbid>3238981</tmdbid>
+  </actor>
+  <actor>
+    <name>Zeng Kelang</name>
+    <role>Lu Di</role>
+    <type>Actor</type>
+    <tmdbid>3161422</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Xiqian</name>
+    <role>Ma Guoqiang</role>
+    <type>Actor</type>
+    <tmdbid>1910102</tmdbid>
+  </actor>
+  <actor>
+    <name>Ma Lan</name>
+    <role>Medicine Woman</role>
+    <type>Actor</type>
+    <tmdbid>3094378</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiao Peng</name>
+    <role>Jiao Xiangrong</role>
+    <type>Actor</type>
+    <tmdbid>3312752</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Gan</name>
+    <role>Jiang Feng</role>
+    <type>Actor</type>
+    <tmdbid>3238976</tmdbid>
+  </actor>
+  <actor>
+    <name>Fan Shuaiqi</name>
+    <role>Ye Qian</role>
+    <type>Actor</type>
+    <tmdbid>2834895</tmdbid>
+  </actor>
+  <actor>
+    <name>Ju Bozhan</name>
+    <role>Xiao Liu</role>
+    <type>Actor</type>
+    <tmdbid>2317990</tmdbid>
+  </actor>
+  <actor>
+    <name>Yu Peishan</name>
+    <role>Yu Lei</role>
+    <type>Actor</type>
+    <tmdbid>3381361</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Yijun</name>
+    <role>Zhang Cheng</role>
+    <type>Actor</type>
+    <tmdbid>1971602</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Tao</name>
+    <role>Du Ju</role>
+    <type>Actor</type>
+    <tmdbid>1236264</tmdbid>
+  </actor>
+  <rating>0</rating>
+  <year>2022</year>
+  <runtime>40</runtime>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2022-01-11</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2485524</bitrate>
+        <width>3840</width>
+        <height>1634</height>
+        <aspect>1920:817</aspect>
+        <aspectratio>1920:817</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>40</duration>
+        <durationinseconds>2422</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <bitrate>256000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

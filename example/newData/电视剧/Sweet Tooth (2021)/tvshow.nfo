@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[十年前，“大崩塌”对世界造成了严重破坏，并导致了神秘的混血儿的出现——出生时半人半兽的婴儿。由于不确定杂交种是病毒的起因还是结果，许多人害怕并猎杀它们。一个名叫格斯的鹿角男孩在与世隔绝的森林安居了十年后，机缘巧合地与一个四处流浪的名叫杰珀德的独行侠交上了朋友。他们一起踏上了一场穿越美国的非凡冒险，寻找答案——关于格斯的出身，杰珀德的过去，以及家的真正意义。但他们的故事充满了意想不到的盟友和敌人，格斯很快就了解到，森林外郁郁葱葱、危险的世界比他想象的要复杂得多。]]></plot>
+  <outline><![CDATA[十年前，“大崩塌”对世界造成了严重破坏，并导致了神秘的混血儿的出现——出生时半人半兽的婴儿。由于不确定杂交种是病毒的起因还是结果，许多人害怕并猎杀它们。一个名叫格斯的鹿角男孩在与世隔绝的森林安居了十年后，机缘巧合地与一个四处流浪的名叫杰珀德的独行侠交上了朋友。他们一起踏上了一场穿越美国的非凡冒险，寻找答案——关于格斯的出身，杰珀德的过去，以及家的真正意义。但他们的故事充满了意想不到的盟友和敌人，格斯很快就了解到，森林外郁郁葱葱、危险的世界比他想象的要复杂得多。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-18 13:06:20</dateadded>
+  <title>鹿角男孩</title>
+  <originaltitle>Sweet Tooth</originaltitle>
+  <actor>
+    <name>Christian Convery</name>
+    <role>Gus</role>
+    <type>Actor</type>
+    <tmdbid>1721268</tmdbid>
+  </actor>
+  <actor>
+    <name>Nonso Anozie</name>
+    <role>Tommy Jepperd</role>
+    <type>Actor</type>
+    <tmdbid>43547</tmdbid>
+  </actor>
+  <actor>
+    <name>Adeel Akhtar</name>
+    <role>Dr. Aditya Singh</role>
+    <type>Actor</type>
+    <tmdbid>81840</tmdbid>
+    <imdbid>nm2253821</imdbid>
+  </actor>
+  <actor>
+    <name>Stefania LaVie Owen</name>
+    <role>Rebecca 'Becky' Walker / Bear</role>
+    <type>Actor</type>
+    <tmdbid>1252003</tmdbid>
+  </actor>
+  <actor>
+    <name>Dania Ramirez</name>
+    <role>Aimee Eden</role>
+    <type>Actor</type>
+    <tmdbid>37046</tmdbid>
+  </actor>
+  <actor>
+    <name>Aliza Vellani</name>
+    <role>Rani Singh</role>
+    <type>Actor</type>
+    <tmdbid>1234894</tmdbid>
+  </actor>
+  <actor>
+    <name>James Brolin</name>
+    <role>Narrator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>9274</tmdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=9zG9RuJb3QU</trailer>
+  <trailer>http://www.youtube.com/watch?v=GrBw0pbF11s</trailer>
+  <rating>8.1</rating>
+  <year>2021</year>
+  <mpaa>TV-14</mpaa>
+  <imdb_id>tt12809988</imdb_id>
+  <tmdbid>103768</tmdbid>
+  <premiered>2021-06-04</premiered>
+  <releasedate>2021-06-04</releasedate>
+  <runtime>45</runtime>
+  <genre>剧情</genre>
+  <genre>Sci-Fi &amp; Fantasy</genre>
+  <studio>Netflix</studio>
+  <uniqueid type="Imdb">tt12809988</uniqueid>
+  <uniqueid type="Tvdb">355837</uniqueid>
+  <tvdbid>355837</tvdbid>
+  <uniqueid type="Tmdb">103768</uniqueid>
+  <id>355837</id>
+  <episodeguide>
+    <url cache="355837.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/355837/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

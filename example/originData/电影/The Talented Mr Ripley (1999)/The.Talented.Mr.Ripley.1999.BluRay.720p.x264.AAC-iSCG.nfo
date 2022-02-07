@@ -1,0 +1,513 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[年轻有钱又置身于意大利的艳阳下，这是汤姆·瑞普利（马特·达蒙 Matt Damon 饰）所渴望的生活，却是迪基·格林利（裘德·洛 Jude Law 饰）早已拥有的东西。 瑞普利是个出身平凡，生活也毫无值得炫耀的年轻人，他受到一个富商之托，到意大利去游说他号荡不羁的儿子迪基，重回他的家乡美国。但是当瑞普利一到那里，就深深地被迪基的生活形态所迷惑：美丽的别墅、高级浮华的渡假饭店、一掷千金的奢靡生活，以及他美丽温柔的女友，都令他羡慕不已。 由于瑞普利一心凯觎迪基的生活，最后这样的欲望竟扩张成想要将迪基取而代之，他缜密的心思不仅令人昨舌，而冷静的犯罪手法更教人措手不及。就在他陶醉于亲手打造的美梦中时，瑞普利因为一次意外的巧合害他露出了马脚，于是引起警方的注意并展开调查…… 本片改编自女作家派翠西亚·海史密斯写于1955年的同名小说，法国导演雷内·克莱芒曾于1... (展开全部) 年轻有钱又置身于意大利的艳阳下，这是汤姆·瑞普利（马特·达蒙 Matt Damon 饰）所渴望的生活，却是迪基·格林利（裘德·洛 Jude Law 饰）早已拥有的东西。 瑞普利是个出身平凡，生活也毫无值得炫耀的年轻人，他受到一个富商之托，到意大利去游说他号荡不羁的儿子迪基，重回他的家乡美国。但是当瑞普利一到那里，就深深地被迪基的生活形态所迷惑：美丽的别墅、高级浮华的渡假饭店、一掷千金的奢靡生活，以及他美丽温柔的女友，都令他羡慕不已。 由于瑞普利一心凯觎迪基的生活，最后这样的欲望竟扩张成想要将迪基取而代之，他缜密的心思不仅令人昨舌，而冷静的犯罪手法更教人措手不及。就在他陶醉于亲手打造的美梦中时，瑞普利因为一次意外的巧合害他露出了马脚，于是引起警方的注意并展开调查…… 本片改编自女作家派翠西亚·海史密斯写于1955年的同名小说，法国导演雷内·克莱芒曾于1960年拍摄过一部以该小说为蓝本的电影《太阳背面》，由法国影星阿兰·德隆主演]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-07-04 11:19:15</dateadded>
+  <title>天才雷普利</title>
+  <originaltitle>The Talented Mr. Ripley</originaltitle>
+  <actor>
+    <name>Matt Damon</name>
+    <role>Tom Ripley</role>
+    <type>Actor</type>
+    <tmdbid>1892</tmdbid>
+    <imdbid>nm0000354</imdbid>
+  </actor>
+  <actor>
+    <name>Gwyneth Paltrow</name>
+    <role>Marge Sherwood</role>
+    <type>Actor</type>
+    <tmdbid>12052</tmdbid>
+    <imdbid>nm0000569</imdbid>
+  </actor>
+  <actor>
+    <name>Jude Law</name>
+    <role>Dickie Greenleaf</role>
+    <type>Actor</type>
+    <tmdbid>9642</tmdbid>
+    <imdbid>nm0000179</imdbid>
+  </actor>
+  <actor>
+    <name>Cate Blanchett</name>
+    <role>Meredith Logue</role>
+    <type>Actor</type>
+    <tmdbid>112</tmdbid>
+    <imdbid>nm0000949</imdbid>
+  </actor>
+  <actor>
+    <name>Philip Seymour Hoffman</name>
+    <role>Freddie Miles</role>
+    <type>Actor</type>
+    <tmdbid>1233</tmdbid>
+    <imdbid>nm0000450</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Davenport</name>
+    <role>Peter Smith-Kingsley</role>
+    <type>Actor</type>
+    <tmdbid>1709</tmdbid>
+    <imdbid>nm0202603</imdbid>
+  </actor>
+  <actor>
+    <name>James Rebhorn</name>
+    <role>Herbert Greenleaf</role>
+    <type>Actor</type>
+    <tmdbid>8986</tmdbid>
+    <imdbid>nm0714310</imdbid>
+  </actor>
+  <actor>
+    <name>Sergio Rubini</name>
+    <role>Inspector Roverini</role>
+    <type>Actor</type>
+    <tmdbid>15915</tmdbid>
+    <imdbid>nm0748207</imdbid>
+  </actor>
+  <actor>
+    <name>Philip Baker Hall</name>
+    <role>Alvin MacCarron</role>
+    <type>Actor</type>
+    <tmdbid>4492</tmdbid>
+    <imdbid>nm0001311</imdbid>
+  </actor>
+  <actor>
+    <name>Celia Weston</name>
+    <role>Aunt Joan</role>
+    <type>Actor</type>
+    <tmdbid>1989</tmdbid>
+    <imdbid>nm0922927</imdbid>
+  </actor>
+  <actor>
+    <name>Fiorello</name>
+    <role>Fausto</role>
+    <type>Actor</type>
+    <tmdbid>15916</tmdbid>
+    <imdbid>nm0278502</imdbid>
+  </actor>
+  <actor>
+    <name>Stefania Rocca</name>
+    <role>Silvana</role>
+    <type>Actor</type>
+    <tmdbid>15917</tmdbid>
+    <imdbid>nm0733625</imdbid>
+  </actor>
+  <actor>
+    <name>Ivano Marescotti</name>
+    <role>Colonnello Verrecchia</role>
+    <type>Actor</type>
+    <tmdbid>15918</tmdbid>
+    <imdbid>nm0546515</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Longhi</name>
+    <role>Signora Buffi</role>
+    <type>Actor</type>
+    <tmdbid>15919</tmdbid>
+    <imdbid>nm0519318</imdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Fabrizi</name>
+    <role>Sergeant Baggio</role>
+    <type>Actor</type>
+    <tmdbid>15920</tmdbid>
+    <imdbid>nm0264763</imdbid>
+  </actor>
+  <actor>
+    <name>Lisa Eichhorn</name>
+    <role>Emily Greenleaf</role>
+    <type>Actor</type>
+    <tmdbid>28950</tmdbid>
+    <imdbid>nm0002059</imdbid>
+  </actor>
+  <actor>
+    <name>Gretchen Egolf</name>
+    <role>Fran</role>
+    <type>Actor</type>
+    <tmdbid>161847</tmdbid>
+    <imdbid>nm0251098</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Willis</name>
+    <role>Greenleaf Chaffeur</role>
+    <type>Actor</type>
+    <tmdbid>1381777</tmdbid>
+    <imdbid>nm0932349</imdbid>
+  </actor>
+  <actor>
+    <name>Frederick Alexander Bosche</name>
+    <role>Fran's Boyfriend</role>
+    <type>Actor</type>
+    <tmdbid>1381779</tmdbid>
+    <imdbid>nm0097794</imdbid>
+  </actor>
+  <actor>
+    <name>Dario Bergesio</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>1381781</tmdbid>
+    <imdbid>nm0074490</imdbid>
+  </actor>
+  <actor>
+    <name>Larry Kaplan</name>
+    <role>Uncle Ted</role>
+    <type>Actor</type>
+    <tmdbid>1381788</tmdbid>
+    <imdbid>nm0438294</imdbid>
+  </actor>
+  <actor>
+    <name>Claire Hardwick</name>
+    <role>Gucci Assistant</role>
+    <type>Actor</type>
+    <tmdbid>1312059</tmdbid>
+    <imdbid>nm0362536</imdbid>
+  </actor>
+  <actor>
+    <name>Antonio Prester</name>
+    <role>American Express Clerk</role>
+    <type>Actor</type>
+    <tmdbid>51637</tmdbid>
+    <imdbid>nm0696341</imdbid>
+  </actor>
+  <actor>
+    <name>Lorenzo Mancuso</name>
+    <role>Bus Driver</role>
+    <type>Actor</type>
+    <tmdbid>1381791</tmdbid>
+    <imdbid>nm0541569</imdbid>
+  </actor>
+  <actor>
+    <name>Onofrio Mancuso</name>
+    <role>Priest</role>
+    <type>Actor</type>
+    <tmdbid>1381792</tmdbid>
+    <imdbid>nm0541577</imdbid>
+  </actor>
+  <actor>
+    <name>Massimo Reale</name>
+    <role>Immigration Officer</role>
+    <type>Actor</type>
+    <tmdbid>1281192</tmdbid>
+    <imdbid>nm0714040</imdbid>
+  </actor>
+  <actor>
+    <name>Emanuele Carucci Viterbi</name>
+    <role>American Express Clerk</role>
+    <type>Actor</type>
+    <tmdbid>1381796</tmdbid>
+    <imdbid>nm0142241</imdbid>
+  </actor>
+  <actor>
+    <name>Caterina Deregibus</name>
+    <role>Dahlia</role>
+    <type>Actor</type>
+    <tmdbid>1381806</tmdbid>
+    <imdbid>nm0220289</imdbid>
+  </actor>
+  <actor>
+    <name>Silvana Bosi</name>
+    <role>Ermelinda</role>
+    <type>Actor</type>
+    <tmdbid>7556</tmdbid>
+    <imdbid>nm0097950</imdbid>
+  </actor>
+  <actor>
+    <name>Gianfranco Barra</name>
+    <role>Desk Manager Aldo</role>
+    <type>Actor</type>
+    <tmdbid>69068</tmdbid>
+    <imdbid>nm0056593</imdbid>
+  </actor>
+  <actor>
+    <name>Renato Scarpa</name>
+    <role>Tailor</role>
+    <type>Actor</type>
+    <tmdbid>14149</tmdbid>
+    <imdbid>nm0769237</imdbid>
+  </actor>
+  <actor>
+    <name>Deirdre Lovejoy</name>
+    <role>Fighting Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>58966</tmdbid>
+    <imdbid>nm0522479</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Tarantina</name>
+    <role>Fighting Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>4890</tmdbid>
+    <imdbid>nm0850211</imdbid>
+  </actor>
+  <actor>
+    <name>Guy Barker</name>
+    <role>Trumpet (Napoli Jazz Septet)</role>
+    <type>Actor</type>
+    <tmdbid>1381827</tmdbid>
+    <imdbid>nm0054892</imdbid>
+  </actor>
+  <actor>
+    <name>Bernardo Sassetti</name>
+    <role>Piano (Napoli Jazz Septet)</role>
+    <type>Actor</type>
+    <tmdbid>1076332</tmdbid>
+    <imdbid>nm0765968</imdbid>
+  </actor>
+  <actor>
+    <name>Perico Sambeat</name>
+    <role>Alto Sax (Napoli Jazz Septet)</role>
+    <type>Actor</type>
+    <tmdbid>1382091</tmdbid>
+    <imdbid>nm0759736</imdbid>
+  </actor>
+  <actor>
+    <name>Gene Calderazzo</name>
+    <role>Drums (Napoli Jazz Septet) mer</role>
+    <type>Actor</type>
+    <tmdbid>1382094</tmdbid>
+    <imdbid>nm0129503</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Lepore</name>
+    <role>Double Bass (Napoli Jazz Septet)</role>
+    <type>Actor</type>
+    <tmdbid>1382098</tmdbid>
+    <imdbid>nm0503346</imdbid>
+  </actor>
+  <actor>
+    <name>Rosario Giuliuni</name>
+    <role>Tenor Sax (Napoli Jazz Septet)</role>
+    <type>Actor</type>
+    <tmdbid>1382122</tmdbid>
+    <imdbid>nm0321340</imdbid>
+  </actor>
+  <actor>
+    <name>Eddy Palerno</name>
+    <role>Electric Guitar (Napoli Jazz Septet)</role>
+    <type>Actor</type>
+    <tmdbid>1382123</tmdbid>
+    <imdbid>nm0657576</imdbid>
+  </actor>
+  <actor>
+    <name>Byron Wallen</name>
+    <role>Cornet (San Remo Jazz Sextet)</role>
+    <type>Actor</type>
+    <tmdbid>1382124</tmdbid>
+    <imdbid>nm0908981</imdbid>
+  </actor>
+  <actor>
+    <name>Pete King</name>
+    <role>Alto Sax (San Remo Jazz Sextet)</role>
+    <type>Actor</type>
+    <tmdbid>1382131</tmdbid>
+    <imdbid>nm1222812</imdbid>
+  </actor>
+  <actor>
+    <name>Clark Tracey</name>
+    <role>Drums (San Remo Jazz Sextet)</role>
+    <type>Actor</type>
+    <tmdbid>1382139</tmdbid>
+    <imdbid>nm0870433</imdbid>
+  </actor>
+  <actor>
+    <name>Jean Toussaint</name>
+    <role>Tenor Sax (San Remo Jazz Sextet)</role>
+    <type>Actor</type>
+    <tmdbid>1261972</tmdbid>
+    <imdbid>nm0869738</imdbid>
+  </actor>
+  <actor>
+    <name>Geoff Gascoyne</name>
+    <role>Bass (San Remo Jazz Sextet)</role>
+    <type>Actor</type>
+    <tmdbid>1382158</tmdbid>
+    <imdbid>nm0309054</imdbid>
+  </actor>
+  <actor>
+    <name>Carlo Negroni</name>
+    <role>Piano (San Remo Jazz Sextet)</role>
+    <type>Actor</type>
+    <tmdbid>1382159</tmdbid>
+    <imdbid>nm0624512</imdbid>
+  </actor>
+  <actor>
+    <name>Beppe Fiorello</name>
+    <role>Silvana's Fiancé</role>
+    <type>Actor</type>
+    <tmdbid>132419</tmdbid>
+    <imdbid>nm0278503</imdbid>
+  </actor>
+  <actor>
+    <name>Marco Quaglia</name>
+    <role>Silvana's Brother</role>
+    <type>Actor</type>
+    <tmdbid>996844</tmdbid>
+    <imdbid>nm0702759</imdbid>
+  </actor>
+  <actor>
+    <name>Alessandra Vanzi</name>
+    <role>Silvana's Mother</role>
+    <type>Actor</type>
+    <tmdbid>1173638</tmdbid>
+    <imdbid>nm0889398</imdbid>
+  </actor>
+  <actor>
+    <name>Marco Rossi</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>1382167</tmdbid>
+    <imdbid>nm0744250</imdbid>
+  </actor>
+  <actor>
+    <name>Roberto Valentini</name>
+    <role>Onegin (Eugene Onegin Player)</role>
+    <type>Actor</type>
+    <tmdbid>1382216</tmdbid>
+    <imdbid>nm0884337</imdbid>
+  </actor>
+  <actor>
+    <name>Francesco Bovino</name>
+    <role>Lensky (Eugene Onegin Player)</role>
+    <type>Actor</type>
+    <tmdbid>1382217</tmdbid>
+    <imdbid>nm0100638</imdbid>
+  </actor>
+  <actor>
+    <name>Stefano Canettieri</name>
+    <role>Zaretsky (Eugene Onegin Player)</role>
+    <type>Actor</type>
+    <tmdbid>1382218</tmdbid>
+    <imdbid>nm0133906</imdbid>
+  </actor>
+  <actor>
+    <name>Marco Foti</name>
+    <role>Guillot (Eugene Onegin Player)</role>
+    <type>Actor</type>
+    <tmdbid>1303456</tmdbid>
+    <imdbid>nm0288164</imdbid>
+  </actor>
+  <actor>
+    <name>Ludovica Tinghi</name>
+    <role>Fausto's Fiancée</role>
+    <type>Actor</type>
+    <tmdbid>1382220</tmdbid>
+    <imdbid>nm0863953</imdbid>
+  </actor>
+  <actor>
+    <name>Nicola Pannelli</name>
+    <role>Dinelli's Cafe Waiter</role>
+    <type>Actor</type>
+    <tmdbid>1356807</tmdbid>
+    <imdbid>nm0659641</imdbid>
+  </actor>
+  <actor>
+    <name>Paolo Calabresi</name>
+    <role>Customs Officer</role>
+    <type>Actor</type>
+    <tmdbid>27399</tmdbid>
+    <imdbid>nm0129227</imdbid>
+  </actor>
+  <actor>
+    <name>Pietro Ragusa</name>
+    <role>Record Store Owner</role>
+    <type>Actor</type>
+    <tmdbid>141830</tmdbid>
+    <imdbid>nm0706647</imdbid>
+  </actor>
+  <actor>
+    <name>Simone Empler</name>
+    <role>Boy Singer</role>
+    <type>Actor</type>
+    <tmdbid>1382225</tmdbid>
+    <imdbid>nm0256647</imdbid>
+  </actor>
+  <actor>
+    <name>Gianluca Secci</name>
+    <role>Policeman</role>
+    <type>Actor</type>
+    <tmdbid>1382226</tmdbid>
+    <imdbid>nm0781111</imdbid>
+  </actor>
+  <actor>
+    <name>Manuel Ruffini</name>
+    <role>Policeman</role>
+    <type>Actor</type>
+    <tmdbid>1382227</tmdbid>
+    <imdbid>nm0749301</imdbid>
+  </actor>
+  <actor>
+    <name>Pierpaolo Lovino</name>
+    <role>Policeman</role>
+    <type>Actor</type>
+    <tmdbid>137810</tmdbid>
+    <imdbid>nm0522737</imdbid>
+  </actor>
+  <actor>
+    <name>Roberto Di Palma</name>
+    <role>San Remo Hotel Desk Clerk</role>
+    <type>Actor</type>
+    <tmdbid>1325936</tmdbid>
+    <imdbid>nm0224161</imdbid>
+  </actor>
+  <actor>
+    <name>Dominic Fumusa</name>
+    <role>Italian Boy in Rome (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>154784</tmdbid>
+    <imdbid>nm1047883</imdbid>
+  </actor>
+  <director tmdbid="2239" imdbid="nm0005237">Anthony Minghella</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Ylc5ToQoLg0</trailer>
+  <rating>7.4</rating>
+  <year>1999</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0134119</imdbid>
+  <tmdbid>1213</tmdbid>
+  <premiered>1999-12-25</premiered>
+  <releasedate>1999-12-25</releasedate>
+  <criticrating>83</criticrating>
+  <runtime>139</runtime>
+  <country>United States of America</country>
+  <genre>惊悚</genre>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <studio>Timnick Films</studio>
+  <studio>Paramount</studio>
+  <studio>Miramax</studio>
+  <studio>Mirage Enterprises</studio>
+  <set tmdbcolid="721108">
+    <name>雷普利（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">1213</uniqueid>
+  <uniqueid type="Imdb">tt0134119</uniqueid>
+  <id>tt0134119</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1998838</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>139</duration>
+        <durationinseconds>8346</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127937</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

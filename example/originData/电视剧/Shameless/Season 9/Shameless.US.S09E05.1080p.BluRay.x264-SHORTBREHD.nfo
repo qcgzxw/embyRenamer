@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[弗兰克的新肝脏药物带来了惨烈的副作用。伊恩试图摆脱菲奥娜的纠缠。利普必须在受酒精诱惑的日子里保持忙碌。卡尔在西点军校的联谊会上认识了一个人。黛比试图和亚历克斯重修旧好。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-11 11:05:21</dateadded>
+  <title>无辜的有罪</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Isaiah</name>
+    <role>Liam Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>2563541</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Marisa Chen Moller</name>
+    <role>Charisma</role>
+    <type>GuestStar</type>
+    <tmdbid>1300671</tmdbid>
+    <imdbid>nm3610660</imdbid>
+  </actor>
+  <actor>
+    <name>Natalija Nogulich</name>
+    <role>Irma</role>
+    <type>GuestStar</type>
+    <tmdbid>65017</tmdbid>
+  </actor>
+  <actor>
+    <name>Carla Vila</name>
+    <role>Kendra</role>
+    <type>GuestStar</type>
+    <tmdbid>1655400</tmdbid>
+  </actor>
+  <actor>
+    <name>Katey Sagal</name>
+    <role>Dr. Ingrid Jones</role>
+    <type>GuestStar</type>
+    <tmdbid>18980</tmdbid>
+    <imdbid>nm0005408</imdbid>
+  </actor>
+  <actor>
+    <name>London Thor</name>
+    <role>Olivia</role>
+    <type>GuestStar</type>
+    <tmdbid>1949306</tmdbid>
+    <imdbid>nm5674649</imdbid>
+  </actor>
+  <director tmdbid="3905" imdbid="nm0000513">William H. Macy</director>
+  <rating>9.3</rating>
+  <year>2018</year>
+  <imdbid>tt8245464</imdbid>
+  <tvdbid>6752213</tvdbid>
+  <runtime>56</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt8245464</uniqueid>
+  <uniqueid type="Tvdb">6752213</uniqueid>
+  <episode>5</episode>
+  <season>9</season>
+  <aired>2018-10-07</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11162433</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>56</duration>
+        <durationinseconds>3363</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

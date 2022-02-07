@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[普林斯顿的一位物理学家到家里留宿，与莱纳德发生一夜情，继而勾搭拉吉和霍华德，引起了一阵风波。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-19 04:19:35</dateadded>
+  <title>普林普顿刺激</title>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Leonard Hofstadter</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>Howard Wolowitz</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Nayyar</name>
+    <role>Rajesh Koothrappali</role>
+    <type>Actor</type>
+    <tmdbid>208099</tmdbid>
+    <imdbid>nm2471798</imdbid>
+  </actor>
+  <actor>
+    <name>Judy Greer</name>
+    <role>Elizabeth Plimpton</role>
+    <type>GuestStar</type>
+    <tmdbid>20750</tmdbid>
+    <imdbid>nm0339460</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.3</rating>
+  <year>2010</year>
+  <imdbid>tt1648755</imdbid>
+  <tvdbid>2063651</tvdbid>
+  <runtime>21</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <uniqueid type="Imdb">tt1648755</uniqueid>
+  <uniqueid type="Tvdb">2063651</uniqueid>
+  <episode>21</episode>
+  <season>3</season>
+  <aired>2010-05-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2134073</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>20</duration>
+        <durationinseconds>1254</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

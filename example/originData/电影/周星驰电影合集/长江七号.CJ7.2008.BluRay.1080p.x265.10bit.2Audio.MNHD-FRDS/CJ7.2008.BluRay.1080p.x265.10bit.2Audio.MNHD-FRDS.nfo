@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　小狄是一个在贵族学校念书的穷孩子。他诚实善良，却总是遭到富家子的欺负和嘲笑。小狄和爸爸住在一所废弃的旧房子里，爸爸每天拼命的工作，就是为了让他念好书，将来出人头地。平日，小狄总是很乖，就算体育课因为没有运动鞋而被老师罚站，他也从不埋怨爸爸。可是这一次，为了一个大家都有的玩具，小狄跟爸爸发起脾气来。爸爸买不起，就在垃圾堆里捡了一个“球”给儿子玩。谁知，这个透明的小球却变成一只活泼可爱，拥有超能力的太空狗。小狄欣喜极若狂，给他取名叫“长江七号”。小狄梦想着用七仔的超能力考100分，却没想到七仔非但没有帮到他，却让他得了个零蛋。他偷偷修改了成绩单，跟爸爸说了一次谎。爸爸大怒，小狄离家出走，赌气要凭真本事考好成绩给爸爸看。谁知，正当小狄笑着，拿着成绩单的时候，工地发生事故，爸爸从楼上摔了下来……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-04 14:16:49</dateadded>
+  <title>长江七号</title>
+  <originaltitle>長江七號</originaltitle>
+  <actor>
+    <name>Stephen Chow</name>
+    <role>Ti Chow</role>
+    <type>Actor</type>
+    <tmdbid>57607</tmdbid>
+    <imdbid>nm0159507</imdbid>
+  </actor>
+  <actor>
+    <name>Xu Jiao</name>
+    <role>Dicky Chow</role>
+    <type>Actor</type>
+    <tmdbid>109813</tmdbid>
+    <imdbid>nm2922341</imdbid>
+  </actor>
+  <actor>
+    <name>Kitty Zhang</name>
+    <role>Miss Yuen</role>
+    <type>Actor</type>
+    <tmdbid>74947</tmdbid>
+    <imdbid>nm2514879</imdbid>
+  </actor>
+  <actor>
+    <name>Lam Tze-chung</name>
+    <role>Boss</role>
+    <type>Actor</type>
+    <tmdbid>545277</tmdbid>
+    <imdbid>nm1125531</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Sheung-Ching</name>
+    <role>Mr. Cao</role>
+    <type>Actor</type>
+    <tmdbid>1173215</tmdbid>
+  </actor>
+  <actor>
+    <name>Huang Lei</name>
+    <role>Johnny</role>
+    <type>Actor</type>
+    <tmdbid>74946</tmdbid>
+    <imdbid>nm0399015</imdbid>
+  </actor>
+  <actor>
+    <name>Yao Wen-Xue</name>
+    <role>Storm Dragon</role>
+    <type>Actor</type>
+    <tmdbid>1114832</tmdbid>
+  </actor>
+  <actor>
+    <name>Steven Fung Min-Hang</name>
+    <role>P.E. Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1136392</tmdbid>
+  </actor>
+  <actor>
+    <name>Han Yong-Hua</name>
+    <role>Maggie</role>
+    <type>Actor</type>
+    <tmdbid>1114833</tmdbid>
+  </actor>
+  <actor>
+    <name>Lei Yu</name>
+    <role>Johnny's Entourage</role>
+    <type>Actor</type>
+    <tmdbid>583878</tmdbid>
+  </actor>
+  <director tmdbid="57607" imdbid="nm0159507">Stephen Chow</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pMELrGHqKSo</trailer>
+  <rating>6.4</rating>
+  <year>2008</year>
+  <imdbid>tt0940709</imdbid>
+  <tmdbid>13688</tmdbid>
+  <premiered>2008-01-30</premiered>
+  <releasedate>2008-01-30</releasedate>
+  <criticrating>49</criticrating>
+  <runtime>88</runtime>
+  <country>Hong Kong</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <genre>家庭</genre>
+  <genre>奇幻</genre>
+  <genre>科幻</genre>
+  <studio>Columbia Pictures Film Production Asia</studio>
+  <uniqueid type="Imdb">tt0940709</uniqueid>
+  <uniqueid type="Tmdb">13688</uniqueid>
+  <id>tt0940709</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>9392632</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>88</duration>
+        <durationinseconds>5301</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

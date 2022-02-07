@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[这是关于两个沦落香港的最低下层的人的故事。中年男子汉昌荣（黄秋生 饰）因意外受伤瘫痪后妻离子散，他认为人生再没有值得期望的东西，而自己亦不值得拥有任何东西。年轻菲佣Evelyn（Crisel Consunji 饰）因为现实的原因，成为了一个寄人篱下的工人，放弃了成为摄影师的梦想。那一个夏天，这样的两个陌生人相遇相识，感情在他们的主仆关系中发芽，然而盛放的，却是灵魂与灵魂之间的尊重和爱。他们一起经历的春夏秋冬，令他们学习到底要怎样面对人生的四季。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-08-15 03:20:41</dateadded>
+  <title>沦落人</title>
+  <originaltitle>淪落人</originaltitle>
+  <actor>
+    <name>Anthony Wong</name>
+    <role>Leung Cheong-wing</role>
+    <type>Actor</type>
+    <tmdbid>66717</tmdbid>
+    <imdbid>nm0938893</imdbid>
+  </actor>
+  <actor>
+    <name>Crisel Consunji</name>
+    <role>Evelyn Santos</role>
+    <type>Actor</type>
+    <tmdbid>2166047</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Lee</name>
+    <role>Cheung Fai</role>
+    <type>Actor</type>
+    <tmdbid>74193</tmdbid>
+    <imdbid>nm0498189</imdbid>
+  </actor>
+  <actor>
+    <name>Cecilia Yip</name>
+    <role>Leung Jing-ying</role>
+    <type>Actor</type>
+    <tmdbid>83696</tmdbid>
+    <imdbid>nm0948112</imdbid>
+  </actor>
+  <actor>
+    <name>Fruit Chan</name>
+    <role>Keung at Food Stall</role>
+    <type>Actor</type>
+    <tmdbid>56865</tmdbid>
+    <imdbid>nm0150897</imdbid>
+  </actor>
+  <actor>
+    <name>Wong Siu-Foon</name>
+    <type>Actor</type>
+    <tmdbid>1157916</tmdbid>
+  </actor>
+  <actor>
+    <name>Wong Chui-Yee</name>
+    <type>Actor</type>
+    <tmdbid>1183742</tmdbid>
+  </actor>
+  <actor>
+    <name>Tam Tin-Bo</name>
+    <type>Actor</type>
+    <tmdbid>1624837</tmdbid>
+  </actor>
+  <actor>
+    <name>Himmy Wong</name>
+    <role>Wang Ju Xian</role>
+    <type>Actor</type>
+    <tmdbid>2479313</tmdbid>
+  </actor>
+  <director tmdbid="2166066">Oliver Siu Kuen Chan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=A0eq_aNF5yg</trailer>
+  <rating>7.6</rating>
+  <year>2018</year>
+  <imdbid>tt8497794</imdbid>
+  <tmdbid>558218</tmdbid>
+  <premiered>2018-11-06</premiered>
+  <releasedate>2018-11-06</releasedate>
+  <criticrating>100</criticrating>
+  <runtime>112</runtime>
+  <country>Hong Kong</country>
+  <genre>剧情</genre>
+  <studio>Golden Scene</studio>
+  <studio>No Ceiling Film Production</studio>
+  <uniqueid type="Tmdb">558218</uniqueid>
+  <uniqueid type="Imdb">tt8497794</uniqueid>
+  <id>tt8497794</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>12287544</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>111</duration>
+        <durationinseconds>6713</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

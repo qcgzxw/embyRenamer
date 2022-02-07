@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[谢尔顿获得到到北极度过三个月的机会，邀请小伙子们同去，莱纳德却因为要长时间离开佩妮而犹豫不决。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-19 04:33:55</dateadded>
+  <title>磁单极子远征</title>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Leonard Hofstadter</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>Howard Wolowitz</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Nayyar</name>
+    <role>Rajesh Koothrappali</role>
+    <type>Actor</type>
+    <tmdbid>208099</tmdbid>
+    <imdbid>nm2471798</imdbid>
+  </actor>
+  <actor>
+    <name>Sara Gilbert</name>
+    <role>Leslie Winkle</role>
+    <type>Actor</type>
+    <tmdbid>3282</tmdbid>
+    <imdbid>nm0004960</imdbid>
+  </actor>
+  <actor>
+    <name>Alice Amter</name>
+    <role>Mrs. Koothrappali</role>
+    <type>GuestStar</type>
+    <tmdbid>61081</tmdbid>
+    <imdbid>nm0025364</imdbid>
+  </actor>
+  <actor>
+    <name>Carol Ann Susi</name>
+    <role>Debbie Wolowitz (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1212530</tmdbid>
+    <imdbid>nm0839836</imdbid>
+  </actor>
+  <actor>
+    <name>Brian George</name>
+    <role>V.M. Koothrappali</role>
+    <type>GuestStar</type>
+    <tmdbid>58511</tmdbid>
+    <imdbid>nm0313364</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.5</rating>
+  <year>2009</year>
+  <imdbid>tt1426233</imdbid>
+  <tvdbid>588991</tvdbid>
+  <runtime>21</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>1064801332</tvrageid>
+  <uniqueid type="Imdb">tt1426233</uniqueid>
+  <uniqueid type="Tvdb">588991</uniqueid>
+  <uniqueid type="TvRage">1064801332</uniqueid>
+  <episode>23</episode>
+  <season>2</season>
+  <aired>2009-05-11</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1597416</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1281</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

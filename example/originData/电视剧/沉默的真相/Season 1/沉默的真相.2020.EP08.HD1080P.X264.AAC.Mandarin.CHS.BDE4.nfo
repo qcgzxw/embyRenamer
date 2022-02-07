@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[案情就只剩下岳军一条线索了，江阳和朱伟赶到苗高乡，没想到路上正碰到胡一浪等人要杀人灭口，二人合力救下岳军，他最后终于道出实情。原来，黄毛一直在替卡恩集团物色年轻姑娘，侯贵平发现了这一秘密，并掌握了卡恩集团胡一浪等人性贿赂的人员名单和照片，也因此招致杀身之祸。朱伟用手机在车上给岳军录了音，并带回局里准备审讯，李建国和岳军的律师却闻声赶来。朱伟与李建国发生冲突，最后被送去警校进修三年。严良提审张超发现，张超父母在2008年就去世，那为什么会在2009年安装老年扶手呢?江阳不愿再拖累女友，毅然和吴爱可分手。曾经的老师张超和李静订婚，也告诫江阳不要再把李静卷入此案。至此，江阳只剩自己一人。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-23 11:11:50</dateadded>
+  <title>黄毛翻供致使朱伟刑拘 江阳放弃前途孤身作战</title>
+  <actor>
+    <name>Liao Fan</name>
+    <role>Yan Liang</role>
+    <type>Actor</type>
+    <tmdbid>99692</tmdbid>
+    <imdbid>nm1233224</imdbid>
+  </actor>
+  <actor>
+    <name>Bai Yu</name>
+    <role>Jiang Yang</role>
+    <type>Actor</type>
+    <tmdbid>1698814</tmdbid>
+    <imdbid>nm7889237</imdbid>
+  </actor>
+  <actor>
+    <name>Lü Xiaolin</name>
+    <role>Ren Yueting, Captain of the Criminal Police</role>
+    <type>Actor</type>
+    <tmdbid>1909342</tmdbid>
+    <imdbid>nm4892567</imdbid>
+  </actor>
+  <actor>
+    <name>Zhao Yang</name>
+    <role>Zhu Wei</role>
+    <type>Actor</type>
+    <tmdbid>1780719</tmdbid>
+  </actor>
+  <actor>
+    <name>Tan Zhuo</name>
+    <role>Li Jing</role>
+    <type>Actor</type>
+    <tmdbid>938326</tmdbid>
+    <imdbid>nm3431007</imdbid>
+  </actor>
+  <actor>
+    <name>Ning Li</name>
+    <role>Zhang Chao</role>
+    <type>Actor</type>
+    <tmdbid>987205</tmdbid>
+    <imdbid>nm1280632</imdbid>
+  </actor>
+  <actor>
+    <name>Lu Siyu</name>
+    <role>Hou Guiping</role>
+    <type>Actor</type>
+    <tmdbid>2802902</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhao Leiqi</name>
+    <role>Gu Yiming</role>
+    <type>Actor</type>
+    <tmdbid>2586775</tmdbid>
+  </actor>
+  <actor>
+    <name>Huang Yao</name>
+    <role>Zhang Xiaoqian, Jiangtan Evening News reporter</role>
+    <type>Actor</type>
+    <tmdbid>2149028</tmdbid>
+  </actor>
+  <actor>
+    <name>Tian Xiaojie</name>
+    <role>Chen Mingzhang, forensic doctor</role>
+    <type>Actor</type>
+    <tmdbid>1637213</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuanyuan Zhao</name>
+    <role>Wu Aike</role>
+    <type>Actor</type>
+    <tmdbid>1087177</tmdbid>
+    <imdbid>nm4593170</imdbid>
+  </actor>
+  <actor>
+    <name>Cao Weiyu</name>
+    <role>Li Jianguo, Criminal Police Chief from Pingkang County</role>
+    <type>Actor</type>
+    <tmdbid>1924494</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Lei</name>
+    <role>Hu Yilang</role>
+    <type>Actor</type>
+    <tmdbid>2827809</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Zhigang</name>
+    <role>Chief Prosecutor Wu</role>
+    <type>Actor</type>
+    <tmdbid>3112989</tmdbid>
+  </actor>
+  <rating>0</rating>
+  <year>2020</year>
+  <tvdbid>7937837</tvdbid>
+  <runtime>53</runtime>
+  <uniqueid type="Tvdb">7937837</uniqueid>
+  <episode>8</episode>
+  <season>1</season>
+  <aired>2020-09-18</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1464885</bitrate>
+        <width>1920</width>
+        <height>808</height>
+        <aspect>240:101</aspect>
+        <aspectratio>240:101</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>53</duration>
+        <durationinseconds>3192</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>124691</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

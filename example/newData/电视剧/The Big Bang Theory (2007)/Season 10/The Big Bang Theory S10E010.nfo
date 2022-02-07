@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[李奥纳德和薛尔登因为划分他们的东西而开战。 雷杰和史都华拼命想成为霍华德和贝妮黛最得力的助手。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-16 16:41:30</dateadded>
+  <title>The Property Division Collision</title>
+  <actor>
+    <name>Christopher Lloyd</name>
+    <type>GuestStar</type>
+    <tmdbid>1062</tmdbid>
+    <imdbid>nm0000502</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.4</rating>
+  <year>2016</year>
+  <imdbid>tt6255718</imdbid>
+  <tvdbid>5821331</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <uniqueid type="Imdb">tt6255718</uniqueid>
+  <uniqueid type="Tvdb">5821331</uniqueid>
+  <episode>10</episode>
+  <season>10</season>
+  <aired>2016-12-01</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10509421</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1187</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[英国广播公司 BBC 自 2010 年出品的迷你电视剧，该剧改编自阿瑟·柯南·道尔创作的侦探小说《福尔摩斯探案集》，将原著的时间背景从 19 世纪搬到了 21 世纪，讲述在繁华热闹的伦敦大都市中，时尚帅气、机敏犀利的大侦探夏洛克·福尔摩斯和他最忠实的搭档约翰·H·华生医生经受的一系列危险的、不同寻常的历险。改编遵循原著故事脉络，又辅以现代手法演绎，题目和细节之处却经过编剧精心的改良，熟悉之中又有几分新意。]]></plot>
+  <outline><![CDATA[英国广播公司 BBC 自 2010 年出品的迷你电视剧，该剧改编自阿瑟·柯南·道尔创作的侦探小说《福尔摩斯探案集》，将原著的时间背景从 19 世纪搬到了 21 世纪，讲述在繁华热闹的伦敦大都市中，时尚帅气、机敏犀利的大侦探夏洛克·福尔摩斯和他最忠实的搭档约翰·H·华生医生经受的一系列危险的、不同寻常的历险。改编遵循原著故事脉络，又辅以现代手法演绎，题目和细节之处却经过编剧精心的改良，熟悉之中又有几分新意。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-10-08 07:01:20</dateadded>
+  <title>神探夏洛克</title>
+  <originaltitle>Sherlock</originaltitle>
+  <actor>
+    <name>Benedict Cumberbatch</name>
+    <role>Sherlock Holmes</role>
+    <type>Actor</type>
+    <tmdbid>71580</tmdbid>
+    <imdbid>nm1212722</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Freeman</name>
+    <role>John Watson</role>
+    <type>Actor</type>
+    <tmdbid>7060</tmdbid>
+    <imdbid>nm0293509</imdbid>
+  </actor>
+  <actor>
+    <name>Una Stubbs</name>
+    <role>Mrs. Hudson</role>
+    <type>Actor</type>
+    <tmdbid>1218303</tmdbid>
+    <imdbid>nm0835939</imdbid>
+  </actor>
+  <actor>
+    <name>Rupert Graves</name>
+    <role>DI Greg Lestrade</role>
+    <type>Actor</type>
+    <tmdbid>11278</tmdbid>
+    <imdbid>nm0001291</imdbid>
+  </actor>
+  <actor>
+    <name>Louise Brealey</name>
+    <role>Molly Hooper</role>
+    <type>Actor</type>
+    <tmdbid>1244469</tmdbid>
+    <imdbid>nm1154764</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Gatiss</name>
+    <role>Mycroft Holmes</role>
+    <type>Actor</type>
+    <tmdbid>34546</tmdbid>
+    <imdbid>nm0309693</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Scott</name>
+    <role>Jim Moriarty</role>
+    <type>Actor</type>
+    <tmdbid>125660</tmdbid>
+    <imdbid>nm0778831</imdbid>
+  </actor>
+  <actor>
+    <name>Amanda Abbington</name>
+    <role>Mary Morstan</role>
+    <type>Actor</type>
+    <tmdbid>199522</tmdbid>
+    <imdbid>nm0007893</imdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=xK7S9mrFWL4</trailer>
+  <rating>8.5</rating>
+  <year>2010</year>
+  <mpaa>TV-14</mpaa>
+  <imdb_id>tt1475582</imdb_id>
+  <tmdbid>19885</tmdbid>
+  <premiered>2010-07-25</premiered>
+  <releasedate>2010-07-25</releasedate>
+  <enddate>2017-01-15</enddate>
+  <runtime>90</runtime>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <genre>悬疑</genre>
+  <studio>BBC One</studio>
+  <zap2itid>SH01304269</zap2itid>
+  <tvrageid>23433</tvrageid>
+  <uniqueid type="Imdb">tt1475582</uniqueid>
+  <uniqueid type="Tmdb">19885</uniqueid>
+  <uniqueid type="Zap2It">SH01304269</uniqueid>
+  <uniqueid type="Tvdb">176941</uniqueid>
+  <tvdbid>176941</tvdbid>
+  <uniqueid type="TvRage">23433</uniqueid>
+  <id>176941</id>
+  <episodeguide>
+    <url cache="176941.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/176941/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Ended</status>
+</tvshow>

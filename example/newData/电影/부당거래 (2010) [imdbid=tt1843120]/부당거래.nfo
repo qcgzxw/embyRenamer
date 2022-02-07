@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　《不法交易》讲述的是同为调查杀人案件的警察与检察官私下进行交易并揭露案情真相的故事。黄政民在剧中扮演凭借天生直觉破案的的警察一角，柳承范扮演的是新入职的检察官，气焰嚣张的他与黄政民处处作对。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-09-10 08:12:47</dateadded>
+  <title>不当交易</title>
+  <originaltitle>부당거래</originaltitle>
+  <actor>
+    <name>Hwang Jung-min</name>
+    <role>Choi Cheol-gi</role>
+    <type>Actor</type>
+    <tmdbid>68903</tmdbid>
+    <imdbid>nm1058565</imdbid>
+  </actor>
+  <actor>
+    <name>Ryoo Seung-bum</name>
+    <role>Joo Yang</role>
+    <type>Actor</type>
+    <tmdbid>88876</tmdbid>
+    <imdbid>nm0753486</imdbid>
+  </actor>
+  <actor>
+    <name>Yoo Hae-jin</name>
+    <role>Jang Seok-gu</role>
+    <type>Actor</type>
+    <tmdbid>84996</tmdbid>
+    <imdbid>nm1640313</imdbid>
+  </actor>
+  <actor>
+    <name>Cheon Ho-jin</name>
+    <role>Chief Kang</role>
+    <type>Actor</type>
+    <tmdbid>87090</tmdbid>
+    <imdbid>nm1141657</imdbid>
+  </actor>
+  <actor>
+    <name>Ma Dong-seok</name>
+    <role>Ma Dae-ho</role>
+    <type>Actor</type>
+    <tmdbid>1024395</tmdbid>
+    <imdbid>nm3011350</imdbid>
+  </actor>
+  <actor>
+    <name>Woo Jung-kook</name>
+    <role>Lee Dong-seok</role>
+    <type>Actor</type>
+    <tmdbid>1664896</tmdbid>
+    <imdbid>nm2494402</imdbid>
+  </actor>
+  <actor>
+    <name>Jo Young-jin</name>
+    <role>Kim Yang-su</role>
+    <type>Actor</type>
+    <tmdbid>96467</tmdbid>
+    <imdbid>nm1594305</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Min-jae</name>
+    <role>Detective Lee</role>
+    <type>Actor</type>
+    <tmdbid>573792</tmdbid>
+  </actor>
+  <actor>
+    <name>Song Sae-byuk</name>
+    <role>Cheol-gi's brother-in-law</role>
+    <type>Actor</type>
+    <tmdbid>1299516</tmdbid>
+    <imdbid>nm3827087</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Su-hyun</name>
+    <role>Soo-il</role>
+    <type>Actor</type>
+    <tmdbid>1299249</tmdbid>
+    <imdbid>nm1365943</imdbid>
+  </actor>
+  <actor>
+    <name>Oh Jung-se</name>
+    <role>Journalist Kim</role>
+    <type>Actor</type>
+    <tmdbid>998412</tmdbid>
+    <imdbid>nm2442113</imdbid>
+  </actor>
+  <actor>
+    <name>Ahn Kil-kang</name>
+    <role>Gwang Su-dae</role>
+    <type>Actor</type>
+    <tmdbid>86329</tmdbid>
+    <imdbid>nm1045777</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Sung-min</name>
+    <role>Chief Prosecutor</role>
+    <type>Actor</type>
+    <tmdbid>141548</tmdbid>
+    <imdbid>nm1520129</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Hee-jun</name>
+    <role>Detective Nam</role>
+    <type>Actor</type>
+    <tmdbid>1046863</tmdbid>
+    <imdbid>nm3736232</imdbid>
+  </actor>
+  <actor>
+    <name>Baek Seung-ik</name>
+    <role>Killer</role>
+    <type>Actor</type>
+    <tmdbid>1096460</tmdbid>
+    <imdbid>nm4341231</imdbid>
+  </actor>
+  <actor>
+    <name>Go Seo-hee</name>
+    <role>Cheol-gi's Younger Sister</role>
+    <type>Actor</type>
+    <tmdbid>1299348</tmdbid>
+    <imdbid>nm1325300</imdbid>
+  </actor>
+  <actor>
+    <name>Choi Woo-sung</name>
+    <role>Suspect in Photograph (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2140340</tmdbid>
+    <imdbid>nm10164875</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Kyoung-mi</name>
+    <role>Forensic Examiner (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1062389</tmdbid>
+    <imdbid>nm3209293</imdbid>
+  </actor>
+  <actor>
+    <name>Oh Si-eun</name>
+    <role>Treasure Island Lady 4 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3080969</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Seo-yeon</name>
+    <role>(uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1335802</tmdbid>
+  </actor>
+  <director tmdbid="86325" imdbid="nm0753423">Ryoo Seung-wan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Vfs5rifq_jY</trailer>
+  <rating>6.7</rating>
+  <year>2010</year>
+  <imdbid>tt1843120</imdbid>
+  <tmdbid>61062</tmdbid>
+  <premiered>2010-10-28</premiered>
+  <releasedate>2010-10-28</releasedate>
+  <runtime>120</runtime>
+  <country>South Korea</country>
+  <genre>犯罪</genre>
+  <genre>惊悚</genre>
+  <studio>Film Train</studio>
+  <studio>Filmmaker R&amp;K</studio>
+  <studio>CJ Entertainment</studio>
+  <uniqueid type="Tmdb">61062</uniqueid>
+  <uniqueid type="Imdb">tt1843120</uniqueid>
+  <id>tt1843120</id>
+  <fileinfo>
+    <streamdetails>
+      <audio>
+        <codec>cook</codec>
+        <micodec>cook</micodec>
+        <bitrate>96468</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>rv40</codec>
+        <micodec>rv40</micodec>
+        <bitrate>1700657</bitrate>
+        <width>1280</width>
+        <height>648</height>
+        <aspect>160:81</aspect>
+        <aspectratio>160:81</aspectratio>
+        <framerate>23.976044</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>119</duration>
+        <durationinseconds>7190</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+</movie>

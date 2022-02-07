@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[精英上班族一家被杀害引起轰动，在犯人不明的状况下过去了一年，周刊记者田中(妻夫木聪)为报道此事开始追查真相，满岛光饰演田中的妹妹。影片描绘了人际关系中隐藏的羡慕、嫉妒和策略，是一部检验人性极限的群像推理作品。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2017-11-15 14:17:17</dateadded>
+  <title>愚行录</title>
+  <originaltitle>愚行録</originaltitle>
+  <actor>
+    <name>Satoshi Tsumabuki</name>
+    <role>Takeshi Tanaka</role>
+    <type>Actor</type>
+    <tmdbid>80108</tmdbid>
+    <imdbid>nm1070494</imdbid>
+  </actor>
+  <actor>
+    <name>Hikari Mitsushima</name>
+    <role>Mitsuko</role>
+    <type>Actor</type>
+    <tmdbid>100765</tmdbid>
+    <imdbid>nm2098603</imdbid>
+  </actor>
+  <actor>
+    <name>Keisuke Koide</name>
+    <role>Hiroki Takou</role>
+    <type>Actor</type>
+    <tmdbid>84725</tmdbid>
+    <imdbid>nm1845421</imdbid>
+  </actor>
+  <actor>
+    <name>Asami Usuda</name>
+    <role>Junko Miyamura</role>
+    <type>Actor</type>
+    <tmdbid>1030277</tmdbid>
+    <imdbid>nm1907973</imdbid>
+  </actor>
+  <actor>
+    <name>Yui Ichikawa</name>
+    <role>Megumi Inamura</role>
+    <type>Actor</type>
+    <tmdbid>58444</tmdbid>
+    <imdbid>nm1368557</imdbid>
+  </actor>
+  <actor>
+    <name>Tomoya Nakamura</name>
+    <role>Takayuki Ogata</role>
+    <type>Actor</type>
+    <tmdbid>587655</tmdbid>
+    <imdbid>nm1903507</imdbid>
+  </actor>
+  <actor>
+    <name>Wakana Matsumoto</name>
+    <role>Yukie Natsuhara</role>
+    <type>Actor</type>
+    <tmdbid>224414</tmdbid>
+    <imdbid>nm2614548</imdbid>
+  </actor>
+  <actor>
+    <name>Hidekazu Mashima</name>
+    <role>Masato Watanabe</role>
+    <type>Actor</type>
+    <tmdbid>1342694</tmdbid>
+    <imdbid>nm0556322</imdbid>
+  </actor>
+  <actor>
+    <name>Mari Hamada</name>
+    <role>Misako Tachibana, Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>556785</tmdbid>
+    <imdbid>nm1526504</imdbid>
+  </actor>
+  <actor>
+    <name>Mitsuru Hirata</name>
+    <role>Shigeo Sugita, Psychiatrist</role>
+    <type>Actor</type>
+    <tmdbid>135377</tmdbid>
+  </actor>
+  <actor>
+    <name>Marika Matsumoto</name>
+    <role>Reiko Yamamoto</role>
+    <type>Actor</type>
+    <tmdbid>112862</tmdbid>
+    <imdbid>nm1395952</imdbid>
+  </actor>
+  <director tmdbid="1670127">Kei Ishikawa</director>
+  <rating>6.7</rating>
+  <year>2017</year>
+  <imdbid>tt5560592</imdbid>
+  <tmdbid>412692</tmdbid>
+  <premiered>2017-02-18</premiered>
+  <releasedate>2017-02-18</releasedate>
+  <runtime>120</runtime>
+  <country>Japan</country>
+  <genre>惊悚</genre>
+  <genre>剧情</genre>
+  <studio>Bandai Visual</studio>
+  <studio>TV Tokyo</studio>
+  <studio>Tohokushinsha Film Corporation</studio>
+  <studio>Office Kitano</studio>
+  <studio>Warner Bros. Japan</studio>
+  <uniqueid type="Imdb">tt5560592</uniqueid>
+  <uniqueid type="Tmdb">412692</uniqueid>
+  <id>tt5560592</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5182984</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>120</duration>
+        <durationinseconds>7217</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

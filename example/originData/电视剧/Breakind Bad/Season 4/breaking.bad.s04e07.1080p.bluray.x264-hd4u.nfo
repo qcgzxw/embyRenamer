@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Walter 第 2 天把跑车退了，心里却有很多的不满，一怒之下他把跑车烧了。Saul 只能继续帮他擦屁股。Walter 抱怨想杀 Gus 却无从下手，想雇杀手，Saul 表示 Mike 是杀手界的佼佼者，如果要计划杀 Gus 可以找 Jesse。Walter 找到 Jesse，知道他和 Gus 见过面了，Jesse 表示一有机会他就会下手。Walter 在实验室里提炼了蓖麻毒素，Jesse 把它藏在了香烟里。Hank 打着去吃快餐的幌子拿到了 Gus 的指纹。Jesse 跟着 Mike 来到了养鸡场，发现那里严阵以待，墨西哥集团就派了一个手下来谈判，他们要求 Gus 交出蓝色冰毒的配方，Gus 拒绝。Jesse 参加戒毒互助会，Jesse 谈起近些来的压抑，表示无法接受这样的自己。Hank 重回 DEA，和上司还有 Steven 谈起了他对 Gale 被杀的看法，提出了也许幕后的主谋就是一直以 DEA 赞助商身份伪装的好好公民 Gus。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-20 17:38:57</dateadded>
+  <title>麻烦狗</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Jere Burns</name>
+    <role>Group Leader</role>
+    <type>GuestStar</type>
+    <tmdbid>57167</tmdbid>
+    <imdbid>nm0122716</imdbid>
+  </actor>
+  <actor>
+    <name>David Costabile</name>
+    <role>Gale Boetticher</role>
+    <type>GuestStar</type>
+    <tmdbid>82167</tmdbid>
+    <imdbid>nm0182345</imdbid>
+  </actor>
+  <actor>
+    <name>Fran Martone</name>
+    <role>Colleen</role>
+    <type>GuestStar</type>
+    <tmdbid>1054505</tmdbid>
+  </actor>
+  <actor>
+    <name>J. Michael Oliva</name>
+    <role>Support Group Member</role>
+    <type>GuestStar</type>
+    <tmdbid>982297</tmdbid>
+  </actor>
+  <actor>
+    <name>Keith Meriweather</name>
+    <role>Mike's Security Team 1</role>
+    <type>GuestStar</type>
+    <tmdbid>1155333</tmdbid>
+  </actor>
+  <actor>
+    <name>Lou Pimber</name>
+    <role>Cartel Henchman</role>
+    <type>GuestStar</type>
+    <tmdbid>1069550</tmdbid>
+  </actor>
+  <actor>
+    <name>Maurice Compte</name>
+    <role>Gaff</role>
+    <type>GuestStar</type>
+    <tmdbid>48530</tmdbid>
+    <imdbid>nm0173997</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Shamus Wiles</name>
+    <role>ASAC George Merkert</role>
+    <type>GuestStar</type>
+    <tmdbid>9291</tmdbid>
+    <imdbid>nm0928795</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Michael Quezada</name>
+    <role>Steven Gomez</role>
+    <type>GuestStar</type>
+    <tmdbid>61535</tmdbid>
+    <imdbid>nm2366374</imdbid>
+  </actor>
+  <director>Peter Gould</director>
+  <rating>8.215</rating>
+  <year>2011</year>
+  <imdbid>tt1683094</imdbid>
+  <tvdbid>4123353</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt1683094</uniqueid>
+  <uniqueid type="Tvdb">4123353</uniqueid>
+  <episode>7</episode>
+  <season>4</season>
+  <aired>2011-08-28</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9936921</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2832</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

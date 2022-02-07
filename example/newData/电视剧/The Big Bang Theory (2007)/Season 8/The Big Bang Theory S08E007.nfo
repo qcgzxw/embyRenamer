@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[潘妮在向一位医生推销时对他眉来眼去，害他误以为自己受到青睐。 艾美和贝妮黛争辩女科学家是否应该运用自身的性魅力。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 17:51:16</dateadded>
+  <title>The Misinterpretation Agitation</title>
+  <actor>
+    <name>Annie O'Donnell</name>
+    <type>GuestStar</type>
+    <tmdbid>61079</tmdbid>
+    <imdbid>nm0640721</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Bob Thornton</name>
+    <type>GuestStar</type>
+    <tmdbid>879</tmdbid>
+    <imdbid>nm0000671</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.8</rating>
+  <year>2014</year>
+  <imdbid>tt3823244</imdbid>
+  <tvdbid>5021431</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>1065696793</tvrageid>
+  <uniqueid type="Imdb">tt3823244</uniqueid>
+  <uniqueid type="Tvdb">5021431</uniqueid>
+  <uniqueid type="TvRage">1065696793</uniqueid>
+  <episode>7</episode>
+  <season>8</season>
+  <aired>2014-10-30</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1585043</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1188</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

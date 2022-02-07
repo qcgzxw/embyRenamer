@@ -1,0 +1,645 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[多米尼克·托莱多（范·迪塞尔饰）与莱蒂（米歇尔·罗德里格兹饰）共度蜜月，布莱恩与米娅退出了赛车界，这支曾环游世界的顶级飞车家族队伍的生活正渐趋平淡。然而，一位神秘女子塞弗（查理兹·塞隆饰）的出现，她引诱多米尼克·托莱多走上犯罪道路，令整个队伍卷入信任与背叛的危机，生死患难的情义面临瓦解崩溃，前所未有的灾难考验着最个飞车家族……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-04 03:39:44</dateadded>
+  <title>速度与激情8</title>
+  <originaltitle>The Fate of the Furious</originaltitle>
+  <actor>
+    <name>Vin Diesel</name>
+    <role>Dominic Toretto</role>
+    <type>Actor</type>
+    <tmdbid>12835</tmdbid>
+    <imdbid>nm0004874</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Statham</name>
+    <role>Deckard Shaw</role>
+    <type>Actor</type>
+    <tmdbid>976</tmdbid>
+    <imdbid>nm0005458</imdbid>
+  </actor>
+  <actor>
+    <name>Dwayne Johnson</name>
+    <role>Luke Hobbs</role>
+    <type>Actor</type>
+    <tmdbid>18918</tmdbid>
+    <imdbid>nm0425005</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Rodriguez</name>
+    <role>Letty Ortiz</role>
+    <type>Actor</type>
+    <tmdbid>17647</tmdbid>
+    <imdbid>nm0735442</imdbid>
+  </actor>
+  <actor>
+    <name>Tyrese Gibson</name>
+    <role>Roman Pearce</role>
+    <type>Actor</type>
+    <tmdbid>8169</tmdbid>
+  </actor>
+  <actor>
+    <name>Ludacris</name>
+    <role>Tej Parker</role>
+    <type>Actor</type>
+    <tmdbid>8171</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlize Theron</name>
+    <role>Cipher</role>
+    <type>Actor</type>
+    <tmdbid>6885</tmdbid>
+    <imdbid>nm0000234</imdbid>
+  </actor>
+  <actor>
+    <name>Kurt Russell</name>
+    <role>Mr. Nobody</role>
+    <type>Actor</type>
+    <tmdbid>6856</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathalie Emmanuel</name>
+    <role>Ramsey</role>
+    <type>Actor</type>
+    <tmdbid>1251069</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Evans</name>
+    <role>Owen Shaw</role>
+    <type>Actor</type>
+    <tmdbid>114019</tmdbid>
+  </actor>
+  <actor>
+    <name>Elsa Pataky</name>
+    <role>Elena Neves</role>
+    <type>Actor</type>
+    <tmdbid>73269</tmdbid>
+    <imdbid>nm0665235</imdbid>
+  </actor>
+  <actor>
+    <name>Kristofer Hivju</name>
+    <role>Connor Rhodes</role>
+    <type>Actor</type>
+    <tmdbid>571418</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Eastwood</name>
+    <role>Little Nobody</role>
+    <type>Actor</type>
+    <tmdbid>928572</tmdbid>
+  </actor>
+  <actor>
+    <name>Corey Maher</name>
+    <role>Tac Team Leader</role>
+    <type>Actor</type>
+    <tmdbid>1771588</tmdbid>
+  </actor>
+  <actor>
+    <name>Tego Calderón</name>
+    <role>Tego Leo</role>
+    <type>Actor</type>
+    <tmdbid>96321</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Omar</name>
+    <role>Rico Santos</role>
+    <type>Actor</type>
+    <tmdbid>90634</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick St. Esprit</name>
+    <role>DS Allan</role>
+    <type>Actor</type>
+    <tmdbid>117437</tmdbid>
+  </actor>
+  <actor>
+    <name>Eden Estrella</name>
+    <role>Samantha Hobbs</role>
+    <type>Actor</type>
+    <tmdbid>1533850</tmdbid>
+  </actor>
+  <actor>
+    <name>Janmarco Santiago</name>
+    <role>Fernando</role>
+    <type>Actor</type>
+    <tmdbid>1814862</tmdbid>
+  </actor>
+  <actor>
+    <name>Oren Hawxhurst</name>
+    <role>Miller</role>
+    <type>Actor</type>
+    <tmdbid>1222666</tmdbid>
+  </actor>
+  <actor>
+    <name>Celestino Cornielle</name>
+    <role>Raldo</role>
+    <type>Actor</type>
+    <tmdbid>1619445</tmdbid>
+  </actor>
+  <actor>
+    <name>Olek Krupa</name>
+    <role>Russian Minister of Defense</role>
+    <type>Actor</type>
+    <tmdbid>53573</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Babara</name>
+    <role>Russian Aide</role>
+    <type>Actor</type>
+    <tmdbid>1723573</tmdbid>
+    <imdbid>nm6509716</imdbid>
+  </actor>
+  <actor>
+    <name>Andre Pushkin</name>
+    <role>Russian Lead Driver</role>
+    <type>Actor</type>
+    <tmdbid>1517833</tmdbid>
+  </actor>
+  <actor>
+    <name>Roberts Jekabsons</name>
+    <role>Russian MMV Driver</role>
+    <type>Actor</type>
+    <tmdbid>1832096</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Gracer</name>
+    <role>Russian MMV Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1452940</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Weeks</name>
+    <role>Super Jet Pilot</role>
+    <type>Actor</type>
+    <tmdbid>168875</tmdbid>
+    <imdbid>nm0917314</imdbid>
+  </actor>
+  <actor>
+    <name>Friday Chamberlain</name>
+    <role>Zombie Car Tech</role>
+    <type>Actor</type>
+    <tmdbid>1718174</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Fishel</name>
+    <role>Showroom Employee</role>
+    <type>Actor</type>
+    <tmdbid>1543874</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael W. Broomer</name>
+    <role>Big Mike</role>
+    <type>Actor</type>
+    <tmdbid>1570750</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Hadid</name>
+    <role>EMP Tech</role>
+    <type>Actor</type>
+    <tmdbid>2312622</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Cornwell</name>
+    <role>Super Jet Tech</role>
+    <type>Actor</type>
+    <tmdbid>1068811</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Rhymer</name>
+    <role>Prison Guard</role>
+    <type>Actor</type>
+    <tmdbid>2312624</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Anderson</name>
+    <role>Lead Guard</role>
+    <type>Actor</type>
+    <tmdbid>2312625</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Hansen</name>
+    <role>God's Eye Tech</role>
+    <type>Actor</type>
+    <tmdbid>2312627</tmdbid>
+  </actor>
+  <actor>
+    <name>Todd Cole</name>
+    <role>Naval Commander</role>
+    <type>Actor</type>
+    <tmdbid>2312629</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Baumer</name>
+    <role>Pink Butterfly Soccer Player</role>
+    <type>Actor</type>
+    <tmdbid>2312630</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Proctor</name>
+    <role>Control Tower Soldier</role>
+    <type>Actor</type>
+    <tmdbid>2312631</tmdbid>
+  </actor>
+  <actor>
+    <name>Carrie Lee Consolino</name>
+    <role>Haka Performer</role>
+    <type>Actor</type>
+    <tmdbid>2312632</tmdbid>
+  </actor>
+  <actor>
+    <name>Madalyn Defler</name>
+    <role>Haka Performer</role>
+    <type>Actor</type>
+    <tmdbid>2312633</tmdbid>
+  </actor>
+  <actor>
+    <name>Taylor Donaldson</name>
+    <role>Haka Performer</role>
+    <type>Actor</type>
+    <tmdbid>2312634</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabel Downing</name>
+    <role>Haka Performer</role>
+    <type>Actor</type>
+    <tmdbid>2312635</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Duvall</name>
+    <role>Haka Performer</role>
+    <type>Actor</type>
+    <tmdbid>2312636</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaci Grace Edwards</name>
+    <role>Haka Performer</role>
+    <type>Actor</type>
+    <tmdbid>2312637</tmdbid>
+  </actor>
+  <actor>
+    <name>Reese Edwards</name>
+    <role>Haka Performer</role>
+    <type>Actor</type>
+    <tmdbid>2312638</tmdbid>
+  </actor>
+  <actor>
+    <name>Caylin Ingram</name>
+    <role>Haka Performer</role>
+    <type>Actor</type>
+    <tmdbid>2312639</tmdbid>
+  </actor>
+  <actor>
+    <name>Caroline Kimmel</name>
+    <role>Haka Performer</role>
+    <type>Actor</type>
+    <tmdbid>2312640</tmdbid>
+  </actor>
+  <actor>
+    <name>Katherine Kimmel</name>
+    <role>Haka Performer</role>
+    <type>Actor</type>
+    <tmdbid>2312642</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Price</name>
+    <role>Haka Performer</role>
+    <type>Actor</type>
+    <tmdbid>2312643</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna MacKenzie Rogers</name>
+    <role>Haka Performer</role>
+    <type>Actor</type>
+    <tmdbid>2312644</tmdbid>
+  </actor>
+  <actor>
+    <name>Marina Lyn Serra</name>
+    <role>Haka Performer</role>
+    <type>Actor</type>
+    <tmdbid>2312646</tmdbid>
+  </actor>
+  <actor>
+    <name>D66</name>
+    <role>Haka Performer</role>
+    <type>Actor</type>
+    <tmdbid>2312648</tmdbid>
+  </actor>
+  <actor>
+    <name>James Ayoub</name>
+    <role>Baby Toretto</role>
+    <type>Actor</type>
+    <tmdbid>2312650</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos De La Hoz</name>
+    <role>Baby Toretto</role>
+    <type>Actor</type>
+    <tmdbid>2312652</tmdbid>
+  </actor>
+  <actor>
+    <name>Alejandro Bosch</name>
+    <role>Plymouth Owner</role>
+    <type>Actor</type>
+    <tmdbid>2312654</tmdbid>
+  </actor>
+  <actor>
+    <name>Lisandra Delgado</name>
+    <role>Sexy Race Starter</role>
+    <type>Actor</type>
+    <tmdbid>2312655</tmdbid>
+  </actor>
+  <actor>
+    <name>Santiago Solis Chavez</name>
+    <role>Plymouth Owner's Dad</role>
+    <type>Actor</type>
+    <tmdbid>2312657</tmdbid>
+  </actor>
+  <actor>
+    <name>Joyvan Guevara</name>
+    <role>DJ Tuneup Party</role>
+    <type>Actor</type>
+    <tmdbid>2312659</tmdbid>
+  </actor>
+  <actor>
+    <name>Brenda Nuñez López</name>
+    <role>Little Girl Finish Line - Cuba</role>
+    <type>Actor</type>
+    <tmdbid>2312660</tmdbid>
+  </actor>
+  <actor>
+    <name>Anita Farmer Bergman</name>
+    <role>Business Woman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1545520</tmdbid>
+  </actor>
+  <actor>
+    <name>Karin Boesler</name>
+    <role>Tourist / Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1593407</tmdbid>
+  </actor>
+  <actor>
+    <name>Apollo GT</name>
+    <role>Fish Warehouse Worker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1787406</tmdbid>
+    <imdbid>nm6872257</imdbid>
+  </actor>
+  <actor>
+    <name>Yassie Hawkes</name>
+    <role>Park Girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1593390</tmdbid>
+  </actor>
+  <actor>
+    <name>Myrom Kingery</name>
+    <role>Russian Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1718171</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Lavard</name>
+    <role>Special Operative (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1725464</tmdbid>
+  </actor>
+  <actor>
+    <name>Helen Mirren</name>
+    <role>Magdalene "Queenie" Shaw (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>15735</tmdbid>
+  </actor>
+  <actor>
+    <name>Pauline Nowakowski</name>
+    <role>Street Vender (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1563264</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Poole</name>
+    <role>NY Businessman / Tourist (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1792537</tmdbid>
+  </actor>
+  <actor>
+    <name>Oleg Prudius</name>
+    <role>Russian Assassin (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>568546</tmdbid>
+  </actor>
+  <actor>
+    <name>William Cowboy Reed</name>
+    <role>Berlin Swat (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1771603</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Salas</name>
+    <role>Tourist (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1563273</tmdbid>
+  </actor>
+  <actor>
+    <name>Ramona Schwalbach</name>
+    <role>Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1805149</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon Komp Shin</name>
+    <role>Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1556723</tmdbid>
+  </actor>
+  <actor>
+    <name>Doug Stroup</name>
+    <role>CIA Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1716520</tmdbid>
+  </actor>
+  <actor>
+    <name>Branislav R. Tatalovic</name>
+    <role>Vendor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1593389</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Tuskes</name>
+    <role>Street Vendor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1015060</tmdbid>
+  </actor>
+  <actor>
+    <name>Zachary Vazquez</name>
+    <role>CIA Worker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>105265</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Lee Vincent</name>
+    <role>Chess Player (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1772605</tmdbid>
+  </actor>
+  <actor>
+    <name>Megan Marie Wilson</name>
+    <role>Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>226960</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuliya Zelenskaya</name>
+    <role>Tourist (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1804414</tmdbid>
+  </actor>
+  <actor>
+    <name>Özcan Özdemir</name>
+    <role>Turkish Tourist (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1355266</tmdbid>
+    <imdbid>nm5295847</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Walker</name>
+    <role>Brian O’Conner (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>8167</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordana Brewster</name>
+    <role>Mia Toretto (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>22123</tmdbid>
+    <imdbid>nm0108287</imdbid>
+  </actor>
+  <actor>
+    <name>Zac Henry</name>
+    <role>Commuter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2937195</tmdbid>
+  </actor>
+  <actor>
+    <name>Tait Fletcher</name>
+    <role>Russian Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1105706</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Hunter</name>
+    <role>Henchman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1511252</tmdbid>
+  </actor>
+  <director tmdbid="37932" imdbid="nm0336620">F. Gary Gray</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JwMKRevYa_M</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jeKBMdYaM3U</trailer>
+  <rating>6.6</rating>
+  <year>2017</year>
+  <mpaa>HK-IIB</mpaa>
+  <imdbid>tt4630562</imdbid>
+  <tmdbid>337339</tmdbid>
+  <premiered>2017-04-12</premiered>
+  <releasedate>2017-04-12</releasedate>
+  <criticrating>67</criticrating>
+  <runtime>136</runtime>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>犯罪</genre>
+  <genre>惊悚</genre>
+  <studio>Universal Pictures</studio>
+  <studio>Original Film</studio>
+  <studio>Fuji Eight Company Ltd.</studio>
+  <studio>China Film Co.</studio>
+  <studio>DENTSU</studio>
+  <studio>One Race</studio>
+  <set tmdbcolid="9485">
+    <name>速度与激情（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">337339</uniqueid>
+  <uniqueid type="Imdb">tt4630562</uniqueid>
+  <id>tt4630562</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>11983564</bitrate>
+        <width>3840</width>
+        <height>1608</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>135</duration>
+        <durationinseconds>8158</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

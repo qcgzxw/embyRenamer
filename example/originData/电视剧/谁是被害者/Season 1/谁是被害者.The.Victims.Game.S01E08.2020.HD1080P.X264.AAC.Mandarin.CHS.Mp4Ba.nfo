@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[江晓孟和李雅均做出了惊人的坦白，道出了她们在这个自杀狂热团体中的个人动机和所扮角色。徐海茵找到了新的人生意义。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-05-12 04:47:05</dateadded>
+  <title>伞</title>
+  <actor>
+    <name>Zhang Xiaoquan</name>
+    <role>Fang Yi-Jen</role>
+    <type>Actor</type>
+    <tmdbid>126717</tmdbid>
+    <imdbid>nm2432847</imdbid>
+  </actor>
+  <actor>
+    <name>Tiffany Hsu</name>
+    <role>Hsu Hai-Yin</role>
+    <type>Actor</type>
+    <tmdbid>1245709</tmdbid>
+    <imdbid>nm3136967</imdbid>
+  </actor>
+  <actor>
+    <name>Wang Shih Sian</name>
+    <role>Chao Cheng-Kuan</role>
+    <type>Actor</type>
+    <tmdbid>1260986</tmdbid>
+    <imdbid>nm3017616</imdbid>
+  </actor>
+  <actor>
+    <name>Ruby Lin</name>
+    <role>Li Ya Jun</role>
+    <type>Actor</type>
+    <tmdbid>113311</tmdbid>
+    <imdbid>nm0510948</imdbid>
+  </actor>
+  <actor>
+    <name>Ding Ning</name>
+    <role>Su Ke Yun</role>
+    <type>Actor</type>
+    <tmdbid>1375776</tmdbid>
+  </actor>
+  <actor>
+    <name>River Huang</name>
+    <role>You Cheng Hao</role>
+    <type>Actor</type>
+    <tmdbid>1580562</tmdbid>
+  </actor>
+  <actor>
+    <name>Cheng Jen-Shuo</name>
+    <role>Zhuang Bing Yao</role>
+    <type>Actor</type>
+    <tmdbid>1630179</tmdbid>
+    <imdbid>nm7144002</imdbid>
+  </actor>
+  <actor>
+    <name>Hsia Ching-ting</name>
+    <role>Xia Jing Ting</role>
+    <type>Actor</type>
+    <tmdbid>1300132</tmdbid>
+    <imdbid>nm0398740</imdbid>
+  </actor>
+  <actor>
+    <name>Moon Lee</name>
+    <role>Chiang Hsiao-Meng</role>
+    <type>Actor</type>
+    <tmdbid>2843063</tmdbid>
+    <imdbid>nm11498263</imdbid>
+  </actor>
+  <actor>
+    <name>Honduras</name>
+    <role>Sun Yong Zhen</role>
+    <type>Actor</type>
+    <tmdbid>581375</tmdbid>
+    <imdbid>nm5356727</imdbid>
+  </actor>
+  <actor>
+    <name>Ma Nien-Hsien</name>
+    <role>Hui Zi</role>
+    <type>Actor</type>
+    <tmdbid>127685</tmdbid>
+    <imdbid>nm3085495</imdbid>
+  </actor>
+  <actor>
+    <name>Helena Hsu</name>
+    <role>Chiang Jo-Ying (Fang's Ex-wife)</role>
+    <type>GuestStar</type>
+    <tmdbid>1531489</tmdbid>
+    <imdbid>nm6576594</imdbid>
+  </actor>
+  <rating>0</rating>
+  <year>2020</year>
+  <tvdbid>7674813</tvdbid>
+  <runtime>68</runtime>
+  <uniqueid type="Tvdb">7674813</uniqueid>
+  <episode>8</episode>
+  <season>1</season>
+  <aired>2020-04-30</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2876310</bitrate>
+        <width>1920</width>
+        <height>1012</height>
+        <aspect>480:253</aspect>
+        <aspectratio>480:253</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>67</duration>
+        <durationinseconds>4070</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127999</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

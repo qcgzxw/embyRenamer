@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[A video from Annika's past comes back to haunt her; Joe and Peach's simmering tension boils over when Peach introduces Beck to a major literary agent.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-01-05 22:30:18</dateadded>
+  <title>第 5 集</title>
+  <actor>
+    <name>Penn Badgley</name>
+    <role>Joe Goldberg</role>
+    <type>Actor</type>
+    <tmdbid>110927</tmdbid>
+    <imdbid>nm0046112</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Lail</name>
+    <role>Guinevere Beck</role>
+    <type>Actor</type>
+    <tmdbid>1368507</tmdbid>
+    <imdbid>nm5634768</imdbid>
+  </actor>
+  <actor>
+    <name>Luca Padovan</name>
+    <role>Paco</role>
+    <type>Actor</type>
+    <tmdbid>2126167</tmdbid>
+  </actor>
+  <actor>
+    <name>Zach Cherry</name>
+    <role>Ethan Russell</role>
+    <type>Actor</type>
+    <tmdbid>1838225</tmdbid>
+  </actor>
+  <actor>
+    <name>Christine Toy Johnson</name>
+    <role>Allison Mott</role>
+    <type>GuestStar</type>
+    <tmdbid>1109028</tmdbid>
+    <imdbid>nm0870265</imdbid>
+  </actor>
+  <actor>
+    <name>Reggie Gowland</name>
+    <role>Roger Stevens</role>
+    <type>GuestStar</type>
+    <tmdbid>1286243</tmdbid>
+    <imdbid>nm4654202</imdbid>
+  </actor>
+  <actor>
+    <name>Nicole Kang</name>
+    <role>Lynn Lieser</role>
+    <type>GuestStar</type>
+    <tmdbid>2081650</tmdbid>
+    <imdbid>nm9169007</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Cosgrove</name>
+    <role>Ron</role>
+    <type>GuestStar</type>
+    <tmdbid>203511</tmdbid>
+    <imdbid>nm0181822</imdbid>
+  </actor>
+  <actor>
+    <name>Victoria Cartagena</name>
+    <role>Claudia</role>
+    <type>GuestStar</type>
+    <tmdbid>118388</tmdbid>
+    <imdbid>nm1742739</imdbid>
+  </actor>
+  <actor>
+    <name>Kathryn Gallagher</name>
+    <role>Annika</role>
+    <type>GuestStar</type>
+    <tmdbid>2270221</tmdbid>
+    <imdbid>nm4137840</imdbid>
+  </actor>
+  <actor>
+    <name>Shay Mitchell</name>
+    <role>Peach Salinger</role>
+    <type>GuestStar</type>
+    <tmdbid>222088</tmdbid>
+  </actor>
+  <director>Marta Cunningham</director>
+  <rating>7.5</rating>
+  <year>2018</year>
+  <imdbid>tt7655292</imdbid>
+  <tvdbid>6461786</tvdbid>
+  <runtime>45</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt7655292</uniqueid>
+  <uniqueid type="Tvdb">6461786</uniqueid>
+  <episode>5</episode>
+  <season>1</season>
+  <aired>2018-10-07</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9374513</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>45</duration>
+        <durationinseconds>2706</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

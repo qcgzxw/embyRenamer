@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[美国国家航空航天局要霍华为天使队开球。 薛尔登和艾美在契合度测试上，得分比莱昂德和潘妮的还高。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 17:49:26</dateadded>
+  <title>The First Pitch Insufficiency</title>
+  <actor>
+    <name>Malcolm Foster Smith</name>
+    <type>GuestStar</type>
+    <tmdbid>1351387</tmdbid>
+    <imdbid>nm1491447</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Massimino</name>
+    <type>GuestStar</type>
+    <tmdbid>1669956</tmdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.1</rating>
+  <year>2014</year>
+  <imdbid>tt3811812</imdbid>
+  <tvdbid>4917011</tvdbid>
+  <runtime>19</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>1065616629</tvrageid>
+  <uniqueid type="Imdb">tt3811812</uniqueid>
+  <uniqueid type="Tvdb">4917011</uniqueid>
+  <uniqueid type="TvRage">1065616629</uniqueid>
+  <episode>3</episode>
+  <season>8</season>
+  <aired>2014-09-29</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1586028</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1168</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

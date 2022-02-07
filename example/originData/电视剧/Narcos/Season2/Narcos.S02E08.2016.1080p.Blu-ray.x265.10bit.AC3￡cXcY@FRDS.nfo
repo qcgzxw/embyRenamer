@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[埃斯科瓦尔的最新恐怖袭击激起了哥伦比亚举国上下的愤怒。意外盟友向塔塔伸出援手。拉奇迪变得愈发焦躁。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-15 08:08:10</dateadded>
+  <title>困兽之斗</title>
+  <actor>
+    <name>Wagner Moura</name>
+    <role>Pablo Escobar</role>
+    <type>Actor</type>
+    <tmdbid>52583</tmdbid>
+  </actor>
+  <actor>
+    <name>Pedro Pascal</name>
+    <role>Javier Peña</role>
+    <type>Actor</type>
+    <tmdbid>1253360</tmdbid>
+  </actor>
+  <actor>
+    <name>Boyd Holbrook</name>
+    <role>Steve Murphy</role>
+    <type>Actor</type>
+    <tmdbid>467645</tmdbid>
+  </actor>
+  <actor>
+    <name>Joanna Christie</name>
+    <role>Connie Murphy</role>
+    <type>Actor</type>
+    <tmdbid>1230988</tmdbid>
+  </actor>
+  <actor>
+    <name>Paulina Gaitán</name>
+    <role>Tata Escobar</role>
+    <type>Actor</type>
+    <tmdbid>36586</tmdbid>
+  </actor>
+  <actor>
+    <name>Brett Cullen</name>
+    <role>Arthur Crosby</role>
+    <type>Actor</type>
+    <tmdbid>16841</tmdbid>
+    <imdbid>nm0191442</imdbid>
+  </actor>
+  <actor>
+    <name>Martina García</name>
+    <role>Maritza</role>
+    <type>Actor</type>
+    <tmdbid>233278</tmdbid>
+    <imdbid>nm0306357</imdbid>
+  </actor>
+  <actor>
+    <name>Sebastián Vega</name>
+    <role>Hugo Martinez Jr.</role>
+    <type>GuestStar</type>
+    <tmdbid>1865289</tmdbid>
+  </actor>
+  <actor>
+    <name>Alberto Ammann</name>
+    <role>Pacho Herrera</role>
+    <type>GuestStar</type>
+    <tmdbid>110424</tmdbid>
+  </actor>
+  <actor>
+    <name>Paulina García</name>
+    <role>Hermilda Gaviria</role>
+    <type>GuestStar</type>
+    <tmdbid>1532436</tmdbid>
+  </actor>
+  <director>Gerardo Naranjo</director>
+  <rating>8.577</rating>
+  <year>2016</year>
+  <imdbid>tt5714404</imdbid>
+  <tvdbid>5734726</tvdbid>
+  <runtime>54</runtime>
+  <uniqueid type="Tvdb">5734726</uniqueid>
+  <uniqueid type="Imdb">tt5714404</uniqueid>
+  <episode>8</episode>
+  <season>2</season>
+  <aired>2016-09-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3320474</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>54</duration>
+        <durationinseconds>3242</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

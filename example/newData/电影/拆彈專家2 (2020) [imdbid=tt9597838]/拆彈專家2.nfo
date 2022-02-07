@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[香港某处发生爆炸案，前拆弹专家潘乘风因昏迷于现场，被警方怀疑牵涉其中。苏醒后的潘乘风记忆缺损，只能一边逃亡一边查明真相，然而，他的好友董卓文和他的前女友庞玲却给他讲述了一段截然不同的回忆。有计划的爆炸案接二连三发生，真相却越来越扑朔迷离……]]></plot>
+  <outline><![CDATA[核弹危机 一触即发]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-04 15:52:52</dateadded>
+  <title>拆弹专家2</title>
+  <originaltitle>拆彈專家2</originaltitle>
+  <actor>
+    <name>Andy Lau</name>
+    <role>Poon Sing-fung</role>
+    <type>Actor</type>
+    <tmdbid>25246</tmdbid>
+    <imdbid>nm0490489</imdbid>
+  </actor>
+  <actor>
+    <name>Lau Ching-Wan</name>
+    <role>Tung Cheuk-man</role>
+    <type>Actor</type>
+    <tmdbid>940339</tmdbid>
+    <imdbid>nm0490513</imdbid>
+  </actor>
+  <actor>
+    <name>Ni Ni</name>
+    <role>Pong Ling</role>
+    <type>Actor</type>
+    <tmdbid>1006864</tmdbid>
+    <imdbid>nm4809043</imdbid>
+  </actor>
+  <actor>
+    <name>Tse Kwan-Ho</name>
+    <role>Ma Sai-kwan</role>
+    <type>Actor</type>
+    <tmdbid>931254</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Ma</name>
+    <role>Rhinoceros</role>
+    <type>Actor</type>
+    <tmdbid>1985687</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Keung</name>
+    <role>Lee Yiu-sing</role>
+    <type>Actor</type>
+    <tmdbid>140478</tmdbid>
+  </actor>
+  <actor>
+    <name>Timmy Hung</name>
+    <role>King</role>
+    <type>Actor</type>
+    <tmdbid>986480</tmdbid>
+  </actor>
+  <actor>
+    <name>Ron Ng</name>
+    <role>Lun Ting-pong</role>
+    <type>Actor</type>
+    <tmdbid>1222249</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenny Wong Tak-Bun</name>
+    <role>Chan King-to</role>
+    <type>Actor</type>
+    <tmdbid>70108</tmdbid>
+  </actor>
+  <actor>
+    <name>Cheung Chun-Kit</name>
+    <type>Actor</type>
+    <tmdbid>1925020</tmdbid>
+  </actor>
+  <actor>
+    <name>Jai Day</name>
+    <type>Actor</type>
+    <tmdbid>222881</tmdbid>
+    <imdbid>nm3607849</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Yuen</name>
+    <role>Chin Ka-on</role>
+    <type>Actor</type>
+    <tmdbid>551605</tmdbid>
+    <imdbid>nm2113499</imdbid>
+  </actor>
+  <actor>
+    <name>Wilfred Lau</name>
+    <role>Sze-to Wai</role>
+    <type>Actor</type>
+    <tmdbid>148892</tmdbid>
+  </actor>
+  <actor>
+    <name>Raymond Chiu</name>
+    <role>Fat Sze</role>
+    <type>Actor</type>
+    <tmdbid>1809912</tmdbid>
+  </actor>
+  <actor>
+    <name>Baby John Choi</name>
+    <role>Cheung Chi-man</role>
+    <type>Actor</type>
+    <tmdbid>1317523</tmdbid>
+  </actor>
+  <director tmdbid="92831" imdbid="nm0946875">Herman Yau</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sy1Pz8Be5SE</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TqJD3ZyZULM</trailer>
+  <rating>6.8</rating>
+  <year>2020</year>
+  <imdbid>tt9597838</imdbid>
+  <tmdbid>559974</tmdbid>
+  <premiered>2020-12-24</premiered>
+  <releasedate>2020-12-24</releasedate>
+  <tagline>核弹危机 一触即发</tagline>
+  <country>China</country>
+  <country>Hong Kong</country>
+  <genre>动作</genre>
+  <genre>犯罪</genre>
+  <studio>Universe Entertainment</studio>
+  <studio>Alibaba Pictures Group</studio>
+  <studio>Bona Film Group</studio>
+  <set tmdbcolid="762278">
+    <name>拆弹专家（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">559974</uniqueid>
+  <uniqueid type="Imdb">tt9597838</uniqueid>
+  <id>tt9597838</id>
+  <fileinfo>
+    <streamdetails />
+  </fileinfo>
+</movie>

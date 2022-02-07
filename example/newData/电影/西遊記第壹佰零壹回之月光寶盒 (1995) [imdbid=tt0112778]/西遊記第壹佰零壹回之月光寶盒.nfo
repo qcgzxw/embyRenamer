@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　故事开始是观音菩萨要除掉孙悟空（周星驰饰），因其伙同牛魔王欲杀害师父唐三藏（罗家英饰），并偷走了月光宝盒。唐三藏慈悲为怀，愿自杀以换悟空重生。五百年后，孙悟空投胎为强盗头头至尊宝。不巧撞见预谋吃唐僧肉的妖怪姐妹--蜘蛛精三十娘（蓝洁瑛饰）和白骨精白晶晶（莫文蔚饰）。原来，500年前孙悟空和白晶晶曾有一段恋情，因而白晶晶与至尊宝一见钟情。此时，菩提老祖将二人的妖怪身份告诉了至尊宝，并同强盗们一起与二妖展开周旋。白晶晶为了救至尊宝打伤了春三十娘，却中毒受伤。至尊宝为了白晶晶来找春三十娘，却遭晶晶误会。白晶晶绝望自杀。至尊宝用月光宝盒使时光倒流却倒流回500年前……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-04 14:15:55</dateadded>
+  <title>大话西游之月光宝盒</title>
+  <originaltitle>西遊記第壹佰零壹回之月光寶盒</originaltitle>
+  <actor>
+    <name>Stephen Chow</name>
+    <role>Chi Juen Bo/ Suen Ng Hung / Joker</role>
+    <type>Actor</type>
+    <tmdbid>57607</tmdbid>
+    <imdbid>nm0159507</imdbid>
+  </actor>
+  <actor>
+    <name>Ng Man-tat</name>
+    <role>Jue Baat Gaai / Assistant Master</role>
+    <type>Actor</type>
+    <tmdbid>70437</tmdbid>
+    <imdbid>nm0628806</imdbid>
+  </actor>
+  <actor>
+    <name>Athena Chu</name>
+    <role>Spider Devil / Spider Web Immortal</role>
+    <type>Actor</type>
+    <tmdbid>87942</tmdbid>
+    <imdbid>nm0160803</imdbid>
+  </actor>
+  <actor>
+    <name>Law Kar-Ying</name>
+    <role>Tong Chang / Longevity Monk</role>
+    <type>Actor</type>
+    <tmdbid>87944</tmdbid>
+    <imdbid>nm0492344</imdbid>
+  </actor>
+  <actor>
+    <name>Yammie Lam</name>
+    <role>Jeung Chu Cheng / Spider Woman</role>
+    <type>Actor</type>
+    <tmdbid>87945</tmdbid>
+    <imdbid>nm0482643</imdbid>
+  </actor>
+  <actor>
+    <name>Karen Mok</name>
+    <role>Baak Gwat Cheng / Pak Jing Jing</role>
+    <type>Actor</type>
+    <tmdbid>57831</tmdbid>
+    <imdbid>nm0596297</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Lau</name>
+    <role>The Grapes / Grandpa Buddha</role>
+    <type>Actor</type>
+    <tmdbid>57617</tmdbid>
+    <imdbid>nm0311508</imdbid>
+  </actor>
+  <actor>
+    <name>Johnnie Kong</name>
+    <role>Sandy / Blindy</role>
+    <type>Actor</type>
+    <tmdbid>87950</tmdbid>
+    <imdbid>nm0465036</imdbid>
+  </actor>
+  <actor>
+    <name>Ada Choi</name>
+    <role>Iron Fan Princess</role>
+    <type>Actor</type>
+    <tmdbid>87948</tmdbid>
+    <imdbid>nm0158785</imdbid>
+  </actor>
+  <actor>
+    <name>Lu Shuming</name>
+    <role>King Bull</role>
+    <type>Actor</type>
+    <tmdbid>1843208</tmdbid>
+  </actor>
+  <actor>
+    <name>Hou Yan</name>
+    <role>Guanyin</role>
+    <type>Actor</type>
+    <tmdbid>3102486</tmdbid>
+  </actor>
+  <director tmdbid="57617" imdbid="nm0311508">Jeffrey Lau</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZPri1X1RVeo</trailer>
+  <rating>7.7</rating>
+  <year>1995</year>
+  <mpaa>HK-II</mpaa>
+  <imdbid>tt0112778</imdbid>
+  <tmdbid>13345</tmdbid>
+  <premiered>1995-01-21</premiered>
+  <releasedate>1995-01-21</releasedate>
+  <criticrating>87</criticrating>
+  <runtime>88</runtime>
+  <country>Hong Kong</country>
+  <genre>奇幻</genre>
+  <genre>冒险</genre>
+  <genre>喜剧</genre>
+  <studio>Choi Sing Din Ying Gung Shut</studio>
+  <studio>Xi'an Film Studio</studio>
+  <set tmdbcolid="201544">
+    <name>大话西游（系列）</name>
+  </set>
+  <uniqueid type="TmdbCollection">201544</uniqueid>
+  <tmdbcollectionid>201544</tmdbcollectionid>
+  <uniqueid type="Imdb">tt0112778</uniqueid>
+  <uniqueid type="Tmdb">13345</uniqueid>
+  <id>tt0112778</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>7768475</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>88</duration>
+        <durationinseconds>5295</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

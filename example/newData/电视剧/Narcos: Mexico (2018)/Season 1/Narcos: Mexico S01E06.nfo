@@ -1,0 +1,189 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[法尔肯与拉法之间发生凶暴的权力斗争。费利斯在可卡因生意上站稳脚跟，而缉毒局试图把他骗入美国。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-17 18:32:21</dateadded>
+  <title>最后的防线</title>
+  <actor>
+    <name>Scoot McNairy</name>
+    <role>Walt Breslin / Narrator</role>
+    <type>Actor</type>
+    <tmdbid>59233</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Peña</name>
+    <role>Enrique 'Kiki' Camarena</role>
+    <type>Actor</type>
+    <tmdbid>454</tmdbid>
+    <imdbid>nm0671567</imdbid>
+  </actor>
+  <actor>
+    <name>Diego Luna</name>
+    <role>Miguel Ángel Félix Gallardo</role>
+    <type>Actor</type>
+    <tmdbid>8688</tmdbid>
+  </actor>
+  <actor>
+    <name>José María Yázpik</name>
+    <role>Amado Carrillo Fuentes</role>
+    <type>Actor</type>
+    <tmdbid>72128</tmdbid>
+  </actor>
+  <actor>
+    <name>Tenoch Huerta</name>
+    <role>Rafael Caro Quintero</role>
+    <type>Actor</type>
+    <tmdbid>87265</tmdbid>
+  </actor>
+  <actor>
+    <name>Alyssa Diaz</name>
+    <role>Mika Camarena</role>
+    <type>Actor</type>
+    <tmdbid>134180</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Letscher</name>
+    <role>James 'Jaime' Kuykendall</role>
+    <type>Actor</type>
+    <tmdbid>28414</tmdbid>
+    <imdbid>nm0504762</imdbid>
+  </actor>
+  <actor>
+    <name>Joaquín Cosío</name>
+    <role>Ernesto 'Don Neto' Fonseca Carrillo</role>
+    <type>Actor</type>
+    <tmdbid>76857</tmdbid>
+    <imdbid>nm1370408</imdbid>
+  </actor>
+  <actor>
+    <name>Fernanda Urrejola</name>
+    <role>María Elvira</role>
+    <type>Actor</type>
+    <tmdbid>955954</tmdbid>
+  </actor>
+  <actor>
+    <name>Ernesto Alterio</name>
+    <role>Salvador Osuna Nava</role>
+    <type>Actor</type>
+    <tmdbid>27459</tmdbid>
+  </actor>
+  <actor>
+    <name>Alejandro Edda</name>
+    <role>Joaquín 'El Chapo' Guzmán</role>
+    <type>Actor</type>
+    <tmdbid>1809025</tmdbid>
+  </actor>
+  <actor>
+    <name>Teresa Ruiz</name>
+    <role>Isabella Bautista</role>
+    <type>Actor</type>
+    <tmdbid>589722</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron Staton</name>
+    <role>Butch Sears</role>
+    <type>Actor</type>
+    <tmdbid>41296</tmdbid>
+    <imdbid>nm1837590</imdbid>
+  </actor>
+  <actor>
+    <name>Lenny Jacobson</name>
+    <role>Roger Knapp</role>
+    <type>Actor</type>
+    <tmdbid>1246804</tmdbid>
+    <imdbid>nm2381777</imdbid>
+  </actor>
+  <actor>
+    <name>Manuel Masalva</name>
+    <role>Ramón Arellano Félix</role>
+    <type>GuestStar</type>
+    <tmdbid>2229075</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Kubr</name>
+    <role>Tony</role>
+    <type>GuestStar</type>
+    <tmdbid>193946</tmdbid>
+  </actor>
+  <director>Amat Escalante</director>
+  <rating>8.1</rating>
+  <year>2018</year>
+  <imdbid>tt6038988</imdbid>
+  <tvdbid>6894199</tvdbid>
+  <runtime>55</runtime>
+  <uniqueid type="Tvdb">6894199</uniqueid>
+  <uniqueid type="Imdb">tt6038988</uniqueid>
+  <episode>6</episode>
+  <season>1</season>
+  <aired>2018-11-16</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6457048</bitrate>
+        <width>1920</width>
+        <height>956</height>
+        <aspect>480:239</aspect>
+        <aspectratio>480:239</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>55</duration>
+        <durationinseconds>3321</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

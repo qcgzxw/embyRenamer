@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[当世界离析，唯挚友同行。（A real friend is one who walks in when the rest of the world walks out.）]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-05-21 07:08:05</dateadded>
+  <title>通路兵</title>
+  <actor>
+    <name>Evan Rachel Wood</name>
+    <role>Dolores Abernathy</role>
+    <type>Actor</type>
+    <tmdbid>38940</tmdbid>
+    <imdbid>nm0939697</imdbid>
+  </actor>
+  <actor>
+    <name>Thandie Newton</name>
+    <role>Maeve Millay</role>
+    <type>Actor</type>
+    <tmdbid>9030</tmdbid>
+    <imdbid>nm0628601</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Wright</name>
+    <role>Bernard Lowe</role>
+    <type>Actor</type>
+    <tmdbid>2954</tmdbid>
+    <imdbid>nm0942482</imdbid>
+  </actor>
+  <actor>
+    <name>Tessa Thompson</name>
+    <role>Charlotte Hale</role>
+    <type>Actor</type>
+    <tmdbid>62561</tmdbid>
+    <imdbid>nm1935086</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Harris</name>
+    <role>Man in Black</role>
+    <type>Actor</type>
+    <tmdbid>228</tmdbid>
+    <imdbid>nm0000438</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Caleb</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Vincent Cassel</name>
+    <role>Serac</role>
+    <type>Actor</type>
+    <tmdbid>1925</tmdbid>
+    <imdbid>nm0001993</imdbid>
+  </actor>
+  <actor>
+    <name>Bahia Haifi</name>
+    <role>Dr. Greene</role>
+    <type>GuestStar</type>
+    <tmdbid>1618332</tmdbid>
+  </actor>
+  <actor>
+    <name>Wayne Pére</name>
+    <role>Therapist</role>
+    <type>GuestStar</type>
+    <tmdbid>31528</tmdbid>
+    <imdbid>nm0701818</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Francisco Molina</name>
+    <role>Mateo</role>
+    <type>GuestStar</type>
+    <tmdbid>2048756</tmdbid>
+  </actor>
+  <actor>
+    <name>Jelena Williams</name>
+    <role>Russian Woman</role>
+    <type>GuestStar</type>
+    <tmdbid>2425609</tmdbid>
+  </actor>
+  <actor>
+    <name>Wei Ren</name>
+    <role>Waiter</role>
+    <type>GuestStar</type>
+    <tmdbid>1894600</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Pietruszewski</name>
+    <role>Commanding Officer</role>
+    <type>GuestStar</type>
+    <tmdbid>144606</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Ward</name>
+    <role>Harriet</role>
+    <type>GuestStar</type>
+    <tmdbid>1531921</tmdbid>
+  </actor>
+  <actor>
+    <name>AprilAnn Dais</name>
+    <role>Crimean</role>
+    <type>GuestStar</type>
+    <tmdbid>2481633</tmdbid>
+  </actor>
+  <actor>
+    <name>Vinny O'Brien</name>
+    <role>Paramilitary Guard</role>
+    <type>GuestStar</type>
+    <tmdbid>2323834</tmdbid>
+    <imdbid>nm8220546</imdbid>
+  </actor>
+  <actor>
+    <name>Enrico Colantoni</name>
+    <role>Whitman</role>
+    <type>GuestStar</type>
+    <tmdbid>15029</tmdbid>
+    <imdbid>nm0170186</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Cooper</name>
+    <role>Jean Mi</role>
+    <type>GuestStar</type>
+    <tmdbid>1927966</tmdbid>
+    <imdbid>nm7956411</imdbid>
+  </actor>
+  <actor>
+    <name>Johnny Wactor</name>
+    <role>Gunny Thompson</role>
+    <type>GuestStar</type>
+    <tmdbid>211824</tmdbid>
+  </actor>
+  <director>Helen Shaver</director>
+  <rating>7.333</rating>
+  <year>2020</year>
+  <imdbid>tt10011158</imdbid>
+  <tvdbid>7579002</tvdbid>
+  <runtime>60</runtime>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt10011158</uniqueid>
+  <uniqueid type="Tvdb">7579002</uniqueid>
+  <episode>7</episode>
+  <season>3</season>
+  <aired>2020-04-26</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9694766</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>60</duration>
+        <durationinseconds>3617</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

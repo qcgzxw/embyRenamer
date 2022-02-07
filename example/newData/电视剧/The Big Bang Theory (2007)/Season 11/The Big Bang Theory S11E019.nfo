@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[莱纳德和谢尔顿争夺业主委员会的控制权。拉杰什和霍华德试图找到一架高档无人机的主人。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-16 17:58:23</dateadded>
+  <title>主席之争</title>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Leonard Hofstadter</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>Howard Wolowitz</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Nayyar</name>
+    <role>Rajesh Koothrappali</role>
+    <type>Actor</type>
+    <tmdbid>208099</tmdbid>
+    <imdbid>nm2471798</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa Rauch</name>
+    <role>Bernadette Rostenkowski</role>
+    <type>Actor</type>
+    <tmdbid>1221716</tmdbid>
+    <imdbid>nm1851981</imdbid>
+  </actor>
+  <actor>
+    <name>Mayim Bialik</name>
+    <role>Amy Farrah Fowler</role>
+    <type>Actor</type>
+    <tmdbid>167640</tmdbid>
+    <imdbid>nm0080524</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Sussman</name>
+    <role>Stuart Bloom</role>
+    <type>Actor</type>
+    <tmdbid>60633</tmdbid>
+    <imdbid>nm0839934</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Arthur</name>
+    <role>Mrs. Petrescu</role>
+    <type>GuestStar</type>
+    <tmdbid>29054</tmdbid>
+    <imdbid>nm0037807</imdbid>
+  </actor>
+  <actor>
+    <name>Parvesh Cheena</name>
+    <role>Marcus</role>
+    <type>GuestStar</type>
+    <tmdbid>98392</tmdbid>
+    <imdbid>nm1231867</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Stephenson</name>
+    <role>Wendell</role>
+    <type>GuestStar</type>
+    <tmdbid>17449</tmdbid>
+    <imdbid>nm0827307</imdbid>
+  </actor>
+  <actor>
+    <name>Megan McGown</name>
+    <role>Cynthia</role>
+    <type>GuestStar</type>
+    <tmdbid>1517270</tmdbid>
+    <imdbid>nm6414078</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>6.6</rating>
+  <year>2018</year>
+  <imdbid>tt6674454</imdbid>
+  <tvdbid>6589204</tvdbid>
+  <runtime>21</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <uniqueid type="Imdb">tt6674454</uniqueid>
+  <uniqueid type="Tvdb">6589204</uniqueid>
+  <episode>19</episode>
+  <season>11</season>
+  <aired>2018-04-05</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10279704</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>20</duration>
+        <durationinseconds>1247</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

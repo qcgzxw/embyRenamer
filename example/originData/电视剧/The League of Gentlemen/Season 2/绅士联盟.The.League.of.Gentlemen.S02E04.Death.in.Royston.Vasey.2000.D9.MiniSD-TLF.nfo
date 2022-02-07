@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Harvey and Val trick Benjamin into answering the door to the doctor by telling him that it is Nude Day but the doctor tells him it's on the fifteenth and wonders about the lad's sanity. ...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-15 23:17:58</dateadded>
+  <title>第 4 集</title>
+  <actor>
+    <name>Mark Gatiss</name>
+    <type>Actor</type>
+    <tmdbid>34546</tmdbid>
+    <imdbid>nm0309693</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Hays-Marshall</name>
+    <type>Actor</type>
+    <tmdbid>1231013</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Dyson</name>
+    <type>Actor</type>
+    <tmdbid>1227405</tmdbid>
+  </actor>
+  <actor>
+    <name>Johnny Leeze</name>
+    <role>Inspector Cox</role>
+    <type>Actor</type>
+    <tmdbid>1820221</tmdbid>
+  </actor>
+  <actor>
+    <name>Roy "Chubby" Brown</name>
+    <type>GuestStar</type>
+    <tmdbid>482024</tmdbid>
+  </actor>
+  <actor>
+    <name>Blake Ritson</name>
+    <type>GuestStar</type>
+    <tmdbid>80154</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Lin</name>
+    <type>GuestStar</type>
+    <tmdbid>1234123</tmdbid>
+  </actor>
+  <director>Steve Bendelack</director>
+  <rating>0</rating>
+  <year>2000</year>
+  <imdbid>tt0630120</imdbid>
+  <tvdbid>87706</tvdbid>
+  <runtime>30</runtime>
+  <genre>Comedy</genre>
+  <genre>Horror</genre>
+  <tvrageid>193854</tvrageid>
+  <uniqueid type="Imdb">tt0630120</uniqueid>
+  <uniqueid type="Tvdb">87706</uniqueid>
+  <uniqueid type="TvRage">193854</uniqueid>
+  <episode>4</episode>
+  <season>2</season>
+  <aired>2000-02-04</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1265512</bitrate>
+        <width>716</width>
+        <height>570</height>
+        <aspect>80908:44175</aspect>
+        <aspectratio>80908:44175</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>30</duration>
+        <durationinseconds>1806</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

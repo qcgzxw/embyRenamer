@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　富商巢老爷临终立下遗嘱，将所有遗产都传给远在法国的女儿飞飞（吴君如 饰），遗嘱由巢二爷保管。巢老爷的不肖子秋千方百计想修改遗嘱，而二爷的不肖子大傻亦想取得遗嘱私自修改。一晚，幸运星（周星驰 饰）到巢家偷窃时被大傻抓住，见他偷窃有一手，大傻命令幸运星帮助自己偷遗嘱。而阿秋 亦无意中发现在垃圾场专门捡垃圾的垃圾凤（吴君如 饰）样貌竟然和他妹妹飞飞一模一样，于是命令阿凤假扮其妹骗取二爷掌管的遗产。就在二爷去迎接从法国回来的假飞飞（阿凤）的晚上，幸运星按大傻吩咐潜到了巢家大宅去偷遗嘱。不料事情败露，被二爷抓个正着。情急之下，幸运星谎称自己是飞飞多年前的男友，企图蒙混过关。而不知就里的阿凤怕露出马脚，也承认了幸运星是她的男友。于是一场笑料百出的遗产争夺战开始了。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-04 14:19:08</dateadded>
+  <title>无敌幸运星</title>
+  <originaltitle>無敵幸運星</originaltitle>
+  <actor>
+    <name>Stephen Chow</name>
+    <role>Vincent Hing</role>
+    <type>Actor</type>
+    <tmdbid>57607</tmdbid>
+    <imdbid>nm0159507</imdbid>
+  </actor>
+  <actor>
+    <name>Sandra Ng Kwun-Yu</name>
+    <role>Tsao Fei Fei/Rubbish Fung</role>
+    <type>Actor</type>
+    <tmdbid>88495</tmdbid>
+    <imdbid>nm0510950</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Chan Yau</name>
+    <role>Private Eye Wong</role>
+    <type>Actor</type>
+    <tmdbid>83560</tmdbid>
+    <imdbid>nm0150796</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Wong</name>
+    <role>Wei</role>
+    <type>Actor</type>
+    <tmdbid>66717</tmdbid>
+    <imdbid>nm0938893</imdbid>
+  </actor>
+  <actor>
+    <name>Cutie Mui Siu-Wai</name>
+    <role>Wei's wife</role>
+    <type>Actor</type>
+    <tmdbid>1407468</tmdbid>
+    <imdbid>nm00611320</imdbid>
+  </actor>
+  <actor>
+    <name>Shing Fui-On</name>
+    <role>Lung</role>
+    <type>Actor</type>
+    <tmdbid>119447</tmdbid>
+    <imdbid>nm0793924</imdbid>
+  </actor>
+  <actor>
+    <name>Lam Kau</name>
+    <role>Second Master</role>
+    <type>Actor</type>
+    <tmdbid>990778</tmdbid>
+  </actor>
+  <actor>
+    <name>Stuart Ong</name>
+    <role>Robert Hu</role>
+    <type>Actor</type>
+    <tmdbid>1134735</tmdbid>
+    <imdbid>nm9751060</imdbid>
+  </actor>
+  <actor>
+    <name>Mai Kei</name>
+    <role>Lung's man</role>
+    <type>Actor</type>
+    <tmdbid>81081</tmdbid>
+    <imdbid>nm0537298</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Chow Bei-Lei</name>
+    <role>Biu</role>
+    <type>Actor</type>
+    <tmdbid>239961</tmdbid>
+    <imdbid>nm0159435</imdbid>
+  </actor>
+  <actor>
+    <name>Hui Ying-Sau</name>
+    <role>Mr Tsao</role>
+    <type>Actor</type>
+    <tmdbid>1178940</tmdbid>
+  </actor>
+  <actor>
+    <name>Billy Ching Sau-Yat</name>
+    <role>Pei</role>
+    <type>Actor</type>
+    <tmdbid>1134736</tmdbid>
+    <imdbid>nm1282699</imdbid>
+  </actor>
+  <actor>
+    <name>Kan Tat-Wah</name>
+    <role>Wei's aide</role>
+    <type>Actor</type>
+    <tmdbid>1415347</tmdbid>
+  </actor>
+  <actor>
+    <name>Sai Gwa-Pau</name>
+    <role>Stuttering chauffeur</role>
+    <type>Actor</type>
+    <tmdbid>119450</tmdbid>
+    <imdbid>nm1714999</imdbid>
+  </actor>
+  <actor>
+    <name>Lui Tat</name>
+    <role>Old gardener</role>
+    <type>Actor</type>
+    <tmdbid>1415348</tmdbid>
+  </actor>
+  <director tmdbid="83560" imdbid="nm0150796">Anthony Chan Yau</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=naZtHJ8eAtc</trailer>
+  <rating>6.3</rating>
+  <year>1990</year>
+  <mpaa>HK-II</mpaa>
+  <imdbid>tt0100959</imdbid>
+  <tmdbid>135061</tmdbid>
+  <premiered>1990-09-27</premiered>
+  <releasedate>1990-09-27</releasedate>
+  <criticrating>40</criticrating>
+  <runtime>95</runtime>
+  <country>Hong Kong</country>
+  <genre>喜剧</genre>
+  <genre>动作</genre>
+  <studio>Mobile Film Production Ltd.</studio>
+  <uniqueid type="Imdb">tt0100959</uniqueid>
+  <uniqueid type="Tmdb">135061</uniqueid>
+  <id>tt0100959</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>8521805</bitrate>
+        <width>1920</width>
+        <height>1036</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>94</duration>
+        <durationinseconds>5694</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

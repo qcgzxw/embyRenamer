@@ -1,0 +1,729 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　15岁的高中生米亚（安妮•海瑟薇 饰）与母亲生活在美国，但她十分不自信，也常常遭到同学的嘲笑。就在她16岁生日那天，她与祖母（茱莉•安德鲁 饰）见面后发现这个优雅的女士是欧洲小国吉诺维亚的女王，米亚正是这个国度的公主。刚开始米亚十分不愿，在母亲的调解下米亚的态度才有所缓和。
+ 　　为了可以顺利继承王位，女王不得不对孙女进行一系列的改变，令平时生活便不拘小节的米亚十分困扰，甚至跟好朋友之间也发生了冲突。米亚的身份被好事的同学揭露了，她一下子受到了媒体的高度关注。突如其来的一切让米亚想逃避一切，幸好在父亲的日记里，她重拾了自信。米亚成为了公主，也找到了自己想要的爱情。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-01-18 23:29:53</dateadded>
+  <title>公主日记</title>
+  <originaltitle>The Princess Diaries</originaltitle>
+  <actor>
+    <name>Julie Andrews</name>
+    <role>Queen Clarisse Renaldi</role>
+    <type>Actor</type>
+    <tmdbid>5823</tmdbid>
+    <imdbid>nm0000267</imdbid>
+  </actor>
+  <actor>
+    <name>Anne Hathaway</name>
+    <role>Amelia "Mia" Thermopolis</role>
+    <type>Actor</type>
+    <tmdbid>1813</tmdbid>
+    <imdbid>nm0004266</imdbid>
+  </actor>
+  <actor>
+    <name>Héctor Elizondo</name>
+    <role>Joe</role>
+    <type>Actor</type>
+    <tmdbid>1210</tmdbid>
+    <imdbid>nm0001185</imdbid>
+  </actor>
+  <actor>
+    <name>Heather Matarazzo</name>
+    <role>Lilly Moscovitz</role>
+    <type>Actor</type>
+    <tmdbid>33656</tmdbid>
+    <imdbid>nm0000525</imdbid>
+  </actor>
+  <actor>
+    <name>Mandy Moore</name>
+    <role>Lana Thomas</role>
+    <type>Actor</type>
+    <tmdbid>16855</tmdbid>
+    <imdbid>nm0601553</imdbid>
+  </actor>
+  <actor>
+    <name>Caroline Goodall</name>
+    <role>Helen Thermopolis</role>
+    <type>Actor</type>
+    <tmdbid>6692</tmdbid>
+    <imdbid>nm0328751</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Schwartzman</name>
+    <role>Michael Moscovitz</role>
+    <type>Actor</type>
+    <tmdbid>17242</tmdbid>
+    <imdbid>nm0777521</imdbid>
+  </actor>
+  <actor>
+    <name>Erik von Detten</name>
+    <role>Josh Bryant</role>
+    <type>Actor</type>
+    <tmdbid>12901</tmdbid>
+    <imdbid>nm0902184</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick John Flueger</name>
+    <role>Jeremiah Hart</role>
+    <type>Actor</type>
+    <tmdbid>115730</tmdbid>
+    <imdbid>nm1005514</imdbid>
+  </actor>
+  <actor>
+    <name>Sean O'Bryan</name>
+    <role>Patrick O'Connell</role>
+    <type>Actor</type>
+    <tmdbid>33836</tmdbid>
+    <imdbid>nm0639917</imdbid>
+  </actor>
+  <actor>
+    <name>Sandra Oh</name>
+    <role>Vice Principal Gupta</role>
+    <type>Actor</type>
+    <tmdbid>25540</tmdbid>
+    <imdbid>nm0644897</imdbid>
+  </actor>
+  <actor>
+    <name>Kathleen Marshall</name>
+    <role>Charlotte Kutaway</role>
+    <type>Actor</type>
+    <tmdbid>303542</tmdbid>
+    <imdbid>nm0550982</imdbid>
+  </actor>
+  <actor>
+    <name>Mindy Burbano</name>
+    <role>Ms. Harbula</role>
+    <type>Actor</type>
+    <tmdbid>75333</tmdbid>
+    <imdbid>nm0120752</imdbid>
+  </actor>
+  <actor>
+    <name>Kimleigh Smith</name>
+    <role>Ms. Wells</role>
+    <type>Actor</type>
+    <tmdbid>1464357</tmdbid>
+    <imdbid>nm0808991</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Gudenrath</name>
+    <role>Anna</role>
+    <type>Actor</type>
+    <tmdbid>1523044</tmdbid>
+    <imdbid>nm1004355</imdbid>
+  </actor>
+  <actor>
+    <name>Bianca Lopez</name>
+    <role>Fontana</role>
+    <type>Actor</type>
+    <tmdbid>149213</tmdbid>
+    <imdbid>nm1005758</imdbid>
+  </actor>
+  <actor>
+    <name>Tamara Levinson</name>
+    <role>Lupe</role>
+    <type>Actor</type>
+    <tmdbid>568659</tmdbid>
+    <imdbid>nm1004601</imdbid>
+  </actor>
+  <actor>
+    <name>Lenore Thomas</name>
+    <role>Melissa</role>
+    <type>Actor</type>
+    <tmdbid>62737</tmdbid>
+    <imdbid>nm0859146</imdbid>
+  </actor>
+  <actor>
+    <name>Erik Bragg</name>
+    <role>Bobby Bad</role>
+    <type>Actor</type>
+    <tmdbid>168249</tmdbid>
+    <imdbid>nm1004080</imdbid>
+  </actor>
+  <actor>
+    <name>Meredith Shevory</name>
+    <role>Meredith</role>
+    <type>Actor</type>
+    <tmdbid>1708672</tmdbid>
+    <imdbid>nm1004993</imdbid>
+  </actor>
+  <actor>
+    <name>Anita Marie Curran</name>
+    <role>Anita</role>
+    <type>Actor</type>
+    <tmdbid>1526177</tmdbid>
+    <imdbid>nm1004198</imdbid>
+  </actor>
+  <actor>
+    <name>Cassie Rowell</name>
+    <role>Alice</role>
+    <type>Actor</type>
+    <tmdbid>1708675</tmdbid>
+    <imdbid>nm0746626</imdbid>
+  </actor>
+  <actor>
+    <name>Todd Lowe</name>
+    <role>Eric</role>
+    <type>Actor</type>
+    <tmdbid>191277</tmdbid>
+    <imdbid>nm0523067</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Unitas</name>
+    <role>Coach Joe Ewe</role>
+    <type>Actor</type>
+    <tmdbid>1708678</tmdbid>
+    <imdbid>nm1005666</imdbid>
+  </actor>
+  <actor>
+    <name>Joel McCrary</name>
+    <role>Prime Minister Motaz</role>
+    <type>Actor</type>
+    <tmdbid>12223</tmdbid>
+    <imdbid>nm0566906</imdbid>
+  </actor>
+  <actor>
+    <name>Clare Sera</name>
+    <role>Maria Motaz</role>
+    <type>Actor</type>
+    <tmdbid>1274512</tmdbid>
+    <imdbid>nm0784771</imdbid>
+  </actor>
+  <actor>
+    <name>Greg Lewis</name>
+    <role>Siegfried von Troken</role>
+    <type>Actor</type>
+    <tmdbid>33832</tmdbid>
+    <imdbid>nm0507239</imdbid>
+  </actor>
+  <actor>
+    <name>Bonnie Aarons</name>
+    <role>Joy von Troken</role>
+    <type>Actor</type>
+    <tmdbid>87287</tmdbid>
+    <imdbid>nm0007491</imdbid>
+  </actor>
+  <actor>
+    <name>Darwood Chung</name>
+    <role>Emperor Sakamoto</role>
+    <type>Actor</type>
+    <tmdbid>1708683</tmdbid>
+    <imdbid>nm1004161</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Paris</name>
+    <role>Princess Palisades</role>
+    <type>Actor</type>
+    <tmdbid>1708684</tmdbid>
+    <imdbid>nm0661586</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Michalski</name>
+    <role>Scottish Duke</role>
+    <type>Actor</type>
+    <tmdbid>1708688</tmdbid>
+    <imdbid>nm0584673</imdbid>
+  </actor>
+  <actor>
+    <name>Erin O'Reilly</name>
+    <role>Scottish Duchess</role>
+    <type>Actor</type>
+    <tmdbid>1708689</tmdbid>
+    <imdbid>nm0642440</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Restivo</name>
+    <role>Count Vitello</role>
+    <type>Actor</type>
+    <tmdbid>549087</tmdbid>
+    <imdbid>nm0720434</imdbid>
+  </actor>
+  <actor>
+    <name>Brigitta Lauren</name>
+    <role>Lady Lindenlaub</role>
+    <type>Actor</type>
+    <tmdbid>1708713</tmdbid>
+    <imdbid>nm1004586</imdbid>
+  </actor>
+  <actor>
+    <name>Jane Morris</name>
+    <role>Lady Evergreen</role>
+    <type>Actor</type>
+    <tmdbid>13451</tmdbid>
+    <imdbid>nm0606623</imdbid>
+  </actor>
+  <actor>
+    <name>Gary Combs</name>
+    <role>Lord Fricker</role>
+    <type>Actor</type>
+    <tmdbid>999716</tmdbid>
+    <imdbid>nm0173645</imdbid>
+  </actor>
+  <actor>
+    <name>Marvin Braverman</name>
+    <role>State Dinner Waiter</role>
+    <type>Actor</type>
+    <tmdbid>83056</tmdbid>
+    <imdbid>nm0106020</imdbid>
+  </actor>
+  <actor>
+    <name>Allan Kent</name>
+    <role>State Dinner Waiter</role>
+    <type>Actor</type>
+    <tmdbid>1708724</tmdbid>
+    <imdbid>nm0448651</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Glaudini</name>
+    <role>Adolpho</role>
+    <type>Actor</type>
+    <tmdbid>140252</tmdbid>
+    <imdbid>nm0322165</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Ferrell</name>
+    <role>Darrell</role>
+    <type>Actor</type>
+    <tmdbid>101266</tmdbid>
+    <imdbid>nm0274476</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Ross</name>
+    <role>Consulate Maitre D'</role>
+    <type>Actor</type>
+    <tmdbid>106056</tmdbid>
+    <imdbid>nm0743532</imdbid>
+  </actor>
+  <actor>
+    <name>Charles Guardino</name>
+    <role>Mel</role>
+    <type>Actor</type>
+    <tmdbid>177205</tmdbid>
+    <imdbid>nm0345336</imdbid>
+  </actor>
+  <actor>
+    <name>Sparrow Heatley</name>
+    <role>Gretchen</role>
+    <type>Actor</type>
+    <tmdbid>1708777</tmdbid>
+    <imdbid>nm1004438</imdbid>
+  </actor>
+  <actor>
+    <name>Gwenda Perez</name>
+    <role>Helga</role>
+    <type>Actor</type>
+    <tmdbid>1708778</tmdbid>
+    <imdbid>nm1005785</imdbid>
+  </actor>
+  <actor>
+    <name>Barbara Marshall</name>
+    <role>Lady Jerome</role>
+    <type>Actor</type>
+    <tmdbid>1424545</tmdbid>
+    <imdbid>nm0550764</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Denoff</name>
+    <role>Lord Jerome</role>
+    <type>Actor</type>
+    <tmdbid>1229463</tmdbid>
+    <imdbid>nm0219682</imdbid>
+  </actor>
+  <actor>
+    <name>Tracy Reiner</name>
+    <role>Spencer</role>
+    <type>Actor</type>
+    <tmdbid>8189</tmdbid>
+    <imdbid>nm0718021</imdbid>
+  </actor>
+  <actor>
+    <name>Daru Kawalkowski</name>
+    <role>Countess Puck</role>
+    <type>Actor</type>
+    <tmdbid>1708790</tmdbid>
+    <imdbid>nm1004522</imdbid>
+  </actor>
+  <actor>
+    <name>Diane Frazen</name>
+    <role>Ball Guest Diane</role>
+    <type>Actor</type>
+    <tmdbid>1708794</tmdbid>
+    <imdbid>nm0292479</imdbid>
+  </actor>
+  <actor>
+    <name>Stanley Frazen</name>
+    <role>Stanley</role>
+    <type>Actor</type>
+    <tmdbid>32125</tmdbid>
+    <imdbid>nm0292483</imdbid>
+  </actor>
+  <actor>
+    <name>Barbara Nabozny</name>
+    <role>Barbara</role>
+    <type>Actor</type>
+    <tmdbid>1709144</tmdbid>
+    <imdbid>nm0618613</imdbid>
+  </actor>
+  <actor>
+    <name>Ira Glick</name>
+    <role>Dr. Glunk</role>
+    <type>Actor</type>
+    <tmdbid>1709148</tmdbid>
+    <imdbid>nm0322757</imdbid>
+  </actor>
+  <actor>
+    <name>Sol Rosenthal</name>
+    <role>Lawyer Ball Guest</role>
+    <type>Actor</type>
+    <tmdbid>1709149</tmdbid>
+    <imdbid>nm0742830</imdbid>
+  </actor>
+  <actor>
+    <name>Hope Alexander-Willis</name>
+    <role>Lady Caroline</role>
+    <type>Actor</type>
+    <tmdbid>83053</tmdbid>
+    <imdbid>nm0018808</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Allen Price</name>
+    <role>Father Joseph</role>
+    <type>Actor</type>
+    <tmdbid>225804</tmdbid>
+    <imdbid>nm1004863</imdbid>
+  </actor>
+  <actor>
+    <name>Willie Brown</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>196286</tmdbid>
+    <imdbid>nm0114922</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Richwood</name>
+    <role>Mr. Robutusen</role>
+    <type>Actor</type>
+    <tmdbid>31471</tmdbid>
+    <imdbid>nm0725409</imdbid>
+  </actor>
+  <actor>
+    <name>Terry Brown</name>
+    <role>Arthur Washington</role>
+    <type>Actor</type>
+    <tmdbid>1709163</tmdbid>
+    <imdbid>nm0114771</imdbid>
+  </actor>
+  <actor>
+    <name>James Brown Orleans</name>
+    <role>Dr. Motors</role>
+    <type>Actor</type>
+    <tmdbid>1709164</tmdbid>
+    <imdbid>nm0997678</imdbid>
+  </actor>
+  <actor>
+    <name>Rob Zylowski</name>
+    <role>Pizza Delivery Man</role>
+    <type>Actor</type>
+    <tmdbid>1709166</tmdbid>
+    <imdbid>nm1005198</imdbid>
+  </actor>
+  <actor>
+    <name>Karl Makinen</name>
+    <role>Schiavone</role>
+    <type>Actor</type>
+    <tmdbid>1216158</tmdbid>
+    <imdbid>nm0538625</imdbid>
+  </actor>
+  <actor>
+    <name>Sunny Hawks</name>
+    <role>Vivian</role>
+    <type>Actor</type>
+    <tmdbid>1542807</tmdbid>
+  </actor>
+  <actor>
+    <name>Kathy Garver</name>
+    <role>Cable Tourist</role>
+    <type>Actor</type>
+    <tmdbid>1214463</tmdbid>
+    <imdbid>nm0308744</imdbid>
+  </actor>
+  <actor>
+    <name>Erika Young</name>
+    <role>Umbrella Lady</role>
+    <type>Actor</type>
+    <tmdbid>222719</tmdbid>
+    <imdbid>nm0949527</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Sandler</name>
+    <role>Tour Bus Driver</role>
+    <type>Actor</type>
+    <tmdbid>166654</tmdbid>
+    <imdbid>nm0761969</imdbid>
+  </actor>
+  <actor>
+    <name>Shan Elliot</name>
+    <role>Michael's Bandmate</role>
+    <type>Actor</type>
+    <tmdbid>159940</tmdbid>
+    <imdbid>nm0254323</imdbid>
+  </actor>
+  <actor>
+    <name>Trey Carter</name>
+    <role>Michael's Bandmate</role>
+    <type>Actor</type>
+    <tmdbid>1660185</tmdbid>
+    <imdbid>nm1005475</imdbid>
+  </actor>
+  <actor>
+    <name>Bud Markowitz</name>
+    <role>Pear Juggler</role>
+    <type>Actor</type>
+    <tmdbid>1709176</tmdbid>
+    <imdbid>nm0548720</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Thompson</name>
+    <role>DJ Mark</role>
+    <type>Actor</type>
+    <tmdbid>1215608</tmdbid>
+    <imdbid>nm0860461</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Phelps</name>
+    <role>DJ Brian</role>
+    <type>Actor</type>
+    <tmdbid>1229767</tmdbid>
+    <imdbid>nm0679778</imdbid>
+  </actor>
+  <actor>
+    <name>Lily Marshall-Fricker</name>
+    <role>Kid Autograph Seeker</role>
+    <type>Actor</type>
+    <tmdbid>1709182</tmdbid>
+    <imdbid>nm1004663</imdbid>
+  </actor>
+  <actor>
+    <name>Sandra Taylor</name>
+    <role>Suki Sanchez</role>
+    <type>Actor</type>
+    <tmdbid>32291</tmdbid>
+    <imdbid>nm0853140</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Hines</name>
+    <role>Nelson Davenport</role>
+    <type>Actor</type>
+    <tmdbid>210311</tmdbid>
+    <imdbid>nm0385726</imdbid>
+  </actor>
+  <actor>
+    <name>Nicholle Tom</name>
+    <role>Cassie</role>
+    <type>Actor</type>
+    <tmdbid>35241</tmdbid>
+    <imdbid>nm0005497</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Noonan</name>
+    <role>Suki's Cameraman</role>
+    <type>Actor</type>
+    <tmdbid>1709197</tmdbid>
+    <imdbid>nm1121459</imdbid>
+  </actor>
+  <actor>
+    <name>Ali Gage</name>
+    <role>Beach Reporter Ali</role>
+    <type>Actor</type>
+    <tmdbid>552470</tmdbid>
+    <imdbid>nm0300793</imdbid>
+  </actor>
+  <actor>
+    <name>John Moran</name>
+    <role>Beach Photographer</role>
+    <type>Actor</type>
+    <tmdbid>101072</tmdbid>
+    <imdbid>nm1005246</imdbid>
+  </actor>
+  <actor>
+    <name>Tanya DiFrancesco</name>
+    <role>Beach Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1709208</tmdbid>
+    <imdbid>nm1004243</imdbid>
+  </actor>
+  <actor>
+    <name>Shannon Wilcox</name>
+    <role>Ball Reporter</role>
+    <type>Actor</type>
+    <tmdbid>95469</tmdbid>
+    <imdbid>nm0928279</imdbid>
+  </actor>
+  <actor>
+    <name>Tonje Larsgard</name>
+    <role>Ball Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1709209</tmdbid>
+    <imdbid>nm1004584</imdbid>
+  </actor>
+  <actor>
+    <name>Rueben Grundy</name>
+    <role>Street Reporter</role>
+    <type>Actor</type>
+    <tmdbid>175588</tmdbid>
+    <imdbid>nm0344578</imdbid>
+  </actor>
+  <actor>
+    <name>Gwen Holloway</name>
+    <role>Street Reporter</role>
+    <type>Actor</type>
+    <tmdbid>79075</tmdbid>
+    <imdbid>nm0391313</imdbid>
+  </actor>
+  <actor>
+    <name>Lori Sigrist</name>
+    <role>Twin Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1709210</tmdbid>
+    <imdbid>nm0797553</imdbid>
+  </actor>
+  <actor>
+    <name>Terri Sigrist</name>
+    <role>Twin Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1709211</tmdbid>
+    <imdbid>nm0797554</imdbid>
+  </actor>
+  <actor>
+    <name>Andy Arness</name>
+    <role>Teacher (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>928579</tmdbid>
+    <imdbid>nm1060253</imdbid>
+  </actor>
+  <actor>
+    <name>René Auberjonois</name>
+    <role>Philippe Renaldi (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>9807</tmdbid>
+    <imdbid>nm0041281</imdbid>
+  </actor>
+  <actor>
+    <name>Ned Brower</name>
+    <role>Michael's Bandmate (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>80224</tmdbid>
+    <imdbid>nm1101478</imdbid>
+  </actor>
+  <actor>
+    <name>Jodi Essex</name>
+    <role>Model (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1786598</tmdbid>
+  </actor>
+  <actor>
+    <name>Larry Miller</name>
+    <role>Paolo (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1211</tmdbid>
+    <imdbid>nm0588777</imdbid>
+  </actor>
+  <actor>
+    <name>Barry J. Ratcliffe</name>
+    <role>Cop #2 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>84792</tmdbid>
+    <imdbid>nm1315611</imdbid>
+  </actor>
+  <actor>
+    <name>Craig Richards</name>
+    <role>Student's Father (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>932287</tmdbid>
+  </actor>
+  <actor>
+    <name>Terry Wayne</name>
+    <role>Clark (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1300519</tmdbid>
+    <imdbid>nm0915646</imdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Marshall-Fricker</name>
+    <role>Kid Autograph Seeker</role>
+    <type>Actor</type>
+    <tmdbid>2972882</tmdbid>
+  </actor>
+  <director tmdbid="1201" imdbid="nm0005190">Garry Marshall</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2CkcwPi20ms</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=D2WofresyA4</trailer>
+  <rating>6.4</rating>
+  <year>2001</year>
+  <mpaa>G</mpaa>
+  <imdbid>tt0247638</imdbid>
+  <tmdbid>9880</tmdbid>
+  <premiered>2001-08-03</premiered>
+  <releasedate>2001-08-03</releasedate>
+  <criticrating>48</criticrating>
+  <runtime>115</runtime>
+  <country>United States of America</country>
+  <genre>喜剧</genre>
+  <genre>家庭</genre>
+  <genre>爱情</genre>
+  <studio>Bottom of the Ninth Productions</studio>
+  <studio>Walt Disney Pictures</studio>
+  <studio>BrownHouse Productions</studio>
+  <set tmdbcolid="107674">
+    <name>公主日记（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">9880</uniqueid>
+  <uniqueid type="Imdb">tt0247638</uniqueid>
+  <id>tt0247638</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9846751</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6928</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

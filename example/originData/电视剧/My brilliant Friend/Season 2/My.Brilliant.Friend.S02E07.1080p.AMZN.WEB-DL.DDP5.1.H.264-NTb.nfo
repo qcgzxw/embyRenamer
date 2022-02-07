@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[埃琳娜在比萨师范大学结交的男朋友佛朗哥·马里刚刚结束了课程评定，得到了老师们亦褒亦贬的评价之后，就像逃脱了牢笼一般从教室中冲了出去，他拉着埃琳娜疯狂地奔跑，要把她带到一个只有他们二人单独相处的地方，仿佛这个世界不再有其他人的出现。埃琳娜有些不知所措，只顾着跟着他奔跑，这一刻，哪怕是地狱，她也愿意跟着心上人一起前往。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-11-02 00:17:21</dateadded>
+  <title>幽灵</title>
+  <actor>
+    <name>Gaia Girace</name>
+    <role>Lila (Teenager)</role>
+    <type>Actor</type>
+    <tmdbid>2165956</tmdbid>
+    <imdbid>nm10135221</imdbid>
+  </actor>
+  <actor>
+    <name>Margherita Mazzucco</name>
+    <role>Elena (Teenager)</role>
+    <type>Actor</type>
+    <tmdbid>2165955</tmdbid>
+  </actor>
+  <actor>
+    <name>Ludovica Nasti</name>
+    <role>Lila (Younger)</role>
+    <type>Actor</type>
+    <tmdbid>2165954</tmdbid>
+  </actor>
+  <actor>
+    <name>Elisa del Genio</name>
+    <role>Elena (Younger)</role>
+    <type>Actor</type>
+    <tmdbid>2165953</tmdbid>
+  </actor>
+  <actor>
+    <name>Dora Romano</name>
+    <role>Miss Oliviero</role>
+    <type>Actor</type>
+    <tmdbid>1510167</tmdbid>
+    <imdbid>nm0738873</imdbid>
+  </actor>
+  <director>Saverio Costanzo</director>
+  <rating>5</rating>
+  <year>2020</year>
+  <imdbid>tt9413924</imdbid>
+  <tvdbid>7550355</tvdbid>
+  <runtime>61</runtime>
+  <uniqueid type="Imdb">tt9413924</uniqueid>
+  <uniqueid type="Tvdb">7550355</uniqueid>
+  <episode>7</episode>
+  <season>2</season>
+  <aired>2020-03-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10262248</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>60</duration>
+        <durationinseconds>3654</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

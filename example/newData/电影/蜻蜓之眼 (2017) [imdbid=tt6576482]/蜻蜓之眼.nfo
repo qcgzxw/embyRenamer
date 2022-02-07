@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A young woman's life takes a series of unexpected turns after she leaves the Buddhist temple where she has lived most of her adult life.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-10-11 15:20:54</dateadded>
+  <title>蜻蜓之眼</title>
+  <originaltitle>蜻蜓之眼</originaltitle>
+  <actor>
+    <name>Xu Bing</name>
+    <type>Actor</type>
+    <tmdbid>2118125</tmdbid>
+  </actor>
+  <director tmdbid="2118125">Xu Bing</director>
+  <rating>6.5</rating>
+  <year>2017</year>
+  <imdbid>tt6576482</imdbid>
+  <tmdbid>467257</tmdbid>
+  <premiered>2017-08-20</premiered>
+  <releasedate>2017-08-20</releasedate>
+  <criticrating>63</criticrating>
+  <runtime>81</runtime>
+  <country>China</country>
+  <genre>悬疑</genre>
+  <genre>纪录</genre>
+  <studio>Xu Bing Studio</studio>
+  <uniqueid type="Tmdb">467257</uniqueid>
+  <uniqueid type="Imdb">tt6576482</uniqueid>
+  <id>tt6576482</id>
+  <fileinfo>
+    <streamdetails>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127141</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2502761</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>81</duration>
+        <durationinseconds>4883</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+</movie>

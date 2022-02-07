@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　本作改编自芥川赏得主中村文则的同名悬疑小说。即将于最爱的女性步入婚姻殿堂的记者耶云（岩田刚典），现在正在追击采访的是一年前猎奇杀人事件的嫌疑人，天才摄影师木原坂（斋藤工）。慢慢接近事件真相的耶云却掉入了木原坂的危险陷阱，甚至连自己的未婚妻百合子（山本美月）也被牵扯其中。耶云的命运会是——？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-09-07 06:26:26</dateadded>
+  <title>去年冬天与你分手</title>
+  <originaltitle>去年の冬、きみと別れ</originaltitle>
+  <actor>
+    <name>Takanori Iwata</name>
+    <role>Kyosuke Yakumo</role>
+    <type>Actor</type>
+    <tmdbid>1384549</tmdbid>
+    <imdbid>nm5404830</imdbid>
+  </actor>
+  <actor>
+    <name>Mizuki Yamamoto</name>
+    <role>Yuriko Matsuda</role>
+    <type>Actor</type>
+    <tmdbid>1257215</tmdbid>
+    <imdbid>nm4818655</imdbid>
+  </actor>
+  <actor>
+    <name>Takumi Saitoh</name>
+    <role>Yudai Kiharazaka</role>
+    <type>Actor</type>
+    <tmdbid>115700</tmdbid>
+    <imdbid>nm1102191</imdbid>
+  </actor>
+  <actor>
+    <name>Kazuki Kitamura</name>
+    <role>Yoshiki Kobayashi</role>
+    <type>Actor</type>
+    <tmdbid>2542</tmdbid>
+    <imdbid>nm0457556</imdbid>
+  </actor>
+  <actor>
+    <name>Reina Asami</name>
+    <role>Akari Kiharazaka</role>
+    <type>Actor</type>
+    <tmdbid>1417107</tmdbid>
+    <imdbid>nm1794340</imdbid>
+  </actor>
+  <actor>
+    <name>Denden</name>
+    <type>Actor</type>
+    <tmdbid>137028</tmdbid>
+    <imdbid>nm0218942</imdbid>
+  </actor>
+  <actor>
+    <name>Aya Enjoji</name>
+    <type>Actor</type>
+    <tmdbid>559047</tmdbid>
+    <imdbid>nm0258224</imdbid>
+  </actor>
+  <actor>
+    <name>Yasufumi Hayashi</name>
+    <type>Actor</type>
+    <tmdbid>72819</tmdbid>
+    <imdbid>nm0370664</imdbid>
+  </actor>
+  <actor>
+    <name>Masami Horiuchi</name>
+    <type>Actor</type>
+    <tmdbid>555160</tmdbid>
+    <imdbid>nm0394724</imdbid>
+  </actor>
+  <actor>
+    <name>Mai Kikuchi</name>
+    <type>Actor</type>
+    <tmdbid>2132831</tmdbid>
+  </actor>
+  <actor>
+    <name>Katsuya Kobayashi</name>
+    <type>Actor</type>
+    <tmdbid>146455</tmdbid>
+    <imdbid>nm1771771</imdbid>
+  </actor>
+  <actor>
+    <name>Katsuya Maiguma</name>
+    <type>Actor</type>
+    <tmdbid>1762312</tmdbid>
+    <imdbid>nm3956825</imdbid>
+  </actor>
+  <actor>
+    <name>Tamaki Matsuda</name>
+    <type>Actor</type>
+    <tmdbid>2864887</tmdbid>
+  </actor>
+  <actor>
+    <name>Daisuke Nagakura</name>
+    <type>Actor</type>
+    <tmdbid>1112450</tmdbid>
+    <imdbid>nm1001532</imdbid>
+  </actor>
+  <actor>
+    <name>Rento Ohyama</name>
+    <type>Actor</type>
+    <tmdbid>2864888</tmdbid>
+  </actor>
+  <director tmdbid="583203" imdbid="nm1950988">Tomoyuki Takimoto</director>
+  <rating>6.2</rating>
+  <year>2018</year>
+  <imdbid>tt7210252</imdbid>
+  <tmdbid>529865</tmdbid>
+  <premiered>2018-03-10</premiered>
+  <releasedate>2018-03-10</releasedate>
+  <runtime>119</runtime>
+  <genre>悬疑</genre>
+  <uniqueid type="Tmdb">529865</uniqueid>
+  <uniqueid type="Imdb">tt7210252</uniqueid>
+  <id>tt7210252</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11761069</bitrate>
+        <width>1920</width>
+        <height>804</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>118</duration>
+        <durationinseconds>7121</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

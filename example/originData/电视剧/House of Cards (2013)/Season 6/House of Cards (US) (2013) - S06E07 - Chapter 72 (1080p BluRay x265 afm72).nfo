@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[正值中期选举，克莱尔四处奔波造势。在演讲中，她频频指责某利益集团欲对她不利，只因为自己是名女性。还指出该集团开发的app偷窥手机，侵犯隐私，操纵投票。但是对该app的听证会却因部分议员的阻挠而一拖再拖，克莱尔非常不不满，声称将逮捕相关众议员。如果联邦检察官不同意起诉，她会连检察官也一并撤换。此时的比尔焦头烂额，个人资产被冻结，以前支持他的议员也欲脱身。最着急的要属科尔议员，实在不想为邓肯这个毛头小伙闯的祸背锅。安奈特让科尔保持耐心，等中期选举过后，得到参议院多数席位，就能控制司法部，对邓肯的听证自然也会不了了之。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-24 05:48:14</dateadded>
+  <title>第 7 集</title>
+  <actor>
+    <name>Robin Wright</name>
+    <role>Claire Underwood</role>
+    <type>Actor</type>
+    <tmdbid>32</tmdbid>
+    <imdbid>nm0000705</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Kelly</name>
+    <role>Doug Stamper</role>
+    <type>Actor</type>
+    <tmdbid>50217</tmdbid>
+    <imdbid>nm0446672</imdbid>
+  </actor>
+  <actor>
+    <name>Constance Zimmer</name>
+    <role>Janine Skorsky</role>
+    <type>Actor</type>
+    <tmdbid>156204</tmdbid>
+    <imdbid>nm0956603</imdbid>
+  </actor>
+  <actor>
+    <name>Patricia Clarkson</name>
+    <role>Jane Davis</role>
+    <type>Actor</type>
+    <tmdbid>1276</tmdbid>
+    <imdbid>nm0165101</imdbid>
+  </actor>
+  <actor>
+    <name>Derek Cecil</name>
+    <role>Seth Grayson</role>
+    <type>Actor</type>
+    <tmdbid>60117</tmdbid>
+    <imdbid>nm0147689</imdbid>
+  </actor>
+  <actor>
+    <name>Boris McGiver</name>
+    <role>Tom Hammerschmidt</role>
+    <type>Actor</type>
+    <tmdbid>151432</tmdbid>
+    <imdbid>nm0569409</imdbid>
+  </actor>
+  <actor>
+    <name>Lars Mikkelsen</name>
+    <role>Viktor Petrov</role>
+    <type>Actor</type>
+    <tmdbid>71158</tmdbid>
+    <imdbid>nm0586565</imdbid>
+  </actor>
+  <actor>
+    <name>Cody Fern</name>
+    <role>Duncan Shepherd</role>
+    <type>Actor</type>
+    <tmdbid>1197895</tmdbid>
+    <imdbid>nm3719144</imdbid>
+  </actor>
+  <actor>
+    <name>Campbell Scott</name>
+    <role>Mark Usher</role>
+    <type>Actor</type>
+    <tmdbid>55152</tmdbid>
+    <imdbid>nm0001714</imdbid>
+  </actor>
+  <actor>
+    <name>Greg Kinnear</name>
+    <role>Bill Shepherd</role>
+    <type>Actor</type>
+    <tmdbid>17141</tmdbid>
+    <imdbid>nm0001427</imdbid>
+  </actor>
+  <actor>
+    <name>Diane Lane</name>
+    <role>Annette Shepherd</role>
+    <type>Actor</type>
+    <tmdbid>2882</tmdbid>
+    <imdbid>nm0000178</imdbid>
+  </actor>
+  <actor>
+    <name>Boris Kodjoe</name>
+    <role>Brett Cole</role>
+    <type>GuestStar</type>
+    <tmdbid>80758</tmdbid>
+    <imdbid>nm0462673</imdbid>
+  </actor>
+  <actor>
+    <name>Ron Canada</name>
+    <role>Vincent Abruzzo</role>
+    <type>GuestStar</type>
+    <tmdbid>85170</tmdbid>
+    <imdbid>nm0133474</imdbid>
+  </actor>
+  <actor>
+    <name>Athena Karkanis</name>
+    <role>Melody Cruz</role>
+    <type>GuestStar</type>
+    <tmdbid>51037</tmdbid>
+    <imdbid>nm1920701</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Holm</name>
+    <role>Nathan Green</role>
+    <type>GuestStar</type>
+    <tmdbid>1595506</tmdbid>
+    <imdbid>nm3124435</imdbid>
+  </actor>
+  <actor>
+    <name>Susan Pourfar</name>
+    <role>Nora Cafferty</role>
+    <type>GuestStar</type>
+    <tmdbid>205783</tmdbid>
+    <imdbid>nm1581522</imdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Tigar</name>
+    <role>Walter Doyle</role>
+    <type>GuestStar</type>
+    <tmdbid>87128</tmdbid>
+    <imdbid>nm0863024</imdbid>
+  </actor>
+  <actor>
+    <name>Julian Gamble</name>
+    <role>Max Braegher</role>
+    <type>GuestStar</type>
+    <tmdbid>163917</tmdbid>
+    <imdbid>nm0303792</imdbid>
+  </actor>
+  <actor>
+    <name>Linda Marie Larson</name>
+    <role>Jennifer Baumgarten</role>
+    <type>GuestStar</type>
+    <tmdbid>2016880</tmdbid>
+  </actor>
+  <director>Alik Sakharov</director>
+  <rating>5.4</rating>
+  <year>2018</year>
+  <imdbid>tt7576206</imdbid>
+  <tvdbid>6564870</tvdbid>
+  <runtime>57</runtime>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt7576206</uniqueid>
+  <uniqueid type="Tvdb">6564870</uniqueid>
+  <episode>7</episode>
+  <season>6</season>
+  <aired>2018-11-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4784417</bitrate>
+        <width>1920</width>
+        <height>960</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>57</duration>
+        <durationinseconds>3437</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

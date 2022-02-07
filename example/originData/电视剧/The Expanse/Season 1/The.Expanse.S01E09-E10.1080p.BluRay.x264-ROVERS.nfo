@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[七周前朱莉乘坐斯科普里号想要拦截生化武器，岂料她反被神秘人劫持，随后神秘人发出求救信号最终引诱击毁了捕冰船。朱莉设法逃回到爱神星却不慎沾染生化病毒，她的身体产生恐怖异变。父亲得知朱莉死亡，他开启了神秘计划。约翰逊拿出火星军官遗体上的芯片资料，声称是地球人毁掉了唐纳哥号。爱神星宣布发生辐射危害，所有人都被关进避难所，而这是一场有计划的阴谋。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-07 19:42:34</dateadded>
+  <title>临界物质</title>
+  <actor>
+    <name>Steven Strait</name>
+    <role>Jim Holden</role>
+    <type>Actor</type>
+    <tmdbid>54815</tmdbid>
+    <imdbid>nm1711829</imdbid>
+  </actor>
+  <actor>
+    <name>Cas Anvar</name>
+    <role>Alex Kamal</role>
+    <type>Actor</type>
+    <tmdbid>59214</tmdbid>
+    <imdbid>nm0031679</imdbid>
+  </actor>
+  <actor>
+    <name>Dominique Tipper</name>
+    <role>Naomi Nagata</role>
+    <type>Actor</type>
+    <tmdbid>1361876</tmdbid>
+    <imdbid>nm4625680</imdbid>
+  </actor>
+  <actor>
+    <name>Wes Chatham</name>
+    <role>Amos Burton</role>
+    <type>Actor</type>
+    <tmdbid>51682</tmdbid>
+    <imdbid>nm1434871</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Jane</name>
+    <role>Detective Josephus Miller</role>
+    <type>Actor</type>
+    <tmdbid>11155</tmdbid>
+    <imdbid>nm0005048</imdbid>
+  </actor>
+  <actor>
+    <name>Shohreh Aghdashloo</name>
+    <role>Chrisjen Avasarala</role>
+    <type>Actor</type>
+    <tmdbid>21041</tmdbid>
+    <imdbid>nm0013037</imdbid>
+  </actor>
+  <actor>
+    <name>Florence Faivre</name>
+    <role>Julie Mao</role>
+    <type>Actor</type>
+    <tmdbid>88794</tmdbid>
+    <imdbid>nm1552467</imdbid>
+  </actor>
+  <actor>
+    <name>Tommy Chang</name>
+    <role>Civilian</role>
+    <type>GuestStar</type>
+    <tmdbid>201067</tmdbid>
+  </actor>
+  <actor>
+    <name>Ric Garcia</name>
+    <role>Street Dealer</role>
+    <type>GuestStar</type>
+    <tmdbid>1886949</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Grant</name>
+    <role>Wan</role>
+    <type>GuestStar</type>
+    <tmdbid>1494851</tmdbid>
+  </actor>
+  <actor>
+    <name>Craig Henry</name>
+    <role>Bouillotte Dealer</role>
+    <type>GuestStar</type>
+    <tmdbid>1522268</tmdbid>
+  </actor>
+  <actor>
+    <name>Allen Keng</name>
+    <role>CPM #1</role>
+    <type>GuestStar</type>
+    <tmdbid>1470370</tmdbid>
+    <imdbid>nm1357275</imdbid>
+  </actor>
+  <actor>
+    <name>Elisa Moolecherry</name>
+    <role>Scientist</role>
+    <type>GuestStar</type>
+    <tmdbid>101258</tmdbid>
+  </actor>
+  <actor>
+    <name>Rick Parker</name>
+    <role>Eros Straggler #1</role>
+    <type>GuestStar</type>
+    <tmdbid>2431494</tmdbid>
+  </actor>
+  <actor>
+    <name>Konima Parkinson-Jones</name>
+    <role>CPM #5</role>
+    <type>GuestStar</type>
+    <tmdbid>1046539</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Popowich</name>
+    <role>Darren</role>
+    <type>GuestStar</type>
+    <tmdbid>102703</tmdbid>
+  </actor>
+  <actor>
+    <name>Dax Ravina</name>
+    <role>Mikey Ko / Comp#2</role>
+    <type>GuestStar</type>
+    <tmdbid>108896</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Akin</name>
+    <role>Craig</role>
+    <type>GuestStar</type>
+    <tmdbid>5946</tmdbid>
+  </actor>
+  <actor>
+    <name>Elias Toufexis</name>
+    <role>Kenzo</role>
+    <type>GuestStar</type>
+    <tmdbid>58907</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Hamman</name>
+    <role>Rutger</role>
+    <type>GuestStar</type>
+    <tmdbid>1860393</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Hanchard</name>
+    <role>Inspector Sematimba</role>
+    <type>GuestStar</type>
+    <tmdbid>1260782</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Kash</name>
+    <role>Antony Dresden</role>
+    <type>GuestStar</type>
+    <tmdbid>10210</tmdbid>
+  </actor>
+  <actor>
+    <name>Shawn Doyle</name>
+    <role>Sadavir Errinwright</role>
+    <type>GuestStar</type>
+    <tmdbid>25878</tmdbid>
+    <imdbid>nm0236495</imdbid>
+  </actor>
+  <actor>
+    <name>François Chau</name>
+    <role>Jules-Pierre Mao</role>
+    <type>GuestStar</type>
+    <tmdbid>60851</tmdbid>
+    <imdbid>nm0154236</imdbid>
+  </actor>
+  <actor>
+    <name>Chad L. Coleman</name>
+    <role>Frederick Lucius Johnson</role>
+    <type>GuestStar</type>
+    <tmdbid>124645</tmdbid>
+  </actor>
+  <director>Terry McDonough</director>
+  <rating>7.788</rating>
+  <year>2016</year>
+  <imdbid>tt3983528</imdbid>
+  <tvdbid>5305130</tvdbid>
+  <runtime>80</runtime>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <tvrageid>1065742161</tvrageid>
+  <uniqueid type="Imdb">tt3983528</uniqueid>
+  <uniqueid type="Tvdb">5305130</uniqueid>
+  <uniqueid type="TvRage">1065742161</uniqueid>
+  <episode>9</episode>
+  <episodenumberend>10</episodenumberend>
+  <season>1</season>
+  <aired>2016-02-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11669397</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>80</duration>
+        <durationinseconds>4827</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

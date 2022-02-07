@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[奶奶见到了戴尔的前妻，琼。谢尔登被迫与不情愿的大学生一起做一个小组项目。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-11 23:29:30</dateadded>
+  <title>一个男朋友的前妻和一个好运的头摩擦</title>
+  <actor>
+    <name>Iain Armitage</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1684536</tmdbid>
+    <imdbid>nm8071137</imdbid>
+  </actor>
+  <actor>
+    <name>Zoe Perry</name>
+    <role>Mary Cooper</role>
+    <type>Actor</type>
+    <tmdbid>133450</tmdbid>
+    <imdbid>nm1409365</imdbid>
+  </actor>
+  <actor>
+    <name>Lance Barber</name>
+    <role>George Cooper Sr.</role>
+    <type>Actor</type>
+    <tmdbid>1212111</tmdbid>
+    <imdbid>nm1115741</imdbid>
+  </actor>
+  <actor>
+    <name>Montana Jordan</name>
+    <role>Georgie Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1817307</tmdbid>
+    <imdbid>nm7718664</imdbid>
+  </actor>
+  <actor>
+    <name>Raegan Revord</name>
+    <role>Missy Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1575317</tmdbid>
+    <imdbid>nm6862942</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Potts</name>
+    <role>Connie Tucker</role>
+    <type>Actor</type>
+    <tmdbid>8873</tmdbid>
+    <imdbid>nm0001633</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Hobby</name>
+    <role>Jeff Difford</role>
+    <type>Actor</type>
+    <tmdbid>1536526</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Nolan Bateman</name>
+    <role>Keith</role>
+    <type>GuestStar</type>
+    <tmdbid>1783263</tmdbid>
+  </actor>
+  <actor>
+    <name>Mac Jarman</name>
+    <role>Evan</role>
+    <type>GuestStar</type>
+    <tmdbid>2034417</tmdbid>
+    <imdbid>nm9691607</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Ackerman</name>
+    <role>Nate</role>
+    <type>GuestStar</type>
+    <tmdbid>131821</tmdbid>
+    <imdbid>nm2089320</imdbid>
+  </actor>
+  <actor>
+    <name>Taylor Spreitler</name>
+    <role>Sam</role>
+    <type>GuestStar</type>
+    <tmdbid>188013</tmdbid>
+    <imdbid>nm1837588</imdbid>
+  </actor>
+  <actor>
+    <name>Craig T. Nelson</name>
+    <role>Dale Ballard</role>
+    <type>GuestStar</type>
+    <tmdbid>8977</tmdbid>
+    <imdbid>nm0005266</imdbid>
+  </actor>
+  <actor>
+    <name>Wyatt McClure</name>
+    <role>Billy Sparks</role>
+    <type>GuestStar</type>
+    <tmdbid>2162097</tmdbid>
+    <imdbid>nm5976411</imdbid>
+  </actor>
+  <actor>
+    <name>London Cheshire</name>
+    <role>Marcus Larson</role>
+    <type>GuestStar</type>
+    <tmdbid>2382678</tmdbid>
+    <imdbid>nm9397913</imdbid>
+  </actor>
+  <actor>
+    <name>Wallace Shawn</name>
+    <role>John Sturgis</role>
+    <type>GuestStar</type>
+    <tmdbid>12900</tmdbid>
+    <imdbid>nm0001728</imdbid>
+  </actor>
+  <actor>
+    <name>Reba McEntire</name>
+    <role>June</role>
+    <type>GuestStar</type>
+    <tmdbid>21986</tmdbid>
+    <imdbid>nm0005207</imdbid>
+  </actor>
+  <rating>5.8</rating>
+  <year>2020</year>
+  <imdbid>tt11681374</imdbid>
+  <tvdbid>7564119</tvdbid>
+  <runtime>19</runtime>
+  <genre>Comedy</genre>
+  <uniqueid type="Imdb">tt11681374</uniqueid>
+  <uniqueid type="Tvdb">7564119</uniqueid>
+  <episode>15</episode>
+  <season>3</season>
+  <aired>2020-02-13</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>14222578</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>18</duration>
+        <durationinseconds>1117</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

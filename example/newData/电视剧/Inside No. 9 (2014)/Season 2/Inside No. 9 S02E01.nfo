@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[来自法国的火车上的一群乘客试图睡觉，但隔间迅速填满，睡眠的可能性逐渐消失。然后其中一名乘客突然死亡。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-06 12:35:58</dateadded>
+  <title>卧铺车厢</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Hesmondhalgh</name>
+    <role>Kath</role>
+    <type>GuestStar</type>
+    <tmdbid>543629</tmdbid>
+    <imdbid>nm0381420</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Benton</name>
+    <role>Les</role>
+    <type>GuestStar</type>
+    <tmdbid>77638</tmdbid>
+    <imdbid>nm0072949</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Gunning</name>
+    <role>Shona</role>
+    <type>GuestStar</type>
+    <tmdbid>1196101</tmdbid>
+    <imdbid>nm2934977</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Whitehall</name>
+    <role>Hugo</role>
+    <type>GuestStar</type>
+    <tmdbid>212285</tmdbid>
+    <imdbid>nm3099754</imdbid>
+  </actor>
+  <actor>
+    <name>George Glaves</name>
+    <role>Yves</role>
+    <type>GuestStar</type>
+    <tmdbid>1457438</tmdbid>
+  </actor>
+  <director>Guillem Morales</director>
+  <rating>7.833</rating>
+  <year>2015</year>
+  <imdbid>tt4513394</imdbid>
+  <tvdbid>5157101</tvdbid>
+  <runtime>29</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Horror</genre>
+  <uniqueid type="Imdb">tt4513394</uniqueid>
+  <uniqueid type="Tvdb">5157101</uniqueid>
+  <episode>1</episode>
+  <season>2</season>
+  <aired>2015-03-26</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10676267</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1756</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

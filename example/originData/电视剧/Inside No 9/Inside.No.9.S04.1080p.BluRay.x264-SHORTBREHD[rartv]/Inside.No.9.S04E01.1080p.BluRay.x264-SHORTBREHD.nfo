@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[在酒店桑给巴尔的服务生弗雷德欢迎Rico王子和他的看护人，奸诈的亨利。 王子的双Gus将女友Amber送到酒店，同时自杀的格林先生也办理入住手续.Henry的目的是处理Rico，由妓女Tracey帮助处理，但Amber则是另一位客人罗伯特。 在订单恢复和双胞胎重新团聚之前会产生很多混乱的结果。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-06 08:17:42</dateadded>
+  <title>桑泽巴酒店</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Jaygann Ayeh</name>
+    <role>Fred</role>
+    <type>GuestStar</type>
+    <tmdbid>1278496</tmdbid>
+    <imdbid>nm2245275</imdbid>
+  </actor>
+  <actor>
+    <name>Rory Kinnear</name>
+    <role>Prince Rico / Gus</role>
+    <type>GuestStar</type>
+    <tmdbid>139549</tmdbid>
+    <imdbid>nm1239499</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Paterson</name>
+    <role>Mr. Green</role>
+    <type>GuestStar</type>
+    <tmdbid>104795</tmdbid>
+    <imdbid>nm0665473</imdbid>
+  </actor>
+  <actor>
+    <name>Marcia Warren</name>
+    <role>Alice</role>
+    <type>GuestStar</type>
+    <tmdbid>1212145</tmdbid>
+    <imdbid>nm0912941</imdbid>
+  </actor>
+  <actor>
+    <name>Hattie Morahan</name>
+    <role>Amber</role>
+    <type>GuestStar</type>
+    <tmdbid>56103</tmdbid>
+    <imdbid>nm0602455</imdbid>
+  </actor>
+  <actor>
+    <name>Helen Monks</name>
+    <role>Colette</role>
+    <type>GuestStar</type>
+    <tmdbid>1437581</tmdbid>
+    <imdbid>nm1452509</imdbid>
+  </actor>
+  <actor>
+    <name>Tanya Franks</name>
+    <role>Tracey</role>
+    <type>GuestStar</type>
+    <tmdbid>934422</tmdbid>
+    <imdbid>nm0291694</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Eldon</name>
+    <role>Vince</role>
+    <type>GuestStar</type>
+    <tmdbid>39185</tmdbid>
+    <imdbid>nm0253126</imdbid>
+  </actor>
+  <director>David Kerr</director>
+  <rating>7.167</rating>
+  <year>2018</year>
+  <imdbid>tt6478244</imdbid>
+  <tvdbid>6175253</tvdbid>
+  <runtime>29</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Horror</genre>
+  <uniqueid type="Imdb">tt6478244</uniqueid>
+  <uniqueid type="Tvdb">6175253</uniqueid>
+  <episode>1</episode>
+  <season>4</season>
+  <aired>2018-01-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10706105</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1752</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ssa</codec>
+        <micodec>ssa</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

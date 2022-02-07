@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Villanelle finds herself trapped in a dangerous situation, while Eve pursues a potential lead.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-06-24 16:56:46</dateadded>
+  <title>我不想要自由</title>
+  <actor>
+    <name>Sandra Oh</name>
+    <role>Eve Polastri</role>
+    <type>Actor</type>
+    <tmdbid>25540</tmdbid>
+    <imdbid>nm0644897</imdbid>
+  </actor>
+  <actor>
+    <name>Jodie Comer</name>
+    <role>Villanelle</role>
+    <type>Actor</type>
+    <tmdbid>1388593</tmdbid>
+    <imdbid>nm3069650</imdbid>
+  </actor>
+  <actor>
+    <name>Fiona Shaw</name>
+    <role>Carolyn Martens</role>
+    <type>Actor</type>
+    <tmdbid>10981</tmdbid>
+    <imdbid>nm0789716</imdbid>
+  </actor>
+  <actor>
+    <name>Kirby Howell-Baptiste</name>
+    <role>Elena Felton</role>
+    <type>Actor</type>
+    <tmdbid>1532312</tmdbid>
+    <imdbid>nm4624730</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Bodnia</name>
+    <role>Konstantin</role>
+    <type>Actor</type>
+    <tmdbid>3398</tmdbid>
+    <imdbid>nm0091035</imdbid>
+  </actor>
+  <actor>
+    <name>Owen McDonnell</name>
+    <role>Niko Polastri</role>
+    <type>Actor</type>
+    <tmdbid>365333</tmdbid>
+    <imdbid>nm1711652</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Delaney</name>
+    <role>Kenny Stowton</role>
+    <type>Actor</type>
+    <tmdbid>2021417</tmdbid>
+    <imdbid>nm7780301</imdbid>
+  </actor>
+  <actor>
+    <name>Zhenya Leverett</name>
+    <role>Agniya</role>
+    <type>GuestStar</type>
+    <tmdbid>2107249</tmdbid>
+  </actor>
+  <actor>
+    <name>Rinat Khismatouline</name>
+    <role>Leon</role>
+    <type>GuestStar</type>
+    <tmdbid>1615572</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily McIllwraith</name>
+    <role>Inga</role>
+    <type>GuestStar</type>
+    <tmdbid>2107251</tmdbid>
+  </actor>
+  <actor>
+    <name>Lina Garvardt</name>
+    <role>Prison Guard 4</role>
+    <type>GuestStar</type>
+    <tmdbid>2107252</tmdbid>
+  </actor>
+  <actor>
+    <name>Viorica Bantas</name>
+    <role>School Receptionist</role>
+    <type>GuestStar</type>
+    <tmdbid>2107253</tmdbid>
+  </actor>
+  <actor>
+    <name>Gin Mar</name>
+    <role>Van Guard</role>
+    <type>GuestStar</type>
+    <tmdbid>2107254</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Byron</name>
+    <role>Anton</role>
+    <type>GuestStar</type>
+    <tmdbid>1052209</tmdbid>
+    <imdbid>nm1794753</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Vodovoz</name>
+    <role>Prison Guard 3</role>
+    <type>GuestStar</type>
+    <tmdbid>1500879</tmdbid>
+    <imdbid>nm2380292</imdbid>
+  </actor>
+  <actor>
+    <name>Susan Lynch</name>
+    <role>Anna</role>
+    <type>GuestStar</type>
+    <tmdbid>42571</tmdbid>
+  </actor>
+  <director>Damon Thomas</director>
+  <rating>7.9</rating>
+  <year>2018</year>
+  <imdbid>tt7081314</imdbid>
+  <tvdbid>6668425</tvdbid>
+  <runtime>42</runtime>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt7081314</uniqueid>
+  <uniqueid type="Tvdb">6668425</uniqueid>
+  <episode>7</episode>
+  <season>1</season>
+  <aired>2018-05-20</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11039510</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>42</duration>
+        <durationinseconds>2549</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

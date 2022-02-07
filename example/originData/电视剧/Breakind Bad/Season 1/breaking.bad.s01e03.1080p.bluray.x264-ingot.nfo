@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Marie 误以为小 Walter 吸大麻，于是请缉毒局（DEA）工作的丈夫 Hank 出马，带他去看看吸大麻的后果，以此来使小 Walter 停止吸食大麻。Walter 带了吃的到地下室给 Krazy-8，却突然昏倒过去。等他醒来时，他与 Crazy-8 竟然开始交谈起来，并告诉对方自己的病情，当 Walter 决定放了他时，却突然发现了对方想要杀死自己的真正目的，出于自卫，Walter 最后杀死了 Crazy-8。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 16:38:44</dateadded>
+  <title>实难挽回</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Max Arciniega</name>
+    <role>Krazy-8</role>
+    <type>GuestStar</type>
+    <tmdbid>1046460</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmen Serano</name>
+    <role>Carmen Molina</role>
+    <type>GuestStar</type>
+    <tmdbid>115688</tmdbid>
+    <imdbid>nm0784831</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Hecht</name>
+    <role>Gretchen Schwartz</role>
+    <type>GuestStar</type>
+    <tmdbid>14984</tmdbid>
+    <imdbid>nm0372961</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Michael Quezada</name>
+    <role>Steven Gomez</role>
+    <type>GuestStar</type>
+    <tmdbid>61535</tmdbid>
+    <imdbid>nm2366374</imdbid>
+  </actor>
+  <director>Adam Bernstein</director>
+  <rating>8.084</rating>
+  <year>2008</year>
+  <imdbid>tt1054725</imdbid>
+  <tvdbid>349235</tvdbid>
+  <runtime>48</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <tvrageid>637644</tvrageid>
+  <uniqueid type="Imdb">tt1054725</uniqueid>
+  <uniqueid type="Tvdb">349235</uniqueid>
+  <uniqueid type="TvRage">637644</uniqueid>
+  <episode>3</episode>
+  <season>1</season>
+  <aired>2008-02-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9745425</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>48</duration>
+        <durationinseconds>2891</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

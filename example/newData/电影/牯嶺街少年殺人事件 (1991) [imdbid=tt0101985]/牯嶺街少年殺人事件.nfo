@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[《牯岭街少年杀人事件》（A Brighter Summer Day）是一部改编自台湾青少年真实杀人事件的电影作品。
+ 故事讲述了20世纪60年代初在台湾的一宗杀人事件的始末。
+ 　　结识小明（杨静怡）前，小四（张震）是典型的乖仔，是父母的希望和兄妹的骄傲（一家人指望他考上名牌大学将来提升全家的社会地位），他有一个喜欢摇滚乐的自称“小猫王（王启赞）”的好友，两人虽会去树林看人幽会，但过的是与周围诸多在“小公园”混的少年人完全两样的生活。
+ 　　喜欢上小明后，小四便像跌进一个无底深渊，开始被外界的各种力量牵着鼻子走。新识仰慕对象honey（林鸿铭）猝死，一向敬重的父亲的自尊与精神因为某次事件严重受损，加上将一次次“欺骗玩弄”他感情的小明“看透”，血气方刚又有很强道德感的小四终于走上犯罪的道路，期望用自己的刀结束事件的根源。但小四不知的是，他眼中的根源只是这条食物链中微不足道的一环。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-19 20:55:22</dateadded>
+  <title>牯岭街少年杀人事件</title>
+  <originaltitle>牯嶺街少年殺人事件</originaltitle>
+  <actor>
+    <name>Chang Chen</name>
+    <role>Xiao Si'r (Zhang Zhen)</role>
+    <type>Actor</type>
+    <tmdbid>1622</tmdbid>
+    <imdbid>nm0151654</imdbid>
+  </actor>
+  <actor>
+    <name>Lisa Yang</name>
+    <role>Ming (Liu Zhiming)</role>
+    <type>Actor</type>
+    <tmdbid>150162</tmdbid>
+  </actor>
+  <actor>
+    <name>Chang Kuo-Chu</name>
+    <role>Father</role>
+    <type>Actor</type>
+    <tmdbid>1088685</tmdbid>
+    <imdbid>nm0151755</imdbid>
+  </actor>
+  <actor>
+    <name>Elaine Jin</name>
+    <role>Mother</role>
+    <type>Actor</type>
+    <tmdbid>103598</tmdbid>
+    <imdbid>nm0157805</imdbid>
+  </actor>
+  <actor>
+    <name>Chuan Wang</name>
+    <role>Eldest Sister</role>
+    <type>Actor</type>
+    <tmdbid>1293234</tmdbid>
+  </actor>
+  <actor>
+    <name>Chang Han</name>
+    <role>Lao Er (Elder brother)</role>
+    <type>Actor</type>
+    <tmdbid>1089570</tmdbid>
+    <imdbid>nm0359217</imdbid>
+  </actor>
+  <actor>
+    <name>Chiang Hsiu-Chiung</name>
+    <role>Middle sister</role>
+    <type>Actor</type>
+    <tmdbid>1083229</tmdbid>
+    <imdbid>nm0944594</imdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Lai</name>
+    <role>Youngest sister</role>
+    <type>Actor</type>
+    <tmdbid>1554172</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Chi-tsan</name>
+    <role>Cat (Wang Mao)</role>
+    <type>Actor</type>
+    <tmdbid>1554173</tmdbid>
+    <imdbid>nm0910860</imdbid>
+  </actor>
+  <actor>
+    <name>Lawrence Ko</name>
+    <role>Airplane (Ji Fei)</role>
+    <type>Actor</type>
+    <tmdbid>150609</tmdbid>
+    <imdbid>nm0461940</imdbid>
+  </actor>
+  <actor>
+    <name>Tan Chih-Kang</name>
+    <role>Ma</role>
+    <type>Actor</type>
+    <tmdbid>1554174</tmdbid>
+  </actor>
+  <actor>
+    <name>Chang Ming-Hsin</name>
+    <role>Underpants (Mingxin)</role>
+    <type>Actor</type>
+    <tmdbid>1554175</tmdbid>
+  </actor>
+  <actor>
+    <name>Jung Chun-Lung</name>
+    <role>Sex Bomb (Chang Po-wen)</role>
+    <type>Actor</type>
+    <tmdbid>1554176</tmdbid>
+  </actor>
+  <actor>
+    <name>Hui-Kuo Chou</name>
+    <role>Tiger (Xiao Hu)</role>
+    <type>Actor</type>
+    <tmdbid>2968392</tmdbid>
+  </actor>
+  <actor>
+    <name>Hsiao-Tsui Tang</name>
+    <role>Jade (Xiao Cui)</role>
+    <type>Actor</type>
+    <tmdbid>2968393</tmdbid>
+  </actor>
+  <actor>
+    <name>Hung-Ming Lin</name>
+    <role>Honey</role>
+    <type>Actor</type>
+    <tmdbid>2498804</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Bosen</name>
+    <role>Deuce</role>
+    <type>Actor</type>
+    <tmdbid>2468221</tmdbid>
+  </actor>
+  <actor>
+    <name>Hung-Yu Chen</name>
+    <role>Sly (Huatou)</role>
+    <type>Actor</type>
+    <tmdbid>2968394</tmdbid>
+  </actor>
+  <actor>
+    <name>Hsu Ming</name>
+    <role>Wang</role>
+    <type>Actor</type>
+    <tmdbid>1554124</tmdbid>
+  </actor>
+  <actor>
+    <name>Cho Ming</name>
+    <role>Uncle Fat</role>
+    <type>Actor</type>
+    <tmdbid>2658968</tmdbid>
+  </actor>
+  <actor>
+    <name>Chen Shiang-Chyi</name>
+    <role>Little Doctor's fiancée</role>
+    <type>Actor</type>
+    <tmdbid>71395</tmdbid>
+  </actor>
+  <actor>
+    <name>Weiming Wang</name>
+    <role>Ka Wu</role>
+    <type>Actor</type>
+    <tmdbid>1371123</tmdbid>
+  </actor>
+  <actor>
+    <name>Chin Tsai</name>
+    <role>Wang's wife</role>
+    <type>Actor</type>
+    <tmdbid>1618084</tmdbid>
+  </actor>
+  <actor>
+    <name>Yi-Wen Chen</name>
+    <role>Horsecart (Mache)</role>
+    <type>Actor</type>
+    <tmdbid>150165</tmdbid>
+    <imdbid>nm0155439</imdbid>
+  </actor>
+  <actor>
+    <name>Tang Ru-Yun</name>
+    <role>Mrs. Xia</role>
+    <type>Actor</type>
+    <tmdbid>555380</tmdbid>
+    <imdbid>nm0849332</imdbid>
+  </actor>
+  <actor>
+    <name>Li-Mei Chen</name>
+    <role>Clinic nurse</role>
+    <type>Actor</type>
+    <tmdbid>2468255</tmdbid>
+  </actor>
+  <actor>
+    <name>Ye-Ming Wang</name>
+    <role>Baldie (Guangtou)</role>
+    <type>Actor</type>
+    <tmdbid>2468265</tmdbid>
+  </actor>
+  <actor>
+    <name>Lang Tsu-Yun</name>
+    <role>Policewoman</role>
+    <type>Actor</type>
+    <tmdbid>1255148</tmdbid>
+  </actor>
+  <director tmdbid="143035" imdbid="nm0945981">Edward Yang</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=n4pHZ_IrKDk</trailer>
+  <rating>8.4</rating>
+  <year>1991</year>
+  <mpaa>NR</mpaa>
+  <imdbid>tt0101985</imdbid>
+  <tmdbid>15804</tmdbid>
+  <premiered>1991-07-27</premiered>
+  <releasedate>1991-07-27</releasedate>
+  <criticrating>100</criticrating>
+  <runtime>237</runtime>
+  <country>Taiwan</country>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <studio>Yang &amp; His Gang Filmmakers</studio>
+  <studio>Jane Balfour Films</studio>
+  <uniqueid type="Tmdb">15804</uniqueid>
+  <uniqueid type="Imdb">tt0101985</uniqueid>
+  <id>tt0101985</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4733657</bitrate>
+        <width>1920</width>
+        <height>1036</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>236</duration>
+        <durationinseconds>14197</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>1</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

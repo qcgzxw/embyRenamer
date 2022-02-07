@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[谢耳朵和一个学姐成了朋友，这个学姐给他介绍了一个新的科学领域。此外，玛丽和乔治在如何处理谢尔顿蓬勃发展的社交生活上也存在分歧。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-08-04 11:52:32</dateadded>
+  <title>白云石，苹果片，和一个神秘的女人</title>
+  <actor>
+    <name>Iain Armitage</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1684536</tmdbid>
+    <imdbid>nm8071137</imdbid>
+  </actor>
+  <actor>
+    <name>Zoe Perry</name>
+    <role>Mary Cooper</role>
+    <type>Actor</type>
+    <tmdbid>133450</tmdbid>
+    <imdbid>nm1409365</imdbid>
+  </actor>
+  <actor>
+    <name>Lance Barber</name>
+    <role>George Cooper Sr.</role>
+    <type>Actor</type>
+    <tmdbid>1212111</tmdbid>
+    <imdbid>nm1115741</imdbid>
+  </actor>
+  <actor>
+    <name>Montana Jordan</name>
+    <role>Georgie Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1817307</tmdbid>
+    <imdbid>nm7718664</imdbid>
+  </actor>
+  <actor>
+    <name>Raegan Revord</name>
+    <role>Missy Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1575317</tmdbid>
+    <imdbid>nm6862942</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Potts</name>
+    <role>Connie Tucker</role>
+    <type>Actor</type>
+    <tmdbid>8873</tmdbid>
+    <imdbid>nm0001633</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Anjelika Washington</name>
+    <role>Libby</role>
+    <type>GuestStar</type>
+    <tmdbid>2117083</tmdbid>
+    <imdbid>nm5682314</imdbid>
+  </actor>
+  <actor>
+    <name>Cedric Begley</name>
+    <role>Doug</role>
+    <type>GuestStar</type>
+    <tmdbid>2433228</tmdbid>
+    <imdbid>nm9360948</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Phuong</name>
+    <role>Tam Nguyen</role>
+    <type>GuestStar</type>
+    <tmdbid>2181372</tmdbid>
+    <imdbid>nm7910690</imdbid>
+  </actor>
+  <rating>6</rating>
+  <year>2018</year>
+  <imdbid>tt7752360</imdbid>
+  <tvdbid>6553165</tvdbid>
+  <runtime>19</runtime>
+  <genre>Comedy</genre>
+  <uniqueid type="Imdb">tt7752360</uniqueid>
+  <uniqueid type="Tvdb">6553165</uniqueid>
+  <episode>15</episode>
+  <season>1</season>
+  <aired>2018-03-08</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11056493</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>18</duration>
+        <durationinseconds>1127</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

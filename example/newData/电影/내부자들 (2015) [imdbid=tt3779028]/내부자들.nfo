@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[电影《内部者们》改编自尹太浩作家的同名漫画，是通过论述委员及国会议员、大企业高管、黑帮、刑警、纪录片作家等犀利解剖韩国社会腐败及不正之风的作品。李秉宪在影片中将饰演作为有权者的走狗做尽坏事，变成废人之后举刀复仇的角色。预计将在片中展现此前未曾演绎过的粗犷强烈形象，令人们更加充满期待。曹承佑饰演"禹长勋检察官"一角,是个在检察官组织中让踢人就踢人让掩盖罪行就掩盖罪行的腐败政治人的阻击手电影。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-12 01:18:58</dateadded>
+  <title>局内人</title>
+  <originaltitle>내부자들</originaltitle>
+  <actor>
+    <name>Lee Byung-hun</name>
+    <role>Ahn Sang-goo</role>
+    <type>Actor</type>
+    <tmdbid>25002</tmdbid>
+  </actor>
+  <actor>
+    <name>Cho Seung-woo</name>
+    <role>Woo Jang-hoon</role>
+    <type>Actor</type>
+    <tmdbid>126495</tmdbid>
+  </actor>
+  <actor>
+    <name>Baek Yoon-sik</name>
+    <role>Lee Kang-hee</role>
+    <type>Actor</type>
+    <tmdbid>229752</tmdbid>
+    <imdbid>nm1328575</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Kyung-young</name>
+    <role>Jang Pil-woo</role>
+    <type>Actor</type>
+    <tmdbid>231476</tmdbid>
+    <imdbid>nm0497710</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Hong-pa</name>
+    <role>Oh Hyun-soo</role>
+    <type>Actor</type>
+    <tmdbid>1287909</tmdbid>
+    <imdbid>nm3789450</imdbid>
+  </actor>
+  <actor>
+    <name>Bae Sung-woo</name>
+    <role>Park Jong-pal</role>
+    <type>Actor</type>
+    <tmdbid>573794</tmdbid>
+    <imdbid>nm3755026</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Dae-myung</name>
+    <role>Go Sang-chul</role>
+    <type>Actor</type>
+    <tmdbid>1330423</tmdbid>
+  </actor>
+  <actor>
+    <name>Jo Woo-jin</name>
+    <role>Managing director Jo</role>
+    <type>Actor</type>
+    <tmdbid>1566012</tmdbid>
+    <imdbid>nm4623753</imdbid>
+  </actor>
+  <actor>
+    <name>Lee El</name>
+    <role>Joo Eun-hye</role>
+    <type>Actor</type>
+    <tmdbid>1257661</tmdbid>
+    <imdbid>nm5338560</imdbid>
+  </actor>
+  <actor>
+    <name>Jeong Man-sik</name>
+    <role>Chief Prosecutor</role>
+    <type>Actor</type>
+    <tmdbid>1044800</tmdbid>
+    <imdbid>nm3362169</imdbid>
+  </actor>
+  <actor>
+    <name>Hwang Byeong-guk</name>
+    <role>Film producer</role>
+    <type>Actor</type>
+    <tmdbid>1294772</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Eui-sung</name>
+    <role>Editor-in-chief</role>
+    <type>Actor</type>
+    <tmdbid>1347175</tmdbid>
+    <imdbid>nm0453440</imdbid>
+  </actor>
+  <actor>
+    <name>Jo Jae-yoon</name>
+    <role>Mr. Bang</role>
+    <type>Actor</type>
+    <tmdbid>566375</tmdbid>
+    <imdbid>nm3294000</imdbid>
+  </actor>
+  <actor>
+    <name>Park Jin-woo</name>
+    <role>Mr. Lee</role>
+    <type>Actor</type>
+    <tmdbid>1631996</tmdbid>
+  </actor>
+  <actor>
+    <name>Nam Il-woo</name>
+    <role>Jang-hoon's father</role>
+    <type>Actor</type>
+    <tmdbid>1299277</tmdbid>
+    <imdbid>nm1962664</imdbid>
+  </actor>
+  <actor>
+    <name>Jo Deok-jae</name>
+    <role>Detective Choi</role>
+    <type>Actor</type>
+    <tmdbid>564848</tmdbid>
+  </actor>
+  <actor>
+    <name>Son Jong-hak</name>
+    <role>Director of Foreign Cooperation</role>
+    <type>Actor</type>
+    <tmdbid>1333030</tmdbid>
+    <imdbid>nm5601908</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Byung-ok</name>
+    <role>Senior Presidential Secretary for Civil Affairs (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>77182</tmdbid>
+    <imdbid>nm1366028</imdbid>
+  </actor>
+  <actor>
+    <name>Yoo Jae-myung</name>
+    <role>Reporter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1336804</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Seong-geun</name>
+    <role>Prosecutor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2519095</tmdbid>
+  </actor>
+  <director tmdbid="1292897">Woo Min-ho</director>
+  <rating>6.9</rating>
+  <year>2015</year>
+  <mpaa>HK-III</mpaa>
+  <imdbid>tt3779028</imdbid>
+  <tmdbid>293413</tmdbid>
+  <premiered>2015-11-19</premiered>
+  <releasedate>2015-11-19</releasedate>
+  <runtime>180</runtime>
+  <country>South Korea</country>
+  <genre>剧情</genre>
+  <genre>犯罪</genre>
+  <genre>动作</genre>
+  <studio>Showbox</studio>
+  <studio>Hive Media Corp</studio>
+  <uniqueid type="Tmdb">293413</uniqueid>
+  <uniqueid type="Imdb">tt3779028</uniqueid>
+  <id>tt3779028</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11866485</bitrate>
+        <width>1920</width>
+        <height>1036</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>180</duration>
+        <durationinseconds>10829</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

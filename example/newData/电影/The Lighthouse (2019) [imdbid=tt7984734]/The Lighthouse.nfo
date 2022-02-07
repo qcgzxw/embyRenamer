@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[1890年代，两名灯塔管理员试图在他们生活在偏僻而神秘的新英格兰岛上时保持理智。随着雾角的摇摆声响彻空中，沉默寡言的前伐木工人埃弗莱姆·温斯洛和两鬓斑白的灯塔管理员托马斯·韦克踏上了十九世纪末新英格兰沿岸一个僻静且了无生气的岛屿。 在接下来四周艰苦的工作和不利的条件下 ，俩沉默寡言男人除了彼此以外，没有其他人的陪伴，被迫忍受，仇怨与日俱增。 然后，在恶劣的预兆中，狂怒而无休的暴风使看守员受困于本就不宜居的火山岩，助长了长期的野性饥饿；极度痛苦；使人躁狂的隔绝以及恐怖的酒后幻觉。现在，精神错乱得令人窒息。 还可以从无形的牢狱中逃脱吗？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-03 04:02:05</dateadded>
+  <title>灯塔</title>
+  <originaltitle>The Lighthouse</originaltitle>
+  <actor>
+    <name>Robert Pattinson</name>
+    <role>Thomas Howard</role>
+    <type>Actor</type>
+    <tmdbid>11288</tmdbid>
+  </actor>
+  <actor>
+    <name>Willem Dafoe</name>
+    <role>Thomas Wake</role>
+    <type>Actor</type>
+    <tmdbid>5293</tmdbid>
+    <imdbid>nm0000353</imdbid>
+  </actor>
+  <actor>
+    <name>Valeriia Karaman</name>
+    <role>Mermaid</role>
+    <type>Actor</type>
+    <tmdbid>2309944</tmdbid>
+  </actor>
+  <actor>
+    <name>Logan Hawkes</name>
+    <role>Ephraim Winslow</role>
+    <type>Actor</type>
+    <tmdbid>2507696</tmdbid>
+  </actor>
+  <actor>
+    <name>Kyla Nicolle</name>
+    <role>Woman on the Rocks</role>
+    <type>Actor</type>
+    <tmdbid>2507697</tmdbid>
+  </actor>
+  <actor>
+    <name>Shaun Clarke</name>
+    <role>Departing Wickie</role>
+    <type>Actor</type>
+    <tmdbid>1520954</tmdbid>
+  </actor>
+  <actor>
+    <name>Pierre Richard</name>
+    <role>Departing Assistant Wickie</role>
+    <type>Actor</type>
+    <tmdbid>1583204</tmdbid>
+  </actor>
+  <actor>
+    <name>Preston Hudson</name>
+    <role>Tender Mate</role>
+    <type>Actor</type>
+    <tmdbid>2248893</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Cruts</name>
+    <role>Tender Mate</role>
+    <type>Actor</type>
+    <tmdbid>2507699</tmdbid>
+  </actor>
+  <director tmdbid="138781">Robert Eggers</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Hyag7lR8CPA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=42_UHhpq530</trailer>
+  <rating>7.5</rating>
+  <year>2019</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt7984734</imdbid>
+  <tmdbid>503919</tmdbid>
+  <premiered>2019-10-18</premiered>
+  <releasedate>2019-10-18</releasedate>
+  <criticrating>90</criticrating>
+  <runtime>109</runtime>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>奇幻</genre>
+  <genre>惊悚</genre>
+  <genre>恐怖</genre>
+  <studio>A24</studio>
+  <studio>RT Features</studio>
+  <studio>New Regency Pictures</studio>
+  <studio>Parts and Labor</studio>
+  <studio>Maiden Voyage Pictures</studio>
+  <uniqueid type="Tmdb">503919</uniqueid>
+  <uniqueid type="Imdb">tt7984734</uniqueid>
+  <id>tt7984734</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>12849993</bitrate>
+        <width>1296</width>
+        <height>1080</height>
+        <aspect>6:5</aspect>
+        <aspectratio>6:5</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6561</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

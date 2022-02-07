@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[谢尔顿在网上发起了一场恶战，而米茜则站在了棒球队的男生面前。而且，当老乔治和姥姥的新男友在一起时，她不高兴。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-11 23:30:15</dateadded>
+  <title>猩猩和鼓励随地吐痰的文化</title>
+  <actor>
+    <name>Iain Armitage</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1684536</tmdbid>
+    <imdbid>nm8071137</imdbid>
+  </actor>
+  <actor>
+    <name>Zoe Perry</name>
+    <role>Mary Cooper</role>
+    <type>Actor</type>
+    <tmdbid>133450</tmdbid>
+    <imdbid>nm1409365</imdbid>
+  </actor>
+  <actor>
+    <name>Lance Barber</name>
+    <role>George Cooper Sr.</role>
+    <type>Actor</type>
+    <tmdbid>1212111</tmdbid>
+    <imdbid>nm1115741</imdbid>
+  </actor>
+  <actor>
+    <name>Montana Jordan</name>
+    <role>Georgie Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1817307</tmdbid>
+    <imdbid>nm7718664</imdbid>
+  </actor>
+  <actor>
+    <name>Raegan Revord</name>
+    <role>Missy Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1575317</tmdbid>
+    <imdbid>nm6862942</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Potts</name>
+    <role>Connie Tucker</role>
+    <type>Actor</type>
+    <tmdbid>8873</tmdbid>
+    <imdbid>nm0001633</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Hobby</name>
+    <role>Jeff Difford</role>
+    <type>Actor</type>
+    <tmdbid>1536526</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Mac Jarman</name>
+    <role>Rick</role>
+    <type>GuestStar</type>
+    <tmdbid>2034417</tmdbid>
+    <imdbid>nm9691607</imdbid>
+  </actor>
+  <actor>
+    <name>Kerri Medders</name>
+    <role>Lisa</role>
+    <type>GuestStar</type>
+    <tmdbid>1617121</tmdbid>
+    <imdbid>nm3419118</imdbid>
+  </actor>
+  <actor>
+    <name>Isabel May</name>
+    <role>Veronica Duncan</role>
+    <type>GuestStar</type>
+    <tmdbid>1972974</tmdbid>
+    <imdbid>nm8908475</imdbid>
+  </actor>
+  <actor>
+    <name>Craig T. Nelson</name>
+    <role>Dale Ballard</role>
+    <type>GuestStar</type>
+    <tmdbid>8977</tmdbid>
+    <imdbid>nm0005266</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Phuong</name>
+    <role>Tam Nguyen</role>
+    <type>GuestStar</type>
+    <tmdbid>2181372</tmdbid>
+    <imdbid>nm7910690</imdbid>
+  </actor>
+  <actor>
+    <name>Wyatt McClure</name>
+    <role>Billy Sparks</role>
+    <type>GuestStar</type>
+    <tmdbid>2162097</tmdbid>
+    <imdbid>nm5976411</imdbid>
+  </actor>
+  <actor>
+    <name>Wallace Shawn</name>
+    <role>John Sturgis</role>
+    <type>GuestStar</type>
+    <tmdbid>12900</tmdbid>
+    <imdbid>nm0001728</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa Peterman</name>
+    <role>Brenda Sparks</role>
+    <type>GuestStar</type>
+    <tmdbid>145816</tmdbid>
+    <imdbid>nm0676292</imdbid>
+  </actor>
+  <rating>6.8</rating>
+  <year>2019</year>
+  <imdbid>tt11154582</imdbid>
+  <tvdbid>7441980</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <uniqueid type="Imdb">tt11154582</uniqueid>
+  <uniqueid type="Tvdb">7441980</uniqueid>
+  <episode>7</episode>
+  <season>3</season>
+  <aired>2019-11-14</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>17561868</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>20</duration>
+        <durationinseconds>1229</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[在一座山间小城中，一对低配劫匪、一个落魄的泼皮保安、一个身体残疾却性格彪悍的毒舌女以及一系列生活在社会不同轨迹上的小人物，在一个貌似平常的日子里，因为一把丢失的老枪和一桩当天发生在城中的乌龙劫案，从而被阴差阳错地拧到一起，发生的一幕幕令人啼笑皆非的荒诞喜剧。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-01-09 05:50:51</dateadded>
+  <title>无名之辈</title>
+  <originaltitle>无名之辈</originaltitle>
+  <actor>
+    <name>Chen Jianbin</name>
+    <role>Ma Xianyong</role>
+    <type>Actor</type>
+    <tmdbid>931172</tmdbid>
+  </actor>
+  <actor>
+    <name>Ren Suxi</name>
+    <role>Ma Jiaqi</role>
+    <type>Actor</type>
+    <tmdbid>1696089</tmdbid>
+    <imdbid>nm8524411</imdbid>
+  </actor>
+  <actor>
+    <name>Zhang Yu</name>
+    <role>Hu Guangsheng</role>
+    <type>Actor</type>
+    <tmdbid>2074441</tmdbid>
+    <imdbid>nm9636805</imdbid>
+  </actor>
+  <actor>
+    <name>Wang Yanhui</name>
+    <role>Gao Ming</role>
+    <type>Actor</type>
+    <tmdbid>575866</tmdbid>
+    <imdbid>nm3754323</imdbid>
+  </actor>
+  <actor>
+    <name>Kong Jiu</name>
+    <role>Wang Shuncai</role>
+    <type>Actor</type>
+    <tmdbid>128027</tmdbid>
+  </actor>
+  <actor>
+    <name>Pan Binlong</name>
+    <role>Li haigen</role>
+    <type>Actor</type>
+    <tmdbid>2086256</tmdbid>
+    <imdbid>nm5000213</imdbid>
+  </actor>
+  <actor>
+    <name>Ma Yin-yin</name>
+    <role>Zhao Hongxia</role>
+    <type>Actor</type>
+    <tmdbid>1396636</tmdbid>
+  </actor>
+  <actor>
+    <name>Cheng Yi</name>
+    <role>Liu Wenhong</role>
+    <type>Actor</type>
+    <tmdbid>1591652</tmdbid>
+  </actor>
+  <actor>
+    <name>Deng Enxi</name>
+    <role>Ma Yiyi</role>
+    <type>Actor</type>
+    <tmdbid>1780718</tmdbid>
+  </actor>
+  <actor>
+    <name>Shi Ce</name>
+    <type>Actor</type>
+    <tmdbid>1945662</tmdbid>
+    <imdbid>nm9619786</imdbid>
+  </actor>
+  <director tmdbid="2151104">Rao Xiaozhi</director>
+  <rating>6.9</rating>
+  <year>2018</year>
+  <imdbid>tt9282616</imdbid>
+  <tmdbid>554205</tmdbid>
+  <premiered>2018-11-15</premiered>
+  <releasedate>2018-11-15</releasedate>
+  <criticrating>20</criticrating>
+  <runtime>108</runtime>
+  <country>China</country>
+  <genre>喜剧</genre>
+  <genre>惊悚</genre>
+  <studio>Emperor Motion Pictures</studio>
+  <uniqueid type="Tmdb">554205</uniqueid>
+  <uniqueid type="Imdb">tt9282616</uniqueid>
+  <id>tt9282616</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6312111</bitrate>
+        <width>3840</width>
+        <height>1616</height>
+        <aspect>240:101</aspect>
+        <aspectratio>240:101</aspectratio>
+        <framerate>24.000021</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>107</duration>
+        <durationinseconds>6461</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>62841</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,386 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一个寒冷的冬日夜晚迷人的单身汉塞利格曼在小巷里发现被揍的乔，他将她带回家公寓，帮她治疗伤口，并问起她的生活，投入的倾听了乔的人生8个章节，一个女人从出生到50岁的性欲旅程，繁复而多样的人生故事，其间伴随着联想和突发事件，充满了野性与诗意。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-06-29 04:40:55</dateadded>
+  <title>女性瘾者：第一部</title>
+  <originaltitle>Nymphomaniac: Vol. I</originaltitle>
+  <actor>
+    <name>Charlotte Gainsbourg</name>
+    <role>Joe</role>
+    <type>Actor</type>
+    <tmdbid>4273</tmdbid>
+    <imdbid>nm0001250</imdbid>
+  </actor>
+  <actor>
+    <name>Stellan Skarsgård</name>
+    <role>Seligman</role>
+    <type>Actor</type>
+    <tmdbid>1640</tmdbid>
+    <imdbid>nm0001745</imdbid>
+  </actor>
+  <actor>
+    <name>Stacy Martin</name>
+    <role>Young Joe</role>
+    <type>Actor</type>
+    <tmdbid>1137823</tmdbid>
+    <imdbid>nm5237479</imdbid>
+  </actor>
+  <actor>
+    <name>Shia LaBeouf</name>
+    <role>Jerôme</role>
+    <type>Actor</type>
+    <tmdbid>10959</tmdbid>
+    <imdbid>nm0479471</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Slater</name>
+    <role>Joe's Father</role>
+    <type>Actor</type>
+    <tmdbid>2224</tmdbid>
+    <imdbid>nm0000225</imdbid>
+  </actor>
+  <actor>
+    <name>Uma Thurman</name>
+    <role>Mrs. H</role>
+    <type>Actor</type>
+    <tmdbid>139</tmdbid>
+    <imdbid>nm0000235</imdbid>
+  </actor>
+  <actor>
+    <name>Sophie Kennedy Clark</name>
+    <role>B</role>
+    <type>Actor</type>
+    <tmdbid>1151957</tmdbid>
+    <imdbid>nm4080531</imdbid>
+  </actor>
+  <actor>
+    <name>Connie Nielsen</name>
+    <role>Joe's Mother</role>
+    <type>Actor</type>
+    <tmdbid>935</tmdbid>
+    <imdbid>nm0001567</imdbid>
+  </actor>
+  <actor>
+    <name>Ananya Berg</name>
+    <role>Joe - 10 Years</role>
+    <type>Actor</type>
+    <tmdbid>1385628</tmdbid>
+    <imdbid>nm6174040</imdbid>
+  </actor>
+  <actor>
+    <name>Jens Albinus</name>
+    <role>S</role>
+    <type>Actor</type>
+    <tmdbid>6121</tmdbid>
+  </actor>
+  <actor>
+    <name>Anders Hove</name>
+    <role>Odin</role>
+    <type>Actor</type>
+    <tmdbid>1566</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon Böer</name>
+    <role>Man Uninterested</role>
+    <type>Actor</type>
+    <tmdbid>1104730</tmdbid>
+  </actor>
+  <actor>
+    <name>Felicity Gilbert</name>
+    <role>Secretary</role>
+    <type>Actor</type>
+    <tmdbid>1269681</tmdbid>
+  </actor>
+  <actor>
+    <name>Clayton Nemrow</name>
+    <role>Married Man on Train</role>
+    <type>Actor</type>
+    <tmdbid>1170767</tmdbid>
+  </actor>
+  <actor>
+    <name>James Northcote</name>
+    <role>Young Lad 1 on Train</role>
+    <type>Actor</type>
+    <tmdbid>1362119</tmdbid>
+  </actor>
+  <actor>
+    <name>Saskia Reeves</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>13363</tmdbid>
+  </actor>
+  <actor>
+    <name>Cyron Melville</name>
+    <role>A</role>
+    <type>Actor</type>
+    <tmdbid>112733</tmdbid>
+  </actor>
+  <actor>
+    <name>Hugo Speer</name>
+    <role>Mr. H</role>
+    <type>Actor</type>
+    <tmdbid>2251</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesper Christensen</name>
+    <role>Jerôme's Uncle</role>
+    <type>Actor</type>
+    <tmdbid>2244</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Gilbert Cotton</name>
+    <role>Doctor 1</role>
+    <type>Actor</type>
+    <tmdbid>126958</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicolas Bro</name>
+    <role>F</role>
+    <type>Actor</type>
+    <tmdbid>15086</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Gade Bjerrum</name>
+    <role>G</role>
+    <type>Actor</type>
+    <tmdbid>1444097</tmdbid>
+  </actor>
+  <actor>
+    <name>Ronja Rissmann</name>
+    <role>Joe - 2 Years</role>
+    <type>Actor</type>
+    <tmdbid>1444098</tmdbid>
+  </actor>
+  <actor>
+    <name>Maja Arsovic</name>
+    <role>Joe - 7 years</role>
+    <type>Actor</type>
+    <tmdbid>1444099</tmdbid>
+    <imdbid>nm6167276</imdbid>
+  </actor>
+  <actor>
+    <name>Sofie Kasten</name>
+    <role>B - 10 Years</role>
+    <type>Actor</type>
+    <tmdbid>1444100</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Hawkins</name>
+    <role>Young Lad 2 on Train</role>
+    <type>Actor</type>
+    <tmdbid>1444101</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Burrell</name>
+    <role>Man 1 on Train</role>
+    <type>Actor</type>
+    <tmdbid>49491</tmdbid>
+  </actor>
+  <actor>
+    <name>Andreas Grötzinger</name>
+    <role>Man 2 on Train</role>
+    <type>Actor</type>
+    <tmdbid>1444103</tmdbid>
+  </actor>
+  <actor>
+    <name>Tomas Spencer</name>
+    <role>Conductor</role>
+    <type>Actor</type>
+    <tmdbid>54464</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesse Inman</name>
+    <role>Man A Having Sex</role>
+    <type>Actor</type>
+    <tmdbid>1444112</tmdbid>
+  </actor>
+  <actor>
+    <name>Christoph Schechinger</name>
+    <role>Man B Having Sex</role>
+    <type>Actor</type>
+    <tmdbid>1439733</tmdbid>
+  </actor>
+  <actor>
+    <name>David Halina</name>
+    <role>Man C Having Sex</role>
+    <type>Actor</type>
+    <tmdbid>1329094</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonas Baeck</name>
+    <role>Man D Having Sex</role>
+    <type>Actor</type>
+    <tmdbid>1444115</tmdbid>
+  </actor>
+  <actor>
+    <name>Katharina Rübertus</name>
+    <role>Joe's Girlfriend - 18 Years</role>
+    <type>Actor</type>
+    <tmdbid>1444116</tmdbid>
+  </actor>
+  <actor>
+    <name>Inga Behring</name>
+    <role>Joe's Girlfriend - 18 Years</role>
+    <type>Actor</type>
+    <tmdbid>1444117</tmdbid>
+  </actor>
+  <actor>
+    <name>Lisa Matschke</name>
+    <role>Joe's Girlfriend - 18 Years</role>
+    <type>Actor</type>
+    <tmdbid>1444118</tmdbid>
+  </actor>
+  <actor>
+    <name>Moritz Tellmann</name>
+    <role>Doctor Performing Abortion</role>
+    <type>Actor</type>
+    <tmdbid>1444119</tmdbid>
+  </actor>
+  <actor>
+    <name>Johannes Kienast</name>
+    <role>Man Who Cannot Touch Joe</role>
+    <type>Actor</type>
+    <tmdbid>1444120</tmdbid>
+  </actor>
+  <actor>
+    <name>Frankie Dawson</name>
+    <role>H's Boy 1</role>
+    <type>Actor</type>
+    <tmdbid>1444121</tmdbid>
+  </actor>
+  <actor>
+    <name>George Dawson</name>
+    <role>H's Boy 2</role>
+    <type>Actor</type>
+    <tmdbid>994453</tmdbid>
+  </actor>
+  <actor>
+    <name>Harry Dawson</name>
+    <role>H's Boy 3</role>
+    <type>Actor</type>
+    <tmdbid>1367900</tmdbid>
+  </actor>
+  <actor>
+    <name>Markus Tomczyk</name>
+    <role>Young Man in Hospital</role>
+    <type>Actor</type>
+    <tmdbid>553003</tmdbid>
+  </actor>
+  <actor>
+    <name>Christoph Jöde</name>
+    <role>Man in Window</role>
+    <type>Actor</type>
+    <tmdbid>1327193</tmdbid>
+  </actor>
+  <actor>
+    <name>Morgan Hartley</name>
+    <role>B - 12 years (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1444127</tmdbid>
+    <imdbid>nm6364543</imdbid>
+  </actor>
+  <director tmdbid="42" imdbid="nm0001885">Lars von Trier</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=w7-UH6d_Oyo</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8V0O3hf_JMk</trailer>
+  <rating>6.9</rating>
+  <year>2013</year>
+  <mpaa>NR</mpaa>
+  <imdbid>tt1937390</imdbid>
+  <tmdbid>258216</tmdbid>
+  <premiered>2013-12-25</premiered>
+  <releasedate>2013-12-25</releasedate>
+  <criticrating>76</criticrating>
+  <runtime>117</runtime>
+  <country>Belgium</country>
+  <country>Denmark</country>
+  <country>France</country>
+  <country>Germany</country>
+  <country>United Kingdom</country>
+  <genre>剧情</genre>
+  <studio>Zentropa Entertainments</studio>
+  <studio>Les Films du Losange</studio>
+  <studio>Concorde Filmverleih</studio>
+  <studio>Caviar</studio>
+  <studio>Slot Machine</studio>
+  <studio>Zentropa International Köln</studio>
+  <studio>Artificial Eye</studio>
+  <studio>Heimatfilm</studio>
+  <studio>Film i Väst</studio>
+  <studio>Ciné+</studio>
+  <studio>Canal+</studio>
+  <studio>Eurimages</studio>
+  <studio>Danmarks Radio (DR)</studio>
+  <studio>Zenbelgie BVBA</studio>
+  <studio>Groupe Grand Accord</studio>
+  <set tmdbcolid="258664">
+    <name>女性瘾者（系列）</name>
+  </set>
+  <uniqueid type="Imdb">tt1937390</uniqueid>
+  <uniqueid type="Tmdb">258216</uniqueid>
+  <id>tt1937390</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3749075</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7040</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

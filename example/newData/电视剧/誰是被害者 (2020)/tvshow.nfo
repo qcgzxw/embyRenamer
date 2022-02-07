@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[　　改编自推理小说家「天地无限」（徐瑞良）的作品《第四名被害者》
+
+　　原著描述一起震惊全台湾的连续杀人案在半年多前发生后，嫌犯方梦鱼坚决不肯透露被害者遗体下落，却在临终之前，暗示还有第四名被害者，并吐露已将受害者遗体线索透过律师交给他的学生周雨洁，让整起案件重回媒体版面。
+
+　　随着媒体扑天盖地的攻势，真相慢慢被掩盖，幕后的真凶正要对第四名被害者下手……]]></plot>
+  <outline><![CDATA[　　改编自推理小说家「天地无限」（徐瑞良）的作品《第四名被害者》
+
+　　原著描述一起震惊全台湾的连续杀人案在半年多前发生后，嫌犯方梦鱼坚决不肯透露被害者遗体下落，却在临终之前，暗示还有第四名被害者，并吐露已将受害者遗体线索透过律师交给他的学生周雨洁，让整起案件重回媒体版面。
+
+　　随着媒体扑天盖地的攻势，真相慢慢被掩盖，幕后的真凶正要对第四名被害者下手……]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-15 16:06:29</dateadded>
+  <title>谁是被害者</title>
+  <originaltitle>誰是被害者</originaltitle>
+  <actor>
+    <name>Zhang Xiaoquan</name>
+    <role>Fang Yi-Jen</role>
+    <type>Actor</type>
+    <tmdbid>126717</tmdbid>
+    <imdbid>nm2432847</imdbid>
+  </actor>
+  <actor>
+    <name>Tiffany Hsu</name>
+    <role>Hsu Hai-Yin</role>
+    <type>Actor</type>
+    <tmdbid>1245709</tmdbid>
+    <imdbid>nm3136967</imdbid>
+  </actor>
+  <actor>
+    <name>Wang Shih Sian</name>
+    <role>Chao Cheng-Kuan</role>
+    <type>Actor</type>
+    <tmdbid>1260986</tmdbid>
+    <imdbid>nm3017616</imdbid>
+  </actor>
+  <actor>
+    <name>Ruby Lin</name>
+    <role>Li Ya Jun</role>
+    <type>Actor</type>
+    <tmdbid>113311</tmdbid>
+    <imdbid>nm0510948</imdbid>
+  </actor>
+  <actor>
+    <name>Ding Ning</name>
+    <role>Su Ke Yun</role>
+    <type>Actor</type>
+    <tmdbid>1375776</tmdbid>
+  </actor>
+  <actor>
+    <name>River Huang</name>
+    <role>You Cheng Hao</role>
+    <type>Actor</type>
+    <tmdbid>1580562</tmdbid>
+  </actor>
+  <actor>
+    <name>Cheng Jen-Shuo</name>
+    <role>Zhuang Bing Yao</role>
+    <type>Actor</type>
+    <tmdbid>1630179</tmdbid>
+    <imdbid>nm7144002</imdbid>
+  </actor>
+  <actor>
+    <name>Hsia Ching-ting</name>
+    <role>Xia Jing Ting</role>
+    <type>Actor</type>
+    <tmdbid>1300132</tmdbid>
+    <imdbid>nm0398740</imdbid>
+  </actor>
+  <actor>
+    <name>Moon Lee</name>
+    <role>Chiang Hsiao-Meng</role>
+    <type>Actor</type>
+    <tmdbid>2843063</tmdbid>
+    <imdbid>nm11498263</imdbid>
+  </actor>
+  <actor>
+    <name>Honduras</name>
+    <role>Sun Yong Zhen</role>
+    <type>Actor</type>
+    <tmdbid>581375</tmdbid>
+    <imdbid>nm5356727</imdbid>
+  </actor>
+  <actor>
+    <name>Ma Nien-Hsien</name>
+    <role>Hui Zi</role>
+    <type>Actor</type>
+    <tmdbid>127685</tmdbid>
+    <imdbid>nm3085495</imdbid>
+  </actor>
+  <rating>7.7</rating>
+  <year>2020</year>
+  <mpaa>KR-19</mpaa>
+  <imdb_id>tt12079212</imdb_id>
+  <tmdbid>101146</tmdbid>
+  <premiered>2020-04-30</premiered>
+  <releasedate>2020-04-30</releasedate>
+  <runtime>64</runtime>
+  <genre>剧情</genre>
+  <genre>犯罪</genre>
+  <genre>悬疑</genre>
+  <studio>Netflix</studio>
+  <uniqueid type="Imdb">tt12079212</uniqueid>
+  <uniqueid type="Tmdb">101146</uniqueid>
+  <uniqueid type="Tvdb">376747</uniqueid>
+  <tvdbid>376747</tvdbid>
+  <id>376747</id>
+  <episodeguide>
+    <url cache="376747.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/376747/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

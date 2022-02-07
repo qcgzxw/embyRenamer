@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　华探长张铁柱打拼十几年才有了探长地位，此人嫉恶如仇不事逢迎，与新任督察罗sir多有摩擦，辛苦破案结果反被后者刁难。另一方面，悍匪“法官”一伙购枪策划大行动，偷车贼伟仔被法官收为外围助手，向其提供犯罪用车。法官与手下狂牛等人洗劫赌档，同一天伟仔因偷车嫌疑被张铁柱抓捕入监，赌档事发，罗sir不顾张铁柱作证将伟仔定为嫌疑人，令张与伟仔二人大为不满。张铁柱将伟仔释放，同时要求伟仔合作抓捕法官一伙。购入武器的法官一伙战力大增，行事愈发嚣张，与其他帮派当街火并，伟仔被卷入杀人案件，只得配合张铁柱，一警一贼终于开始合作……]]></plot>
+  <outline><![CDATA[霹雳先锋]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-04 14:19:46</dateadded>
+  <title>霹雳先锋</title>
+  <originaltitle>霹雳先锋</originaltitle>
+  <actor>
+    <name>Danny Lee Sau-Yin</name>
+    <role>Cheung Ti Chu</role>
+    <type>Actor</type>
+    <tmdbid>26784</tmdbid>
+    <imdbid>nm0497097</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Chow</name>
+    <role>Boy</role>
+    <type>Actor</type>
+    <tmdbid>57607</tmdbid>
+    <imdbid>nm0159507</imdbid>
+  </actor>
+  <actor>
+    <name>Shing Fui-On</name>
+    <role>Judge</role>
+    <type>Actor</type>
+    <tmdbid>119447</tmdbid>
+    <imdbid>nm0793924</imdbid>
+  </actor>
+  <actor>
+    <name>William Ho Ka-Kui</name>
+    <role>Chicken</role>
+    <type>Actor</type>
+    <tmdbid>1134729</tmdbid>
+    <imdbid>nm6051252</imdbid>
+  </actor>
+  <actor>
+    <name>Tommy Wong</name>
+    <role>Bull</role>
+    <type>Actor</type>
+    <tmdbid>1135394</tmdbid>
+    <imdbid>nm0939209</imdbid>
+  </actor>
+  <actor>
+    <name>Victor Hon Kwan</name>
+    <role>Smut</role>
+    <type>Actor</type>
+    <tmdbid>1138759</tmdbid>
+  </actor>
+  <actor>
+    <name>Ricky Yi Fan-Wai</name>
+    <role>Inspector Lo</role>
+    <type>Actor</type>
+    <tmdbid>1356792</tmdbid>
+  </actor>
+  <actor>
+    <name>Ken Lo</name>
+    <role>Kong</role>
+    <type>Actor</type>
+    <tmdbid>70690</tmdbid>
+    <imdbid>nm0516310</imdbid>
+  </actor>
+  <actor>
+    <name>Chiu Jun-Chiu</name>
+    <role>Sgt Chiu</role>
+    <type>Actor</type>
+    <tmdbid>1417064</tmdbid>
+  </actor>
+  <actor>
+    <name>Wong Aau</name>
+    <role>Pickpocket</role>
+    <type>Actor</type>
+    <tmdbid>1593277</tmdbid>
+  </actor>
+  <actor>
+    <name>Debbie Chui</name>
+    <role>Boy's girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>2327804</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Chang Gwong-Chin</name>
+    <role>Mr Cheng</role>
+    <type>Actor</type>
+    <tmdbid>1265952</tmdbid>
+  </actor>
+  <actor>
+    <name>Hung Tung-Kim</name>
+    <role>Kim</role>
+    <type>Actor</type>
+    <tmdbid>1411579</tmdbid>
+    <imdbid>nm3473719</imdbid>
+  </actor>
+  <actor>
+    <name>Shing Fu-On</name>
+    <role>Dummy</role>
+    <type>Actor</type>
+    <tmdbid>2000599</tmdbid>
+  </actor>
+  <actor>
+    <name>Ng Yuen-Sam</name>
+    <role>Lift passenger</role>
+    <type>Actor</type>
+    <tmdbid>2327805</tmdbid>
+  </actor>
+  <actor>
+    <name>Parkman Wong</name>
+    <type>Actor</type>
+    <tmdbid>553881</tmdbid>
+    <imdbid>nm0939275</imdbid>
+  </actor>
+  <director tmdbid="553881" imdbid="nm0939275">Parkman Wong</director>
+  <rating>6.2</rating>
+  <year>1988</year>
+  <imdbid>tt0126301</imdbid>
+  <tmdbid>69727</tmdbid>
+  <premiered>1988-06-23</premiered>
+  <releasedate>1988-06-23</releasedate>
+  <runtime>98</runtime>
+  <tagline>霹雳先锋</tagline>
+  <country>Hong Kong</country>
+  <genre>动作</genre>
+  <genre>喜剧</genre>
+  <genre>犯罪</genre>
+  <uniqueid type="Imdb">tt0126301</uniqueid>
+  <uniqueid type="Tmdb">69727</uniqueid>
+  <id>tt0126301</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>8673561</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>97</duration>
+        <durationinseconds>5876</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

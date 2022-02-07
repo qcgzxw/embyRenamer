@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[内向木讷的男孩肯尼（亚历克斯·劳瑟 Alex Lawther 饰）发现自己的一举一动均被他人所监视着，为了守住秘密不被泄露，肯尼成为了黑客肆意操纵的傀儡。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-06-09 06:47:01</dateadded>
+  <title>黑函之舞</title>
+  <actor>
+    <name>Alex Lawther</name>
+    <role>Kenny</role>
+    <type>GuestStar</type>
+    <tmdbid>1379277</tmdbid>
+    <imdbid>nm3867299</imdbid>
+  </actor>
+  <actor>
+    <name>Jerome Flynn</name>
+    <role>Hector</role>
+    <type>GuestStar</type>
+    <tmdbid>195930</tmdbid>
+    <imdbid>nm0283492</imdbid>
+  </actor>
+  <actor>
+    <name>Susannah Doyle</name>
+    <role>Blackmailed Woman</role>
+    <type>GuestStar</type>
+    <tmdbid>1220084</tmdbid>
+  </actor>
+  <actor>
+    <name>Frankie Wilson</name>
+    <role>Tom</role>
+    <type>GuestStar</type>
+    <tmdbid>1507580</tmdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Roye-Dunne</name>
+    <role>Red</role>
+    <type>GuestStar</type>
+    <tmdbid>1781040</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannah Steele</name>
+    <role>Melissa</role>
+    <type>GuestStar</type>
+    <tmdbid>1593457</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Beck Mather</name>
+    <role>Restaurant Mother</role>
+    <type>GuestStar</type>
+    <tmdbid>1781047</tmdbid>
+  </actor>
+  <actor>
+    <name>Leanne Best</name>
+    <role>Penny</role>
+    <type>GuestStar</type>
+    <tmdbid>1370630</tmdbid>
+  </actor>
+  <actor>
+    <name>Natasha Little</name>
+    <role>Karen</role>
+    <type>GuestStar</type>
+    <tmdbid>110581</tmdbid>
+  </actor>
+  <actor>
+    <name>Camilla Power</name>
+    <role>Sandra</role>
+    <type>GuestStar</type>
+    <tmdbid>94959</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicola Sloane</name>
+    <role>Bank Clerk</role>
+    <type>GuestStar</type>
+    <tmdbid>1278494</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Bazely</name>
+    <role>The Man in the Woods</role>
+    <type>GuestStar</type>
+    <tmdbid>110075</tmdbid>
+  </actor>
+  <director tmdbid="63306" imdbid="nm1220140">James Watkins</director>
+  <rating>7.758</rating>
+  <year>2016</year>
+  <imdbid>tt5709230</imdbid>
+  <tvdbid>5692426</tvdbid>
+  <runtime>52</runtime>
+  <genre>Drama</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt5709230</uniqueid>
+  <uniqueid type="Tvdb">5692426</uniqueid>
+  <episode>3</episode>
+  <season>3</season>
+  <aired>2016-10-21</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10883140</bitrate>
+        <width>1920</width>
+        <height>1016</height>
+        <aspect>240:127</aspect>
+        <aspectratio>240:127</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>52</duration>
+        <durationinseconds>3130</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

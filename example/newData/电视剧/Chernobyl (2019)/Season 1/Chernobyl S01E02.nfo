@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[切尔诺贝利电站爆炸后，核物理学家乌拉娜·霍缪克冒着极大风险，不顾一切地尝试联系苏联核物理学家瓦列利·列加索夫，警告他第二次爆炸的威胁可能将毁灭整个大陆。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-26 08:55:01</dateadded>
+  <title>请保持冷静</title>
+  <actor>
+    <name>Jared Harris</name>
+    <role>Valery Legasov</role>
+    <type>Actor</type>
+    <tmdbid>15440</tmdbid>
+    <imdbid>nm0364813</imdbid>
+  </actor>
+  <actor>
+    <name>Stellan Skarsgård</name>
+    <role>Boris Shcherbina</role>
+    <type>Actor</type>
+    <tmdbid>1640</tmdbid>
+    <imdbid>nm0001745</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Watson</name>
+    <role>Ulana Khomyuk</role>
+    <type>Actor</type>
+    <tmdbid>1639</tmdbid>
+    <imdbid>nm0001833</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Ritter</name>
+    <role>Anatoly Dyatlov</role>
+    <type>Actor</type>
+    <tmdbid>52888</tmdbid>
+    <imdbid>nm0728795</imdbid>
+  </actor>
+  <actor>
+    <name>Jessie Buckley</name>
+    <role>Lyudmilla Ignatenko</role>
+    <type>Actor</type>
+    <tmdbid>1498158</tmdbid>
+    <imdbid>nm2976580</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Nagaitis</name>
+    <role>Vasily Ignatenko</role>
+    <type>Actor</type>
+    <tmdbid>1435230</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Troughton</name>
+    <role>Alexandr Akimov</role>
+    <type>Actor</type>
+    <tmdbid>5421</tmdbid>
+    <imdbid>nm0873744</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Emms</name>
+    <role>Leonid Toptunov</role>
+    <type>Actor</type>
+    <tmdbid>589652</tmdbid>
+    <imdbid>nm3016166</imdbid>
+  </actor>
+  <actor>
+    <name>Con O'Neill</name>
+    <role>Viktor Bryukhanov</role>
+    <type>Actor</type>
+    <tmdbid>96279</tmdbid>
+    <imdbid>nm0642126</imdbid>
+  </actor>
+  <actor>
+    <name>Adrian Rawlins</name>
+    <role>Nikolai Fomin</role>
+    <type>Actor</type>
+    <tmdbid>1643</tmdbid>
+    <imdbid>nm0712628</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Williams</name>
+    <role>KGB Chairman Charkov</role>
+    <type>Actor</type>
+    <tmdbid>122589</tmdbid>
+  </actor>
+  <actor>
+    <name>David Dencik</name>
+    <role>Mikhail Gorbachev</role>
+    <type>Actor</type>
+    <tmdbid>93236</tmdbid>
+    <imdbid>nm1399770</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Lewis Jones</name>
+    <role>General Pikalov</role>
+    <type>Actor</type>
+    <tmdbid>185460</tmdbid>
+  </actor>
+  <actor>
+    <name>Ralph Ineson</name>
+    <role>General Tarakanov</role>
+    <type>Actor</type>
+    <tmdbid>202032</tmdbid>
+    <imdbid>nm0408591</imdbid>
+  </actor>
+  <actor>
+    <name>Barry Keoghan</name>
+    <role>Pavel</role>
+    <type>Actor</type>
+    <tmdbid>1290466</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Ferns</name>
+    <role>Glukhov</role>
+    <type>Actor</type>
+    <tmdbid>60416</tmdbid>
+    <imdbid>nm0273159</imdbid>
+  </actor>
+  <actor>
+    <name>Fares Fares</name>
+    <role>Bacho</role>
+    <type>Actor</type>
+    <tmdbid>57012</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael McElhatton</name>
+    <role>Prosecutor Andrei Stepashin</role>
+    <type>Actor</type>
+    <tmdbid>73288</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Needham</name>
+    <role>Dmitri</role>
+    <type>GuestStar</type>
+    <tmdbid>1584566</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosie Sheehy</name>
+    <role>Nurse Pripyat</role>
+    <type>GuestStar</type>
+    <tmdbid>2119567</tmdbid>
+  </actor>
+  <actor>
+    <name>Ron Cook</name>
+    <role>Old Maternity Doctor</role>
+    <type>GuestStar</type>
+    <tmdbid>5319</tmdbid>
+    <imdbid>nm0177267</imdbid>
+  </actor>
+  <actor>
+    <name>Tomas Zaibus</name>
+    <role>Soldier (Hospital)</role>
+    <type>GuestStar</type>
+    <tmdbid>1945396</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Guinness</name>
+    <role>Major Burov</role>
+    <type>GuestStar</type>
+    <tmdbid>27172</tmdbid>
+  </actor>
+  <actor>
+    <name>Laurence Spellman</name>
+    <role>Commission Heli Pilot</role>
+    <type>GuestStar</type>
+    <tmdbid>1052257</tmdbid>
+  </actor>
+  <actor>
+    <name>Alison Pargeter</name>
+    <role>BCP HQ Aide Female</role>
+    <type>GuestStar</type>
+    <tmdbid>1229307</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor McGuire</name>
+    <role>Garanin</role>
+    <type>GuestStar</type>
+    <tmdbid>4318</tmdbid>
+  </actor>
+  <actor>
+    <name>Sakalas Uždavinys</name>
+    <role>Ilya Ivanovich Chulkov</role>
+    <type>GuestStar</type>
+    <tmdbid>74416</tmdbid>
+  </actor>
+  <actor>
+    <name>Aidas Jurgaitis</name>
+    <role>Soldier (Shelter)</role>
+    <type>GuestStar</type>
+    <tmdbid>2033538</tmdbid>
+  </actor>
+  <actor>
+    <name>Aiste S. Gram</name>
+    <role>Bartender in Polyissa Hotel</role>
+    <type>GuestStar</type>
+    <tmdbid>1340731</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Crossley</name>
+    <role>Stasiuk</role>
+    <type>GuestStar</type>
+    <tmdbid>2313993</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucy Russell</name>
+    <role>Marina Gruzinskaya</role>
+    <type>GuestStar</type>
+    <tmdbid>28749</tmdbid>
+    <imdbid>nm0751301</imdbid>
+  </actor>
+  <actor>
+    <name>Donald Sumpter</name>
+    <role>Zharkov</role>
+    <type>GuestStar</type>
+    <tmdbid>20425</tmdbid>
+    <imdbid>nm0838910</imdbid>
+  </actor>
+  <actor>
+    <name>Diarmaid Murtagh</name>
+    <role>Zukauskas</role>
+    <type>GuestStar</type>
+    <tmdbid>1330044</tmdbid>
+  </actor>
+  <actor>
+    <name>Natasha Radski</name>
+    <role>Russian News Reader</role>
+    <type>GuestStar</type>
+    <tmdbid>1363064</tmdbid>
+  </actor>
+  <actor>
+    <name>Yitzchak Averbuch</name>
+    <role>General</role>
+    <type>GuestStar</type>
+    <tmdbid>2313996</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Tucker</name>
+    <role>Plant Employee</role>
+    <type>GuestStar</type>
+    <tmdbid>143181</tmdbid>
+  </actor>
+  <actor>
+    <name>Baltasar Breki Samper</name>
+    <role>Ananenko</role>
+    <type>GuestStar</type>
+    <tmdbid>1081090</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Barantini</name>
+    <role>Bezpalov</role>
+    <type>GuestStar</type>
+    <tmdbid>191750</tmdbid>
+  </actor>
+  <actor>
+    <name>Oscar Dyekjær Giese</name>
+    <role>Baranov</role>
+    <type>GuestStar</type>
+    <tmdbid>1149907</tmdbid>
+  </actor>
+  <actor>
+    <name>Darius Petkevičius</name>
+    <role>Local Husband</role>
+    <type>GuestStar</type>
+    <tmdbid>1400630</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Drew</name>
+    <role>Kremlin Aide Female</role>
+    <type>GuestStar</type>
+    <tmdbid>1349802</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Elphinstone</name>
+    <role>Oksana</role>
+    <type>GuestStar</type>
+    <tmdbid>1761275</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Socha</name>
+    <role>Mikhail</role>
+    <type>GuestStar</type>
+    <tmdbid>126171</tmdbid>
+  </actor>
+  <actor>
+    <name>Cait Davis</name>
+    <role>Local Wife at Bar</role>
+    <type>GuestStar</type>
+    <tmdbid>2313984</tmdbid>
+  </actor>
+  <actor>
+    <name>Karl Davies</name>
+    <role>Viktor Proskuryakov</role>
+    <type>GuestStar</type>
+    <tmdbid>1220189</tmdbid>
+  </actor>
+  <actor>
+    <name>Bartas Erminas</name>
+    <role>Civilian in a Hospital</role>
+    <type>GuestStar</type>
+    <tmdbid>2183262</tmdbid>
+  </actor>
+  <actor>
+    <name>Nadia Clifford</name>
+    <role>Dr. Svetlana Zinchenko</role>
+    <type>GuestStar</type>
+    <tmdbid>2313958</tmdbid>
+  </actor>
+  <actor>
+    <name>Jan Ricica</name>
+    <role>Oksana's Kid</role>
+    <type>GuestStar</type>
+    <tmdbid>2313959</tmdbid>
+  </actor>
+  <director>Johan Renck</director>
+  <rating>9.4</rating>
+  <year>2019</year>
+  <imdbid>tt8482972</imdbid>
+  <tvdbid>7109113</tvdbid>
+  <runtime>66</runtime>
+  <genre>Drama</genre>
+  <genre>History</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt8482972</uniqueid>
+  <uniqueid type="Tvdb">7109113</uniqueid>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2019-05-13</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5613638</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>65</duration>
+        <durationinseconds>3952</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>380357</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

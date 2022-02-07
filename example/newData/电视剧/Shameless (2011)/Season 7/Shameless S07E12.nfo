@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[加拉格一家正在为失去一个亲人而挣扎。利普采取措施改善他的未来。黛比，卡尔和利亚姆被拉进弗兰克的新计划。小凯和小维计划报复斯维特拉娜。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-17 00:49:37</dateadded>
+  <title>荡妇的安魂曲</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Isidora Goreshter</name>
+    <role>Svetlana Yevgenivna</role>
+    <type>Actor</type>
+    <tmdbid>1677397</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Michael Campbell</name>
+    <role>Brad</role>
+    <type>GuestStar</type>
+    <tmdbid>65728</tmdbid>
+  </actor>
+  <actor>
+    <name>Elliot Fletcher</name>
+    <role>Trevor</role>
+    <type>GuestStar</type>
+    <tmdbid>1601960</tmdbid>
+  </actor>
+  <actor>
+    <name>Kerri Kenney-Silver</name>
+    <role>Constance Grace</role>
+    <type>GuestStar</type>
+    <tmdbid>63220</tmdbid>
+  </actor>
+  <actor>
+    <name>David Fabrizio</name>
+    <role>Drill Instructor</role>
+    <type>GuestStar</type>
+    <tmdbid>41318</tmdbid>
+  </actor>
+  <actor>
+    <name>Zack Pearlman</name>
+    <role>Neil Morton</role>
+    <type>GuestStar</type>
+    <tmdbid>130535</tmdbid>
+  </actor>
+  <actor>
+    <name>Ruby Modine</name>
+    <role>Sierra Morton</role>
+    <type>GuestStar</type>
+    <tmdbid>1602964</tmdbid>
+    <imdbid>nm4384329</imdbid>
+  </actor>
+  <actor>
+    <name>Chloe Webb</name>
+    <role>Monica Gallagher</role>
+    <type>GuestStar</type>
+    <tmdbid>43476</tmdbid>
+  </actor>
+  <director>John Wells</director>
+  <rating>6.9</rating>
+  <year>2016</year>
+  <imdbid>tt5507134</imdbid>
+  <tvdbid>5749169</tvdbid>
+  <runtime>60</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt5507134</uniqueid>
+  <uniqueid type="Tvdb">5749169</uniqueid>
+  <episode>12</episode>
+  <season>7</season>
+  <aired>2016-12-18</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10368710</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>60</duration>
+        <durationinseconds>3620</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

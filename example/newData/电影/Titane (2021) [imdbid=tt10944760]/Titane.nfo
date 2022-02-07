@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[故事发生在一座机场，海关检查人员发现了一个鼻青脸肿的年轻人。年轻人声称自己是十年前失踪的孩子Adrien Legrand。对于他的父亲文森特来说，这标志着漫长噩梦的终结，终于把儿子带回了家。与此同时，一系列可怕谋杀案的发生对该地区构成了巨大压力，而汽车展厅里的模特Alexia却具有目标受害者的所有特征。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-02-05 15:49:57</dateadded>
+  <title>钛</title>
+  <originaltitle>Titane</originaltitle>
+  <actor>
+    <name>Vincent Lindon</name>
+    <role>Vincent Legrand</role>
+    <type>Actor</type>
+    <tmdbid>5443</tmdbid>
+  </actor>
+  <actor>
+    <name>Agathe Rousselle</name>
+    <role>Alexia / Adrien</role>
+    <type>Actor</type>
+    <tmdbid>2418333</tmdbid>
+  </actor>
+  <actor>
+    <name>Garance Marillier</name>
+    <role>Justine</role>
+    <type>Actor</type>
+    <tmdbid>1144473</tmdbid>
+    <imdbid>nm4469165</imdbid>
+  </actor>
+  <actor>
+    <name>Laïs Salameh</name>
+    <role>Rayane</role>
+    <type>Actor</type>
+    <tmdbid>2934453</tmdbid>
+  </actor>
+  <actor>
+    <name>Mara Cissé</name>
+    <role>Jeantet</role>
+    <type>Actor</type>
+    <tmdbid>3173736</tmdbid>
+  </actor>
+  <actor>
+    <name>Marin Judas</name>
+    <role>Charrier</role>
+    <type>Actor</type>
+    <tmdbid>2474911</tmdbid>
+  </actor>
+  <actor>
+    <name>Diong-Kéba Tacu</name>
+    <role>Sissoko</role>
+    <type>Actor</type>
+    <tmdbid>2606015</tmdbid>
+  </actor>
+  <actor>
+    <name>Myriem Akeddiou</name>
+    <role>Adrien’s mother</role>
+    <type>Actor</type>
+    <tmdbid>1689510</tmdbid>
+  </actor>
+  <actor>
+    <name>Bertrand Bonello</name>
+    <role>Alexia’s father</role>
+    <type>Actor</type>
+    <tmdbid>146438</tmdbid>
+  </actor>
+  <actor>
+    <name>Céline Carrère</name>
+    <role>Alexia’s mother</role>
+    <type>Actor</type>
+    <tmdbid>1591902</tmdbid>
+  </actor>
+  <actor>
+    <name>Adèle Guigue</name>
+    <role>Alexia Aged 7</role>
+    <type>Actor</type>
+    <tmdbid>3173747</tmdbid>
+  </actor>
+  <actor>
+    <name>Thibault Cathalifaud</name>
+    <role>Fan</role>
+    <type>Actor</type>
+    <tmdbid>2933154</tmdbid>
+  </actor>
+  <actor>
+    <name>Dominique Frot</name>
+    <role>The Macarena woman</role>
+    <type>Actor</type>
+    <tmdbid>19165</tmdbid>
+  </actor>
+  <actor>
+    <name>Lamine Cissokho</name>
+    <role>Jérôme / Jupi</role>
+    <type>Actor</type>
+    <tmdbid>1610424</tmdbid>
+  </actor>
+  <actor>
+    <name>Florence Janas</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1701554</tmdbid>
+  </actor>
+  <actor>
+    <name>Frédéric Jardin</name>
+    <role>BPF Inspector</role>
+    <type>Actor</type>
+    <tmdbid>232898</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia Venner</name>
+    <role>Showers host</role>
+    <type>Actor</type>
+    <tmdbid>3173750</tmdbid>
+  </actor>
+  <actor>
+    <name>Thibault Villette</name>
+    <role>Security guard</role>
+    <type>Actor</type>
+    <tmdbid>3173752</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathalie Boyer</name>
+    <role>Paramedic</role>
+    <type>Actor</type>
+    <tmdbid>1784234</tmdbid>
+  </actor>
+  <actor>
+    <name>Mehdi Rahim-Silvioli</name>
+    <role>Rose</role>
+    <type>Actor</type>
+    <tmdbid>2475712</tmdbid>
+  </actor>
+  <actor>
+    <name>Théo Hellermann</name>
+    <role>Young man</role>
+    <type>Actor</type>
+    <tmdbid>2280365</tmdbid>
+  </actor>
+  <actor>
+    <name>Anaïs Fabre</name>
+    <type>Actor</type>
+    <tmdbid>1184815</tmdbid>
+  </actor>
+  <director tmdbid="1392433" imdbid="nm4469445">Julia Ducournau</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=epoyDw8EU9I</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KcAIvUJ-C-0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=T975nUk_uNA</trailer>
+  <rating>6.7</rating>
+  <year>2021</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt10944760</imdbid>
+  <tmdbid>630240</tmdbid>
+  <premiered>2021-07-14</premiered>
+  <releasedate>2021-07-14</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>108</runtime>
+  <country>Belgium</country>
+  <country>France</country>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <genre>恐怖</genre>
+  <studio>Kazak Productions</studio>
+  <studio>ARTE France Cinéma</studio>
+  <studio>Frakas Productions</studio>
+  <studio>Canal+</studio>
+  <studio>Ciné+</studio>
+  <studio>VOO</studio>
+  <studio>BeTV</studio>
+  <studio>Wild Bunch</studio>
+  <studio>Eurimages</studio>
+  <studio>Centre du Cinéma et de l'Audiovisuel de la Fédération Wallonie-Bruxelles</studio>
+  <studio>La Région Île-de-France</studio>
+  <studio>CNC</studio>
+  <studio>Région Provence-Alpes-Côte d'Azur</studio>
+  <studio>Le Pays de Martigues</studio>
+  <studio>Métropole Aix-Marseille</studio>
+  <studio>La Fondation Gan pour le Cinéma</studio>
+  <studio>Cinémage 15</studio>
+  <studio>Cofinova 17</studio>
+  <studio>Tax Shelter du Gouvernement Fédéral Belge</studio>
+  <studio>Neon</studio>
+  <uniqueid type="Imdb">tt10944760</uniqueid>
+  <uniqueid type="Tmdb">630240</uniqueid>
+  <id>tt10944760</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>7703468</bitrate>
+        <width>1920</width>
+        <height>804</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>107</duration>
+        <durationinseconds>6479</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[40年代的美国，“教父”维托·唐·柯里昂是黑手党柯里昂家族的首领，带领家族从事非法的勾当，但同时他也是许多弱小平民的保护神，深得人们爱戴。因为拒绝了毒枭索洛索的毒品交易要求，柯里昂家族和纽约其他几个黑手党家族的矛盾激化、圣诞前夕，索洛索劫持了“教父”的参谋汤姆，并派人暗杀“教父”；因为内奸的出卖，“教父”的大儿子逊尼被仇家杀害；小儿子麦克也被卷了进来，失去爱妻。黑手党家族之间的矛盾越来越白热化。年老的“教父”面对丧子之痛怎样统领全局？黑手党之间的仇杀如何落幕？谁是家族的内奸？谁又能够成为新一代的“教父”？血雨腥风和温情脉脉，在这部里程碑式的黑帮史诗巨片里真实上演。]]></plot>
+  <outline><![CDATA[教父]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-12 22:44:12</dateadded>
+  <title>教父</title>
+  <originaltitle>The Godfather</originaltitle>
+  <actor>
+    <name>Marlon Brando</name>
+    <role>Don Vito Corleone</role>
+    <type>Actor</type>
+    <tmdbid>3084</tmdbid>
+  </actor>
+  <actor>
+    <name>Al Pacino</name>
+    <role>Don Michael Corleone</role>
+    <type>Actor</type>
+    <tmdbid>1158</tmdbid>
+    <imdbid>nm0000199</imdbid>
+  </actor>
+  <actor>
+    <name>James Caan</name>
+    <role>Santino "Sonny" Corleone</role>
+    <type>Actor</type>
+    <tmdbid>3085</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Duvall</name>
+    <role>Tom Hagen</role>
+    <type>Actor</type>
+    <tmdbid>3087</tmdbid>
+    <imdbid>nm0000380</imdbid>
+  </actor>
+  <actor>
+    <name>Richard S. Castellano</name>
+    <role>Pete Clemenza</role>
+    <type>Actor</type>
+    <tmdbid>3086</tmdbid>
+  </actor>
+  <actor>
+    <name>Diane Keaton</name>
+    <role>Kay Adams</role>
+    <type>Actor</type>
+    <tmdbid>3092</tmdbid>
+  </actor>
+  <actor>
+    <name>Talia Shire</name>
+    <role>Constanzia "Connie" Corleone-Rizzi</role>
+    <type>Actor</type>
+    <tmdbid>3094</tmdbid>
+  </actor>
+  <actor>
+    <name>Gianni Russo</name>
+    <role>Carlo Rizzi</role>
+    <type>Actor</type>
+    <tmdbid>3095</tmdbid>
+  </actor>
+  <actor>
+    <name>Sterling Hayden</name>
+    <role>Capt. Mark McCluskey</role>
+    <type>Actor</type>
+    <tmdbid>3088</tmdbid>
+  </actor>
+  <actor>
+    <name>Al Lettieri</name>
+    <role>Virgil "The Turk" Sollozzo</role>
+    <type>Actor</type>
+    <tmdbid>3091</tmdbid>
+  </actor>
+  <actor>
+    <name>Abe Vigoda</name>
+    <role>Salvatore "Sal" Tessio</role>
+    <type>Actor</type>
+    <tmdbid>3093</tmdbid>
+  </actor>
+  <actor>
+    <name>John Cazale</name>
+    <role>Frederico "Fredo" Corleone</role>
+    <type>Actor</type>
+    <tmdbid>3096</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Conte</name>
+    <role>Don Emilio Barzini</role>
+    <type>Actor</type>
+    <tmdbid>3090</tmdbid>
+  </actor>
+  <actor>
+    <name>John Marley</name>
+    <role>Jack Woltz</role>
+    <type>Actor</type>
+    <tmdbid>3142</tmdbid>
+  </actor>
+  <actor>
+    <name>Rudy Bond</name>
+    <role>Carmine Cuneo</role>
+    <type>Actor</type>
+    <tmdbid>3143</tmdbid>
+  </actor>
+  <actor>
+    <name>Al Martino</name>
+    <role>Johnny Fontane</role>
+    <type>Actor</type>
+    <tmdbid>3144</tmdbid>
+  </actor>
+  <actor>
+    <name>Morgana King</name>
+    <role>Carmela "Mama" Corleone</role>
+    <type>Actor</type>
+    <tmdbid>933716</tmdbid>
+  </actor>
+  <actor>
+    <name>Lenny Montana</name>
+    <role>Luca Brasi</role>
+    <type>Actor</type>
+    <tmdbid>106811</tmdbid>
+  </actor>
+  <actor>
+    <name>John Martino</name>
+    <role>Paulie Gatto</role>
+    <type>Actor</type>
+    <tmdbid>99724</tmdbid>
+  </actor>
+  <actor>
+    <name>Salvatore Corsitto</name>
+    <role>Amerigo Bonasera</role>
+    <type>Actor</type>
+    <tmdbid>1195877</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Rocco</name>
+    <role>Moe Greene</role>
+    <type>Actor</type>
+    <tmdbid>20752</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Giorgio</name>
+    <role>Bruno Tattaglia</role>
+    <type>Actor</type>
+    <tmdbid>3414</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor Rendina</name>
+    <role>Philip Tattaglia</role>
+    <type>Actor</type>
+    <tmdbid>3413</tmdbid>
+  </actor>
+  <actor>
+    <name>Simonetta Stefanelli</name>
+    <role>Apollonia Vitelli-Corleone</role>
+    <type>Actor</type>
+    <tmdbid>3145</tmdbid>
+  </actor>
+  <actor>
+    <name>Saro Urzì</name>
+    <role>Mr. Vitelli</role>
+    <type>Actor</type>
+    <tmdbid>119431</tmdbid>
+  </actor>
+  <actor>
+    <name>Sofia Coppola</name>
+    <role>Michael Francis Rizzi</role>
+    <type>Actor</type>
+    <tmdbid>1769</tmdbid>
+  </actor>
+  <actor>
+    <name>Louis Guss</name>
+    <role>Don Zaluchi</role>
+    <type>Actor</type>
+    <tmdbid>20973</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriele Torrei</name>
+    <role>Enzo the Baker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>138211</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony King</name>
+    <role>Tony the Stablehand (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>55672</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Bright</name>
+    <role>Neri</role>
+    <type>Actor</type>
+    <tmdbid>3174</tmdbid>
+  </actor>
+  <actor>
+    <name>Vito Scotti</name>
+    <role>Nazorine</role>
+    <type>Actor</type>
+    <tmdbid>82779</tmdbid>
+  </actor>
+  <actor>
+    <name>Tere Livrano</name>
+    <role>Theresa Hagen</role>
+    <type>Actor</type>
+    <tmdbid>982089</tmdbid>
+  </actor>
+  <actor>
+    <name>Julie Gregg</name>
+    <role>Sandrinella "Sandra" Corleone</role>
+    <type>Actor</type>
+    <tmdbid>160728</tmdbid>
+  </actor>
+  <actor>
+    <name>Angelo Infanti</name>
+    <role>Fabrizio</role>
+    <type>Actor</type>
+    <tmdbid>27647</tmdbid>
+  </actor>
+  <actor>
+    <name>Corrado Gaipa</name>
+    <role>Don Tommasino</role>
+    <type>Actor</type>
+    <tmdbid>24604</tmdbid>
+  </actor>
+  <actor>
+    <name>Franco Citti</name>
+    <role>Calò</role>
+    <type>Actor</type>
+    <tmdbid>44860</tmdbid>
+  </actor>
+  <actor>
+    <name>Max Brandt</name>
+    <role>Extra in Furniture-Moving Scene (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>178006</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmine Coppola</name>
+    <role>Piano Player in Montage (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2872</tmdbid>
+  </actor>
+  <actor>
+    <name>Roman Coppola</name>
+    <role>Boy on Street Who Attended Funeral (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>38803</tmdbid>
+    <imdbid>nm0178910</imdbid>
+  </actor>
+  <actor>
+    <name>Don Costello</name>
+    <role>Don Victor Stracci (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1209294</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Dahdah</name>
+    <role>Crowd (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1394703</tmdbid>
+  </actor>
+  <actor>
+    <name>Gray Frederickson</name>
+    <role>Cowboy on the Set at Woltz's Studio (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2870</tmdbid>
+  </actor>
+  <actor>
+    <name>Ron Gilbert</name>
+    <role>Usher in Bridal Party (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>160621</tmdbid>
+  </actor>
+  <actor>
+    <name>Sonny Grosso</name>
+    <role>Cop Outside Hospital (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1233541</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Lo Grippo</name>
+    <role>Sonny's Bodyguard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1503036</tmdbid>
+  </actor>
+  <actor>
+    <name>Randy Jurgensen</name>
+    <role>Sonny's Killer #1 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1068099</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Lip</name>
+    <role>Wedding Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>61241</tmdbid>
+  </actor>
+  <actor>
+    <name>Lou Martini Jr.</name>
+    <role>Boy at Wedding (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>106187</tmdbid>
+  </actor>
+  <actor>
+    <name>Raymond Martino</name>
+    <role>Corleone Family Member (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>100503</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Medaglia</name>
+    <role>Priest at Baptism (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1503035</tmdbid>
+  </actor>
+  <actor>
+    <name>Rick Petrucelli</name>
+    <role>Man in Passenger Seat (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1290895</tmdbid>
+  </actor>
+  <actor>
+    <name>Sal Richards</name>
+    <role>Drunk (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1237372</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Rosqui</name>
+    <role>Rocco Lampone (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1213795</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Sivero</name>
+    <role>Street Extra (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>11480</tmdbid>
+    <imdbid>nm0803370</imdbid>
+  </actor>
+  <actor>
+    <name>Filomena Spagnuolo</name>
+    <role>Extra in Wedding Scene (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1209678</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Vallelonga</name>
+    <role>Wedding Party Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>78336</tmdbid>
+    <imdbid>nm0885014</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Spinell</name>
+    <role>William "Willie" Cicci (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>16525</tmdbid>
+    <imdbid>nm0818874</imdbid>
+  </actor>
+  <actor>
+    <name>Conrad Yama</name>
+    <role>Fruit Vendor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1234848</tmdbid>
+  </actor>
+  <director tmdbid="1776">Francis Ford Coppola</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1x0GpEZnwa8</trailer>
+  <rating>9.2</rating>
+  <year>1972</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0068646</imdbid>
+  <tmdbid>238</tmdbid>
+  <premiered>1972-03-14</premiered>
+  <releasedate>1972-03-14</releasedate>
+  <criticrating>97</criticrating>
+  <runtime>177</runtime>
+  <tagline>教父</tagline>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>犯罪</genre>
+  <studio>Paramount</studio>
+  <studio>Alfran Productions</studio>
+  <set tmdbcolid="230">
+    <name>教父（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">238</uniqueid>
+  <uniqueid type="Imdb">tt0068646</uniqueid>
+  <id>tt0068646</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>16155549</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>177</duration>
+        <durationinseconds>10629</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[《DJ下台》：当人们的相爱分离全部交由精密的科学计算和管理软件来定夺，我们会迎来一个更好的世界吗？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-07 10:32:58</dateadded>
+  <title>绞死DJ</title>
+  <actor>
+    <name>Georgina Campbell</name>
+    <role>Amy</role>
+    <type>GuestStar</type>
+    <tmdbid>1335315</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Cole</name>
+    <role>Frank</role>
+    <type>GuestStar</type>
+    <tmdbid>1081875</tmdbid>
+    <imdbid>nm3771184</imdbid>
+  </actor>
+  <actor>
+    <name>Gina Bramhill</name>
+    <role>Coach (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>990278</tmdbid>
+  </actor>
+  <actor>
+    <name>George Blagden</name>
+    <role>Lenny</role>
+    <type>GuestStar</type>
+    <tmdbid>1256160</tmdbid>
+  </actor>
+  <actor>
+    <name>Gwyneth Keyworth</name>
+    <role>Nicola</role>
+    <type>GuestStar</type>
+    <tmdbid>1037611</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessie Cave</name>
+    <role>Edna</role>
+    <type>GuestStar</type>
+    <tmdbid>234924</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Manning</name>
+    <role>Mike</role>
+    <type>GuestStar</type>
+    <tmdbid>2190631</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Pritchett</name>
+    <role>Norman</role>
+    <type>GuestStar</type>
+    <tmdbid>1944193</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Tamaro</name>
+    <role>Butch</role>
+    <type>GuestStar</type>
+    <tmdbid>2190632</tmdbid>
+  </actor>
+  <actor>
+    <name>Che Watson</name>
+    <role>Silverfox</role>
+    <type>GuestStar</type>
+    <tmdbid>2190633</tmdbid>
+  </actor>
+  <actor>
+    <name>Bruce Chong</name>
+    <role>David</role>
+    <type>GuestStar</type>
+    <tmdbid>1743508</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Dobrucki</name>
+    <role>Patty</role>
+    <type>GuestStar</type>
+    <tmdbid>2190634</tmdbid>
+  </actor>
+  <director>Timothy Van Patten</director>
+  <rating>8.183</rating>
+  <year>2017</year>
+  <imdbid>tt5710978</imdbid>
+  <tvdbid>6113564</tvdbid>
+  <runtime>52</runtime>
+  <uniqueid type="Tvdb">6113564</uniqueid>
+  <uniqueid type="Imdb">tt5710978</uniqueid>
+  <episode>4</episode>
+  <season>4</season>
+  <aired>2017-12-29</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2290166</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>51</duration>
+        <durationinseconds>3116</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

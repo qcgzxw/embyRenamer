@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[柏特赢得巨额补助时，薛尔登很难克服自己的嫉妒心。 霍华德遥控器操控史蒂芬·霍金，令人不可置信。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-16 17:36:10</dateadded>
+  <title>The Geology Elevation</title>
+  <actor>
+    <name>Brian Posehn</name>
+    <type>GuestStar</type>
+    <tmdbid>20405</tmdbid>
+    <imdbid>nm0692634</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Dudheker</name>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Stephen Hawking</name>
+    <type>GuestStar</type>
+    <tmdbid>39657</tmdbid>
+    <imdbid>nm0370071</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.5</rating>
+  <year>2016</year>
+  <imdbid>tt6214960</imdbid>
+  <tvdbid>5818673</tvdbid>
+  <runtime>19</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <uniqueid type="Imdb">tt6214960</uniqueid>
+  <uniqueid type="Tvdb">5818673</uniqueid>
+  <episode>9</episode>
+  <season>10</season>
+  <aired>2016-11-17</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10753867</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1160</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

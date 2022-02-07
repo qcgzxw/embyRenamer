@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[改编自2010年的同名法国高分悬疑短片。  双目失明的钢琴家阿卡什（阿尤斯曼·库拉纳 Ayushmann Khurrana 饰）为了参加国际大赛，平日里通过私人授课赚取经费。事实上他的眼睛完全正常，只不过希望通过这种方式感受不同的生活。  因为一场意外，阿卡什结识了美丽的姑娘苏菲（拉迪卡·艾普特 Radhika Apte 饰）。凭借出色的演奏技巧，阿卡什在苏菲父亲经营的西餐馆谋得兼职。他的演奏不仅令食客们倾倒，更虏获了苏菲的心。  某天，阿卡什接受过气的影星普拉默（安尔·德霍万 Anil Dhawan 饰）的邀请，登门为对方的妻子西米（塔布 Tabu 饰）演奏庆生，谁知却亲眼目睹了倒在血泊中的普拉默的尸体。惊慌失措的阿卡什假装镇定，虽然暂时骗过了西米及其情夫，但是他的秘密还是慢慢被人戳穿……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-02-21 16:57:38</dateadded>
+  <title>调音师</title>
+  <originaltitle>अंधाधुन</originaltitle>
+  <actor>
+    <name>Ayushmann Khurrana</name>
+    <role>Akash</role>
+    <type>Actor</type>
+    <tmdbid>1033157</tmdbid>
+  </actor>
+  <actor>
+    <name>Radhika Apte</name>
+    <role>Sophie</role>
+    <type>Actor</type>
+    <tmdbid>223167</tmdbid>
+  </actor>
+  <actor>
+    <name>Tabu</name>
+    <role>Simi Sinha</role>
+    <type>Actor</type>
+    <tmdbid>55062</tmdbid>
+  </actor>
+  <actor>
+    <name>Anil Dhawan</name>
+    <role>Pramod Sinha</role>
+    <type>Actor</type>
+    <tmdbid>1033068</tmdbid>
+  </actor>
+  <actor>
+    <name>Rashmi Agdekar</name>
+    <role>Daani</role>
+    <type>Actor</type>
+    <tmdbid>2408210</tmdbid>
+  </actor>
+  <actor>
+    <name>Zakir Hussain</name>
+    <role>Dr. Swami</role>
+    <type>Actor</type>
+    <tmdbid>85656</tmdbid>
+    <imdbid>nm1664541</imdbid>
+  </actor>
+  <actor>
+    <name>Ashwini Kalsekar</name>
+    <role>Rasika Jawanda</role>
+    <type>Actor</type>
+    <tmdbid>85657</tmdbid>
+    <imdbid>nm1817397</imdbid>
+  </actor>
+  <actor>
+    <name>Manav Vij</name>
+    <role>Inspector Manohar Jawanda</role>
+    <type>Actor</type>
+    <tmdbid>140763</tmdbid>
+    <imdbid>nm2435847</imdbid>
+  </actor>
+  <actor>
+    <name>Gopal Singh</name>
+    <role>Sub-Inspector Paresh</role>
+    <type>Actor</type>
+    <tmdbid>1047717</tmdbid>
+    <imdbid>nm3385526</imdbid>
+  </actor>
+  <actor>
+    <name>Chhaya Kadam</name>
+    <type>Actor</type>
+    <tmdbid>1550351</tmdbid>
+  </actor>
+  <director tmdbid="85665">Sriram Raghavan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2iVYI99VGaw</trailer>
+  <rating>8.2</rating>
+  <year>2018</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt8108198</imdbid>
+  <tmdbid>534780</tmdbid>
+  <premiered>2018-10-05</premiered>
+  <releasedate>2018-10-05</releasedate>
+  <criticrating>92</criticrating>
+  <runtime>137</runtime>
+  <country>India</country>
+  <genre>犯罪</genre>
+  <genre>惊悚</genre>
+  <genre>喜剧</genre>
+  <studio>Viacom 18 Motion Pictures</studio>
+  <studio>Matchbox Pictures</studio>
+  <uniqueid type="Tmdb">534780</uniqueid>
+  <uniqueid type="Imdb">tt8108198</uniqueid>
+  <id>tt8108198</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4059103</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>137</duration>
+        <durationinseconds>8249</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

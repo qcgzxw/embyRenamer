@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[虽然有了新的引渡条约，但美国政府依然投入更多的金钱对抗共产主义，这给追捕埃斯科瓦尔的墨菲和潘纳带来了新的挑战。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-15 04:01:02</dateadded>
+  <title>烈焰宫殿</title>
+  <actor>
+    <name>Wagner Moura</name>
+    <role>Pablo Escobar</role>
+    <type>Actor</type>
+    <tmdbid>52583</tmdbid>
+  </actor>
+  <actor>
+    <name>Pedro Pascal</name>
+    <role>Javier Peña</role>
+    <type>Actor</type>
+    <tmdbid>1253360</tmdbid>
+  </actor>
+  <actor>
+    <name>Boyd Holbrook</name>
+    <role>Steve Murphy</role>
+    <type>Actor</type>
+    <tmdbid>467645</tmdbid>
+  </actor>
+  <actor>
+    <name>Joanna Christie</name>
+    <role>Connie Murphy</role>
+    <type>Actor</type>
+    <tmdbid>1230988</tmdbid>
+  </actor>
+  <actor>
+    <name>Maurice Compte</name>
+    <role>Horacio Carrillo</role>
+    <type>Actor</type>
+    <tmdbid>48530</tmdbid>
+    <imdbid>nm0173997</imdbid>
+  </actor>
+  <actor>
+    <name>Paulina Gaitán</name>
+    <role>Tata Escobar</role>
+    <type>Actor</type>
+    <tmdbid>36586</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Sigman</name>
+    <role>Valeria Velez</role>
+    <type>Actor</type>
+    <tmdbid>929937</tmdbid>
+  </actor>
+  <actor>
+    <name>Diego Cataño</name>
+    <role>La Quica</role>
+    <type>Actor</type>
+    <tmdbid>112129</tmdbid>
+    <imdbid>nm1593407</imdbid>
+  </actor>
+  <actor>
+    <name>Jorge A. Jimenez</name>
+    <role>Poison</role>
+    <type>Actor</type>
+    <tmdbid>99508</tmdbid>
+    <imdbid>nm2784856</imdbid>
+  </actor>
+  <actor>
+    <name>Juan Pablo Raba</name>
+    <role>Gustavo Gaviria</role>
+    <type>Actor</type>
+    <tmdbid>937009</tmdbid>
+    <imdbid>nm0704696</imdbid>
+  </actor>
+  <actor>
+    <name>Raúl Méndez</name>
+    <role>Cesar Gaviria</role>
+    <type>Actor</type>
+    <tmdbid>18463</tmdbid>
+  </actor>
+  <actor>
+    <name>Bruno Bichir</name>
+    <role>Fernando Duque</role>
+    <type>Actor</type>
+    <tmdbid>52745</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Guzmán</name>
+    <role>José Rodríguez Gacha</role>
+    <type>Actor</type>
+    <tmdbid>40481</tmdbid>
+  </actor>
+  <actor>
+    <name>Pablo Escobar</name>
+    <role>Himself (Archive Footage)</role>
+    <type>GuestStar</type>
+    <tmdbid>2477269</tmdbid>
+  </actor>
+  <actor>
+    <name>Ana de la Reguera</name>
+    <role>Elisa Alvaro</role>
+    <type>GuestStar</type>
+    <tmdbid>57409</tmdbid>
+  </actor>
+  <director>Guillermo Navarro</director>
+  <rating>8.042</rating>
+  <year>2015</year>
+  <imdbid>tt3736870</imdbid>
+  <tvdbid>5292344</tvdbid>
+  <runtime>44</runtime>
+  <uniqueid type="Tvdb">5292344</uniqueid>
+  <uniqueid type="Imdb">tt3736870</uniqueid>
+  <episode>4</episode>
+  <season>1</season>
+  <aired>2015-08-28</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3593021</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>43</duration>
+        <durationinseconds>2621</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

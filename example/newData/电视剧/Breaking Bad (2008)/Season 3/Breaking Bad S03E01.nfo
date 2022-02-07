@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Walter 发现钱非但不能给自己带来快乐，反而令自己几乎妻离子散，十分生气。想烧了所有钱，可是又不舍得，最后又在火堆里抢回了钱。Skyler 想离婚，带着儿子 Walter Jr. 和女儿 Holly 住到妹妹家。Walter 不停地打电话求妻子回家，儿子 Walter Jr. 不知内情，抱怨母亲对父亲不够体谅，也不够公平；但是 Skyler 无法说出原因。Jesse 从戒毒所出来，他重新审视自己的生活，良心发现，他觉得自己是一个坏人，有深重的负罪感。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 17:26:00</dateadded>
+  <title>不再继续</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>John de Lancie</name>
+    <role>Donald Margolis</role>
+    <type>GuestStar</type>
+    <tmdbid>11077</tmdbid>
+    <imdbid>nm0209496</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Dretzin</name>
+    <role>Pamela</role>
+    <type>GuestStar</type>
+    <tmdbid>156990</tmdbid>
+    <imdbid>nm0003740</imdbid>
+  </actor>
+  <actor>
+    <name>Luis Moncada</name>
+    <role>Marco Salamanca</role>
+    <type>GuestStar</type>
+    <tmdbid>945491</tmdbid>
+    <imdbid>nm1616991</imdbid>
+  </actor>
+  <actor>
+    <name>Jere Burns</name>
+    <role>Group Leader</role>
+    <type>GuestStar</type>
+    <tmdbid>57167</tmdbid>
+    <imdbid>nm0122716</imdbid>
+  </actor>
+  <actor>
+    <name>Carmen Serano</name>
+    <role>Carmen Molina</role>
+    <type>GuestStar</type>
+    <tmdbid>115688</tmdbid>
+    <imdbid>nm0784831</imdbid>
+  </actor>
+  <director tmdbid="17419" imdbid="nm0186505">Bryan Cranston</director>
+  <rating>7.994</rating>
+  <year>2010</year>
+  <imdbid>tt1528116</imdbid>
+  <tvdbid>1533641</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <tvrageid>1064845072</tvrageid>
+  <uniqueid type="Imdb">tt1528116</uniqueid>
+  <uniqueid type="Tvdb">1533641</uniqueid>
+  <uniqueid type="TvRage">1064845072</uniqueid>
+  <episode>1</episode>
+  <season>3</season>
+  <aired>2010-03-21</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9942708</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2832</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[每个人都说奇幻史诗《第九圈》的第 7 季结局非常令人失望； 即使是节目主持人斯宾塞马奎尔也热衷于转向新项目。 但并不是每个人都认为事情就该结束了。 事实上，Ninth Circle 痴迷者 Simon Smethurst 决定拜访他的英雄以帮助解决问题。 因为这就是粉丝们想要的......]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-17 14:13:20</dateadded>
+  <title>西蒙说</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>GuestStar</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>GuestStar</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Mohammed</name>
+    <role>Gavin</role>
+    <type>GuestStar</type>
+    <tmdbid>1509615</tmdbid>
+  </actor>
+  <actor>
+    <name>Lindsay Duncan</name>
+    <role>Loretta Lamb</role>
+    <type>GuestStar</type>
+    <tmdbid>30083</tmdbid>
+    <imdbid>nm0242026</imdbid>
+  </actor>
+  <director>Guillem Morales</director>
+  <rating>10</rating>
+  <year>2021</year>
+  <imdbid>tt14543418</imdbid>
+  <tvdbid>8415673</tvdbid>
+  <runtime>29</runtime>
+  <uniqueid type="Tvdb">8415673</uniqueid>
+  <uniqueid type="Imdb">tt14543418</uniqueid>
+  <episode>2</episode>
+  <season>6</season>
+  <aired>2021-05-17</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2475916</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1769</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

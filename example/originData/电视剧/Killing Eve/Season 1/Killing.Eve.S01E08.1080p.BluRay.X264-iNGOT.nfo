@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[As Villanelle takes a hostage as a bargaining chip, Eve learns more about the larger conspiracy and remains determined to track down Villanelle.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-06-24 13:09:32</dateadded>
+  <title>天啊，我好累</title>
+  <actor>
+    <name>Sandra Oh</name>
+    <role>Eve Polastri</role>
+    <type>Actor</type>
+    <tmdbid>25540</tmdbid>
+    <imdbid>nm0644897</imdbid>
+  </actor>
+  <actor>
+    <name>Jodie Comer</name>
+    <role>Villanelle</role>
+    <type>Actor</type>
+    <tmdbid>1388593</tmdbid>
+    <imdbid>nm3069650</imdbid>
+  </actor>
+  <actor>
+    <name>Fiona Shaw</name>
+    <role>Carolyn Martens</role>
+    <type>Actor</type>
+    <tmdbid>10981</tmdbid>
+    <imdbid>nm0789716</imdbid>
+  </actor>
+  <actor>
+    <name>Kirby Howell-Baptiste</name>
+    <role>Elena Felton</role>
+    <type>Actor</type>
+    <tmdbid>1532312</tmdbid>
+    <imdbid>nm4624730</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Bodnia</name>
+    <role>Konstantin</role>
+    <type>Actor</type>
+    <tmdbid>3398</tmdbid>
+    <imdbid>nm0091035</imdbid>
+  </actor>
+  <actor>
+    <name>Owen McDonnell</name>
+    <role>Niko Polastri</role>
+    <type>Actor</type>
+    <tmdbid>365333</tmdbid>
+    <imdbid>nm1711652</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Delaney</name>
+    <role>Kenny Stowton</role>
+    <type>Actor</type>
+    <tmdbid>2021417</tmdbid>
+    <imdbid>nm7780301</imdbid>
+  </actor>
+  <actor>
+    <name>Andrei Zayats</name>
+    <role>Concierge</role>
+    <type>GuestStar</type>
+    <tmdbid>1202629</tmdbid>
+    <imdbid>nm3507110</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Vodovoz</name>
+    <role>Prison Guard 3</role>
+    <type>GuestStar</type>
+    <tmdbid>1500879</tmdbid>
+    <imdbid>nm2380292</imdbid>
+  </actor>
+  <actor>
+    <name>Susan Lynch</name>
+    <role>Anna</role>
+    <type>GuestStar</type>
+    <tmdbid>42571</tmdbid>
+  </actor>
+  <actor>
+    <name>Tatiana Gurin</name>
+    <role>Woman with Pram</role>
+    <type>GuestStar</type>
+    <tmdbid>2107256</tmdbid>
+  </actor>
+  <actor>
+    <name>Ana Maria Bercu</name>
+    <role>Air Hostess</role>
+    <type>GuestStar</type>
+    <tmdbid>2107257</tmdbid>
+    <imdbid>nm9486619</imdbid>
+  </actor>
+  <actor>
+    <name>Sonia Elliman</name>
+    <role>Madame Tattevin</role>
+    <type>GuestStar</type>
+    <tmdbid>2107236</tmdbid>
+    <imdbid>nm2397882</imdbid>
+  </actor>
+  <actor>
+    <name>Yuli Lagodinsky</name>
+    <role>Irina</role>
+    <type>GuestStar</type>
+    <tmdbid>2107255</tmdbid>
+    <imdbid>nm9868399</imdbid>
+  </actor>
+  <director>Damon Thomas</director>
+  <rating>8.2</rating>
+  <year>2018</year>
+  <imdbid>tt7081320</imdbid>
+  <tvdbid>6670455</tvdbid>
+  <runtime>42</runtime>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt7081320</uniqueid>
+  <uniqueid type="Tvdb">6670455</uniqueid>
+  <episode>8</episode>
+  <season>1</season>
+  <aired>2018-05-27</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11233754</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>41</duration>
+        <durationinseconds>2505</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

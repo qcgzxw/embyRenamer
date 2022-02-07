@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[好男人雅各布坐了10年大牢，刑满获释后被迫参与黑帮枪支倒卖交易，否则家人危在旦夕。然而，10年的监狱磨练，却使他拥有问鼎黑帮老大宝座的实力……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-03-20 09:54:55</dateadded>
+  <title>一锤定音</title>
+  <originaltitle>Shot Caller</originaltitle>
+  <actor>
+    <name>Nikolaj Coster-Waldau</name>
+    <role>Jacob 'Money' Harlon</role>
+    <type>Actor</type>
+    <tmdbid>12795</tmdbid>
+    <imdbid>nm0182666</imdbid>
+  </actor>
+  <actor>
+    <name>Omari Hardwick</name>
+    <role>Kutcher</role>
+    <type>Actor</type>
+    <tmdbid>41556</tmdbid>
+    <imdbid>nm1165044</imdbid>
+  </actor>
+  <actor>
+    <name>Lake Bell</name>
+    <role>Kate Harlon</role>
+    <type>Actor</type>
+    <tmdbid>25703</tmdbid>
+    <imdbid>nm1128572</imdbid>
+  </actor>
+  <actor>
+    <name>Emory Cohen</name>
+    <role>Howie</role>
+    <type>Actor</type>
+    <tmdbid>1041440</tmdbid>
+    <imdbid>nm1710309</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Donovan</name>
+    <role>Bottles</role>
+    <type>Actor</type>
+    <tmdbid>52886</tmdbid>
+    <imdbid>nm0232998</imdbid>
+  </actor>
+  <actor>
+    <name>Jon Bernthal</name>
+    <role>Frank 'Shotgun'</role>
+    <type>Actor</type>
+    <tmdbid>19498</tmdbid>
+    <imdbid>nm1256532</imdbid>
+  </actor>
+  <actor>
+    <name>Holt McCallany</name>
+    <role>Jerry 'The Beast' Manning</role>
+    <type>Actor</type>
+    <tmdbid>7497</tmdbid>
+    <imdbid>nm0564697</imdbid>
+  </actor>
+  <actor>
+    <name>Evan Jones</name>
+    <role>Chopper</role>
+    <type>Actor</type>
+    <tmdbid>333</tmdbid>
+    <imdbid>nm0428055</imdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Bratt</name>
+    <role>Sanchez</role>
+    <type>Actor</type>
+    <tmdbid>4589</tmdbid>
+    <imdbid>nm0000973</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Browning</name>
+    <role>Toby 'Redwood' Simms</role>
+    <type>Actor</type>
+    <tmdbid>76543</tmdbid>
+    <imdbid>nm0115152</imdbid>
+  </actor>
+  <actor>
+    <name>Max Greenfield</name>
+    <role>Tom</role>
+    <type>Actor</type>
+    <tmdbid>1213603</tmdbid>
+    <imdbid>nm0339011</imdbid>
+  </actor>
+  <actor>
+    <name>Jessy Schram</name>
+    <role>Jennifer</role>
+    <type>Actor</type>
+    <tmdbid>26974</tmdbid>
+    <imdbid>nm1789336</imdbid>
+  </actor>
+  <actor>
+    <name>Juan Pablo Raba</name>
+    <role>Herman Gomez</role>
+    <type>Actor</type>
+    <tmdbid>937009</tmdbid>
+    <imdbid>nm0704696</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Gerald</name>
+    <role>Phil Cole</role>
+    <type>Actor</type>
+    <tmdbid>98215</tmdbid>
+    <imdbid>nm0313902</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Landes</name>
+    <role>Steve</role>
+    <type>Actor</type>
+    <tmdbid>57428</tmdbid>
+    <imdbid>nm0484678</imdbid>
+  </actor>
+  <actor>
+    <name>Keith Jardine</name>
+    <role>Ripper</role>
+    <type>Actor</type>
+    <tmdbid>78890</tmdbid>
+    <imdbid>nm2077124</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Minnich</name>
+    <role>Janie</role>
+    <type>Actor</type>
+    <tmdbid>1260554</tmdbid>
+    <imdbid>nm2075924</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathon McClendon</name>
+    <role>Joshua Harlon</role>
+    <type>Actor</type>
+    <tmdbid>1193398</tmdbid>
+    <imdbid>nm3206167</imdbid>
+  </actor>
+  <actor>
+    <name>Derek Dinniene</name>
+    <role>Young Joshua Harlon</role>
+    <type>Actor</type>
+    <tmdbid>1883596</tmdbid>
+  </actor>
+  <actor>
+    <name>Monique Candelaria</name>
+    <role>Lola Gomez</role>
+    <type>Actor</type>
+    <tmdbid>1264845</tmdbid>
+    <imdbid>nm3156214</imdbid>
+  </actor>
+  <actor>
+    <name>Cru Ennis</name>
+    <role>Jason Horvath</role>
+    <type>Actor</type>
+    <tmdbid>1116312</tmdbid>
+    <imdbid>nm3172703</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Winn</name>
+    <role>Doyle</role>
+    <type>Actor</type>
+    <tmdbid>1654004</tmdbid>
+    <imdbid>nm7377921</imdbid>
+  </actor>
+  <actor>
+    <name>David House</name>
+    <role>Capt. Freeman</role>
+    <type>Actor</type>
+    <tmdbid>79211</tmdbid>
+    <imdbid>nm1450145</imdbid>
+  </actor>
+  <actor>
+    <name>Diego Joaquin Lopez</name>
+    <role>Cellmate Lopez</role>
+    <type>Actor</type>
+    <tmdbid>1194995</tmdbid>
+    <imdbid>nm2407674</imdbid>
+  </actor>
+  <actor>
+    <name>Bobby Lee Osborn</name>
+    <role>Lenny</role>
+    <type>Actor</type>
+    <tmdbid>1883601</tmdbid>
+  </actor>
+  <actor>
+    <name>Brendan Kelly</name>
+    <role>Large Biker</role>
+    <type>Actor</type>
+    <tmdbid>166893</tmdbid>
+    <imdbid>nm0446220</imdbid>
+  </actor>
+  <actor>
+    <name>John Trejo</name>
+    <role>SHU Guard</role>
+    <type>Actor</type>
+    <tmdbid>1488513</tmdbid>
+    <imdbid>nm2823321</imdbid>
+  </actor>
+  <actor>
+    <name>Dylan Kenin</name>
+    <role>Trustee</role>
+    <type>Actor</type>
+    <tmdbid>85419</tmdbid>
+    <imdbid>nm0961185</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Page</name>
+    <role>SHU Guard</role>
+    <type>Actor</type>
+    <tmdbid>1094319</tmdbid>
+    <imdbid>nm0656275</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Sivertsen</name>
+    <role>LT. Roberts</role>
+    <type>Actor</type>
+    <tmdbid>156605</tmdbid>
+    <imdbid>nm0803390</imdbid>
+  </actor>
+  <actor>
+    <name>Brandon K. Hampton</name>
+    <role>Young Black Inmate</role>
+    <type>Actor</type>
+    <tmdbid>1574846</tmdbid>
+    <imdbid>nm3346272</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Adams</name>
+    <role>Inmate</role>
+    <type>Actor</type>
+    <tmdbid>1842691</tmdbid>
+    <imdbid>nm7965079</imdbid>
+  </actor>
+  <actor>
+    <name>Esodie Geiger</name>
+    <role>Judge</role>
+    <type>Actor</type>
+    <tmdbid>1424325</tmdbid>
+    <imdbid>nm0311901</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Sheets</name>
+    <role>Lead Officer</role>
+    <type>Actor</type>
+    <tmdbid>1494546</tmdbid>
+    <imdbid>nm2459165</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Ostroski</name>
+    <role>Banker-Type</role>
+    <type>Actor</type>
+    <tmdbid>1391889</tmdbid>
+    <imdbid>nm3106150</imdbid>
+  </actor>
+  <actor>
+    <name>Nathaniel Augustson</name>
+    <role>Chef</role>
+    <type>Actor</type>
+    <tmdbid>1670750</tmdbid>
+    <imdbid>nm4125106</imdbid>
+  </actor>
+  <actor>
+    <name>J. Nathan Simmons</name>
+    <role>Prison Inmate</role>
+    <type>Actor</type>
+    <tmdbid>1204226</tmdbid>
+    <imdbid>nm0799776</imdbid>
+  </actor>
+  <actor>
+    <name>Howard Ferguson Jr.</name>
+    <role>Basketball Opponent</role>
+    <type>Actor</type>
+    <tmdbid>1654003</tmdbid>
+    <imdbid>nm5448059</imdbid>
+  </actor>
+  <actor>
+    <name>Joshua R. Aragon</name>
+    <role>Inmate</role>
+    <type>Actor</type>
+    <tmdbid>1589524</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Browne</name>
+    <role>AD Seg Guard</role>
+    <type>Actor</type>
+    <tmdbid>43596</tmdbid>
+    <imdbid>nm2456350</imdbid>
+  </actor>
+  <actor>
+    <name>Jetto Dorsainville</name>
+    <role>Bailiff</role>
+    <type>Actor</type>
+    <tmdbid>1527957</tmdbid>
+    <imdbid>nm6591420</imdbid>
+  </actor>
+  <actor>
+    <name>Marika Day</name>
+    <role>Punk-Rocker Girl</role>
+    <type>Actor</type>
+    <tmdbid>1670755</tmdbid>
+    <imdbid>nm7409182</imdbid>
+  </actor>
+  <actor>
+    <name>David Miller</name>
+    <role>Prisoner</role>
+    <type>Actor</type>
+    <tmdbid>1440347</tmdbid>
+  </actor>
+  <actor>
+    <name>Diana Gaitirira</name>
+    <role>R&amp;R Guard</role>
+    <type>Actor</type>
+    <tmdbid>1548735</tmdbid>
+    <imdbid>nm3547430</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph P. Santillanes</name>
+    <role>Back-Up Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>1794933</tmdbid>
+  </actor>
+  <actor>
+    <name>Ivan Brutsche</name>
+    <role>SHU Guard</role>
+    <type>Actor</type>
+    <tmdbid>1244933</tmdbid>
+    <imdbid>nm2001754</imdbid>
+  </actor>
+  <actor>
+    <name>Cajardo Lindsey</name>
+    <role>Chino Guard</role>
+    <type>Actor</type>
+    <tmdbid>1510813</tmdbid>
+    <imdbid>nm1540125</imdbid>
+  </actor>
+  <actor>
+    <name>Rodger Larance</name>
+    <role>Pedestrian</role>
+    <type>Actor</type>
+    <tmdbid>1527977</tmdbid>
+    <imdbid>nm4526368</imdbid>
+  </actor>
+  <actor>
+    <name>Jose B. Martinez</name>
+    <role>Prisoner</role>
+    <type>Actor</type>
+    <tmdbid>1808776</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Daniel Pimentel</name>
+    <role>Executive Basketball Player</role>
+    <type>Actor</type>
+    <tmdbid>1480200</tmdbid>
+    <imdbid>nm6096281</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Benjamin Kirby</name>
+    <role>Prison Inmate</role>
+    <type>Actor</type>
+    <tmdbid>1883610</tmdbid>
+  </actor>
+  <actor>
+    <name>Euphrates 'Tee' Arthur</name>
+    <role>Prison Inmate</role>
+    <type>Actor</type>
+    <tmdbid>1883612</tmdbid>
+  </actor>
+  <actor>
+    <name>Dash Hamblin</name>
+    <role>Store Manager</role>
+    <type>Actor</type>
+    <tmdbid>1883614</tmdbid>
+  </actor>
+  <actor>
+    <name>Fred Padilla</name>
+    <role>Inmate</role>
+    <type>Actor</type>
+    <tmdbid>1650125</tmdbid>
+    <imdbid>nm5097548</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Lane</name>
+    <role>Basketball Opponent</role>
+    <type>Actor</type>
+    <tmdbid>1883617</tmdbid>
+  </actor>
+  <actor>
+    <name>Johnathan Paul Pena</name>
+    <role>Featured Prisoner</role>
+    <type>Actor</type>
+    <tmdbid>1883618</tmdbid>
+  </actor>
+  <actor>
+    <name>J.D. Herrera</name>
+    <role>Prosecuting Attorney</role>
+    <type>Actor</type>
+    <tmdbid>1883621</tmdbid>
+  </actor>
+  <director tmdbid="76422" imdbid="nm0006846">Ric Roman Waugh</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Xm157yQ7g1E</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8wAtS2RMkdA</trailer>
+  <rating>7.3</rating>
+  <year>2017</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt4633690</imdbid>
+  <tmdbid>339692</tmdbid>
+  <premiered>2017-07-13</premiered>
+  <releasedate>2017-07-13</releasedate>
+  <criticrating>69</criticrating>
+  <runtime>121</runtime>
+  <country>United States of America</country>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <studio>DirecTV</studio>
+  <studio>Bold Films</studio>
+  <studio>Participant</studio>
+  <studio>Relativity Media</studio>
+  <uniqueid type="Tmdb">339692</uniqueid>
+  <uniqueid type="Imdb">tt4633690</uniqueid>
+  <id>tt4633690</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4134134</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>120</duration>
+        <durationinseconds>7241</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

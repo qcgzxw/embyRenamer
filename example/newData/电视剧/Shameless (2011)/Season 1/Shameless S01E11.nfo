@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[黛比班的生活老师，她和菲奥娜套近乎，但是这让菲奥娜感觉很困惑。史蒂夫的生意终于遭到了托尼的怀疑，托尼着手调查他到底在干什么。利普和弟弟伊恩一起寻找伊恩的生父。凯伦对父亲艾迪在舞会上让她难堪怀恨在心，她准备报复父亲。法兰克的工伤补偿已经发给他了，他需要再找一份工作并出现“工伤。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-10 17:28:15</dateadded>
+  <title>寻找失去的父亲</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Slade Wiggins</name>
+    <role>Karen Jackson</role>
+    <type>Actor</type>
+    <tmdbid>439253</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Chatwin</name>
+    <role>Steve Wilton/Jimmy Lishman</role>
+    <type>Actor</type>
+    <tmdbid>503</tmdbid>
+  </actor>
+  <actor>
+    <name>Amy Smart</name>
+    <role>Jasmine Hollander</role>
+    <type>GuestStar</type>
+    <tmdbid>20189</tmdbid>
+  </actor>
+  <actor>
+    <name>Kristoffer Ryan Winters</name>
+    <role>Clayton Gallagher</role>
+    <type>GuestStar</type>
+    <tmdbid>173784</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Murray</name>
+    <role>Eddie Jackson</role>
+    <type>GuestStar</type>
+    <tmdbid>155649</tmdbid>
+    <imdbid>nm0615063</imdbid>
+  </actor>
+  <actor>
+    <name>Louise Fletcher</name>
+    <role>Peggy Gallagher</role>
+    <type>GuestStar</type>
+    <tmdbid>7071</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyler Jacob Moore</name>
+    <role>Tony Markovich</role>
+    <type>GuestStar</type>
+    <tmdbid>1225818</tmdbid>
+  </actor>
+  <director>Sanaa Hamri</director>
+  <rating>8</rating>
+  <year>2011</year>
+  <imdbid>tt1814410</imdbid>
+  <tvdbid>3650511</tvdbid>
+  <runtime>46</runtime>
+  <uniqueid type="Imdb">tt1814410</uniqueid>
+  <uniqueid type="Tvdb">3650511</uniqueid>
+  <episode>11</episode>
+  <season>1</season>
+  <aired>2011-03-20</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>13590949</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>46</duration>
+        <durationinseconds>2764</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>1080p</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[奥芙佛瑞德 (Offred) 与主教夫人探访珍妮 (Janine) 刚出生的孩子，不由得回想起基列政权成立前的革命暴动；奥芙葛伦 (Ofglen) 则要面对严峻的考验。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-07-03 19:12:23</dateadded>
+  <title>迟</title>
+  <actor>
+    <name>Elisabeth Moss</name>
+    <role>June Osborne / Offred / Ofjoseph</role>
+    <type>Actor</type>
+    <tmdbid>32798</tmdbid>
+  </actor>
+  <actor>
+    <name>Yvonne Strahovski</name>
+    <role>Serena Joy Waterford</role>
+    <type>Actor</type>
+    <tmdbid>63312</tmdbid>
+    <imdbid>nm2088803</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Fiennes</name>
+    <role>Commander Fred Waterford</role>
+    <type>Actor</type>
+    <tmdbid>12763</tmdbid>
+    <imdbid>nm0001212</imdbid>
+  </actor>
+  <actor>
+    <name>Ann Dowd</name>
+    <role>Aunt Lydia / Miss Clements</role>
+    <type>Actor</type>
+    <tmdbid>43366</tmdbid>
+    <imdbid>nm0235652</imdbid>
+  </actor>
+  <actor>
+    <name>Madeline Brewer</name>
+    <role>Janine Lindo / Ofwarren / Ofdaniel / Ofhoward</role>
+    <type>Actor</type>
+    <tmdbid>1443712</tmdbid>
+    <imdbid>nm5483400</imdbid>
+  </actor>
+  <actor>
+    <name>Max Minghella</name>
+    <role>Nick Blaine</role>
+    <type>Actor</type>
+    <tmdbid>2978</tmdbid>
+    <imdbid>nm1540404</imdbid>
+  </actor>
+  <actor>
+    <name>O.T. Fagbenle</name>
+    <role>Lucas 'Luke' Bankole</role>
+    <type>Actor</type>
+    <tmdbid>113970</tmdbid>
+  </actor>
+  <actor>
+    <name>Samira Wiley</name>
+    <role>Moira</role>
+    <type>Actor</type>
+    <tmdbid>1034197</tmdbid>
+    <imdbid>nm4148126</imdbid>
+  </actor>
+  <actor>
+    <name>Amanda Brugel</name>
+    <role>Rita Blue</role>
+    <type>GuestStar</type>
+    <tmdbid>1232769</tmdbid>
+    <imdbid>nm0115760</imdbid>
+  </actor>
+  <actor>
+    <name>Birgitte Solem</name>
+    <role>Putnam Martha</role>
+    <type>GuestStar</type>
+    <tmdbid>1727022</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Cummings</name>
+    <role>Burke</role>
+    <type>GuestStar</type>
+    <tmdbid>1416383</tmdbid>
+  </actor>
+  <actor>
+    <name>Ever Carradine</name>
+    <role>Putnam Naomi</role>
+    <type>GuestStar</type>
+    <tmdbid>41557</tmdbid>
+  </actor>
+  <actor>
+    <name>Tattiawna Jones</name>
+    <role>Ofglen #2</role>
+    <type>GuestStar</type>
+    <tmdbid>110911</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Beirne</name>
+    <role>Barista</role>
+    <type>GuestStar</type>
+    <tmdbid>1166834</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicole Stamp</name>
+    <role>Lenore</role>
+    <type>GuestStar</type>
+    <tmdbid>1635683</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Caruana</name>
+    <role>Roger</role>
+    <type>GuestStar</type>
+    <tmdbid>180934</tmdbid>
+  </actor>
+  <director>Reed Morano</director>
+  <rating>7.857</rating>
+  <year>2017</year>
+  <imdbid>tt5931652</imdbid>
+  <tvdbid>6051447</tvdbid>
+  <runtime>53</runtime>
+  <genre>Drama</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt5931652</uniqueid>
+  <uniqueid type="Tvdb">6051447</uniqueid>
+  <episode>3</episode>
+  <season>1</season>
+  <aired>2017-04-26</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>15028484</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>53</duration>
+        <durationinseconds>3185</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

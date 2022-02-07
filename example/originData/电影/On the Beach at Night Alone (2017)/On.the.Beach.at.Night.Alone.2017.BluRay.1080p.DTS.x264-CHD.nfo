@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　某外国城市，来自韩国的女演员英熙，正因为和国内一个已婚男子的恋情而备受压力，她放弃了一切，甘受千夫所指以此表明心迹。他说会去找他，但她并不相信。在熟识的朋友家吃过饭，她去了海边。她认为朋友不会理解这段感情，但还是问道：“他会像我思念他一样思念我吗”  　　韩国江陵。几个老朋友的聚会。起初气氛有点尴尬，喝了些酒之后，英熙想吓吓他们。她表现得冷漠又不近人情，但他们反而喜欢这样。酒终人散，英熙独自去了海滩，发泄重重心事似雾般消散。她想知道，爱在生命中到底有多重要？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-11 01:42:12</dateadded>
+  <title>独自在夜晚的海边</title>
+  <originaltitle>밤의 해변에서 혼자</originaltitle>
+  <actor>
+    <name>Kim Min-hee</name>
+    <role>Younghee</role>
+    <type>Actor</type>
+    <tmdbid>123664</tmdbid>
+    <imdbid>nm1195119</imdbid>
+  </actor>
+  <actor>
+    <name>Jung Jae-young</name>
+    <role>Myungsoo</role>
+    <type>Actor</type>
+    <tmdbid>83682</tmdbid>
+    <imdbid>nm1045684</imdbid>
+  </actor>
+  <actor>
+    <name>Seo Young-hwa</name>
+    <role>Jeeyoung</role>
+    <type>Actor</type>
+    <tmdbid>564849</tmdbid>
+  </actor>
+  <actor>
+    <name>Kwon Hae-hyo</name>
+    <role>Chunwoo</role>
+    <type>Actor</type>
+    <tmdbid>554945</tmdbid>
+    <imdbid>nm1040587</imdbid>
+  </actor>
+  <actor>
+    <name>Song Seon-mi</name>
+    <role>Junhee</role>
+    <type>Actor</type>
+    <tmdbid>102269</tmdbid>
+    <imdbid>nm1022228</imdbid>
+  </actor>
+  <actor>
+    <name>Moon Sung-keun</name>
+    <role>Sangwon</role>
+    <type>Actor</type>
+    <tmdbid>240948</tmdbid>
+    <imdbid>nm0600673</imdbid>
+  </actor>
+  <actor>
+    <name>Ahn Jae-hong</name>
+    <role>Seunghee</role>
+    <type>Actor</type>
+    <tmdbid>1164507</tmdbid>
+    <imdbid>nm1693068</imdbid>
+  </actor>
+  <actor>
+    <name>Gong Min-jeung</name>
+    <role>Mari</role>
+    <type>Actor</type>
+    <tmdbid>2288847</tmdbid>
+  </actor>
+  <actor>
+    <name>Kang Tae-u</name>
+    <role>Sung-woo</role>
+    <type>Actor</type>
+    <tmdbid>1997967</tmdbid>
+    <imdbid>nm8920726</imdbid>
+  </actor>
+  <actor>
+    <name>Park Hong-yeol</name>
+    <role>Black man</role>
+    <type>Actor</type>
+    <tmdbid>1294391</tmdbid>
+    <imdbid>nm3297226</imdbid>
+  </actor>
+  <actor>
+    <name>Han Jai</name>
+    <role>Seon-hee</role>
+    <type>Actor</type>
+    <tmdbid>2653304</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Peranson</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>221142</tmdbid>
+    <imdbid>nm2486743</imdbid>
+  </actor>
+  <actor>
+    <name>Shin Sun</name>
+    <role>Joo-hyo</role>
+    <type>Actor</type>
+    <tmdbid>2999285</tmdbid>
+  </actor>
+  <actor>
+    <name>Karl Feder</name>
+    <role>Bookstore owner</role>
+    <type>Actor</type>
+    <tmdbid>2999483</tmdbid>
+  </actor>
+  <actor>
+    <name>Brigitte Skerra</name>
+    <role>Door woman</role>
+    <type>Actor</type>
+    <tmdbid>2999484</tmdbid>
+  </actor>
+  <actor>
+    <name>Bettina Steinbrugge</name>
+    <role>Lilian</role>
+    <type>Actor</type>
+    <tmdbid>2999485</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Ye-joo</name>
+    <role>Do-hee</role>
+    <type>Actor</type>
+    <tmdbid>2078538</tmdbid>
+  </actor>
+  <director tmdbid="150975" imdbid="nm0393254">Hong Sang-soo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=l7CP5ipqqwU</trailer>
+  <rating>6.8</rating>
+  <year>2017</year>
+  <imdbid>tt6412864</imdbid>
+  <tmdbid>434773</tmdbid>
+  <premiered>2017-03-23</premiered>
+  <releasedate>2017-03-23</releasedate>
+  <criticrating>92</criticrating>
+  <runtime>101</runtime>
+  <country>South Korea</country>
+  <genre>剧情</genre>
+  <studio>Jeonwonsa Film</studio>
+  <studio>Contents Panda</studio>
+  <uniqueid type="Tmdb">434773</uniqueid>
+  <uniqueid type="Imdb">tt6412864</uniqueid>
+  <id>tt6412864</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>14214389</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6032</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

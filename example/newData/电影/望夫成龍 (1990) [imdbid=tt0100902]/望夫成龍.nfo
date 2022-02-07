@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　石金水与吴带娣同在乡下长大，二人青梅竹马，也私定终生了。由于阿娣的父亲反对，两人不得不私奔到市区生活。刚开始金水的求职路十分不顺，处处碰壁，夫妻俩过着拮据的生活。得到工作后的金水勤奋工作得到了上司Nancy赏识提携。二人更渐生情愫，导致了金水与妻子阿娣感情破裂，阿娣伤心离去。两年后，金水浪子回头，决定找回昔日的爱妻。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-04 14:15:04</dateadded>
+  <title>望夫成龙</title>
+  <originaltitle>望夫成龍</originaltitle>
+  <actor>
+    <name>Stephen Chow</name>
+    <role>Sam Shek Kam-Shui</role>
+    <type>Actor</type>
+    <tmdbid>57607</tmdbid>
+    <imdbid>nm0159507</imdbid>
+  </actor>
+  <actor>
+    <name>Sandra Ng Kwun-Yu</name>
+    <role>Ng Dai-Tai</role>
+    <type>Actor</type>
+    <tmdbid>88495</tmdbid>
+    <imdbid>nm0510950</imdbid>
+  </actor>
+  <actor>
+    <name>Shing Fui-On</name>
+    <role>Tai's Father</role>
+    <type>Actor</type>
+    <tmdbid>119447</tmdbid>
+    <imdbid>nm0793924</imdbid>
+  </actor>
+  <actor>
+    <name>Suki Kwan</name>
+    <role>Daisy Kuan Szu-Szu</role>
+    <type>Actor</type>
+    <tmdbid>227804</tmdbid>
+    <imdbid>nm0477105</imdbid>
+  </actor>
+  <actor>
+    <name>Dennis Chan Kwok-San</name>
+    <role>Mr Wong</role>
+    <type>Actor</type>
+    <tmdbid>64662</tmdbid>
+    <imdbid>nm0150862</imdbid>
+  </actor>
+  <actor>
+    <name>Pauline Kwan</name>
+    <role>Pumpkin (Tai's kid sister)</role>
+    <type>Actor</type>
+    <tmdbid>1092474</tmdbid>
+    <imdbid>nm0477092</imdbid>
+  </actor>
+  <actor>
+    <name>Wu Fung</name>
+    <role>Uncle Nine</role>
+    <type>Actor</type>
+    <tmdbid>567303</tmdbid>
+  </actor>
+  <actor>
+    <name>Angelina Lo Yuen-Yen</name>
+    <role>Mabel</role>
+    <type>Actor</type>
+    <tmdbid>1395247</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Wong Man-Tak</name>
+    <role>Ms Kuan's new boyfriend</role>
+    <type>Actor</type>
+    <tmdbid>64896</tmdbid>
+    <imdbid>nm0939255</imdbid>
+  </actor>
+  <actor>
+    <name>Pal Sinn Lap-man</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>142644</tmdbid>
+    <imdbid>nm0801507</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Lai Bei-Dak</name>
+    <role>Mr Lai</role>
+    <type>Actor</type>
+    <tmdbid>1191058</tmdbid>
+  </actor>
+  <actor>
+    <name>Lo Hung</name>
+    <role>Mr Lu</role>
+    <type>Actor</type>
+    <tmdbid>1416970</tmdbid>
+  </actor>
+  <director tmdbid="130317">Tommy Leung Ga-Shu</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3VRoe5onQjg</trailer>
+  <rating>6.2</rating>
+  <year>1990</year>
+  <imdbid>tt0100902</imdbid>
+  <tmdbid>173653</tmdbid>
+  <premiered>1990-02-14</premiered>
+  <releasedate>1990-02-14</releasedate>
+  <runtime>96</runtime>
+  <country>Hong Kong</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <studio>D and B Films Co. Ltd.</studio>
+  <uniqueid type="Imdb">tt0100902</uniqueid>
+  <uniqueid type="Tmdb">173653</uniqueid>
+  <id>tt0100902</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6982754</bitrate>
+        <width>1920</width>
+        <height>1038</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5734</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

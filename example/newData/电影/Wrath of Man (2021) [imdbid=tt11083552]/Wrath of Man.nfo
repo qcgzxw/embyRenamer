@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[在一次全副武装的运钞车劫案中，梅斯先生的儿子作为案发目击者被劫匪杀害。怒火中烧的梅斯为报丧子之仇，化身H卧底成为运钞车安保，试图找出杀害他儿子的劫匪以及与劫匪暗中勾结的安保公司内鬼。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-27 13:28:50</dateadded>
+  <title>人之怒</title>
+  <originaltitle>Wrath of Man</originaltitle>
+  <actor>
+    <name>Jason Statham</name>
+    <role>H</role>
+    <type>Actor</type>
+    <tmdbid>976</tmdbid>
+    <imdbid>nm0005458</imdbid>
+  </actor>
+  <actor>
+    <name>Holt McCallany</name>
+    <role>Bullet</role>
+    <type>Actor</type>
+    <tmdbid>7497</tmdbid>
+    <imdbid>nm0564697</imdbid>
+  </actor>
+  <actor>
+    <name>Rocci Williams</name>
+    <role>Hollow Bob</role>
+    <type>Actor</type>
+    <tmdbid>1629429</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Hartnett</name>
+    <role>Boy Sweat Dave</role>
+    <type>Actor</type>
+    <tmdbid>2299</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Donovan</name>
+    <role>Jackson</role>
+    <type>Actor</type>
+    <tmdbid>52886</tmdbid>
+    <imdbid>nm0232998</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Eastwood</name>
+    <role>Jan</role>
+    <type>Actor</type>
+    <tmdbid>928572</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy García</name>
+    <role>The King</role>
+    <type>Actor</type>
+    <tmdbid>1271</tmdbid>
+    <imdbid>nm0000412</imdbid>
+  </actor>
+  <actor>
+    <name>Deobia Oparei</name>
+    <role>Brad</role>
+    <type>Actor</type>
+    <tmdbid>58758</tmdbid>
+  </actor>
+  <actor>
+    <name>Laz Alonso</name>
+    <role>Carlos</role>
+    <type>Actor</type>
+    <tmdbid>10964</tmdbid>
+  </actor>
+  <actor>
+    <name>Raúl Castillo</name>
+    <role>Sam</role>
+    <type>Actor</type>
+    <tmdbid>557579</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Reilly</name>
+    <role>Tim</role>
+    <type>Actor</type>
+    <tmdbid>1384499</tmdbid>
+  </actor>
+  <actor>
+    <name>Eddie Marsan</name>
+    <role>Terry</role>
+    <type>Actor</type>
+    <tmdbid>1665</tmdbid>
+    <imdbid>nm0550371</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Ferns</name>
+    <role>Sticky John</role>
+    <type>Actor</type>
+    <tmdbid>60416</tmdbid>
+    <imdbid>nm0273159</imdbid>
+  </actor>
+  <actor>
+    <name>Niamh Algar</name>
+    <role>Dana</role>
+    <type>Actor</type>
+    <tmdbid>1362813</tmdbid>
+  </actor>
+  <actor>
+    <name>Post Malone</name>
+    <role>Robber</role>
+    <type>Actor</type>
+    <tmdbid>1821863</tmdbid>
+    <imdbid>nm8203589</imdbid>
+  </actor>
+  <actor>
+    <name>Lyne Renee</name>
+    <role>Kirsty</role>
+    <type>Actor</type>
+    <tmdbid>45753</tmdbid>
+    <imdbid>nm1869872</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Molinari</name>
+    <role>Robber</role>
+    <type>Actor</type>
+    <tmdbid>202930</tmdbid>
+  </actor>
+  <actor>
+    <name>Tadhg Murphy</name>
+    <role>Shirley</role>
+    <type>Actor</type>
+    <tmdbid>1256162</tmdbid>
+  </actor>
+  <actor>
+    <name>Babs Olusanmokun</name>
+    <role>Moggy</role>
+    <type>Actor</type>
+    <tmdbid>205923</tmdbid>
+  </actor>
+  <actor>
+    <name>Darrell D'Silva</name>
+    <role>Mike</role>
+    <type>Actor</type>
+    <tmdbid>186396</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Illesley</name>
+    <role>Jackson's Son</role>
+    <type>Actor</type>
+    <tmdbid>2316169</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Calder</name>
+    <role>Amy</role>
+    <type>Actor</type>
+    <tmdbid>1355139</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Wong</name>
+    <role>FBI Agent Okey</role>
+    <type>Actor</type>
+    <tmdbid>1033691</tmdbid>
+    <imdbid>nm3438484</imdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Babalola</name>
+    <role>Stuart</role>
+    <type>Actor</type>
+    <tmdbid>2766048</tmdbid>
+  </actor>
+  <actor>
+    <name>Eli Brown</name>
+    <role>Dougie</role>
+    <type>Actor</type>
+    <tmdbid>1818688</tmdbid>
+  </actor>
+  <actor>
+    <name>Cameron Jack</name>
+    <role>Brendan</role>
+    <type>Actor</type>
+    <tmdbid>1473276</tmdbid>
+  </actor>
+  <actor>
+    <name>Montana Manning</name>
+    <role>Anna</role>
+    <type>Actor</type>
+    <tmdbid>1684152</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Cowdery</name>
+    <role>Hubbard</role>
+    <type>Actor</type>
+    <tmdbid>1479957</tmdbid>
+  </actor>
+  <actor>
+    <name>Eve Macklin</name>
+    <role>Jane</role>
+    <type>Actor</type>
+    <tmdbid>1092908</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernando Martinez</name>
+    <role>Chef</role>
+    <type>Actor</type>
+    <tmdbid>1358063</tmdbid>
+  </actor>
+  <actor>
+    <name>Stevee Davies</name>
+    <role>Hotel Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>1278601</tmdbid>
+  </actor>
+  <actor>
+    <name>James Warren</name>
+    <role>Heavy #1</role>
+    <type>Actor</type>
+    <tmdbid>1646438</tmdbid>
+    <imdbid>nm0912879</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Shoubber</name>
+    <role>Wealthy Arab</role>
+    <type>Actor</type>
+    <tmdbid>2766053</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Joseph Woolf</name>
+    <role>Bar Punter</role>
+    <type>Actor</type>
+    <tmdbid>2303017</tmdbid>
+  </actor>
+  <actor>
+    <name>Leonardo Lacaria</name>
+    <role>Bar Customer</role>
+    <type>Actor</type>
+    <tmdbid>1685493</tmdbid>
+  </actor>
+  <actor>
+    <name>Khalid Ghajji</name>
+    <role>Officer</role>
+    <type>Actor</type>
+    <tmdbid>1768008</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Elfonzia</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>2766122</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Bratanov</name>
+    <role>Office Manager</role>
+    <type>Actor</type>
+    <tmdbid>2100852</tmdbid>
+  </actor>
+  <actor>
+    <name>Phoebe Farnham</name>
+    <role>Jackson's Daughter</role>
+    <type>Actor</type>
+    <tmdbid>1858354</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Shrimpton</name>
+    <role>Armourer's Assistant</role>
+    <type>Actor</type>
+    <tmdbid>2420269</tmdbid>
+  </actor>
+  <actor>
+    <name>Dee Pearce</name>
+    <type>Actor</type>
+    <tmdbid>2766130</tmdbid>
+  </actor>
+  <actor>
+    <name>Cain Aiden</name>
+    <role>Stadium Goer</role>
+    <type>Actor</type>
+    <tmdbid>2766131</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Mae</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>2766132</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Sanderson</name>
+    <role>Hotel Guest</role>
+    <type>Actor</type>
+    <tmdbid>2766133</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Lynch</name>
+    <role>Pool Player (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2766134</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Delaney</name>
+    <role>Boss Blake Halls</role>
+    <type>Actor</type>
+    <tmdbid>1091324</tmdbid>
+  </actor>
+  <actor>
+    <name>Puneet Tyagi</name>
+    <role>Sam</role>
+    <type>Actor</type>
+    <tmdbid>3109891</tmdbid>
+  </actor>
+  <actor>
+    <name>Gerald Tyler</name>
+    <role>Armourer</role>
+    <type>Actor</type>
+    <tmdbid>1919072</tmdbid>
+  </actor>
+  <director tmdbid="956" imdbid="nm0005363">Guy Ritchie</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EFYEni2gsK0</trailer>
+  <rating>7.2</rating>
+  <year>2021</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt11083552</imdbid>
+  <tmdbid>637649</tmdbid>
+  <premiered>2021-04-22</premiered>
+  <releasedate>2021-04-22</releasedate>
+  <criticrating>66</criticrating>
+  <runtime>119</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>犯罪</genre>
+  <genre>动作</genre>
+  <genre>惊悚</genre>
+  <studio>Miramax</studio>
+  <studio>Metro-Goldwyn-Mayer</studio>
+  <studio>Toff Guy Films</studio>
+  <studio>Lionsgate</studio>
+  <studio>CAA Media Finance</studio>
+  <uniqueid type="Tmdb">637649</uniqueid>
+  <uniqueid type="Imdb">tt11083552</uniqueid>
+  <id>tt11083552</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>15552743</bitrate>
+        <width>3840</width>
+        <height>1600</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>118</duration>
+        <durationinseconds>7136</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>En&amp;Chs</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

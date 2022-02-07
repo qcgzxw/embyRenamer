@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[已经改行的前刑警忠浩经营着一所按摩院。近来按摩院怪事连连，院内按摩女郎接连失踪，最后一位离开的女郎叫美珍。和美珍最后电话联系的客人号码和所有失踪女郎最后联系的号码惊人一致，但美珍却已经再也联络不上。在寻找美珍的过程中，忠浩偶然遇到一个名叫英民的家伙，因看到对方衣服上沾染血迹，断定该人就是导致按摩女郎接连失踪的罪魁祸首，并对其展开追击。
+ 英民透露所有失踪女郎都已身陷非命，一时间警署全体哗然。然而，在已经忙乱不已的警察面前，英民露出泰然笑意，声称美珍尚在人世。众人没有任何证据可以拘捕英民。为血案头疼不已的警察们急于找到与英民行凶相关的证据。而忠浩坚信美珍还活着，于是开始四处寻访……]]></plot>
+  <outline><![CDATA[追击者]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-02 07:40:26</dateadded>
+  <title>追击者</title>
+  <originaltitle>추격자</originaltitle>
+  <actor>
+    <name>Kim Yoon-seok</name>
+    <role>Jung-Ho</role>
+    <type>Actor</type>
+    <tmdbid>75912</tmdbid>
+    <imdbid>nm2412823</imdbid>
+  </actor>
+  <actor>
+    <name>Ha Jung-woo</name>
+    <role>Ji Young-Min</role>
+    <type>Actor</type>
+    <tmdbid>75913</tmdbid>
+    <imdbid>nm1978402</imdbid>
+  </actor>
+  <actor>
+    <name>Seo Young-hee</name>
+    <role>Mi-Jin</role>
+    <type>Actor</type>
+    <tmdbid>75914</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Yoo-jung</name>
+    <role>Eun-Ji, Mi-Jin's daughter</role>
+    <type>Actor</type>
+    <tmdbid>140335</tmdbid>
+    <imdbid>nm2947737</imdbid>
+  </actor>
+  <actor>
+    <name>Jung In-gi</name>
+    <role>Detective Lee Gil-Woo</role>
+    <type>Actor</type>
+    <tmdbid>240082</tmdbid>
+    <imdbid>nm1559446</imdbid>
+  </actor>
+  <actor>
+    <name>Park Hyo-joo</name>
+    <role>Detective Oh Eun-shil</role>
+    <type>Actor</type>
+    <tmdbid>939135</tmdbid>
+  </actor>
+  <actor>
+    <name>Jo Deok-jae</name>
+    <role>Detective Choi</role>
+    <type>Actor</type>
+    <tmdbid>564848</tmdbid>
+  </actor>
+  <actor>
+    <name>Choi Jung-woo</name>
+    <role>Mounted Police chief</role>
+    <type>Actor</type>
+    <tmdbid>572227</tmdbid>
+    <imdbid>nm3853513</imdbid>
+  </actor>
+  <actor>
+    <name>Oh Yeon-ah</name>
+    <role>Sung-Hee</role>
+    <type>Actor</type>
+    <tmdbid>1701050</tmdbid>
+  </actor>
+  <actor>
+    <name>Koo Bon-Woong</name>
+    <role>Oh-Jot (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1120766</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoo Ji-yeon</name>
+    <role>Hee-jung (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1335774</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Sun-young</name>
+    <role>Ji-yeong (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1293369</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Sang-hee</name>
+    <role>(uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1374543</tmdbid>
+    <imdbid>nm5471670</imdbid>
+  </actor>
+  <director tmdbid="75915" imdbid="nm2947553">Na Hong-jin</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=akiHkFxV24w</trailer>
+  <rating>7.8</rating>
+  <year>2008</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt1190539</imdbid>
+  <tmdbid>13855</tmdbid>
+  <premiered>2008-02-14</premiered>
+  <releasedate>2008-02-14</releasedate>
+  <criticrating>82</criticrating>
+  <runtime>120</runtime>
+  <tagline>追击者</tagline>
+  <country>South Korea</country>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <studio>Bidangil Pictures</studio>
+  <studio>Finecut</studio>
+  <studio>Hanhwa Venture Capital</studio>
+  <studio>Michigan Venture Capital</studio>
+  <studio>Showbox</studio>
+  <studio>Vantage Holdings</studio>
+  <uniqueid type="Tmdb">13855</uniqueid>
+  <uniqueid type="Imdb">tt1190539</uniqueid>
+  <id>tt1190539</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10441766</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>119</duration>
+        <durationinseconds>7196</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

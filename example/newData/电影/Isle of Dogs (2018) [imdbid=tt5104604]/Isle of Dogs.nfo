@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　韦斯·安德森的新片又定为一部关于狗的定格动画。杰夫·高布伦近日和乐队做爵士演出时，透露他参与该片配音。同片还有爱德华·诺顿+鲍勃·巴拉班+布莱恩·科兰斯顿，老白首次合作安德森，另3位和导演是熟人。高布伦说新片灵感来自日本，四位的角色都是狗。]]></plot>
+  <outline><![CDATA[不离不弃 不负众汪]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2018-06-22 08:51:58</dateadded>
+  <title>犬之岛</title>
+  <originaltitle>Isle of Dogs</originaltitle>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Chief (voice)</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Koyu Rankin</name>
+    <role>Atari Kobayashi (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1726151</tmdbid>
+  </actor>
+  <actor>
+    <name>Bob Balaban</name>
+    <role>King (voice)</role>
+    <type>Actor</type>
+    <tmdbid>12438</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward Norton</name>
+    <role>Rex (voice)</role>
+    <type>Actor</type>
+    <tmdbid>819</tmdbid>
+    <imdbid>nm0001570</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Murray</name>
+    <role>Boss (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1532</tmdbid>
+    <imdbid>nm0000195</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Goldblum</name>
+    <role>Duke (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4785</tmdbid>
+    <imdbid>nm0000156</imdbid>
+  </actor>
+  <actor>
+    <name>Kunichi Nomura</name>
+    <role>Mayor Kobayashi (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1714579</tmdbid>
+    <imdbid>nm1440081</imdbid>
+  </actor>
+  <actor>
+    <name>Fisher Stevens</name>
+    <role>Scrap (voice)</role>
+    <type>Actor</type>
+    <tmdbid>26473</tmdbid>
+    <imdbid>nm0001770</imdbid>
+  </actor>
+  <actor>
+    <name>Akira Takayama</name>
+    <role>Major Domo (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1333696</tmdbid>
+    <imdbid>nm0847425</imdbid>
+  </actor>
+  <actor>
+    <name>Greta Gerwig</name>
+    <role>Tracy Walker (voice)</role>
+    <type>Actor</type>
+    <tmdbid>45400</tmdbid>
+    <imdbid>nm1950086</imdbid>
+  </actor>
+  <actor>
+    <name>Ken Watanabe</name>
+    <role>Head Surgeon (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3899</tmdbid>
+    <imdbid>nm0913822</imdbid>
+  </actor>
+  <actor>
+    <name>Frances McDormand</name>
+    <role>Interpreter Nelson (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3910</tmdbid>
+    <imdbid>nm0000531</imdbid>
+  </actor>
+  <actor>
+    <name>Nijiro Murakami</name>
+    <role>Editor Hiroshi (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1310719</tmdbid>
+    <imdbid>nm6327727</imdbid>
+  </actor>
+  <actor>
+    <name>Harvey Keitel</name>
+    <role>Gondo (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1037</tmdbid>
+    <imdbid>nm0000172</imdbid>
+  </actor>
+  <actor>
+    <name>Liev Schreiber</name>
+    <role>Spots (voice)</role>
+    <type>Actor</type>
+    <tmdbid>23626</tmdbid>
+    <imdbid>nm0000630</imdbid>
+  </actor>
+  <actor>
+    <name>Scarlett Johansson</name>
+    <role>Nutmeg (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1245</tmdbid>
+    <imdbid>nm0424060</imdbid>
+  </actor>
+  <actor>
+    <name>Tilda Swinton</name>
+    <role>Oracle (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3063</tmdbid>
+    <imdbid>nm0842770</imdbid>
+  </actor>
+  <actor>
+    <name>Akira Ito</name>
+    <role>Professor Watanabe (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1643952</tmdbid>
+    <imdbid>nm4510749</imdbid>
+  </actor>
+  <actor>
+    <name>F. Murray Abraham</name>
+    <role>Jupiter (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1164</tmdbid>
+    <imdbid>nm0000719</imdbid>
+  </actor>
+  <actor>
+    <name>Courtney B. Vance</name>
+    <role>Narrator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>24047</tmdbid>
+    <imdbid>nm0005524</imdbid>
+  </actor>
+  <actor>
+    <name>Yōko Ono</name>
+    <role>Assistant-Scientist Yoko-ono (voice)</role>
+    <type>Actor</type>
+    <tmdbid>96082</tmdbid>
+    <imdbid>nm0648780</imdbid>
+  </actor>
+  <actor>
+    <name>Mari Natsuki</name>
+    <role>Auntie (voice)</role>
+    <type>Actor</type>
+    <tmdbid>19589</tmdbid>
+    <imdbid>nm0622412</imdbid>
+  </actor>
+  <actor>
+    <name>Yojiro Noda</name>
+    <role>News Anchor (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1462260</tmdbid>
+    <imdbid>nm6911565</imdbid>
+  </actor>
+  <actor>
+    <name>Frank Wood</name>
+    <role>Simul-Translate Machine (voice)</role>
+    <type>Actor</type>
+    <tmdbid>52021</tmdbid>
+    <imdbid>nm0939703</imdbid>
+  </actor>
+  <actor>
+    <name>Roman Coppola</name>
+    <role>Igor (voice)</role>
+    <type>Actor</type>
+    <tmdbid>38803</tmdbid>
+    <imdbid>nm0178910</imdbid>
+  </actor>
+  <actor>
+    <name>Anjelica Huston</name>
+    <role>Mute Poodle (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5657</tmdbid>
+    <imdbid>nm0001378</imdbid>
+  </actor>
+  <actor>
+    <name>Kara Hayward</name>
+    <role>Peppermint (voice)</role>
+    <type>Actor</type>
+    <tmdbid>929905</tmdbid>
+    <imdbid>nm4442319</imdbid>
+  </actor>
+  <actor>
+    <name>Satoshi Yamazaki</name>
+    <role>Taiko Drummer (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2022416</tmdbid>
+  </actor>
+  <actor>
+    <name>Gen Ueda</name>
+    <role>Taiko Drummer (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2022417</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryuhei Matsuda</name>
+    <role>Junior Scientist 4 / Bartender (voice)</role>
+    <type>Actor</type>
+    <tmdbid>72932</tmdbid>
+    <imdbid>nm0559430</imdbid>
+  </actor>
+  <actor>
+    <name>Jun Takahashi</name>
+    <role>Mission Control Drone Pilot (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2022419</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward Bursch</name>
+    <role>Owl (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1978890</tmdbid>
+  </actor>
+  <actor>
+    <name>Luli Shioi</name>
+    <role>Mission Control Technician (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2022420</tmdbid>
+  </actor>
+  <actor>
+    <name>Erica Dorn</name>
+    <role>Mission Control Technician (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2022421</tmdbid>
+  </actor>
+  <actor>
+    <name>Chinami Narikawa</name>
+    <role>Mission Control Technician (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2022422</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Benz</name>
+    <role>Aboriginal Dog (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2022426</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Orman</name>
+    <role>Aboriginal Dog (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2022428</tmdbid>
+  </actor>
+  <actor>
+    <name>J. Wurster</name>
+    <role>Aboriginal Dog (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2022429</tmdbid>
+  </actor>
+  <actor>
+    <name>Jake Ryan</name>
+    <role>Junior-Interpreter Ernie (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1614459</tmdbid>
+    <imdbid>nm3638077</imdbid>
+  </actor>
+  <actor>
+    <name>Takayuki Yamada</name>
+    <role>Junior Scientist 1 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>74377</tmdbid>
+    <imdbid>nm1303233</imdbid>
+  </actor>
+  <actor>
+    <name>Kozue Akimoto</name>
+    <role>Junior Scientist 2 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2022418</tmdbid>
+  </actor>
+  <actor>
+    <name>Shota Matsuda</name>
+    <role>Junior Scientist 3 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>84044</tmdbid>
+    <imdbid>nm2097378</imdbid>
+  </actor>
+  <actor>
+    <name>Kiyotaka Mizukoshi</name>
+    <role>Election Night Tabulator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2022415</tmdbid>
+  </actor>
+  <actor>
+    <name>Elaiza Ikeda</name>
+    <role>Punk Girl (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1691461</tmdbid>
+    <imdbid>nm4233819</imdbid>
+  </actor>
+  <actor>
+    <name>Ryuhei Nakadai</name>
+    <role>Surgical Assistant (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2022430</tmdbid>
+  </actor>
+  <actor>
+    <name>Shin Mononobe</name>
+    <role>Surgical Assistant (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2022431</tmdbid>
+  </actor>
+  <actor>
+    <name>Ikunosuke</name>
+    <role>Daily Manifesto Student (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2022423</tmdbid>
+  </actor>
+  <actor>
+    <name>Taichi Kodama</name>
+    <role>Daily Manifesto Student (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2022424</tmdbid>
+  </actor>
+  <actor>
+    <name>Karin Okoso</name>
+    <role>Daily Manifesto Student (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2022425</tmdbid>
+  </actor>
+  <director tmdbid="5655">Wes Anderson</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dt__kig8PVU</trailer>
+  <rating>7.9</rating>
+  <year>2018</year>
+  <mpaa>HK-IIA</mpaa>
+  <imdbid>tt5104604</imdbid>
+  <tmdbid>399174</tmdbid>
+  <premiered>2018-03-23</premiered>
+  <releasedate>2018-03-23</releasedate>
+  <criticrating>90</criticrating>
+  <runtime>97</runtime>
+  <tagline>不离不弃 不负众汪</tagline>
+  <country>Germany</country>
+  <country>Japan</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>冒险</genre>
+  <genre>喜剧</genre>
+  <genre>动画</genre>
+  <studio>Studio Babelsberg</studio>
+  <studio>American Empirical Pictures</studio>
+  <studio>Indian Paintbrush</studio>
+  <studio>Scott Rudin Productions</studio>
+  <studio>20th Century Fox Animation</studio>
+  <uniqueid type="Tmdb">399174</uniqueid>
+  <uniqueid type="Imdb">tt5104604</uniqueid>
+  <id>tt5104604</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4978908</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.698462</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>97</duration>
+        <durationinseconds>5830</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>99778</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>99718</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

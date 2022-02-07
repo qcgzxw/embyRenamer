@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[小两口在新搬公寓的老古董冰箱里发现了一处失落文明。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-27 16:06:20</dateadded>
+  <title>冰河时代</title>
+  <actor>
+    <name>Mary Elizabeth Winstead</name>
+    <role>Gail</role>
+    <type>GuestStar</type>
+    <tmdbid>17628</tmdbid>
+  </actor>
+  <actor>
+    <name>Topher Grace</name>
+    <role>Rob</role>
+    <type>GuestStar</type>
+    <tmdbid>17052</tmdbid>
+  </actor>
+  <actor>
+    <name>John DiMaggio</name>
+    <role>Mike (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>31531</tmdbid>
+    <imdbid>nm0224007</imdbid>
+  </actor>
+  <actor>
+    <name>Roger Craig Smith</name>
+    <role>Sam (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>75038</tmdbid>
+  </actor>
+  <director>Tim Miller</director>
+  <rating>7.109</rating>
+  <year>2019</year>
+  <imdbid>tt9788514</imdbid>
+  <tvdbid>7069844</tvdbid>
+  <runtime>11</runtime>
+  <genre>Animation</genre>
+  <genre>Short</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <genre>Horror</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt9788514</uniqueid>
+  <uniqueid type="Tvdb">7069844</uniqueid>
+  <episode>16</episode>
+  <season>1</season>
+  <aired>2019-03-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3648708</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>10</duration>
+        <durationinseconds>630</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>357072</bitrate>
+        <language>isl</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[2001年的某一天，刚刚考上大学的贾晓玲经历了人生中的一次大起大落。一心想要成为母亲骄傲的她却因母亲突遭严重意外，而悲痛万分。在贾晓玲情绪崩溃的状态下，竟意外的回到了1981年，并与年轻的母亲李焕英相遇，二人形影不离，宛如闺蜜。与此同时，也结识了一群天真善良的好朋友。晓玲以为来到了这片“广阔天地”，她可以凭借自己超前的思维，让母亲“大有作为”，但结果却让晓玲感到意外......]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-04 13:55:50</dateadded>
+  <title>你好，李焕英</title>
+  <originaltitle>你好，李焕英</originaltitle>
+  <actor>
+    <name>Jia Ling</name>
+    <role>Jia Xiaoling</role>
+    <type>Actor</type>
+    <tmdbid>1627287</tmdbid>
+    <imdbid>nm7896231</imdbid>
+  </actor>
+  <actor>
+    <name>Zhang Xiaofei</name>
+    <role>Li Huanying (Young)</role>
+    <type>Actor</type>
+    <tmdbid>1993057</tmdbid>
+  </actor>
+  <actor>
+    <name>Shen Teng</name>
+    <role>Shen Guanglin</role>
+    <type>Actor</type>
+    <tmdbid>1519026</tmdbid>
+    <imdbid>nm7613067</imdbid>
+  </actor>
+  <actor>
+    <name>Chen He</name>
+    <role>Leng Te</role>
+    <type>Actor</type>
+    <tmdbid>1397016</tmdbid>
+    <imdbid>nm4369305</imdbid>
+  </actor>
+  <actor>
+    <name>Huan He</name>
+    <role>Zhang Jiang</role>
+    <type>Actor</type>
+    <tmdbid>3043697</tmdbid>
+    <imdbid>nm12068785</imdbid>
+  </actor>
+  <actor>
+    <name>Liu Jia</name>
+    <role>Li Huanying (middle-aged)</role>
+    <type>Actor</type>
+    <tmdbid>2390143</tmdbid>
+  </actor>
+  <actor>
+    <name>Ding Jiali</name>
+    <role>Bao Yumei (middle-aged)</role>
+    <type>Actor</type>
+    <tmdbid>1293226</tmdbid>
+    <imdbid>nm0227621</imdbid>
+  </actor>
+  <actor>
+    <name>Qiao Shan</name>
+    <role>Jia Wentian (Young)</role>
+    <type>Actor</type>
+    <tmdbid>1734106</tmdbid>
+  </actor>
+  <actor>
+    <name>He He</name>
+    <role>Bao Yumei (Young)</role>
+    <type>Actor</type>
+    <tmdbid>2391627</tmdbid>
+  </actor>
+  <actor>
+    <name>Katherine Ackerman</name>
+    <role>Mao Qin AKA Muscovite</role>
+    <type>Actor</type>
+    <tmdbid>3080667</tmdbid>
+  </actor>
+  <actor>
+    <name>Han Yunyun</name>
+    <role>Wang Qin</role>
+    <type>Actor</type>
+    <tmdbid>3080664</tmdbid>
+  </actor>
+  <actor>
+    <name>Du Yuan</name>
+    <role>Director Shen</role>
+    <type>Actor</type>
+    <tmdbid>2053771</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Juncong</name>
+    <role>Xu Zhikai</role>
+    <type>Actor</type>
+    <tmdbid>1996700</tmdbid>
+  </actor>
+  <actor>
+    <name>Feng Gong</name>
+    <role>Li Fenjin</role>
+    <type>Actor</type>
+    <tmdbid>1412860</tmdbid>
+  </actor>
+  <actor>
+    <name>Jia Wentian</name>
+    <role>Jia  Wentian</role>
+    <type>Actor</type>
+    <tmdbid>3080661</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Ruoxi</name>
+    <role>Jia Xiaoling (childhood)</role>
+    <type>Actor</type>
+    <tmdbid>3080663</tmdbid>
+  </actor>
+  <actor>
+    <name>Bao Wenjing</name>
+    <role>Zhao Yanhua</role>
+    <type>Actor</type>
+    <tmdbid>2308356</tmdbid>
+  </actor>
+  <actor>
+    <name>Ge Shanshan</name>
+    <role>Wang Guixiang</role>
+    <type>Actor</type>
+    <tmdbid>3080665</tmdbid>
+  </actor>
+  <actor>
+    <name>Pan Binlong</name>
+    <role>Host of the literary show</role>
+    <type>Actor</type>
+    <tmdbid>2086256</tmdbid>
+    <imdbid>nm5000213</imdbid>
+  </actor>
+  <actor>
+    <name>Song Xiaofeng</name>
+    <role>Audience</role>
+    <type>Actor</type>
+    <tmdbid>2682429</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Xiaoli</name>
+    <role>Audience</role>
+    <type>Actor</type>
+    <tmdbid>1258713</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhao Tingting</name>
+    <role>Saleperson</role>
+    <type>Actor</type>
+    <tmdbid>2347663</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Lin</name>
+    <type>Actor</type>
+    <tmdbid>1236324</tmdbid>
+  </actor>
+  <actor>
+    <name>Shi Ce</name>
+    <type>Actor</type>
+    <tmdbid>1945662</tmdbid>
+    <imdbid>nm9619786</imdbid>
+  </actor>
+  <actor>
+    <name>Bu Yu</name>
+    <type>Actor</type>
+    <tmdbid>3025680</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Honglu</name>
+    <type>Actor</type>
+    <tmdbid>3091197</tmdbid>
+  </actor>
+  <actor>
+    <name>Wei Xiang</name>
+    <type>Actor</type>
+    <tmdbid>2093326</tmdbid>
+    <imdbid>nm9410159</imdbid>
+  </actor>
+  <actor>
+    <name>Sun Jibin</name>
+    <type>Actor</type>
+    <tmdbid>3025678</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Taiwei</name>
+    <type>Actor</type>
+    <tmdbid>3001096</tmdbid>
+  </actor>
+  <actor>
+    <name>Guo Yupeng</name>
+    <type>Actor</type>
+    <tmdbid>3091212</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhu Tianfu</name>
+    <type>Actor</type>
+    <tmdbid>3091218</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Yu</name>
+    <type>Actor</type>
+    <tmdbid>3025679</tmdbid>
+  </actor>
+  <actor>
+    <name>Cao Hejun</name>
+    <type>Actor</type>
+    <tmdbid>3091234</tmdbid>
+  </actor>
+  <actor>
+    <name>Ji Qing</name>
+    <type>Actor</type>
+    <tmdbid>3091241</tmdbid>
+  </actor>
+  <actor>
+    <name>Guo Xiangpeng</name>
+    <type>Actor</type>
+    <tmdbid>3091244</tmdbid>
+  </actor>
+  <director tmdbid="1627287" imdbid="nm7896231">Jia Ling</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-9E_BAYU-5o</trailer>
+  <rating>7.1</rating>
+  <year>2021</year>
+  <imdbid>tt13364790</imdbid>
+  <tmdbid>758891</tmdbid>
+  <premiered>2021-02-12</premiered>
+  <releasedate>2021-02-12</releasedate>
+  <runtime>128</runtime>
+  <country>China</country>
+  <genre>剧情</genre>
+  <genre>喜剧</genre>
+  <genre>奇幻</genre>
+  <studio>Alibaba Pictures Group</studio>
+  <studio>Tianjin Maoyan Media</studio>
+  <studio>北京大碗娱乐文化传媒有限公司</studio>
+  <studio>北京京西文化旅游股份有限公司</studio>
+  <studio>北京精彩时间文化传媒有限公司</studio>
+  <uniqueid type="Tmdb">758891</uniqueid>
+  <uniqueid type="Imdb">tt13364790</uniqueid>
+  <id>tt13364790</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1693183</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>127</duration>
+        <durationinseconds>7653</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>128000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

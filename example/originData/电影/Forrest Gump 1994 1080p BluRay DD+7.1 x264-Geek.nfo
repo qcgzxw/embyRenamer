@@ -1,0 +1,616 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　阿甘于二战结束后不久出生在美国南方阿拉巴马州一个闭塞的小镇，他先天弱智，智商只有75，然而他的妈妈是一个性格坚强的女性，她常常鼓励阿甘“傻人有傻福”，要他自强不息。阿甘像普通孩子一样上学，并且认识了一生的朋友和至爱珍妮，在珍妮和妈妈的爱护下，阿甘凭着上帝赐予的“飞毛腿”开始了一生不停的奔跑。阿甘成为橄榄球巨星、越战英雄、乒乓球外交使者、亿万富翁，但是，他始终忘不了珍妮，几次匆匆的相聚和离别，更是加深了阿甘的思念。有一天，阿甘收到珍妮的信，他们终于又要见面…]]></plot>
+  <outline><![CDATA[人生就像一盒巧克力，你永远不知道下一块会是什么味道]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-27 23:10:17</dateadded>
+  <title>阿甘正传</title>
+  <originaltitle>Forrest Gump</originaltitle>
+  <actor>
+    <name>Tom Hanks</name>
+    <role>Forrest Gump</role>
+    <type>Actor</type>
+    <tmdbid>31</tmdbid>
+    <imdbid>nm0000158</imdbid>
+  </actor>
+  <actor>
+    <name>Robin Wright</name>
+    <role>Jenny Curran</role>
+    <type>Actor</type>
+    <tmdbid>32</tmdbid>
+    <imdbid>nm0000705</imdbid>
+  </actor>
+  <actor>
+    <name>Gary Sinise</name>
+    <role>Dan Taylor</role>
+    <type>Actor</type>
+    <tmdbid>33</tmdbid>
+  </actor>
+  <actor>
+    <name>Mykelti Williamson</name>
+    <role>Bubba</role>
+    <type>Actor</type>
+    <tmdbid>34</tmdbid>
+  </actor>
+  <actor>
+    <name>Sally Field</name>
+    <role>Mrs. Gump</role>
+    <type>Actor</type>
+    <tmdbid>35</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Conner Humphreys</name>
+    <role>Young Forrest Gump</role>
+    <type>Actor</type>
+    <tmdbid>37821</tmdbid>
+  </actor>
+  <actor>
+    <name>Hanna Hall</name>
+    <role>Young Jenny Curran</role>
+    <type>Actor</type>
+    <tmdbid>204997</tmdbid>
+  </actor>
+  <actor>
+    <name>Haley Joel Osment</name>
+    <role>Forrest Gump Jr.</role>
+    <type>Actor</type>
+    <tmdbid>9640</tmdbid>
+  </actor>
+  <actor>
+    <name>Siobhan Fallon Hogan</name>
+    <role>School Bus Driver</role>
+    <type>Actor</type>
+    <tmdbid>6751</tmdbid>
+    <imdbid>nm0266441</imdbid>
+  </actor>
+  <actor>
+    <name>Afemo Omilami</name>
+    <role>Drill Sergeant</role>
+    <type>Actor</type>
+    <tmdbid>37825</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Dobson</name>
+    <role>Young Elvis Presley</role>
+    <type>Actor</type>
+    <tmdbid>37822</tmdbid>
+  </actor>
+  <actor>
+    <name>Sonny Shroyer</name>
+    <role>College Football Coach</role>
+    <type>Actor</type>
+    <tmdbid>37823</tmdbid>
+  </actor>
+  <actor>
+    <name>George Kelly</name>
+    <role>Barber</role>
+    <type>Actor</type>
+    <tmdbid>951881</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Anderson</name>
+    <role>Principal</role>
+    <type>Actor</type>
+    <tmdbid>36221</tmdbid>
+  </actor>
+  <actor>
+    <name>Margo Moorer</name>
+    <role>Louise</role>
+    <type>Actor</type>
+    <tmdbid>1215432</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Jones</name>
+    <role>Boy with cross</role>
+    <type>Actor</type>
+    <tmdbid>1019727</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Mangan</name>
+    <role>Jenny's Father</role>
+    <type>Actor</type>
+    <tmdbid>37832</tmdbid>
+  </actor>
+  <actor>
+    <name>Brett Rice</name>
+    <role>High School Football Coach</role>
+    <type>Actor</type>
+    <tmdbid>29934</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel C. Striepeke</name>
+    <role>Recruiter</role>
+    <type>Actor</type>
+    <tmdbid>14526</tmdbid>
+  </actor>
+  <actor>
+    <name>David Brisbin</name>
+    <role>Newscaster</role>
+    <type>Actor</type>
+    <tmdbid>6310</tmdbid>
+  </actor>
+  <actor>
+    <name>Kirk Ward</name>
+    <role>Earl</role>
+    <type>Actor</type>
+    <tmdbid>154697</tmdbid>
+  </actor>
+  <actor>
+    <name>Marlena Smalls</name>
+    <role>Bubba's Mother</role>
+    <type>Actor</type>
+    <tmdbid>37831</tmdbid>
+  </actor>
+  <actor>
+    <name>Kitty K. Green</name>
+    <role>Bubba's Great Grandmother</role>
+    <type>Actor</type>
+    <tmdbid>37830</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Matheisen</name>
+    <role>Jenny's Date</role>
+    <type>Actor</type>
+    <tmdbid>975108</tmdbid>
+  </actor>
+  <actor>
+    <name>Al Harrington</name>
+    <role>Local Anchor #1</role>
+    <type>Actor</type>
+    <tmdbid>129725</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Washington</name>
+    <role>Local Anchor #2</role>
+    <type>Actor</type>
+    <tmdbid>1748207</tmdbid>
+  </actor>
+  <actor>
+    <name>Jed Gillin</name>
+    <role>John F. Kennedy (voice)</role>
+    <type>Actor</type>
+    <tmdbid>37824</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Fischer</name>
+    <role>Army Recruiter</role>
+    <type>Actor</type>
+    <tmdbid>1346510</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Wallace</name>
+    <role>Barracks Recruit</role>
+    <type>Actor</type>
+    <tmdbid>1088274</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Jolly</name>
+    <role>Club Patron</role>
+    <type>Actor</type>
+    <tmdbid>114326</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Kemmerling</name>
+    <role>Club Patron</role>
+    <type>Actor</type>
+    <tmdbid>170051</tmdbid>
+  </actor>
+  <actor>
+    <name>John Voldstad</name>
+    <role>Club Patron</role>
+    <type>Actor</type>
+    <tmdbid>95140</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel J. Gillooly</name>
+    <role>Helicopter Gunman</role>
+    <type>Actor</type>
+    <tmdbid>1446990</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Burgess</name>
+    <role>Cleveland</role>
+    <type>Actor</type>
+    <tmdbid>1401994</tmdbid>
+  </actor>
+  <actor>
+    <name>Steven Griffith</name>
+    <role>Tex</role>
+    <type>Actor</type>
+    <tmdbid>1235787</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael McFall</name>
+    <role>Army Hospital Male Nurse</role>
+    <type>Actor</type>
+    <tmdbid>163441</tmdbid>
+  </actor>
+  <actor>
+    <name>Byron Minns</name>
+    <role>Wounded soldier</role>
+    <type>Actor</type>
+    <tmdbid>92658</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve DeRelian</name>
+    <role>Wounded Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1089167</tmdbid>
+  </actor>
+  <actor>
+    <name>Bonnie Ann Burgess</name>
+    <role>Army Nurse</role>
+    <type>Actor</type>
+    <tmdbid>2207913</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Bridgewater</name>
+    <role>Hospital Officer</role>
+    <type>Actor</type>
+    <tmdbid>81692</tmdbid>
+  </actor>
+  <actor>
+    <name>John William Galt</name>
+    <role>President Johnson (voice)</role>
+    <type>Actor</type>
+    <tmdbid>37827</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabel Rose</name>
+    <role>Isabel</role>
+    <type>Actor</type>
+    <tmdbid>1313819</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard D'Alessandro</name>
+    <role>Abbie Hoffman</role>
+    <type>Actor</type>
+    <tmdbid>1409948</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Davis</name>
+    <role>Black Panther</role>
+    <type>Actor</type>
+    <tmdbid>1618488</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Jace</name>
+    <role>Black Panther</role>
+    <type>Actor</type>
+    <tmdbid>46921</tmdbid>
+  </actor>
+  <actor>
+    <name>Geoffrey Blake</name>
+    <role>Wesley</role>
+    <type>Actor</type>
+    <tmdbid>148122</tmdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Roth</name>
+    <role>Hollywood Boulevard Girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>406976</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Carey</name>
+    <role>Hollywood Boulevard Girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>2207912</tmdbid>
+  </actor>
+  <actor>
+    <name>Dick Cavett</name>
+    <role>Dick Cavett</role>
+    <type>Actor</type>
+    <tmdbid>10565</tmdbid>
+  </actor>
+  <actor>
+    <name>Tiffany Salerno</name>
+    <role>Carla</role>
+    <type>Actor</type>
+    <tmdbid>1405338</tmdbid>
+  </actor>
+  <actor>
+    <name>Marla Sucharetza</name>
+    <role>Lenore</role>
+    <type>Actor</type>
+    <tmdbid>21129</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Alaskey</name>
+    <role>President Nixon (voice)</role>
+    <type>Actor</type>
+    <tmdbid>86434</tmdbid>
+  </actor>
+  <actor>
+    <name>Lazarus Jackson</name>
+    <role>Discharge Officer</role>
+    <type>Actor</type>
+    <tmdbid>1465241</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Rebenkoff</name>
+    <role>Drugged Out Boyfriend</role>
+    <type>Actor</type>
+    <tmdbid>92343</tmdbid>
+  </actor>
+  <actor>
+    <name>Nora Dunfee</name>
+    <role>Elderly Southern Woman</role>
+    <type>Actor</type>
+    <tmdbid>37828</tmdbid>
+  </actor>
+  <actor>
+    <name>Hallie D'Amore</name>
+    <role>Waitress in cafe</role>
+    <type>Actor</type>
+    <tmdbid>1327149</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Mattison</name>
+    <role>Taxi Driver</role>
+    <type>Actor</type>
+    <tmdbid>37829</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Boswell</name>
+    <role>Aging Hippie</role>
+    <type>Actor</type>
+    <tmdbid>176329</tmdbid>
+  </actor>
+  <actor>
+    <name>Timothy McNeil</name>
+    <role>Wild Eyed Man</role>
+    <type>Actor</type>
+    <tmdbid>169643</tmdbid>
+  </actor>
+  <actor>
+    <name>Bob Penny</name>
+    <role>Crony</role>
+    <type>Actor</type>
+    <tmdbid>196855</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Brown</name>
+    <role>Football Player (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>98873</tmdbid>
+  </actor>
+  <actor>
+    <name>Troy Christian</name>
+    <role>Cheerleader (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>13204</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryan Hanna</name>
+    <role>Football Coach (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>84901</tmdbid>
+  </actor>
+  <actor>
+    <name>Zach Hanner</name>
+    <role>Barracks Recruit (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1392671</tmdbid>
+    <imdbid>nm0360393</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Michael Lacey</name>
+    <role>National Guardsman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1273540</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacqueline Lovell</name>
+    <role>Football Fan (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>42961</tmdbid>
+  </actor>
+  <actor>
+    <name>Brendan Shanahan</name>
+    <role>Football Player (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1150593</tmdbid>
+  </actor>
+  <actor>
+    <name>William Shipman</name>
+    <role>Black Panther (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>567126</tmdbid>
+  </actor>
+  <actor>
+    <name>Robb Skyler</name>
+    <role>Nicholas Katzenbach (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>173277</tmdbid>
+  </actor>
+  <actor>
+    <name>Mary Ellen Trainor</name>
+    <role>Jenny's Babysitter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>23967</tmdbid>
+  </actor>
+  <actor>
+    <name>Kurt Russell</name>
+    <role>Elvis Presley (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>6856</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Winner</name>
+    <role>Club Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1806640</tmdbid>
+  </actor>
+  <actor>
+    <name>Bob Harks</name>
+    <role>University Dean</role>
+    <type>Actor</type>
+    <tmdbid>2428975</tmdbid>
+  </actor>
+  <actor>
+    <name>W. Benson Terry</name>
+    <role>Stanley Loomis</role>
+    <type>Actor</type>
+    <tmdbid>1632630</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyler Long</name>
+    <role>Red Headed Boy</role>
+    <type>Actor</type>
+    <tmdbid>2020776</tmdbid>
+  </actor>
+  <director tmdbid="24" imdbid="nm0000709">Robert Zemeckis</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bLvqoHBptjg</trailer>
+  <rating>8.8</rating>
+  <year>1994</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt0109830</imdbid>
+  <tmdbid>13</tmdbid>
+  <premiered>1994-07-06</premiered>
+  <releasedate>1994-07-06</releasedate>
+  <criticrating>71</criticrating>
+  <runtime>142</runtime>
+  <tagline>人生就像一盒巧克力，你永远不知道下一块会是什么味道</tagline>
+  <country>United States of America</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <studio>Paramount</studio>
+  <studio>The Steve Tisch Company</studio>
+  <uniqueid type="Tmdb">13</uniqueid>
+  <uniqueid type="Imdb">tt0109830</uniqueid>
+  <id>tt0109830</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>18278665</bitrate>
+        <width>1920</width>
+        <height>804</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>142</duration>
+        <durationinseconds>8525</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

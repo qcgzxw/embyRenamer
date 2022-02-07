@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[许多年之后，面对城市废墟，机器人将会回想起，记录中讲述过的那些遥远的人类传说。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-27 15:56:54</dateadded>
+  <title>三个机器人</title>
+  <actor>
+    <name>Gary Anthony Williams</name>
+    <role>XBOT 4000 (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>54043</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>The Cat (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Brener</name>
+    <role>K-VRC (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1180979</tmdbid>
+    <imdbid>nm3091777</imdbid>
+  </actor>
+  <director>Victor Maldonado</director>
+  <director>Alfredo Torres Martínez</director>
+  <rating>7.6</rating>
+  <year>2019</year>
+  <imdbid>tt9788484</imdbid>
+  <tvdbid>6983261</tvdbid>
+  <runtime>12</runtime>
+  <genre>Animation</genre>
+  <genre>Short</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <genre>Horror</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt9788484</uniqueid>
+  <uniqueid type="Tvdb">6983261</uniqueid>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2019-03-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3512434</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>11</duration>
+        <durationinseconds>696</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>358602</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

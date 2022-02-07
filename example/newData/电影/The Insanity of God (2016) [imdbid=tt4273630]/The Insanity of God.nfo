@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Based on the best selling book by Nik Ripken, The Insanity of God is the personal and lifelong journey of an ordinary couple from rural Kentucky who thought they were going on just your ordinary missionary pilgrimage, but discovered it would be anything but. After spending over six hard years doing relief work in Somalia, and experiencing life where it looked like God had turned away completely and He was clueless about the tragedies of life, the couple had a crisis of faith and left Africa asking God, "Does the gospel work anywhere when it is really a hard place? It sure didn't work in Somalia.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-10-06 08:35:16</dateadded>
+  <title>The Insanity of God</title>
+  <originaltitle>The Insanity of God</originaltitle>
+  <actor>
+    <name>Vitalijs Jevsjukovs</name>
+    <role>Dimitri</role>
+    <type>Actor</type>
+    <tmdbid>1817562</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenny Champion</name>
+    <role>Guard 1</role>
+    <type>Actor</type>
+    <tmdbid>1546226</tmdbid>
+  </actor>
+  <actor>
+    <name>John W. Iwanonkiw</name>
+    <role>Guard 2</role>
+    <type>Actor</type>
+    <tmdbid>1098036</tmdbid>
+  </actor>
+  <actor>
+    <name>Nik Ripken</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>1817563</tmdbid>
+  </actor>
+  <director tmdbid="1671687">Brad Knull</director>
+  <rating>7.7</rating>
+  <year>2016</year>
+  <mpaa>G</mpaa>
+  <imdbid>tt4273630</imdbid>
+  <tmdbid>413214</tmdbid>
+  <premiered>2016-08-30</premiered>
+  <releasedate>2016-08-30</releasedate>
+  <runtime>106</runtime>
+  <genre>Documentary</genre>
+  <studio>change media</studio>
+  <uniqueid type="Tmdb">413214</uniqueid>
+  <uniqueid type="Imdb">tt4273630</uniqueid>
+  <id>tt4273630</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2509403</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6385</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>62804</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

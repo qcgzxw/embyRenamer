@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Jesse 醒了，他发现 Jane 已经死了，惊恐万分的他联系 Walter。两人不得不再次求助 Saul，Saul 派来自己的人 Mike 帮助 Jesse 脱罪。因为 Jane 的去世，Jesse 开始一蹶不振，Walter 不断的鼓励他走出来。Walter 的钱投进了他儿子建的网站中，这笔钱得到了媒体的关注。Walter 手术前被麻醉后手机响个不停，引起了 Skyler 的注意，通过调查发现 Walter 的真实一面，Skyler 震惊且伤心，打算离婚。Jane 的爸爸是飞机交通控制员，女儿的死令他伤心欲绝，发出的错误通讯指令，使得两辆飞机在半空中相撞出现了重大事故。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 16:53:32</dateadded>
+  <title>阿尔伯克基（Albuquerque）</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Krysten Ritter</name>
+    <role>Jane Margolis</role>
+    <type>GuestStar</type>
+    <tmdbid>78080</tmdbid>
+    <imdbid>nm1269983</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>GuestStar</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>GuestStar</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Sam McMurray</name>
+    <role>Dr. Victor Bravenec</role>
+    <type>GuestStar</type>
+    <tmdbid>5176</tmdbid>
+    <imdbid>nm0573481</imdbid>
+  </actor>
+  <actor>
+    <name>David House</name>
+    <role>Dr. Delcavoli</role>
+    <type>GuestStar</type>
+    <tmdbid>79211</tmdbid>
+    <imdbid>nm1450145</imdbid>
+  </actor>
+  <actor>
+    <name>John de Lancie</name>
+    <role>Donald Margolis</role>
+    <type>GuestStar</type>
+    <tmdbid>11077</tmdbid>
+    <imdbid>nm0209496</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Shamus Wiles</name>
+    <role>ASAC George Merkert</role>
+    <type>GuestStar</type>
+    <tmdbid>9291</tmdbid>
+    <imdbid>nm0928795</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Michael Quezada</name>
+    <role>Steven Gomez</role>
+    <type>GuestStar</type>
+    <tmdbid>61535</tmdbid>
+    <imdbid>nm2366374</imdbid>
+  </actor>
+  <director>Adam Bernstein</director>
+  <rating>8.655</rating>
+  <year>2009</year>
+  <imdbid>tt1232248</imdbid>
+  <tvdbid>438924</tvdbid>
+  <runtime>48</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <tvrageid>785010</tvrageid>
+  <uniqueid type="Imdb">tt1232248</uniqueid>
+  <uniqueid type="Tvdb">438924</uniqueid>
+  <uniqueid type="TvRage">785010</uniqueid>
+  <episode>13</episode>
+  <season>2</season>
+  <aired>2009-05-31</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9866927</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2854</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

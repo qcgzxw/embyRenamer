@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Jesse 在医院发现 Hank 深受重伤，赶到实验室告诉 Walter 此事。Marie 得知丈夫重伤后，伤心欲绝，和警方吵起来，认为警方对 Hank 不负责任。Hank 的搭档 Steven 十分自责，决定接替 Hank，继续寻找毒品的来源。警员们都赶到医院，为 Hank 献血。Gus 也赶到医院，给警员们送上烤鸡翅以示敬意。Walter 看到 Gus 后，大吃一惊，不知他是何用意。不久，另外一个贩毒集团的首领由于 Gus 的设局，被警方抄了老窝乱枪打死。Walter 和 Jesse 制出高纯度的毒品。Jesse 觉得 Gus 卖毒品能赚9600万美元，而自己和 Walter 却只得到 150 万，很不甘心。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 18:07:46</dateadded>
+  <title> 终见仇敌</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Bryan French</name>
+    <role>Doctor</role>
+    <type>GuestStar</type>
+    <tmdbid>1224374</tmdbid>
+    <imdbid>nm0294153</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Dempsey</name>
+    <role>ER Doctor #1</role>
+    <type>GuestStar</type>
+    <tmdbid>36135</tmdbid>
+  </actor>
+  <actor>
+    <name>Lora Martinez-Cunningham</name>
+    <role>ER Doctor #2</role>
+    <type>GuestStar</type>
+    <tmdbid>1151637</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremiah Bitsui</name>
+    <role>Victor</role>
+    <type>GuestStar</type>
+    <tmdbid>582668</tmdbid>
+    <imdbid>nm0084497</imdbid>
+  </actor>
+  <actor>
+    <name>David Costabile</name>
+    <role>Gale Boetticher</role>
+    <type>GuestStar</type>
+    <tmdbid>82167</tmdbid>
+    <imdbid>nm0182345</imdbid>
+  </actor>
+  <actor>
+    <name>Javier Grajeda</name>
+    <role>Juan Bolsa</role>
+    <type>GuestStar</type>
+    <tmdbid>66148</tmdbid>
+    <imdbid>nm0334462</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Shamus Wiles</name>
+    <role>ASAC George Merkert</role>
+    <type>GuestStar</type>
+    <tmdbid>9291</tmdbid>
+    <imdbid>nm0928795</imdbid>
+  </actor>
+  <actor>
+    <name>Charles Baker</name>
+    <role>Skinny Pete</role>
+    <type>GuestStar</type>
+    <tmdbid>82945</tmdbid>
+    <imdbid>nm1889973</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Michael Quezada</name>
+    <role>Steven Gomez</role>
+    <type>GuestStar</type>
+    <tmdbid>61535</tmdbid>
+    <imdbid>nm2366374</imdbid>
+  </actor>
+  <director>Colin Bucksey</director>
+  <rating>8.209</rating>
+  <year>2010</year>
+  <imdbid>tt1615557</imdbid>
+  <tvdbid>2062391</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt1615557</uniqueid>
+  <uniqueid type="Tvdb">2062391</uniqueid>
+  <episode>8</episode>
+  <season>3</season>
+  <aired>2010-05-09</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9935274</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2834</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

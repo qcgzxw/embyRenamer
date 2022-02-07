@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[《真事改编》根据同名畅销小说改编，女作家Delphine（艾玛纽尔·塞尼耶扮演）出版新书尝到走红的滋味后，脑中的灵感也随之蒸发，再也写不出一个字，此时又面临匿名读者来信骚扰，一句句威胁口吻重击她脆弱的心灵。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-03-30 11:29:43</dateadded>
+  <title>真事改编</title>
+  <originaltitle>D'après une histoire vraie</originaltitle>
+  <actor>
+    <name>Emmanuelle Seigner</name>
+    <role>Delphine</role>
+    <type>Actor</type>
+    <tmdbid>8925</tmdbid>
+    <imdbid>nm0782561</imdbid>
+  </actor>
+  <actor>
+    <name>Eva Green</name>
+    <role>Elle</role>
+    <type>Actor</type>
+    <tmdbid>10912</tmdbid>
+    <imdbid>nm1200692</imdbid>
+  </actor>
+  <actor>
+    <name>Vincent Perez</name>
+    <role>François</role>
+    <type>Actor</type>
+    <tmdbid>20239</tmdbid>
+    <imdbid>nm0001641</imdbid>
+  </actor>
+  <actor>
+    <name>Dominique Pinon</name>
+    <role>Raymond</role>
+    <type>Actor</type>
+    <tmdbid>2413</tmdbid>
+    <imdbid>nm0684500</imdbid>
+  </actor>
+  <actor>
+    <name>Brigitte Roüan</name>
+    <role>The Documentalist</role>
+    <type>Actor</type>
+    <tmdbid>76904</tmdbid>
+    <imdbid>nm0747690</imdbid>
+  </actor>
+  <actor>
+    <name>Camille Chamoux</name>
+    <role>The Press Agent</role>
+    <type>Actor</type>
+    <tmdbid>1332697</tmdbid>
+    <imdbid>nm3548282</imdbid>
+  </actor>
+  <actor>
+    <name>Josée Dayan</name>
+    <role>Karina</role>
+    <type>Actor</type>
+    <tmdbid>37186</tmdbid>
+    <imdbid>nm0206655</imdbid>
+  </actor>
+  <actor>
+    <name>Noémie Lvovsky</name>
+    <role>The Exhibition Curator</role>
+    <type>Actor</type>
+    <tmdbid>49168</tmdbid>
+    <imdbid>nm0527852</imdbid>
+  </actor>
+  <actor>
+    <name>Leonello Brandolini</name>
+    <role>The Italian Editor</role>
+    <type>Actor</type>
+    <tmdbid>2230850</tmdbid>
+  </actor>
+  <actor>
+    <name>Édith Le Merdy</name>
+    <role>The Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>358432</tmdbid>
+    <imdbid>nm0501258</imdbid>
+  </actor>
+  <actor>
+    <name>Elisabeth Quin</name>
+    <role>The Journalist</role>
+    <type>Actor</type>
+    <tmdbid>78477</tmdbid>
+    <imdbid>nm1353056</imdbid>
+  </actor>
+  <actor>
+    <name>Damien Bonnard</name>
+    <role>The Sound Engineer</role>
+    <type>Actor</type>
+    <tmdbid>579211</tmdbid>
+    <imdbid>nm4044784</imdbid>
+  </actor>
+  <actor>
+    <name>Saadia Bentaïeb</name>
+    <role>Jeanne</role>
+    <type>Actor</type>
+    <tmdbid>1613123</tmdbid>
+  </actor>
+  <actor>
+    <name>Véronique Vasseur</name>
+    <role>Delphine's Mother</role>
+    <type>Actor</type>
+    <tmdbid>1615042</tmdbid>
+  </actor>
+  <actor>
+    <name>Stanislas Moreau</name>
+    <role>The Barman</role>
+    <type>Actor</type>
+    <tmdbid>2230851</tmdbid>
+  </actor>
+  <actor>
+    <name>Anouchka Csernakova</name>
+    <role>Book Fair Woman</role>
+    <type>Actor</type>
+    <tmdbid>1735166</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Mangel</name>
+    <role>Book Fair Woman</role>
+    <type>Actor</type>
+    <tmdbid>1471429</tmdbid>
+    <imdbid>nm6212638</imdbid>
+  </actor>
+  <actor>
+    <name>Jean Frischmann</name>
+    <role>Book Fair Man</role>
+    <type>Actor</type>
+    <tmdbid>2251526</tmdbid>
+  </actor>
+  <actor>
+    <name>Mélanie Bourgeois</name>
+    <role>Book Fair Woman</role>
+    <type>Actor</type>
+    <tmdbid>2251525</tmdbid>
+  </actor>
+  <actor>
+    <name>Valérie de Monza</name>
+    <role>Book Fair Woman</role>
+    <type>Actor</type>
+    <tmdbid>1164979</tmdbid>
+    <imdbid>nm3565204</imdbid>
+  </actor>
+  <director tmdbid="3556" imdbid="nm0000591">Roman Polanski</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_FuwaOOFVIE</trailer>
+  <rating>5.7</rating>
+  <year>2017</year>
+  <imdbid>tt5893264</imdbid>
+  <tmdbid>416051</tmdbid>
+  <premiered>2017-11-01</premiered>
+  <releasedate>2017-11-01</releasedate>
+  <runtime>96</runtime>
+  <country>Belgium</country>
+  <country>France</country>
+  <country>Poland</country>
+  <genre>惊悚</genre>
+  <genre>悬疑</genre>
+  <genre>剧情</genre>
+  <studio>WY Productions</studio>
+  <studio>Mars Films</studio>
+  <studio>R.P. Productions</studio>
+  <studio>France 2 Cinéma</studio>
+  <studio>Monolith Films</studio>
+  <studio>Belga Productions</studio>
+  <studio>Cofinova 13</studio>
+  <studio>Cinéventure 2</studio>
+  <studio>Canal+</studio>
+  <studio>Ciné+</studio>
+  <studio>France Télévisions</studio>
+  <studio>PISF</studio>
+  <uniqueid type="Tmdb">416051</uniqueid>
+  <uniqueid type="Imdb">tt5893264</uniqueid>
+  <id>tt5893264</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4967743</bitrate>
+        <width>1912</width>
+        <height>796</height>
+        <aspect>478:199</aspect>
+        <aspectratio>478:199</aspectratio>
+        <framerate>25</framerate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5766</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

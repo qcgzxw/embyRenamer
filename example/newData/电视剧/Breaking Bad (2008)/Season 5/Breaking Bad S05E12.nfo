@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Walter 得知 Jesse 欲报复，赶回家发现被泼汽油但未点燃。Skyler 得知 Jesse 与复仇，建议干掉他，Walter 犹豫。原来 Hank 说服 Jesse 与之合作扳倒 Walter。Jesse 在 Hank 家将所有过程全部交待。Walter 和 Jesse 约定广场见面，Jesse 发现情况不对。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-20 18:58:51</dateadded>
+  <title>狂犬出笼</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Burr</name>
+    <role>Kuby</role>
+    <type>GuestStar</type>
+    <tmdbid>109708</tmdbid>
+    <imdbid>nm0122987</imdbid>
+  </actor>
+  <actor>
+    <name>Bruce McKenzie</name>
+    <role>Dave</role>
+    <type>GuestStar</type>
+    <tmdbid>962861</tmdbid>
+    <imdbid>nm0571492</imdbid>
+  </actor>
+  <actor>
+    <name>Wray Crawford</name>
+    <role>Locksmith</role>
+    <type>GuestStar</type>
+    <tmdbid>131420</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Burning</name>
+    <role>Homeless Man</role>
+    <type>GuestStar</type>
+    <tmdbid>199836</tmdbid>
+  </actor>
+  <actor>
+    <name>Lavell Crawford</name>
+    <role>Huell</role>
+    <type>GuestStar</type>
+    <tmdbid>564348</tmdbid>
+    <imdbid>nm1089417</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Michael Quezada</name>
+    <role>Steven Gomez</role>
+    <type>GuestStar</type>
+    <tmdbid>61535</tmdbid>
+    <imdbid>nm2366374</imdbid>
+  </actor>
+  <director>Sam Catlin</director>
+  <rating>8.529</rating>
+  <year>2013</year>
+  <imdbid>tt2301447</imdbid>
+  <tvdbid>4553038</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt2301447</uniqueid>
+  <uniqueid type="Tvdb">4553038</uniqueid>
+  <episode>12</episode>
+  <season>5</season>
+  <aired>2013-09-01</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9919067</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2835</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[李奥纳德和潘妮找薛尔登和艾美寻求感情建议。 雷杰和霍华需要用到数理能力，才能解决婴儿房地板嘎嘎作响的问题。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-16 17:40:13</dateadded>
+  <title>The Romance Recalibration</title>
+  <director>Mark Cendrowski</director>
+  <rating>7</rating>
+  <year>2017</year>
+  <imdbid>tt6337212</imdbid>
+  <tvdbid>5880148</tvdbid>
+  <runtime>19</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <uniqueid type="Imdb">tt6337212</uniqueid>
+  <uniqueid type="Tvdb">5880148</uniqueid>
+  <episode>13</episode>
+  <season>10</season>
+  <aired>2017-01-19</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11128297</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>18</duration>
+        <durationinseconds>1121</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

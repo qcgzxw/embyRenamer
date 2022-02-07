@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[------美国东部，位于波士顿近郊的查尔斯城，俨然一个被法制遗忘的失乐园。城中爱尔兰裔的工薪阶层占有很大比例，区域贫困的生活条件和令人无法喘息的压力让人们铤而走险，银行抢劫案时有发生，一切都变得癫狂无望。某个早晨，美丽的银行经理人克莱尔·吉塞（丽贝卡·豪尔 Rebecca Hall 饰）遭遇一伙头戴骷髅面具的劫匪，而她更被劫持为人质。奇怪的是，克莱尔最终意外生还，似乎这个早晨的变故从未发生过一样。一天，她邂逅了高大英俊的男子道格·麦克雷（本·阿弗莱克 Ben Affleck 饰），奇妙的缘分就此展开，两人的命运也由此改变……本片根据库克·霍根（Chuck Hogan）的原著改编。作者库克·霍根，以及编剧彼得·克雷格将携手创作本片的剧本。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-11-22 03:34:04</dateadded>
+  <title>城中大盗</title>
+  <originaltitle>The Town</originaltitle>
+  <actor>
+    <name>Ben Affleck</name>
+    <role>Doug MacRay</role>
+    <type>Actor</type>
+    <tmdbid>880</tmdbid>
+    <imdbid>nm0000255</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Hall</name>
+    <role>Claire Keesey</role>
+    <type>Actor</type>
+    <tmdbid>15556</tmdbid>
+    <imdbid>nm0356017</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Renner</name>
+    <role>James Coughlin</role>
+    <type>Actor</type>
+    <tmdbid>17604</tmdbid>
+    <imdbid>nm0719637</imdbid>
+  </actor>
+  <actor>
+    <name>Jon Hamm</name>
+    <role>Adam Frawley</role>
+    <type>Actor</type>
+    <tmdbid>65717</tmdbid>
+    <imdbid>nm0358316</imdbid>
+  </actor>
+  <actor>
+    <name>Blake Lively</name>
+    <role>Krista Coughlin</role>
+    <type>Actor</type>
+    <tmdbid>59175</tmdbid>
+    <imdbid>nm0515116</imdbid>
+  </actor>
+  <actor>
+    <name>Titus Welliver</name>
+    <role>Dino Ciampa</role>
+    <type>Actor</type>
+    <tmdbid>39389</tmdbid>
+    <imdbid>nm0920038</imdbid>
+  </actor>
+  <actor>
+    <name>Pete Postlethwaite</name>
+    <role>Fergus 'Fergie' Colm</role>
+    <type>Actor</type>
+    <tmdbid>4935</tmdbid>
+    <imdbid>nm0000592</imdbid>
+  </actor>
+  <actor>
+    <name>Slaine</name>
+    <role>Albert 'Gloansy' Magloan</role>
+    <type>Actor</type>
+    <tmdbid>133067</tmdbid>
+    <imdbid>nm2282835</imdbid>
+  </actor>
+  <actor>
+    <name>Owen Burke</name>
+    <role>Desmond Elden</role>
+    <type>Actor</type>
+    <tmdbid>133068</tmdbid>
+    <imdbid>nm4024978</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Cooper</name>
+    <role>Stephen MacRay</role>
+    <type>Actor</type>
+    <tmdbid>2955</tmdbid>
+    <imdbid>nm0177933</imdbid>
+  </actor>
+  <actor>
+    <name>Corena Chase</name>
+    <role>Agent Quinlan</role>
+    <type>Actor</type>
+    <tmdbid>133070</tmdbid>
+    <imdbid>nm0153732</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Scannell</name>
+    <role>Henry</role>
+    <type>Actor</type>
+    <tmdbid>64143</tmdbid>
+    <imdbid>nm1964623</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Bishop</name>
+    <role>Derrick</role>
+    <type>Actor</type>
+    <tmdbid>55205</tmdbid>
+    <imdbid>nm1212071</imdbid>
+  </actor>
+  <actor>
+    <name>Gary Galone</name>
+    <role>Internal Affairs Officer at Fenway</role>
+    <type>Actor</type>
+    <tmdbid>141448</tmdbid>
+    <imdbid>nm0303284</imdbid>
+  </actor>
+  <actor>
+    <name>Ted Arcidi</name>
+    <role>Cedar Junction C.O.</role>
+    <type>Actor</type>
+    <tmdbid>209799</tmdbid>
+    <imdbid>nm0033827</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Yebba</name>
+    <role>Beacon G.I. Joe Driver</role>
+    <type>Actor</type>
+    <tmdbid>1291696</tmdbid>
+    <imdbid>nm2583199</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremiah Kissel</name>
+    <role>Claire's Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>1355923</tmdbid>
+    <imdbid>nm1422549</imdbid>
+  </actor>
+  <actor>
+    <name>Georgia Lyman</name>
+    <role>Neptune's Waitress</role>
+    <type>Actor</type>
+    <tmdbid>1183867</tmdbid>
+    <imdbid>nm0528149</imdbid>
+  </actor>
+  <actor>
+    <name>Duncan B. Putney</name>
+    <role>FBI Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1558766</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor Garber</name>
+    <role>Assistant Bank Manager (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>8536</tmdbid>
+    <imdbid>nm0001255</imdbid>
+  </actor>
+  <actor>
+    <name>London Hall</name>
+    <role>Runner (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1553308</tmdbid>
+    <imdbid>nm4473191</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Martineau</name>
+    <role>Car Driver (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1656064</tmdbid>
+    <imdbid>nm3880598</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin McCormick</name>
+    <role>Inmate (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1293730</tmdbid>
+    <imdbid>nm3225143</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Oliveira</name>
+    <role>Inmate (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1360008</tmdbid>
+    <imdbid>nm5857646</imdbid>
+  </actor>
+  <actor>
+    <name>William Xifaras</name>
+    <role>Decoy Cop (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1360002</tmdbid>
+    <imdbid>nm3899420</imdbid>
+  </actor>
+  <actor>
+    <name>Tony V.</name>
+    <role>Vericom Crew Chief</role>
+    <type>Actor</type>
+    <tmdbid>133072</tmdbid>
+    <imdbid>nm0882769</imdbid>
+  </actor>
+  <actor>
+    <name>Rich Manley</name>
+    <role>Boston Police (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1588955</tmdbid>
+    <imdbid>nm3144298</imdbid>
+  </actor>
+  <actor>
+    <name>John Franchi</name>
+    <role>Townie (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>928638</tmdbid>
+    <imdbid>nm3413370</imdbid>
+  </actor>
+  <actor>
+    <name>Dennis McLaughlin</name>
+    <role>Rusty</role>
+    <type>Actor</type>
+    <tmdbid>133069</tmdbid>
+    <imdbid>nm0572305</imdbid>
+  </actor>
+  <actor>
+    <name>Kerri Dunbar</name>
+    <role>Henry’s Girl</role>
+    <type>Actor</type>
+    <tmdbid>133071</tmdbid>
+    <imdbid>nm4067690</imdbid>
+  </actor>
+  <actor>
+    <name>Brian A. White</name>
+    <role>FBI SWAT #1</role>
+    <type>Actor</type>
+    <tmdbid>1108851</tmdbid>
+    <imdbid>nm2007055</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Looney</name>
+    <role>NA Speaker</role>
+    <type>Actor</type>
+    <tmdbid>44821</tmdbid>
+    <imdbid>nm0519725</imdbid>
+  </actor>
+  <actor>
+    <name>Chick Bernhard</name>
+    <role>Marty McGuire (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1588581</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Cairis</name>
+    <role>FBI Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>592888</tmdbid>
+    <imdbid>nm0129049</imdbid>
+  </actor>
+  <actor>
+    <name>Carlos Foglia</name>
+    <role>FBI Agent Gary Clark (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1448129</tmdbid>
+    <imdbid>nm1700715</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Ford</name>
+    <role>FBI SWAT (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1198454</tmdbid>
+    <imdbid>nm2007000</imdbid>
+  </actor>
+  <actor>
+    <name>George J. Vezina</name>
+    <role>FBI Special Task Force Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1508818</tmdbid>
+    <imdbid>nm3075140</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Corazzini</name>
+    <role>Boston Police Officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1371552</tmdbid>
+    <imdbid>nm1089398</imdbid>
+  </actor>
+  <actor>
+    <name>Alex East</name>
+    <role>Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1175452</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Palermo</name>
+    <role>Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1588590</tmdbid>
+    <imdbid>nm4190344</imdbid>
+  </actor>
+  <actor>
+    <name>Dan Marshall</name>
+    <role>Pedestrian Harvard Professor / Graduate Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1588593</tmdbid>
+    <imdbid>nm3096946</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Masnyk</name>
+    <role>Sullys Kid (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1519595</tmdbid>
+    <imdbid>nm2476764</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas McGowan</name>
+    <role>Crime Scene Investigator (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1191341</tmdbid>
+    <imdbid>nm0332942</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Olson</name>
+    <role>CSI Officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1473459</tmdbid>
+  </actor>
+  <actor>
+    <name>Ed O'Keefe</name>
+    <role>Morton Previt</role>
+    <type>Actor</type>
+    <tmdbid>2021442</tmdbid>
+  </actor>
+  <actor>
+    <name>Darryl Wooten</name>
+    <role>Featured FBI SWAT Agent</role>
+    <type>Actor</type>
+    <tmdbid>2867221</tmdbid>
+  </actor>
+  <actor>
+    <name>Billy 'V' Vigeant</name>
+    <role>FBI Task Force Agent</role>
+    <type>Actor</type>
+    <tmdbid>1674442</tmdbid>
+  </actor>
+  <actor>
+    <name>Kayla Rae Vesce</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>2631369</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Venezia</name>
+    <role>Bar Patron</role>
+    <type>Actor</type>
+    <tmdbid>2867227</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Tzavalas</name>
+    <role>Pedestrian</role>
+    <type>Actor</type>
+    <tmdbid>2867228</tmdbid>
+  </actor>
+  <actor>
+    <name>Phil Tavares</name>
+    <role>FBI SWAT #3</role>
+    <type>Actor</type>
+    <tmdbid>2090159</tmdbid>
+    <imdbid>nm6101010</imdbid>
+  </actor>
+  <actor>
+    <name>Charlie Tacker</name>
+    <role>Background Extra</role>
+    <type>Actor</type>
+    <tmdbid>2034699</tmdbid>
+  </actor>
+  <actor>
+    <name>David Struffolino</name>
+    <role>Pedestrian</role>
+    <type>Actor</type>
+    <tmdbid>2630505</tmdbid>
+  </actor>
+  <actor>
+    <name>Rich Skinner</name>
+    <role>Corrections Officer</role>
+    <type>Actor</type>
+    <tmdbid>1753545</tmdbid>
+    <imdbid>nm2315863</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Silvia</name>
+    <role>FBI Task Force</role>
+    <type>Actor</type>
+    <tmdbid>2867238</tmdbid>
+  </actor>
+  <actor>
+    <name>Americo Presciutti</name>
+    <role>Policeman</role>
+    <type>Actor</type>
+    <tmdbid>1942163</tmdbid>
+    <imdbid>nm1759449</imdbid>
+  </actor>
+  <actor>
+    <name>Don Orsillo</name>
+    <role>Red Sox Play-by-Play Announcer</role>
+    <type>Actor</type>
+    <tmdbid>2867243</tmdbid>
+  </actor>
+  <director tmdbid="880" imdbid="nm0000255">Ben Affleck</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WcXt9aUMbBk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bhaqdlXm2ms</trailer>
+  <rating>7.5</rating>
+  <year>2010</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0840361</imdbid>
+  <tmdbid>23168</tmdbid>
+  <premiered>2010-09-15</premiered>
+  <releasedate>2010-09-15</releasedate>
+  <criticrating>92</criticrating>
+  <runtime>151</runtime>
+  <country>United States of America</country>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <studio>Legendary Pictures</studio>
+  <studio>GK Films</studio>
+  <studio>Thunder Road</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <uniqueid type="Tmdb">23168</uniqueid>
+  <uniqueid type="Imdb">tt0840361</uniqueid>
+  <id>tt0840361</id>
+  <fileinfo>
+    <streamdetails>
+      <audio>
+        <codec>cook</codec>
+        <micodec>cook</micodec>
+        <bitrate>96468</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>rv40</codec>
+        <micodec>rv40</micodec>
+        <bitrate>1698820</bitrate>
+        <width>1280</width>
+        <height>684</height>
+        <aspect>320:171</aspect>
+        <aspectratio>320:171</aspectratio>
+        <framerate>23.976105</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>150</duration>
+        <durationinseconds>9035</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+</movie>

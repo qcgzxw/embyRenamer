@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[第91届奥斯卡金像奖(2019)最佳纪录长片。本纪录片展现了人体的极限，镜头对准艾力克斯霍诺德(AlexHonnold)，拍摄他如何完成壮举，完成一部史诗，他是第一位攀登上优胜美地国家公园酋长岩(ElCapitan)的职业攀岩者。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-02-22 13:30:51</dateadded>
+  <title>徒手攀岩</title>
+  <originaltitle>Free Solo</originaltitle>
+  <actor>
+    <name>Alex Honnold</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>107800</tmdbid>
+    <imdbid>nm3658958</imdbid>
+  </actor>
+  <actor>
+    <name>Tommy Caldwell</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>107798</tmdbid>
+    <imdbid>nm2225545</imdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Chin</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>1403129</tmdbid>
+    <imdbid>nm3011011</imdbid>
+  </actor>
+  <actor>
+    <name>Sanni McCandless</name>
+    <role>Herself</role>
+    <type>Actor</type>
+    <tmdbid>2132377</tmdbid>
+    <imdbid>nm10133509</imdbid>
+  </actor>
+  <actor>
+    <name>Mikey Schaefer</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>1283186</tmdbid>
+    <imdbid>nm4489275</imdbid>
+  </actor>
+  <actor>
+    <name>Cheyne Lempe</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>1403123</tmdbid>
+    <imdbid>nm7466099</imdbid>
+  </actor>
+  <director tmdbid="1027910" imdbid="nm1888091">Elizabeth Chai Vasarhelyi</director>
+  <director tmdbid="1403129" imdbid="nm3011011">Jimmy Chin</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=urRVZ4SW7WU</trailer>
+  <rating>8.2</rating>
+  <year>2018</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt7775622</imdbid>
+  <tmdbid>515042</tmdbid>
+  <premiered>2018-09-28</premiered>
+  <releasedate>2018-09-28</releasedate>
+  <criticrating>97</criticrating>
+  <runtime>100</runtime>
+  <country>United States of America</country>
+  <genre>纪录</genre>
+  <genre>冒险</genre>
+  <studio>National Geographic</studio>
+  <studio>Parkes+MacDonald Image Nation</studio>
+  <studio>Little Monster Films</studio>
+  <studio>MacDonald/Parkes Productions</studio>
+  <studio>Itinerant Media</studio>
+  <studio>Image Nation</studio>
+  <uniqueid type="Tmdb">515042</uniqueid>
+  <uniqueid type="Imdb">tt7775622</uniqueid>
+  <id>tt7775622</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9116023</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>3060:1651</aspect>
+        <aspectratio>3060:1651</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6005</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[在高层电梯内，一个男人（赵东赫饰）和一个女人（成贤娥饰）单独相遇。她是个正经的女人。这个女人即将和交往7年但感到有些厌倦的爱人步入婚姻殿堂。当男人说：“如果到地下三层还没有人乘电梯，我就请你喝酒。”后开始动摇。女人对乘同一电梯的气质不凡的男子产生了奇妙的感觉。当天又一次的偶遇，她开始喜欢这个小心翼翼、安静的男子带给她的温柔。她很容易就此陷入这个男子的感情漩涡，并同意与其发生性关系…… 　然后，时间和空间改变，二人第二次偶遇。当天下午，在坡州再次相遇的二人自然而然地摘下自己的面具，开始从彼此的身上享受性的快乐。而且男人为了不让女人感到有负担，还说：“我明天就去非洲。”刚开始预定到当天下午6点结束关系的二人，把时间延长到了当天晚上10点，然后又延长到了第二天早晨，最后，连对方叫什么都不知道的二人沉浸在了为期2天的爱情里。
+ 和一起交往了7年的男友马上就要结婚了，为什么她这么轻易就把自己的感情给了这位初次见面的男子？她能瞒着丈夫，将自己的情人深深藏在心底吗？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-10-13 11:18:57</dateadded>
+  <title>爱人</title>
+  <originaltitle>애인</originaltitle>
+  <actor>
+    <name>Sung Hyun-ah</name>
+    <role>woman</role>
+    <type>Actor</type>
+    <tmdbid>1243600</tmdbid>
+  </actor>
+  <actor>
+    <name>Jo Dong-hyuk</name>
+    <role>man</role>
+    <type>Actor</type>
+    <tmdbid>1255801</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Ye-ryeong</name>
+    <role>wine shop owner</role>
+    <type>Actor</type>
+    <tmdbid>1043191</tmdbid>
+  </actor>
+  <actor>
+    <name>Ji Dae-han</name>
+    <role>site manager</role>
+    <type>Actor</type>
+    <tmdbid>77180</tmdbid>
+    <imdbid>nm1203041</imdbid>
+  </actor>
+  <actor>
+    <name>Kil Hae-yeon</name>
+    <role>art factory manager</role>
+    <type>Actor</type>
+    <tmdbid>1191711</tmdbid>
+    <imdbid>nm4725068</imdbid>
+  </actor>
+  <actor>
+    <name>Keum Dong-hyun</name>
+    <role>taxi driver</role>
+    <type>Actor</type>
+    <tmdbid>1664926</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Se-jin</name>
+    <role>secretary</role>
+    <type>Actor</type>
+    <tmdbid>2004685</tmdbid>
+  </actor>
+  <director tmdbid="1116262">Kim Eun-tae</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Bu1F-W-N0EE</trailer>
+  <rating>5.9</rating>
+  <year>2005</year>
+  <imdbid>tt0492533</imdbid>
+  <tmdbid>142093</tmdbid>
+  <premiered>2005-12-08</premiered>
+  <releasedate>2005-12-08</releasedate>
+  <criticrating>57</criticrating>
+  <runtime>95</runtime>
+  <country>South Korea</country>
+  <genre>爱情</genre>
+  <studio>Showbox</studio>
+  <studio>KiHweck ShiDae</studio>
+  <uniqueid type="Tmdb">142093</uniqueid>
+  <uniqueid type="Imdb">tt0492533</uniqueid>
+  <id>tt0492533</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>985752</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5706</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>63987</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

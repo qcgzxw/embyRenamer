@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　两个抗癌家庭，两组生活轨迹。影片讲述了一个温情的现实故事，思考和直面了每一个普通人都会面临的终极问题——想象死亡随时可能到来，我们唯一要做的就是爱和珍惜。]]></plot>
+  <outline><![CDATA[送你一朵小红花]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-28 12:24:49</dateadded>
+  <title>送你一朵小红花</title>
+  <originaltitle>送你一朵小红花</originaltitle>
+  <actor>
+    <name>Jackson Yee</name>
+    <role>Wei Yi Hang</role>
+    <type>Actor</type>
+    <tmdbid>2223265</tmdbid>
+    <imdbid>nm3725393</imdbid>
+  </actor>
+  <actor>
+    <name>Haocun Liu</name>
+    <role>Ma Xiao Yuan</role>
+    <type>Actor</type>
+    <tmdbid>2682877</tmdbid>
+    <imdbid>nm11654704</imdbid>
+  </actor>
+  <actor>
+    <name>高亚麟</name>
+    <role>Wei Jiang</role>
+    <type>Actor</type>
+    <tmdbid>576500</tmdbid>
+    <imdbid>nm1492770</imdbid>
+  </actor>
+  <actor>
+    <name>Zhu Yuan-Yuan</name>
+    <role>Tao Hui</role>
+    <type>Actor</type>
+    <tmdbid>572085</tmdbid>
+    <imdbid>nm2333994</imdbid>
+  </actor>
+  <actor>
+    <name>Xia Yu</name>
+    <role>Old Ma</role>
+    <type>Actor</type>
+    <tmdbid>83634</tmdbid>
+    <imdbid>nm0944464</imdbid>
+  </actor>
+  <actor>
+    <name>Yue Yunpeng</name>
+    <role>Wu Xiao Mei</role>
+    <type>Actor</type>
+    <tmdbid>1048642</tmdbid>
+    <imdbid>nm5328540</imdbid>
+  </actor>
+  <director tmdbid="1068848" imdbid="nm5181204">Yan Han</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Zq3Z-W_9G6w</trailer>
+  <rating>6.6</rating>
+  <year>2020</year>
+  <imdbid>tt12497408</imdbid>
+  <tmdbid>716815</tmdbid>
+  <premiered>2020-12-31</premiered>
+  <releasedate>2020-12-31</releasedate>
+  <runtime>128</runtime>
+  <tagline>送你一朵小红花</tagline>
+  <country>China</country>
+  <genre>剧情</genre>
+  <genre>家庭</genre>
+  <uniqueid type="Tmdb">716815</uniqueid>
+  <uniqueid type="Imdb">tt12497408</uniqueid>
+  <id>tt12497408</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1548762</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>24.000051</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>128</duration>
+        <durationinseconds>7703</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>93407</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

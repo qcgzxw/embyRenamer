@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[聪明的利普一直给别人当枪手赚钱，这天他在帮别人考学术能力评估测验的时候被逮到了。加拉格家的三弟卡尔一直有暴力倾向，他在学校惹了麻烦，校长要求必须见他的家长，要不然他就要被开除。菲奥娜找不到父亲，她只有和利普赶到学校帮卡尔求情。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-10 17:22:59</dateadded>
+  <title>杀手卡尔</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Slade Wiggins</name>
+    <role>Karen Jackson</role>
+    <type>Actor</type>
+    <tmdbid>439253</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Chatwin</name>
+    <role>Steve Wilton/Jimmy Lishman</role>
+    <type>Actor</type>
+    <tmdbid>503</tmdbid>
+  </actor>
+  <actor>
+    <name>Noel Fisher</name>
+    <role>Mickey Milkovich</role>
+    <type>GuestStar</type>
+    <tmdbid>80352</tmdbid>
+    <imdbid>nm0279720</imdbid>
+  </actor>
+  <actor>
+    <name>Dennis Cockrum</name>
+    <role>Terry Milkovich</role>
+    <type>GuestStar</type>
+    <tmdbid>155825</tmdbid>
+    <imdbid>nm0168371</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Knepper</name>
+    <role>Rod</role>
+    <type>GuestStar</type>
+    <tmdbid>17343</tmdbid>
+    <imdbid>nm0460694</imdbid>
+  </actor>
+  <actor>
+    <name>Pej Vahdat</name>
+    <role>Kash</role>
+    <type>GuestStar</type>
+    <tmdbid>64297</tmdbid>
+  </actor>
+  <actor>
+    <name>Marguerite Moreau</name>
+    <role>Linda</role>
+    <type>GuestStar</type>
+    <tmdbid>22223</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Murray</name>
+    <role>Eddie Jackson</role>
+    <type>GuestStar</type>
+    <tmdbid>155649</tmdbid>
+    <imdbid>nm0615063</imdbid>
+  </actor>
+  <actor>
+    <name>Dennis Boutsikaris</name>
+    <role>Professor Hearst</role>
+    <type>GuestStar</type>
+    <tmdbid>118937</tmdbid>
+    <imdbid>nm0100381</imdbid>
+  </actor>
+  <actor>
+    <name>Joan Cusack</name>
+    <role>Sheila Jackson</role>
+    <type>GuestStar</type>
+    <tmdbid>3234</tmdbid>
+    <imdbid>nm0000349</imdbid>
+  </actor>
+  <actor>
+    <name>Lily Mariye</name>
+    <role>Malaya</role>
+    <type>GuestStar</type>
+    <tmdbid>66637</tmdbid>
+  </actor>
+  <director>John Dahl</director>
+  <rating>7.583</rating>
+  <year>2011</year>
+  <imdbid>tt1751740</imdbid>
+  <tvdbid>3456151</tvdbid>
+  <runtime>51</runtime>
+  <uniqueid type="Imdb">tt1751740</uniqueid>
+  <uniqueid type="Tvdb">3456151</uniqueid>
+  <episode>6</episode>
+  <season>1</season>
+  <aired>2011-02-13</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>12309872</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>50</duration>
+        <durationinseconds>3052</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>1080p</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

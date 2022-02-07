@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[1987 年，正值青春期的少女 Charlie（海莉·斯坦菲尔德 饰）在 18 岁生日这天来到加州海边小镇的废弃车场，在这里发现了伤痕累累的变形金刚“大黄蜂”，大黄蜂受伤后变形甲壳虫，与女主 Charlie 开启了一段温暖轻松的全新生活。然而好景不长，军方和霸天虎阵营为寻找大黄蜂结成联盟，展开凶残追杀，身陷绝境的大黄蜂也切换至战斗模式，一场关乎地球和人类存亡的生死之战不可避免。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-19 15:23:02</dateadded>
+  <title>大黄蜂</title>
+  <originaltitle>Bumblebee</originaltitle>
+  <actor>
+    <name>Hailee Steinfeld</name>
+    <role>Charlie Watson</role>
+    <type>Actor</type>
+    <tmdbid>130640</tmdbid>
+    <imdbid>nm2794962</imdbid>
+  </actor>
+  <actor>
+    <name>John Cena</name>
+    <role>Agent Jack Burns</role>
+    <type>Actor</type>
+    <tmdbid>56446</tmdbid>
+    <imdbid>nm1078479</imdbid>
+  </actor>
+  <actor>
+    <name>Jorge Lendeborg Jr.</name>
+    <role>Memo</role>
+    <type>Actor</type>
+    <tmdbid>1563266</tmdbid>
+    <imdbid>nm7449863</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Ian Drucker</name>
+    <role>Otis Watson</role>
+    <type>Actor</type>
+    <tmdbid>1517834</tmdbid>
+    <imdbid>nm6099602</imdbid>
+  </actor>
+  <actor>
+    <name>Pamela Adlon</name>
+    <role>Sally Watson</role>
+    <type>Actor</type>
+    <tmdbid>21063</tmdbid>
+    <imdbid>nm0781899</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Schneider</name>
+    <role>Ron</role>
+    <type>Actor</type>
+    <tmdbid>1184280</tmdbid>
+    <imdbid>nm1447142</imdbid>
+  </actor>
+  <actor>
+    <name>Ricardo Hoyos</name>
+    <role>Tripp</role>
+    <type>Actor</type>
+    <tmdbid>934136</tmdbid>
+    <imdbid>nm2484195</imdbid>
+  </actor>
+  <actor>
+    <name>John Ortiz</name>
+    <role>Dr. Powell</role>
+    <type>Actor</type>
+    <tmdbid>40543</tmdbid>
+    <imdbid>nm0651159</imdbid>
+  </actor>
+  <actor>
+    <name>Glynn Turman</name>
+    <role>General Whalen</role>
+    <type>Actor</type>
+    <tmdbid>114674</tmdbid>
+    <imdbid>nm0877270</imdbid>
+  </actor>
+  <actor>
+    <name>Len Cariou</name>
+    <role>Hank</role>
+    <type>Actor</type>
+    <tmdbid>41247</tmdbid>
+    <imdbid>nm0137230</imdbid>
+  </actor>
+  <actor>
+    <name>Kollin Holtz</name>
+    <role>Craig</role>
+    <type>Actor</type>
+    <tmdbid>2216189</tmdbid>
+    <imdbid>nm5138832</imdbid>
+  </actor>
+  <actor>
+    <name>Gracie Dzienny</name>
+    <role>Tina</role>
+    <type>Actor</type>
+    <tmdbid>1456287</tmdbid>
+    <imdbid>nm4046255</imdbid>
+  </actor>
+  <actor>
+    <name>Fred Dryer</name>
+    <role>Sheriff Lock</role>
+    <type>Actor</type>
+    <tmdbid>162272</tmdbid>
+    <imdbid>nm004885</imdbid>
+  </actor>
+  <actor>
+    <name>Isabelle Ellingson</name>
+    <role>Mean Girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>2201167</tmdbid>
+    <imdbid>nm4817732</imdbid>
+  </actor>
+  <actor>
+    <name>Mika Kubo</name>
+    <role>Mean Girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>2221430</tmdbid>
+  </actor>
+  <actor>
+    <name>Felicia Stiles</name>
+    <role>Party Goer</role>
+    <type>Actor</type>
+    <tmdbid>2221445</tmdbid>
+  </actor>
+  <actor>
+    <name>George Anagnostou</name>
+    <role>Party Goer</role>
+    <type>Actor</type>
+    <tmdbid>2221446</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Wardle</name>
+    <role>Party Goer</role>
+    <type>Actor</type>
+    <tmdbid>1732883</tmdbid>
+  </actor>
+  <actor>
+    <name>Lenny Jacobson</name>
+    <role>Roy</role>
+    <type>Actor</type>
+    <tmdbid>1246804</tmdbid>
+    <imdbid>nm2381777</imdbid>
+  </actor>
+  <actor>
+    <name>Megyn Price</name>
+    <role>Amber</role>
+    <type>Actor</type>
+    <tmdbid>154332</tmdbid>
+    <imdbid>nm0697044</imdbid>
+  </actor>
+  <actor>
+    <name>Krystin Goodwin</name>
+    <role>News Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2172134</tmdbid>
+    <imdbid>nm4716109</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Pilla</name>
+    <role>Young Agent Simmons</role>
+    <type>Actor</type>
+    <tmdbid>2216183</tmdbid>
+  </actor>
+  <actor>
+    <name>Sachin Bhatt</name>
+    <role>Pilot Hutton</role>
+    <type>Actor</type>
+    <tmdbid>1139163</tmdbid>
+    <imdbid>nm2491771</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Martin Gleason</name>
+    <role>Charlie's Dad</role>
+    <type>Actor</type>
+    <tmdbid>1694924</tmdbid>
+    <imdbid>nm4181366</imdbid>
+  </actor>
+  <actor>
+    <name>David Waters</name>
+    <role>Impatient Guy</role>
+    <type>Actor</type>
+    <tmdbid>2137392</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio D. Charity</name>
+    <role>Bill the Mechanic</role>
+    <type>Actor</type>
+    <tmdbid>92611</tmdbid>
+    <imdbid>nm0152918</imdbid>
+  </actor>
+  <actor>
+    <name>Courtney Coker</name>
+    <role>Young Agent</role>
+    <type>Actor</type>
+    <tmdbid>2216184</tmdbid>
+  </actor>
+  <actor>
+    <name>Edwin Hodge</name>
+    <role>Danny</role>
+    <type>Actor</type>
+    <tmdbid>56679</tmdbid>
+    <imdbid>nm0388064</imdbid>
+  </actor>
+  <actor>
+    <name>Jake Huang</name>
+    <role>Danny's Paintball Team</role>
+    <type>Actor</type>
+    <tmdbid>1897705</tmdbid>
+  </actor>
+  <actor>
+    <name>Holland Diaz</name>
+    <role>Danny's Paintball Team</role>
+    <type>Actor</type>
+    <tmdbid>1723161</tmdbid>
+    <imdbid>nm2187079</imdbid>
+  </actor>
+  <actor>
+    <name>David Cutler</name>
+    <role>Danny's Paintball Team</role>
+    <type>Actor</type>
+    <tmdbid>2221528</tmdbid>
+  </actor>
+  <actor>
+    <name>Lars Slind</name>
+    <role>Humvee Driver</role>
+    <type>Actor</type>
+    <tmdbid>1663196</tmdbid>
+    <imdbid>nm4839989</imdbid>
+  </actor>
+  <actor>
+    <name>Dylan O'Brien</name>
+    <role>B-127 / Bumblebee (voice)</role>
+    <type>Actor</type>
+    <tmdbid>527393</tmdbid>
+    <imdbid>nm3729721</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Cullen</name>
+    <role>Optimus Prime (voice)</role>
+    <type>Actor</type>
+    <tmdbid>19540</tmdbid>
+    <imdbid>nm0191520</imdbid>
+  </actor>
+  <actor>
+    <name>Angela Bassett</name>
+    <role>Shatter (voice)</role>
+    <type>Actor</type>
+    <tmdbid>9780</tmdbid>
+    <imdbid>nm0000291</imdbid>
+  </actor>
+  <actor>
+    <name>Justin Theroux</name>
+    <role>Dropkick (voice)</role>
+    <type>Actor</type>
+    <tmdbid>15009</tmdbid>
+    <imdbid>nm0857620</imdbid>
+  </actor>
+  <actor>
+    <name>David Sobolov</name>
+    <role>Blitzwing (voice)</role>
+    <type>Actor</type>
+    <tmdbid>164614</tmdbid>
+    <imdbid>nm0811875</imdbid>
+  </actor>
+  <actor>
+    <name>Grey DeLisle</name>
+    <role>Arcee (voice)</role>
+    <type>Actor</type>
+    <tmdbid>15761</tmdbid>
+    <imdbid>nm0217221</imdbid>
+  </actor>
+  <actor>
+    <name>Jon Bailey</name>
+    <role>Shockwave / Soundwave (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2204260</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Blum</name>
+    <role>Wheeljack (voice)</role>
+    <type>Actor</type>
+    <tmdbid>571562</tmdbid>
+    <imdbid>nm0089710</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Morgado</name>
+    <role>Cliffjumper (voice)</role>
+    <type>Actor</type>
+    <tmdbid>80823</tmdbid>
+    <imdbid>nm1157771</imdbid>
+  </actor>
+  <actor>
+    <name>Kirk Baily</name>
+    <role>Brawn / Seekers (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176035</tmdbid>
+    <imdbid>nm0047358</imdbid>
+  </actor>
+  <actor>
+    <name>Dennis Singletary</name>
+    <role>Ratchet (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2204259</tmdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Ross</name>
+    <role>The Mean Girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1422991</tmdbid>
+    <imdbid>nm1423978</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Toste</name>
+    <role>Roller Coaster Rider (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1753418</tmdbid>
+    <imdbid>nm4584812</imdbid>
+  </actor>
+  <actor>
+    <name>Nico Abiera</name>
+    <role>Boardwalk Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2221554</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiana Alvarez</name>
+    <role>Teen Party Goer / Mean Girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2221556</tmdbid>
+  </actor>
+  <actor>
+    <name>Yianni Apostolopolous</name>
+    <role>Teen Party Goer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2221558</tmdbid>
+  </actor>
+  <actor>
+    <name>Jace Areff</name>
+    <role>Karate Studio Friend (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2221559</tmdbid>
+  </actor>
+  <actor>
+    <name>Manny Avina</name>
+    <role>Karate Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2221560</tmdbid>
+  </actor>
+  <actor>
+    <name>William W. Barbour</name>
+    <role>Neighbor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1923573</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesse Stoudt</name>
+    <role>Boardwalk Teenager</role>
+    <type>Actor</type>
+    <tmdbid>2566150</tmdbid>
+  </actor>
+  <director tmdbid="1033661" imdbid="nm1325899">Travis Knight</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fAIX12F6958</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lcwmDAYt22k</trailer>
+  <rating>6.8</rating>
+  <year>2018</year>
+  <mpaa>HK-IIA</mpaa>
+  <imdbid>tt4701182</imdbid>
+  <tmdbid>424783</tmdbid>
+  <premiered>2018-12-15</premiered>
+  <releasedate>2018-12-15</releasedate>
+  <criticrating>90</criticrating>
+  <runtime>114</runtime>
+  <country>China</country>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>冒险</genre>
+  <genre>科幻</genre>
+  <studio>Hasbro</studio>
+  <studio>Paramount</studio>
+  <studio>Allspark Pictures</studio>
+  <studio>Bay Films</studio>
+  <studio>Di Bonaventura Pictures</studio>
+  <studio>Tencent Pictures</studio>
+  <studio>Tom DeSanto/Don Murphy Production</studio>
+  <uniqueid type="Tmdb">424783</uniqueid>
+  <uniqueid type="Imdb">tt4701182</uniqueid>
+  <id>tt4701182</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10055380</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>113</duration>
+        <durationinseconds>6832</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

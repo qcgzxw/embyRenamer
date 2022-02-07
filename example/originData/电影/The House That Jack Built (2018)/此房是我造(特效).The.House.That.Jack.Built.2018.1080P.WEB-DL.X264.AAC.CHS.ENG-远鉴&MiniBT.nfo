@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[林间公路，面无表情的杰克（马特·狄龙 Matt Dillon 饰）搭载了一名汽车抛锚的女子。女子自作聪明，聒噪无比，最终被杰克用千斤顶砸死。这起事件仿佛为杰克打开了一扇地狱之门，从此他走上了充满血液和寒冰的魔鬼之路。他对美有着偏执极端的追求，他从物质到精神都有着高度洁癖，他亲手为自己设计完美的房屋，却往往因为不满意而彻底拆掉。在此期间，杀戮让杰克体会到莫大的快感。他自诩为“精致先生”，将女性锁定为所猎杀的目标。他的胆子越来越大，不仅将谋杀现场的照片寄给报社，更游戏般地周旋徘徊在警方和受害者面前。这不仅是残酷血腥的猫捉老鼠的游戏，更是他为了终极目标所做的策划经营！]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-12-30 09:49:05</dateadded>
+  <title>此房是我造</title>
+  <originaltitle>The House That Jack Built</originaltitle>
+  <actor>
+    <name>Matt Dillon</name>
+    <role>Jack</role>
+    <type>Actor</type>
+    <tmdbid>2876</tmdbid>
+    <imdbid>nm0000369</imdbid>
+  </actor>
+  <actor>
+    <name>Bruno Ganz</name>
+    <role>Verge</role>
+    <type>Actor</type>
+    <tmdbid>2310</tmdbid>
+    <imdbid>nm0004486</imdbid>
+  </actor>
+  <actor>
+    <name>Uma Thurman</name>
+    <role>Lady 1</role>
+    <type>Actor</type>
+    <tmdbid>139</tmdbid>
+    <imdbid>nm0000235</imdbid>
+  </actor>
+  <actor>
+    <name>Siobhan Fallon Hogan</name>
+    <role>Lady 2</role>
+    <type>Actor</type>
+    <tmdbid>6751</tmdbid>
+    <imdbid>nm0266441</imdbid>
+  </actor>
+  <actor>
+    <name>Sofie Gråbøl</name>
+    <role>Lady 3</role>
+    <type>Actor</type>
+    <tmdbid>1564</tmdbid>
+    <imdbid>nm0344894</imdbid>
+  </actor>
+  <actor>
+    <name>Riley Keough</name>
+    <role>Simple</role>
+    <type>Actor</type>
+    <tmdbid>98522</tmdbid>
+    <imdbid>nm2142336</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Davies</name>
+    <role>Al</role>
+    <type>Actor</type>
+    <tmdbid>4654</tmdbid>
+    <imdbid>nm0001111</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Mckenzie</name>
+    <role>Sonny</role>
+    <type>Actor</type>
+    <tmdbid>2196403</tmdbid>
+  </actor>
+  <actor>
+    <name>Mathias Hjelm</name>
+    <role>Glenn</role>
+    <type>Actor</type>
+    <tmdbid>1263622</tmdbid>
+    <imdbid>nm3377094</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Speleers</name>
+    <role>Ed - Police Officer 2</role>
+    <type>Actor</type>
+    <tmdbid>25438</tmdbid>
+    <imdbid>nm1968873</imdbid>
+  </actor>
+  <actor>
+    <name>Emil Tholstrup</name>
+    <role>Young Jack</role>
+    <type>Actor</type>
+    <tmdbid>2196404</tmdbid>
+  </actor>
+  <actor>
+    <name>Marijana Janković</name>
+    <role>Female Student</role>
+    <type>Actor</type>
+    <tmdbid>128656</tmdbid>
+    <imdbid>nm2711342</imdbid>
+  </actor>
+  <actor>
+    <name>Carina Skenhede</name>
+    <role>Little Old Lady</role>
+    <type>Actor</type>
+    <tmdbid>2038583</tmdbid>
+  </actor>
+  <actor>
+    <name>Rocco Day</name>
+    <role>Grumpy</role>
+    <type>Actor</type>
+    <tmdbid>2688213</tmdbid>
+  </actor>
+  <actor>
+    <name>Cohen Day</name>
+    <role>George</role>
+    <type>Actor</type>
+    <tmdbid>2688214</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Jezek</name>
+    <role>Police Officer 4</role>
+    <type>Actor</type>
+    <tmdbid>1230749</tmdbid>
+    <imdbid>nm0422514</imdbid>
+  </actor>
+  <actor>
+    <name>Osy Ikhile</name>
+    <role>Military Man</role>
+    <type>Actor</type>
+    <tmdbid>1388917</tmdbid>
+    <imdbid>nm3247700</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Arnold</name>
+    <role>Man 1</role>
+    <type>Actor</type>
+    <tmdbid>1823404</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoo Ji-tae</name>
+    <role>Man 2</role>
+    <type>Actor</type>
+    <tmdbid>10112</tmdbid>
+    <imdbid>nm0949167</imdbid>
+  </actor>
+  <actor>
+    <name>Johannes Bah Kuhnke</name>
+    <role>Man 3</role>
+    <type>Actor</type>
+    <tmdbid>116614</tmdbid>
+    <imdbid>nm1090326</imdbid>
+  </actor>
+  <actor>
+    <name>Jerker Fahlström</name>
+    <role>Man 4</role>
+    <type>Actor</type>
+    <tmdbid>1351733</tmdbid>
+    <imdbid>nm0265228</imdbid>
+  </actor>
+  <actor>
+    <name>David Bailie</name>
+    <role>S.  P.</role>
+    <type>Actor</type>
+    <tmdbid>1715</tmdbid>
+    <imdbid>nm0047549</imdbid>
+  </actor>
+  <actor>
+    <name>Robert G. Slade</name>
+    <role>Rob</role>
+    <type>Actor</type>
+    <tmdbid>1395428</tmdbid>
+    <imdbid>nm0805195</imdbid>
+  </actor>
+  <actor>
+    <name>Vasilije Mujka</name>
+    <role>Scythe Man, Elysian Fields</role>
+    <type>Actor</type>
+    <tmdbid>2688217</tmdbid>
+  </actor>
+  <director tmdbid="42" imdbid="nm0001885">Lars von Trier</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8RcExsA-8FI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=c6DuLPGZIoQ</trailer>
+  <rating>6.8</rating>
+  <year>2018</year>
+  <mpaa>HK-III</mpaa>
+  <imdbid>tt4003440</imdbid>
+  <tmdbid>398173</tmdbid>
+  <premiered>2018-10-04</premiered>
+  <releasedate>2018-10-04</releasedate>
+  <criticrating>59</criticrating>
+  <runtime>151</runtime>
+  <country>Denmark</country>
+  <country>France</country>
+  <country>Germany</country>
+  <country>Sweden</country>
+  <genre>剧情</genre>
+  <genre>恐怖</genre>
+  <genre>犯罪</genre>
+  <genre>惊悚</genre>
+  <studio>Zentropa Entertainments</studio>
+  <studio>Copenhagen Film Fund</studio>
+  <studio>Slot Machine</studio>
+  <studio>Film i Väst</studio>
+  <studio>Zentropa International Sweden</studio>
+  <studio>Zentropa International France</studio>
+  <studio>Zentropa International Köln</studio>
+  <uniqueid type="Tmdb">398173</uniqueid>
+  <uniqueid type="Imdb">tt4003440</uniqueid>
+  <id>tt4003440</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4494337</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24.000044</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>150</duration>
+        <durationinseconds>9049</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

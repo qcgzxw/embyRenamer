@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[佩妮为莱纳德准备惊喜生日派对，却因谢尔顿忘了买礼物以及霍华德对花生严重过敏而出了差错。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 16:17:26</dateadded>
+  <title>花生过敏</title>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Leonard Hofstadter</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>Howard Wolowitz</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Nayyar</name>
+    <role>Rajesh Koothrappali</role>
+    <type>Actor</type>
+    <tmdbid>208099</tmdbid>
+    <imdbid>nm2471798</imdbid>
+  </actor>
+  <actor>
+    <name>Vernee Watson-Johnson</name>
+    <role>Althea</role>
+    <type>GuestStar</type>
+    <tmdbid>157085</tmdbid>
+    <imdbid>nm0914937</imdbid>
+  </actor>
+  <actor>
+    <name>Judith Moreland</name>
+    <role>Jan</role>
+    <type>GuestStar</type>
+    <tmdbid>1350210</tmdbid>
+    <imdbid>nm1132876</imdbid>
+  </actor>
+  <actor>
+    <name>Ronald Hunter</name>
+    <role>Dan</role>
+    <type>GuestStar</type>
+    <tmdbid>1177717</tmdbid>
+    <imdbid>nm0403020</imdbid>
+  </actor>
+  <actor>
+    <name>Chuck Carter</name>
+    <role>Stan</role>
+    <type>GuestStar</type>
+    <tmdbid>168952</tmdbid>
+    <imdbid>nm1546219</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.1</rating>
+  <year>2008</year>
+  <imdbid>tt1127907</imdbid>
+  <tvdbid>365967</tvdbid>
+  <runtime>19</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>641162</tvrageid>
+  <uniqueid type="Imdb">tt1127907</uniqueid>
+  <uniqueid type="Tvdb">365967</uniqueid>
+  <uniqueid type="TvRage">641162</uniqueid>
+  <episode>16</episode>
+  <season>1</season>
+  <aired>2008-05-12</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1398275</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1168</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

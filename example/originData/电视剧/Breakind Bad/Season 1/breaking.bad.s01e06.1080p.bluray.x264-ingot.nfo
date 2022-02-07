@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Walter 和 Jesse 达成了分工协议：Walter 负责制毒，Jesse 负责销售。Skyler 对于丈夫经常突然消失表示怀疑，Walter 表示自己只是想一个人静一静。与此同时，Jesse 也得知 Walter 制毒的真正目的是为了贴补家用。两人同时也开始寻找新的分销商，在通过用雷汞制造了一起小型的爆炸后，两人与一名叫 Tuco 的毒贩达成了交易。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 17:17:53</dateadded>
+  <title> 空手套白狼</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Pierre Barrera</name>
+    <role>Hugo Archuleta</role>
+    <type>GuestStar</type>
+    <tmdbid>210056</tmdbid>
+    <imdbid>nm2484601</imdbid>
+  </actor>
+  <actor>
+    <name>Vivian Nesbitt</name>
+    <role>Mrs. Pope</role>
+    <type>GuestStar</type>
+    <tmdbid>187505</tmdbid>
+  </actor>
+  <actor>
+    <name>Seri DeYoung</name>
+    <role>Student</role>
+    <type>GuestStar</type>
+    <tmdbid>1089016</tmdbid>
+  </actor>
+  <actor>
+    <name>Dennis Keiffer</name>
+    <role>Lookout</role>
+    <type>GuestStar</type>
+    <tmdbid>1221121</tmdbid>
+    <imdbid>nm0445022</imdbid>
+  </actor>
+  <actor>
+    <name>Cesar Garcia</name>
+    <role>Gonzo</role>
+    <type>GuestStar</type>
+    <tmdbid>53255</tmdbid>
+    <imdbid>nm1075323</imdbid>
+  </actor>
+  <actor>
+    <name>Jesus Jr.</name>
+    <role>No-Doze</role>
+    <type>GuestStar</type>
+    <tmdbid>1260529</tmdbid>
+  </actor>
+  <actor>
+    <name>Judith Rane</name>
+    <role>Office Manager</role>
+    <type>GuestStar</type>
+    <tmdbid>210057</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmen Serano</name>
+    <role>Carmen Molina</role>
+    <type>GuestStar</type>
+    <tmdbid>115688</tmdbid>
+    <imdbid>nm0784831</imdbid>
+  </actor>
+  <actor>
+    <name>Charles Baker</name>
+    <role>Skinny Pete</role>
+    <type>GuestStar</type>
+    <tmdbid>82945</tmdbid>
+    <imdbid>nm1889973</imdbid>
+  </actor>
+  <actor>
+    <name>Raymond Cruz</name>
+    <role>Tuco Salamanca</role>
+    <type>GuestStar</type>
+    <tmdbid>58650</tmdbid>
+    <imdbid>nm0190441</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Michael Quezada</name>
+    <role>Steven Gomez</role>
+    <type>GuestStar</type>
+    <tmdbid>61535</tmdbid>
+    <imdbid>nm2366374</imdbid>
+  </actor>
+  <director>Bronwen Hughes</director>
+  <rating>8.866</rating>
+  <year>2008</year>
+  <imdbid>tt1054728</imdbid>
+  <tvdbid>355100</tvdbid>
+  <runtime>48</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <tvrageid>637647</tvrageid>
+  <uniqueid type="Imdb">tt1054728</uniqueid>
+  <uniqueid type="Tvdb">355100</uniqueid>
+  <uniqueid type="TvRage">637647</uniqueid>
+  <episode>6</episode>
+  <season>1</season>
+  <aired>2008-03-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9766507</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>48</duration>
+        <durationinseconds>2884</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

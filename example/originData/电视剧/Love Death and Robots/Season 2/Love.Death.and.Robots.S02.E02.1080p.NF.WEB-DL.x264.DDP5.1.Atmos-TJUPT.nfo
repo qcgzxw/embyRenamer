@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[一对远离家乡的兄弟加入基因被改造的当地人，经历了一场生死奔跑。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-14 09:23:50</dateadded>
+  <title>冰</title>
+  <actor>
+    <name>Miguel Amorim</name>
+    <role>Oxo / Stoned Guy (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>2084120</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Teresa Creasey</name>
+    <role>Mother (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1363057</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Bodie</name>
+    <role>Father (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>2476301</tmdbid>
+  </actor>
+  <actor>
+    <name>Archie Madekwe</name>
+    <role>Sedgewick (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>2249745</tmdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Croft</name>
+    <role>Fletcher (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1614317</tmdbid>
+  </actor>
+  <actor>
+    <name>Beatriz Godinho</name>
+    <role>Logan (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1878436</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Lobo Moreno</name>
+    <role>Brume (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>2780501</tmdbid>
+  </actor>
+  <director>Robert Valley</director>
+  <rating>5.3</rating>
+  <year>2021</year>
+  <imdbid>tt14536118</imdbid>
+  <tvdbid>8376688</tvdbid>
+  <runtime>13</runtime>
+  <uniqueid type="Imdb">tt14536118</uniqueid>
+  <uniqueid type="Tvdb">8376688</uniqueid>
+  <episode>2</episode>
+  <season>2</season>
+  <aired>2021-05-14</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3845469</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>13</duration>
+        <durationinseconds>780</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

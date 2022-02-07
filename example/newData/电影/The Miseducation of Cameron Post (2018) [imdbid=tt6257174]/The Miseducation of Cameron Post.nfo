@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[小镇少女卡梅伦从小被寄养在极端保守的阿姨的家中。在高中舞会时，卡梅伦在汽车后座与女同学亲热被逮到，因而出柜。她的阿姨随后将其远送一家信奉宗教疗法的治疗机构，他们声称可以“治疗”同性恋]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-11-12 11:42:37</dateadded>
+  <title>卡梅伦的错误教育</title>
+  <originaltitle>The Miseducation of Cameron Post</originaltitle>
+  <actor>
+    <name>Chloë Grace Moretz</name>
+    <role>Cameron</role>
+    <type>Actor</type>
+    <tmdbid>56734</tmdbid>
+  </actor>
+  <actor>
+    <name>John Gallagher Jr.</name>
+    <role>Reverend Rick</role>
+    <type>Actor</type>
+    <tmdbid>17487</tmdbid>
+    <imdbid>nm0302330</imdbid>
+  </actor>
+  <actor>
+    <name>Sasha Lane</name>
+    <role>Jane</role>
+    <type>Actor</type>
+    <tmdbid>1535218</tmdbid>
+    <imdbid>nm7603745</imdbid>
+  </actor>
+  <actor>
+    <name>Forrest Goodluck</name>
+    <role>Adam</role>
+    <type>Actor</type>
+    <tmdbid>1560185</tmdbid>
+    <imdbid>nm5569442</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Ehle</name>
+    <role>Dr. Lydia Marsh</role>
+    <type>Actor</type>
+    <tmdbid>49971</tmdbid>
+    <imdbid>nm0000383</imdbid>
+  </actor>
+  <actor>
+    <name>Marin Ireland</name>
+    <role>Bethany</role>
+    <type>Actor</type>
+    <tmdbid>164094</tmdbid>
+    <imdbid>nm1677477</imdbid>
+  </actor>
+  <actor>
+    <name>Owen Campbell</name>
+    <role>Mark</role>
+    <type>Actor</type>
+    <tmdbid>132220</tmdbid>
+    <imdbid>nm3338805</imdbid>
+  </actor>
+  <actor>
+    <name>Kerry Butler</name>
+    <role>Ruth</role>
+    <type>Actor</type>
+    <tmdbid>1236987</tmdbid>
+  </actor>
+  <actor>
+    <name>Quinn Shephard</name>
+    <role>Coley</role>
+    <type>Actor</type>
+    <tmdbid>429728</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Skeggs</name>
+    <role>Erin</role>
+    <type>Actor</type>
+    <tmdbid>1685881</tmdbid>
+    <imdbid>nm3896112</imdbid>
+  </actor>
+  <actor>
+    <name>Melanie Ehrlich</name>
+    <role>Helen</role>
+    <type>Actor</type>
+    <tmdbid>1711842</tmdbid>
+    <imdbid>nm2451912</imdbid>
+  </actor>
+  <actor>
+    <name>Isaac Jin Solstein</name>
+    <role>Steve</role>
+    <type>Actor</type>
+    <tmdbid>1721232</tmdbid>
+    <imdbid>nm3389267</imdbid>
+  </actor>
+  <actor>
+    <name>Dalton Harrod</name>
+    <role>Jamie</role>
+    <type>Actor</type>
+    <tmdbid>1721233</tmdbid>
+    <imdbid>nm4032155</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Hauck</name>
+    <role>Pastor Crawford</role>
+    <type>Actor</type>
+    <tmdbid>1333666</tmdbid>
+    <imdbid>nm3069619</imdbid>
+  </actor>
+  <actor>
+    <name>McCabe Slye</name>
+    <role>Brett</role>
+    <type>Actor</type>
+    <tmdbid>1939736</tmdbid>
+    <imdbid>nm8450134</imdbid>
+  </actor>
+  <actor>
+    <name>Dale Soules</name>
+    <role>Grandma</role>
+    <type>Actor</type>
+    <tmdbid>1102500</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Dylan White</name>
+    <role>Dane</role>
+    <type>Actor</type>
+    <tmdbid>1721230</tmdbid>
+    <imdbid>nm6758600</imdbid>
+  </actor>
+  <actor>
+    <name>Andre B. Blake</name>
+    <role>Mr. Jacobs</role>
+    <type>Actor</type>
+    <tmdbid>552526</tmdbid>
+    <imdbid>nm0086470</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Covell</name>
+    <role>Bookstore Student</role>
+    <type>Actor</type>
+    <tmdbid>2170619</tmdbid>
+    <imdbid>nm9613193</imdbid>
+  </actor>
+  <actor>
+    <name>Cerrone May</name>
+    <role>Motorcyclist</role>
+    <type>Actor</type>
+    <tmdbid>2170620</tmdbid>
+    <imdbid>nm2934732</imdbid>
+  </actor>
+  <actor>
+    <name>Joshua Thomas</name>
+    <role>Bible Study Student #1</role>
+    <type>Actor</type>
+    <tmdbid>2170621</tmdbid>
+  </actor>
+  <actor>
+    <name>Shelby L. Collete</name>
+    <role>Bible Study Student #2</role>
+    <type>Actor</type>
+    <tmdbid>2170622</tmdbid>
+    <imdbid>nm10024901</imdbid>
+  </actor>
+  <actor>
+    <name>Francesca Noel</name>
+    <role>Bible Study Student #3</role>
+    <type>Actor</type>
+    <tmdbid>2170623</tmdbid>
+    <imdbid>nm8959370</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Dorado</name>
+    <role>Bible Study Student #4</role>
+    <type>Actor</type>
+    <tmdbid>2170624</tmdbid>
+    <imdbid>nm10024902</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Heller</name>
+    <role>Bible Study Student #5</role>
+    <type>Actor</type>
+    <tmdbid>2170625</tmdbid>
+    <imdbid>nm2231603</imdbid>
+  </actor>
+  <actor>
+    <name>Christina Karabiyik</name>
+    <role>Bible Study Student #6</role>
+    <type>Actor</type>
+    <tmdbid>2170626</tmdbid>
+    <imdbid>nm4494585</imdbid>
+  </actor>
+  <actor>
+    <name>Chloe Roe</name>
+    <role>Bible Study Student #7</role>
+    <type>Actor</type>
+    <tmdbid>2170627</tmdbid>
+    <imdbid>nm3630537</imdbid>
+  </actor>
+  <actor>
+    <name>Joyce Hausermann</name>
+    <role>God's Promise Disciple #1</role>
+    <type>Actor</type>
+    <tmdbid>1721234</tmdbid>
+    <imdbid>nm6934776</imdbid>
+  </actor>
+  <actor>
+    <name>Seamus Boyle</name>
+    <role>God's Promise Disciple #2</role>
+    <type>Actor</type>
+    <tmdbid>1576425</tmdbid>
+    <imdbid>nm2370106</imdbid>
+  </actor>
+  <actor>
+    <name>Niko Rodriguez</name>
+    <role>God's Promise Disciple #3</role>
+    <type>Actor</type>
+    <tmdbid>2107909</tmdbid>
+    <imdbid>nm8972721</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Brannigan</name>
+    <role>God's Promise Disciple #4</role>
+    <type>Actor</type>
+    <tmdbid>1721231</tmdbid>
+    <imdbid>nm6849615</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Krueger</name>
+    <role>God's Promise Disciple #5</role>
+    <type>Actor</type>
+    <tmdbid>1939737</tmdbid>
+    <imdbid>nm9456179</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Evans</name>
+    <role>God's Promise Disciple #6</role>
+    <type>Actor</type>
+    <tmdbid>2107910</tmdbid>
+    <imdbid>nm8735505</imdbid>
+  </actor>
+  <actor>
+    <name>John Kruppa</name>
+    <role>Iceberg Montage #1</role>
+    <type>Actor</type>
+    <tmdbid>2170628</tmdbid>
+    <imdbid>nm5916111</imdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Imbrosci-Viera</name>
+    <role>Iceberg Montage #2</role>
+    <type>Actor</type>
+    <tmdbid>1939738</tmdbid>
+    <imdbid>nm9303235</imdbid>
+  </actor>
+  <actor>
+    <name>Padraig Bond</name>
+    <role>Iceberg Montage #3</role>
+    <type>Actor</type>
+    <tmdbid>2170630</tmdbid>
+    <imdbid>nm6926019</imdbid>
+  </actor>
+  <actor>
+    <name>Lauren Anderson</name>
+    <role>Iceberg Montage #4</role>
+    <type>Actor</type>
+    <tmdbid>2170631</tmdbid>
+    <imdbid>nm10024903</imdbid>
+  </actor>
+  <actor>
+    <name>Morgan Camara</name>
+    <role>Iceberg Montage #5</role>
+    <type>Actor</type>
+    <tmdbid>2170632</tmdbid>
+    <imdbid>nm9357277</imdbid>
+  </actor>
+  <actor>
+    <name>Phoebe Camara</name>
+    <role>Iceberg Montage #6</role>
+    <type>Actor</type>
+    <tmdbid>2170633</tmdbid>
+    <imdbid>nm10024904</imdbid>
+  </actor>
+  <actor>
+    <name>Malachi Tunison</name>
+    <role>Iceberg Montage #7</role>
+    <type>Actor</type>
+    <tmdbid>2170634</tmdbid>
+    <imdbid>nm10024905</imdbid>
+  </actor>
+  <actor>
+    <name>Anjelina King</name>
+    <role>Iceberg Montage #8</role>
+    <type>Actor</type>
+    <tmdbid>2170635</tmdbid>
+    <imdbid>nm10024906</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Emerson</name>
+    <role>Iceberg Montage #9</role>
+    <type>Actor</type>
+    <tmdbid>1939739</tmdbid>
+    <imdbid>nm3480634</imdbid>
+  </actor>
+  <actor>
+    <name>Justin Stowell</name>
+    <role>Iceberg Montage #10</role>
+    <type>Actor</type>
+    <tmdbid>2170638</tmdbid>
+    <imdbid>nm5253628</imdbid>
+  </actor>
+  <actor>
+    <name>Tanis Parenteau</name>
+    <role>Iceberg Montage #11</role>
+    <type>Actor</type>
+    <tmdbid>1665817</tmdbid>
+    <imdbid>nm2227153</imdbid>
+  </actor>
+  <actor>
+    <name>Kalen Goodluck</name>
+    <role>Iceberg Montage #12</role>
+    <type>Actor</type>
+    <tmdbid>2170639</tmdbid>
+    <imdbid>nm10024907</imdbid>
+  </actor>
+  <actor>
+    <name>Sheldon Raymore</name>
+    <role>Iceberg Montage #13</role>
+    <type>Actor</type>
+    <tmdbid>2089951</tmdbid>
+    <imdbid>nm9952870</imdbid>
+  </actor>
+  <actor>
+    <name>Gabrielle Vassor</name>
+    <role>Iceberg Montage #14</role>
+    <type>Actor</type>
+    <tmdbid>2170641</tmdbid>
+    <imdbid>nm9214139</imdbid>
+  </actor>
+  <actor>
+    <name>Gina DeLong</name>
+    <role>Iceberg Montage #15</role>
+    <type>Actor</type>
+    <tmdbid>2170642</tmdbid>
+    <imdbid>nm9939479</imdbid>
+  </actor>
+  <actor>
+    <name>Debbie Vogel</name>
+    <role>Iceberg Montage #16</role>
+    <type>Actor</type>
+    <tmdbid>2170643</tmdbid>
+    <imdbid>nm5246874</imdbid>
+  </actor>
+  <actor>
+    <name>Kat Gonzalez</name>
+    <role>Iceberg Montage #17</role>
+    <type>Actor</type>
+    <tmdbid>2089952</tmdbid>
+    <imdbid>nm7633473</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph K. Bevilacqua</name>
+    <role>Iceberg Montage #18</role>
+    <type>Actor</type>
+    <tmdbid>1803839</tmdbid>
+    <imdbid>nm5327470</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Marocchi</name>
+    <role>Iceberg Montage #19</role>
+    <type>Actor</type>
+    <tmdbid>2170645</tmdbid>
+    <imdbid>nm7324094</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Bielagus</name>
+    <role>Band - Wild Yamp #1</role>
+    <type>Actor</type>
+    <tmdbid>2170649</tmdbid>
+    <imdbid>nm10024908</imdbid>
+  </actor>
+  <actor>
+    <name>Sid Solomon</name>
+    <role>Band - Wild Yamp #2</role>
+    <type>Actor</type>
+    <tmdbid>2170650</tmdbid>
+    <imdbid>nm3198801</imdbid>
+  </actor>
+  <actor>
+    <name>Reba Hasko</name>
+    <role>Band - Wild Yamp #3</role>
+    <type>Actor</type>
+    <tmdbid>2170651</tmdbid>
+    <imdbid>nm10024909</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Reilly</name>
+    <role>Band - Wild Yamp #4</role>
+    <type>Actor</type>
+    <tmdbid>2170652</tmdbid>
+    <imdbid>nm10024910</imdbid>
+  </actor>
+  <actor>
+    <name>Justin Denis</name>
+    <role>Band - Wild Yamp #5</role>
+    <type>Actor</type>
+    <tmdbid>2170653</tmdbid>
+    <imdbid>nm2565507</imdbid>
+  </actor>
+  <director tmdbid="1285174">Desiree Akhavan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YZ0ZBXt6rZU</trailer>
+  <rating>6.6</rating>
+  <year>2018</year>
+  <mpaa>HK-IIB</mpaa>
+  <imdbid>tt6257174</imdbid>
+  <tmdbid>426613</tmdbid>
+  <premiered>2018-07-18</premiered>
+  <releasedate>2018-07-18</releasedate>
+  <criticrating>86</criticrating>
+  <runtime>92</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <studio>Beachside Films</studio>
+  <studio>Parkville Pictures</studio>
+  <uniqueid type="Tmdb">426613</uniqueid>
+  <uniqueid type="Imdb">tt6257174</uniqueid>
+  <id>tt6257174</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1997648</bitrate>
+        <width>1280</width>
+        <height>688</height>
+        <aspect>80:43</aspect>
+        <aspectratio>80:43</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5499</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127700</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

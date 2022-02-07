@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[大学教授亨伯特（杰里米•艾恩斯 饰）年幼时经历了失去初恋女友之痛后，自此他对未成年少女有特殊的感情。一次他到了美国去，成为了寡妇夏洛特（梅勒尼•格利菲恩 饰）的房客，当他看到夏洛特年仅14岁的女儿洛丽塔（多米尼克•斯温 饰）时，他疯狂爱上了这个美丽的少女。事实上，夏洛特希望可以跟亨伯特结婚，让自己与女儿都能有个依靠。同时为了能让自己能够留在洛丽塔身边，亨伯特还是跟夏洛特结婚了。不久，夏洛特知道了丈夫对自己女儿的迷恋，愤怒出走时遇车祸身亡了...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-11-16 06:03:17</dateadded>
+  <title>一树梨花压海棠</title>
+  <originaltitle>Lolita</originaltitle>
+  <actor>
+    <name>Jeremy Irons</name>
+    <role>Humbert Humbert</role>
+    <type>Actor</type>
+    <tmdbid>16940</tmdbid>
+    <imdbid>nm0000460</imdbid>
+  </actor>
+  <actor>
+    <name>Dominique Swain</name>
+    <role>Dolores "Lolita" Haze</role>
+    <type>Actor</type>
+    <tmdbid>11149</tmdbid>
+    <imdbid>nm0000663</imdbid>
+  </actor>
+  <actor>
+    <name>Melanie Griffith</name>
+    <role>Charlotte Haze</role>
+    <type>Actor</type>
+    <tmdbid>29369</tmdbid>
+    <imdbid>nm0000429</imdbid>
+  </actor>
+  <actor>
+    <name>Frank Langella</name>
+    <role>Clare Quilty</role>
+    <type>Actor</type>
+    <tmdbid>8924</tmdbid>
+    <imdbid>nm0001449</imdbid>
+  </actor>
+  <actor>
+    <name>Suzanne Shepherd</name>
+    <role>Miss Pratt</role>
+    <type>Actor</type>
+    <tmdbid>11484</tmdbid>
+    <imdbid>nm0791877</imdbid>
+  </actor>
+  <actor>
+    <name>Keith Reddin</name>
+    <role>Reverend Rigger</role>
+    <type>Actor</type>
+    <tmdbid>181299</tmdbid>
+    <imdbid>nm0714705</imdbid>
+  </actor>
+  <actor>
+    <name>Erin J. Dean</name>
+    <role>Mona</role>
+    <type>Actor</type>
+    <tmdbid>1227066</tmdbid>
+    <imdbid>nm0212767</imdbid>
+  </actor>
+  <actor>
+    <name>Joan Glover</name>
+    <role>Miss LaBone</role>
+    <type>Actor</type>
+    <tmdbid>1407052</tmdbid>
+    <imdbid>nm0323136</imdbid>
+  </actor>
+  <actor>
+    <name>Pat Perkins</name>
+    <role>Louise</role>
+    <type>Actor</type>
+    <tmdbid>1407054</tmdbid>
+  </actor>
+  <actor>
+    <name>Ed Grady</name>
+    <role>Dr. Melinik</role>
+    <type>Actor</type>
+    <tmdbid>102719</tmdbid>
+    <imdbid>nm0333592</imdbid>
+  </actor>
+  <actor>
+    <name>Angela Paton</name>
+    <role>Mrs. Holmes</role>
+    <type>Actor</type>
+    <tmdbid>1537</tmdbid>
+    <imdbid>nm0665708</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Goodwin</name>
+    <role>Mr. Beale</role>
+    <type>Actor</type>
+    <tmdbid>157961</tmdbid>
+    <imdbid>nm0329517</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Silverstone</name>
+    <role>Young Humbert Humbert</role>
+    <type>Actor</type>
+    <tmdbid>68014</tmdbid>
+    <imdbid>nm0799066</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Griffiths Malin</name>
+    <role>Annabel Lee</role>
+    <type>Actor</type>
+    <tmdbid>127527</tmdbid>
+    <imdbid>nm0341632</imdbid>
+  </actor>
+  <actor>
+    <name>Ronald Pickup</name>
+    <role>Young Humbert's Father</role>
+    <type>Actor</type>
+    <tmdbid>32556</tmdbid>
+    <imdbid>nm0681975</imdbid>
+  </actor>
+  <director tmdbid="7270" imdbid="nm0001490">Adrian Lyne</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gykHjlrWp2c</trailer>
+  <rating>6.9</rating>
+  <year>1997</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0119558</imdbid>
+  <tmdbid>9769</tmdbid>
+  <premiered>1997-09-27</premiered>
+  <releasedate>1997-09-27</releasedate>
+  <criticrating>68</criticrating>
+  <runtime>138</runtime>
+  <country>France</country>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <studio>Pathé</studio>
+  <studio>Lolita Productions</studio>
+  <uniqueid type="Tmdb">9769</uniqueid>
+  <uniqueid type="Imdb">tt0119558</uniqueid>
+  <id>tt0119558</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10233397</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>137</duration>
+        <durationinseconds>8259</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>768000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

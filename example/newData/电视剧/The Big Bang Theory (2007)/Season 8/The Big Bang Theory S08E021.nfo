@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[谢尔顿和霍华德试图接手拉杰什为美国太空总署设计的方案。佩妮考虑再试一次演艺事业。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 18:00:50</dateadded>
+  <title>沟通不畅</title>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Leonard Hofstadter</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>Howard Wolowitz</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Nayyar</name>
+    <role>Rajesh Koothrappali</role>
+    <type>Actor</type>
+    <tmdbid>208099</tmdbid>
+    <imdbid>nm2471798</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa Rauch</name>
+    <role>Bernadette Rostenkowski</role>
+    <type>Actor</type>
+    <tmdbid>1221716</tmdbid>
+    <imdbid>nm1851981</imdbid>
+  </actor>
+  <actor>
+    <name>Mayim Bialik</name>
+    <role>Amy Farrah Fowler</role>
+    <type>Actor</type>
+    <tmdbid>167640</tmdbid>
+    <imdbid>nm0080524</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Sussman</name>
+    <role>Stuart Bloom</role>
+    <type>Actor</type>
+    <tmdbid>60633</tmdbid>
+    <imdbid>nm0839934</imdbid>
+  </actor>
+  <actor>
+    <name>Sara Erikson</name>
+    <role>Gwen</role>
+    <type>GuestStar</type>
+    <tmdbid>1212137</tmdbid>
+    <imdbid>nm1660035</imdbid>
+  </actor>
+  <actor>
+    <name>Kelli Goss</name>
+    <role>Chelsea</role>
+    <type>GuestStar</type>
+    <tmdbid>206889</tmdbid>
+    <imdbid>nm2716180</imdbid>
+  </actor>
+  <actor>
+    <name>Phoebe Neidhardt</name>
+    <role>Casting Assistant</role>
+    <type>GuestStar</type>
+    <tmdbid>1452952</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Jingle</name>
+    <role>Alien (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1484526</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Maitre</name>
+    <role>Alien #2 (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1364868</tmdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>6.7</rating>
+  <year>2015</year>
+  <imdbid>tt3862728</imdbid>
+  <tvdbid>5169863</tvdbid>
+  <runtime>19</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>1065780908</tvrageid>
+  <uniqueid type="Imdb">tt3862728</uniqueid>
+  <uniqueid type="Tvdb">5169863</uniqueid>
+  <uniqueid type="TvRage">1065780908</uniqueid>
+  <episode>21</episode>
+  <season>8</season>
+  <aired>2015-04-16</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1584195</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>18</duration>
+        <durationinseconds>1126</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

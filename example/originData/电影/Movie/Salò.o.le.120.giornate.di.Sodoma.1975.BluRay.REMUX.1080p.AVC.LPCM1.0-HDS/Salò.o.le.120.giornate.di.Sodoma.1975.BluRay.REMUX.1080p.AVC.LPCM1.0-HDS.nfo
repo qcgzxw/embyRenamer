@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[《索多玛的120天》取材于18世纪法国作家萨德的小说，而帕索里尼将时空转换到二次大战末期的意大利，影片所表现的背景是墨索里尼体制的最臭名昭著的一段史实——“萨罗共和国”是第二次世界大战最后18个月中法西主义的最后堡垒，在这段统治期间，有72000人惨遭屠杀，40000人被截肢，大量的人被送入集中营，一大批妇女，少年被奸污或鸡奸。萨罗是意大利人极力想忘却的一段历史。但帕索里尼在灵感的触发下，把这一历史暴行的内容和事实与萨德的小说的大量色情内容结合起来。帕索里尼改编了原著中最不堪入目的部分，随着时间、地点改变，而使他的影片带有明显的政治色彩。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-19 22:45:30</dateadded>
+  <title>索多玛120天</title>
+  <originaltitle>Salò o le 120 giornate di Sodoma</originaltitle>
+  <actor>
+    <name>Paolo Bonacelli</name>
+    <role>The Duke</role>
+    <type>Actor</type>
+    <tmdbid>4819</tmdbid>
+  </actor>
+  <actor>
+    <name>Giorgio Cataldi</name>
+    <role>The Bishop</role>
+    <type>Actor</type>
+    <tmdbid>42845</tmdbid>
+  </actor>
+  <actor>
+    <name>Umberto P. Quintavalle</name>
+    <role>The Magistrate</role>
+    <type>Actor</type>
+    <tmdbid>42846</tmdbid>
+  </actor>
+  <actor>
+    <name>Aldo Valletti</name>
+    <role>The President</role>
+    <type>Actor</type>
+    <tmdbid>42847</tmdbid>
+  </actor>
+  <actor>
+    <name>Caterina Boratto</name>
+    <role>Signora Castelli</role>
+    <type>Actor</type>
+    <tmdbid>5686</tmdbid>
+  </actor>
+  <actor>
+    <name>Elsa De Giorgi</name>
+    <role>Signora Maggi</role>
+    <type>Actor</type>
+    <tmdbid>42860</tmdbid>
+  </actor>
+  <actor>
+    <name>Hélène Surgère</name>
+    <role>Signora Vaccari</role>
+    <type>Actor</type>
+    <tmdbid>28681</tmdbid>
+  </actor>
+  <actor>
+    <name>Sonia Saviange</name>
+    <role>The Pianist</role>
+    <type>Actor</type>
+    <tmdbid>42848</tmdbid>
+  </actor>
+  <actor>
+    <name>Sergio Fascetti</name>
+    <role>Male Victim</role>
+    <type>Actor</type>
+    <tmdbid>42849</tmdbid>
+  </actor>
+  <actor>
+    <name>Bruno Musso</name>
+    <role>Carlo Porro - Male Victim</role>
+    <type>Actor</type>
+    <tmdbid>2608425</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Orlando</name>
+    <role>Tonino - Male Victim</role>
+    <type>Actor</type>
+    <tmdbid>1149778</tmdbid>
+  </actor>
+  <actor>
+    <name>Claudio Cicchetti</name>
+    <role>Male Victim</role>
+    <type>Actor</type>
+    <tmdbid>2608426</tmdbid>
+  </actor>
+  <actor>
+    <name>Franco Merli</name>
+    <role>Male Victim</role>
+    <type>Actor</type>
+    <tmdbid>42851</tmdbid>
+  </actor>
+  <actor>
+    <name>Umberto Chessari</name>
+    <role>Male Victim</role>
+    <type>Actor</type>
+    <tmdbid>2608427</tmdbid>
+  </actor>
+  <actor>
+    <name>Lamberto Book</name>
+    <role>Lamberto Gobbi - Male Victim</role>
+    <type>Actor</type>
+    <tmdbid>2608428</tmdbid>
+  </actor>
+  <actor>
+    <name>Gaspare Di Jenno</name>
+    <role>Rino - Male Victim</role>
+    <type>Actor</type>
+    <tmdbid>2608430</tmdbid>
+  </actor>
+  <actor>
+    <name>Giuliana Melis</name>
+    <role>Female Victim</role>
+    <type>Actor</type>
+    <tmdbid>1589496</tmdbid>
+  </actor>
+  <actor>
+    <name>Faridah Malik</name>
+    <role>Fatimah - Female Victim</role>
+    <type>Actor</type>
+    <tmdbid>1589497</tmdbid>
+  </actor>
+  <actor>
+    <name>Graziella Aniceto</name>
+    <role>Female Victim</role>
+    <type>Actor</type>
+    <tmdbid>1589498</tmdbid>
+  </actor>
+  <actor>
+    <name>Renata Moar</name>
+    <role>Female Victim</role>
+    <type>Actor</type>
+    <tmdbid>556746</tmdbid>
+  </actor>
+  <actor>
+    <name>Dorit Henke</name>
+    <role>Doris - Female Victim</role>
+    <type>Actor</type>
+    <tmdbid>558734</tmdbid>
+  </actor>
+  <actor>
+    <name>Antiniska Nemour</name>
+    <role>Female Victim</role>
+    <type>Actor</type>
+    <tmdbid>1142838</tmdbid>
+  </actor>
+  <actor>
+    <name>Benedetta Gaetani</name>
+    <role>Female Victim</role>
+    <type>Actor</type>
+    <tmdbid>1589499</tmdbid>
+  </actor>
+  <actor>
+    <name>Olga Andreis</name>
+    <role>Eva - Female Victim</role>
+    <type>Actor</type>
+    <tmdbid>1589500</tmdbid>
+  </actor>
+  <actor>
+    <name>Tatiana Mogilansky</name>
+    <role>Daughter</role>
+    <type>Actor</type>
+    <tmdbid>2608435</tmdbid>
+  </actor>
+  <actor>
+    <name>Susanna Radaelli</name>
+    <role>Daughter</role>
+    <type>Actor</type>
+    <tmdbid>1446455</tmdbid>
+  </actor>
+  <actor>
+    <name>Giuliana Orlandi</name>
+    <role>Daughter</role>
+    <type>Actor</type>
+    <tmdbid>2608436</tmdbid>
+  </actor>
+  <actor>
+    <name>Liana Acquaviva</name>
+    <role>Daughter</role>
+    <type>Actor</type>
+    <tmdbid>2608437</tmdbid>
+  </actor>
+  <actor>
+    <name>Rinaldo Missaglia</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>42852</tmdbid>
+  </actor>
+  <actor>
+    <name>Giuseppe Patruno</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>42853</tmdbid>
+  </actor>
+  <actor>
+    <name>Guido Galletti</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>42854</tmdbid>
+  </actor>
+  <actor>
+    <name>Efisio Etzi</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>42855</tmdbid>
+  </actor>
+  <actor>
+    <name>Claudio Troccoli</name>
+    <role>Collaborator</role>
+    <type>Actor</type>
+    <tmdbid>42856</tmdbid>
+  </actor>
+  <actor>
+    <name>Fabrizio Menichini</name>
+    <role>Collaborator</role>
+    <type>Actor</type>
+    <tmdbid>42857</tmdbid>
+  </actor>
+  <actor>
+    <name>Maurizio Valaguzza</name>
+    <role>Collaborator</role>
+    <type>Actor</type>
+    <tmdbid>42858</tmdbid>
+  </actor>
+  <actor>
+    <name>Ezio Manni</name>
+    <role>Collaborator</role>
+    <type>Actor</type>
+    <tmdbid>42859</tmdbid>
+  </actor>
+  <actor>
+    <name>Paola Pieracci</name>
+    <role>Wife</role>
+    <type>Actor</type>
+    <tmdbid>1041257</tmdbid>
+  </actor>
+  <actor>
+    <name>Carla Terlizzi</name>
+    <role>Wife</role>
+    <type>Actor</type>
+    <tmdbid>2197429</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Maria Dossena</name>
+    <role>Wife</role>
+    <type>Actor</type>
+    <tmdbid>1127314</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Recchimuzzi</name>
+    <role>Wife</role>
+    <type>Actor</type>
+    <tmdbid>1976212</tmdbid>
+  </actor>
+  <actor>
+    <name>Ines Pellegrini</name>
+    <role>The Slave Girl</role>
+    <type>Actor</type>
+    <tmdbid>101593</tmdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Gennari</name>
+    <role>OVRA Officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1519848</tmdbid>
+  </actor>
+  <actor>
+    <name>Marco Lucantoni</name>
+    <role>First Male Victim (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1037974</tmdbid>
+  </actor>
+  <director tmdbid="5970">Pier Paolo Pasolini</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0o2ul-UwOvU</trailer>
+  <rating>5.9</rating>
+  <year>1975</year>
+  <mpaa>NR</mpaa>
+  <imdbid>tt0073650</imdbid>
+  <tmdbid>5336</tmdbid>
+  <premiered>1975-11-22</premiered>
+  <releasedate>1975-11-22</releasedate>
+  <criticrating>71</criticrating>
+  <runtime>117</runtime>
+  <country>France</country>
+  <country>Italy</country>
+  <genre>战争</genre>
+  <genre>剧情</genre>
+  <genre>恐怖</genre>
+  <studio>Produzioni Europee Associate (PEA)</studio>
+  <studio>Les Productions Artistes Associés</studio>
+  <uniqueid type="Tmdb">5336</uniqueid>
+  <uniqueid type="Imdb">tt0073650</uniqueid>
+  <id>tt0073650</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>20716210</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>6999</durationinseconds>
+      </video>
+      <audio>
+        <codec>pcm_s16le</codec>
+        <micodec>pcm_s16le</micodec>
+        <bitrate>768000</bitrate>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>1</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

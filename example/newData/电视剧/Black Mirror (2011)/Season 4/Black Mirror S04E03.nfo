@@ -1,0 +1,187 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[《鳄鱼》：面对曾经犯下的错误，是勇敢的面对，还是不惜一切手段消灭所有会导致秘密曝光的可能性？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-07 10:31:26</dateadded>
+  <title>鳄鱼</title>
+  <actor>
+    <name>Andrea Riseborough</name>
+    <role>Mia Nolan</role>
+    <type>GuestStar</type>
+    <tmdbid>127558</tmdbid>
+  </actor>
+  <actor>
+    <name>Kiran Sonia Sawar</name>
+    <role>Shazia Akhand</role>
+    <type>GuestStar</type>
+    <tmdbid>1600494</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Gower</name>
+    <role>Rob</role>
+    <type>GuestStar</type>
+    <tmdbid>990119</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Welsh</name>
+    <role>Anan Akhand</role>
+    <type>GuestStar</type>
+    <tmdbid>1108724</tmdbid>
+  </actor>
+  <actor>
+    <name>Claire Rushbrook</name>
+    <role>Police Detective</role>
+    <type>GuestStar</type>
+    <tmdbid>68384</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua James</name>
+    <role>Gordy</role>
+    <type>GuestStar</type>
+    <tmdbid>1344715</tmdbid>
+  </actor>
+  <actor>
+    <name>Adelle Leonce</name>
+    <role>Noni Harper-Brown</role>
+    <type>GuestStar</type>
+    <tmdbid>2190584</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Pettifer</name>
+    <role>William Grange, Dentist</role>
+    <type>GuestStar</type>
+    <tmdbid>97165</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamie Michie</name>
+    <role>Simon Nicholls</role>
+    <type>GuestStar</type>
+    <tmdbid>208179</tmdbid>
+  </actor>
+  <actor>
+    <name>Armin Karima</name>
+    <role>Farshad, Hotel Receptionist</role>
+    <type>GuestStar</type>
+    <tmdbid>1747161</tmdbid>
+  </actor>
+  <actor>
+    <name>Stefán Örn Eggertsson</name>
+    <role>Finn Nicholls</role>
+    <type>GuestStar</type>
+    <tmdbid>1929607</tmdbid>
+  </actor>
+  <actor>
+    <name>James Eeles</name>
+    <role>DC Lydon</role>
+    <type>GuestStar</type>
+    <tmdbid>1951021</tmdbid>
+  </actor>
+  <actor>
+    <name>Ólafía Hrönn Jónsdóttir</name>
+    <role>Felicity Carmichael</role>
+    <type>GuestStar</type>
+    <tmdbid>79817</tmdbid>
+  </actor>
+  <actor>
+    <name>Dilja Imana</name>
+    <role>Ali Akhand</role>
+    <type>GuestStar</type>
+    <tmdbid>2190585</tmdbid>
+  </actor>
+  <actor>
+    <name>Sigurður Sigurjónsson</name>
+    <role>Room Service Man</role>
+    <type>GuestStar</type>
+    <tmdbid>139674</tmdbid>
+  </actor>
+  <director>John Hillcoat</director>
+  <rating>6.857</rating>
+  <year>2017</year>
+  <imdbid>tt5710976</imdbid>
+  <tvdbid>6113563</tvdbid>
+  <runtime>59</runtime>
+  <uniqueid type="Tvdb">6113563</uniqueid>
+  <uniqueid type="Imdb">tt5710976</uniqueid>
+  <episode>3</episode>
+  <season>4</season>
+  <aired>2017-12-29</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2816856</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>59</duration>
+        <durationinseconds>3546</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

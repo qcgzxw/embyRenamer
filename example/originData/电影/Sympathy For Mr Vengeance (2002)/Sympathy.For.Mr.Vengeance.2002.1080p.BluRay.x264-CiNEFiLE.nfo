@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Ryu（申河均饰）是名聋哑青年，自父母去世一直和姐姐相依为命。在特殊学校里，他遇上了装作失聪的女友（裴斗娜饰），二人感情发展不错。可是姐姐却患上了绝症，需要移植肾脏以维持生命...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-17 15:51:54</dateadded>
+  <title>我要复仇</title>
+  <originaltitle>복수는 나의 것</originaltitle>
+  <actor>
+    <name>Song Kang-ho</name>
+    <role>Park Dong-jin</role>
+    <type>Actor</type>
+    <tmdbid>20738</tmdbid>
+    <imdbid>nm0814280</imdbid>
+  </actor>
+  <actor>
+    <name>Shin Ha-kyun</name>
+    <role>Ryu</role>
+    <type>Actor</type>
+    <tmdbid>25004</tmdbid>
+  </actor>
+  <actor>
+    <name>Bae Doo-na</name>
+    <role>Cha Yeong-mi</role>
+    <type>Actor</type>
+    <tmdbid>21688</tmdbid>
+    <imdbid>nm0046277</imdbid>
+  </actor>
+  <actor>
+    <name>Im Ji-eun</name>
+    <role>Ryu's Sister</role>
+    <type>Actor</type>
+    <tmdbid>39256</tmdbid>
+  </actor>
+  <actor>
+    <name>Han Bo-bae</name>
+    <role>Yu-Sun</role>
+    <type>Actor</type>
+    <tmdbid>39257</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Dae-yeon</name>
+    <role>Detective Choi (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>39258</tmdbid>
+    <imdbid>nm1139514</imdbid>
+  </actor>
+  <actor>
+    <name>Ki Joo-bong</name>
+    <role>Engineer Peng (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>64454</tmdbid>
+    <imdbid>nm1029669</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Se-dong</name>
+    <role>Ryu's Boss (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1117306</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryoo Seung-bum</name>
+    <role>Person with Cerebral Palsy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>88876</tmdbid>
+    <imdbid>nm0753486</imdbid>
+  </actor>
+  <actor>
+    <name>Ji Dae-han</name>
+    <role>Detective Ji (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>77180</tmdbid>
+    <imdbid>nm1203041</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Geum-hee</name>
+    <role>Radio DJ (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2435679</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryoo Seung-wan</name>
+    <role>Chinese Restaurant Deliveryman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>86325</tmdbid>
+    <imdbid>nm0753423</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Kan-hie</name>
+    <role>Dong-jin's Ex-wife (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>554024</tmdbid>
+    <imdbid>nm1563589</imdbid>
+  </actor>
+  <actor>
+    <name>Jung Jae-young</name>
+    <role>Husband of Dong-jin's Ex-wife (cameo)</role>
+    <type>Actor</type>
+    <tmdbid>83682</tmdbid>
+    <imdbid>nm1045684</imdbid>
+  </actor>
+  <actor>
+    <name>Oh Gwang-rok</name>
+    <role>Laborer 2 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>528339</tmdbid>
+    <imdbid>nm1059108</imdbid>
+  </actor>
+  <actor>
+    <name>Shin Jung-geun</name>
+    <role>Laborer 3 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>578838</tmdbid>
+    <imdbid>nm3083982</imdbid>
+  </actor>
+  <director tmdbid="10099" imdbid="nm0661791">Park Chan-wook</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6D0cjs2NW9w</trailer>
+  <rating>7.6</rating>
+  <year>2002</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0310775</imdbid>
+  <tmdbid>4689</tmdbid>
+  <premiered>2002-03-29</premiered>
+  <releasedate>2002-03-29</releasedate>
+  <criticrating>54</criticrating>
+  <runtime>121</runtime>
+  <country>South Korea</country>
+  <genre>动作</genre>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <studio>CJ Entertainment</studio>
+  <studio>Studio Box</studio>
+  <set>
+    <name>复仇三部曲</name>
+  </set>
+  <uniqueid type="Tmdb">4689</uniqueid>
+  <uniqueid type="Imdb">tt0310775</uniqueid>
+  <id>tt0310775</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10345083</bitrate>
+        <width>1920</width>
+        <height>824</height>
+        <aspect>240:103</aspect>
+        <aspectratio>240:103</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>121</duration>
+        <durationinseconds>7262</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

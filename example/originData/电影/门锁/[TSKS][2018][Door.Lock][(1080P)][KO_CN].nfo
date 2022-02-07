@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[翻拍自西班牙惊悚片《当你熟睡》，平凡独居女子京敏（孔晓振 饰）某天下班回家，发现房门的电子密码锁，盖子竟被陌生人打开！她随即变更密码，却在当天晚上睡前，赫然听到有人试图要打开她的密码锁。被恐惧感包围的她，纵使向警察报案，但警察对如此程度的案件并没予以理会。之后，京敏的套房再度出现被闯空门的迹象，甚至伴随一起离奇的杀人案，让京敏愈来愈心神不宁，决定自己开始调查事件真相。她陆续发现密码锁上的不明指纹，还有门口掉落的烟蒂让她惊觉，原来这间套房裡面，似乎还住着另外一个人…]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-12-31 04:38:41</dateadded>
+  <title>门锁</title>
+  <originaltitle>도어락</originaltitle>
+  <actor>
+    <name>Gong Hyo-jin</name>
+    <role>Jo Kyeong-min</role>
+    <type>Actor</type>
+    <tmdbid>126881</tmdbid>
+    <imdbid>nm1045839</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Ye-won</name>
+    <role>Oh Hyo-joo</role>
+    <type>Actor</type>
+    <tmdbid>1256251</tmdbid>
+    <imdbid>nm3692726</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Sung-oh</name>
+    <role>Detective Lee</role>
+    <type>Actor</type>
+    <tmdbid>147505</tmdbid>
+    <imdbid>nm3701137</imdbid>
+  </actor>
+  <actor>
+    <name>Jo Bok-rae</name>
+    <role>Kim Gi-jeong</role>
+    <type>Actor</type>
+    <tmdbid>1428091</tmdbid>
+    <imdbid>nm7109993</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Ga-sub</name>
+    <role>Han Dong-hoon</role>
+    <type>Actor</type>
+    <tmdbid>1924538</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Chun-hee</name>
+    <type>Actor</type>
+    <tmdbid>233437</tmdbid>
+    <imdbid>nm1950558</imdbid>
+  </actor>
+  <actor>
+    <name>Han Ji-eun</name>
+    <type>Actor</type>
+    <tmdbid>1617157</tmdbid>
+    <imdbid>nm8446544</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Jae-hwa</name>
+    <role>Assistant Manager Park</role>
+    <type>Actor</type>
+    <tmdbid>1123145</tmdbid>
+    <imdbid>nm3797278</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Kwang-kyu</name>
+    <type>Actor</type>
+    <tmdbid>224673</tmdbid>
+  </actor>
+  <actor>
+    <name>Cha Yup</name>
+    <type>Actor</type>
+    <tmdbid>1774855</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Jong-goo</name>
+    <type>Actor</type>
+    <tmdbid>1912054</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Hong-nae</name>
+    <role>Police</role>
+    <type>Actor</type>
+    <tmdbid>2589093</tmdbid>
+  </actor>
+  <actor>
+    <name>Yeom Moon-gyeong</name>
+    <type>Actor</type>
+    <tmdbid>2871553</tmdbid>
+  </actor>
+  <director tmdbid="1471895">Lee Kwon</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UY5rHUpG3tI</trailer>
+  <rating>6.4</rating>
+  <year>2018</year>
+  <imdbid>tt9402676</imdbid>
+  <tmdbid>563103</tmdbid>
+  <premiered>2018-12-05</premiered>
+  <releasedate>2018-12-05</releasedate>
+  <criticrating>100</criticrating>
+  <runtime>102</runtime>
+  <country>South Korea</country>
+  <genre>惊悚</genre>
+  <genre>犯罪</genre>
+  <genre>悬疑</genre>
+  <studio>Megabox Plus M</studio>
+  <studio>Studio Pieona</studio>
+  <uniqueid type="Imdb">tt9402676</uniqueid>
+  <uniqueid type="Tmdb">563103</uniqueid>
+  <id>tt9402676</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2124548</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>102</duration>
+        <durationinseconds>6129</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>128000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[法兰克为了赢3000美元停止酗酒，卡尔和黛比都非常高兴，但是利普坚信他挺不过两星期。伊恩继续和米奇的性关系。菲奥娜找到了一份收入更高些的工作，但是史蒂夫的过去和他神秘的身份都让她起了疑心。利普在芝加哥大学玩时给自己找到了一个不错的工作机会。维罗妮卡和凯文想要领养一个孩子，但是这个孩子非常特别，虽然她刚刚14岁，但她已经有儿子了。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-10 17:28:04</dateadded>
+  <title>是时候杀死乌龟了</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Slade Wiggins</name>
+    <role>Karen Jackson</role>
+    <type>Actor</type>
+    <tmdbid>439253</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Chatwin</name>
+    <role>Steve Wilton/Jimmy Lishman</role>
+    <type>Actor</type>
+    <tmdbid>503</tmdbid>
+  </actor>
+  <actor>
+    <name>Noel Fisher</name>
+    <role>Mickey Milkovich</role>
+    <type>GuestStar</type>
+    <tmdbid>80352</tmdbid>
+    <imdbid>nm0279720</imdbid>
+  </actor>
+  <actor>
+    <name>Madison Davenport</name>
+    <role>Ethel</role>
+    <type>GuestStar</type>
+    <tmdbid>52869</tmdbid>
+  </actor>
+  <actor>
+    <name>Pej Vahdat</name>
+    <role>Kash</role>
+    <type>GuestStar</type>
+    <tmdbid>64297</tmdbid>
+  </actor>
+  <actor>
+    <name>Jane Levy</name>
+    <role>Mandy Milkovich</role>
+    <type>GuestStar</type>
+    <tmdbid>530618</tmdbid>
+    <imdbid>nm3994408</imdbid>
+  </actor>
+  <actor>
+    <name>Dennis Boutsikaris</name>
+    <role>Professor Hearst</role>
+    <type>GuestStar</type>
+    <tmdbid>118937</tmdbid>
+    <imdbid>nm0100381</imdbid>
+  </actor>
+  <actor>
+    <name>Joan Cusack</name>
+    <role>Sheila Jackson</role>
+    <type>GuestStar</type>
+    <tmdbid>3234</tmdbid>
+    <imdbid>nm0000349</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Patrick McGill</name>
+    <role>Tommy</role>
+    <type>GuestStar</type>
+    <tmdbid>154816</tmdbid>
+    <imdbid>nm1042946</imdbid>
+  </actor>
+  <director>Scott Frank</director>
+  <rating>7.636</rating>
+  <year>2011</year>
+  <imdbid>tt1812446</imdbid>
+  <tvdbid>3456171</tvdbid>
+  <runtime>48</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt1812446</uniqueid>
+  <uniqueid type="Tvdb">3456171</uniqueid>
+  <episode>8</episode>
+  <season>1</season>
+  <aired>2011-02-27</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>13042926</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>48</duration>
+        <durationinseconds>2880</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>1080p</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

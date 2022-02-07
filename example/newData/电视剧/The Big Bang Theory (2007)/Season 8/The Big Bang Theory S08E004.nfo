@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[雷杰的女友艾蜜莉终于和潘妮见面了。 同时，大伙考虑投资史都华的漫画店。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 17:50:21</dateadded>
+  <title>The Hook-Up Reverberation</title>
+  <actor>
+    <name>Laura Spencer</name>
+    <type>GuestStar</type>
+    <tmdbid>591519</tmdbid>
+    <imdbid>nm3189010</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.2</rating>
+  <year>2014</year>
+  <imdbid>tt3811814</imdbid>
+  <tvdbid>4996845</tvdbid>
+  <runtime>19</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>1065679405</tvrageid>
+  <uniqueid type="Imdb">tt3811814</uniqueid>
+  <uniqueid type="Tvdb">4996845</uniqueid>
+  <uniqueid type="TvRage">1065679405</uniqueid>
+  <episode>4</episode>
+  <season>8</season>
+  <aired>2014-10-06</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1585886</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>18</duration>
+        <durationinseconds>1133</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

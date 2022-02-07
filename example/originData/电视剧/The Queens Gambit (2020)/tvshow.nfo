@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[20 世纪 50 年代末，年幼的贝丝·哈蒙被遗弃并托付给肯塔基州的一家孤儿院。她具有惊人的国际象棋天赋，同时对政府提供给孩童的镇静剂上瘾。贝丝被自己心中的恶魔所困扰，在药物和痴迷的双重作用下，她变成了一个令人印象深刻、技艺高超且富有魅力的弃儿，并决心打破男性主导的国际象棋界建立的传统界限。]]></plot>
+  <outline><![CDATA[20 世纪 50 年代末，年幼的贝丝·哈蒙被遗弃并托付给肯塔基州的一家孤儿院。她具有惊人的国际象棋天赋，同时对政府提供给孩童的镇静剂上瘾。贝丝被自己心中的恶魔所困扰，在药物和痴迷的双重作用下，她变成了一个令人印象深刻、技艺高超且富有魅力的弃儿，并决心打破男性主导的国际象棋界建立的传统界限。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-05 16:16:23</dateadded>
+  <title>后翼弃兵</title>
+  <originaltitle>The Queen's Gambit</originaltitle>
+  <actor>
+    <name>Anya Taylor-Joy</name>
+    <role>Elizabeth 'Beth' Harmon</role>
+    <type>Actor</type>
+    <tmdbid>1397778</tmdbid>
+    <imdbid>nm5896355</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Camp</name>
+    <role>William Shaibel</role>
+    <type>Actor</type>
+    <tmdbid>121718</tmdbid>
+    <imdbid>nm0131966</imdbid>
+  </actor>
+  <actor>
+    <name>Marielle Heller</name>
+    <role>Alma Wheatley</role>
+    <type>Actor</type>
+    <tmdbid>177532</tmdbid>
+  </actor>
+  <actor>
+    <name>Moses Ingram</name>
+    <role>Jolene</role>
+    <type>Actor</type>
+    <tmdbid>2042908</tmdbid>
+  </actor>
+  <actor>
+    <name>Isla Johnston</name>
+    <role>Young Beth</role>
+    <type>Actor</type>
+    <tmdbid>1967058</tmdbid>
+  </actor>
+  <actor>
+    <name>Chloe Pirrie</name>
+    <role>Alice Harmon</role>
+    <type>Actor</type>
+    <tmdbid>1125581</tmdbid>
+    <imdbid>nm4006608</imdbid>
+  </actor>
+  <actor>
+    <name>Marcin Dorocinski</name>
+    <role>Vasily Borgov</role>
+    <type>Actor</type>
+    <tmdbid>591295</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Brodie-Sangster</name>
+    <role>Benny Watts</role>
+    <type>Actor</type>
+    <tmdbid>25663</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Fortune-Lloyd</name>
+    <role>D.L. Townes</role>
+    <type>Actor</type>
+    <tmdbid>1944459</tmdbid>
+  </actor>
+  <actor>
+    <name>Harry Melling</name>
+    <role>Harry Beltik</role>
+    <type>Actor</type>
+    <tmdbid>10982</tmdbid>
+    <imdbid>nm0577982</imdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=CDrieqwSdgI</trailer>
+  <rating>8.7</rating>
+  <year>2020</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt10048342</imdb_id>
+  <tmdbid>87739</tmdbid>
+  <premiered>2020-10-23</premiered>
+  <releasedate>2020-10-23</releasedate>
+  <enddate>2020-10-23</enddate>
+  <runtime>60</runtime>
+  <genre>剧情</genre>
+  <studio>Netflix</studio>
+  <uniqueid type="Imdb">tt10048342</uniqueid>
+  <uniqueid type="Tmdb">87739</uniqueid>
+  <uniqueid type="Tvdb">387115</uniqueid>
+  <tvdbid>387115</tvdbid>
+  <id>387115</id>
+  <episodeguide>
+    <url cache="387115.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/387115/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Ended</status>
+</tvshow>

@@ -1,0 +1,640 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[本片聚焦1971年五角大楼泄密事件。汤姆·汉克斯扮演《华盛顿邮报》总编辑本·布拉德利，梅姨扮演发行人凯瑟琳·格雷厄姆。凯瑟琳·格雷厄姆与本·巴格迪坎要赶在《纽约时报》之前揭露一件历经四届美国总统任期、长达三十余年的庞大掩盖事件。这两个人必须消弭他们之间的差异，各自拿他们的事业、甚至人身自由冒险，让长久以来埋藏在黑暗深处的真相重见光明。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-04-06 12:36:34</dateadded>
+  <title>华盛顿邮报</title>
+  <originaltitle>The Post</originaltitle>
+  <actor>
+    <name>Meryl Streep</name>
+    <role>Kay Graham</role>
+    <type>Actor</type>
+    <tmdbid>5064</tmdbid>
+    <imdbid>nm0000658</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Hanks</name>
+    <role>Ben Bradlee</role>
+    <type>Actor</type>
+    <tmdbid>31</tmdbid>
+    <imdbid>nm0000158</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Ben Bagdikian</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Tracy Letts</name>
+    <role>Fritz Beebe</role>
+    <type>Actor</type>
+    <tmdbid>72638</tmdbid>
+    <imdbid>nm0504832</imdbid>
+  </actor>
+  <actor>
+    <name>Bruce Greenwood</name>
+    <role>Robert McNamara</role>
+    <type>Actor</type>
+    <tmdbid>21089</tmdbid>
+    <imdbid>nm0339304</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Paulson</name>
+    <role>Tony Bradlee</role>
+    <type>Actor</type>
+    <tmdbid>34490</tmdbid>
+    <imdbid>nm0005299</imdbid>
+  </actor>
+  <actor>
+    <name>Bradley Whitford</name>
+    <role>Arthur Parsons</role>
+    <type>Actor</type>
+    <tmdbid>11367</tmdbid>
+    <imdbid>nm0925966</imdbid>
+  </actor>
+  <actor>
+    <name>Alison Brie</name>
+    <role>Lally Graham</role>
+    <type>Actor</type>
+    <tmdbid>88029</tmdbid>
+    <imdbid>nm1555340</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse Plemons</name>
+    <role>Roger Clark</role>
+    <type>Actor</type>
+    <tmdbid>88124</tmdbid>
+    <imdbid>nm0687146</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Stuhlbarg</name>
+    <role>Abe Rosenthal</role>
+    <type>Actor</type>
+    <tmdbid>72873</tmdbid>
+    <imdbid>nm0836121</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Rhys</name>
+    <role>Daniel Ellsberg</role>
+    <type>Actor</type>
+    <tmdbid>29528</tmdbid>
+    <imdbid>nm0722629</imdbid>
+  </actor>
+  <actor>
+    <name>Carrie Coon</name>
+    <role>Meg Greenfield</role>
+    <type>Actor</type>
+    <tmdbid>1308445</tmdbid>
+    <imdbid>nm4689420</imdbid>
+  </actor>
+  <actor>
+    <name>David Cross</name>
+    <role>Howard Simons</role>
+    <type>Actor</type>
+    <tmdbid>212</tmdbid>
+    <imdbid>nm0189144</imdbid>
+  </actor>
+  <actor>
+    <name>Zach Woods</name>
+    <role>Anthony Essaye</role>
+    <type>Actor</type>
+    <tmdbid>464993</tmdbid>
+    <imdbid>nm2046855</imdbid>
+  </actor>
+  <actor>
+    <name>Pat Healy</name>
+    <role>Phil Geyelin</role>
+    <type>Actor</type>
+    <tmdbid>60846</tmdbid>
+    <imdbid>nm0372366</imdbid>
+  </actor>
+  <actor>
+    <name>John Rue</name>
+    <role>Gene Patterson</role>
+    <type>Actor</type>
+    <tmdbid>1000883</tmdbid>
+    <imdbid>nm1600051</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Holmes</name>
+    <role>Murray Marder</role>
+    <type>Actor</type>
+    <tmdbid>1055929</tmdbid>
+    <imdbid>nm0392021</imdbid>
+  </actor>
+  <actor>
+    <name>Philip Casnoff</name>
+    <role>Chalmers Roberts</role>
+    <type>Actor</type>
+    <tmdbid>198886</tmdbid>
+    <imdbid>nm0143779</imdbid>
+  </actor>
+  <actor>
+    <name>Jessie Mueller</name>
+    <role>Judith Martin</role>
+    <type>Actor</type>
+    <tmdbid>1379033</tmdbid>
+    <imdbid>nm2781962</imdbid>
+  </actor>
+  <actor>
+    <name>Stark Sands</name>
+    <role>Don Graham</role>
+    <type>Actor</type>
+    <tmdbid>33532</tmdbid>
+    <imdbid>nm1197466</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Cyril Creighton</name>
+    <role>Jake</role>
+    <type>Actor</type>
+    <tmdbid>1325715</tmdbid>
+    <imdbid>nm1644112</imdbid>
+  </actor>
+  <actor>
+    <name>Will Denton</name>
+    <role>Michael</role>
+    <type>Actor</type>
+    <tmdbid>133814</tmdbid>
+    <imdbid>nm1745150</imdbid>
+  </actor>
+  <actor>
+    <name>Brent Langdon</name>
+    <role>Paul Ignatius</role>
+    <type>Actor</type>
+    <tmdbid>1959059</tmdbid>
+    <imdbid>nm1225470</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Innvar</name>
+    <role>James Greenfield</role>
+    <type>Actor</type>
+    <tmdbid>171642</tmdbid>
+    <imdbid>nm1796052</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Dundas</name>
+    <role>Liz Hylton</role>
+    <type>Actor</type>
+    <tmdbid>167120</tmdbid>
+    <imdbid>nm0242177</imdbid>
+  </actor>
+  <actor>
+    <name>Deirdre Lovejoy</name>
+    <role>Debbie Regan</role>
+    <type>Actor</type>
+    <tmdbid>58966</tmdbid>
+    <imdbid>nm0522479</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Devine</name>
+    <role>Copy Chief</role>
+    <type>Actor</type>
+    <tmdbid>1433451</tmdbid>
+    <imdbid>nm1470498</imdbid>
+  </actor>
+  <actor>
+    <name>Kelly Miller</name>
+    <role>Copy Editor</role>
+    <type>Actor</type>
+    <tmdbid>24592</tmdbid>
+    <imdbid>nm1321755</imdbid>
+  </actor>
+  <actor>
+    <name>Austyn Johnson</name>
+    <role>Marina Bradlee</role>
+    <type>Actor</type>
+    <tmdbid>1919707</tmdbid>
+    <imdbid>nm8874655</imdbid>
+  </actor>
+  <actor>
+    <name>Deborah Green</name>
+    <role>Ann Marie Rosenthal</role>
+    <type>Actor</type>
+    <tmdbid>1095433</tmdbid>
+    <imdbid>nm3636763</imdbid>
+  </actor>
+  <actor>
+    <name>Gary Wilmes</name>
+    <role>Punch Sulzberger</role>
+    <type>Actor</type>
+    <tmdbid>78404</tmdbid>
+    <imdbid>nm1675596</imdbid>
+  </actor>
+  <actor>
+    <name>Justin Swain</name>
+    <role>Neil Sheehan</role>
+    <type>Actor</type>
+    <tmdbid>1945811</tmdbid>
+    <imdbid>nm2475803</imdbid>
+  </actor>
+  <actor>
+    <name>Luke Slattery</name>
+    <role>NY Times Runner</role>
+    <type>Actor</type>
+    <tmdbid>1697346</tmdbid>
+    <imdbid>nm7584567</imdbid>
+  </actor>
+  <actor>
+    <name>Robert G. McKay</name>
+    <role>NY Times Staffer</role>
+    <type>Actor</type>
+    <tmdbid>122257</tmdbid>
+    <imdbid>nm1134599</imdbid>
+  </actor>
+  <actor>
+    <name>Sasha Spielberg</name>
+    <role>Woman with Package</role>
+    <type>Actor</type>
+    <tmdbid>8700</tmdbid>
+    <imdbid>nm0818587</imdbid>
+  </actor>
+  <actor>
+    <name>Bryan Burton</name>
+    <role>Lafayette Protester</role>
+    <type>Actor</type>
+    <tmdbid>1547515</tmdbid>
+    <imdbid>nm5004140</imdbid>
+  </actor>
+  <actor>
+    <name>Coral Peña</name>
+    <role>Nancy</role>
+    <type>Actor</type>
+    <tmdbid>1636811</tmdbid>
+    <imdbid>nm7408600</imdbid>
+  </actor>
+  <actor>
+    <name>Dan Bittner</name>
+    <role>Government Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>1152008</tmdbid>
+    <imdbid>nm2141715</imdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Tigar</name>
+    <role>Solicitor Griswold</role>
+    <type>Actor</type>
+    <tmdbid>87128</tmdbid>
+    <imdbid>nm0863024</imdbid>
+  </actor>
+  <actor>
+    <name>David Aaron Baker</name>
+    <role>Alexander Bickel</role>
+    <type>Actor</type>
+    <tmdbid>60195</tmdbid>
+  </actor>
+  <actor>
+    <name>Gannon McHale</name>
+    <role>Judge Gurfein</role>
+    <type>Actor</type>
+    <tmdbid>1271713</tmdbid>
+    <imdbid>nm5177066</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Loreque</name>
+    <role>Waiter (F Street Club)</role>
+    <type>Actor</type>
+    <tmdbid>1851211</tmdbid>
+    <imdbid>nm0520865</imdbid>
+  </actor>
+  <actor>
+    <name>Francis Dumaurier</name>
+    <role>Head Waiter (Oakroom)</role>
+    <type>Actor</type>
+    <tmdbid>949865</tmdbid>
+    <imdbid>nm0241500</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Mailer</name>
+    <role>Exchange President</role>
+    <type>Actor</type>
+    <tmdbid>170977</tmdbid>
+    <imdbid>nm0537554</imdbid>
+  </actor>
+  <actor>
+    <name>Ned Noyes</name>
+    <role>Lazard Banker</role>
+    <type>Actor</type>
+    <tmdbid>1945812</tmdbid>
+    <imdbid>nm4106622</imdbid>
+  </actor>
+  <actor>
+    <name>John Henry Cox</name>
+    <role>Lazard Banker</role>
+    <type>Actor</type>
+    <tmdbid>1218217</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Bucatinsky</name>
+    <role>Joe Alsop</role>
+    <type>Actor</type>
+    <tmdbid>87034</tmdbid>
+    <imdbid>nm0117857</imdbid>
+  </actor>
+  <actor>
+    <name>David Costabile</name>
+    <role>Art Buchwald</role>
+    <type>Actor</type>
+    <tmdbid>82167</tmdbid>
+    <imdbid>nm0182345</imdbid>
+  </actor>
+  <actor>
+    <name>Johanna Day</name>
+    <role>Ann Buchwald</role>
+    <type>Actor</type>
+    <tmdbid>38672</tmdbid>
+    <imdbid>nm0206449</imdbid>
+  </actor>
+  <actor>
+    <name>Annika Boras</name>
+    <role>Mrs. Alsop</role>
+    <type>Actor</type>
+    <tmdbid>208352</tmdbid>
+    <imdbid>nm2661837</imdbid>
+  </actor>
+  <actor>
+    <name>Carolyn McCormick</name>
+    <role>Mrs. McNamara</role>
+    <type>Actor</type>
+    <tmdbid>84422</tmdbid>
+    <imdbid>nm0566509</imdbid>
+  </actor>
+  <actor>
+    <name>Susan Blackwell</name>
+    <role>Dinner Wife</role>
+    <type>Actor</type>
+    <tmdbid>163664</tmdbid>
+    <imdbid>nm0085959</imdbid>
+  </actor>
+  <actor>
+    <name>Jordan Baker</name>
+    <role>Dinner Wife</role>
+    <type>Actor</type>
+    <tmdbid>149550</tmdbid>
+    <imdbid>nm0048610</imdbid>
+  </actor>
+  <actor>
+    <name>Lauren Lim Jackson</name>
+    <role>Eastern Air Stewardess</role>
+    <type>Actor</type>
+    <tmdbid>1919709</tmdbid>
+    <imdbid>nm5017828</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Van Wagner</name>
+    <role>Harry Gladstein</role>
+    <type>Actor</type>
+    <tmdbid>159828</tmdbid>
+    <imdbid>nm0888248</imdbid>
+  </actor>
+  <actor>
+    <name>Angus Hepburn</name>
+    <role>Judge Gessell</role>
+    <type>Actor</type>
+    <tmdbid>1945813</tmdbid>
+    <imdbid>nm2428496</imdbid>
+  </actor>
+  <actor>
+    <name>James Riordan</name>
+    <role>Vice Admiral Blouin</role>
+    <type>Actor</type>
+    <tmdbid>1456762</tmdbid>
+    <imdbid>nm1694808</imdbid>
+  </actor>
+  <actor>
+    <name>Kelly AuCoin</name>
+    <role>Kevin Maroney</role>
+    <type>Actor</type>
+    <tmdbid>171727</tmdbid>
+    <imdbid>nm1372572</imdbid>
+  </actor>
+  <actor>
+    <name>Cotter Smith</name>
+    <role>Under Secretary William Macomber</role>
+    <type>Actor</type>
+    <tmdbid>115858</tmdbid>
+    <imdbid>nm0807767</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Livingston</name>
+    <role>Dennis Doolin</role>
+    <type>Actor</type>
+    <tmdbid>63111</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Rowe</name>
+    <role>Judge Robb</role>
+    <type>Actor</type>
+    <tmdbid>163742</tmdbid>
+    <imdbid>nm0746607</imdbid>
+  </actor>
+  <actor>
+    <name>Rick Crom</name>
+    <role>Supreme Court Marshall</role>
+    <type>Actor</type>
+    <tmdbid>215883</tmdbid>
+    <imdbid>nm1138911</imdbid>
+  </actor>
+  <actor>
+    <name>Fenton Lawless</name>
+    <role>Linotype Printer</role>
+    <type>Actor</type>
+    <tmdbid>187683</tmdbid>
+    <imdbid>nm0492507</imdbid>
+  </actor>
+  <actor>
+    <name>Cullen Oliver Johnson</name>
+    <role>Linotype Printer</role>
+    <type>Actor</type>
+    <tmdbid>1945814</tmdbid>
+    <imdbid>nm9424980</imdbid>
+  </actor>
+  <actor>
+    <name>Brett G. Smith</name>
+    <role>Platoon Leader</role>
+    <type>Actor</type>
+    <tmdbid>1455783</tmdbid>
+    <imdbid>nm2162440</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony M Walker</name>
+    <role>G.I</role>
+    <type>Actor</type>
+    <tmdbid>1945815</tmdbid>
+    <imdbid>nm9163041</imdbid>
+  </actor>
+  <actor>
+    <name>Joel Nagle</name>
+    <role>Man on Phone</role>
+    <type>Actor</type>
+    <tmdbid>1675606</tmdbid>
+    <imdbid>nm0619271</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Bair</name>
+    <role>William Rehnquist</role>
+    <type>Actor</type>
+    <tmdbid>1462054</tmdbid>
+    <imdbid>nm0047840</imdbid>
+  </actor>
+  <actor>
+    <name>Juliana Davies</name>
+    <role>Katharine Weymouth</role>
+    <type>Actor</type>
+    <tmdbid>1919708</tmdbid>
+    <imdbid>nm9239732</imdbid>
+  </actor>
+  <actor>
+    <name>Jon Donahue</name>
+    <role>Bertram Plain</role>
+    <type>Actor</type>
+    <tmdbid>1465283</tmdbid>
+    <imdbid>nm1022782</imdbid>
+  </actor>
+  <actor>
+    <name>JaQwan J. Kelly</name>
+    <role>Watergate Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>2016954</tmdbid>
+    <imdbid>nm5744298</imdbid>
+  </actor>
+  <actor>
+    <name>Brett Diggs</name>
+    <role>G.I.</role>
+    <type>Actor</type>
+    <tmdbid>2016955</tmdbid>
+    <imdbid>nm5651168</imdbid>
+  </actor>
+  <actor>
+    <name>Theis Weckesser</name>
+    <role>Military Advisor</role>
+    <type>Actor</type>
+    <tmdbid>1473427</tmdbid>
+    <imdbid>nm1784977</imdbid>
+  </actor>
+  <actor>
+    <name>David Beach</name>
+    <role>Robert Komer</role>
+    <type>Actor</type>
+    <tmdbid>171773</tmdbid>
+    <imdbid>nm0063453</imdbid>
+  </actor>
+  <actor>
+    <name>Sonny Valicenti</name>
+    <role>Tonny Russo</role>
+    <type>Actor</type>
+    <tmdbid>1718318</tmdbid>
+    <imdbid>nm3171185</imdbid>
+  </actor>
+  <actor>
+    <name>Lilli Cooper</name>
+    <role>Protest Singer</role>
+    <type>Actor</type>
+    <tmdbid>2037463</tmdbid>
+    <imdbid>nm3762007</imdbid>
+  </actor>
+  <actor>
+    <name>Neal Huff</name>
+    <role>Tom Winship (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>58544</tmdbid>
+    <imdbid>nm0400223</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Myers</name>
+    <role>Lawyer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1781349</tmdbid>
+    <imdbid>nm2827073</imdbid>
+  </actor>
+  <actor>
+    <name>Gage Maynard</name>
+    <role>Protester (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1915870</tmdbid>
+    <imdbid>nm7610853</imdbid>
+  </actor>
+  <actor>
+    <name>Chuck Taber</name>
+    <role>Factory Worker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2656142</tmdbid>
+  </actor>
+  <actor>
+    <name>Stacey Alyse Cohen</name>
+    <role>Wall Street Trader (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1915874</tmdbid>
+    <imdbid>nm9176579</imdbid>
+  </actor>
+  <actor>
+    <name>Doris McCarthy</name>
+    <role>Wealthy New Yorker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1457224</tmdbid>
+    <imdbid>nm0565117</imdbid>
+  </actor>
+  <director tmdbid="488" imdbid="nm0000229">Steven Spielberg</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nrXlY6gzTTM</trailer>
+  <rating>7.2</rating>
+  <year>2017</year>
+  <mpaa>HK-IIA</mpaa>
+  <imdbid>tt6294822</imdbid>
+  <tmdbid>446354</tmdbid>
+  <premiered>2017-01-19</premiered>
+  <releasedate>2017-01-19</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>116</runtime>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>历史</genre>
+  <studio>20th Century Fox</studio>
+  <studio>DreamWorks Pictures</studio>
+  <studio>Reliance Entertainment</studio>
+  <studio>TSG Entertainment</studio>
+  <studio>Participant</studio>
+  <studio>Amblin Entertainment</studio>
+  <studio>Pascal Pictures</studio>
+  <studio>Star Thrower Entertainment</studio>
+  <uniqueid type="Tmdb">446354</uniqueid>
+  <uniqueid type="Imdb">tt6294822</uniqueid>
+  <id>tt6294822</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4137485</bitrate>
+        <width>1280</width>
+        <height>696</height>
+        <aspect>160:87</aspect>
+        <aspectratio>160:87</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6958</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

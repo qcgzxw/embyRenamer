@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Jimmy（吉米）把有人觊觎凯特尔曼（Kettleman）巨款的事告诉了律师 Kim（金）之后还是向凯特尔曼夫妇做了提醒。然而凯特尔曼一家人失踪，住处被洗劫一空。很快 Nacho（纳乔）被视为嫌疑人在警局与 Jimmy（吉米）见面， Nacho（纳乔）要求 Jimmy（吉米）为他摆脱莫须有的绑架罪名。Jimmy（吉米）坚信凯特尔曼一家是自行躲藏起来，之后他在山里找到了野营的凯特尔曼一家。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-08-01 23:06:14</dateadded>
+  <title>纳乔</title>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Jimmy McGill</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Rhea Seehorn</name>
+    <role>Kim Wexler</role>
+    <type>Actor</type>
+    <tmdbid>62765</tmdbid>
+    <imdbid>nm0781533</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Fabian</name>
+    <role>Howard Hamlin</role>
+    <type>Actor</type>
+    <tmdbid>58791</tmdbid>
+    <imdbid>nm0264579</imdbid>
+  </actor>
+  <actor>
+    <name>Michael McKean</name>
+    <role>Chuck McGill</role>
+    <type>Actor</type>
+    <tmdbid>21731</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Mando</name>
+    <role>Nacho Varga</role>
+    <type>GuestStar</type>
+    <tmdbid>829372</tmdbid>
+    <imdbid>nm3103126</imdbid>
+  </actor>
+  <director>Terry McDonough</director>
+  <rating>8.185</rating>
+  <year>2015</year>
+  <imdbid>tt3858672</imdbid>
+  <tvdbid>5054193</tvdbid>
+  <runtime>47</runtime>
+  <tvrageid>1065743870</tvrageid>
+  <uniqueid type="Tvdb">5054193</uniqueid>
+  <uniqueid type="TvRage">1065743870</uniqueid>
+  <uniqueid type="Imdb">tt3858672</uniqueid>
+  <episode>3</episode>
+  <season>1</season>
+  <aired>2015-02-16</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9946977</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2827</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

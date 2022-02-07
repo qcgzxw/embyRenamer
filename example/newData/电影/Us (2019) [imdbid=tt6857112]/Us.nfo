@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一对名为阿德莱德和盖博的夫妻带着孩子到海滨度假，这里曾经是阿莱德莱童年的娱乐场所。在海滨与泰勒一家玩了一天之后，阿德莱德愈发地无法从往昔的伤痛中走出，他越来越觉得自己的家庭将要发生灾难。到了晚上，他们一家甚至看到有四个人手拉手在行车道上站立，似乎有更多诡异的事情等待着他们。]]></plot>
+  <outline><![CDATA[我们是自己最大的敌人]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-24 19:00:38</dateadded>
+  <title>我们</title>
+  <originaltitle>Us</originaltitle>
+  <actor>
+    <name>Lupita Nyong'o</name>
+    <role>Adelaide Wilson / Red</role>
+    <type>Actor</type>
+    <tmdbid>1267329</tmdbid>
+  </actor>
+  <actor>
+    <name>Winston Duke</name>
+    <role>Gabriel "Gabe" Wilson / Abraham</role>
+    <type>Actor</type>
+    <tmdbid>1447932</tmdbid>
+    <imdbid>nm6328300</imdbid>
+  </actor>
+  <actor>
+    <name>Shahadi Wright Joseph</name>
+    <role>Zora Wilson / Umbrae</role>
+    <type>Actor</type>
+    <tmdbid>1915962</tmdbid>
+    <imdbid>nm8632200</imdbid>
+  </actor>
+  <actor>
+    <name>Evan Alex</name>
+    <role>Jason Wilson / Pluto</role>
+    <type>Actor</type>
+    <tmdbid>2201802</tmdbid>
+    <imdbid>nm8256189</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Heidecker</name>
+    <role>Josh Tyler / Tex</role>
+    <type>Actor</type>
+    <tmdbid>132856</tmdbid>
+  </actor>
+  <actor>
+    <name>Elisabeth Moss</name>
+    <role>Kitty Tyler / Dahlia</role>
+    <type>Actor</type>
+    <tmdbid>32798</tmdbid>
+  </actor>
+  <actor>
+    <name>Cali Sheldon</name>
+    <role>Becca Tyler / Io</role>
+    <type>Actor</type>
+    <tmdbid>1226497</tmdbid>
+    <imdbid>nm1344400</imdbid>
+  </actor>
+  <actor>
+    <name>Noelle Sheldon</name>
+    <role>Lindsey Tyler / Nix</role>
+    <type>Actor</type>
+    <tmdbid>1226500</tmdbid>
+    <imdbid>nm1343484</imdbid>
+  </actor>
+  <actor>
+    <name>Yahya Abdul-Mateen II</name>
+    <role>Russell Thomas / Weyland</role>
+    <type>Actor</type>
+    <tmdbid>1639847</tmdbid>
+    <imdbid>nm5584344</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Diop</name>
+    <role>Rayne Thomas / Eartha</role>
+    <type>Actor</type>
+    <tmdbid>1425924</tmdbid>
+    <imdbid>nm2993012</imdbid>
+  </actor>
+  <actor>
+    <name>Madison Curry</name>
+    <role>Young Adelaide Wilson / Young Red</role>
+    <type>Actor</type>
+    <tmdbid>2097218</tmdbid>
+  </actor>
+  <actor>
+    <name>Duke Nicholson</name>
+    <role>Danny / Tony</role>
+    <type>Actor</type>
+    <tmdbid>1605467</tmdbid>
+  </actor>
+  <actor>
+    <name>Napiera Groves</name>
+    <role>Dr. Foster / Amethyst</role>
+    <type>Actor</type>
+    <tmdbid>1192163</tmdbid>
+    <imdbid>nm0344085</imdbid>
+  </actor>
+  <actor>
+    <name>Kara Hayward</name>
+    <role>Nancy / Syd</role>
+    <type>Actor</type>
+    <tmdbid>929905</tmdbid>
+    <imdbid>nm4442319</imdbid>
+  </actor>
+  <actor>
+    <name>Lon Gowan</name>
+    <role>Don / Joseph</role>
+    <type>Actor</type>
+    <tmdbid>2263639</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Frazier</name>
+    <role>Alan / Jeremiah</role>
+    <type>Actor</type>
+    <tmdbid>2075756</tmdbid>
+  </actor>
+  <actor>
+    <name>Dustin Ybarra</name>
+    <role>Troy / Brand</role>
+    <type>Actor</type>
+    <tmdbid>523952</tmdbid>
+    <imdbid>nm3655435</imdbid>
+  </actor>
+  <actor>
+    <name>Nathan Harrington</name>
+    <role>Glen / Jack</role>
+    <type>Actor</type>
+    <tmdbid>2263635</tmdbid>
+  </actor>
+  <actor>
+    <name>Darrel Cherney</name>
+    <role>News Anchor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1300090</tmdbid>
+    <imdbid>nm3509760</imdbid>
+  </actor>
+  <actor>
+    <name>James Cobb</name>
+    <role>Don (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2263638</tmdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Garcia</name>
+    <role>EMT (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2263641</tmdbid>
+  </actor>
+  <actor>
+    <name>David M Sandoval Jr.</name>
+    <role>Father of Family on Beach (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2024136</tmdbid>
+    <imdbid>nm9301942</imdbid>
+  </actor>
+  <actor>
+    <name>Ashley McKoy</name>
+    <role>Teenage Adelaide Wilson / Teenage Red</role>
+    <type>Actor</type>
+    <tmdbid>2775473</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Peele</name>
+    <role>Dying Rabbit/Fun House Narrator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>291263</tmdbid>
+  </actor>
+  <director tmdbid="291263">Jordan Peele</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hNCmb-4oXJA</trailer>
+  <rating>6.8</rating>
+  <year>2019</year>
+  <mpaa>HK-IIB</mpaa>
+  <imdbid>tt6857112</imdbid>
+  <tmdbid>458723</tmdbid>
+  <premiered>2019-03-14</premiered>
+  <releasedate>2019-03-14</releasedate>
+  <criticrating>93</criticrating>
+  <runtime>116</runtime>
+  <tagline>我们是自己最大的敌人</tagline>
+  <country>United States of America</country>
+  <genre>惊悚</genre>
+  <genre>恐怖</genre>
+  <genre>悬疑</genre>
+  <studio>Monkeypaw Productions</studio>
+  <studio>Universal Pictures</studio>
+  <studio>QC Entertainment</studio>
+  <uniqueid type="Tmdb">458723</uniqueid>
+  <uniqueid type="Imdb">tt6857112</uniqueid>
+  <id>tt6857112</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4399687</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>6988</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>355926</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

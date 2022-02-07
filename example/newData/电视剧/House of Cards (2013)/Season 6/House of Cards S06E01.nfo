@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[克莱尔坐在椭圆形办公室里，认真听取幕僚里克的报告。前总统弗朗西斯·安德伍德在世时，国内就已是抗议声不断。他死后，妻子克莱尔以副总统身份接任，国民对女性执政非常愤怒。尤其是克莱尔决意对叙利亚用兵，已招来各种死亡威胁。副总统马克建议克莱尔取消今天在军事基地的独立日演讲，但克莱尔没有同意，在越发艰难的时刻就应当更加强硬。在前往基地，面对那些被总统令派往前线的战士前，克莱尔还要处理一个棘手的问题，就是对付谢泼德姐弟俩。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-24 05:47:13</dateadded>
+  <title>第 1 集</title>
+  <actor>
+    <name>Robin Wright</name>
+    <role>Claire Underwood</role>
+    <type>Actor</type>
+    <tmdbid>32</tmdbid>
+    <imdbid>nm0000705</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Kelly</name>
+    <role>Doug Stamper</role>
+    <type>Actor</type>
+    <tmdbid>50217</tmdbid>
+    <imdbid>nm0446672</imdbid>
+  </actor>
+  <actor>
+    <name>Constance Zimmer</name>
+    <role>Janine Skorsky</role>
+    <type>Actor</type>
+    <tmdbid>156204</tmdbid>
+    <imdbid>nm0956603</imdbid>
+  </actor>
+  <actor>
+    <name>Patricia Clarkson</name>
+    <role>Jane Davis</role>
+    <type>Actor</type>
+    <tmdbid>1276</tmdbid>
+    <imdbid>nm0165101</imdbid>
+  </actor>
+  <actor>
+    <name>Derek Cecil</name>
+    <role>Seth Grayson</role>
+    <type>Actor</type>
+    <tmdbid>60117</tmdbid>
+    <imdbid>nm0147689</imdbid>
+  </actor>
+  <actor>
+    <name>Boris McGiver</name>
+    <role>Tom Hammerschmidt</role>
+    <type>Actor</type>
+    <tmdbid>151432</tmdbid>
+    <imdbid>nm0569409</imdbid>
+  </actor>
+  <actor>
+    <name>Lars Mikkelsen</name>
+    <role>Viktor Petrov</role>
+    <type>Actor</type>
+    <tmdbid>71158</tmdbid>
+    <imdbid>nm0586565</imdbid>
+  </actor>
+  <actor>
+    <name>Greg Kinnear</name>
+    <role>Bill Shepherd</role>
+    <type>Actor</type>
+    <tmdbid>17141</tmdbid>
+    <imdbid>nm0001427</imdbid>
+  </actor>
+  <actor>
+    <name>Diane Lane</name>
+    <role>Annette Shepherd</role>
+    <type>Actor</type>
+    <tmdbid>2882</tmdbid>
+    <imdbid>nm0000178</imdbid>
+  </actor>
+  <actor>
+    <name>Cody Fern</name>
+    <role>Duncan Shepherd</role>
+    <type>Actor</type>
+    <tmdbid>1197895</tmdbid>
+    <imdbid>nm3719144</imdbid>
+  </actor>
+  <actor>
+    <name>Campbell Scott</name>
+    <role>Mark Usher</role>
+    <type>Actor</type>
+    <tmdbid>55152</tmdbid>
+    <imdbid>nm0001714</imdbid>
+  </actor>
+  <actor>
+    <name>Athena Karkanis</name>
+    <role>Melody Cruz</role>
+    <type>GuestStar</type>
+    <tmdbid>51037</tmdbid>
+    <imdbid>nm1920701</imdbid>
+  </actor>
+  <actor>
+    <name>Linda Powell</name>
+    <role>Marcy Siegerson</role>
+    <type>GuestStar</type>
+    <tmdbid>143237</tmdbid>
+    <imdbid>nm0694212</imdbid>
+  </actor>
+  <actor>
+    <name>Beth Chamberlin</name>
+    <role>Tabitha Peters</role>
+    <type>GuestStar</type>
+    <tmdbid>1220815</tmdbid>
+    <imdbid>nm0150245</imdbid>
+  </actor>
+  <actor>
+    <name>Chip Zien</name>
+    <role>Dr. Charles Rosen</role>
+    <type>GuestStar</type>
+    <tmdbid>90039</tmdbid>
+    <imdbid>nm0956268</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Holm</name>
+    <role>Nathan Green</role>
+    <type>GuestStar</type>
+    <tmdbid>1595506</tmdbid>
+    <imdbid>nm3124435</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Agos</name>
+    <role>Rick Bowman</role>
+    <type>GuestStar</type>
+    <tmdbid>1696797</tmdbid>
+  </actor>
+  <actor>
+    <name>Ann Charles Sutton</name>
+    <role>Young Claire</role>
+    <type>GuestStar</type>
+    <tmdbid>2297951</tmdbid>
+  </actor>
+  <actor>
+    <name>Nini Le Huynh</name>
+    <role>Lynn Phang</role>
+    <type>GuestStar</type>
+    <tmdbid>1831430</tmdbid>
+  </actor>
+  <rating>5.3</rating>
+  <year>2018</year>
+  <imdbid>tt7538918</imdbid>
+  <tvdbid>6553109</tvdbid>
+  <runtime>53</runtime>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt7538918</uniqueid>
+  <uniqueid type="Tvdb">6553109</uniqueid>
+  <episode>1</episode>
+  <season>6</season>
+  <aired>2018-11-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4422667</bitrate>
+        <width>1920</width>
+        <height>960</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>52</duration>
+        <durationinseconds>3178</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

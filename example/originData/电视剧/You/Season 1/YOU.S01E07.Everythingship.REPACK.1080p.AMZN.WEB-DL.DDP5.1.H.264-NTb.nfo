@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[A grieving Beck turns to therapy, which leads Joe to do the same, but for different reasons; Joe's plans for Beck's birthday don't go as expected.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-01-05 22:30:15</dateadded>
+  <title>第 7 集</title>
+  <actor>
+    <name>Penn Badgley</name>
+    <role>Joe Goldberg</role>
+    <type>Actor</type>
+    <tmdbid>110927</tmdbid>
+    <imdbid>nm0046112</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Lail</name>
+    <role>Guinevere Beck</role>
+    <type>Actor</type>
+    <tmdbid>1368507</tmdbid>
+    <imdbid>nm5634768</imdbid>
+  </actor>
+  <actor>
+    <name>Luca Padovan</name>
+    <role>Paco</role>
+    <type>Actor</type>
+    <tmdbid>2126167</tmdbid>
+  </actor>
+  <actor>
+    <name>Zach Cherry</name>
+    <role>Ethan Russell</role>
+    <type>Actor</type>
+    <tmdbid>1838225</tmdbid>
+  </actor>
+  <actor>
+    <name>Ambyr Childers</name>
+    <role>Candace Stone</role>
+    <type>GuestStar</type>
+    <tmdbid>75330</tmdbid>
+    <imdbid>nm1024107</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Maize</name>
+    <role>Officer Nico</role>
+    <type>GuestStar</type>
+    <tmdbid>1218790</tmdbid>
+    <imdbid>nm0538002</imdbid>
+  </actor>
+  <actor>
+    <name>Natalie Paul</name>
+    <role>Karen Minty</role>
+    <type>GuestStar</type>
+    <tmdbid>1558133</tmdbid>
+    <imdbid>nm2251717</imdbid>
+  </actor>
+  <actor>
+    <name>Nicole Kang</name>
+    <role>Lynn Lieser</role>
+    <type>GuestStar</type>
+    <tmdbid>2081650</tmdbid>
+    <imdbid>nm9169007</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Cosgrove</name>
+    <role>Ron</role>
+    <type>GuestStar</type>
+    <tmdbid>203511</tmdbid>
+    <imdbid>nm0181822</imdbid>
+  </actor>
+  <actor>
+    <name>Hari Nef</name>
+    <role>Blythe</role>
+    <type>GuestStar</type>
+    <tmdbid>1611609</tmdbid>
+    <imdbid>nm6341515</imdbid>
+  </actor>
+  <actor>
+    <name>John Stamos</name>
+    <role>Dr. Nicky</role>
+    <type>GuestStar</type>
+    <tmdbid>32600</tmdbid>
+    <imdbid>nm0001764</imdbid>
+  </actor>
+  <director>Kellie Cyrus</director>
+  <rating>7</rating>
+  <year>2018</year>
+  <imdbid>tt7634444</imdbid>
+  <tvdbid>6461788</tvdbid>
+  <runtime>42</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt7634444</uniqueid>
+  <uniqueid type="Tvdb">6461788</uniqueid>
+  <episode>7</episode>
+  <season>1</season>
+  <aired>2018-10-21</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9475149</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>41</duration>
+        <durationinseconds>2519</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

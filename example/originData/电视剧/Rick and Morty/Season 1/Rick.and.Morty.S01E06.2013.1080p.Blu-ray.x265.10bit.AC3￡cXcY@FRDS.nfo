@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[让女孩喜欢上莫蒂的特制魔药，像病毒般蔓延，让整个地球通通沦陷。瑞克非得解决这场混乱不可，但他又制造出另一场混乱出来。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 07:43:56</dateadded>
+  <title>瑞克的爱情魔药</title>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Harmon</name>
+    <role>Flu Hatin' Rapper (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>57194</tmdbid>
+  </actor>
+  <actor>
+    <name>Reagan Gomez-Preston</name>
+    <role>Jessica's Friend / Pregnant Girl on TV / Pregnant Girl on TV's Friend (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>93820</tmdbid>
+  </actor>
+  <actor>
+    <name>Kari Wahlgren</name>
+    <role>Jessica / Newscaster (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>116315</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Johnson</name>
+    <role>Mr. Goldenfold (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>167411</tmdbid>
+  </actor>
+  <actor>
+    <name>Phil Hendrie</name>
+    <role>Principal Gene Vagina / Newscaster / Davin (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>181234</tmdbid>
+  </actor>
+  <actor>
+    <name>Echo Kellum</name>
+    <role>Brad (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1255907</tmdbid>
+  </actor>
+  <director>Stephen Sandoval</director>
+  <rating>9.1</rating>
+  <year>2014</year>
+  <imdbid>tt3333834</imdbid>
+  <tvdbid>4743887</tvdbid>
+  <runtime>21</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <uniqueid type="Tvdb">4743887</uniqueid>
+  <uniqueid type="Imdb">tt3333834</uniqueid>
+  <episode>6</episode>
+  <season>1</season>
+  <aired>2014-01-27</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2221658</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1288</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

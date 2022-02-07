@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[在利用统计数据帮助足球队之后，谢耳朵的人气大增。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-08-04 10:46:17</dateadded>
+  <title>太阳能计算器、游戏球和啦啦队长的胸部</title>
+  <actor>
+    <name>Iain Armitage</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1684536</tmdbid>
+    <imdbid>nm8071137</imdbid>
+  </actor>
+  <actor>
+    <name>Zoe Perry</name>
+    <role>Mary Cooper</role>
+    <type>Actor</type>
+    <tmdbid>133450</tmdbid>
+    <imdbid>nm1409365</imdbid>
+  </actor>
+  <actor>
+    <name>Lance Barber</name>
+    <role>George Cooper Sr.</role>
+    <type>Actor</type>
+    <tmdbid>1212111</tmdbid>
+    <imdbid>nm1115741</imdbid>
+  </actor>
+  <actor>
+    <name>Montana Jordan</name>
+    <role>Georgie Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1817307</tmdbid>
+    <imdbid>nm7718664</imdbid>
+  </actor>
+  <actor>
+    <name>Raegan Revord</name>
+    <role>Missy Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1575317</tmdbid>
+    <imdbid>nm6862942</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Potts</name>
+    <role>Connie Tucker</role>
+    <type>Actor</type>
+    <tmdbid>8873</tmdbid>
+    <imdbid>nm0001633</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Ray Liotta</name>
+    <role>Vincent</role>
+    <type>GuestStar</type>
+    <tmdbid>11477</tmdbid>
+    <imdbid>nm0000501</imdbid>
+  </actor>
+  <actor>
+    <name>Brielle Barbusca</name>
+    <role>Cheerleader</role>
+    <type>GuestStar</type>
+    <tmdbid>1670805</tmdbid>
+    <imdbid>nm1850882</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Phuong</name>
+    <role>Tam Nguyen</role>
+    <type>GuestStar</type>
+    <tmdbid>2181372</tmdbid>
+    <imdbid>nm7910690</imdbid>
+  </actor>
+  <actor>
+    <name>Doc Farrow</name>
+    <role>Wayne Wilkins</role>
+    <type>GuestStar</type>
+    <tmdbid>2050369</tmdbid>
+    <imdbid>nm4402680</imdbid>
+  </actor>
+  <director>Chris Koch</director>
+  <rating>5.7</rating>
+  <year>2017</year>
+  <imdbid>tt7328408</imdbid>
+  <tvdbid>6299667</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <uniqueid type="Imdb">tt7328408</uniqueid>
+  <uniqueid type="Tvdb">6299667</uniqueid>
+  <episode>5</episode>
+  <season>1</season>
+  <aired>2017-11-23</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10536530</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1183</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

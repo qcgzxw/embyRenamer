@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[生日当晚惨遭杀害的泰莉，一觉醒来仍然生勾勾，她以为只是生日前夕的恶梦，怎知醒来后的经历跟梦境完全一样，生日当晚再惨遭杀害，然后又一觉醒来…究竟是上天的大礼，还是死神的玩笑，她竟然无限次被杀，再无限次重返生日早上！泰莉醒完又死，死完又醒，她唯一可以做的，就是找出杀自己的神秘凶手，否则会被困在生日和死忌的无限轮回，直到永远…]]></plot>
+  <outline><![CDATA[找死早超生]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2017-11-10 09:37:44</dateadded>
+  <title>忌日快乐</title>
+  <originaltitle>Happy Death Day</originaltitle>
+  <actor>
+    <name>Jessica Rothe</name>
+    <role>Theresa "Tree" Gelbman</role>
+    <type>Actor</type>
+    <tmdbid>1427680</tmdbid>
+    <imdbid>nm1557329</imdbid>
+  </actor>
+  <actor>
+    <name>Israel Broussard</name>
+    <role>Carter Davis</role>
+    <type>Actor</type>
+    <tmdbid>969140</tmdbid>
+    <imdbid>nm3441152</imdbid>
+  </actor>
+  <actor>
+    <name>Ruby Modine</name>
+    <role>Lori Spengler</role>
+    <type>Actor</type>
+    <tmdbid>1602964</tmdbid>
+    <imdbid>nm4384329</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel Matthews</name>
+    <role>Danielle Bouseman</role>
+    <type>Actor</type>
+    <tmdbid>104853</tmdbid>
+    <imdbid>nm7847287</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Slaughter</name>
+    <role>Dr. Winter</role>
+    <type>Actor</type>
+    <tmdbid>62784</tmdbid>
+    <imdbid>nm1551999</imdbid>
+  </actor>
+  <actor>
+    <name>Charles Aitken</name>
+    <role>Gregory Butler</role>
+    <type>Actor</type>
+    <tmdbid>1476053</tmdbid>
+    <imdbid>nm2531628</imdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Gonzales</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>1091423</tmdbid>
+    <imdbid>nm1281943</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Bayle</name>
+    <role>David Gelbman</role>
+    <type>Actor</type>
+    <tmdbid>1651968</tmdbid>
+    <imdbid>nm4320647</imdbid>
+  </actor>
+  <actor>
+    <name>Rob Mello</name>
+    <role>John Tombs</role>
+    <type>Actor</type>
+    <tmdbid>1718658</tmdbid>
+    <imdbid>nm2513232</imdbid>
+  </actor>
+  <actor>
+    <name>Phi Vu</name>
+    <role>Ryan Phan</role>
+    <type>Actor</type>
+    <tmdbid>1542831</tmdbid>
+    <imdbid>nm7059572</imdbid>
+  </actor>
+  <actor>
+    <name>Caleb Spillyards</name>
+    <role>Tim Bauer</role>
+    <type>Actor</type>
+    <tmdbid>1717376</tmdbid>
+    <imdbid>nm3710906</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Clifton</name>
+    <role>Stephanie Butler</role>
+    <type>Actor</type>
+    <tmdbid>978608</tmdbid>
+    <imdbid>nm0166756</imdbid>
+  </actor>
+  <actor>
+    <name>Cariella Smith</name>
+    <role>Becky Shepard</role>
+    <type>Actor</type>
+    <tmdbid>1407731</tmdbid>
+    <imdbid>nm4627674</imdbid>
+  </actor>
+  <actor>
+    <name>Tran Tran</name>
+    <role>Emily</role>
+    <type>Actor</type>
+    <tmdbid>1908148</tmdbid>
+  </actor>
+  <actor>
+    <name>Blaine Kern III</name>
+    <role>Nick Sims</role>
+    <type>Actor</type>
+    <tmdbid>1651966</tmdbid>
+    <imdbid>nm7138719</imdbid>
+  </actor>
+  <actor>
+    <name>Dane Rhodes</name>
+    <role>Officer Santora</role>
+    <type>Actor</type>
+    <tmdbid>60874</tmdbid>
+    <imdbid>nm1694797</imdbid>
+  </actor>
+  <actor>
+    <name>Tenea Intriago</name>
+    <role>Student Protester</role>
+    <type>Actor</type>
+    <tmdbid>1690499</tmdbid>
+    <imdbid>nm5406799</imdbid>
+  </actor>
+  <actor>
+    <name>Missy Yager</name>
+    <role>Mrs. Gelbman</role>
+    <type>Actor</type>
+    <tmdbid>51384</tmdbid>
+    <imdbid>nm0944886</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel Black</name>
+    <role>Danielle</role>
+    <type>Actor</type>
+    <tmdbid>1834745</tmdbid>
+  </actor>
+  <actor>
+    <name>Donna DuPlantier</name>
+    <role>Nurse Danna</role>
+    <type>Actor</type>
+    <tmdbid>230995</tmdbid>
+    <imdbid>nm1251245</imdbid>
+  </actor>
+  <actor>
+    <name>GiGi Erneta</name>
+    <role>News Reporter</role>
+    <type>Actor</type>
+    <tmdbid>43757</tmdbid>
+    <imdbid>nm0259656</imdbid>
+  </actor>
+  <actor>
+    <name>Ramsey Anderson</name>
+    <role>Keith Lumbly</role>
+    <type>Actor</type>
+    <tmdbid>2092820</tmdbid>
+  </actor>
+  <actor>
+    <name>Brady Lewis</name>
+    <role>Frat Brother</role>
+    <type>Actor</type>
+    <tmdbid>2684474</tmdbid>
+  </actor>
+  <director tmdbid="54248" imdbid="nm0484907">Christopher Landon</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1NTaDm3atkc</trailer>
+  <rating>6.6</rating>
+  <year>2017</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt5308322</imdbid>
+  <tmdbid>440021</tmdbid>
+  <premiered>2017-10-12</premiered>
+  <releasedate>2017-10-12</releasedate>
+  <criticrating>72</criticrating>
+  <runtime>96</runtime>
+  <tagline>找死早超生</tagline>
+  <country>United States of America</country>
+  <genre>恐怖</genre>
+  <genre>悬疑</genre>
+  <genre>喜剧</genre>
+  <studio>Vesuvius Productions</studio>
+  <studio>Blumhouse Productions</studio>
+  <studio>Digital Riot Media</studio>
+  <set tmdbcolid="526380">
+    <name>忌日快乐（系列）</name>
+  </set>
+  <uniqueid type="TmdbCollection">526380</uniqueid>
+  <tmdbcollectionid>526380</tmdbcollectionid>
+  <uniqueid type="Imdb">tt5308322</uniqueid>
+  <uniqueid type="Tmdb">440021</uniqueid>
+  <id>tt5308322</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5517745</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5751</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

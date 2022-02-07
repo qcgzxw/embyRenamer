@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Hank 对市面上出现的高纯度冰毒很是头痛，但他并不知道幕后主使就是 Walter。在一次家庭聚会上，Walter 告诉了大家自己得癌症的事，家人万分震惊。Jesse 回家去探望家人。发现自己年幼的弟弟是个优秀的孩子，聪颖过人。佣人在弟弟的房间发现大麻，并交给了 Jesse 的父母，他们误以为是 Jesse 带来的，伤心并愤怒的他们怒斥了 Jesse 并警告他不许再回来，但 Jesse 并未揭穿弟弟的秘密，他默默离开了家。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 15:44:42</dateadded>
+  <title>癌症患者</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Kyle Bornheimer</name>
+    <role>Ken Wins</role>
+    <type>GuestStar</type>
+    <tmdbid>1215836</tmdbid>
+    <imdbid>nm1531180</imdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Petry</name>
+    <role>Jake Pinkman</role>
+    <type>GuestStar</type>
+    <tmdbid>220118</tmdbid>
+  </actor>
+  <actor>
+    <name>David House</name>
+    <role>Dr. Delcavoli</role>
+    <type>GuestStar</type>
+    <tmdbid>79211</tmdbid>
+    <imdbid>nm1450145</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Bofshever</name>
+    <role>Mr. Pinkman</role>
+    <type>GuestStar</type>
+    <tmdbid>95195</tmdbid>
+    <imdbid>nm0091480</imdbid>
+  </actor>
+  <actor>
+    <name>Charles Baker</name>
+    <role>Skinny Pete</role>
+    <type>GuestStar</type>
+    <tmdbid>82945</tmdbid>
+    <imdbid>nm1889973</imdbid>
+  </actor>
+  <actor>
+    <name>Tess Harper</name>
+    <role>Mrs. Pinkman</role>
+    <type>GuestStar</type>
+    <tmdbid>41249</tmdbid>
+    <imdbid>nm0002128</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Michael Quezada</name>
+    <role>Steven Gomez</role>
+    <type>GuestStar</type>
+    <tmdbid>61535</tmdbid>
+    <imdbid>nm2366374</imdbid>
+  </actor>
+  <director>Jim McKay</director>
+  <rating>7.774</rating>
+  <year>2008</year>
+  <imdbid>tt1054726</imdbid>
+  <tvdbid>349236</tvdbid>
+  <runtime>48</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <tvrageid>637645</tvrageid>
+  <uniqueid type="Imdb">tt1054726</uniqueid>
+  <uniqueid type="Tvdb">349236</uniqueid>
+  <uniqueid type="TvRage">637645</uniqueid>
+  <episode>4</episode>
+  <season>1</season>
+  <aired>2008-02-17</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9732801</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>48</duration>
+        <durationinseconds>2895</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[在一个静得有些诡异阴森的夜晚，年轻女子艾米丽（艾米丽·芭尔多尼 Emily Baldoni 饰）驱车来到朋友家参加聚会。此前她一边开车一边和男友打电话，然而通话突然中断，她的手机屏也莫名其妙出现裂痕。这一事件让艾米丽的心中升起隐隐不安，因为当晚一颗彗星刚好接近地球，一个很久之前听过的传说使她对彗星的到来有着不祥的预感。稍后，朋友们落座，大家彼此交谈，叙说近况，虽然言语中有着许多莫名其妙、蹊跷反常的线索，然而均被一带而过。突然间，灯光尽灭。当光明重新来临时，众人发现附近只有一户人家还在亮灯，而亮等人家里坐着的竟是他们自己……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-24 01:22:19</dateadded>
+  <title>彗星来的那一夜</title>
+  <originaltitle>Coherence</originaltitle>
+  <actor>
+    <name>Emily Baldoni</name>
+    <role>Em</role>
+    <type>Actor</type>
+    <tmdbid>209200</tmdbid>
+    <imdbid>nm2032150</imdbid>
+  </actor>
+  <actor>
+    <name>Maury Sterling</name>
+    <role>Kevin</role>
+    <type>Actor</type>
+    <tmdbid>65726</tmdbid>
+    <imdbid>nm0827561</imdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Brendon</name>
+    <role>Mike</role>
+    <type>Actor</type>
+    <tmdbid>71675</tmdbid>
+    <imdbid>nm0107183</imdbid>
+  </actor>
+  <actor>
+    <name>Lorene Scafaria</name>
+    <role>Lee</role>
+    <type>Actor</type>
+    <tmdbid>71551</tmdbid>
+    <imdbid>nm1032521</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Gracen</name>
+    <role>Beth</role>
+    <type>Actor</type>
+    <tmdbid>154716</tmdbid>
+    <imdbid>nm0001286</imdbid>
+  </actor>
+  <actor>
+    <name>Hugo Armstrong</name>
+    <role>Hugh</role>
+    <type>Actor</type>
+    <tmdbid>87095</tmdbid>
+    <imdbid>nm0035730</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Manugian</name>
+    <role>Amir</role>
+    <type>Actor</type>
+    <tmdbid>1209902</tmdbid>
+    <imdbid>nm1178832</imdbid>
+  </actor>
+  <actor>
+    <name>Lauren Maher</name>
+    <role>Laurie</role>
+    <type>Actor</type>
+    <tmdbid>2450</tmdbid>
+    <imdbid>nm1266413</imdbid>
+  </actor>
+  <director tmdbid="146439" imdbid="nm0126096">James Ward Byrkit</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Oebmk6Kv2Bc</trailer>
+  <rating>7.2</rating>
+  <year>2013</year>
+  <mpaa>NR</mpaa>
+  <imdbid>tt2866360</imdbid>
+  <tmdbid>220289</tmdbid>
+  <premiered>2013-09-19</premiered>
+  <releasedate>2013-09-19</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>88</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>惊悚</genre>
+  <genre>科幻</genre>
+  <studio>Bellanova Films</studio>
+  <studio>Ugly Duckling Films</studio>
+  <uniqueid type="Tmdb">220289</uniqueid>
+  <uniqueid type="Imdb">tt2866360</uniqueid>
+  <id>tt2866360</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>15530001</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>88</duration>
+        <durationinseconds>5286</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

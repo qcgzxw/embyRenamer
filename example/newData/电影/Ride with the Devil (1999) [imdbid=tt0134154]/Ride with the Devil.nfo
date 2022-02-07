@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　美国南北战争时期，Jake Roedel（托比·马奎尔 Tobey Maguire 饰）是南方一个德国人的儿子，和他支持北方的父亲不同，他支持的是南方。他和好友Jack Bull Chiles（斯基特·乌尔里奇 Skeet Ulrich 饰）一起加入了南方的游击部队。他们又结识了George Clyde和George的之前的黑奴Daniel Holt（杰弗里·怀特 Jeffrey Wright 饰）。四人都在John Black的部队下效力。驻扎在山上的时候，村里的寡妇Sue Lee Shelley（珠儿 Jewel Kilcher 饰）和Jack Bull相爱了，在后来的战争中，Jack战死，而Jake则与部队里的一个叫Pitt（乔纳森·莱斯·梅耶斯 Jonathan Rhys Meyers 饰）的人产生了矛盾，Pitt更是开枪打伤了Jake和Holt。后来，Jake又娶了Sue，在他们去往另一个城市的路上，Jake和Holt又与Pitt相遇了......]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-03 20:43:12</dateadded>
+  <title>与魔鬼共骑</title>
+  <originaltitle>Ride with the Devil</originaltitle>
+  <actor>
+    <name>Tobey Maguire</name>
+    <role>Jake Roedel</role>
+    <type>Actor</type>
+    <tmdbid>2219</tmdbid>
+  </actor>
+  <actor>
+    <name>Skeet Ulrich</name>
+    <role>Jack Bull Chiles</role>
+    <type>Actor</type>
+    <tmdbid>22108</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Wright</name>
+    <role>Daniel Holt</role>
+    <type>Actor</type>
+    <tmdbid>2954</tmdbid>
+    <imdbid>nm0942482</imdbid>
+  </actor>
+  <actor>
+    <name>Jewel</name>
+    <role>Sue Lee Shelley</role>
+    <type>Actor</type>
+    <tmdbid>51860</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Rhys Meyers</name>
+    <role>Pitt Mackeson</role>
+    <type>Actor</type>
+    <tmdbid>1244</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Caviezel</name>
+    <role>Black John</role>
+    <type>Actor</type>
+    <tmdbid>8767</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon Baker</name>
+    <role>George Clyde</role>
+    <type>Actor</type>
+    <tmdbid>1284159</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Wilkinson</name>
+    <role>Orton Brown</role>
+    <type>Actor</type>
+    <tmdbid>207</tmdbid>
+  </actor>
+  <actor>
+    <name>John Judd</name>
+    <role>Otto Roedel</role>
+    <type>Actor</type>
+    <tmdbid>1226707</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Shanks</name>
+    <role>George</role>
+    <type>Actor</type>
+    <tmdbid>33299</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Ruffalo</name>
+    <role>Alf Bowden</role>
+    <type>Actor</type>
+    <tmdbid>103</tmdbid>
+    <imdbid>nm0749263</imdbid>
+  </actor>
+  <actor>
+    <name>Celia Weston</name>
+    <role>Mrs. Clark</role>
+    <type>Actor</type>
+    <tmdbid>1989</tmdbid>
+    <imdbid>nm0922927</imdbid>
+  </actor>
+  <actor>
+    <name>Zach Grenier</name>
+    <role>Mr. Evans</role>
+    <type>Actor</type>
+    <tmdbid>7471</tmdbid>
+    <imdbid>nm0340260</imdbid>
+  </actor>
+  <actor>
+    <name>Margo Martindale</name>
+    <role>Wilma Brown</role>
+    <type>Actor</type>
+    <tmdbid>452</tmdbid>
+    <imdbid>nm0553269</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Brandis</name>
+    <role>Cave Wyatt</role>
+    <type>Actor</type>
+    <tmdbid>27773</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Faber</name>
+    <role>Turner Rawls</role>
+    <type>Actor</type>
+    <tmdbid>80541</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy W. Auman</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>2901842</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Sener</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>2282535</tmdbid>
+  </actor>
+  <actor>
+    <name>Addison Myers</name>
+    <role>Southern Gentleman</role>
+    <type>Actor</type>
+    <tmdbid>2919667</tmdbid>
+  </actor>
+  <director tmdbid="1614" imdbid="nm0000487">Ang Lee</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=F8Vwm6dBQI8</trailer>
+  <rating>6.7</rating>
+  <year>1999</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0134154</imdbid>
+  <tmdbid>22267</tmdbid>
+  <premiered>1999-11-24</premiered>
+  <releasedate>1999-11-24</releasedate>
+  <criticrating>64</criticrating>
+  <runtime>149</runtime>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>战争</genre>
+  <genre>爱情</genre>
+  <genre>西部</genre>
+  <studio>Good Machine</studio>
+  <studio>Universal Pictures</studio>
+  <set>
+    <name>李安 Ang Lee</name>
+  </set>
+  <uniqueid type="Imdb">tt0134154</uniqueid>
+  <uniqueid type="Tmdb">22267</uniqueid>
+  <id>tt0134154</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4410008</bitrate>
+        <width>1920</width>
+        <height>818</height>
+        <aspect>960:409</aspect>
+        <aspectratio>960:409</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>148</duration>
+        <durationinseconds>8924</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

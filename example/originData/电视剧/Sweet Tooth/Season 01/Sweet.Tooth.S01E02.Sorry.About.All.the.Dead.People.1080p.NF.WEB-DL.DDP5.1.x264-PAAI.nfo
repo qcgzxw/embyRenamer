@@ -1,0 +1,423 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[盖斯跟随一个不愿帮忙的胖叔进入未知的世界。辛格医生得知了拯救拉妮的代价。世界毁灭后，艾米找到了一个新的开始。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-18 12:43:17</dateadded>
+  <title>向死去的人们致歉</title>
+  <actor>
+    <name>Christian Convery</name>
+    <role>Gus</role>
+    <type>Actor</type>
+    <tmdbid>1721268</tmdbid>
+  </actor>
+  <actor>
+    <name>Nonso Anozie</name>
+    <role>Tommy Jepperd</role>
+    <type>Actor</type>
+    <tmdbid>43547</tmdbid>
+  </actor>
+  <actor>
+    <name>Adeel Akhtar</name>
+    <role>Dr. Aditya Singh</role>
+    <type>Actor</type>
+    <tmdbid>81840</tmdbid>
+    <imdbid>nm2253821</imdbid>
+  </actor>
+  <actor>
+    <name>Stefania LaVie Owen</name>
+    <role>Rebecca 'Becky' Walker / Bear</role>
+    <type>Actor</type>
+    <tmdbid>1252003</tmdbid>
+  </actor>
+  <actor>
+    <name>Dania Ramirez</name>
+    <role>Aimee Eden</role>
+    <type>Actor</type>
+    <tmdbid>37046</tmdbid>
+  </actor>
+  <actor>
+    <name>Aliza Vellani</name>
+    <role>Rani Singh</role>
+    <type>Actor</type>
+    <tmdbid>1234894</tmdbid>
+  </actor>
+  <actor>
+    <name>James Brolin</name>
+    <role>Narrator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>9274</tmdbid>
+  </actor>
+  <actor>
+    <name>Kahurangi Carter</name>
+    <role>Married Woman</role>
+    <type>GuestStar</type>
+    <tmdbid>3115577</tmdbid>
+  </actor>
+  <actor>
+    <name>Samson Chan-Boon</name>
+    <role>Married Man</role>
+    <type>GuestStar</type>
+    <tmdbid>2533135</tmdbid>
+  </actor>
+  <actor>
+    <name>Seth Flynn</name>
+    <role>Goggles</role>
+    <type>GuestStar</type>
+    <tmdbid>1399805</tmdbid>
+  </actor>
+  <actor>
+    <name>Otis Herring</name>
+    <role>Man in Plaid</role>
+    <type>GuestStar</type>
+    <tmdbid>3115578</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Jullienne</name>
+    <role>Beverly Anderson</role>
+    <type>GuestStar</type>
+    <tmdbid>1236973</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Kerr</name>
+    <role>Rusty Anderson</role>
+    <type>GuestStar</type>
+    <tmdbid>3115579</tmdbid>
+  </actor>
+  <actor>
+    <name>Mayen Mehta</name>
+    <role>Man in Denim</role>
+    <type>GuestStar</type>
+    <tmdbid>2995568</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia O'Driscoll</name>
+    <role>Fiancé</role>
+    <type>GuestStar</type>
+    <tmdbid>3115581</tmdbid>
+  </actor>
+  <actor>
+    <name>Jared Turner</name>
+    <role>George Anderson</role>
+    <type>GuestStar</type>
+    <tmdbid>1097391</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Peirse</name>
+    <role>Dr. Gladys Bell</role>
+    <type>GuestStar</type>
+    <tmdbid>15092</tmdbid>
+    <imdbid>nm0670582</imdbid>
+  </actor>
+  <actor>
+    <name>Alice May Connolly</name>
+    <role>Samantha</role>
+    <type>GuestStar</type>
+    <tmdbid>2089332</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Laing</name>
+    <role>Bob</role>
+    <type>GuestStar</type>
+    <tmdbid>1424811</tmdbid>
+  </actor>
+  <director>Jim Mickle</director>
+  <rating>7.5</rating>
+  <year>2021</year>
+  <imdbid>tt12809990</imdbid>
+  <tvdbid>7739787</tvdbid>
+  <runtime>49</runtime>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt12809990</uniqueid>
+  <uniqueid type="Tvdb">7739787</uniqueid>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2021-06-04</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6356528</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>48</duration>
+        <durationinseconds>2939</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

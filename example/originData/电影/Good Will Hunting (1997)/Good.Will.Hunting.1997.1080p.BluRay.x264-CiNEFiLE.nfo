@@ -1,0 +1,367 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[麻省理工学院的数学教授蓝波在席上公布了一道困难的数学题，却被年轻的清洁工威尔（马特·戴蒙 饰）解了出来。可是威尔却是个问题少年，成天和好朋友查克（本·阿弗莱特 饰）等人四处闲逛，打架滋事。当蓝波找到这个天才的时候，他正因为打架袭警被法庭宣判送进看守所。蓝波向法官求情保释，才使他免于牢狱之灾。蓝波为了让威尔找到自己的人生目标，不浪费他的数学天赋，请了很多心理学专家为威尔做辅导，但是威尔十分抗拒，专家们都束手无策。无计可施之下，蓝波求助于他大学的好友，心理学教授尚恩（罗宾·威廉姆斯 饰），希望能够帮助威尔打开心房。经过蓝波和尚恩的不懈努力，威尔渐渐敞开心胸，而好友查克的一席话，更是让他豁然开朗。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-01-19 07:30:58</dateadded>
+  <title>心灵捕手</title>
+  <originaltitle>Good Will Hunting</originaltitle>
+  <actor>
+    <name>Matt Damon</name>
+    <role>Will Hunting</role>
+    <type>Actor</type>
+    <tmdbid>1892</tmdbid>
+    <imdbid>nm0000354</imdbid>
+  </actor>
+  <actor>
+    <name>Robin Williams</name>
+    <role>Sean Maguire</role>
+    <type>Actor</type>
+    <tmdbid>2157</tmdbid>
+    <imdbid>nm0000245</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Affleck</name>
+    <role>Chuckie Sullivan</role>
+    <type>Actor</type>
+    <tmdbid>880</tmdbid>
+    <imdbid>nm0000255</imdbid>
+  </actor>
+  <actor>
+    <name>Stellan Skarsgård</name>
+    <role>Gerald Lambeau</role>
+    <type>Actor</type>
+    <tmdbid>1640</tmdbid>
+    <imdbid>nm0001745</imdbid>
+  </actor>
+  <actor>
+    <name>Minnie Driver</name>
+    <role>Skylar</role>
+    <type>Actor</type>
+    <tmdbid>6613</tmdbid>
+    <imdbid>nm0000378</imdbid>
+  </actor>
+  <actor>
+    <name>Casey Affleck</name>
+    <role>Morgan O'Mally</role>
+    <type>Actor</type>
+    <tmdbid>1893</tmdbid>
+    <imdbid>nm0000729</imdbid>
+  </actor>
+  <actor>
+    <name>Cole Hauser</name>
+    <role>Billy McBride</role>
+    <type>Actor</type>
+    <tmdbid>6614</tmdbid>
+    <imdbid>nm0369513</imdbid>
+  </actor>
+  <actor>
+    <name>Vik Sahay</name>
+    <role>MIT Student</role>
+    <type>Actor</type>
+    <tmdbid>6623</tmdbid>
+    <imdbid>nm0006710</imdbid>
+  </actor>
+  <actor>
+    <name>John Mighton</name>
+    <role>Tom</role>
+    <type>Actor</type>
+    <tmdbid>6615</tmdbid>
+    <imdbid>nm0585906</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel Majorowski</name>
+    <role>Krystyn</role>
+    <type>Actor</type>
+    <tmdbid>6616</tmdbid>
+    <imdbid>nm0538259</imdbid>
+  </actor>
+  <actor>
+    <name>Colleen McCauley</name>
+    <role>Cathy</role>
+    <type>Actor</type>
+    <tmdbid>6617</tmdbid>
+    <imdbid>nm0565494</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Mercier</name>
+    <role>Barbershop Quartet #1</role>
+    <type>Actor</type>
+    <tmdbid>6618</tmdbid>
+    <imdbid>nm0580436</imdbid>
+  </actor>
+  <actor>
+    <name>Ralph St. George</name>
+    <role>Barbershop Quartet #2</role>
+    <type>Actor</type>
+    <tmdbid>6619</tmdbid>
+    <imdbid>nm0820538</imdbid>
+  </actor>
+  <actor>
+    <name>Rob Lynds</name>
+    <role>Barbershop Quartet #3</role>
+    <type>Actor</type>
+    <tmdbid>6620</tmdbid>
+    <imdbid>nm0528546</imdbid>
+  </actor>
+  <actor>
+    <name>Dan Washington</name>
+    <role>Barbershop Quartet #4</role>
+    <type>Actor</type>
+    <tmdbid>6621</tmdbid>
+    <imdbid>nm0913418</imdbid>
+  </actor>
+  <actor>
+    <name>Alison Folland</name>
+    <role>MIT Student</role>
+    <type>Actor</type>
+    <tmdbid>2841</tmdbid>
+    <imdbid>nm0284315</imdbid>
+  </actor>
+  <actor>
+    <name>Derrick Bridgeman</name>
+    <role>MIT Student</role>
+    <type>Actor</type>
+    <tmdbid>6622</tmdbid>
+    <imdbid>nm0108683</imdbid>
+  </actor>
+  <actor>
+    <name>Shannon Egleson</name>
+    <role>Girl on Street</role>
+    <type>Actor</type>
+    <tmdbid>1281440</tmdbid>
+    <imdbid>nm0251059</imdbid>
+  </actor>
+  <actor>
+    <name>Rob Lyons</name>
+    <role>Carmine Scarpaglia</role>
+    <type>Actor</type>
+    <tmdbid>1281441</tmdbid>
+    <imdbid>nm0529147</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Kozlowski</name>
+    <role>Carmine Friend #1</role>
+    <type>Actor</type>
+    <tmdbid>163438</tmdbid>
+    <imdbid>nm0468967</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Deathe</name>
+    <role>Lydia</role>
+    <type>Actor</type>
+    <tmdbid>1281442</tmdbid>
+    <imdbid>nm0213246</imdbid>
+  </actor>
+  <actor>
+    <name>Scott William Winters</name>
+    <role>Clark</role>
+    <type>Actor</type>
+    <tmdbid>144578</tmdbid>
+    <imdbid>nm0936001</imdbid>
+  </actor>
+  <actor>
+    <name>Philip Williams</name>
+    <role>Head Custodian</role>
+    <type>Actor</type>
+    <tmdbid>134076</tmdbid>
+    <imdbid>nm0931477</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick O'Donnell</name>
+    <role>Assistant Custodian</role>
+    <type>Actor</type>
+    <tmdbid>1281443</tmdbid>
+    <imdbid>nm0640825</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Rushton</name>
+    <role>Courtroom Guard</role>
+    <type>Actor</type>
+    <tmdbid>1237062</tmdbid>
+    <imdbid>nm0750764</imdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Flynn</name>
+    <role>Judge Malone</role>
+    <type>Actor</type>
+    <tmdbid>1281445</tmdbid>
+    <imdbid>nm0283497</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Cannon</name>
+    <role>Prosecutor</role>
+    <type>Actor</type>
+    <tmdbid>1281447</tmdbid>
+    <imdbid>nm0134214</imdbid>
+  </actor>
+  <actor>
+    <name>Ann Matacunas</name>
+    <role>Court Officer</role>
+    <type>Actor</type>
+    <tmdbid>1281448</tmdbid>
+    <imdbid>nm0558034</imdbid>
+  </actor>
+  <actor>
+    <name>George Plimpton</name>
+    <role>Psychologist</role>
+    <type>Actor</type>
+    <tmdbid>95741</tmdbid>
+    <imdbid>nm0687321</imdbid>
+  </actor>
+  <actor>
+    <name>Francesco Clemente</name>
+    <role>Hypnotist</role>
+    <type>Actor</type>
+    <tmdbid>937042</tmdbid>
+    <imdbid>nm0166136</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Morton</name>
+    <role>Bunker Hill Student</role>
+    <type>Actor</type>
+    <tmdbid>1281449</tmdbid>
+    <imdbid>nm3578142</imdbid>
+  </actor>
+  <actor>
+    <name>Barna Moricz</name>
+    <role>Bunker Hill Student</role>
+    <type>Actor</type>
+    <tmdbid>1242878</tmdbid>
+    <imdbid>nm0605414</imdbid>
+  </actor>
+  <actor>
+    <name>Libby Geller</name>
+    <role>Toy Store Cashier</role>
+    <type>Actor</type>
+    <tmdbid>1281450</tmdbid>
+    <imdbid>nm0312396</imdbid>
+  </actor>
+  <actor>
+    <name>Chas Lawther</name>
+    <role>MIT Professor</role>
+    <type>Actor</type>
+    <tmdbid>101803</tmdbid>
+    <imdbid>nm0493351</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Fitzpatrick</name>
+    <role>Timmy</role>
+    <type>Actor</type>
+    <tmdbid>44103</tmdbid>
+    <imdbid>nm0280584</imdbid>
+  </actor>
+  <actor>
+    <name>Frank Nakashima</name>
+    <role>Executive #1</role>
+    <type>Actor</type>
+    <tmdbid>1239394</tmdbid>
+    <imdbid>nm0620355</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Britton</name>
+    <role>Executive #2</role>
+    <type>Actor</type>
+    <tmdbid>37981</tmdbid>
+    <imdbid>nm0110167</imdbid>
+  </actor>
+  <actor>
+    <name>David Eisner</name>
+    <role>Executive #3</role>
+    <type>Actor</type>
+    <tmdbid>1190319</tmdbid>
+    <imdbid>nm0252138</imdbid>
+  </actor>
+  <actor>
+    <name>Bruce Hunter</name>
+    <role>NSA Agent</role>
+    <type>Actor</type>
+    <tmdbid>1228841</tmdbid>
+    <imdbid>nm0402742</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Talvano</name>
+    <role>NSA Agent #2</role>
+    <type>Actor</type>
+    <tmdbid>1281451</tmdbid>
+    <imdbid>nm0848326</imdbid>
+  </actor>
+  <actor>
+    <name>James Allodi</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>4572</tmdbid>
+    <imdbid>nm0021548</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Arthur</name>
+    <role>Reunion Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1647723</tmdbid>
+    <imdbid>nm0037806</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Harmony</name>
+    <role>Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>943742</tmdbid>
+    <imdbid>nm0363578</imdbid>
+  </actor>
+  <actor>
+    <name>Riva Di Paola</name>
+    <role>MIT Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1444763</tmdbid>
+    <imdbid>nm1338759</imdbid>
+  </actor>
+  <actor>
+    <name>Harmony Korine</name>
+    <role>Hervé (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>51918</tmdbid>
+    <imdbid>nm0005101</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Lundy</name>
+    <role>Waiter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1003974</tmdbid>
+    <imdbid>nm1340505</imdbid>
+  </actor>
+  <actor>
+    <name>Paul McGillicuddy</name>
+    <role>Race Track Fan (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1507846</tmdbid>
+    <imdbid>nm0569289</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Olsen</name>
+    <role>MIT Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1483455</tmdbid>
+    <imdbid>nm2759735</imdbid>
+  </actor>
+  <director tmdbid="5216" imdbid="nm0001814">Gus Van Sant</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ReIJ1lbL-Q8</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PaZVjZEFkRs</trailer>
+  <rating>8.3</rating>
+  <year>1997</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0119217</imdbid>
+  <tmdbid>489</tmdbid>
+  <premiered>1997-12-05</premiered>
+  <releasedate>1997-12-05</releasedate>
+  <criticrating>98</criticrating>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <studio>Miramax</studio>
+  <studio>Lawrence Bender Productions</studio>
+  <studio>Be Gentlemen Limited Partnership</studio>
+  <uniqueid type="Tmdb">489</uniqueid>
+  <uniqueid type="Imdb">tt0119217</uniqueid>
+  <id>tt0119217</id>
+  <fileinfo>
+    <streamdetails />
+  </fileinfo>
+</movie>

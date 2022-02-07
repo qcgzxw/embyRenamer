@@ -1,0 +1,333 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[精明的诈骗高手艾文（克里斯蒂安·贝尔 饰）和情妇西德尼（艾米·亚当斯 饰）是一对无往不利的职业诈骗搭档，不慎在警方的一次钓鱼行动中栽了跟头，西德尼被捕入狱，作为交换条件，他们必须与知法玩法的FBI干员里奇（布莱德利·库珀  饰）合作，通过诈骗设局钓出更多贪污腐败的政府官员。里奇锁定的第一个对象就是新泽西卡姆登市的市场麦卡因（杰瑞米·雷纳 饰）。他们混进了麦卡因的小内阁，企图一举纠出收贿的贪官污吏。但艾文不按理出牌的正派妻子罗瑟琳（詹妮弗·劳伦斯 饰）却像个不定时炸弹般，极可能令整个钓鱼行动毁于一旦，但也可能是拯救艾文的最后一根稻草！]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-05-01 09:18:30</dateadded>
+  <title>美国骗局</title>
+  <originaltitle>American Hustle</originaltitle>
+  <actor>
+    <name>Christian Bale</name>
+    <role>Irving Rosenfeld</role>
+    <type>Actor</type>
+    <tmdbid>3894</tmdbid>
+    <imdbid>nm0000288</imdbid>
+  </actor>
+  <actor>
+    <name>Bradley Cooper</name>
+    <role>Richie DiMaso</role>
+    <type>Actor</type>
+    <tmdbid>51329</tmdbid>
+    <imdbid>nm0177896</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Renner</name>
+    <role>Carmine Polito</role>
+    <type>Actor</type>
+    <tmdbid>17604</tmdbid>
+    <imdbid>nm0719637</imdbid>
+  </actor>
+  <actor>
+    <name>Amy Adams</name>
+    <role>Sydney Prosser</role>
+    <type>Actor</type>
+    <tmdbid>9273</tmdbid>
+    <imdbid>nm0010736</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Lawrence</name>
+    <role>Rosalyn Rosenfeld</role>
+    <type>Actor</type>
+    <tmdbid>72129</tmdbid>
+    <imdbid>nm2225369</imdbid>
+  </actor>
+  <actor>
+    <name>Louis C. K.</name>
+    <role>Stoddard Thorsen</role>
+    <type>Actor</type>
+    <tmdbid>52849</tmdbid>
+    <imdbid>nm0127373</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Huston</name>
+    <role>Pete Musane</role>
+    <type>Actor</type>
+    <tmdbid>54738</tmdbid>
+    <imdbid>nm1658935</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Peña</name>
+    <role>Paco Hernandez</role>
+    <type>Actor</type>
+    <tmdbid>454</tmdbid>
+    <imdbid>nm0671567</imdbid>
+  </actor>
+  <actor>
+    <name>Shea Whigham</name>
+    <role>Carl Elway</role>
+    <type>Actor</type>
+    <tmdbid>74242</tmdbid>
+    <imdbid>nm0924154</imdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Nivola</name>
+    <role>Anthony Amado</role>
+    <type>Actor</type>
+    <tmdbid>4941</tmdbid>
+    <imdbid>nm0005273</imdbid>
+  </actor>
+  <actor>
+    <name>Elisabeth Röhm</name>
+    <role>Dolly Polito</role>
+    <type>Actor</type>
+    <tmdbid>126932</tmdbid>
+    <imdbid>nm0737533</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Herman</name>
+    <role>Alfonse Simone</role>
+    <type>Actor</type>
+    <tmdbid>58535</tmdbid>
+    <imdbid>nm0379200</imdbid>
+  </actor>
+  <actor>
+    <name>Saïd Taghmaoui</name>
+    <role>Irv's Sheik Plant</role>
+    <type>Actor</type>
+    <tmdbid>5419</tmdbid>
+    <imdbid>nm0846548</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Russell</name>
+    <role>Dominic Polito</role>
+    <type>Actor</type>
+    <tmdbid>239111</tmdbid>
+    <imdbid>nm4205247</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Matthews</name>
+    <role>Francis Polito</role>
+    <type>Actor</type>
+    <tmdbid>1710602</tmdbid>
+    <imdbid>nm4626339</imdbid>
+  </actor>
+  <actor>
+    <name>Adrian Martinez</name>
+    <role>Julius</role>
+    <type>Actor</type>
+    <tmdbid>94432</tmdbid>
+    <imdbid>nm0553440</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Zerbe</name>
+    <role>Senator Horton Mitchell</role>
+    <type>Actor</type>
+    <tmdbid>2516</tmdbid>
+    <imdbid>nm0001875</imdbid>
+  </actor>
+  <actor>
+    <name>Colleen Camp</name>
+    <role>Brenda</role>
+    <type>Actor</type>
+    <tmdbid>13023</tmdbid>
+    <imdbid>nm0131974</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Gagliastro</name>
+    <role>Agent Schmidt</role>
+    <type>Actor</type>
+    <tmdbid>1808040</tmdbid>
+    <imdbid>nm2793370</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Tarjan</name>
+    <role>Agent Stock</role>
+    <type>Actor</type>
+    <tmdbid>1656520</tmdbid>
+    <imdbid>nm2657824</imdbid>
+  </actor>
+  <actor>
+    <name>Zachariah Supka</name>
+    <role>Young Irv</role>
+    <type>Actor</type>
+    <tmdbid>1746132</tmdbid>
+    <imdbid>nm5623097</imdbid>
+  </actor>
+  <actor>
+    <name>Christy Scott Cashman</name>
+    <role>Cosmo Interview Girl</role>
+    <type>Actor</type>
+    <tmdbid>131849</tmdbid>
+    <imdbid>nm0778769</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Hamlin</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>1800065</tmdbid>
+    <imdbid>nm1476544</imdbid>
+  </actor>
+  <actor>
+    <name>Martie Barylick</name>
+    <role>Helen</role>
+    <type>Actor</type>
+    <tmdbid>1808041</tmdbid>
+    <imdbid>nm6129145</imdbid>
+  </actor>
+  <actor>
+    <name>Dawn Olivieri</name>
+    <role>Cosmo Girl</role>
+    <type>Actor</type>
+    <tmdbid>92614</tmdbid>
+    <imdbid>nm1685408</imdbid>
+  </actor>
+  <actor>
+    <name>Erica McDermott</name>
+    <role>Abbie Abrams</role>
+    <type>Actor</type>
+    <tmdbid>999737</tmdbid>
+    <imdbid>nm3599667</imdbid>
+  </actor>
+  <actor>
+    <name>Dicky Eklund Jr.</name>
+    <role>Street Thug #1</role>
+    <type>Actor</type>
+    <tmdbid>1673016</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert De Niro</name>
+    <role>Victor Tellegio</role>
+    <type>Actor</type>
+    <tmdbid>380</tmdbid>
+    <imdbid>nm0000134</imdbid>
+  </actor>
+  <actor>
+    <name>John Franchi</name>
+    <role>Art Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>928638</tmdbid>
+    <imdbid>nm3413370</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Corbo</name>
+    <role>Danny Rosenfeld (as Dante Corbo)</role>
+    <type>Actor</type>
+    <tmdbid>1855615</tmdbid>
+  </actor>
+  <actor>
+    <name>Sonny Corbo</name>
+    <role>Danny Rosenfeld (as Santino Corbo)</role>
+    <type>Actor</type>
+    <tmdbid>1855616</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Jones</name>
+    <role>Jazz Quartet Singer</role>
+    <type>Actor</type>
+    <tmdbid>1233056</tmdbid>
+    <imdbid>nm0428278</imdbid>
+  </actor>
+  <actor>
+    <name>Gavin Maddox Bergman</name>
+    <role>Boy in Stroller (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2111969</tmdbid>
+    <imdbid>nm7283759</imdbid>
+  </actor>
+  <actor>
+    <name>Mickey O'Keefe</name>
+    <role>FBI Agent #3</role>
+    <type>Actor</type>
+    <tmdbid>1415263</tmdbid>
+    <imdbid>nm3923953</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Campbell</name>
+    <role>Baron's Patron</role>
+    <type>Actor</type>
+    <tmdbid>2410005</tmdbid>
+  </actor>
+  <director tmdbid="17883" imdbid="nm0751102">David O. Russell</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7xEPIYTH0qQ</trailer>
+  <rating>7.2</rating>
+  <year>2013</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt1800241</imdbid>
+  <tmdbid>168672</tmdbid>
+  <premiered>2013-12-12</premiered>
+  <releasedate>2013-12-12</releasedate>
+  <criticrating>92</criticrating>
+  <runtime>138</runtime>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>犯罪</genre>
+  <studio>Annapurna Pictures</studio>
+  <studio>Atlas Entertainment</studio>
+  <studio>Columbia Pictures</studio>
+  <uniqueid type="Tmdb">168672</uniqueid>
+  <uniqueid type="Imdb">tt1800241</uniqueid>
+  <id>tt1800241</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3735238</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>138</duration>
+        <durationinseconds>8284</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

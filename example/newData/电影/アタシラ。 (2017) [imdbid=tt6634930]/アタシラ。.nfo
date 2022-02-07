@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[我是不了解自己是谁的孤独的天才。你知道自己是谁吗？当问到你“你自己是谁”的时候，你一定会一时不知如何回答。这是因为所有人都不是因由自己的意识降生于世。所以，人在描述自己是谁的时候会用上“我是谁谁家的孩子”亦或是“我是在哪里哪里上班的某某”。这明明是在描述自己，却一定要用上自身之外的某样东西。“我们”自己不了解自己，自己也无法控制自己……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-16 04:02:36</dateadded>
+  <title>我们</title>
+  <originaltitle>アタシラ。</originaltitle>
+  <actor>
+    <name>Misaki Morino</name>
+    <type>Actor</type>
+    <tmdbid>1722111</tmdbid>
+    <imdbid>nm5719370</imdbid>
+  </actor>
+  <actor>
+    <name>Masakatsu Nakasaki</name>
+    <type>Actor</type>
+    <tmdbid>1822114</tmdbid>
+  </actor>
+  <actor>
+    <name>Kyôko Hayami</name>
+    <type>Actor</type>
+    <tmdbid>1481256</tmdbid>
+  </actor>
+  <actor>
+    <name>Noriko Kimura</name>
+    <type>Actor</type>
+    <tmdbid>1822115</tmdbid>
+  </actor>
+  <director tmdbid="1724031">Jun Yoriko</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=G5m3DVSK31k</trailer>
+  <rating>7.3</rating>
+  <year>2017</year>
+  <imdbid>tt6634930</imdbid>
+  <tmdbid>457027</tmdbid>
+  <premiered>2017-03-04</premiered>
+  <releasedate>2017-03-04</releasedate>
+  <runtime>106</runtime>
+  <country>Japan</country>
+  <genre>剧情</genre>
+  <genre>悬疑</genre>
+  <studio>Atashira Film Partners</studio>
+  <uniqueid type="Tmdb">457027</uniqueid>
+  <uniqueid type="Imdb">tt6634930</uniqueid>
+  <id>tt6634930</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>12167739</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.809525</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6335</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>696</height>
+        <aspect>25:29</aspect>
+        <aspectratio>25:29</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

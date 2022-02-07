@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　改编自日本电影《盗钥匙的方法》。跑龙套的陈小萌一直渴望成为一名演员。一天在澡堂偷偷调换了一位意外摔倒昏迷的神秘男子的储物室手环，陈小萌决定顶替他的身份，享受一下富人的生活。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-14 14:39:25</dateadded>
+  <title>人潮汹涌</title>
+  <originaltitle>人潮汹涌</originaltitle>
+  <actor>
+    <name>Andy Lau</name>
+    <role>Zhou Quan</role>
+    <type>Actor</type>
+    <tmdbid>25246</tmdbid>
+    <imdbid>nm0490489</imdbid>
+  </actor>
+  <actor>
+    <name>Xiao Yang</name>
+    <role>Chen Xiaomeng</role>
+    <type>Actor</type>
+    <tmdbid>543877</tmdbid>
+    <imdbid>nm4763789</imdbid>
+  </actor>
+  <actor>
+    <name>Wan Qian</name>
+    <role>Li Xiang</role>
+    <type>Actor</type>
+    <tmdbid>1355203</tmdbid>
+  </actor>
+  <actor>
+    <name>Cheng Yi</name>
+    <role>Zeng Jiurong</role>
+    <type>Actor</type>
+    <tmdbid>1591652</tmdbid>
+  </actor>
+  <actor>
+    <name>Huang Xiaolei</name>
+    <role>Hui Jie</role>
+    <type>Actor</type>
+    <tmdbid>143826</tmdbid>
+  </actor>
+  <actor>
+    <name>Guo Jingfei</name>
+    <role>Landlord</role>
+    <type>Actor</type>
+    <tmdbid>1353688</tmdbid>
+    <imdbid>nm3530937</imdbid>
+  </actor>
+  <actor>
+    <name>Wang Xuebing</name>
+    <role>Wu Yanzhen</role>
+    <type>Actor</type>
+    <tmdbid>543848</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Tianzuo</name>
+    <role>Ma Ming</role>
+    <type>Actor</type>
+    <tmdbid>589906</tmdbid>
+  </actor>
+  <actor>
+    <name>Lau Ho-Leung</name>
+    <type>Actor</type>
+    <tmdbid>130560</tmdbid>
+  </actor>
+  <actor>
+    <name>Rao Xiaozhi</name>
+    <role>Rao Xiaozhi</role>
+    <type>Actor</type>
+    <tmdbid>2151104</tmdbid>
+  </actor>
+  <actor>
+    <name>Lei Jiayin</name>
+    <role>Producer</role>
+    <type>Producer</type>
+    <tmdbid>1724403</tmdbid>
+    <imdbid>nm5042060</imdbid>
+  </actor>
+  <director tmdbid="1100748">Frant Gwo</director>
+  <director tmdbid="1362555" imdbid="nm4772813">Lu Yang</director>
+  <director tmdbid="2151104">Rao Xiaozhi</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ByPssIQTLUY</trailer>
+  <rating>6.4</rating>
+  <year>2021</year>
+  <imdbid>tt11564214</imdbid>
+  <tmdbid>752803</tmdbid>
+  <premiered>2021-02-12</premiered>
+  <releasedate>2021-02-12</releasedate>
+  <runtime>120</runtime>
+  <country>China</country>
+  <genre>喜剧</genre>
+  <genre>犯罪</genre>
+  <uniqueid type="Tmdb">752803</uniqueid>
+  <uniqueid type="Imdb">tt11564214</uniqueid>
+  <id>tt11564214</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2300027</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>119</duration>
+        <durationinseconds>7196</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

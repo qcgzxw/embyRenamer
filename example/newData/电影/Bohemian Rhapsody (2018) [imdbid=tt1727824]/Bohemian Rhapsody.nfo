@@ -1,0 +1,660 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　本片是对皇后乐队、传奇主唱弗雷迪·莫库里以及他们音乐的致敬盛宴，这是一段充满爱、痛苦、接纳和音乐的旅程。弗雷迪·莫库里曾是希思罗机场的一名普通搬运工，对音乐满腔热血的他，与布莱恩·梅、罗杰·泰勒、约 翰·迪肯组成皇后乐队。这个殿堂级乐队的从无到有，从疏离到重聚，从低谷到巅峰，仿佛就是弗雷迪一生的缩影。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-23 16:29:37</dateadded>
+  <title>波西米亚狂想曲</title>
+  <originaltitle>Bohemian Rhapsody</originaltitle>
+  <actor>
+    <name>Rami Malek</name>
+    <role>Freddie Mercury</role>
+    <type>Actor</type>
+    <tmdbid>17838</tmdbid>
+    <imdbid>nm1785339</imdbid>
+  </actor>
+  <actor>
+    <name>Gwilym Lee</name>
+    <role>Brian May</role>
+    <type>Actor</type>
+    <tmdbid>1220123</tmdbid>
+    <imdbid>nm3152605</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Hardy</name>
+    <role>Roger Taylor</role>
+    <type>Actor</type>
+    <tmdbid>1452045</tmdbid>
+    <imdbid>nm5228887</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Mazzello</name>
+    <role>John Deacon</role>
+    <type>Actor</type>
+    <tmdbid>4787</tmdbid>
+    <imdbid>nm0001515</imdbid>
+  </actor>
+  <actor>
+    <name>Lucy Boynton</name>
+    <role>Mary Austin</role>
+    <type>Actor</type>
+    <tmdbid>86232</tmdbid>
+    <imdbid>nm2377903</imdbid>
+  </actor>
+  <actor>
+    <name>Aidan Gillen</name>
+    <role>John Reid</role>
+    <type>Actor</type>
+    <tmdbid>49735</tmdbid>
+    <imdbid>nm0318821</imdbid>
+  </actor>
+  <actor>
+    <name>Allen Leech</name>
+    <role>Paul Prenter</role>
+    <type>Actor</type>
+    <tmdbid>85718</tmdbid>
+    <imdbid>nm1395602</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Hollander</name>
+    <role>Jim Beach</role>
+    <type>Actor</type>
+    <tmdbid>2441</tmdbid>
+    <imdbid>nm0390903</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Myers</name>
+    <role>Ray Foster</role>
+    <type>Actor</type>
+    <tmdbid>12073</tmdbid>
+    <imdbid>nm0000196</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron McCusker</name>
+    <role>Jim Hutton</role>
+    <type>Actor</type>
+    <tmdbid>1227888</tmdbid>
+    <imdbid>nm1464879</imdbid>
+  </actor>
+  <actor>
+    <name>Meneka Das</name>
+    <role>Jer Bulsara</role>
+    <type>Actor</type>
+    <tmdbid>108578</tmdbid>
+    <imdbid>nm1374868</imdbid>
+  </actor>
+  <actor>
+    <name>Ace Bhatti</name>
+    <role>Bomi Bulsara</role>
+    <type>Actor</type>
+    <tmdbid>208095</tmdbid>
+    <imdbid>nm0080372</imdbid>
+  </actor>
+  <actor>
+    <name>Priya Blackburn</name>
+    <role>Kashmira Bulsara</role>
+    <type>Actor</type>
+    <tmdbid>2167336</tmdbid>
+    <imdbid>nm9069524</imdbid>
+  </actor>
+  <actor>
+    <name>Max Bennett</name>
+    <role>David</role>
+    <type>Actor</type>
+    <tmdbid>1428460</tmdbid>
+    <imdbid>nm2976920</imdbid>
+  </actor>
+  <actor>
+    <name>Dermot Murphy</name>
+    <role>Bob Geldof</role>
+    <type>Actor</type>
+    <tmdbid>1862433</tmdbid>
+    <imdbid>nm5447790</imdbid>
+  </actor>
+  <actor>
+    <name>Dickie Beau</name>
+    <role>Kenny Everett</role>
+    <type>Actor</type>
+    <tmdbid>1309365</tmdbid>
+    <imdbid>nm5004033</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Roth</name>
+    <role>Tim Staffell</role>
+    <type>Actor</type>
+    <tmdbid>209370</tmdbid>
+    <imdbid>nm2516193</imdbid>
+  </actor>
+  <actor>
+    <name>Neil Fox-Roberts</name>
+    <role>Mr. Austin</role>
+    <type>Actor</type>
+    <tmdbid>2035000</tmdbid>
+  </actor>
+  <actor>
+    <name>Jess Radomska</name>
+    <role>Cheryl</role>
+    <type>Actor</type>
+    <tmdbid>1547893</tmdbid>
+    <imdbid>nm6970054</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Duncan</name>
+    <role>Shelley Stern</role>
+    <type>Actor</type>
+    <tmdbid>32248</tmdbid>
+    <imdbid>nm0242050</imdbid>
+  </actor>
+  <actor>
+    <name>Ross Green</name>
+    <role>Reporter 1</role>
+    <type>Actor</type>
+    <tmdbid>1742694</tmdbid>
+    <imdbid>nm5852482</imdbid>
+  </actor>
+  <actor>
+    <name>Bruce Mackinnon</name>
+    <role>Reporter 2</role>
+    <type>Actor</type>
+    <tmdbid>1227575</tmdbid>
+    <imdbid>nm1377178</imdbid>
+  </actor>
+  <actor>
+    <name>Joshua Higgott</name>
+    <role>Reporter 3</role>
+    <type>Actor</type>
+    <tmdbid>1714861</tmdbid>
+    <imdbid>nm5956792</imdbid>
+  </actor>
+  <actor>
+    <name>Pat Lally</name>
+    <role>Reporter 4</role>
+    <type>Actor</type>
+    <tmdbid>2047921</tmdbid>
+    <imdbid>nm3995817</imdbid>
+  </actor>
+  <actor>
+    <name>William Owen</name>
+    <role>Reporter 5</role>
+    <type>Actor</type>
+    <tmdbid>2256762</tmdbid>
+    <imdbid>nm10227107</imdbid>
+  </actor>
+  <actor>
+    <name>Philip Andrew</name>
+    <role>Reinhold Mack</role>
+    <type>Actor</type>
+    <tmdbid>2047866</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Plester</name>
+    <role>RT Baker</role>
+    <type>Actor</type>
+    <tmdbid>62972</tmdbid>
+    <imdbid>nm1043031</imdbid>
+  </actor>
+  <actor>
+    <name>Felipe Bejarano</name>
+    <role>Brazilian Crewman</role>
+    <type>Actor</type>
+    <tmdbid>2256761</tmdbid>
+    <imdbid>nm9594480</imdbid>
+  </actor>
+  <actor>
+    <name>Kieran Hardcastle</name>
+    <role>Heathrow Baggage Handler</role>
+    <type>Actor</type>
+    <tmdbid>203177</tmdbid>
+    <imdbid>nm0362053</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Oelbermann</name>
+    <role>German TV Journalist</role>
+    <type>Actor</type>
+    <tmdbid>1809463</tmdbid>
+    <imdbid>nm8586985</imdbid>
+  </actor>
+  <actor>
+    <name>Ian Gabriel Dumdum</name>
+    <role>Hospital Doctor</role>
+    <type>Actor</type>
+    <tmdbid>2256763</tmdbid>
+    <imdbid>nm2197047</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Greenwood</name>
+    <role>Young Man at Clinic</role>
+    <type>Actor</type>
+    <tmdbid>1677041</tmdbid>
+    <imdbid>nm4455856</imdbid>
+  </actor>
+  <actor>
+    <name>Royce Cronin</name>
+    <role>TV Director</role>
+    <type>Actor</type>
+    <tmdbid>1241872</tmdbid>
+    <imdbid>nm0188803</imdbid>
+  </actor>
+  <actor>
+    <name>James MacLaren</name>
+    <role>A &amp; R Man</role>
+    <type>Actor</type>
+    <tmdbid>2256764</tmdbid>
+    <imdbid>nm2940893</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Bowerman</name>
+    <role>Smile Audience Member</role>
+    <type>Actor</type>
+    <tmdbid>2256765</tmdbid>
+    <imdbid>nm7303763</imdbid>
+  </actor>
+  <actor>
+    <name>Drew P.</name>
+    <role>Live Aid Organiser</role>
+    <type>Actor</type>
+    <tmdbid>2256766</tmdbid>
+    <imdbid>nm3287008</imdbid>
+  </actor>
+  <actor>
+    <name>Haf Gibson</name>
+    <role>Roger's Girlfriend 1</role>
+    <type>Actor</type>
+    <tmdbid>1477986</tmdbid>
+    <imdbid>nm6451077</imdbid>
+  </actor>
+  <actor>
+    <name>Honor Hellon</name>
+    <role>Roger's Girlfriend 2</role>
+    <type>Actor</type>
+    <tmdbid>2256767</tmdbid>
+    <imdbid>nm7926677</imdbid>
+  </actor>
+  <actor>
+    <name>Rosy Benjamin</name>
+    <role>Dominique</role>
+    <type>Actor</type>
+    <tmdbid>1738234</tmdbid>
+    <imdbid>nm3594925</imdbid>
+  </actor>
+  <actor>
+    <name>Leila Crerar</name>
+    <role>Chrissie</role>
+    <type>Actor</type>
+    <tmdbid>2256768</tmdbid>
+    <imdbid>nm2610015</imdbid>
+  </actor>
+  <actor>
+    <name>Katherine Newman</name>
+    <role>Veronica</role>
+    <type>Actor</type>
+    <tmdbid>2256769</tmdbid>
+    <imdbid>nm7332326</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Rauf</name>
+    <role>Young Farrokh Bulsara</role>
+    <type>Actor</type>
+    <tmdbid>2047867</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Howe</name>
+    <role>Engineer at Studio</role>
+    <type>Actor</type>
+    <tmdbid>2256770</tmdbid>
+    <imdbid>nm10215418</imdbid>
+  </actor>
+  <actor>
+    <name>John Ottman</name>
+    <role>Live TV Director</role>
+    <type>Actor</type>
+    <tmdbid>9039</tmdbid>
+    <imdbid>nm0653211</imdbid>
+  </actor>
+  <actor>
+    <name>James Wallace</name>
+    <role>Technical Director</role>
+    <type>Actor</type>
+    <tmdbid>1827259</tmdbid>
+    <imdbid>nm1015992</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Houston</name>
+    <role>Larry Mullen Jr. (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2035001</tmdbid>
+    <imdbid>nm7649344</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Morrison Watson</name>
+    <role>Steve (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2047920</tmdbid>
+    <imdbid>nm9238842</imdbid>
+  </actor>
+  <actor>
+    <name>Devlin Lloyd</name>
+    <role>Floor Manager (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2047917</tmdbid>
+    <imdbid>nm6176818</imdbid>
+  </actor>
+  <actor>
+    <name>Stefan Kopiecki</name>
+    <role>Video Producer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2047919</tmdbid>
+    <imdbid>nm8066764</imdbid>
+  </actor>
+  <actor>
+    <name>Garry Summers</name>
+    <role>Voice Doctor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>95880</tmdbid>
+    <imdbid>nm3125166</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Fredricks</name>
+    <role>Freddie's Lover (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2047918</tmdbid>
+    <imdbid>nm9605895</imdbid>
+  </actor>
+  <actor>
+    <name>Ian Jareth Williamson</name>
+    <role>Freddie's Former Lover (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2047922</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Lazarus</name>
+    <role>Raver (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1654744</tmdbid>
+    <imdbid>nm7296886</imdbid>
+  </actor>
+  <actor>
+    <name>Johanna Thea</name>
+    <role>VIP Party Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1898962</tmdbid>
+    <imdbid>nm4811231</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Lambert</name>
+    <role>Man at Truck Stop (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>216728</tmdbid>
+    <imdbid>nm2189338</imdbid>
+  </actor>
+  <actor>
+    <name>Amor Evans</name>
+    <type>Actor</type>
+    <tmdbid>3036201</tmdbid>
+  </actor>
+  <actor>
+    <name>Andreea Helen David</name>
+    <role>Live Aid Volunteer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2923042</tmdbid>
+  </actor>
+  <director tmdbid="9032" imdbid="nm0001741">Bryan Singer</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mP0VHJYFOAU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=27zlBpzdOZg</trailer>
+  <rating>7.9</rating>
+  <year>2018</year>
+  <mpaa>HK-IIA</mpaa>
+  <imdbid>tt1727824</imdbid>
+  <tmdbid>424694</tmdbid>
+  <premiered>2018-10-24</premiered>
+  <releasedate>2018-10-24</releasedate>
+  <criticrating>60</criticrating>
+  <runtime>135</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>音乐</genre>
+  <genre>剧情</genre>
+  <genre>历史</genre>
+  <studio>GK Films</studio>
+  <studio>Regency Enterprises</studio>
+  <studio>Queen Films</studio>
+  <studio>Tribeca Productions</studio>
+  <studio>New Regency Pictures</studio>
+  <studio>20th Century Fox</studio>
+  <uniqueid type="Tmdb">424694</uniqueid>
+  <uniqueid type="Imdb">tt1727824</uniqueid>
+  <id>tt1727824</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>14423646</bitrate>
+        <width>1920</width>
+        <height>808</height>
+        <aspect>240:101</aspect>
+        <aspectratio>240:101</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>134</duration>
+        <durationinseconds>8077</durationinseconds>
+      </video>
+      <audio>
+        <codec>truehd</codec>
+        <micodec>truehd</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

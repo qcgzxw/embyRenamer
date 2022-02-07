@@ -1,0 +1,581 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[故事分五章进行。二战中德占法国，德军上校汉斯（克里斯托弗·瓦尔兹 Christoph Waltz 饰）号称“犹太猎人”，在一次屠犹行动中，少女苏珊娜（梅勒尼·劳伦特 Mélanie Laurent 饰）侥幸逃脱。与此同时，八名美国犹太士兵在中尉奥尔多（布拉德·皮特 饰） 的带领下潜入德占法国刺杀德国军人，其行动神出鬼没，手法残忍，对德军造成相当威胁，被称为“杂种”。三年后苏珊娜来到巴黎继承了姑母的电影院..]]></plot>
+  <outline><![CDATA[曾经在纳粹占领的法国]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2018-03-07 15:00:42</dateadded>
+  <title>无耻混蛋</title>
+  <originaltitle>Inglourious Basterds</originaltitle>
+  <actor>
+    <name>Brad Pitt</name>
+    <role>First Lieutenant Aldo "The Apache" Raine</role>
+    <type>Actor</type>
+    <tmdbid>287</tmdbid>
+    <imdbid>nm0000093</imdbid>
+  </actor>
+  <actor>
+    <name>Mélanie Laurent</name>
+    <role>Shosanna Dreyfus / Emmanuelle Mimieux</role>
+    <type>Actor</type>
+    <tmdbid>19119</tmdbid>
+    <imdbid>nm0491259</imdbid>
+  </actor>
+  <actor>
+    <name>Christoph Waltz</name>
+    <role>SS Colonel Hans "The Jew Hunter" Landa</role>
+    <type>Actor</type>
+    <tmdbid>27319</tmdbid>
+    <imdbid>nm0910607</imdbid>
+  </actor>
+  <actor>
+    <name>Eli Roth</name>
+    <role>Staff Sergeant Donny "The Bear Jew" Donowitz</role>
+    <type>Actor</type>
+    <tmdbid>16847</tmdbid>
+    <imdbid>nm0744834</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Fassbender</name>
+    <role>Lieutenant Archie Hicox</role>
+    <type>Actor</type>
+    <tmdbid>17288</tmdbid>
+    <imdbid>nm1055413</imdbid>
+  </actor>
+  <actor>
+    <name>Diane Kruger</name>
+    <role>Bridget von Hammersmark</role>
+    <type>Actor</type>
+    <tmdbid>9824</tmdbid>
+    <imdbid>nm1208167</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Brühl</name>
+    <role>Private First Class Fredrick Zoller</role>
+    <type>Actor</type>
+    <tmdbid>3872</tmdbid>
+    <imdbid>nm0117709</imdbid>
+  </actor>
+  <actor>
+    <name>Til Schweiger</name>
+    <role>Sergeant Hugo Stiglitz</role>
+    <type>Actor</type>
+    <tmdbid>1844</tmdbid>
+    <imdbid>nm0001709</imdbid>
+  </actor>
+  <actor>
+    <name>Gedeon Burkhard</name>
+    <role>Corporal Wilhelm Wicki</role>
+    <type>Actor</type>
+    <tmdbid>32823</tmdbid>
+    <imdbid>nm0121972</imdbid>
+  </actor>
+  <actor>
+    <name>Jacky Ido</name>
+    <role>Marcel</role>
+    <type>Actor</type>
+    <tmdbid>51636</tmdbid>
+    <imdbid>nm1784515</imdbid>
+  </actor>
+  <actor>
+    <name>B.J. Novak</name>
+    <role>Private First Class Smithson "The Little Man" Utivich</role>
+    <type>Actor</type>
+    <tmdbid>107770</tmdbid>
+    <imdbid>nm1145983</imdbid>
+  </actor>
+  <actor>
+    <name>Omar Doom</name>
+    <role>Private First Class Omar Ulmer</role>
+    <type>Actor</type>
+    <tmdbid>23286</tmdbid>
+    <imdbid>nm2374829</imdbid>
+  </actor>
+  <actor>
+    <name>August Diehl</name>
+    <role>Major Dieter Hellstrom</role>
+    <type>Actor</type>
+    <tmdbid>6091</tmdbid>
+    <imdbid>nm0225944</imdbid>
+  </actor>
+  <actor>
+    <name>Denis Ménochet</name>
+    <role>Perrier LaPadite</role>
+    <type>Actor</type>
+    <tmdbid>81125</tmdbid>
+    <imdbid>nm1616970</imdbid>
+  </actor>
+  <actor>
+    <name>Sylvester Groth</name>
+    <role>Joseph Goebbels</role>
+    <type>Actor</type>
+    <tmdbid>41965</tmdbid>
+    <imdbid>nm0343857</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Wuttke</name>
+    <role>Adolf Hitler</role>
+    <type>Actor</type>
+    <tmdbid>49056</tmdbid>
+    <imdbid>nm0943487</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Myers</name>
+    <role>General Ed Fenech</role>
+    <type>Actor</type>
+    <tmdbid>12073</tmdbid>
+    <imdbid>nm0000196</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Dreyfus</name>
+    <role>Francesca Mondino</role>
+    <type>Actor</type>
+    <tmdbid>2539</tmdbid>
+    <imdbid>nm0237838</imdbid>
+  </actor>
+  <actor>
+    <name>Léa Seydoux</name>
+    <role>Charlotte LaPadite</role>
+    <type>Actor</type>
+    <tmdbid>121529</tmdbid>
+    <imdbid>nm2244205</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Sammel</name>
+    <role>Sergeant Werner Rachtman</role>
+    <type>Actor</type>
+    <tmdbid>49487</tmdbid>
+    <imdbid>nm0759898</imdbid>
+  </actor>
+  <actor>
+    <name>Alexander Fehling</name>
+    <role>Staff Sergeant Wilhelm / Pola Negri</role>
+    <type>Actor</type>
+    <tmdbid>31663</tmdbid>
+    <imdbid>nm2356421</imdbid>
+  </actor>
+  <actor>
+    <name>Rod Taylor</name>
+    <role>Winston Churchill</role>
+    <type>Actor</type>
+    <tmdbid>8229</tmdbid>
+    <imdbid>nm0001792</imdbid>
+  </actor>
+  <actor>
+    <name>Samm Levine</name>
+    <role>Private First Class Hirschberg</role>
+    <type>Actor</type>
+    <tmdbid>58507</tmdbid>
+    <imdbid>nm0505949</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Rust</name>
+    <role>Private First Class Andy Kagan</role>
+    <type>Actor</type>
+    <tmdbid>85236</tmdbid>
+    <imdbid>nm1770256</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Bacall</name>
+    <role>Private First Class Michael Zimmerman</role>
+    <type>Actor</type>
+    <tmdbid>58744</tmdbid>
+    <imdbid>nm0045209</imdbid>
+  </actor>
+  <actor>
+    <name>Arndt Schwering-Sohnrey</name>
+    <role>German Soldier / Winnetou</role>
+    <type>Actor</type>
+    <tmdbid>36463</tmdbid>
+    <imdbid>nm0777912</imdbid>
+  </actor>
+  <actor>
+    <name>Petra Hartung</name>
+    <role>German Female Soldier / Beethoven</role>
+    <type>Actor</type>
+    <tmdbid>24061</tmdbid>
+    <imdbid>nm0367265</imdbid>
+  </actor>
+  <actor>
+    <name>Volker Michalowski</name>
+    <role>German Soldier / Edgar Wallace</role>
+    <type>Actor</type>
+    <tmdbid>1052284</tmdbid>
+    <imdbid>nm1796924</imdbid>
+  </actor>
+  <actor>
+    <name>Ken Duken</name>
+    <role>German Soldier / Mata Hari</role>
+    <type>Actor</type>
+    <tmdbid>44651</tmdbid>
+    <imdbid>nm0241222</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Berkel</name>
+    <role>Proprietor Eric</role>
+    <type>Actor</type>
+    <tmdbid>7803</tmdbid>
+    <imdbid>nm0075321</imdbid>
+  </actor>
+  <actor>
+    <name>Tina Rodriguez</name>
+    <role>Julie LaPadite</role>
+    <type>Actor</type>
+    <tmdbid>122416</tmdbid>
+    <imdbid>nm0735270</imdbid>
+  </actor>
+  <actor>
+    <name>Lena Friedrich</name>
+    <role>Suzanne LaPadite</role>
+    <type>Actor</type>
+    <tmdbid>1471993</tmdbid>
+    <imdbid>nm3409165</imdbid>
+  </actor>
+  <actor>
+    <name>Ludger Pistor</name>
+    <role>CPT. Wolfgang</role>
+    <type>Actor</type>
+    <tmdbid>1088</tmdbid>
+    <imdbid>nm0685598</imdbid>
+  </actor>
+  <actor>
+    <name>Jana Pallaske</name>
+    <role>Babette</role>
+    <type>Actor</type>
+    <tmdbid>20259</tmdbid>
+    <imdbid>nm0657822</imdbid>
+  </actor>
+  <actor>
+    <name>Wolfgang Lindner</name>
+    <role>Herrman #1</role>
+    <type>Actor</type>
+    <tmdbid>40718</tmdbid>
+    <imdbid>nm0512050</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Kranz</name>
+    <role>Herrman #3</role>
+    <type>Actor</type>
+    <tmdbid>1643968</tmdbid>
+    <imdbid>nm2947895</imdbid>
+  </actor>
+  <actor>
+    <name>Rainer Bock</name>
+    <role>General Schonherr</role>
+    <type>Actor</type>
+    <tmdbid>65054</tmdbid>
+    <imdbid>nm0090674</imdbid>
+  </actor>
+  <actor>
+    <name>André Penvern</name>
+    <role>Old French Veterinarian</role>
+    <type>Actor</type>
+    <tmdbid>35085</tmdbid>
+    <imdbid>nm0672422</imdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Hülk</name>
+    <role>Hellstrom's Driver / Nazi Usher #1</role>
+    <type>Actor</type>
+    <tmdbid>550554</tmdbid>
+    <imdbid>nm1389891</imdbid>
+  </actor>
+  <actor>
+    <name>Buddy Joe Hooker</name>
+    <role>Gaspar</role>
+    <type>Actor</type>
+    <tmdbid>8432</tmdbid>
+    <imdbid>nm0366179</imdbid>
+  </actor>
+  <actor>
+    <name>Sönke Möhring</name>
+    <role>Private Butz / Walter Frazer</role>
+    <type>Actor</type>
+    <tmdbid>147446</tmdbid>
+    <imdbid>nm1504980</imdbid>
+  </actor>
+  <actor>
+    <name>Carlos Fidel</name>
+    <role>PFC. Simon Sakowitz</role>
+    <type>Actor</type>
+    <tmdbid>107771</tmdbid>
+    <imdbid>nm0275738</imdbid>
+  </actor>
+  <actor>
+    <name>Hilmar Eichhorn</name>
+    <role>Emil Jannings</role>
+    <type>Actor</type>
+    <tmdbid>48828</tmdbid>
+    <imdbid>nm0251462</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Elias</name>
+    <role>Jakob Dreyfus</role>
+    <type>Actor</type>
+    <tmdbid>128095</tmdbid>
+    <imdbid>nm2267576</imdbid>
+  </actor>
+  <actor>
+    <name>Eva Löbau</name>
+    <role>Miriam Dreyfus</role>
+    <type>Actor</type>
+    <tmdbid>7161</tmdbid>
+    <imdbid>nm1031014</imdbid>
+  </actor>
+  <actor>
+    <name>Salvadore Brandt</name>
+    <role>Bob Dreyfus</role>
+    <type>Actor</type>
+    <tmdbid>1471995</tmdbid>
+    <imdbid>nm3467308</imdbid>
+  </actor>
+  <actor>
+    <name>Jasper Linnewedel</name>
+    <role>Amos Dreyfus</role>
+    <type>Actor</type>
+    <tmdbid>1471996</tmdbid>
+    <imdbid>nm3558935</imdbid>
+  </actor>
+  <actor>
+    <name>Wilfried Hochholdinger</name>
+    <role>German Company SGT.</role>
+    <type>Actor</type>
+    <tmdbid>20021</tmdbid>
+    <imdbid>nm0387826</imdbid>
+  </actor>
+  <actor>
+    <name>Olivier Girard</name>
+    <role>Maxim's Waiter</role>
+    <type>Actor</type>
+    <tmdbid>35953</tmdbid>
+    <imdbid>nm0320703</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Scheel</name>
+    <role>General Frank</role>
+    <type>Actor</type>
+    <tmdbid>1471997</tmdbid>
+    <imdbid>nm0770429</imdbid>
+  </actor>
+  <actor>
+    <name>Leo Plank</name>
+    <role>Motorcycle Rider #1</role>
+    <type>Actor</type>
+    <tmdbid>1471998</tmdbid>
+    <imdbid>nm0686563</imdbid>
+  </actor>
+  <actor>
+    <name>Andreas Tietz</name>
+    <role>Motorcycle Rider #2</role>
+    <type>Actor</type>
+    <tmdbid>40742</tmdbid>
+    <imdbid>nm2079653</imdbid>
+  </actor>
+  <actor>
+    <name>Bo Svenson</name>
+    <role>American Colonel</role>
+    <type>Actor</type>
+    <tmdbid>30044</tmdbid>
+    <imdbid>nm0004149</imdbid>
+  </actor>
+  <actor>
+    <name>Enzo G. Castellari</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>50739</tmdbid>
+    <imdbid>nm0144758</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Brückner</name>
+    <role>Kliest Voice (voice)</role>
+    <type>Actor</type>
+    <tmdbid>278152</tmdbid>
+    <imdbid>nm0117673</imdbid>
+  </actor>
+  <actor>
+    <name>Samuel L. Jackson</name>
+    <role>Narrator (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2231</tmdbid>
+    <imdbid>nm0000168</imdbid>
+  </actor>
+  <actor>
+    <name>Bela B</name>
+    <role>Usher #2 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>22630</tmdbid>
+    <imdbid>nm0271578</imdbid>
+  </actor>
+  <actor>
+    <name>Noemi Besedes</name>
+    <role>German Movie Star (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1129140</tmdbid>
+    <imdbid>nm3072577</imdbid>
+  </actor>
+  <actor>
+    <name>Hélène Cardona</name>
+    <role>German Official (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>5311</tmdbid>
+    <imdbid>nm0136563</imdbid>
+  </actor>
+  <actor>
+    <name>Jake Garber</name>
+    <role>German Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1206190</tmdbid>
+    <imdbid>nm0304948</imdbid>
+  </actor>
+  <actor>
+    <name>Sabrina Rattey</name>
+    <role>German Civilian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>175330</tmdbid>
+    <imdbid>nm0711890</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Boden</name>
+    <role>Military Attaché (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1307787</tmdbid>
+    <imdbid>nm1048635</imdbid>
+  </actor>
+  <actor>
+    <name>Guido Föhrweißer</name>
+    <role>SS Major (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>104246</tmdbid>
+    <imdbid>nm0299706</imdbid>
+  </actor>
+  <actor>
+    <name>Harvey Keitel</name>
+    <role>OSS Commander Who Agrees to Deal (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1037</tmdbid>
+    <imdbid>nm0000172</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Napier</name>
+    <role>Nazi Theatre Attendee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1285446</tmdbid>
+  </actor>
+  <actor>
+    <name>Gregory Nicotero</name>
+    <role>Gestapo Major (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>59287</tmdbid>
+    <imdbid>nm0630524</imdbid>
+  </actor>
+  <actor>
+    <name>Quentin Tarantino</name>
+    <role>First Scalped Nazi / American Soldier in 'Pride of Nation' (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>138</tmdbid>
+    <imdbid>nm0000233</imdbid>
+  </actor>
+  <actor>
+    <name>Vitus Wieser</name>
+    <role>French Waiter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>146065</tmdbid>
+    <imdbid>nm1101058</imdbid>
+  </actor>
+  <actor>
+    <name>Bea-Marie Rück</name>
+    <role>German Female Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1693466</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniela Schwerdt</name>
+    <role>Cinema Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1484919</tmdbid>
+    <imdbid>nm5446636</imdbid>
+  </actor>
+  <director tmdbid="138" imdbid="nm0000233">Quentin Tarantino</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=sE8hc4gVyGo</trailer>
+  <rating>8.3</rating>
+  <year>2009</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0361748</imdbid>
+  <tmdbid>16869</tmdbid>
+  <premiered>2009-08-19</premiered>
+  <releasedate>2009-08-19</releasedate>
+  <criticrating>89</criticrating>
+  <runtime>153</runtime>
+  <tagline>曾经在纳粹占领的法国</tagline>
+  <country>Germany</country>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>动作</genre>
+  <genre>惊悚</genre>
+  <genre>战争</genre>
+  <studio>The Weinstein Company</studio>
+  <studio>Universal Pictures</studio>
+  <studio>A Band Apart</studio>
+  <studio>Zehnte Babelsberg Film</studio>
+  <studio>Visiona Romantica</studio>
+  <uniqueid type="Tmdb">16869</uniqueid>
+  <uniqueid type="Imdb">tt0361748</uniqueid>
+  <id>tt0361748</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3647051</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976042</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>152</duration>
+        <durationinseconds>9179</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

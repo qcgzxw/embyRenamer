@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Lydia 找到 Walter 寻求帮助，但被拒绝。Hank 请假在家研究资料。Jesse 打算将 500 万捐出，Walter 前去说服，Jesse 猜测 Mike 被 Walter 干掉，但他不承认。Walter 发现车子被装监控。抑郁 Jesse 到处撒钱。Walter 探望 Hank，Hank 与其撕破脸，却得知其癌症复发。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-20 18:13:49</dateadded>
+  <title>血汗钱</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Debi Parker</name>
+    <role>Min-Ye</role>
+    <type>GuestStar</type>
+    <tmdbid>61152</tmdbid>
+  </actor>
+  <actor>
+    <name>Chad Brummett</name>
+    <role>DEA Agent Artie</role>
+    <type>GuestStar</type>
+    <tmdbid>208061</tmdbid>
+  </actor>
+  <actor>
+    <name>Wayne Dehart</name>
+    <role>Homeless Man</role>
+    <type>GuestStar</type>
+    <tmdbid>1193431</tmdbid>
+  </actor>
+  <actor>
+    <name>Ray Chavez</name>
+    <role>Skater</role>
+    <type>GuestStar</type>
+    <tmdbid>963009</tmdbid>
+  </actor>
+  <actor>
+    <name>Pedro García</name>
+    <role>Mariano</role>
+    <type>GuestStar</type>
+    <tmdbid>1077794</tmdbid>
+  </actor>
+  <actor>
+    <name>Tina Parker</name>
+    <role>Francesca</role>
+    <type>GuestStar</type>
+    <tmdbid>147085</tmdbid>
+    <imdbid>nm0662669</imdbid>
+  </actor>
+  <actor>
+    <name>Lavell Crawford</name>
+    <role>Huell</role>
+    <type>GuestStar</type>
+    <tmdbid>564348</tmdbid>
+    <imdbid>nm1089417</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Nemmers</name>
+    <role>DEA Agent Scott</role>
+    <type>GuestStar</type>
+    <tmdbid>110999</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Jones</name>
+    <role>Badger</role>
+    <type>GuestStar</type>
+    <tmdbid>191202</tmdbid>
+    <imdbid>nm2804503</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Fraser</name>
+    <role>Lydia Rodarte-Quayle</role>
+    <type>GuestStar</type>
+    <tmdbid>42279</tmdbid>
+    <imdbid>nm0292182</imdbid>
+  </actor>
+  <actor>
+    <name>Charles Baker</name>
+    <role>Skinny Pete</role>
+    <type>GuestStar</type>
+    <tmdbid>82945</tmdbid>
+    <imdbid>nm1889973</imdbid>
+  </actor>
+  <director tmdbid="17419" imdbid="nm0186505">Bryan Cranston</director>
+  <rating>8.761</rating>
+  <year>2013</year>
+  <imdbid>tt2301471</imdbid>
+  <tvdbid>4460282</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt2301471</uniqueid>
+  <uniqueid type="Tvdb">4460282</uniqueid>
+  <episode>9</episode>
+  <season>5</season>
+  <aired>2013-08-11</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9893358</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2842</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　由于妻子出轨，特德（安东尼•霍普金斯 Anthony Hopkins 饰）冷静地将她射杀了，他的完美杀人计划开始了。当警方接报前来现场时，警官罗布发现特德的妻子正是自己的情人珍妮佛。伤重但还没身亡的珍妮佛成了一具植物人，让人吃惊的是特德欣然承认了罪行。
+ 　　年轻的公诉律师威利（瑞恩•高斯林 Ryan Gosling 饰）觉得此案极容易获胜，希望凭借此案让自己进入经济庭和在女友面前威风一把。然而事件并没有这么间单，老奸巨猾的特德放弃使用辩护律师，由他自己亲自应诉。虽然每个人都知道特德犯了罪，但由于他在法庭上的“完美”表现和充分利用制度上的形式公平而合理合法地逃脱了法律的制裁！
+ 　　威利若想将犯人乘之于法，只有去抓住每一点的――破绽。 ©豆瓣]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-04-27 14:36:43</dateadded>
+  <title>破绽</title>
+  <originaltitle>Fracture</originaltitle>
+  <actor>
+    <name>Anthony Hopkins</name>
+    <role>Theodore Crawford</role>
+    <type>Actor</type>
+    <tmdbid>4173</tmdbid>
+    <imdbid>nm0000164</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Gosling</name>
+    <role>William Beachum</role>
+    <type>Actor</type>
+    <tmdbid>30614</tmdbid>
+    <imdbid>nm0331516</imdbid>
+  </actor>
+  <actor>
+    <name>David Strathairn</name>
+    <role>Joe Lobruto</role>
+    <type>Actor</type>
+    <tmdbid>11064</tmdbid>
+    <imdbid>nm0000657</imdbid>
+  </actor>
+  <actor>
+    <name>Rosamund Pike</name>
+    <role>Nikki Gardner</role>
+    <type>Actor</type>
+    <tmdbid>10882</tmdbid>
+    <imdbid>nm0683253</imdbid>
+  </actor>
+  <actor>
+    <name>Embeth Davidtz</name>
+    <role>Jennifer Crawford</role>
+    <type>Actor</type>
+    <tmdbid>6368</tmdbid>
+    <imdbid>nm0001110</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Burke</name>
+    <role>Robert Nunally</role>
+    <type>Actor</type>
+    <tmdbid>21029</tmdbid>
+    <imdbid>nm0121605</imdbid>
+  </actor>
+  <actor>
+    <name>Cliff Curtis</name>
+    <role>Detective Flores</role>
+    <type>Actor</type>
+    <tmdbid>7248</tmdbid>
+    <imdbid>nm0193295</imdbid>
+  </actor>
+  <actor>
+    <name>Fiona Shaw</name>
+    <role>Judge Robinson</role>
+    <type>Actor</type>
+    <tmdbid>10981</tmdbid>
+    <imdbid>nm0789716</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Stamberg</name>
+    <role>Norman Foster</role>
+    <type>Actor</type>
+    <tmdbid>21882</tmdbid>
+    <imdbid>nm0821817</imdbid>
+  </actor>
+  <actor>
+    <name>Xander Berkeley</name>
+    <role>Judge Moran</role>
+    <type>Actor</type>
+    <tmdbid>3982</tmdbid>
+    <imdbid>nm0075359</imdbid>
+  </actor>
+  <actor>
+    <name>Zoe Kazan</name>
+    <role>Mona</role>
+    <type>Actor</type>
+    <tmdbid>35028</tmdbid>
+    <imdbid>nm1443740</imdbid>
+  </actor>
+  <actor>
+    <name>Judith Scott</name>
+    <role>Resident</role>
+    <type>Actor</type>
+    <tmdbid>44185</tmdbid>
+    <imdbid>nm0779399</imdbid>
+  </actor>
+  <actor>
+    <name>Gary Carlos Cervantes</name>
+    <role>Ciro</role>
+    <type>Actor</type>
+    <tmdbid>48136</tmdbid>
+    <imdbid>nm0148869</imdbid>
+  </actor>
+  <actor>
+    <name>Petrea Burchard</name>
+    <role>Marion Kang</role>
+    <type>Actor</type>
+    <tmdbid>48138</tmdbid>
+    <imdbid>nm0120838</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Gunton</name>
+    <role>Judge Gardner</role>
+    <type>Actor</type>
+    <tmdbid>4029</tmdbid>
+    <imdbid>nm0348409</imdbid>
+  </actor>
+  <actor>
+    <name>Cooper Koch</name>
+    <role>Kid</role>
+    <type>Actor</type>
+    <tmdbid>2402029</tmdbid>
+    <imdbid>nm2599408</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Khmurov</name>
+    <role>Russian Man</role>
+    <type>Actor</type>
+    <tmdbid>24523</tmdbid>
+  </actor>
+  <actor>
+    <name>Julia Emelin</name>
+    <role>Russian Woman</role>
+    <type>Actor</type>
+    <tmdbid>2246293</tmdbid>
+    <imdbid>nm1160735</imdbid>
+  </actor>
+  <actor>
+    <name>Yorgo Constantine</name>
+    <role>Public Defender for the Russians</role>
+    <type>Actor</type>
+    <tmdbid>21051</tmdbid>
+    <imdbid>nm0176085</imdbid>
+  </actor>
+  <actor>
+    <name>Alla Korot</name>
+    <role>Russian translator</role>
+    <type>Actor</type>
+    <tmdbid>154834</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Enden</name>
+    <role>Detective</role>
+    <type>Actor</type>
+    <tmdbid>1573685</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaily Smith Westbrook</name>
+    <role>Lobruto's Secretary</role>
+    <type>Actor</type>
+    <tmdbid>2384901</tmdbid>
+  </actor>
+  <actor>
+    <name>Retta</name>
+    <role>Evidence Room Cop</role>
+    <type>Actor</type>
+    <tmdbid>75318</tmdbid>
+  </actor>
+  <director tmdbid="17812" imdbid="nm0387706">Gregory Hoblit</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=yAar1EYxloQ</trailer>
+  <rating>7.2</rating>
+  <year>2007</year>
+  <mpaa>HK-IIA</mpaa>
+  <imdbid>tt0488120</imdbid>
+  <tmdbid>6145</tmdbid>
+  <premiered>2007-04-19</premiered>
+  <releasedate>2007-04-19</releasedate>
+  <criticrating>71</criticrating>
+  <runtime>113</runtime>
+  <country>Germany</country>
+  <country>United States of America</country>
+  <genre>惊悚</genre>
+  <studio>M7 Filmproduktion</studio>
+  <studio>New Line Cinema</studio>
+  <studio>Castle Rock Entertainment</studio>
+  <studio>Weinstock Productions</studio>
+  <uniqueid type="Tmdb">6145</uniqueid>
+  <uniqueid type="Imdb">tt0488120</uniqueid>
+  <id>tt0488120</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2587540</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976042</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>113</duration>
+        <durationinseconds>6807</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

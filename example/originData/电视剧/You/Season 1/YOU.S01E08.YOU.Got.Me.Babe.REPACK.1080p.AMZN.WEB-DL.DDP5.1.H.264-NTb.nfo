@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Three months later, life is good for Joe and Beck, but a series of reconnections may spell trouble for Joe's current relationship.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-01-05 22:30:25</dateadded>
+  <title>第 8 集</title>
+  <actor>
+    <name>Penn Badgley</name>
+    <role>Joe Goldberg</role>
+    <type>Actor</type>
+    <tmdbid>110927</tmdbid>
+    <imdbid>nm0046112</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Lail</name>
+    <role>Guinevere Beck</role>
+    <type>Actor</type>
+    <tmdbid>1368507</tmdbid>
+    <imdbid>nm5634768</imdbid>
+  </actor>
+  <actor>
+    <name>Luca Padovan</name>
+    <role>Paco</role>
+    <type>Actor</type>
+    <tmdbid>2126167</tmdbid>
+  </actor>
+  <actor>
+    <name>Zach Cherry</name>
+    <role>Ethan Russell</role>
+    <type>Actor</type>
+    <tmdbid>1838225</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalie Paul</name>
+    <role>Karen Minty</role>
+    <type>GuestStar</type>
+    <tmdbid>1558133</tmdbid>
+    <imdbid>nm2251717</imdbid>
+  </actor>
+  <actor>
+    <name>Nicole Kang</name>
+    <role>Lynn Lieser</role>
+    <type>GuestStar</type>
+    <tmdbid>2081650</tmdbid>
+    <imdbid>nm9169007</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Cosgrove</name>
+    <role>Ron</role>
+    <type>GuestStar</type>
+    <tmdbid>203511</tmdbid>
+    <imdbid>nm0181822</imdbid>
+  </actor>
+  <actor>
+    <name>Hari Nef</name>
+    <role>Blythe</role>
+    <type>GuestStar</type>
+    <tmdbid>1611609</tmdbid>
+    <imdbid>nm6341515</imdbid>
+  </actor>
+  <actor>
+    <name>Victoria Cartagena</name>
+    <role>Claudia</role>
+    <type>GuestStar</type>
+    <tmdbid>118388</tmdbid>
+    <imdbid>nm1742739</imdbid>
+  </actor>
+  <actor>
+    <name>John Stamos</name>
+    <role>Dr. Nicky</role>
+    <type>GuestStar</type>
+    <tmdbid>32600</tmdbid>
+    <imdbid>nm0001764</imdbid>
+  </actor>
+  <director>Erin Feeley</director>
+  <rating>7.1</rating>
+  <year>2018</year>
+  <imdbid>tt7725680</imdbid>
+  <tvdbid>6461789</tvdbid>
+  <runtime>45</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt7725680</uniqueid>
+  <uniqueid type="Tvdb">6461789</uniqueid>
+  <episode>8</episode>
+  <season>1</season>
+  <aired>2018-10-28</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9625230</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>45</duration>
+        <durationinseconds>2701</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

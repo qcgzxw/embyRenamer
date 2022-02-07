@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[小学教师Tom与女友Gerri住在一间小公寓里，虽然不富裕但依然怀揣作家梦。有一天，对面马路的流浪汉Migg找上了门，让Tom的生活发生了惊天转变……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-06 14:40:26</dateadded>
+  <title>汤姆和杰瑞</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Gemma Arterton</name>
+    <role>Gerri</role>
+    <type>GuestStar</type>
+    <tmdbid>59620</tmdbid>
+    <imdbid>nm2605345</imdbid>
+  </actor>
+  <actor>
+    <name>Conleth Hill</name>
+    <role>Stevie</role>
+    <type>GuestStar</type>
+    <tmdbid>84423</tmdbid>
+    <imdbid>nm0384152</imdbid>
+  </actor>
+  <director>David Kerr</director>
+  <rating>8.6</rating>
+  <year>2014</year>
+  <imdbid>tt2782444</imdbid>
+  <tvdbid>4756888</tvdbid>
+  <runtime>29</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Horror</genre>
+  <tvrageid>1065477069</tvrageid>
+  <uniqueid type="Imdb">tt2782444</uniqueid>
+  <uniqueid type="Tvdb">4756888</uniqueid>
+  <uniqueid type="TvRage">1065477069</uniqueid>
+  <episode>3</episode>
+  <season>1</season>
+  <aired>2014-02-19</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10623336</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1764</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

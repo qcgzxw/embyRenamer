@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[王家卫“六十年代三部曲”之二。1960年代的香港，报馆编辑周慕云（梁朝伟 饰）与太太搬进一间住户多是上海人的公寓，和某家日资公司的贸易代表陈先生与太太苏丽珍（张曼玉 饰）成了邻居。因为发现各自在外工作的配偶背着他们有了婚外情，周慕云和苏丽珍开始见面商讨未来可能发生的事情以及相应对策。起初两人是君子之交淡如水就事谈事，可是日子一日接一日过去后，在周围一帮上海邻居的闲言碎语中，他们发现配偶的事早空出了他们的脑袋，彼此眼里只剩下了对方，而刻意回避已生出的感情的结果，是更加刻骨的相思。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-31 13:25:37</dateadded>
+  <title>花样年华</title>
+  <originaltitle>花樣年華</originaltitle>
+  <actor>
+    <name>Tony Leung Chiu-Wai</name>
+    <role>Chow Mo-Wan</role>
+    <type>Actor</type>
+    <tmdbid>1337</tmdbid>
+    <imdbid>nm0504897</imdbid>
+  </actor>
+  <actor>
+    <name>Maggie Cheung</name>
+    <role>Su Li-Zhen</role>
+    <type>Actor</type>
+    <tmdbid>1338</tmdbid>
+    <imdbid>nm0001041</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Pan</name>
+    <role>Mrs. Suen</role>
+    <type>Actor</type>
+    <tmdbid>12462</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelly Lai Chen</name>
+    <role>Mr. Ho</role>
+    <type>Actor</type>
+    <tmdbid>12463</tmdbid>
+  </actor>
+  <actor>
+    <name>Siu Ping-lam</name>
+    <role>Ah Ping</role>
+    <type>Actor</type>
+    <tmdbid>12674</tmdbid>
+  </actor>
+  <actor>
+    <name>Mama Hung</name>
+    <type>Actor</type>
+    <tmdbid>1148003</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Cheung</name>
+    <role>Man living in Mr. Koo's apartment</role>
+    <type>Actor</type>
+    <tmdbid>1002925</tmdbid>
+  </actor>
+  <actor>
+    <name>Koo Kam-Wah</name>
+    <type>Actor</type>
+    <tmdbid>12465</tmdbid>
+  </actor>
+  <actor>
+    <name>Chan Man-Lei</name>
+    <type>Actor</type>
+    <tmdbid>12464</tmdbid>
+  </actor>
+  <actor>
+    <name>Paulyn Sun</name>
+    <type>Actor</type>
+    <tmdbid>12470</tmdbid>
+    <imdbid>nm0837282</imdbid>
+  </actor>
+  <actor>
+    <name>Roy Cheung</name>
+    <role>Mr. Chan</role>
+    <type>Actor</type>
+    <tmdbid>12466</tmdbid>
+    <imdbid>nm0156559</imdbid>
+  </actor>
+  <director tmdbid="12453" imdbid="nm0939182">Wong Kar-wai</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BnFjSHQFVkA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=voxgXPj21AA</trailer>
+  <rating>8.1</rating>
+  <year>2000</year>
+  <imdbid>tt0118694</imdbid>
+  <tmdbid>843</tmdbid>
+  <premiered>2000-09-29</premiered>
+  <releasedate>2000-09-29</releasedate>
+  <criticrating>90</criticrating>
+  <runtime>99</runtime>
+  <country>China</country>
+  <country>Hong Kong</country>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <studio>Block 2 Pictures</studio>
+  <studio>Jet Tone Production</studio>
+  <studio>Orly Films</studio>
+  <studio>Paradis Films</studio>
+  <uniqueid type="Tmdb">843</uniqueid>
+  <uniqueid type="Imdb">tt0118694</uniqueid>
+  <id>tt0118694</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>10349456</bitrate>
+        <width>1800</width>
+        <height>1080</height>
+        <aspect>5:3</aspect>
+        <aspectratio>5:3</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5920</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

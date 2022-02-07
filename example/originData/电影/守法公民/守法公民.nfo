@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[影片的主人公曾是一名治安警员（杰拉德·巴特勒饰），他认为由于有黑幕的交易，使得杀害他的妻子和女儿的其中一名谋杀者将被释放，所以他准备策划一次复仇，惩治那些谋杀者和幕后审判交易人；而负责这起案件的地方法院检察官（杰米·福克斯饰）也卷入这次复仇阴谋的漩涡之中，他察觉秘密复仇的计划后，试图捍卫法律体制。 　　克莱德·谢尔顿（杰拉德·巴特勒饰）是费城一名正直不阿的警员，拥有美满家庭的他却不想遭遇了人生的重大打击：妻子和女儿在家里被歹徒入侵，随后残酷的被杀害。凶手很快被抓捕归案，风头正盛的主控官尼克·赖斯（杰米·福克斯饰）接下了这起案件，然而他的上司却要尼克按照他的意思处理这起案件，所有罪名都扛在了一个小角色身上，明摆着的真凶却得意的逍遥法外。 面对这个事实，谢尔顿明白腐败的司法系统已经无法为他伸张正义，深知幕后存在肮脏交易的谢尔顿决定按照自己的方式来处理警察无法做的事。在费城，一起又一起暗杀发了，所有的线索都指向谢尔顿，尼克明白，现在只有他才能阻止谢尔顿的疯狂行为，同时将真正的幕后黑手揪出来……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-05-01 10:46:56</dateadded>
+  <title>守法公民</title>
+  <originaltitle>Law Abiding Citizen</originaltitle>
+  <actor>
+    <name>Jamie Foxx</name>
+    <role>Nick Rice</role>
+    <type>Actor</type>
+    <tmdbid>134</tmdbid>
+    <imdbid>nm0004937</imdbid>
+  </actor>
+  <actor>
+    <name>Gerard Butler</name>
+    <role>Clyde Alexander Shelton</role>
+    <type>Actor</type>
+    <tmdbid>17276</tmdbid>
+    <imdbid>nm0124930</imdbid>
+  </actor>
+  <actor>
+    <name>Colm Meaney</name>
+    <role>Detective Dunnigan</role>
+    <type>Actor</type>
+    <tmdbid>17782</tmdbid>
+    <imdbid>nm0000538</imdbid>
+  </actor>
+  <actor>
+    <name>Bruce McGill</name>
+    <role>Jonas Cantrell</role>
+    <type>Actor</type>
+    <tmdbid>14888</tmdbid>
+    <imdbid>nm0569226</imdbid>
+  </actor>
+  <actor>
+    <name>Leslie Bibb</name>
+    <role>Sarah Lowell</role>
+    <type>Actor</type>
+    <tmdbid>57451</tmdbid>
+    <imdbid>nm0004753</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Irby</name>
+    <role>Detective Garza</role>
+    <type>Actor</type>
+    <tmdbid>124304</tmdbid>
+    <imdbid>nm0409831</imdbid>
+  </actor>
+  <actor>
+    <name>Gregory Itzin</name>
+    <role>Warden Iger</role>
+    <type>Actor</type>
+    <tmdbid>21142</tmdbid>
+    <imdbid>nm0411857</imdbid>
+  </actor>
+  <actor>
+    <name>Regina Hall</name>
+    <role>Kelly Rice</role>
+    <type>Actor</type>
+    <tmdbid>35705</tmdbid>
+    <imdbid>nm0356021</imdbid>
+  </actor>
+  <actor>
+    <name>Emerald-Angel Young</name>
+    <role>Denise Rice</role>
+    <type>Actor</type>
+    <tmdbid>124305</tmdbid>
+    <imdbid>nm2986062</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Stolte</name>
+    <role>Clarence Darby</role>
+    <type>Actor</type>
+    <tmdbid>36091</tmdbid>
+    <imdbid>nm0831601</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Corley</name>
+    <role>Judge Laura Burch</role>
+    <type>Actor</type>
+    <tmdbid>6907</tmdbid>
+    <imdbid>nm0179960</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Portnow</name>
+    <role>Bill Reynolds</role>
+    <type>Actor</type>
+    <tmdbid>4255</tmdbid>
+    <imdbid>nm0692466</imdbid>
+  </actor>
+  <actor>
+    <name>Viola Davis</name>
+    <role>Mayor April Henry</role>
+    <type>Actor</type>
+    <tmdbid>19492</tmdbid>
+    <imdbid>nm0205626</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Kelly</name>
+    <role>Bray</role>
+    <type>Actor</type>
+    <tmdbid>50217</tmdbid>
+    <imdbid>nm0446672</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Stewart</name>
+    <role>Rupert Ames</role>
+    <type>Actor</type>
+    <tmdbid>40039</tmdbid>
+    <imdbid>nm1577637</imdbid>
+  </actor>
+  <actor>
+    <name>Roger Bart</name>
+    <role>Brian Bringham</role>
+    <type>Actor</type>
+    <tmdbid>45566</tmdbid>
+    <imdbid>nm0058372</imdbid>
+  </actor>
+  <actor>
+    <name>Dan Bittner</name>
+    <role>Sereno</role>
+    <type>Actor</type>
+    <tmdbid>1152008</tmdbid>
+    <imdbid>nm2141715</imdbid>
+  </actor>
+  <actor>
+    <name>Brooke Stacy Mills</name>
+    <role>Clyde's Wife</role>
+    <type>Actor</type>
+    <tmdbid>1577506</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick McDade</name>
+    <role>Charlie - City Hall Security</role>
+    <type>Actor</type>
+    <tmdbid>1128450</tmdbid>
+    <imdbid>nm0567370</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Barlow</name>
+    <role>Older Cop</role>
+    <type>Actor</type>
+    <tmdbid>1385071</tmdbid>
+    <imdbid>nm0055276</imdbid>
+  </actor>
+  <director tmdbid="37932" imdbid="nm0336620">F. Gary Gray</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qsR8-zxV-3E</trailer>
+  <rating>7.4</rating>
+  <year>2009</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt1197624</imdbid>
+  <tmdbid>22803</tmdbid>
+  <premiered>2009-10-15</premiered>
+  <releasedate>2009-10-15</releasedate>
+  <criticrating>26</criticrating>
+  <runtime>118</runtime>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>犯罪</genre>
+  <genre>惊悚</genre>
+  <studio>The Film Department</studio>
+  <studio>Evil Twins</studio>
+  <studio>Warp Films</studio>
+  <studio>G-BASE</studio>
+  <uniqueid type="Tmdb">22803</uniqueid>
+  <uniqueid type="Imdb">tt1197624</uniqueid>
+  <id>tt1197624</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2786021</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>118</duration>
+        <durationinseconds>7086</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

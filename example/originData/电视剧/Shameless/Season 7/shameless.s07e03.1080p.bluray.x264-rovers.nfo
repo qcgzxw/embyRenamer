@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[凯文，维罗妮卡和斯维特拉娜开始了裸胸女佣服务。在收容所里，弗兰克结识了一些新朋友，他们取代了他的旧家庭，把他们带到了一所待售的房子里，这所房子被改造成了加拉格尔的无家可归者之家。黛比的新生活方式突然结束，伊恩试图处理自己的分手，卡尔担心自己染上了梅毒。 菲奥娜再次尝试帮助她的兄弟姐妹时，帕齐之家的生意越来越差...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-17 01:00:00</dateadded>
+  <title>甜蜜的无家可归者收容所</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Isidora Goreshter</name>
+    <role>Svetlana Yevgenivna</role>
+    <type>Actor</type>
+    <tmdbid>1677397</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Ballard</name>
+    <role>Dr. Sachs</role>
+    <type>GuestStar</type>
+    <tmdbid>156638</tmdbid>
+  </actor>
+  <actor>
+    <name>Arden Myrin</name>
+    <role>Dollface Dolores</role>
+    <type>GuestStar</type>
+    <tmdbid>120244</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Metz</name>
+    <role>Melinda</role>
+    <type>GuestStar</type>
+    <tmdbid>1449121</tmdbid>
+  </actor>
+  <director>Iain B. MacDonald</director>
+  <rating>7.2</rating>
+  <year>2016</year>
+  <imdbid>tt5585914</imdbid>
+  <tvdbid>5668535</tvdbid>
+  <runtime>55</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt5585914</uniqueid>
+  <uniqueid type="Tvdb">5668535</uniqueid>
+  <episode>3</episode>
+  <season>7</season>
+  <aired>2016-10-16</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10241502</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>55</duration>
+        <durationinseconds>3329</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

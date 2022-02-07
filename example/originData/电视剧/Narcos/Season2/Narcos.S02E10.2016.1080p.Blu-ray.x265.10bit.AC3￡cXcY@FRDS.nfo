@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[哈维尔应付朱迪采访的余波。塔塔试图说服巴勃罗为了孩子投降。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-15 07:00:43</dateadded>
+  <title>死亡终场</title>
+  <actor>
+    <name>Wagner Moura</name>
+    <role>Pablo Escobar</role>
+    <type>Actor</type>
+    <tmdbid>52583</tmdbid>
+  </actor>
+  <actor>
+    <name>Pedro Pascal</name>
+    <role>Javier Peña</role>
+    <type>Actor</type>
+    <tmdbid>1253360</tmdbid>
+  </actor>
+  <actor>
+    <name>Boyd Holbrook</name>
+    <role>Steve Murphy</role>
+    <type>Actor</type>
+    <tmdbid>467645</tmdbid>
+  </actor>
+  <actor>
+    <name>Joanna Christie</name>
+    <role>Connie Murphy</role>
+    <type>Actor</type>
+    <tmdbid>1230988</tmdbid>
+  </actor>
+  <actor>
+    <name>Paulina Gaitán</name>
+    <role>Tata Escobar</role>
+    <type>Actor</type>
+    <tmdbid>36586</tmdbid>
+  </actor>
+  <actor>
+    <name>Martina García</name>
+    <role>Maritza</role>
+    <type>Actor</type>
+    <tmdbid>233278</tmdbid>
+    <imdbid>nm0306357</imdbid>
+  </actor>
+  <actor>
+    <name>Brett Cullen</name>
+    <role>Arthur Crosby</role>
+    <type>Actor</type>
+    <tmdbid>16841</tmdbid>
+    <imdbid>nm0191442</imdbid>
+  </actor>
+  <actor>
+    <name>Sebastián Vega</name>
+    <role>Hugo Martinez Jr.</role>
+    <type>GuestStar</type>
+    <tmdbid>1865289</tmdbid>
+  </actor>
+  <actor>
+    <name>Alberto Ammann</name>
+    <role>Pacho Herrera</role>
+    <type>GuestStar</type>
+    <tmdbid>110424</tmdbid>
+  </actor>
+  <actor>
+    <name>Paulina García</name>
+    <role>Hermilda Gaviria</role>
+    <type>GuestStar</type>
+    <tmdbid>1532436</tmdbid>
+  </actor>
+  <director tmdbid="444720" imdbid="nm1223381">Andrés Baiz</director>
+  <rating>8.482</rating>
+  <year>2016</year>
+  <imdbid>tt5714408</imdbid>
+  <tvdbid>5734728</tvdbid>
+  <runtime>53</runtime>
+  <uniqueid type="Tvdb">5734728</uniqueid>
+  <uniqueid type="Imdb">tt5714408</uniqueid>
+  <episode>10</episode>
+  <season>2</season>
+  <aired>2016-09-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3552393</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>52</duration>
+        <durationinseconds>3151</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

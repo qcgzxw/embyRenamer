@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[设定在18世纪早期的英格兰，讲述关于宫廷阴谋、激情、嫉妒和背叛的故事：大不列颠王国的安妮女王(科尔曼)与她的知己、顾问、秘密情人公爵夫人Sarah Churchill(薇姿)的关系因后者的一位年轻远方亲戚(斯通)到来而被搅得翻天地覆，各位女性为争夺女王的青睐和获得宫廷影响力而展开了激烈的斗争。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-03 12:58:03</dateadded>
+  <title>宠儿</title>
+  <originaltitle>The Favourite</originaltitle>
+  <actor>
+    <name>Olivia Colman</name>
+    <role>Queen Anne</role>
+    <type>Actor</type>
+    <tmdbid>39187</tmdbid>
+    <imdbid>nm1469236</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Stone</name>
+    <role>Abigail Hill</role>
+    <type>Actor</type>
+    <tmdbid>54693</tmdbid>
+    <imdbid>nm1297015</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel Weisz</name>
+    <role>Sarah Churchill, Lady Marlborough</role>
+    <type>Actor</type>
+    <tmdbid>3293</tmdbid>
+    <imdbid>nm0001838</imdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Hoult</name>
+    <role>Robert Harley, Earl of Oxford</role>
+    <type>Actor</type>
+    <tmdbid>3292</tmdbid>
+    <imdbid>nm0396558</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Alwyn</name>
+    <role>Samuel Masham</role>
+    <type>Actor</type>
+    <tmdbid>1496392</tmdbid>
+    <imdbid>nm7153679</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Gatiss</name>
+    <role>John Churchill, Lord Marlborough</role>
+    <type>Actor</type>
+    <tmdbid>34546</tmdbid>
+    <imdbid>nm0309693</imdbid>
+  </actor>
+  <actor>
+    <name>James Smith</name>
+    <role>Lord Sidney Godolphin</role>
+    <type>Actor</type>
+    <tmdbid>1184006</tmdbid>
+    <imdbid>nm0808576</imdbid>
+  </actor>
+  <actor>
+    <name>Jenny Rainsford</name>
+    <role>Mae</role>
+    <type>Actor</type>
+    <tmdbid>1648727</tmdbid>
+    <imdbid>nm5082535</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Delves</name>
+    <role>Queen's Maid</role>
+    <type>Actor</type>
+    <tmdbid>2200174</tmdbid>
+  </actor>
+  <actor>
+    <name>Faye Daveney</name>
+    <role>Sarah's Maid</role>
+    <type>Actor</type>
+    <tmdbid>1162218</tmdbid>
+    <imdbid>nm3179464</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Swaine</name>
+    <role>Wanking Man</role>
+    <type>Actor</type>
+    <tmdbid>2249386</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer White</name>
+    <role>Mrs. Meg</role>
+    <type>Actor</type>
+    <tmdbid>2200169</tmdbid>
+  </actor>
+  <actor>
+    <name>Lilly-Rose Stevens</name>
+    <role>Sally</role>
+    <type>Actor</type>
+    <tmdbid>2028842</tmdbid>
+  </actor>
+  <actor>
+    <name>Denise Mack</name>
+    <role>Kitchen Servant</role>
+    <type>Actor</type>
+    <tmdbid>1561305</tmdbid>
+    <imdbid>nm1439098</imdbid>
+  </actor>
+  <actor>
+    <name>Willem Dalby</name>
+    <role>Central Tory Booker</role>
+    <type>Actor</type>
+    <tmdbid>2153644</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward Aczel</name>
+    <role>Earl of Stratford</role>
+    <type>Actor</type>
+    <tmdbid>2200171</tmdbid>
+  </actor>
+  <actor>
+    <name>Carolyn Saint-Pé</name>
+    <role>Madame Tournée</role>
+    <type>Actor</type>
+    <tmdbid>1800969</tmdbid>
+  </actor>
+  <actor>
+    <name>John Locke</name>
+    <role>Eviction Courtier</role>
+    <type>Actor</type>
+    <tmdbid>2114236</tmdbid>
+    <imdbid>nm2521096</imdbid>
+  </actor>
+  <actor>
+    <name>Everal Walsh</name>
+    <role>Servant, Upstairs</role>
+    <type>Actor</type>
+    <tmdbid>1862015</tmdbid>
+    <imdbid>nm0909633</imdbid>
+  </actor>
+  <actor>
+    <name>Timothy Innes</name>
+    <role>Footman #1</role>
+    <type>Actor</type>
+    <tmdbid>1742597</tmdbid>
+    <imdbid>nm7964030</imdbid>
+  </actor>
+  <actor>
+    <name>Basil Eidenbenz</name>
+    <role>Footman #2</role>
+    <type>Actor</type>
+    <tmdbid>1858594</tmdbid>
+  </actor>
+  <actor>
+    <name>James Melville</name>
+    <role>Footman #3</role>
+    <type>Actor</type>
+    <tmdbid>1636927</tmdbid>
+  </actor>
+  <actor>
+    <name>Declan Wyer</name>
+    <role>Footman #4</role>
+    <type>Actor</type>
+    <tmdbid>2200172</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Dougall</name>
+    <role>Queen's Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1651422</tmdbid>
+    <imdbid>nm7114240</imdbid>
+  </actor>
+  <actor>
+    <name>Ben English</name>
+    <role>Page #1</role>
+    <type>Actor</type>
+    <tmdbid>2200175</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Brookes</name>
+    <role>Page #2</role>
+    <type>Actor</type>
+    <tmdbid>2200176</tmdbid>
+  </actor>
+  <actor>
+    <name>Wilson Radjou-Pujalte</name>
+    <role>Pigeon Boy</role>
+    <type>Actor</type>
+    <tmdbid>2200173</tmdbid>
+  </actor>
+  <actor>
+    <name>Gavin Henderson</name>
+    <role>Music Teacher</role>
+    <type>Actor</type>
+    <tmdbid>2249399</tmdbid>
+  </actor>
+  <actor>
+    <name>Callum Lewin</name>
+    <role>Nude Pomegranate Tory</role>
+    <type>Actor</type>
+    <tmdbid>2249400</tmdbid>
+  </actor>
+  <actor>
+    <name>Liam Fleming</name>
+    <role>Kevin</role>
+    <type>Actor</type>
+    <tmdbid>2028843</tmdbid>
+  </actor>
+  <actor>
+    <name>Angela Hicks</name>
+    <role>Singing Woman</role>
+    <type>Actor</type>
+    <tmdbid>2249401</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Pemberton</name>
+    <role>Fire Eater</role>
+    <type>Actor</type>
+    <tmdbid>123507</tmdbid>
+    <imdbid>nm1166914</imdbid>
+  </actor>
+  <director tmdbid="122423" imdbid="nm0487166">Yorgos Lanthimos</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SYb-wkehT1g</trailer>
+  <rating>7.5</rating>
+  <year>2018</year>
+  <mpaa>HK-IIB</mpaa>
+  <imdbid>tt5083738</imdbid>
+  <tmdbid>375262</tmdbid>
+  <premiered>2018-11-23</premiered>
+  <releasedate>2018-11-23</releasedate>
+  <criticrating>93</criticrating>
+  <runtime>119</runtime>
+  <country>Ireland</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>历史</genre>
+  <genre>剧情</genre>
+  <genre>喜剧</genre>
+  <studio>Waypoint Entertainment</studio>
+  <studio>Element Pictures</studio>
+  <studio>Scarlet Films</studio>
+  <studio>Film4 Productions</studio>
+  <studio>Fox Searchlight Pictures</studio>
+  <uniqueid type="Tmdb">375262</uniqueid>
+  <uniqueid type="Imdb">tt5083738</uniqueid>
+  <id>tt5083738</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10482483</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>119</duration>
+        <durationinseconds>7169</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

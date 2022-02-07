@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[小凯和小维宣布了他们的重大消息。利普得到了地产商收购住房的信息。黛比重新评估她的未来和她的遗憾的情史。伊恩和米奇试图适应西区截然不同的生活。卡尔对警队的忠诚受到了挑战，因为他被重新分配到一个不起眼的警察岗位。利亚姆带着弗兰克找寻熟悉又陌生的“弗兰克乐子”。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-05 08:05:13</dateadded>
+  <title>那个善变的女人决定放弃了</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Noel Fisher</name>
+    <role>Mickey Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>80352</tmdbid>
+    <imdbid>nm0279720</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Isaiah</name>
+    <role>Liam Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>2563541</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Miner</name>
+    <role>Tami Tamietti</role>
+    <type>Actor</type>
+    <tmdbid>214695</tmdbid>
+    <imdbid>nm1567202</imdbid>
+  </actor>
+  <actor>
+    <name>Paris Newton</name>
+    <role>Franny Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>2982464</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Michael Campbell</name>
+    <role>Brad</role>
+    <type>Actor</type>
+    <tmdbid>65728</tmdbid>
+  </actor>
+  <actor>
+    <name>Elise Eberle</name>
+    <role>Sandy Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>983707</tmdbid>
+    <imdbid>nm2195169</imdbid>
+  </actor>
+  <actor>
+    <name>Dennis Cockrum</name>
+    <role>Terry Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>155825</tmdbid>
+    <imdbid>nm0168371</imdbid>
+  </actor>
+  <actor>
+    <name>Erin Chambers</name>
+    <role>Melanie Runkin</role>
+    <type>GuestStar</type>
+    <tmdbid>112376</tmdbid>
+    <imdbid>nm0150326</imdbid>
+  </actor>
+  <actor>
+    <name>Amanda Payton</name>
+    <role>Flavia</role>
+    <type>GuestStar</type>
+    <tmdbid>211768</tmdbid>
+    <imdbid>nm3170406</imdbid>
+  </actor>
+  <director>Iain B. MacDonald</director>
+  <rating>0</rating>
+  <year>2021</year>
+  <imdbid>tt13389260</imdbid>
+  <runtime>55</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt13389260</uniqueid>
+  <episode>11</episode>
+  <season>11</season>
+  <aired>2021-04-04</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9859868</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>55</duration>
+        <durationinseconds>3316</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>Chs&amp;Eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

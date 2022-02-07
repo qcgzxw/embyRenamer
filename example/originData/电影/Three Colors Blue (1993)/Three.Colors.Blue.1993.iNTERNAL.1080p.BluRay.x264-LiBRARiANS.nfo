@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[这么多年来，朱莉（朱丽叶·比诺什 Juliette Binoche饰）一直默默支持丈夫的创作事业，照顾5岁的孩子，平静的生活由一场车祸打破。丈夫和女儿的过世，令刚刚在病床上醒来的朱莉大为悲痛。她曾经想一死了之，出院后又生归隐之心，她把丈夫的曲谱付之一炬，以明隔离过往的决心。人间生活对于万念俱灰的朱莉来说，已经无关紧要。然而，现实却防不胜防地进入她的生活，让她开始思考自己对待生活的态度。同时，丈夫的朋友把丈夫留下的残稿发表在媒体上，声称要为这首曲续完。这件事意外地让朱莉得知，曲子原来跟一个女人有关。这个女人，肚中已怀有丈夫的骨肉。朱莉终于获得了心灵的自由，有勇气迎接新的生活和新的感情，她的人生开始转变。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-11 11:20:34</dateadded>
+  <title>蓝白红三部曲之蓝</title>
+  <originaltitle>Trois couleurs : Bleu</originaltitle>
+  <actor>
+    <name>Juliette Binoche</name>
+    <role>Julie Vignon</role>
+    <type>Actor</type>
+    <tmdbid>1137</tmdbid>
+    <imdbid>nm0000300</imdbid>
+  </actor>
+  <actor>
+    <name>Benoît Régent</name>
+    <role>Olivier</role>
+    <type>Actor</type>
+    <tmdbid>1138</tmdbid>
+    <imdbid>nm0753666</imdbid>
+  </actor>
+  <actor>
+    <name>Florence Pernel</name>
+    <role>Sandrine</role>
+    <type>Actor</type>
+    <tmdbid>1139</tmdbid>
+    <imdbid>nm0674340</imdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Véry</name>
+    <role>Lucille</role>
+    <type>Actor</type>
+    <tmdbid>1140</tmdbid>
+    <imdbid>nm0904996</imdbid>
+  </actor>
+  <actor>
+    <name>Hélène Vincent</name>
+    <role>La journaliste</role>
+    <type>Actor</type>
+    <tmdbid>1141</tmdbid>
+    <imdbid>nm0898653</imdbid>
+  </actor>
+  <actor>
+    <name>Philippe Volter</name>
+    <role>L'agent immobilier</role>
+    <type>Actor</type>
+    <tmdbid>1142</tmdbid>
+    <imdbid>nm0901812</imdbid>
+  </actor>
+  <actor>
+    <name>Claude Duneton</name>
+    <role>Le médecin</role>
+    <type>Actor</type>
+    <tmdbid>17894</tmdbid>
+    <imdbid>nm0242211</imdbid>
+  </actor>
+  <actor>
+    <name>Hugues Quester</name>
+    <role>Patrice</role>
+    <type>Actor</type>
+    <tmdbid>38170</tmdbid>
+    <imdbid>nm0703364</imdbid>
+  </actor>
+  <actor>
+    <name>Emmanuelle Riva</name>
+    <role>La mère</role>
+    <type>Actor</type>
+    <tmdbid>267962</tmdbid>
+    <imdbid>nm0728938</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Delpy</name>
+    <role>Dominique</role>
+    <type>Actor</type>
+    <tmdbid>1146</tmdbid>
+    <imdbid>nm0000365</imdbid>
+  </actor>
+  <actor>
+    <name>Zbigniew Zamachowski</name>
+    <role>Karol Karol</role>
+    <type>Actor</type>
+    <tmdbid>1145</tmdbid>
+    <imdbid>nm0952498</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Gayet</name>
+    <type>Actor</type>
+    <tmdbid>37628</tmdbid>
+    <imdbid>nm0310865</imdbid>
+  </actor>
+  <actor>
+    <name>Yann Trégouët</name>
+    <role>Antoine</role>
+    <type>Actor</type>
+    <tmdbid>72592</tmdbid>
+    <imdbid>nm0874556</imdbid>
+  </actor>
+  <director tmdbid="1126" imdbid="nm0001425">Krzysztof Kieślowski</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Hxu6my_t4pM</trailer>
+  <rating>7.9</rating>
+  <year>1993</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0108394</imdbid>
+  <tmdbid>108</tmdbid>
+  <premiered>1993-09-08</premiered>
+  <releasedate>1993-09-08</releasedate>
+  <criticrating>98</criticrating>
+  <runtime>98</runtime>
+  <country>France</country>
+  <country>Poland</country>
+  <country>Switzerland</country>
+  <genre>剧情</genre>
+  <studio>France 3 Cinéma</studio>
+  <studio>CED Productions</studio>
+  <set tmdbcolid="131">
+    <name>蓝白红（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">108</uniqueid>
+  <uniqueid type="Imdb">tt0108394</uniqueid>
+  <id>tt0108394</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>16127061</bitrate>
+        <width>1920</width>
+        <height>1032</height>
+        <aspect>80:43</aspect>
+        <aspectratio>80:43</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5900</durationinseconds>
+      </video>
+      <audio>
+        <codec>flac</codec>
+        <micodec>flac</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsFreA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

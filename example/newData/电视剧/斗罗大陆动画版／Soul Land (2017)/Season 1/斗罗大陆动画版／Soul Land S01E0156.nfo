@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[海神岛是一座危险与机遇并存的地方，武魂殿曾派遣魂师去收编那里的魂师，结果却损失了两名封号斗罗。如若唐三前往海神岛并通过考验归来，其实力必定有翻天覆地的变化...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <lockedfields>Name</lockedfields>
+  <dateadded>2021-05-15 11:26:22</dateadded>
+  <title>第 8 部分（海神之光篇）：第 156 集「唐三救国成功，启程海神岛」</title>
+  <rating>0</rating>
+  <year>2021</year>
+  <runtime>21</runtime>
+  <episode>156</episode>
+  <season>1</season>
+  <aired>2021-05-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4514572</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1287</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>93402</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[Bizarre comedy set in the fictional English town of Royston Vasey, whose inhabitants include a transsexual taxi driver, a family obsessed with cleanness that despise masturbation, an apathetic priest, a gypsy who kidnaps women to be his wives and a psychotic couple who runs a local shop for local people.
+
+Theme song by Joby Talbot.]]></plot>
+  <outline><![CDATA[Bizarre comedy set in the fictional English town of Royston Vasey, whose inhabitants include a transsexual taxi driver, a family obsessed with cleanness that despise masturbation, an apathetic priest, a gypsy who kidnaps women to be his wives and a psychotic couple who runs a local shop for local people.
+
+Theme song by Joby Talbot.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-15 18:54:56</dateadded>
+  <title>The League of Gentlemen</title>
+  <originaltitle>The League of Gentlemen</originaltitle>
+  <trailer>http://www.youtube.com/watch?v=U1sFYAI8nC4</trailer>
+  <trailer>http://www.youtube.com/watch?v=YOtpgz4L5d8</trailer>
+  <rating>8.4</rating>
+  <year>1999</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt0184135</imdb_id>
+  <tmdbid>2349</tmdbid>
+  <premiered>1999-01-11</premiered>
+  <releasedate>1999-01-11</releasedate>
+  <enddate>2002-10-24</enddate>
+  <runtime>30</runtime>
+  <genre>Comedy</genre>
+  <studio>BBC Two</studio>
+  <tvrageid>5918</tvrageid>
+  <tvdbid>72492</tvdbid>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Mark Gatiss</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Jeremy Dyson</name>
+    <type>Actor</type>
+  </actor>
+  <id>72492</id>
+  <episodeguide>
+    <url cache="72492.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/72492/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Ended</status>
+</tvshow>

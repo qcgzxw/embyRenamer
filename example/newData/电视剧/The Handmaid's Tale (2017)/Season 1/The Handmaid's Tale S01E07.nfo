@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[路克 (Luke) 与琼 (June) 以及女儿汉娜 (Hannah) 分别后的故事。他独自一人试图在残酷的新世界活下去，好与她们重逢。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-07-03 22:19:19</dateadded>
+  <title>别境</title>
+  <actor>
+    <name>Elisabeth Moss</name>
+    <role>June Osborne / Offred / Ofjoseph</role>
+    <type>Actor</type>
+    <tmdbid>32798</tmdbid>
+  </actor>
+  <actor>
+    <name>Yvonne Strahovski</name>
+    <role>Serena Joy Waterford</role>
+    <type>Actor</type>
+    <tmdbid>63312</tmdbid>
+    <imdbid>nm2088803</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Fiennes</name>
+    <role>Commander Fred Waterford</role>
+    <type>Actor</type>
+    <tmdbid>12763</tmdbid>
+    <imdbid>nm0001212</imdbid>
+  </actor>
+  <actor>
+    <name>Ann Dowd</name>
+    <role>Aunt Lydia / Miss Clements</role>
+    <type>Actor</type>
+    <tmdbid>43366</tmdbid>
+    <imdbid>nm0235652</imdbid>
+  </actor>
+  <actor>
+    <name>Madeline Brewer</name>
+    <role>Janine Lindo / Ofwarren / Ofdaniel / Ofhoward</role>
+    <type>Actor</type>
+    <tmdbid>1443712</tmdbid>
+    <imdbid>nm5483400</imdbid>
+  </actor>
+  <actor>
+    <name>Amanda Brugel</name>
+    <role>Rita Blue</role>
+    <type>Actor</type>
+    <tmdbid>1232769</tmdbid>
+    <imdbid>nm0115760</imdbid>
+  </actor>
+  <actor>
+    <name>Max Minghella</name>
+    <role>Nick Blaine</role>
+    <type>Actor</type>
+    <tmdbid>2978</tmdbid>
+    <imdbid>nm1540404</imdbid>
+  </actor>
+  <actor>
+    <name>O.T. Fagbenle</name>
+    <role>Lucas 'Luke' Bankole</role>
+    <type>Actor</type>
+    <tmdbid>113970</tmdbid>
+  </actor>
+  <actor>
+    <name>Samira Wiley</name>
+    <role>Moira</role>
+    <type>Actor</type>
+    <tmdbid>1034197</tmdbid>
+    <imdbid>nm4148126</imdbid>
+  </actor>
+  <actor>
+    <name>Jordana Blake</name>
+    <role>Hannah</role>
+    <type>GuestStar</type>
+    <tmdbid>1881538</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosa Gilmore</name>
+    <role>Zoe</role>
+    <type>GuestStar</type>
+    <tmdbid>1712147</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Ransom</name>
+    <role>Whitford</role>
+    <type>GuestStar</type>
+    <tmdbid>1174218</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Lewis</name>
+    <role>Peter</role>
+    <type>GuestStar</type>
+    <tmdbid>1017257</tmdbid>
+    <imdbid>nm1565449</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Roberts</name>
+    <role>Christine</role>
+    <type>GuestStar</type>
+    <tmdbid>2676</tmdbid>
+  </actor>
+  <actor>
+    <name>Shane Daly</name>
+    <role>Joe Bradley</role>
+    <type>GuestStar</type>
+    <tmdbid>63546</tmdbid>
+  </actor>
+  <actor>
+    <name>Marvin Kaye</name>
+    <role>Boat Captain</role>
+    <type>GuestStar</type>
+    <tmdbid>212010</tmdbid>
+  </actor>
+  <actor>
+    <name>Erin Way</name>
+    <role>Erin</role>
+    <type>GuestStar</type>
+    <tmdbid>1012752</tmdbid>
+  </actor>
+  <actor>
+    <name>Krista Morin</name>
+    <role>Rachel Tapping</role>
+    <type>GuestStar</type>
+    <tmdbid>101252</tmdbid>
+  </actor>
+  <director>Floria Sigismondi</director>
+  <rating>7.813</rating>
+  <year>2017</year>
+  <imdbid>tt5943928</imdbid>
+  <tvdbid>6051451</tvdbid>
+  <runtime>47</runtime>
+  <genre>Drama</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt5943928</uniqueid>
+  <uniqueid type="Tvdb">6051451</uniqueid>
+  <episode>7</episode>
+  <season>1</season>
+  <aired>2017-05-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>14952092</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2834</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

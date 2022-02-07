@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一个沉迷数字的电脑天才，研究出怎样可以透过数字，推演出种种生命的奥秘和规律。他的研究引来了华尔街股票市场的炒家们和犹太神秘教派的注意，前者要他计算出股票的起跌规律，后者要他解读出隐藏在犹太教的摩西五书中的密码。阿罗诺夫斯基用了六万美元的成本,粗微粒的黑白摄影和大量的电子音乐,营造出一个介乎真实与虚拟的电脑奇幻世界。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-03-30 14:47:31</dateadded>
+  <title>死亡密码</title>
+  <originaltitle>Pi</originaltitle>
+  <actor>
+    <name>Sean Gullette</name>
+    <role>Maximillian Cohen</role>
+    <type>Actor</type>
+    <tmdbid>6432</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Margolis</name>
+    <role>Sol Robeson</role>
+    <type>Actor</type>
+    <tmdbid>1173</tmdbid>
+    <imdbid>nm0546797</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Shenkman</name>
+    <role>Lenny Meyer</role>
+    <type>Actor</type>
+    <tmdbid>6437</tmdbid>
+  </actor>
+  <actor>
+    <name>Samia Shoaib</name>
+    <role>Devi</role>
+    <type>Actor</type>
+    <tmdbid>6439</tmdbid>
+  </actor>
+  <actor>
+    <name>Pamela Hart</name>
+    <role>Marcy Dawson</role>
+    <type>Actor</type>
+    <tmdbid>177560</tmdbid>
+  </actor>
+  <actor>
+    <name>Ajay Naidu</name>
+    <role>Farroukh</role>
+    <type>Actor</type>
+    <tmdbid>1982</tmdbid>
+  </actor>
+  <actor>
+    <name>Joanne Gordon</name>
+    <role>Mrs. Ovadia</role>
+    <type>Actor</type>
+    <tmdbid>1402326</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Pearlman</name>
+    <role>Rabbi Cohen</role>
+    <type>Actor</type>
+    <tmdbid>6438</tmdbid>
+  </actor>
+  <actor>
+    <name>Kristyn Mae-Anne Lao</name>
+    <role>Jenna</role>
+    <type>Actor</type>
+    <tmdbid>6440</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren Fox</name>
+    <role>Jenny Robeson</role>
+    <type>Actor</type>
+    <tmdbid>1193064</tmdbid>
+  </actor>
+  <actor>
+    <name>Clint Mansell</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>6377</tmdbid>
+  </actor>
+  <actor>
+    <name>Espher Lao Nieves</name>
+    <role>Jenna's Mom</role>
+    <type>Actor</type>
+    <tmdbid>6441</tmdbid>
+  </actor>
+  <actor>
+    <name>Stanley B. Herman</name>
+    <role>Moustacheless Man</role>
+    <type>Actor</type>
+    <tmdbid>1163066</tmdbid>
+  </actor>
+  <actor>
+    <name>Oren Sarch</name>
+    <role>Kaballah Scholar</role>
+    <type>Actor</type>
+    <tmdbid>6434</tmdbid>
+  </actor>
+  <actor>
+    <name>Abraham Aronofsky</name>
+    <role>Man Delivering Suitcase</role>
+    <type>Actor</type>
+    <tmdbid>1081122</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Tumminello</name>
+    <role>Ephraim</role>
+    <type>Actor</type>
+    <tmdbid>2304949</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Cheyenne</name>
+    <role>Brad</role>
+    <type>Actor</type>
+    <tmdbid>2053292</tmdbid>
+  </actor>
+  <actor>
+    <name>David Tawil</name>
+    <role>Jake</role>
+    <type>Actor</type>
+    <tmdbid>2521074</tmdbid>
+  </actor>
+  <director tmdbid="6431">Darren Aronofsky</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jo18VIoR2xU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=r0SC582sJvE</trailer>
+  <rating>7.4</rating>
+  <year>1998</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0138704</imdbid>
+  <tmdbid>473</tmdbid>
+  <premiered>1998-07-10</premiered>
+  <releasedate>1998-07-10</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>84</runtime>
+  <country>United States of America</country>
+  <genre>悬疑</genre>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <studio>Harvest Filmworks</studio>
+  <studio>Truth and Soul Pictures Inc</studio>
+  <studio>Plantain Films</studio>
+  <studio>Protozoa Pictures</studio>
+  <uniqueid type="Tmdb">473</uniqueid>
+  <uniqueid type="Imdb">tt0138704</uniqueid>
+  <id>tt0138704</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11142295</bitrate>
+        <width>1792</width>
+        <height>1080</height>
+        <aspect>224:135</aspect>
+        <aspectratio>224:135</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>84</duration>
+        <durationinseconds>5054</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

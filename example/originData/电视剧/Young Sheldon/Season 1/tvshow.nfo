@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[　　CBS在新喜剧上表现无力下把歪脑筋动到《生活大爆炸 The Big Bang Theory》的Sheldon身上，早前他们宣布开发《生活大爆炸》衍生前传剧，現CBS确定预订命名为《小谢尔顿 Young Sheldon》的衍生剧，顾名思义就是以Sheldon Cooper 为主角。该剧定于17-18年度播出。 这部喜剧主角不是Sheldon成年版，而是以他9岁时为背景，剧集也会以《马尔柯姆的一家 Malcolm in the Middle》的单镜头家庭喜剧方式制作，讲述Sheldon当年在德州东部的家庭及学校生活。Chuck Lorre与Bill Prady为主创兼执行制片﹑Steve Molaro﹑Todd Spiewak与在《生活大爆炸》饰演Sheldon的Jim Parsons为制作人兼执行制片。 在过往剧情中，可得知Sheldon的家人包括哥哥George﹑异卵双胞胎姐妹Missy﹑有宗教信仰的妈妈Mary Cooper，以及酗酒的爸爸George Cooper。另外Sheldon还有外婆（Meemaw）及外公（Pop Pop），外公在Sheldon 5岁时去世。 该剧由Jon Favreau执导， Iain Armitage将饰演年轻版的Sheldon Cooper﹑ Zoe Perry饰演其母亲Mary Cooper﹑Lance Barber饰演Sheldon的父亲﹑Raegan Revord及Montana Jordan饰演Sheldon的兄妹（姐？）﹑Annie Potts饰演外婆。]]></plot>
+  <outline><![CDATA[　　CBS在新喜剧上表现无力下把歪脑筋动到《生活大爆炸 The Big Bang Theory》的Sheldon身上，早前他们宣布开发《生活大爆炸》衍生前传剧，現CBS确定预订命名为《小谢尔顿 Young Sheldon》的衍生剧，顾名思义就是以Sheldon Cooper 为主角。该剧定于17-18年度播出。 这部喜剧主角不是Sheldon成年版，而是以他9岁时为背景，剧集也会以《马尔柯姆的一家 Malcolm in the Middle》的单镜头家庭喜剧方式制作，讲述Sheldon当年在德州东部的家庭及学校生活。Chuck Lorre与Bill Prady为主创兼执行制片﹑Steve Molaro﹑Todd Spiewak与在《生活大爆炸》饰演Sheldon的Jim Parsons为制作人兼执行制片。 在过往剧情中，可得知Sheldon的家人包括哥哥George﹑异卵双胞胎姐妹Missy﹑有宗教信仰的妈妈Mary Cooper，以及酗酒的爸爸George Cooper。另外Sheldon还有外婆（Meemaw）及外公（Pop Pop），外公在Sheldon 5岁时去世。 该剧由Jon Favreau执导， Iain Armitage将饰演年轻版的Sheldon Cooper﹑ Zoe Perry饰演其母亲Mary Cooper﹑Lance Barber饰演Sheldon的父亲﹑Raegan Revord及Montana Jordan饰演Sheldon的兄妹（姐？）﹑Annie Potts饰演外婆。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-10-08 08:35:27</dateadded>
+  <title>小谢尔顿</title>
+  <originaltitle>Young Sheldon</originaltitle>
+  <trailer>http://www.youtube.com/watch?v=iGKnI3Lc7C4</trailer>
+  <rating>7.5</rating>
+  <year>2017</year>
+  <mpaa>TV-PG</mpaa>
+  <imdb_id>tt6226232</imdb_id>
+  <tmdbid>71728</tmdbid>
+  <premiered>2017-09-25</premiered>
+  <releasedate>2017-09-25</releasedate>
+  <runtime>22</runtime>
+  <genre>喜剧</genre>
+  <studio>CBS</studio>
+  <zap2itid>EP02642239</zap2itid>
+  <tvdbid>328724</tvdbid>
+  <actor>
+    <name>Iain Armitage</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Zoe Perry</name>
+    <role>Mary Cooper</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Lance Barber</name>
+    <role>George Cooper Sr.</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Montana Jordan</name>
+    <role>Georgie Cooper</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Raegan Revord</name>
+    <role>Missy Cooper</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Annie Potts</name>
+    <role>Connie Tucker</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper (voice)</role>
+    <type>Actor</type>
+  </actor>
+  <id>328724</id>
+  <episodeguide>
+    <url cache="328724.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/328724/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

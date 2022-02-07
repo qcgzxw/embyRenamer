@@ -1,0 +1,450 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[艾尔西（Elsie）和斯塔布斯（Stubbs）正在寻找遗失的接待员；泰迪（Teddy）被安排了新的背景故事； 伯纳德（Bernard）正在调查接待员暴动和幻觉的起源...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-05-02 09:49:11</dateadded>
+  <title>失衡理论</title>
+  <actor>
+    <name>Evan Rachel Wood</name>
+    <role>Dolores Abernathy</role>
+    <type>Actor</type>
+    <tmdbid>38940</tmdbid>
+    <imdbid>nm0939697</imdbid>
+  </actor>
+  <actor>
+    <name>Thandie Newton</name>
+    <role>Maeve Millay</role>
+    <type>Actor</type>
+    <tmdbid>9030</tmdbid>
+    <imdbid>nm0628601</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Wright</name>
+    <role>Bernard Lowe</role>
+    <type>Actor</type>
+    <tmdbid>2954</tmdbid>
+    <imdbid>nm0942482</imdbid>
+  </actor>
+  <actor>
+    <name>James Marsden</name>
+    <role>Theodore "Teddy" Flood</role>
+    <type>Actor</type>
+    <tmdbid>11006</tmdbid>
+  </actor>
+  <actor>
+    <name>Tessa Thompson</name>
+    <role>Charlotte Hale</role>
+    <type>Actor</type>
+    <tmdbid>62561</tmdbid>
+    <imdbid>nm1935086</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Harris</name>
+    <role>Man in Black</role>
+    <type>Actor</type>
+    <tmdbid>228</tmdbid>
+    <imdbid>nm0000438</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Hopkins</name>
+    <role>Dr. Robert Ford</role>
+    <type>Actor</type>
+    <tmdbid>4173</tmdbid>
+    <imdbid>nm0000164</imdbid>
+  </actor>
+  <actor>
+    <name>Ingrid Bolsø Berdal</name>
+    <role>Armistice</role>
+    <type>Actor</type>
+    <tmdbid>87879</tmdbid>
+  </actor>
+  <actor>
+    <name>Angela Sarafyan</name>
+    <role>Clementine Pennyfeather</role>
+    <type>Actor</type>
+    <tmdbid>85143</tmdbid>
+  </actor>
+  <actor>
+    <name>Shannon Woodward</name>
+    <role>Elsie Hughes</role>
+    <type>Actor</type>
+    <tmdbid>82663</tmdbid>
+  </actor>
+  <actor>
+    <name>Sidse Babett Knudsen</name>
+    <role>Theresa Cullen</role>
+    <type>Actor</type>
+    <tmdbid>32683</tmdbid>
+    <imdbid>nm0461746</imdbid>
+  </actor>
+  <actor>
+    <name>Jimmi Simpson</name>
+    <role>William</role>
+    <type>Actor</type>
+    <tmdbid>22125</tmdbid>
+    <imdbid>nm0801051</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Barnes</name>
+    <role>Logan</role>
+    <type>Actor</type>
+    <tmdbid>25130</tmdbid>
+    <imdbid>nm1602660</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Quarterman</name>
+    <role>Lee Sizemore</role>
+    <type>Actor</type>
+    <tmdbid>141463</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Hemsworth</name>
+    <role>Ashley Stubbs</role>
+    <type>Actor</type>
+    <tmdbid>216986</tmdbid>
+  </actor>
+  <actor>
+    <name>Rodrigo Santoro</name>
+    <role>Hector Escaton</role>
+    <type>Actor</type>
+    <tmdbid>17289</tmdbid>
+    <imdbid>nm0763928</imdbid>
+  </actor>
+  <actor>
+    <name>Clifton Collins Jr.</name>
+    <role>Lawrence / El Lazo</role>
+    <type>Actor</type>
+    <tmdbid>5365</tmdbid>
+    <imdbid>nm0004286</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Browning</name>
+    <role>Holden</role>
+    <type>GuestStar</type>
+    <tmdbid>76543</tmdbid>
+    <imdbid>nm0115152</imdbid>
+  </actor>
+  <actor>
+    <name>Sherman Augustus</name>
+    <role>Marshal Pruitt</role>
+    <type>GuestStar</type>
+    <tmdbid>92309</tmdbid>
+    <imdbid>nm0041978</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Clark</name>
+    <role>Sheriff Reed</role>
+    <type>GuestStar</type>
+    <tmdbid>143205</tmdbid>
+  </actor>
+  <actor>
+    <name>Judson Mills</name>
+    <role>Deputy Roe</role>
+    <type>GuestStar</type>
+    <tmdbid>22113</tmdbid>
+  </actor>
+  <actor>
+    <name>Hugo Pierre Martin</name>
+    <role>Deputy</role>
+    <type>GuestStar</type>
+    <tmdbid>1777841</tmdbid>
+  </actor>
+  <actor>
+    <name>Mason McCulley</name>
+    <role>Todd</role>
+    <type>GuestStar</type>
+    <tmdbid>1621824</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie John Hopkins</name>
+    <role>Drunken Mariposa Guest</role>
+    <type>GuestStar</type>
+    <tmdbid>2024814</tmdbid>
+  </actor>
+  <actor>
+    <name>George Jonson</name>
+    <role>Soldier</role>
+    <type>GuestStar</type>
+    <tmdbid>78660</tmdbid>
+  </actor>
+  <actor>
+    <name>Jose Rosario</name>
+    <role>Manu</role>
+    <type>GuestStar</type>
+    <tmdbid>1464818</tmdbid>
+  </actor>
+  <actor>
+    <name>Mayank Saxena</name>
+    <role>QA Tech Futterman</role>
+    <type>GuestStar</type>
+    <tmdbid>1455768</tmdbid>
+  </actor>
+  <actor>
+    <name>Folake Olowofoyeku</name>
+    <role>Surveillance Tech</role>
+    <type>GuestStar</type>
+    <tmdbid>1454313</tmdbid>
+    <imdbid>nm1919154</imdbid>
+  </actor>
+  <actor>
+    <name>Liam Cronin</name>
+    <role>Body Tech</role>
+    <type>GuestStar</type>
+    <tmdbid>2024815</tmdbid>
+  </actor>
+  <actor>
+    <name>Zeke Nicholson</name>
+    <role>Body Tech</role>
+    <type>GuestStar</type>
+    <tmdbid>1598900</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Urbom</name>
+    <role>Cleanup Tech</role>
+    <type>GuestStar</type>
+    <tmdbid>2024816</tmdbid>
+  </actor>
+  <actor>
+    <name>James Landry Hébert</name>
+    <role>Slim Miller</role>
+    <type>GuestStar</type>
+    <tmdbid>1170659</tmdbid>
+    <imdbid>nm2566469</imdbid>
+  </actor>
+  <actor>
+    <name>Demetrius Grosse</name>
+    <role>Deputy Foss</role>
+    <type>GuestStar</type>
+    <tmdbid>202892</tmdbid>
+    <imdbid>nm2009006</imdbid>
+  </actor>
+  <actor>
+    <name>Bradley Fisher</name>
+    <role>Mariposa Bartender</role>
+    <type>GuestStar</type>
+    <tmdbid>2024806</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Rene Gleason</name>
+    <role>Surveillance Tech</role>
+    <type>GuestStar</type>
+    <tmdbid>1854973</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Daniel Phillips</name>
+    <role>Tenderloin</role>
+    <type>GuestStar</type>
+    <tmdbid>59673</tmdbid>
+  </actor>
+  <actor>
+    <name>Izabella Alvarez</name>
+    <role>Lawrence's Daughter</role>
+    <type>GuestStar</type>
+    <tmdbid>1600725</tmdbid>
+  </actor>
+  <director>Vincenzo Natali</director>
+  <rating>8.114</rating>
+  <year>2016</year>
+  <imdbid>tt4625862</imdbid>
+  <tvdbid>5748837</tvdbid>
+  <runtime>59</runtime>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt4625862</uniqueid>
+  <uniqueid type="Tvdb">5748837</uniqueid>
+  <episode>4</episode>
+  <season>1</season>
+  <aired>2016-10-23</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>22333997</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>58</duration>
+        <durationinseconds>3513</durationinseconds>
+      </video>
+      <audio>
+        <codec>truehd</codec>
+        <micodec>truehd</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>Atmos-FGT</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

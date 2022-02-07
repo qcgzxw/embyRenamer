@@ -1,0 +1,262 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[犹太青年圭多（罗伯托·贝尼尼）邂逅美丽的女教师多拉（尼可莱塔·布拉斯基），他彬彬有礼的向多拉鞠躬：“早安！公主！”。历经诸多令人啼笑皆非的周折后，天遂人愿，两人幸福美满的生活在一起。然而好景不长，法西斯政权下，圭多和儿子被强行送往犹太人集中营。多拉虽没有犹太血统，毅然同行，与丈夫儿子分开关押在一个集中营里。聪明乐天的圭多哄骗儿子这只是一场游戏，奖品就是一辆大坦克，儿子快乐、天真的生活在纳粹的阴霾之中。尽管集中营的生活艰苦寂寞，圭多仍然带给他人很多快乐，他还趁机在纳粹的广播里问候妻子：“早安！公主！”法西斯政权即将倾覆，纳粹的集中营很快就要接受最后的清理，圭多编给儿子的游戏该怎么结束？他们一家能否平安的度过这黑暗的年代呢？]]></plot>
+  <outline><![CDATA[最美丽的谎言]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-01-18 11:05:25</dateadded>
+  <title>美丽人生</title>
+  <originaltitle>La vita è bella</originaltitle>
+  <actor>
+    <name>Roberto Benigni</name>
+    <role>Guido Orefice</role>
+    <type>Actor</type>
+    <tmdbid>4818</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicoletta Braschi</name>
+    <role>Dora</role>
+    <type>Actor</type>
+    <tmdbid>9235</tmdbid>
+    <imdbid>nm0000971</imdbid>
+  </actor>
+  <actor>
+    <name>Giorgio Cantarini</name>
+    <role>Giosué Orefice</role>
+    <type>Actor</type>
+    <tmdbid>9236</tmdbid>
+  </actor>
+  <actor>
+    <name>Giustino Durano</name>
+    <role>Eliseo Orefice</role>
+    <type>Actor</type>
+    <tmdbid>9237</tmdbid>
+  </actor>
+  <actor>
+    <name>Amerigo Fontani</name>
+    <role>Rodolfo</role>
+    <type>Actor</type>
+    <tmdbid>9238</tmdbid>
+  </actor>
+  <actor>
+    <name>Sergio Bini Bustric</name>
+    <role>Ferruccio</role>
+    <type>Actor</type>
+    <tmdbid>9239</tmdbid>
+  </actor>
+  <actor>
+    <name>Lidia Alfonsi</name>
+    <role>Signora Guicciardini</role>
+    <type>Actor</type>
+    <tmdbid>9240</tmdbid>
+  </actor>
+  <actor>
+    <name>Horst Buchholz</name>
+    <role>Dottore Lessing</role>
+    <type>Actor</type>
+    <tmdbid>5789</tmdbid>
+  </actor>
+  <actor>
+    <name>Pietro De Silva</name>
+    <role>Bartolomeo</role>
+    <type>Actor</type>
+    <tmdbid>9241</tmdbid>
+  </actor>
+  <actor>
+    <name>Marisa Paredes</name>
+    <role>Madre di Dora</role>
+    <type>Actor</type>
+    <tmdbid>954</tmdbid>
+  </actor>
+  <actor>
+    <name>Giuliana Lojodice</name>
+    <role>Direttrice</role>
+    <type>Actor</type>
+    <tmdbid>9242</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesco Guzzo</name>
+    <role>Vittorino</role>
+    <type>Actor</type>
+    <tmdbid>9243</tmdbid>
+  </actor>
+  <actor>
+    <name>Adelaide Alaïs</name>
+    <role>German Auxilliary</role>
+    <type>Actor</type>
+    <tmdbid>1581614</tmdbid>
+  </actor>
+  <actor>
+    <name>Verena Buratti</name>
+    <role>German Auxilliary</role>
+    <type>Actor</type>
+    <tmdbid>6289</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannes Hellmann</name>
+    <role>German Corporal</role>
+    <type>Actor</type>
+    <tmdbid>45662</tmdbid>
+  </actor>
+  <actor>
+    <name>Wolfgang Hillinger</name>
+    <role>German Major at Party</role>
+    <type>Actor</type>
+    <tmdbid>991277</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Prester</name>
+    <role>Bruno</role>
+    <type>Actor</type>
+    <tmdbid>51637</tmdbid>
+    <imdbid>nm0696341</imdbid>
+  </actor>
+  <actor>
+    <name>Gina Rovere</name>
+    <role>Dora's Maid</role>
+    <type>Actor</type>
+    <tmdbid>33928</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Susanne Ruedeberg</name>
+    <role>German Auxilliary</role>
+    <type>Actor</type>
+    <tmdbid>1084894</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Sammel</name>
+    <role>German Lieutenant at Station</role>
+    <type>Actor</type>
+    <tmdbid>49487</tmdbid>
+    <imdbid>nm0759898</imdbid>
+  </actor>
+  <actor>
+    <name>Andrea Tidona</name>
+    <role>Grand Hotel Doorman</role>
+    <type>Actor</type>
+    <tmdbid>147159</tmdbid>
+  </actor>
+  <actor>
+    <name>Dirk K. van den Berg</name>
+    <role>German Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1369056</tmdbid>
+  </actor>
+  <actor>
+    <name>Omero Antonutti</name>
+    <role>Narrator (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>27208</tmdbid>
+  </actor>
+  <director tmdbid="4818">Roberto Benigni</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pAYEQP8gx3w</trailer>
+  <rating>8.6</rating>
+  <year>1997</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt0118799</imdbid>
+  <tmdbid>637</tmdbid>
+  <premiered>1997-12-20</premiered>
+  <releasedate>1997-12-20</releasedate>
+  <criticrating>80</criticrating>
+  <runtime>116</runtime>
+  <tagline>最美丽的谎言</tagline>
+  <country>Italy</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <studio>Melampo Cinematografica</studio>
+  <studio>Miramax</studio>
+  <studio>StudioCanal</studio>
+  <uniqueid type="Tmdb">637</uniqueid>
+  <uniqueid type="Imdb">tt0118799</uniqueid>
+  <id>tt0118799</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5490111</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>6971</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

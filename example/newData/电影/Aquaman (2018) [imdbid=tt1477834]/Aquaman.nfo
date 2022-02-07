@@ -1,0 +1,968 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[许多年前，亚特兰蒂斯女王和人类相知相恋，共同孕育了爱情的结晶——后来被陆地人称为海王的亚瑟·库瑞。在成长的过程中，亚瑟接受海底导师维科的严苛训练，时刻渴望去看望母亲，然而作为混血的私生子这却是奢望。与此同时，亚瑟的同母异父兄弟奥姆成为亚特兰蒂斯的国王，他不满陆地人类对大海的荼毒与污染，遂谋划联合其他海底王国发动对陆地的全面战争。为了阻止他的野心，维科和奥姆的未婚妻湄拉将亚瑟带到海底世界。宿命推动着亚瑟，去寻找失落已久的三叉戟，建立一个更加开明的海底王国。]]></plot>
+  <outline><![CDATA[擎天驾海 王者降临]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2019-06-04 13:29:40</dateadded>
+  <title>海王</title>
+  <originaltitle>Aquaman</originaltitle>
+  <actor>
+    <name>Jason Momoa</name>
+    <role>Arthur Curry / Aquaman</role>
+    <type>Actor</type>
+    <tmdbid>117642</tmdbid>
+    <imdbid>nm0597388</imdbid>
+  </actor>
+  <actor>
+    <name>Amber Heard</name>
+    <role>Mera</role>
+    <type>Actor</type>
+    <tmdbid>55085</tmdbid>
+    <imdbid>nm1720028</imdbid>
+  </actor>
+  <actor>
+    <name>Willem Dafoe</name>
+    <role>Nuidis Vulko</role>
+    <type>Actor</type>
+    <tmdbid>5293</tmdbid>
+    <imdbid>nm0000353</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Wilson</name>
+    <role>King Orm Marius / Ocean Master</role>
+    <type>Actor</type>
+    <tmdbid>17178</tmdbid>
+    <imdbid>nm0933940</imdbid>
+  </actor>
+  <actor>
+    <name>Nicole Kidman</name>
+    <role>Atlanna</role>
+    <type>Actor</type>
+    <tmdbid>2227</tmdbid>
+    <imdbid>nm0000173</imdbid>
+  </actor>
+  <actor>
+    <name>Dolph Lundgren</name>
+    <role>King Nereus</role>
+    <type>Actor</type>
+    <tmdbid>16644</tmdbid>
+    <imdbid>nm0000185</imdbid>
+  </actor>
+  <actor>
+    <name>Yahya Abdul-Mateen II</name>
+    <role>David Kane / Black Manta</role>
+    <type>Actor</type>
+    <tmdbid>1639847</tmdbid>
+    <imdbid>nm5584344</imdbid>
+  </actor>
+  <actor>
+    <name>Temuera Morrison</name>
+    <role>Thomas Curry</role>
+    <type>Actor</type>
+    <tmdbid>7242</tmdbid>
+    <imdbid>nm0607325</imdbid>
+  </actor>
+  <actor>
+    <name>Ludi Lin</name>
+    <role>Captain Murk</role>
+    <type>Actor</type>
+    <tmdbid>1525689</tmdbid>
+    <imdbid>nm5250080</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Beach</name>
+    <role>Jesse Kane (Manta's Father)</role>
+    <type>Actor</type>
+    <tmdbid>87118</tmdbid>
+    <imdbid>nm0004729</imdbid>
+  </actor>
+  <actor>
+    <name>Randall Park</name>
+    <role>Dr. Stephen Shin</role>
+    <type>Actor</type>
+    <tmdbid>79082</tmdbid>
+    <imdbid>nm1320827</imdbid>
+  </actor>
+  <actor>
+    <name>Graham McTavish</name>
+    <role>King Atlan</role>
+    <type>Actor</type>
+    <tmdbid>95047</tmdbid>
+    <imdbid>nm0574615</imdbid>
+  </actor>
+  <actor>
+    <name>Leigh Whannell</name>
+    <role>Cargo Pilot</role>
+    <type>Actor</type>
+    <tmdbid>2128</tmdbid>
+    <imdbid>nm1191481</imdbid>
+  </actor>
+  <actor>
+    <name>Tainui Kirkwood</name>
+    <role>Young Arthur (3 Years Old)</role>
+    <type>Actor</type>
+    <tmdbid>2203482</tmdbid>
+    <imdbid>nm9935168</imdbid>
+  </actor>
+  <actor>
+    <name>Tamor Kirkwood</name>
+    <role>Young Arthur (3 Years Old)</role>
+    <type>Actor</type>
+    <tmdbid>2203483</tmdbid>
+  </actor>
+  <actor>
+    <name>Denzel Quirke</name>
+    <role>Young Arthur (3 Years Old)</role>
+    <type>Actor</type>
+    <tmdbid>2267115</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaan Guldur</name>
+    <role>Young Arthur (9 Years Old)</role>
+    <type>Actor</type>
+    <tmdbid>1877487</tmdbid>
+  </actor>
+  <actor>
+    <name>Otis Dhanji</name>
+    <role>Young Arthur (13 Years Old)</role>
+    <type>Actor</type>
+    <tmdbid>1822223</tmdbid>
+  </actor>
+  <actor>
+    <name>Kekoa Kekumano</name>
+    <role>Young Arthur (16 Years Old)</role>
+    <type>Actor</type>
+    <tmdbid>1898181</tmdbid>
+    <imdbid>nm7059354</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Andrews</name>
+    <role>Karathen (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5823</tmdbid>
+    <imdbid>nm0000267</imdbid>
+  </actor>
+  <actor>
+    <name>John Rhys-Davies</name>
+    <role>Brine King (voice)</role>
+    <type>Actor</type>
+    <tmdbid>655</tmdbid>
+    <imdbid>nm0722636</imdbid>
+  </actor>
+  <actor>
+    <name>Djimon Hounsou</name>
+    <role>King Ricou (voice)</role>
+    <type>Actor</type>
+    <tmdbid>938</tmdbid>
+    <imdbid>nm0005023</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Crawford</name>
+    <role>Brine King / King Ricou (mocap)</role>
+    <type>Actor</type>
+    <tmdbid>1792879</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophia Forrest</name>
+    <role>Fisherman Princess</role>
+    <type>Actor</type>
+    <tmdbid>2035021</tmdbid>
+    <imdbid>nm7279501</imdbid>
+  </actor>
+  <actor>
+    <name>Natalia Safran</name>
+    <role>Queen Rina</role>
+    <type>Actor</type>
+    <tmdbid>20755</tmdbid>
+    <imdbid>nm0418853</imdbid>
+  </actor>
+  <actor>
+    <name>Micah Ohlman</name>
+    <role>Newscaster</role>
+    <type>Actor</type>
+    <tmdbid>2267135</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Andrew</name>
+    <role>Mike (Bully)</role>
+    <type>Actor</type>
+    <tmdbid>2267136</tmdbid>
+  </actor>
+  <actor>
+    <name>Frankie Creagh-Leslie</name>
+    <role>Matt (Bully)</role>
+    <type>Actor</type>
+    <tmdbid>2155937</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophia Emberson-Bain</name>
+    <role>Tour Guide (Aquarium)</role>
+    <type>Actor</type>
+    <tmdbid>1634440</tmdbid>
+    <imdbid>nm3699411</imdbid>
+  </actor>
+  <actor>
+    <name>Ilya Melnikoff</name>
+    <role>Submarine Captain</role>
+    <type>Actor</type>
+    <tmdbid>1646982</tmdbid>
+  </actor>
+  <actor>
+    <name>Hank Amos</name>
+    <role>Submarine Pirate</role>
+    <type>Actor</type>
+    <tmdbid>9437</tmdbid>
+    <imdbid>nm0025305</imdbid>
+  </actor>
+  <actor>
+    <name>Kyryl Koltsov</name>
+    <role>Submarine Crew Member</role>
+    <type>Actor</type>
+    <tmdbid>2267137</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Cox</name>
+    <role>Cue Ball</role>
+    <type>Actor</type>
+    <tmdbid>1301187</tmdbid>
+    <imdbid>nm2614826</imdbid>
+  </actor>
+  <actor>
+    <name>Luke Owen</name>
+    <role>Biker</role>
+    <type>Actor</type>
+    <tmdbid>1721878</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Longstreet</name>
+    <role>Professor James</role>
+    <type>Actor</type>
+    <tmdbid>79416</tmdbid>
+    <imdbid>nm0519486</imdbid>
+  </actor>
+  <actor>
+    <name>Devika Parikh</name>
+    <role>Newscaster Morgan</role>
+    <type>Actor</type>
+    <tmdbid>582209</tmdbid>
+    <imdbid>nm0661490</imdbid>
+  </actor>
+  <actor>
+    <name>Sonny Le</name>
+    <role>Metalsmith</role>
+    <type>Actor</type>
+    <tmdbid>2267140</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon Fabian</name>
+    <role>Italian Vendor</role>
+    <type>Actor</type>
+    <tmdbid>2267141</tmdbid>
+  </actor>
+  <actor>
+    <name>Mabel Tamone</name>
+    <role>Italian Young Girl</role>
+    <type>Actor</type>
+    <tmdbid>2267142</tmdbid>
+  </actor>
+  <actor>
+    <name>Rita Dinardo</name>
+    <role>Italian Old Woman</role>
+    <type>Actor</type>
+    <tmdbid>2267143</tmdbid>
+    <imdbid>nm10308553</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Standish</name>
+    <role>Barfly</role>
+    <type>Actor</type>
+    <tmdbid>1255051</tmdbid>
+    <imdbid>nm2977434</imdbid>
+  </actor>
+  <actor>
+    <name>Nicolette Bianca</name>
+    <role>Italian Mother</role>
+    <type>Actor</type>
+    <tmdbid>2267144</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor Leto</name>
+    <role>Flower Stall Vendor</role>
+    <type>Actor</type>
+    <tmdbid>2267145</tmdbid>
+  </actor>
+  <actor>
+    <name>Vincent B. Gorce</name>
+    <role>Italian Bell Father</role>
+    <type>Actor</type>
+    <tmdbid>1202032</tmdbid>
+    <imdbid>nm2521588</imdbid>
+  </actor>
+  <actor>
+    <name>Gabriella Petkova</name>
+    <role>Italian Bell Girl</role>
+    <type>Actor</type>
+    <tmdbid>1994255</tmdbid>
+  </actor>
+  <actor>
+    <name>Oriana Lacono</name>
+    <role>Italian Bell Mother</role>
+    <type>Actor</type>
+    <tmdbid>2267149</tmdbid>
+    <imdbid>nm10308554</imdbid>
+  </actor>
+  <actor>
+    <name>Pearl Grantham</name>
+    <role>Ancient Atlantean Woman</role>
+    <type>Actor</type>
+    <tmdbid>2267150</tmdbid>
+    <imdbid>nm10191392</imdbid>
+  </actor>
+  <actor>
+    <name>Noa Tsuchiya</name>
+    <role>Ancient Atlantean Child</role>
+    <type>Actor</type>
+    <tmdbid>2267151</tmdbid>
+  </actor>
+  <actor>
+    <name>Alice Lanesbury</name>
+    <role>Arthur's Teacher</role>
+    <type>Actor</type>
+    <tmdbid>2267153</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicolas Bosc</name>
+    <role>Atlantean Soldier #1</role>
+    <type>Actor</type>
+    <tmdbid>1485538</tmdbid>
+    <imdbid>nm3863233</imdbid>
+  </actor>
+  <actor>
+    <name>Joshua Levinson</name>
+    <role>Atlantean Soldier #2</role>
+    <type>Actor</type>
+    <tmdbid>2267157</tmdbid>
+  </actor>
+  <actor>
+    <name>Garreth Hadfield</name>
+    <role>White Guard / Red Commando (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1840496</tmdbid>
+  </actor>
+  <director tmdbid="2127" imdbid="nm1490123">James Wan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WDkg3h8PCVU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2wcj6SrX4zw</trailer>
+  <rating>6.9</rating>
+  <year>2018</year>
+  <mpaa>HK-IIA</mpaa>
+  <imdbid>tt1477834</imdbid>
+  <tmdbid>297802</tmdbid>
+  <premiered>2018-07-06</premiered>
+  <releasedate>2018-07-06</releasedate>
+  <criticrating>65</criticrating>
+  <runtime>143</runtime>
+  <tagline>擎天驾海 王者降临</tagline>
+  <country>Australia</country>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>冒险</genre>
+  <genre>奇幻</genre>
+  <studio>DC Comics</studio>
+  <studio>DC Entertainment</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>The Safran Company</studio>
+  <studio>Rodeo FX</studio>
+  <studio>Panoramic Pictures</studio>
+  <studio>DC Films</studio>
+  <studio>Cruel &amp; Unusual Films</studio>
+  <set tmdbcolid="573693">
+    <name>海王（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">297802</uniqueid>
+  <uniqueid type="Imdb">tt1477834</uniqueid>
+  <id>tt1477834</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>77413914</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>143</duration>
+        <durationinseconds>8599</durationinseconds>
+      </video>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>77413914</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>143</duration>
+        <durationinseconds>8599</durationinseconds>
+      </video>
+      <audio>
+        <codec>truehd</codec>
+        <micodec>truehd</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>truehd</codec>
+        <micodec>truehd</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>tam</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>tel</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>bul</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>slv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>tam</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>tel</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

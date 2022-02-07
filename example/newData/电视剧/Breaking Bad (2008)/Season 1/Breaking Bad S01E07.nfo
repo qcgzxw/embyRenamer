@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[为了即将到来的迎新生儿宴会，Skyler 将 Marie 送给宝宝的头冠拿去首饰店想换成现金，意外发现该首饰是偷来的，也发现了 Marie 有惯性偷窃的毛病。Tuco 需要 Walter 和 Jesse 在短期内制出大量的毒品，两人潜入了一家仓库偷取了大量制毒所需的甲胺，终于如期交货。在交货的过程中，Tuco 手下一句无意识的评论却意外激怒了他，Tuco 将这名手下打死。Walter 和 Jesse才意识到，自己正在卷入一场恐怖的交易中。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 16:36:26</dateadded>
+  <title>非暴力交易</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Beth Bailey</name>
+    <role>Realtor</role>
+    <type>GuestStar</type>
+    <tmdbid>967071</tmdbid>
+    <imdbid>nm1544010</imdbid>
+  </actor>
+  <actor>
+    <name>Geoffrey Rivas</name>
+    <role>Police Officer</role>
+    <type>GuestStar</type>
+    <tmdbid>58651</tmdbid>
+    <imdbid>nm0729060</imdbid>
+  </actor>
+  <actor>
+    <name>Cesar Garcia</name>
+    <role>Gonzo</role>
+    <type>GuestStar</type>
+    <tmdbid>53255</tmdbid>
+    <imdbid>nm1075323</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Miller</name>
+    <role>Jewelry Store Owner</role>
+    <type>GuestStar</type>
+    <tmdbid>210154</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesus Jr.</name>
+    <role>No-Doze</role>
+    <type>GuestStar</type>
+    <tmdbid>1260529</tmdbid>
+  </actor>
+  <actor>
+    <name>David House</name>
+    <role>Dr. Delcavoli</role>
+    <type>GuestStar</type>
+    <tmdbid>79211</tmdbid>
+    <imdbid>nm1450145</imdbid>
+  </actor>
+  <actor>
+    <name>Carmen Serano</name>
+    <role>Carmen Molina</role>
+    <type>GuestStar</type>
+    <tmdbid>115688</tmdbid>
+    <imdbid>nm0784831</imdbid>
+  </actor>
+  <actor>
+    <name>Raymond Cruz</name>
+    <role>Tuco Salamanca</role>
+    <type>GuestStar</type>
+    <tmdbid>58650</tmdbid>
+    <imdbid>nm0190441</imdbid>
+  </actor>
+  <director>Tim Hunter</director>
+  <rating>8.317</rating>
+  <year>2008</year>
+  <imdbid>tt1054729</imdbid>
+  <tvdbid>352534</tvdbid>
+  <runtime>48</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <tvrageid>640422</tvrageid>
+  <uniqueid type="Imdb">tt1054729</uniqueid>
+  <uniqueid type="Tvdb">352534</uniqueid>
+  <uniqueid type="TvRage">640422</uniqueid>
+  <episode>7</episode>
+  <season>1</season>
+  <aired>2008-03-09</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9843900</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2862</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

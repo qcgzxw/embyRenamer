@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[故事讲述玻璃先生（塞缪尔·杰克逊 饰）发现大卫·杜恩（布鲁斯·威利斯 饰）正在追捕凯文·温德尔·克鲁伯（詹姆斯·麦卡沃伊 饰）的人格分裂化身之一“野兽”，而他手中则掌握对二者来说至关重要的秘密......]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-04-11 14:59:22</dateadded>
+  <title>玻璃先生</title>
+  <originaltitle>Glass</originaltitle>
+  <actor>
+    <name>James McAvoy</name>
+    <role>Patricia / Dennis / Hedwig / The Beast / Barry / Heinrich / Jade / Ian / Mary Reynolds / Norma / Jalin / Kat / B.T. / Kevin Wendell Crumb / Mr. Pritchard / Felida / Luke / Goddard / Samuel / Polly</role>
+    <type>Actor</type>
+    <tmdbid>5530</tmdbid>
+    <imdbid>nm0564215</imdbid>
+  </actor>
+  <actor>
+    <name>Bruce Willis</name>
+    <role>David Dunn / The Overseer</role>
+    <type>Actor</type>
+    <tmdbid>62</tmdbid>
+    <imdbid>nm0000246</imdbid>
+  </actor>
+  <actor>
+    <name>Anya Taylor-Joy</name>
+    <role>Casey Cooke</role>
+    <type>Actor</type>
+    <tmdbid>1397778</tmdbid>
+    <imdbid>nm5896355</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Paulson</name>
+    <role>Dr. Ellie Staple</role>
+    <type>Actor</type>
+    <tmdbid>34490</tmdbid>
+    <imdbid>nm0005299</imdbid>
+  </actor>
+  <actor>
+    <name>Samuel L. Jackson</name>
+    <role>Elijah Price / Mr. Glass</role>
+    <type>Actor</type>
+    <tmdbid>2231</tmdbid>
+    <imdbid>nm0000168</imdbid>
+  </actor>
+  <actor>
+    <name>Spencer Treat Clark</name>
+    <role>Joseph Dunn</role>
+    <type>Actor</type>
+    <tmdbid>4012</tmdbid>
+    <imdbid>nm0004829</imdbid>
+  </actor>
+  <actor>
+    <name>Charlayne Woodard</name>
+    <role>Mrs. Price</role>
+    <type>Actor</type>
+    <tmdbid>33689</tmdbid>
+    <imdbid>nm0940128</imdbid>
+  </actor>
+  <actor>
+    <name>Luke Kirby</name>
+    <role>Pierce</role>
+    <type>Actor</type>
+    <tmdbid>7002</tmdbid>
+    <imdbid>nm0456186</imdbid>
+  </actor>
+  <actor>
+    <name>Adam David Thompson</name>
+    <role>Daryl</role>
+    <type>Actor</type>
+    <tmdbid>1216908</tmdbid>
+    <imdbid>nm4311436</imdbid>
+  </actor>
+  <actor>
+    <name>William Turner</name>
+    <role>Young Elijah</role>
+    <type>Actor</type>
+    <tmdbid>1787025</tmdbid>
+  </actor>
+  <actor>
+    <name>Johnny Hiram Jamison</name>
+    <role>13-Year-Old Elijah</role>
+    <type>Actor</type>
+    <tmdbid>1882245</tmdbid>
+    <imdbid>nm0417189</imdbid>
+  </actor>
+  <actor>
+    <name>Owen Vitullo</name>
+    <role>8-Year-Old Kevin</role>
+    <type>Actor</type>
+    <tmdbid>2279904</tmdbid>
+    <imdbid>nm9564200</imdbid>
+  </actor>
+  <actor>
+    <name>Colin Becker</name>
+    <role>10-Year-Old David</role>
+    <type>Actor</type>
+    <tmdbid>2279906</tmdbid>
+  </actor>
+  <actor>
+    <name>M. Night Shyamalan</name>
+    <role>Jai</role>
+    <type>Actor</type>
+    <tmdbid>11614</tmdbid>
+    <imdbid>nm0796117</imdbid>
+  </actor>
+  <actor>
+    <name>Shannon Destiny Ryan</name>
+    <role>Cheerleading Girl #1</role>
+    <type>Actor</type>
+    <tmdbid>2218722</tmdbid>
+    <imdbid>nm6858629</imdbid>
+  </actor>
+  <actor>
+    <name>Diana Silvers</name>
+    <role>Cheerleading Girl #2</role>
+    <type>Actor</type>
+    <tmdbid>2048372</tmdbid>
+    <imdbid>nm9537602</imdbid>
+  </actor>
+  <actor>
+    <name>Nina Wisner</name>
+    <role>Cheerleading Girl #3</role>
+    <type>Actor</type>
+    <tmdbid>2089211</tmdbid>
+    <imdbid>nm6451042</imdbid>
+  </actor>
+  <actor>
+    <name>Kyli Zion</name>
+    <role>Cheerleading Girl #4</role>
+    <type>Actor</type>
+    <tmdbid>2089210</tmdbid>
+    <imdbid>nm7558863</imdbid>
+  </actor>
+  <actor>
+    <name>Rosemary Howard</name>
+    <role>Penelope Crumb</role>
+    <type>Actor</type>
+    <tmdbid>130843</tmdbid>
+    <imdbid>nm2674188</imdbid>
+  </actor>
+  <actor>
+    <name>Bryan McElroy</name>
+    <role>Clarence Crumb</role>
+    <type>Actor</type>
+    <tmdbid>2279903</tmdbid>
+    <imdbid>nm10431209</imdbid>
+  </actor>
+  <actor>
+    <name>Serge Didenko</name>
+    <role>Ronald, Powerful Young Man</role>
+    <type>Actor</type>
+    <tmdbid>1996069</tmdbid>
+    <imdbid>nm4617530</imdbid>
+  </actor>
+  <actor>
+    <name>Russell Posner</name>
+    <role>T, Skinny Camera Kid</role>
+    <type>Actor</type>
+    <tmdbid>1599705</tmdbid>
+    <imdbid>nm5210480</imdbid>
+  </actor>
+  <actor>
+    <name>Kimberly S. Fairbanks</name>
+    <role>Assistant Principal</role>
+    <type>Actor</type>
+    <tmdbid>1530423</tmdbid>
+    <imdbid>nm2718408</imdbid>
+  </actor>
+  <actor>
+    <name>Leslie Stefanson</name>
+    <role>Woman on Train</role>
+    <type>Actor</type>
+    <tmdbid>21474</tmdbid>
+    <imdbid>nm0005462</imdbid>
+  </actor>
+  <actor>
+    <name>Marc H. Glick</name>
+    <role>Train Engineer</role>
+    <type>Actor</type>
+    <tmdbid>1882258</tmdbid>
+  </actor>
+  <actor>
+    <name>Brick Mason</name>
+    <role>Carnival Barker</role>
+    <type>Actor</type>
+    <tmdbid>91069</tmdbid>
+    <imdbid>nm0556624</imdbid>
+  </actor>
+  <actor>
+    <name>Bostin Christopher</name>
+    <role>Comic Book Counter Guy</role>
+    <type>Actor</type>
+    <tmdbid>102996</tmdbid>
+    <imdbid>nm0160542</imdbid>
+  </actor>
+  <actor>
+    <name>Ukee Washington</name>
+    <role>News Anchor</role>
+    <type>Actor</type>
+    <tmdbid>1739972</tmdbid>
+    <imdbid>nm0913545</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Anthony Wilson</name>
+    <role>Security Guard in Car</role>
+    <type>Actor</type>
+    <tmdbid>127070</tmdbid>
+    <imdbid>nm0933096</imdbid>
+  </actor>
+  <actor>
+    <name>Tobias Segal</name>
+    <role>Surveillance Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>187919</tmdbid>
+    <imdbid>nm1708414</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Thuet</name>
+    <role>Joe, Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>2279908</tmdbid>
+  </actor>
+  <actor>
+    <name>Tatiana St. Phard</name>
+    <role>Woman Group Member</role>
+    <type>Actor</type>
+    <tmdbid>2279909</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom DiNardo</name>
+    <role>Homeless Person</role>
+    <type>Actor</type>
+    <tmdbid>1003288</tmdbid>
+    <imdbid>nm2060269</imdbid>
+  </actor>
+  <actor>
+    <name>Timothy Chivalette</name>
+    <role>Comic Book Geek #1</role>
+    <type>Actor</type>
+    <tmdbid>1722825</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack McCafferty</name>
+    <role>Comic Book Geek #2</role>
+    <type>Actor</type>
+    <tmdbid>73298</tmdbid>
+    <imdbid>nm4412852</imdbid>
+  </actor>
+  <actor>
+    <name>Darby Schlosser</name>
+    <role>Foster Sibling #1</role>
+    <type>Actor</type>
+    <tmdbid>2279912</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Coker</name>
+    <role>Foster Sibling #2</role>
+    <type>Actor</type>
+    <tmdbid>2279914</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Hong</name>
+    <role>Foster Sibling #3</role>
+    <type>Actor</type>
+    <tmdbid>2292112</tmdbid>
+    <imdbid>nm9542517</imdbid>
+  </actor>
+  <actor>
+    <name>Xaiver Gerald</name>
+    <role>Foster Sibling #4</role>
+    <type>Actor</type>
+    <tmdbid>2279915</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Duquette</name>
+    <role>Patient Jimmy</role>
+    <type>Actor</type>
+    <tmdbid>1789650</tmdbid>
+    <imdbid>nm0243637</imdbid>
+  </actor>
+  <actor>
+    <name>Nathan Nauroth</name>
+    <role>Orderly Harrison</role>
+    <type>Actor</type>
+    <tmdbid>2279916</tmdbid>
+  </actor>
+  <actor>
+    <name>Ana Leonard</name>
+    <role>Hospital Volunteer</role>
+    <type>Actor</type>
+    <tmdbid>2279917</tmdbid>
+    <imdbid>nm10412717</imdbid>
+  </actor>
+  <actor>
+    <name>Elijah Davis</name>
+    <role>Maintenance worker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2790529</tmdbid>
+  </actor>
+  <director tmdbid="11614" imdbid="nm0796117">M. Night Shyamalan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=95ghQs5AmNk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Q7ztHi9ejp4</trailer>
+  <rating>6.6</rating>
+  <year>2019</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt6823368</imdbid>
+  <tmdbid>450465</tmdbid>
+  <premiered>2019-01-16</premiered>
+  <releasedate>2019-01-16</releasedate>
+  <criticrating>37</criticrating>
+  <runtime>129</runtime>
+  <country>United States of America</country>
+  <genre>惊悚</genre>
+  <genre>剧情</genre>
+  <genre>科幻</genre>
+  <studio>Universal Pictures</studio>
+  <studio>Blumhouse Productions</studio>
+  <studio>Blinding Edge Pictures</studio>
+  <studio>Buena Vista International</studio>
+  <studio>Perfect World Pictures</studio>
+  <uniqueid type="Tmdb">450465</uniqueid>
+  <uniqueid type="Imdb">tt6823368</uniqueid>
+  <id>tt6823368</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>25612116</bitrate>
+        <width>3840</width>
+        <height>1608</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>129</duration>
+        <durationinseconds>7741</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

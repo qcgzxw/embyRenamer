@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一群“品行不端”却怀揣教育梦想的大学教师，从大城市来到偏远乡村开办了一所小学校。学校待遇惨淡、生活艰苦，但老师们都自得其乐，每天嘻嘻哈哈打成一片。然而教育部特派员要来突击检查的消息打破了安宁，因为学校有一位“驴得水老师”隐藏着不可告人的秘密。就在所有人都担心丑事即将败露的时候，一个神奇天才的出现拯救了大家，然而谁能料到真正的麻烦才刚刚开始……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2017-12-27 14:53:44</dateadded>
+  <title>驴得水</title>
+  <originaltitle>驴得水</originaltitle>
+  <actor>
+    <name>Ren Suxi</name>
+    <role>Zhang Yiman</role>
+    <type>Actor</type>
+    <tmdbid>1696089</tmdbid>
+    <imdbid>nm8524411</imdbid>
+  </actor>
+  <actor>
+    <name>Li Da</name>
+    <role>Sun Henghai</role>
+    <type>Actor</type>
+    <tmdbid>1351505</tmdbid>
+    <imdbid>nm1340397</imdbid>
+  </actor>
+  <actor>
+    <name>Liu Shuailiang</name>
+    <role>Zhou Tienan</role>
+    <type>Actor</type>
+    <tmdbid>1696092</tmdbid>
+    <imdbid>nm8413730</imdbid>
+  </actor>
+  <actor>
+    <name>Bu Guanjin</name>
+    <role>Sun Jia</role>
+    <type>Actor</type>
+    <tmdbid>2241339</tmdbid>
+    <imdbid>nm9538017</imdbid>
+  </actor>
+  <director tmdbid="1523950" imdbid="nm6856737">Lu Liu</director>
+  <director tmdbid="1696093">Shen Zhou</director>
+  <rating>7.4</rating>
+  <year>2016</year>
+  <imdbid>tt6167014</imdbid>
+  <tmdbid>421742</tmdbid>
+  <premiered>2016-10-28</premiered>
+  <releasedate>2016-10-28</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>111</runtime>
+  <country>China</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <studio>Fun Age Pictures</studio>
+  <uniqueid type="Tmdb">421742</uniqueid>
+  <uniqueid type="Imdb">tt6167014</uniqueid>
+  <id>tt6167014</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2265376</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.999863</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>111</duration>
+        <durationinseconds>6679</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127708</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

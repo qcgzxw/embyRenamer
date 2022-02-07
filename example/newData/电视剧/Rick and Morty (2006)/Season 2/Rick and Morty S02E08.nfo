@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[瑞克利用冰淇淋培养一种危险细菌，却被杰瑞吃下肚，大伙连忙将他送进外星人医院。瑞克改造了医院的电视机上盒。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 07:55:31</dateadded>
+  <title>跨维度玩命</title>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <actor>
+    <name>Werner Herzog</name>
+    <role>Shrimply Pibbles (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>6818</tmdbid>
+  </actor>
+  <actor>
+    <name>Tara Strong</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>15762</tmdbid>
+  </actor>
+  <actor>
+    <name>Maurice LaMarche</name>
+    <role>Eyeholes Announcer (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>34521</tmdbid>
+  </actor>
+  <actor>
+    <name>James Atkinson</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>2192324</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Cole</name>
+    <role>Alien Doctor (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>21163</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Besser</name>
+    <role>Alien Leader (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>177475</tmdbid>
+    <imdbid>nm0078800</imdbid>
+  </actor>
+  <actor>
+    <name>Nolan North</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>19508</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Ridley</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1365425</tmdbid>
+  </actor>
+  <actor>
+    <name>Kari Wahlgren</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>116315</tmdbid>
+  </actor>
+  <director>Juan Jose Meza-Leon</director>
+  <rating>7.7</rating>
+  <year>2015</year>
+  <imdbid>tt4832274</imdbid>
+  <tvdbid>5309463</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <uniqueid type="Tvdb">5309463</uniqueid>
+  <uniqueid type="Imdb">tt4832274</uniqueid>
+  <episode>8</episode>
+  <season>2</season>
+  <aired>2015-09-20</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2059295</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+        <duration>22</duration>
+        <durationinseconds>1352</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

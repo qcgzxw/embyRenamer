@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[早上，艾丽克斯和卢克又在争吵。这时菲尔宣布了一条震憾的消息，原来近日菲尔的前女友要过来拜访。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-10 07:41:47</dateadded>
+  <title>认错</title>
+  <actor>
+    <name>Ed O'Neill</name>
+    <role>Jay Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>18977</tmdbid>
+    <imdbid>nm0642145</imdbid>
+  </actor>
+  <actor>
+    <name>Sofía Vergara</name>
+    <role>Gloria Delgado-Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>63522</tmdbid>
+    <imdbid>nm0005527</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Bowen</name>
+    <role>Claire Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>31171</tmdbid>
+    <imdbid>nm0100866</imdbid>
+  </actor>
+  <actor>
+    <name>Ty Burrell</name>
+    <role>Phil Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>15232</tmdbid>
+    <imdbid>nm0123092</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse Tyler Ferguson</name>
+    <role>Mitchell Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>204815</tmdbid>
+    <imdbid>nm0272479</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Stonestreet</name>
+    <role>Cameron Tucker</role>
+    <type>Actor</type>
+    <tmdbid>156962</tmdbid>
+    <imdbid>nm0832314</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Hyland</name>
+    <role>Haley Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>91351</tmdbid>
+    <imdbid>nm0405103</imdbid>
+  </actor>
+  <actor>
+    <name>Ariel Winter</name>
+    <role>Alex Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>42160</tmdbid>
+    <imdbid>nm1736769</imdbid>
+  </actor>
+  <actor>
+    <name>Nolan Gould</name>
+    <role>Luke Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>147710</tmdbid>
+    <imdbid>nm2188098</imdbid>
+  </actor>
+  <actor>
+    <name>Rico Rodriguez</name>
+    <role>Manny Delgado</role>
+    <type>Actor</type>
+    <tmdbid>206737</tmdbid>
+    <imdbid>nm2349726</imdbid>
+  </actor>
+  <actor>
+    <name>Judy Greer</name>
+    <role>Denise</role>
+    <type>GuestStar</type>
+    <tmdbid>20750</tmdbid>
+    <imdbid>nm0339460</imdbid>
+  </actor>
+  <actor>
+    <name>Bruce Altman</name>
+    <role>Mr. Jennings</role>
+    <type>GuestStar</type>
+    <tmdbid>27545</tmdbid>
+    <imdbid>nm0022883</imdbid>
+  </actor>
+  <director>Jason Winer</director>
+  <rating>7.6</rating>
+  <year>2010</year>
+  <imdbid>tt1596476</imdbid>
+  <tvdbid>1793921</tvdbid>
+  <runtime>22</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <tvrageid>1064888728</tvrageid>
+  <uniqueid type="Imdb">tt1596476</uniqueid>
+  <uniqueid type="Tvdb">1793921</uniqueid>
+  <uniqueid type="TvRage">1064888728</uniqueid>
+  <episode>17</episode>
+  <season>1</season>
+  <aired>2010-03-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>14439585</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1301</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

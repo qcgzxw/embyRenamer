@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Professor Breastpinch'd arrives and conducts a street poll, asking people if they want their breasts pinched but, unsurprisingly, gets no takers. Knight Rider obsessive Neds shows his ...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-15 22:05:05</dateadded>
+  <title>第 5 集</title>
+  <actor>
+    <name>Mark Gatiss</name>
+    <type>Actor</type>
+    <tmdbid>34546</tmdbid>
+    <imdbid>nm0309693</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Hays-Marshall</name>
+    <type>Actor</type>
+    <tmdbid>1231013</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Dyson</name>
+    <type>Actor</type>
+    <tmdbid>1227405</tmdbid>
+  </actor>
+  <director>Steve Bendelack</director>
+  <rating>0</rating>
+  <year>2002</year>
+  <imdbid>tt0630119</imdbid>
+  <tvdbid>87715</tvdbid>
+  <runtime>29</runtime>
+  <genre>Comedy</genre>
+  <genre>Horror</genre>
+  <uniqueid type="Imdb">tt0630119</uniqueid>
+  <uniqueid type="Tvdb">87715</uniqueid>
+  <episode>5</episode>
+  <season>3</season>
+  <aired>2002-10-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1261782</bitrate>
+        <width>700</width>
+        <height>572</height>
+        <aspect>40075:22451</aspect>
+        <aspectratio>40075:22451</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1747</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

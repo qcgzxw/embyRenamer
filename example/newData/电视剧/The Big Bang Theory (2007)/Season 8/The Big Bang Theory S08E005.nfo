@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[女生们周末去拉斯维加斯，但潘妮却把时间花在工作，而不是玩乐上。 宅男们则在家里想办法发明漂浮滑板。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 17:50:36</dateadded>
+  <title>The Focus Attenuation</title>
+  <director>Mark Cendrowski</director>
+  <rating>7.5</rating>
+  <year>2014</year>
+  <imdbid>tt3811816</imdbid>
+  <tvdbid>4997386</tvdbid>
+  <runtime>19</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>1065680877</tvrageid>
+  <uniqueid type="Imdb">tt3811816</uniqueid>
+  <uniqueid type="Tvdb">4997386</uniqueid>
+  <uniqueid type="TvRage">1065680877</uniqueid>
+  <episode>5</episode>
+  <season>8</season>
+  <aired>2014-10-13</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1586605</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1163</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Frank有一天忽然差点倒地，找医生检查，被告知需要减少竞选活动时间多静养。Frank来找Tom，他早就知道他与Claire之间存在的暧昧关系，但并未因此生气。相反地，Frank倒是希望Tom能继续陪伴在Francis身边助其竞选。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-24 05:29:28</dateadded>
+  <title>第 11 集</title>
+  <actor>
+    <name>Kevin Spacey</name>
+    <role>Frank Underwood</role>
+    <type>Actor</type>
+    <tmdbid>1979</tmdbid>
+    <imdbid>nm0000228</imdbid>
+  </actor>
+  <actor>
+    <name>Robin Wright</name>
+    <role>Claire Underwood</role>
+    <type>Actor</type>
+    <tmdbid>32</tmdbid>
+    <imdbid>nm0000705</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Kelly</name>
+    <role>Doug Stamper</role>
+    <type>Actor</type>
+    <tmdbid>50217</tmdbid>
+    <imdbid>nm0446672</imdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Arcelus</name>
+    <role>Lucas Goodwin</role>
+    <type>Actor</type>
+    <tmdbid>103545</tmdbid>
+  </actor>
+  <actor>
+    <name>Neve Campbell</name>
+    <role>LeAnn Harvey</role>
+    <type>Actor</type>
+    <tmdbid>9206</tmdbid>
+  </actor>
+  <actor>
+    <name>Jayne Atkinson</name>
+    <role>Catherine Durant</role>
+    <type>Actor</type>
+    <tmdbid>18261</tmdbid>
+    <imdbid>nm0040739</imdbid>
+  </actor>
+  <actor>
+    <name>Derek Cecil</name>
+    <role>Seth Grayson</role>
+    <type>Actor</type>
+    <tmdbid>60117</tmdbid>
+    <imdbid>nm0147689</imdbid>
+  </actor>
+  <actor>
+    <name>Boris McGiver</name>
+    <role>Tom Hammerschmidt</role>
+    <type>Actor</type>
+    <tmdbid>151432</tmdbid>
+    <imdbid>nm0569409</imdbid>
+  </actor>
+  <actor>
+    <name>Mahershala Ali</name>
+    <role>Remy Danton</role>
+    <type>Actor</type>
+    <tmdbid>932967</tmdbid>
+    <imdbid>nm0991810</imdbid>
+  </actor>
+  <actor>
+    <name>Joel Kinnaman</name>
+    <role>Will Conway</role>
+    <type>Actor</type>
+    <tmdbid>92404</tmdbid>
+  </actor>
+  <actor>
+    <name>Molly Parker</name>
+    <role>Jackie Sharp</role>
+    <type>Actor</type>
+    <tmdbid>27125</tmdbid>
+    <imdbid>nm0662504</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Marvel</name>
+    <role>Heather Dunbar</role>
+    <type>Actor</type>
+    <tmdbid>126713</tmdbid>
+    <imdbid>nm0555500</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Sparks</name>
+    <role>Thomas Yates</role>
+    <type>Actor</type>
+    <tmdbid>167564</tmdbid>
+    <imdbid>nm0817027</imdbid>
+  </actor>
+  <actor>
+    <name>James Saito</name>
+    <role>Dr. Krebs</role>
+    <type>GuestStar</type>
+    <tmdbid>77155</tmdbid>
+    <imdbid>nm0756839</imdbid>
+  </actor>
+  <actor>
+    <name>Wendy Moniz-Grillo</name>
+    <role>Laura Moretti</role>
+    <type>GuestStar</type>
+    <tmdbid>147977</tmdbid>
+  </actor>
+  <actor>
+    <name>Kathleen Chalfant</name>
+    <role>Margaret Tilden</role>
+    <type>GuestStar</type>
+    <tmdbid>52003</tmdbid>
+    <imdbid>nm0149910</imdbid>
+  </actor>
+  <actor>
+    <name>Reg E. Cathey</name>
+    <role>Freddy</role>
+    <type>GuestStar</type>
+    <tmdbid>38951</tmdbid>
+    <imdbid>nm0146146</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Polk</name>
+    <role>Harry Marshall</role>
+    <type>GuestStar</type>
+    <tmdbid>1348457</tmdbid>
+    <imdbid>nm0689289</imdbid>
+  </actor>
+  <actor>
+    <name>Colm Feore</name>
+    <role>Ted Brockhart</role>
+    <type>GuestStar</type>
+    <tmdbid>10132</tmdbid>
+    <imdbid>nm0272173</imdbid>
+  </actor>
+  <actor>
+    <name>Damian Young</name>
+    <role>Aidan Macallan</role>
+    <type>GuestStar</type>
+    <tmdbid>109144</tmdbid>
+    <imdbid>nm0949433</imdbid>
+  </actor>
+  <director>Kari Skogland</director>
+  <rating>8</rating>
+  <year>2016</year>
+  <imdbid>tt5095732</imdbid>
+  <tvdbid>5440814</tvdbid>
+  <runtime>53</runtime>
+  <genre>Drama</genre>
+  <tvrageid>1065900288</tvrageid>
+  <uniqueid type="Imdb">tt5095732</uniqueid>
+  <uniqueid type="Tvdb">5440814</uniqueid>
+  <uniqueid type="TvRage">1065900288</uniqueid>
+  <episode>11</episode>
+  <season>4</season>
+  <aired>2016-03-04</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2969402</bitrate>
+        <width>1920</width>
+        <height>960</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>52</duration>
+        <durationinseconds>3157</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

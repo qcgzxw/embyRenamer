@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一个雨夜里，凶狠的宙斯帮老大张东秀正开车回家，路上突然被人撞了一下。他刚下车就遭到了毫无预警的袭击，身负重伤的他迅速回击才勉强捡回一条命，但是作为黑帮老大的名声却受到了重创。唯一修复自己名声的办法，就是找到攻击自己的凶手再狠狠地报复回去。张东秀决定和警探郑泰锡合作，郑警探相信这个攻击者正是自己追踪中的连环杀手。郑警探的上司对他的推理不屑一顾，表示并没有任何证据可以支撑他的猜想。因为这个杀手没有留下过任何证据，别无他法的郑警探只能用张东秀的资源来收集关于连环凶手的信息，试图通过相似的作案手段来找到凶手。各自拥有才能和资源的两人联手，开始找寻这个代号为“K”的连环杀手。追寻同一个“猎物”的两人也立下了一条规则：谁先找到，谁就能凭自己的意愿处置他！]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-07-04 14:52:08</dateadded>
+  <title>恶人传</title>
+  <originaltitle>악인전</originaltitle>
+  <actor>
+    <name>Ma Dong-seok</name>
+    <role>Jang Dong-su</role>
+    <type>Actor</type>
+    <tmdbid>1024395</tmdbid>
+    <imdbid>nm3011350</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Moo-yul</name>
+    <role>Jung Tae-suk</role>
+    <type>Actor</type>
+    <tmdbid>84788</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Sung-kyu</name>
+    <role>Kang Gyeong-ho</role>
+    <type>Actor</type>
+    <tmdbid>2159394</tmdbid>
+  </actor>
+  <actor>
+    <name>Choi Min-chul</name>
+    <role>Kwon Oh-sung</role>
+    <type>Actor</type>
+    <tmdbid>1418579</tmdbid>
+  </actor>
+  <actor>
+    <name>Heo Dong-won</name>
+    <role>Choi Moon-sik</role>
+    <type>Actor</type>
+    <tmdbid>1332468</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoo Jae-myung</name>
+    <role>Heo Sang-do</role>
+    <type>Actor</type>
+    <tmdbid>1336804</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Seo-hwan</name>
+    <role>Choi Jeong-gyu</role>
+    <type>Actor</type>
+    <tmdbid>2204527</tmdbid>
+  </actor>
+  <actor>
+    <name>Oh Hee-joon</name>
+    <role>Kim Dong-chul</role>
+    <type>Actor</type>
+    <tmdbid>1338162</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Gyu-ri</name>
+    <role>Cha Seo-jin</role>
+    <type>Actor</type>
+    <tmdbid>1246931</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoo Seung-mok</name>
+    <role>Ahn Ho-bong (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1128004</tmdbid>
+    <imdbid>nm2182458</imdbid>
+  </actor>
+  <actor>
+    <name>Ryu Tae-ho</name>
+    <role>Mr. Ahn (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1136064</tmdbid>
+  </actor>
+  <actor>
+    <name>Cha Soon-bae</name>
+    <role>Judge (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2101538</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeon Bae-soo</name>
+    <role>Chief of the criminal department (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1572347</tmdbid>
+    <imdbid>nm3482978</imdbid>
+  </actor>
+  <director tmdbid="1910480">Lee Won-tae</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_96SVqqFltA</trailer>
+  <rating>6.9</rating>
+  <year>2019</year>
+  <imdbid>tt10208198</imdbid>
+  <tmdbid>581528</tmdbid>
+  <premiered>2019-05-15</premiered>
+  <releasedate>2019-05-15</releasedate>
+  <criticrating>97</criticrating>
+  <runtime>110</runtime>
+  <country>South Korea</country>
+  <genre>犯罪</genre>
+  <genre>动作</genre>
+  <studio>Acemaker Movieworks</studio>
+  <studio>BA Entertainment</studio>
+  <studio>Kiwi Media Group</studio>
+  <uniqueid type="Tmdb">581528</uniqueid>
+  <uniqueid type="Imdb">tt10208198</uniqueid>
+  <id>tt10208198</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5067696</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6592</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

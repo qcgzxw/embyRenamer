@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[二手音响商耿浩（黄渤 饰）婚姻失败，他想用锤子爆小三（李晨 饰）的头，却迟迟没有勇气，幸亏在剧组做制片的兄弟郝义（徐峥 饰）及时发现自暴自弃的耿浩，他决定带着耿浩开启一段“治愈之旅”。于是一对好基友带着一只狗上路，邂逅三千公里的“桃花”。“阿凡达女郎”（陶慧 饰）、“杀马特”周丽娟（周冬雨 饰）、“白富美”（张俪 饰），各式各样的女人接连登场，耿浩一路艳遇一路疗伤。时光倒转，5年前的此时，大龄文艺女青年（袁泉 饰）因为听了一首流浪歌手耿浩的歌，毅然前往大理……在经历一连串奇葩遭遇之后，大家都放下了心里的“阴影”，找到了通向幸福的道路。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-04 02:20:45</dateadded>
+  <title>心花路放</title>
+  <originaltitle>心花路放</originaltitle>
+  <actor>
+    <name>Huang Bo</name>
+    <role>Geng Hao</role>
+    <type>Actor</type>
+    <tmdbid>128026</tmdbid>
+    <imdbid>nm2348646</imdbid>
+  </actor>
+  <actor>
+    <name>Xu Zheng</name>
+    <role>Hao Yi</role>
+    <type>Actor</type>
+    <tmdbid>118711</tmdbid>
+    <imdbid>nm1905770</imdbid>
+  </actor>
+  <actor>
+    <name>Zhou Dongyu</name>
+    <role>Zhou Lijuan</role>
+    <type>Actor</type>
+    <tmdbid>145092</tmdbid>
+  </actor>
+  <actor>
+    <name>Quan Yuan</name>
+    <role>Kang Xiaoyu</role>
+    <type>Actor</type>
+    <tmdbid>1172609</tmdbid>
+  </actor>
+  <actor>
+    <name>Shen Teng</name>
+    <type>Actor</type>
+    <tmdbid>1519026</tmdbid>
+    <imdbid>nm7613067</imdbid>
+  </actor>
+  <actor>
+    <name>Tao Hui</name>
+    <type>Actor</type>
+    <tmdbid>2027650</tmdbid>
+  </actor>
+  <director tmdbid="17295" imdbid="nm1928500">Ning Hao</director>
+  <rating>6.4</rating>
+  <year>2014</year>
+  <imdbid>tt3890264</imdbid>
+  <tmdbid>284298</tmdbid>
+  <premiered>2014-09-26</premiered>
+  <releasedate>2014-09-26</releasedate>
+  <criticrating>70</criticrating>
+  <runtime>113</runtime>
+  <country>China</country>
+  <genre>喜剧</genre>
+  <genre>爱情</genre>
+  <studio>东阳坏猴子影视文化传播有限公司</studio>
+  <uniqueid type="Tmdb">284298</uniqueid>
+  <uniqueid type="Imdb">tt3890264</uniqueid>
+  <id>tt3890264</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>15941443</bitrate>
+        <width>3840</width>
+        <height>1638</height>
+        <aspect>640:273</aspect>
+        <aspectratio>640:273</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>113</duration>
+        <durationinseconds>6788</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128309</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

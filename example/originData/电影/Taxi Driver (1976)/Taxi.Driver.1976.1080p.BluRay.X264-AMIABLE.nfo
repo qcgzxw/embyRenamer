@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　特拉维斯（罗伯特•德尼罗 Robert De Niro 饰）从越战中退伍回来后一直在纽约以开出租车为生。战争后的他多少有些失落，加上开出租车目睹了纽约夜幕下的种种罪恶，另他变得愤世嫉俗、痛恨社会。在追求总统候选人帕兰坦竞选办公室的秘书贝西失败后，特拉维斯决定去刺杀帕兰坦以证明自己。在准备刺杀行动的过程中，特拉维斯遇上了被逼卖淫的雏妓艾瑞斯。在企图救艾瑞斯出火坑未果后，特拉维斯手持武器闯进淫窝，将里面的一干人等通通干掉了！本以为即将收到法律的惩罚，然而媒体却将特拉维斯描述成了一个拯救少女的英雄……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-10-02 06:27:00</dateadded>
+  <title>出租车司机</title>
+  <originaltitle>Taxi Driver</originaltitle>
+  <actor>
+    <name>Robert De Niro</name>
+    <role>Travis Bickle</role>
+    <type>Actor</type>
+    <tmdbid>380</tmdbid>
+    <imdbid>nm0000134</imdbid>
+  </actor>
+  <actor>
+    <name>Jodie Foster</name>
+    <role>Iris Steensma</role>
+    <type>Actor</type>
+    <tmdbid>1038</tmdbid>
+    <imdbid>nm0000149</imdbid>
+  </actor>
+  <actor>
+    <name>Albert Brooks</name>
+    <role>Tom</role>
+    <type>Actor</type>
+    <tmdbid>13</tmdbid>
+    <imdbid>nm0000983</imdbid>
+  </actor>
+  <actor>
+    <name>Harvey Keitel</name>
+    <role>Matthew 'Sport' Higgins</role>
+    <type>Actor</type>
+    <tmdbid>1037</tmdbid>
+    <imdbid>nm0000172</imdbid>
+  </actor>
+  <actor>
+    <name>Cybill Shepherd</name>
+    <role>Betsy</role>
+    <type>Actor</type>
+    <tmdbid>1036</tmdbid>
+    <imdbid>nm0001732</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Boyle</name>
+    <role>Wizard</role>
+    <type>Actor</type>
+    <tmdbid>1039</tmdbid>
+    <imdbid>nm0001967</imdbid>
+  </actor>
+  <actor>
+    <name>Leonard Harris</name>
+    <role>Senator Charles Palantine</role>
+    <type>Actor</type>
+    <tmdbid>1040</tmdbid>
+    <imdbid>nm0364997</imdbid>
+  </actor>
+  <actor>
+    <name>Diahnne Abbott</name>
+    <role>Concession Girl</role>
+    <type>Actor</type>
+    <tmdbid>1041</tmdbid>
+    <imdbid>nm0007958</imdbid>
+  </actor>
+  <actor>
+    <name>Gino Ardito</name>
+    <role>Policeman at Rally</role>
+    <type>Actor</type>
+    <tmdbid>1043</tmdbid>
+    <imdbid>nm0034082</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Scorsese</name>
+    <role>Man in Cab</role>
+    <type>Actor</type>
+    <tmdbid>1032</tmdbid>
+    <imdbid>nm0000217</imdbid>
+  </actor>
+  <actor>
+    <name>Murray Moston</name>
+    <role>Iris' Time Keeper</role>
+    <type>Actor</type>
+    <tmdbid>77255</tmdbid>
+    <imdbid>nm0609231</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Higgs</name>
+    <role>Secret Service Agent</role>
+    <type>Actor</type>
+    <tmdbid>1274408</tmdbid>
+    <imdbid>nm0383554</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Minkin</name>
+    <role>Tom's Assistant (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1274409</tmdbid>
+    <imdbid>nm0591431</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Maroff</name>
+    <role>Mafioso (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>169093</tmdbid>
+    <imdbid>nm0549475</imdbid>
+  </actor>
+  <actor>
+    <name>Victor Argo</name>
+    <role>Melio, Delicatessen Owner</role>
+    <type>Actor</type>
+    <tmdbid>2561</tmdbid>
+    <imdbid>nm0034519</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Spinell</name>
+    <role>Personell Officer</role>
+    <type>Actor</type>
+    <tmdbid>16525</tmdbid>
+    <imdbid>nm0818874</imdbid>
+  </actor>
+  <actor>
+    <name>Frank Adu</name>
+    <role>Angry Black Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1042</tmdbid>
+    <imdbid>nm0012524</imdbid>
+  </actor>
+  <actor>
+    <name>Brenda Dickson</name>
+    <role>Soap Opera Woman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>101977</tmdbid>
+    <imdbid>nm0225734</imdbid>
+  </actor>
+  <actor>
+    <name>Norman Matlock</name>
+    <role>Charlie T</role>
+    <type>Actor</type>
+    <tmdbid>84684</tmdbid>
+    <imdbid>nm0559157</imdbid>
+  </actor>
+  <actor>
+    <name>Harry Northup</name>
+    <role>Doughboy</role>
+    <type>Actor</type>
+    <tmdbid>127738</tmdbid>
+    <imdbid>nm0636140</imdbid>
+  </actor>
+  <actor>
+    <name>Harlan Cary Poe</name>
+    <role>Campaign Worker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>954132</tmdbid>
+    <imdbid>nm0688116</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Prince</name>
+    <role>Andy - Gun Salesman</role>
+    <type>Actor</type>
+    <tmdbid>76155</tmdbid>
+    <imdbid>nm2402623</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Savage</name>
+    <role>The John</role>
+    <type>Actor</type>
+    <tmdbid>1422613</tmdbid>
+    <imdbid>nm0678014</imdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Shields</name>
+    <role>Palantine's Aide (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>194066</tmdbid>
+    <imdbid>nm0793234</imdbid>
+  </actor>
+  <actor>
+    <name>Ralph S. Singleton</name>
+    <role>T.V. Interviewer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>18855</tmdbid>
+    <imdbid>nm0802326</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Gagen</name>
+    <role>Campaign Worker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>170830</tmdbid>
+    <imdbid>nm0300851</imdbid>
+  </actor>
+  <actor>
+    <name>Carson Grant</name>
+    <role>Political rallier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>71813</tmdbid>
+    <imdbid>nm0335300</imdbid>
+  </actor>
+  <actor>
+    <name>Mary-Pat Green</name>
+    <role>Campaign Aide (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1213088</tmdbid>
+    <imdbid>nm0338144</imdbid>
+  </actor>
+  <actor>
+    <name>Debbi Morgan</name>
+    <role>Girl at Columbus Circle (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>88161</tmdbid>
+    <imdbid>nm0005247</imdbid>
+  </actor>
+  <actor>
+    <name>Don Stroud</name>
+    <role>Policeman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>69494</tmdbid>
+    <imdbid>nm0835144</imdbid>
+  </actor>
+  <actor>
+    <name>Copper Cunningham</name>
+    <role>Hooker in Cab</role>
+    <type>Actor</type>
+    <tmdbid>1946280</tmdbid>
+  </actor>
+  <actor>
+    <name>Garth Avery</name>
+    <role>Iris' friend</role>
+    <type>Actor</type>
+    <tmdbid>2340530</tmdbid>
+  </actor>
+  <actor>
+    <name>Nat Grant</name>
+    <role>Stick-aup Man</role>
+    <type>Actor</type>
+    <tmdbid>2848152</tmdbid>
+  </actor>
+  <director tmdbid="1032" imdbid="nm0000217">Martin Scorsese</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=UUxD4-dEzn0</trailer>
+  <rating>8.3</rating>
+  <year>1976</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0075314</imdbid>
+  <tmdbid>103</tmdbid>
+  <premiered>1976-02-09</premiered>
+  <releasedate>1976-02-09</releasedate>
+  <criticrating>96</criticrating>
+  <runtime>114</runtime>
+  <country>United States of America</country>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <studio>Italo/Judeo Productions</studio>
+  <studio>Bill/Phillips</studio>
+  <studio>Columbia Pictures</studio>
+  <uniqueid type="Tmdb">103</uniqueid>
+  <uniqueid type="Imdb">tt0075314</uniqueid>
+  <id>tt0075314</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9993464</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>113</duration>
+        <durationinseconds>6828</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

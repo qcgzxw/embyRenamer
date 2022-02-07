@@ -1,0 +1,385 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　尼克（艾伦•艾克哈特 Aaron Eckhart 饰）是这个世界上最赚钱也最富有争议的行业――烟草业 的代言人。他每天不仅要像推销员一样用三寸不烂之舌去说服人们抽烟，还要不得不变着发子去对付禁烟团体、环保团体和科学团体的抗议，在政府和参议员中想尽办法为烟草业谋取最大利益。
+ 　　尼克还有两个知心朋友――为酒业代言的波利（玛丽亚•贝罗 Maria Bello 饰）和为军火业代言的鲍比（大卫•科恩查内 David Koechner 饰）。相同的行业性质让三人成为无话不谈的密友，经常在一起交流怎样对付环保团体等各种社团的抗议、如何在政府、参议员中周旋的诀窍。
+ 　　在政治和商业互相交错的舞台上，他们上演了一出又一出好戏。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-22 15:32:28</dateadded>
+  <title>感谢你抽烟</title>
+  <originaltitle>Thank You for Smoking</originaltitle>
+  <actor>
+    <name>Aaron Eckhart</name>
+    <role>Nick Naylor</role>
+    <type>Actor</type>
+    <tmdbid>6383</tmdbid>
+    <imdbid>nm0001173</imdbid>
+  </actor>
+  <actor>
+    <name>Maria Bello</name>
+    <role>Polly Bailey</role>
+    <type>Actor</type>
+    <tmdbid>49</tmdbid>
+    <imdbid>nm0004742</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Bright</name>
+    <role>Joey Naylor</role>
+    <type>Actor</type>
+    <tmdbid>52414</tmdbid>
+    <imdbid>nm1080974</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Brody</name>
+    <role>Jack</role>
+    <type>Actor</type>
+    <tmdbid>11702</tmdbid>
+    <imdbid>nm0111013</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Elliott</name>
+    <role>Lorne Lutch</role>
+    <type>Actor</type>
+    <tmdbid>16431</tmdbid>
+    <imdbid>nm0000385</imdbid>
+  </actor>
+  <actor>
+    <name>Katie Holmes</name>
+    <role>Heather Holloway</role>
+    <type>Actor</type>
+    <tmdbid>3897</tmdbid>
+    <imdbid>nm0005017</imdbid>
+  </actor>
+  <actor>
+    <name>Rob Lowe</name>
+    <role>Jeff Megall</role>
+    <type>Actor</type>
+    <tmdbid>2879</tmdbid>
+    <imdbid>nm0000507</imdbid>
+  </actor>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Senator Ortolan Finistirre</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Duvall</name>
+    <role>The Captain</role>
+    <type>Actor</type>
+    <tmdbid>3087</tmdbid>
+    <imdbid>nm0000380</imdbid>
+  </actor>
+  <actor>
+    <name>David Koechner</name>
+    <role>Bobby Jay Bliss</role>
+    <type>Actor</type>
+    <tmdbid>28638</tmdbid>
+    <imdbid>nm0462712</imdbid>
+  </actor>
+  <actor>
+    <name>J.K. Simmons</name>
+    <role>BR</role>
+    <type>Actor</type>
+    <tmdbid>18999</tmdbid>
+    <imdbid>nm0799777</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Dickens</name>
+    <role>Jill Naylor</role>
+    <type>Actor</type>
+    <tmdbid>21165</tmdbid>
+    <imdbid>nm0225332</imdbid>
+  </actor>
+  <actor>
+    <name>Connie Ray</name>
+    <role>Pearl</role>
+    <type>Actor</type>
+    <tmdbid>35517</tmdbid>
+    <imdbid>nm0712790</imdbid>
+  </actor>
+  <actor>
+    <name>Joan Lunden</name>
+    <role>Joan Lunden</role>
+    <type>Actor</type>
+    <tmdbid>57554</tmdbid>
+    <imdbid>nm0526406</imdbid>
+  </actor>
+  <actor>
+    <name>Mary Jo Smith</name>
+    <role>Sue Maclean</role>
+    <type>Actor</type>
+    <tmdbid>21985</tmdbid>
+    <imdbid>nm0809277</imdbid>
+  </actor>
+  <actor>
+    <name>Todd Louiso</name>
+    <role>Ron Goode</role>
+    <type>Actor</type>
+    <tmdbid>3230</tmdbid>
+    <imdbid>nm0521974</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Witzke</name>
+    <role>Kidnapper</role>
+    <type>Actor</type>
+    <tmdbid>144438</tmdbid>
+    <imdbid>nm0937175</imdbid>
+  </actor>
+  <actor>
+    <name>Marianne Muellerleile</name>
+    <role>Teacher</role>
+    <type>Actor</type>
+    <tmdbid>543</tmdbid>
+    <imdbid>nm0611127</imdbid>
+  </actor>
+  <actor>
+    <name>Jordan Garrett</name>
+    <role>Kid #2</role>
+    <type>Actor</type>
+    <tmdbid>70643</tmdbid>
+    <imdbid>nm1408531</imdbid>
+  </actor>
+  <actor>
+    <name>Courtney Taylor Burness</name>
+    <role>Kid #3</role>
+    <type>Actor</type>
+    <tmdbid>58412</tmdbid>
+    <imdbid>nm1212588</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Travis</name>
+    <role>Brad</role>
+    <type>Actor</type>
+    <tmdbid>646</tmdbid>
+    <imdbid>nm1047403</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Speight Jr.</name>
+    <role>Trainee</role>
+    <type>Actor</type>
+    <tmdbid>58112</tmdbid>
+    <imdbid>nm0817620</imdbid>
+  </actor>
+  <actor>
+    <name>Renée Graham</name>
+    <role>Tiffany</role>
+    <type>Actor</type>
+    <tmdbid>73406</tmdbid>
+    <imdbid>nm0334260</imdbid>
+  </actor>
+  <actor>
+    <name>Timothy Dowling</name>
+    <role>EGO Assistant</role>
+    <type>Actor</type>
+    <tmdbid>132315</tmdbid>
+    <imdbid>nm0000251</imdbid>
+  </actor>
+  <actor>
+    <name>Dennis Miller</name>
+    <role>Dennis Miller</role>
+    <type>Actor</type>
+    <tmdbid>18326</tmdbid>
+    <imdbid>nm0588222</imdbid>
+  </actor>
+  <actor>
+    <name>Terry James</name>
+    <role>Ski Mask #1</role>
+    <type>Actor</type>
+    <tmdbid>1549740</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Scizak</name>
+    <role>Ski Mask #2</role>
+    <type>Actor</type>
+    <tmdbid>1549741</tmdbid>
+    <imdbid>nm1465966</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel Thorp</name>
+    <role>Flighty Girl</role>
+    <type>Actor</type>
+    <tmdbid>200820</tmdbid>
+    <imdbid>nm1535579</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Lustig</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>140237</tmdbid>
+    <imdbid>nm0527316</imdbid>
+  </actor>
+  <actor>
+    <name>Melora Hardin</name>
+    <role>Interviewer</role>
+    <type>Actor</type>
+    <tmdbid>404</tmdbid>
+    <imdbid>nm0002124</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Palermo</name>
+    <role>FBI Agent (voice)</role>
+    <type>Actor</type>
+    <tmdbid>89708</tmdbid>
+    <imdbid>nm0006488</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Mantell</name>
+    <role>Dr. Meisenbach</role>
+    <type>Actor</type>
+    <tmdbid>91030</tmdbid>
+    <imdbid>nm0544067</imdbid>
+  </actor>
+  <actor>
+    <name>Spencer Garrett</name>
+    <role>Senator Lothridge</role>
+    <type>Actor</type>
+    <tmdbid>49275</tmdbid>
+    <imdbid>nm0308208</imdbid>
+  </actor>
+  <actor>
+    <name>Earl Billings</name>
+    <role>Senator Dupree</role>
+    <type>Actor</type>
+    <tmdbid>87119</tmdbid>
+    <imdbid>nm0082467</imdbid>
+  </actor>
+  <actor>
+    <name>Catherine Reitman</name>
+    <role>Reporter #1</role>
+    <type>Actor</type>
+    <tmdbid>154826</tmdbid>
+    <imdbid>nm0718642</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Patrick Murphy</name>
+    <role>Reporter #2</role>
+    <type>Actor</type>
+    <tmdbid>1180936</tmdbid>
+    <imdbid>nm0614702</imdbid>
+  </actor>
+  <actor>
+    <name>David O. Sacks</name>
+    <role>Oil Lobbyist</role>
+    <type>Actor</type>
+    <tmdbid>57564</tmdbid>
+    <imdbid>nm1616294</imdbid>
+  </actor>
+  <actor>
+    <name>Nancy O'Dell</name>
+    <role>Nancy Humphries O'Dell</role>
+    <type>Actor</type>
+    <tmdbid>127130</tmdbid>
+    <imdbid>nm0640669</imdbid>
+  </actor>
+  <actor>
+    <name>Roy Jenkins</name>
+    <role>Debate Moderator</role>
+    <type>Actor</type>
+    <tmdbid>1237248</tmdbid>
+    <imdbid>nm0420963</imdbid>
+  </actor>
+  <actor>
+    <name>Bruce French</name>
+    <role>Gentleman #2</role>
+    <type>Actor</type>
+    <tmdbid>157582</tmdbid>
+    <imdbid>nm0294050</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Buckley</name>
+    <role>Man at Metro Station (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>57556</tmdbid>
+    <imdbid>nm1740772</imdbid>
+  </actor>
+  <actor>
+    <name>Dana E. Glauberman</name>
+    <role>Hotel Phone Operator (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>52450</tmdbid>
+    <imdbid>nm0322159</imdbid>
+  </actor>
+  <actor>
+    <name>Eva La Dare</name>
+    <role>Flight Attendant (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1364232</tmdbid>
+    <imdbid>nm0245749</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Malina</name>
+    <role>Peter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1018071</tmdbid>
+    <imdbid>nm0539656</imdbid>
+  </actor>
+  <actor>
+    <name>Aloma Wright</name>
+    <role>Gizelle (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>49551</tmdbid>
+    <imdbid>nm0942193</imdbid>
+  </actor>
+  <director tmdbid="52443" imdbid="nm0718646">Jason Reitman</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4GBJOWqlXqE</trailer>
+  <rating>7.6</rating>
+  <year>2006</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0427944</imdbid>
+  <tmdbid>9388</tmdbid>
+  <premiered>2006-03-17</premiered>
+  <releasedate>2006-03-17</releasedate>
+  <criticrating>86</criticrating>
+  <runtime>92</runtime>
+  <country>United States of America</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <studio>TYFS Productions LLC</studio>
+  <studio>ContentFilm</studio>
+  <studio>Major Studio Partners</studio>
+  <studio>Room 9 Entertainment</studio>
+  <studio>Fox Searchlight Pictures</studio>
+  <uniqueid type="Tmdb">9388</uniqueid>
+  <uniqueid type="Imdb">tt0427944</uniqueid>
+  <id>tt0427944</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10241196</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>92</duration>
+        <durationinseconds>5538</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

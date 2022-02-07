@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[故事聚焦格雷厄姆家族，祖母艾伦去世后，她女儿的家人开始解开他们祖先可怕的秘密并试图逃脱自己所继承的邪恶命运。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-08-27 14:11:12</dateadded>
+  <title>遗传厄运</title>
+  <originaltitle>Hereditary</originaltitle>
+  <actor>
+    <name>Toni Collette</name>
+    <role>Annie Graham</role>
+    <type>Actor</type>
+    <tmdbid>3051</tmdbid>
+    <imdbid>nm0001057</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Wolff</name>
+    <role>Peter Graham</role>
+    <type>Actor</type>
+    <tmdbid>934281</tmdbid>
+    <imdbid>nm1842974</imdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Byrne</name>
+    <role>Steve Graham</role>
+    <type>Actor</type>
+    <tmdbid>5168</tmdbid>
+    <imdbid>nm0000321</imdbid>
+  </actor>
+  <actor>
+    <name>Milly Shapiro</name>
+    <role>Charlie Graham</role>
+    <type>Actor</type>
+    <tmdbid>1945702</tmdbid>
+    <imdbid>nm8412536</imdbid>
+  </actor>
+  <actor>
+    <name>Ann Dowd</name>
+    <role>Joan</role>
+    <type>Actor</type>
+    <tmdbid>43366</tmdbid>
+    <imdbid>nm0235652</imdbid>
+  </actor>
+  <actor>
+    <name>Christy Summerhays</name>
+    <role>Charlie's Teacher</role>
+    <type>Actor</type>
+    <tmdbid>146333</tmdbid>
+    <imdbid>nm0838647</imdbid>
+  </actor>
+  <actor>
+    <name>Mallory Bechtel</name>
+    <role>Bridget</role>
+    <type>Actor</type>
+    <tmdbid>1969994</tmdbid>
+    <imdbid>nm5533830</imdbid>
+  </actor>
+  <actor>
+    <name>Brock McKinney</name>
+    <role>Aaron</role>
+    <type>Actor</type>
+    <tmdbid>1969995</tmdbid>
+    <imdbid>nm2171921</imdbid>
+  </actor>
+  <actor>
+    <name>Jake Brown</name>
+    <role>Brendan</role>
+    <type>Actor</type>
+    <tmdbid>2064805</tmdbid>
+  </actor>
+  <actor>
+    <name>Morgan Lund</name>
+    <role>Mr. Davis</role>
+    <type>Actor</type>
+    <tmdbid>1853997</tmdbid>
+    <imdbid>nm0526218</imdbid>
+  </actor>
+  <actor>
+    <name>Jarrod Phillips</name>
+    <role>Group Leader</role>
+    <type>Actor</type>
+    <tmdbid>1123882</tmdbid>
+    <imdbid>nm2326393</imdbid>
+  </actor>
+  <actor>
+    <name>Heidi Mendez</name>
+    <role>Spanish Speaking Woman</role>
+    <type>Actor</type>
+    <tmdbid>1906738</tmdbid>
+    <imdbid>nm3918838</imdbid>
+  </actor>
+  <actor>
+    <name>Zachary Arthur</name>
+    <role>Boy in Room</role>
+    <type>Actor</type>
+    <tmdbid>1969996</tmdbid>
+  </actor>
+  <actor>
+    <name>Moises L. Tovar</name>
+    <role>Translator</role>
+    <type>Actor</type>
+    <tmdbid>2154796</tmdbid>
+  </actor>
+  <actor>
+    <name>Austin R. Grant</name>
+    <role>Stoner #1</role>
+    <type>Actor</type>
+    <tmdbid>1281174</tmdbid>
+    <imdbid>nm5173220</imdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Monroe Eckert</name>
+    <role>Stoner #2</role>
+    <type>Actor</type>
+    <tmdbid>1969997</tmdbid>
+  </actor>
+  <actor>
+    <name>Bus Riley</name>
+    <role>History Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1184606</tmdbid>
+    <imdbid>nm0726997</imdbid>
+  </actor>
+  <actor>
+    <name>Harrison Neil</name>
+    <role>Student #1</role>
+    <type>Actor</type>
+    <tmdbid>2338989</tmdbid>
+  </actor>
+  <actor>
+    <name>BriAnn Rachele</name>
+    <role>Student #2</role>
+    <type>Actor</type>
+    <tmdbid>2338993</tmdbid>
+  </actor>
+  <actor>
+    <name>David Stanley</name>
+    <role>Man at Wake</role>
+    <type>Actor</type>
+    <tmdbid>2338997</tmdbid>
+  </actor>
+  <actor>
+    <name>Ari Aster</name>
+    <role>Asher Gallery Representative (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1145520</tmdbid>
+    <imdbid>nm4170048</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Blockovich</name>
+    <role>Support Group Member (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1925577</tmdbid>
+  </actor>
+  <actor>
+    <name>Kathleen Chalfant</name>
+    <role>Ellen Taper Leigh (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>52003</tmdbid>
+    <imdbid>nm0149910</imdbid>
+  </actor>
+  <actor>
+    <name>John Forker</name>
+    <role>Funeral Attendee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2135018</tmdbid>
+    <imdbid>nm8078479</imdbid>
+  </actor>
+  <actor>
+    <name>Rachelle Hardy</name>
+    <role>Cult Member (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2497401</tmdbid>
+  </actor>
+  <actor>
+    <name>Marilyn Miller</name>
+    <role>Woman in the Tree (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1362209</tmdbid>
+    <imdbid>nm3606124</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Miyagi</name>
+    <role>High School Partier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2112313</tmdbid>
+  </actor>
+  <actor>
+    <name>Lorenzo Silva</name>
+    <role>Skater Boy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2289936</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexis Long</name>
+    <role>Cake Girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2679842</tmdbid>
+    <imdbid>nm7401698</imdbid>
+  </actor>
+  <director tmdbid="1145520" imdbid="nm4170048">Ari Aster</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=V6wWKNij_1M</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MJNR58zaStE</trailer>
+  <rating>7.3</rating>
+  <year>2018</year>
+  <mpaa>HK-III</mpaa>
+  <imdbid>tt7784604</imdbid>
+  <tmdbid>493922</tmdbid>
+  <premiered>2018-06-07</premiered>
+  <releasedate>2018-06-07</releasedate>
+  <criticrating>89</criticrating>
+  <runtime>128</runtime>
+  <country>United States of America</country>
+  <genre>恐怖</genre>
+  <genre>悬疑</genre>
+  <genre>惊悚</genre>
+  <studio>PalmStar Media</studio>
+  <uniqueid type="Tmdb">493922</uniqueid>
+  <uniqueid type="Imdb">tt7784604</uniqueid>
+  <id>tt7784604</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1999389</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>127</duration>
+        <durationinseconds>7660</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127629</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

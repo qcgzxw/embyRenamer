@@ -1,0 +1,628 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Piper goes to work for her dad. Vinnie visits Lorna with news. A desperate Taystee asks Daya for a favor. Caputo leads a restorative justice class.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-10-05 18:55:46</dateadded>
+  <title>第 4 集</title>
+  <actor>
+    <name>Taylor Schilling</name>
+    <role>Piper Chapman</role>
+    <type>Actor</type>
+    <tmdbid>221809</tmdbid>
+    <imdbid>nm2279940</imdbid>
+  </actor>
+  <actor>
+    <name>Natasha Lyonne</name>
+    <role>Nicky Nichols</role>
+    <type>Actor</type>
+    <tmdbid>10871</tmdbid>
+    <imdbid>nm0005169</imdbid>
+  </actor>
+  <actor>
+    <name>Uzo Aduba</name>
+    <role>Suzanne 'Crazy Eyes' Warren</role>
+    <type>Actor</type>
+    <tmdbid>1332680</tmdbid>
+    <imdbid>nm2499064</imdbid>
+  </actor>
+  <actor>
+    <name>Danielle Brooks</name>
+    <role>Tasha 'Taystee' Jefferson</role>
+    <type>Actor</type>
+    <tmdbid>1075037</tmdbid>
+    <imdbid>nm5335029</imdbid>
+  </actor>
+  <actor>
+    <name>Jackie Cruz</name>
+    <role>Marisol 'Flaca' Gonzales</role>
+    <type>Actor</type>
+    <tmdbid>1443625</tmdbid>
+    <imdbid>nm3117320</imdbid>
+  </actor>
+  <actor>
+    <name>Selenis Leyva</name>
+    <role>Gloria Mendoza</role>
+    <type>Actor</type>
+    <tmdbid>162503</tmdbid>
+    <imdbid>nm0508139</imdbid>
+  </actor>
+  <actor>
+    <name>Taryn Manning</name>
+    <role>Tiffany 'Pennsatucky' Doggett</role>
+    <type>Actor</type>
+    <tmdbid>343</tmdbid>
+    <imdbid>nm0543383</imdbid>
+  </actor>
+  <actor>
+    <name>Adrienne C. Moore</name>
+    <role>Cindy Hayes</role>
+    <type>Actor</type>
+    <tmdbid>1443478</tmdbid>
+  </actor>
+  <actor>
+    <name>Dascha Polanco</name>
+    <role>Dayanara Diaz</role>
+    <type>Actor</type>
+    <tmdbid>1026947</tmdbid>
+    <imdbid>nm4745601</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Sandow</name>
+    <role>Joe Caputo</role>
+    <type>Actor</type>
+    <tmdbid>95519</tmdbid>
+    <imdbid>nm0762191</imdbid>
+  </actor>
+  <actor>
+    <name>Yael Stone</name>
+    <role>Lorna Morello</role>
+    <type>Actor</type>
+    <tmdbid>1028560</tmdbid>
+    <imdbid>nm0832227</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Mulgrew</name>
+    <role>Galina 'Red' Reznikov</role>
+    <type>Actor</type>
+    <tmdbid>35317</tmdbid>
+    <imdbid>nm0000550</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Prepon</name>
+    <role>Alex Vause</role>
+    <type>Actor</type>
+    <tmdbid>18974</tmdbid>
+    <imdbid>nm0696059</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Rodriguez</name>
+    <role>Aleida Diaz</role>
+    <type>Actor</type>
+    <tmdbid>65421</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Pimentel</name>
+    <role>Maria Ruiz</role>
+    <type>Actor</type>
+    <tmdbid>171940</tmdbid>
+    <imdbid>nm1478791</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Gómez</name>
+    <role>Blanca Flores</role>
+    <type>Actor</type>
+    <tmdbid>1443612</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Peters</name>
+    <role>Joel Luschek</role>
+    <type>Actor</type>
+    <tmdbid>1448945</tmdbid>
+  </actor>
+  <actor>
+    <name>Dale Soules</name>
+    <role>Frieda Berlin</role>
+    <type>Actor</type>
+    <tmdbid>1102500</tmdbid>
+  </actor>
+  <actor>
+    <name>Alysia Reiner</name>
+    <role>Natalie Figueroa</role>
+    <type>Actor</type>
+    <tmdbid>109740</tmdbid>
+  </actor>
+  <actor>
+    <name>Carla Carvalho</name>
+    <role>Ice Detainee (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>2592202</tmdbid>
+  </actor>
+  <actor>
+    <name>Catherine Curtin</name>
+    <role>Wanda Bell</role>
+    <type>GuestStar</type>
+    <tmdbid>205808</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Hoag</name>
+    <role>Bill Chapman</role>
+    <type>GuestStar</type>
+    <tmdbid>164177</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosie Berrido</name>
+    <role>Milagros</role>
+    <type>GuestStar</type>
+    <tmdbid>1651156</tmdbid>
+  </actor>
+  <actor>
+    <name>Agatha Christine Celleri</name>
+    <role>8 Yr Old Cecilia</role>
+    <type>GuestStar</type>
+    <tmdbid>2476143</tmdbid>
+  </actor>
+  <actor>
+    <name>Danielle Ferland</name>
+    <role>Sharon</role>
+    <type>GuestStar</type>
+    <tmdbid>1161048</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmen Ruby Floyd</name>
+    <role>Beverly</role>
+    <type>GuestStar</type>
+    <tmdbid>2375338</tmdbid>
+  </actor>
+  <actor>
+    <name>Bárbara Jimenez</name>
+    <role>Maria Ramos</role>
+    <type>GuestStar</type>
+    <tmdbid>1267331</tmdbid>
+  </actor>
+  <actor>
+    <name>Mahira Kakkar</name>
+    <role>Chaarumathi</role>
+    <type>GuestStar</type>
+    <tmdbid>206430</tmdbid>
+  </actor>
+  <actor>
+    <name>Sue Kurowski</name>
+    <role>Joanne</role>
+    <type>GuestStar</type>
+    <tmdbid>2375349</tmdbid>
+  </actor>
+  <actor>
+    <name>Olga Merediz</name>
+    <role>Lourdes</role>
+    <type>GuestStar</type>
+    <tmdbid>53937</tmdbid>
+  </actor>
+  <actor>
+    <name>Jo Lampert</name>
+    <role>Marie Brock</role>
+    <type>GuestStar</type>
+    <tmdbid>3090883</tmdbid>
+  </actor>
+  <actor>
+    <name>Claudia Morcate-Martin</name>
+    <role>6 Yr Old Elena</role>
+    <type>GuestStar</type>
+    <tmdbid>2556259</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Rodriguez</name>
+    <role>Vicente</role>
+    <type>GuestStar</type>
+    <tmdbid>1447848</tmdbid>
+  </actor>
+  <actor>
+    <name>Marianly Tejada</name>
+    <role>Elena Mendoza (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>2980860</tmdbid>
+  </actor>
+  <actor>
+    <name>Diane Guerrero</name>
+    <role>Maritza Ramos</role>
+    <type>GuestStar</type>
+    <tmdbid>1010157</tmdbid>
+  </actor>
+  <actor>
+    <name>Finnerty Steeves</name>
+    <role>Beth Hoefler</role>
+    <type>GuestStar</type>
+    <tmdbid>1789094</tmdbid>
+  </actor>
+  <actor>
+    <name>Alice Kremelberg</name>
+    <role>Nicole Eckelcamp</role>
+    <type>GuestStar</type>
+    <tmdbid>1357037</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniella De Jesús</name>
+    <role>Zirconia Cabrera</role>
+    <type>GuestStar</type>
+    <tmdbid>2375308</tmdbid>
+  </actor>
+  <actor>
+    <name>Hunter Emery</name>
+    <role>CO Rick Hopper</role>
+    <type>GuestStar</type>
+    <tmdbid>1376582</tmdbid>
+  </actor>
+  <actor>
+    <name>Branden Wellington</name>
+    <role>CO Jarod Young</role>
+    <type>GuestStar</type>
+    <tmdbid>2146550</tmdbid>
+  </actor>
+  <actor>
+    <name>Sipiwe Moyo</name>
+    <role>Adeola</role>
+    <type>GuestStar</type>
+    <tmdbid>1511822</tmdbid>
+  </actor>
+  <actor>
+    <name>Pat Bowie</name>
+    <role>Ethel Heyward</role>
+    <type>GuestStar</type>
+    <tmdbid>2376898</tmdbid>
+  </actor>
+  <actor>
+    <name>Phumzile Sitole</name>
+    <role>Akers</role>
+    <type>GuestStar</type>
+    <tmdbid>1761816</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Cabellon</name>
+    <role>Elmer Fantauzzo</role>
+    <type>GuestStar</type>
+    <tmdbid>2090811</tmdbid>
+  </actor>
+  <actor>
+    <name>Claudette Lalí</name>
+    <role>Inmate (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>104023</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Garland</name>
+    <role>Scott O'Neill</role>
+    <type>GuestStar</type>
+    <tmdbid>88550</tmdbid>
+    <imdbid>nm0307534</imdbid>
+  </actor>
+  <actor>
+    <name>Susan Heyward</name>
+    <role>Tamika Ward</role>
+    <type>GuestStar</type>
+    <tmdbid>1422261</tmdbid>
+    <imdbid>nm2526851</imdbid>
+  </actor>
+  <actor>
+    <name>Marie-Lou Nahhas</name>
+    <role>Shani Abboud</role>
+    <type>GuestStar</type>
+    <tmdbid>2375333</tmdbid>
+  </actor>
+  <actor>
+    <name>Ismenia Mendes</name>
+    <role>Tali Grapes</role>
+    <type>GuestStar</type>
+    <tmdbid>1175708</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Knox</name>
+    <role>Tina Swope</role>
+    <type>GuestStar</type>
+    <tmdbid>1837932</tmdbid>
+  </actor>
+  <actor>
+    <name>Christina Toth</name>
+    <role>Annalisa Damiva</role>
+    <type>GuestStar</type>
+    <tmdbid>2375409</tmdbid>
+  </actor>
+  <actor>
+    <name>Besanya Santiago</name>
+    <role>Creech</role>
+    <type>GuestStar</type>
+    <tmdbid>2375413</tmdbid>
+  </actor>
+  <actor>
+    <name>Reema Sampat</name>
+    <role>Shruti Chambal</role>
+    <type>GuestStar</type>
+    <tmdbid>1431076</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Tarver</name>
+    <role>CO Artesian McCullough</role>
+    <type>GuestStar</type>
+    <tmdbid>1534551</tmdbid>
+  </actor>
+  <actor>
+    <name>John Magaro</name>
+    <role>Vince Muccio</role>
+    <type>GuestStar</type>
+    <tmdbid>37154</tmdbid>
+  </actor>
+  <director>Andrew McCarthy</director>
+  <rating>6.3</rating>
+  <year>2019</year>
+  <imdbid>tt9032546</imdbid>
+  <tvdbid>7285682</tvdbid>
+  <runtime>61</runtime>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt9032546</uniqueid>
+  <uniqueid type="Tvdb">7285682</uniqueid>
+  <episode>4</episode>
+  <season>7</season>
+  <aired>2019-07-26</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5666728</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>60</duration>
+        <durationinseconds>3648</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

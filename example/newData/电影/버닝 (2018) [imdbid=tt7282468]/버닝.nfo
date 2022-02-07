@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[翻拍自村上春树的短篇小说《烧仓房》，故事内容较原作有大副改动。在一次送货的过程中，年轻的邮差钟秀（刘亚仁 饰）偶然间与童年好友惠美（全钟淑 饰）相遇。在前往非洲旅行之前，她请求钟秀照顾她的猫咪。旅行回来后，惠美向他介绍了本（史蒂文·元 饰），一个她在旅途上认识的神秘男人。一天，本向钟秀展示了一种奇怪却又让他无法抗拒的爱好。。。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-06-10 07:26:09</dateadded>
+  <title>燃烧</title>
+  <originaltitle>버닝</originaltitle>
+  <actor>
+    <name>Yoo Ah-in</name>
+    <role>Lee Jong-su</role>
+    <type>Actor</type>
+    <tmdbid>572225</tmdbid>
+    <imdbid>nm2584860</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Yeun</name>
+    <role>Ben</role>
+    <type>Actor</type>
+    <tmdbid>215055</tmdbid>
+    <imdbid>nm3081796</imdbid>
+  </actor>
+  <actor>
+    <name>Jeon Jong-seo</name>
+    <role>Shin Hae-mi</role>
+    <type>Actor</type>
+    <tmdbid>1937533</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Soo-kyung</name>
+    <role>Yeon-ju</role>
+    <type>Actor</type>
+    <tmdbid>2043067</tmdbid>
+  </actor>
+  <actor>
+    <name>Choi Seung-ho</name>
+    <role>Lee Yong-seok</role>
+    <type>Actor</type>
+    <tmdbid>1703282</tmdbid>
+  </actor>
+  <actor>
+    <name>Moon Sung-keun</name>
+    <role>Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>240948</tmdbid>
+    <imdbid>nm0600673</imdbid>
+  </actor>
+  <actor>
+    <name>Min Bok-gi</name>
+    <role>Judge</role>
+    <type>Actor</type>
+    <tmdbid>1107744</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Soo-jeong</name>
+    <role>Prosecutor</role>
+    <type>Actor</type>
+    <tmdbid>1291039</tmdbid>
+  </actor>
+  <actor>
+    <name>Ban Hye-ra</name>
+    <role>Jong-su's Mom</role>
+    <type>Actor</type>
+    <tmdbid>2133919</tmdbid>
+  </actor>
+  <actor>
+    <name>Cha Mi-Kyung</name>
+    <role>Hae-mi's Mom</role>
+    <type>Actor</type>
+    <tmdbid>2133920</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Bong-ryeon</name>
+    <role>Hae-mi's Sister</role>
+    <type>Actor</type>
+    <tmdbid>2133921</tmdbid>
+    <imdbid>nm6771505</imdbid>
+  </actor>
+  <actor>
+    <name>Jang Won-hyung</name>
+    <role>Won-hyeong</role>
+    <type>Actor</type>
+    <tmdbid>2133922</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeon Seok-chan</name>
+    <role>Seok-chan</role>
+    <type>Actor</type>
+    <tmdbid>2067054</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Joong-ok</name>
+    <role>Patrolman</role>
+    <type>Actor</type>
+    <tmdbid>2133923</tmdbid>
+  </actor>
+  <actor>
+    <name>Ok Ja-yeon</name>
+    <role>Ja-yeon</role>
+    <type>Actor</type>
+    <tmdbid>2133924</tmdbid>
+  </actor>
+  <director tmdbid="96657">Lee Chang-dong</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8kyOvsbj_hs</trailer>
+  <rating>7.5</rating>
+  <year>2018</year>
+  <mpaa>NR</mpaa>
+  <imdbid>tt7282468</imdbid>
+  <tmdbid>491584</tmdbid>
+  <premiered>2018-05-17</premiered>
+  <releasedate>2018-05-17</releasedate>
+  <criticrating>95</criticrating>
+  <runtime>148</runtime>
+  <country>South Korea</country>
+  <genre>悬疑</genre>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <studio>Pinehouse Film</studio>
+  <studio>NOWFILM</studio>
+  <studio>NHK</studio>
+  <studio>CGV Arthouse</studio>
+  <uniqueid type="Tmdb">491584</uniqueid>
+  <uniqueid type="Imdb">tt7282468</uniqueid>
+  <id>tt7282468</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2129404</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>29.97003</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>148</duration>
+        <durationinseconds>8886</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>128000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

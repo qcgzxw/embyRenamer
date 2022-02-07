@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[After joining London crime boss Alfie Solomons in a business venture, Tommy worries that Alfie's newly revealed volatility could pose a problem.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-05-17 02:12:15</dateadded>
+  <title>第 3 集</title>
+  <actor>
+    <name>Cillian Murphy</name>
+    <role>Tommy Shelby</role>
+    <type>Actor</type>
+    <tmdbid>2037</tmdbid>
+    <imdbid>nm0614165</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Anderson</name>
+    <role>Arthur Shelby</role>
+    <type>Actor</type>
+    <tmdbid>220448</tmdbid>
+    <imdbid>nm2167957</imdbid>
+  </actor>
+  <actor>
+    <name>Finn Cole</name>
+    <role>Michael Gray</role>
+    <type>Actor</type>
+    <tmdbid>1508313</tmdbid>
+    <imdbid>nm6806440</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Cole</name>
+    <role>John Shelby</role>
+    <type>Actor</type>
+    <tmdbid>1081875</tmdbid>
+    <imdbid>nm3771184</imdbid>
+  </actor>
+  <actor>
+    <name>Helen McCrory</name>
+    <role>Polly Gray</role>
+    <type>Actor</type>
+    <tmdbid>15737</tmdbid>
+    <imdbid>nm0567031</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Neill</name>
+    <role>C.I. Chester Campbell</role>
+    <type>Actor</type>
+    <tmdbid>4783</tmdbid>
+    <imdbid>nm0000554</imdbid>
+  </actor>
+  <actor>
+    <name>Sophie Rundle</name>
+    <role>Ada Shelby</role>
+    <type>Actor</type>
+    <tmdbid>1088620</tmdbid>
+    <imdbid>nm2570706</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Hardy</name>
+    <role>Alfie Solomons</role>
+    <type>Actor</type>
+    <tmdbid>2524</tmdbid>
+    <imdbid>nm0362766</imdbid>
+  </actor>
+  <actor>
+    <name>Natasha O'Keeffe</name>
+    <role>Lizzie Stark</role>
+    <type>Actor</type>
+    <tmdbid>1167897</tmdbid>
+    <imdbid>nm3761798</imdbid>
+  </actor>
+  <actor>
+    <name>Annabelle Wallis</name>
+    <role>Grace Burgess</role>
+    <type>Actor</type>
+    <tmdbid>82809</tmdbid>
+    <imdbid>nm1834115</imdbid>
+  </actor>
+  <actor>
+    <name>Noah Taylor</name>
+    <role>Darby Sabini</role>
+    <type>Actor</type>
+    <tmdbid>1284</tmdbid>
+    <imdbid>nm0852965</imdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Riley</name>
+    <role>May Carleton</role>
+    <type>GuestStar</type>
+    <tmdbid>115679</tmdbid>
+    <imdbid>nm2731660</imdbid>
+  </actor>
+  <actor>
+    <name>James Eeles</name>
+    <role>The Digbeth Kid</role>
+    <type>GuestStar</type>
+    <tmdbid>1951021</tmdbid>
+  </actor>
+  <actor>
+    <name>Barry Aird</name>
+    <role>Bonnie</role>
+    <type>GuestStar</type>
+    <tmdbid>1015829</tmdbid>
+  </actor>
+  <actor>
+    <name>Erin Shanagher</name>
+    <role>Grieving Woman</role>
+    <type>GuestStar</type>
+    <tmdbid>1159662</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Askew</name>
+    <role>Winson Green Heavy</role>
+    <type>GuestStar</type>
+    <tmdbid>1312123</tmdbid>
+  </actor>
+  <actor>
+    <name>Guy Williams</name>
+    <role>Sir Ian Carleton</role>
+    <type>GuestStar</type>
+    <tmdbid>974063</tmdbid>
+  </actor>
+  <actor>
+    <name>Nigel Hastings</name>
+    <role>Auctioneer</role>
+    <type>GuestStar</type>
+    <tmdbid>1824709</tmdbid>
+  </actor>
+  <actor>
+    <name>Lizzy McInnerny</name>
+    <role>Mrs. Ross</role>
+    <type>GuestStar</type>
+    <tmdbid>202031</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Bullion</name>
+    <role>Billy Kitchen</role>
+    <type>GuestStar</type>
+    <tmdbid>1488465</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Pitts</name>
+    <role>Sergeant Moss</role>
+    <type>GuestStar</type>
+    <tmdbid>1229255</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam El Hagar</name>
+    <role>Ollie</role>
+    <type>GuestStar</type>
+    <tmdbid>2424349</tmdbid>
+    <imdbid>nm1029242</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Hazeldine</name>
+    <role>Georgie Sewell</role>
+    <type>GuestStar</type>
+    <tmdbid>563559</tmdbid>
+    <imdbid>nm1486831</imdbid>
+  </actor>
+  <actor>
+    <name>Ned Dennehy</name>
+    <role>Charlie Strong</role>
+    <type>GuestStar</type>
+    <tmdbid>63362</tmdbid>
+  </actor>
+  <actor>
+    <name>Harry Kirton</name>
+    <role>Finn Shelby</role>
+    <type>GuestStar</type>
+    <tmdbid>1839855</tmdbid>
+  </actor>
+  <director>Colm McCarthy</director>
+  <rating>8.3</rating>
+  <year>2014</year>
+  <imdbid>tt3683572</imdbid>
+  <tvdbid>5008790</tvdbid>
+  <runtime>59</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <tvrageid>1065679741</tvrageid>
+  <uniqueid type="Imdb">tt3683572</uniqueid>
+  <uniqueid type="Tvdb">5008790</uniqueid>
+  <uniqueid type="TvRage">1065679741</uniqueid>
+  <episode>3</episode>
+  <season>2</season>
+  <aired>2014-10-16</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10542595</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>59</duration>
+        <durationinseconds>3559</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-06 00:41:01</dateadded>
+  <title>小丑Jelly</title>
+  <actor>
+    <name>Dawn French</name>
+    <type>Actor</type>
+    <tmdbid>5539</tmdbid>
+    <imdbid>nm0294067</imdbid>
+  </actor>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Maureen Sowerbutts</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Biggins</name>
+    <type>Actor</type>
+    <tmdbid>133499</tmdbid>
+    <imdbid>nm0081811</imdbid>
+  </actor>
+  <actor>
+    <name>Debbie Chazen</name>
+    <type>Actor</type>
+    <tmdbid>1220030</tmdbid>
+    <imdbid>nm0154708</imdbid>
+  </actor>
+  <actor>
+    <name>Eileen Atkins</name>
+    <type>Actor</type>
+    <tmdbid>20300</tmdbid>
+    <imdbid>nm0040586</imdbid>
+  </actor>
+  <actor>
+    <name>Natalie Cassidy</name>
+    <type>Actor</type>
+    <tmdbid>1216087</tmdbid>
+    <imdbid>nm0144231</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Berrington</name>
+    <type>Actor</type>
+    <tmdbid>42998</tmdbid>
+    <imdbid>nm0077397</imdbid>
+  </actor>
+  <actor>
+    <name>Adrian Scarborough</name>
+    <type>Actor</type>
+    <tmdbid>40311</tmdbid>
+    <imdbid>nm0769083</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Kaluuya</name>
+    <role>Tealeaf / Michael Fry</role>
+    <type>Actor</type>
+    <tmdbid>206919</tmdbid>
+    <imdbid>nm2257207</imdbid>
+  </actor>
+  <actor>
+    <name>Vilma Hollingbery</name>
+    <type>Actor</type>
+    <tmdbid>81031</tmdbid>
+    <imdbid>nm0391108</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>David Sowerbutts</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Tompkins</name>
+    <role>Robert</role>
+    <type>Actor</type>
+    <tmdbid>1990805</tmdbid>
+  </actor>
+  <actor>
+    <name>Dominic Coleman</name>
+    <type>GuestStar</type>
+    <tmdbid>1365437</tmdbid>
+    <imdbid>nm0171015</imdbid>
+  </actor>
+  <actor>
+    <name>Janet McTeer</name>
+    <type>GuestStar</type>
+    <tmdbid>47627</tmdbid>
+    <imdbid>nm0005216</imdbid>
+  </actor>
+  <director>Matt Lipsey</director>
+  <rating>0</rating>
+  <year>2009</year>
+  <tvdbid>823881</tvdbid>
+  <runtime>29</runtime>
+  <tvrageid>1064821548</tvrageid>
+  <uniqueid type="Tvdb">823881</uniqueid>
+  <uniqueid type="TvRage">1064821548</uniqueid>
+  <episode>3</episode>
+  <season>1</season>
+  <aired>2009-07-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4818109</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1746</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

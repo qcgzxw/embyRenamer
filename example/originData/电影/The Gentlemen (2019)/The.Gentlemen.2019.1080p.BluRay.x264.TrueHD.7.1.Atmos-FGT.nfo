@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[本片讲述一个英国毒枭准备将他盈利丰厚的帝国卖给美国俄克拉荷马亿万富翁。麦康纳饰演这位欲将金盆洗手的毒枭，道克瑞饰演毒枭妻子。戈尔丁饰演一位越南黑帮。格兰特饰演一位拍到毒枭暗箱交易过程照片，欲用此来威胁毒枭的摄影师。法瑞尔的角色名为“Coach”，他是一位综合格斗训练师。]]></plot>
+  <outline><![CDATA[绅士们]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-13 05:15:44</dateadded>
+  <title>绅士们</title>
+  <originaltitle>The Gentlemen</originaltitle>
+  <actor>
+    <name>Matthew McConaughey</name>
+    <role>Mickey Pearson</role>
+    <type>Actor</type>
+    <tmdbid>10297</tmdbid>
+    <imdbid>nm0000190</imdbid>
+  </actor>
+  <actor>
+    <name>Charlie Hunnam</name>
+    <role>Raymond</role>
+    <type>Actor</type>
+    <tmdbid>56365</tmdbid>
+    <imdbid>nm0402271</imdbid>
+  </actor>
+  <actor>
+    <name>Henry Golding</name>
+    <role>Dry Eye</role>
+    <type>Actor</type>
+    <tmdbid>1807132</tmdbid>
+    <imdbid>nm8850080</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Dockery</name>
+    <role>Rosalind</role>
+    <type>Actor</type>
+    <tmdbid>70904</tmdbid>
+    <imdbid>nm1890784</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Strong</name>
+    <role>Cannabis Kingpin Matthew</role>
+    <type>Actor</type>
+    <tmdbid>239271</tmdbid>
+    <imdbid>nm0834989</imdbid>
+  </actor>
+  <actor>
+    <name>Colin Farrell</name>
+    <role>Coach</role>
+    <type>Actor</type>
+    <tmdbid>72466</tmdbid>
+    <imdbid>nm0268199</imdbid>
+  </actor>
+  <actor>
+    <name>Hugh Grant</name>
+    <role>Fletcher</role>
+    <type>Actor</type>
+    <tmdbid>3291</tmdbid>
+    <imdbid>nm0000424</imdbid>
+  </actor>
+  <actor>
+    <name>Eddie Marsan</name>
+    <role>Big Dave</role>
+    <type>Actor</type>
+    <tmdbid>1665</tmdbid>
+    <imdbid>nm0550371</imdbid>
+  </actor>
+  <actor>
+    <name>Chidi Ajufo</name>
+    <role>Bunny</role>
+    <type>Actor</type>
+    <tmdbid>1285754</tmdbid>
+    <imdbid>nm5056213</imdbid>
+  </actor>
+  <actor>
+    <name>Simon R. Barker</name>
+    <role>Frazier</role>
+    <type>Actor</type>
+    <tmdbid>2489487</tmdbid>
+    <imdbid>nm11318182</imdbid>
+  </actor>
+  <actor>
+    <name>Brittany Ashworth</name>
+    <role>Ruby</role>
+    <type>Actor</type>
+    <tmdbid>1197948</tmdbid>
+    <imdbid>nm1312305</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Wong</name>
+    <role>Phuc</role>
+    <type>Actor</type>
+    <tmdbid>1033691</tmdbid>
+    <imdbid>nm3438484</imdbid>
+  </actor>
+  <actor>
+    <name>Jordan Long</name>
+    <role>Bobby</role>
+    <type>Actor</type>
+    <tmdbid>199529</tmdbid>
+    <imdbid>nm1316651</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Bodnar</name>
+    <role>Rambler</role>
+    <type>Actor</type>
+    <tmdbid>107969</tmdbid>
+    <imdbid>nm2569973</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Evangelou</name>
+    <role>Primetime</role>
+    <type>Actor</type>
+    <tmdbid>2489485</tmdbid>
+    <imdbid>nm7987242</imdbid>
+  </actor>
+  <actor>
+    <name>Coco Sumner</name>
+    <role>Laura Pressfield</role>
+    <type>Actor</type>
+    <tmdbid>1586573</tmdbid>
+    <imdbid>nm1091393</imdbid>
+  </actor>
+  <actor>
+    <name>Chloe Arrowsmith</name>
+    <role>Mechanic</role>
+    <type>Actor</type>
+    <tmdbid>2489486</tmdbid>
+    <imdbid>nm3570630</imdbid>
+  </actor>
+  <actor>
+    <name>Russell Balogh</name>
+    <role>Russell</role>
+    <type>Actor</type>
+    <tmdbid>937222</tmdbid>
+    <imdbid>nm4095121</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Barnett</name>
+    <role>Fishmonger</role>
+    <type>Actor</type>
+    <tmdbid>2341042</tmdbid>
+    <imdbid>nm2737377</imdbid>
+  </actor>
+  <actor>
+    <name>Max Bennett</name>
+    <role>Brown</role>
+    <type>Actor</type>
+    <tmdbid>1428460</tmdbid>
+    <imdbid>nm2976920</imdbid>
+  </actor>
+  <actor>
+    <name>Bruce Chong</name>
+    <role>Npuc</role>
+    <type>Actor</type>
+    <tmdbid>1743508</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Griffin</name>
+    <role>Aslan</role>
+    <type>Actor</type>
+    <tmdbid>2244576</tmdbid>
+    <imdbid>nm10102844</imdbid>
+  </actor>
+  <actor>
+    <name>Togo Igawa</name>
+    <role>Wang Yong</role>
+    <type>Actor</type>
+    <tmdbid>9192</tmdbid>
+    <imdbid>nm0407033</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Jones</name>
+    <role>Nick</role>
+    <type>Actor</type>
+    <tmdbid>2511447</tmdbid>
+    <imdbid>nm8262259</imdbid>
+  </actor>
+  <actor>
+    <name>Eugenia Kuzmina</name>
+    <role>Misha</role>
+    <type>Actor</type>
+    <tmdbid>1333845</tmdbid>
+    <imdbid>nm4294308</imdbid>
+  </actor>
+  <actor>
+    <name>Lyne Renee</name>
+    <role>Jackie</role>
+    <type>Actor</type>
+    <tmdbid>45753</tmdbid>
+    <imdbid>nm1869872</imdbid>
+  </actor>
+  <actor>
+    <name>James Warren</name>
+    <role>Jim</role>
+    <type>Actor</type>
+    <tmdbid>1646438</tmdbid>
+    <imdbid>nm0912879</imdbid>
+  </actor>
+  <actor>
+    <name>Elle Black</name>
+    <role>Mechanic (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2586504</tmdbid>
+    <imdbid>nm4950155</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Wu</name>
+    <role>Lord George</role>
+    <type>Actor</type>
+    <tmdbid>67212</tmdbid>
+    <imdbid>nm0943179</imdbid>
+  </actor>
+  <actor>
+    <name>Amor Evans</name>
+    <type>Actor</type>
+    <tmdbid>3036201</tmdbid>
+  </actor>
+  <actor>
+    <name>Geraldine Somerville</name>
+    <role>Lady Pressfield</role>
+    <type>Actor</type>
+    <tmdbid>10988</tmdbid>
+  </actor>
+  <director tmdbid="956" imdbid="nm0005363">Guy Ritchie</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2B0RpUGss2c</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KlXsguV9g0E</trailer>
+  <rating>7.8</rating>
+  <year>2019</year>
+  <mpaa>HK-IIB</mpaa>
+  <imdbid>tt8367814</imdbid>
+  <tmdbid>522627</tmdbid>
+  <premiered>2019-12-03</premiered>
+  <releasedate>2019-12-03</releasedate>
+  <runtime>114</runtime>
+  <tagline>绅士们</tagline>
+  <country>United States of America</country>
+  <country>United Kingdom</country>
+  <genre>动作</genre>
+  <genre>犯罪</genre>
+  <genre>喜剧</genre>
+  <studio>Miramax</studio>
+  <studio>STX Films</studio>
+  <studio>Toff Guy Films</studio>
+  <studio>Leonine</studio>
+  <uniqueid type="Tmdb">522627</uniqueid>
+  <uniqueid type="Imdb">tt8367814</uniqueid>
+  <id>tt8367814</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>14068899</bitrate>
+        <width>1920</width>
+        <height>808</height>
+        <aspect>240:101</aspect>
+        <aspectratio>240:101</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>113</duration>
+        <durationinseconds>6820</durationinseconds>
+      </video>
+      <audio>
+        <codec>truehd</codec>
+        <micodec>truehd</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

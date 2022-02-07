@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Jimmy（吉米）和“碰瓷男孩”的敲诈计划阴差阳错惹上了 Miriam（米罗），他们被挟持到荒漠，面对 Miriam（米罗）的死亡威胁，Jimmy（吉米）展开言语上的攻势，才化险为夷，却是以断掉两位男孩腿为代价。之后 Jimmy（吉米）一承不变的过着他的律师生活。然而，在荒漠中的 Nacho（纳乔·瓦尔加）找到 Jimmy（吉米）询问此前要敲诈之人现金藏处一事，Jimmy（吉米）表示绝不会介入此事。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-08-01 21:55:19</dateadded>
+  <title>我儿</title>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Jimmy McGill</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Rhea Seehorn</name>
+    <role>Kim Wexler</role>
+    <type>Actor</type>
+    <tmdbid>62765</tmdbid>
+    <imdbid>nm0781533</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Fabian</name>
+    <role>Howard Hamlin</role>
+    <type>Actor</type>
+    <tmdbid>58791</tmdbid>
+    <imdbid>nm0264579</imdbid>
+  </actor>
+  <actor>
+    <name>Michael McKean</name>
+    <role>Chuck McGill</role>
+    <type>Actor</type>
+    <tmdbid>21731</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Mando</name>
+    <role>Nacho Varga</role>
+    <type>GuestStar</type>
+    <tmdbid>829372</tmdbid>
+    <imdbid>nm3103126</imdbid>
+  </actor>
+  <actor>
+    <name>Eileen Fogarty</name>
+    <role>Mrs. Nguyen</role>
+    <type>GuestStar</type>
+    <tmdbid>1411168</tmdbid>
+    <imdbid>nm1658328</imdbid>
+  </actor>
+  <actor>
+    <name>Raymond Cruz</name>
+    <role>Tuco Salamanca</role>
+    <type>GuestStar</type>
+    <tmdbid>58650</tmdbid>
+    <imdbid>nm0190441</imdbid>
+  </actor>
+  <director>Michelle MacLaren</director>
+  <rating>8.275</rating>
+  <year>2015</year>
+  <imdbid>tt3857028</imdbid>
+  <tvdbid>5054192</tvdbid>
+  <runtime>46</runtime>
+  <tvrageid>1065716512</tvrageid>
+  <uniqueid type="Tvdb">5054192</uniqueid>
+  <uniqueid type="TvRage">1065716512</uniqueid>
+  <uniqueid type="Imdb">tt3857028</uniqueid>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2015-02-09</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10143286</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>46</duration>
+        <durationinseconds>2772</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

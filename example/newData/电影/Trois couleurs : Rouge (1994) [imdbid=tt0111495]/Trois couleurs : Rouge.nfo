@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[女学生瓦伦丁（伊莲娜·雅各布 Irène Jacob饰）是个兼职模特，男朋友远在英国。尽管她非常珍惜这段感情，却无法阻止男友对自己的猜忌。退休法官（简-路易斯·特林提格南特 Jean-Louis Trintignant饰）年轻时经历过铭心刻骨的情伤，爱人的背叛让他不再相信这个世界。唯一的乐趣，就是窃听邻居的电话，看人与人之间是如何充满欺骗。认识瓦伦丁之后，他冰封多年的情感开始融化。法律系学生奥古斯特（简·皮埃尔·洛里 Jean-Pierre Lorit饰）前程锦绣，却不得不面对恋人感情的出轨。他决定前往英国一段时间，以摆脱痛苦的心情，在客轮上遇到了同往英国寻找男友的瓦伦丁…]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-06 00:31:44</dateadded>
+  <title>蓝白红三部曲之红</title>
+  <originaltitle>Trois couleurs : Rouge</originaltitle>
+  <actor>
+    <name>Irène Jacob</name>
+    <role>Valentine Dussaut</role>
+    <type>Actor</type>
+    <tmdbid>1350</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean-Louis Trintignant</name>
+    <role>Richter Joseph Kern</role>
+    <type>Actor</type>
+    <tmdbid>1352</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean-Pierre Lorit</name>
+    <role>Auguste Bruner</role>
+    <type>Actor</type>
+    <tmdbid>1356</tmdbid>
+  </actor>
+  <actor>
+    <name>Frédérique Feder</name>
+    <role>Karin</role>
+    <type>Actor</type>
+    <tmdbid>1354</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel Le Bihan</name>
+    <role>Le photographe</role>
+    <type>Actor</type>
+    <tmdbid>49025</tmdbid>
+  </actor>
+  <actor>
+    <name>Marion Stalens</name>
+    <role>Le Vétérinaire</role>
+    <type>Actor</type>
+    <tmdbid>27983</tmdbid>
+  </actor>
+  <actor>
+    <name>Teco Celio</name>
+    <role>Le barman</role>
+    <type>Actor</type>
+    <tmdbid>73873</tmdbid>
+  </actor>
+  <actor>
+    <name>Bernard Escalon</name>
+    <role>Le disquaire</role>
+    <type>Actor</type>
+    <tmdbid>2276196</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean Schlegel</name>
+    <role>Le voisin</role>
+    <type>Actor</type>
+    <tmdbid>2287855</tmdbid>
+  </actor>
+  <actor>
+    <name>Elzbieta Jasinska</name>
+    <role>La femme</role>
+    <type>Actor</type>
+    <tmdbid>2287856</tmdbid>
+  </actor>
+  <actor>
+    <name>Zbigniew Zamachowski</name>
+    <role>Karol Karol</role>
+    <type>Actor</type>
+    <tmdbid>1145</tmdbid>
+    <imdbid>nm0952498</imdbid>
+  </actor>
+  <actor>
+    <name>Juliette Binoche</name>
+    <role>Julie Vignon (de Courcy)</role>
+    <type>Actor</type>
+    <tmdbid>1137</tmdbid>
+    <imdbid>nm0000300</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Delpy</name>
+    <role>Dominique</role>
+    <type>Actor</type>
+    <tmdbid>1146</tmdbid>
+    <imdbid>nm0000365</imdbid>
+  </actor>
+  <actor>
+    <name>Benoît Régent</name>
+    <role>Olivier</role>
+    <type>Actor</type>
+    <tmdbid>1138</tmdbid>
+    <imdbid>nm0753666</imdbid>
+  </actor>
+  <director tmdbid="1126" imdbid="nm0001425">Krzysztof Kieślowski</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZXNjdrYzxys</trailer>
+  <rating>8.1</rating>
+  <year>1994</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0111495</imdbid>
+  <tmdbid>110</tmdbid>
+  <premiered>1994-05-27</premiered>
+  <releasedate>1994-05-27</releasedate>
+  <criticrating>100</criticrating>
+  <runtime>100</runtime>
+  <country>France</country>
+  <country>Poland</country>
+  <country>Switzerland</country>
+  <genre>剧情</genre>
+  <genre>悬疑</genre>
+  <genre>爱情</genre>
+  <studio>Zespół Filmowy TOR</studio>
+  <studio>Le Studio Canal+</studio>
+  <studio>France 3 Cinéma</studio>
+  <studio>TSR</studio>
+  <set tmdbcolid="131">
+    <name>蓝白红（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">110</uniqueid>
+  <uniqueid type="Imdb">tt0111495</uniqueid>
+  <id>tt0111495</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>15001335</bitrate>
+        <width>1920</width>
+        <height>1036</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5974</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

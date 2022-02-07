@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[菲奥娜在一次家庭晚宴上宣布结婚的计划因一名同事吸毒过量而泡汤。与此同时，弗兰克答应给萨米一辆新的拖车，为了躲避她，他留在了他的肝脏捐赠者的悲痛家人身边。此外，黛比继续在德里克的健身房训练，卡尔在贩卖毒品的数学上苦苦挣扎，米奇请求利普帮助处理伊恩的反复无常的行为，维罗妮卡让凯文出去找个帮手。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-16 00:29:36</dateadded>
+  <title>通行礼</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Noel Fisher</name>
+    <role>Mickey Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>80352</tmdbid>
+    <imdbid>nm0279720</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Bergl</name>
+    <role>Sammi Slott</role>
+    <type>Actor</type>
+    <tmdbid>51390</tmdbid>
+    <imdbid>nm0004749</imdbid>
+  </actor>
+  <actor>
+    <name>Dichen Lachman</name>
+    <role>Angela</role>
+    <type>GuestStar</type>
+    <tmdbid>94797</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Fischler</name>
+    <role>Wade Shelton</role>
+    <type>GuestStar</type>
+    <tmdbid>52801</tmdbid>
+  </actor>
+  <actor>
+    <name>Alessandra Ford Balazs</name>
+    <role>Jackie Scabello</role>
+    <type>GuestStar</type>
+    <tmdbid>2574321</tmdbid>
+  </actor>
+  <actor>
+    <name>Stacy Edwards</name>
+    <role>Laura Shelton</role>
+    <type>GuestStar</type>
+    <tmdbid>43372</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Chatwin</name>
+    <role>Steve Wilton/Jimmy Lishman</role>
+    <type>GuestStar</type>
+    <tmdbid>503</tmdbid>
+  </actor>
+  <actor>
+    <name>J. Michael Trautmann</name>
+    <role>Iggy Milkovich</role>
+    <type>GuestStar</type>
+    <tmdbid>1327853</tmdbid>
+  </actor>
+  <actor>
+    <name>Danika Yarosh</name>
+    <role>Holly Herkimer</role>
+    <type>GuestStar</type>
+    <tmdbid>1466613</tmdbid>
+  </actor>
+  <actor>
+    <name>Luca Oriel</name>
+    <role>Derek Delgado</role>
+    <type>GuestStar</type>
+    <tmdbid>1148219</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Patrick McGill</name>
+    <role>Tommy</role>
+    <type>GuestStar</type>
+    <tmdbid>154816</tmdbid>
+    <imdbid>nm1042946</imdbid>
+  </actor>
+  <actor>
+    <name>Kellen Michael</name>
+    <role>Chuckie Slott</role>
+    <type>GuestStar</type>
+    <tmdbid>1809024</tmdbid>
+  </actor>
+  <actor>
+    <name>Dermot Mulroney</name>
+    <role>Sean Pierce</role>
+    <type>GuestStar</type>
+    <tmdbid>20212</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Kazee</name>
+    <role>Gus Pfender</role>
+    <type>GuestStar</type>
+    <tmdbid>207062</tmdbid>
+  </actor>
+  <director>Alex Graves</director>
+  <rating>8.1</rating>
+  <year>2015</year>
+  <imdbid>tt3904378</imdbid>
+  <tvdbid>5006636</tvdbid>
+  <runtime>50</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <tvrageid>1065627715</tvrageid>
+  <uniqueid type="Imdb">tt3904378</uniqueid>
+  <uniqueid type="Tvdb">5006636</uniqueid>
+  <uniqueid type="TvRage">1065627715</uniqueid>
+  <episode>5</episode>
+  <season>5</season>
+  <aired>2015-02-08</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>9298890</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>50</duration>
+        <durationinseconds>3024</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>265-SiGMA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

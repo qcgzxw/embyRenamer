@@ -1,0 +1,490 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[代号47（蒂莫西•奥利分特 饰）是一个利用基因技术制作的复制人，受雇于名为“The Agency”的组织进行刺杀活动，47是他颈背条码的最后两个数字，也是他的名字。因为卷入了政治阴谋，47在东欧遭到了国际刑警和俄国军队的双重追杀。在追查真凶的过程中，他遇上了一个致命的女人（欧嘉•克瑞兰蔻 饰）。杀手的冷酷无情渐渐被女人瓦解，但是生命也正在受到威胁……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2017-12-04 11:19:11</dateadded>
+  <title>杀手：代号47</title>
+  <originaltitle>Hitman</originaltitle>
+  <actor>
+    <name>Timothy Olyphant</name>
+    <role>Agent 47</role>
+    <type>Actor</type>
+    <tmdbid>18082</tmdbid>
+    <imdbid>nm0648249</imdbid>
+  </actor>
+  <actor>
+    <name>Dougray Scott</name>
+    <role>Mike Whittier</role>
+    <type>Actor</type>
+    <tmdbid>15336</tmdbid>
+    <imdbid>nm0779084</imdbid>
+  </actor>
+  <actor>
+    <name>Olga Kurylenko</name>
+    <role>Nika Boronina</role>
+    <type>Actor</type>
+    <tmdbid>18182</tmdbid>
+    <imdbid>nm1385871</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Knepper</name>
+    <role>Yuri Marklov</role>
+    <type>Actor</type>
+    <tmdbid>17343</tmdbid>
+    <imdbid>nm0460694</imdbid>
+  </actor>
+  <actor>
+    <name>Ulrich Thomsen</name>
+    <role>Mikhail Belicoff</role>
+    <type>Actor</type>
+    <tmdbid>4455</tmdbid>
+    <imdbid>nm0860947</imdbid>
+  </actor>
+  <actor>
+    <name>Henry Ian Cusick</name>
+    <role>Udre Belicoff</role>
+    <type>Actor</type>
+    <tmdbid>31166</tmdbid>
+    <imdbid>nm0193738</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Offei</name>
+    <role>Jenkins</role>
+    <type>Actor</type>
+    <tmdbid>18183</tmdbid>
+    <imdbid>nm1205067</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Erickson</name>
+    <role>General Kormarov</role>
+    <type>Actor</type>
+    <tmdbid>45849</tmdbid>
+    <imdbid>nm0259027</imdbid>
+  </actor>
+  <actor>
+    <name>Ériq Ebouaney</name>
+    <role>Bwana Ovie</role>
+    <type>Actor</type>
+    <tmdbid>25078</tmdbid>
+    <imdbid>nm0248254</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Sheridan</name>
+    <role>Captain Gudnayev</role>
+    <type>Actor</type>
+    <tmdbid>12983</tmdbid>
+    <imdbid>nm0792190</imdbid>
+  </actor>
+  <actor>
+    <name>James Faulkner</name>
+    <role>Smith Jamison</role>
+    <type>Actor</type>
+    <tmdbid>9140</tmdbid>
+    <imdbid>nm0269077</imdbid>
+  </actor>
+  <actor>
+    <name>Jean-Marc Bellu</name>
+    <role>Hitman #2</role>
+    <type>Actor</type>
+    <tmdbid>1450075</tmdbid>
+    <imdbid>nm0069248</imdbid>
+  </actor>
+  <actor>
+    <name>Nicky Naudé</name>
+    <role>Hitman #3</role>
+    <type>Actor</type>
+    <tmdbid>370383</tmdbid>
+    <imdbid>nm0622505</imdbid>
+  </actor>
+  <actor>
+    <name>Abdou Sagna</name>
+    <role>Hitman #4</role>
+    <type>Actor</type>
+    <tmdbid>2101586</tmdbid>
+    <imdbid>nm2306737</imdbid>
+  </actor>
+  <actor>
+    <name>Ilya Nikitenko</name>
+    <role>Hitman #5</role>
+    <type>Actor</type>
+    <tmdbid>1855955</tmdbid>
+    <imdbid>nm2281943</imdbid>
+  </actor>
+  <actor>
+    <name>Loïc Molla</name>
+    <role>Hitman #6</role>
+    <type>Actor</type>
+    <tmdbid>2101587</tmdbid>
+    <imdbid>nm1926152</imdbid>
+  </actor>
+  <actor>
+    <name>Youssef Diawara</name>
+    <role>Hog-Tied Prisoner</role>
+    <type>Actor</type>
+    <tmdbid>142976</tmdbid>
+    <imdbid>nm0224940</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Ligardes</name>
+    <role>Another Buyer</role>
+    <type>Actor</type>
+    <tmdbid>35970</tmdbid>
+    <imdbid>nm0509876</imdbid>
+  </actor>
+  <actor>
+    <name>Anca Radici</name>
+    <role>The Sad Girl</role>
+    <type>Actor</type>
+    <tmdbid>114712</tmdbid>
+    <imdbid>nm2400959</imdbid>
+  </actor>
+  <actor>
+    <name>Cyril Gueï</name>
+    <role>Old SUV Leader</role>
+    <type>Actor</type>
+    <tmdbid>131308</tmdbid>
+    <imdbid>nm1603574</imdbid>
+  </actor>
+  <actor>
+    <name>Ivan Yurukov</name>
+    <role>Russian John</role>
+    <type>Actor</type>
+    <tmdbid>1178171</tmdbid>
+  </actor>
+  <actor>
+    <name>Vladimir Kolev</name>
+    <role>HRT Guy</role>
+    <type>Actor</type>
+    <tmdbid>22016</tmdbid>
+    <imdbid>nm1019825</imdbid>
+  </actor>
+  <actor>
+    <name>Makssim Kolev Genchev</name>
+    <role>Yuri's Guy #3</role>
+    <type>Actor</type>
+    <tmdbid>2101588</tmdbid>
+    <imdbid>nm2844486</imdbid>
+  </actor>
+  <actor>
+    <name>Stefka Yanorova</name>
+    <role>Belicoff's Wife</role>
+    <type>Actor</type>
+    <tmdbid>586206</tmdbid>
+    <imdbid>nm1111360</imdbid>
+  </actor>
+  <actor>
+    <name>Kamen Ivanov</name>
+    <role>Russian Captain</role>
+    <type>Actor</type>
+    <tmdbid>1431949</tmdbid>
+    <imdbid>nm6334882</imdbid>
+  </actor>
+  <actor>
+    <name>Yasmine Meddour</name>
+    <role>Belicoff's Daughter</role>
+    <type>Actor</type>
+    <tmdbid>2101590</tmdbid>
+    <imdbid>nm2843977</imdbid>
+  </actor>
+  <actor>
+    <name>Iosis Shamli</name>
+    <role>SWAT Team Leader #1</role>
+    <type>Actor</type>
+    <tmdbid>2101591</tmdbid>
+    <imdbid>nm2844839</imdbid>
+  </actor>
+  <actor>
+    <name>Desislava Bakardzhieva</name>
+    <role>Female News Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2101592</tmdbid>
+    <imdbid>nm2843959</imdbid>
+  </actor>
+  <actor>
+    <name>Viktoria Dimova</name>
+    <role>Mike's Daughter - 8 Years</role>
+    <type>Actor</type>
+    <tmdbid>2101593</tmdbid>
+    <imdbid>nm2843928</imdbid>
+  </actor>
+  <actor>
+    <name>Emile Abossolo M'bo</name>
+    <role>General Ajunwa</role>
+    <type>Actor</type>
+    <tmdbid>4815</tmdbid>
+    <imdbid>nm0008865</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Bandey</name>
+    <role>Director MC Ray</role>
+    <type>Actor</type>
+    <tmdbid>185402</tmdbid>
+    <imdbid>nm0051720</imdbid>
+  </actor>
+  <actor>
+    <name>Nikolay Valentinov Lukanov</name>
+    <role>Swanky Restaurant Waiter #1</role>
+    <type>Actor</type>
+    <tmdbid>2101594</tmdbid>
+    <imdbid>nm2843978</imdbid>
+  </actor>
+  <actor>
+    <name>Boiko Boyanov</name>
+    <role>SWAT Team Guy #3</role>
+    <type>Actor</type>
+    <tmdbid>2101595</tmdbid>
+    <imdbid>nm1250764</imdbid>
+  </actor>
+  <actor>
+    <name>Deyan Donkov</name>
+    <role>Russian EMT</role>
+    <type>Actor</type>
+    <tmdbid>1255951</tmdbid>
+    <imdbid>nm1089542</imdbid>
+  </actor>
+  <actor>
+    <name>Sabine Crossen</name>
+    <role>June</role>
+    <type>Actor</type>
+    <tmdbid>1193021</tmdbid>
+    <imdbid>nm1644336</imdbid>
+  </actor>
+  <actor>
+    <name>Assen Blatechki</name>
+    <role>FSB Driver</role>
+    <type>Actor</type>
+    <tmdbid>94696</tmdbid>
+    <imdbid>nm0087807</imdbid>
+  </actor>
+  <actor>
+    <name>Dobrin Dosev</name>
+    <role>Clergyman</role>
+    <type>Actor</type>
+    <tmdbid>1506234</tmdbid>
+    <imdbid>nm1135920</imdbid>
+  </actor>
+  <actor>
+    <name>Vili Dimitrova</name>
+    <role>Terrified Maid</role>
+    <type>Actor</type>
+    <tmdbid>2101597</tmdbid>
+    <imdbid>nm2844204</imdbid>
+  </actor>
+  <actor>
+    <name>Anatoli Nechev</name>
+    <role>SWAT Team Guy #2</role>
+    <type>Actor</type>
+    <tmdbid>1135298</tmdbid>
+    <imdbid>nm1412591</imdbid>
+  </actor>
+  <actor>
+    <name>Blagovest Argirov</name>
+    <role>Swanky Restaurant Waiter #2</role>
+    <type>Actor</type>
+    <tmdbid>2101598</tmdbid>
+    <imdbid>nm1383901</imdbid>
+  </actor>
+  <actor>
+    <name>Nikolay Stoyanov Ilchev</name>
+    <role>Russian Soldier with Radio</role>
+    <type>Actor</type>
+    <tmdbid>1409123</tmdbid>
+    <imdbid>nm2844592</imdbid>
+  </actor>
+  <actor>
+    <name>Milko Marinov Milanov</name>
+    <role>Interpol Driver</role>
+    <type>Actor</type>
+    <tmdbid>2101599</tmdbid>
+    <imdbid>nm2843824</imdbid>
+  </actor>
+  <actor>
+    <name>Elvis Delannay</name>
+    <role>Leader Assistant</role>
+    <type>Actor</type>
+    <tmdbid>2101600</tmdbid>
+    <imdbid>nm2844759</imdbid>
+  </actor>
+  <actor>
+    <name>Dessislava Zidarova</name>
+    <role>Belicoff's Whore</role>
+    <type>Actor</type>
+    <tmdbid>2101601</tmdbid>
+    <imdbid>nm2843647</imdbid>
+  </actor>
+  <actor>
+    <name>Lisa Ray-Jacobs</name>
+    <role>Diana (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2101602</tmdbid>
+    <imdbid>nm2931451</imdbid>
+  </actor>
+  <actor>
+    <name>Atanas Srebrev</name>
+    <role>News Correspondent</role>
+    <type>Actor</type>
+    <tmdbid>67247</tmdbid>
+    <imdbid>nm1284482</imdbid>
+  </actor>
+  <actor>
+    <name>Samantha Timmerman</name>
+    <role>Reporter #1</role>
+    <type>Actor</type>
+    <tmdbid>1815838</tmdbid>
+    <imdbid>nm0863657</imdbid>
+  </actor>
+  <actor>
+    <name>Borislav Parvanov</name>
+    <role>Young Agent 47</role>
+    <type>Actor</type>
+    <tmdbid>2101603</tmdbid>
+    <imdbid>nm2972719</imdbid>
+  </actor>
+  <actor>
+    <name>Velizar Binev</name>
+    <role>The Priest</role>
+    <type>Actor</type>
+    <tmdbid>22018</tmdbid>
+    <imdbid>nm0082870</imdbid>
+  </actor>
+  <actor>
+    <name>Hristo Neykov Neykov</name>
+    <role>Video Game Player #1</role>
+    <type>Actor</type>
+    <tmdbid>2101604</tmdbid>
+    <imdbid>nm2844840</imdbid>
+  </actor>
+  <actor>
+    <name>Nicolay Milev</name>
+    <role>Video Game Player #2</role>
+    <type>Actor</type>
+    <tmdbid>2101605</tmdbid>
+    <imdbid>nm2844960</imdbid>
+  </actor>
+  <actor>
+    <name>David William James Elliott</name>
+    <role>Hank (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2101606</tmdbid>
+    <imdbid>nm3701664</imdbid>
+  </actor>
+  <actor>
+    <name>George Venev</name>
+    <role>Russian Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2101607</tmdbid>
+    <imdbid>nm5162245</imdbid>
+  </actor>
+  <actor>
+    <name>Özcan Özdemir</name>
+    <role>Salesman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1355266</tmdbid>
+    <imdbid>nm5295847</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Barrett</name>
+    <role>Reporter #3</role>
+    <type>Actor</type>
+    <tmdbid>15738</tmdbid>
+    <imdbid>nm0057246</imdbid>
+  </actor>
+  <director tmdbid="18184" imdbid="nm1164755">Xavier Gens</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XJhNzHyq-IE</trailer>
+  <rating>6.3</rating>
+  <year>2007</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0465494</imdbid>
+  <tmdbid>1620</tmdbid>
+  <premiered>2007-11-21</premiered>
+  <releasedate>2007-11-21</releasedate>
+  <criticrating>30</criticrating>
+  <runtime>94</runtime>
+  <country>France</country>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>惊悚</genre>
+  <genre>剧情</genre>
+  <studio>Anka Film</studio>
+  <studio>Daybreak Productions</studio>
+  <studio>Dune Entertainment</studio>
+  <studio>Prime Universe Productions</studio>
+  <studio>EuropaCorp</studio>
+  <studio>20th Century Fox</studio>
+  <set tmdbcolid="737031">
+    <name>杀手：代号47（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">1620</uniqueid>
+  <uniqueid type="Imdb">tt0465494</uniqueid>
+  <id>tt0465494</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3110691</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.9761</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>94</duration>
+        <durationinseconds>5654</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

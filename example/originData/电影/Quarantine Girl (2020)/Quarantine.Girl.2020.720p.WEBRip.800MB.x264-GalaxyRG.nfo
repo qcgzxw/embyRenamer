@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A woman's mental state deteriorates as she isolates herself during an epidemic.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-09 05:12:23</dateadded>
+  <title>Quarantine Girl</title>
+  <originaltitle>Quarantine Girl</originaltitle>
+  <actor>
+    <name>Nicole D'Angelo</name>
+    <role>Ruby</role>
+    <type>Actor</type>
+    <tmdbid>1199285</tmdbid>
+    <imdbid>nm3724977</imdbid>
+  </actor>
+  <actor>
+    <name>Shane Ryan</name>
+    <role>Nate</role>
+    <type>Actor</type>
+    <tmdbid>144496</tmdbid>
+    <imdbid>nm1546474</imdbid>
+  </actor>
+  <actor>
+    <name>Lisa London</name>
+    <role>Wendy</role>
+    <type>Actor</type>
+    <tmdbid>60152</tmdbid>
+    <imdbid>nm0518739</imdbid>
+  </actor>
+  <actor>
+    <name>Craijece Lewis</name>
+    <role>Angie</role>
+    <type>Actor</type>
+    <tmdbid>2665712</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Spinelli</name>
+    <role>Tyler</role>
+    <type>Actor</type>
+    <tmdbid>210849</tmdbid>
+    <imdbid>nm0818885</imdbid>
+  </actor>
+  <actor>
+    <name>David Marc</name>
+    <role>Rodney</role>
+    <type>Actor</type>
+    <tmdbid>1347591</tmdbid>
+    <imdbid>nm2586344</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Erwin Galang</name>
+    <role>Laughing Man</role>
+    <type>Actor</type>
+    <tmdbid>2783157</tmdbid>
+  </actor>
+  <director tmdbid="213357" imdbid="nm0368693">Gregory Hatanaka</director>
+  <director tmdbid="1199285" imdbid="nm3724977">Nicole D'Angelo</director>
+  <rating>3.6</rating>
+  <year>2020</year>
+  <imdbid>tt12283738</imdbid>
+  <tmdbid>744273</tmdbid>
+  <premiered>2020-09-04</premiered>
+  <releasedate>2020-09-04</releasedate>
+  <runtime>62</runtime>
+  <country>United States of America</country>
+  <genre>惊悚</genre>
+  <genre>恐怖</genre>
+  <uniqueid type="Tmdb">744273</uniqueid>
+  <uniqueid type="Imdb">tt12283738</uniqueid>
+  <id>tt12283738</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1807455</bitrate>
+        <width>1280</width>
+        <height>528</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>61</duration>
+        <durationinseconds>3695</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[弗兰克准备与家人断绝关系，他带着利亚姆来到加拉赫家的顶楼，开始了新的生活。菲奥娜采取了一种新的、放松的态度，开始按自己的方式经营帕齐之家。黛比的婴儿车业务遇到麻烦；伊恩尝试异性恋；卡尔发现自己被迫禁欲。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-17 00:56:47</dateadded>
+  <title>离开</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Isidora Goreshter</name>
+    <role>Svetlana Yevgenivna</role>
+    <type>Actor</type>
+    <tmdbid>1677397</tmdbid>
+  </actor>
+  <actor>
+    <name>Arden Myrin</name>
+    <role>Dollface Dolores</role>
+    <type>GuestStar</type>
+    <tmdbid>120244</tmdbid>
+  </actor>
+  <actor>
+    <name>Stacie Greenwell</name>
+    <role>Olga</role>
+    <type>GuestStar</type>
+    <tmdbid>1450387</tmdbid>
+    <imdbid>nm4710645</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Metz</name>
+    <role>Melinda</role>
+    <type>GuestStar</type>
+    <tmdbid>1449121</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Pierre</name>
+    <role>Caleb</role>
+    <type>GuestStar</type>
+    <tmdbid>1583044</tmdbid>
+  </actor>
+  <director>Rob Hardy</director>
+  <rating>8</rating>
+  <year>2016</year>
+  <imdbid>tt5521840</imdbid>
+  <tvdbid>5668534</tvdbid>
+  <runtime>50</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt5521840</uniqueid>
+  <uniqueid type="Tvdb">5668534</uniqueid>
+  <episode>2</episode>
+  <season>7</season>
+  <aired>2016-10-09</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11300946</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>50</duration>
+        <durationinseconds>3017</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

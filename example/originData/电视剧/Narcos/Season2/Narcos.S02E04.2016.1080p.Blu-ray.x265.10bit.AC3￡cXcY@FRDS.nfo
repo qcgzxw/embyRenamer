@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[卡利贩毒集团讨论接手巴勃罗的地盘。利蒙向玛丽察提出计划。为了自卫，塔塔拿起武器。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-15 05:26:18</dateadded>
+  <title>好人、坏人、死人</title>
+  <actor>
+    <name>Wagner Moura</name>
+    <role>Pablo Escobar</role>
+    <type>Actor</type>
+    <tmdbid>52583</tmdbid>
+  </actor>
+  <actor>
+    <name>Pedro Pascal</name>
+    <role>Javier Peña</role>
+    <type>Actor</type>
+    <tmdbid>1253360</tmdbid>
+  </actor>
+  <actor>
+    <name>Boyd Holbrook</name>
+    <role>Steve Murphy</role>
+    <type>Actor</type>
+    <tmdbid>467645</tmdbid>
+  </actor>
+  <actor>
+    <name>Joanna Christie</name>
+    <role>Connie Murphy</role>
+    <type>Actor</type>
+    <tmdbid>1230988</tmdbid>
+  </actor>
+  <actor>
+    <name>Paulina Gaitán</name>
+    <role>Tata Escobar</role>
+    <type>Actor</type>
+    <tmdbid>36586</tmdbid>
+  </actor>
+  <actor>
+    <name>Martina García</name>
+    <role>Maritza</role>
+    <type>Actor</type>
+    <tmdbid>233278</tmdbid>
+    <imdbid>nm0306357</imdbid>
+  </actor>
+  <actor>
+    <name>Brett Cullen</name>
+    <role>Arthur Crosby</role>
+    <type>Actor</type>
+    <tmdbid>16841</tmdbid>
+    <imdbid>nm0191442</imdbid>
+  </actor>
+  <actor>
+    <name>Alberto Ammann</name>
+    <role>Pacho Herrera</role>
+    <type>GuestStar</type>
+    <tmdbid>110424</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Lange</name>
+    <role>Bill Stechner</role>
+    <type>GuestStar</type>
+    <tmdbid>116514</tmdbid>
+    <imdbid>nm1441925</imdbid>
+  </actor>
+  <director tmdbid="444720" imdbid="nm1223381">Andrés Baiz</director>
+  <rating>8.596</rating>
+  <year>2016</year>
+  <imdbid>tt5714396</imdbid>
+  <tvdbid>5734722</tvdbid>
+  <runtime>56</runtime>
+  <uniqueid type="Tvdb">5734722</uniqueid>
+  <uniqueid type="Imdb">tt5714396</uniqueid>
+  <episode>4</episode>
+  <season>2</season>
+  <aired>2016-09-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3714704</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>56</duration>
+        <durationinseconds>3360</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

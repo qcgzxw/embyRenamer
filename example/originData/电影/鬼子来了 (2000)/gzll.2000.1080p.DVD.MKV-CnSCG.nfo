@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　一九四五年，日本投降前夕，在中国北方长城脚下的一个附近有日军驻守的村子里，一天晚上，有人把两个俘虏押送到了一个村民的家里，其中一个是日本兵，另一个是翻译官。本来答应好了八天以后来取人，结果此后再也没有音讯，这两个俘虏在村子里一关就是半年……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-09-06 04:03:34</dateadded>
+  <title>鬼子来了</title>
+  <originaltitle>鬼子来了</originaltitle>
+  <actor>
+    <name>Jiang Wen</name>
+    <role>Ma Dasan</role>
+    <type>Actor</type>
+    <tmdbid>77301</tmdbid>
+    <imdbid>nm0422638</imdbid>
+  </actor>
+  <actor>
+    <name>Jiang Hong-bo</name>
+    <role>Yu'er</role>
+    <type>Actor</type>
+    <tmdbid>144427</tmdbid>
+    <imdbid>nm1592136</imdbid>
+  </actor>
+  <actor>
+    <name>Teruyuki Kagawa</name>
+    <role>Kosaburo Hanaya</role>
+    <type>Actor</type>
+    <tmdbid>46691</tmdbid>
+    <imdbid>nm0434596</imdbid>
+  </actor>
+  <actor>
+    <name>David Wu</name>
+    <role>Major Gao</role>
+    <type>Actor</type>
+    <tmdbid>1191929</tmdbid>
+  </actor>
+  <actor>
+    <name>Ding Yuan</name>
+    <role>Dong Hanchen</role>
+    <type>Actor</type>
+    <tmdbid>1875187</tmdbid>
+    <imdbid>nm0950600</imdbid>
+  </actor>
+  <actor>
+    <name>Zhijun Cong</name>
+    <role>Grandfather</role>
+    <type>Actor</type>
+    <tmdbid>552475</tmdbid>
+    <imdbid>nm0174600</imdbid>
+  </actor>
+  <actor>
+    <name>Zi Xi</name>
+    <role>Liu Wang</role>
+    <type>Actor</type>
+    <tmdbid>1888179</tmdbid>
+  </actor>
+  <actor>
+    <name>Haibin Li</name>
+    <role>Me</role>
+    <type>Actor</type>
+    <tmdbid>94746</tmdbid>
+    <imdbid>nm0508412</imdbid>
+  </actor>
+  <actor>
+    <name>Kenya Sawada</name>
+    <role>Inokichi Sakatsuka</role>
+    <type>Actor</type>
+    <tmdbid>1186988</tmdbid>
+    <imdbid>nm0767986</imdbid>
+  </actor>
+  <actor>
+    <name>Weidong Cai</name>
+    <role>Er Bozi</role>
+    <type>Actor</type>
+    <tmdbid>1888180</tmdbid>
+  </actor>
+  <actor>
+    <name>Lianmei Chen</name>
+    <role>Aunt</role>
+    <type>Actor</type>
+    <tmdbid>1888181</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoshimoto Miyaji</name>
+    <role>Koji Nonomura</role>
+    <type>Actor</type>
+    <tmdbid>1888182</tmdbid>
+  </actor>
+  <actor>
+    <name>Qiang Chen</name>
+    <role>'One-Stroke' Liu</role>
+    <type>Actor</type>
+    <tmdbid>1167802</tmdbid>
+    <imdbid>nm0155350</imdbid>
+  </actor>
+  <director tmdbid="77301" imdbid="nm0422638">Jiang Wen</director>
+  <rating>8.2</rating>
+  <year>2000</year>
+  <imdbid>tt0245929</imdbid>
+  <tmdbid>25838</tmdbid>
+  <premiered>2000-05-12</premiered>
+  <releasedate>2000-05-12</releasedate>
+  <criticrating>91</criticrating>
+  <runtime>139</runtime>
+  <country>China</country>
+  <genre>剧情</genre>
+  <genre>战争</genre>
+  <studio>Huayi Brothers Advertising</studio>
+  <studio>Asian Union Film &amp; Entertainment</studio>
+  <studio>Beijing Zhongbo-Times Film Planning</studio>
+  <studio>CMC Xiandai Trade Co.</studio>
+  <studio>China Film Co-Production Corporation</studio>
+  <uniqueid type="Tmdb">25838</uniqueid>
+  <uniqueid type="Imdb">tt0245929</uniqueid>
+  <id>tt0245929</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2579000</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>139</duration>
+        <durationinseconds>8365</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

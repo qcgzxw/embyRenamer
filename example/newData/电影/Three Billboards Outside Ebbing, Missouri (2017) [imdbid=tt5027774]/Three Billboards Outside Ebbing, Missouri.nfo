@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[在女儿谋杀案过去几个月仍未找到肇事者之后，女主人公Mildred Hayes决定走出一招险棋：制作了三块广告牌立在通往她居住的小镇道路上，牌上标语径直向当地警察局长William Willoughby发问“为什么还没有抓到凶手？”而当局长的二把手Dixon——一位有恋母情结、不成熟且有暴力倾向的警官参与调查这桩案件后，女主角同Ebbing小镇执法部门之间的战斗则愈演愈烈。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-03-05 02:31:00</dateadded>
+  <title>三块广告牌</title>
+  <originaltitle>Three Billboards Outside Ebbing, Missouri</originaltitle>
+  <actor>
+    <name>Frances McDormand</name>
+    <role>Mildred Hayes</role>
+    <type>Actor</type>
+    <tmdbid>3910</tmdbid>
+    <imdbid>nm0000531</imdbid>
+  </actor>
+  <actor>
+    <name>Woody Harrelson</name>
+    <role>Bill Willoughby</role>
+    <type>Actor</type>
+    <tmdbid>57755</tmdbid>
+    <imdbid>nm0000437</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Rockwell</name>
+    <role>Jason Dixon</role>
+    <type>Actor</type>
+    <tmdbid>6807</tmdbid>
+    <imdbid>nm0005377</imdbid>
+  </actor>
+  <actor>
+    <name>Abbie Cornish</name>
+    <role>Anne Willoughby</role>
+    <type>Actor</type>
+    <tmdbid>37260</tmdbid>
+    <imdbid>nm0180411</imdbid>
+  </actor>
+  <actor>
+    <name>Lucas Hedges</name>
+    <role>Robbie Hayes</role>
+    <type>Actor</type>
+    <tmdbid>1105079</tmdbid>
+    <imdbid>nm2348627</imdbid>
+  </actor>
+  <actor>
+    <name>Caleb Landry Jones</name>
+    <role>Red Welby</role>
+    <type>Actor</type>
+    <tmdbid>572541</tmdbid>
+    <imdbid>nm2655177</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Dinklage</name>
+    <role>James</role>
+    <type>Actor</type>
+    <tmdbid>22970</tmdbid>
+    <imdbid>nm0227759</imdbid>
+  </actor>
+  <actor>
+    <name>John Hawkes</name>
+    <role>Charlie Hayes</role>
+    <type>Actor</type>
+    <tmdbid>16861</tmdbid>
+    <imdbid>nm0370035</imdbid>
+  </actor>
+  <actor>
+    <name>Samara Weaving</name>
+    <role>Penelope</role>
+    <type>Actor</type>
+    <tmdbid>1372369</tmdbid>
+    <imdbid>nm3034977</imdbid>
+  </actor>
+  <actor>
+    <name>Zeljko Ivanek</name>
+    <role>Cedric Connolly</role>
+    <type>Actor</type>
+    <tmdbid>6752</tmdbid>
+    <imdbid>nm0411964</imdbid>
+  </actor>
+  <actor>
+    <name>Clarke Peters</name>
+    <role>Abercrombie</role>
+    <type>Actor</type>
+    <tmdbid>61011</tmdbid>
+    <imdbid>nm0676370</imdbid>
+  </actor>
+  <actor>
+    <name>Amanda Warren</name>
+    <role>Denise Watson</role>
+    <type>Actor</type>
+    <tmdbid>1170657</tmdbid>
+    <imdbid>nm2581729</imdbid>
+  </actor>
+  <actor>
+    <name>Kerry Condon</name>
+    <role>Pamela</role>
+    <type>Actor</type>
+    <tmdbid>62105</tmdbid>
+    <imdbid>nm0174403</imdbid>
+  </actor>
+  <actor>
+    <name>Darrell Britt-Gibson</name>
+    <role>Jerome</role>
+    <type>Actor</type>
+    <tmdbid>1307543</tmdbid>
+    <imdbid>nm2888524</imdbid>
+  </actor>
+  <actor>
+    <name>Kathryn Newton</name>
+    <role>Angela</role>
+    <type>Actor</type>
+    <tmdbid>221192</tmdbid>
+    <imdbid>nm1105980</imdbid>
+  </actor>
+  <actor>
+    <name>Sandy Martin</name>
+    <role>Mrs. Dixon</role>
+    <type>Actor</type>
+    <tmdbid>53931</tmdbid>
+    <imdbid>nm0553036</imdbid>
+  </actor>
+  <actor>
+    <name>Riya May Atwood</name>
+    <role>Polly Willoughby</role>
+    <type>Actor</type>
+    <tmdbid>1949205</tmdbid>
+    <imdbid>nm9362777</imdbid>
+  </actor>
+  <actor>
+    <name>Selah Atwood</name>
+    <role>Jane Willoughby</role>
+    <type>Actor</type>
+    <tmdbid>1949207</tmdbid>
+    <imdbid>nm9362778</imdbid>
+  </actor>
+  <actor>
+    <name>Malaya Rivera Drew</name>
+    <role>Gabriella Forrester</role>
+    <type>Actor</type>
+    <tmdbid>202654</tmdbid>
+    <imdbid>nm1371862</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Berry</name>
+    <role>Tony</role>
+    <type>Actor</type>
+    <tmdbid>1173099</tmdbid>
+    <imdbid>nm0077512</imdbid>
+  </actor>
+  <actor>
+    <name>Jerry Winsett</name>
+    <role>Geoffrey</role>
+    <type>Actor</type>
+    <tmdbid>1602375</tmdbid>
+    <imdbid>nm0935457</imdbid>
+  </actor>
+  <actor>
+    <name>Brendan Sexton III</name>
+    <role>Crop-Haired Guy</role>
+    <type>Actor</type>
+    <tmdbid>2839</tmdbid>
+    <imdbid>nm0786639</imdbid>
+  </actor>
+  <actor>
+    <name>Alejandro Barrios</name>
+    <role>Latino</role>
+    <type>Actor</type>
+    <tmdbid>1950495</tmdbid>
+    <imdbid>nm6019128</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Ledford</name>
+    <role>Latino #2</role>
+    <type>Actor</type>
+    <tmdbid>1950498</tmdbid>
+    <imdbid>nm4654982</imdbid>
+  </actor>
+  <actor>
+    <name>Gregory Nassif St. John</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1950501</tmdbid>
+    <imdbid>nm7066376</imdbid>
+  </actor>
+  <actor>
+    <name>Allyssa Barley</name>
+    <role>Girl</role>
+    <type>Actor</type>
+    <tmdbid>1950504</tmdbid>
+    <imdbid>nm7851214</imdbid>
+  </actor>
+  <actor>
+    <name>William J. Harrison</name>
+    <role>Boy</role>
+    <type>Actor</type>
+    <tmdbid>1108059</tmdbid>
+    <imdbid>nm4140011</imdbid>
+  </actor>
+  <actor>
+    <name>Eleanor Threatt</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>1950505</tmdbid>
+    <imdbid>nm3703850</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Aaron Milligan</name>
+    <role>Pal</role>
+    <type>Actor</type>
+    <tmdbid>1473957</tmdbid>
+    <imdbid>nm2971607</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Searcy</name>
+    <role>Father Montgomery (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>12538</tmdbid>
+    <imdbid>nm0780678</imdbid>
+  </actor>
+  <director tmdbid="54472" imdbid="nm1732981">Martin McDonagh</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nefD7UOhLCo</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Jit3YhGx5pU</trailer>
+  <rating>8.1</rating>
+  <year>2017</year>
+  <mpaa>HK-IIB</mpaa>
+  <imdbid>tt5027774</imdbid>
+  <tmdbid>359940</tmdbid>
+  <premiered>2017-11-10</premiered>
+  <releasedate>2017-11-10</releasedate>
+  <criticrating>90</criticrating>
+  <runtime>115</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <studio>Blueprint Pictures</studio>
+  <studio>Cutting Edge Group</studio>
+  <studio>Fox Searchlight Pictures</studio>
+  <studio>Film4 Productions</studio>
+  <uniqueid type="Tmdb">359940</uniqueid>
+  <uniqueid type="Imdb">tt5027774</uniqueid>
+  <id>tt5027774</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6659697</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6920</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>380723</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

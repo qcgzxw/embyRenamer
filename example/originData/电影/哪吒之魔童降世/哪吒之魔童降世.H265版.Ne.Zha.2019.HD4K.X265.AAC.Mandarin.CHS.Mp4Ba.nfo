@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[天地灵气孕育出一颗能量巨大的混元珠，元始天尊将混元珠提炼成灵珠和魔丸，灵珠投胎为人，助周伐纣时可堪大用；而魔丸则会诞出魔王，为祸人间。元始天尊启动了天劫咒语，3年后天雷将会降临，摧毁魔丸。太乙受命将灵珠托生于陈塘关李靖家的儿子哪吒身上。然而阴差阳错，灵珠和魔丸竟然被掉包。本应是灵珠英雄的哪吒却成了混世大魔王。调皮捣蛋顽劣不堪的哪吒却徒有一颗做英雄的心。然而面对众人对魔丸的误解和即将来临的天雷的降临，哪吒是否命中注定会立地成魔？他将何去何从？]]></plot>
+  <outline><![CDATA[打破成见 做自己的英雄 我命由我不由天]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2019-10-25 17:15:46</dateadded>
+  <title>哪吒之魔童降世</title>
+  <originaltitle>哪吒之魔童降世</originaltitle>
+  <actor>
+    <name>Yanting Lü</name>
+    <role>Young Nezha (Voice)</role>
+    <type>Actor</type>
+    <tmdbid>2367355</tmdbid>
+    <imdbid>nm10939413</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph</name>
+    <role>Youth Nezha (Voice)</role>
+    <type>Actor</type>
+    <tmdbid>2367356</tmdbid>
+  </actor>
+  <actor>
+    <name>Mo Han</name>
+    <role>Ao Bing (Voice)</role>
+    <type>Actor</type>
+    <tmdbid>2368846</tmdbid>
+  </actor>
+  <actor>
+    <name>Hao Chen</name>
+    <role>Li Jing (Voice)</role>
+    <type>Actor</type>
+    <tmdbid>2368848</tmdbid>
+  </actor>
+  <actor>
+    <name>Qi Lü</name>
+    <role>Mrs Yin (Voice)</role>
+    <type>Actor</type>
+    <tmdbid>2368849</tmdbid>
+  </actor>
+  <actor>
+    <name>Yang Wei</name>
+    <role>Shen Gongbao (Voice)</role>
+    <type>Actor</type>
+    <tmdbid>1574893</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiaming Zhang</name>
+    <role>Taiyi Zhenren (Voice)</role>
+    <type>Actor</type>
+    <tmdbid>2368857</tmdbid>
+  </actor>
+  <director tmdbid="2367353" imdbid="nm1169562">Yu Yang</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1HfHJvmxHrM</trailer>
+  <rating>7.5</rating>
+  <year>2019</year>
+  <mpaa>NR</mpaa>
+  <imdbid>tt10627720</imdbid>
+  <tmdbid>615453</tmdbid>
+  <premiered>2019-07-26</premiered>
+  <releasedate>2019-07-26</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>110</runtime>
+  <tagline>打破成见 做自己的英雄 我命由我不由天</tagline>
+  <country>China</country>
+  <genre>动画</genre>
+  <genre>奇幻</genre>
+  <genre>冒险</genre>
+  <studio>Beijing Enlight Pictures</studio>
+  <studio>Horgos Coloroom Pictures</studio>
+  <uniqueid type="Tmdb">615453</uniqueid>
+  <uniqueid type="Imdb">tt10627720</uniqueid>
+  <id>tt10627720</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5427747</bitrate>
+        <width>3840</width>
+        <height>1616</height>
+        <aspect>240:101</aspect>
+        <aspectratio>240:101</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6599</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127935</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

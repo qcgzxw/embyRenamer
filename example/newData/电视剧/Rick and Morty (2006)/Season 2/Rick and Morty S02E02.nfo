@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[为了能够负担在电玩机台欢度一下午的花费，瑞克把枪卖给外星人刺客，莫蒂接着却奋力拦阻这名刺客。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 07:51:43</dateadded>
+  <title>午夜狂奔</title>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>Jemaine Clement</name>
+    <role>Fart (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>55936</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Daly</name>
+    <role>Krombopulos Michael (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>95875</tmdbid>
+    <imdbid>nm0198408</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Chernoff</name>
+    <role>Gear Head (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1701455</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Elder</name>
+    <role>Sports Announcer (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1651036</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Jennings</name>
+    <role>Child Roy (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1362871</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Kenny</name>
+    <role>Gear Newscaster / Gear Police Officer (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>78798</tmdbid>
+  </actor>
+  <actor>
+    <name>Maurice LaMarche</name>
+    <role>Roy's Teacher / Gromflamite Fed (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>34521</tmdbid>
+  </actor>
+  <actor>
+    <name>Tress MacNeille</name>
+    <role>Caretaker / Roy's Mother (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>34983</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Ridley</name>
+    <role>Roy's Doctor (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1365425</tmdbid>
+  </actor>
+  <actor>
+    <name>Kari Wahlgren</name>
+    <role>Roy's Wife (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>116315</tmdbid>
+  </actor>
+  <director>Dominic Polcino</director>
+  <rating>8.3</rating>
+  <year>2015</year>
+  <imdbid>tt4832254</imdbid>
+  <tvdbid>5265205</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <tvrageid>1065835214</tvrageid>
+  <uniqueid type="Tvdb">5265205</uniqueid>
+  <uniqueid type="Imdb">tt4832254</uniqueid>
+  <uniqueid type="TvRage">1065835214</uniqueid>
+  <episode>2</episode>
+  <season>2</season>
+  <aired>2015-08-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3070973</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+        <duration>22</duration>
+        <durationinseconds>1366</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

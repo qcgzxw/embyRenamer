@@ -1,0 +1,181 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Hank 拒绝升职后，同事 Steven 被提升。看着 Steven 喜气洋洋的样子，Hank 很不爽，怀疑自己的选择是否正确。Skyler 迷恋情人的奢华生活，但是，为了儿子，Skyler 决定和 Walter 继续生活。一日，Skyler 无意中打开 Walter 的包，发现里面装满了钱。Skyler 认为 Walter 还在制毒，十分伤心。律师劝 Skyler 离婚，因为一旦被发现，斯盖就是“知情不举”罪，家庭彻底被破坏。Gus 找到 Walter，他准备了新的制毒实验室，并劝他继续制毒，并且告诉 Walter，只有能养家的男人才是好男人。Walter 犹豫之下，确定了三个月的短期合同。Walter 不喜欢 Jesse 为钱啥都干的个性，要和他拆伙。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-20 18:07:28</dateadded>
+  <title>重操旧业</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Carole Gutierrez</name>
+    <role>Mrs. Ortega</role>
+    <type>GuestStar</type>
+    <tmdbid>167759</tmdbid>
+    <imdbid>nm0349341</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Dretzin</name>
+    <role>Pamela</role>
+    <type>GuestStar</type>
+    <tmdbid>156990</tmdbid>
+    <imdbid>nm0003740</imdbid>
+  </actor>
+  <actor>
+    <name>Kathy Rose Center</name>
+    <role>Ma Kettle</role>
+    <type>GuestStar</type>
+    <tmdbid>138266</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Cousins</name>
+    <role>Ted Beneke</role>
+    <type>GuestStar</type>
+    <tmdbid>20379</tmdbid>
+    <imdbid>nm0184086</imdbid>
+  </actor>
+  <actor>
+    <name>Charles Baker</name>
+    <role>Skinny Pete</role>
+    <type>GuestStar</type>
+    <tmdbid>82945</tmdbid>
+    <imdbid>nm1889973</imdbid>
+  </actor>
+  <actor>
+    <name>Michael McCormick</name>
+    <role>Pa Kettle</role>
+    <type>GuestStar</type>
+    <tmdbid>3021273</tmdbid>
+  </actor>
+  <actor>
+    <name>Steven Michael Quezada</name>
+    <role>Steven Gomez</role>
+    <type>GuestStar</type>
+    <tmdbid>61535</tmdbid>
+    <imdbid>nm2366374</imdbid>
+  </actor>
+  <director>Johan Renck</director>
+  <rating>8.243</rating>
+  <year>2010</year>
+  <imdbid>tt1615555</imdbid>
+  <tvdbid>2055301</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <tvrageid>1064907500</tvrageid>
+  <uniqueid type="Imdb">tt1615555</uniqueid>
+  <uniqueid type="Tvdb">2055301</uniqueid>
+  <uniqueid type="TvRage">1064907500</uniqueid>
+  <episode>5</episode>
+  <season>3</season>
+  <aired>2010-04-18</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9937274</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2833</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

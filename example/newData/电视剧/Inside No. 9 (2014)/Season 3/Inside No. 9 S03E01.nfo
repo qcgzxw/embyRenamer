@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[打了一天高尔夫球后，一群朋友出去吃小吃; 但是当他们无法就如何解决账单达成一致时，脾气就会升级。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-06 15:09:01</dateadded>
+  <title>账单</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Ellie White</name>
+    <role>Anya</role>
+    <type>GuestStar</type>
+    <tmdbid>1616784</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Watkins</name>
+    <role>Kevin</role>
+    <type>GuestStar</type>
+    <tmdbid>63608</tmdbid>
+    <imdbid>nm0914327</imdbid>
+  </actor>
+  <actor>
+    <name>Philip Glenister</name>
+    <role>Craig</role>
+    <type>GuestStar</type>
+    <tmdbid>55689</tmdbid>
+    <imdbid>nm0322562</imdbid>
+  </actor>
+  <actor>
+    <name>Callum Coates</name>
+    <role>Tim</role>
+    <type>GuestStar</type>
+    <tmdbid>2560673</tmdbid>
+  </actor>
+  <director>Guillem Morales</director>
+  <rating>8.25</rating>
+  <year>2017</year>
+  <imdbid>tt6258244</imdbid>
+  <tvdbid>5900162</tvdbid>
+  <runtime>29</runtime>
+  <genre>Comedy</genre>
+  <genre>Horror</genre>
+  <genre>Mystery</genre>
+  <uniqueid type="Imdb">tt6258244</uniqueid>
+  <uniqueid type="Tvdb">5900162</uniqueid>
+  <episode>1</episode>
+  <season>3</season>
+  <aired>2017-02-21</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10744627</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1746</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

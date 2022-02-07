@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[菲欧娜的事业崩盘仍在继续，黛比当起了加拉格的家长。 弗兰克让英格丽实现她毕生的梦想。 塔米向利普展示了成年后的另一种说法。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-11 11:06:56</dateadded>
+  <title>追随父亲的脚步</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Isaiah</name>
+    <role>Liam Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>2563541</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Field</name>
+    <role>Eliza</role>
+    <type>GuestStar</type>
+    <tmdbid>1214576</tmdbid>
+  </actor>
+  <actor>
+    <name>Molly Reynolds</name>
+    <role>Carpool</role>
+    <type>GuestStar</type>
+    <tmdbid>1362262</tmdbid>
+  </actor>
+  <actor>
+    <name>Ann Whitney</name>
+    <role>Ms Sink</role>
+    <type>GuestStar</type>
+    <tmdbid>1005538</tmdbid>
+  </actor>
+  <actor>
+    <name>Ana Mercedes</name>
+    <role>Mrs. Hernandez</role>
+    <type>GuestStar</type>
+    <tmdbid>1225875</tmdbid>
+  </actor>
+  <actor>
+    <name>Joy Osmanski</name>
+    <role>Dr Kwan</role>
+    <type>GuestStar</type>
+    <tmdbid>185504</tmdbid>
+  </actor>
+  <actor>
+    <name>Katey Sagal</name>
+    <role>Dr. Ingrid Jones</role>
+    <type>GuestStar</type>
+    <tmdbid>18980</tmdbid>
+    <imdbid>nm0005408</imdbid>
+  </actor>
+  <director>Zetna Fuentes</director>
+  <rating>10</rating>
+  <year>2019</year>
+  <imdbid>tt8245468</imdbid>
+  <tvdbid>6865265</tvdbid>
+  <runtime>53</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt8245468</uniqueid>
+  <uniqueid type="Tvdb">6865265</uniqueid>
+  <episode>8</episode>
+  <season>9</season>
+  <aired>2019-01-20</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11821241</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>52</duration>
+        <durationinseconds>3175</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

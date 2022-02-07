@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[《铁头》：在一个人类快要被机器狗赶尽杀绝的世界里，为了得到唯一的希望，你愿意付出什么？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-07 10:38:51</dateadded>
+  <title>金属头</title>
+  <actor>
+    <name>Maxine Peake</name>
+    <role>Bella</role>
+    <type>GuestStar</type>
+    <tmdbid>76944</tmdbid>
+    <imdbid>nm0668845</imdbid>
+  </actor>
+  <actor>
+    <name>Jake Davies</name>
+    <role>Clarke</role>
+    <type>GuestStar</type>
+    <tmdbid>1412288</tmdbid>
+  </actor>
+  <actor>
+    <name>Clint Dyer</name>
+    <role>Anthony</role>
+    <type>GuestStar</type>
+    <tmdbid>109383</tmdbid>
+  </actor>
+  <director tmdbid="27571">David Slade</director>
+  <rating>6.274</rating>
+  <year>2017</year>
+  <imdbid>tt5710984</imdbid>
+  <tvdbid>6113565</tvdbid>
+  <runtime>41</runtime>
+  <uniqueid type="Tvdb">6113565</uniqueid>
+  <uniqueid type="Imdb">tt5710984</uniqueid>
+  <episode>5</episode>
+  <season>4</season>
+  <aired>2017-12-29</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>7606885</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>41</duration>
+        <durationinseconds>2464</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

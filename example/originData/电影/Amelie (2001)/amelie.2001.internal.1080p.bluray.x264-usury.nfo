@@ -1,0 +1,696 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[艾米莉（奥黛丽·塔图 Audrey Tautou 饰）有着别人看来不幸的童年——父亲给她做健康检查时，发现她心跳过快，便断定她患上心脏病，从此艾米莉与学校绝缘。随后因为一桩意外，母亲在她眼前突然死去。这一切都毫不影响艾米莉对生活的豁达乐观。1997年，戴安娜王妃的去世让她倍感人生的孤独脆弱，艾米莉从此开始了一系列助人计划，包括自闭忧郁的邻居老人，被老板刻薄的菜摊伙计、遗失了童年器物的旧房东、爱情失意的咖啡店同事。但她万万想不到，成人录象带商店店员尼诺（马修·卡索维 Mathieu Kassovitz 饰），竟成为她的棘手对象，艾米莉开始了令人哭笑不得的另类计划……]]></plot>
+  <outline><![CDATA[一个人能永远改变你的人生]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-01-21 05:55:53</dateadded>
+  <title>天使爱美丽</title>
+  <originaltitle>Le Fabuleux Destin d'Amélie Poulain</originaltitle>
+  <actor>
+    <name>Audrey Tautou</name>
+    <role>Amélie Poulain</role>
+    <type>Actor</type>
+    <tmdbid>2405</tmdbid>
+    <imdbid>nm0851582</imdbid>
+  </actor>
+  <actor>
+    <name>Mathieu Kassovitz</name>
+    <role>Nino Quincampoix</role>
+    <type>Actor</type>
+    <tmdbid>2406</tmdbid>
+    <imdbid>nm0440913</imdbid>
+  </actor>
+  <actor>
+    <name>Rufus</name>
+    <role>Raphaël Poulain</role>
+    <type>Actor</type>
+    <tmdbid>2407</tmdbid>
+    <imdbid>nm0749363</imdbid>
+  </actor>
+  <actor>
+    <name>Lorella Cravotta</name>
+    <role>Amandine Poulain</role>
+    <type>Actor</type>
+    <tmdbid>2409</tmdbid>
+    <imdbid>nm0186677</imdbid>
+  </actor>
+  <actor>
+    <name>Serge Merlin</name>
+    <role>Raymond Dufayel</role>
+    <type>Actor</type>
+    <tmdbid>2410</tmdbid>
+    <imdbid>nm0581014</imdbid>
+  </actor>
+  <actor>
+    <name>Jamel Debbouze</name>
+    <role>Lucien</role>
+    <type>Actor</type>
+    <tmdbid>2408</tmdbid>
+    <imdbid>nm0213354</imdbid>
+  </actor>
+  <actor>
+    <name>Clotilde Mollet</name>
+    <role>Gina</role>
+    <type>Actor</type>
+    <tmdbid>2411</tmdbid>
+    <imdbid>nm0597042</imdbid>
+  </actor>
+  <actor>
+    <name>Claire Maurier</name>
+    <role>Suzanne</role>
+    <type>Actor</type>
+    <tmdbid>1654</tmdbid>
+    <imdbid>nm0561158</imdbid>
+  </actor>
+  <actor>
+    <name>Isabelle Nanty</name>
+    <role>Georgette</role>
+    <type>Actor</type>
+    <tmdbid>2412</tmdbid>
+    <imdbid>nm0620964</imdbid>
+  </actor>
+  <actor>
+    <name>Dominique Pinon</name>
+    <role>Joseph</role>
+    <type>Actor</type>
+    <tmdbid>2413</tmdbid>
+    <imdbid>nm0684500</imdbid>
+  </actor>
+  <actor>
+    <name>Artus de Penguern</name>
+    <role>Hipolito</role>
+    <type>Actor</type>
+    <tmdbid>2414</tmdbid>
+    <imdbid>nm0671844</imdbid>
+  </actor>
+  <actor>
+    <name>Yolande Moreau</name>
+    <role>Madeleine Wallace</role>
+    <type>Actor</type>
+    <tmdbid>2415</tmdbid>
+    <imdbid>nm0603446</imdbid>
+  </actor>
+  <actor>
+    <name>Urbain Cancelier</name>
+    <role>Collignon</role>
+    <type>Actor</type>
+    <tmdbid>2416</tmdbid>
+    <imdbid>nm0133636</imdbid>
+  </actor>
+  <actor>
+    <name>Maurice Bénichou</name>
+    <role>Dominique Bretodeau</role>
+    <type>Actor</type>
+    <tmdbid>2417</tmdbid>
+    <imdbid>nm0126870</imdbid>
+  </actor>
+  <actor>
+    <name>Michel Robin</name>
+    <role>Mr. Collignon</role>
+    <type>Actor</type>
+    <tmdbid>32092</tmdbid>
+    <imdbid>nm0732220</imdbid>
+  </actor>
+  <actor>
+    <name>Andrée Damant</name>
+    <role>Mrs. Collignon</role>
+    <type>Actor</type>
+    <tmdbid>231607</tmdbid>
+    <imdbid>nm0198610</imdbid>
+  </actor>
+  <actor>
+    <name>Claude Perron</name>
+    <role>Eva</role>
+    <type>Actor</type>
+    <tmdbid>119199</tmdbid>
+    <imdbid>nm0674816</imdbid>
+  </actor>
+  <actor>
+    <name>Armelle</name>
+    <role>Philomène</role>
+    <type>Actor</type>
+    <tmdbid>77736</tmdbid>
+    <imdbid>nm0035382</imdbid>
+  </actor>
+  <actor>
+    <name>Ticky Holgado</name>
+    <role>Man in Photo</role>
+    <type>Actor</type>
+    <tmdbid>13689</tmdbid>
+    <imdbid>nm0390458</imdbid>
+  </actor>
+  <actor>
+    <name>André Dussollier</name>
+    <role>Narrator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>18177</tmdbid>
+    <imdbid>nm0244707</imdbid>
+  </actor>
+  <actor>
+    <name>Eugène Berthier</name>
+    <role>Eugène Koler</role>
+    <type>Actor</type>
+    <tmdbid>1145445</tmdbid>
+    <imdbid>nm0077974</imdbid>
+  </actor>
+  <actor>
+    <name>Charles-Roger Bour</name>
+    <role>Man with Pissoir</role>
+    <type>Actor</type>
+    <tmdbid>1377960</tmdbid>
+    <imdbid>nm0099695</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Dias</name>
+    <role>Young Dominique</role>
+    <type>Actor</type>
+    <tmdbid>1952050</tmdbid>
+    <imdbid>nm0272862</imdbid>
+  </actor>
+  <actor>
+    <name>Flora Guiet</name>
+    <role>Young Amélie</role>
+    <type>Actor</type>
+    <tmdbid>2652267</tmdbid>
+    <imdbid>nm0346813</imdbid>
+  </actor>
+  <actor>
+    <name>Amaury Babault</name>
+    <role>Young Nino</role>
+    <type>Actor</type>
+    <tmdbid>2652268</tmdbid>
+    <imdbid>nm0044763</imdbid>
+  </actor>
+  <actor>
+    <name>Marion Pressburger</name>
+    <role>Small Hands</role>
+    <type>Actor</type>
+    <tmdbid>2652288</tmdbid>
+    <imdbid>nm0696249</imdbid>
+  </actor>
+  <actor>
+    <name>Luc Palun</name>
+    <role>Amandine's Grocer</role>
+    <type>Actor</type>
+    <tmdbid>144955</tmdbid>
+    <imdbid>nm0658875</imdbid>
+  </actor>
+  <actor>
+    <name>Fabienne Chaudat</name>
+    <role>Woman in Coma</role>
+    <type>Actor</type>
+    <tmdbid>1457125</tmdbid>
+    <imdbid>nm0154265</imdbid>
+  </actor>
+  <actor>
+    <name>Dominique Bettenfeld</name>
+    <role>Amélie's Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>28462</tmdbid>
+    <imdbid>nm0079312</imdbid>
+  </actor>
+  <actor>
+    <name>Jacques Viala</name>
+    <role>Client Humiliating Friend</role>
+    <type>Actor</type>
+    <tmdbid>1527640</tmdbid>
+    <imdbid>nm0895607</imdbid>
+  </actor>
+  <actor>
+    <name>Fabien Béhar</name>
+    <role>Humiliated Friend</role>
+    <type>Actor</type>
+    <tmdbid>1086615</tmdbid>
+    <imdbid>nm0126754</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Joss</name>
+    <role>Humiliated Friend's Son</role>
+    <type>Actor</type>
+    <tmdbid>1177480</tmdbid>
+    <imdbid>nm2565962</imdbid>
+  </actor>
+  <actor>
+    <name>Jean-Pierre Becker</name>
+    <role>Homeless Man</role>
+    <type>Actor</type>
+    <tmdbid>583312</tmdbid>
+    <imdbid>nm0065451</imdbid>
+  </actor>
+  <actor>
+    <name>Jean Darie</name>
+    <role>Blind Man</role>
+    <type>Actor</type>
+    <tmdbid>1379561</tmdbid>
+    <imdbid>nm0201220</imdbid>
+  </actor>
+  <actor>
+    <name>Thierry Gibault</name>
+    <role>Endive Client</role>
+    <type>Actor</type>
+    <tmdbid>240388</tmdbid>
+    <imdbid>nm0316441</imdbid>
+  </actor>
+  <actor>
+    <name>François Bercovici</name>
+    <role>Endive Client's Friend</role>
+    <type>Actor</type>
+    <tmdbid>2652292</tmdbid>
+    <imdbid>nm0073389</imdbid>
+  </actor>
+  <actor>
+    <name>Franck Monier</name>
+    <role>Young Dominique</role>
+    <type>Actor</type>
+    <tmdbid>585017</tmdbid>
+    <imdbid>nm0598118</imdbid>
+  </actor>
+  <actor>
+    <name>Guillaume Viry</name>
+    <role>SDF</role>
+    <type>Actor</type>
+    <tmdbid>238388</tmdbid>
+    <imdbid>nm0899495</imdbid>
+  </actor>
+  <actor>
+    <name>Valérie Zarrouk</name>
+    <role>Dominique's Wife</role>
+    <type>Actor</type>
+    <tmdbid>51099</tmdbid>
+    <imdbid>nm0953594</imdbid>
+  </actor>
+  <actor>
+    <name>Marie-Laure Descoureaux</name>
+    <role>Concierge of the Dead</role>
+    <type>Actor</type>
+    <tmdbid>333422</tmdbid>
+    <imdbid>nm0221103</imdbid>
+  </actor>
+  <actor>
+    <name>Sophie Tellier</name>
+    <role>Aunt Josette</role>
+    <type>Actor</type>
+    <tmdbid>1376239</tmdbid>
+    <imdbid>nm0854493</imdbid>
+  </actor>
+  <actor>
+    <name>Gérald Weingand</name>
+    <role>Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1117146</tmdbid>
+    <imdbid>nm0918305</imdbid>
+  </actor>
+  <actor>
+    <name>François Viaur</name>
+    <role>Bistro Owner</role>
+    <type>Actor</type>
+    <tmdbid>1326530</tmdbid>
+    <imdbid>nm0895790</imdbid>
+  </actor>
+  <actor>
+    <name>Paule Daré</name>
+    <role>Bistro Employee</role>
+    <type>Actor</type>
+    <tmdbid>231608</tmdbid>
+    <imdbid>nm0201855</imdbid>
+  </actor>
+  <actor>
+    <name>Marc Amyot</name>
+    <role>Unknown at Photo Booth</role>
+    <type>Actor</type>
+    <tmdbid>1336073</tmdbid>
+    <imdbid>nm0025509</imdbid>
+  </actor>
+  <actor>
+    <name>Myriam Labbé</name>
+    <role>Tobacco Store Costumer</role>
+    <type>Actor</type>
+    <tmdbid>2652295</tmdbid>
+    <imdbid>nm0479411</imdbid>
+  </actor>
+  <actor>
+    <name>Jean Rupert</name>
+    <role>Operated on the Nasal Septa</role>
+    <type>Actor</type>
+    <tmdbid>935429</tmdbid>
+    <imdbid>nm0750432</imdbid>
+  </actor>
+  <actor>
+    <name>Frankie Pain</name>
+    <role>Newspaper Seller</role>
+    <type>Actor</type>
+    <tmdbid>17618</tmdbid>
+    <imdbid>nm0656803</imdbid>
+  </actor>
+  <actor>
+    <name>Julianna Kovacs</name>
+    <role>Grocery Customer</role>
+    <type>Actor</type>
+    <tmdbid>49677</tmdbid>
+    <imdbid>nm0468247</imdbid>
+  </actor>
+  <actor>
+    <name>Philippe Paimblanc</name>
+    <role>Train Controller</role>
+    <type>Actor</type>
+    <tmdbid>1129857</tmdbid>
+    <imdbid>nm0656795</imdbid>
+  </actor>
+  <actor>
+    <name>Mady Malroux</name>
+    <role>Twin #1</role>
+    <type>Actor</type>
+    <tmdbid>2652297</tmdbid>
+    <imdbid>nm0540722</imdbid>
+  </actor>
+  <actor>
+    <name>Monette Malroux</name>
+    <role>Twin #2</role>
+    <type>Actor</type>
+    <tmdbid>2652299</tmdbid>
+    <imdbid>nm0540723</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Gendreu</name>
+    <role>Café Customer</role>
+    <type>Actor</type>
+    <tmdbid>117115</tmdbid>
+    <imdbid>nm0312687</imdbid>
+  </actor>
+  <actor>
+    <name>Valériane de Villeneuve</name>
+    <role>Laughing Woman</role>
+    <type>Actor</type>
+    <tmdbid>1914332</tmdbid>
+    <imdbid>nm0212157</imdbid>
+  </actor>
+  <actor>
+    <name>Isis Peyrade</name>
+    <role>Samantha</role>
+    <type>Actor</type>
+    <tmdbid>2652301</tmdbid>
+    <imdbid>nm0678968</imdbid>
+  </actor>
+  <actor>
+    <name>Raymonde Heudeline</name>
+    <role>Ghost Train Cashier</role>
+    <type>Actor</type>
+    <tmdbid>2652303</tmdbid>
+  </actor>
+  <actor>
+    <name>Christiane Bopp</name>
+    <role>Woman Near Merry-Go-Round</role>
+    <type>Actor</type>
+    <tmdbid>64592</tmdbid>
+    <imdbid>nm0095890</imdbid>
+  </actor>
+  <actor>
+    <name>Thierry Arfeuillères</name>
+    <role>Man Statue</role>
+    <type>Actor</type>
+    <tmdbid>2652305</tmdbid>
+    <imdbid>nm0034429</imdbid>
+  </actor>
+  <actor>
+    <name>Jerry Lucas</name>
+    <role>Little Boy of Sacré-Coeur</role>
+    <type>Actor</type>
+    <tmdbid>73506</tmdbid>
+    <imdbid>nm0524175</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Paroux</name>
+    <role>Street Blower</role>
+    <type>Actor</type>
+    <tmdbid>230076</tmdbid>
+    <imdbid>nm0663283</imdbid>
+  </actor>
+  <actor>
+    <name>François Aubineau</name>
+    <role>Concierge's Postman</role>
+    <type>Actor</type>
+    <tmdbid>1319824</tmdbid>
+    <imdbid>nm0041357</imdbid>
+  </actor>
+  <actor>
+    <name>Philippe Beautier</name>
+    <role>Poulain's Postman</role>
+    <type>Actor</type>
+    <tmdbid>1176105</tmdbid>
+    <imdbid>nm0064708</imdbid>
+  </actor>
+  <actor>
+    <name>Karine Asure</name>
+    <role>Pretty Girl</role>
+    <type>Actor</type>
+    <tmdbid>2652306</tmdbid>
+    <imdbid>nm1211469</imdbid>
+  </actor>
+  <actor>
+    <name>Régis Iacono</name>
+    <role>Félix L'Herbier</role>
+    <type>Actor</type>
+    <tmdbid>1469823</tmdbid>
+    <imdbid>nm0406236</imdbid>
+  </actor>
+  <actor>
+    <name>Franck-Olivier Bonnet</name>
+    <role>Palace Video (voice)</role>
+    <type>Actor</type>
+    <tmdbid>578093</tmdbid>
+    <imdbid>nm0094958</imdbid>
+  </actor>
+  <actor>
+    <name>Alain Floret</name>
+    <role>Concierge's Husband (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1195532</tmdbid>
+    <imdbid>nm0282979</imdbid>
+  </actor>
+  <actor>
+    <name>Jean-Pol Brissart</name>
+    <role>Jacques Grosjean (voice)</role>
+    <type>Actor</type>
+    <tmdbid>553215</tmdbid>
+    <imdbid>nm0109878</imdbid>
+  </actor>
+  <actor>
+    <name>Frédéric Mitterrand</name>
+    <role>Frédéric Mitterrand (voice)</role>
+    <type>Actor</type>
+    <tmdbid>123827</tmdbid>
+    <imdbid>nm0594158</imdbid>
+  </actor>
+  <actor>
+    <name>Laurent Delpit</name>
+    <role>Montmartre Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2652307</tmdbid>
+    <imdbid>nm1121005</imdbid>
+  </actor>
+  <actor>
+    <name>Manoush</name>
+    <role>Nymphomaniac (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>98195</tmdbid>
+    <imdbid>nm1720082</imdbid>
+  </actor>
+  <actor>
+    <name>Jacques Thébault</name>
+    <role>(voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2259444</tmdbid>
+    <imdbid>nm0862366</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Baykan</name>
+    <role>(uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1270534</tmdbid>
+    <imdbid>nm1778143</imdbid>
+  </actor>
+  <actor>
+    <name>Clément Chebli</name>
+    <role>(uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>236132</tmdbid>
+    <imdbid>nm1278850</imdbid>
+  </actor>
+  <actor>
+    <name>Eloïse Labro</name>
+    <role>(uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>133747</tmdbid>
+    <imdbid>nm0479722</imdbid>
+  </actor>
+  <actor>
+    <name>Rudy Galindo</name>
+    <role>Rudy Galindo (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1234650</tmdbid>
+    <imdbid>nm0302202</imdbid>
+  </actor>
+  <actor>
+    <name>Federico Martín Bahamontes</name>
+    <role>Federico Martín Bahamontes (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2358766</tmdbid>
+    <imdbid>nm0554523</imdbid>
+  </actor>
+  <actor>
+    <name>Sister Rosetta Tharpe</name>
+    <role>Sister Rosetta Tharpe (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>100716</tmdbid>
+    <imdbid>nm0857093</imdbid>
+  </actor>
+  <actor>
+    <name>Jean-Michel Larqué</name>
+    <role>Jean-Michel Larqué (voice) (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>584177</tmdbid>
+    <imdbid>nm0488534</imdbid>
+  </actor>
+  <actor>
+    <name>Thierry Roland</name>
+    <role>Thierry Roland (voice) (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>584176</tmdbid>
+    <imdbid>nm0738089</imdbid>
+  </actor>
+  <director tmdbid="2419" imdbid="nm0000466">Jean-Pierre Jeunet</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2UT5xaAfxWU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HUECWi5pX7o</trailer>
+  <rating>8.3</rating>
+  <year>2001</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0211915</imdbid>
+  <tmdbid>194</tmdbid>
+  <premiered>2001-04-25</premiered>
+  <releasedate>2001-04-25</releasedate>
+  <criticrating>89</criticrating>
+  <runtime>122</runtime>
+  <tagline>一个人能永远改变你的人生</tagline>
+  <country>France</country>
+  <country>Germany</country>
+  <genre>喜剧</genre>
+  <genre>爱情</genre>
+  <studio>France 3 Cinéma</studio>
+  <studio>Claudie Ossard Productions</studio>
+  <studio>MMC Independent</studio>
+  <studio>Tapioca Films</studio>
+  <studio>Sofica Sofinergie 5</studio>
+  <studio>Victoires Productions</studio>
+  <studio>Canal+</studio>
+  <studio>Filmstiftung Nordrhein-Westfalen</studio>
+  <studio>Union Générale Cinématographique (UGC)</studio>
+  <uniqueid type="Tmdb">194</uniqueid>
+  <uniqueid type="Imdb">tt0211915</uniqueid>
+  <id>tt0211915</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>13248969</bitrate>
+        <width>1918</width>
+        <height>812</height>
+        <aspect>137:58</aspect>
+        <aspectratio>137:58</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>122</duration>
+        <durationinseconds>7322</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

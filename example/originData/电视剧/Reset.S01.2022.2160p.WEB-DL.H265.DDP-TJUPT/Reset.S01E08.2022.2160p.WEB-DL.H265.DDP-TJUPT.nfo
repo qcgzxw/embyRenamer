@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[老焦和一帮兄弟吃着饭，发愁没有文化的他们该如何找营生。工地出了事儿，女儿又即将高考，他省吃俭用都是为了孩子。朋友告诉他可以买辆二手电动车跑外卖，可是这二手车也是钱，老焦心里直打鼓。租住的车库由于检查，房东只能让老焦赶紧离开，老焦提着收拾好的行李箱默默离开。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-02-05 15:20:23</dateadded>
+  <title>爆炸案真凶终于出现</title>
+  <actor>
+    <name>Bai Jingting</name>
+    <role>Xiao Heyun</role>
+    <type>Actor</type>
+    <tmdbid>1672869</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhao Jinmai</name>
+    <role>Li Shiqing</role>
+    <type>Actor</type>
+    <tmdbid>2113005</tmdbid>
+  </actor>
+  <actor>
+    <name>Huang Jue</name>
+    <role>Wang Xingde</role>
+    <type>Actor</type>
+    <tmdbid>106581</tmdbid>
+    <imdbid>nm1645275</imdbid>
+  </actor>
+  <actor>
+    <name>Liu Dan</name>
+    <role>Tao Yinghong</role>
+    <type>Actor</type>
+    <tmdbid>1487092</tmdbid>
+  </actor>
+  <actor>
+    <name>Song Jiateng</name>
+    <role>Key Man</role>
+    <type>Actor</type>
+    <tmdbid>3238981</tmdbid>
+  </actor>
+  <actor>
+    <name>Zeng Kelang</name>
+    <role>Lu Di</role>
+    <type>Actor</type>
+    <tmdbid>3161422</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Xiqian</name>
+    <role>Ma Guoqiang</role>
+    <type>Actor</type>
+    <tmdbid>1910102</tmdbid>
+  </actor>
+  <actor>
+    <name>Ma Lan</name>
+    <role>Medicine Woman</role>
+    <type>Actor</type>
+    <tmdbid>3094378</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiao Peng</name>
+    <role>Jiao Xiangrong</role>
+    <type>Actor</type>
+    <tmdbid>3312752</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Gan</name>
+    <role>Jiang Feng</role>
+    <type>Actor</type>
+    <tmdbid>3238976</tmdbid>
+  </actor>
+  <actor>
+    <name>Fan Shuaiqi</name>
+    <role>Ye Qian</role>
+    <type>Actor</type>
+    <tmdbid>2834895</tmdbid>
+  </actor>
+  <actor>
+    <name>Ju Bozhan</name>
+    <role>Xiao Liu</role>
+    <type>Actor</type>
+    <tmdbid>2317990</tmdbid>
+  </actor>
+  <actor>
+    <name>Yu Peishan</name>
+    <role>Yu Lei</role>
+    <type>Actor</type>
+    <tmdbid>3381361</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Yijun</name>
+    <role>Zhang Cheng</role>
+    <type>Actor</type>
+    <tmdbid>1971602</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Tao</name>
+    <role>Du Ju</role>
+    <type>Actor</type>
+    <tmdbid>1236264</tmdbid>
+  </actor>
+  <rating>0</rating>
+  <year>2022</year>
+  <runtime>38</runtime>
+  <episode>8</episode>
+  <season>1</season>
+  <aired>2022-01-12</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2539707</bitrate>
+        <width>3840</width>
+        <height>1634</height>
+        <aspect>1920:817</aspect>
+        <aspectratio>1920:817</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>37</duration>
+        <durationinseconds>2278</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <bitrate>256000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

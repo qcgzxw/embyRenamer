@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[牧歌电器老总受牵连，畏罪自杀。Walter 和 Jesse 决定开启新的生意，为此打算拉拢 Mike 入伙，但 Mike 拒绝。Hank 的上司因为 Gus 案件被解职，Hank 执着此案不肯放手。之前与 Gus 有合作的 Lydia 找到 Mike，担心被捕的 Gus 手下会供出其他人，要求 Mike 杀掉他们，Mike 告诉她因为他们拿了足够的封口费，不必担心。Mike 接受 Hank 的盘问，但是 Hank 却一无所获。Mike 得知警方已将 Gus 给他们酬金的海外账户冻结，不得不同意和 Walter 合作。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-20 18:11:47</dateadded>
+  <title>马德里加尔（Madrigal）</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Shamus Wiles</name>
+    <role>ASAC George Merkert</role>
+    <type>GuestStar</type>
+    <tmdbid>9291</tmdbid>
+    <imdbid>nm0928795</imdbid>
+  </actor>
+  <actor>
+    <name>Norbert Weisser</name>
+    <role>Peter Schuler</role>
+    <type>GuestStar</type>
+    <tmdbid>6701</tmdbid>
+    <imdbid>nm0919256</imdbid>
+  </actor>
+  <actor>
+    <name>Wolf Muser</name>
+    <role>Herr Herzog</role>
+    <type>GuestStar</type>
+    <tmdbid>1219524</tmdbid>
+    <imdbid>nm0615645</imdbid>
+  </actor>
+  <actor>
+    <name>Norma Maldonado</name>
+    <role>Delores</role>
+    <type>GuestStar</type>
+    <tmdbid>121277</tmdbid>
+  </actor>
+  <actor>
+    <name>Debrianna Mansini</name>
+    <role>Fran</role>
+    <type>GuestStar</type>
+    <tmdbid>239997</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Fraser</name>
+    <role>Lydia Rodarte-Quayle</role>
+    <type>GuestStar</type>
+    <tmdbid>42279</tmdbid>
+    <imdbid>nm0292182</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Michael Quezada</name>
+    <role>Steven Gomez</role>
+    <type>GuestStar</type>
+    <tmdbid>61535</tmdbid>
+    <imdbid>nm2366374</imdbid>
+  </actor>
+  <director>Michelle MacLaren</director>
+  <rating>8.154</rating>
+  <year>2012</year>
+  <imdbid>tt2301457</imdbid>
+  <tvdbid>4339517</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt2301457</uniqueid>
+  <uniqueid type="Tvdb">4339517</uniqueid>
+  <episode>2</episode>
+  <season>5</season>
+  <aired>2012-07-22</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9921667</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2833</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

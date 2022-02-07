@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[贤淑（金喜爱 饰）靠着在超市工作所得的微薄收入艰难抚养着两个女儿万智（高智星 饰）和天智（金香奇 饰），两个女孩虽然身为姐妹，却拥有着截然相反的性格。万智个性孤僻而叛逆，和家人之间关系十分冷淡；天智则乖巧可爱，常常想着法子逗妈妈开心。让贤淑和万智没有想到的是，乐观开朗的天智竟然在某一日选择了结束自己的生命，这一噩耗犹如一道晴空霹雳打响在贤淑一家人的头顶之上，使得本就辛苦的生活变得更加举步维艰。然而，即便如此，贤淑和万智还是坚强的维系着正常的生活。一次偶然中，万智意外的得知了有关妹妹生前的一些讯息，这些讯息让她明白了妹妹真正的死因和竭力隐藏的某个秘密。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-05-29 14:16:30</dateadded>
+  <title>优雅的谎言</title>
+  <originaltitle>우아한 거짓말</originaltitle>
+  <actor>
+    <name>Kim Hee-ae</name>
+    <role>Ryu Hyun-sook</role>
+    <type>Actor</type>
+    <tmdbid>1304595</tmdbid>
+    <imdbid>nm0373432</imdbid>
+  </actor>
+  <actor>
+    <name>Go Ah-sung</name>
+    <role>Lee Man-ji</role>
+    <type>Actor</type>
+    <tmdbid>21689</tmdbid>
+    <imdbid>nm2163344</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Yoo-jung</name>
+    <role>Kim Hwa-yeon</role>
+    <type>Actor</type>
+    <tmdbid>140335</tmdbid>
+    <imdbid>nm2947737</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Hyang-gi</name>
+    <role>Lee Cheon-ji</role>
+    <type>Actor</type>
+    <tmdbid>1128106</tmdbid>
+    <imdbid>nm3676100</imdbid>
+  </actor>
+  <actor>
+    <name>Yoo Ah-in</name>
+    <role>Choo Sang-bak</role>
+    <type>Actor</type>
+    <tmdbid>572225</tmdbid>
+    <imdbid>nm2584860</imdbid>
+  </actor>
+  <actor>
+    <name>Sung Dong-il</name>
+    <role>Kwak Man-ho</role>
+    <type>Actor</type>
+    <tmdbid>1020859</tmdbid>
+    <imdbid>nm1753862</imdbid>
+  </actor>
+  <actor>
+    <name>Chun Woo-hee</name>
+    <role>Kwak Mi-ran</role>
+    <type>Actor</type>
+    <tmdbid>1263930</tmdbid>
+    <imdbid>nm3825915</imdbid>
+  </actor>
+  <actor>
+    <name>Yoo Yeon-mi</name>
+    <role>Kwak Mi-ra</role>
+    <type>Actor</type>
+    <tmdbid>96466</tmdbid>
+    <imdbid>nm3067572</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Jung-young</name>
+    <role>Hwa-yeon's mother</role>
+    <type>Actor</type>
+    <tmdbid>4263</tmdbid>
+    <imdbid>nm1558348</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Jae-gu</name>
+    <role>Hwa-yeon's father</role>
+    <type>Actor</type>
+    <tmdbid>88295</tmdbid>
+    <imdbid>nm3159204</imdbid>
+  </actor>
+  <actor>
+    <name>Han Yi-jin</name>
+    <role>Mr. Park</role>
+    <type>Actor</type>
+    <tmdbid>2220866</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Ji-hoon</name>
+    <role>Kim Ji-hoon</role>
+    <type>Actor</type>
+    <tmdbid>1630811</tmdbid>
+  </actor>
+  <actor>
+    <name>Kang Da-young</name>
+    <role>Ji-min</role>
+    <type>Actor</type>
+    <tmdbid>2420554</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Young-eun</name>
+    <role>Mi-so</role>
+    <type>Actor</type>
+    <tmdbid>2420559</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Ji-young</name>
+    <role>Su-kyoung</role>
+    <type>Actor</type>
+    <tmdbid>2420593</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Seon-hong</name>
+    <role>Woo-ram</role>
+    <type>Actor</type>
+    <tmdbid>2420595</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Mi-ji</name>
+    <role>Seong-hee</role>
+    <type>Actor</type>
+    <tmdbid>2420596</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Soo-kyung</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>1482875</tmdbid>
+    <imdbid>nm7441315</imdbid>
+  </actor>
+  <director tmdbid="83030" imdbid="nm1215478">Lee Han</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=n3vXgDTDPdg</trailer>
+  <rating>6.7</rating>
+  <year>2014</year>
+  <imdbid>tt3837154</imdbid>
+  <tmdbid>257331</tmdbid>
+  <premiered>2014-03-13</premiered>
+  <releasedate>2014-03-13</releasedate>
+  <criticrating>100</criticrating>
+  <runtime>117</runtime>
+  <country>South Korea</country>
+  <genre>家庭</genre>
+  <genre>剧情</genre>
+  <studio>Movierock</studio>
+  <studio>CGV Arthouse</studio>
+  <studio>UBU Film</studio>
+  <uniqueid type="Tmdb">257331</uniqueid>
+  <uniqueid type="Imdb">tt3837154</uniqueid>
+  <id>tt3837154</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3650239</bitrate>
+        <width>1280</width>
+        <height>544</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7027</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

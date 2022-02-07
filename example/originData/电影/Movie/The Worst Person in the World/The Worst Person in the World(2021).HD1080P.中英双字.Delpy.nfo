@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　故事聚焦当下的奥斯陆，围绕年轻睿智的女性朱莉展开。30岁的她仍徘徊在人生的十字路口，尽管她与事业有成的制图员阿克塞尔彼此相爱，拥有强烈的安全感，并很开心和他在一起，但她拒绝给渴望孩子的阿克塞尔生子。朱莉决意离开阿克塞尔前往艾文德，希望能够开始新的生活……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-22 01:31:30</dateadded>
+  <title>世界上最糟糕的人</title>
+  <originaltitle>Verdens verste menneske</originaltitle>
+  <actor>
+    <name>Renate Reinsve</name>
+    <role>Julie</role>
+    <type>Actor</type>
+    <tmdbid>1576786</tmdbid>
+  </actor>
+  <actor>
+    <name>Anders Danielsen Lie</name>
+    <role>Aksel</role>
+    <type>Actor</type>
+    <tmdbid>71610</tmdbid>
+  </actor>
+  <actor>
+    <name>Herbert Nordrum</name>
+    <role>Eivind</role>
+    <type>Actor</type>
+    <tmdbid>1083266</tmdbid>
+    <imdbid>nm5122260</imdbid>
+  </actor>
+  <actor>
+    <name>Maria Grazia Di Meo</name>
+    <role>Sunniva</role>
+    <type>Actor</type>
+    <tmdbid>1479362</tmdbid>
+  </actor>
+  <actor>
+    <name>Hans Olav Brenner</name>
+    <role>Ole Magnus</role>
+    <type>Actor</type>
+    <tmdbid>574243</tmdbid>
+  </actor>
+  <actor>
+    <name>Marianne Krogh</name>
+    <role>Eva</role>
+    <type>Actor</type>
+    <tmdbid>2108561</tmdbid>
+  </actor>
+  <actor>
+    <name>Helene Bjørnebye</name>
+    <role>Karianne</role>
+    <type>Actor</type>
+    <tmdbid>1479227</tmdbid>
+  </actor>
+  <actor>
+    <name>Vidar Sandem</name>
+    <role>Per Harald</role>
+    <type>Actor</type>
+    <tmdbid>99056</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Dworak</name>
+    <role>Kathrine</role>
+    <type>Actor</type>
+    <tmdbid>1146070</tmdbid>
+    <imdbid>nm1477160</imdbid>
+  </actor>
+  <actor>
+    <name>Thea Stabell</name>
+    <role>Ase</role>
+    <type>Actor</type>
+    <tmdbid>92106</tmdbid>
+  </actor>
+  <actor>
+    <name>Deniz Kaya</name>
+    <role>Adil</role>
+    <type>Actor</type>
+    <tmdbid>2570814</tmdbid>
+  </actor>
+  <actor>
+    <name>Lasse Gretland</name>
+    <role>Kristoffer</role>
+    <type>Actor</type>
+    <tmdbid>3267200</tmdbid>
+  </actor>
+  <actor>
+    <name>Karen Røise Kielland</name>
+    <role>Tone</role>
+    <type>Actor</type>
+    <tmdbid>3267201</tmdbid>
+  </actor>
+  <actor>
+    <name>Karla Nitteberg Aspelin</name>
+    <role>Anna</role>
+    <type>Actor</type>
+    <tmdbid>3267202</tmdbid>
+  </actor>
+  <actor>
+    <name>Sofia Schandy Bloch</name>
+    <role>Nathalie</role>
+    <type>Actor</type>
+    <tmdbid>3267204</tmdbid>
+  </actor>
+  <actor>
+    <name>Savannah Marie Schei</name>
+    <type>Actor</type>
+    <tmdbid>3267207</tmdbid>
+  </actor>
+  <actor>
+    <name>Eia Skjønsberg</name>
+    <role>Synne</role>
+    <type>Actor</type>
+    <tmdbid>3267208</tmdbid>
+  </actor>
+  <actor>
+    <name>Ruby Dagnall</name>
+    <type>Actor</type>
+    <tmdbid>1674959</tmdbid>
+  </actor>
+  <director tmdbid="71609">Joachim Trier</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=42ouy74zntk</trailer>
+  <rating>7.5</rating>
+  <year>2021</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt10370710</imdbid>
+  <tmdbid>660120</tmdbid>
+  <premiered>2021-10-13</premiered>
+  <releasedate>2021-10-13</releasedate>
+  <runtime>128</runtime>
+  <country>Denmark</country>
+  <country>France</country>
+  <country>Norway</country>
+  <country>Sweden</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <studio>Oslo Pictures</studio>
+  <studio>Snowglobe</studio>
+  <studio>MK2 Films</studio>
+  <studio>Film i Väst</studio>
+  <studio>B-Reel Films</studio>
+  <studio>ARTE France Cinéma</studio>
+  <studio>Neon</studio>
+  <uniqueid type="Tmdb">660120</uniqueid>
+  <uniqueid type="Imdb">tt10370710</uniqueid>
+  <id>tt10370710</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2212213</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>128</duration>
+        <durationinseconds>7682</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>139636</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

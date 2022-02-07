@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[统领伯克岛的酋长嗝嗝，与阿丝翠德共同打造了一个奇妙而热闹的飞龙乌托邦。而一只雌性光煞飞龙的意外出现，加上一个前所未有的威胁的到来，令嗝嗝和没牙仔不得不离开自己唯一的家园，前往他们本以为只存在于神话之中的隐秘之境。在发现自己真正的命运之后，飞龙与骑士将携手殊死奋战，保护他们所珍爱的一切。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-04-03 11:42:53</dateadded>
+  <title>驯龙高手3</title>
+  <originaltitle>How to Train Your Dragon: The Hidden World</originaltitle>
+  <actor>
+    <name>Jay Baruchel</name>
+    <role>Hiccup (voice)</role>
+    <type>Actor</type>
+    <tmdbid>449</tmdbid>
+    <imdbid>nm0059431</imdbid>
+  </actor>
+  <actor>
+    <name>America Ferrera</name>
+    <role>Astrid (voice)</role>
+    <type>Actor</type>
+    <tmdbid>59174</tmdbid>
+    <imdbid>nm1065229</imdbid>
+  </actor>
+  <actor>
+    <name>F. Murray Abraham</name>
+    <role>Grimmel (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1164</tmdbid>
+    <imdbid>nm0000719</imdbid>
+  </actor>
+  <actor>
+    <name>Cate Blanchett</name>
+    <role>Valka (voice)</role>
+    <type>Actor</type>
+    <tmdbid>112</tmdbid>
+    <imdbid>nm0000949</imdbid>
+  </actor>
+  <actor>
+    <name>Gerard Butler</name>
+    <role>Stoick (voice)</role>
+    <type>Actor</type>
+    <tmdbid>17276</tmdbid>
+    <imdbid>nm0124930</imdbid>
+  </actor>
+  <actor>
+    <name>Craig Ferguson</name>
+    <role>Gobber (voice)</role>
+    <type>Actor</type>
+    <tmdbid>24264</tmdbid>
+    <imdbid>nm0272401</imdbid>
+  </actor>
+  <actor>
+    <name>Jonah Hill</name>
+    <role>Snotlout (voice)</role>
+    <type>Actor</type>
+    <tmdbid>21007</tmdbid>
+    <imdbid>nm1706767</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Mintz-Plasse</name>
+    <role>Fishlegs (voice)</role>
+    <type>Actor</type>
+    <tmdbid>54691</tmdbid>
+    <imdbid>nm2395586</imdbid>
+  </actor>
+  <actor>
+    <name>Kristen Wiig</name>
+    <role>Ruffnut (voice)</role>
+    <type>Actor</type>
+    <tmdbid>41091</tmdbid>
+    <imdbid>nm1325419</imdbid>
+  </actor>
+  <actor>
+    <name>Kit Harington</name>
+    <role>Eret (voice)</role>
+    <type>Actor</type>
+    <tmdbid>239019</tmdbid>
+    <imdbid>nm3229685</imdbid>
+  </actor>
+  <actor>
+    <name>Justin Rupple</name>
+    <role>Tuffnut (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1718135</tmdbid>
+    <imdbid>nm5004187</imdbid>
+  </actor>
+  <actor>
+    <name>Robin Atkin Downes</name>
+    <role>Ack (voice)</role>
+    <type>Actor</type>
+    <tmdbid>130081</tmdbid>
+    <imdbid>nm0235960</imdbid>
+  </actor>
+  <actor>
+    <name>Kieron Elliott</name>
+    <role>Hoark (voice)</role>
+    <type>Actor</type>
+    <tmdbid>138620</tmdbid>
+    <imdbid>nm1795362</imdbid>
+  </actor>
+  <actor>
+    <name>Julia Emelin</name>
+    <role>Griselda the Grevious (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2246293</tmdbid>
+    <imdbid>nm1160735</imdbid>
+  </actor>
+  <actor>
+    <name>Gideon Emery</name>
+    <role>Trapper (voice)</role>
+    <type>Actor</type>
+    <tmdbid>35981</tmdbid>
+    <imdbid>nm0256297</imdbid>
+  </actor>
+  <actor>
+    <name>Ashley Jensen</name>
+    <role>Phlegma (voice)</role>
+    <type>Actor</type>
+    <tmdbid>55398</tmdbid>
+    <imdbid>nm0421332</imdbid>
+  </actor>
+  <actor>
+    <name>AJ Kane</name>
+    <role>Young Hiccup (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2246294</tmdbid>
+    <imdbid>nm7851743</imdbid>
+  </actor>
+  <actor>
+    <name>Ólafur Darri Ólafsson</name>
+    <role>Ragnar the Rock (voice)</role>
+    <type>Actor</type>
+    <tmdbid>110902</tmdbid>
+    <imdbid>nm0959963</imdbid>
+  </actor>
+  <actor>
+    <name>James Sie</name>
+    <role>Chaghatai Khan (voice)</role>
+    <type>Actor</type>
+    <tmdbid>154657</tmdbid>
+    <imdbid>nm0796732</imdbid>
+  </actor>
+  <actor>
+    <name>David Tennant</name>
+    <role>Spitelout / Ivar the Whitless (voice)</role>
+    <type>Actor</type>
+    <tmdbid>20049</tmdbid>
+    <imdbid>nm0855039</imdbid>
+  </actor>
+  <director tmdbid="69797" imdbid="nm0213450">Dean DeBlois</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qLTDtbYmdWM</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SkcucKDrbOI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5DEdq57E5ls</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qNGLuCijKZ0</trailer>
+  <rating>7.5</rating>
+  <year>2019</year>
+  <mpaa>HK-I</mpaa>
+  <imdbid>tt2386490</imdbid>
+  <tmdbid>166428</tmdbid>
+  <premiered>2019-01-03</premiered>
+  <releasedate>2019-01-03</releasedate>
+  <criticrating>90</criticrating>
+  <runtime>101</runtime>
+  <country>Japan</country>
+  <country>United States of America</country>
+  <genre>动画</genre>
+  <genre>家庭</genre>
+  <genre>冒险</genre>
+  <studio>DreamWorks Animation</studio>
+  <studio>Mad Hatter Entertainment</studio>
+  <studio>DENTSU</studio>
+  <studio>Fuji Television Network</studio>
+  <set tmdbcolid="89137">
+    <name>驯龙高手（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">166428</uniqueid>
+  <uniqueid type="Imdb">tt2386490</uniqueid>
+  <id>tt2386490</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4716228</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>29.97003</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6083</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

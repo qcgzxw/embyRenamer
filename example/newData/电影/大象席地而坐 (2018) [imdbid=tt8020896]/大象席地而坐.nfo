@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[满州里动物园有一头大象，每天坐在那里。为朋友出头的少年、为弟报仇的恶霸哥哥、身陷囹圄的女生，卡在世界灰暗的缝隙里无法脱身，却挣扎着去看大象。萧瑟寒冬的一天，绝望身影在不对称不平衡的影像中碰撞， 爆裂了压抑的沉郁，在粗糙布景、朦胧灯光的低成本制作中肆意蔓延。作者兼导演胡波 （笔名胡迁）首作，以青涩朴质与震撼感性，获柏林影展赏识入围论坛单元， 却是无法嵌合和谐主旋律的一块失落拼图。看不见大象是共同宿命，胡波骤然陨落，也成了这一代人的遗憾。]]></plot>
+  <outline><![CDATA[爱在樱花盛开时]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2018-11-05 04:12:52</dateadded>
+  <title>大象席地而坐</title>
+  <originaltitle>大象席地而坐</originaltitle>
+  <actor>
+    <name>Peng Yuchang</name>
+    <role>Wei Bu</role>
+    <type>Actor</type>
+    <tmdbid>1897274</tmdbid>
+    <imdbid>nm7832387</imdbid>
+  </actor>
+  <actor>
+    <name>Wang Yuwen</name>
+    <role>Huang Ling</role>
+    <type>Actor</type>
+    <tmdbid>1836775</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Yu</name>
+    <role>Yu Cheng</role>
+    <type>Actor</type>
+    <tmdbid>2074441</tmdbid>
+    <imdbid>nm9636805</imdbid>
+  </actor>
+  <actor>
+    <name>Congxi Li</name>
+    <role>Wang Jin</role>
+    <type>Actor</type>
+    <tmdbid>1090108</tmdbid>
+    <imdbid>nm1649830</imdbid>
+  </actor>
+  <actor>
+    <name>Zhenghui Ling</name>
+    <role>Li Kai</role>
+    <type>Actor</type>
+    <tmdbid>2167715</tmdbid>
+  </actor>
+  <actor>
+    <name>Xiaolong Zhang</name>
+    <role>Yu Shuai</role>
+    <type>Actor</type>
+    <tmdbid>2167716</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Danyi</name>
+    <role>Wang Jin's daughter</role>
+    <type>Actor</type>
+    <tmdbid>2582092</tmdbid>
+  </actor>
+  <actor>
+    <name>Kong Wei</name>
+    <role>Wang Jin's son-in-law</role>
+    <type>Actor</type>
+    <tmdbid>2582099</tmdbid>
+  </actor>
+  <actor>
+    <name>Kong Yixin</name>
+    <role>Wang Jin's granddaughter</role>
+    <type>Actor</type>
+    <tmdbid>2582103</tmdbid>
+  </actor>
+  <actor>
+    <name>Chaobei Wang</name>
+    <role>Yu Cheng's friend</role>
+    <type>Actor</type>
+    <tmdbid>2476662</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Xueyang</name>
+    <role>Wife of Yu Cheng's friend</role>
+    <type>Actor</type>
+    <tmdbid>2582106</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhu Yan Man Zi</name>
+    <role>Yu Cheng's Lover</role>
+    <type>Actor</type>
+    <tmdbid>2044184</tmdbid>
+    <imdbid>nm8262173</imdbid>
+  </actor>
+  <actor>
+    <name>Zhao Yanguozhang</name>
+    <role>Wei Bu's father</role>
+    <type>Actor</type>
+    <tmdbid>2304947</tmdbid>
+    <imdbid>nm2626347</imdbid>
+  </actor>
+  <actor>
+    <name>Li Suyun</name>
+    <role>Wei Bu's mother</role>
+    <type>Actor</type>
+    <tmdbid>2582107</tmdbid>
+  </actor>
+  <actor>
+    <name>Huang Ximan</name>
+    <role>White dog's female owner</role>
+    <type>Actor</type>
+    <tmdbid>2582109</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Qing</name>
+    <role>White dog's male owner</role>
+    <type>Actor</type>
+    <tmdbid>2582110</tmdbid>
+  </actor>
+  <actor>
+    <name>He Miaomiao</name>
+    <role>Mother of Yu Cheng's friend</role>
+    <type>Actor</type>
+    <tmdbid>2582111</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Binyuan</name>
+    <role>Scalper</role>
+    <type>Actor</type>
+    <tmdbid>2582112</tmdbid>
+  </actor>
+  <actor>
+    <name>Shunzi</name>
+    <role>Yu Cheng's mother</role>
+    <type>Actor</type>
+    <tmdbid>2582115</tmdbid>
+  </actor>
+  <actor>
+    <name>Guo Jing</name>
+    <role>Dean's Wife</role>
+    <type>Actor</type>
+    <tmdbid>2097509</tmdbid>
+  </actor>
+  <actor>
+    <name>Xiang Rong Dong</name>
+    <role>Dean</role>
+    <type>Actor</type>
+    <tmdbid>2167713</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Shuai</name>
+    <role>Yu Cheng's sidekick 1</role>
+    <type>Actor</type>
+    <tmdbid>2582125</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhou Yinglong</name>
+    <role>Yu Cheng's sidekick 2</role>
+    <type>Actor</type>
+    <tmdbid>2582127</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhao Weimin</name>
+    <role>Yu Cheng's sidekick 3</role>
+    <type>Actor</type>
+    <tmdbid>2582131</tmdbid>
+  </actor>
+  <actor>
+    <name>Hao Shimin</name>
+    <role>Yu Cheng's sidekick 4</role>
+    <type>Actor</type>
+    <tmdbid>2582134</tmdbid>
+  </actor>
+  <actor>
+    <name>Chang Wukui</name>
+    <role>The guy burning garbage</role>
+    <type>Actor</type>
+    <tmdbid>2582155</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Xiaohui</name>
+    <role>Restaurant female owner</role>
+    <type>Actor</type>
+    <tmdbid>2582156</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhu Jianliang</name>
+    <role>Middle-aged man</role>
+    <type>Actor</type>
+    <tmdbid>2582158</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Jinzhong</name>
+    <role>Strong old man</role>
+    <type>Actor</type>
+    <tmdbid>2582159</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Hongmei</name>
+    <role>Card-playing woman</role>
+    <type>Actor</type>
+    <tmdbid>2582160</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Jianmin</name>
+    <role>Wei Bu's uncle</role>
+    <type>Actor</type>
+    <tmdbid>2582161</tmdbid>
+  </actor>
+  <actor>
+    <name>Qiqi</name>
+    <role>Wei Bu's aunt</role>
+    <type>Actor</type>
+    <tmdbid>2582162</tmdbid>
+  </actor>
+  <actor>
+    <name>3502 tenant</name>
+    <role>Wei Bu's grandmother</role>
+    <type>Actor</type>
+    <tmdbid>2582164</tmdbid>
+  </actor>
+  <actor>
+    <name>Ember Yu</name>
+    <role>Pool room receptionist</role>
+    <type>Actor</type>
+    <tmdbid>2582172</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zhouqiang</name>
+    <role>Restaurant chef</role>
+    <type>Actor</type>
+    <tmdbid>2582174</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Gang</name>
+    <role>Yu Cheng's father</role>
+    <type>Actor</type>
+    <tmdbid>2582176</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Longlong</name>
+    <role>Scalper's accomplice</role>
+    <type>Actor</type>
+    <tmdbid>2582177</tmdbid>
+  </actor>
+  <actor>
+    <name>Gao Xuepeng</name>
+    <role>Mop boy</role>
+    <type>Actor</type>
+    <tmdbid>2582178</tmdbid>
+  </actor>
+  <actor>
+    <name>Ma Heping</name>
+    <role>Shuttlecock-kicking man</role>
+    <type>Actor</type>
+    <tmdbid>2582179</tmdbid>
+  </actor>
+  <actor>
+    <name>Yan Hao</name>
+    <role>Ballet class student</role>
+    <type>Actor</type>
+    <tmdbid>2582180</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Yuming</name>
+    <role>City bus rider / Coach rider / Service area</role>
+    <type>Actor</type>
+    <tmdbid>2582181</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhao Shihui</name>
+    <role>Li Xiaoli</role>
+    <type>Actor</type>
+    <tmdbid>2582182</tmdbid>
+  </actor>
+  <actor>
+    <name>Ning Wong</name>
+    <role>Huang Ling's mother</role>
+    <type>Actor</type>
+    <tmdbid>1174730</tmdbid>
+    <imdbid>nm0939269</imdbid>
+  </actor>
+  <actor>
+    <name>Zhao Tao</name>
+    <role>History teacher</role>
+    <type>Actor</type>
+    <tmdbid>24044</tmdbid>
+    <imdbid>nm0955504</imdbid>
+  </actor>
+  <actor>
+    <name>Liu Xiwen</name>
+    <role>Taxi driver</role>
+    <type>Actor</type>
+    <tmdbid>2582185</tmdbid>
+  </actor>
+  <actor>
+    <name>He Lei</name>
+    <role>Bus driver</role>
+    <type>Actor</type>
+    <tmdbid>2582186</tmdbid>
+  </actor>
+  <director tmdbid="1962993" imdbid="nm9636804">Hu Bo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=G6j_d8ENXkY</trailer>
+  <rating>7.8</rating>
+  <year>2018</year>
+  <mpaa>HK-IIB</mpaa>
+  <imdbid>tt8020896</imdbid>
+  <tmdbid>499556</tmdbid>
+  <premiered>2018-03-08</premiered>
+  <releasedate>2018-03-08</releasedate>
+  <criticrating>96</criticrating>
+  <runtime>231</runtime>
+  <tagline>爱在樱花盛开时</tagline>
+  <country>China</country>
+  <genre>剧情</genre>
+  <studio>Dongchun Films (Beijing)</studio>
+  <uniqueid type="Imdb">tt8020896</uniqueid>
+  <uniqueid type="Tmdb">499556</uniqueid>
+  <id>tt8020896</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1595131</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>230</duration>
+        <durationinseconds>13852</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>96000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

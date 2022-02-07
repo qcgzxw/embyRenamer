@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　HBO正式宣布电影版[朽木]将于10月开机，有望明春播出。去年便已传出《朽木》编剧大卫·米尔契已完成了电影版剧本。剧版于2004年至2006年播出了三季，但粉丝始终没有迎来最终的大结局，该剧故事围绕美国疆界之外的一个矿镇展开。此前有消息称原剧众卡司均有望回归，包括伊恩·麦柯肖恩、蒂莫西·奥利芬特、约翰·浩克斯、莫莉·帕克、布拉德·道里夫等。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-06-08 13:47:58</dateadded>
+  <title>朽木</title>
+  <originaltitle>Deadwood: The Movie</originaltitle>
+  <actor>
+    <name>Timothy Olyphant</name>
+    <role>Seth Bullock</role>
+    <type>Actor</type>
+    <tmdbid>18082</tmdbid>
+    <imdbid>nm0648249</imdbid>
+  </actor>
+  <actor>
+    <name>Ian McShane</name>
+    <role>Al Swearengen</role>
+    <type>Actor</type>
+    <tmdbid>6972</tmdbid>
+    <imdbid>nm0574534</imdbid>
+  </actor>
+  <actor>
+    <name>Molly Parker</name>
+    <role>Alma Ellsworth</role>
+    <type>Actor</type>
+    <tmdbid>27125</tmdbid>
+    <imdbid>nm0662504</imdbid>
+  </actor>
+  <actor>
+    <name>Paula Malcomson</name>
+    <role>Trixie</role>
+    <type>Actor</type>
+    <tmdbid>47533</tmdbid>
+    <imdbid>nm0539155</imdbid>
+  </actor>
+  <actor>
+    <name>W. Earl Brown</name>
+    <role>Dan Dority</role>
+    <type>Actor</type>
+    <tmdbid>6951</tmdbid>
+    <imdbid>nm0114868</imdbid>
+  </actor>
+  <actor>
+    <name>Dayton Callie</name>
+    <role>Charlie Utter</role>
+    <type>Actor</type>
+    <tmdbid>87108</tmdbid>
+    <imdbid>nm0130502</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Dickens</name>
+    <role>Joanie Stubbs</role>
+    <type>Actor</type>
+    <tmdbid>21165</tmdbid>
+    <imdbid>nm0225332</imdbid>
+  </actor>
+  <actor>
+    <name>Brad Dourif</name>
+    <role>Doc Cochran</role>
+    <type>Actor</type>
+    <tmdbid>1370</tmdbid>
+    <imdbid>nm0000374</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Martha Bullock</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>John Hawkes</name>
+    <role>Sol Star</role>
+    <type>Actor</type>
+    <tmdbid>16861</tmdbid>
+    <imdbid>nm0370035</imdbid>
+  </actor>
+  <actor>
+    <name>Leon Rippy</name>
+    <role>Tom Nuttall</role>
+    <type>Actor</type>
+    <tmdbid>15374</tmdbid>
+    <imdbid>nm0728132</imdbid>
+  </actor>
+  <actor>
+    <name>William Sanderson</name>
+    <role>E.B. Farnum</role>
+    <type>Actor</type>
+    <tmdbid>590</tmdbid>
+    <imdbid>nm0761836</imdbid>
+  </actor>
+  <actor>
+    <name>Robin Weigert</name>
+    <role>Calamity Jane</role>
+    <type>Actor</type>
+    <tmdbid>79087</tmdbid>
+    <imdbid>nm0917848</imdbid>
+  </actor>
+  <actor>
+    <name>Brent Sexton</name>
+    <role>Harry Manning</role>
+    <type>Actor</type>
+    <tmdbid>159261</tmdbid>
+    <imdbid>nm0786641</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Bridgers</name>
+    <role>Johnny Burns</role>
+    <type>Actor</type>
+    <tmdbid>144160</tmdbid>
+    <imdbid>nm0108703</imdbid>
+  </actor>
+  <actor>
+    <name>Geri Jewell</name>
+    <role>Jewel</role>
+    <type>Actor</type>
+    <tmdbid>1223928</tmdbid>
+    <imdbid>nm0422434</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Jones</name>
+    <role>A.W. Merrick</role>
+    <type>Actor</type>
+    <tmdbid>4004</tmdbid>
+    <imdbid>nm0000470</imdbid>
+  </actor>
+  <actor>
+    <name>Franklyn Ajaye</name>
+    <role>Samuel Fields</role>
+    <type>Actor</type>
+    <tmdbid>44796</tmdbid>
+    <imdbid>nm0014977</imdbid>
+  </actor>
+  <actor>
+    <name>Keone Young</name>
+    <role>Mr. Wu</role>
+    <type>Actor</type>
+    <tmdbid>91387</tmdbid>
+    <imdbid>nm0949775</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Jason</name>
+    <role>Con Stapleton</role>
+    <type>Actor</type>
+    <tmdbid>6916</tmdbid>
+    <imdbid>nm0419273</imdbid>
+  </actor>
+  <actor>
+    <name>Cleo King</name>
+    <role>Aunt Lou</role>
+    <type>Actor</type>
+    <tmdbid>7574</tmdbid>
+    <imdbid>nm0454598</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Curran</name>
+    <role>James Smith</role>
+    <type>Actor</type>
+    <tmdbid>2220</tmdbid>
+    <imdbid>nm0192889</imdbid>
+  </actor>
+  <actor>
+    <name>Jade Pettyjohn</name>
+    <role>Caroline</role>
+    <type>Actor</type>
+    <tmdbid>1049742</tmdbid>
+    <imdbid>nm3167464</imdbid>
+  </actor>
+  <actor>
+    <name>Lily Keene</name>
+    <role>Sofia Ellsworth</role>
+    <type>Actor</type>
+    <tmdbid>1604439</tmdbid>
+    <imdbid>nm5393192</imdbid>
+  </actor>
+  <actor>
+    <name>Don Swayze</name>
+    <role>Seacrest</role>
+    <type>Actor</type>
+    <tmdbid>81690</tmdbid>
+    <imdbid>nm0842023</imdbid>
+  </actor>
+  <actor>
+    <name>Gerald McRaney</name>
+    <role>George Hearst</role>
+    <type>Actor</type>
+    <tmdbid>29512</tmdbid>
+    <imdbid>nm0574468</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Ko</name>
+    <role>Mengyao</role>
+    <type>Actor</type>
+    <tmdbid>2053584</tmdbid>
+    <imdbid>nm8925822</imdbid>
+  </actor>
+  <actor>
+    <name>Brandon Alan Makovy</name>
+    <role>Sheriff Laraby</role>
+    <type>Actor</type>
+    <tmdbid>1690171</tmdbid>
+    <imdbid>nm4014136</imdbid>
+  </actor>
+  <actor>
+    <name>Noelle E. Parker</name>
+    <role>Margaret Bullock</role>
+    <type>Actor</type>
+    <tmdbid>1903660</tmdbid>
+    <imdbid>nm6697993</imdbid>
+  </actor>
+  <actor>
+    <name>Leticia Lagutenko</name>
+    <role>Florence Bullock</role>
+    <type>Actor</type>
+    <tmdbid>2353703</tmdbid>
+    <imdbid>nm10232888</imdbid>
+  </actor>
+  <actor>
+    <name>Luke Patrick Dodge</name>
+    <role>Stanley Bullock</role>
+    <type>Actor</type>
+    <tmdbid>2353704</tmdbid>
+    <imdbid>nm9968559</imdbid>
+  </actor>
+  <actor>
+    <name>Van Epperson</name>
+    <role>Jerry</role>
+    <type>Actor</type>
+    <tmdbid>158782</tmdbid>
+    <imdbid>nm0258371</imdbid>
+  </actor>
+  <actor>
+    <name>Bryan Veronneau</name>
+    <role>Hearst Worker</role>
+    <type>Actor</type>
+    <tmdbid>1499804</tmdbid>
+    <imdbid>nm5365358</imdbid>
+  </actor>
+  <actor>
+    <name>Tommy Lamey</name>
+    <role>Arty</role>
+    <type>Actor</type>
+    <tmdbid>162180</tmdbid>
+    <imdbid>nm0483515</imdbid>
+  </actor>
+  <actor>
+    <name>Teya Patt</name>
+    <role>Lisa</role>
+    <type>Actor</type>
+    <tmdbid>1449126</tmdbid>
+    <imdbid>nm4822970</imdbid>
+  </actor>
+  <actor>
+    <name>Shelby Steel</name>
+    <role>Jojo</role>
+    <type>Actor</type>
+    <tmdbid>2256433</tmdbid>
+    <imdbid>nm4170796</imdbid>
+  </actor>
+  <actor>
+    <name>Adrian Snow</name>
+    <role>Bella Girl</role>
+    <type>Actor</type>
+    <tmdbid>2353711</tmdbid>
+    <imdbid>nm4763470</imdbid>
+  </actor>
+  <actor>
+    <name>Desiree Hall</name>
+    <role>Bella Girl</role>
+    <type>Actor</type>
+    <tmdbid>931495</tmdbid>
+    <imdbid>nm1869418</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah B. Lund</name>
+    <role>Gem Whore</role>
+    <type>Actor</type>
+    <tmdbid>2353712</tmdbid>
+    <imdbid>nm2317175</imdbid>
+  </actor>
+  <actor>
+    <name>Troy Christian</name>
+    <role>Wedding Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2353715</tmdbid>
+  </actor>
+  <actor>
+    <name>Nancy Dobbs Owen</name>
+    <role>Wedding Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2353716</tmdbid>
+    <imdbid>nm1474587</imdbid>
+  </actor>
+  <actor>
+    <name>Garret Dillahunt</name>
+    <role>Drunk Number 2 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>39520</tmdbid>
+    <imdbid>nm0226813</imdbid>
+  </actor>
+  <actor>
+    <name>Mikaella Ashley</name>
+    <role>Deenie (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1371015</tmdbid>
+    <imdbid>nm6270859</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Anderson</name>
+    <role>Hearst Henchman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1774401</tmdbid>
+    <imdbid>nm6278446</imdbid>
+  </actor>
+  <actor>
+    <name>Ego Mikitas</name>
+    <role>Hearst Henchman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1809216</tmdbid>
+    <imdbid>nm3658494</imdbid>
+  </actor>
+  <actor>
+    <name>April Audia</name>
+    <role>Bella Girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1078349</tmdbid>
+    <imdbid>nm0041560</imdbid>
+  </actor>
+  <actor>
+    <name>Kerry Westcott</name>
+    <role>Prostitute (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2245154</tmdbid>
+    <imdbid>nm6073018</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Beaver</name>
+    <role>Whitney Ellsworth (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>29862</tmdbid>
+    <imdbid>nm0064769</imdbid>
+  </actor>
+  <actor>
+    <name>Harris Callahan</name>
+    <role>Newman (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>1459568</tmdbid>
+  </actor>
+  <actor>
+    <name>Keith Carradine</name>
+    <role>Wild Bill Hickok (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>30613</tmdbid>
+    <imdbid>nm0001018</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Lutheran</name>
+    <role>Jen (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>2484149</tmdbid>
+    <imdbid>nm1851108</imdbid>
+  </actor>
+  <director tmdbid="88743" imdbid="nm0590889">Daniel Minahan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ejqSTxm8Fws</trailer>
+  <rating>7.4</rating>
+  <year>2019</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt4943998</imdbid>
+  <tmdbid>538225</tmdbid>
+  <premiered>2019-05-31</premiered>
+  <releasedate>2019-05-31</releasedate>
+  <criticrating>98</criticrating>
+  <runtime>110</runtime>
+  <country>United States of America</country>
+  <genre>西部</genre>
+  <genre>电视电影</genre>
+  <studio>HBO Films</studio>
+  <uniqueid type="Tmdb">538225</uniqueid>
+  <uniqueid type="Imdb">tt4943998</uniqueid>
+  <id>tt4943998</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10111034</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>110</duration>
+        <durationinseconds>6607</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

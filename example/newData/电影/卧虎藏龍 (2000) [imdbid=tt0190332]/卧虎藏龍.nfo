@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一代大侠李慕白有退出江湖之意，托付红颜知己俞秀莲将自己的青冥剑带到京城，作为礼物送给贝勒爷收藏。这把有四百年历史的古剑伤人无数，李慕白希望如此重大决断能够表明他离开江湖恩怨的决心。谁知当天夜里宝剑就被人盗走，俞秀莲上前阻拦与盗剑人交手，但最后盗剑人在同伙的救助下逃走。有人看见一个蒙面人消失在九门提督玉大人府内，俞秀莲也认为玉大人难逃干系。九门提督主管京城治安，玉大人刚从新疆调来赴任，贝勒爷即不相信玉大人与此有关，也不能轻举妄动以免影响大局。  俞秀莲为了不将事情复杂化一直在暗中查访宝剑下落，也大约猜出是玉府小姐玉蛟龙一时意气所为。俞秀莲对前来京城的李慕白隐瞒消息，只想用旁敲侧击的方法迫使玉蛟龙归还宝剑，免伤和气。不过俞秀莲的良苦用心落空，蒙面人真的归还宝剑时，不可避免地跟李慕白有了一次正面的交锋。而李慕白又发现了害死师傅的碧眼狐狸的踪迹，此时李慕白更是欲罢不能。  玉蛟龙自幼被隐匿于玉府的碧眼狐狸暗中收为弟子，并从秘籍中习得武当派上乘武功，早已青出于蓝。在新疆之时，玉蛟龙就瞒着父亲与当地大盗“半天云”罗小虎情定终身，如今身在北京，父亲又要她嫁人，玉蛟龙一时兴起冲出家门浪迹江湖。  任性傲气的玉蛟龙心中凄苦无处发泄，在江湖上使性任气，俨然是个小魔星。俞秀莲和李慕白爱惜玉蛟龙人才难得，苦心引导，总是无效。在最后和碧眼狐狸的交手之中，李慕白为救玉蛟龙身中毒针而死。玉蛟龙在俞秀莲的指点下来到武当山，却无法面对罗小虎，在和罗小虎一夕缠绵之后，投身万丈绝壑。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-03 21:55:11</dateadded>
+  <title>卧虎藏龙</title>
+  <originaltitle>卧虎藏龍</originaltitle>
+  <actor>
+    <name>Chow Yun-Fat</name>
+    <role>Master Li Mu Bai</role>
+    <type>Actor</type>
+    <tmdbid>1619</tmdbid>
+    <imdbid>nm0000334</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Yeoh</name>
+    <role>Yu Shu Lien</role>
+    <type>Actor</type>
+    <tmdbid>1620</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Ziyi</name>
+    <role>Jen Yu</role>
+    <type>Actor</type>
+    <tmdbid>1339</tmdbid>
+  </actor>
+  <actor>
+    <name>Chang Chen</name>
+    <role>Lo "Dark Cloud"</role>
+    <type>Actor</type>
+    <tmdbid>1622</tmdbid>
+    <imdbid>nm0151654</imdbid>
+  </actor>
+  <actor>
+    <name>Cheng Pei-Pei</name>
+    <role>Jade Fox</role>
+    <type>Actor</type>
+    <tmdbid>1624</tmdbid>
+    <imdbid>nm0155607</imdbid>
+  </actor>
+  <actor>
+    <name>Sihung Lung</name>
+    <role>Sir Te</role>
+    <type>Actor</type>
+    <tmdbid>1623</tmdbid>
+    <imdbid>nm0485950</imdbid>
+  </actor>
+  <actor>
+    <name>Fa Zeng Li</name>
+    <role>Governor Yu</role>
+    <type>Actor</type>
+    <tmdbid>1625</tmdbid>
+  </actor>
+  <actor>
+    <name>Suying Huang</name>
+    <role>Auntie Wu</role>
+    <type>Actor</type>
+    <tmdbid>1268919</tmdbid>
+  </actor>
+  <actor>
+    <name>Xian Gao</name>
+    <role>Bo</role>
+    <type>Actor</type>
+    <tmdbid>1626</tmdbid>
+  </actor>
+  <actor>
+    <name>Yan Hai</name>
+    <role>Madame Yu</role>
+    <type>Actor</type>
+    <tmdbid>1627</tmdbid>
+  </actor>
+  <actor>
+    <name>De Ming Wang</name>
+    <role>Police Inspector Tsai</role>
+    <type>Actor</type>
+    <tmdbid>1628</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Li</name>
+    <role>May</role>
+    <type>Actor</type>
+    <tmdbid>1629</tmdbid>
+  </actor>
+  <actor>
+    <name>Bin Chen</name>
+    <role>Servant</role>
+    <type>Actor</type>
+    <tmdbid>2514645</tmdbid>
+  </actor>
+  <director tmdbid="1614" imdbid="nm0000487">Ang Lee</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4xPC1lEJ6Mg</trailer>
+  <rating>7.8</rating>
+  <year>2000</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt0190332</imdbid>
+  <tmdbid>146</tmdbid>
+  <premiered>2000-07-06</premiered>
+  <releasedate>2000-07-06</releasedate>
+  <criticrating>97</criticrating>
+  <runtime>120</runtime>
+  <country>China</country>
+  <country>Hong Kong</country>
+  <country>Taiwan</country>
+  <country>United States of America</country>
+  <genre>冒险</genre>
+  <genre>剧情</genre>
+  <genre>动作</genre>
+  <genre>爱情</genre>
+  <studio>China Film Co-Production Corporation</studio>
+  <studio>Columbia Pictures Film Production Asia</studio>
+  <studio>Good Machine</studio>
+  <studio>EDKO Film</studio>
+  <studio>Asia Union Film &amp; Entertainment Ltd.</studio>
+  <studio>United China Vision</studio>
+  <studio>Zoom Hunt International Productions Company Ltd.</studio>
+  <set>
+    <name>李安 Ang Lee</name>
+  </set>
+  <set tmdbcolid="290973">
+    <name>卧虎藏龙（系列）</name>
+  </set>
+  <uniqueid type="Imdb">tt0190332</uniqueid>
+  <uniqueid type="Tmdb">146</uniqueid>
+  <id>tt0190332</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4715992</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>120</duration>
+        <durationinseconds>7214</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

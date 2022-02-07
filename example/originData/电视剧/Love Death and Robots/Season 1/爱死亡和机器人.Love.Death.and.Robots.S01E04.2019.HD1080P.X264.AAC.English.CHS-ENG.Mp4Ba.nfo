@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[为了保卫家园，农户们操纵着自制装甲器械与入侵异形展开殊死搏斗。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-27 15:33:30</dateadded>
+  <title>机动装甲</title>
+  <actor>
+    <name>Neil Kaplan</name>
+    <role>Hank (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1424815</tmdbid>
+  </actor>
+  <actor>
+    <name>G.K. Bowes</name>
+    <role>Beth (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>563376</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Whyte</name>
+    <role>Jake (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>71520</tmdbid>
+  </actor>
+  <actor>
+    <name>Courtenay Taylor</name>
+    <role>Helen (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>76029</tmdbid>
+  </actor>
+  <actor>
+    <name>Tudi Roche</name>
+    <role>Crazy Mel (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1222105</tmdbid>
+  </actor>
+  <director>Franck Balson</director>
+  <rating>7.3</rating>
+  <year>2019</year>
+  <imdbid>tt9788490</imdbid>
+  <tvdbid>6983263</tvdbid>
+  <runtime>17</runtime>
+  <genre>Animation</genre>
+  <genre>Short</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <genre>Horror</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt9788490</uniqueid>
+  <uniqueid type="Tvdb">6983263</uniqueid>
+  <episode>4</episode>
+  <season>1</season>
+  <aired>2019-03-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4665210</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>17</duration>
+        <durationinseconds>1042</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>366620</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

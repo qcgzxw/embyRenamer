@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[菲欧娜想到了一种摆脱无家可归的家庭的方法。 利普做出了一个艰难的决定，这也影响了他与塞拉的关系。卡尔想回到学校。弗兰克想占利亚姆朋友的便宜。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-17 12:27:26</dateadded>
+  <title>梦游</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Isaiah</name>
+    <role>Liam Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>2563541</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Ruby Modine</name>
+    <role>Sierra Morton</role>
+    <type>Actor</type>
+    <tmdbid>1602964</tmdbid>
+    <imdbid>nm4384329</imdbid>
+  </actor>
+  <actor>
+    <name>Isidora Goreshter</name>
+    <role>Svetlana Yevgenivna</role>
+    <type>Actor</type>
+    <tmdbid>1677397</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Michael Campbell</name>
+    <role>Brad</role>
+    <type>GuestStar</type>
+    <tmdbid>65728</tmdbid>
+  </actor>
+  <actor>
+    <name>Elliot Fletcher</name>
+    <role>Trevor</role>
+    <type>GuestStar</type>
+    <tmdbid>1601960</tmdbid>
+  </actor>
+  <actor>
+    <name>Levy Tran</name>
+    <role>Eddie</role>
+    <type>GuestStar</type>
+    <tmdbid>1578220</tmdbid>
+  </actor>
+  <actor>
+    <name>Chet Hanks</name>
+    <role>Charlie</role>
+    <type>GuestStar</type>
+    <tmdbid>1421688</tmdbid>
+  </actor>
+  <actor>
+    <name>Evan O'Toole</name>
+    <role>Dylan</role>
+    <type>GuestStar</type>
+    <tmdbid>1379105</tmdbid>
+    <imdbid>nm6090494</imdbid>
+  </actor>
+  <actor>
+    <name>Sammi Hanratty</name>
+    <role>Kassidi</role>
+    <type>GuestStar</type>
+    <tmdbid>61831</tmdbid>
+  </actor>
+  <director>John Wells</director>
+  <rating>8.5</rating>
+  <year>2018</year>
+  <imdbid>tt6360834</imdbid>
+  <tvdbid>6400665</tvdbid>
+  <runtime>57</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt6360834</uniqueid>
+  <uniqueid type="Tvdb">6400665</uniqueid>
+  <episode>12</episode>
+  <season>8</season>
+  <aired>2018-01-28</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10930090</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>57</duration>
+        <durationinseconds>3435</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

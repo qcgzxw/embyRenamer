@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[拉丁文学系的教授询问埃琳娜下一步的去向和打算，埃琳娜表示她想去教学，教授称那是一个好主意，还说最近行政学院准备举行老师资格的认证会，让埃琳娜好好准备一下，埃琳娜试探着提到自己更想进行学术研究，教授有些不太高兴，开始指出埃琳娜现在存在的一些无法克服的问题，比如口音和方言的问题，对她的下一步发展有制约，让她好好考虑一下去教学的事情。埃琳娜从教授的房间走出来，她觉得自己一直没有融入这个环境，佛朗哥·马里教给她的那些办法都没能用上，这个时候她特别怀念佛朗哥，想着与他在一起的美好时光。
+
+埃琳娜小心翼翼地活在这个世俗的社会之中，每一步都走得很小心，每句话都得费尽思量，生怕说错一句话会引来不好的结果。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-11-01 15:30:15</dateadded>
+  <title>蓝仙子</title>
+  <actor>
+    <name>Gaia Girace</name>
+    <role>Lila (Teenager)</role>
+    <type>Actor</type>
+    <tmdbid>2165956</tmdbid>
+    <imdbid>nm10135221</imdbid>
+  </actor>
+  <actor>
+    <name>Margherita Mazzucco</name>
+    <role>Elena (Teenager)</role>
+    <type>Actor</type>
+    <tmdbid>2165955</tmdbid>
+  </actor>
+  <actor>
+    <name>Ludovica Nasti</name>
+    <role>Lila (Younger)</role>
+    <type>Actor</type>
+    <tmdbid>2165954</tmdbid>
+  </actor>
+  <actor>
+    <name>Elisa del Genio</name>
+    <role>Elena (Younger)</role>
+    <type>Actor</type>
+    <tmdbid>2165953</tmdbid>
+  </actor>
+  <actor>
+    <name>Dora Romano</name>
+    <role>Miss Oliviero</role>
+    <type>Actor</type>
+    <tmdbid>1510167</tmdbid>
+    <imdbid>nm0738873</imdbid>
+  </actor>
+  <director>Saverio Costanzo</director>
+  <rating>4.5</rating>
+  <year>2020</year>
+  <imdbid>tt9413926</imdbid>
+  <tvdbid>7550357</tvdbid>
+  <runtime>72</runtime>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt9413926</uniqueid>
+  <uniqueid type="Tvdb">7550357</uniqueid>
+  <episode>8</episode>
+  <season>2</season>
+  <aired>2020-03-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10365902</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>71</duration>
+        <durationinseconds>4316</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

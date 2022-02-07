@@ -1,0 +1,506 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一次灾难性事件毁灭了文明，数千年后，人类已经适应，并进化出了新的生存方式。如今，巨大的移动城市在地球上漫步，无情地吞噬着小牵引城镇。汤姆·纳茨沃西（罗伯特·席安饰），来自大牵引城市伦敦的底层，在遭遇了危险逃犯海特·肖（海拉·希尔莫饰）后，不得不开始为生存而奋战。两个截然相反，本不该相遇的人，却意外结盟，他们注定将改变未来。]]></plot>
+  <outline><![CDATA[有些伤疤不会愈合]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-09 17:58:35</dateadded>
+  <title>掠食城市</title>
+  <originaltitle>Mortal Engines</originaltitle>
+  <actor>
+    <name>Hera Hilmar</name>
+    <role>Hester Shaw</role>
+    <type>Actor</type>
+    <tmdbid>586286</tmdbid>
+    <imdbid>nm2623492</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Sheehan</name>
+    <role>Tom Natsworthy</role>
+    <type>Actor</type>
+    <tmdbid>118616</tmdbid>
+    <imdbid>nm1588066</imdbid>
+  </actor>
+  <actor>
+    <name>Hugo Weaving</name>
+    <role>Thaddeus Valentine</role>
+    <type>Actor</type>
+    <tmdbid>1331</tmdbid>
+    <imdbid>nm0915989</imdbid>
+  </actor>
+  <actor>
+    <name>Jihae</name>
+    <role>Anna Fang</role>
+    <type>Actor</type>
+    <tmdbid>1712372</tmdbid>
+    <imdbid>nm3705886</imdbid>
+  </actor>
+  <actor>
+    <name>Ronan Raftery</name>
+    <role>Bevis Pod</role>
+    <type>Actor</type>
+    <tmdbid>1624444</tmdbid>
+    <imdbid>nm3995719</imdbid>
+  </actor>
+  <actor>
+    <name>Leila George</name>
+    <role>Katherine Valentine</role>
+    <type>Actor</type>
+    <tmdbid>1681867</tmdbid>
+    <imdbid>nm5772354</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Malahide</name>
+    <role>Magnus Crome</role>
+    <type>Actor</type>
+    <tmdbid>8979</tmdbid>
+    <imdbid>nm0538869</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Lang</name>
+    <role>Shrike</role>
+    <type>Actor</type>
+    <tmdbid>32747</tmdbid>
+    <imdbid>nm0002332</imdbid>
+  </actor>
+  <actor>
+    <name>Colin Salmon</name>
+    <role>Chudleigh Pomeroy</role>
+    <type>Actor</type>
+    <tmdbid>5414</tmdbid>
+    <imdbid>nm0758760</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Mitchinson</name>
+    <role>Vambrace</role>
+    <type>Actor</type>
+    <tmdbid>205427</tmdbid>
+    <imdbid>nm2680937</imdbid>
+  </actor>
+  <actor>
+    <name>Regé-Jean Page</name>
+    <role>Captain Khora</role>
+    <type>Actor</type>
+    <tmdbid>1628687</tmdbid>
+    <imdbid>nm2074546</imdbid>
+  </actor>
+  <actor>
+    <name>Menik Gooneratne</name>
+    <role>Sathya</role>
+    <type>Actor</type>
+    <tmdbid>1204264</tmdbid>
+    <imdbid>nm3090492</imdbid>
+  </actor>
+  <actor>
+    <name>Frankie Adams</name>
+    <role>Yasmina Rashid</role>
+    <type>Actor</type>
+    <tmdbid>1753341</tmdbid>
+    <imdbid>nm4213877</imdbid>
+  </actor>
+  <actor>
+    <name>Leifur Sigurdarson</name>
+    <role>Nils Lindstrom</role>
+    <type>Actor</type>
+    <tmdbid>2186683</tmdbid>
+  </actor>
+  <actor>
+    <name>Kahn West</name>
+    <role>Toa Heke</role>
+    <type>Actor</type>
+    <tmdbid>1267773</tmdbid>
+    <imdbid>nm5341007</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Lees</name>
+    <role>Herbert Melliphant</role>
+    <type>Actor</type>
+    <tmdbid>1331950</tmdbid>
+    <imdbid>nm3076902</imdbid>
+  </actor>
+  <actor>
+    <name>Sophie Cox</name>
+    <role>Clytie Potts</role>
+    <type>Actor</type>
+    <tmdbid>1542379</tmdbid>
+    <imdbid>nm2925049</imdbid>
+  </actor>
+  <actor>
+    <name>Kee Chan</name>
+    <role>Governor Kwan</role>
+    <type>Actor</type>
+    <tmdbid>15342</tmdbid>
+    <imdbid>nm0150970</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Peirse</name>
+    <role>Dr. Twix</role>
+    <type>Actor</type>
+    <tmdbid>15092</tmdbid>
+    <imdbid>nm0670582</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Hadlow</name>
+    <role>Stigwood</role>
+    <type>Actor</type>
+    <tmdbid>81877</tmdbid>
+    <imdbid>nm0352921</imdbid>
+  </actor>
+  <actor>
+    <name>Caren Pistorius</name>
+    <role>Pandora Shaw</role>
+    <type>Actor</type>
+    <tmdbid>1046903</tmdbid>
+    <imdbid>nm3308569</imdbid>
+  </actor>
+  <actor>
+    <name>Poppy Macleod</name>
+    <role>Young Hester</role>
+    <type>Actor</type>
+    <tmdbid>1579725</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Tobeck</name>
+    <role>Bürgermeister</role>
+    <type>Actor</type>
+    <tmdbid>41785</tmdbid>
+    <imdbid>nm0864835</imdbid>
+  </actor>
+  <actor>
+    <name>Terry Norris</name>
+    <role>Professor Arkengarth</role>
+    <type>Actor</type>
+    <tmdbid>187107</tmdbid>
+    <imdbid>nm0635909</imdbid>
+  </actor>
+  <actor>
+    <name>Calum Gittins</name>
+    <role>Chief Navigator</role>
+    <type>Actor</type>
+    <tmdbid>1356914</tmdbid>
+    <imdbid>nm1275727</imdbid>
+  </actor>
+  <actor>
+    <name>Megan Edwards</name>
+    <role>Mrs. Wreyland</role>
+    <type>Actor</type>
+    <tmdbid>2231244</tmdbid>
+    <imdbid>nm1104283</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Rowley</name>
+    <role>Mr. Wreyland</role>
+    <type>Actor</type>
+    <tmdbid>1235539</tmdbid>
+    <imdbid>nm0746821</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Jackson</name>
+    <role>Gench</role>
+    <type>Actor</type>
+    <tmdbid>1435850</tmdbid>
+    <imdbid>nm5058015</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Ure</name>
+    <role>Pewsey</role>
+    <type>Actor</type>
+    <tmdbid>1440014</tmdbid>
+    <imdbid>nm0881831</imdbid>
+  </actor>
+  <actor>
+    <name>Nathaniel Lees</name>
+    <role>Pierrepoint</role>
+    <type>Actor</type>
+    <tmdbid>41784</tmdbid>
+    <imdbid>nm0498731</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Yates</name>
+    <role>Dietrich</role>
+    <type>Actor</type>
+    <tmdbid>1207265</tmdbid>
+    <imdbid>nm3670272</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Blake</name>
+    <role>Waving Aviator</role>
+    <type>Actor</type>
+    <tmdbid>240024</tmdbid>
+    <imdbid>nm1693223</imdbid>
+  </actor>
+  <actor>
+    <name>Beatrice Joblin</name>
+    <role>Young Mother</role>
+    <type>Actor</type>
+    <tmdbid>1440644</tmdbid>
+    <imdbid>nm9020882</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Lahood</name>
+    <role>Lookout</role>
+    <type>Actor</type>
+    <tmdbid>2253148</tmdbid>
+  </actor>
+  <actor>
+    <name>Simbarashe Matshe</name>
+    <role>Water Hawker</role>
+    <type>Actor</type>
+    <tmdbid>2231261</tmdbid>
+    <imdbid>nm9467495</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Tuson</name>
+    <role>Salzhakener</role>
+    <type>Actor</type>
+    <tmdbid>1298966</tmdbid>
+    <imdbid>nm2089301</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Whyte</name>
+    <role>Food Hawker</role>
+    <type>Actor</type>
+    <tmdbid>397312</tmdbid>
+    <imdbid>nm0926677</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Homick</name>
+    <role>De Groot</role>
+    <type>Actor</type>
+    <tmdbid>2253146</tmdbid>
+  </actor>
+  <actor>
+    <name>Royden Davys</name>
+    <role>Salvage Man #1</role>
+    <type>Actor</type>
+    <tmdbid>2237813</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Mills</name>
+    <role>Salvage Man #2</role>
+    <type>Actor</type>
+    <tmdbid>2237815</tmdbid>
+  </actor>
+  <actor>
+    <name>Shane Rangi</name>
+    <role>Burly Salvageman</role>
+    <type>Actor</type>
+    <tmdbid>25134</tmdbid>
+    <imdbid>nm1432313</imdbid>
+  </actor>
+  <actor>
+    <name>Yoson An</name>
+    <role>Major Chen</role>
+    <type>Actor</type>
+    <tmdbid>1305610</tmdbid>
+    <imdbid>nm5256788</imdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Quirke</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>2479553</tmdbid>
+  </actor>
+  <actor>
+    <name>Lynda Lester</name>
+    <role>Medusa (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2253152</tmdbid>
+  </actor>
+  <actor>
+    <name>Rick Baker</name>
+    <role>Tube Tannoy (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2253154</tmdbid>
+  </actor>
+  <actor>
+    <name>Katie Jackson</name>
+    <role>Londoner with Book</role>
+    <type>Actor</type>
+    <tmdbid>2082669</tmdbid>
+    <imdbid>nm1116175</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Jackson</name>
+    <role>Londoner with Headphones</role>
+    <type>Actor</type>
+    <tmdbid>1201351</tmdbid>
+    <imdbid>nm0413309</imdbid>
+  </actor>
+  <actor>
+    <name>Carter Nixon</name>
+    <role>Scav Trader Carter</role>
+    <type>Actor</type>
+    <tmdbid>2267301</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Reeve</name>
+    <role>Shan Guo Man</role>
+    <type>Actor</type>
+    <tmdbid>2479551</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Reeve</name>
+    <role>Shan Guo Teenager</role>
+    <type>Actor</type>
+    <tmdbid>2479552</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Kwok</name>
+    <role>Shan Guo Control</role>
+    <type>Actor</type>
+    <tmdbid>2479554</tmdbid>
+  </actor>
+  <actor>
+    <name>Seth F. Miller</name>
+    <role>Airhaven Control</role>
+    <type>Actor</type>
+    <tmdbid>2295322</tmdbid>
+  </actor>
+  <actor>
+    <name>Rodney Cook</name>
+    <role>Scuttlebug Thug (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1628130</tmdbid>
+    <imdbid>nm0177261</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Grey</name>
+    <role>Salzhaken Refugee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>92727</tmdbid>
+    <imdbid>nm3277251</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Jackson</name>
+    <role>Sooty Pete (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>108</tmdbid>
+    <imdbid>nm0001392</imdbid>
+  </actor>
+  <director tmdbid="1419579" imdbid="nm0729514">Christian Rivers</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IRsFc2gguEg</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dqYyKztOZOw</trailer>
+  <rating>6.1</rating>
+  <year>2018</year>
+  <mpaa>HK-IIA</mpaa>
+  <imdbid>tt1571234</imdbid>
+  <tmdbid>428078</tmdbid>
+  <premiered>2018-11-27</premiered>
+  <releasedate>2018-11-27</releasedate>
+  <criticrating>26</criticrating>
+  <runtime>128</runtime>
+  <tagline>有些伤疤不会愈合</tagline>
+  <country>New Zealand</country>
+  <country>United States of America</country>
+  <genre>冒险</genre>
+  <genre>科幻</genre>
+  <studio>Scholastic Productions</studio>
+  <studio>Silvertongue Films</studio>
+  <studio>Universal Pictures</studio>
+  <studio>WingNut Films</studio>
+  <studio>MRC</studio>
+  <uniqueid type="Tmdb">428078</uniqueid>
+  <uniqueid type="Imdb">tt1571234</uniqueid>
+  <id>tt1571234</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>11858401</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>128</duration>
+        <durationinseconds>7701</durationinseconds>
+      </video>
+      <audio>
+        <codec>truehd</codec>
+        <micodec>truehd</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

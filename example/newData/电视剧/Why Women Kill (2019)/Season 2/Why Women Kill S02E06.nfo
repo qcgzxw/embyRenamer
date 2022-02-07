@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[在说服伯特伦减轻卡洛的痛苦后，阿尔玛将事情掌握在自己的手中。 与此同时，丽塔诱骗了斯库特，企图勒索凯瑟琳，维恩对迪伊的感情越来越深。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-11 16:45:36</dateadded>
+  <title>危险的入侵者</title>
+  <actor>
+    <name>Allison Tolman</name>
+    <role>Alma Fillcot</role>
+    <type>Actor</type>
+    <tmdbid>1331652</tmdbid>
+  </actor>
+  <actor>
+    <name>Lana Parrilla</name>
+    <role>Rita Castillo</role>
+    <type>Actor</type>
+    <tmdbid>177231</tmdbid>
+  </actor>
+  <actor>
+    <name>B.K. Cannon</name>
+    <role>Dee Fillcot</role>
+    <type>Actor</type>
+    <tmdbid>1437461</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordane Christie</name>
+    <role>Vern</role>
+    <type>Actor</type>
+    <tmdbid>2145598</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Daddario</name>
+    <role>Scooter</role>
+    <type>Actor</type>
+    <tmdbid>1272291</tmdbid>
+  </actor>
+  <actor>
+    <name>Veronica Falcón</name>
+    <role>Catherine Castillo</role>
+    <type>Actor</type>
+    <tmdbid>1029593</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Frost</name>
+    <role>Bertram Fillcot</role>
+    <type>Actor</type>
+    <tmdbid>11109</tmdbid>
+  </actor>
+  <actor>
+    <name>Virginia Williams</name>
+    <role>Grace Berk</role>
+    <type>Actor</type>
+    <tmdbid>168986</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Sun</name>
+    <role>Landlord</role>
+    <type>GuestStar</type>
+    <tmdbid>1576465</tmdbid>
+  </actor>
+  <actor>
+    <name>Eileen Galindo</name>
+    <role>Isabel Vega</role>
+    <type>GuestStar</type>
+    <tmdbid>171335</tmdbid>
+    <imdbid>nm0302153</imdbid>
+  </actor>
+  <rating>0</rating>
+  <year>2021</year>
+  <imdbid>tt13629592</imdbid>
+  <tvdbid>8470760</tvdbid>
+  <runtime>49</runtime>
+  <uniqueid type="Tvdb">8470760</uniqueid>
+  <uniqueid type="Imdb">tt13629592</uniqueid>
+  <episode>6</episode>
+  <season>2</season>
+  <aired>2021-07-01</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6054472</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>48</duration>
+        <durationinseconds>2925</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

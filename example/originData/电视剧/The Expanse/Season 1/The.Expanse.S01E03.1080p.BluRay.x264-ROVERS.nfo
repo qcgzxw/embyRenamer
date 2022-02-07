@@ -1,0 +1,372 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[霍尔登录制视频谴责火星舰队摧毁捕冰船，视频公开后引发轩然大波。副国务卿认为火星意图入侵行星带空间站，联合国为此争议不断。霍尔登等人被迫登上唐纳哥号，船员内奥米被指是Opa特工，而船员亚历克斯竟是火星退役士兵。火星军官声称摧毁捕冰船的是Opa组织，霍尔登和船员开始互相质疑。副国务卿试探驻火星大使，她推测火星舰队不是真凶。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-07 19:42:33</dateadded>
+  <title>铭记坎特号</title>
+  <actor>
+    <name>Steven Strait</name>
+    <role>Jim Holden</role>
+    <type>Actor</type>
+    <tmdbid>54815</tmdbid>
+    <imdbid>nm1711829</imdbid>
+  </actor>
+  <actor>
+    <name>Cas Anvar</name>
+    <role>Alex Kamal</role>
+    <type>Actor</type>
+    <tmdbid>59214</tmdbid>
+    <imdbid>nm0031679</imdbid>
+  </actor>
+  <actor>
+    <name>Dominique Tipper</name>
+    <role>Naomi Nagata</role>
+    <type>Actor</type>
+    <tmdbid>1361876</tmdbid>
+    <imdbid>nm4625680</imdbid>
+  </actor>
+  <actor>
+    <name>Wes Chatham</name>
+    <role>Amos Burton</role>
+    <type>Actor</type>
+    <tmdbid>51682</tmdbid>
+    <imdbid>nm1434871</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Jane</name>
+    <role>Detective Josephus Miller</role>
+    <type>Actor</type>
+    <tmdbid>11155</tmdbid>
+    <imdbid>nm0005048</imdbid>
+  </actor>
+  <actor>
+    <name>Shohreh Aghdashloo</name>
+    <role>Chrisjen Avasarala</role>
+    <type>Actor</type>
+    <tmdbid>21041</tmdbid>
+    <imdbid>nm0013037</imdbid>
+  </actor>
+  <actor>
+    <name>Florence Faivre</name>
+    <role>Julie Mao</role>
+    <type>Actor</type>
+    <tmdbid>88794</tmdbid>
+    <imdbid>nm1552467</imdbid>
+  </actor>
+  <actor>
+    <name>John Chou</name>
+    <role>NSA Analyst</role>
+    <type>GuestStar</type>
+    <tmdbid>1556303</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Welsh</name>
+    <role>Franklin Degraaf</role>
+    <type>GuestStar</type>
+    <tmdbid>6074</tmdbid>
+  </actor>
+  <actor>
+    <name>Bernadette Couture</name>
+    <role>Belter Marcher #1</role>
+    <type>GuestStar</type>
+    <tmdbid>2281544</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian J. Graham</name>
+    <role>Angry Dockworker</role>
+    <type>GuestStar</type>
+    <tmdbid>2311692</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Weedon</name>
+    <role>Young Dockworker #1</role>
+    <type>GuestStar</type>
+    <tmdbid>1282742</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Krantz</name>
+    <role>Mormon Missionary</role>
+    <type>GuestStar</type>
+    <tmdbid>1590246</tmdbid>
+  </actor>
+  <actor>
+    <name>Dave Lewis</name>
+    <role>Star Helix #2</role>
+    <type>GuestStar</type>
+    <tmdbid>2431197</tmdbid>
+  </actor>
+  <actor>
+    <name>Duncan McLeod</name>
+    <role>Belter Goon #1</role>
+    <type>GuestStar</type>
+    <tmdbid>1683931</tmdbid>
+  </actor>
+  <actor>
+    <name>E. Nova Zatzman</name>
+    <role>Belter Bystander #1</role>
+    <type>GuestStar</type>
+    <tmdbid>2300590</tmdbid>
+  </actor>
+  <actor>
+    <name>Goran Stjepanovic</name>
+    <role>Menacing Belter #2</role>
+    <type>GuestStar</type>
+    <tmdbid>1632662</tmdbid>
+  </actor>
+  <actor>
+    <name>Ivan Wanis-Ruiz</name>
+    <role>Martian Crewman</role>
+    <type>GuestStar</type>
+    <tmdbid>1366780</tmdbid>
+  </actor>
+  <actor>
+    <name>James Binkley</name>
+    <role>Belter Shopkeeper</role>
+    <type>GuestStar</type>
+    <tmdbid>43279</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Weedon</name>
+    <role>Young Dockworker #2</role>
+    <type>GuestStar</type>
+    <tmdbid>1282773</tmdbid>
+  </actor>
+  <actor>
+    <name>John MacDonald</name>
+    <role>Maritan Marine</role>
+    <type>GuestStar</type>
+    <tmdbid>2431201</tmdbid>
+  </actor>
+  <actor>
+    <name>Jung-Yul Kim</name>
+    <role>Menacing Belter #1</role>
+    <type>GuestStar</type>
+    <tmdbid>1480855</tmdbid>
+    <imdbid>nm0453560</imdbid>
+  </actor>
+  <actor>
+    <name>Marco Bianco</name>
+    <role>Star Helix #1</role>
+    <type>GuestStar</type>
+    <tmdbid>8356</tmdbid>
+  </actor>
+  <actor>
+    <name>Moses Nyarko</name>
+    <role>Muscle Dockworker</role>
+    <type>GuestStar</type>
+    <tmdbid>1366371</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Farr</name>
+    <role>Belter Marcher #2</role>
+    <type>GuestStar</type>
+    <tmdbid>2431205</tmdbid>
+  </actor>
+  <actor>
+    <name>Wayne Downer</name>
+    <role>Belter Bystander #2</role>
+    <type>GuestStar</type>
+    <tmdbid>1239636</tmdbid>
+  </actor>
+  <actor>
+    <name>Paulo Costanzo</name>
+    <role>Shed Garvey</role>
+    <type>GuestStar</type>
+    <tmdbid>57133</tmdbid>
+  </actor>
+  <actor>
+    <name>Austin Strugnell</name>
+    <role>Sensor / Comms Officer</role>
+    <type>GuestStar</type>
+    <tmdbid>1722081</tmdbid>
+  </actor>
+  <actor>
+    <name>Jane Moffat</name>
+    <role>Brothel Madam</role>
+    <type>GuestStar</type>
+    <tmdbid>1362948</tmdbid>
+  </actor>
+  <actor>
+    <name>Brett Ryan</name>
+    <role>Cpl. Mole</role>
+    <type>GuestStar</type>
+    <tmdbid>1543683</tmdbid>
+  </actor>
+  <actor>
+    <name>Diana Bentley</name>
+    <role>Sergent Grimes</role>
+    <type>GuestStar</type>
+    <tmdbid>1588870</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean Yoon</name>
+    <role>Captain Theresa Yao</role>
+    <type>GuestStar</type>
+    <tmdbid>88929</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Van Dyck</name>
+    <role>Cpl. Dookie</role>
+    <type>GuestStar</type>
+    <tmdbid>1570611</tmdbid>
+  </actor>
+  <actor>
+    <name>Tattiawna Jones</name>
+    <role>Weapons Officer</role>
+    <type>GuestStar</type>
+    <tmdbid>110911</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Hernandez</name>
+    <role>Dimitri Havelock</role>
+    <type>GuestStar</type>
+    <tmdbid>19487</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Murray</name>
+    <role>Detective Cobb</role>
+    <type>GuestStar</type>
+    <tmdbid>62679</tmdbid>
+  </actor>
+  <actor>
+    <name>Ted Ludzik</name>
+    <role>Pock Mark</role>
+    <type>GuestStar</type>
+    <tmdbid>40386</tmdbid>
+  </actor>
+  <actor>
+    <name>Sara Mitich</name>
+    <role>Gia</role>
+    <type>GuestStar</type>
+    <tmdbid>1300649</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Stanley</name>
+    <role>Great Dane</role>
+    <type>GuestStar</type>
+    <tmdbid>2431204</tmdbid>
+  </actor>
+  <actor>
+    <name>Lola Glaudini</name>
+    <role>Captain Shaddid</role>
+    <type>GuestStar</type>
+    <tmdbid>34845</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Bryk</name>
+    <role>Lopez</role>
+    <type>GuestStar</type>
+    <tmdbid>231</tmdbid>
+  </actor>
+  <actor>
+    <name>Athena Karkanis</name>
+    <role>Octavia Muss</role>
+    <type>GuestStar</type>
+    <tmdbid>51037</tmdbid>
+    <imdbid>nm1920701</imdbid>
+  </actor>
+  <actor>
+    <name>Kyle Gatehouse</name>
+    <role>Gaunt Belter</role>
+    <type>GuestStar</type>
+    <tmdbid>131335</tmdbid>
+    <imdbid>nm2497549</imdbid>
+  </actor>
+  <actor>
+    <name>Markus Parilo</name>
+    <role>Thierry</role>
+    <type>GuestStar</type>
+    <tmdbid>180916</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian George</name>
+    <role>Arjun Avasarala</role>
+    <type>GuestStar</type>
+    <tmdbid>58511</tmdbid>
+    <imdbid>nm0313364</imdbid>
+  </actor>
+  <actor>
+    <name>Philip Akin</name>
+    <role>Craig</role>
+    <type>GuestStar</type>
+    <tmdbid>5946</tmdbid>
+  </actor>
+  <actor>
+    <name>Jared Harris</name>
+    <role>Anderson Dawes</role>
+    <type>GuestStar</type>
+    <tmdbid>15440</tmdbid>
+    <imdbid>nm0364813</imdbid>
+  </actor>
+  <actor>
+    <name>Shawn Doyle</name>
+    <role>Sadavir Errinwright</role>
+    <type>GuestStar</type>
+    <tmdbid>25878</tmdbid>
+    <imdbid>nm0236495</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Roach</name>
+    <role>Admiral Souther</role>
+    <type>GuestStar</type>
+    <tmdbid>5921</tmdbid>
+    <imdbid>nm0730045</imdbid>
+  </actor>
+  <director>Jeff Woolnough</director>
+  <rating>7.459</rating>
+  <year>2015</year>
+  <imdbid>tt3983220</imdbid>
+  <tvdbid>5280275</tvdbid>
+  <runtime>43</runtime>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <tvrageid>1065742155</tvrageid>
+  <uniqueid type="Imdb">tt3983220</uniqueid>
+  <uniqueid type="Tvdb">5280275</uniqueid>
+  <uniqueid type="TvRage">1065742155</uniqueid>
+  <episode>3</episode>
+  <season>1</season>
+  <aired>2015-12-22</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10885508</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>43</duration>
+        <durationinseconds>2585</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,192 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[菲欧娜带弟妹们去野营;无家可归的弗兰克试图让卡尔帮助他溜进加拉格家的面包车过夜。 吉米仍然计划去密歇根州读医学院，引发了菲欧娜的强烈反应。 菲欧娜指责吉米不该背着她做这么重要的决定，同时指责他打算抛弃她。 吉米毫不留情地反驳称菲欧娜也背着他做了一个重要决定。 菲欧娜没有征询他的意见就当起了弟妹们的法定监护人。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-11 21:35:22</dateadded>
+  <title>订购客房服务</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Noel Fisher</name>
+    <role>Mickey Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>80352</tmdbid>
+    <imdbid>nm0279720</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Zach McGowan</name>
+    <role>Jody Silverman</role>
+    <type>Actor</type>
+    <tmdbid>62307</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Greenwell</name>
+    <role>Mandy Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>1155473</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Chatwin</name>
+    <role>Steve Wilton/Jimmy Lishman</role>
+    <type>Actor</type>
+    <tmdbid>503</tmdbid>
+  </actor>
+  <actor>
+    <name>Dennis Cockrum</name>
+    <role>Terry Milkovich</role>
+    <type>GuestStar</type>
+    <tmdbid>155825</tmdbid>
+    <imdbid>nm0168371</imdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Fantauzzi</name>
+    <role>Estefania</role>
+    <type>GuestStar</type>
+    <tmdbid>1286908</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Slade Wiggins</name>
+    <role>Karen Jackson</role>
+    <type>GuestStar</type>
+    <tmdbid>439253</tmdbid>
+  </actor>
+  <actor>
+    <name>Bernardo De Paula</name>
+    <role>Beto</role>
+    <type>GuestStar</type>
+    <tmdbid>1346997</tmdbid>
+  </actor>
+  <actor>
+    <name>Jake McDorman</name>
+    <role>Mike Pratt</role>
+    <type>GuestStar</type>
+    <tmdbid>94791</tmdbid>
+    <imdbid>nm1416330</imdbid>
+  </actor>
+  <actor>
+    <name>Joan Cusack</name>
+    <role>Sheila Jackson</role>
+    <type>GuestStar</type>
+    <tmdbid>3234</tmdbid>
+    <imdbid>nm0000349</imdbid>
+  </actor>
+  <actor>
+    <name>Isidora Goreshter</name>
+    <role>Svetlana Yevgenivna</role>
+    <type>GuestStar</type>
+    <tmdbid>1677397</tmdbid>
+  </actor>
+  <director>Sanaa Hamri</director>
+  <rating>7.4</rating>
+  <year>2013</year>
+  <imdbid>tt2666314</imdbid>
+  <tvdbid>4490822</tvdbid>
+  <runtime>53</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt2666314</uniqueid>
+  <uniqueid type="Tvdb">4490822</uniqueid>
+  <episode>11</episode>
+  <season>3</season>
+  <aired>2013-03-31</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10634782</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>53</duration>
+        <durationinseconds>3207</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[阿丽莎与爸爸重逢，忧心忡忡的詹姆斯面临两难抉择。尤妮斯和泰莉在应该如何处理这对少男少女的问题上发生争执。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-11-07 16:37:22</dateadded>
+  <title>第 7 集</title>
+  <actor>
+    <name>Alex Lawther</name>
+    <role>James</role>
+    <type>Actor</type>
+    <tmdbid>1379277</tmdbid>
+    <imdbid>nm3867299</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Barden</name>
+    <role>Alyssa</role>
+    <type>Actor</type>
+    <tmdbid>550552</tmdbid>
+    <imdbid>nm1875238</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Oram</name>
+    <role>Phil</role>
+    <type>Actor</type>
+    <tmdbid>219367</tmdbid>
+    <imdbid>nm1361530</imdbid>
+  </actor>
+  <actor>
+    <name>Christine Bottomley</name>
+    <role>Gwen</role>
+    <type>GuestStar</type>
+    <tmdbid>75070</tmdbid>
+    <imdbid>nm1180835</imdbid>
+  </actor>
+  <actor>
+    <name>Navin Chowdhry</name>
+    <role>Tony</role>
+    <type>GuestStar</type>
+    <tmdbid>81267</tmdbid>
+    <imdbid>nm0159527</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Beckett</name>
+    <role>Jonno</role>
+    <type>GuestStar</type>
+    <tmdbid>1359415</tmdbid>
+    <imdbid>nm2477239</imdbid>
+  </actor>
+  <actor>
+    <name>Kierston Wareing</name>
+    <role>Debbie</role>
+    <type>GuestStar</type>
+    <tmdbid>8309</tmdbid>
+    <imdbid>nm1663573</imdbid>
+  </actor>
+  <actor>
+    <name>Louis Wint</name>
+    <role>Milton</role>
+    <type>GuestStar</type>
+    <tmdbid>2429728</tmdbid>
+  </actor>
+  <actor>
+    <name>Wunmi Mosaku</name>
+    <role>DC Teri Darego</role>
+    <type>GuestStar</type>
+    <tmdbid>134774</tmdbid>
+    <imdbid>nm2148911</imdbid>
+  </actor>
+  <actor>
+    <name>Gemma Whelan</name>
+    <role>DC Eunice Noon</role>
+    <type>GuestStar</type>
+    <tmdbid>1475127</tmdbid>
+    <imdbid>nm2247629</imdbid>
+  </actor>
+  <actor>
+    <name>Barry Ward</name>
+    <role>Leslie</role>
+    <type>GuestStar</type>
+    <tmdbid>1307013</tmdbid>
+    <imdbid>nm0911395</imdbid>
+  </actor>
+  <director>Lucy Tcherniak</director>
+  <rating>8.1</rating>
+  <year>2017</year>
+  <imdbid>tt7027472</imdbid>
+  <tvdbid>6379884</tvdbid>
+  <runtime>22</runtime>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt7027472</uniqueid>
+  <uniqueid type="Tvdb">6379884</uniqueid>
+  <episode>7</episode>
+  <season>1</season>
+  <aired>2017-10-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>44072141</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1296</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

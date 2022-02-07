@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-06 00:41:02</dateadded>
+  <title>戴维和妈妈</title>
+  <actor>
+    <name>Dawn French</name>
+    <type>Actor</type>
+    <tmdbid>5539</tmdbid>
+    <imdbid>nm0294067</imdbid>
+  </actor>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Maureen Sowerbutts</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Biggins</name>
+    <type>Actor</type>
+    <tmdbid>133499</tmdbid>
+    <imdbid>nm0081811</imdbid>
+  </actor>
+  <actor>
+    <name>Debbie Chazen</name>
+    <type>Actor</type>
+    <tmdbid>1220030</tmdbid>
+    <imdbid>nm0154708</imdbid>
+  </actor>
+  <actor>
+    <name>Eileen Atkins</name>
+    <type>Actor</type>
+    <tmdbid>20300</tmdbid>
+    <imdbid>nm0040586</imdbid>
+  </actor>
+  <actor>
+    <name>Natalie Cassidy</name>
+    <type>Actor</type>
+    <tmdbid>1216087</tmdbid>
+    <imdbid>nm0144231</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Berrington</name>
+    <type>Actor</type>
+    <tmdbid>42998</tmdbid>
+    <imdbid>nm0077397</imdbid>
+  </actor>
+  <actor>
+    <name>Adrian Scarborough</name>
+    <type>Actor</type>
+    <tmdbid>40311</tmdbid>
+    <imdbid>nm0769083</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Kaluuya</name>
+    <role>Tealeaf / Michael Fry</role>
+    <type>Actor</type>
+    <tmdbid>206919</tmdbid>
+    <imdbid>nm2257207</imdbid>
+  </actor>
+  <actor>
+    <name>Vilma Hollingbery</name>
+    <type>Actor</type>
+    <tmdbid>81031</tmdbid>
+    <imdbid>nm0391108</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>David Sowerbutts</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Tompkins</name>
+    <role>Robert</role>
+    <type>Actor</type>
+    <tmdbid>1990805</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Gatiss</name>
+    <type>GuestStar</type>
+    <tmdbid>34546</tmdbid>
+    <imdbid>nm0309693</imdbid>
+  </actor>
+  <director>Matt Lipsey</director>
+  <rating>0</rating>
+  <year>2009</year>
+  <tvdbid>824041</tvdbid>
+  <runtime>30</runtime>
+  <tvrageid>1064825444</tvrageid>
+  <uniqueid type="Tvdb">824041</uniqueid>
+  <uniqueid type="TvRage">1064825444</uniqueid>
+  <episode>4</episode>
+  <season>1</season>
+  <aired>2009-07-09</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4865845</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1776</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

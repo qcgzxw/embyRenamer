@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[潘妮从前男友查克那得到好的工作机会，这让莱昂纳德很紧张。 薛尔登很气恼自己没有及早发挥全部潜力。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-16 16:59:02</dateadded>
+  <title>The Cognition Regeneration</title>
+  <actor>
+    <name>Brian Thomas Smith</name>
+    <type>GuestStar</type>
+    <tmdbid>1215595</tmdbid>
+    <imdbid>nm1705502</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>6.8</rating>
+  <year>2017</year>
+  <imdbid>tt6565530</imdbid>
+  <tvdbid>6026834</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <uniqueid type="Imdb">tt6565530</uniqueid>
+  <uniqueid type="Tvdb">6026834</uniqueid>
+  <episode>22</episode>
+  <season>10</season>
+  <aired>2017-04-27</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10380236</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>20</duration>
+        <durationinseconds>1202</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

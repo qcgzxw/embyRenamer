@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[在“野兽”搏击的地下世界里，桑尼只要保住优势，就能战无不胜。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-27 15:24:05</dateadded>
+  <title>桑尼的优势</title>
+  <actor>
+    <name>Helen Sadler</name>
+    <role>Sonnie (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1471378</tmdbid>
+  </actor>
+  <actor>
+    <name>Hayley McLaughlin</name>
+    <role>Jennifer (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1432327</tmdbid>
+  </actor>
+  <actor>
+    <name>Time Winters</name>
+    <role>Dicko (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>85421</tmdbid>
+  </actor>
+  <actor>
+    <name>Omid Abtahi</name>
+    <role>Wes (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>167862</tmdbid>
+  </actor>
+  <actor>
+    <name>Christine Adams</name>
+    <role>Ivrina (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>87194</tmdbid>
+  </actor>
+  <actor>
+    <name>Hakeem Kae-Kazim</name>
+    <role>Simon (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>2603</tmdbid>
+    <imdbid>nm0434444</imdbid>
+  </actor>
+  <actor>
+    <name>Braden Lynch</name>
+    <role>Announcer (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1492194</tmdbid>
+  </actor>
+  <director>Dave Wilson</director>
+  <rating>8</rating>
+  <year>2019</year>
+  <imdbid>tt9781722</imdbid>
+  <tvdbid>6983260</tvdbid>
+  <runtime>17</runtime>
+  <genre>Animation</genre>
+  <genre>Short</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <genre>Horror</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt9781722</uniqueid>
+  <uniqueid type="Tvdb">6983260</uniqueid>
+  <episode>1</episode>
+  <season>1</season>
+  <aired>2019-03-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5200400</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>17</duration>
+        <durationinseconds>1034</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>356311</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

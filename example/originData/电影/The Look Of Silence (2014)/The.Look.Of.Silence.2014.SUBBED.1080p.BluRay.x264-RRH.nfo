@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[《沉默之像》是导演前作《杀戮演绎》的一脉相承和深入挖掘。“杀戮”呈现了建立在恐怖和谎言基础上的社会后果，而“沉默”则讲述这个现实下一个幸存家庭的伤痛生活。同样的印尼大屠杀题材，同是记录真人真事，这一次角度换了人物也换了，镜头从郐子手转移到一位哥哥惨遭迫害的中年男子阿迪。阿迪是一位走街串巷为人配眼镜的父亲，有两个可爱的孩子，还有年迈的双亲。他在哥哥被害后出生，没有直接经历那段残酷岁月，却接受导演邀请，勇敢地走到摄像机前。他在电视机前神色凝重一遍遍观看导演的采访录像，同时又借为这些年岁已高的杀人者配眼镜之际，四目相对找寻那段残忍真相。和杀人者直面交谈，这其中，谈话人有躲避者，否认者，发怒者，自得者，……却几乎没有一个悔恨自责者。人性之恶再一次呈现，展示给观众的是强大的震撼，人性在制度和集体的疯狂下，在政府的宣传和极权下，善恶是非已经完全颠倒，极恶如同英雄般被炫耀，受害者却胆战心惊，害怕再次遭到报复。]]></plot>
+  <outline><![CDATA[沉默之像]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-10 10:01:00</dateadded>
+  <title>沉默之像</title>
+  <originaltitle>The Look of Silence</originaltitle>
+  <actor>
+    <name>Adi Rukun</name>
+    <role>Himself, brother of murdered Ramli Rukun</role>
+    <type>Actor</type>
+    <tmdbid>1582641</tmdbid>
+  </actor>
+  <actor>
+    <name>M.Y. Basrun</name>
+    <role>Himself, former commander of a civilian militia</role>
+    <type>Actor</type>
+    <tmdbid>1582642</tmdbid>
+  </actor>
+  <actor>
+    <name>Amir Hasan</name>
+    <role>Himself, former leader of death squad (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>1582643</tmdbid>
+  </actor>
+  <actor>
+    <name>Inong</name>
+    <role>Himself, former leader the village death squad</role>
+    <type>Actor</type>
+    <tmdbid>1582644</tmdbid>
+  </actor>
+  <actor>
+    <name>Kemat</name>
+    <role>Himself, survivor from Snake River massacre</role>
+    <type>Actor</type>
+    <tmdbid>1582646</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Oppenheimer</name>
+    <role>Himself (voice) (as Josh)</role>
+    <type>Actor</type>
+    <tmdbid>53296</tmdbid>
+  </actor>
+  <actor>
+    <name>Amir Siahaan</name>
+    <role>Himself, former commander of Snake River death squads</role>
+    <type>Actor</type>
+    <tmdbid>1582647</tmdbid>
+  </actor>
+  <actor>
+    <name>Ted Yates</name>
+    <role>Himself, reporter, NBC News (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>1246873</tmdbid>
+  </actor>
+  <director tmdbid="53296">Joshua Oppenheimer</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aA_ZHAs4M9k</trailer>
+  <rating>8.3</rating>
+  <year>2014</year>
+  <imdbid>tt3521134</imdbid>
+  <tmdbid>267480</tmdbid>
+  <premiered>2014-08-30</premiered>
+  <releasedate>2014-08-30</releasedate>
+  <criticrating>96</criticrating>
+  <runtime>99</runtime>
+  <tagline>沉默之像</tagline>
+  <country>Denmark</country>
+  <country>Finland</country>
+  <country>France</country>
+  <country>Germany</country>
+  <country>Indonesia</country>
+  <country>Israel</country>
+  <country>Netherlands</country>
+  <country>Norway</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>历史</genre>
+  <genre>纪录</genre>
+  <studio>Making Movies</studio>
+  <studio>Final Cut for Real</studio>
+  <studio>Piraya Film A/S</studio>
+  <studio>Spring Films</studio>
+  <studio>Anonymous</studio>
+  <uniqueid type="Tmdb">267480</uniqueid>
+  <uniqueid type="Imdb">tt3521134</uniqueid>
+  <id>tt3521134</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11007973</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5962</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>7</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

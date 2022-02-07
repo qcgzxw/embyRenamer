@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[雷杰必须搬到比较便宜的地方，大伙便开始帮忙，然后贝芙莉开始分析大家的感情问题。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-16 17:42:43</dateadded>
+  <title>The Escape Hatch Identification</title>
+  <actor>
+    <name>Christine Baranski</name>
+    <type>GuestStar</type>
+    <tmdbid>11870</tmdbid>
+    <imdbid>nm0004724</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.2</rating>
+  <year>2017</year>
+  <imdbid>tt6565510</imdbid>
+  <tvdbid>5963134</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <uniqueid type="Imdb">tt6565510</uniqueid>
+  <uniqueid type="Tvdb">5963134</uniqueid>
+  <episode>18</episode>
+  <season>10</season>
+  <aired>2017-03-09</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10436224</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1195</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

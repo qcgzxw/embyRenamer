@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-02 00:11:08</dateadded>
+  <title>TBS.Hanzawa.Naoki.S02E00.2020.HDTV.1080i.MPEG2.AAC-AREY</title>
+  <year>2020</year>
+  <runtime>75</runtime>
+  <episode>0</episode>
+  <season>2</season>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>mpeg2video</codec>
+        <micodec>mpeg2video</micodec>
+        <bitrate>14257101</bitrate>
+        <width>1440</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>29.97003</framerate>
+        <scantype>interlaced</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>74</duration>
+        <durationinseconds>4499</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>191164</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>arib_caption</codec>
+        <micodec>arib_caption</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

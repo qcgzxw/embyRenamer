@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[李奥纳德和霍华德在工作上发生了紧急状况，雷杰马上插手帮忙。 艾美开了一个道地维多利亚式的圣诞趴，惹怒了薛尔登。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 17:53:45</dateadded>
+  <title>The Clean Room Infiltration</title>
+  <actor>
+    <name>Brian George</name>
+    <type>GuestStar</type>
+    <tmdbid>58511</tmdbid>
+    <imdbid>nm0313364</imdbid>
+  </actor>
+  <actor>
+    <name>Dakin Matthews</name>
+    <type>GuestStar</type>
+    <tmdbid>43364</tmdbid>
+    <imdbid>nm0559977</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Reetz</name>
+    <type>GuestStar</type>
+    <tmdbid>1484244</tmdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.4</rating>
+  <year>2014</year>
+  <imdbid>tt3823252</imdbid>
+  <tvdbid>5049225</tvdbid>
+  <runtime>19</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>1065716571</tvrageid>
+  <uniqueid type="Imdb">tt3823252</uniqueid>
+  <uniqueid type="Tvdb">5049225</uniqueid>
+  <uniqueid type="TvRage">1065716571</uniqueid>
+  <episode>11</episode>
+  <season>8</season>
+  <aired>2014-12-11</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1585317</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1166</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

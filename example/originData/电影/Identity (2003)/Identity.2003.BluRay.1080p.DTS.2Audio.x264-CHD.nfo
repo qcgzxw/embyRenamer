@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一个典型而又引人入胜的悬疑故事：一个汽车旅馆里，住进了10个人，他们中间有司机、妓女、过气女星、夫妇、警探和他的犯人，还有神秘的旅馆经理。这天风雨大作，通讯中断，10人被困在了旅馆里，惊悚的故事开始了。
+ 他们一个接一个的死去，并且按照顺序留下牌号。10个人存活下来的渐渐变少，他们开始恐慌，互相猜忌，却无意间发现了彼此间的联系。但是，大家怀疑的嫌疑人却纷纷死去，谜团笼罩在旅馆狭小的空间里，这样的凶杀案件却有着人们猜不到的真相……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-23 17:35:45</dateadded>
+  <title>致命ID</title>
+  <originaltitle>Identity</originaltitle>
+  <actor>
+    <name>John Cusack</name>
+    <role>Ed</role>
+    <type>Actor</type>
+    <tmdbid>3036</tmdbid>
+    <imdbid>nm0000131</imdbid>
+  </actor>
+  <actor>
+    <name>Ray Liotta</name>
+    <role>Rhodes</role>
+    <type>Actor</type>
+    <tmdbid>11477</tmdbid>
+    <imdbid>nm0000501</imdbid>
+  </actor>
+  <actor>
+    <name>Amanda Peet</name>
+    <role>Paris</role>
+    <type>Actor</type>
+    <tmdbid>2956</tmdbid>
+    <imdbid>nm0001605</imdbid>
+  </actor>
+  <actor>
+    <name>John Hawkes</name>
+    <role>Larry</role>
+    <type>Actor</type>
+    <tmdbid>16861</tmdbid>
+    <imdbid>nm0370035</imdbid>
+  </actor>
+  <actor>
+    <name>Alfred Molina</name>
+    <role>Dr. Malick</role>
+    <type>Actor</type>
+    <tmdbid>658</tmdbid>
+    <imdbid>nm0000547</imdbid>
+  </actor>
+  <actor>
+    <name>John C. McGinley</name>
+    <role>George York</role>
+    <type>Actor</type>
+    <tmdbid>11885</tmdbid>
+    <imdbid>nm0001525</imdbid>
+  </actor>
+  <actor>
+    <name>William Lee Scott</name>
+    <role>Lou</role>
+    <type>Actor</type>
+    <tmdbid>10128</tmdbid>
+    <imdbid>nm0005406</imdbid>
+  </actor>
+  <actor>
+    <name>Clea DuVall</name>
+    <role>Ginny</role>
+    <type>Actor</type>
+    <tmdbid>20387</tmdbid>
+    <imdbid>nm0245112</imdbid>
+  </actor>
+  <actor>
+    <name>Jake Busey</name>
+    <role>Robert Maine</role>
+    <type>Actor</type>
+    <tmdbid>28410</tmdbid>
+    <imdbid>nm0000998</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca De Mornay</name>
+    <role>Caroline Suzanne</role>
+    <type>Actor</type>
+    <tmdbid>28412</tmdbid>
+    <imdbid>nm0000360</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Letscher</name>
+    <role>Staatsanwaltsmitarbeiter</role>
+    <type>Actor</type>
+    <tmdbid>28414</tmdbid>
+    <imdbid>nm0504762</imdbid>
+  </actor>
+  <actor>
+    <name>Carmen Argenziano</name>
+    <role>Verteidiger</role>
+    <type>Actor</type>
+    <tmdbid>28413</tmdbid>
+    <imdbid>nm0034492</imdbid>
+  </actor>
+  <actor>
+    <name>Marshall Bell</name>
+    <role>Staatsanwalt</role>
+    <type>Actor</type>
+    <tmdbid>3041</tmdbid>
+    <imdbid>nm0068382</imdbid>
+  </actor>
+  <actor>
+    <name>Holmes Osborne</name>
+    <role>Richter Taylor</role>
+    <type>Actor</type>
+    <tmdbid>1578</tmdbid>
+    <imdbid>nm0651660</imdbid>
+  </actor>
+  <actor>
+    <name>Leila Kenzle</name>
+    <role>Alice York</role>
+    <type>Actor</type>
+    <tmdbid>15044</tmdbid>
+    <imdbid>nm0005087</imdbid>
+  </actor>
+  <actor>
+    <name>Bret Loehr</name>
+    <role>Timmy York</role>
+    <type>Actor</type>
+    <tmdbid>28415</tmdbid>
+    <imdbid>nm1181783</imdbid>
+  </actor>
+  <actor>
+    <name>Frederick Coffin</name>
+    <role>Detective Varole</role>
+    <type>Actor</type>
+    <tmdbid>28416</tmdbid>
+    <imdbid>nm0168918</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Hart</name>
+    <role>Bailiff Jenkins</role>
+    <type>Actor</type>
+    <tmdbid>28417</tmdbid>
+    <imdbid>nm0366356</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Hirsch</name>
+    <role>Nackter Geschäftsmann</role>
+    <type>Actor</type>
+    <tmdbid>28418</tmdbid>
+    <imdbid>nm0386524</imdbid>
+  </actor>
+  <actor>
+    <name>Terence Bernie Hines</name>
+    <role>Bailiff</role>
+    <type>Actor</type>
+    <tmdbid>28419</tmdbid>
+    <imdbid>nm0385722</imdbid>
+  </actor>
+  <actor>
+    <name>Stuart M. Besser</name>
+    <role>Gefrorene Leiche</role>
+    <type>Actor</type>
+    <tmdbid>28401</tmdbid>
+    <imdbid>nm0078804</imdbid>
+  </actor>
+  <actor>
+    <name>Pruitt Taylor Vince</name>
+    <role>Malcolm Rivers</role>
+    <type>Actor</type>
+    <tmdbid>3201</tmdbid>
+    <imdbid>nm0898546</imdbid>
+  </actor>
+  <director tmdbid="366" imdbid="nm0003506">James Mangold</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=TQkG2x3qTf4</trailer>
+  <rating>7.3</rating>
+  <year>2003</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0309698</imdbid>
+  <tmdbid>2832</tmdbid>
+  <premiered>2003-04-25</premiered>
+  <releasedate>2003-04-25</releasedate>
+  <criticrating>62</criticrating>
+  <runtime>90</runtime>
+  <country>United States of America</country>
+  <genre>悬疑</genre>
+  <genre>惊悚</genre>
+  <studio>Konrad Pictures</studio>
+  <studio>Columbia Pictures</studio>
+  <uniqueid type="Tmdb">2832</uniqueid>
+  <uniqueid type="Imdb">tt0309698</uniqueid>
+  <id>tt0309698</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>13860102</bitrate>
+        <width>1920</width>
+        <height>796</height>
+        <aspect>480:199</aspect>
+        <aspectratio>480:199</aspectratio>
+        <framerate>23.976042</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>90</duration>
+        <durationinseconds>5402</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

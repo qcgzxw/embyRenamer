@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[福瑞斯特·塔克（Forrest Tucker）打从少年时就是个不法之徒，抢银行就是他的职业，进过十几次班房的经历还让他练就了“越狱”的本领——一共18次越狱，最近一次时他已70岁高龄！]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-01-21 01:52:37</dateadded>
+  <title>老人和枪</title>
+  <originaltitle>The Old Man &amp; the Gun</originaltitle>
+  <actor>
+    <name>Robert Redford</name>
+    <role>Forrest Tucker</role>
+    <type>Actor</type>
+    <tmdbid>4135</tmdbid>
+    <imdbid>nm0000602</imdbid>
+  </actor>
+  <actor>
+    <name>Sissy Spacek</name>
+    <role>Jewel</role>
+    <type>Actor</type>
+    <tmdbid>5606</tmdbid>
+    <imdbid>nm0000651</imdbid>
+  </actor>
+  <actor>
+    <name>Casey Affleck</name>
+    <role>John Hunt</role>
+    <type>Actor</type>
+    <tmdbid>1893</tmdbid>
+    <imdbid>nm0000729</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Glover</name>
+    <role>Teddy</role>
+    <type>Actor</type>
+    <tmdbid>2047</tmdbid>
+    <imdbid>nm0000418</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Waits</name>
+    <role>Waller</role>
+    <type>Actor</type>
+    <tmdbid>2887</tmdbid>
+    <imdbid>nm0001823</imdbid>
+  </actor>
+  <actor>
+    <name>Tika Sumpter</name>
+    <role>Maureen</role>
+    <type>Actor</type>
+    <tmdbid>110742</tmdbid>
+    <imdbid>nm1754366</imdbid>
+  </actor>
+  <actor>
+    <name>Ari Elizabeth Johnson</name>
+    <role>Abilene</role>
+    <type>Actor</type>
+    <tmdbid>2200140</tmdbid>
+  </actor>
+  <actor>
+    <name>Teagan Johnson</name>
+    <role>Tyler</role>
+    <type>Actor</type>
+    <tmdbid>2200141</tmdbid>
+  </actor>
+  <actor>
+    <name>Gene Jones</name>
+    <role>Mr. Owens</role>
+    <type>Actor</type>
+    <tmdbid>1194944</tmdbid>
+    <imdbid>nm0428122</imdbid>
+  </actor>
+  <actor>
+    <name>John David Washington</name>
+    <role>Lt. Kelly</role>
+    <type>Actor</type>
+    <tmdbid>1117313</tmdbid>
+    <imdbid>nm0913475</imdbid>
+  </actor>
+  <actor>
+    <name>Barlow Jacobs</name>
+    <role>Offerman</role>
+    <type>Actor</type>
+    <tmdbid>71885</tmdbid>
+    <imdbid>nm2049889</imdbid>
+  </actor>
+  <actor>
+    <name>Augustine Frizzell</name>
+    <role>Sandy</role>
+    <type>Actor</type>
+    <tmdbid>1285848</tmdbid>
+    <imdbid>nm1435438</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Joplin</name>
+    <role>Martha</role>
+    <type>Actor</type>
+    <tmdbid>2200151</tmdbid>
+  </actor>
+  <actor>
+    <name>Isiah Whitlock Jr.</name>
+    <role>Detective Gene Dentler</role>
+    <type>Actor</type>
+    <tmdbid>17490</tmdbid>
+    <imdbid>nm0926086</imdbid>
+  </actor>
+  <actor>
+    <name>Elisabeth Moss</name>
+    <role>Dorothy</role>
+    <type>Actor</type>
+    <tmdbid>32798</tmdbid>
+  </actor>
+  <actor>
+    <name>Keith Carradine</name>
+    <role>Captain Calder</role>
+    <type>Actor</type>
+    <tmdbid>30613</tmdbid>
+    <imdbid>nm0001018</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Longstreet</name>
+    <role>Stephen Beckley Jr., Esq.</role>
+    <type>Actor</type>
+    <tmdbid>79416</tmdbid>
+    <imdbid>nm0519486</imdbid>
+  </actor>
+  <actor>
+    <name>Barry Mulholland</name>
+    <role>Husband</role>
+    <type>Actor</type>
+    <tmdbid>1177405</tmdbid>
+  </actor>
+  <director tmdbid="592493" imdbid="nm1108007">David Lowery</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=d7rlUe-Thvk</trailer>
+  <rating>6.7</rating>
+  <year>2018</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt2837574</imdbid>
+  <tmdbid>429203</tmdbid>
+  <premiered>2018-09-27</premiered>
+  <releasedate>2018-09-27</releasedate>
+  <criticrating>93</criticrating>
+  <runtime>93</runtime>
+  <country>United States of America</country>
+  <genre>喜剧</genre>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <studio>Condé Nast Entertainment</studio>
+  <studio>Endgame Entertainment</studio>
+  <studio>Identity Films</studio>
+  <studio>Sailor Bear</studio>
+  <studio>Wildwood Enterprises</studio>
+  <studio>Fox Searchlight Pictures</studio>
+  <uniqueid type="Tmdb">429203</uniqueid>
+  <uniqueid type="Imdb">tt2837574</uniqueid>
+  <id>tt2837574</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5742170</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>92</duration>
+        <durationinseconds>5573</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>361944</bitrate>
+        <language>man</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

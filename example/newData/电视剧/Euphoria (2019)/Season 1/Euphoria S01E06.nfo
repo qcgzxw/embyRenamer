@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[万圣节前夕，茹担心自己对茱尔斯的依赖，而茱尔斯表现出对茹行为的担忧。麦凯质疑自己在橄榄球界的前途。在和麦凯度过了一个奇怪的夜晚之后，凯茜和丹尼尔在一起。凯特的生意蒸蒸日上，依旧没有理会伊森。内特想出了一个让他的生活重回正轨的计划。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-31 20:24:01</dateadded>
+  <title>下一集</title>
+  <actor>
+    <name>Zendaya</name>
+    <role>Rue Bennett</role>
+    <type>Actor</type>
+    <tmdbid>505710</tmdbid>
+    <imdbid>nm3918035</imdbid>
+  </actor>
+  <actor>
+    <name>Hunter Schafer</name>
+    <role>Jules Vaughn</role>
+    <type>Actor</type>
+    <tmdbid>2340180</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Elordi</name>
+    <role>Nate Jacobs</role>
+    <type>Actor</type>
+    <tmdbid>2034418</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexa Demie</name>
+    <role>Maddy Perez</role>
+    <type>Actor</type>
+    <tmdbid>1497557</tmdbid>
+  </actor>
+  <actor>
+    <name>Barbie Ferreira</name>
+    <role>Kat Hernandez</role>
+    <type>Actor</type>
+    <tmdbid>2340185</tmdbid>
+  </actor>
+  <actor>
+    <name>Sydney Sweeney</name>
+    <role>Cassie Howard</role>
+    <type>Actor</type>
+    <tmdbid>115440</tmdbid>
+    <imdbid>nm2858875</imdbid>
+  </actor>
+  <actor>
+    <name>Angus Cloud</name>
+    <role>Fezco</role>
+    <type>Actor</type>
+    <tmdbid>2352372</tmdbid>
+  </actor>
+  <actor>
+    <name>Storm Reid</name>
+    <role>Gia Bennett</role>
+    <type>Actor</type>
+    <tmdbid>1344344</tmdbid>
+  </actor>
+  <actor>
+    <name>Algee Smith</name>
+    <role>Christopher McKay</role>
+    <type>Actor</type>
+    <tmdbid>1377458</tmdbid>
+  </actor>
+  <actor>
+    <name>Maude Apatow</name>
+    <role>Lexi Howard</role>
+    <type>Actor</type>
+    <tmdbid>41090</tmdbid>
+  </actor>
+  <actor>
+    <name>Nika King</name>
+    <role>Leslie Bennett</role>
+    <type>Actor</type>
+    <tmdbid>98415</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Dane</name>
+    <role>Cal Jacobs</role>
+    <type>Actor</type>
+    <tmdbid>58115</tmdbid>
+  </actor>
+  <actor>
+    <name>Keean Johnson</name>
+    <role>Daniel</role>
+    <type>GuestStar</type>
+    <tmdbid>1448516</tmdbid>
+    <imdbid>nm5277107</imdbid>
+  </actor>
+  <actor>
+    <name>Lukas Gage</name>
+    <role>Tyler Clarkson</role>
+    <type>GuestStar</type>
+    <tmdbid>1371509</tmdbid>
+  </actor>
+  <actor>
+    <name>Alanna Ubach</name>
+    <role>Suze Howard</role>
+    <type>GuestStar</type>
+    <tmdbid>10402</tmdbid>
+    <imdbid>nm0005513</imdbid>
+  </actor>
+  <actor>
+    <name>Austin Abrams</name>
+    <role>Ethan Lewis</role>
+    <type>GuestStar</type>
+    <tmdbid>148992</tmdbid>
+  </actor>
+  <actor>
+    <name>Aileen Burdock</name>
+    <role>Inspecteur Riley</role>
+    <type>GuestStar</type>
+    <tmdbid>1648880</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Franklin</name>
+    <role>Police Officer</role>
+    <type>GuestStar</type>
+    <tmdbid>2680302</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannah Nordberg</name>
+    <role>Emma</role>
+    <type>GuestStar</type>
+    <tmdbid>1548297</tmdbid>
+  </actor>
+  <director>Pippa Bianco</director>
+  <rating>8.1</rating>
+  <year>2019</year>
+  <imdbid>tt8806274</imdbid>
+  <tvdbid>7194979</tvdbid>
+  <runtime>52</runtime>
+  <uniqueid type="Tvdb">7194979</uniqueid>
+  <uniqueid type="Imdb">tt8806274</uniqueid>
+  <episode>6</episode>
+  <season>1</season>
+  <aired>2019-07-21</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>1918940</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>52</duration>
+        <durationinseconds>3127</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

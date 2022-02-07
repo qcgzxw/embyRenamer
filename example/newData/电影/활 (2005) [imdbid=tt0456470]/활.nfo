@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[在一望无际的大海上有两艘渔船，主人是一位年过花甲的老人（全讼挽饰），他依靠两艘船谋生，陆上的人们来这边钓鱼或看风景。老人和一位少女（韩业云饰）一起生活，她是10年前老人在岸上捡到的，此后少女再没有上过陆地。老人等着少女年满17岁时就会与之结婚。来钓鱼的男人们经常想占女孩的便宜，老人为保护女孩不得不用利箭来警示对方。一天，和父亲一起来钓鱼的大学生（徐智锡饰）在船上为神秘的少女所吸引。老人觉得事情不妙，每天监视少女并不允许她靠近大学生，而16岁的少女也逐渐对外面的事物产生好奇。大学生得知女孩儿将要和老人结婚，就决定带上少女逃到陆地……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-05-29 15:04:11</dateadded>
+  <title>弓</title>
+  <originaltitle>활</originaltitle>
+  <actor>
+    <name>Seo Ji-seok</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>20263</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeon Kuk-hwan</name>
+    <role>Student's Father</role>
+    <type>Actor</type>
+    <tmdbid>20264</tmdbid>
+    <imdbid>nm1926499</imdbid>
+  </actor>
+  <actor>
+    <name>Seong-hwang Jeon</name>
+    <role>Old Man</role>
+    <type>Actor</type>
+    <tmdbid>20265</tmdbid>
+  </actor>
+  <actor>
+    <name>Han Yeo-reum</name>
+    <role>Young Girl</role>
+    <type>Actor</type>
+    <tmdbid>16262</tmdbid>
+  </actor>
+  <actor>
+    <name>Jo Seok-hyeon</name>
+    <role>Third Man</role>
+    <type>Actor</type>
+    <tmdbid>1074064</tmdbid>
+  </actor>
+  <director tmdbid="1188" imdbid="nm1104118">Kim Ki-duk</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eXDkdjHAVIU</trailer>
+  <rating>7.1</rating>
+  <year>2005</year>
+  <imdbid>tt0456470</imdbid>
+  <tmdbid>1963</tmdbid>
+  <premiered>2005-05-12</premiered>
+  <releasedate>2005-05-12</releasedate>
+  <criticrating>86</criticrating>
+  <runtime>89</runtime>
+  <country>South Korea</country>
+  <country>Japan</country>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <studio>Kim Ki Duk Film</studio>
+  <studio>Happinet Pictures</studio>
+  <uniqueid type="Tmdb">1963</uniqueid>
+  <uniqueid type="Imdb">tt0456470</uniqueid>
+  <id>tt0456470</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10575442</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>88</duration>
+        <durationinseconds>5328</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

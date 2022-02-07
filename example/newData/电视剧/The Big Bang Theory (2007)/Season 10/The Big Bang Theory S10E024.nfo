@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[雷梦娜·诺威斯基回来了，她对薛尔登再度产生强烈兴趣，而艾美刚好不在。 大家都发现这一点，只有薛尔登浑然不觉，直到最后才看清状况。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-16 16:34:38</dateadded>
+  <title>The Long Distance Dissonance</title>
+  <actor>
+    <name>Kevin Sussman</name>
+    <type>GuestStar</type>
+    <tmdbid>60633</tmdbid>
+    <imdbid>nm0839934</imdbid>
+  </actor>
+  <actor>
+    <name>Riki Lindhome</name>
+    <type>GuestStar</type>
+    <tmdbid>453</tmdbid>
+    <imdbid>nm1641251</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>8.6</rating>
+  <year>2017</year>
+  <imdbid>tt6706254</imdbid>
+  <tvdbid>6026836</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <uniqueid type="Imdb">tt6706254</uniqueid>
+  <uniqueid type="Tvdb">6026836</uniqueid>
+  <episode>24</episode>
+  <season>10</season>
+  <aired>2017-05-11</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10604614</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1177</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

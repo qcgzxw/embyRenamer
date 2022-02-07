@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[The MI6 team make a pact with the devil in order to get information from The Ghost.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-06-24 16:54:05</dateadded>
+  <title>再见掰掰</title>
+  <actor>
+    <name>Sandra Oh</name>
+    <role>Eve Polastri</role>
+    <type>Actor</type>
+    <tmdbid>25540</tmdbid>
+    <imdbid>nm0644897</imdbid>
+  </actor>
+  <actor>
+    <name>Jodie Comer</name>
+    <role>Villanelle</role>
+    <type>Actor</type>
+    <tmdbid>1388593</tmdbid>
+    <imdbid>nm3069650</imdbid>
+  </actor>
+  <actor>
+    <name>Fiona Shaw</name>
+    <role>Carolyn Martens</role>
+    <type>Actor</type>
+    <tmdbid>10981</tmdbid>
+    <imdbid>nm0789716</imdbid>
+  </actor>
+  <actor>
+    <name>Nina Sosanya</name>
+    <role>Jess</role>
+    <type>Actor</type>
+    <tmdbid>7063</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Bodnia</name>
+    <role>Konstantin</role>
+    <type>Actor</type>
+    <tmdbid>3398</tmdbid>
+    <imdbid>nm0091035</imdbid>
+  </actor>
+  <actor>
+    <name>Edward Bluemel</name>
+    <role>Hugo</role>
+    <type>Actor</type>
+    <tmdbid>1731315</tmdbid>
+  </actor>
+  <actor>
+    <name>Owen McDonnell</name>
+    <role>Niko Polastri</role>
+    <type>Actor</type>
+    <tmdbid>365333</tmdbid>
+    <imdbid>nm1711652</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Delaney</name>
+    <role>Kenny Stowton</role>
+    <type>Actor</type>
+    <tmdbid>2021417</tmdbid>
+    <imdbid>nm7780301</imdbid>
+  </actor>
+  <actor>
+    <name>Jung Sun den Hollander</name>
+    <role>Jin / The Ghost</role>
+    <type>GuestStar</type>
+    <tmdbid>2297427</tmdbid>
+    <imdbid>nm5126666</imdbid>
+  </actor>
+  <actor>
+    <name>Arian Nik</name>
+    <role>Jay</role>
+    <type>GuestStar</type>
+    <tmdbid>2309077</tmdbid>
+    <imdbid>nm9699455</imdbid>
+  </actor>
+  <actor>
+    <name>Aidan Kelly</name>
+    <role>Charles</role>
+    <type>GuestStar</type>
+    <tmdbid>150577</tmdbid>
+    <imdbid>nm0446164</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Kai</name>
+    <role>Tony</role>
+    <type>GuestStar</type>
+    <tmdbid>1928510</tmdbid>
+    <imdbid>nm7764393</imdbid>
+  </actor>
+  <actor>
+    <name>Andy Secombe</name>
+    <role>Eric</role>
+    <type>GuestStar</type>
+    <tmdbid>33198</tmdbid>
+    <imdbid>nm0781181</imdbid>
+  </actor>
+  <actor>
+    <name>Adeel Akhtar</name>
+    <role>Martin</role>
+    <type>GuestStar</type>
+    <tmdbid>81840</tmdbid>
+    <imdbid>nm2253821</imdbid>
+  </actor>
+  <director>Francesca Gregorini</director>
+  <rating>8.5</rating>
+  <year>2019</year>
+  <imdbid>tt9264290</imdbid>
+  <tvdbid>7123644</tvdbid>
+  <runtime>43</runtime>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt9264290</uniqueid>
+  <uniqueid type="Tvdb">7123644</uniqueid>
+  <episode>5</episode>
+  <season>2</season>
+  <aired>2019-05-05</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10955022</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>42</duration>
+        <durationinseconds>2568</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

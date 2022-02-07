@@ -6,6 +6,8 @@ import (
 	"strings"
 )
 
+var config Config
+
 func scanTvShowNfo(rootPath string, nfoPath string) (client Client) {
 	if ext := GetFileExt(nfoPath); strings.ToLower(ext) != ".nfo" {
 		return
@@ -27,7 +29,7 @@ func scanTvShowNfo(rootPath string, nfoPath string) (client Client) {
 		rootPath:   rootPath,
 		nfoPath:    nfoPath,
 		tvShowInfo: *tvShowInfo,
-		dirFormat:  config["tvDirFormat"],
+		dirFormat:  config.TvDirFormat,
 	}
 	return
 }
@@ -53,8 +55,8 @@ func scanEpisodeNfo(rootPath string, nfoPath string, tvShowInfo TvShowInfo, tota
 		tvShowInfo:    tvShowInfo,
 		episodeName:   tvShowInfo.Title,
 		episodeInfo:   *episodeInfo,
-		dirFormat:     config["tvDirFormat"] + "/" + config["episodeDirFormat"],
-		titleFormat:   config["episodeTitleFormat"],
+		dirFormat:     config.TvDirFormat + "/" + config.EpisodeDirFormat,
+		titleFormat:   config.EpisodeTitleFormat,
 		totalSeasons:  totalSeasons,
 		totalEpisodes: totalEpisodes,
 	}
@@ -79,8 +81,8 @@ func scanMovieNfo(rootPath string, nfoPath string) (client Client) {
 		nfoPath:     nfoPath,
 		movieInfo:   *movieInfo,
 		movieName:   GetFileName(nfoPath),
-		dirFormat:   config["movieDirFormat"],
-		titleFormat: config["movieTitleFormat"],
+		dirFormat:   config.MovieDirFormat,
+		titleFormat: config.MovieTitleFormat,
 	}
 	return
 }
@@ -89,6 +91,7 @@ func scanMovieNfo(rootPath string, nfoPath string) (client Client) {
 func Scan(rootPath, dirPath string) (clients []Client, err error) {
 	var files = make(map[string]os.FileInfo)
 	var nfoFiles = make(map[string]os.FileInfo)
+	var isMoviePath = true
 	files, _, err = FilePathWalkDir(dirPath)
 	if err != nil || len(files) == 0 {
 		return
@@ -98,15 +101,17 @@ func Scan(rootPath, dirPath string) (clients []Client, err error) {
 			nfoFiles[path] = file
 		}
 		if file.Name() == "tvshow.nfo" {
+			isMoviePath = false
 			if c := scanTvShowNfo(rootPath, path); c != nil {
 				clients = append(clients, c)
 			}
-			return
 		}
 	}
-	for path, _ := range nfoFiles {
-		if c := scanMovieNfo(rootPath, path); c != nil {
-			clients = append(clients, c)
+	if isMoviePath {
+		for path, _ := range nfoFiles {
+			if c := scanMovieNfo(rootPath, path); c != nil {
+				clients = append(clients, c)
+			}
 		}
 	}
 	return
@@ -153,4 +158,13 @@ func DeepScan(rootPath, dirPath string, deep int) (clients []Client, err error) 
 		}
 	}
 	return
+}
+
+func LoadConfig(c *Config) {
+	if c != nil {
+		config = *c
+	} else {
+		// load default config
+		config = defaultConfig
+	}
 }

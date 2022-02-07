@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[距离上一次（速度与激情4）充满激情的速度生涯已经过去了两年，两位驰骋赛车届的风云人物多米尼克（范·迪塞尔饰）与布莱恩（保罗·沃克饰）厌倦了见不得光的躲避警察的生活，为了让自己彻底获得自由，他们决定干最后一票来完成这个目标，而任务地点则是巴西的里约热内卢。多米尼克和布莱恩组成了一支终极赛车团队，和当地的触目惊心的腐败政府展开对战.　另一方面，声名显赫的FBI探员卢克（岩石·强森饰）依然在执着的追捕着多米尼克和布莱恩，他率领精英突击队对两人进行了全面围攻，结果在里约大败而归。不过卢克可不是什么好惹的主，彻底被激怒的他决定设下天罗地网，来彻底的围剿多米尼克和布莱恩。在里约的贫民窟和公路上，一场你死我活的惊心追逐就此上演……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-03 21:45:05</dateadded>
+  <title>速度与激情5</title>
+  <originaltitle>Fast Five</originaltitle>
+  <actor>
+    <name>Vin Diesel</name>
+    <role>Dominic Toretto</role>
+    <type>Actor</type>
+    <tmdbid>12835</tmdbid>
+    <imdbid>nm0004874</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Walker</name>
+    <role>Brian O'Conner</role>
+    <type>Actor</type>
+    <tmdbid>8167</tmdbid>
+  </actor>
+  <actor>
+    <name>Dwayne Johnson</name>
+    <role>Luke Hobbs</role>
+    <type>Actor</type>
+    <tmdbid>18918</tmdbid>
+    <imdbid>nm0425005</imdbid>
+  </actor>
+  <actor>
+    <name>Jordana Brewster</name>
+    <role>Mia Toretto</role>
+    <type>Actor</type>
+    <tmdbid>22123</tmdbid>
+    <imdbid>nm0108287</imdbid>
+  </actor>
+  <actor>
+    <name>Tyrese Gibson</name>
+    <role>Roman Pearce</role>
+    <type>Actor</type>
+    <tmdbid>8169</tmdbid>
+  </actor>
+  <actor>
+    <name>Ludacris</name>
+    <role>Tej Parker</role>
+    <type>Actor</type>
+    <tmdbid>8171</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Schulze</name>
+    <role>Vince</role>
+    <type>Actor</type>
+    <tmdbid>31841</tmdbid>
+  </actor>
+  <actor>
+    <name>Sung Kang</name>
+    <role>Han Lue</role>
+    <type>Actor</type>
+    <tmdbid>61697</tmdbid>
+    <imdbid>nm0437646</imdbid>
+  </actor>
+  <actor>
+    <name>Gal Gadot</name>
+    <role>Gisele Yashar</role>
+    <type>Actor</type>
+    <tmdbid>90633</tmdbid>
+    <imdbid>nm2933757</imdbid>
+  </actor>
+  <actor>
+    <name>Tego Calderón</name>
+    <role>Tego Leo</role>
+    <type>Actor</type>
+    <tmdbid>96321</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Omar</name>
+    <role>Rico Santos</role>
+    <type>Actor</type>
+    <tmdbid>90634</tmdbid>
+  </actor>
+  <actor>
+    <name>Joaquim de Almeida</name>
+    <role>Hernan Reyes</role>
+    <type>Actor</type>
+    <tmdbid>22462</tmdbid>
+  </actor>
+  <actor>
+    <name>Elsa Pataky</name>
+    <role>Elena Neves</role>
+    <type>Actor</type>
+    <tmdbid>73269</tmdbid>
+    <imdbid>nm0665235</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Irby</name>
+    <role>Zizi</role>
+    <type>Actor</type>
+    <tmdbid>124304</tmdbid>
+    <imdbid>nm0409831</imdbid>
+  </actor>
+  <actor>
+    <name>Fernando Chien</name>
+    <role>Wilkes</role>
+    <type>Actor</type>
+    <tmdbid>216782</tmdbid>
+  </actor>
+  <actor>
+    <name>Alimi Ballard</name>
+    <role>Fusco</role>
+    <type>Actor</type>
+    <tmdbid>165284</tmdbid>
+  </actor>
+  <actor>
+    <name>Yorgo Constantine</name>
+    <role>Chato</role>
+    <type>Actor</type>
+    <tmdbid>21051</tmdbid>
+    <imdbid>nm0176085</imdbid>
+  </actor>
+  <actor>
+    <name>Geoff Meed</name>
+    <role>Macroy</role>
+    <type>Actor</type>
+    <tmdbid>86204</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Melendez</name>
+    <role>Chief of Police Alemeida</role>
+    <type>Actor</type>
+    <tmdbid>1014572</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeirmarie Osorio</name>
+    <role>Rosa</role>
+    <type>Actor</type>
+    <tmdbid>1093706</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Allen Hicks</name>
+    <role>Capa</role>
+    <type>Actor</type>
+    <tmdbid>80242</tmdbid>
+  </actor>
+  <actor>
+    <name>Esteban Cueto</name>
+    <role>Berto</role>
+    <type>Actor</type>
+    <tmdbid>60653</tmdbid>
+  </actor>
+  <actor>
+    <name>Corey Michael Eubanks</name>
+    <role>Lanzo</role>
+    <type>Actor</type>
+    <tmdbid>147207</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Da Silva Jr.</name>
+    <role>Diogo</role>
+    <type>Actor</type>
+    <tmdbid>37149</tmdbid>
+  </actor>
+  <actor>
+    <name>Eva Mendes</name>
+    <role>Monica Fuentes (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>8170</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Gonzaga</name>
+    <role>Cash House Door Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>979307</tmdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Blankenship</name>
+    <role>Lead DEA Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1093707</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Jackson</name>
+    <role>Field Reporter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1093709</tmdbid>
+  </actor>
+  <actor>
+    <name>Arlene Santana</name>
+    <role>Field Reporter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>986813</tmdbid>
+  </actor>
+  <actor>
+    <name>Kent Shocknek</name>
+    <role>News Anchor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>79086</tmdbid>
+  </actor>
+  <actor>
+    <name>Sharon Tay</name>
+    <role>News Anchor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>156131</tmdbid>
+  </actor>
+  <actor>
+    <name>Devon Aoki</name>
+    <role>Suki (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>6278</tmdbid>
+  </actor>
+  <actor>
+    <name>Johnny Strong</name>
+    <role>Leon (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>12796</tmdbid>
+  </actor>
+  <actor>
+    <name>Chad Lindberg</name>
+    <role>Jesse (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>9186</tmdbid>
+  </actor>
+  <director tmdbid="58189">Justin Lin</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=O6wVBsJSOsQ</trailer>
+  <rating>7.3</rating>
+  <year>2011</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt1596343</imdbid>
+  <tmdbid>51497</tmdbid>
+  <premiered>2011-04-20</premiered>
+  <releasedate>2011-04-20</releasedate>
+  <criticrating>77</criticrating>
+  <runtime>130</runtime>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>惊悚</genre>
+  <genre>犯罪</genre>
+  <studio>Original Film</studio>
+  <studio>Universal Pictures</studio>
+  <studio>One Race</studio>
+  <set tmdbcolid="9485">
+    <name>速度与激情（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">51497</uniqueid>
+  <uniqueid type="Imdb">tt1596343</uniqueid>
+  <id>tt1596343</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>32599378</bitrate>
+        <width>3840</width>
+        <height>1634</height>
+        <aspect>1920:817</aspect>
+        <aspectratio>1920:817</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>130</duration>
+        <durationinseconds>7819</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

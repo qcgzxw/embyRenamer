@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[美国西部某镇执法官的浪荡儿子，诬陷外来华人打工仔犯罪的同时，性侵华人打工仔老婆并致其死亡。华人打工仔大战疯狂报复，先后多名执法警察被杀。执法官在明知儿子不对的情况下，依然聘请了追踪者对打工仔开展追杀。打工仔打败追踪者，并成功获得一名正义追踪者的支持，开始继续报复行为。这边，执法官知道儿子兽性后，两人发生争执，儿子打死执法官父亲，同时高价聘请雇佣杀手。打工仔和正义追踪者都被雇佣杀手抓住，但两人最终挣脱并消灭了浪荡儿子和雇佣杀手。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-01-16 05:55:31</dateadded>
+  <title>局外人</title>
+  <originaltitle>The Outsider</originaltitle>
+  <actor>
+    <name>Jon Foo</name>
+    <role>Jing Phang</role>
+    <type>Actor</type>
+    <tmdbid>100586</tmdbid>
+    <imdbid>nm1463426</imdbid>
+  </actor>
+  <actor>
+    <name>Trace Adkins</name>
+    <role>Marshal Walker</role>
+    <type>Actor</type>
+    <tmdbid>85477</tmdbid>
+    <imdbid>nm0012081</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Patrick Flanery</name>
+    <role>Chris King</role>
+    <type>Actor</type>
+    <tmdbid>54789</tmdbid>
+    <imdbid>nm0001218</imdbid>
+  </actor>
+  <actor>
+    <name>Kaiwi Lyman</name>
+    <role>James Walker</role>
+    <type>Actor</type>
+    <tmdbid>968742</tmdbid>
+    <imdbid>nm1839980</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Trejo</name>
+    <role>Carlos</role>
+    <type>Actor</type>
+    <tmdbid>11160</tmdbid>
+    <imdbid>nm0001803</imdbid>
+  </actor>
+  <actor>
+    <name>Mitchell L. Johnson</name>
+    <role>Frank Pratt</role>
+    <type>Actor</type>
+    <tmdbid>2015334</tmdbid>
+    <imdbid>nm7214377</imdbid>
+  </actor>
+  <director tmdbid="1169157" imdbid="nm1914394">Timothy Woodward Jr.</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=DfImT3_2G34</trailer>
+  <rating>4.7</rating>
+  <year>2019</year>
+  <imdbid>tt10303892</imdbid>
+  <tmdbid>605347</tmdbid>
+  <premiered>2019-06-14</premiered>
+  <releasedate>2019-06-14</releasedate>
+  <criticrating>50</criticrating>
+  <runtime>61</runtime>
+  <genre>西部</genre>
+  <uniqueid type="Tmdb">605347</uniqueid>
+  <uniqueid type="Imdb">tt10303892</uniqueid>
+  <id>tt10303892</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>7155733</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>60</duration>
+        <durationinseconds>3648</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[谢尔顿买了漂亮东西来弥补自己轻视艾米近期成就的错误。伯纳黛特向霍华德坦言她不想要孩子。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-19 03:35:05</dateadded>
+  <title>闪亮小玩意儿演习</title>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Leonard Hofstadter</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>Howard Wolowitz</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Nayyar</name>
+    <role>Rajesh Koothrappali</role>
+    <type>Actor</type>
+    <tmdbid>208099</tmdbid>
+    <imdbid>nm2471798</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa Rauch</name>
+    <role>Bernadette Rostenkowski</role>
+    <type>Actor</type>
+    <tmdbid>1221716</tmdbid>
+    <imdbid>nm1851981</imdbid>
+  </actor>
+  <actor>
+    <name>Mayim Bialik</name>
+    <role>Amy Farrah Fowler</role>
+    <type>Actor</type>
+    <tmdbid>167640</tmdbid>
+    <imdbid>nm0080524</imdbid>
+  </actor>
+  <actor>
+    <name>Carol Ann Susi</name>
+    <role>Debbie Wolowitz (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1212530</tmdbid>
+    <imdbid>nm0839836</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Schmock</name>
+    <role>Jonathan</role>
+    <type>GuestStar</type>
+    <tmdbid>151229</tmdbid>
+    <imdbid>nm0773536</imdbid>
+  </actor>
+  <actor>
+    <name>Jadon Sand</name>
+    <role>Aaron</role>
+    <type>GuestStar</type>
+    <tmdbid>1340685</tmdbid>
+  </actor>
+  <actor>
+    <name>Dusan Brown</name>
+    <role>Jeremy</role>
+    <type>GuestStar</type>
+    <tmdbid>973334</tmdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>6.9</rating>
+  <year>2012</year>
+  <imdbid>tt2136314</imdbid>
+  <tvdbid>4219025</tvdbid>
+  <runtime>21</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <uniqueid type="Imdb">tt2136314</uniqueid>
+  <uniqueid type="Tvdb">4219025</uniqueid>
+  <episode>12</episode>
+  <season>5</season>
+  <aired>2012-01-12</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1579584</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>20</duration>
+        <durationinseconds>1251</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

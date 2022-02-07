@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[沉底七年的水库灭门凶案，三个懵懂青年因一念之差成为背负罪孽的亡命狂徒。为了赎罪，三人拼命工作，低调做人。他们不娶妻，不交友，偏居一隅合力抚养一个叫"尾巴"的女童。心智过人的"协警"辛小丰，习惯性地用自己的左手捻灭燃烧的烟头，他是"刑警"伊谷春最得力的拍档，也是伊谷春从没放弃过怀疑的对象；伊谷春的妹妹伊谷夏对"的哥"杨自道一见钟情，却屡遭拒绝；看守鱼排的"渔夫"陈比觉，常与他们会合于城郊小屋，这一切的背后，还有一双热衷于偷窥的眼睛，又突然闯入一名同性恋者。灼烈揪心的追凶之途上，父女之情、同性之谊，交揉罪与义，情与法，在故事结尾却发生了变化。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-04 04:10:29</dateadded>
+  <title>烈日灼心</title>
+  <originaltitle>烈日灼心</originaltitle>
+  <actor>
+    <name>Deng Chao</name>
+    <role>Xin Xiaofeng</role>
+    <type>Actor</type>
+    <tmdbid>99689</tmdbid>
+    <imdbid>nm2874732</imdbid>
+  </actor>
+  <actor>
+    <name>Duan Yihong</name>
+    <role>Yi Guchun</role>
+    <type>Actor</type>
+    <tmdbid>126736</tmdbid>
+    <imdbid>nm3176424</imdbid>
+  </actor>
+  <actor>
+    <name>Guo Tao</name>
+    <role>Yang Zidao</role>
+    <type>Actor</type>
+    <tmdbid>548608</tmdbid>
+    <imdbid>nm0849919</imdbid>
+  </actor>
+  <actor>
+    <name>Wang Luodan</name>
+    <role>Yi Guxia</role>
+    <type>Actor</type>
+    <tmdbid>543159</tmdbid>
+  </actor>
+  <actor>
+    <name>Jackie Lui Chung-Yin</name>
+    <role>David</role>
+    <type>Actor</type>
+    <tmdbid>223915</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Xiaochuan</name>
+    <type>Actor</type>
+    <tmdbid>1844393</tmdbid>
+  </actor>
+  <actor>
+    <name>Du Zhiguo</name>
+    <type>Actor</type>
+    <tmdbid>1985765</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Xihan</name>
+    <role>Tail</role>
+    <type>Actor</type>
+    <tmdbid>1985767</tmdbid>
+  </actor>
+  <actor>
+    <name>Yan Bei</name>
+    <type>Actor</type>
+    <tmdbid>1985768</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Yanhui</name>
+    <type>Actor</type>
+    <tmdbid>575866</tmdbid>
+    <imdbid>nm3754323</imdbid>
+  </actor>
+  <actor>
+    <name>Bai Liu-xi</name>
+    <type>Actor</type>
+    <tmdbid>1897606</tmdbid>
+  </actor>
+  <actor>
+    <name>Gao Hu</name>
+    <role>Chen Bijue</role>
+    <type>Actor</type>
+    <tmdbid>1094211</tmdbid>
+  </actor>
+  <director tmdbid="575865" imdbid="nm3148857">Cao Baoping</director>
+  <rating>7.1</rating>
+  <year>2015</year>
+  <imdbid>tt4079152</imdbid>
+  <tmdbid>344556</tmdbid>
+  <premiered>2015-06-19</premiered>
+  <releasedate>2015-06-19</releasedate>
+  <runtime>138</runtime>
+  <country>China</country>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <genre>悬疑</genre>
+  <uniqueid type="Tmdb">344556</uniqueid>
+  <uniqueid type="Imdb">tt4079152</uniqueid>
+  <id>tt4079152</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>16789799</bitrate>
+        <width>3840</width>
+        <height>1616</height>
+        <aspect>240:101</aspect>
+        <aspectratio>240:101</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>137</duration>
+        <durationinseconds>8266</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>124302</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

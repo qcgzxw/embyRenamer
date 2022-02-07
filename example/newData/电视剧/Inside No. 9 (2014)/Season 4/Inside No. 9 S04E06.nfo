@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[三名清洁承包商必须清理废弃的房间。但当他们发现血迹斑斑的地板时，他们的生活将永远不会再一样了。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-06 08:18:37</dateadded>
+  <title>命中注定</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Weruche Opia</name>
+    <role>Maz</role>
+    <type>GuestStar</type>
+    <tmdbid>1948465</tmdbid>
+  </actor>
+  <actor>
+    <name>Nigel Planer</name>
+    <role>Frank</role>
+    <type>GuestStar</type>
+    <tmdbid>117555</tmdbid>
+    <imdbid>nm0686539</imdbid>
+  </actor>
+  <actor>
+    <name>Ruben Cryer</name>
+    <role>Charlie</role>
+    <type>GuestStar</type>
+    <tmdbid>2560618</tmdbid>
+  </actor>
+  <director>Jim O'Hanlon</director>
+  <rating>7.5</rating>
+  <year>2018</year>
+  <imdbid>tt7849148</imdbid>
+  <tvdbid>6453372</tvdbid>
+  <runtime>29</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Horror</genre>
+  <uniqueid type="Imdb">tt7849148</uniqueid>
+  <uniqueid type="Tvdb">6453372</uniqueid>
+  <episode>6</episode>
+  <season>4</season>
+  <aired>2018-02-06</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10605993</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1768</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ssa</codec>
+        <micodec>ssa</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

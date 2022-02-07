@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[一名警察负责解决人口过剩问题，而那些被他夺去的生命也成为了他的心魔。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-14 09:27:47</dateadded>
+  <title>突击小队</title>
+  <actor>
+    <name>Nolan North</name>
+    <role>Detective Briggs (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>19508</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily O'Brien</name>
+    <role>Eve (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1480477</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Bonilla</name>
+    <role>Officer Pentle (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>61285</tmdbid>
+    <imdbid>nm0094636</imdbid>
+  </actor>
+  <actor>
+    <name>Ike Amadi</name>
+    <role>Officer Mantus (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1620226</tmdbid>
+  </actor>
+  <actor>
+    <name>Noshir Dalal</name>
+    <role>Officer Soran (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1703156</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Hawkes</name>
+    <role>Father (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>155960</tmdbid>
+  </actor>
+  <actor>
+    <name>Ayana Haviv</name>
+    <role>Singer (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>3090359</tmdbid>
+  </actor>
+  <actor>
+    <name>Élodie Yung</name>
+    <role>Alice (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>78147</tmdbid>
+  </actor>
+  <actor>
+    <name>Dendrie Taylor</name>
+    <role>Ruth (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>81462</tmdbid>
+  </actor>
+  <actor>
+    <name>Debra Cardona</name>
+    <role>Maria (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>3090401</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Hale</name>
+    <role>Proprietor (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>81667</tmdbid>
+    <imdbid>nm0354937</imdbid>
+  </actor>
+  <actor>
+    <name>Piotr Michael</name>
+    <role>Police Radio (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1449707</tmdbid>
+  </actor>
+  <actor>
+    <name>Kirk Baily</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>176035</tmdbid>
+    <imdbid>nm0047358</imdbid>
+  </actor>
+  <actor>
+    <name>Kerry Gutierrez</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>2784051</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Pacheco</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1363155</tmdbid>
+    <imdbid>nm8183723</imdbid>
+  </actor>
+  <actor>
+    <name>Caitlin McKenna-Wilkinson</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>59055</tmdbid>
+    <imdbid>nm0571443</imdbid>
+  </actor>
+  <director>Jennifer Yuh Nelson</director>
+  <rating>6.8</rating>
+  <year>2021</year>
+  <imdbid>tt14536144</imdbid>
+  <tvdbid>8376690</tvdbid>
+  <runtime>18</runtime>
+  <uniqueid type="Imdb">tt14536144</uniqueid>
+  <uniqueid type="Tvdb">8376690</uniqueid>
+  <episode>3</episode>
+  <season>2</season>
+  <aired>2021-05-14</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5939986</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>18</duration>
+        <durationinseconds>1108</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

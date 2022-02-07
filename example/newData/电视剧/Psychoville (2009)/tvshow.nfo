@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[Joy（唐·弗兰奇 Dawn French 饰）每天都小心的呵护着自己的玩具娃娃，并坚信有一天他会成为自己真正的孩子。怪异的盲人老头Lomax独自住在一所大房子里，有着古怪的收藏嗜好。失意的独手小丑Jelly专为儿童表演节目，但只会表演一个节目。侏儒Robert暗恋剧团女主角，却总遭到众人的捉弄。心智不成熟的David（史蒂夫·佩姆伯顿 Steve Pemberton 饰）是个杀手文化狂热者，痴迷于血腥的游戏，母亲间不惜一切代价保护着不谙世事的儿子。这个五个来自不列颠的不同地方的人收到了一封同样的恐吓信，上面写着：“我知道你做过什么”。这几个人都有着不可告人的秘密，而未知的来信是否会将他们联系到一起，真相能否被揭开？]]></plot>
+  <outline><![CDATA[Joy（唐·弗兰奇 Dawn French 饰）每天都小心的呵护着自己的玩具娃娃，并坚信有一天他会成为自己真正的孩子。怪异的盲人老头Lomax独自住在一所大房子里，有着古怪的收藏嗜好。失意的独手小丑Jelly专为儿童表演节目，但只会表演一个节目。侏儒Robert暗恋剧团女主角，却总遭到众人的捉弄。心智不成熟的David（史蒂夫·佩姆伯顿 Steve Pemberton 饰）是个杀手文化狂热者，痴迷于血腥的游戏，母亲间不惜一切代价保护着不谙世事的儿子。这个五个来自不列颠的不同地方的人收到了一封同样的恐吓信，上面写着：“我知道你做过什么”。这几个人都有着不可告人的秘密，而未知的来信是否会将他们联系到一起，真相能否被揭开？]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-06 00:41:05</dateadded>
+  <title>疯城记</title>
+  <originaltitle>Psychoville</originaltitle>
+  <actor>
+    <name>Dawn French</name>
+    <type>Actor</type>
+    <tmdbid>5539</tmdbid>
+    <imdbid>nm0294067</imdbid>
+  </actor>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Maureen Sowerbutts</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Biggins</name>
+    <type>Actor</type>
+    <tmdbid>133499</tmdbid>
+    <imdbid>nm0081811</imdbid>
+  </actor>
+  <actor>
+    <name>Debbie Chazen</name>
+    <type>Actor</type>
+    <tmdbid>1220030</tmdbid>
+    <imdbid>nm0154708</imdbid>
+  </actor>
+  <actor>
+    <name>Eileen Atkins</name>
+    <type>Actor</type>
+    <tmdbid>20300</tmdbid>
+    <imdbid>nm0040586</imdbid>
+  </actor>
+  <actor>
+    <name>Natalie Cassidy</name>
+    <type>Actor</type>
+    <tmdbid>1216087</tmdbid>
+    <imdbid>nm0144231</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Kaluuya</name>
+    <role>Tealeaf / Michael Fry</role>
+    <type>Actor</type>
+    <tmdbid>206919</tmdbid>
+    <imdbid>nm2257207</imdbid>
+  </actor>
+  <actor>
+    <name>Imelda Staunton</name>
+    <type>Actor</type>
+    <tmdbid>11356</tmdbid>
+    <imdbid>nm0001767</imdbid>
+  </actor>
+  <actor>
+    <name>Vilma Hollingbery</name>
+    <type>Actor</type>
+    <tmdbid>81031</tmdbid>
+    <imdbid>nm0391108</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>David Sowerbutts</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Bonnar</name>
+    <role>Detective Finney</role>
+    <type>Actor</type>
+    <tmdbid>1231402</tmdbid>
+    <imdbid>nm1326440</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Watkins</name>
+    <type>Actor</type>
+    <tmdbid>63608</tmdbid>
+    <imdbid>nm0914327</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Tompkins</name>
+    <role>Robert</role>
+    <type>Actor</type>
+    <tmdbid>1990805</tmdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=ejgeZ4DOsWs</trailer>
+  <trailer>http://www.youtube.com/watch?v=3y5rbMqG7Ic</trailer>
+  <trailer>http://www.youtube.com/watch?v=wW85ANPdHf0</trailer>
+  <rating>6.5</rating>
+  <year>2009</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt1305562</imdb_id>
+  <tmdbid>17420</tmdbid>
+  <premiered>2009-06-18</premiered>
+  <releasedate>2009-06-18</releasedate>
+  <enddate>2011-06-06</enddate>
+  <runtime>30</runtime>
+  <genre>喜剧</genre>
+  <genre>悬疑</genre>
+  <studio>BBC Two</studio>
+  <tvrageid>22870</tvrageid>
+  <uniqueid type="Imdb">tt1305562</uniqueid>
+  <uniqueid type="Tmdb">17420</uniqueid>
+  <uniqueid type="Tvdb">99101</uniqueid>
+  <tvdbid>99101</tvdbid>
+  <uniqueid type="TvRage">22870</uniqueid>
+  <id>99101</id>
+  <episodeguide>
+    <url cache="99101.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/99101/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Ended</status>
+</tvshow>

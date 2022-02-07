@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[1949年的法国乡村，音乐家克莱门特（杰勒德·尊诺 饰）到了一间外号叫“塘低”的男子寄宿学校当助理教师。学校里的学生大部分都是难缠的问题儿童，体罚在这里司空见惯，学校的校长（弗朗西斯·贝尔兰德 饰）只顾自己的前途，残暴高压。性格沉静的克莱门特尝试用自己的方法改善这种状况，他重新创作音乐作品，组织合唱团，决定用音乐的方法来打开学生们封闭的心灵。然而，事情并不顺利，克莱门特发现学生皮埃尔·莫安琦（尚·巴堤·莫里耶 饰）拥有非同一般的音乐天赋，但是单亲家庭长大的他，性格异常敏感孤僻，怎样释放皮埃尔的音乐才能，让克莱门特头痛不已；同时，他与皮埃尔母亲的感情也渐渐微妙起来。]]></plot>
+  <outline><![CDATA[天籁一般的童声，是最接近上帝的存在。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-01-18 12:15:05</dateadded>
+  <title>放牛班的春天</title>
+  <originaltitle>Les Choristes</originaltitle>
+  <actor>
+    <name>Gérard Jugnot</name>
+    <role>Clément Mathieu</role>
+    <type>Actor</type>
+    <tmdbid>21171</tmdbid>
+    <imdbid>nm0432040</imdbid>
+  </actor>
+  <actor>
+    <name>François Berléand</name>
+    <role>Rachin</role>
+    <type>Actor</type>
+    <tmdbid>7693</tmdbid>
+    <imdbid>nm0075710</imdbid>
+  </actor>
+  <actor>
+    <name>Kad Merad</name>
+    <role>Chabert</role>
+    <type>Actor</type>
+    <tmdbid>22306</tmdbid>
+    <imdbid>nm0580101</imdbid>
+  </actor>
+  <actor>
+    <name>Jean-Paul Bonnaire</name>
+    <role>Father Maxence</role>
+    <type>Actor</type>
+    <tmdbid>43998</tmdbid>
+    <imdbid>nm0094786</imdbid>
+  </actor>
+  <actor>
+    <name>Marie Bunel</name>
+    <role>Violette Morhange</role>
+    <type>Actor</type>
+    <tmdbid>28793</tmdbid>
+    <imdbid>nm0120431</imdbid>
+  </actor>
+  <actor>
+    <name>Jean-Baptiste Maunier</name>
+    <role>Pierre Morhange</role>
+    <type>Actor</type>
+    <tmdbid>43996</tmdbid>
+    <imdbid>nm1533863</imdbid>
+  </actor>
+  <actor>
+    <name>Maxence Perrin</name>
+    <role>Pépinot</role>
+    <type>Actor</type>
+    <tmdbid>43997</tmdbid>
+    <imdbid>nm1532669</imdbid>
+  </actor>
+  <actor>
+    <name>Grégory Gatignol</name>
+    <role>Pascal Mondain</role>
+    <type>Actor</type>
+    <tmdbid>43999</tmdbid>
+    <imdbid>nm1531691</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Blumenthal</name>
+    <role>Corbin</role>
+    <type>Actor</type>
+    <tmdbid>1334021</tmdbid>
+    <imdbid>nm1533569</imdbid>
+  </actor>
+  <actor>
+    <name>Cyril Bernicot</name>
+    <role>Le Querrec</role>
+    <type>Actor</type>
+    <tmdbid>1334022</tmdbid>
+    <imdbid>nm1531112</imdbid>
+  </actor>
+  <actor>
+    <name>Philippe du Janerand</name>
+    <role>Mr. Langlois</role>
+    <type>Actor</type>
+    <tmdbid>550110</tmdbid>
+    <imdbid>nm0238884</imdbid>
+  </actor>
+  <actor>
+    <name>Carole Weiss</name>
+    <role>Countess</role>
+    <type>Actor</type>
+    <tmdbid>583220</tmdbid>
+    <imdbid>nm1219231</imdbid>
+  </actor>
+  <actor>
+    <name>Erick Desmarestz</name>
+    <role>Doctor Dervaux</role>
+    <type>Actor</type>
+    <tmdbid>48418</tmdbid>
+    <imdbid>nm0221383</imdbid>
+  </actor>
+  <actor>
+    <name>Didier Flamand</name>
+    <role>Pépinot adult</role>
+    <type>Actor</type>
+    <tmdbid>35077</tmdbid>
+    <imdbid>nm0280955</imdbid>
+  </actor>
+  <actor>
+    <name>Jacques Perrin</name>
+    <role>Pierre Morhange adult</role>
+    <type>Actor</type>
+    <tmdbid>20030</tmdbid>
+    <imdbid>nm0674742</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Fargeot</name>
+    <role>Boniface</role>
+    <type>Actor</type>
+    <tmdbid>1334023</tmdbid>
+    <imdbid>nm1531600</imdbid>
+  </actor>
+  <actor>
+    <name>Théodule Carré-Cassaigne</name>
+    <role>Leclerc</role>
+    <type>Actor</type>
+    <tmdbid>1334024</tmdbid>
+    <imdbid>nm1044978</imdbid>
+  </actor>
+  <actor>
+    <name>Armen Godel</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>114822</tmdbid>
+    <imdbid>nm0323905</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Gadler</name>
+    <role>Pierre Morhange's Assistant</role>
+    <type>Actor</type>
+    <tmdbid>930809</tmdbid>
+    <imdbid>nm0300583</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Chariéras</name>
+    <role>Régent</role>
+    <type>Actor</type>
+    <tmdbid>1885486</tmdbid>
+    <imdbid>nm1216110</imdbid>
+  </actor>
+  <actor>
+    <name>Monique Ditisheim</name>
+    <role>Mother Marie</role>
+    <type>Actor</type>
+    <tmdbid>2554666</tmdbid>
+    <imdbid>nm1531510</imdbid>
+  </actor>
+  <actor>
+    <name>Fabrice Dubusset</name>
+    <role>Carpentier</role>
+    <type>Actor</type>
+    <tmdbid>1390133</tmdbid>
+    <imdbid>nm1513979</imdbid>
+  </actor>
+  <actor>
+    <name>Marielle Coubaillon</name>
+    <role>Mrs. Rachin</role>
+    <type>Actor</type>
+    <tmdbid>2383650</tmdbid>
+    <imdbid>nm1256838</imdbid>
+  </actor>
+  <actor>
+    <name>Violette Barratier</name>
+    <role>Rachin's daughter</role>
+    <type>Actor</type>
+    <tmdbid>2554673</tmdbid>
+    <imdbid>nm1799057</imdbid>
+  </actor>
+  <actor>
+    <name>Christophe Borie</name>
+    <role>Child</role>
+    <type>Actor</type>
+    <tmdbid>1849005</tmdbid>
+    <imdbid>nm4124905</imdbid>
+  </actor>
+  <director tmdbid="43993" imdbid="nm0056725">Christophe Barratier</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QVtJgU6WTj8</trailer>
+  <rating>7.9</rating>
+  <year>2004</year>
+  <mpaa>PG</mpaa>
+  <imdbid>tt0372824</imdbid>
+  <tmdbid>5528</tmdbid>
+  <premiered>2004-03-17</premiered>
+  <releasedate>2004-03-17</releasedate>
+  <criticrating>69</criticrating>
+  <runtime>96</runtime>
+  <tagline>天籁一般的童声，是最接近上帝的存在。</tagline>
+  <country>Switzerland</country>
+  <country>Germany</country>
+  <country>France</country>
+  <genre>剧情</genre>
+  <studio>Galatée Films</studio>
+  <studio>Pathé Renn Productions</studio>
+  <studio>France 2 Cinéma</studio>
+  <studio>Novo Arturo Films</studio>
+  <studio>Vega Film</studio>
+  <uniqueid type="Tmdb">5528</uniqueid>
+  <uniqueid type="Imdb">tt0372824</uniqueid>
+  <id>tt0372824</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11813108</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5777</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

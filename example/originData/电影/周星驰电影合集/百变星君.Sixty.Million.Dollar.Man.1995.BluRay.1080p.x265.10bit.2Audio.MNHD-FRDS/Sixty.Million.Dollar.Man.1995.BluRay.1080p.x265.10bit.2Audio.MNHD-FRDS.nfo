@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　夏威夷念大学的香港富豪子弟李泽星（周星驰）学业无成挥金如土，是校园一霸，终因搭上黑帮老大情妇遭黑帮追杀，身体被炸成碎片。在李泽星父亲（吴孟达）的请求下，教授（徐锦江）将李泽星全身人造复原，并把最新研制成功的无敌芯片置入其身，令其摇身一变成为无敌“百变金刚”。黑帮老大得知李泽星复活后，将写有战争程序的芯片植入手下身体，令其变身“铁甲威龙”前来追杀李泽星。为赢得暗恋的女同学虫虫（梁咏琪）的芳心，李泽星决意重塑形象，奋力与“铁甲威龙”展开大战。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-04 14:19:11</dateadded>
+  <title>百变星君</title>
+  <originaltitle>百變星君</originaltitle>
+  <actor>
+    <name>Stephen Chow</name>
+    <role>Lee Chak-Sing</role>
+    <type>Actor</type>
+    <tmdbid>57607</tmdbid>
+    <imdbid>nm0159507</imdbid>
+  </actor>
+  <actor>
+    <name>Gigi Leung</name>
+    <role>Chung-Chung</role>
+    <type>Actor</type>
+    <tmdbid>65938</tmdbid>
+    <imdbid>nm0504942</imdbid>
+  </actor>
+  <actor>
+    <name>Ng Man-tat</name>
+    <role>Tat</role>
+    <type>Actor</type>
+    <tmdbid>70437</tmdbid>
+    <imdbid>nm0628806</imdbid>
+  </actor>
+  <actor>
+    <name>Paulyn Sun</name>
+    <role>Bonnie</role>
+    <type>Actor</type>
+    <tmdbid>12470</tmdbid>
+    <imdbid>nm0837282</imdbid>
+  </actor>
+  <actor>
+    <name>Chi Fai Chan</name>
+    <role>Teacher</role>
+    <type>Actor</type>
+    <tmdbid>936009</tmdbid>
+    <imdbid>nm1535557</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Cheng</name>
+    <role>Fumito</role>
+    <type>Actor</type>
+    <tmdbid>936010</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Cheng</name>
+    <type>Actor</type>
+    <tmdbid>58797</tmdbid>
+    <imdbid>nm0155536</imdbid>
+  </actor>
+  <director tmdbid="76812" imdbid="nm0948145">Raymond Yip Wai-Man</director>
+  <director tmdbid="548474" imdbid="nm0939147">Wong Jing</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=om2mSgknmhI</trailer>
+  <rating>6.2</rating>
+  <year>1995</year>
+  <imdbid>tt0112446</imdbid>
+  <tmdbid>52324</tmdbid>
+  <premiered>1995-08-19</premiered>
+  <releasedate>1995-08-19</releasedate>
+  <criticrating>41</criticrating>
+  <runtime>90</runtime>
+  <country>Hong Kong</country>
+  <genre>喜剧</genre>
+  <genre>奇幻</genre>
+  <genre>科幻</genre>
+  <studio>Win's Movie Productions Ltd.</studio>
+  <uniqueid type="Imdb">tt0112446</uniqueid>
+  <uniqueid type="Tmdb">52324</uniqueid>
+  <id>tt0112446</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>8307334</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>90</duration>
+        <durationinseconds>5423</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

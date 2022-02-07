@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[电影《比得兔》是一部由英国百年经典IP改编的真人动画电影，影片讲述了田园冒险大王“比得兔”（詹姆斯·柯登 James Corden 配音）带领一众伙伴，与麦格雷戈（多姆纳尔·格里森 Domhnall Gleeson 饰）叔侄二人，为争夺菜园主权和隔壁美丽女主人贝伊（萝丝·拜恩 Rose Byrne 饰）的喜爱而斗智斗勇、各显神通的爆笑故事。随着人兔大战不断升级，一系列欢乐闹趣、令人捧腹、啼笑皆非的趣事也由此引发。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-04-19 15:01:58</dateadded>
+  <title>比得兔</title>
+  <originaltitle>Peter Rabbit</originaltitle>
+  <actor>
+    <name>James Corden</name>
+    <role>Peter Rabbit (voice)</role>
+    <type>Actor</type>
+    <tmdbid>55466</tmdbid>
+    <imdbid>nm0179479</imdbid>
+  </actor>
+  <actor>
+    <name>Rose Byrne</name>
+    <role>Beatrix 'Bea' Potter / Jemima Puddle-Duck (voice)</role>
+    <type>Actor</type>
+    <tmdbid>9827</tmdbid>
+    <imdbid>nm0126284</imdbid>
+  </actor>
+  <actor>
+    <name>Margot Robbie</name>
+    <role>Flopsy Rabbit / Narrator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>234352</tmdbid>
+    <imdbid>nm3053338</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Neill</name>
+    <role>Mr. McGregor / Tommy Brock (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4783</tmdbid>
+    <imdbid>nm0000554</imdbid>
+  </actor>
+  <actor>
+    <name>Domhnall Gleeson</name>
+    <role>Thomas McGregor / Mr. Jeremy Fisher (voice)</role>
+    <type>Actor</type>
+    <tmdbid>93210</tmdbid>
+    <imdbid>nm1727304</imdbid>
+  </actor>
+  <actor>
+    <name>Daisy Ridley</name>
+    <role>Cottontail Rabbit (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1315036</tmdbid>
+    <imdbid>nm5397459</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Debicki</name>
+    <role>Mopsy Rabbit (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1133349</tmdbid>
+    <imdbid>nm4456120</imdbid>
+  </actor>
+  <actor>
+    <name>Sia</name>
+    <role>Mrs. Tiggy-Winkle (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1136517</tmdbid>
+  </actor>
+  <actor>
+    <name>Felix Williamson</name>
+    <role>Derek</role>
+    <type>Actor</type>
+    <tmdbid>125564</tmdbid>
+    <imdbid>nm0932028</imdbid>
+  </actor>
+  <actor>
+    <name>Fayssal Bazzi</name>
+    <role>Mr. Tod (voice)</role>
+    <type>Actor</type>
+    <tmdbid>230609</tmdbid>
+    <imdbid>nm2417960</imdbid>
+  </actor>
+  <actor>
+    <name>Ewen Leslie</name>
+    <role>Pigling Bland (voice)</role>
+    <type>Actor</type>
+    <tmdbid>59119</tmdbid>
+    <imdbid>nm1191900</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel Ward</name>
+    <role>Josephine Rabbit (voice)</role>
+    <type>Actor</type>
+    <tmdbid>36042</tmdbid>
+    <imdbid>nm0001829</imdbid>
+  </actor>
+  <actor>
+    <name>Bryan Brown</name>
+    <role>Mr. Rabbit (voice)</role>
+    <type>Actor</type>
+    <tmdbid>29092</tmdbid>
+    <imdbid>nm0000986</imdbid>
+  </actor>
+  <actor>
+    <name>David Wenham</name>
+    <role>Johnny Town-Mouse (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1371</tmdbid>
+    <imdbid>nm0920992</imdbid>
+  </actor>
+  <actor>
+    <name>Fletcher Sheridan</name>
+    <role>Singing Sparrow (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1656606</tmdbid>
+  </actor>
+  <actor>
+    <name>Marianne Jean-Baptiste</name>
+    <role>General Manager</role>
+    <type>Actor</type>
+    <tmdbid>17352</tmdbid>
+    <imdbid>nm0001399</imdbid>
+  </actor>
+  <actor>
+    <name>Terenia Edwards</name>
+    <role>Siobhan</role>
+    <type>Actor</type>
+    <tmdbid>1702223</tmdbid>
+    <imdbid>nm6847566</imdbid>
+  </actor>
+  <actor>
+    <name>Colin Moody</name>
+    <role>Benjamin Bunny (voice)</role>
+    <type>Actor</type>
+    <tmdbid>143271</tmdbid>
+    <imdbid>nm0600461</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Gazal</name>
+    <role>Felix D'eer (voice)</role>
+    <type>Actor</type>
+    <tmdbid>59780</tmdbid>
+    <imdbid>nm0311048</imdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Gluck</name>
+    <role>London Street Rat (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1991909</tmdbid>
+  </actor>
+  <actor>
+    <name>Taryn Gluck</name>
+    <role>London Street Rat (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1991911</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Reichelt</name>
+    <role>JW Rooster II (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1991912</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Freedman</name>
+    <role>Singing Sparrow (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1991913</tmdbid>
+  </actor>
+  <actor>
+    <name>Shana Halligan</name>
+    <role>Singing Sparrow (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1991914</tmdbid>
+  </actor>
+  <actor>
+    <name>Katharine Hoye</name>
+    <role>Singing Sparrow (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1991915</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Mann</name>
+    <role>Singing Sparrow (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1234647</tmdbid>
+  </actor>
+  <actor>
+    <name>Chad Reisser</name>
+    <role>Singing Sparrow (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1991917</tmdbid>
+  </actor>
+  <actor>
+    <name>Vauxhall Jermaine</name>
+    <role>Jackson</role>
+    <type>Actor</type>
+    <tmdbid>1609793</tmdbid>
+    <imdbid>nm4295582</imdbid>
+  </actor>
+  <director tmdbid="82511" imdbid="nm0323239">Will Gluck</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7Pa_Weidt08</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3ittn4f0Em4</trailer>
+  <rating>6.6</rating>
+  <year>2018</year>
+  <mpaa>PG</mpaa>
+  <imdbid>tt5117670</imdbid>
+  <tmdbid>381719</tmdbid>
+  <premiered>2018-02-07</premiered>
+  <releasedate>2018-02-07</releasedate>
+  <criticrating>63</criticrating>
+  <runtime>95</runtime>
+  <country>Australia</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>动画</genre>
+  <genre>冒险</genre>
+  <genre>家庭</genre>
+  <studio>Columbia Pictures</studio>
+  <studio>Animal Logic</studio>
+  <studio>2.0 Entertainment</studio>
+  <studio>Olive Bridge Entertainment</studio>
+  <studio>Screen Australia</studio>
+  <studio>Screen NSW</studio>
+  <studio>Sony Pictures</studio>
+  <studio>Sony Pictures Animation</studio>
+  <set tmdbcolid="595693">
+    <name>比得兔（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">381719</uniqueid>
+  <uniqueid type="Imdb">tt5117670</uniqueid>
+  <id>tt5117670</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2498211</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>94</duration>
+        <durationinseconds>5682</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>224000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

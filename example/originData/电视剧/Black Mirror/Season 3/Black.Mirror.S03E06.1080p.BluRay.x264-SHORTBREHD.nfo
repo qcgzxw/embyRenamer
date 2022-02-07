@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[臭名昭著的撰稿人莫名死亡，在调查事件真相的过程中，警方一步步走入了黑客一手制造的陷阱之中。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-06-09 07:46:53</dateadded>
+  <title>全网公敌</title>
+  <actor>
+    <name>Kelly Macdonald</name>
+    <role>Karin Parke</role>
+    <type>GuestStar</type>
+    <tmdbid>9015</tmdbid>
+    <imdbid>nm0531808</imdbid>
+  </actor>
+  <actor>
+    <name>Faye Marsay</name>
+    <role>Blue Colson</role>
+    <type>GuestStar</type>
+    <tmdbid>1204956</tmdbid>
+  </actor>
+  <actor>
+    <name>Benedict Wong</name>
+    <role>Shaun Li</role>
+    <type>GuestStar</type>
+    <tmdbid>30082</tmdbid>
+    <imdbid>nm0938950</imdbid>
+  </actor>
+  <actor>
+    <name>Jonas Karlsson</name>
+    <role>Rasmus Sjolberg</role>
+    <type>GuestStar</type>
+    <tmdbid>47068</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Armstrong</name>
+    <role>Nick Shelton</role>
+    <type>GuestStar</type>
+    <tmdbid>202047</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Berrington</name>
+    <role>Jo Powers</role>
+    <type>GuestStar</type>
+    <tmdbid>42998</tmdbid>
+    <imdbid>nm0077397</imdbid>
+  </actor>
+  <actor>
+    <name>Esther Hall</name>
+    <role>Vanessa Dahl</role>
+    <type>GuestStar</type>
+    <tmdbid>1197829</tmdbid>
+  </actor>
+  <actor>
+    <name>Holli Dempsey</name>
+    <role>Clara Meades</role>
+    <type>GuestStar</type>
+    <tmdbid>1475015</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Miles</name>
+    <role>Tom Pickering</role>
+    <type>GuestStar</type>
+    <tmdbid>11280</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Babalola</name>
+    <role>Tusk</role>
+    <type>GuestStar</type>
+    <tmdbid>1500875</tmdbid>
+  </actor>
+  <actor>
+    <name>Vinette Robinson</name>
+    <role>Liza Bahar</role>
+    <type>GuestStar</type>
+    <tmdbid>21679</tmdbid>
+  </actor>
+  <actor>
+    <name>Duncan Pow</name>
+    <role>Garrett Scholes</role>
+    <type>GuestStar</type>
+    <tmdbid>1264237</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Ashley</name>
+    <type>GuestStar</type>
+    <tmdbid>1746176</tmdbid>
+  </actor>
+  <director>James Hawes</director>
+  <rating>7.966</rating>
+  <year>2016</year>
+  <imdbid>tt5709236</imdbid>
+  <tvdbid>5692429</tvdbid>
+  <runtime>89</runtime>
+  <genre>Drama</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt5709236</uniqueid>
+  <uniqueid type="Tvdb">5692429</uniqueid>
+  <episode>6</episode>
+  <season>3</season>
+  <aired>2016-10-21</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10530775</bitrate>
+        <width>1920</width>
+        <height>872</height>
+        <aspect>240:109</aspect>
+        <aspectratio>240:109</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>89</duration>
+        <durationinseconds>5349</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

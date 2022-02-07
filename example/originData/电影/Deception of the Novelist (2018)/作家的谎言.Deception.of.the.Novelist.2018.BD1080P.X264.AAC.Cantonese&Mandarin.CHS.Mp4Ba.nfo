@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[治癒系作家徐哲家楼上的单位来了一个新租客 Elaine，一个美艳动人的时尚女子。某夜，Elaine 突然陈尸屋苑平台。警方接手调查，徐哲直认自己被 Elaine 勒索，暴怒之下错手推了 Elaine 落楼。案件本来应该完结，但警方的心理专家苏 Sir 在细心观察徐哲之下，认为他在说谎，而且整件事还存在不少疑点。苏 Sir 发现徐哲太太琦琦早知道徐哲与 Elaine 有染，究竟这是因为琦琦对徐哲的不忠展开报复，还是案中有案，局中有局？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-08-16 06:44:23</dateadded>
+  <title>作家的谎言：笔忠诱罪</title>
+  <originaltitle>作家的謊言：筆忠誘罪</originaltitle>
+  <actor>
+    <name>Justin Cheung</name>
+    <type>Actor</type>
+    <tmdbid>1132643</tmdbid>
+    <imdbid>nm4566716</imdbid>
+  </actor>
+  <actor>
+    <name>Jeana Ho</name>
+    <type>Actor</type>
+    <tmdbid>1156587</tmdbid>
+    <imdbid>nm4832602</imdbid>
+  </actor>
+  <actor>
+    <name>Linah Matsuoka</name>
+    <type>Actor</type>
+    <tmdbid>1747015</tmdbid>
+  </actor>
+  <actor>
+    <name>Billy Luk</name>
+    <type>Actor</type>
+    <tmdbid>1173596</tmdbid>
+    <imdbid>nm03019405</imdbid>
+  </actor>
+  <actor>
+    <name>Chan Ho-Man</name>
+    <type>Actor</type>
+    <tmdbid>1314817</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Chan Kwok-Kwan</name>
+    <type>Actor</type>
+    <tmdbid>1173223</tmdbid>
+    <imdbid>nm2185928</imdbid>
+  </actor>
+  <actor>
+    <name>C Kwan</name>
+    <type>Actor</type>
+    <tmdbid>1136400</tmdbid>
+  </actor>
+  <actor>
+    <name>Gregory Wong</name>
+    <type>Actor</type>
+    <tmdbid>1132644</tmdbid>
+    <imdbid>nm4832857</imdbid>
+  </actor>
+  <actor>
+    <name>Hugo Ng</name>
+    <type>Actor</type>
+    <tmdbid>1187932</tmdbid>
+  </actor>
+  <actor>
+    <name>Raymond Chiu</name>
+    <type>Actor</type>
+    <tmdbid>1809912</tmdbid>
+  </actor>
+  <actor>
+    <name>Terry Zou</name>
+    <type>Actor</type>
+    <tmdbid>2101007</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelly Chen Jia-li</name>
+    <type>Actor</type>
+    <tmdbid>2374230</tmdbid>
+  </actor>
+  <director tmdbid="548481">Christopher Sun</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-RPZxhg-ukM</trailer>
+  <rating>5.8</rating>
+  <year>2019</year>
+  <mpaa>HK-IIB</mpaa>
+  <imdbid>tt10545040</imdbid>
+  <tmdbid>611337</tmdbid>
+  <premiered>2019-06-20</premiered>
+  <releasedate>2019-06-20</releasedate>
+  <runtime>90</runtime>
+  <country>Hong Kong</country>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <genre>恐怖</genre>
+  <genre>惊悚</genre>
+  <genre>喜剧</genre>
+  <studio>China 3D Digital Entertainment</studio>
+  <studio>Dreams Salon Entertainment Culture</studio>
+  <uniqueid type="Tmdb">611337</uniqueid>
+  <uniqueid type="Imdb">tt10545040</uniqueid>
+  <id>tt10545040</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6829161</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>89</duration>
+        <durationinseconds>5384</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>319827</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>191442</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

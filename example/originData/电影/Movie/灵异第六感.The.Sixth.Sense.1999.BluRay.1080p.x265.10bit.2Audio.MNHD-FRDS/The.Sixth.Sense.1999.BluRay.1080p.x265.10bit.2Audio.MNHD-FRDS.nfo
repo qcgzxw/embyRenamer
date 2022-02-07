@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A boy who communicates with spirits seeks the help of a disheartened child psychologist.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-19 23:43:12</dateadded>
+  <title>The Sixth Sense</title>
+  <actor>
+    <name>Bruce Willis</name>
+    <type>Actor</type>
+    <tmdbid>62</tmdbid>
+    <imdbid>nm0000246</imdbid>
+  </actor>
+  <actor>
+    <name>Haley Joel Osment</name>
+    <type>Actor</type>
+    <tmdbid>9640</tmdbid>
+  </actor>
+  <actor>
+    <name>Toni Collette</name>
+    <type>Actor</type>
+    <tmdbid>3051</tmdbid>
+    <imdbid>nm0001057</imdbid>
+  </actor>
+  <director tmdbid="11614" imdbid="nm0796117">M. Night Shyamalan</director>
+  <writer tmdbid="11614" imdbid="nm0796117">M. Night Shyamalan</writer>
+  <credits tmdbid="11614" imdbid="nm0796117">M. Night Shyamalan</credits>
+  <rating>8.1</rating>
+  <year>1999</year>
+  <imdbid>tt0167404</imdbid>
+  <criticrating>86</criticrating>
+  <runtime>107</runtime>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt0167404</uniqueid>
+  <id>tt0167404</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>8162751</bitrate>
+        <width>1918</width>
+        <height>1080</height>
+        <aspect>959:540</aspect>
+        <aspectratio>959:540</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>107</duration>
+        <durationinseconds>6443</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

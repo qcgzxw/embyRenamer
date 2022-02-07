@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[麦克白戏里戏外]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-06 14:41:33</dateadded>
+  <title>替角</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Rosie Cavaliero</name>
+    <role>Kirstie</role>
+    <type>GuestStar</type>
+    <tmdbid>151949</tmdbid>
+    <imdbid>nm0146803</imdbid>
+  </actor>
+  <actor>
+    <name>Roger Sloman</name>
+    <role>Bill</role>
+    <type>GuestStar</type>
+    <tmdbid>42593</tmdbid>
+    <imdbid>nm0806149</imdbid>
+  </actor>
+  <actor>
+    <name>Di Botcher</name>
+    <role>Jean</role>
+    <type>GuestStar</type>
+    <tmdbid>1222237</tmdbid>
+    <imdbid>nm0098414</imdbid>
+  </actor>
+  <actor>
+    <name>Lyndsey Marshal</name>
+    <role>Laura</role>
+    <type>GuestStar</type>
+    <tmdbid>8442</tmdbid>
+    <imdbid>nm1203457</imdbid>
+  </actor>
+  <actor>
+    <name>Julia Davis</name>
+    <role>Felicity</role>
+    <type>GuestStar</type>
+    <tmdbid>1836</tmdbid>
+    <imdbid>nm0204919</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Cordery</name>
+    <role>Nick</role>
+    <type>GuestStar</type>
+    <tmdbid>156356</tmdbid>
+    <imdbid>nm0179549</imdbid>
+  </actor>
+  <actor>
+    <name>Jo Stone-Fewings</name>
+    <role>Macduff</role>
+    <type>GuestStar</type>
+    <tmdbid>122198</tmdbid>
+    <imdbid>nm0832229</imdbid>
+  </actor>
+  <actor>
+    <name>Bruce Mackinnon</name>
+    <role>Malcolm</role>
+    <type>GuestStar</type>
+    <tmdbid>1227575</tmdbid>
+    <imdbid>nm1377178</imdbid>
+  </actor>
+  <director>David Kerr</director>
+  <rating>6.857</rating>
+  <year>2014</year>
+  <imdbid>tt3280030</imdbid>
+  <tvdbid>4756890</tvdbid>
+  <runtime>29</runtime>
+  <tvrageid>1065479918</tvrageid>
+  <uniqueid type="Imdb">tt3280030</uniqueid>
+  <uniqueid type="Tvdb">4756890</uniqueid>
+  <uniqueid type="TvRage">1065479918</uniqueid>
+  <episode>5</episode>
+  <season>1</season>
+  <aired>2014-03-05</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10765130</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1741</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

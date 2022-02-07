@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Claire在竞选中扮演了更重要的角色，赢得了先机。这也迫使Heather不得不去寻找Claire弱点，采取下三滥的路数。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-24 06:47:29</dateadded>
+  <title>第 12 集</title>
+  <actor>
+    <name>Kevin Spacey</name>
+    <role>Frank Underwood</role>
+    <type>Actor</type>
+    <tmdbid>1979</tmdbid>
+    <imdbid>nm0000228</imdbid>
+  </actor>
+  <actor>
+    <name>Robin Wright</name>
+    <role>Claire Underwood</role>
+    <type>Actor</type>
+    <tmdbid>32</tmdbid>
+    <imdbid>nm0000705</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Kelly</name>
+    <role>Doug Stamper</role>
+    <type>Actor</type>
+    <tmdbid>50217</tmdbid>
+    <imdbid>nm0446672</imdbid>
+  </actor>
+  <actor>
+    <name>Nathan Darrow</name>
+    <role>Edward Meechum</role>
+    <type>Actor</type>
+    <tmdbid>1224255</tmdbid>
+    <imdbid>nm2080557</imdbid>
+  </actor>
+  <actor>
+    <name>Jayne Atkinson</name>
+    <role>Catherine Durant</role>
+    <type>Actor</type>
+    <tmdbid>18261</tmdbid>
+    <imdbid>nm0040739</imdbid>
+  </actor>
+  <actor>
+    <name>Derek Cecil</name>
+    <role>Seth Grayson</role>
+    <type>Actor</type>
+    <tmdbid>60117</tmdbid>
+    <imdbid>nm0147689</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Dickens</name>
+    <role>Kate Baldwin</role>
+    <type>Actor</type>
+    <tmdbid>21165</tmdbid>
+    <imdbid>nm0225332</imdbid>
+  </actor>
+  <actor>
+    <name>Lars Mikkelsen</name>
+    <role>Viktor Petrov</role>
+    <type>Actor</type>
+    <tmdbid>71158</tmdbid>
+    <imdbid>nm0586565</imdbid>
+  </actor>
+  <actor>
+    <name>Mahershala Ali</name>
+    <role>Remy Danton</role>
+    <type>Actor</type>
+    <tmdbid>932967</tmdbid>
+    <imdbid>nm0991810</imdbid>
+  </actor>
+  <actor>
+    <name>Molly Parker</name>
+    <role>Jackie Sharp</role>
+    <type>Actor</type>
+    <tmdbid>27125</tmdbid>
+    <imdbid>nm0662504</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Marvel</name>
+    <role>Heather Dunbar</role>
+    <type>Actor</type>
+    <tmdbid>126713</tmdbid>
+    <imdbid>nm0555500</imdbid>
+  </actor>
+  <actor>
+    <name>Jimmi Simpson</name>
+    <role>Gavin Orsay</role>
+    <type>Actor</type>
+    <tmdbid>22125</tmdbid>
+    <imdbid>nm0801051</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Sparks</name>
+    <role>Thomas Yates</role>
+    <type>Actor</type>
+    <tmdbid>167564</tmdbid>
+    <imdbid>nm0817027</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Holm</name>
+    <role>Nathan Green</role>
+    <type>GuestStar</type>
+    <tmdbid>1595506</tmdbid>
+    <imdbid>nm3124435</imdbid>
+  </actor>
+  <actor>
+    <name>Eisa Davis</name>
+    <role>Cynthia Driscoll</role>
+    <type>GuestStar</type>
+    <tmdbid>91670</tmdbid>
+    <imdbid>nm0204555</imdbid>
+  </actor>
+  <director tmdbid="32" imdbid="nm0000705">Robin Wright</director>
+  <rating>8.6</rating>
+  <year>2015</year>
+  <imdbid>tt4128574</imdbid>
+  <tvdbid>5043412</tvdbid>
+  <runtime>50</runtime>
+  <genre>Drama</genre>
+  <tvrageid>1065581497</tvrageid>
+  <uniqueid type="Imdb">tt4128574</uniqueid>
+  <uniqueid type="Tvdb">5043412</uniqueid>
+  <uniqueid type="TvRage">1065581497</uniqueid>
+  <episode>12</episode>
+  <season>3</season>
+  <aired>2015-02-27</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3693157</bitrate>
+        <width>1920</width>
+        <height>960</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>49</duration>
+        <durationinseconds>2988</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

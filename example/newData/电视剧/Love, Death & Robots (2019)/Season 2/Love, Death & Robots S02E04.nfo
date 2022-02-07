@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[银河系里的每个赏金猎手都想要分得斯诺的一杯羹。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-14 09:31:53</dateadded>
+  <title>沙漠中的斯诺</title>
+  <actor>
+    <name>Zita Hanrot</name>
+    <role>Hirald (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1033625</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Franzén</name>
+    <role>Snow (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>11263</tmdbid>
+  </actor>
+  <actor>
+    <name>Alaïs Lawson</name>
+    <role>Visser (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>2051179</tmdbid>
+  </actor>
+  <actor>
+    <name>Piotr Michael</name>
+    <role>Jharit (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1449707</tmdbid>
+  </actor>
+  <actor>
+    <name>Julie Nathanson</name>
+    <role>Jharilla / Meck (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1217658</tmdbid>
+    <imdbid>nm0622291</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Whyte</name>
+    <role>Trot (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>71520</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonnie Hurn</name>
+    <role>Baris / Egan (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>93070</tmdbid>
+  </actor>
+  <actor>
+    <name>Lex Lang</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>571309</tmdbid>
+    <imdbid>nm0485670</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Pronsky</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1243782</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Ruff</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>81380</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Troop</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1354657</tmdbid>
+  </actor>
+  <actor>
+    <name>Caitlin McKenna-Wilkinson</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>59055</tmdbid>
+    <imdbid>nm0571443</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Wolf</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>94022</tmdbid>
+  </actor>
+  <director>Rémi Kozyra</director>
+  <director>Dominique Boidin</director>
+  <director>Léon Bérelle</director>
+  <director>Maxime Luère</director>
+  <rating>7.7</rating>
+  <year>2021</year>
+  <imdbid>tt14536106</imdbid>
+  <tvdbid>8376692</tvdbid>
+  <runtime>18</runtime>
+  <uniqueid type="Imdb">tt14536106</uniqueid>
+  <uniqueid type="Tvdb">8376692</uniqueid>
+  <episode>4</episode>
+  <season>2</season>
+  <aired>2021-05-14</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4893146</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>18</duration>
+        <durationinseconds>1084</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

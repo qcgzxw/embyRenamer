@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[老乔治和奶奶努力管理库珀的家庭，而玛丽计划杰夫牧师的婚礼。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-11 23:30:50</dateadded>
+  <title>一只活鸡，一只炸鸡和神圣的婚姻</title>
+  <actor>
+    <name>Iain Armitage</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1684536</tmdbid>
+    <imdbid>nm8071137</imdbid>
+  </actor>
+  <actor>
+    <name>Zoe Perry</name>
+    <role>Mary Cooper</role>
+    <type>Actor</type>
+    <tmdbid>133450</tmdbid>
+    <imdbid>nm1409365</imdbid>
+  </actor>
+  <actor>
+    <name>Lance Barber</name>
+    <role>George Cooper Sr.</role>
+    <type>Actor</type>
+    <tmdbid>1212111</tmdbid>
+    <imdbid>nm1115741</imdbid>
+  </actor>
+  <actor>
+    <name>Montana Jordan</name>
+    <role>Georgie Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1817307</tmdbid>
+    <imdbid>nm7718664</imdbid>
+  </actor>
+  <actor>
+    <name>Raegan Revord</name>
+    <role>Missy Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1575317</tmdbid>
+    <imdbid>nm6862942</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Potts</name>
+    <role>Connie Tucker</role>
+    <type>Actor</type>
+    <tmdbid>8873</tmdbid>
+    <imdbid>nm0001633</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Hobby</name>
+    <role>Jeff Difford</role>
+    <type>Actor</type>
+    <tmdbid>1536526</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Burns</name>
+    <role>Nathan</role>
+    <type>GuestStar</type>
+    <tmdbid>1218062</tmdbid>
+    <imdbid>nm0122886</imdbid>
+  </actor>
+  <actor>
+    <name>J. Rene Pena</name>
+    <role>Caroline</role>
+    <type>GuestStar</type>
+    <tmdbid>1046285</tmdbid>
+    <imdbid>nm0671554</imdbid>
+  </actor>
+  <actor>
+    <name>Mary Grill</name>
+    <role>Robin</role>
+    <type>GuestStar</type>
+    <tmdbid>1569790</tmdbid>
+    <imdbid>nm4464409</imdbid>
+  </actor>
+  <actor>
+    <name>Wyatt McClure</name>
+    <role>Billy Sparks</role>
+    <type>GuestStar</type>
+    <tmdbid>2162097</tmdbid>
+    <imdbid>nm5976411</imdbid>
+  </actor>
+  <actor>
+    <name>Ava Allan</name>
+    <role>Jana Boggs</role>
+    <type>GuestStar</type>
+    <tmdbid>1258895</tmdbid>
+    <imdbid>nm3709243</imdbid>
+  </actor>
+  <actor>
+    <name>Nancy Linehan Charles</name>
+    <role>Peg</role>
+    <type>GuestStar</type>
+    <tmdbid>110928</tmdbid>
+    <imdbid>nm0153108</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa Peterman</name>
+    <role>Brenda Sparks</role>
+    <type>GuestStar</type>
+    <tmdbid>145816</tmdbid>
+    <imdbid>nm0676292</imdbid>
+  </actor>
+  <rating>5.5</rating>
+  <year>2020</year>
+  <imdbid>tt11456930</imdbid>
+  <tvdbid>7490558</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <uniqueid type="Imdb">tt11456930</uniqueid>
+  <uniqueid type="Tvdb">7490558</uniqueid>
+  <episode>11</episode>
+  <season>3</season>
+  <aired>2020-01-09</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>16552599</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>20</duration>
+        <durationinseconds>1200</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

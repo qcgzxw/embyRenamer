@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　好友罗布要去日本工作，他的弟弟杰森和朋友莉莉为他举办了一场欢送派对。看到杰森拎着DV只顾拍摄美女玛莲娜，莉莉很恼火，指出他更加关注罗布，因为后者才是今天的主角。罗布姗姗来迟，并且感到没落。原来他跟好友贝丝的地下情刚刚告吹，这令他异常沮丧。正在此时，贝丝携新男友出现在派对现场，这令好友感到既尴尬又愤怒，而真正的地震危险正在悄悄逼近……本片故事是采用伪DV风格的拍摄而成。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-05-05 06:19:17</dateadded>
+  <title>科洛弗档案</title>
+  <originaltitle>Cloverfield</originaltitle>
+  <actor>
+    <name>Matt Reeves</name>
+    <role>Radio Announcer (voice)</role>
+    <type>Actor</type>
+    <tmdbid>32278</tmdbid>
+    <imdbid>nm0716257</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Stahl-David</name>
+    <role>Rob Hawkins</role>
+    <type>Actor</type>
+    <tmdbid>51991</tmdbid>
+    <imdbid>nm1221863</imdbid>
+  </actor>
+  <actor>
+    <name>T. J. Miller</name>
+    <role>Hudson 'Hud' Platt</role>
+    <type>Actor</type>
+    <tmdbid>51990</tmdbid>
+    <imdbid>nm2554352</imdbid>
+  </actor>
+  <actor>
+    <name>Lizzy Caplan</name>
+    <role>Marlena Diamond</role>
+    <type>Actor</type>
+    <tmdbid>51988</tmdbid>
+    <imdbid>nm0135221</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Lucas</name>
+    <role>Lily Ford</role>
+    <type>Actor</type>
+    <tmdbid>51989</tmdbid>
+    <imdbid>nm1140300</imdbid>
+  </actor>
+  <actor>
+    <name>Odette Annable</name>
+    <role>Beth McIntyre</role>
+    <type>Actor</type>
+    <tmdbid>51992</tmdbid>
+    <imdbid>nm0951148</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Vogel</name>
+    <role>Jason Hawkins</role>
+    <type>Actor</type>
+    <tmdbid>6858</tmdbid>
+    <imdbid>nm1036181</imdbid>
+  </actor>
+  <actor>
+    <name>Anjul Nigam</name>
+    <role>Bodega Cashier</role>
+    <type>Actor</type>
+    <tmdbid>51993</tmdbid>
+    <imdbid>nm0631413</imdbid>
+  </actor>
+  <actor>
+    <name>Margot Farley</name>
+    <role>Jenn</role>
+    <type>Actor</type>
+    <tmdbid>51994</tmdbid>
+    <imdbid>nm1565024</imdbid>
+  </actor>
+  <actor>
+    <name>Theo Rossi</name>
+    <role>Antonio</role>
+    <type>Actor</type>
+    <tmdbid>51995</tmdbid>
+    <imdbid>nm0744331</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Klugman</name>
+    <role>Charlie</role>
+    <type>Actor</type>
+    <tmdbid>51996</tmdbid>
+    <imdbid>nm0460206</imdbid>
+  </actor>
+  <actor>
+    <name>Kelvin Yu</name>
+    <role>Clark</role>
+    <type>Actor</type>
+    <tmdbid>51997</tmdbid>
+    <imdbid>nm0950515</imdbid>
+  </actor>
+  <actor>
+    <name>Liza Lapira</name>
+    <role>Heather</role>
+    <type>Actor</type>
+    <tmdbid>51998</tmdbid>
+    <imdbid>nm0487594</imdbid>
+  </actor>
+  <actor>
+    <name>Lili Mirojnick</name>
+    <role>Lei</role>
+    <type>Actor</type>
+    <tmdbid>51999</tmdbid>
+    <imdbid>nm2055623</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Feldman</name>
+    <role>Travis</role>
+    <type>Actor</type>
+    <tmdbid>78431</tmdbid>
+    <imdbid>nm1133651</imdbid>
+  </actor>
+  <actor>
+    <name>Elena Caruso</name>
+    <role>Party Goer</role>
+    <type>Actor</type>
+    <tmdbid>209670</tmdbid>
+    <imdbid>nm2110006</imdbid>
+  </actor>
+  <actor>
+    <name>Vakisha Coleman</name>
+    <role>Party Goer</role>
+    <type>Actor</type>
+    <tmdbid>1205127</tmdbid>
+    <imdbid>nm2475370</imdbid>
+  </actor>
+  <actor>
+    <name>Will Greenberg</name>
+    <role>Party Goer</role>
+    <type>Actor</type>
+    <tmdbid>203750</tmdbid>
+    <imdbid>nm1435603</imdbid>
+  </actor>
+  <actor>
+    <name>Rob Kerkovich</name>
+    <role>Party Goer</role>
+    <type>Actor</type>
+    <tmdbid>150209</tmdbid>
+    <imdbid>nm1827376</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Key</name>
+    <role>Party Goer</role>
+    <type>Actor</type>
+    <tmdbid>1205128</tmdbid>
+    <imdbid>nm2722078</imdbid>
+  </actor>
+  <actor>
+    <name>Hooman Khalili</name>
+    <role>Party Goer</role>
+    <type>Actor</type>
+    <tmdbid>1205129</tmdbid>
+    <imdbid>nm2557442</imdbid>
+  </actor>
+  <actor>
+    <name>Rasika Mathur</name>
+    <role>Party Goer</role>
+    <type>Actor</type>
+    <tmdbid>204460</tmdbid>
+  </actor>
+  <actor>
+    <name>Baron Vaughn</name>
+    <role>Party Goer</role>
+    <type>Actor</type>
+    <tmdbid>1187107</tmdbid>
+    <imdbid>nm2296000</imdbid>
+  </actor>
+  <actor>
+    <name>Charlyne Yi</name>
+    <role>Party Goer</role>
+    <type>Actor</type>
+    <tmdbid>93285</tmdbid>
+    <imdbid>nm2304722</imdbid>
+  </actor>
+  <actor>
+    <name>Roma Torre</name>
+    <role>Herself</role>
+    <type>Actor</type>
+    <tmdbid>162555</tmdbid>
+    <imdbid>nm0868405</imdbid>
+  </actor>
+  <actor>
+    <name>Rick Overton</name>
+    <role>Frantic Man</role>
+    <type>Actor</type>
+    <tmdbid>1539</tmdbid>
+    <imdbid>nm0653959</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Cohen</name>
+    <role>Burly Guy</role>
+    <type>Actor</type>
+    <tmdbid>328645</tmdbid>
+    <imdbid>nm0169591</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Cerbone</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>60432</tmdbid>
+    <imdbid>nm0148466</imdbid>
+  </actor>
+  <actor>
+    <name>Pasha D. Lychnikoff</name>
+    <role>Russian Man on Street</role>
+    <type>Actor</type>
+    <tmdbid>52762</tmdbid>
+    <imdbid>nm0527945</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Brown</name>
+    <role>Staff Sgt. Pryce</role>
+    <type>Actor</type>
+    <tmdbid>64805</tmdbid>
+    <imdbid>nm0113117</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Lawrence</name>
+    <role>Lead Soldier</role>
+    <type>Actor</type>
+    <tmdbid>42317</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey De Serrano</name>
+    <role>Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1016151</tmdbid>
+    <imdbid>nm1490232</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Griffin</name>
+    <role>Command Center Officer</role>
+    <type>Actor</type>
+    <tmdbid>27031</tmdbid>
+    <imdbid>nm0341377</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Mulkey</name>
+    <role>Lt. Col. Graff</role>
+    <type>Actor</type>
+    <tmdbid>15824</tmdbid>
+    <imdbid>nm0611889</imdbid>
+  </actor>
+  <actor>
+    <name>Susse Budde</name>
+    <role>Medic</role>
+    <type>Actor</type>
+    <tmdbid>62852</tmdbid>
+    <imdbid>nm1021239</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Lombard</name>
+    <role>Second Medic</role>
+    <type>Actor</type>
+    <tmdbid>565187</tmdbid>
+    <imdbid>nm1851477</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Martz</name>
+    <role>Helicopter Pilot</role>
+    <type>Actor</type>
+    <tmdbid>99764</tmdbid>
+    <imdbid>nm0554457</imdbid>
+  </actor>
+  <actor>
+    <name>Don Abernathy</name>
+    <role>New York Street Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>208360</tmdbid>
+    <imdbid>nm0008650</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Ark</name>
+    <role>Party Goer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1174981</tmdbid>
+    <imdbid>nm2731219</imdbid>
+  </actor>
+  <actor>
+    <name>Caley Bisson</name>
+    <role>Party Bartender (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1205130</tmdbid>
+    <imdbid>nm1836720</imdbid>
+  </actor>
+  <actor>
+    <name>Maylen Calienes</name>
+    <role>Frantic Girl on Bridge (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1205131</tmdbid>
+    <imdbid>nm2034529</imdbid>
+  </actor>
+  <actor>
+    <name>Craig Dabbs</name>
+    <role>Army Sgt. First Class (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1205132</tmdbid>
+    <imdbid>nm3129665</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Giffin</name>
+    <role>National Guardsman / Tank Gunner (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1205134</tmdbid>
+    <imdbid>nm2831687</imdbid>
+  </actor>
+  <actor>
+    <name>Hisonni Johnson</name>
+    <role>Party Goer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>97532</tmdbid>
+    <imdbid>nm1944193</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Karst</name>
+    <role>New Yorker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1205136</tmdbid>
+    <imdbid>nm2676231</imdbid>
+  </actor>
+  <actor>
+    <name>Julio Leal</name>
+    <role>Rocketeer / Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1205137</tmdbid>
+    <imdbid>nm1970967</imdbid>
+  </actor>
+  <actor>
+    <name>Jake McLaughlin</name>
+    <role>Helicopter Pilot (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>51683</tmdbid>
+    <imdbid>nm2474864</imdbid>
+  </actor>
+  <actor>
+    <name>Gene Richards</name>
+    <role>First Man Coughing (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>128973</tmdbid>
+    <imdbid>nm0724100</imdbid>
+  </actor>
+  <actor>
+    <name>Bertrand Roberson Jr.</name>
+    <role>Military Personnel (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>97466</tmdbid>
+    <imdbid>nm2817214</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Spinelli</name>
+    <role>Party Goer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>210849</tmdbid>
+    <imdbid>nm0818885</imdbid>
+  </actor>
+  <director tmdbid="32278" imdbid="nm0716257">Matt Reeves</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_afPFLvh2qg</trailer>
+  <rating>7</rating>
+  <year>2008</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt1060277</imdbid>
+  <tmdbid>7191</tmdbid>
+  <premiered>2008-01-15</premiered>
+  <releasedate>2008-01-15</releasedate>
+  <criticrating>78</criticrating>
+  <runtime>85</runtime>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>惊悚</genre>
+  <genre>科幻</genre>
+  <studio>Paramount</studio>
+  <studio>Bad Robot</studio>
+  <uniqueid type="Tmdb">7191</uniqueid>
+  <uniqueid type="Imdb">tt1060277</uniqueid>
+  <id>tt1060277</id>
+  <fileinfo>
+    <streamdetails>
+      <audio>
+        <codec>cook</codec>
+        <micodec>cook</micodec>
+        <bitrate>64082</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>rv40</codec>
+        <micodec>rv40</micodec>
+        <bitrate>2553045</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976105</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>84</duration>
+        <durationinseconds>5082</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,425 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[四十八岁的尼克是一个大富翁，他很富有，但精神却很空虚，他父亲在四十八生曰那天自杀的阴影一直部在他的心里。在他四十八岁生日那天，弟弟康罗送给他一张消费者娱乐服务会的游戏卡，没想到这张卡改变了他的一生。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-03-30 11:35:21</dateadded>
+  <title>心理游戏</title>
+  <originaltitle>The Game</originaltitle>
+  <actor>
+    <name>Michael Douglas</name>
+    <role>Nicholas Van Orton</role>
+    <type>Actor</type>
+    <tmdbid>3392</tmdbid>
+    <imdbid>nm0000140</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Penn</name>
+    <role>Conrad Van Orton</role>
+    <type>Actor</type>
+    <tmdbid>2228</tmdbid>
+    <imdbid>nm0000576</imdbid>
+  </actor>
+  <actor>
+    <name>Deborah Kara Unger</name>
+    <role>Christine</role>
+    <type>Actor</type>
+    <tmdbid>13549</tmdbid>
+    <imdbid>nm0000679</imdbid>
+  </actor>
+  <actor>
+    <name>James Rebhorn</name>
+    <role>Jim Feingold</role>
+    <type>Actor</type>
+    <tmdbid>8986</tmdbid>
+    <imdbid>nm0714310</imdbid>
+  </actor>
+  <actor>
+    <name>Spike Jonze</name>
+    <role>Airbag EMT Beltran</role>
+    <type>Actor</type>
+    <tmdbid>5953</tmdbid>
+    <imdbid>nm0005069</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Katarina</name>
+    <role>Elizabeth</role>
+    <type>Actor</type>
+    <tmdbid>27570</tmdbid>
+    <imdbid>nm2034297</imdbid>
+  </actor>
+  <actor>
+    <name>Armin Mueller-Stahl</name>
+    <role>Anson Baer</role>
+    <type>Actor</type>
+    <tmdbid>12647</tmdbid>
+    <imdbid>nm0000090</imdbid>
+  </actor>
+  <actor>
+    <name>Carroll Baker</name>
+    <role>Ilsa</role>
+    <type>Actor</type>
+    <tmdbid>14701</tmdbid>
+    <imdbid>nm0004647</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Hunter McGuire</name>
+    <role>Young Nicholas</role>
+    <type>Actor</type>
+    <tmdbid>1075080</tmdbid>
+    <imdbid>nm0570286</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Dennehy</name>
+    <role>Maria</role>
+    <type>Actor</type>
+    <tmdbid>154954</tmdbid>
+    <imdbid>nm0219324</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Schorr</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>553720</tmdbid>
+    <imdbid>nm0774897</imdbid>
+  </actor>
+  <actor>
+    <name>John Aprea</name>
+    <role>Power Executive</role>
+    <type>Actor</type>
+    <tmdbid>104504</tmdbid>
+    <imdbid>nm0032501</imdbid>
+  </actor>
+  <actor>
+    <name>Charles Martinet</name>
+    <role>Nicholas' Father</role>
+    <type>Actor</type>
+    <tmdbid>176340</tmdbid>
+    <imdbid>nm0553409</imdbid>
+  </actor>
+  <actor>
+    <name>Caroline Barclay</name>
+    <role>Maggie</role>
+    <type>Actor</type>
+    <tmdbid>178446</tmdbid>
+    <imdbid>nm0054026</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Donat</name>
+    <role>Samuel Sutherland</role>
+    <type>Actor</type>
+    <tmdbid>14849</tmdbid>
+    <imdbid>nm0232194</imdbid>
+  </actor>
+  <actor>
+    <name>Florentine Mocanu</name>
+    <role>Nicholas' Mother</role>
+    <type>Actor</type>
+    <tmdbid>1075081</tmdbid>
+    <imdbid>nm0595053</imdbid>
+  </actor>
+  <actor>
+    <name>Kimberly Russell</name>
+    <role>Cynthia, CRS Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>65397</tmdbid>
+    <imdbid>nm0751274</imdbid>
+  </actor>
+  <actor>
+    <name>Gerry Becker</name>
+    <role>New Member Ted</role>
+    <type>Actor</type>
+    <tmdbid>19468</tmdbid>
+    <imdbid>nm0065418</imdbid>
+  </actor>
+  <actor>
+    <name>Jarion Monroe</name>
+    <role>New Member Victor</role>
+    <type>Actor</type>
+    <tmdbid>1502237</tmdbid>
+    <imdbid>nm0598512</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Frank</name>
+    <role>CRS Data Collating Technician</role>
+    <type>Actor</type>
+    <tmdbid>1615294</tmdbid>
+  </actor>
+  <actor>
+    <name>Harrison Young</name>
+    <role>Obsequious Executive</role>
+    <type>Actor</type>
+    <tmdbid>51931</tmdbid>
+    <imdbid>nm0949599</imdbid>
+  </actor>
+  <actor>
+    <name>Tommy Flanagan</name>
+    <role>Solicitor / Taxi Driver</role>
+    <type>Actor</type>
+    <tmdbid>2478</tmdbid>
+    <imdbid>nm0281107</imdbid>
+  </actor>
+  <actor>
+    <name>Kat Kilkenny</name>
+    <role>Rattle Gatherer</role>
+    <type>Actor</type>
+    <tmdbid>1876078</tmdbid>
+  </actor>
+  <actor>
+    <name>John Cassini</name>
+    <role>Man in Airport</role>
+    <type>Actor</type>
+    <tmdbid>12055</tmdbid>
+    <imdbid>nm0144307</imdbid>
+  </actor>
+  <actor>
+    <name>Harris Savides</name>
+    <role>Ankles</role>
+    <type>Actor</type>
+    <tmdbid>10688</tmdbid>
+    <imdbid>nm0767647</imdbid>
+  </actor>
+  <actor>
+    <name>Victor Talmadge</name>
+    <role>City Club Maitre D'</role>
+    <type>Actor</type>
+    <tmdbid>1240492</tmdbid>
+    <imdbid>nm0848237</imdbid>
+  </actor>
+  <actor>
+    <name>Keena Turner</name>
+    <role>Officer Hicks</role>
+    <type>Actor</type>
+    <tmdbid>1876097</tmdbid>
+  </actor>
+  <actor>
+    <name>Owen Masterson</name>
+    <role>Pickpocket</role>
+    <type>Actor</type>
+    <tmdbid>1744139</tmdbid>
+    <imdbid>nm0557749</imdbid>
+  </actor>
+  <actor>
+    <name>Yuji Okumoto</name>
+    <role>Nikko Hotel Manager</role>
+    <type>Actor</type>
+    <tmdbid>56120</tmdbid>
+    <imdbid>nm0645785</imdbid>
+  </actor>
+  <actor>
+    <name>Hideo Kimura</name>
+    <role>Nikko Hotel Bellhop</role>
+    <type>Actor</type>
+    <tmdbid>1775866</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Flanagan</name>
+    <role>Nikko Hotel Maid</role>
+    <type>Actor</type>
+    <tmdbid>1114784</tmdbid>
+    <imdbid>nm0769574</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Boone Junior</name>
+    <role>Shady Private Investigator</role>
+    <type>Actor</type>
+    <tmdbid>534</tmdbid>
+    <imdbid>nm0095478</imdbid>
+  </actor>
+  <actor>
+    <name>Joy Ann Ryan</name>
+    <role>Kaleigh Baer</role>
+    <type>Actor</type>
+    <tmdbid>1876132</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Kehoe</name>
+    <role>Lieutenant Sullivan</role>
+    <type>Actor</type>
+    <tmdbid>1273</tmdbid>
+    <imdbid>nm0444955</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher John Fields</name>
+    <role>Detective Boyle</role>
+    <type>Actor</type>
+    <tmdbid>145531</tmdbid>
+    <imdbid>nm0276211</imdbid>
+  </actor>
+  <actor>
+    <name>Linda Manz</name>
+    <role>Christine's Roomate Amy</role>
+    <type>Actor</type>
+    <tmdbid>3011</tmdbid>
+    <imdbid>nm0544371</imdbid>
+  </actor>
+  <actor>
+    <name>Duffy Gaver</name>
+    <role>Assassin Brodi</role>
+    <type>Actor</type>
+    <tmdbid>1646992</tmdbid>
+    <imdbid>nm0310484</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Stephenson</name>
+    <role>Assassin Kartmann</role>
+    <type>Actor</type>
+    <tmdbid>17449</tmdbid>
+    <imdbid>nm0827307</imdbid>
+  </actor>
+  <actor>
+    <name>John Hammil</name>
+    <role>U.S. Embassy Counselor</role>
+    <type>Actor</type>
+    <tmdbid>1390442</tmdbid>
+    <imdbid>nm0358610</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel Steinberg</name>
+    <role>Sheraton Desk Clerk</role>
+    <type>Actor</type>
+    <tmdbid>1876156</tmdbid>
+  </actor>
+  <actor>
+    <name>George Maguire</name>
+    <role>Sheraton Manager</role>
+    <type>Actor</type>
+    <tmdbid>1129738</tmdbid>
+    <imdbid>nm0536574</imdbid>
+  </actor>
+  <actor>
+    <name>Trish Summerville</name>
+    <role>Hot Waitress</role>
+    <type>Actor</type>
+    <tmdbid>1002919</tmdbid>
+    <imdbid>nm0838844</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Kristofer</name>
+    <role>Teen Thug</role>
+    <type>Actor</type>
+    <tmdbid>1328752</tmdbid>
+    <imdbid>nm0471687</imdbid>
+  </actor>
+  <actor>
+    <name>Charles Branklyn</name>
+    <role>CRS Guard</role>
+    <type>Actor</type>
+    <tmdbid>1876202</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Massee</name>
+    <role>Airbag EMT Galliano</role>
+    <type>Actor</type>
+    <tmdbid>9289</tmdbid>
+    <imdbid>nm0557219</imdbid>
+  </actor>
+  <actor>
+    <name>J. Anthony Pena</name>
+    <role>CRS Security Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>167316</tmdbid>
+    <imdbid>nm0671545</imdbid>
+  </actor>
+  <actor>
+    <name>Lily Froehlich</name>
+    <role>New Moon Cafe Manager</role>
+    <type>Actor</type>
+    <tmdbid>1814830</tmdbid>
+    <imdbid>nm0296182</imdbid>
+  </actor>
+  <director tmdbid="7467" imdbid="nm0000399">David Fincher</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bQow7nT-dkQ</trailer>
+  <rating>7.8</rating>
+  <year>1997</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0119174</imdbid>
+  <tmdbid>2649</tmdbid>
+  <premiered>1997-09-12</premiered>
+  <releasedate>1997-09-12</releasedate>
+  <criticrating>76</criticrating>
+  <runtime>129</runtime>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <genre>悬疑</genre>
+  <studio>PolyGram Filmed Entertainment</studio>
+  <studio>Propaganda Films</studio>
+  <uniqueid type="Tmdb">2649</uniqueid>
+  <uniqueid type="Imdb">tt0119174</uniqueid>
+  <id>tt0119174</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4229654</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>128</duration>
+        <durationinseconds>7728</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

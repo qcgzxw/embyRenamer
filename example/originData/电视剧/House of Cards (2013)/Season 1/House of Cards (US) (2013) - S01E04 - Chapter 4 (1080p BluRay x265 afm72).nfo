@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[　　汤姆的言辞没有通过公司老板玛格丽特那关，佐伊依然被留了下来，雷米找到克莱尔称桑科工业恢复捐款即将与其重新合作，但弗兰克并不赞成这样危险的做法。弗兰克勒令罗素来号召12个人参加选举，狠狠地“回报”了一下议员大卫。弗兰克告诉佐伊仍需要其辅助，佐伊自知不会接受白宫的工作，与上司发生争执被炒鱿鱼。另一方面弗兰克透露给鲍勃消息，挑起两派争端。 ]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-24 07:18:54</dateadded>
+  <title>第 4 集</title>
+  <actor>
+    <name>Kevin Spacey</name>
+    <role>Frank Underwood</role>
+    <type>Actor</type>
+    <tmdbid>1979</tmdbid>
+    <imdbid>nm0000228</imdbid>
+  </actor>
+  <actor>
+    <name>Robin Wright</name>
+    <role>Claire Underwood</role>
+    <type>Actor</type>
+    <tmdbid>32</tmdbid>
+    <imdbid>nm0000705</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Kelly</name>
+    <role>Doug Stamper</role>
+    <type>Actor</type>
+    <tmdbid>50217</tmdbid>
+    <imdbid>nm0446672</imdbid>
+  </actor>
+  <actor>
+    <name>Kristen Connolly</name>
+    <role>Christina Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>210824</tmdbid>
+    <imdbid>nm1393354</imdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Arcelus</name>
+    <role>Lucas Goodwin</role>
+    <type>Actor</type>
+    <tmdbid>103545</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathan Darrow</name>
+    <role>Edward Meechum</role>
+    <type>Actor</type>
+    <tmdbid>1224255</tmdbid>
+    <imdbid>nm2080557</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Mara</name>
+    <role>Zoe Barnes</role>
+    <type>Actor</type>
+    <tmdbid>51072</tmdbid>
+  </actor>
+  <actor>
+    <name>Constance Zimmer</name>
+    <role>Janine Skorsky</role>
+    <type>Actor</type>
+    <tmdbid>156204</tmdbid>
+    <imdbid>nm0956603</imdbid>
+  </actor>
+  <actor>
+    <name>Sakina Jaffrey</name>
+    <role>Linda Vasquez</role>
+    <type>Actor</type>
+    <tmdbid>34200</tmdbid>
+  </actor>
+  <actor>
+    <name>Michel Gill</name>
+    <role>Garrett Walker</role>
+    <type>Actor</type>
+    <tmdbid>1224256</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Brosnahan</name>
+    <role>Rachel Posner</role>
+    <type>Actor</type>
+    <tmdbid>993774</tmdbid>
+    <imdbid>nm3014031</imdbid>
+  </actor>
+  <actor>
+    <name>Boris McGiver</name>
+    <role>Tom Hammerschmidt</role>
+    <type>Actor</type>
+    <tmdbid>151432</tmdbid>
+    <imdbid>nm0569409</imdbid>
+  </actor>
+  <actor>
+    <name>Corey Stoll</name>
+    <role>Peter Russo</role>
+    <type>Actor</type>
+    <tmdbid>74541</tmdbid>
+  </actor>
+  <actor>
+    <name>Mahershala Ali</name>
+    <role>Remy Danton</role>
+    <type>Actor</type>
+    <tmdbid>932967</tmdbid>
+    <imdbid>nm0991810</imdbid>
+  </actor>
+  <actor>
+    <name>Chance Kelly</name>
+    <role>Steve</role>
+    <type>Actor</type>
+    <tmdbid>17194</tmdbid>
+    <imdbid>nm0446257</imdbid>
+  </actor>
+  <actor>
+    <name>Reg E. Cathey</name>
+    <role>Freddy</role>
+    <type>GuestStar</type>
+    <tmdbid>38951</tmdbid>
+    <imdbid>nm0146146</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Daniels</name>
+    <role>Adam Galloway</role>
+    <type>GuestStar</type>
+    <tmdbid>27632</tmdbid>
+    <imdbid>nm0199842</imdbid>
+  </actor>
+  <actor>
+    <name>Sandrine Holt</name>
+    <role>Gillian Cole</role>
+    <type>GuestStar</type>
+    <tmdbid>65345</tmdbid>
+  </actor>
+  <actor>
+    <name>Larry Pine</name>
+    <role>Bob Birch</role>
+    <type>GuestStar</type>
+    <tmdbid>19511</tmdbid>
+  </actor>
+  <rating>7.3</rating>
+  <year>2013</year>
+  <imdbid>tt2248422</imdbid>
+  <tvdbid>4481710</tvdbid>
+  <runtime>49</runtime>
+  <genre>Drama</genre>
+  <tvrageid>1065274660</tvrageid>
+  <uniqueid type="Imdb">tt2248422</uniqueid>
+  <uniqueid type="Tvdb">4481710</uniqueid>
+  <uniqueid type="TvRage">1065274660</uniqueid>
+  <episode>4</episode>
+  <season>1</season>
+  <aired>2013-02-01</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3831483</bitrate>
+        <width>1920</width>
+        <height>962</height>
+        <aspect>960:481</aspect>
+        <aspectratio>960:481</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>48</duration>
+        <durationinseconds>2936</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

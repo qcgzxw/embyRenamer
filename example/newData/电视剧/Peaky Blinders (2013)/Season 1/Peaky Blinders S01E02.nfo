@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[警察在街上肆意搜捕共产党，弗雷迪匆忙将艾达藏在多诺万夫人处。坎贝尔到教堂查找武器，却遭到波莉的戏弄。汤米领导众人焚烧国王画像，并找来记者将此发报。艾达声称自己不会打掉孩子，相信孩子的父亲一定会回来。汤米应约见坎贝尔，他以武器威胁，终于与坎贝尔谈成交易。格蕾丝接到坎贝尔的命令，不惜一切代价的接近汤米。正当艾达决定开始重新生活时，弗雷迪却赶了回来，并向艾达求婚。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-05-16 20:57:44</dateadded>
+  <title>第 2 集</title>
+  <actor>
+    <name>Cillian Murphy</name>
+    <role>Tommy Shelby</role>
+    <type>Actor</type>
+    <tmdbid>2037</tmdbid>
+    <imdbid>nm0614165</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Anderson</name>
+    <role>Arthur Shelby</role>
+    <type>Actor</type>
+    <tmdbid>220448</tmdbid>
+    <imdbid>nm2167957</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Cole</name>
+    <role>John Shelby</role>
+    <type>Actor</type>
+    <tmdbid>1081875</tmdbid>
+    <imdbid>nm3771184</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Neill</name>
+    <role>C.I. Chester Campbell</role>
+    <type>Actor</type>
+    <tmdbid>4783</tmdbid>
+    <imdbid>nm0000554</imdbid>
+  </actor>
+  <actor>
+    <name>Iddo Goldberg</name>
+    <role>Freddie Thorne</role>
+    <type>Actor</type>
+    <tmdbid>94958</tmdbid>
+    <imdbid>nm0325221</imdbid>
+  </actor>
+  <actor>
+    <name>Helen McCrory</name>
+    <role>Polly Gray</role>
+    <type>Actor</type>
+    <tmdbid>15737</tmdbid>
+    <imdbid>nm0567031</imdbid>
+  </actor>
+  <actor>
+    <name>Sophie Rundle</name>
+    <role>Ada Shelby</role>
+    <type>Actor</type>
+    <tmdbid>1088620</tmdbid>
+    <imdbid>nm2570706</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Pitts</name>
+    <role>Sergeant Moss</role>
+    <type>Actor</type>
+    <tmdbid>1229255</tmdbid>
+  </actor>
+  <actor>
+    <name>Ned Dennehy</name>
+    <role>Charlie Strong</role>
+    <type>Actor</type>
+    <tmdbid>63362</tmdbid>
+  </actor>
+  <actor>
+    <name>Annabelle Wallis</name>
+    <role>Grace Burgess</role>
+    <type>Actor</type>
+    <tmdbid>82809</tmdbid>
+    <imdbid>nm1834115</imdbid>
+  </actor>
+  <actor>
+    <name>Lorraine Horgan</name>
+    <role>Mrs. Donovan</role>
+    <type>GuestStar</type>
+    <tmdbid>2370719</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonty Stephens</name>
+    <role>Reporter</role>
+    <type>GuestStar</type>
+    <tmdbid>1466857</tmdbid>
+  </actor>
+  <actor>
+    <name>David Dawson</name>
+    <role>Roberts</role>
+    <type>GuestStar</type>
+    <tmdbid>1244412</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Creed-Miles</name>
+    <role>Billy Kimber</role>
+    <type>GuestStar</type>
+    <tmdbid>8397</tmdbid>
+  </actor>
+  <actor>
+    <name>Neil Bell</name>
+    <role>Harry Fenton</role>
+    <type>GuestStar</type>
+    <tmdbid>178629</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Nyman</name>
+    <role>Winston Churchill</role>
+    <type>GuestStar</type>
+    <tmdbid>22810</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfie Evans-Meese</name>
+    <role>Finn Shelby</role>
+    <type>GuestStar</type>
+    <tmdbid>2370703</tmdbid>
+  </actor>
+  <actor>
+    <name>Packy Lee</name>
+    <role>Johnny Dogs</role>
+    <type>GuestStar</type>
+    <tmdbid>211610</tmdbid>
+    <imdbid>nm0497970</imdbid>
+  </actor>
+  <actor>
+    <name>Ian Peck</name>
+    <role>Curly</role>
+    <type>GuestStar</type>
+    <tmdbid>208467</tmdbid>
+  </actor>
+  <director>Otto Bathurst</director>
+  <rating>8.2</rating>
+  <year>2013</year>
+  <imdbid>tt2471502</imdbid>
+  <tvdbid>4652814</tvdbid>
+  <runtime>59</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <tvrageid>1065375348</tvrageid>
+  <uniqueid type="Imdb">tt2471502</uniqueid>
+  <uniqueid type="Tvdb">4652814</uniqueid>
+  <uniqueid type="TvRage">1065375348</uniqueid>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2013-09-19</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9669762</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>58</duration>
+        <durationinseconds>3525</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

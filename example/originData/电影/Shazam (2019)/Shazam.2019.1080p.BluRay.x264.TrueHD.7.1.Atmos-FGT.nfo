@@ -1,0 +1,817 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[每个人身体里都潜藏着一位超级英雄，只需要一点魔力便能将其释放。14岁的街头小混混比利·巴特森(亚瑟·安其饰)通过大喊“沙赞”这个词，就可以变身为成年超级英雄沙赞(扎克瑞·莱维饰)，这是一种来自于古老巫师的恩惠。如神一般的肌肉身体里，仍存有一颗孩子心，他开心地与超能力为伴。他能飞吗？他能X光透视吗？他能从手中射出闪电吗？他能不用再考试了吗？沙赞以孩子般轻率又鲁莽的方式，开始测试他的能力极限。但他需要尽快掌握这些力量，以对抗塞迪斯·希瓦纳博士控制的邪恶势力。]]></plot>
+  <outline><![CDATA[超萌正太秒变超级英雄 天赐视力爆笑拯救世界]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2019-07-09 15:56:33</dateadded>
+  <title>雷霆沙赞</title>
+  <originaltitle>Shazam!</originaltitle>
+  <actor>
+    <name>Zachary Levi</name>
+    <role>Shazam</role>
+    <type>Actor</type>
+    <tmdbid>69899</tmdbid>
+    <imdbid>nm1157048</imdbid>
+  </actor>
+  <actor>
+    <name>Asher Angel</name>
+    <role>Billy Batson</role>
+    <type>Actor</type>
+    <tmdbid>1768966</tmdbid>
+    <imdbid>nm4755508</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Strong</name>
+    <role>Doctor Thaddeus  Sivana</role>
+    <type>Actor</type>
+    <tmdbid>2983</tmdbid>
+    <imdbid>nm0835016</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Dylan Grazer</name>
+    <role>Freddy Freeman</role>
+    <type>Actor</type>
+    <tmdbid>1774679</tmdbid>
+    <imdbid>nm6244013</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Brody</name>
+    <role>Super Hero Freddy</role>
+    <type>Actor</type>
+    <tmdbid>11702</tmdbid>
+    <imdbid>nm0111013</imdbid>
+  </actor>
+  <actor>
+    <name>Faithe Herman</name>
+    <role>Darla Dudley</role>
+    <type>Actor</type>
+    <tmdbid>1726891</tmdbid>
+    <imdbid>nm7968936</imdbid>
+  </actor>
+  <actor>
+    <name>Meagan Good</name>
+    <role>Super Hero Darla</role>
+    <type>Actor</type>
+    <tmdbid>22122</tmdbid>
+    <imdbid>nm0328709</imdbid>
+  </actor>
+  <actor>
+    <name>Grace Fulton</name>
+    <role>Mary Bromfield</role>
+    <type>Actor</type>
+    <tmdbid>54633</tmdbid>
+    <imdbid>nm1534201</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Borth</name>
+    <role>Super Hero Mary</role>
+    <type>Actor</type>
+    <tmdbid>101028</tmdbid>
+    <imdbid>nm1218924</imdbid>
+  </actor>
+  <actor>
+    <name>Ian Chen</name>
+    <role>Eugene Choi</role>
+    <type>Actor</type>
+    <tmdbid>1397359</tmdbid>
+    <imdbid>nm6373728</imdbid>
+  </actor>
+  <actor>
+    <name>Ross Butler</name>
+    <role>Super Hero Eugene</role>
+    <type>Actor</type>
+    <tmdbid>1299232</tmdbid>
+    <imdbid>nm5224900</imdbid>
+  </actor>
+  <actor>
+    <name>Jovan Armand</name>
+    <role>Pedro Peña</role>
+    <type>Actor</type>
+    <tmdbid>1940197</tmdbid>
+    <imdbid>nm3578916</imdbid>
+  </actor>
+  <actor>
+    <name>D.J. Cotrona</name>
+    <role>Super Hero Pedro</role>
+    <type>Actor</type>
+    <tmdbid>51976</tmdbid>
+    <imdbid>nm1366616</imdbid>
+  </actor>
+  <actor>
+    <name>Marta Milans</name>
+    <role>Rosa Vasquez</role>
+    <type>Actor</type>
+    <tmdbid>1181306</tmdbid>
+    <imdbid>nm2803689</imdbid>
+  </actor>
+  <actor>
+    <name>Cooper Andrews</name>
+    <role>Victor Vasquez</role>
+    <type>Actor</type>
+    <tmdbid>111698</tmdbid>
+    <imdbid>nm2415276</imdbid>
+  </actor>
+  <actor>
+    <name>Djimon Hounsou</name>
+    <role>The Wizard</role>
+    <type>Actor</type>
+    <tmdbid>938</tmdbid>
+    <imdbid>nm0005023</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Pugiotto</name>
+    <role>Dr. Thaddeus Sivana (1974)</role>
+    <type>Actor</type>
+    <tmdbid>1639977</tmdbid>
+    <imdbid>nm7500354</imdbid>
+  </actor>
+  <actor>
+    <name>John Glover</name>
+    <role>Sivana's Father</role>
+    <type>Actor</type>
+    <tmdbid>5589</tmdbid>
+    <imdbid>nm0001278</imdbid>
+  </actor>
+  <actor>
+    <name>Landon Doak</name>
+    <role>Sid Sivana (1974)</role>
+    <type>Actor</type>
+    <tmdbid>2310745</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Braunstein</name>
+    <role>Officer #1</role>
+    <type>Actor</type>
+    <tmdbid>948533</tmdbid>
+    <imdbid>nm0105951</imdbid>
+  </actor>
+  <actor>
+    <name>Nadine Roden</name>
+    <role>Officer #2</role>
+    <type>Actor</type>
+    <tmdbid>1896522</tmdbid>
+    <imdbid>nm0734562</imdbid>
+  </actor>
+  <actor>
+    <name>David Kohlsmith</name>
+    <role>Young Billy</role>
+    <type>Actor</type>
+    <tmdbid>1994215</tmdbid>
+    <imdbid>nm9680027</imdbid>
+  </actor>
+  <actor>
+    <name>Caroline Palmer</name>
+    <role>Billy's Mom</role>
+    <type>Actor</type>
+    <tmdbid>1482440</tmdbid>
+    <imdbid>nm5699124</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Nixon</name>
+    <role>Woman in Red Coat</role>
+    <type>Actor</type>
+    <tmdbid>2009135</tmdbid>
+    <imdbid>nm7046891</imdbid>
+  </actor>
+  <actor>
+    <name>Carson MacCormac</name>
+    <role>Brett Bryer</role>
+    <type>Actor</type>
+    <tmdbid>1857464</tmdbid>
+    <imdbid>nm8288217</imdbid>
+  </actor>
+  <actor>
+    <name>Lotta Losten</name>
+    <role>Dr. Lynn Crosby</role>
+    <type>Actor</type>
+    <tmdbid>1302131</tmdbid>
+    <imdbid>nm5519415</imdbid>
+  </actor>
+  <actor>
+    <name>Andi Osho</name>
+    <role>Ms. E.B. Glover</role>
+    <type>Actor</type>
+    <tmdbid>1659211</tmdbid>
+    <imdbid>nm1450877</imdbid>
+  </actor>
+  <actor>
+    <name>Natalia Safran</name>
+    <role>Mrs. Sivana (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>20755</tmdbid>
+    <imdbid>nm0418853</imdbid>
+  </actor>
+  <actor>
+    <name>David J. MacNeil</name>
+    <role>Mr. Breyer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1941314</tmdbid>
+    <imdbid>nm1207183</imdbid>
+  </actor>
+  <actor>
+    <name>Lou Lou Safran</name>
+    <role>Sivana's Twin Sisters - 12 Yrs Old (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1669169</tmdbid>
+    <imdbid>nm7899930</imdbid>
+  </actor>
+  <actor>
+    <name>Ava Preston</name>
+    <role>Lillian Price (Interviewee)</role>
+    <type>Actor</type>
+    <tmdbid>1723918</tmdbid>
+    <imdbid>nm4159350</imdbid>
+  </actor>
+  <actor>
+    <name>Manuel Rodriguez-Saenz</name>
+    <role>Luis Pichardo (Interviewee)</role>
+    <type>Actor</type>
+    <tmdbid>1994213</tmdbid>
+    <imdbid>nm3923661</imdbid>
+  </actor>
+  <actor>
+    <name>Ali Badshah</name>
+    <role>Mehmet Kotil (Interviewee)</role>
+    <type>Actor</type>
+    <tmdbid>1739122</tmdbid>
+    <imdbid>nm2428447</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Northwood</name>
+    <role>Pissed Off Phone Owner</role>
+    <type>Actor</type>
+    <tmdbid>43284</tmdbid>
+    <imdbid>nm0636142</imdbid>
+  </actor>
+  <actor>
+    <name>Lovina Yavari</name>
+    <role>Store Clerk</role>
+    <type>Actor</type>
+    <tmdbid>1881104</tmdbid>
+    <imdbid>nm4145450</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel Boyd</name>
+    <role>Senior Girl</role>
+    <type>Actor</type>
+    <tmdbid>2284635</tmdbid>
+    <imdbid>nm6870972</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Pagiamtzis</name>
+    <role>Night Club Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1887791</tmdbid>
+    <imdbid>nm7458115</imdbid>
+  </actor>
+  <actor>
+    <name>Raul Torres</name>
+    <role>Pedrestian</role>
+    <type>Actor</type>
+    <tmdbid>1906145</tmdbid>
+  </actor>
+  <actor>
+    <name>Jhaleil Swaby</name>
+    <role>Passing Teen</role>
+    <type>Actor</type>
+    <tmdbid>1993743</tmdbid>
+    <imdbid>nm6344635</imdbid>
+  </actor>
+  <actor>
+    <name>Jackson Reid</name>
+    <role>Little Boy</role>
+    <type>Actor</type>
+    <tmdbid>2005750</tmdbid>
+    <imdbid>nm9718196</imdbid>
+  </actor>
+  <actor>
+    <name>Bryce Arden Poe</name>
+    <role>Student #2</role>
+    <type>Actor</type>
+    <tmdbid>2037558</tmdbid>
+    <imdbid>nm8740587</imdbid>
+  </actor>
+  <actor>
+    <name>Tosh Robertson</name>
+    <role>Student #3</role>
+    <type>Actor</type>
+    <tmdbid>2010882</tmdbid>
+    <imdbid>nm3369153</imdbid>
+  </actor>
+  <actor>
+    <name>Pearl Ho</name>
+    <role>Carnival Goer #2</role>
+    <type>Actor</type>
+    <tmdbid>2022034</tmdbid>
+    <imdbid>nm7646574</imdbid>
+  </actor>
+  <actor>
+    <name>Cassandra Ebner</name>
+    <role>Bus Passenger #3</role>
+    <type>Actor</type>
+    <tmdbid>1281629</tmdbid>
+    <imdbid>nm5071850</imdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Hawkins</name>
+    <role>Bus Passenger #7</role>
+    <type>Actor</type>
+    <tmdbid>2093827</tmdbid>
+  </actor>
+  <actor>
+    <name>Angelica Lisk-Hann</name>
+    <role>Bus Passenger #2</role>
+    <type>Actor</type>
+    <tmdbid>2041867</tmdbid>
+    <imdbid>nm0514076</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse Bond</name>
+    <role>Father at Carnival</role>
+    <type>Actor</type>
+    <tmdbid>1021545</tmdbid>
+    <imdbid>nm0093957</imdbid>
+  </actor>
+  <actor>
+    <name>Harper Gunn</name>
+    <role>Little Girl at Carnival</role>
+    <type>Actor</type>
+    <tmdbid>1639984</tmdbid>
+    <imdbid>nm7938143</imdbid>
+  </actor>
+  <actor>
+    <name>Evan Marsh</name>
+    <role>Burke Breyer</role>
+    <type>Actor</type>
+    <tmdbid>1883593</tmdbid>
+    <imdbid>nm7360194</imdbid>
+  </actor>
+  <actor>
+    <name>Kerri Kamara</name>
+    <role>Attractive Lady</role>
+    <type>Actor</type>
+    <tmdbid>2093823</tmdbid>
+    <imdbid>nm10005843</imdbid>
+  </actor>
+  <actor>
+    <name>Leon Oliveira Martins</name>
+    <role>Man at Carnival</role>
+    <type>Actor</type>
+    <tmdbid>2275601</tmdbid>
+  </actor>
+  <actor>
+    <name>Nilce Moretto</name>
+    <role>Woman at Carnival</role>
+    <type>Actor</type>
+    <tmdbid>2275602</tmdbid>
+  </actor>
+  <actor>
+    <name>David F. Sandberg</name>
+    <role>Mr Mind (Voice)/ The Husband (Voice) / Gangster Crocodile-Men (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1302082</tmdbid>
+    <imdbid>nm2497546</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Handley</name>
+    <role>Superman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2072200</tmdbid>
+    <imdbid>nm6319550</imdbid>
+  </actor>
+  <actor>
+    <name>Wayne Ward</name>
+    <role>Sid Sivana</role>
+    <type>Actor</type>
+    <tmdbid>1474854</tmdbid>
+    <imdbid>nm0911916</imdbid>
+  </actor>
+  <actor>
+    <name>Pamela Matthews</name>
+    <role>Interviewee</role>
+    <type>Actor</type>
+    <tmdbid>730171</tmdbid>
+    <imdbid>nm0200490</imdbid>
+  </actor>
+  <actor>
+    <name>Allison Brennan</name>
+    <role>Cissie Sommerly</role>
+    <type>Actor</type>
+    <tmdbid>937793</tmdbid>
+    <imdbid>nm2803252</imdbid>
+  </actor>
+  <actor>
+    <name>Lisa Truong</name>
+    <role>Ms. Kwan</role>
+    <type>Actor</type>
+    <tmdbid>1909927</tmdbid>
+    <imdbid>nm6415923</imdbid>
+  </actor>
+  <actor>
+    <name>Bill R. Dean</name>
+    <role>Batman Toy (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1395023</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Blum</name>
+    <role>Seven Deadly Sins (voice)</role>
+    <type>Actor</type>
+    <tmdbid>571562</tmdbid>
+    <imdbid>nm0089710</imdbid>
+  </actor>
+  <actor>
+    <name>Darin De Paul</name>
+    <role>Seven Deadly Sins (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1352628</tmdbid>
+    <imdbid>nm0210875</imdbid>
+  </actor>
+  <actor>
+    <name>Fred Tatasciore</name>
+    <role>Seven Deadly Sins (voice)</role>
+    <type>Actor</type>
+    <tmdbid>60279</tmdbid>
+    <imdbid>nm0851317</imdbid>
+  </actor>
+  <actor>
+    <name>Tabitha Tao</name>
+    <role>Interviewee</role>
+    <type>Actor</type>
+    <tmdbid>2768142</tmdbid>
+    <imdbid>nm5408297</imdbid>
+  </actor>
+  <actor>
+    <name>Seth Green</name>
+    <role>friend (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>13922</tmdbid>
+    <imdbid>nm0001293</imdbid>
+  </actor>
+  <actor>
+    <name>David Choi</name>
+    <role>Man on bus</role>
+    <type>Actor</type>
+    <tmdbid>2494286</tmdbid>
+    <imdbid>nm5101922</imdbid>
+  </actor>
+  <actor>
+    <name>Allen Keng</name>
+    <role>Bus Passenger</role>
+    <type>Actor</type>
+    <tmdbid>1470370</tmdbid>
+    <imdbid>nm1357275</imdbid>
+  </actor>
+  <director tmdbid="1302082" imdbid="nm2497546">David F. Sandberg</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=go6GEIrcvFY</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uilJZZ_iVwY</trailer>
+  <rating>7</rating>
+  <year>2019</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt0448115</imdbid>
+  <tmdbid>287947</tmdbid>
+  <premiered>2019-03-29</premiered>
+  <releasedate>2019-03-29</releasedate>
+  <criticrating>90</criticrating>
+  <runtime>132</runtime>
+  <tagline>超萌正太秒变超级英雄 天赐视力爆笑拯救世界</tagline>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>喜剧</genre>
+  <genre>奇幻</genre>
+  <studio>DC Entertainment</studio>
+  <studio>DC Comics</studio>
+  <studio>New Line Cinema</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>The Safran Company</studio>
+  <studio>Seven Bucks Productions</studio>
+  <studio>DC Films</studio>
+  <set tmdbcolid="724848">
+    <name>雷霆沙赞（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">287947</uniqueid>
+  <uniqueid type="Imdb">tt0448115</uniqueid>
+  <id>tt0448115</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>16089060</bitrate>
+        <width>1920</width>
+        <height>804</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>131</duration>
+        <durationinseconds>7903</durationinseconds>
+      </video>
+      <audio>
+        <codec>truehd</codec>
+        <micodec>truehd</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>bul</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>est</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>lav</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>lit</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>slv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>tel</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>tam</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

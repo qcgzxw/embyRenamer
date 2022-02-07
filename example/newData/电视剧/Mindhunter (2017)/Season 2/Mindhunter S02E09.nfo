@@ -1,0 +1,602 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[调查结果收缩到一名主要嫌疑人，此人出人意料地善于操纵复杂不安的局势以从中获益。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-06 15:24:38</dateadded>
+  <title>第 9 集</title>
+  <originaltitle>Mindhunters</originaltitle>
+  <actor>
+    <name>Jonathan Groff</name>
+    <role>Holden Ford</role>
+    <type>Actor</type>
+    <tmdbid>221611</tmdbid>
+    <imdbid>nm2676147</imdbid>
+  </actor>
+  <actor>
+    <name>Holt McCallany</name>
+    <role>Bill Tench</role>
+    <type>Actor</type>
+    <tmdbid>7497</tmdbid>
+    <imdbid>nm0564697</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Torv</name>
+    <role>Wendy Carr</role>
+    <type>Actor</type>
+    <tmdbid>30084</tmdbid>
+    <imdbid>nm1396022</imdbid>
+  </actor>
+  <actor>
+    <name>Stacey Roca</name>
+    <role>Nancy Tench</role>
+    <type>Actor</type>
+    <tmdbid>1233173</tmdbid>
+    <imdbid>nm1306344</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Cullen</name>
+    <role>Director Webster</role>
+    <type>GuestStar</type>
+    <tmdbid>104196</tmdbid>
+    <imdbid>nm1332395</imdbid>
+  </actor>
+  <actor>
+    <name>Beau Baxter</name>
+    <role>DA Slaton</role>
+    <type>GuestStar</type>
+    <tmdbid>162737</tmdbid>
+  </actor>
+  <actor>
+    <name>Sierra McClain</name>
+    <role>Tanya Clifton</role>
+    <type>GuestStar</type>
+    <tmdbid>80612</tmdbid>
+  </actor>
+  <actor>
+    <name>Albert Jones</name>
+    <role>Jim Barney</role>
+    <type>GuestStar</type>
+    <tmdbid>164382</tmdbid>
+    <imdbid>nm1653125</imdbid>
+  </actor>
+  <actor>
+    <name>Regi Davis</name>
+    <role>Mayor Jackson</role>
+    <type>GuestStar</type>
+    <tmdbid>169615</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Livingston</name>
+    <role>Wayne Williams</role>
+    <type>GuestStar</type>
+    <tmdbid>1667818</tmdbid>
+  </actor>
+  <actor>
+    <name>Zachary Scott Ross</name>
+    <role>Brian Tench</role>
+    <type>GuestStar</type>
+    <tmdbid>1947195</tmdbid>
+  </actor>
+  <actor>
+    <name>June Carryl</name>
+    <role>Camille Bell</role>
+    <type>GuestStar</type>
+    <tmdbid>19979</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Byers</name>
+    <role>Journalist #3</role>
+    <type>GuestStar</type>
+    <tmdbid>2954711</tmdbid>
+  </actor>
+  <actor>
+    <name>Shane McNair</name>
+    <role>Recruit #2</role>
+    <type>GuestStar</type>
+    <tmdbid>3045174</tmdbid>
+  </actor>
+  <actor>
+    <name>Darrin Giossi</name>
+    <role>Recruit</role>
+    <type>GuestStar</type>
+    <tmdbid>3045099</tmdbid>
+  </actor>
+  <actor>
+    <name>Euseph Messiah</name>
+    <role>Melvin Ware</role>
+    <type>GuestStar</type>
+    <tmdbid>2538229</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Choksi</name>
+    <role>Agent</role>
+    <type>GuestStar</type>
+    <tmdbid>1693304</tmdbid>
+  </actor>
+  <actor>
+    <name>Myles Cranford</name>
+    <role>Homer Williams</role>
+    <type>GuestStar</type>
+    <tmdbid>131735</tmdbid>
+  </actor>
+  <actor>
+    <name>Alton Fitzgerald White</name>
+    <role>Tim</role>
+    <type>GuestStar</type>
+    <tmdbid>1990962</tmdbid>
+  </actor>
+  <actor>
+    <name>Rita Gregory</name>
+    <role>Faye Williams</role>
+    <type>GuestStar</type>
+    <tmdbid>1669570</tmdbid>
+  </actor>
+  <actor>
+    <name>Dohn Norwood</name>
+    <role>Commissioner Lee Brown</role>
+    <type>GuestStar</type>
+    <tmdbid>1223865</tmdbid>
+  </actor>
+  <actor>
+    <name>Trey Teufel</name>
+    <role>Larry Peterson</role>
+    <type>GuestStar</type>
+    <tmdbid>1519174</tmdbid>
+  </actor>
+  <actor>
+    <name>Allie McCulloch</name>
+    <role>Journalist #1</role>
+    <type>GuestStar</type>
+    <tmdbid>1497461</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy S. Allen</name>
+    <role>Journalist #2</role>
+    <type>GuestStar</type>
+    <tmdbid>2159935</tmdbid>
+  </actor>
+  <actor>
+    <name>Rich Morrow</name>
+    <role>Wade Marcus</role>
+    <type>GuestStar</type>
+    <tmdbid>2491028</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Ruffo</name>
+    <role>Recruit Matt</role>
+    <type>GuestStar</type>
+    <tmdbid>3045182</tmdbid>
+  </actor>
+  <actor>
+    <name>Circus-Szalewski</name>
+    <role>Charles Reynolds</role>
+    <type>GuestStar</type>
+    <tmdbid>99219</tmdbid>
+  </actor>
+  <actor>
+    <name>Logan Crawford</name>
+    <role>News Anchor #5</role>
+    <type>GuestStar</type>
+    <tmdbid>1651992</tmdbid>
+  </actor>
+  <actor>
+    <name>Amaris Davidson</name>
+    <role>Sales Agent #1</role>
+    <type>GuestStar</type>
+    <tmdbid>1153793</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Berry</name>
+    <role>Sales Agent #2</role>
+    <type>GuestStar</type>
+    <tmdbid>1025357</tmdbid>
+    <imdbid>nm1409996</imdbid>
+  </actor>
+  <actor>
+    <name>Siovhan Christensen</name>
+    <role>Beverly Belt</role>
+    <type>GuestStar</type>
+    <tmdbid>1812246</tmdbid>
+  </actor>
+  <actor>
+    <name>Crystal Lee Brown</name>
+    <role>Willie Mae Mathis</role>
+    <type>GuestStar</type>
+    <tmdbid>1734934</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Cerveris</name>
+    <role>Assistant Director Gunn</role>
+    <type>GuestStar</type>
+    <tmdbid>49827</tmdbid>
+  </actor>
+  <actor>
+    <name>Gareth Williams</name>
+    <role>Chief Redding</role>
+    <type>GuestStar</type>
+    <tmdbid>118131</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Pettit</name>
+    <role>News Anchor #2</role>
+    <type>GuestStar</type>
+    <tmdbid>3045081</tmdbid>
+  </actor>
+  <actor>
+    <name>Ashlee Payne</name>
+    <role>Journalist #4</role>
+    <type>GuestStar</type>
+    <tmdbid>112105</tmdbid>
+  </actor>
+  <actor>
+    <name>Sonny Valicenti</name>
+    <role>ADT Serviceman</role>
+    <type>GuestStar</type>
+    <tmdbid>1718318</tmdbid>
+    <imdbid>nm3171185</imdbid>
+  </actor>
+  <director>Carl Franklin</director>
+  <rating>7.556</rating>
+  <year>2019</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0297284</imdbid>
+  <tvdbid>7323041</tvdbid>
+  <criticrating>24</criticrating>
+  <runtime>74</runtime>
+  <country>Finland</country>
+  <country>Netherlands</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <studio>Outlaw Productions (I)</studio>
+  <studio>Outlaw Victoria Productions Inc.</studio>
+  <studio>Avenue Pictures</studio>
+  <studio>Weed Road Pictures</studio>
+  <studio>Intermedia Films</studio>
+  <studio>Egmond Film &amp; Television</studio>
+  <studio>Dimension Films</studio>
+  <studio>Mindhunters (UK) Limited</studio>
+  <studio>Mindhunters Productie BV</studio>
+  <studio>Tonna Oy</studio>
+  <uniqueid type="Imdb">tt0297284</uniqueid>
+  <uniqueid type="Tvdb">7323041</uniqueid>
+  <episode>9</episode>
+  <season>2</season>
+  <aired>2019-08-16</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3848477</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>73</duration>
+        <durationinseconds>4437</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

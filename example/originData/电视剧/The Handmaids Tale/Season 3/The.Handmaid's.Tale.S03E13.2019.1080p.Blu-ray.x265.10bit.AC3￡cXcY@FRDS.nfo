@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-30 17:28:22</dateadded>
+  <title>五月天</title>
+  <actor>
+    <name>Elisabeth Moss</name>
+    <role>June Osborne / Offred / Ofjoseph</role>
+    <type>Actor</type>
+    <tmdbid>32798</tmdbid>
+  </actor>
+  <actor>
+    <name>Yvonne Strahovski</name>
+    <role>Serena Joy Waterford</role>
+    <type>Actor</type>
+    <tmdbid>63312</tmdbid>
+    <imdbid>nm2088803</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Fiennes</name>
+    <role>Commander Fred Waterford</role>
+    <type>Actor</type>
+    <tmdbid>12763</tmdbid>
+    <imdbid>nm0001212</imdbid>
+  </actor>
+  <actor>
+    <name>Ann Dowd</name>
+    <role>Aunt Lydia / Miss Clements</role>
+    <type>Actor</type>
+    <tmdbid>43366</tmdbid>
+    <imdbid>nm0235652</imdbid>
+  </actor>
+  <actor>
+    <name>Madeline Brewer</name>
+    <role>Janine Lindo / Ofwarren / Ofdaniel / Ofhoward</role>
+    <type>Actor</type>
+    <tmdbid>1443712</tmdbid>
+    <imdbid>nm5483400</imdbid>
+  </actor>
+  <actor>
+    <name>Max Minghella</name>
+    <role>Nick Blaine</role>
+    <type>Actor</type>
+    <tmdbid>2978</tmdbid>
+    <imdbid>nm1540404</imdbid>
+  </actor>
+  <actor>
+    <name>O.T. Fagbenle</name>
+    <role>Lucas 'Luke' Bankole</role>
+    <type>Actor</type>
+    <tmdbid>113970</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Brugel</name>
+    <role>Rita</role>
+    <type>Actor</type>
+    <tmdbid>1232769</tmdbid>
+    <imdbid>nm0115760</imdbid>
+  </actor>
+  <actor>
+    <name>Samira Wiley</name>
+    <role>Moira</role>
+    <type>Actor</type>
+    <tmdbid>1034197</tmdbid>
+    <imdbid>nm4148126</imdbid>
+  </actor>
+  <actor>
+    <name>Bradley Whitford</name>
+    <role>Commander Joseph Lawrence</role>
+    <type>Actor</type>
+    <tmdbid>11367</tmdbid>
+    <imdbid>nm0925966</imdbid>
+  </actor>
+  <director>Mike Barker</director>
+  <rating>7.9</rating>
+  <year>2019</year>
+  <imdbid>tt9754692</imdbid>
+  <tvdbid>7293239</tvdbid>
+  <runtime>65</runtime>
+  <uniqueid type="Imdb">tt9754692</uniqueid>
+  <uniqueid type="Tvdb">7293239</uniqueid>
+  <episode>13</episode>
+  <season>3</season>
+  <aired>2019-08-14</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3855542</bitrate>
+        <width>1920</width>
+        <height>940</height>
+        <aspect>96:47</aspect>
+        <aspectratio>96:47</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>64</duration>
+        <durationinseconds>3888</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

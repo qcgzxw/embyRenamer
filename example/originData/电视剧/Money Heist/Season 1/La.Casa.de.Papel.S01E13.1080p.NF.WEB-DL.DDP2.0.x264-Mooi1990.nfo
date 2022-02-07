@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-01-05 16:33:03</dateadded>
+  <title>第 13 集</title>
+  <actor>
+    <name>Úrsula Corberó</name>
+    <role>Tokio</role>
+    <type>Actor</type>
+    <tmdbid>1042728</tmdbid>
+    <imdbid>nm2216549</imdbid>
+  </actor>
+  <actor>
+    <name>Álvaro Morte</name>
+    <role>El Profesor</role>
+    <type>Actor</type>
+    <tmdbid>1340020</tmdbid>
+    <imdbid>nm1486647</imdbid>
+  </actor>
+  <actor>
+    <name>Itziar Ituño</name>
+    <role>Lisboa</role>
+    <type>Actor</type>
+    <tmdbid>947514</tmdbid>
+    <imdbid>nm1523587</imdbid>
+  </actor>
+  <actor>
+    <name>Pedro Alonso</name>
+    <role>Berlín</role>
+    <type>Actor</type>
+    <tmdbid>1109836</tmdbid>
+    <imdbid>nm0022261</imdbid>
+  </actor>
+  <actor>
+    <name>Alba Flores</name>
+    <role>Nairobi</role>
+    <type>Actor</type>
+    <tmdbid>1283843</tmdbid>
+    <imdbid>nm1699346</imdbid>
+  </actor>
+  <actor>
+    <name>Miguel Herrán</name>
+    <role>Río</role>
+    <type>Actor</type>
+    <tmdbid>1428896</tmdbid>
+    <imdbid>nm5969653</imdbid>
+  </actor>
+  <actor>
+    <name>Jaime Lorente</name>
+    <role>Denver</role>
+    <type>Actor</type>
+    <tmdbid>1972706</tmdbid>
+    <imdbid>nm7931969</imdbid>
+  </actor>
+  <actor>
+    <name>Esther Acebo</name>
+    <role>Estocolmo</role>
+    <type>Actor</type>
+    <tmdbid>1972707</tmdbid>
+    <imdbid>nm4223458</imdbid>
+  </actor>
+  <actor>
+    <name>Enrique Arce</name>
+    <role>Arturo Román</role>
+    <type>Actor</type>
+    <tmdbid>944099</tmdbid>
+    <imdbid>nm0033550</imdbid>
+  </actor>
+  <actor>
+    <name>Darko Peric</name>
+    <role>Helsinki</role>
+    <type>Actor</type>
+    <tmdbid>1898026</tmdbid>
+    <imdbid>nm2952873</imdbid>
+  </actor>
+  <actor>
+    <name>María Pedraza</name>
+    <role>Alison Parker</role>
+    <type>Actor</type>
+    <tmdbid>1757167</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Oliveira</name>
+    <role>Pablo</role>
+    <type>Actor</type>
+    <tmdbid>2587936</tmdbid>
+  </actor>
+  <actor>
+    <name>Kiti Mánver</name>
+    <role>Mariví Fuentes</role>
+    <type>Actor</type>
+    <tmdbid>16975</tmdbid>
+  </actor>
+  <actor>
+    <name>Paco Tous</name>
+    <role>Moscú</role>
+    <type>Actor</type>
+    <tmdbid>1027740</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Gras</name>
+    <role>Mercedes Colmenar</role>
+    <type>GuestStar</type>
+    <tmdbid>1154732</tmdbid>
+  </actor>
+  <actor>
+    <name>Clara Alvarado</name>
+    <role>Ariadna Cascales</role>
+    <type>GuestStar</type>
+    <tmdbid>1838089</tmdbid>
+  </actor>
+  <actor>
+    <name>Agnès Llobet</name>
+    <role>Pilar</role>
+    <type>GuestStar</type>
+    <tmdbid>2013159</tmdbid>
+  </actor>
+  <actor>
+    <name>Xabi Ortuzar</name>
+    <role>Gómez</role>
+    <type>GuestStar</type>
+    <tmdbid>2013162</tmdbid>
+  </actor>
+  <actor>
+    <name>Fran Morales</name>
+    <role>Policía</role>
+    <type>GuestStar</type>
+    <tmdbid>2013168</tmdbid>
+  </actor>
+  <actor>
+    <name>Pere Brasó</name>
+    <role>Agente Pérez</role>
+    <type>GuestStar</type>
+    <tmdbid>1301926</tmdbid>
+  </actor>
+  <actor>
+    <name>Mario Mayo</name>
+    <role>Policía</role>
+    <type>GuestStar</type>
+    <tmdbid>2013170</tmdbid>
+  </actor>
+  <actor>
+    <name>Miquel García Borda</name>
+    <role>Alberto Vicuña</role>
+    <type>GuestStar</type>
+    <tmdbid>229766</tmdbid>
+  </actor>
+  <actor>
+    <name>Mario de la Rosa</name>
+    <role>Suárez</role>
+    <type>GuestStar</type>
+    <tmdbid>1180134</tmdbid>
+  </actor>
+  <actor>
+    <name>Lobo</name>
+    <role>Darko Dragic</role>
+    <type>GuestStar</type>
+    <tmdbid>2013174</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernando Soto</name>
+    <role>Ángel Rubio</role>
+    <type>GuestStar</type>
+    <tmdbid>1473729</tmdbid>
+  </actor>
+  <director>Álex Rodrigo</director>
+  <director>Jesús Colmenar</director>
+  <rating>9</rating>
+  <year>2017</year>
+  <imdbid>tt6851512</imdbid>
+  <tvdbid>6468121</tvdbid>
+  <runtime>55</runtime>
+  <uniqueid type="Imdb">tt6851512</uniqueid>
+  <uniqueid type="Tvdb">6468121</uniqueid>
+  <episode>13</episode>
+  <season>1</season>
+  <aired>2017-11-09</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2988126</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>55</duration>
+        <durationinseconds>3302</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

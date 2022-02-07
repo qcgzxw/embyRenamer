@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[薛尔登和李奥纳德在网络上发表物理研究后，必须面对一位粗鲁的评论者。 女生们回忆起尴尬的往事。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 17:56:51</dateadded>
+  <title>The Troll Manifestation</title>
+  <actor>
+    <name>Jim Meskimen</name>
+    <type>GuestStar</type>
+    <tmdbid>30697</tmdbid>
+    <imdbid>nm0002350</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Hawking</name>
+    <type>GuestStar</type>
+    <tmdbid>39657</tmdbid>
+    <imdbid>nm0370071</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>8.1</rating>
+  <year>2015</year>
+  <imdbid>tt3862712</imdbid>
+  <tvdbid>5108937</tvdbid>
+  <runtime>21</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>1065745008</tvrageid>
+  <uniqueid type="Imdb">tt3862712</uniqueid>
+  <uniqueid type="Tvdb">5108937</uniqueid>
+  <uniqueid type="TvRage">1065745008</uniqueid>
+  <episode>14</episode>
+  <season>8</season>
+  <aired>2015-02-05</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1584351</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1289</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

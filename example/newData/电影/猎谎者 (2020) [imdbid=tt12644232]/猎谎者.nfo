@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[三个月前，某市发生了一起恶性绑架杀人案。三个月后，凶手与被害人都死于车祸。初出茅庐的女警韩烨找到了案件的幸存者林超凡，向他求证案件发生的经过。但随着调查的深入，韩烨发现林超凡的很多证词都存在漏洞，再三逼问之下，林超凡无奈坦白了另一个版本的故事，但案件真相远没有这么简单，几乎每个人都在说谎，而故事也开始不断反转。]]></plot>
+  <outline><![CDATA[谎言无法得到真相，罪恶难以拯救善良]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-23 06:06:00</dateadded>
+  <title>猎谎者</title>
+  <originaltitle>猎谎者</originaltitle>
+  <actor>
+    <name>Wang Maolei</name>
+    <role>Lin Chaofan</role>
+    <type>Actor</type>
+    <tmdbid>2576185</tmdbid>
+  </actor>
+  <actor>
+    <name>Sun Mengchun</name>
+    <role>Han Ye/Xiang Qing</role>
+    <type>Actor</type>
+    <tmdbid>2699891</tmdbid>
+  </actor>
+  <actor>
+    <name>Edison Zhang</name>
+    <role>Xiang Dong</role>
+    <type>Actor</type>
+    <tmdbid>2699892</tmdbid>
+  </actor>
+  <actor>
+    <name>Xue Qin</name>
+    <role>Tang Man</role>
+    <type>Actor</type>
+    <tmdbid>2699893</tmdbid>
+  </actor>
+  <actor>
+    <name>Ma Xiaoqian</name>
+    <role>Feng Lu</role>
+    <type>Actor</type>
+    <tmdbid>2699894</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhiyan Bo</name>
+    <role>Qian Tingting</role>
+    <type>Actor</type>
+    <tmdbid>2699895</tmdbid>
+  </actor>
+  <actor>
+    <name>Honglei Li</name>
+    <role>中介老板</role>
+    <type>Actor</type>
+    <tmdbid>2699896</tmdbid>
+  </actor>
+  <actor>
+    <name>Wuhan Jiang</name>
+    <role>刑警周扬</role>
+    <type>Actor</type>
+    <tmdbid>2699897</tmdbid>
+  </actor>
+  <actor>
+    <name>Bin Wang</name>
+    <role>刑警王队</role>
+    <type>Actor</type>
+    <tmdbid>2699898</tmdbid>
+  </actor>
+  <actor>
+    <name>Yu Feng</name>
+    <role>直播男</role>
+    <type>Actor</type>
+    <tmdbid>2699899</tmdbid>
+  </actor>
+  <actor>
+    <name>Taleb</name>
+    <role>吴努</role>
+    <type>Actor</type>
+    <tmdbid>2699900</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhe Jin</name>
+    <role>翻译</role>
+    <type>Actor</type>
+    <tmdbid>2699901</tmdbid>
+  </actor>
+  <actor>
+    <name>Yang Yan</name>
+    <role>KTV服务员</role>
+    <type>Actor</type>
+    <tmdbid>2699902</tmdbid>
+  </actor>
+  <actor>
+    <name>Bao Liu</name>
+    <role>林超凡岳父</role>
+    <type>Actor</type>
+    <tmdbid>2699905</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhihua Sheng</name>
+    <role>主治医生</role>
+    <type>Actor</type>
+    <tmdbid>2699907</tmdbid>
+  </actor>
+  <actor>
+    <name>Yufeng Ji</name>
+    <role>宾馆保安</role>
+    <type>Actor</type>
+    <tmdbid>2699910</tmdbid>
+  </actor>
+  <actor>
+    <name>Yi Jin</name>
+    <role>女员工</role>
+    <type>Actor</type>
+    <tmdbid>2699914</tmdbid>
+  </actor>
+  <actor>
+    <name>Rui Zhou（周睿）</name>
+    <role>法医</role>
+    <type>Actor</type>
+    <tmdbid>2699916</tmdbid>
+  </actor>
+  <actor>
+    <name>Mengting Wang（王梦婷）</name>
+    <role>法医</role>
+    <type>Actor</type>
+    <tmdbid>2699917</tmdbid>
+  </actor>
+  <actor>
+    <name>Shiyi Wang（王诗怡）</name>
+    <role>护士</role>
+    <type>Actor</type>
+    <tmdbid>2699920</tmdbid>
+  </actor>
+  <actor>
+    <name>Xiaotong Gao 高晓彤</name>
+    <role>护士</role>
+    <type>Actor</type>
+    <tmdbid>2699922</tmdbid>
+  </actor>
+  <actor>
+    <name>Luyiran Tao 陶陆一然</name>
+    <role>少年向东</role>
+    <type>Actor</type>
+    <tmdbid>2699923</tmdbid>
+  </actor>
+  <actor>
+    <name>Jingmeng Xiang 向婧萌</name>
+    <role>少年向晴</role>
+    <type>Actor</type>
+    <tmdbid>2699924</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiaxu Yao 姚佳栩</name>
+    <role>林超凡儿子</role>
+    <type>Actor</type>
+    <tmdbid>2699925</tmdbid>
+  </actor>
+  <actor>
+    <name>Zi Liang 梁子</name>
+    <role>警车/中巴司机</role>
+    <type>Actor</type>
+    <tmdbid>2699926</tmdbid>
+  </actor>
+  <actor>
+    <name>Yunyun Pang 庞云云</name>
+    <role>丢垃圾胖子</role>
+    <type>Actor</type>
+    <tmdbid>2699927</tmdbid>
+  </actor>
+  <actor>
+    <name>Yun Cao 曹允</name>
+    <role>陪酒客商</role>
+    <type>Actor</type>
+    <tmdbid>2699928</tmdbid>
+  </actor>
+  <director tmdbid="2699940">Xin Lian</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VEMmc1f0pqQ</trailer>
+  <rating>6.3</rating>
+  <year>2020</year>
+  <imdbid>tt12644232</imdbid>
+  <tmdbid>721262</tmdbid>
+  <premiered>2020-06-30</premiered>
+  <releasedate>2020-06-30</releasedate>
+  <runtime>92</runtime>
+  <tagline>谎言无法得到真相，罪恶难以拯救善良</tagline>
+  <country>China</country>
+  <genre>悬疑</genre>
+  <uniqueid type="Tmdb">721262</uniqueid>
+  <uniqueid type="Imdb">tt12644232</uniqueid>
+  <id>tt12644232</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2992484</bitrate>
+        <width>3840</width>
+        <height>2032</height>
+        <aspect>240:127</aspect>
+        <aspectratio>240:127</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>92</duration>
+        <durationinseconds>5522</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>125363</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

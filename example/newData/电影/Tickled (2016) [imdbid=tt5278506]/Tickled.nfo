@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[网络上流传着关于“挠痒”的神秘竞技，一个同志想参与这场“挠痒痒大赛”却被告知此运动仅限直男。记者大卫·法里尔(David Farrier)深入探寻后发现“挠痒”的背后是一条完整的灰色产业链，这其中不仅有挠痒视频的制作方对演员的压榨与侵害，甚至还能看到美国由金钱操纵的阶级制度的冰山 一角。 本片曾获得2016年第32界圣丹斯电影节世界电影单元纪录片评审团大奖提名。一场“挠痒”的运动，却让人笑不 出来。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2017-12-13 14:09:22</dateadded>
+  <title>被挠</title>
+  <originaltitle>Tickled</originaltitle>
+  <actor>
+    <name>David Farrier</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>1473954</tmdbid>
+    <imdbid>nm3910931</imdbid>
+  </actor>
+  <actor>
+    <name>Dylan Reeve</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>1550515</tmdbid>
+  </actor>
+  <actor>
+    <name>David Starr</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>1689848</tmdbid>
+  </actor>
+  <actor>
+    <name>Hal Karp</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>1689851</tmdbid>
+  </actor>
+  <actor>
+    <name>Marko Realmonte</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>1892067</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Clarke</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>1892068</tmdbid>
+  </actor>
+  <actor>
+    <name>T.J. Gretzner</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>1892069</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Ivey</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>1892070</tmdbid>
+  </actor>
+  <actor>
+    <name>Debbie Scoblionkov</name>
+    <role>Herself</role>
+    <type>Actor</type>
+    <tmdbid>1892071</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Schillaci</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>1892072</tmdbid>
+  </actor>
+  <actor>
+    <name>David D'Amato</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>1892073</tmdbid>
+  </actor>
+  <actor>
+    <name>Romeo Salta</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>1892074</tmdbid>
+  </actor>
+  <director tmdbid="1473954" imdbid="nm3910931">David Farrier</director>
+  <director tmdbid="1550515">Dylan Reeve</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MRRJF_nkIBE</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iOBXuCYB4jQ</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6w6Lijk73Q0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6Vs4ar_rM4I</trailer>
+  <rating>7.5</rating>
+  <year>2016</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt5278506</imdbid>
+  <tmdbid>373072</tmdbid>
+  <premiered>2016-05-26</premiered>
+  <releasedate>2016-05-26</releasedate>
+  <criticrating>94</criticrating>
+  <runtime>92</runtime>
+  <country>New Zealand</country>
+  <genre>纪录</genre>
+  <genre>悬疑</genre>
+  <genre>惊悚</genre>
+  <studio>Horseshoe Films</studio>
+  <studio>A Ticklish Tale</studio>
+  <studio>Fumes Production</studio>
+  <set tmdbcolid="570184">
+    <name>Tickled Collection</name>
+  </set>
+  <uniqueid type="TmdbCollection">570184</uniqueid>
+  <tmdbcollectionid>570184</tmdbcollectionid>
+  <uniqueid type="Imdb">tt5278506</uniqueid>
+  <uniqueid type="Tmdb">373072</uniqueid>
+  <id>tt5278506</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4640194</bitrate>
+        <width>1920</width>
+        <height>1038</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5498</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>380047</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

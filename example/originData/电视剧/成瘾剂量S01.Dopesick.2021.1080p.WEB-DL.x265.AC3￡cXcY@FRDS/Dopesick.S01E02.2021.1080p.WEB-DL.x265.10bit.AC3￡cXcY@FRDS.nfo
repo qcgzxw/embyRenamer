@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[奥施康定上市但面临潜在威胁，普渡大学的巨大影响波及芬奇克里克镇，布里奇特走出了她的 DEA 权威，奥施康定的刑事调查开始了。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-20 00:24:41</dateadded>
+  <title>突破之痛</title>
+  <actor>
+    <name>Michael Keaton</name>
+    <role>Samuel Finnix</role>
+    <type>Actor</type>
+    <tmdbid>2232</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Sarsgaard</name>
+    <role>Rick Mountcastle</role>
+    <type>Actor</type>
+    <tmdbid>133</tmdbid>
+    <imdbid>nm0765597</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Stuhlbarg</name>
+    <role>Richard Sackler</role>
+    <type>Actor</type>
+    <tmdbid>72873</tmdbid>
+    <imdbid>nm0836121</imdbid>
+  </actor>
+  <actor>
+    <name>Will Poulter</name>
+    <role>Billy Cutler</role>
+    <type>Actor</type>
+    <tmdbid>93491</tmdbid>
+    <imdbid>nm2401020</imdbid>
+  </actor>
+  <actor>
+    <name>John Hoogenakker</name>
+    <role>Randy Ramseyer</role>
+    <type>Actor</type>
+    <tmdbid>1188193</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaitlyn Dever</name>
+    <role>Betsy Mallum</role>
+    <type>Actor</type>
+    <tmdbid>481337</tmdbid>
+    <imdbid>nm3239803</imdbid>
+  </actor>
+  <actor>
+    <name>Rosario Dawson</name>
+    <role>Bridget Meyer</role>
+    <type>Actor</type>
+    <tmdbid>5916</tmdbid>
+  </actor>
+  <actor>
+    <name>Jake McDorman</name>
+    <role>John Brownlee</role>
+    <type>Actor</type>
+    <tmdbid>94791</tmdbid>
+    <imdbid>nm1416330</imdbid>
+  </actor>
+  <actor>
+    <name>Will Chase</name>
+    <role>Michael Friedman</role>
+    <type>Actor</type>
+    <tmdbid>87927</tmdbid>
+  </actor>
+  <actor>
+    <name>Phillipa Soo</name>
+    <role>Amber</role>
+    <type>Actor</type>
+    <tmdbid>1631814</tmdbid>
+  </actor>
+  <actor>
+    <name>Arischa Conner</name>
+    <role>Leah Turner</role>
+    <type>Actor</type>
+    <tmdbid>2024290</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Unterman</name>
+    <role>Jonathan Sackler</role>
+    <type>Actor</type>
+    <tmdbid>1388926</tmdbid>
+  </actor>
+  <actor>
+    <name>Brendan Patrick Connor</name>
+    <role>Howard Udell</role>
+    <type>Actor</type>
+    <tmdbid>1217576</tmdbid>
+    <imdbid>nm1615964</imdbid>
+  </actor>
+  <actor>
+    <name>Andrea Frankle</name>
+    <role>Beth Sackler</role>
+    <type>Actor</type>
+    <tmdbid>946356</tmdbid>
+  </actor>
+  <director tmdbid="8246" imdbid="nm0001469">Barry Levinson</director>
+  <rating>8</rating>
+  <year>2021</year>
+  <imdbid>tt12536074</imdbid>
+  <tvdbid>8679060</tvdbid>
+  <runtime>63</runtime>
+  <uniqueid type="Tvdb">8679060</uniqueid>
+  <uniqueid type="Imdb">tt12536074</uniqueid>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2021-10-13</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3567611</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>62</duration>
+        <durationinseconds>3757</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

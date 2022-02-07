@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一位不速之客的意外到访，打破了神油店老板程勇的平凡人生，他从一个交不起房租的男性保健品商贩，一跃成为印度仿制药“格列宁”的独家代理商。收获巨额利润的他，生活剧烈变化，被病患们冠以“药神”的称号。但是，一场关于救赎的拉锯战也在波涛暗涌中慢慢展开......]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-11-09 05:43:54</dateadded>
+  <title>我不是药神</title>
+  <originaltitle>我不是药神</originaltitle>
+  <actor>
+    <name>Xu Zheng</name>
+    <role>程勇</role>
+    <type>Actor</type>
+    <tmdbid>118711</tmdbid>
+    <imdbid>nm1905770</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Wang</name>
+    <role>吕受益</role>
+    <type>Actor</type>
+    <tmdbid>1329842</tmdbid>
+    <imdbid>nm4369372</imdbid>
+  </actor>
+  <actor>
+    <name>Zhang Yu</name>
+    <role>彭浩</role>
+    <type>Actor</type>
+    <tmdbid>2074441</tmdbid>
+    <imdbid>nm9636805</imdbid>
+  </actor>
+  <actor>
+    <name>Tan Zhuo</name>
+    <role>刘思慧</role>
+    <type>Actor</type>
+    <tmdbid>938326</tmdbid>
+    <imdbid>nm3431007</imdbid>
+  </actor>
+  <actor>
+    <name>Yang Xinming</name>
+    <role>刘牧师</role>
+    <type>Actor</type>
+    <tmdbid>2050320</tmdbid>
+    <imdbid>nm6174584</imdbid>
+  </actor>
+  <actor>
+    <name>Zhou Yiwei</name>
+    <role>曹斌</role>
+    <type>Actor</type>
+    <tmdbid>1174685</tmdbid>
+    <imdbid>nm2489423</imdbid>
+  </actor>
+  <actor>
+    <name>Wang Jia-Jia</name>
+    <role>吕妻</role>
+    <type>Actor</type>
+    <tmdbid>1590280</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Yanhui</name>
+    <role>张长林</role>
+    <type>Actor</type>
+    <tmdbid>575866</tmdbid>
+    <imdbid>nm3754323</imdbid>
+  </actor>
+  <actor>
+    <name>Gong Beibi</name>
+    <role>曹玲</role>
+    <type>Actor</type>
+    <tmdbid>143602</tmdbid>
+    <imdbid>nm0327299</imdbid>
+  </actor>
+  <actor>
+    <name>Ning Hao</name>
+    <role>房东</role>
+    <type>Actor</type>
+    <tmdbid>17295</tmdbid>
+    <imdbid>nm1928500</imdbid>
+  </actor>
+  <actor>
+    <name>Gengyou Zhu</name>
+    <role>程小澍</role>
+    <type>Actor</type>
+    <tmdbid>2314810</tmdbid>
+    <imdbid>nm9959186</imdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zixian</name>
+    <role>赵律师</role>
+    <type>Actor</type>
+    <tmdbid>1982712</tmdbid>
+    <imdbid>nm10482230</imdbid>
+  </actor>
+  <director tmdbid="1958907">Muye Wen</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dNW3wo_pSSI</trailer>
+  <rating>7.9</rating>
+  <year>2018</year>
+  <imdbid>tt7362036</imdbid>
+  <tmdbid>532753</tmdbid>
+  <premiered>2018-07-06</premiered>
+  <releasedate>2018-07-06</releasedate>
+  <criticrating>86</criticrating>
+  <runtime>116</runtime>
+  <country>China</country>
+  <genre>剧情</genre>
+  <genre>喜剧</genre>
+  <studio>Huanxi Media Group</studio>
+  <studio>Wanda Pictures</studio>
+  <studio>Alibaba Pictures Group</studio>
+  <studio>东阳坏猴子影视文化传播有限公司</studio>
+  <uniqueid type="Tmdb">532753</uniqueid>
+  <uniqueid type="Imdb">tt7362036</uniqueid>
+  <id>tt7362036</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6355497</bitrate>
+        <width>3840</width>
+        <height>2072</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>24.000029</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>6972</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>190261</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

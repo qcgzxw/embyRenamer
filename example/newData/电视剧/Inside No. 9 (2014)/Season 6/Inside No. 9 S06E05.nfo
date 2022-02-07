@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[厄本知道韦伯斯特身体不好，也不是一个容易照顾的人，但在这个特殊的夜晚，即将到来的事情将考验他们两个人到最后。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-17 14:13:21</dateadded>
+  <title>你如何抗辩</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>GuestStar</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>GuestStar</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Neil</name>
+    <role>Curt</role>
+    <type>GuestStar</type>
+    <tmdbid>204802</tmdbid>
+  </actor>
+  <actor>
+    <name>Derek Jacobi</name>
+    <role>Webster</role>
+    <type>GuestStar</type>
+    <tmdbid>937</tmdbid>
+  </actor>
+  <actor>
+    <name>Stanley Lane</name>
+    <role>Carl</role>
+    <type>GuestStar</type>
+    <tmdbid>2945333</tmdbid>
+  </actor>
+  <director>Guillem Morales</director>
+  <rating>10</rating>
+  <year>2021</year>
+  <imdbid>tt14543432</imdbid>
+  <tvdbid>8417826</tvdbid>
+  <runtime>29</runtime>
+  <uniqueid type="Tvdb">8417826</uniqueid>
+  <uniqueid type="Imdb">tt14543432</uniqueid>
+  <episode>5</episode>
+  <season>6</season>
+  <aired>2021-06-07</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2298230</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1740</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[阿莱克斯含冤入狱，18 年后被释放。出狱后，他一心想要向罗道夫·拉兹卡诺复仇，正是此人惹出的命案导致他被冤判。然而，阿莱克斯对拉兹卡诺家的小女儿爱丽莎产生了感情，事情变得复杂起来。他发现罗道夫是清白的，而另一个巧妙地隐藏在暗处的人才是让他蒙冤的元凶。]]></plot>
+  <outline><![CDATA[阿莱克斯含冤入狱，18 年后被释放。出狱后，他一心想要向罗道夫·拉兹卡诺复仇，正是此人惹出的命案导致他被冤判。然而，阿莱克斯对拉兹卡诺家的小女儿爱丽莎产生了感情，事情变得复杂起来。他发现罗道夫是清白的，而另一个巧妙地隐藏在暗处的人才是让他蒙冤的元凶。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-05 10:37:22</dateadded>
+  <title>谁杀了萨拉？</title>
+  <originaltitle>¿Quién mató a Sara?</originaltitle>
+  <actor>
+    <name>Manolo Cardona</name>
+    <role>Álex Guzmán</role>
+    <type>Actor</type>
+    <tmdbid>66914</tmdbid>
+    <imdbid>nm0136572</imdbid>
+  </actor>
+  <actor>
+    <name>Carolina Miranda</name>
+    <role>Elisa Lazcano</role>
+    <type>Actor</type>
+    <tmdbid>3000971</tmdbid>
+    <imdbid>nm5429211</imdbid>
+  </actor>
+  <actor>
+    <name>Ginés García Millán</name>
+    <role>César Lazcano</role>
+    <type>Actor</type>
+    <tmdbid>24923</tmdbid>
+    <imdbid>nm0305753</imdbid>
+  </actor>
+  <actor>
+    <name>Claudia Ramírez</name>
+    <role>Mariana Lazcano</role>
+    <type>Actor</type>
+    <tmdbid>143174</tmdbid>
+    <imdbid>nm0709216</imdbid>
+  </actor>
+  <actor>
+    <name>Eugenio Siller</name>
+    <role>Jose Maria</role>
+    <type>Actor</type>
+    <tmdbid>1245795</tmdbid>
+    <imdbid>nm2288366</imdbid>
+  </actor>
+  <actor>
+    <name>Alejandro Nones</name>
+    <role>Rodolfo Lazcano</role>
+    <type>Actor</type>
+    <tmdbid>973853</tmdbid>
+    <imdbid>nm2130174</imdbid>
+  </actor>
+  <actor>
+    <name>Ximena Lamadrid</name>
+    <role>Sara Guzmán</role>
+    <type>Actor</type>
+    <tmdbid>2747742</tmdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=hfikdvpj228</trailer>
+  <rating>7.7</rating>
+  <year>2021</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt11937816</imdb_id>
+  <tmdbid>120168</tmdbid>
+  <premiered>2021-03-24</premiered>
+  <releasedate>2021-03-24</releasedate>
+  <runtime>40</runtime>
+  <genre>剧情</genre>
+  <genre>犯罪</genre>
+  <genre>悬疑</genre>
+  <studio>Netflix</studio>
+  <uniqueid type="Imdb">tt11937816</uniqueid>
+  <uniqueid type="Tmdb">120168</uniqueid>
+  <uniqueid type="Tvdb">397412</uniqueid>
+  <tvdbid>397412</tvdbid>
+  <id>397412</id>
+  <episodeguide>
+    <url cache="397412.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/397412/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[薛尔登想透过情绪判读机，来获得同理心和深刻见解。 雷杰邀请历任女友参加焦点访谈，看到底哪里出了错。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-16 17:24:33</dateadded>
+  <title>The Emotion Detection Automation</title>
+  <actor>
+    <name>Alessandra Torresani</name>
+    <type>GuestStar</type>
+    <tmdbid>209038</tmdbid>
+    <imdbid>nm0003779</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Micucci</name>
+    <type>GuestStar</type>
+    <tmdbid>132354</tmdbid>
+    <imdbid>nm2177528</imdbid>
+  </actor>
+  <actor>
+    <name>Katie Leclerc</name>
+    <type>GuestStar</type>
+    <tmdbid>84948</tmdbid>
+    <imdbid>nm1813088</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Spencer</name>
+    <type>GuestStar</type>
+    <tmdbid>591519</tmdbid>
+    <imdbid>nm3189010</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.3</rating>
+  <year>2017</year>
+  <imdbid>tt6414316</imdbid>
+  <tvdbid>5911146</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <uniqueid type="Imdb">tt6414316</uniqueid>
+  <uniqueid type="Tvdb">5911146</uniqueid>
+  <episode>14</episode>
+  <season>10</season>
+  <aired>2017-02-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10606730</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1176</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[唯恩的调查波及到他的岳父母。为保护自己的荣耀、名声和刚刚获得的光鲜生活，阿尔玛制定了一个绝望而戏剧性的计划。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-11 16:18:27</dateadded>
+  <title>女士的忏悔</title>
+  <actor>
+    <name>Allison Tolman</name>
+    <role>Alma Fillcot</role>
+    <type>Actor</type>
+    <tmdbid>1331652</tmdbid>
+  </actor>
+  <actor>
+    <name>Lana Parrilla</name>
+    <role>Rita Castillo</role>
+    <type>Actor</type>
+    <tmdbid>177231</tmdbid>
+  </actor>
+  <actor>
+    <name>B.K. Cannon</name>
+    <role>Dee Fillcot</role>
+    <type>Actor</type>
+    <tmdbid>1437461</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordane Christie</name>
+    <role>Vern</role>
+    <type>Actor</type>
+    <tmdbid>2145598</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Daddario</name>
+    <role>Scooter</role>
+    <type>Actor</type>
+    <tmdbid>1272291</tmdbid>
+  </actor>
+  <actor>
+    <name>Veronica Falcón</name>
+    <role>Catherine Castillo</role>
+    <type>Actor</type>
+    <tmdbid>1029593</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Frost</name>
+    <role>Bertram Fillcot</role>
+    <type>Actor</type>
+    <tmdbid>11109</tmdbid>
+  </actor>
+  <actor>
+    <name>Virginia Williams</name>
+    <role>Grace Berk</role>
+    <type>Actor</type>
+    <tmdbid>168986</tmdbid>
+  </actor>
+  <actor>
+    <name>Ron Nery Jr.</name>
+    <role>Chez Kitchen Staff</role>
+    <type>GuestStar</type>
+    <tmdbid>3147602</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Phillips</name>
+    <role>Joan</role>
+    <type>GuestStar</type>
+    <tmdbid>1472786</tmdbid>
+  </actor>
+  <actor>
+    <name>Kerry O'Malley</name>
+    <role>Mavis</role>
+    <type>GuestStar</type>
+    <tmdbid>100567</tmdbid>
+    <imdbid>nm0641747</imdbid>
+  </actor>
+  <actor>
+    <name>Lindsey Kraft</name>
+    <role>Claire</role>
+    <type>GuestStar</type>
+    <tmdbid>95521</tmdbid>
+    <imdbid>nm1837970</imdbid>
+  </actor>
+  <actor>
+    <name>Cynthia Quiles</name>
+    <role>Brenda</role>
+    <type>GuestStar</type>
+    <tmdbid>1580162</tmdbid>
+  </actor>
+  <rating>10</rating>
+  <year>2021</year>
+  <imdbid>tt13629606</imdbid>
+  <tvdbid>8470764</tvdbid>
+  <runtime>50</runtime>
+  <uniqueid type="Tvdb">8470764</uniqueid>
+  <uniqueid type="Imdb">tt13629606</uniqueid>
+  <episode>10</episode>
+  <season>2</season>
+  <aired>2021-07-29</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5318870</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>50</duration>
+        <durationinseconds>3005</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

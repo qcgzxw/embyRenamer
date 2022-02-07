@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[瑞克带着莫蒂去外星球收集死晶，这种特殊的水晶可以预言触摸它的人的各种死法。莫蒂偷偷留了一块在口袋里，在看到他其中一种死亡结局中，杰西卡在他病床前的画面后，莫蒂开始想方设法朝着这个结局努力，希望于杰西卡共度美好的一生，然而却不经意得杀死了瑞克。随后，全息瑞克出现并指导莫蒂收集自己的DNA，克隆自己复活。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 07:40:01</dateadded>
+  <title>明日边缘:瑞克死于黄包车</title>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>Kari Wahlgren</name>
+    <role>Jessica / Newscaster (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>116315</tmdbid>
+  </actor>
+  <actor>
+    <name>John DiMaggio</name>
+    <role>Bully #2 (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>31531</tmdbid>
+    <imdbid>nm0224007</imdbid>
+  </actor>
+  <actor>
+    <name>Sherri Shepherd</name>
+    <role>Judge (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>109561</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Johnson</name>
+    <role>Mr. Goldenfold (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>167411</tmdbid>
+  </actor>
+  <actor>
+    <name>Cassie Steele</name>
+    <role>Tricia Lange (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>180986</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Harmon</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>57194</tmdbid>
+  </actor>
+  <director>Erica Hayes</director>
+  <rating>9</rating>
+  <year>2019</year>
+  <imdbid>tt7446798</imdbid>
+  <tvdbid>7186906</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <uniqueid type="Tvdb">7186906</uniqueid>
+  <uniqueid type="Imdb">tt7446798</uniqueid>
+  <episode>1</episode>
+  <season>4</season>
+  <aired>2019-11-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>1978299</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1351</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

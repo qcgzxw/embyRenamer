@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[弗兰克回忆过去弄清了他和法耶的关系。黛比和克劳迪娅女儿的约会出了岔子。卡尔采取极端措施特训他的新学员队伍。在他们吵架后，伊恩努力与米奇建立联系。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-12-17 23:16:23</dateadded>
+  <title>哦，船长，我的船长</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Noel Fisher</name>
+    <role>Mickey Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>80352</tmdbid>
+    <imdbid>nm0279720</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Isaiah</name>
+    <role>Liam Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>2563541</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Miner</name>
+    <role>Tami Tamietti</role>
+    <type>Actor</type>
+    <tmdbid>214695</tmdbid>
+    <imdbid>nm1567202</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Michael Campbell</name>
+    <role>Brad</role>
+    <type>Actor</type>
+    <tmdbid>65728</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Patrick McGill</name>
+    <role>Tommy</role>
+    <type>Actor</type>
+    <tmdbid>154816</tmdbid>
+    <imdbid>nm1042946</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Hoffmaster</name>
+    <role>Kermit</role>
+    <type>Actor</type>
+    <tmdbid>1224161</tmdbid>
+    <imdbid>nm1687798</imdbid>
+  </actor>
+  <actor>
+    <name>Luis Guzmán</name>
+    <role>Mikey O'Shea</role>
+    <type>Actor</type>
+    <tmdbid>40481</tmdbid>
+  </actor>
+  <actor>
+    <name>Constance Zimmer</name>
+    <role>Claudia</role>
+    <type>Actor</type>
+    <tmdbid>156204</tmdbid>
+    <imdbid>nm0956603</imdbid>
+  </actor>
+  <actor>
+    <name>Chelsea Rendon</name>
+    <role>Anne Gonzalez</role>
+    <type>Actor</type>
+    <tmdbid>200065</tmdbid>
+  </actor>
+  <actor>
+    <name>Alison Jaye Horowitz</name>
+    <role>Julia Nicolo</role>
+    <type>GuestStar</type>
+    <tmdbid>1362223</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Rodriguez</name>
+    <role>Faye Donahue</role>
+    <type>GuestStar</type>
+    <tmdbid>65421</tmdbid>
+  </actor>
+  <director>Anthony Hardwick</director>
+  <rating>6.25</rating>
+  <year>2020</year>
+  <imdbid>tt10740404</imdbid>
+  <tvdbid>4417729</tvdbid>
+  <runtime>52</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt10740404</uniqueid>
+  <uniqueid type="Tvdb">4417729</uniqueid>
+  <episode>9</episode>
+  <season>10</season>
+  <aired>2020-01-05</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10393813</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>52</duration>
+        <durationinseconds>3137</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>264-NTb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

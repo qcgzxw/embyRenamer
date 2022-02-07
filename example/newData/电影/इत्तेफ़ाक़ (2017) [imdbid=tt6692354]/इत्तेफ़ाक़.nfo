@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[警官德夫正在调查一宗双重谋杀案，只有两名证人，他们也是主要嫌疑人。嫌疑犯之一，著名的作家；另一个，是年轻的家庭主妇玛雅。不同的故事，却在同一个命运之夜联系到了一起，而背后的真相也远非表面这么简单……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-03-07 13:41:34</dateadded>
+  <title>天作谜案</title>
+  <originaltitle>इत्तेफ़ाक़</originaltitle>
+  <actor>
+    <name>Akshaye Khanna</name>
+    <role>CBI Officer Dev Sharma</role>
+    <type>Actor</type>
+    <tmdbid>87328</tmdbid>
+  </actor>
+  <actor>
+    <name>Sidharth Malhotra</name>
+    <role>Vikram Sethi</role>
+    <type>Actor</type>
+    <tmdbid>1108117</tmdbid>
+  </actor>
+  <actor>
+    <name>Sonakshi Sinha</name>
+    <role>Maya Sinha</role>
+    <type>Actor</type>
+    <tmdbid>130958</tmdbid>
+  </actor>
+  <actor>
+    <name>Mandira Bedi</name>
+    <role>Dev's Wife</role>
+    <type>Actor</type>
+    <tmdbid>146974</tmdbid>
+  </actor>
+  <actor>
+    <name>Mir Sarwar</name>
+    <type>Actor</type>
+    <tmdbid>1423932</tmdbid>
+  </actor>
+  <actor>
+    <name>Himanshu Kohli</name>
+    <role>Inspector Gautam Kohli</role>
+    <type>Actor</type>
+    <tmdbid>1551243</tmdbid>
+  </actor>
+  <actor>
+    <name>Ajay Jadhav</name>
+    <role>Hawaldar Tambe</role>
+    <type>Actor</type>
+    <tmdbid>2472339</tmdbid>
+  </actor>
+  <actor>
+    <name>Trupti Khamkar</name>
+    <role>Mrs. Kawadkar</role>
+    <type>Actor</type>
+    <tmdbid>2335733</tmdbid>
+  </actor>
+  <actor>
+    <name>Hitesh Arora</name>
+    <role>Detective</role>
+    <type>Actor</type>
+    <tmdbid>2519496</tmdbid>
+  </actor>
+  <director tmdbid="1844009">Abhay Chopra</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mvfvoCdPrII</trailer>
+  <rating>7.2</rating>
+  <year>2017</year>
+  <imdbid>tt6692354</imdbid>
+  <tmdbid>464458</tmdbid>
+  <premiered>2017-11-03</premiered>
+  <releasedate>2017-11-03</releasedate>
+  <criticrating>90</criticrating>
+  <runtime>106</runtime>
+  <country>India</country>
+  <genre>犯罪</genre>
+  <genre>惊悚</genre>
+  <genre>悬疑</genre>
+  <studio>Dharma Productions</studio>
+  <studio>Red Chillies Entertainment</studio>
+  <studio>B.R. Studios</studio>
+  <uniqueid type="Tmdb">464458</uniqueid>
+  <uniqueid type="Imdb">tt6692354</uniqueid>
+  <id>tt6692354</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2796745</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6331</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>125589</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

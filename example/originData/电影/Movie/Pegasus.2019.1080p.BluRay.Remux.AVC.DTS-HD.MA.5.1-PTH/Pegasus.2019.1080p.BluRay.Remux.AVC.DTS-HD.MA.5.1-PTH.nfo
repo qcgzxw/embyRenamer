@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　曾经在赛车界叱咤风云、如今却只能经营炒饭大排档的赛车手张驰（沈腾饰）决定重返车坛挑战年轻一代的天才。然而没钱没车没队友，甚至驾照都得重新考，这场笑料百出不断被打脸的复出之路，还有更多哭笑不得的窘境在等待着这位过气车神……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-20 07:25:17</dateadded>
+  <title>飞驰人生</title>
+  <originaltitle>飞驰人生</originaltitle>
+  <actor>
+    <name>Shen Teng</name>
+    <role>Zhang Chi</role>
+    <type>Actor</type>
+    <tmdbid>1519026</tmdbid>
+    <imdbid>nm7613067</imdbid>
+  </actor>
+  <actor>
+    <name>Johnny Huang</name>
+    <role>Lin Zhendong</role>
+    <type>Actor</type>
+    <tmdbid>1816461</tmdbid>
+  </actor>
+  <actor>
+    <name>Yin Zheng</name>
+    <role>Sun Yuqiang</role>
+    <type>Actor</type>
+    <tmdbid>1519030</tmdbid>
+  </actor>
+  <actor>
+    <name>Winston Chao</name>
+    <role>Wan Heping</role>
+    <type>Actor</type>
+    <tmdbid>57054</tmdbid>
+  </actor>
+  <actor>
+    <name>Tian Yu</name>
+    <role>Driving school coach</role>
+    <type>Actor</type>
+    <tmdbid>1397566</tmdbid>
+  </actor>
+  <actor>
+    <name>Yin Fang</name>
+    <role>Hong Kuo</role>
+    <type>Actor</type>
+    <tmdbid>2133335</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Benyu</name>
+    <role>Ji Xing</role>
+    <type>Actor</type>
+    <tmdbid>1759993</tmdbid>
+  </actor>
+  <actor>
+    <name>Wei Xiang</name>
+    <role>Ye (Racing team manager)</role>
+    <type>Actor</type>
+    <tmdbid>2093326</tmdbid>
+    <imdbid>nm9410159</imdbid>
+  </actor>
+  <actor>
+    <name>Li Chun'ai</name>
+    <role>Hostess of the studio</role>
+    <type>Actor</type>
+    <tmdbid>2091750</tmdbid>
+  </actor>
+  <actor>
+    <name>William Feng</name>
+    <role>Drift master</role>
+    <type>Actor</type>
+    <tmdbid>936431</tmdbid>
+  </actor>
+  <actor>
+    <name>Tengger</name>
+    <role>KTV Boss</role>
+    <type>Actor</type>
+    <tmdbid>2217529</tmdbid>
+  </actor>
+  <actor>
+    <name>Sui He</name>
+    <role>Sun's wife</role>
+    <type>Actor</type>
+    <tmdbid>1355669</tmdbid>
+  </actor>
+  <actor>
+    <name>Pan Xiaoting</name>
+    <role>Zhang Chi's Ex-girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>2217533</tmdbid>
+  </actor>
+  <actor>
+    <name>Tian Yuan</name>
+    <role>Zhang Chi's Ex-girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>1011654</tmdbid>
+  </actor>
+  <actor>
+    <name>Bing Li</name>
+    <role>Interview host</role>
+    <type>Actor</type>
+    <tmdbid>1462131</tmdbid>
+  </actor>
+  <actor>
+    <name>Zack Gao</name>
+    <role>Gao Huayang</role>
+    <type>Actor</type>
+    <tmdbid>1748885</tmdbid>
+  </actor>
+  <director tmdbid="1326036">Han Han</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Ue3dLlHPWiY</trailer>
+  <rating>6.2</rating>
+  <year>2019</year>
+  <imdbid>tt9597190</imdbid>
+  <tmdbid>575219</tmdbid>
+  <premiered>2019-02-05</premiered>
+  <releasedate>2019-02-05</releasedate>
+  <runtime>98</runtime>
+  <country>China</country>
+  <genre>喜剧</genre>
+  <genre>动作</genre>
+  <genre>冒险</genre>
+  <studio>Alibaba Pictures Group</studio>
+  <studio>Bona Film Group</studio>
+  <studio>CMC Pictures</studio>
+  <studio>Shanghai PMF Media</studio>
+  <studio>Tianjin Maoyan Media</studio>
+  <studio>Wanda Media Co.</studio>
+  <studio>Golden Village Pictures</studio>
+  <studio>Clover Films</studio>
+  <uniqueid type="Tmdb">575219</uniqueid>
+  <uniqueid type="Imdb">tt9597190</uniqueid>
+  <id>tt9597190</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>38464836</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5894</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

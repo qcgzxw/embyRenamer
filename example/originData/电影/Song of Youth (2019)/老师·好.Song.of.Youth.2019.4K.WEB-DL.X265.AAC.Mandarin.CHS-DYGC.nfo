@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[1985年的南宿一中，苗宛秋老师推自行车昂首走在校园，接受着人们艳羡的目光和纷至沓来的恭维。桀傲不驯的洛小乙、温婉可人的安静、新潮前卫的关婷婷、大智若愚的脑袋、舞痴兄弟文明建设、八婆海燕、奸商耗子……三班是一个永远也不缺故事的集体。苗宛秋怎么也不会想到，他即将走进的这个三班将会成为他以及他身边这辆自行车的噩梦。三班的同学也没有想到，这位新来的老师改变了他们的一生。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-07-20 13:53:08</dateadded>
+  <title>老师·好</title>
+  <originaltitle>老师·好</originaltitle>
+  <actor>
+    <name>Qian Yu</name>
+    <role>Miao Wanqiu</role>
+    <type>Actor</type>
+    <tmdbid>1900637</tmdbid>
+  </actor>
+  <actor>
+    <name>Tang Mengjia</name>
+    <role>An Jing</role>
+    <type>Actor</type>
+    <tmdbid>2027713</tmdbid>
+    <imdbid>nm9388847</imdbid>
+  </actor>
+  <actor>
+    <name>Wang Guangyuan</name>
+    <role>Luo Xiaoyi</role>
+    <type>Actor</type>
+    <tmdbid>2267872</tmdbid>
+    <imdbid>nm10566940</imdbid>
+  </actor>
+  <actor>
+    <name>Qin Mingyue</name>
+    <role>Guan Tingting</role>
+    <type>Actor</type>
+    <tmdbid>2267873</tmdbid>
+    <imdbid>nm10566941</imdbid>
+  </actor>
+  <actor>
+    <name>Xu Zili</name>
+    <role>Wang Hai</role>
+    <type>Actor</type>
+    <tmdbid>2267874</tmdbid>
+    <imdbid>nm10566942</imdbid>
+  </actor>
+  <actor>
+    <name>Zhang Guoli</name>
+    <role>Miao Wanqiu's Teacher</role>
+    <type>Actor</type>
+    <tmdbid>543178</tmdbid>
+    <imdbid>nm0955346</imdbid>
+  </actor>
+  <actor>
+    <name>Wu Jing</name>
+    <role>PE Teacher</role>
+    <type>Actor</type>
+    <tmdbid>78871</tmdbid>
+    <imdbid>nm0943104</imdbid>
+  </actor>
+  <actor>
+    <name>Hu Jun</name>
+    <type>Actor</type>
+    <tmdbid>96862</tmdbid>
+    <imdbid>nm0432425</imdbid>
+  </actor>
+  <actor>
+    <name>He Bing</name>
+    <type>Actor</type>
+    <tmdbid>586335</tmdbid>
+    <imdbid>nm0372077</imdbid>
+  </actor>
+  <director tmdbid="2265584">Zhang Luan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YEkjGF5gaNU</trailer>
+  <rating>6.1</rating>
+  <year>2019</year>
+  <imdbid>tt10066162</imdbid>
+  <tmdbid>588295</tmdbid>
+  <premiered>2019-03-22</premiered>
+  <releasedate>2019-03-22</releasedate>
+  <runtime>113</runtime>
+  <country>China</country>
+  <genre>剧情</genre>
+  <uniqueid type="Tmdb">588295</uniqueid>
+  <uniqueid type="Imdb">tt10066162</uniqueid>
+  <id>tt10066162</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4987334</bitrate>
+        <width>3840</width>
+        <height>1608</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>112</duration>
+        <durationinseconds>6779</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>189656</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

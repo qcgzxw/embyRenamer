@@ -1,0 +1,248 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[讲述1990年代早期关键性的一个周末，戴安娜下了决心：她跟查尔斯王子的婚姻不会有好结果，必须背离那条“皇后预备役”的道路。影片故事发生在3天内，圣诞假日期间的桑德灵汉姆庄园。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-02-05 16:23:00</dateadded>
+  <title>斯宾塞</title>
+  <originaltitle>Spencer</originaltitle>
+  <actor>
+    <name>Kristen Stewart</name>
+    <role>Princess Diana</role>
+    <type>Actor</type>
+    <tmdbid>37917</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Farthing</name>
+    <role>Charles</role>
+    <type>Actor</type>
+    <tmdbid>1287084</tmdbid>
+  </actor>
+  <actor>
+    <name>Sally Hawkins</name>
+    <role>Maggie</role>
+    <type>Actor</type>
+    <tmdbid>39658</tmdbid>
+    <imdbid>nm1020089</imdbid>
+  </actor>
+  <actor>
+    <name>Timothy Spall</name>
+    <role>Major Alistair Gregory</role>
+    <type>Actor</type>
+    <tmdbid>9191</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Harris</name>
+    <role>Darren McGrady</role>
+    <type>Actor</type>
+    <tmdbid>16702</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Douglas</name>
+    <role>John Spencer, Earl Spencer</role>
+    <type>Actor</type>
+    <tmdbid>1894886</tmdbid>
+  </actor>
+  <actor>
+    <name>Olga Hellsing</name>
+    <role>Sarah Ferguson</role>
+    <type>Actor</type>
+    <tmdbid>3005237</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthias Wolkowski</name>
+    <role>Prince Edward</role>
+    <type>Actor</type>
+    <tmdbid>3060472</tmdbid>
+  </actor>
+  <actor>
+    <name>Oriana Gordon</name>
+    <role>Lady Sarah Chatto</role>
+    <type>Actor</type>
+    <tmdbid>3060474</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Wichert</name>
+    <role>Staff Sergeant Wood</role>
+    <type>Actor</type>
+    <tmdbid>1467943</tmdbid>
+  </actor>
+  <actor>
+    <name>John Keogh</name>
+    <role>Michael</role>
+    <type>Actor</type>
+    <tmdbid>49486</tmdbid>
+  </actor>
+  <actor>
+    <name>Amy Manson</name>
+    <role>Anne Boleyn</role>
+    <type>Actor</type>
+    <tmdbid>121721</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Berrington</name>
+    <role>Princess Anne</role>
+    <type>Actor</type>
+    <tmdbid>42998</tmdbid>
+    <imdbid>nm0077397</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Nielen</name>
+    <role>William</role>
+    <type>Actor</type>
+    <tmdbid>3262411</tmdbid>
+  </actor>
+  <actor>
+    <name>Freddie Spry</name>
+    <role>Harry</role>
+    <type>Actor</type>
+    <tmdbid>3262412</tmdbid>
+  </actor>
+  <actor>
+    <name>Stella Gonet</name>
+    <role>The Queen</role>
+    <type>Actor</type>
+    <tmdbid>134699</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Sammel</name>
+    <role>Prince Philip</role>
+    <type>Actor</type>
+    <tmdbid>49487</tmdbid>
+    <imdbid>nm0759898</imdbid>
+  </actor>
+  <actor>
+    <name>Lore Stefanek</name>
+    <role>Queen Mother</role>
+    <type>Actor</type>
+    <tmdbid>1116106</tmdbid>
+  </actor>
+  <actor>
+    <name>James Harkness</name>
+    <role>Footman Paul</role>
+    <type>Actor</type>
+    <tmdbid>1774532</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Benson</name>
+    <role>Angela (Dresser)</role>
+    <type>Actor</type>
+    <tmdbid>12985</tmdbid>
+  </actor>
+  <actor>
+    <name>Wendy Patterson</name>
+    <role>Maria (Older Maid)</role>
+    <type>Actor</type>
+    <tmdbid>1841077</tmdbid>
+  </actor>
+  <actor>
+    <name>Libby Rodliffe</name>
+    <role>Pamela (Maid)</role>
+    <type>Actor</type>
+    <tmdbid>2451462</tmdbid>
+  </actor>
+  <actor>
+    <name>Niklas Kohrt</name>
+    <role>Prince Andrew</role>
+    <type>Actor</type>
+    <tmdbid>115266</tmdbid>
+  </actor>
+  <director tmdbid="225009">Pablo Larraín</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=WllZh9aekDg</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zF4gmEND2HI</trailer>
+  <rating>6.8</rating>
+  <year>2021</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt12536294</imdbid>
+  <tmdbid>716612</tmdbid>
+  <premiered>2021-11-04</premiered>
+  <releasedate>2021-11-04</releasedate>
+  <criticrating>83</criticrating>
+  <runtime>117</runtime>
+  <country>Chile</country>
+  <country>Germany</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <studio>FilmNation Entertainment</studio>
+  <studio>Komplizen Film</studio>
+  <studio>Shoebox Films</studio>
+  <studio>Fabula</studio>
+  <studio>Neon</studio>
+  <uniqueid type="Tmdb">716612</uniqueid>
+  <uniqueid type="Imdb">tt12536294</uniqueid>
+  <id>tt12536294</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>23672795</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>7004</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

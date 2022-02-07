@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[薛尔登在初次约会纪念日，伤了艾美的心，后来艾美觉得该是重新检视两人感情的时候了。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 18:02:55</dateadded>
+  <title>The Commitment Determination</title>
+  <actor>
+    <name>Laura Spencer</name>
+    <type>GuestStar</type>
+    <tmdbid>591519</tmdbid>
+    <imdbid>nm3189010</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>8</rating>
+  <year>2015</year>
+  <imdbid>tt3862738</imdbid>
+  <tvdbid>5173432</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>1065794655</tvrageid>
+  <uniqueid type="Imdb">tt3862738</uniqueid>
+  <uniqueid type="Tvdb">5173432</uniqueid>
+  <uniqueid type="TvRage">1065794655</uniqueid>
+  <episode>24</episode>
+  <season>8</season>
+  <aired>2015-05-07</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1581456</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>20</duration>
+        <durationinseconds>1201</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

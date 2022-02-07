@@ -1,0 +1,580 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[影片主要讲述第二代教父麦克·柯里昂的奋斗历程，同时回忆了第一代教父维多·柯里昂创业的艰辛，反映了不同历史时期，两代教父的事业、家庭生活。麦克为儿子托尼举行圣餐仪式和庆祝活动的当夜，麦克在家中遭到袭击，凶手被人灭口，面临接管家族事业以来的重重危机，麦克回忆起了父亲维多·柯里昂年轻时在美国的创业历程。麦克一边调查袭击的真相，一边继续开展赌博、酒店等生意，和另一个黑帮人物海门罗斯斗智斗勇，不断扩大势力。终于，麦克的不法行为引起了政府的关注，麦克受到一系列的指控；同时，麦克的家庭也遇到了危机，夫妻感情濒临破裂；而最让麦克痛心的，却是家族中，亲人的背叛。和第一代教父其乐融融的家庭生活比起来，麦克无疑很失败。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-12 22:44:10</dateadded>
+  <title>教父2</title>
+  <originaltitle>The Godfather: Part II</originaltitle>
+  <actor>
+    <name>Al Pacino</name>
+    <role>Don Michael Corleone</role>
+    <type>Actor</type>
+    <tmdbid>1158</tmdbid>
+    <imdbid>nm0000199</imdbid>
+  </actor>
+  <actor>
+    <name>Robert De Niro</name>
+    <role>Don Vito Corleone</role>
+    <type>Actor</type>
+    <tmdbid>380</tmdbid>
+    <imdbid>nm0000134</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Duvall</name>
+    <role>Tom Hagen</role>
+    <type>Actor</type>
+    <tmdbid>3087</tmdbid>
+    <imdbid>nm0000380</imdbid>
+  </actor>
+  <actor>
+    <name>Diane Keaton</name>
+    <role>Kay Corleone</role>
+    <type>Actor</type>
+    <tmdbid>3092</tmdbid>
+  </actor>
+  <actor>
+    <name>John Cazale</name>
+    <role>Frederico "Fredo" Corleone</role>
+    <type>Actor</type>
+    <tmdbid>3096</tmdbid>
+  </actor>
+  <actor>
+    <name>Talia Shire</name>
+    <role>Constanzia "Connie" Corleone</role>
+    <type>Actor</type>
+    <tmdbid>3094</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Strasberg</name>
+    <role>Hyman Roth</role>
+    <type>Actor</type>
+    <tmdbid>3171</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael V. Gazzo</name>
+    <role>Frank Pentangeli</role>
+    <type>Actor</type>
+    <tmdbid>3172</tmdbid>
+  </actor>
+  <actor>
+    <name>G. D. Spradlin</name>
+    <role>Senator Pat Geary</role>
+    <type>Actor</type>
+    <tmdbid>3173</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Bright</name>
+    <role>Al Neri</role>
+    <type>Actor</type>
+    <tmdbid>3174</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesca De Sapio</name>
+    <role>Young Carmela</role>
+    <type>Actor</type>
+    <tmdbid>3279</tmdbid>
+  </actor>
+  <actor>
+    <name>Oreste Baldini</name>
+    <role>Young Vito</role>
+    <type>Actor</type>
+    <tmdbid>3280</tmdbid>
+  </actor>
+  <actor>
+    <name>Gastone Moschin</name>
+    <role>Don Fanucci</role>
+    <type>Actor</type>
+    <tmdbid>3281</tmdbid>
+  </actor>
+  <actor>
+    <name>Giuseppe Sillato</name>
+    <role>Don Francesco Ciccio</role>
+    <type>Actor</type>
+    <tmdbid>3333</tmdbid>
+  </actor>
+  <actor>
+    <name>Bruno Kirby</name>
+    <role>Young Clemenza</role>
+    <type>Actor</type>
+    <tmdbid>9257</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Sivero</name>
+    <role>Genco Abbandando</role>
+    <type>Actor</type>
+    <tmdbid>11480</tmdbid>
+    <imdbid>nm0803370</imdbid>
+  </actor>
+  <actor>
+    <name>Morgana King</name>
+    <role>Carmela "Mama" Corleone</role>
+    <type>Actor</type>
+    <tmdbid>933716</tmdbid>
+  </actor>
+  <actor>
+    <name>Marianna Hill</name>
+    <role>Deanna Corleone</role>
+    <type>Actor</type>
+    <tmdbid>15659</tmdbid>
+  </actor>
+  <actor>
+    <name>Leopoldo Trieste</name>
+    <role>Signor Roberto</role>
+    <type>Actor</type>
+    <tmdbid>14151</tmdbid>
+  </actor>
+  <actor>
+    <name>Dominic Chianese</name>
+    <role>Johnny Ola</role>
+    <type>Actor</type>
+    <tmdbid>68186</tmdbid>
+  </actor>
+  <actor>
+    <name>Fay Spain</name>
+    <role>Mrs. Marcia Roth</role>
+    <type>Actor</type>
+    <tmdbid>116739</tmdbid>
+  </actor>
+  <actor>
+    <name>Harry Dean Stanton</name>
+    <role>F.B.I. Man #1</role>
+    <type>Actor</type>
+    <tmdbid>5048</tmdbid>
+    <imdbid>nm0001765</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Aiello</name>
+    <role>Tony Rosato</role>
+    <type>Actor</type>
+    <tmdbid>1004</tmdbid>
+  </actor>
+  <actor>
+    <name>Roger Corman</name>
+    <role>Senator #2</role>
+    <type>Actor</type>
+    <tmdbid>102429</tmdbid>
+  </actor>
+  <actor>
+    <name>William Bowers</name>
+    <role>Senate Committee Chairman</role>
+    <type>Actor</type>
+    <tmdbid>69948</tmdbid>
+  </actor>
+  <actor>
+    <name>James Caan</name>
+    <role>Santino "Sonny" Corleone</role>
+    <type>Actor</type>
+    <tmdbid>3085</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Rosqui</name>
+    <role>Rocco Lampone</role>
+    <type>Actor</type>
+    <tmdbid>1213795</tmdbid>
+  </actor>
+  <actor>
+    <name>Amerigo Tot</name>
+    <role>Michael's Bodyguard</role>
+    <type>Actor</type>
+    <tmdbid>99788</tmdbid>
+  </actor>
+  <actor>
+    <name>Troy Donahue</name>
+    <role>Merle Johnson</role>
+    <type>Actor</type>
+    <tmdbid>45363</tmdbid>
+  </actor>
+  <actor>
+    <name>John Aprea</name>
+    <role>Young Tessio</role>
+    <type>Actor</type>
+    <tmdbid>104504</tmdbid>
+    <imdbid>nm0032501</imdbid>
+  </actor>
+  <actor>
+    <name>Abe Vigoda</name>
+    <role>Salvatore "Sal" Tessio</role>
+    <type>Actor</type>
+    <tmdbid>3093</tmdbid>
+  </actor>
+  <actor>
+    <name>Tere Livrano</name>
+    <role>Theresa Hagen</role>
+    <type>Actor</type>
+    <tmdbid>982089</tmdbid>
+  </actor>
+  <actor>
+    <name>Gianni Russo</name>
+    <role>Carlo Rizzi</role>
+    <type>Actor</type>
+    <tmdbid>3095</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Carta</name>
+    <role>Mrs. Andolini</role>
+    <type>Actor</type>
+    <tmdbid>24697</tmdbid>
+  </actor>
+  <actor>
+    <name>Mario Cotone</name>
+    <role>Don Tommasino</role>
+    <type>Actor</type>
+    <tmdbid>1343811</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmine Caridi</name>
+    <role>Carmine Rosato</role>
+    <type>Actor</type>
+    <tmdbid>133853</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmine Foresta</name>
+    <role>Policeman</role>
+    <type>Actor</type>
+    <tmdbid>14553</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Spinell</name>
+    <role>William "Willie" Cicci</role>
+    <type>Actor</type>
+    <tmdbid>16525</tmdbid>
+    <imdbid>nm0818874</imdbid>
+  </actor>
+  <actor>
+    <name>Kathleen Beller</name>
+    <role>Girl in 'Senza Mamma' (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>76064</tmdbid>
+  </actor>
+  <actor>
+    <name>Ivonne Coll</name>
+    <role>Yolanda (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>46929</tmdbid>
+  </actor>
+  <actor>
+    <name>Roman Coppola</name>
+    <role>Sonny Corleone as a Boy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>38803</tmdbid>
+    <imdbid>nm0178910</imdbid>
+  </actor>
+  <actor>
+    <name>Sofia Coppola</name>
+    <role>Child on Ship (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1769</tmdbid>
+  </actor>
+  <actor>
+    <name>Sho Kosugi</name>
+    <role>Passerby in Coat with Cap Pulled Down (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>99846</tmdbid>
+  </actor>
+  <actor>
+    <name>James Gounaris</name>
+    <role>Anthony Corleone (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1503033</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Discenza</name>
+    <role>Bartender (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1503034</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Medaglia</name>
+    <role>Father Carmelo (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1503035</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Della Sorte</name>
+    <role>Michael's Buttonman #1 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1581646</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmen Argenziano</name>
+    <role>Michael's Buttonman #2 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>28413</tmdbid>
+    <imdbid>nm0034492</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Lo Grippo</name>
+    <role>Michael's Buttonman #3 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1503036</tmdbid>
+  </actor>
+  <actor>
+    <name>Ezio Flagello</name>
+    <role>Impressario (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1503037</tmdbid>
+  </actor>
+  <actor>
+    <name>Livio Giorgi</name>
+    <role>Tenor in 'Senza Mamma' (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1503038</tmdbid>
+  </actor>
+  <actor>
+    <name>Saveria Mazzola</name>
+    <role>Signora Colombo (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1503039</tmdbid>
+  </actor>
+  <actor>
+    <name>Tito Alba</name>
+    <role>Cuban President (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1503040</tmdbid>
+  </actor>
+  <actor>
+    <name>Johnny Naranjo</name>
+    <role>Cuban Translator (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1503041</tmdbid>
+  </actor>
+  <actor>
+    <name>Elda Maida</name>
+    <role>Pentangeli's Wife (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1503042</tmdbid>
+  </actor>
+  <actor>
+    <name>Salvatore Po</name>
+    <role>Pentangeli's Brother (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1503043</tmdbid>
+  </actor>
+  <actor>
+    <name>Ignazio Pappalardo</name>
+    <role>Mosca (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1503044</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Maugeri</name>
+    <role>Strollo (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1503045</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter LaCorte</name>
+    <role>Signor Abbandando (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1503046</tmdbid>
+  </actor>
+  <actor>
+    <name>Vincent Coppola</name>
+    <role>Street Vendor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1503047</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Donat</name>
+    <role>Questadt (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>14849</tmdbid>
+    <imdbid>nm0232194</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Dahlgren</name>
+    <role>Fred Corngold (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1212995</tmdbid>
+  </actor>
+  <actor>
+    <name>Phil Feldman</name>
+    <role>Senator #1 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>7768</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe De Nicola</name>
+    <role>Attendant at Brothel (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1205819</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward Van Sickle</name>
+    <role>Ellis Island Doctor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1503048</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriella Belloni</name>
+    <role>Ellis Island Nurse (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1503049</tmdbid>
+  </actor>
+  <actor>
+    <name>Venancia Grangerard</name>
+    <role>Cuban Nurse (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1503050</tmdbid>
+  </actor>
+  <actor>
+    <name>Erica Yohn</name>
+    <role>Governess (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>40349</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Kurtz</name>
+    <role>Photographer in Court (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>12401</tmdbid>
+  </actor>
+  <actor>
+    <name>Connie Mason</name>
+    <role>(uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>99949</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Pesce</name>
+    <role>Extra (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>101615</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor Pujols Faneyte</name>
+    <role>Cuban Guerilla with Grenade (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1403118</tmdbid>
+  </actor>
+  <actor>
+    <name>Julie Gregg</name>
+    <role>Sandrinella "Sandra" Corleone (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>160728</tmdbid>
+  </actor>
+  <actor>
+    <name>Larry Guardino</name>
+    <role>Vito's Uncle (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1494522</tmdbid>
+  </actor>
+  <actor>
+    <name>Buck Houghton</name>
+    <role>Senator with mustache (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>47756</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Matheson</name>
+    <role>Senator #3 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>12415</tmdbid>
+  </actor>
+  <actor>
+    <name>John Megna</name>
+    <role>Young Hyman Roth (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>8490</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Rasumny</name>
+    <role>Street Vendor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>160627</tmdbid>
+  </actor>
+  <actor>
+    <name>Filomena Spagnuolo</name>
+    <role>Extra in Little Italy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1209678</tmdbid>
+  </actor>
+  <actor>
+    <name>Julian Voloshin</name>
+    <role>Sam Roth (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>59364</tmdbid>
+  </actor>
+  <actor>
+    <name>Italia Coppola</name>
+    <role>Mama Corleone's Body (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>126072</tmdbid>
+  </actor>
+  <director tmdbid="1776">Francis Ford Coppola</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9O1Iy9od7-A</trailer>
+  <rating>9</rating>
+  <year>1974</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0071562</imdbid>
+  <tmdbid>240</tmdbid>
+  <premiered>1974-12-20</premiered>
+  <releasedate>1974-12-20</releasedate>
+  <criticrating>96</criticrating>
+  <runtime>202</runtime>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>犯罪</genre>
+  <studio>Paramount</studio>
+  <studio>The Coppola Company</studio>
+  <set tmdbcolid="230">
+    <name>教父（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">240</uniqueid>
+  <uniqueid type="Imdb">tt0071562</uniqueid>
+  <id>tt0071562</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>16288257</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>202</duration>
+        <durationinseconds>12126</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

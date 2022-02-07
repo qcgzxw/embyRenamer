@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[面对考古挖掘放出的嗜血恶魔，教授的雇佣兵们举起了……猫？（喵喵喵？）]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-27 15:57:29</dateadded>
+  <title>噬魂者</title>
+  <actor>
+    <name>Michael Benyaer</name>
+    <role>Dr. Wehunt (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>27588</tmdbid>
+  </actor>
+  <actor>
+    <name>Fred Tatasciore</name>
+    <role>Flynn / Dracula (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>60279</tmdbid>
+    <imdbid>nm0851317</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Waddell</name>
+    <role>Gary (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1504950</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Cahill</name>
+    <role>Mickey (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1410226</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Whyte</name>
+    <role>Simon (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>71520</tmdbid>
+  </actor>
+  <director>Owen Sullivan</director>
+  <rating>6.2</rating>
+  <year>2019</year>
+  <imdbid>tt9788492</imdbid>
+  <tvdbid>6983264</tvdbid>
+  <runtime>13</runtime>
+  <genre>Animation</genre>
+  <genre>Short</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <genre>Horror</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt9788492</uniqueid>
+  <uniqueid type="Tvdb">6983264</uniqueid>
+  <episode>5</episode>
+  <season>1</season>
+  <aired>2019-03-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3849694</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>13</duration>
+        <durationinseconds>780</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>363117</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

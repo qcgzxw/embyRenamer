@@ -1,0 +1,686 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　在《神奇动物在那里》第一部的结尾，纽特·斯卡曼德（埃迪·雷德梅恩 Eddie Redmayne 饰）协助美国魔法国会，将强大的黑巫师盖勒特·格林德沃（约翰尼·德普 Johnny Depp 饰）抓捕归案。但格林德沃不久便兑现狂言成功越狱，并开始纠集信徒，着手实现他们的邪恶目的：让纯血统的巫师成为统治阶层，镇压一切非魔法生物。  为挫败格林德沃的阴谋，阿不思·邓布利多（裘德·洛 Jude Law 饰）向昔日的学生纽特·斯卡曼德寻求帮助。纽特欣然允诺，却没有意识到，他将踏上的会是一段充满艰险的未来征途。此时的魔法世界面临空前的分裂乱局，阶层鸿沟日益加深，爱与忠诚备受考验，至亲好友也可能反目成仇……]]></plot>
+  <outline><![CDATA[魔法世界风起云涌 未知命运扑朔迷离]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2019-02-26 15:32:17</dateadded>
+  <title>神奇动物：格林德沃之罪</title>
+  <originaltitle>Fantastic Beasts: The Crimes of Grindelwald</originaltitle>
+  <actor>
+    <name>Eddie Redmayne</name>
+    <role>Newt Scamander</role>
+    <type>Actor</type>
+    <tmdbid>37632</tmdbid>
+    <imdbid>nm1519666</imdbid>
+  </actor>
+  <actor>
+    <name>Katherine Waterston</name>
+    <role>Porpentina "Tina" Goldstein</role>
+    <type>Actor</type>
+    <tmdbid>77795</tmdbid>
+    <imdbid>nm2239702</imdbid>
+  </actor>
+  <actor>
+    <name>Dan Fogler</name>
+    <role>Jacob Kowalski</role>
+    <type>Actor</type>
+    <tmdbid>58873</tmdbid>
+    <imdbid>nm0283945</imdbid>
+  </actor>
+  <actor>
+    <name>Alison Sudol</name>
+    <role>Queenie Goldstein</role>
+    <type>Actor</type>
+    <tmdbid>998225</tmdbid>
+    <imdbid>nm0837223</imdbid>
+  </actor>
+  <actor>
+    <name>Johnny Depp</name>
+    <role>Gellert Grindelwald</role>
+    <type>Actor</type>
+    <tmdbid>85</tmdbid>
+    <imdbid>nm0000136</imdbid>
+  </actor>
+  <actor>
+    <name>Jude Law</name>
+    <role>Albus Dumbledore</role>
+    <type>Actor</type>
+    <tmdbid>9642</tmdbid>
+    <imdbid>nm0000179</imdbid>
+  </actor>
+  <actor>
+    <name>Ezra Miller</name>
+    <role>Credence Barebone</role>
+    <type>Actor</type>
+    <tmdbid>132157</tmdbid>
+    <imdbid>nm3009232</imdbid>
+  </actor>
+  <actor>
+    <name>Zoë Kravitz</name>
+    <role>Leta Lestrange</role>
+    <type>Actor</type>
+    <tmdbid>37153</tmdbid>
+    <imdbid>nm2368789</imdbid>
+  </actor>
+  <actor>
+    <name>Callum Turner</name>
+    <role>Theseus Scamander</role>
+    <type>Actor</type>
+    <tmdbid>1371041</tmdbid>
+    <imdbid>nm4360085</imdbid>
+  </actor>
+  <actor>
+    <name>Claudia Kim</name>
+    <role>Nagini / The Maledictus</role>
+    <type>Actor</type>
+    <tmdbid>1401531</tmdbid>
+    <imdbid>nm2263791</imdbid>
+  </actor>
+  <actor>
+    <name>Carmen Ejogo</name>
+    <role>Seraphina Picquery</role>
+    <type>Actor</type>
+    <tmdbid>37158</tmdbid>
+    <imdbid>nm0252238</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Williams</name>
+    <role>Eulalie Hicks</role>
+    <type>Actor</type>
+    <tmdbid>1394648</tmdbid>
+    <imdbid>nm1790970</imdbid>
+  </actor>
+  <actor>
+    <name>William Nadylam</name>
+    <role>Yusuf Kama</role>
+    <type>Actor</type>
+    <tmdbid>87426</tmdbid>
+    <imdbid>nm0618986</imdbid>
+  </actor>
+  <actor>
+    <name>Ingvar Eggert Sigurðsson</name>
+    <role>Grimmson</role>
+    <type>Actor</type>
+    <tmdbid>55584</tmdbid>
+    <imdbid>nm0797614</imdbid>
+  </actor>
+  <actor>
+    <name>Ólafur Darri Ólafsson</name>
+    <role>Skender</role>
+    <type>Actor</type>
+    <tmdbid>110902</tmdbid>
+    <imdbid>nm0959963</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Guthrie</name>
+    <role>Abernathy</role>
+    <type>Actor</type>
+    <tmdbid>1204379</tmdbid>
+    <imdbid>nm2295590</imdbid>
+  </actor>
+  <actor>
+    <name>Brontis Jodorowsky</name>
+    <role>Nicolas Flamel</role>
+    <type>Actor</type>
+    <tmdbid>85148</tmdbid>
+    <imdbid>nm0423526</imdbid>
+  </actor>
+  <actor>
+    <name>Derek Riddell</name>
+    <role>Torquil Travers</role>
+    <type>Actor</type>
+    <tmdbid>143971</tmdbid>
+    <imdbid>nm0725701</imdbid>
+  </actor>
+  <actor>
+    <name>David Sakurai</name>
+    <role>Krall</role>
+    <type>Actor</type>
+    <tmdbid>1180795</tmdbid>
+    <imdbid>nm2077159</imdbid>
+  </actor>
+  <actor>
+    <name>Fiona Glascott</name>
+    <role>Minerva McGonagall</role>
+    <type>Actor</type>
+    <tmdbid>43135</tmdbid>
+    <imdbid>nm0321800</imdbid>
+  </actor>
+  <actor>
+    <name>Wolf Roth</name>
+    <role>Spielman</role>
+    <type>Actor</type>
+    <tmdbid>26396</tmdbid>
+    <imdbid>nm0745051</imdbid>
+  </actor>
+  <actor>
+    <name>Victoria Yeates</name>
+    <role>Bunty</role>
+    <type>Actor</type>
+    <tmdbid>1901525</tmdbid>
+    <imdbid>nm4021273</imdbid>
+  </actor>
+  <actor>
+    <name>Poppy Corby-Tuech</name>
+    <role>Vinda Rosier</role>
+    <type>Actor</type>
+    <tmdbid>1383392</tmdbid>
+    <imdbid>nm5304426</imdbid>
+  </actor>
+  <actor>
+    <name>Cornell John</name>
+    <role>Arnold Guzman</role>
+    <type>Actor</type>
+    <tmdbid>25135</tmdbid>
+    <imdbid>nm0180259</imdbid>
+  </actor>
+  <actor>
+    <name>Sabine Crossen</name>
+    <role>Mrs. Lestrange</role>
+    <type>Actor</type>
+    <tmdbid>1193021</tmdbid>
+    <imdbid>nm1644336</imdbid>
+  </actor>
+  <actor>
+    <name>Claudius Peters</name>
+    <role>Nagel</role>
+    <type>Actor</type>
+    <tmdbid>1395427</tmdbid>
+    <imdbid>nm5680429</imdbid>
+  </actor>
+  <actor>
+    <name>Bart Soroczynski</name>
+    <role>Stebbins</role>
+    <type>Actor</type>
+    <tmdbid>2243650</tmdbid>
+    <imdbid>nm7702949</imdbid>
+  </actor>
+  <actor>
+    <name>Danielle Hugues</name>
+    <role>Irma Dugard</role>
+    <type>Actor</type>
+    <tmdbid>2243660</tmdbid>
+    <imdbid>nm0401104</imdbid>
+  </actor>
+  <actor>
+    <name>Alfie Simmons</name>
+    <role>McClaggan</role>
+    <type>Actor</type>
+    <tmdbid>1791620</tmdbid>
+    <imdbid>nm6054323</imdbid>
+  </actor>
+  <actor>
+    <name>Isaac Cortinovis Johnson</name>
+    <role>McClaggan's Friend</role>
+    <type>Actor</type>
+    <tmdbid>2243662</tmdbid>
+    <imdbid>nm10260512</imdbid>
+  </actor>
+  <actor>
+    <name>Olivia Popica</name>
+    <role>Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>1347006</tmdbid>
+    <imdbid>nm4180958</imdbid>
+  </actor>
+  <actor>
+    <name>Alfie Mailley</name>
+    <role>Child in Bubble</role>
+    <type>Actor</type>
+    <tmdbid>2243659</tmdbid>
+    <imdbid>nm10260511</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Wan</name>
+    <role>Auror Chang</role>
+    <type>Actor</type>
+    <tmdbid>1997433</tmdbid>
+    <imdbid>nm4854335</imdbid>
+  </actor>
+  <actor>
+    <name>Morrison Thomas</name>
+    <role>Old Carnie</role>
+    <type>Actor</type>
+    <tmdbid>1457380</tmdbid>
+    <imdbid>nm2217501</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Turner</name>
+    <role>MacDuff</role>
+    <type>Actor</type>
+    <tmdbid>219600</tmdbid>
+    <imdbid>nm1049273</imdbid>
+  </actor>
+  <actor>
+    <name>Linda Santiago</name>
+    <role>Credence's Aunt</role>
+    <type>Actor</type>
+    <tmdbid>1223228</tmdbid>
+    <imdbid>nm1205451</imdbid>
+  </actor>
+  <actor>
+    <name>Alfrun Rose</name>
+    <role>Red Haired Young Witch</role>
+    <type>Actor</type>
+    <tmdbid>1765394</tmdbid>
+    <imdbid>nm7632887</imdbid>
+  </actor>
+  <actor>
+    <name>Maja Bloom</name>
+    <role>Carrow</role>
+    <type>Actor</type>
+    <tmdbid>1997442</tmdbid>
+    <imdbid>nm3007817</imdbid>
+  </actor>
+  <actor>
+    <name>Olwen Fouéré</name>
+    <role>Melusine</role>
+    <type>Actor</type>
+    <tmdbid>933272</tmdbid>
+    <imdbid>nm0288260</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Meacock</name>
+    <role>Krafft</role>
+    <type>Actor</type>
+    <tmdbid>1017597</tmdbid>
+    <imdbid>nm0574873</imdbid>
+  </actor>
+  <actor>
+    <name>David Wilmot</name>
+    <role>Portkey Trout</role>
+    <type>Actor</type>
+    <tmdbid>73287</tmdbid>
+    <imdbid>nm0932837</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Gaughan</name>
+    <role>French Policeman</role>
+    <type>Actor</type>
+    <tmdbid>147797</tmdbid>
+    <imdbid>nm2755953</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Campbell Bower</name>
+    <role>Young Gellert Grindelwald</role>
+    <type>Actor</type>
+    <tmdbid>83356</tmdbid>
+    <imdbid>nm2570429</imdbid>
+  </actor>
+  <actor>
+    <name>Toby Regbo</name>
+    <role>Young Albus Dumbledore</role>
+    <type>Actor</type>
+    <tmdbid>116606</tmdbid>
+    <imdbid>nm2269396</imdbid>
+  </actor>
+  <actor>
+    <name>Hugh Quarshie</name>
+    <role>Mustafa Kama</role>
+    <type>Actor</type>
+    <tmdbid>31925</tmdbid>
+    <imdbid>nm0702934</imdbid>
+  </actor>
+  <actor>
+    <name>Isaura Barbé-Brown</name>
+    <role>Laurena Kama</role>
+    <type>Actor</type>
+    <tmdbid>1266868</tmdbid>
+    <imdbid>nm3769549</imdbid>
+  </actor>
+  <actor>
+    <name>Keith Chanter</name>
+    <role>Corvus Lestrange Senior</role>
+    <type>Actor</type>
+    <tmdbid>1314278</tmdbid>
+    <imdbid>nm4909513</imdbid>
+  </actor>
+  <actor>
+    <name>Jemima Woolnough</name>
+    <role>Gryffindor Girl</role>
+    <type>Actor</type>
+    <tmdbid>2243664</tmdbid>
+    <imdbid>nm7936520</imdbid>
+  </actor>
+  <actor>
+    <name>Hollie Burgess</name>
+    <role>Gryffindor Girl</role>
+    <type>Actor</type>
+    <tmdbid>2243665</tmdbid>
+    <imdbid>nm5545152</imdbid>
+  </actor>
+  <actor>
+    <name>Thea Lamb</name>
+    <role>Young Leta Lestrange (13-16 Years Old)</role>
+    <type>Actor</type>
+    <tmdbid>2243667</tmdbid>
+    <imdbid>nm6859416</imdbid>
+  </actor>
+  <actor>
+    <name>Joshua Shea</name>
+    <role>Young Newt (13-16 Years Old)</role>
+    <type>Actor</type>
+    <tmdbid>2243668</tmdbid>
+    <imdbid>nm9239600</imdbid>
+  </actor>
+  <actor>
+    <name>Isaac Domingos</name>
+    <role>Yusuf Kama (12 Years Old)</role>
+    <type>Actor</type>
+    <tmdbid>2243669</tmdbid>
+    <imdbid>nm10260513</imdbid>
+  </actor>
+  <actor>
+    <name>Ruby Woolfenden</name>
+    <role>Young Leta Lestrange (3-6 Years Old)</role>
+    <type>Actor</type>
+    <tmdbid>2243670</tmdbid>
+    <imdbid>nm10260514</imdbid>
+  </actor>
+  <actor>
+    <name>Johanna Thea</name>
+    <role>Ministry of Magic Witch (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1898962</tmdbid>
+    <imdbid>nm4811231</imdbid>
+  </actor>
+  <actor>
+    <name>Liv Hansen</name>
+    <role>Ministry of Magic Witch (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1641529</tmdbid>
+    <imdbid>nm4291367</imdbid>
+  </actor>
+  <actor>
+    <name>Israel Ruiz</name>
+    <role>Ministry of Magic Wizard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480577</tmdbid>
+    <imdbid>nm1187050</imdbid>
+  </actor>
+  <actor>
+    <name>Jag Patel</name>
+    <role>Senior Wizard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1785923</tmdbid>
+    <imdbid>nm8050148</imdbid>
+  </actor>
+  <actor>
+    <name>Tahir Burhan</name>
+    <role>Wizard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1997435</tmdbid>
+    <imdbid>nm9391948</imdbid>
+  </actor>
+  <actor>
+    <name>Deepak Anand</name>
+    <role>Wizard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1777483</tmdbid>
+    <imdbid>nm7605938</imdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Ford</name>
+    <role>Acolyte (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1717130</tmdbid>
+    <imdbid>nm8326446</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Blackall</name>
+    <role>The Rowdy Frenchman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1997432</tmdbid>
+    <imdbid>nm2692170</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Birks</name>
+    <role>Young Auror-Auditorium (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2243671</tmdbid>
+  </actor>
+  <actor>
+    <name>Phil Hodges</name>
+    <role>Prisoner 001 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1945370</tmdbid>
+    <imdbid>nm6838531</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Haydon</name>
+    <role>Shopkeeper (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1651390</tmdbid>
+    <imdbid>nm5787663</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Ingall</name>
+    <role>Spectrum (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1820018</tmdbid>
+    <imdbid>nm8818061</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen McDade</name>
+    <role>Cirque Arcanus Worker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1663428</tmdbid>
+    <imdbid>nm5387921</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Oliver</name>
+    <role>Circus passerby (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1945372</tmdbid>
+    <imdbid>nm3018138</imdbid>
+  </actor>
+  <actor>
+    <name>Dave Simon</name>
+    <role>Muggle at Circus (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1809625</tmdbid>
+    <imdbid>nm6078944</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Redshaw</name>
+    <role>Chef (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1610835</tmdbid>
+    <imdbid>nm5536411</imdbid>
+  </actor>
+  <actor>
+    <name>Callum Forman</name>
+    <role>Doorman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1882044</tmdbid>
+    <imdbid>nm7328039</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Hannaford</name>
+    <role>Sailor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1997440</tmdbid>
+    <imdbid>nm9336883</imdbid>
+  </actor>
+  <actor>
+    <name>Donna Preston</name>
+    <role>Circus Compare (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1812532</tmdbid>
+    <imdbid>nm3196432</imdbid>
+  </actor>
+  <actor>
+    <name>Nasir Jama</name>
+    <role>Macusa Prison (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1997431</tmdbid>
+    <imdbid>nm5831554</imdbid>
+  </actor>
+  <actor>
+    <name>Aykut Hilmi</name>
+    <role>Shafiq (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1816343</tmdbid>
+    <imdbid>nm2833846</imdbid>
+  </actor>
+  <actor>
+    <name>Natalie Lauren</name>
+    <role>Parisian Woman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1997438</tmdbid>
+    <imdbid>nm7757954</imdbid>
+  </actor>
+  <actor>
+    <name>Deano Bugatti</name>
+    <role>Muggle (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1840374</tmdbid>
+  </actor>
+  <actor>
+    <name>Bernardo Santos</name>
+    <role>Muggle (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1655621</tmdbid>
+    <imdbid>nm7441016</imdbid>
+  </actor>
+  <actor>
+    <name>Connor Wolf</name>
+    <role>Muggle (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1997441</tmdbid>
+    <imdbid>nm5586835</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Gislingham</name>
+    <role>Muggle (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1997434</tmdbid>
+    <imdbid>nm9406701</imdbid>
+  </actor>
+  <actor>
+    <name>Adrian Wheeler</name>
+    <role>Party Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1997437</tmdbid>
+    <imdbid>nm6722260</imdbid>
+  </actor>
+  <actor>
+    <name>Andy Summers</name>
+    <role>New Yorker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1997443</tmdbid>
+    <imdbid>nm8689459</imdbid>
+  </actor>
+  <actor>
+    <name>Al Clark</name>
+    <role>New Yorker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2110770</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesca Hayward</name>
+    <type>Actor</type>
+    <tmdbid>1712866</tmdbid>
+    <imdbid>nm8667557</imdbid>
+  </actor>
+  <director tmdbid="11343" imdbid="nm0946734">David Yates</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5sEaYB4rLFQ</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vvFybpmyB9E</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8bYBOVWLNIs</trailer>
+  <rating>6.5</rating>
+  <year>2018</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt4123430</imdbid>
+  <tmdbid>338952</tmdbid>
+  <premiered>2018-11-14</premiered>
+  <releasedate>2018-11-14</releasedate>
+  <criticrating>36</criticrating>
+  <runtime>134</runtime>
+  <tagline>魔法世界风起云涌 未知命运扑朔迷离</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>冒险</genre>
+  <genre>奇幻</genre>
+  <genre>剧情</genre>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>Heyday Films</studio>
+  <set tmdbcolid="435259">
+    <name>神奇动物（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">338952</uniqueid>
+  <uniqueid type="Imdb">tt4123430</uniqueid>
+  <id>tt4123430</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>32848045</bitrate>
+        <width>3840</width>
+        <height>1600</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>133</duration>
+        <durationinseconds>8031</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>XLSUB</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[平安夜，两个孩子蹑手蹑脚地走下楼，只为偷瞄一眼圣诞老人。一个仅适合成人观看的扭曲故事。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-14 09:33:32</dateadded>
+  <title>整个房子</title>
+  <actor>
+    <name>Divi Mittal</name>
+    <role>Leah (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>3089892</tmdbid>
+  </actor>
+  <actor>
+    <name>Sami Amber</name>
+    <role>Billy (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>3089894</tmdbid>
+  </actor>
+  <actor>
+    <name>Fred Tatasciore</name>
+    <role>Creature / TV Santa (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>60279</tmdbid>
+    <imdbid>nm0851317</imdbid>
+  </actor>
+  <actor>
+    <name>Brynley North</name>
+    <role>TV Kid (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>3089896</tmdbid>
+    <imdbid>nm12429172</imdbid>
+  </actor>
+  <director>Elliot Dear</director>
+  <rating>8.2</rating>
+  <year>2021</year>
+  <imdbid>tt14536160</imdbid>
+  <tvdbid>8376693</tvdbid>
+  <runtime>7</runtime>
+  <uniqueid type="Imdb">tt14536160</uniqueid>
+  <uniqueid type="Tvdb">8376693</uniqueid>
+  <episode>6</episode>
+  <season>2</season>
+  <aired>2021-05-14</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3826123</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>7</duration>
+        <durationinseconds>442</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,381 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[在第一部结尾中就已然分道扬镳多明尼克(范·迪塞尔饰演)与警探布莱恩(保罗·沃克饰演)，因布莱恩抓捕到的一个罪犯，两人再聚首。可是两人刚刚见面就水火不容。然后这次他们却被迫对抗同一个敌人：大毒枭菲尼斯。所以冰释前嫌共进退是唯一的解决办法。为了掌握这个毒品集团的证据和犯罪细节，多明尼克与布莱恩一起伪装并渗透到这个贩毒组织集团内部做卧底。很快，他们就凭借出色的车技成为菲尼斯最得力助手……事实上之所以多明尼克会帮助布莱恩铲除菲尼斯，是因为菲尼斯是杀死自己恋人莱特的杀人凶手。可是应经成为菲尼斯得力助手的二人并不知道，当他们把毒品运到目的地之后，就会被心狠手辣的菲尼斯杀人灭口……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-03 23:11:24</dateadded>
+  <title>速度与激情4</title>
+  <originaltitle>Fast &amp; Furious</originaltitle>
+  <actor>
+    <name>Vin Diesel</name>
+    <role>Dominic Toretto</role>
+    <type>Actor</type>
+    <tmdbid>12835</tmdbid>
+    <imdbid>nm0004874</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Walker</name>
+    <role>Brian O'Conner</role>
+    <type>Actor</type>
+    <tmdbid>8167</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Rodriguez</name>
+    <role>Letty Ortiz</role>
+    <type>Actor</type>
+    <tmdbid>17647</tmdbid>
+    <imdbid>nm0735442</imdbid>
+  </actor>
+  <actor>
+    <name>Jordana Brewster</name>
+    <role>Mia Toretto</role>
+    <type>Actor</type>
+    <tmdbid>22123</tmdbid>
+    <imdbid>nm0108287</imdbid>
+  </actor>
+  <actor>
+    <name>John Ortiz</name>
+    <role>Ramon Campos</role>
+    <type>Actor</type>
+    <tmdbid>40543</tmdbid>
+    <imdbid>nm0651159</imdbid>
+  </actor>
+  <actor>
+    <name>Laz Alonso</name>
+    <role>Fenix Calderon</role>
+    <type>Actor</type>
+    <tmdbid>10964</tmdbid>
+  </actor>
+  <actor>
+    <name>Sung Kang</name>
+    <role>Han Lue</role>
+    <type>Actor</type>
+    <tmdbid>61697</tmdbid>
+    <imdbid>nm0437646</imdbid>
+  </actor>
+  <actor>
+    <name>Tego Calderón</name>
+    <role>Tego</role>
+    <type>Actor</type>
+    <tmdbid>96321</tmdbid>
+  </actor>
+  <actor>
+    <name>Gal Gadot</name>
+    <role>Gisele Yashar</role>
+    <type>Actor</type>
+    <tmdbid>90633</tmdbid>
+    <imdbid>nm2933757</imdbid>
+  </actor>
+  <actor>
+    <name>Don Omar</name>
+    <role>Don Omar</role>
+    <type>Actor</type>
+    <tmdbid>90634</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Conley</name>
+    <role>Penning</role>
+    <type>Actor</type>
+    <tmdbid>21675</tmdbid>
+    <imdbid>nm0174780</imdbid>
+  </actor>
+  <actor>
+    <name>Liza Lapira</name>
+    <role>Trinh</role>
+    <type>Actor</type>
+    <tmdbid>51998</tmdbid>
+    <imdbid>nm0487594</imdbid>
+  </actor>
+  <actor>
+    <name>Shea Whigham</name>
+    <role>Michael Stasiak</role>
+    <type>Actor</type>
+    <tmdbid>74242</tmdbid>
+    <imdbid>nm0924154</imdbid>
+  </actor>
+  <actor>
+    <name>Mirtha Michelle</name>
+    <role>Cara</role>
+    <type>Actor</type>
+    <tmdbid>1225970</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Cipes</name>
+    <role>Dwight</role>
+    <type>Actor</type>
+    <tmdbid>60227</tmdbid>
+  </actor>
+  <actor>
+    <name>Ron Yuan</name>
+    <role>David Park</role>
+    <type>Actor</type>
+    <tmdbid>61703</tmdbid>
+    <imdbid>nm0950620</imdbid>
+  </actor>
+  <actor>
+    <name>Alejandro Patiño</name>
+    <role>Gas Truck Driver</role>
+    <type>Actor</type>
+    <tmdbid>81957</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Hursley</name>
+    <role>Virgil</role>
+    <type>Actor</type>
+    <tmdbid>59264</tmdbid>
+  </actor>
+  <actor>
+    <name>Cesar Garcia</name>
+    <role>Juvenal</role>
+    <type>Actor</type>
+    <tmdbid>53255</tmdbid>
+    <imdbid>nm1075323</imdbid>
+  </actor>
+  <actor>
+    <name>Brandon T. Jackson</name>
+    <role>BMW Driver</role>
+    <type>Actor</type>
+    <tmdbid>53336</tmdbid>
+  </actor>
+  <actor>
+    <name>Mousa Kraish</name>
+    <role>Silvia Driver</role>
+    <type>Actor</type>
+    <tmdbid>54712</tmdbid>
+  </actor>
+  <actor>
+    <name>Neil Brown Jr.</name>
+    <role>Drug Runner</role>
+    <type>Actor</type>
+    <tmdbid>55091</tmdbid>
+  </actor>
+  <actor>
+    <name>Wilmer Calderon</name>
+    <role>Drug Runner</role>
+    <type>Actor</type>
+    <tmdbid>59672</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Julian Soria</name>
+    <role>Drug Runner</role>
+    <type>Actor</type>
+    <tmdbid>73127</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Thai Theerathada</name>
+    <role>Drug Runner</role>
+    <type>Actor</type>
+    <tmdbid>1083165</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Miano</name>
+    <role>Braga Double</role>
+    <type>Actor</type>
+    <tmdbid>62715</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Moncada</name>
+    <role>Scar Thug</role>
+    <type>Actor</type>
+    <tmdbid>945491</tmdbid>
+    <imdbid>nm1616991</imdbid>
+  </actor>
+  <actor>
+    <name>McCaleb Burnett</name>
+    <role>Federal Investigator</role>
+    <type>Actor</type>
+    <tmdbid>204509</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Collins</name>
+    <role>Lead Investigator</role>
+    <type>Actor</type>
+    <tmdbid>58950</tmdbid>
+    <imdbid>nm0172333</imdbid>
+  </actor>
+  <actor>
+    <name>Monique Gabriela Curnen</name>
+    <role>FBI Agent</role>
+    <type>Actor</type>
+    <tmdbid>53651</tmdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Lin</name>
+    <role>FBI Agent</role>
+    <type>Actor</type>
+    <tmdbid>1670892</tmdbid>
+  </actor>
+  <actor>
+    <name>Roger Fan</name>
+    <role>FBI Agent</role>
+    <type>Actor</type>
+    <tmdbid>263229</tmdbid>
+  </actor>
+  <actor>
+    <name>Brendan Wayne</name>
+    <role>FBI Agent</role>
+    <type>Actor</type>
+    <tmdbid>946854</tmdbid>
+  </actor>
+  <actor>
+    <name>Breon Ansley</name>
+    <role>FBI Assistant</role>
+    <type>Actor</type>
+    <tmdbid>1695626</tmdbid>
+  </actor>
+  <actor>
+    <name>Assaf Cohen</name>
+    <role>Border Agent</role>
+    <type>Actor</type>
+    <tmdbid>117824</tmdbid>
+  </actor>
+  <actor>
+    <name>Loren Lazerine</name>
+    <role>Border Agent</role>
+    <type>Actor</type>
+    <tmdbid>162383</tmdbid>
+  </actor>
+  <actor>
+    <name>Lou Beatty Jr.</name>
+    <role>Judge</role>
+    <type>Actor</type>
+    <tmdbid>168924</tmdbid>
+    <imdbid>nm0064187</imdbid>
+  </actor>
+  <actor>
+    <name>Julian Starks</name>
+    <role>Bailiff</role>
+    <type>Actor</type>
+    <tmdbid>199368</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Gehrman</name>
+    <role>Impound Clerk</role>
+    <type>Actor</type>
+    <tmdbid>71686</tmdbid>
+  </actor>
+  <actor>
+    <name>Marco Rodríguez</name>
+    <role>Mexican Priest</role>
+    <type>Actor</type>
+    <tmdbid>73132</tmdbid>
+  </actor>
+  <actor>
+    <name>Naureen Zaim</name>
+    <role>Hot Girl</role>
+    <type>Actor</type>
+    <tmdbid>1253926</tmdbid>
+  </actor>
+  <actor>
+    <name>Becky O'Donohue</name>
+    <role>Hot Girl</role>
+    <type>Actor</type>
+    <tmdbid>446351</tmdbid>
+    <imdbid>nm1659558</imdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Castro</name>
+    <role>Woman in Hallway</role>
+    <type>Actor</type>
+    <tmdbid>1695628</tmdbid>
+  </actor>
+  <actor>
+    <name>Leigh Folsom Boyd</name>
+    <role>GPS Voice</role>
+    <type>Actor</type>
+    <tmdbid>1204244</tmdbid>
+  </actor>
+  <director tmdbid="58189">Justin Lin</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9c3-mpDxX-A</trailer>
+  <rating>6.6</rating>
+  <year>2009</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt1013752</imdbid>
+  <tmdbid>13804</tmdbid>
+  <premiered>2009-04-02</premiered>
+  <releasedate>2009-04-02</releasedate>
+  <criticrating>28</criticrating>
+  <runtime>107</runtime>
+  <country>Japan</country>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <studio>DENTSU</studio>
+  <studio>Universal Pictures</studio>
+  <studio>Relativity Media</studio>
+  <studio>Original Film</studio>
+  <studio>One Race</studio>
+  <set tmdbcolid="9485">
+    <name>速度与激情（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">13804</uniqueid>
+  <uniqueid type="Imdb">tt1013752</uniqueid>
+  <id>tt1013752</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>26491819</bitrate>
+        <width>3840</width>
+        <height>1600</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6407</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

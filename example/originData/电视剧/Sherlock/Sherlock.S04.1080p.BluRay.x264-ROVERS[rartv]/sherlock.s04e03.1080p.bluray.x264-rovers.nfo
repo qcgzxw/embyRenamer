@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[一架飞机上的机长及乘客全部昏睡，只有一个小女孩清醒着。夏洛克得知有个妹妹后向麦考夫质问，麦考夫称欧洛丝从小智商超群，但因有犯罪倾向被关到谢林福特监狱。夏洛克发现欧洛丝早已控制了监狱，欧洛丝以飞机上的人命威胁夏洛克，她设下种种关卡和谜题让夏洛克破案，夏洛克饱受摧残。昏迷的夏洛克被运回祖宅，欧洛丝将约翰扔在水井里。夏洛克为了救好友，重新改写的记忆被痛苦唤起，原来小时候欧洛丝因为夏洛克没有和她玩，就将夏洛克的好朋友推入水井中害死。夏洛克制止了空难，那竟是欧洛丝制造出来的情境 。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-24 09:43:31</dateadded>
+  <title>最后的谜题</title>
+  <actor>
+    <name>Benedict Cumberbatch</name>
+    <role>Sherlock Holmes</role>
+    <type>Actor</type>
+    <tmdbid>71580</tmdbid>
+    <imdbid>nm1212722</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Freeman</name>
+    <role>John Watson</role>
+    <type>Actor</type>
+    <tmdbid>7060</tmdbid>
+    <imdbid>nm0293509</imdbid>
+  </actor>
+  <actor>
+    <name>Una Stubbs</name>
+    <role>Mrs. Hudson</role>
+    <type>Actor</type>
+    <tmdbid>1218303</tmdbid>
+    <imdbid>nm0835939</imdbid>
+  </actor>
+  <actor>
+    <name>Rupert Graves</name>
+    <role>DI Greg Lestrade</role>
+    <type>Actor</type>
+    <tmdbid>11278</tmdbid>
+    <imdbid>nm0001291</imdbid>
+  </actor>
+  <actor>
+    <name>Louise Brealey</name>
+    <role>Molly Hooper</role>
+    <type>Actor</type>
+    <tmdbid>1244469</tmdbid>
+    <imdbid>nm1154764</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Gatiss</name>
+    <role>Mycroft Holmes</role>
+    <type>Actor</type>
+    <tmdbid>34546</tmdbid>
+    <imdbid>nm0309693</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Scott</name>
+    <role>Jim Moriarty</role>
+    <type>Actor</type>
+    <tmdbid>125660</tmdbid>
+    <imdbid>nm0778831</imdbid>
+  </actor>
+  <actor>
+    <name>Amanda Abbington</name>
+    <role>Mary Morstan</role>
+    <type>Actor</type>
+    <tmdbid>199522</tmdbid>
+    <imdbid>nm0007893</imdbid>
+  </actor>
+  <actor>
+    <name>Sian Brooke</name>
+    <role>Eurus Holmes</role>
+    <type>GuestStar</type>
+    <tmdbid>1237956</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon Kunz</name>
+    <role>Sir Edwin</role>
+    <type>GuestStar</type>
+    <tmdbid>10701</tmdbid>
+  </actor>
+  <actor>
+    <name>Art Malik</name>
+    <role>Prison Governor</role>
+    <type>GuestStar</type>
+    <tmdbid>10672</tmdbid>
+  </actor>
+  <actor>
+    <name>Timothy Carlton</name>
+    <role>Mr. Holmes</role>
+    <type>GuestStar</type>
+    <tmdbid>96182</tmdbid>
+  </actor>
+  <actor>
+    <name>Wanda Ventham</name>
+    <role>Mrs. Holmes</role>
+    <type>GuestStar</type>
+    <tmdbid>100099</tmdbid>
+  </actor>
+  <actor>
+    <name>Indica Watson</name>
+    <role>Little Eurus</role>
+    <type>GuestStar</type>
+    <tmdbid>2412376</tmdbid>
+  </actor>
+  <director>Benjamin Caron</director>
+  <rating>7.444</rating>
+  <year>2017</year>
+  <imdbid>tt3845892</imdbid>
+  <tvdbid>5866007</tvdbid>
+  <runtime>93</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt3845892</uniqueid>
+  <uniqueid type="Tvdb">5866007</uniqueid>
+  <episode>3</episode>
+  <season>4</season>
+  <aired>2017-01-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10113611</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>92</duration>
+        <durationinseconds>5570</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

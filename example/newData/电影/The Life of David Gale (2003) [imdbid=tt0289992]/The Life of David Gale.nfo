@@ -1,0 +1,890 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[贝茜•布鲁姆（凯特温斯莱 Kate Winslet饰）是纽约某新闻杂志的知名记者，她接到了一个任务是去采访一名死刑犯大卫•戈尔（凯文•斯帕西 Kevin Spacey 饰）。戈尔的罪名是强奸并谋杀了康丝坦斯•哈拉维，并将于周五下午6点被处以死刑，那么布鲁姆将要采访并记录的就是戈尔人生最后的三天，而此前戈尔拒绝了一切采访。布鲁姆起初对这个任务很不以为然，但在和戈尔的接触过程中，她发现一切并非表面呈现的那么简单，于是布鲁姆决定用仅剩的三天开始寻找真相……电影《大卫戈尔的一生》的导演艾伦•帕克凭借该片提名2003年柏林国际电影节金熊奖。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-01-14 01:57:42</dateadded>
+  <title>大卫·戈尔的一生</title>
+  <originaltitle>The Life of David Gale</originaltitle>
+  <actor>
+    <name>Kevin Spacey</name>
+    <role>David Gale</role>
+    <type>Actor</type>
+    <tmdbid>1979</tmdbid>
+    <imdbid>nm0000228</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Winslet</name>
+    <role>Bitsey Bloom</role>
+    <type>Actor</type>
+    <tmdbid>204</tmdbid>
+    <imdbid>nm0000701</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Linney</name>
+    <role>Constance Hallaway</role>
+    <type>Actor</type>
+    <tmdbid>350</tmdbid>
+    <imdbid>nm0001473</imdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Mann</name>
+    <role>Zack Stemmons</role>
+    <type>Actor</type>
+    <tmdbid>32458</tmdbid>
+    <imdbid>nm0542759</imdbid>
+  </actor>
+  <actor>
+    <name>Rhona Mitra</name>
+    <role>Berlin</role>
+    <type>Actor</type>
+    <tmdbid>25702</tmdbid>
+    <imdbid>nm0593961</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Craven</name>
+    <role>Dusty Wright</role>
+    <type>Actor</type>
+    <tmdbid>13525</tmdbid>
+    <imdbid>nm0002023</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Beaver</name>
+    <role>Duke Grover</role>
+    <type>Actor</type>
+    <tmdbid>29862</tmdbid>
+    <imdbid>nm0064769</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa McCarthy</name>
+    <role>Nico the Goth Girl</role>
+    <type>Actor</type>
+    <tmdbid>55536</tmdbid>
+    <imdbid>nm0565250</imdbid>
+  </actor>
+  <actor>
+    <name>Cleo King</name>
+    <role>Barbara Kreuster</role>
+    <type>Actor</type>
+    <tmdbid>7574</tmdbid>
+    <imdbid>nm0454598</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Ritchey</name>
+    <role>Joe Mullarkey</role>
+    <type>Actor</type>
+    <tmdbid>583836</tmdbid>
+    <imdbid>nm0728517</imdbid>
+  </actor>
+  <actor>
+    <name>Brandy Little</name>
+    <role>Motel Waitress</role>
+    <type>Actor</type>
+    <tmdbid>98307</tmdbid>
+    <imdbid>nm0514521</imdbid>
+  </actor>
+  <actor>
+    <name>Leon Rippy</name>
+    <role>Braxton Belyeu</role>
+    <type>Actor</type>
+    <tmdbid>15374</tmdbid>
+    <imdbid>nm0728132</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse De Luna</name>
+    <role>Supervising Guard</role>
+    <type>Actor</type>
+    <tmdbid>977061</tmdbid>
+    <imdbid>nm0209962</imdbid>
+  </actor>
+  <actor>
+    <name>Vernon Grote</name>
+    <role>Door Guard</role>
+    <type>Actor</type>
+    <tmdbid>974854</tmdbid>
+    <imdbid>nm0343827</imdbid>
+  </actor>
+  <actor>
+    <name>Larissa Wolcott</name>
+    <role>Jo Edna the Babysitter</role>
+    <type>Actor</type>
+    <tmdbid>1241931</tmdbid>
+    <imdbid>nm0937456</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Hennigan</name>
+    <role>Ross</role>
+    <type>Actor</type>
+    <tmdbid>109525</tmdbid>
+    <imdbid>nm0377365</imdbid>
+  </actor>
+  <actor>
+    <name>Charles Sanders</name>
+    <role>John</role>
+    <type>Actor</type>
+    <tmdbid>1472372</tmdbid>
+  </actor>
+  <actor>
+    <name>Marco Perella</name>
+    <role>TV Host</role>
+    <type>Actor</type>
+    <tmdbid>994259</tmdbid>
+    <imdbid>nm0673260</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Crabtree</name>
+    <role>Governor Hardin</role>
+    <type>Actor</type>
+    <tmdbid>61567</tmdbid>
+    <imdbid>nm0185611</imdbid>
+  </actor>
+  <actor>
+    <name>Julio Cedillo</name>
+    <role>Officer Ramirez</role>
+    <type>Actor</type>
+    <tmdbid>36634</tmdbid>
+    <imdbid>nm0147814</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Meister</name>
+    <role>Officer Hasermann</role>
+    <type>Actor</type>
+    <tmdbid>1197336</tmdbid>
+    <imdbid>nm1000054</imdbid>
+  </actor>
+  <actor>
+    <name>Cliff Stephens</name>
+    <role>University President</role>
+    <type>Actor</type>
+    <tmdbid>217322</tmdbid>
+    <imdbid>nm0826983</imdbid>
+  </actor>
+  <actor>
+    <name>James Huston</name>
+    <role>DeathWatch Chief / TV Reporter</role>
+    <type>Actor</type>
+    <tmdbid>140884</tmdbid>
+    <imdbid>nm0404123</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Warner</name>
+    <role>Hospital Orderly</role>
+    <type>Actor</type>
+    <tmdbid>139235</tmdbid>
+    <imdbid>nm1070870</imdbid>
+  </actor>
+  <actor>
+    <name>Julia Lashae</name>
+    <role>New Homeowner</role>
+    <type>Actor</type>
+    <tmdbid>1394283</tmdbid>
+    <imdbid>nm0489528</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Posey</name>
+    <role>Inmate Cook</role>
+    <type>Actor</type>
+    <tmdbid>1219824</tmdbid>
+    <imdbid>nm0692670</imdbid>
+  </actor>
+  <actor>
+    <name>Lynn Mathis</name>
+    <role>Warden</role>
+    <type>Actor</type>
+    <tmdbid>559329</tmdbid>
+    <imdbid>nm0558931</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Lott</name>
+    <role>Bullhorn Protester</role>
+    <type>Actor</type>
+    <tmdbid>101981</tmdbid>
+    <imdbid>nm0521519</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Voges</name>
+    <role>Bullhorn Protester</role>
+    <type>Actor</type>
+    <tmdbid>35652</tmdbid>
+    <imdbid>nm0901021</imdbid>
+  </actor>
+  <actor>
+    <name>Katherine Willis</name>
+    <role>Bullhorn Protester</role>
+    <type>Actor</type>
+    <tmdbid>206675</tmdbid>
+    <imdbid>nm0932369</imdbid>
+  </actor>
+  <actor>
+    <name>Amparo Moreno</name>
+    <role>Sharon's Maid</role>
+    <type>Actor</type>
+    <tmdbid>132444</tmdbid>
+    <imdbid>nm0603868</imdbid>
+  </actor>
+  <actor>
+    <name>Janis Kelly</name>
+    <role>Liú</role>
+    <type>Actor</type>
+    <tmdbid>1143403</tmdbid>
+    <imdbid>nm0446462</imdbid>
+  </actor>
+  <actor>
+    <name>Barbara Petricini-Buxton</name>
+    <role>TV Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1249188</tmdbid>
+    <imdbid>nm0677934</imdbid>
+  </actor>
+  <actor>
+    <name>Asia De Marcos</name>
+    <role>TV Reporter</role>
+    <type>Actor</type>
+    <tmdbid>141485</tmdbid>
+    <imdbid>nm0210088</imdbid>
+  </actor>
+  <actor>
+    <name>Amparo García</name>
+    <role>TV Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1446095</tmdbid>
+    <imdbid>nm0305951</imdbid>
+  </actor>
+  <actor>
+    <name>Kirk Sisco</name>
+    <role>TV Reporter</role>
+    <type>Actor</type>
+    <tmdbid>180566</tmdbid>
+    <imdbid>nm0802985</imdbid>
+  </actor>
+  <actor>
+    <name>Cassandra L. Small</name>
+    <role>TV Reporter</role>
+    <type>Actor</type>
+    <tmdbid>111009</tmdbid>
+    <imdbid>nm0806434</imdbid>
+  </actor>
+  <actor>
+    <name>Oliver Tull</name>
+    <role>TV Reporter</role>
+    <type>Actor</type>
+    <tmdbid>232450</tmdbid>
+    <imdbid>nm0876358</imdbid>
+  </actor>
+  <actor>
+    <name>George Haynes</name>
+    <role>Interviewee</role>
+    <type>Actor</type>
+    <tmdbid>1375994</tmdbid>
+    <imdbid>nm0371457</imdbid>
+  </actor>
+  <actor>
+    <name>Kathy Lamkin</name>
+    <role>Interviewee</role>
+    <type>Actor</type>
+    <tmdbid>93927</tmdbid>
+    <imdbid>nm0483541</imdbid>
+  </actor>
+  <actor>
+    <name>Constance Jones</name>
+    <role>Reporter A.J. Roberts</role>
+    <type>Actor</type>
+    <tmdbid>1817204</tmdbid>
+    <imdbid>nm0427801</imdbid>
+  </actor>
+  <actor>
+    <name>Cindy Waite</name>
+    <role>Margie</role>
+    <type>Actor</type>
+    <tmdbid>1817216</tmdbid>
+    <imdbid>nm1331905</imdbid>
+  </actor>
+  <actor>
+    <name>Kimberly Tortorice</name>
+    <role>Grad Student</role>
+    <type>Actor</type>
+    <tmdbid>1817224</tmdbid>
+    <imdbid>nm1331416</imdbid>
+  </actor>
+  <actor>
+    <name>Katie Lott</name>
+    <role>Berlin's Classmate</role>
+    <type>Actor</type>
+    <tmdbid>1817236</tmdbid>
+    <imdbid>nm1331861</imdbid>
+  </actor>
+  <actor>
+    <name>Noah Truesdale</name>
+    <role>Jamie</role>
+    <type>Actor</type>
+    <tmdbid>1817239</tmdbid>
+  </actor>
+  <actor>
+    <name>Chuck Cureau</name>
+    <role>Greer</role>
+    <type>Actor</type>
+    <tmdbid>1817245</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Fontaine</name>
+    <role>TV Assistant Director</role>
+    <type>Actor</type>
+    <tmdbid>1817246</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Gast</name>
+    <role>Sharon Gale</role>
+    <type>Actor</type>
+    <tmdbid>1333917</tmdbid>
+    <imdbid>nm1078689</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Drewy</name>
+    <role>Radio Shed Executive</role>
+    <type>Actor</type>
+    <tmdbid>1817254</tmdbid>
+  </actor>
+  <actor>
+    <name>Katina Potts</name>
+    <role>Rosie</role>
+    <type>Actor</type>
+    <tmdbid>1817256</tmdbid>
+  </actor>
+  <actor>
+    <name>Katherine James</name>
+    <role>Beth</role>
+    <type>Actor</type>
+    <tmdbid>1817258</tmdbid>
+    <imdbid>nm1068433</imdbid>
+  </actor>
+  <actor>
+    <name>Cindy Michelle</name>
+    <role>Constance's Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1817268</tmdbid>
+    <imdbid>nm1301107</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Dorsey</name>
+    <role>College Girl</role>
+    <type>Actor</type>
+    <tmdbid>1817272</tmdbid>
+    <imdbid>nm1105305</imdbid>
+  </actor>
+  <actor>
+    <name>Maurice Moore</name>
+    <role>Belyeu's Clerk</role>
+    <type>Actor</type>
+    <tmdbid>1817277</tmdbid>
+  </actor>
+  <actor>
+    <name>Brenda Sendejo</name>
+    <role>Belyeu's Assistant</role>
+    <type>Actor</type>
+    <tmdbid>1817279</tmdbid>
+    <imdbid>nm1331275</imdbid>
+  </actor>
+  <actor>
+    <name>Rick Morrow</name>
+    <role>Section 1835 Guard</role>
+    <type>Actor</type>
+    <tmdbid>1817280</tmdbid>
+  </actor>
+  <actor>
+    <name>Julia Kay-Laskowski</name>
+    <role>TV Soprano</role>
+    <type>Actor</type>
+    <tmdbid>1817281</tmdbid>
+    <imdbid>nm1330698</imdbid>
+  </actor>
+  <actor>
+    <name>Donald Braswell</name>
+    <role>TV Tenor</role>
+    <type>Actor</type>
+    <tmdbid>1817283</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Gould</name>
+    <role>Chaplain</role>
+    <type>Actor</type>
+    <tmdbid>1817284</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Watkins</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>1817285</tmdbid>
+  </actor>
+  <actor>
+    <name>Gwyn Little</name>
+    <role>Religious Woman</role>
+    <type>Actor</type>
+    <tmdbid>1494880</tmdbid>
+    <imdbid>nm0514576</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Fries</name>
+    <role>News Cameraman</role>
+    <type>Actor</type>
+    <tmdbid>1817288</tmdbid>
+  </actor>
+  <actor>
+    <name>Pilar Ferreiro</name>
+    <role>Barcelona Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>1817289</tmdbid>
+  </actor>
+  <actor>
+    <name>Claudia Parker</name>
+    <role>Mail Girl</role>
+    <type>Actor</type>
+    <tmdbid>1817291</tmdbid>
+    <imdbid>nm1331884</imdbid>
+  </actor>
+  <actor>
+    <name>Joan Gispert</name>
+    <role>Guillermo</role>
+    <type>Actor</type>
+    <tmdbid>1639812</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Richardson</name>
+    <role>Timur</role>
+    <type>Actor</type>
+    <tmdbid>1817294</tmdbid>
+    <imdbid>nm1362599</imdbid>
+  </actor>
+  <actor>
+    <name>Justin Lavender</name>
+    <role>Calaf</role>
+    <type>Actor</type>
+    <tmdbid>1817295</tmdbid>
+  </actor>
+  <actor>
+    <name>David Dahl</name>
+    <role>TV Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1817296</tmdbid>
+  </actor>
+  <actor>
+    <name>Catenya McHenry</name>
+    <role>TV Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1817298</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Orr</name>
+    <role>TV Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1792151</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Valen</name>
+    <role>TV Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1817299</tmdbid>
+    <imdbid>nm1331901</imdbid>
+  </actor>
+  <actor>
+    <name>Tanya Zieger</name>
+    <role>TV Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1817303</tmdbid>
+    <imdbid>nm1331552</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Dawson</name>
+    <role>Interviewee</role>
+    <type>Actor</type>
+    <tmdbid>1817304</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Flanagin</name>
+    <role>Interviewee</role>
+    <type>Actor</type>
+    <tmdbid>1817305</tmdbid>
+  </actor>
+  <actor>
+    <name>Evelyn Lindsey</name>
+    <role>Interviewee</role>
+    <type>Actor</type>
+    <tmdbid>1817306</tmdbid>
+    <imdbid>nm1331859</imdbid>
+  </actor>
+  <actor>
+    <name>T.J. McFarland</name>
+    <role>Interviewee</role>
+    <type>Actor</type>
+    <tmdbid>1744994</tmdbid>
+  </actor>
+  <actor>
+    <name>Deborah Abbott</name>
+    <role>Protestor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1386304</tmdbid>
+    <imdbid>nm1000273</imdbid>
+  </actor>
+  <actor>
+    <name>Stacy Lynn Austin</name>
+    <role>Traveler (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817309</tmdbid>
+    <imdbid>nm1102419</imdbid>
+  </actor>
+  <actor>
+    <name>Jerry M. Barker</name>
+    <role>Concerned Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817310</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard R. Bartholomew</name>
+    <role>Businessman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817311</tmdbid>
+  </actor>
+  <actor>
+    <name>Keith Bright</name>
+    <role>Texas Governor's Aide (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817312</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Brooks</name>
+    <role>College Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817313</tmdbid>
+  </actor>
+  <actor>
+    <name>Pei-San Brown</name>
+    <role>Flight Attendant (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817314</tmdbid>
+    <imdbid>nm0114415</imdbid>
+  </actor>
+  <actor>
+    <name>Dian Childs</name>
+    <role>Dayplayer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817315</tmdbid>
+    <imdbid>nm2782132</imdbid>
+  </actor>
+  <actor>
+    <name>Starla Christian</name>
+    <role>Party Girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1652419</tmdbid>
+    <imdbid>nm1887126</imdbid>
+  </actor>
+  <actor>
+    <name>Wade Couturiaux</name>
+    <role>College Student / Activist (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817317</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Crawford</name>
+    <role>Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817318</tmdbid>
+  </actor>
+  <actor>
+    <name>Constance Dasse</name>
+    <role>Protestor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817319</tmdbid>
+    <imdbid>nm5986601</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew J. Dunn</name>
+    <role>College Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817320</tmdbid>
+  </actor>
+  <actor>
+    <name>Ken Edwards</name>
+    <role>State Trooper / Lunch Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1153847</tmdbid>
+    <imdbid>nm1115830</imdbid>
+  </actor>
+  <actor>
+    <name>Nikki Folsom</name>
+    <role>Reporter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817321</tmdbid>
+    <imdbid>nm1402104</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Hancock</name>
+    <role>Drinking Game Contestant (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817323</tmdbid>
+  </actor>
+  <actor>
+    <name>Garrett Hargrove</name>
+    <role>Coffee Boy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1105698</tmdbid>
+    <imdbid>nm1856909</imdbid>
+  </actor>
+  <actor>
+    <name>Peyton Hayslip</name>
+    <role>Doctor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>56684</tmdbid>
+    <imdbid>nm1105334</imdbid>
+  </actor>
+  <actor>
+    <name>David Scott Heck</name>
+    <role>Patient at AA Meeting (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1815363</tmdbid>
+    <imdbid>nm1109435</imdbid>
+  </actor>
+  <actor>
+    <name>Reda Hicks</name>
+    <role>Party Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817324</tmdbid>
+    <imdbid>nm6817814</imdbid>
+  </actor>
+  <actor>
+    <name>Landon Kash</name>
+    <role>News Crew Cameraman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817325</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert H. Lambert</name>
+    <role>Airline Pilot (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817326</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriel R. Martinez</name>
+    <role>Reporter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817327</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Matthews</name>
+    <role>Protester (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817328</tmdbid>
+  </actor>
+  <actor>
+    <name>C.K. McFarland</name>
+    <role>Carla (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1152042</tmdbid>
+    <imdbid>nm0568749</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Meyer</name>
+    <role>Sports Bar Youth (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1243825</tmdbid>
+    <imdbid>nm1107024</imdbid>
+  </actor>
+  <actor>
+    <name>Brent Mitchell</name>
+    <role>Governor's Bodyguard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817329</tmdbid>
+  </actor>
+  <actor>
+    <name>Cindy Palla</name>
+    <role>Victim's Mother (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817330</tmdbid>
+    <imdbid>nm0657750</imdbid>
+  </actor>
+  <actor>
+    <name>Roger Eduardo Palomino</name>
+    <role>Background Reporter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817332</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Parker</name>
+    <role>Partygoer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>9168</tmdbid>
+    <imdbid>nm0000570</imdbid>
+  </actor>
+  <actor>
+    <name>Paul A. Partain</name>
+    <role>Alcoholic (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>122455</tmdbid>
+    <imdbid>nm0663935</imdbid>
+  </actor>
+  <actor>
+    <name>Keith Poulson</name>
+    <role>College Student / Activist (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1090132</tmdbid>
+    <imdbid>nm1133042</imdbid>
+  </actor>
+  <actor>
+    <name>Glen Powell Sr.</name>
+    <role>Prison Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817334</tmdbid>
+  </actor>
+  <actor>
+    <name>George Renteria</name>
+    <role>Protestor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817335</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicole R. Roberts</name>
+    <role>Protester / Party Girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817336</tmdbid>
+    <imdbid>nm2071595</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Schmid</name>
+    <role>Protestor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1204635</tmdbid>
+    <imdbid>nm2950566</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Schneider</name>
+    <role>Protester (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817337</tmdbid>
+  </actor>
+  <actor>
+    <name>Robin Simmons</name>
+    <role>Interviewee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1506538</tmdbid>
+    <imdbid>nm1183382</imdbid>
+  </actor>
+  <actor>
+    <name>Melanie Stovall</name>
+    <role>News Magazine Secretary (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817339</tmdbid>
+    <imdbid>nm0832911</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Trevino</name>
+    <role>Salsa Dancer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1690501</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Wickerham</name>
+    <role>Shooter at Rally (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1591072</tmdbid>
+    <imdbid>nm0926874</imdbid>
+  </actor>
+  <actor>
+    <name>Michele Williams</name>
+    <role>Flight Attendant (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1742438</tmdbid>
+    <imdbid>nm2289001</imdbid>
+  </actor>
+  <actor>
+    <name>Christine Wolf</name>
+    <role>6th St. Club Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1817341</tmdbid>
+    <imdbid>nm2086703</imdbid>
+  </actor>
+  <actor>
+    <name>Willie Wright</name>
+    <role>Prison Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1572117</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Gibbs</name>
+    <role>Josh</role>
+    <type>Actor</type>
+    <tmdbid>46429</tmdbid>
+    <imdbid>nm1345020</imdbid>
+  </actor>
+  <director tmdbid="9168" imdbid="nm0000570">Alan Parker</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gt7Jmjwjk3I</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=b9zM9VaV2Tk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wRj9IFgs9_g</trailer>
+  <rating>7.5</rating>
+  <year>2003</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0289992</imdbid>
+  <tmdbid>11615</tmdbid>
+  <premiered>2003-02-21</premiered>
+  <releasedate>2003-02-21</releasedate>
+  <criticrating>19</criticrating>
+  <runtime>130</runtime>
+  <country>Germany</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <genre>犯罪</genre>
+  <studio>Mikona Productions GmbH &amp; Co. KG</studio>
+  <studio>Universal Pictures</studio>
+  <studio>Intermedia Films</studio>
+  <studio>Saturn Films</studio>
+  <studio>Dirty Hands Productions</studio>
+  <uniqueid type="Tmdb">11615</uniqueid>
+  <uniqueid type="Imdb">tt0289992</uniqueid>
+  <id>tt0289992</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10801639</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>130</duration>
+        <durationinseconds>7818</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

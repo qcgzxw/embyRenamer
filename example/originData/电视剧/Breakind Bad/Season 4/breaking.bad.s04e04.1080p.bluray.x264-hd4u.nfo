@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Mike 在运输毒品的过程中遭到墨西哥集团的阻截，不过他还是凭借经验保住了这批货，只是耳朵受了伤。Skyler 和 Walter 核对如何向 Hank 他们交代 Walter 赌博的事，聚会上，Hank 向 Walter 展示了 Gale 的搞怪 VCR，Walter 大吃一惊。Walter 偷偷发现了 Gale 的笔记本，借机提出愿意帮助 Hank。Walter 来到 Jesse 家想问他是否在 Gale 家留下了指纹，在 Walter 的一再逼问下，几近崩溃的 Jesse 把 Walter 赶出了门。面对 Hank 的紧逼和 Jesse 的不合作，Walter 向 Saul 抱怨了他危在旦夕的现状，Saul 则告诉 Walter 走投无路之时他可以找到一个神秘人帮助 Walter 跑路，代价是不能够回头了。Saul 把 Jesse 的事告诉了 Mike，Jesse 的钱被偷走他依然不在乎，Mike 找到了小偷并威胁 Jesse 不能再继续混下去了，Jesse 却表现得无所谓。Mike 无奈只能向 Gus 汇报 Jesse 的现状，Walter 发现 Jesse 没来制毒，四处都找不到他，意识到情况不妙的他赶到实验室，斥问 Gus 把 Jesse 带去哪里了，而此时此刻，Jesse 坐上了 Mike 的车驶向郊外。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 16:57:32</dateadded>
+  <title>要点</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Howard</name>
+    <role>Sketchy</role>
+    <type>GuestStar</type>
+    <tmdbid>15034</tmdbid>
+    <imdbid>nm0397386</imdbid>
+  </actor>
+  <actor>
+    <name>David Costabile</name>
+    <role>Gale Boetticher</role>
+    <type>GuestStar</type>
+    <tmdbid>82167</tmdbid>
+    <imdbid>nm0182345</imdbid>
+  </actor>
+  <actor>
+    <name>Ray Campbell</name>
+    <role>Tyrus Kitt</role>
+    <type>GuestStar</type>
+    <tmdbid>159334</tmdbid>
+    <imdbid>nm1530474</imdbid>
+  </actor>
+  <director>Colin Bucksey</director>
+  <rating>8.169</rating>
+  <year>2011</year>
+  <imdbid>tt1683091</imdbid>
+  <tvdbid>4123350</tvdbid>
+  <runtime>45</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt1683091</uniqueid>
+  <uniqueid type="Tvdb">4123350</uniqueid>
+  <episode>4</episode>
+  <season>4</season>
+  <aired>2011-08-07</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10374525</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>45</duration>
+        <durationinseconds>2713</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

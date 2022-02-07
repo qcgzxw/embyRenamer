@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[一次车祸夺走了玛莎（海莉·阿特维尔 Hayley Atwell 饰）的男友艾什（多姆纳尔·格利森 Domhnall Gleeson 饰）的生命。在朋友的推荐下，玛莎利用艾什在社交网络上留下的信息塑造了一个具有人工智能的假艾什。刚开始玛莎只能通过手机听到合成的艾什的声音，不久之后，那个声音告诉玛莎，有一个方法可以让艾什“真正”的回到她的身边。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-06-08 16:36:00</dateadded>
+  <title>马上回来</title>
+  <actor>
+    <name>Hayley Atwell</name>
+    <role>Martha Starmer</role>
+    <type>GuestStar</type>
+    <tmdbid>39459</tmdbid>
+    <imdbid>nm2017943</imdbid>
+  </actor>
+  <actor>
+    <name>Domhnall Gleeson</name>
+    <role>Ash Starmer</role>
+    <type>GuestStar</type>
+    <tmdbid>93210</tmdbid>
+    <imdbid>nm1727304</imdbid>
+  </actor>
+  <actor>
+    <name>Claire Keelan</name>
+    <role>Naomi</role>
+    <type>GuestStar</type>
+    <tmdbid>86477</tmdbid>
+  </actor>
+  <actor>
+    <name>Sinéad Matthews</name>
+    <role>Sara</role>
+    <type>GuestStar</type>
+    <tmdbid>36668</tmdbid>
+    <imdbid>nm1561651</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Delap</name>
+    <role>Simon</role>
+    <type>GuestStar</type>
+    <tmdbid>1256622</tmdbid>
+  </actor>
+  <actor>
+    <name>Indira Ainger</name>
+    <role>Martha's Daughter</role>
+    <type>GuestStar</type>
+    <tmdbid>1866895</tmdbid>
+  </actor>
+  <director>Owen Harris</director>
+  <rating>7.572</rating>
+  <year>2013</year>
+  <imdbid>tt2290780</imdbid>
+  <tvdbid>4418485</tvdbid>
+  <runtime>49</runtime>
+  <genre>Drama</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt2290780</uniqueid>
+  <uniqueid type="Tvdb">4418485</uniqueid>
+  <episode>1</episode>
+  <season>2</season>
+  <aired>2013-02-11</aired>
+  <fileinfo>
+    <streamdetails>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5481937</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>48</duration>
+        <durationinseconds>2919</durationinseconds>
+      </video>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

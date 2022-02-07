@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一名因告密被打入冷宫的台湾警察与美国联邦调查局特工联手，破解一起难倒当地警方的系列谋杀案。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-20 22:17:17</dateadded>
+  <title>双瞳</title>
+  <originaltitle>雙瞳</originaltitle>
+  <actor>
+    <name>Tony Leung Ka-Fai</name>
+    <role>Huang Huo-tu</role>
+    <type>Actor</type>
+    <tmdbid>56861</tmdbid>
+    <imdbid>nm0504899</imdbid>
+  </actor>
+  <actor>
+    <name>René Liu</name>
+    <role>Ching-fang</role>
+    <type>Actor</type>
+    <tmdbid>126735</tmdbid>
+  </actor>
+  <actor>
+    <name>David Morse</name>
+    <role>Kevin Richter</role>
+    <type>Actor</type>
+    <tmdbid>52</tmdbid>
+    <imdbid>nm0001556</imdbid>
+  </actor>
+  <actor>
+    <name>Leon Dai</name>
+    <role>Li Feng-bo</role>
+    <type>Actor</type>
+    <tmdbid>1133858</tmdbid>
+  </actor>
+  <actor>
+    <name>Yang Kuei-Mei</name>
+    <role>Coroner</role>
+    <type>Actor</type>
+    <tmdbid>65354</tmdbid>
+  </actor>
+  <actor>
+    <name>Sihung Lung</name>
+    <role>Taoist Expert</role>
+    <type>Actor</type>
+    <tmdbid>1623</tmdbid>
+    <imdbid>nm0485950</imdbid>
+  </actor>
+  <actor>
+    <name>Brett Climo</name>
+    <role>Serial Killer</role>
+    <type>Actor</type>
+    <tmdbid>138588</tmdbid>
+  </actor>
+  <actor>
+    <name>Huang Wei-Han</name>
+    <role>Mei-Mei</role>
+    <type>Actor</type>
+    <tmdbid>1089567</tmdbid>
+  </actor>
+  <actor>
+    <name>Chang Han</name>
+    <role>Detective Chang</role>
+    <type>Actor</type>
+    <tmdbid>1089570</tmdbid>
+    <imdbid>nm0359217</imdbid>
+  </actor>
+  <actor>
+    <name>Hannah Lin</name>
+    <role>Hsieh Ya-Li</role>
+    <type>Actor</type>
+    <tmdbid>1089571</tmdbid>
+  </actor>
+  <actor>
+    <name>Chou Heng-Yin</name>
+    <role>Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1371118</tmdbid>
+  </actor>
+  <actor>
+    <name>Akio Chen</name>
+    <role>Detective A</role>
+    <type>Actor</type>
+    <tmdbid>1258444</tmdbid>
+  </actor>
+  <actor>
+    <name>Chui De-Hai</name>
+    <role>Detective B</role>
+    <type>Actor</type>
+    <tmdbid>1594514</tmdbid>
+  </actor>
+  <director tmdbid="53218">Kuo-Fu Chen</director>
+  <rating>6.4</rating>
+  <year>2002</year>
+  <imdbid>tt0284066</imdbid>
+  <tmdbid>57100</tmdbid>
+  <premiered>2002-10-17</premiered>
+  <releasedate>2002-10-17</releasedate>
+  <criticrating>60</criticrating>
+  <runtime>113</runtime>
+  <country>Taiwan</country>
+  <country>Hong Kong</country>
+  <genre>悬疑</genre>
+  <genre>动作</genre>
+  <genre>惊悚</genre>
+  <studio>Columbia Pictures Film Production Asia</studio>
+  <uniqueid type="Tmdb">57100</uniqueid>
+  <uniqueid type="Imdb">tt0284066</uniqueid>
+  <id>tt0284066</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9438453</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>113</duration>
+        <durationinseconds>6808</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>Chs&amp;en</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

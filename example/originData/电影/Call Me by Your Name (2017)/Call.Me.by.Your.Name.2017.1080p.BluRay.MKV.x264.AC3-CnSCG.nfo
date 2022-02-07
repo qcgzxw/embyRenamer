@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[根据安德烈·艾席蒙同名小说改编的《请以你的名字呼唤我》，发生在80年代意大利的里维埃拉。突如其来的爱彷佛林中奔出的兽，攫住17岁少年Elio的身与心。他爱上的人大他7岁，是一位来意大利游历的美国大学生。 两人对彼此的着迷、犹疑、试探，让情欲在流动中迸发，成就了一段仅仅 为时六周的初恋。它给男孩留下一生的印记，因为他们在闷热仲夏夜里发现的，是此生再也无法寻找到的东西：完整的、彻底的亲密。]]></plot>
+  <outline><![CDATA[请以你的名字呼唤我]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2018-04-13 13:05:01</dateadded>
+  <title>请以你的名字呼唤我</title>
+  <originaltitle>Call Me by Your Name</originaltitle>
+  <actor>
+    <name>Timothée Chalamet</name>
+    <role>Elio Perlman</role>
+    <type>Actor</type>
+    <tmdbid>1190668</tmdbid>
+    <imdbid>nm3154303</imdbid>
+  </actor>
+  <actor>
+    <name>Armie Hammer</name>
+    <role>Oliver</role>
+    <type>Actor</type>
+    <tmdbid>53807</tmdbid>
+    <imdbid>nm2309517</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Stuhlbarg</name>
+    <role>Samuel Perlman</role>
+    <type>Actor</type>
+    <tmdbid>72873</tmdbid>
+    <imdbid>nm0836121</imdbid>
+  </actor>
+  <actor>
+    <name>Amira Casar</name>
+    <role>Annella Perlman</role>
+    <type>Actor</type>
+    <tmdbid>20577</tmdbid>
+    <imdbid>nm0142972</imdbid>
+  </actor>
+  <actor>
+    <name>Esther Garrel</name>
+    <role>Marzia</role>
+    <type>Actor</type>
+    <tmdbid>935096</tmdbid>
+    <imdbid>nm1081257</imdbid>
+  </actor>
+  <actor>
+    <name>Victoire Du Bois</name>
+    <role>Chiara</role>
+    <type>Actor</type>
+    <tmdbid>1592949</tmdbid>
+    <imdbid>nm4973460</imdbid>
+  </actor>
+  <actor>
+    <name>Vanda Capriolo</name>
+    <role>Mafalda</role>
+    <type>Actor</type>
+    <tmdbid>1789600</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Rimoldi</name>
+    <role>Anchise</role>
+    <type>Actor</type>
+    <tmdbid>1789602</tmdbid>
+  </actor>
+  <actor>
+    <name>Elena Bucci</name>
+    <role>Bambi</role>
+    <type>Actor</type>
+    <tmdbid>1526272</tmdbid>
+    <imdbid>nm1997283</imdbid>
+  </actor>
+  <actor>
+    <name>Marco Sgrosso</name>
+    <role>Nico</role>
+    <type>Actor</type>
+    <tmdbid>1789603</tmdbid>
+  </actor>
+  <actor>
+    <name>André Aciman</name>
+    <role>Mounir</role>
+    <type>Actor</type>
+    <tmdbid>1789604</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Spears</name>
+    <role>Isaac</role>
+    <type>Actor</type>
+    <tmdbid>156483</tmdbid>
+    <imdbid>nm0817379</imdbid>
+  </actor>
+  <director tmdbid="78160" imdbid="nm0345174">Luca Guadagnino</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Z9AYPxH5NTM</trailer>
+  <rating>7.9</rating>
+  <year>2017</year>
+  <mpaa>HK-III</mpaa>
+  <imdbid>tt5726616</imdbid>
+  <tmdbid>398818</tmdbid>
+  <premiered>2017-09-01</premiered>
+  <releasedate>2017-09-01</releasedate>
+  <criticrating>94</criticrating>
+  <runtime>132</runtime>
+  <tagline>请以你的名字呼唤我</tagline>
+  <country>France</country>
+  <country>Italy</country>
+  <country>United States of America</country>
+  <genre>爱情</genre>
+  <genre>剧情</genre>
+  <studio>La Cinéfacture</studio>
+  <studio>RT Features</studio>
+  <studio>Frenesy Film Company</studio>
+  <studio>Water's End Productions</studio>
+  <studio>M.Y.R.A. Entertainment</studio>
+  <studio>Memento Films International</studio>
+  <studio>Ministero per i Beni e le Attività Culturali</studio>
+  <studio>Sony Pictures Classics</studio>
+  <uniqueid type="Tmdb">398818</uniqueid>
+  <uniqueid type="Imdb">tt5726616</uniqueid>
+  <id>tt5726616</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4641701</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>132</duration>
+        <durationinseconds>7920</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

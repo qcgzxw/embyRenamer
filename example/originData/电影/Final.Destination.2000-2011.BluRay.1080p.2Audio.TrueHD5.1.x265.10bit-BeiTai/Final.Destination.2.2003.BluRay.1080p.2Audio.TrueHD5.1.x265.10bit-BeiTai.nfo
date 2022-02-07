@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　少女金伯莉（A.J. Cook 饰）与好友驱车去郊外游玩，途中她预见一场严重的连环交通事故，而自己和朋友也将命丧其中。猛然惊醒的金伯莉将车横在路中央，阻挡了后面的车辆。然而车祸仍然发生，金伯莉侥幸逃过一劫，另有六人从灾难中逃生。这奇异的经历让众人想起180号航班幸存者的故事。　　正如他们预料的那样，死神不会放过任何一个逃跑者。这些幸存者按照他们本该在车祸中死去的顺序一个接一个在各种巧合和意外中死去，金伯莉成为最后的生者。她得知180航班幸存者克莉尔（Ali Larter 饰）仍然健在，她希望从克莉尔那里得到逃脱死神魔爪的办法……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-12 18:03:41</dateadded>
+  <title>死神来了2</title>
+  <originaltitle>Final Destination 2</originaltitle>
+  <actor>
+    <name>A.J. Cook</name>
+    <role>Kimberly Corman</role>
+    <type>Actor</type>
+    <tmdbid>17236</tmdbid>
+  </actor>
+  <actor>
+    <name>Ali Larter</name>
+    <role>Clear Rivers</role>
+    <type>Actor</type>
+    <tmdbid>17303</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Landes</name>
+    <role>Officer Thomas Burke</role>
+    <type>Actor</type>
+    <tmdbid>57428</tmdbid>
+    <imdbid>nm0484678</imdbid>
+  </actor>
+  <actor>
+    <name>Terrence 'T.C.' Carson</name>
+    <role>Eugene Dix</role>
+    <type>Actor</type>
+    <tmdbid>233191</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Cherry</name>
+    <role>Rory</role>
+    <type>Actor</type>
+    <tmdbid>51937</tmdbid>
+  </actor>
+  <actor>
+    <name>Keegan Connor Tracy</name>
+    <role>Kat</role>
+    <type>Actor</type>
+    <tmdbid>42710</tmdbid>
+  </actor>
+  <actor>
+    <name>Lynda Boyd</name>
+    <role>Nora Carpenter</role>
+    <type>Actor</type>
+    <tmdbid>20188</tmdbid>
+  </actor>
+  <actor>
+    <name>James Kirk</name>
+    <role>Tim Carpenter</role>
+    <type>Actor</type>
+    <tmdbid>58374</tmdbid>
+  </actor>
+  <actor>
+    <name>Justina Machado</name>
+    <role>Isabella Hudson</role>
+    <type>Actor</type>
+    <tmdbid>95517</tmdbid>
+  </actor>
+  <actor>
+    <name>David Paetkau</name>
+    <role>Evan Lewis</role>
+    <type>Actor</type>
+    <tmdbid>33293</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Todd</name>
+    <role>William Bludworth</role>
+    <type>Actor</type>
+    <tmdbid>19384</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Carter</name>
+    <role>Shaina</role>
+    <type>Actor</type>
+    <tmdbid>56825</tmdbid>
+  </actor>
+  <actor>
+    <name>Alejandro Rae</name>
+    <role>Dano</role>
+    <type>Actor</type>
+    <tmdbid>90132</tmdbid>
+  </actor>
+  <actor>
+    <name>Shaun Sipos</name>
+    <role>Frankie</role>
+    <type>Actor</type>
+    <tmdbid>65772</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Airlie</name>
+    <role>Mr. Corman</role>
+    <type>Actor</type>
+    <tmdbid>41436</tmdbid>
+  </actor>
+  <actor>
+    <name>Noel Fisher</name>
+    <role>Brian Gibbons</role>
+    <type>Actor</type>
+    <tmdbid>80352</tmdbid>
+    <imdbid>nm0279720</imdbid>
+  </actor>
+  <actor>
+    <name>Christina Jastrzembska</name>
+    <role>Administrator</role>
+    <type>Actor</type>
+    <tmdbid>158587</tmdbid>
+    <imdbid>nm0419363</imdbid>
+  </actor>
+  <actor>
+    <name>Eileen Pedde</name>
+    <role>Anesthesiologist</role>
+    <type>Actor</type>
+    <tmdbid>52457</tmdbid>
+  </actor>
+  <actor>
+    <name>Jill Krop</name>
+    <role>Anchorwoman</role>
+    <type>Actor</type>
+    <tmdbid>1749245</tmdbid>
+  </actor>
+  <actor>
+    <name>Marrett Green</name>
+    <role>Anchorman</role>
+    <type>Actor</type>
+    <tmdbid>1576976</tmdbid>
+  </actor>
+  <actor>
+    <name>Benita Ha</name>
+    <role>Dental Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>75532</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron Douglas</name>
+    <role>Deputy Steve</role>
+    <type>Actor</type>
+    <tmdbid>77222</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Keenleyside</name>
+    <role>Detective Suby</role>
+    <type>Actor</type>
+    <tmdbid>2250</tmdbid>
+  </actor>
+  <actor>
+    <name>Enid-Raye Adams</name>
+    <role>Dr. Kalarjian</role>
+    <type>Actor</type>
+    <tmdbid>79152</tmdbid>
+  </actor>
+  <actor>
+    <name>Fred Henderson</name>
+    <role>Dr. Lees</role>
+    <type>Actor</type>
+    <tmdbid>158374</tmdbid>
+  </actor>
+  <actor>
+    <name>Darcy Laurie</name>
+    <role>Man in Elevator</role>
+    <type>Actor</type>
+    <tmdbid>1216570</tmdbid>
+  </actor>
+  <actor>
+    <name>John R. Taylor</name>
+    <role>Man with Hooks</role>
+    <type>Actor</type>
+    <tmdbid>80344</tmdbid>
+  </actor>
+  <actor>
+    <name>Alf Humphreys</name>
+    <role>Mr. Gibbons</role>
+    <type>Actor</type>
+    <tmdbid>16559</tmdbid>
+  </actor>
+  <actor>
+    <name>Chilton Crane</name>
+    <role>Mrs. Gibbons</role>
+    <type>Actor</type>
+    <tmdbid>86530</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Bell</name>
+    <role>Biker</role>
+    <type>Actor</type>
+    <tmdbid>2094881</tmdbid>
+  </actor>
+  <actor>
+    <name>Odessa Munroe</name>
+    <role>Biker's Girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>1244171</tmdbid>
+  </actor>
+  <actor>
+    <name>Alison Matthews</name>
+    <role>Physician</role>
+    <type>Actor</type>
+    <tmdbid>1226569</tmdbid>
+  </actor>
+  <actor>
+    <name>John Stewart</name>
+    <role>Paramedic at Farm</role>
+    <type>Actor</type>
+    <tmdbid>1432102</tmdbid>
+  </actor>
+  <actor>
+    <name>Rheta Hutton</name>
+    <role>On-Ramp Lady</role>
+    <type>Actor</type>
+    <tmdbid>1507849</tmdbid>
+  </actor>
+  <director tmdbid="4755">David R. Ellis</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=N4wNv1zuYDc</trailer>
+  <rating>6.2</rating>
+  <year>2003</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0309593</imdbid>
+  <tmdbid>9358</tmdbid>
+  <premiered>2003-01-31</premiered>
+  <releasedate>2003-01-31</releasedate>
+  <criticrating>48</criticrating>
+  <runtime>90</runtime>
+  <country>United States of America</country>
+  <genre>恐怖</genre>
+  <genre>悬疑</genre>
+  <studio>New Line Cinema</studio>
+  <studio>Zide-Perry Productions</studio>
+  <set tmdbcolid="8864">
+    <name>死神来了（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">9358</uniqueid>
+  <uniqueid type="Imdb">tt0309593</uniqueid>
+  <id>tt0309593</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>11893606</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>90</duration>
+        <durationinseconds>5411</durationinseconds>
+      </video>
+      <audio>
+        <codec>truehd</codec>
+        <micodec>truehd</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

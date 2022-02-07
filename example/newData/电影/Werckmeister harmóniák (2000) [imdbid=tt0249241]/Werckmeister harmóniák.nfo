@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一个位于匈牙利平原上的小镇迎来了一个马戏团，最为独特的是这个马戏团有一条鲸鱼的尸体和一个神秘的王子。自从这个马戏团来到这个小镇，所有的秩序都收到干扰，最终爆发了一场暴利与善良的冲突……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-09-11 03:39:19</dateadded>
+  <title>鲸鱼马戏团</title>
+  <originaltitle>Werckmeister harmóniák</originaltitle>
+  <actor>
+    <name>Lars Rudolph</name>
+    <role>János Valuska</role>
+    <type>Actor</type>
+    <tmdbid>1087</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Fitz</name>
+    <role>György Eszter</role>
+    <type>Actor</type>
+    <tmdbid>17546</tmdbid>
+  </actor>
+  <actor>
+    <name>Hanna Schygulla</name>
+    <role>Tünde Eszter</role>
+    <type>Actor</type>
+    <tmdbid>3734</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfréd Járai</name>
+    <role>Lajos Harrer</role>
+    <type>Actor</type>
+    <tmdbid>89812</tmdbid>
+  </actor>
+  <actor>
+    <name>Gyula Pauer</name>
+    <role>Mr. Hagelmayer</role>
+    <type>Actor</type>
+    <tmdbid>85640</tmdbid>
+  </actor>
+  <actor>
+    <name>János Derzsi</name>
+    <role>Man In The Broad-Cloth Coat</role>
+    <type>Actor</type>
+    <tmdbid>402999</tmdbid>
+  </actor>
+  <actor>
+    <name>Mihály Kormos</name>
+    <role>Factotum</role>
+    <type>Actor</type>
+    <tmdbid>591875</tmdbid>
+  </actor>
+  <actor>
+    <name>Putyi Horváth</name>
+    <role>Porter</role>
+    <type>Actor</type>
+    <tmdbid>224341</tmdbid>
+  </actor>
+  <actor>
+    <name>Éva Almássy Albert</name>
+    <role>Aunt Piri</role>
+    <type>Actor</type>
+    <tmdbid>224343</tmdbid>
+  </actor>
+  <actor>
+    <name>Péter Dobai</name>
+    <role>Chief Constable</role>
+    <type>Actor</type>
+    <tmdbid>70914</tmdbid>
+  </actor>
+  <actor>
+    <name>László feLugossy</name>
+    <role>Housepainter</role>
+    <type>Actor</type>
+    <tmdbid>224342</tmdbid>
+  </actor>
+  <actor>
+    <name>Barna Mihók</name>
+    <role>Coachman</role>
+    <type>Actor</type>
+    <tmdbid>1602286</tmdbid>
+  </actor>
+  <actor>
+    <name>Sandor Bese</name>
+    <role>The Prince</role>
+    <type>Actor</type>
+    <tmdbid>1976708</tmdbid>
+  </actor>
+  <director tmdbid="85637">Béla Tarr</director>
+  <director tmdbid="107858">Ágnes Hranitzky</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nSY7rxr0n04</trailer>
+  <rating>8.2</rating>
+  <year>2000</year>
+  <imdbid>tt0249241</imdbid>
+  <tmdbid>23160</tmdbid>
+  <premiered>2000-07-12</premiered>
+  <releasedate>2000-07-12</releasedate>
+  <criticrating>98</criticrating>
+  <runtime>139</runtime>
+  <country>France</country>
+  <country>Germany</country>
+  <country>Hungary</country>
+  <country>Italy</country>
+  <genre>剧情</genre>
+  <studio>Magyar Mozgókép Alapítvány</studio>
+  <studio>13 Productions</studio>
+  <studio>ARTE</studio>
+  <studio>Fondazione Montecinemaverita</studio>
+  <studio>Goëss Film</studio>
+  <studio>Magyar Televízió Müvelödési Föszerkesztöség (MTV) (I)</studio>
+  <studio>Nemzeti Kultúrális Alapprogram</studio>
+  <studio>Országos Rádió és Televízió Testület (ORTT)</studio>
+  <studio>Studio Babelsberg</studio>
+  <studio>Von Vietinghoff Filmproduktion (VVF)</studio>
+  <studio>ZDF</studio>
+  <studio>RAI</studio>
+  <uniqueid type="Tmdb">23160</uniqueid>
+  <uniqueid type="Imdb">tt0249241</uniqueid>
+  <id>tt0249241</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1056274</bitrate>
+        <width>698</width>
+        <height>474</height>
+        <aspect>1396:869</aspect>
+        <aspectratio>1396:869</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>139</duration>
+        <durationinseconds>8367</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

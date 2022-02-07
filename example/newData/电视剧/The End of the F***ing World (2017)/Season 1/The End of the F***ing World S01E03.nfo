@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[两人希望找地方避几天，于是闯入一座设施豪华的房子，并且发现了一个令人不安的秘密。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-11-07 15:48:18</dateadded>
+  <title>第 3 集</title>
+  <actor>
+    <name>Alex Lawther</name>
+    <role>James</role>
+    <type>Actor</type>
+    <tmdbid>1379277</tmdbid>
+    <imdbid>nm3867299</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Barden</name>
+    <role>Alyssa</role>
+    <type>Actor</type>
+    <tmdbid>550552</tmdbid>
+    <imdbid>nm1875238</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Oram</name>
+    <role>Phil</role>
+    <type>Actor</type>
+    <tmdbid>219367</tmdbid>
+    <imdbid>nm1361530</imdbid>
+  </actor>
+  <actor>
+    <name>Polly Kemp</name>
+    <role>Rita</role>
+    <type>GuestStar</type>
+    <tmdbid>210169</tmdbid>
+    <imdbid>nm0447353</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Sawyer</name>
+    <role>Topher</role>
+    <type>GuestStar</type>
+    <tmdbid>1221157</tmdbid>
+    <imdbid>nm4236592</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Veal</name>
+    <role>Little James</role>
+    <type>GuestStar</type>
+    <tmdbid>1972389</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Aris</name>
+    <role>Professor Clive Koch</role>
+    <type>GuestStar</type>
+    <tmdbid>28477</tmdbid>
+    <imdbid>nm0034877</imdbid>
+  </actor>
+  <director>Jonathan Entwistle</director>
+  <rating>8.5</rating>
+  <year>2017</year>
+  <imdbid>tt6916932</imdbid>
+  <tvdbid>6379880</tvdbid>
+  <runtime>22</runtime>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt6916932</uniqueid>
+  <uniqueid type="Tvdb">6379880</uniqueid>
+  <episode>3</episode>
+  <season>1</season>
+  <aired>2017-10-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>51909193</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1310</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

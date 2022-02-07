@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[大好青年车文杰邂逅了公司老板千金程乐儿，在乐儿好友Banana的撮合下两人迅速陷入热恋。乐儿前男友金默基得知情况后，马上对车文杰产生敌意，聘请整蛊专家古晶作弄车文杰，让他一无所有。于是古晶假扮车文杰父亲车亲仁从大陆来的私生子，从中捣乱。古晶的到来令车文杰的生活打乱，一切事仿佛都在古晶的操控之中。但Banana发现了古晶的真实身份，劝古晶顾念车家父子对他的照顾，转过头帮忙车文杰对付金默基。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-04 14:16:55</dateadded>
+  <title>整蛊专家</title>
+  <originaltitle>整蠱專家</originaltitle>
+  <actor>
+    <name>Stephen Chow</name>
+    <role>Koo Jing / Chi Man-Jing / Maggie Koo</role>
+    <type>Actor</type>
+    <tmdbid>57607</tmdbid>
+    <imdbid>nm0159507</imdbid>
+  </actor>
+  <actor>
+    <name>Andy Lau</name>
+    <role>Chi Man-Kit</role>
+    <type>Actor</type>
+    <tmdbid>25246</tmdbid>
+    <imdbid>nm0490489</imdbid>
+  </actor>
+  <actor>
+    <name>Rosamund Kwan</name>
+    <role>Lucy Ching</role>
+    <type>Actor</type>
+    <tmdbid>65987</tmdbid>
+    <imdbid>nm0263851</imdbid>
+  </actor>
+  <actor>
+    <name>Chingmy Yau</name>
+    <role>Banana Fung</role>
+    <type>Actor</type>
+    <tmdbid>67222</tmdbid>
+    <imdbid>nm0946873</imdbid>
+  </actor>
+  <actor>
+    <name>Ng Man-tat</name>
+    <role>Yan-Chi</role>
+    <type>Actor</type>
+    <tmdbid>70437</tmdbid>
+    <imdbid>nm0628806</imdbid>
+  </actor>
+  <actor>
+    <name>Waise Lee</name>
+    <role>Macky Kam</role>
+    <type>Actor</type>
+    <tmdbid>25249</tmdbid>
+    <imdbid>nm0498429</imdbid>
+  </actor>
+  <actor>
+    <name>Wong Jing</name>
+    <role>Chiu</role>
+    <type>Actor</type>
+    <tmdbid>548474</tmdbid>
+    <imdbid>nm0939147</imdbid>
+  </actor>
+  <actor>
+    <name>Bau Hon-Lam</name>
+    <role>Mr Ching</role>
+    <type>Actor</type>
+    <tmdbid>116052</tmdbid>
+    <imdbid>nm0510935</imdbid>
+  </actor>
+  <actor>
+    <name>John Ching Tung</name>
+    <role>Ultimate Tricky Expert</role>
+    <type>Actor</type>
+    <tmdbid>1134731</tmdbid>
+    <imdbid>nm3214848</imdbid>
+  </actor>
+  <actor>
+    <name>Mannor Chan</name>
+    <role>Yan Chi's ex-lover</role>
+    <type>Actor</type>
+    <tmdbid>1392192</tmdbid>
+  </actor>
+  <actor>
+    <name>Shing Fui-On</name>
+    <role>Mr Chu [cameo]</role>
+    <type>Actor</type>
+    <tmdbid>119447</tmdbid>
+    <imdbid>nm0793924</imdbid>
+  </actor>
+  <actor>
+    <name>Yu Miu-Lin</name>
+    <role>Mrs Chu</role>
+    <type>Actor</type>
+    <tmdbid>1358804</tmdbid>
+  </actor>
+  <actor>
+    <name>Lo Fan</name>
+    <role>Sharky</role>
+    <type>Actor</type>
+    <tmdbid>1615348</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Cho</name>
+    <role>Single Eyes</role>
+    <type>Actor</type>
+    <tmdbid>26755</tmdbid>
+    <imdbid>nm0158605</imdbid>
+  </actor>
+  <actor>
+    <name>Jo Jo Ngan</name>
+    <role>Banana's hired whore</role>
+    <type>Actor</type>
+    <tmdbid>1580525</tmdbid>
+  </actor>
+  <actor>
+    <name>Benz Kong</name>
+    <role>Mr Kut Chun</role>
+    <type>Actor</type>
+    <tmdbid>1191766</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Lung Biu</name>
+    <role>Bald disco rascal</role>
+    <type>Actor</type>
+    <tmdbid>1425549</tmdbid>
+  </actor>
+  <director tmdbid="548474" imdbid="nm0939147">Wong Jing</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9d5Nt7It5iA</trailer>
+  <rating>7</rating>
+  <year>1991</year>
+  <imdbid>tt0103328</imdbid>
+  <tmdbid>41364</tmdbid>
+  <premiered>1991-02-02</premiered>
+  <releasedate>1991-02-02</releasedate>
+  <criticrating>80</criticrating>
+  <runtime>108</runtime>
+  <country>Hong Kong</country>
+  <genre>喜剧</genre>
+  <studio>Win's Movie Productions Ltd.</studio>
+  <uniqueid type="Imdb">tt0103328</uniqueid>
+  <uniqueid type="Tmdb">41364</uniqueid>
+  <id>tt0103328</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4420957</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>107</duration>
+        <durationinseconds>6452</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>320000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

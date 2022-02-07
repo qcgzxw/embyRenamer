@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[患有阿兹海默症的连续杀人犯炳秀(薛耿求饰)金盆洗手，可村庄却再现连环杀人案，这让炳秀陷入混乱记忆之中。于此同时女儿(金雪炫饰)，神秘男子(金南佶饰)也身陷其中。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2017-11-04 08:46:11</dateadded>
+  <title>杀人者的记忆法</title>
+  <originaltitle>살인자의 기억법</originaltitle>
+  <actor>
+    <name>Sol Kyung-gu</name>
+    <role>Byung-su</role>
+    <type>Actor</type>
+    <tmdbid>85008</tmdbid>
+    <imdbid>nm0812555</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Nam-gil</name>
+    <role>Tae-ju</role>
+    <type>Actor</type>
+    <tmdbid>110388</tmdbid>
+    <imdbid>nm2339825</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Seol-hyun</name>
+    <role>Eun-hee</role>
+    <type>Actor</type>
+    <tmdbid>1374514</tmdbid>
+    <imdbid>nm7267705</imdbid>
+  </actor>
+  <actor>
+    <name>Oh Dal-su</name>
+    <role>Byung-man</role>
+    <type>Actor</type>
+    <tmdbid>77188</tmdbid>
+    <imdbid>nm1367681</imdbid>
+  </actor>
+  <actor>
+    <name>Hwang Suk-jung</name>
+    <role>Yeon-ju</role>
+    <type>Actor</type>
+    <tmdbid>1731537</tmdbid>
+    <imdbid>nm3030006</imdbid>
+  </actor>
+  <actor>
+    <name>Kil Hae-yeon</name>
+    <role>Maria</role>
+    <type>Actor</type>
+    <tmdbid>1191711</tmdbid>
+    <imdbid>nm4725068</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Byung-joon</name>
+    <role>Poetry Instructor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>989991</tmdbid>
+    <imdbid>nm2293535</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Min-jae</name>
+    <role>Young Prosecutor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>573792</tmdbid>
+  </actor>
+  <actor>
+    <name>Jo Jae-yoon</name>
+    <role>Doctor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>566375</tmdbid>
+    <imdbid>nm3294000</imdbid>
+  </actor>
+  <actor>
+    <name>Choi Yoo-song</name>
+    <role>Byung-su's mother (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1641821</tmdbid>
+    <imdbid>nm7606298</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Han-joon</name>
+    <role>Detective (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1731539</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Hye-yoon</name>
+    <role>young Maria (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2214888</tmdbid>
+    <imdbid>nm10222635</imdbid>
+  </actor>
+  <director tmdbid="87894" imdbid="nm2008414">Won Shin-yeon</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QAGZ9srTHDM</trailer>
+  <rating>7.2</rating>
+  <year>2017</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt5729348</imdbid>
+  <tmdbid>432836</tmdbid>
+  <premiered>2017-09-07</premiered>
+  <releasedate>2017-09-07</releasedate>
+  <criticrating>77</criticrating>
+  <runtime>118</runtime>
+  <country>South Korea</country>
+  <genre>惊悚</genre>
+  <genre>动作</genre>
+  <genre>犯罪</genre>
+  <studio>Showbox</studio>
+  <studio>W-Pictures</studio>
+  <studio>Rear Window</studio>
+  <uniqueid type="Imdb">tt5729348</uniqueid>
+  <uniqueid type="Tmdb">432836</uniqueid>
+  <id>tt5729348</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3456598</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>118</duration>
+        <durationinseconds>7093</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>189375</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

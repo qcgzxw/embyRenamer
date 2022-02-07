@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　在当代的美国纽约的曼哈顿街区里隐居着一位魔法巫师巴尔萨泽·布莱克(尼古拉斯·凯奇饰),他和女巫维罗妮卡(莫妮卡·贝鲁奇饰)一直与自己的宿敌马克西姆·霍瓦斯(阿尔弗雷德·莫里纳饰)在纽约的街头巷尾里对抗着。许多年来一直未分胜负,但是由于马克西姆凭借黑暗力量日益强大,巴尔萨泽深感自己不再是他的对手,因此他决定要训练学徒来继承自己的衣钵,可被他寄予厚望的新徒弟戴夫·斯特特勒(杰伊·巴鲁切尔饰)怎么看都不是这块料,他整天想着的不是魔法,而是心仪的女生贝蒂(泰莉莎·帕尔墨饰)。于是,为了将他训练成可以与黑暗势力对抗的魔法巫师,巴尔萨泽开始了一系列可以调动戴夫生存勇气的训练计划……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-01-19 08:32:23</dateadded>
+  <title>魔法师的学徒</title>
+  <originaltitle>The Sorcerer's Apprentice</originaltitle>
+  <actor>
+    <name>Nicolas Cage</name>
+    <role>Balthazar Blake</role>
+    <type>Actor</type>
+    <tmdbid>2963</tmdbid>
+    <imdbid>nm0000115</imdbid>
+  </actor>
+  <actor>
+    <name>Jay Baruchel</name>
+    <role>Dave Stutler</role>
+    <type>Actor</type>
+    <tmdbid>449</tmdbid>
+    <imdbid>nm0059431</imdbid>
+  </actor>
+  <actor>
+    <name>Alfred Molina</name>
+    <role>Maxim Horvath</role>
+    <type>Actor</type>
+    <tmdbid>658</tmdbid>
+    <imdbid>nm0000547</imdbid>
+  </actor>
+  <actor>
+    <name>Teresa Palmer</name>
+    <role>Becky Barnes</role>
+    <type>Actor</type>
+    <tmdbid>20374</tmdbid>
+  </actor>
+  <actor>
+    <name>Toby Kebbell</name>
+    <role>Drake Stone</role>
+    <type>Actor</type>
+    <tmdbid>20286</tmdbid>
+    <imdbid>nm1527905</imdbid>
+  </actor>
+  <actor>
+    <name>Omar Benson Miller</name>
+    <role>Bennet</role>
+    <type>Actor</type>
+    <tmdbid>334</tmdbid>
+  </actor>
+  <actor>
+    <name>Monica Bellucci</name>
+    <role>Veronica Gorloisen</role>
+    <type>Actor</type>
+    <tmdbid>28782</tmdbid>
+    <imdbid>nm0000899</imdbid>
+  </actor>
+  <actor>
+    <name>Alice Krige</name>
+    <role>Morgana le Fay</role>
+    <type>Actor</type>
+    <tmdbid>2506</tmdbid>
+  </actor>
+  <actor>
+    <name>Jake Cherry</name>
+    <role>Young Dave</role>
+    <type>Actor</type>
+    <tmdbid>17834</tmdbid>
+  </actor>
+  <actor>
+    <name>James A. Stephens</name>
+    <role>Merlin</role>
+    <type>Actor</type>
+    <tmdbid>1187835</tmdbid>
+  </actor>
+  <actor>
+    <name>Gregory Woo</name>
+    <role>Sun-Lok</role>
+    <type>Actor</type>
+    <tmdbid>1187836</tmdbid>
+  </actor>
+  <actor>
+    <name>Wai Ching Ho</name>
+    <role>Chinese Woman</role>
+    <type>Actor</type>
+    <tmdbid>1269910</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason R. Moore</name>
+    <role>Subway Mugger</role>
+    <type>Actor</type>
+    <tmdbid>555252</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Capron</name>
+    <role>Young Dave's Pal</role>
+    <type>Actor</type>
+    <tmdbid>111922</tmdbid>
+  </actor>
+  <actor>
+    <name>Peyton List</name>
+    <role>Young Becky</role>
+    <type>Actor</type>
+    <tmdbid>1254435</tmdbid>
+  </actor>
+  <actor>
+    <name>Sándor Técsy</name>
+    <role>Russian Man</role>
+    <type>Actor</type>
+    <tmdbid>1422570</tmdbid>
+  </actor>
+  <actor>
+    <name>Marika Daciuk</name>
+    <role>Russian Woman</role>
+    <type>Actor</type>
+    <tmdbid>1528360</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicole Ehinger</name>
+    <role>Abigail Williams</role>
+    <type>Actor</type>
+    <tmdbid>1580133</tmdbid>
+  </actor>
+  <actor>
+    <name>Adriane Lenox</name>
+    <role>Ms. Algar</role>
+    <type>Actor</type>
+    <tmdbid>53260</tmdbid>
+    <imdbid>nm0502180</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Peck</name>
+    <role>Andre</role>
+    <type>Actor</type>
+    <tmdbid>119586</tmdbid>
+    <imdbid>nm0669656</imdbid>
+  </actor>
+  <actor>
+    <name>Manish Dayal</name>
+    <role>NYU Clerk</role>
+    <type>Actor</type>
+    <tmdbid>964971</tmdbid>
+  </actor>
+  <actor>
+    <name>Oscar A. Colon</name>
+    <role>Fry Cook</role>
+    <type>Actor</type>
+    <tmdbid>60801</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Lisi</name>
+    <role>Police Captain</role>
+    <type>Actor</type>
+    <tmdbid>1217553</tmdbid>
+  </actor>
+  <actor>
+    <name>William Devlin</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>552409</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor Cruz</name>
+    <role>Auto Impound Clerk</role>
+    <type>Actor</type>
+    <tmdbid>979216</tmdbid>
+  </actor>
+  <actor>
+    <name>Melissa Gallagher</name>
+    <role>Woman on the Street</role>
+    <type>Actor</type>
+    <tmdbid>2786958</tmdbid>
+  </actor>
+  <actor>
+    <name>Parisa Fitz-Henley</name>
+    <role>Bennet's Girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>46773</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Gill</name>
+    <role>Student in Bathroom</role>
+    <type>Actor</type>
+    <tmdbid>1346703</tmdbid>
+  </actor>
+  <actor>
+    <name>Henry Yuk</name>
+    <role>Chinese Dragon Carrier</role>
+    <type>Actor</type>
+    <tmdbid>1428152</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Johnston</name>
+    <role>Mean Kid</role>
+    <type>Actor</type>
+    <tmdbid>2786961</tmdbid>
+  </actor>
+  <actor>
+    <name>Izuchukwu Mozie</name>
+    <role>African Boy</role>
+    <type>Actor</type>
+    <tmdbid>2786962</tmdbid>
+  </actor>
+  <actor>
+    <name>Amit Soni</name>
+    <role>Indian Boy</role>
+    <type>Actor</type>
+    <tmdbid>2786963</tmdbid>
+  </actor>
+  <actor>
+    <name>Maha Chehlaoui</name>
+    <role>Hot Girl</role>
+    <type>Actor</type>
+    <tmdbid>2786965</tmdbid>
+  </actor>
+  <actor>
+    <name>Adria Baratta</name>
+    <role>Student #1</role>
+    <type>Actor</type>
+    <tmdbid>2555538</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosie Moss</name>
+    <role>Student #2</role>
+    <type>Actor</type>
+    <tmdbid>2786967</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Alda</name>
+    <role>Physics Student</role>
+    <type>Actor</type>
+    <tmdbid>210392</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian McShane</name>
+    <role>Narrator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>6972</tmdbid>
+    <imdbid>nm0574534</imdbid>
+  </actor>
+  <director tmdbid="12962">Jon Turteltaub</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=v2uV0_1C4UM</trailer>
+  <rating>6.1</rating>
+  <year>2010</year>
+  <mpaa>PG</mpaa>
+  <imdbid>tt0963966</imdbid>
+  <tmdbid>27022</tmdbid>
+  <premiered>2010-07-13</premiered>
+  <releasedate>2010-07-13</releasedate>
+  <criticrating>40</criticrating>
+  <runtime>109</runtime>
+  <country>United States of America</country>
+  <genre>奇幻</genre>
+  <genre>冒险</genre>
+  <genre>动作</genre>
+  <studio>Walt Disney Pictures</studio>
+  <studio>Jerry Bruckheimer Films</studio>
+  <studio>Saturn Films</studio>
+  <studio>Broken Road Productions</studio>
+  <studio>Junction Entertainment</studio>
+  <uniqueid type="Tmdb">27022</uniqueid>
+  <uniqueid type="Imdb">tt0963966</uniqueid>
+  <id>tt0963966</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10424160</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6542</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

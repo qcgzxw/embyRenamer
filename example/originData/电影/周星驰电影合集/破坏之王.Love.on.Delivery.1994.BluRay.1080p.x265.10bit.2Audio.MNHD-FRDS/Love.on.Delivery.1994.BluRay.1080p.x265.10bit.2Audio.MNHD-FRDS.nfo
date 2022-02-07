@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　快餐店打工仔阿银某日送快餐时邂逅正在武术训练馆学习日本空手道的阿丽，对其一见钟情。遭遇同样喜欢阿缇的武馆教练林国斌的羞辱后，自觉太弱小的阿银决定拜自称为“魔鬼筋肉人”的达叔为师，达叔一开始只想骗取阿银的钱财，终被其善良和执着打动，开始教授其中国古拳法。阿丽遇坏人拦截，阿银头戴加菲猫面具出手相救，情急之下从高台上抱着歹徒滚下，却由此创出了“无敌风火轮”，不料事后被林国斌领功。为了证实自己的实力，阿银报名参加了搏击比赛与林国斌决斗，想借此再赢阿丽芳心。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-04 14:17:22</dateadded>
+  <title>破坏之王</title>
+  <originaltitle>破壞之王</originaltitle>
+  <actor>
+    <name>Stephen Chow</name>
+    <role>Ho Kam An</role>
+    <type>Actor</type>
+    <tmdbid>57607</tmdbid>
+    <imdbid>nm0159507</imdbid>
+  </actor>
+  <actor>
+    <name>Ng Man-tat</name>
+    <role>Devil's Killer Tat</role>
+    <type>Actor</type>
+    <tmdbid>70437</tmdbid>
+    <imdbid>nm0628806</imdbid>
+  </actor>
+  <actor>
+    <name>Christy Chung Lai-Tai</name>
+    <role>Lily</role>
+    <type>Actor</type>
+    <tmdbid>54615</tmdbid>
+    <imdbid>nm0161198</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Lam</name>
+    <role>Master of Karate Tuen Shui Lau</role>
+    <type>Actor</type>
+    <tmdbid>110844</tmdbid>
+    <imdbid>nm0482567</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Cheng Cho</name>
+    <role>Master of Judo Blackbear</role>
+    <type>Actor</type>
+    <tmdbid>1054920</tmdbid>
+  </actor>
+  <actor>
+    <name>Billy Chow Bei-Lei</name>
+    <role>Master of Taekwondo</role>
+    <type>Actor</type>
+    <tmdbid>239961</tmdbid>
+    <imdbid>nm0159435</imdbid>
+  </actor>
+  <actor>
+    <name>Leo Ku</name>
+    <role>Cafe waiter</role>
+    <type>Actor</type>
+    <tmdbid>1236321</tmdbid>
+    <imdbid>nm0473324</imdbid>
+  </actor>
+  <actor>
+    <name>Wong Yat-fei</name>
+    <role>Cafe boss</role>
+    <type>Actor</type>
+    <tmdbid>956575</tmdbid>
+    <imdbid>nm0939431</imdbid>
+  </actor>
+  <actor>
+    <name>Vincent Kok</name>
+    <role>Ah Niu</role>
+    <type>Actor</type>
+    <tmdbid>65934</tmdbid>
+    <imdbid>nm0463674</imdbid>
+  </actor>
+  <actor>
+    <name>Joey Leung</name>
+    <role>Match announcer</role>
+    <type>Actor</type>
+    <tmdbid>1407528</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Wong</name>
+    <role>Woo</role>
+    <type>Actor</type>
+    <tmdbid>1329775</tmdbid>
+    <imdbid>nm0939065</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Lai Bei-Dak</name>
+    <role>Cafe patron</role>
+    <type>Actor</type>
+    <tmdbid>1191058</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Lik-Chi</name>
+    <role>TV producer / Judo student</role>
+    <type>Actor</type>
+    <tmdbid>118355</tmdbid>
+    <imdbid>nm0497758</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Chun</name>
+    <role>Elite Center's prinicpal Chan</role>
+    <type>Actor</type>
+    <tmdbid>87733</tmdbid>
+    <imdbid>nm0157971</imdbid>
+  </actor>
+  <actor>
+    <name>Radium Cheung</name>
+    <role>Elite Center's student</role>
+    <type>Actor</type>
+    <tmdbid>1338533</tmdbid>
+    <imdbid>nm0156547</imdbid>
+  </actor>
+  <actor>
+    <name>Jacky Cheung</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>25245</tmdbid>
+    <imdbid>nm0156484</imdbid>
+  </actor>
+  <actor>
+    <name>Lam Suet</name>
+    <type>Actor</type>
+    <tmdbid>25251</tmdbid>
+    <imdbid>nm0482695</imdbid>
+  </actor>
+  <director tmdbid="57607" imdbid="nm0159507">Stephen Chow</director>
+  <director tmdbid="118355" imdbid="nm0497758">Lee Lik-Chi</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XNDBHd6gJ-s</trailer>
+  <rating>6.8</rating>
+  <year>1994</year>
+  <imdbid>tt0110852</imdbid>
+  <tmdbid>53163</tmdbid>
+  <premiered>1994-02-04</premiered>
+  <releasedate>1994-02-04</releasedate>
+  <criticrating>62</criticrating>
+  <runtime>97</runtime>
+  <country>Hong Kong</country>
+  <genre>喜剧</genre>
+  <genre>动作</genre>
+  <studio>Cosmopolitan Film Productions Co., Ltd.</studio>
+  <uniqueid type="Imdb">tt0110852</uniqueid>
+  <uniqueid type="Tmdb">53163</uniqueid>
+  <id>tt0110852</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6105116</bitrate>
+        <width>1920</width>
+        <height>1034</height>
+        <aspect>960:517</aspect>
+        <aspectratio>960:517</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>97</duration>
+        <durationinseconds>5821</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>320000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>320000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

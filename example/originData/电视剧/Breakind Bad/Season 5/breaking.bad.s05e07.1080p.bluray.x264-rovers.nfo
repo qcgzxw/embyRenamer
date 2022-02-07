@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Walter 说服贩毒集团，由他制毒，贩毒集团销售分成。Walter 拿到预付的 500 万给 Mike，Mike 就此退出。Jesse 也想退出，但 Walter 耍赖不给钱，Jesse 愤怒离去。Walter 找来 Todd 做制毒助手。Mike 的律师被抓招供，Mike 打算跑路，Walter 追问原 Gus 手下姓名，争执中 Walter 冲动枪击 Mike，Mike 平静死去。Jesse 对此并不知情，以为 Mike 成功跑路。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 16:45:30</dateadded>
+  <title>喊我之名</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Freihofer</name>
+    <role>Dan Wachsberger</role>
+    <type>GuestStar</type>
+    <tmdbid>2128853</tmdbid>
+    <imdbid>nm0293803</imdbid>
+  </actor>
+  <actor>
+    <name>Louis Ferreira</name>
+    <role>Declan</role>
+    <type>GuestStar</type>
+    <tmdbid>51036</tmdbid>
+    <imdbid>nm0274371</imdbid>
+  </actor>
+  <actor>
+    <name>Morse Bicknell</name>
+    <role>Declan's Driver</role>
+    <type>GuestStar</type>
+    <tmdbid>223395</tmdbid>
+  </actor>
+  <actor>
+    <name>Todd Terry</name>
+    <role>SAC Ramey</role>
+    <type>GuestStar</type>
+    <tmdbid>1178637</tmdbid>
+    <imdbid>nm0856086</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse Plemons</name>
+    <role>Todd</role>
+    <type>GuestStar</type>
+    <tmdbid>88124</tmdbid>
+    <imdbid>nm0687146</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Michael Quezada</name>
+    <role>Steven Gomez</role>
+    <type>GuestStar</type>
+    <tmdbid>61535</tmdbid>
+    <imdbid>nm2366374</imdbid>
+  </actor>
+  <director>Thomas Schnauz</director>
+  <rating>8.793</rating>
+  <year>2012</year>
+  <imdbid>tt2301467</imdbid>
+  <tvdbid>4354296</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt2301467</uniqueid>
+  <uniqueid type="Tvdb">4354296</uniqueid>
+  <episode>7</episode>
+  <season>5</season>
+  <aired>2012-08-26</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9914644</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2837</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

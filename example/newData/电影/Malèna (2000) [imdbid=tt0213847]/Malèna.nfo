@@ -1,0 +1,314 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[二战时期西西里岛上宁静的小镇，美艳动人的妇人玛莲娜（莫妮卡•贝鲁奇 饰），撩着波浪长发，穿着时髦的短裙丝袜，踏着诱惑的高跟鞋，烟视媚行，征服了镇上所有男人，也包括年仅十三岁的维利图，他悄悄地成为她的小跟班，如影随形地跟踪、窥视她的生活。她摇曳的倩影、她聆听的和音乐、她贴身的衣物……都成为这个被荷尔蒙淹没的少年，最真实、最美好的情欲幻想……]]></plot>
+  <outline><![CDATA[她太年轻了，不能当寡妇，太漂亮了，不能独自一人。每个男人都想拥有她。一个男孩冒着一切危险保护她。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-19 22:15:27</dateadded>
+  <title>西西里的美丽传说</title>
+  <originaltitle>Malèna</originaltitle>
+  <actor>
+    <name>Monica Bellucci</name>
+    <role>Malena Scordia</role>
+    <type>Actor</type>
+    <tmdbid>28782</tmdbid>
+    <imdbid>nm0000899</imdbid>
+  </actor>
+  <actor>
+    <name>Giuseppe Sulfaro</name>
+    <role>Renato Amoroso</role>
+    <type>Actor</type>
+    <tmdbid>67612</tmdbid>
+    <imdbid>nm0837868</imdbid>
+  </actor>
+  <actor>
+    <name>Luciano Federico</name>
+    <role>Renato's Father</role>
+    <type>Actor</type>
+    <tmdbid>67613</tmdbid>
+    <imdbid>nm0270119</imdbid>
+  </actor>
+  <actor>
+    <name>Matilde Piana</name>
+    <role>Renato's Mother</role>
+    <type>Actor</type>
+    <tmdbid>67614</tmdbid>
+    <imdbid>nm0681218</imdbid>
+  </actor>
+  <actor>
+    <name>Pietro Notarianni</name>
+    <role>Maléna's Father</role>
+    <type>Actor</type>
+    <tmdbid>15134</tmdbid>
+    <imdbid>nm0636537</imdbid>
+  </actor>
+  <actor>
+    <name>Gaetano Aronica</name>
+    <role>Nino Scordia</role>
+    <type>Actor</type>
+    <tmdbid>147156</tmdbid>
+    <imdbid>nm0036907</imdbid>
+  </actor>
+  <actor>
+    <name>Gabriella Di Luzio</name>
+    <role>l'amante del Barone</role>
+    <type>Actor</type>
+    <tmdbid>553177</tmdbid>
+    <imdbid>nm0224004</imdbid>
+  </actor>
+  <actor>
+    <name>Angelo Pellegrino</name>
+    <role>il segretario politico</role>
+    <type>Actor</type>
+    <tmdbid>232886</tmdbid>
+    <imdbid>nm0671010</imdbid>
+  </actor>
+  <actor>
+    <name>Paola Pace</name>
+    <role>donna del linciaggio</role>
+    <type>Actor</type>
+    <tmdbid>553195</tmdbid>
+    <imdbid>nm0655157</imdbid>
+  </actor>
+  <actor>
+    <name>Lucia Sardo</name>
+    <role>2a Donna linciaggio</role>
+    <type>Actor</type>
+    <tmdbid>129571</tmdbid>
+    <imdbid>nm0765006</imdbid>
+  </actor>
+  <actor>
+    <name>Aurora Quattrocchi</name>
+    <role>Tenutaria bordello</role>
+    <type>Actor</type>
+    <tmdbid>20589</tmdbid>
+    <imdbid>nm0703002</imdbid>
+  </actor>
+  <actor>
+    <name>Claudia Muzii</name>
+    <role>1a Prostituta</role>
+    <type>Actor</type>
+    <tmdbid>553192</tmdbid>
+    <imdbid>nm0616236</imdbid>
+  </actor>
+  <actor>
+    <name>Ornella Giusto</name>
+    <role>2a Prostituta</role>
+    <type>Actor</type>
+    <tmdbid>35107</tmdbid>
+    <imdbid>nm0321420</imdbid>
+  </actor>
+  <actor>
+    <name>Conchita Puglisi</name>
+    <role>3a Prostituta</role>
+    <type>Actor</type>
+    <tmdbid>553193</tmdbid>
+    <imdbid>nm0700118</imdbid>
+  </actor>
+  <actor>
+    <name>Gilberto Idonea</name>
+    <role>l'avvocato Centorbi</role>
+    <type>Actor</type>
+    <tmdbid>120657</tmdbid>
+    <imdbid>nm0406911</imdbid>
+  </actor>
+  <actor>
+    <name>Giuseppe Pattavina</name>
+    <role>il pretore</role>
+    <type>Actor</type>
+    <tmdbid>553183</tmdbid>
+    <imdbid>nm0666060</imdbid>
+  </actor>
+  <actor>
+    <name>Domenico Gennaro</name>
+    <role>il farmacista</role>
+    <type>Actor</type>
+    <tmdbid>553182</tmdbid>
+    <imdbid>nm0312908</imdbid>
+  </actor>
+  <actor>
+    <name>Pippo Provvidenti</name>
+    <role>Dott. Cusimano</role>
+    <type>Actor</type>
+    <tmdbid>553178</tmdbid>
+    <imdbid>nm0699110</imdbid>
+  </actor>
+  <actor>
+    <name>Maria Terranova</name>
+    <role>Moglie Dott. Cusimano</role>
+    <type>Actor</type>
+    <tmdbid>553179</tmdbid>
+    <imdbid>nm0855773</imdbid>
+  </actor>
+  <actor>
+    <name>Marcello Catalano</name>
+    <role>Tenente Cadei</role>
+    <type>Actor</type>
+    <tmdbid>553180</tmdbid>
+    <imdbid>nm0145830</imdbid>
+  </actor>
+  <actor>
+    <name>Elisa Morucci</name>
+    <role>Lupetta</role>
+    <type>Actor</type>
+    <tmdbid>553181</tmdbid>
+    <imdbid>nm0608133</imdbid>
+  </actor>
+  <actor>
+    <name>Franco Catalano</name>
+    <role>Negoziante</role>
+    <type>Actor</type>
+    <tmdbid>553184</tmdbid>
+    <imdbid>nm0145816</imdbid>
+  </actor>
+  <actor>
+    <name>Daniele Arena</name>
+    <role>Agostino</role>
+    <type>Actor</type>
+    <tmdbid>553185</tmdbid>
+    <imdbid>nm0034241</imdbid>
+  </actor>
+  <actor>
+    <name>Giovanni Litrico</name>
+    <role>Pinè</role>
+    <type>Actor</type>
+    <tmdbid>553186</tmdbid>
+    <imdbid>nm0514425</imdbid>
+  </actor>
+  <actor>
+    <name>Gianluca Guarrera</name>
+    <role>Nicola</role>
+    <type>Actor</type>
+    <tmdbid>553187</tmdbid>
+    <imdbid>nm0345439</imdbid>
+  </actor>
+  <actor>
+    <name>Michel Daniel Bramanti</name>
+    <role>Sasà</role>
+    <type>Actor</type>
+    <tmdbid>553188</tmdbid>
+    <imdbid>nm0104178</imdbid>
+  </actor>
+  <actor>
+    <name>Salvatore Borgese</name>
+    <role>Milite fascista (come Toto' Borgese)</role>
+    <type>Actor</type>
+    <tmdbid>49458</tmdbid>
+    <imdbid>nm0096613</imdbid>
+  </actor>
+  <actor>
+    <name>Emanuele Gullotto</name>
+    <role>Negoziante dischi</role>
+    <type>Actor</type>
+    <tmdbid>553191</tmdbid>
+    <imdbid>nm0347843</imdbid>
+  </actor>
+  <actor>
+    <name>Fabrizio Ferracane</name>
+    <type>Actor</type>
+    <tmdbid>1346237</tmdbid>
+    <imdbid>nm0273827</imdbid>
+  </actor>
+  <actor>
+    <name>Salvatore Martino</name>
+    <type>Actor</type>
+    <tmdbid>1968133</tmdbid>
+  </actor>
+  <actor>
+    <name>Orio Scaduto</name>
+    <type>Actor</type>
+    <tmdbid>1850977</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonello Puglisi</name>
+    <type>Actor</type>
+    <tmdbid>1872724</tmdbid>
+  </actor>
+  <director tmdbid="65314" imdbid="nm0868153">Giuseppe Tornatore</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SxqUoUvNBXY</trailer>
+  <rating>7.5</rating>
+  <year>2000</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0213847</imdbid>
+  <tmdbid>10867</tmdbid>
+  <premiered>2000-03-16</premiered>
+  <releasedate>2000-03-16</releasedate>
+  <criticrating>54</criticrating>
+  <runtime>108</runtime>
+  <tagline>她太年轻了，不能当寡妇，太漂亮了，不能独自一人。每个男人都想拥有她。一个男孩冒着一切危险保护她。</tagline>
+  <country>Italy</country>
+  <genre>剧情</genre>
+  <studio>Miramax</studio>
+  <studio>Medusa Produzione</studio>
+  <uniqueid type="Tmdb">10867</uniqueid>
+  <uniqueid type="Imdb">tt0213847</uniqueid>
+  <id>tt0213847</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>12941389</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>108</duration>
+        <durationinseconds>6484</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>zho</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>zho</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>zho</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>zho</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[红老大和凯洛图谋对芙瑞达不利，苏珊则出手保护芙瑞达。萝娜发誓对芭比忠贞不贰，妮可则着手拦阻另一场阴谋。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-10-05 17:01:00</dateadded>
+  <title>听来不妙</title>
+  <actor>
+    <name>Taylor Schilling</name>
+    <role>Piper Chapman</role>
+    <type>Actor</type>
+    <tmdbid>221809</tmdbid>
+    <imdbid>nm2279940</imdbid>
+  </actor>
+  <actor>
+    <name>Natasha Lyonne</name>
+    <role>Nicky Nichols</role>
+    <type>Actor</type>
+    <tmdbid>10871</tmdbid>
+    <imdbid>nm0005169</imdbid>
+  </actor>
+  <actor>
+    <name>Uzo Aduba</name>
+    <role>Suzanne 'Crazy Eyes' Warren</role>
+    <type>Actor</type>
+    <tmdbid>1332680</tmdbid>
+    <imdbid>nm2499064</imdbid>
+  </actor>
+  <actor>
+    <name>Danielle Brooks</name>
+    <role>Tasha 'Taystee' Jefferson</role>
+    <type>Actor</type>
+    <tmdbid>1075037</tmdbid>
+    <imdbid>nm5335029</imdbid>
+  </actor>
+  <actor>
+    <name>Jackie Cruz</name>
+    <role>Marisol 'Flaca' Gonzales</role>
+    <type>Actor</type>
+    <tmdbid>1443625</tmdbid>
+    <imdbid>nm3117320</imdbid>
+  </actor>
+  <actor>
+    <name>Selenis Leyva</name>
+    <role>Gloria Mendoza</role>
+    <type>Actor</type>
+    <tmdbid>162503</tmdbid>
+    <imdbid>nm0508139</imdbid>
+  </actor>
+  <actor>
+    <name>Taryn Manning</name>
+    <role>Tiffany 'Pennsatucky' Doggett</role>
+    <type>Actor</type>
+    <tmdbid>343</tmdbid>
+    <imdbid>nm0543383</imdbid>
+  </actor>
+  <actor>
+    <name>Adrienne C. Moore</name>
+    <role>Cindy Hayes</role>
+    <type>Actor</type>
+    <tmdbid>1443478</tmdbid>
+  </actor>
+  <actor>
+    <name>Dascha Polanco</name>
+    <role>Dayanara Diaz</role>
+    <type>Actor</type>
+    <tmdbid>1026947</tmdbid>
+    <imdbid>nm4745601</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Sandow</name>
+    <role>Joe Caputo</role>
+    <type>Actor</type>
+    <tmdbid>95519</tmdbid>
+    <imdbid>nm0762191</imdbid>
+  </actor>
+  <actor>
+    <name>Yael Stone</name>
+    <role>Lorna Morello</role>
+    <type>Actor</type>
+    <tmdbid>1028560</tmdbid>
+    <imdbid>nm0832227</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Mulgrew</name>
+    <role>Galina 'Red' Reznikov</role>
+    <type>Actor</type>
+    <tmdbid>35317</tmdbid>
+    <imdbid>nm0000550</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Prepon</name>
+    <role>Alex Vause</role>
+    <type>Actor</type>
+    <tmdbid>18974</tmdbid>
+    <imdbid>nm0696059</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Rodriguez</name>
+    <role>Aleida Diaz</role>
+    <type>Actor</type>
+    <tmdbid>65421</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Pimentel</name>
+    <role>Maria Ruiz</role>
+    <type>Actor</type>
+    <tmdbid>171940</tmdbid>
+    <imdbid>nm1478791</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Gómez</name>
+    <role>Blanca Flores</role>
+    <type>Actor</type>
+    <tmdbid>1443612</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Peters</name>
+    <role>Joel Luschek</role>
+    <type>Actor</type>
+    <tmdbid>1448945</tmdbid>
+  </actor>
+  <actor>
+    <name>Dale Soules</name>
+    <role>Frieda Berlin</role>
+    <type>Actor</type>
+    <tmdbid>1102500</tmdbid>
+  </actor>
+  <actor>
+    <name>Beth Dover</name>
+    <role>Linda Ferguson</role>
+    <type>GuestStar</type>
+    <tmdbid>1235568</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Segarra</name>
+    <role>CO Stefanovic</role>
+    <type>GuestStar</type>
+    <tmdbid>426216</tmdbid>
+  </actor>
+  <actor>
+    <name>Shawna Hamic</name>
+    <role>CO Virginia 'Ginger' Copeland</role>
+    <type>GuestStar</type>
+    <tmdbid>2375314</tmdbid>
+  </actor>
+  <actor>
+    <name>Connor Ratliff</name>
+    <role>Reuben Siegel</role>
+    <type>GuestStar</type>
+    <tmdbid>1733801</tmdbid>
+  </actor>
+  <actor>
+    <name>Joan Jaffe</name>
+    <role>Gail Abbot</role>
+    <type>GuestStar</type>
+    <tmdbid>1690483</tmdbid>
+  </actor>
+  <actor>
+    <name>Claudia Robinson</name>
+    <role>Gladys Watkins</role>
+    <type>GuestStar</type>
+    <tmdbid>1388847</tmdbid>
+  </actor>
+  <actor>
+    <name>Gavyn Pickens</name>
+    <role>Tania Fernandez</role>
+    <type>GuestStar</type>
+    <tmdbid>2833575</tmdbid>
+  </actor>
+  <actor>
+    <name>Sharon Hope</name>
+    <role>Med Tech Sharon Chamberlain</role>
+    <type>GuestStar</type>
+    <tmdbid>171566</tmdbid>
+  </actor>
+  <actor>
+    <name>Prudence Wright Holmes</name>
+    <role>Ingrid Hirsch</role>
+    <type>GuestStar</type>
+    <tmdbid>951387</tmdbid>
+  </actor>
+  <actor>
+    <name>Nana Mensah</name>
+    <role>Hairdresser</role>
+    <type>GuestStar</type>
+    <tmdbid>1695395</tmdbid>
+  </actor>
+  <actor>
+    <name>Laverne Cox</name>
+    <role>Sophia Burset</role>
+    <type>GuestStar</type>
+    <tmdbid>1298360</tmdbid>
+  </actor>
+  <actor>
+    <name>Nedra McClyde</name>
+    <role>Sylvia Guillen</role>
+    <type>GuestStar</type>
+    <tmdbid>1545208</tmdbid>
+  </actor>
+  <actor>
+    <name>Henny Russell</name>
+    <role>Carol Denning</role>
+    <type>GuestStar</type>
+    <tmdbid>209503</tmdbid>
+  </actor>
+  <actor>
+    <name>Mackenzie Phillips</name>
+    <role>Barbara Denning</role>
+    <type>GuestStar</type>
+    <tmdbid>12408</tmdbid>
+  </actor>
+  <actor>
+    <name>Naomi Lorrain</name>
+    <role>Kelly Lee Glenna</role>
+    <type>GuestStar</type>
+    <tmdbid>1797570</tmdbid>
+  </actor>
+  <actor>
+    <name>Maggie Lacey</name>
+    <role>Prosecutor</role>
+    <type>GuestStar</type>
+    <tmdbid>1353380</tmdbid>
+  </actor>
+  <actor>
+    <name>Tibor Feldman</name>
+    <role>Judge Arthur Franklin</role>
+    <type>GuestStar</type>
+    <tmdbid>1192389</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael J. Burg</name>
+    <role>Mark Bellamy</role>
+    <type>GuestStar</type>
+    <tmdbid>5353</tmdbid>
+  </actor>
+  <actor>
+    <name>Becca GT</name>
+    <role>Amy Roth</role>
+    <type>GuestStar</type>
+    <tmdbid>2376069</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannah D. Scott</name>
+    <role>Aimee Sandoval</role>
+    <type>GuestStar</type>
+    <tmdbid>1737365</tmdbid>
+  </actor>
+  <actor>
+    <name>Vicci Martinez</name>
+    <role>Dominga 'Daddy' Duarte</role>
+    <type>GuestStar</type>
+    <tmdbid>2492829</tmdbid>
+  </actor>
+  <actor>
+    <name>Eileen Lacy</name>
+    <role>Nana Hopper</role>
+    <type>GuestStar</type>
+    <tmdbid>1336241</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Fuller</name>
+    <role>Badison Murphy</role>
+    <type>GuestStar</type>
+    <tmdbid>133401</tmdbid>
+  </actor>
+  <actor>
+    <name>Finnerty Steeves</name>
+    <role>Beth Hoefler</role>
+    <type>GuestStar</type>
+    <tmdbid>1789094</tmdbid>
+  </actor>
+  <actor>
+    <name>Alice Kremelberg</name>
+    <role>Nicole Eckelcamp</role>
+    <type>GuestStar</type>
+    <tmdbid>1357037</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniella De Jesús</name>
+    <role>Zirconia Cabrera</role>
+    <type>GuestStar</type>
+    <tmdbid>2375308</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Dillenburg</name>
+    <role>CO Ryder Blake</role>
+    <type>GuestStar</type>
+    <tmdbid>2375405</tmdbid>
+  </actor>
+  <actor>
+    <name>Hunter Emery</name>
+    <role>CO Rick Hopper</role>
+    <type>GuestStar</type>
+    <tmdbid>1376582</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Webber</name>
+    <role>CO Alvarez</role>
+    <type>GuestStar</type>
+    <tmdbid>2375316</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Vrotsos</name>
+    <role>CO Hellman</role>
+    <type>GuestStar</type>
+    <tmdbid>1154271</tmdbid>
+  </actor>
+  <actor>
+    <name>Branden Wellington</name>
+    <role>CO Jarod Young</role>
+    <type>GuestStar</type>
+    <tmdbid>2146550</tmdbid>
+  </actor>
+  <actor>
+    <name>Sipiwe Moyo</name>
+    <role>Adeola</role>
+    <type>GuestStar</type>
+    <tmdbid>1511822</tmdbid>
+  </actor>
+  <actor>
+    <name>Phumzile Sitole</name>
+    <role>Akers</role>
+    <type>GuestStar</type>
+    <tmdbid>1761816</tmdbid>
+  </actor>
+  <actor>
+    <name>Shannon Esper</name>
+    <role>Alana Dwight</role>
+    <type>GuestStar</type>
+    <tmdbid>1289021</tmdbid>
+  </actor>
+  <actor>
+    <name>Shirley Roeca</name>
+    <role>Juanita Vazquez</role>
+    <type>GuestStar</type>
+    <tmdbid>145362</tmdbid>
+  </actor>
+  <actor>
+    <name>Christina Toth</name>
+    <role>Annalisa Damiva</role>
+    <type>GuestStar</type>
+    <tmdbid>2375409</tmdbid>
+  </actor>
+  <actor>
+    <name>Besanya Santiago</name>
+    <role>Creech</role>
+    <type>GuestStar</type>
+    <tmdbid>2375413</tmdbid>
+  </actor>
+  <actor>
+    <name>Jen Keefe</name>
+    <role>Alicia Hutton</role>
+    <type>GuestStar</type>
+    <tmdbid>2376825</tmdbid>
+  </actor>
+  <actor>
+    <name>Reema Sampat</name>
+    <role>Shruti Chambal</role>
+    <type>GuestStar</type>
+    <tmdbid>1431076</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Tarver</name>
+    <role>CO Artesian McCullough</role>
+    <type>GuestStar</type>
+    <tmdbid>1534551</tmdbid>
+  </actor>
+  <director tmdbid="18974" imdbid="nm0696059">Laura Prepon</director>
+  <rating>9</rating>
+  <year>2018</year>
+  <imdbid>tt7601514</imdbid>
+  <tvdbid>6737745</tvdbid>
+  <runtime>61</runtime>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt7601514</uniqueid>
+  <uniqueid type="Tvdb">6737745</uniqueid>
+  <episode>11</episode>
+  <season>6</season>
+  <aired>2018-07-27</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4166157</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>60</duration>
+        <durationinseconds>3658</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

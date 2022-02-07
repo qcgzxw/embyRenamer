@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Jimmy（吉米）成功摆平了凯特尔曼一家失踪的问题，且从凯特尔曼夫妇赚取了费用，而 Nacho（纳乔）也被无罪释放。Jimmy（吉米）抄袭 Hamlin（哈姆林）律师广告牌包装自己，面临哈姆林的投诉，Jimmy（吉米）只得撤掉自己的广告牌，正因如此他的职场生涯有所转机，因为他自导自演了一出救律师英勇救人的好戏。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-08-01 23:06:09</dateadded>
+  <title>英雄</title>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Jimmy McGill</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Rhea Seehorn</name>
+    <role>Kim Wexler</role>
+    <type>Actor</type>
+    <tmdbid>62765</tmdbid>
+    <imdbid>nm0781533</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Fabian</name>
+    <role>Howard Hamlin</role>
+    <type>Actor</type>
+    <tmdbid>58791</tmdbid>
+    <imdbid>nm0264579</imdbid>
+  </actor>
+  <actor>
+    <name>Michael McKean</name>
+    <role>Chuck McGill</role>
+    <type>Actor</type>
+    <tmdbid>21731</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Mando</name>
+    <role>Nacho Varga</role>
+    <type>GuestStar</type>
+    <tmdbid>829372</tmdbid>
+    <imdbid>nm3103126</imdbid>
+  </actor>
+  <actor>
+    <name>Eileen Fogarty</name>
+    <role>Mrs. Nguyen</role>
+    <type>GuestStar</type>
+    <tmdbid>1411168</tmdbid>
+    <imdbid>nm1658328</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Ann Emery</name>
+    <role>Betsy Kettleman</role>
+    <type>GuestStar</type>
+    <tmdbid>55256</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Fadem</name>
+    <role>Camera Guy</role>
+    <type>GuestStar</type>
+    <tmdbid>205209</tmdbid>
+    <imdbid>nm1758915</imdbid>
+  </actor>
+  <actor>
+    <name>Julian Bonfiglio</name>
+    <role>Sound Guy</role>
+    <type>GuestStar</type>
+    <tmdbid>1843906</tmdbid>
+  </actor>
+  <director>Colin Bucksey</director>
+  <rating>7.889</rating>
+  <year>2015</year>
+  <imdbid>tt3864892</imdbid>
+  <tvdbid>5114293</tvdbid>
+  <runtime>47</runtime>
+  <tvrageid>1065746916</tvrageid>
+  <uniqueid type="Tvdb">5114293</uniqueid>
+  <uniqueid type="TvRage">1065746916</uniqueid>
+  <uniqueid type="Imdb">tt3864892</uniqueid>
+  <episode>4</episode>
+  <season>1</season>
+  <aired>2015-02-23</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>13331684</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>46</duration>
+        <durationinseconds>2818</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

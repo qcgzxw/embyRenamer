@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[服完兵役的高龄大学生恩植（任昌丁饰）就读于法律系，校园里满是对性充满好奇的年轻男女。可惜外表憨直的他没有什么女人缘，脑筋也是不大好使。一次偶然机会，恩植认识了学校健身俱乐部的头牌队员、校花级美女银孝（河智苑饰），他立马被对方的美貌性感吸引。恩植想尽办法接进银孝，博取好感，却都以失败告终，甚至引发许多误会，比如在公车上，他被银孝当成色狼一脚踢中要害。后来，银孝迷住了有钱的花花公子相旭（郑敏饰），甚至怀了孕，但最终被抛弃，伤心绝望。与此同时，恩植和银孝之间产关系有了微妙变化。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-10-13 16:15:10</dateadded>
+  <title>色即是空</title>
+  <originaltitle>색즉시공</originaltitle>
+  <actor>
+    <name>Im Chang-jung</name>
+    <role>Eun-shik</role>
+    <type>Actor</type>
+    <tmdbid>87540</tmdbid>
+    <imdbid>nm0510514</imdbid>
+  </actor>
+  <actor>
+    <name>Ha Ji-won</name>
+    <role>Eun-hyo</role>
+    <type>Actor</type>
+    <tmdbid>83220</tmdbid>
+    <imdbid>nm0351710</imdbid>
+  </actor>
+  <actor>
+    <name>Jin Jae-young</name>
+    <role>Ji-won</role>
+    <type>Actor</type>
+    <tmdbid>87542</tmdbid>
+    <imdbid>nm1279816</imdbid>
+  </actor>
+  <actor>
+    <name>Yoo Chae-yeong</name>
+    <role>Yoo-mi</role>
+    <type>Actor</type>
+    <tmdbid>87541</tmdbid>
+    <imdbid>nm1281776</imdbid>
+  </actor>
+  <actor>
+    <name>Shin Yi</name>
+    <role>Kyeong-joo</role>
+    <type>Actor</type>
+    <tmdbid>87762</tmdbid>
+    <imdbid>nm1457045</imdbid>
+  </actor>
+  <actor>
+    <name>Ham So-won</name>
+    <role>Kim Hyun-hee</role>
+    <type>Actor</type>
+    <tmdbid>2375593</tmdbid>
+  </actor>
+  <actor>
+    <name>Yun Si-hu</name>
+    <role>Jo Yun-kyung</role>
+    <type>Actor</type>
+    <tmdbid>3116241</tmdbid>
+  </actor>
+  <actor>
+    <name>Min Jung</name>
+    <role>Sung-ok Ham</role>
+    <type>Actor</type>
+    <tmdbid>1086448</tmdbid>
+    <imdbid>nm1120405</imdbid>
+  </actor>
+  <actor>
+    <name>Choi Sung-kook</name>
+    <role>Choi Sung-kook</role>
+    <type>Actor</type>
+    <tmdbid>62332</tmdbid>
+    <imdbid>nm1278879</imdbid>
+  </actor>
+  <actor>
+    <name>Choi Won-young</name>
+    <role>Park Chan-soo</role>
+    <type>Actor</type>
+    <tmdbid>1258630</tmdbid>
+    <imdbid>nm3754140</imdbid>
+  </actor>
+  <actor>
+    <name>Ki Joo-bong</name>
+    <role>OB/Gyn doctor (cameo) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>64454</tmdbid>
+    <imdbid>nm1029669</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Si-yeon</name>
+    <role>Lee Dae-hak</role>
+    <type>Actor</type>
+    <tmdbid>1630450</tmdbid>
+  </actor>
+  <director tmdbid="84852" imdbid="nm1082740">JK Youn</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=gaxh1HQ_AxM</trailer>
+  <rating>6.6</rating>
+  <year>2002</year>
+  <mpaa>NR</mpaa>
+  <imdbid>tt0341555</imdbid>
+  <tmdbid>16318</tmdbid>
+  <premiered>2002-12-12</premiered>
+  <releasedate>2002-12-12</releasedate>
+  <criticrating>70</criticrating>
+  <runtime>45</runtime>
+  <country>South Korea</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <studio>Doosaboo Film</studio>
+  <studio>FilmZ</studio>
+  <studio>Showbox</studio>
+  <set tmdbcolid="213697">
+    <name>色即是空（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">16318</uniqueid>
+  <uniqueid type="Imdb">tt0341555</uniqueid>
+  <id>tt0341555</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>msmpeg4v3</codec>
+        <micodec>msmpeg4v3</micodec>
+        <bitrate>1740659</bitrate>
+        <width>640</width>
+        <height>352</height>
+        <aspect>20:11</aspect>
+        <aspectratio>20:11</aspectratio>
+        <framerate>23.976</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>44</duration>
+        <durationinseconds>2673</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

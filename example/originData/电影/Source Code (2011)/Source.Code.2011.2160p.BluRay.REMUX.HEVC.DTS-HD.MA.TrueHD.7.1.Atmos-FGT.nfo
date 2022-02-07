@@ -1,0 +1,334 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　杰克·吉伦哈尔饰演一位名叫柯尔特·史蒂文的上尉，某日当他醒来时发现自己正在一辆前往芝加哥的火车上。尽管车上其他乘客看上去都认识他，但他本人却对于要做什么，周遭环境甚至自己是谁都毫无概念。他所记得的最后一件事情是，自己正在伊拉克执行任务。但是现在他似乎却在过着别人的人生。就在柯尔特试图找出真相之时，一辆列车从对面飞快行驶过来，与他们乘坐的列车相撞，引发了大爆炸……下一个时刻，柯尔特发现自己身处一个独立的房间里，穿着自己的军服。此时，一个名叫卡罗尔·古德温的指挥官（维拉·法梅加　饰）向他解释了这一切令人费解的事件。原来，柯尔特正在执行一项特殊任务，隶属于一个名叫“源代码”（Source Code）的政府实验项目：利用一套仪器，他可以反复“穿越”进一名在这起列车爆炸中遇害的死者身体里，但每次只能回到距离爆炸的8分钟前。制造这起爆炸的凶手宣称将于6小时后在芝加哥市中心制造下一次更大规模的恐怖事件，为了阻止上百万人丧生，柯尔特不得不争分夺秒，在“源代码”中一次次“穿越”收集线索，在这爆炸前最后的“8分钟”里寻找到元凶！]]></plot>
+  <outline><![CDATA[争分夺秒]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-14 22:49:49</dateadded>
+  <title>源代码</title>
+  <originaltitle>Source Code</originaltitle>
+  <actor>
+    <name>Jake Gyllenhaal</name>
+    <role>Colter Stevens</role>
+    <type>Actor</type>
+    <tmdbid>131</tmdbid>
+    <imdbid>nm0350453</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Monaghan</name>
+    <role>Christina Warren</role>
+    <type>Actor</type>
+    <tmdbid>11705</tmdbid>
+    <imdbid>nm1157358</imdbid>
+  </actor>
+  <actor>
+    <name>Vera Farmiga</name>
+    <role>Colleen Goodwin</role>
+    <type>Actor</type>
+    <tmdbid>21657</tmdbid>
+    <imdbid>nm0267812</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Wright</name>
+    <role>Dr. Rutledge</role>
+    <type>Actor</type>
+    <tmdbid>2954</tmdbid>
+    <imdbid>nm0942482</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Arden</name>
+    <role>Derek Frost</role>
+    <type>Actor</type>
+    <tmdbid>83874</tmdbid>
+    <imdbid>nm2260797</imdbid>
+  </actor>
+  <actor>
+    <name>Russell Peters</name>
+    <role>Max Denoff</role>
+    <type>Actor</type>
+    <tmdbid>82417</tmdbid>
+    <imdbid>nm0992289</imdbid>
+  </actor>
+  <actor>
+    <name>Cas Anvar</name>
+    <role>Hazmi</role>
+    <type>Actor</type>
+    <tmdbid>59214</tmdbid>
+    <imdbid>nm0031679</imdbid>
+  </actor>
+  <actor>
+    <name>Brent Skagford</name>
+    <role>George Troxel</role>
+    <type>Actor</type>
+    <tmdbid>522169</tmdbid>
+    <imdbid>nm2287876</imdbid>
+  </actor>
+  <actor>
+    <name>Craig Thomas</name>
+    <role>Gold Watch Executive</role>
+    <type>Actor</type>
+    <tmdbid>572609</tmdbid>
+    <imdbid>nm0858656</imdbid>
+  </actor>
+  <actor>
+    <name>Gordon Masten</name>
+    <role>Conductor</role>
+    <type>Actor</type>
+    <tmdbid>179421</tmdbid>
+    <imdbid>nm0557619</imdbid>
+  </actor>
+  <actor>
+    <name>Susan Bain</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>298091</tmdbid>
+    <imdbid>nm0047734</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Cobden</name>
+    <role>Lab Technician</role>
+    <type>Actor</type>
+    <tmdbid>51389</tmdbid>
+    <imdbid>nm0167859</imdbid>
+  </actor>
+  <actor>
+    <name>Paula Jean Hixson</name>
+    <role>Coffee Mug Lady</role>
+    <type>Actor</type>
+    <tmdbid>230595</tmdbid>
+    <imdbid>nm0387030</imdbid>
+  </actor>
+  <actor>
+    <name>Lincoln Ward</name>
+    <role>Minister Sudoku</role>
+    <type>Actor</type>
+    <tmdbid>1445748</tmdbid>
+    <imdbid>nm0911689</imdbid>
+  </actor>
+  <actor>
+    <name>Kyle Gatehouse</name>
+    <role>College Student</role>
+    <type>Actor</type>
+    <tmdbid>131335</tmdbid>
+    <imdbid>nm2497549</imdbid>
+  </actor>
+  <actor>
+    <name>Albert Kwan</name>
+    <role>Soda Can Guy</role>
+    <type>Actor</type>
+    <tmdbid>450628</tmdbid>
+    <imdbid>nm1429920</imdbid>
+  </actor>
+  <actor>
+    <name>Anne Day-Jones</name>
+    <role>Office Manager</role>
+    <type>Actor</type>
+    <tmdbid>308540</tmdbid>
+    <imdbid>nm0206635</imdbid>
+  </actor>
+  <actor>
+    <name>Clarice Byrne</name>
+    <role>Secretary</role>
+    <type>Actor</type>
+    <tmdbid>1569822</tmdbid>
+  </actor>
+  <actor>
+    <name>James A. Woods</name>
+    <role>Aviator Glasses Guy</role>
+    <type>Actor</type>
+    <tmdbid>80019</tmdbid>
+    <imdbid>nm1123994</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Tammi</name>
+    <role>CNN Anchor</role>
+    <type>Actor</type>
+    <tmdbid>75201</tmdbid>
+    <imdbid>nm0848716</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Holland</name>
+    <role>Lock Tech</role>
+    <type>Actor</type>
+    <tmdbid>108302</tmdbid>
+    <imdbid>nm0390775</imdbid>
+  </actor>
+  <actor>
+    <name>Jasson Finney</name>
+    <role>M.P.</role>
+    <type>Actor</type>
+    <tmdbid>218619</tmdbid>
+    <imdbid>nm1065239</imdbid>
+  </actor>
+  <actor>
+    <name>Kyle Allatt</name>
+    <role>Aide</role>
+    <type>Actor</type>
+    <tmdbid>1321651</tmdbid>
+    <imdbid>nm1328563</imdbid>
+  </actor>
+  <actor>
+    <name>Pierre Leblanc</name>
+    <role>Train Official</role>
+    <type>Actor</type>
+    <tmdbid>198750</tmdbid>
+    <imdbid>nm1593206</imdbid>
+  </actor>
+  <actor>
+    <name>Frédérick de Grandpré</name>
+    <role>Sean Fentress Reflection</role>
+    <type>Actor</type>
+    <tmdbid>400602</tmdbid>
+    <imdbid>nm0214810</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Bakula</name>
+    <role>Colter's Father (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2154</tmdbid>
+    <imdbid>nm0000836</imdbid>
+  </actor>
+  <director tmdbid="81850" imdbid="nm1512910">Duncan Jones</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NkTrG-gpIzE</trailer>
+  <rating>7.5</rating>
+  <year>2011</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt0945513</imdbid>
+  <tmdbid>45612</tmdbid>
+  <premiered>2011-03-30</premiered>
+  <releasedate>2011-03-30</releasedate>
+  <criticrating>92</criticrating>
+  <runtime>93</runtime>
+  <tagline>争分夺秒</tagline>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>惊悚</genre>
+  <genre>科幻</genre>
+  <genre>悬疑</genre>
+  <studio>The Mark Gordon Company</studio>
+  <studio>Vendome Pictures</studio>
+  <studio>Summit Entertainment</studio>
+  <uniqueid type="Tmdb">45612</uniqueid>
+  <uniqueid type="Imdb">tt0945513</uniqueid>
+  <id>tt0945513</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>77983361</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>93</duration>
+        <durationinseconds>5592</durationinseconds>
+      </video>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>77983361</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>93</duration>
+        <durationinseconds>5592</durationinseconds>
+      </video>
+      <audio>
+        <codec>truehd</codec>
+        <micodec>truehd</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

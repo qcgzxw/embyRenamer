@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[伯纳德（Bernard）偶遇了一个意想不到的老朋友； 熔炉的安全受到威胁； 梅芙（Maeve）遇到了她过去人生的一幕，这次她选择斩断过往...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-05-03 07:06:12</dateadded>
+  <title>解剖模型</title>
+  <actor>
+    <name>Evan Rachel Wood</name>
+    <role>Dolores Abernathy</role>
+    <type>Actor</type>
+    <tmdbid>38940</tmdbid>
+    <imdbid>nm0939697</imdbid>
+  </actor>
+  <actor>
+    <name>Thandie Newton</name>
+    <role>Maeve Millay</role>
+    <type>Actor</type>
+    <tmdbid>9030</tmdbid>
+    <imdbid>nm0628601</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Wright</name>
+    <role>Bernard Lowe</role>
+    <type>Actor</type>
+    <tmdbid>2954</tmdbid>
+    <imdbid>nm0942482</imdbid>
+  </actor>
+  <actor>
+    <name>James Marsden</name>
+    <role>Theodore "Teddy" Flood</role>
+    <type>Actor</type>
+    <tmdbid>11006</tmdbid>
+  </actor>
+  <actor>
+    <name>Tessa Thompson</name>
+    <role>Charlotte Hale</role>
+    <type>Actor</type>
+    <tmdbid>62561</tmdbid>
+    <imdbid>nm1935086</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Harris</name>
+    <role>Man in Black</role>
+    <type>Actor</type>
+    <tmdbid>228</tmdbid>
+    <imdbid>nm0000438</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Hopkins</name>
+    <role>Dr. Robert Ford</role>
+    <type>Actor</type>
+    <tmdbid>4173</tmdbid>
+    <imdbid>nm0000164</imdbid>
+  </actor>
+  <actor>
+    <name>Ingrid Bolsø Berdal</name>
+    <role>Armistice</role>
+    <type>Actor</type>
+    <tmdbid>87879</tmdbid>
+  </actor>
+  <actor>
+    <name>Fares Fares</name>
+    <role>Antoine Costa</role>
+    <type>Actor</type>
+    <tmdbid>57012</tmdbid>
+  </actor>
+  <actor>
+    <name>Katja Herbers</name>
+    <role>Emily</role>
+    <type>Actor</type>
+    <tmdbid>102137</tmdbid>
+    <imdbid>nm1126156</imdbid>
+  </actor>
+  <actor>
+    <name>Louis Herthum</name>
+    <role>Peter Abernathy</role>
+    <type>Actor</type>
+    <tmdbid>93228</tmdbid>
+    <imdbid>nm0381043</imdbid>
+  </actor>
+  <actor>
+    <name>Zahn McClarnon</name>
+    <role>Akecheta</role>
+    <type>Actor</type>
+    <tmdbid>42376</tmdbid>
+    <imdbid>nm0565647</imdbid>
+  </actor>
+  <actor>
+    <name>Talulah Riley</name>
+    <role>Angela</role>
+    <type>Actor</type>
+    <tmdbid>66441</tmdbid>
+    <imdbid>nm1506908</imdbid>
+  </actor>
+  <actor>
+    <name>Angela Sarafyan</name>
+    <role>Clementine Pennyfeather</role>
+    <type>Actor</type>
+    <tmdbid>85143</tmdbid>
+  </actor>
+  <actor>
+    <name>Gustaf Skarsgård</name>
+    <role>Karl Strand</role>
+    <type>Actor</type>
+    <tmdbid>63764</tmdbid>
+  </actor>
+  <actor>
+    <name>Shannon Woodward</name>
+    <role>Elsie Hughes</role>
+    <type>Actor</type>
+    <tmdbid>82663</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon Quarterman</name>
+    <role>Lee Sizemore</role>
+    <type>Actor</type>
+    <tmdbid>141463</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Hemsworth</name>
+    <role>Ashley Stubbs</role>
+    <type>Actor</type>
+    <tmdbid>216986</tmdbid>
+  </actor>
+  <actor>
+    <name>Rodrigo Santoro</name>
+    <role>Hector Escaton</role>
+    <type>Actor</type>
+    <tmdbid>17289</tmdbid>
+    <imdbid>nm0763928</imdbid>
+  </actor>
+  <actor>
+    <name>Clifton Collins Jr.</name>
+    <role>Lawrence / El Lazo</role>
+    <type>Actor</type>
+    <tmdbid>5365</tmdbid>
+    <imdbid>nm0004286</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Henderson</name>
+    <role>Goldberg</role>
+    <type>GuestStar</type>
+    <tmdbid>30616</tmdbid>
+    <imdbid>nm3020280</imdbid>
+  </actor>
+  <actor>
+    <name>Ronnie Gene Blevins</name>
+    <role>Engels</role>
+    <type>GuestStar</type>
+    <tmdbid>98804</tmdbid>
+    <imdbid>nm1237235</imdbid>
+  </actor>
+  <actor>
+    <name>Timothy V. Murphy</name>
+    <role>Coughlin</role>
+    <type>GuestStar</type>
+    <tmdbid>92949</tmdbid>
+    <imdbid>nm1182011</imdbid>
+  </actor>
+  <actor>
+    <name>Izabella Alvarez</name>
+    <role>Lawrence's Daughter</role>
+    <type>GuestStar</type>
+    <tmdbid>1600725</tmdbid>
+  </actor>
+  <actor>
+    <name>Olga Aguilar</name>
+    <role>Lawrence's Wife</role>
+    <type>GuestStar</type>
+    <tmdbid>2024799</tmdbid>
+  </actor>
+  <actor>
+    <name>Bilal Mir</name>
+    <role>Controller</role>
+    <type>GuestStar</type>
+    <tmdbid>1090690</tmdbid>
+  </actor>
+  <actor>
+    <name>David Damus</name>
+    <role>Curious PMC</role>
+    <type>GuestStar</type>
+    <tmdbid>1941571</tmdbid>
+  </actor>
+  <actor>
+    <name>David Bianchi</name>
+    <role>PMC #3</role>
+    <type>GuestStar</type>
+    <tmdbid>1163085</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Medina</name>
+    <role>QA Responder</role>
+    <type>GuestStar</type>
+    <tmdbid>1474008</tmdbid>
+  </actor>
+  <actor>
+    <name>Albert Kong</name>
+    <role>QA Responder</role>
+    <type>GuestStar</type>
+    <tmdbid>1449141</tmdbid>
+  </actor>
+  <actor>
+    <name>Sidse Babett Knudsen</name>
+    <role>Theresa Cullen</role>
+    <type>GuestStar</type>
+    <tmdbid>32683</tmdbid>
+    <imdbid>nm0461746</imdbid>
+  </actor>
+  <actor>
+    <name>Ricardo Walker</name>
+    <role>QA Responder</role>
+    <type>GuestStar</type>
+    <tmdbid>1725836</tmdbid>
+  </actor>
+  <actor>
+    <name>Gina Torres</name>
+    <role>Lauren / Bernard's Wife</role>
+    <type>GuestStar</type>
+    <tmdbid>9576</tmdbid>
+    <imdbid>nm0868659</imdbid>
+  </actor>
+  <actor>
+    <name>Jasmyn Rae</name>
+    <role>Homestead Girl / Maeve's Daughter</role>
+    <type>GuestStar</type>
+    <tmdbid>1400625</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron Fili</name>
+    <role>Roland</role>
+    <type>GuestStar</type>
+    <tmdbid>1954855</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul-Mikél Williams</name>
+    <role>Charlie</role>
+    <type>GuestStar</type>
+    <tmdbid>1975196</tmdbid>
+  </actor>
+  <director>Nicole Kassell</director>
+  <rating>7.929</rating>
+  <year>2018</year>
+  <imdbid>tt6243306</imdbid>
+  <tvdbid>6678437</tvdbid>
+  <runtime>58</runtime>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt6243306</uniqueid>
+  <uniqueid type="Tvdb">6678437</uniqueid>
+  <episode>7</episode>
+  <season>2</season>
+  <aired>2018-06-03</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>29370849</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>58</duration>
+        <durationinseconds>3509</durationinseconds>
+      </video>
+      <audio>
+        <codec>truehd</codec>
+        <micodec>truehd</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

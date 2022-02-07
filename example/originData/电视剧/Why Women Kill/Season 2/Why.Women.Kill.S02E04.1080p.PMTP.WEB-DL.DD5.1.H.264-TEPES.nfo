@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[在阿尔玛得知花园俱乐部将突然造访她家后，她说服伯特伦帮助她做好准备，尽管警方正在调查他们失踪的隔壁邻居。伤心欲绝的迪通过维恩寻求安慰。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-11 16:46:50</dateadded>
+  <title>犯罪现场</title>
+  <actor>
+    <name>Allison Tolman</name>
+    <role>Alma Fillcot</role>
+    <type>Actor</type>
+    <tmdbid>1331652</tmdbid>
+  </actor>
+  <actor>
+    <name>Lana Parrilla</name>
+    <role>Rita Castillo</role>
+    <type>Actor</type>
+    <tmdbid>177231</tmdbid>
+  </actor>
+  <actor>
+    <name>B.K. Cannon</name>
+    <role>Dee Fillcot</role>
+    <type>Actor</type>
+    <tmdbid>1437461</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordane Christie</name>
+    <role>Vern</role>
+    <type>Actor</type>
+    <tmdbid>2145598</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Daddario</name>
+    <role>Scooter</role>
+    <type>Actor</type>
+    <tmdbid>1272291</tmdbid>
+  </actor>
+  <actor>
+    <name>Veronica Falcón</name>
+    <role>Catherine Castillo</role>
+    <type>Actor</type>
+    <tmdbid>1029593</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Frost</name>
+    <role>Bertram Fillcot</role>
+    <type>Actor</type>
+    <tmdbid>11109</tmdbid>
+  </actor>
+  <actor>
+    <name>Virginia Williams</name>
+    <role>Grace Berk</role>
+    <type>Actor</type>
+    <tmdbid>168986</tmdbid>
+  </actor>
+  <actor>
+    <name>Eileen Galindo</name>
+    <role>Isabel Vega</role>
+    <type>GuestStar</type>
+    <tmdbid>171335</tmdbid>
+    <imdbid>nm0302153</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Phillips</name>
+    <role>Joan</role>
+    <type>GuestStar</type>
+    <tmdbid>1472786</tmdbid>
+  </actor>
+  <actor>
+    <name>Kerry O'Malley</name>
+    <role>Mavis</role>
+    <type>GuestStar</type>
+    <tmdbid>100567</tmdbid>
+    <imdbid>nm0641747</imdbid>
+  </actor>
+  <actor>
+    <name>Cynthia Quiles</name>
+    <role>Brenda</role>
+    <type>GuestStar</type>
+    <tmdbid>1580162</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin McNamara</name>
+    <role>Detective Earl</role>
+    <type>GuestStar</type>
+    <tmdbid>1720650</tmdbid>
+  </actor>
+  <rating>0</rating>
+  <year>2021</year>
+  <imdbid>tt13629588</imdbid>
+  <tvdbid>8461348</tvdbid>
+  <runtime>46</runtime>
+  <uniqueid type="Tvdb">8461348</uniqueid>
+  <uniqueid type="Imdb">tt13629588</uniqueid>
+  <episode>4</episode>
+  <season>2</season>
+  <aired>2021-06-17</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4722912</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>46</duration>
+        <durationinseconds>2761</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

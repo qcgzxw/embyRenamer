@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[莱斯丽和霍华德分手后，拉杰什和莱纳德带他到拉斯维加斯散心。另一方面，谢尔顿在佩妮家里过夜。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-19 04:32:37</dateadded>
+  <title>维加斯重正化</title>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Leonard Hofstadter</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>Howard Wolowitz</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Nayyar</name>
+    <role>Rajesh Koothrappali</role>
+    <type>Actor</type>
+    <tmdbid>208099</tmdbid>
+    <imdbid>nm2471798</imdbid>
+  </actor>
+  <actor>
+    <name>Sara Gilbert</name>
+    <role>Leslie Winkle</role>
+    <type>Actor</type>
+    <tmdbid>3282</tmdbid>
+    <imdbid>nm0004960</imdbid>
+  </actor>
+  <actor>
+    <name>Jodi Lyn O'Keefe</name>
+    <role>Mikayla</role>
+    <type>GuestStar</type>
+    <tmdbid>58006</tmdbid>
+    <imdbid>nm0005281</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.6</rating>
+  <year>2009</year>
+  <imdbid>tt1256032</imdbid>
+  <tvdbid>588971</tvdbid>
+  <runtime>22</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>1064801333</tvrageid>
+  <uniqueid type="Imdb">tt1256032</uniqueid>
+  <uniqueid type="Tvdb">588971</uniqueid>
+  <uniqueid type="TvRage">1064801333</uniqueid>
+  <episode>21</episode>
+  <season>2</season>
+  <aired>2009-04-27</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1596610</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1298</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

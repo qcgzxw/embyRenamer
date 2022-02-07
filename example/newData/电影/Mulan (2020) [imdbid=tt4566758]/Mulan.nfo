@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[在遥远的古代中国，一位年轻的女子为了救她的父亲假扮成男装代父从军，在穿越中国广袤土地的壮丽征程中，她从紧张的训练和战争中存活下来，发现自己内心的战士，并且最终从外族侵略者手中救回了皇帝和她的祖国。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-04 15:52:41</dateadded>
+  <title>花木兰</title>
+  <originaltitle>Mulan</originaltitle>
+  <actor>
+    <name>Liu Yifei</name>
+    <role>Hua Mulan</role>
+    <type>Actor</type>
+    <tmdbid>122503</tmdbid>
+    <imdbid>nm1703577</imdbid>
+  </actor>
+  <actor>
+    <name>Jet Li</name>
+    <role>The Emperor</role>
+    <type>Actor</type>
+    <tmdbid>1336</tmdbid>
+    <imdbid>nm0001472</imdbid>
+  </actor>
+  <actor>
+    <name>Tzi Ma</name>
+    <role>Hua Zhou</role>
+    <type>Actor</type>
+    <tmdbid>21629</tmdbid>
+    <imdbid>nm0002245</imdbid>
+  </actor>
+  <actor>
+    <name>Donnie Yen</name>
+    <role>Commander Tung</role>
+    <type>Actor</type>
+    <tmdbid>1341</tmdbid>
+    <imdbid>nm0947447</imdbid>
+  </actor>
+  <actor>
+    <name>Gong Li</name>
+    <role>Xian Niang</role>
+    <type>Actor</type>
+    <tmdbid>643</tmdbid>
+    <imdbid>nm0000084</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Scott Lee</name>
+    <role>Böri Khan</role>
+    <type>Actor</type>
+    <tmdbid>58319</tmdbid>
+    <imdbid>nm0001462</imdbid>
+  </actor>
+  <actor>
+    <name>Yoson An</name>
+    <role>Chen Honghui</role>
+    <type>Actor</type>
+    <tmdbid>1305610</tmdbid>
+    <imdbid>nm5256788</imdbid>
+  </actor>
+  <actor>
+    <name>Rosalind Chao</name>
+    <role>Hua Li</role>
+    <type>Actor</type>
+    <tmdbid>74073</tmdbid>
+    <imdbid>nm0001034</imdbid>
+  </actor>
+  <actor>
+    <name>Cheng Pei-Pei</name>
+    <role>The Matchmaker</role>
+    <type>Actor</type>
+    <tmdbid>1624</tmdbid>
+    <imdbid>nm0155607</imdbid>
+  </actor>
+  <actor>
+    <name>Ron Yuan</name>
+    <role>Sergeant Qiang</role>
+    <type>Actor</type>
+    <tmdbid>61703</tmdbid>
+    <imdbid>nm0950620</imdbid>
+  </actor>
+  <actor>
+    <name>Chen Tang</name>
+    <role>Yao</role>
+    <type>Actor</type>
+    <tmdbid>1381726</tmdbid>
+    <imdbid>nm3247936</imdbid>
+  </actor>
+  <actor>
+    <name>Jun Yu</name>
+    <role>Cricket</role>
+    <type>Actor</type>
+    <tmdbid>2766946</tmdbid>
+  </actor>
+  <actor>
+    <name>Doua Moua</name>
+    <role>Po</role>
+    <type>Actor</type>
+    <tmdbid>74304</tmdbid>
+    <imdbid>nm1732080</imdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Wong</name>
+    <role>Ling</role>
+    <type>Actor</type>
+    <tmdbid>447244</tmdbid>
+    <imdbid>nm4136296</imdbid>
+  </actor>
+  <actor>
+    <name>Ming-Na Wen</name>
+    <role>Esteemed Guest</role>
+    <type>Actor</type>
+    <tmdbid>21702</tmdbid>
+    <imdbid>nm0001840</imdbid>
+  </actor>
+  <actor>
+    <name>Nelson Lee</name>
+    <role>The Chancellor</role>
+    <type>Actor</type>
+    <tmdbid>109019</tmdbid>
+    <imdbid>nm1116914</imdbid>
+  </actor>
+  <actor>
+    <name>Hoon Lee</name>
+    <role>Village Magistrate</role>
+    <type>Actor</type>
+    <tmdbid>1255311</tmdbid>
+    <imdbid>nm1229640</imdbid>
+  </actor>
+  <actor>
+    <name>Crystal Rao</name>
+    <role>Young Mulan</role>
+    <type>Actor</type>
+    <tmdbid>2630268</tmdbid>
+    <imdbid>nm11283837</imdbid>
+  </actor>
+  <actor>
+    <name>Elena Askin</name>
+    <role>Young Xiu</role>
+    <type>Actor</type>
+    <tmdbid>2766947</tmdbid>
+  </actor>
+  <actor>
+    <name>Vincent Feng</name>
+    <role>Longwei</role>
+    <type>Actor</type>
+    <tmdbid>2766948</tmdbid>
+  </actor>
+  <actor>
+    <name>R.J. O'Young</name>
+    <role>Young Soldier</role>
+    <type>Actor</type>
+    <tmdbid>2766949</tmdbid>
+  </actor>
+  <actor>
+    <name>Roger Yuan</name>
+    <role>Duba Tegin</role>
+    <type>Actor</type>
+    <tmdbid>2974</tmdbid>
+    <imdbid>nm0950619</imdbid>
+  </actor>
+  <actor>
+    <name>Jenson Cheng</name>
+    <role>Tulugui Tegin</role>
+    <type>Actor</type>
+    <tmdbid>1746630</tmdbid>
+    <imdbid>nm4766811</imdbid>
+  </actor>
+  <actor>
+    <name>Arka Das</name>
+    <role>Red Fez</role>
+    <type>Actor</type>
+    <tmdbid>1496153</tmdbid>
+    <imdbid>nm5064446</imdbid>
+  </actor>
+  <actor>
+    <name>Jen Sung</name>
+    <role>Kilifu Tegin</role>
+    <type>Actor</type>
+    <tmdbid>84609</tmdbid>
+    <imdbid>nm0653658</imdbid>
+  </actor>
+  <actor>
+    <name>King Lau</name>
+    <role>Bati Tegin</role>
+    <type>Actor</type>
+    <tmdbid>1558030</tmdbid>
+  </actor>
+  <actor>
+    <name>Xana Tang</name>
+    <role>Hua Xiu</role>
+    <type>Actor</type>
+    <tmdbid>571567</tmdbid>
+    <imdbid>nm3487897</imdbid>
+  </actor>
+  <actor>
+    <name>Zhaidarbek Kunguzhinov</name>
+    <role>Stallion Tegin</role>
+    <type>Actor</type>
+    <tmdbid>1818132</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Young</name>
+    <role>Garrison Commander</role>
+    <type>Actor</type>
+    <tmdbid>2766950</tmdbid>
+  </actor>
+  <actor>
+    <name>Wolf Chen</name>
+    <role>Garrison Scout</role>
+    <type>Actor</type>
+    <tmdbid>2766951</tmdbid>
+  </actor>
+  <actor>
+    <name>Owen Kwong</name>
+    <role>Senior Officer</role>
+    <type>Actor</type>
+    <tmdbid>2313015</tmdbid>
+    <imdbid>nm3484456</imdbid>
+  </actor>
+  <actor>
+    <name>Radhesh Aria</name>
+    <role>Lee Xian</role>
+    <type>Actor</type>
+    <tmdbid>2605226</tmdbid>
+    <imdbid>nm11273774</imdbid>
+  </actor>
+  <director tmdbid="15287" imdbid="nm0138927">Niki Caro</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KK8FHdFluOQ</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=R-eFm--k21c</trailer>
+  <rating>5.7</rating>
+  <year>2020</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt4566758</imdbid>
+  <tmdbid>337401</tmdbid>
+  <premiered>2020-09-04</premiered>
+  <releasedate>2020-09-04</releasedate>
+  <criticrating>72</criticrating>
+  <runtime>115</runtime>
+  <country>China</country>
+  <country>United States of America</country>
+  <genre>冒险</genre>
+  <genre>奇幻</genre>
+  <studio>Walt Disney Pictures</studio>
+  <studio>China Film Group Corporation</studio>
+  <studio>Good Fear</studio>
+  <studio>Jason T. Reed Productions</studio>
+  <uniqueid type="Imdb">tt4566758</uniqueid>
+  <uniqueid type="Tmdb">337401</uniqueid>
+  <id>tt4566758</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6102118</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6908</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

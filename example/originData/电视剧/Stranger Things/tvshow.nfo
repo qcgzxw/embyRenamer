@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[《怪奇物语 Stranger Things》（原名《Montauk》）。本剧背景设置在上世纪八十年代的印第安纳州，一个小男孩神秘的消失了；他的朋友、家人以及当地的警方开始竭力找寻答案，但却被卷入了一个充斥秘密试验和恐怖超自然力量的神秘事件中，一个陌生的小女孩看似也与这起事件有莫大的关系。]]></plot>
+  <outline><![CDATA[《怪奇物语 Stranger Things》（原名《Montauk》）。本剧背景设置在上世纪八十年代的印第安纳州，一个小男孩神秘的消失了；他的朋友、家人以及当地的警方开始竭力找寻答案，但却被卷入了一个充斥秘密试验和恐怖超自然力量的神秘事件中，一个陌生的小女孩看似也与这起事件有莫大的关系。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-02 11:44:55</dateadded>
+  <title>怪奇物语</title>
+  <originaltitle>Stranger Things</originaltitle>
+  <actor>
+    <name>Winona Ryder</name>
+    <role>Joyce Byers</role>
+    <type>Actor</type>
+    <tmdbid>1920</tmdbid>
+  </actor>
+  <actor>
+    <name>David Harbour</name>
+    <role>Jim Hopper</role>
+    <type>Actor</type>
+    <tmdbid>35029</tmdbid>
+  </actor>
+  <actor>
+    <name>Finn Wolfhard</name>
+    <role>Mike Wheeler</role>
+    <type>Actor</type>
+    <tmdbid>1442069</tmdbid>
+  </actor>
+  <actor>
+    <name>Millie Bobby Brown</name>
+    <role>Eleven</role>
+    <type>Actor</type>
+    <tmdbid>1356210</tmdbid>
+    <imdbid>nm5611121</imdbid>
+  </actor>
+  <actor>
+    <name>Gaten Matarazzo</name>
+    <role>Dustin Henderson</role>
+    <type>Actor</type>
+    <tmdbid>1653291</tmdbid>
+  </actor>
+  <actor>
+    <name>Caleb McLaughlin</name>
+    <role>Lucas Sinclair</role>
+    <type>Actor</type>
+    <tmdbid>1474123</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalia Dyer</name>
+    <role>Nancy Wheeler</role>
+    <type>Actor</type>
+    <tmdbid>1039011</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Heaton</name>
+    <role>Jonathan Byers</role>
+    <type>Actor</type>
+    <tmdbid>1448222</tmdbid>
+    <imdbid>nm6390427</imdbid>
+  </actor>
+  <actor>
+    <name>Sadie Sink</name>
+    <role>Max Mayfield</role>
+    <type>Actor</type>
+    <tmdbid>1590797</tmdbid>
+  </actor>
+  <actor>
+    <name>Dacre Montgomery</name>
+    <role>Billy Hargrove</role>
+    <type>Actor</type>
+    <tmdbid>1525047</tmdbid>
+  </actor>
+  <actor>
+    <name>Cara Buono</name>
+    <role>Karen Wheeler</role>
+    <type>Actor</type>
+    <tmdbid>20047</tmdbid>
+  </actor>
+  <actor>
+    <name>Noah Schnapp</name>
+    <role>Will Byers</role>
+    <type>Actor</type>
+    <tmdbid>1393177</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Keery</name>
+    <role>Steve Harrington</role>
+    <type>Actor</type>
+    <tmdbid>1467219</tmdbid>
+  </actor>
+  <actor>
+    <name>Priah Ferguson</name>
+    <role>Erica Sinclair</role>
+    <type>Actor</type>
+    <tmdbid>2029806</tmdbid>
+  </actor>
+  <actor>
+    <name>Maya Hawke</name>
+    <role>Robin Buckley</role>
+    <type>Actor</type>
+    <tmdbid>1903874</tmdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=b9EkMc79ZSU</trailer>
+  <rating>8.6</rating>
+  <year>2016</year>
+  <mpaa>TV-14</mpaa>
+  <imdb_id>tt4574334</imdb_id>
+  <tmdbid>66732</tmdbid>
+  <premiered>2016-07-15</premiered>
+  <releasedate>2016-07-15</releasedate>
+  <runtime>50</runtime>
+  <genre>Sci-Fi &amp; Fantasy</genre>
+  <genre>悬疑</genre>
+  <genre>剧情</genre>
+  <studio>Netflix</studio>
+  <zap2itid>EP02451975</zap2itid>
+  <tvrageid>48493</tvrageid>
+  <uniqueid type="Tvdb">305288</uniqueid>
+  <tvdbid>305288</tvdbid>
+  <uniqueid type="Imdb">tt4574334</uniqueid>
+  <uniqueid type="Zap2It">EP02451975</uniqueid>
+  <uniqueid type="Tmdb">66732</uniqueid>
+  <uniqueid type="TvRage">48493</uniqueid>
+  <id>305288</id>
+  <episodeguide>
+    <url cache="305288.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/305288/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

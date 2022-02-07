@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Joe juggles problems with Paco and Beck and now must contend with a private investigator as well, but resolution is coming, one way or another.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-01-05 22:30:08</dateadded>
+  <title>第 10 集</title>
+  <actor>
+    <name>Penn Badgley</name>
+    <role>Joe Goldberg</role>
+    <type>Actor</type>
+    <tmdbid>110927</tmdbid>
+    <imdbid>nm0046112</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Lail</name>
+    <role>Guinevere Beck</role>
+    <type>Actor</type>
+    <tmdbid>1368507</tmdbid>
+    <imdbid>nm5634768</imdbid>
+  </actor>
+  <actor>
+    <name>Luca Padovan</name>
+    <role>Paco</role>
+    <type>Actor</type>
+    <tmdbid>2126167</tmdbid>
+  </actor>
+  <actor>
+    <name>Zach Cherry</name>
+    <role>Ethan Russell</role>
+    <type>Actor</type>
+    <tmdbid>1838225</tmdbid>
+  </actor>
+  <actor>
+    <name>Ambyr Childers</name>
+    <role>Candace Stone</role>
+    <type>GuestStar</type>
+    <tmdbid>75330</tmdbid>
+    <imdbid>nm1024107</imdbid>
+  </actor>
+  <actor>
+    <name>Nicole Kang</name>
+    <role>Lynn Lieser</role>
+    <type>GuestStar</type>
+    <tmdbid>2081650</tmdbid>
+    <imdbid>nm9169007</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Cosgrove</name>
+    <role>Ron</role>
+    <type>GuestStar</type>
+    <tmdbid>203511</tmdbid>
+    <imdbid>nm0181822</imdbid>
+  </actor>
+  <actor>
+    <name>Gianni Ciardiello</name>
+    <role>Young Joe Goldberg</role>
+    <type>GuestStar</type>
+    <tmdbid>2455475</tmdbid>
+  </actor>
+  <actor>
+    <name>Hari Nef</name>
+    <role>Blythe</role>
+    <type>GuestStar</type>
+    <tmdbid>1611609</tmdbid>
+    <imdbid>nm6341515</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Blum</name>
+    <role>Mr. Mooney</role>
+    <type>GuestStar</type>
+    <tmdbid>14103</tmdbid>
+    <imdbid>nm0089685</imdbid>
+  </actor>
+  <actor>
+    <name>Victoria Cartagena</name>
+    <role>Claudia</role>
+    <type>GuestStar</type>
+    <tmdbid>118388</tmdbid>
+    <imdbid>nm1742739</imdbid>
+  </actor>
+  <actor>
+    <name>Kathryn Gallagher</name>
+    <role>Annika</role>
+    <type>GuestStar</type>
+    <tmdbid>2270221</tmdbid>
+    <imdbid>nm4137840</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Park</name>
+    <role>Edwin Beck</role>
+    <type>GuestStar</type>
+    <tmdbid>1070349</tmdbid>
+    <imdbid>nm0661906</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Andes</name>
+    <role>Ross</role>
+    <type>GuestStar</type>
+    <tmdbid>1699420</tmdbid>
+    <imdbid>nm4060244</imdbid>
+  </actor>
+  <actor>
+    <name>Diana Bologna</name>
+    <role>Officer Laurel</role>
+    <type>GuestStar</type>
+    <tmdbid>1910778</tmdbid>
+    <imdbid>nm2767440</imdbid>
+  </actor>
+  <actor>
+    <name>Kisha Barr</name>
+    <role>Reporter #1</role>
+    <type>GuestStar</type>
+    <tmdbid>2455956</tmdbid>
+    <imdbid>nm6294668</imdbid>
+  </actor>
+  <actor>
+    <name>Ariel Kim</name>
+    <role>Bookstore Customer</role>
+    <type>GuestStar</type>
+    <tmdbid>2455957</tmdbid>
+    <imdbid>nm4354135</imdbid>
+  </actor>
+  <actor>
+    <name>Ray Rosario</name>
+    <role>News Press (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>2355243</tmdbid>
+  </actor>
+  <actor>
+    <name>John Stamos</name>
+    <role>Dr. Nicky</role>
+    <type>GuestStar</type>
+    <tmdbid>32600</tmdbid>
+    <imdbid>nm0001764</imdbid>
+  </actor>
+  <director>Marcos Siega</director>
+  <rating>7.9</rating>
+  <year>2018</year>
+  <imdbid>tt7836784</imdbid>
+  <tvdbid>6609867</tvdbid>
+  <runtime>50</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt7836784</uniqueid>
+  <uniqueid type="Tvdb">6609867</uniqueid>
+  <episode>10</episode>
+  <season>1</season>
+  <aired>2018-11-11</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9366539</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>49</duration>
+        <durationinseconds>2977</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

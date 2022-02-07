@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　大唐年间妖魔横行，一小渔村因为饱受鱼妖之害请来道士（冯勉恒 饰）除妖，年轻驱魔人陈玄奘（文章 饰）前来帮忙却被误认为骗子，幸亏职业赏金驱魔人段小姐（舒淇 饰）帮助玄奘制服了鱼妖真身（李尚正 饰）。二人又在高家庄为制服猪妖猪刚鬣（陈炳强 饰） 而再次相遇，这次除妖没有成功 ，但是段小姐却对玄奘二见钟情。玄奘求助师父，得知除妖的办法是去找被压在五指山下的孙悟空（黄渤 饰）帮忙，于是他准备前往五指山，途中又遇到段小姐和手下五煞，段小姐连蒙带哄想与玄奘在一起却屡次遭拒，在四妹（周秀娜 饰）调教下想变得更有女人味却适得其反。二人决裂后玄奘独自上路，与此同时降魔师（释延能 饰）、天残脚（张超理 饰）、空虚公子（罗志祥 饰）也一同前往除妖。经过千辛万苦玄奘终于找到孙悟空，段小姐又再次出现并交给玄奘一件重要的东西，猪妖终于被降服，但是更大的危机又出现在了玄奘面前，原来孙悟空与传闻中不一样，玄奘的除魔之路能否继续？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-04 14:16:17</dateadded>
+  <title>西游·降魔篇</title>
+  <originaltitle>西游·降魔篇</originaltitle>
+  <actor>
+    <name>Wen Zhang</name>
+    <role>Chen Xuanzang / Tripitaka</role>
+    <type>Actor</type>
+    <tmdbid>572084</tmdbid>
+    <imdbid>nm3491286</imdbid>
+  </actor>
+  <actor>
+    <name>Shu Qi</name>
+    <role>Miss Duan</role>
+    <type>Actor</type>
+    <tmdbid>21911</tmdbid>
+    <imdbid>nm0795517</imdbid>
+  </actor>
+  <actor>
+    <name>Huang Bo</name>
+    <role>Monkey King</role>
+    <type>Actor</type>
+    <tmdbid>128026</tmdbid>
+    <imdbid>nm2348646</imdbid>
+  </actor>
+  <actor>
+    <name>Show Lo</name>
+    <role>Prince Vacant/Prince Important</role>
+    <type>Actor</type>
+    <tmdbid>1245759</tmdbid>
+    <imdbid>nm3881333</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Sheung-Ching</name>
+    <role>Fish Demon / Monk Sandy</role>
+    <type>Actor</type>
+    <tmdbid>1173215</tmdbid>
+  </actor>
+  <actor>
+    <name>Chen Bingqiang</name>
+    <role>Pig Demon/KL Hog</role>
+    <type>Actor</type>
+    <tmdbid>1427524</tmdbid>
+    <imdbid>nm5533785</imdbid>
+  </actor>
+  <actor>
+    <name>Cheng Si-Han</name>
+    <role>Master Nameless</role>
+    <type>Actor</type>
+    <tmdbid>1427525</tmdbid>
+  </actor>
+  <actor>
+    <name>Xing Yu</name>
+    <role>Fist of the North Star</role>
+    <type>Actor</type>
+    <tmdbid>78878</tmdbid>
+    <imdbid>nm1789084</imdbid>
+  </actor>
+  <actor>
+    <name>Lu Zhengyu</name>
+    <role>Chief Goblin</role>
+    <type>Actor</type>
+    <tmdbid>1316499</tmdbid>
+    <imdbid>nm5533999</imdbid>
+  </actor>
+  <actor>
+    <name>Chiu Chi-Ling</name>
+    <role>Second Goblin</role>
+    <type>Actor</type>
+    <tmdbid>1173216</tmdbid>
+    <imdbid>nm1787710</imdbid>
+  </actor>
+  <actor>
+    <name>Yang Di</name>
+    <role>Third Goblin/Blood-Spurter</role>
+    <type>Actor</type>
+    <tmdbid>1427526</tmdbid>
+    <imdbid>nm5535093</imdbid>
+  </actor>
+  <actor>
+    <name>Chrissie Chau</name>
+    <role>Fourth Goblin / Little Sister</role>
+    <type>Actor</type>
+    <tmdbid>556829</tmdbid>
+    <imdbid>nm3012172</imdbid>
+  </actor>
+  <actor>
+    <name>Ge Hang-Yu</name>
+    <role>Fifth Goblin/ Monkey King</role>
+    <type>Actor</type>
+    <tmdbid>1427527</tmdbid>
+  </actor>
+  <actor>
+    <name>Steven Fung Min-Hang</name>
+    <role>Taoist priest</role>
+    <type>Actor</type>
+    <tmdbid>1136392</tmdbid>
+  </actor>
+  <actor>
+    <name>Yeung Lun</name>
+    <role>Mayor</role>
+    <type>Actor</type>
+    <tmdbid>1427528</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Chao-Li</name>
+    <role>Almighty Foot</role>
+    <type>Actor</type>
+    <tmdbid>1427530</tmdbid>
+  </actor>
+  <actor>
+    <name>Tang Yixin</name>
+    <role>Blossom</role>
+    <type>Actor</type>
+    <tmdbid>1539646</tmdbid>
+    <imdbid>nm5533667</imdbid>
+  </actor>
+  <actor>
+    <name>Zhang Mei'e</name>
+    <role>Leader of Four Wilderness Beauties</role>
+    <type>Actor</type>
+    <tmdbid>1627290</tmdbid>
+    <imdbid>nm7914478</imdbid>
+  </actor>
+  <actor>
+    <name>Wang Yabin</name>
+    <role>Villager</role>
+    <type>Actor</type>
+    <tmdbid>1258714</tmdbid>
+    <imdbid>nm2127294</imdbid>
+  </actor>
+  <director tmdbid="57607" imdbid="nm0159507">Stephen Chow</director>
+  <director tmdbid="137141" imdbid="nm0477213">Derek Kwok</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=g3JzljB3zQg</trailer>
+  <rating>6.8</rating>
+  <year>2013</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt2017561</imdbid>
+  <tmdbid>170657</tmdbid>
+  <premiered>2013-02-01</premiered>
+  <releasedate>2013-02-01</releasedate>
+  <criticrating>94</criticrating>
+  <runtime>110</runtime>
+  <country>China</country>
+  <genre>动作</genre>
+  <genre>奇幻</genre>
+  <genre>冒险</genre>
+  <genre>喜剧</genre>
+  <studio>China Film Group Corporation</studio>
+  <studio>Huayi Brothers Pictures</studio>
+  <studio>EDKO Film</studio>
+  <studio>Bingo Movie Development</studio>
+  <studio>Village Roadshow Pictures Asia</studio>
+  <studio>Chinavision Media Group</studio>
+  <set tmdbcolid="456576">
+    <name>西游（系列）</name>
+  </set>
+  <uniqueid type="TmdbCollection">456576</uniqueid>
+  <tmdbcollectionid>456576</tmdbcollectionid>
+  <uniqueid type="Imdb">tt2017561</uniqueid>
+  <uniqueid type="Tmdb">170657</uniqueid>
+  <id>tt2017561</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>8591248</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6583</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

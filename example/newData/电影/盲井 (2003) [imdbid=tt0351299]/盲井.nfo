@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[在私人小煤矿做工的农民唐朝阳（王双宝）和宋金明（李易祥）发家致富的招数是，先套近乎将打工无门的外地农民认作亲人带到煤矿做工，在井下工作时制造“安全事故”将“亲人”杀死，再找矿主私了。两人在火车站盯上16岁的懵懂农村少年元凤鸣（王宝强）后，故伎重操帮其办了假身份证，更名后元凤鸣“成为”宋金明的侄子。  　　三人来到新一家小煤矿成为挖煤工人，元凤鸣的好学、纯朴、天真与体贴常令宋金明想起自己正在念书的娃子，生出恻隐之心迟迟不肯下手，与唐朝阳的矛盾日益激化，不久，唐朝阳给他定下最后期限。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-01-14 02:37:00</dateadded>
+  <title>盲井</title>
+  <originaltitle>盲井</originaltitle>
+  <actor>
+    <name>Li Yixiang</name>
+    <role>Song Jinming</role>
+    <type>Actor</type>
+    <tmdbid>71050</tmdbid>
+  </actor>
+  <actor>
+    <name>Baoqiang Wang</name>
+    <role>Yuan Fengming</role>
+    <type>Actor</type>
+    <tmdbid>71051</tmdbid>
+    <imdbid>nm1316170</imdbid>
+  </actor>
+  <actor>
+    <name>Wang Shuangbao</name>
+    <role>Tang Zhaoyang</role>
+    <type>Actor</type>
+    <tmdbid>71052</tmdbid>
+  </actor>
+  <actor>
+    <name>Jing Ai</name>
+    <role>Xiao Hong</role>
+    <type>Actor</type>
+    <tmdbid>71053</tmdbid>
+  </actor>
+  <actor>
+    <name>Bao Zhen-Jiang</name>
+    <role>First Boss</role>
+    <type>Actor</type>
+    <tmdbid>1191759</tmdbid>
+  </actor>
+  <actor>
+    <name>Sun Wei</name>
+    <role>Tang Zhaoxia</role>
+    <type>Actor</type>
+    <tmdbid>1175976</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhao Jun</name>
+    <role>Miss Ma</role>
+    <type>Actor</type>
+    <tmdbid>554939</tmdbid>
+  </actor>
+  <actor>
+    <name>Yining Wang</name>
+    <role>Mamasan</role>
+    <type>Actor</type>
+    <tmdbid>1888255</tmdbid>
+  </actor>
+  <actor>
+    <name>Sun Haiying</name>
+    <type>Actor</type>
+    <tmdbid>145095</tmdbid>
+  </actor>
+  <director tmdbid="71049">Li Yang</director>
+  <rating>7.5</rating>
+  <year>2003</year>
+  <imdbid>tt0351299</imdbid>
+  <tmdbid>11492</tmdbid>
+  <premiered>2003-02-12</premiered>
+  <releasedate>2003-02-12</releasedate>
+  <criticrating>95</criticrating>
+  <runtime>89</runtime>
+  <country>China</country>
+  <country>Hong Kong</country>
+  <country>Germany</country>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <studio>Tag Spledour and Films</studio>
+  <studio>Bronze Age Films</studio>
+  <uniqueid type="Tmdb">11492</uniqueid>
+  <uniqueid type="Imdb">tt0351299</uniqueid>
+  <id>tt0351299</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1565090</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976044</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>88</duration>
+        <durationinseconds>5326</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

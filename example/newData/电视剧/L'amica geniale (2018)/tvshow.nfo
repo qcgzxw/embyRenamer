@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[　　《我的天才女友》讲述了两个女主人公莉拉和埃莱娜的少女时代。故事一开始，已经功成名就的埃莱娜接到莉拉儿子里诺的电话，说他母亲彻底消失了。埃莱娜想起莉拉对自己命运的预言，于是她写下她们一生的故事……莉拉和埃莱娜一起成长于那不勒斯一个破败的社区，从小形影不离，彼此信赖，但又都视对方为自己隐秘的镜子，暗暗角力。莉拉聪明，漂亮。她可以毫不畏惧地和欺凌自己的男生对质，也可以去找人人惧怕的阿奇勒﹒卡拉奇要回被他夺走的玩具；埃莱娜既羡慕莉拉的学习天赋和超人的决断力，又一直暗暗模仿莉拉。家人不支持莉拉继续求学，因此她到父亲和兄长苦苦维持的修鞋店帮工，又面临几个纨绔子弟的追求。埃莱娜则怀着对朋友的关爱、嫉妒和理解，独自继续学业，却始终无法面对和莉拉竞争的失落。最终，十六岁的莉拉决定嫁给肉食店老板，但在婚宴上，她发现了丈夫的背叛。而埃莱娜也站在成人世界的入口，既为前途担忧，也因对思想前卫的尼诺产生朦胧好感而彷徨。]]></plot>
+  <outline><![CDATA[　　《我的天才女友》讲述了两个女主人公莉拉和埃莱娜的少女时代。故事一开始，已经功成名就的埃莱娜接到莉拉儿子里诺的电话，说他母亲彻底消失了。埃莱娜想起莉拉对自己命运的预言，于是她写下她们一生的故事……莉拉和埃莱娜一起成长于那不勒斯一个破败的社区，从小形影不离，彼此信赖，但又都视对方为自己隐秘的镜子，暗暗角力。莉拉聪明，漂亮。她可以毫不畏惧地和欺凌自己的男生对质，也可以去找人人惧怕的阿奇勒﹒卡拉奇要回被他夺走的玩具；埃莱娜既羡慕莉拉的学习天赋和超人的决断力，又一直暗暗模仿莉拉。家人不支持莉拉继续求学，因此她到父亲和兄长苦苦维持的修鞋店帮工，又面临几个纨绔子弟的追求。埃莱娜则怀着对朋友的关爱、嫉妒和理解，独自继续学业，却始终无法面对和莉拉竞争的失落。最终，十六岁的莉拉决定嫁给肉食店老板，但在婚宴上，她发现了丈夫的背叛。而埃莱娜也站在成人世界的入口，既为前途担忧，也因对思想前卫的尼诺产生朦胧好感而彷徨。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-11-02 03:38:34</dateadded>
+  <title>我的天才女友</title>
+  <originaltitle>L'amica geniale</originaltitle>
+  <actor>
+    <name>Gaia Girace</name>
+    <role>Lila (Teenager)</role>
+    <type>Actor</type>
+    <tmdbid>2165956</tmdbid>
+    <imdbid>nm10135221</imdbid>
+  </actor>
+  <actor>
+    <name>Margherita Mazzucco</name>
+    <role>Elena (Teenager)</role>
+    <type>Actor</type>
+    <tmdbid>2165955</tmdbid>
+  </actor>
+  <actor>
+    <name>Ludovica Nasti</name>
+    <role>Lila (Younger)</role>
+    <type>Actor</type>
+    <tmdbid>2165954</tmdbid>
+  </actor>
+  <actor>
+    <name>Elisa del Genio</name>
+    <role>Elena (Younger)</role>
+    <type>Actor</type>
+    <tmdbid>2165953</tmdbid>
+  </actor>
+  <actor>
+    <name>Dora Romano</name>
+    <role>Miss Oliviero</role>
+    <type>Actor</type>
+    <tmdbid>1510167</tmdbid>
+    <imdbid>nm0738873</imdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=V2Yk8xJkMKQ</trailer>
+  <rating>8.3</rating>
+  <year>2018</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt7278862</imdb_id>
+  <tmdbid>78154</tmdbid>
+  <premiered>2018-11-18</premiered>
+  <releasedate>2018-11-18</releasedate>
+  <runtime>58</runtime>
+  <genre>剧情</genre>
+  <studio>HBO</studio>
+  <studio>Rai 1</studio>
+  <uniqueid type="Imdb">tt7278862</uniqueid>
+  <uniqueid type="Tmdb">78154</uniqueid>
+  <uniqueid type="Tvdb">344626</uniqueid>
+  <tvdbid>344626</tvdbid>
+  <id>344626</id>
+  <episodeguide>
+    <url cache="344626.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/344626/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

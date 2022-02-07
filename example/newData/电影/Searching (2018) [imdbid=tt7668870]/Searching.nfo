@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[工程师大卫·金（约翰·赵 饰）一直引以为傲的16岁乖女玛戈特突然失踪。前来调查此案的警探怀疑女儿离家出走。不满这一结论的父亲为了寻找真相，独自展开调查。他打开了女儿的笔记本电脑，用社交软件开始寻找破案线索。大卫必须在女儿消失之前，沿着她在虚拟世界的足迹找到她…]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-10-19 15:07:47</dateadded>
+  <title>网络谜踪</title>
+  <originaltitle>Searching</originaltitle>
+  <actor>
+    <name>John Cho</name>
+    <role>David Kim</role>
+    <type>Actor</type>
+    <tmdbid>68842</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle La</name>
+    <role>Margot Kim</role>
+    <type>Actor</type>
+    <tmdbid>1993734</tmdbid>
+    <imdbid>nm8045046</imdbid>
+  </actor>
+  <actor>
+    <name>Debra Messing</name>
+    <role>Detective Vick</role>
+    <type>Actor</type>
+    <tmdbid>23959</tmdbid>
+    <imdbid>nm0005226</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Lee</name>
+    <role>Peter</role>
+    <type>Actor</type>
+    <tmdbid>2125528</tmdbid>
+    <imdbid>nm4334711</imdbid>
+  </actor>
+  <actor>
+    <name>Sara Sohn</name>
+    <role>Pamela Nam Kim</role>
+    <type>Actor</type>
+    <tmdbid>1440699</tmdbid>
+  </actor>
+  <actor>
+    <name>Briana McLean</name>
+    <role>Abigail</role>
+    <type>Actor</type>
+    <tmdbid>2175877</tmdbid>
+  </actor>
+  <actor>
+    <name>Erica Jenkins</name>
+    <role>Hannah Pardy</role>
+    <type>Actor</type>
+    <tmdbid>2175878</tmdbid>
+  </actor>
+  <actor>
+    <name>Connor McRaith</name>
+    <role>Isaac</role>
+    <type>Actor</type>
+    <tmdbid>2175876</tmdbid>
+  </actor>
+  <actor>
+    <name>Dominic Hoffman</name>
+    <role>Michael Porter</role>
+    <type>Actor</type>
+    <tmdbid>161891</tmdbid>
+    <imdbid>nm0388865</imdbid>
+  </actor>
+  <actor>
+    <name>Ric Sarabia</name>
+    <role>Randy Cartoff</role>
+    <type>Actor</type>
+    <tmdbid>77597</tmdbid>
+    <imdbid>nm0002878</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Michael Eich</name>
+    <role>Robert</role>
+    <type>Actor</type>
+    <tmdbid>1581100</tmdbid>
+  </actor>
+  <actor>
+    <name>Melissa Disney</name>
+    <role>Isaac's Mom (voice)</role>
+    <type>Actor</type>
+    <tmdbid>92525</tmdbid>
+    <imdbid>nm0228396</imdbid>
+  </actor>
+  <actor>
+    <name>Sean O'Bryan</name>
+    <role>Radio Jockey</role>
+    <type>Actor</type>
+    <tmdbid>33836</tmdbid>
+    <imdbid>nm0639917</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Cain</name>
+    <role>SVPD Homicide Agent</role>
+    <type>Actor</type>
+    <tmdbid>1430509</tmdbid>
+    <imdbid>nm0128861</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Jayne Go</name>
+    <role>Young Margot (5 yrs)</role>
+    <type>Actor</type>
+    <tmdbid>1794770</tmdbid>
+  </actor>
+  <actor>
+    <name>Megan Liu</name>
+    <role>Young Margot (7 yrs)</role>
+    <type>Actor</type>
+    <tmdbid>2135940</tmdbid>
+  </actor>
+  <actor>
+    <name>Kya Dawn Lau</name>
+    <role>Young Margot (9 yrs)</role>
+    <type>Actor</type>
+    <tmdbid>2135939</tmdbid>
+  </actor>
+  <actor>
+    <name>Colin Woodell</name>
+    <role>911 Operator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1660946</tmdbid>
+    <imdbid>nm6018521</imdbid>
+  </actor>
+  <actor>
+    <name>Ashley Edner</name>
+    <role>Margot's Friend #1 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>75331</tmdbid>
+    <imdbid>nm0002801</imdbid>
+  </actor>
+  <actor>
+    <name>Courtney Lauren Cummings</name>
+    <role>Margot's Friend #2 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1783266</tmdbid>
+    <imdbid>nm3590097</imdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Mosley</name>
+    <role>Margot's Friend #7 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2225597</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben J. Pierce</name>
+    <role>Margot's Friend #11 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1670961</tmdbid>
+    <imdbid>nm4868704</imdbid>
+  </actor>
+  <actor>
+    <name>Franchesca Maia</name>
+    <role>Sadie (YouCast)</role>
+    <type>Actor</type>
+    <tmdbid>1507473</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Barbusca</name>
+    <role>Cody (YouCast)</role>
+    <type>Actor</type>
+    <tmdbid>1540601</tmdbid>
+    <imdbid>nm4564958</imdbid>
+  </actor>
+  <actor>
+    <name>Sylvia Minassian</name>
+    <role>Mrs. Shahinian (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2175875</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryce Branagan</name>
+    <role>Diver #1</role>
+    <type>Actor</type>
+    <tmdbid>1727277</tmdbid>
+  </actor>
+  <actor>
+    <name>Katie Rowe</name>
+    <role>Diver #2</role>
+    <type>Actor</type>
+    <tmdbid>1694985</tmdbid>
+    <imdbid>nm1064534</imdbid>
+  </actor>
+  <actor>
+    <name>Kristin Herold</name>
+    <role>Female Anchor</role>
+    <type>Actor</type>
+    <tmdbid>62284</tmdbid>
+    <imdbid>nm0380209</imdbid>
+  </actor>
+  <actor>
+    <name>Roy Abramsohn</name>
+    <role>Male Anchor</role>
+    <type>Actor</type>
+    <tmdbid>154472</tmdbid>
+    <imdbid>nm0009252</imdbid>
+  </actor>
+  <actor>
+    <name>Reed Buck</name>
+    <role>Derek Ellis (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1114051</tmdbid>
+    <imdbid>nm2655199</imdbid>
+  </actor>
+  <actor>
+    <name>Brad Abrell</name>
+    <role>News Reporter (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1443795</tmdbid>
+    <imdbid>nm0009319</imdbid>
+  </actor>
+  <actor>
+    <name>Rasha Goel</name>
+    <role>Search Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1507107</tmdbid>
+    <imdbid>nm2396108</imdbid>
+  </actor>
+  <actor>
+    <name>Johnno Wilson</name>
+    <role>Mike Makowsky</role>
+    <type>Actor</type>
+    <tmdbid>1169291</tmdbid>
+    <imdbid>nm4703393</imdbid>
+  </actor>
+  <actor>
+    <name>Erin Henriques</name>
+    <role>Stacy</role>
+    <type>Actor</type>
+    <tmdbid>2225565</tmdbid>
+  </actor>
+  <actor>
+    <name>Gage Biltoft</name>
+    <role>John Watson</role>
+    <type>Actor</type>
+    <tmdbid>2225575</tmdbid>
+  </actor>
+  <actor>
+    <name>Lasaundra Gibson</name>
+    <role>Faustine Rea</role>
+    <type>Actor</type>
+    <tmdbid>1866405</tmdbid>
+    <imdbid>nm8715323</imdbid>
+  </actor>
+  <actor>
+    <name>John Macey</name>
+    <role>Mr. Lee</role>
+    <type>Actor</type>
+    <tmdbid>1267251</tmdbid>
+    <imdbid>nm3653250</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Foldes</name>
+    <role>SVPD Missing Persons (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1579445</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph John Schirle</name>
+    <role>Jonah Emmi (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1200896</tmdbid>
+    <imdbid>nm2850834</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Nathanson</name>
+    <role>Natalie Boyd (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1217658</tmdbid>
+    <imdbid>nm0622291</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Sparks</name>
+    <role>News Reporter #4 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2639591</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriel D. Angell</name>
+    <role>Officer Brandon Jackson (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2341776</tmdbid>
+  </actor>
+  <actor>
+    <name>Harvey B. Jackson</name>
+    <role>San Jose PD Sgt Shaw (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2089925</tmdbid>
+    <imdbid>nm7651086</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Richard Pagliaro</name>
+    <role>Detective (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2511580</tmdbid>
+  </actor>
+  <actor>
+    <name>Rene Michelle Aranda</name>
+    <role>Emergency Medical Technician (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1585167</tmdbid>
+    <imdbid>nm5237822</imdbid>
+  </actor>
+  <director tmdbid="1932296">Aneesh Chaganty</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3Ro9ebQxEOY</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=L8lHX5AP9pU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mm_JfhUWy8c</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9eccvs0b_oU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=T8zaNxmQC9s</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SKmGONvI94M</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1f-nx8OAMVk</trailer>
+  <rating>7.6</rating>
+  <year>2018</year>
+  <mpaa>HK-IIA</mpaa>
+  <imdbid>tt7668870</imdbid>
+  <tmdbid>489999</tmdbid>
+  <premiered>2018-08-24</premiered>
+  <releasedate>2018-08-24</releasedate>
+  <criticrating>92</criticrating>
+  <runtime>103</runtime>
+  <country>United States of America</country>
+  <genre>惊悚</genre>
+  <genre>悬疑</genre>
+  <genre>剧情</genre>
+  <studio>Stage 6 Films</studio>
+  <studio>Bazelevs Production</studio>
+  <studio>Screen Gems</studio>
+  <set tmdbcolid="768464">
+    <name>网络谜踪（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">489999</uniqueid>
+  <uniqueid type="Imdb">tt7668870</uniqueid>
+  <id>tt7668870</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2863629</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.999998</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6189</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128323</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

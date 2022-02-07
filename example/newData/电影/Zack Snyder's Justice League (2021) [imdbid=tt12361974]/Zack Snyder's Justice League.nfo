@@ -1,0 +1,870 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[为了确保超人没有白白牺牲，蝙蝠侠和神奇女侠计划招募一支超人类团队来保护世界，这项任务比布鲁斯设想要困难得多，因为每个新人都必须面对并跨越自己过去的心魔，团结起来，最终形成前所未有的联盟。只是一切可能为时已晚，无法从荒原狼、狄萨德和达克赛德的计划中拯救地球……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-18 23:39:20</dateadded>
+  <title>扎克·施奈德版正义联盟</title>
+  <originaltitle>Zack Snyder's Justice League</originaltitle>
+  <actor>
+    <name>Ben Affleck</name>
+    <role>Bruce Wayne / Batman</role>
+    <type>Actor</type>
+    <tmdbid>880</tmdbid>
+    <imdbid>nm0000255</imdbid>
+  </actor>
+  <actor>
+    <name>Henry Cavill</name>
+    <role>Clark Kent / Superman / Kal-El</role>
+    <type>Actor</type>
+    <tmdbid>73968</tmdbid>
+  </actor>
+  <actor>
+    <name>Gal Gadot</name>
+    <role>Diana Prince / Wonder Woman</role>
+    <type>Actor</type>
+    <tmdbid>90633</tmdbid>
+    <imdbid>nm2933757</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Momoa</name>
+    <role>Arthur Curry / Aquaman</role>
+    <type>Actor</type>
+    <tmdbid>117642</tmdbid>
+    <imdbid>nm0597388</imdbid>
+  </actor>
+  <actor>
+    <name>Ezra Miller</name>
+    <role>Barry Allen / The Flash</role>
+    <type>Actor</type>
+    <tmdbid>132157</tmdbid>
+    <imdbid>nm3009232</imdbid>
+  </actor>
+  <actor>
+    <name>Ray Fisher</name>
+    <role>Victor Stone / Cyborg</role>
+    <type>Actor</type>
+    <tmdbid>1313559</tmdbid>
+  </actor>
+  <actor>
+    <name>Amy Adams</name>
+    <role>Lois Lane</role>
+    <type>Actor</type>
+    <tmdbid>9273</tmdbid>
+    <imdbid>nm0010736</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Irons</name>
+    <role>Alfred Pennyworth</role>
+    <type>Actor</type>
+    <tmdbid>16940</tmdbid>
+    <imdbid>nm0000460</imdbid>
+  </actor>
+  <actor>
+    <name>Connie Nielsen</name>
+    <role>Queen Hippolyta</role>
+    <type>Actor</type>
+    <tmdbid>935</tmdbid>
+    <imdbid>nm0001567</imdbid>
+  </actor>
+  <actor>
+    <name>Diane Lane</name>
+    <role>Martha Kent</role>
+    <type>Actor</type>
+    <tmdbid>2882</tmdbid>
+    <imdbid>nm0000178</imdbid>
+  </actor>
+  <actor>
+    <name>J.K. Simmons</name>
+    <role>Commissioner James Gordon</role>
+    <type>Actor</type>
+    <tmdbid>18999</tmdbid>
+    <imdbid>nm0799777</imdbid>
+  </actor>
+  <actor>
+    <name>Ciarán Hinds</name>
+    <role>Steppenwolf (voice)</role>
+    <type>Actor</type>
+    <tmdbid>8785</tmdbid>
+    <imdbid>nm0001354</imdbid>
+  </actor>
+  <actor>
+    <name>Amber Heard</name>
+    <role>Mera</role>
+    <type>Actor</type>
+    <tmdbid>55085</tmdbid>
+    <imdbid>nm1720028</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Morton</name>
+    <role>Silas Stone</role>
+    <type>Actor</type>
+    <tmdbid>3977</tmdbid>
+  </actor>
+  <actor>
+    <name>Ray Porter</name>
+    <role>Darkseid (voice)</role>
+    <type>Actor</type>
+    <tmdbid>11675</tmdbid>
+    <imdbid>nm0692255</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse Eisenberg</name>
+    <role>Lex Luthor</role>
+    <type>Actor</type>
+    <tmdbid>44735</tmdbid>
+    <imdbid>nm0251986</imdbid>
+  </actor>
+  <actor>
+    <name>Jared Leto</name>
+    <role>The Joker</role>
+    <type>Actor</type>
+    <tmdbid>7499</tmdbid>
+    <imdbid>nm0001467</imdbid>
+  </actor>
+  <actor>
+    <name>Willem Dafoe</name>
+    <role>Nudis Vulko</role>
+    <type>Actor</type>
+    <tmdbid>5293</tmdbid>
+    <imdbid>nm0000353</imdbid>
+  </actor>
+  <actor>
+    <name>Kiersey Clemons</name>
+    <role>Iris West</role>
+    <type>Actor</type>
+    <tmdbid>1253355</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Guinness</name>
+    <role>DeSaad (voice)</role>
+    <type>Actor</type>
+    <tmdbid>27172</tmdbid>
+  </actor>
+  <actor>
+    <name>Harry Lennix</name>
+    <role>General Calvin Swanwick / J'onn J'onzz / Martian Manhunter</role>
+    <type>Actor</type>
+    <tmdbid>9464</tmdbid>
+  </actor>
+  <actor>
+    <name>Karen Bryson</name>
+    <role>Elinore Stone</role>
+    <type>Actor</type>
+    <tmdbid>1227892</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc McClure</name>
+    <role>Jerry</role>
+    <type>Actor</type>
+    <tmdbid>1067</tmdbid>
+  </actor>
+  <actor>
+    <name>Sergi Constance</name>
+    <role>Zeus</role>
+    <type>Actor</type>
+    <tmdbid>1924835</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael McElhatton</name>
+    <role>Black Clad Alpha</role>
+    <type>Actor</type>
+    <tmdbid>73288</tmdbid>
+  </actor>
+  <actor>
+    <name>Lara Decaro</name>
+    <role>School Girl</role>
+    <type>Actor</type>
+    <tmdbid>1664752</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Zheng Kai</name>
+    <role>Ryan Choi</role>
+    <type>Actor</type>
+    <tmdbid>1279598</tmdbid>
+  </actor>
+  <actor>
+    <name>David Thewlis</name>
+    <role>Ares</role>
+    <type>Actor</type>
+    <tmdbid>11207</tmdbid>
+  </actor>
+  <actor>
+    <name>Samantha Win</name>
+    <role>Euboea</role>
+    <type>Actor</type>
+    <tmdbid>1272968</tmdbid>
+  </actor>
+  <actor>
+    <name>Lisa Loven Kongsli</name>
+    <role>Menalippe</role>
+    <type>Actor</type>
+    <tmdbid>1310711</tmdbid>
+  </actor>
+  <actor>
+    <name>Julian Lewis Jones</name>
+    <role>Ancient Atlantean King</role>
+    <type>Actor</type>
+    <tmdbid>109650</tmdbid>
+  </actor>
+  <actor>
+    <name>John Dagleish</name>
+    <role>Black Clad Beta</role>
+    <type>Actor</type>
+    <tmdbid>1240353</tmdbid>
+  </actor>
+  <actor>
+    <name>Francis Magee</name>
+    <role>Ancient King of Men</role>
+    <type>Actor</type>
+    <tmdbid>39661</tmdbid>
+  </actor>
+  <actor>
+    <name>Doutzen Kroes</name>
+    <role>Venelia</role>
+    <type>Actor</type>
+    <tmdbid>1009999</tmdbid>
+  </actor>
+  <actor>
+    <name>Brooke Ence</name>
+    <role>Penthiselea</role>
+    <type>Actor</type>
+    <tmdbid>1831281</tmdbid>
+  </actor>
+  <actor>
+    <name>Hari James</name>
+    <role>Antiope's Crew</role>
+    <type>Actor</type>
+    <tmdbid>1831282</tmdbid>
+  </actor>
+  <actor>
+    <name>Ann Ogbomo</name>
+    <role>Philippus</role>
+    <type>Actor</type>
+    <tmdbid>1360156</tmdbid>
+  </actor>
+  <actor>
+    <name>Russell Crowe</name>
+    <role>Jor-El (voice)</role>
+    <type>Actor</type>
+    <tmdbid>934</tmdbid>
+  </actor>
+  <actor>
+    <name>C. Amanda Maud</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>3015768</tmdbid>
+  </actor>
+  <actor>
+    <name>Ágústa Eva Erlendsdóttir</name>
+    <role>Young Icelandic Woman</role>
+    <type>Actor</type>
+    <tmdbid>79816</tmdbid>
+  </actor>
+  <actor>
+    <name>Björt Sigfinnsdóttir</name>
+    <role>Young Icelandic Woman</role>
+    <type>Actor</type>
+    <tmdbid>2532067</tmdbid>
+  </actor>
+  <actor>
+    <name>Salome R. Gunnarsdottir</name>
+    <role>Singing Icelandic Woman</role>
+    <type>Actor</type>
+    <tmdbid>1580675</tmdbid>
+  </actor>
+  <actor>
+    <name>Kristbjörg Kjeld</name>
+    <role>Old Icelandic Woman</role>
+    <type>Actor</type>
+    <tmdbid>79819</tmdbid>
+  </actor>
+  <actor>
+    <name>Ingvar Eggert Sigurðsson</name>
+    <role>Mayor</role>
+    <type>Actor</type>
+    <tmdbid>55584</tmdbid>
+    <imdbid>nm0797614</imdbid>
+  </actor>
+  <actor>
+    <name>Védís Vífilsdóttir</name>
+    <role>Icelandic Child (Girl)</role>
+    <type>Actor</type>
+    <tmdbid>2532081</tmdbid>
+  </actor>
+  <actor>
+    <name>Snæfríður Rán Aðalsteins</name>
+    <role>Icelandic Child (Girl)</role>
+    <type>Actor</type>
+    <tmdbid>2532082</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Comer</name>
+    <role>School Chaperone</role>
+    <type>Actor</type>
+    <tmdbid>181045</tmdbid>
+  </actor>
+  <actor>
+    <name>Serene Angus</name>
+    <role>School Girl's Friend</role>
+    <type>Actor</type>
+    <tmdbid>2532071</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Burgess</name>
+    <role>School Girl's Friend</role>
+    <type>Actor</type>
+    <tmdbid>1140428</tmdbid>
+  </actor>
+  <actor>
+    <name>Alison Chang</name>
+    <role>School Girl's Friend</role>
+    <type>Actor</type>
+    <tmdbid>2532072</tmdbid>
+  </actor>
+  <actor>
+    <name>Constance Bole</name>
+    <role>School Girl's Friend</role>
+    <type>Actor</type>
+    <tmdbid>2532074</tmdbid>
+  </actor>
+  <actor>
+    <name>Shahla Ayamah</name>
+    <role>School Girl's Friend</role>
+    <type>Actor</type>
+    <tmdbid>2532075</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Courtenay</name>
+    <role>Old Bailey Judge</role>
+    <type>Actor</type>
+    <tmdbid>94856</tmdbid>
+  </actor>
+  <actor>
+    <name>Heather Imbeah</name>
+    <role>Old Bailey Clerk</role>
+    <type>Actor</type>
+    <tmdbid>2532069</tmdbid>
+  </actor>
+  <actor>
+    <name>Carla Turner</name>
+    <role>School Teacher</role>
+    <type>Actor</type>
+    <tmdbid>2532070</tmdbid>
+  </actor>
+  <actor>
+    <name>Grace Cookey-Gam</name>
+    <role>Old Bailey Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>2532083</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Bates</name>
+    <role>Old Bailey Hostage</role>
+    <type>Actor</type>
+    <tmdbid>40683</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Reimer</name>
+    <role>Task Force Sniper</role>
+    <type>Actor</type>
+    <tmdbid>2744942</tmdbid>
+  </actor>
+  <actor>
+    <name>Robbie Gee</name>
+    <role>Task Force Lead</role>
+    <type>Actor</type>
+    <tmdbid>1119</tmdbid>
+    <imdbid>nm0311563</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Sturgeon</name>
+    <role>Task Force Deputy</role>
+    <type>Actor</type>
+    <tmdbid>1509110</tmdbid>
+  </actor>
+  <actor>
+    <name>Eleanor Matsuura</name>
+    <role>Epone</role>
+    <type>Actor</type>
+    <tmdbid>62976</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Wise</name>
+    <role>Howard the Janitor</role>
+    <type>Actor</type>
+    <tmdbid>1273073</tmdbid>
+  </actor>
+  <actor>
+    <name>Jérôme Pradon</name>
+    <role>Louvre Conservationist</role>
+    <type>Actor</type>
+    <tmdbid>1219180</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Clifford</name>
+    <role>French Archaeologist</role>
+    <type>Actor</type>
+    <tmdbid>186389</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca C. Perfect</name>
+    <role>News Reporter at Isle of Crete</role>
+    <type>Actor</type>
+    <tmdbid>2532080</tmdbid>
+  </actor>
+  <actor>
+    <name>Vincent Riotta</name>
+    <role>CID Chief Detective</role>
+    <type>Actor</type>
+    <tmdbid>26669</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward Mitchell</name>
+    <role>CID Officer</role>
+    <type>Actor</type>
+    <tmdbid>2169446</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Arnold</name>
+    <role>Containment Centre Scientist</role>
+    <type>Actor</type>
+    <tmdbid>119893</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Troakes</name>
+    <role>Welsh Tavern Barkeep</role>
+    <type>Actor</type>
+    <tmdbid>1215736</tmdbid>
+  </actor>
+  <actor>
+    <name>Aurore Lauzeral</name>
+    <role>Artemis</role>
+    <type>Actor</type>
+    <tmdbid>2532085</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucy Briers</name>
+    <role>Dog Day Care Owner</role>
+    <type>Actor</type>
+    <tmdbid>1214779</tmdbid>
+  </actor>
+  <actor>
+    <name>David Mara</name>
+    <role>Produce Truck Driver</role>
+    <type>Actor</type>
+    <tmdbid>3015900</tmdbid>
+  </actor>
+  <actor>
+    <name>Wil Coban</name>
+    <role>Tortured Atlantean Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1815694</tmdbid>
+  </actor>
+  <actor>
+    <name>Stewart Alexander</name>
+    <role>College Dean</role>
+    <type>Actor</type>
+    <tmdbid>165359</tmdbid>
+  </actor>
+  <actor>
+    <name>Christy Meyer</name>
+    <role>Emergency Room Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1612721</tmdbid>
+  </actor>
+  <actor>
+    <name>Granville Saxton</name>
+    <role>Homeless Man</role>
+    <type>Actor</type>
+    <tmdbid>142747</tmdbid>
+  </actor>
+  <actor>
+    <name>Gianpiero Cognoli</name>
+    <role>Central City Prison Guard</role>
+    <type>Actor</type>
+    <tmdbid>118587</tmdbid>
+  </actor>
+  <actor>
+    <name>Kobna Holdbrook-Smith</name>
+    <role>Detective Crispus Allen</role>
+    <type>Actor</type>
+    <tmdbid>202775</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Mathurin</name>
+    <role>Sketch Witness</role>
+    <type>Actor</type>
+    <tmdbid>1804415</tmdbid>
+  </actor>
+  <actor>
+    <name>Joyce Veheary</name>
+    <role>Gotham Cop</role>
+    <type>Actor</type>
+    <tmdbid>1403217</tmdbid>
+  </actor>
+  <actor>
+    <name>Taylor James</name>
+    <role>Atlantean Military Messenger</role>
+    <type>Actor</type>
+    <tmdbid>1497913</tmdbid>
+  </actor>
+  <actor>
+    <name>Hadrian Howard</name>
+    <role>Atlantean General</role>
+    <type>Actor</type>
+    <tmdbid>1483038</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor Gardener</name>
+    <role>Atlantean General #2</role>
+    <type>Actor</type>
+    <tmdbid>1563380</tmdbid>
+    <imdbid>nm1375139</imdbid>
+  </actor>
+  <actor>
+    <name>Bruce Chong</name>
+    <role>Atlantean General #3</role>
+    <type>Actor</type>
+    <tmdbid>1743508</tmdbid>
+  </actor>
+  <actor>
+    <name>Orion Lee</name>
+    <role>Star Labs Scientist</role>
+    <type>Actor</type>
+    <tmdbid>1333452</tmdbid>
+  </actor>
+  <actor>
+    <name>Oliver Gatz</name>
+    <role>Star Labs Scientist</role>
+    <type>Actor</type>
+    <tmdbid>2028533</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Blenkiron</name>
+    <role>Star Labs Scientist</role>
+    <type>Actor</type>
+    <tmdbid>1323908</tmdbid>
+  </actor>
+  <actor>
+    <name>Lynne Anne Rodgers</name>
+    <role>Star Labs Cleaning Staff</role>
+    <type>Actor</type>
+    <tmdbid>1693442</tmdbid>
+  </actor>
+  <actor>
+    <name>Oliver Powell</name>
+    <role>Star Labs Cleaning Staff</role>
+    <type>Actor</type>
+    <tmdbid>1789950</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelly Burke</name>
+    <role>Air Force Security</role>
+    <type>Actor</type>
+    <tmdbid>1717128</tmdbid>
+  </actor>
+  <actor>
+    <name>Keith Simpson</name>
+    <role>Air Force Security</role>
+    <type>Actor</type>
+    <tmdbid>2532099</tmdbid>
+  </actor>
+  <actor>
+    <name>Omri Rose</name>
+    <role>Moonsuit Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1776261</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Austin</name>
+    <role>MP Guard</role>
+    <type>Actor</type>
+    <tmdbid>2465566</tmdbid>
+  </actor>
+  <actor>
+    <name>William Atkinson</name>
+    <role>Military Police</role>
+    <type>Actor</type>
+    <tmdbid>1459592</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Benjamin</name>
+    <role>Military Police</role>
+    <type>Actor</type>
+    <tmdbid>1448352</tmdbid>
+  </actor>
+  <actor>
+    <name>Shalini Peiris</name>
+    <role>Bio Hazard Suit Soldier</role>
+    <type>Actor</type>
+    <tmdbid>2205825</tmdbid>
+  </actor>
+  <actor>
+    <name>Carla Gugino</name>
+    <role>Ship Voice (voice)</role>
+    <type>Actor</type>
+    <tmdbid>17832</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Forman</name>
+    <role>Pickup Truck Driver</role>
+    <type>Actor</type>
+    <tmdbid>2635899</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Brooke</name>
+    <role>Defense Department Official</role>
+    <type>Actor</type>
+    <tmdbid>1070855</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Henderson</name>
+    <role>Bald Inmate</role>
+    <type>Actor</type>
+    <tmdbid>2532093</tmdbid>
+  </actor>
+  <actor>
+    <name>Bruce Lester-Johnson</name>
+    <role>Prison Guard</role>
+    <type>Actor</type>
+    <tmdbid>2622652</tmdbid>
+  </actor>
+  <actor>
+    <name>Katia Elizarova</name>
+    <role>Lex's Guard</role>
+    <type>Actor</type>
+    <tmdbid>1620249</tmdbid>
+  </actor>
+  <actor>
+    <name>Gemma Refoufi</name>
+    <role>Lex's Guard</role>
+    <type>Actor</type>
+    <tmdbid>1389198</tmdbid>
+  </actor>
+  <actor>
+    <name>Leila Reid</name>
+    <role>Lex's Guard</role>
+    <type>Actor</type>
+    <tmdbid>1467178</tmdbid>
+  </actor>
+  <actor>
+    <name>Suan-Li Ong</name>
+    <role>Lex's Guard</role>
+    <type>Actor</type>
+    <tmdbid>2483264</tmdbid>
+  </actor>
+  <actor>
+    <name>Tina Balthazar</name>
+    <role>Lex's Guard</role>
+    <type>Actor</type>
+    <tmdbid>1211700</tmdbid>
+  </actor>
+  <actor>
+    <name>Penny Lane</name>
+    <role>Lex's Guard</role>
+    <type>Actor</type>
+    <tmdbid>1596231</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Haymes-Roven</name>
+    <role>Amazon Cavalry General</role>
+    <type>Actor</type>
+    <tmdbid>1944194</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary A. Hecker</name>
+    <role>Creature Vocals (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1077782</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve West</name>
+    <role>MoBo Priest</role>
+    <type>Actor</type>
+    <tmdbid>1087217</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Waddell</name>
+    <role>MoBo Priest #2</role>
+    <type>Actor</type>
+    <tmdbid>1504950</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Costner</name>
+    <role>Jonathan Kent (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1269</tmdbid>
+  </actor>
+  <actor>
+    <name>Swaylee Loughnane</name>
+    <role>Cop (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2445122</tmdbid>
+  </actor>
+  <actor>
+    <name>Robin Wright</name>
+    <role>Antiope (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>32</tmdbid>
+    <imdbid>nm0000705</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Crudup</name>
+    <role>Henry Allen (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>8289</tmdbid>
+    <imdbid>nm0001082</imdbid>
+  </actor>
+  <actor>
+    <name>Zack Snyder</name>
+    <role>Man in Coffee Shop (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>15217</tmdbid>
+  </actor>
+  <actor>
+    <name>Clem So</name>
+    <role>Armies of Men Mongolian Warlord (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1394361</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Draven</name>
+    <role>Viking (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>123428</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Manganiello</name>
+    <role>Slade Wilson / Deathstroke (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>20580</tmdbid>
+    <imdbid>nm0542133</imdbid>
+  </actor>
+  <actor>
+    <name>Nick McKinless</name>
+    <role>Ares Body Double (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1157595</tmdbid>
+  </actor>
+  <director tmdbid="15217">Zack Snyder</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vM-Bja2Gy04</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZrdQSAX2kyw</trailer>
+  <rating>8.1</rating>
+  <year>2021</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt12361974</imdbid>
+  <tmdbid>791373</tmdbid>
+  <premiered>2021-03-18</premiered>
+  <releasedate>2021-03-18</releasedate>
+  <runtime>242</runtime>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>冒险</genre>
+  <genre>奇幻</genre>
+  <genre>科幻</genre>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>The Stone Quarry</studio>
+  <studio>Atlas Entertainment</studio>
+  <studio>DC Entertainment</studio>
+  <studio>Access Entertainment</studio>
+  <studio>Dune Entertainment</studio>
+  <studio>DC Films</studio>
+  <studio>DC Comics</studio>
+  <uniqueid type="Tmdb">791373</uniqueid>
+  <uniqueid type="Imdb">tt12361974</uniqueid>
+  <id>tt12361974</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>18631431</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>242</duration>
+        <durationinseconds>14528</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

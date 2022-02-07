@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[一次女巫审判]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-06 12:36:10</dateadded>
+  <title>伊丽莎白·盖齐审判案</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>David Warner</name>
+    <role>Sir Andrew Pike</role>
+    <type>GuestStar</type>
+    <tmdbid>2076</tmdbid>
+    <imdbid>nm0001831</imdbid>
+  </actor>
+  <actor>
+    <name>Sinéad Matthews</name>
+    <role>Sarah Nutter</role>
+    <type>GuestStar</type>
+    <tmdbid>36668</tmdbid>
+    <imdbid>nm1561651</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Howick</name>
+    <role>Thomas Nutter</role>
+    <type>GuestStar</type>
+    <tmdbid>211681</tmdbid>
+    <imdbid>nm1377114</imdbid>
+  </actor>
+  <actor>
+    <name>Trevor Cooper</name>
+    <role>George Waterhouse</role>
+    <type>GuestStar</type>
+    <tmdbid>79934</tmdbid>
+    <imdbid>nm0178430</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Kaye</name>
+    <role>Richard Two-Shoes</role>
+    <type>GuestStar</type>
+    <tmdbid>71281</tmdbid>
+    <imdbid>nm0443373</imdbid>
+  </actor>
+  <actor>
+    <name>Ruth Sheen</name>
+    <role>Elizabeth Gadge</role>
+    <type>GuestStar</type>
+    <tmdbid>53367</tmdbid>
+    <imdbid>nm0790689</imdbid>
+  </actor>
+  <director>Dan Zeff</director>
+  <rating>7.333</rating>
+  <year>2015</year>
+  <imdbid>tt4513428</imdbid>
+  <tvdbid>5157103</tvdbid>
+  <runtime>29</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Horror</genre>
+  <uniqueid type="Imdb">tt4513428</uniqueid>
+  <uniqueid type="Tvdb">5157103</uniqueid>
+  <episode>3</episode>
+  <season>2</season>
+  <aired>2015-04-09</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10730406</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1748</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

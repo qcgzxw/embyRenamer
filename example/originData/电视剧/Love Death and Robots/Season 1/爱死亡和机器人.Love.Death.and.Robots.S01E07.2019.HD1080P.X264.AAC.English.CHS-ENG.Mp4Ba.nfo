@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[船员们从旅途中醒来后，努力尝试弄清他们到底离预定航程偏了多远。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-27 15:43:50</dateadded>
+  <title>裂缝以外</title>
+  <actor>
+    <name>Henry Douthwaite</name>
+    <role>Thom (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>82660</tmdbid>
+  </actor>
+  <actor>
+    <name>Madeleine Knight</name>
+    <role>Greta (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>2268732</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Banatvala</name>
+    <role>Suzy (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>2271370</tmdbid>
+  </actor>
+  <actor>
+    <name>Delroy Brown</name>
+    <role>Ray (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1756099</tmdbid>
+  </actor>
+  <actor>
+    <name>Grahame Fox</name>
+    <role>Dispatch Voice</role>
+    <type>GuestStar</type>
+    <tmdbid>662006</tmdbid>
+  </actor>
+  <director>Rémi Kozyra</director>
+  <director>Dominique Boidin</director>
+  <director>Léon Bérelle</director>
+  <director>Maxime Luère</director>
+  <rating>8.2</rating>
+  <year>2019</year>
+  <imdbid>tt9788496</imdbid>
+  <tvdbid>7069825</tvdbid>
+  <runtime>17</runtime>
+  <genre>Animation</genre>
+  <genre>Short</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <genre>Horror</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt9788496</uniqueid>
+  <uniqueid type="Tvdb">7069825</uniqueid>
+  <episode>7</episode>
+  <season>1</season>
+  <aired>2019-03-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4145026</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>16</duration>
+        <durationinseconds>996</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>364465</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

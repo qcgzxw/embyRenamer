@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[刚刚和妻子离婚的卢卡斯（麦斯·米科尔森 Mads Mikkelsen 饰）目前在一家托儿所工作，心地善良个性温和的他很快就受到了同事和孩子们的喜爱，其中，一个名叫卡拉（安妮卡·韦德科普 Annika Wedderkopp 饰）的早熟女孩对卢卡斯尤为的亲近。面对女孩幼稚 而单纯的示好，卢卡斯只能婉转的拒绝，可令他没有想到的是，这一举动将他的生活推向了风口浪尖。 卡拉报复性的谎言让卢卡斯背负起了性侵女童的罪名，一时间，这个好好先生成为了整个小镇排挤和压迫的对象。好友的愤怒，前妻的不信任，爱犬的死亡和陌生人的恶意让卢卡斯几近崩溃，而当小小的卡拉吐露真相之后，恶意却并没有随着卢卡斯的重获清白而划下句点。©豆瓣]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-03-20 05:52:45</dateadded>
+  <title>狩猎</title>
+  <originaltitle>Jagten</originaltitle>
+  <actor>
+    <name>Mads Mikkelsen</name>
+    <role>Lucas</role>
+    <type>Actor</type>
+    <tmdbid>1019</tmdbid>
+    <imdbid>nm0586568</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Bo Larsen</name>
+    <role>Theo</role>
+    <type>Actor</type>
+    <tmdbid>4457</tmdbid>
+    <imdbid>nm0488917</imdbid>
+  </actor>
+  <actor>
+    <name>Annika Wedderkopp</name>
+    <role>Klara</role>
+    <type>Actor</type>
+    <tmdbid>1112385</tmdbid>
+  </actor>
+  <actor>
+    <name>Lasse Fogelstrøm</name>
+    <role>Marcus</role>
+    <type>Actor</type>
+    <tmdbid>1188827</tmdbid>
+  </actor>
+  <actor>
+    <name>Susse Wold</name>
+    <role>Grethe</role>
+    <type>Actor</type>
+    <tmdbid>47156</tmdbid>
+    <imdbid>nm0937622</imdbid>
+  </actor>
+  <actor>
+    <name>Anne Louise Hassing</name>
+    <role>Agnes</role>
+    <type>Actor</type>
+    <tmdbid>6122</tmdbid>
+  </actor>
+  <actor>
+    <name>Lars Ranthe</name>
+    <role>Bruun</role>
+    <type>Actor</type>
+    <tmdbid>588175</tmdbid>
+    <imdbid>nm1046521</imdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Rapaport</name>
+    <role>Nadja</role>
+    <type>Actor</type>
+    <tmdbid>92416</tmdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Bull Sarning</name>
+    <role>Torsten</role>
+    <type>Actor</type>
+    <tmdbid>1442695</tmdbid>
+  </actor>
+  <actor>
+    <name>Steen Ordell Guldbrandsen</name>
+    <role>Lars T</role>
+    <type>Actor</type>
+    <tmdbid>1442696</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Engstrup</name>
+    <role>Johan</role>
+    <type>Actor</type>
+    <tmdbid>1441931</tmdbid>
+  </actor>
+  <actor>
+    <name>Troels Thorsen</name>
+    <role>Bent</role>
+    <type>Actor</type>
+    <tmdbid>1442697</tmdbid>
+  </actor>
+  <actor>
+    <name>Søren Rønholt</name>
+    <role>Big Carsten</role>
+    <type>Actor</type>
+    <tmdbid>1442698</tmdbid>
+  </actor>
+  <actor>
+    <name>Hana Shuan</name>
+    <role>Tiny</role>
+    <type>Actor</type>
+    <tmdbid>2660596</tmdbid>
+  </actor>
+  <actor>
+    <name>Jytte Kvinesdal</name>
+    <role>Inger</role>
+    <type>Actor</type>
+    <tmdbid>564610</tmdbid>
+  </actor>
+  <actor>
+    <name>Josefine Gråbøl</name>
+    <role>Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1442699</tmdbid>
+  </actor>
+  <actor>
+    <name>Bjarne Henriksen</name>
+    <role>Ole</role>
+    <type>Actor</type>
+    <tmdbid>4464</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicolai Dahl Hamilton</name>
+    <role>Convenience Store Manager</role>
+    <type>Actor</type>
+    <tmdbid>1353300</tmdbid>
+  </actor>
+  <actor>
+    <name>Øyvind Hagen-Traberg</name>
+    <role>Butcher</role>
+    <type>Actor</type>
+    <tmdbid>1348437</tmdbid>
+  </actor>
+  <actor>
+    <name>Allan Wibor Christensen</name>
+    <role>Butcher's Assistant</role>
+    <type>Actor</type>
+    <tmdbid>1442700</tmdbid>
+  </actor>
+  <actor>
+    <name>Rikke Bergmann</name>
+    <role>Cashier at the Convenience Store</role>
+    <type>Actor</type>
+    <tmdbid>1442701</tmdbid>
+  </actor>
+  <actor>
+    <name>Rasmus Lind Rubin</name>
+    <role>Pede</role>
+    <type>Actor</type>
+    <tmdbid>234895</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Rubæk</name>
+    <role>Elias</role>
+    <type>Actor</type>
+    <tmdbid>1442702</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Højlev Jørgensen</name>
+    <role>Erik</role>
+    <type>Actor</type>
+    <tmdbid>1194835</tmdbid>
+  </actor>
+  <actor>
+    <name>Nina Christrup</name>
+    <role>Bruun's Sister #1</role>
+    <type>Actor</type>
+    <tmdbid>1433678</tmdbid>
+  </actor>
+  <actor>
+    <name>Birgit Petersen</name>
+    <role>Bruun's Sister #2</role>
+    <type>Actor</type>
+    <tmdbid>1442703</tmdbid>
+  </actor>
+  <actor>
+    <name>Karina Fogh Holmkjær</name>
+    <role>Ulla</role>
+    <type>Actor</type>
+    <tmdbid>1442704</tmdbid>
+  </actor>
+  <actor>
+    <name>Heidi Gross</name>
+    <role>Big Carsten's Wife</role>
+    <type>Actor</type>
+    <tmdbid>1442705</tmdbid>
+  </actor>
+  <actor>
+    <name>Marie Aktor</name>
+    <role>Tiny's Wife</role>
+    <type>Actor</type>
+    <tmdbid>1442706</tmdbid>
+  </actor>
+  <actor>
+    <name>Mona C. Soliman</name>
+    <role>Bent's Wife</role>
+    <type>Actor</type>
+    <tmdbid>1442707</tmdbid>
+  </actor>
+  <actor>
+    <name>Mie Ravn Nielsen</name>
+    <role>Lars T's Wife</role>
+    <type>Actor</type>
+    <tmdbid>1442708</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Westi Rasmussen</name>
+    <role>Police Officer #1</role>
+    <type>Actor</type>
+    <tmdbid>1440936</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Ravn</name>
+    <role>Police Officer #2</role>
+    <type>Actor</type>
+    <tmdbid>1310986</tmdbid>
+  </actor>
+  <actor>
+    <name>Katrine Brygmann</name>
+    <role>Kirsten</role>
+    <type>Actor</type>
+    <tmdbid>1442709</tmdbid>
+  </actor>
+  <actor>
+    <name>Ole Dupont</name>
+    <role>Lawyer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1034508</tmdbid>
+  </actor>
+  <director tmdbid="4453" imdbid="nm0899121">Thomas Vinterberg</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9Umv4CyxTdg</trailer>
+  <rating>8.3</rating>
+  <year>2012</year>
+  <mpaa>HK-III</mpaa>
+  <imdbid>tt2106476</imdbid>
+  <tmdbid>103663</tmdbid>
+  <premiered>2012-09-24</premiered>
+  <releasedate>2012-09-24</releasedate>
+  <criticrating>93</criticrating>
+  <runtime>111</runtime>
+  <country>Denmark</country>
+  <country>Sweden</country>
+  <genre>剧情</genre>
+  <studio>Zentropa Entertainments</studio>
+  <studio>Det Danske Filminstitut</studio>
+  <studio>Danmarks Radio (DR)</studio>
+  <studio>Eurimages</studio>
+  <studio>MEDIA Programme of the European Union</studio>
+  <studio>Svenska Filminstitutet</studio>
+  <studio>SVT</studio>
+  <studio>Film i Väst</studio>
+  <studio>Nordisk Film &amp; TV Fond</studio>
+  <uniqueid type="Imdb">tt2106476</uniqueid>
+  <uniqueid type="Tmdb">103663</uniqueid>
+  <id>tt2106476</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3881929</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>110</duration>
+        <durationinseconds>6646</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

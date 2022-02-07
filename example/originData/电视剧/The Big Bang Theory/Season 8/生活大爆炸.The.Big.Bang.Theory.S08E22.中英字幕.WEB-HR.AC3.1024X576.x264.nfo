@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[莱纳德计划回高中母校进行毕业演讲，但他的班机却被取消。拉杰什的直升飞机模型无法启动。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 18:01:03</dateadded>
+  <title>毕业典礼传送器</title>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Leonard Hofstadter</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>Howard Wolowitz</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Nayyar</name>
+    <role>Rajesh Koothrappali</role>
+    <type>Actor</type>
+    <tmdbid>208099</tmdbid>
+    <imdbid>nm2471798</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa Rauch</name>
+    <role>Bernadette Rostenkowski</role>
+    <type>Actor</type>
+    <tmdbid>1221716</tmdbid>
+    <imdbid>nm1851981</imdbid>
+  </actor>
+  <actor>
+    <name>Mayim Bialik</name>
+    <role>Amy Farrah Fowler</role>
+    <type>Actor</type>
+    <tmdbid>167640</tmdbid>
+    <imdbid>nm0080524</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Sussman</name>
+    <role>Stuart Bloom</role>
+    <type>Actor</type>
+    <tmdbid>60633</tmdbid>
+    <imdbid>nm0839934</imdbid>
+  </actor>
+  <actor>
+    <name>Alice Amter</name>
+    <role>Mrs. Koothrappali</role>
+    <type>GuestStar</type>
+    <tmdbid>61081</tmdbid>
+    <imdbid>nm0025364</imdbid>
+  </actor>
+  <actor>
+    <name>Max Mittelman</name>
+    <role>Tech Support (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1379386</tmdbid>
+  </actor>
+  <actor>
+    <name>Katherine Von Till</name>
+    <role>Tech Support Recording (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>983368</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian George</name>
+    <role>V.M. Koothrappali</role>
+    <type>GuestStar</type>
+    <tmdbid>58511</tmdbid>
+    <imdbid>nm0313364</imdbid>
+  </actor>
+  <director>Anthony Joseph Rich</director>
+  <rating>6.6</rating>
+  <year>2015</year>
+  <imdbid>tt3862732</imdbid>
+  <tvdbid>5173430</tvdbid>
+  <runtime>19</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>1065787791</tvrageid>
+  <uniqueid type="Imdb">tt3862732</uniqueid>
+  <uniqueid type="Tvdb">5173430</uniqueid>
+  <uniqueid type="TvRage">1065787791</uniqueid>
+  <episode>22</episode>
+  <season>8</season>
+  <aired>2015-04-23</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1585620</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1151</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

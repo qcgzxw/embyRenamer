@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[英国人洗澡原来也用苯酚肥皂的。。。洗澡和石碳酸味隐喻着老爹的特殊癖好。结局像是在致敬阿婆的《无人生还》，尤其是那首“沙丁鱼之歌”完全就是致敬那首“十个小印第安人”的杀人童谣。。。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-06 21:42:28</dateadded>
+  <title>沙丁鱼</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Katherine Parkinson</name>
+    <role>Rebecca</role>
+    <type>GuestStar</type>
+    <tmdbid>74158</tmdbid>
+  </actor>
+  <actor>
+    <name>Tim Key</name>
+    <role>Ian</role>
+    <type>GuestStar</type>
+    <tmdbid>1016119</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Pasqualino</name>
+    <role>Lee</role>
+    <type>GuestStar</type>
+    <tmdbid>220232</tmdbid>
+  </actor>
+  <actor>
+    <name>Ophelia Lovibond</name>
+    <role>Rachel</role>
+    <type>GuestStar</type>
+    <tmdbid>82639</tmdbid>
+  </actor>
+  <actor>
+    <name>Anne Reid</name>
+    <role>Geraldine</role>
+    <type>GuestStar</type>
+    <tmdbid>77287</tmdbid>
+  </actor>
+  <actor>
+    <name>Julian Rhind-Tutt</name>
+    <role>Mark</role>
+    <type>GuestStar</type>
+    <tmdbid>7031</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Chancellor</name>
+    <role>Elizabeth</role>
+    <type>GuestStar</type>
+    <tmdbid>10731</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Wootton</name>
+    <role>John</role>
+    <type>GuestStar</type>
+    <tmdbid>92574</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Willbond</name>
+    <role>Jeremy</role>
+    <type>GuestStar</type>
+    <tmdbid>1236982</tmdbid>
+  </actor>
+  <actor>
+    <name>Timothy West</name>
+    <role>Andrew</role>
+    <type>GuestStar</type>
+    <tmdbid>35257</tmdbid>
+  </actor>
+  <director>David Kerr</director>
+  <rating>8.182</rating>
+  <year>2014</year>
+  <imdbid>tt2782430</imdbid>
+  <tvdbid>4756886</tvdbid>
+  <runtime>29</runtime>
+  <tvrageid>1065468748</tvrageid>
+  <uniqueid type="Tvdb">4756886</uniqueid>
+  <uniqueid type="TvRage">1065468748</uniqueid>
+  <uniqueid type="Imdb">tt2782430</uniqueid>
+  <episode>1</episode>
+  <season>1</season>
+  <aired>2014-02-05</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10610554</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1767</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

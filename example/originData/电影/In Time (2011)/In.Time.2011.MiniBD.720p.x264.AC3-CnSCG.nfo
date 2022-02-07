@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[在未来，人类可以随心所欲的操控时间，改写年龄。在人类社会，不管这个人活多久，他的年龄被永远定格在25岁。因为没有了自然死亡，为了避免人口膨胀。人类社会抛弃了以往的货币，改用时间作为货币流通。一个人的时间用完之后，这个人就会死亡。一个名叫威尔（贾斯汀·丁伯莱克 Justin Timberlake 饰）的穷人，却意外获得了一笔巨大的财富，拥有了用不完的时间。但是却因为此事被锁定为一场谋杀案的嫌疑人，由此走上了逃亡之路。在逃亡过程中，绑架了时间银行的女继承人（阿曼达·塞弗里德 Amanda Seyfried 饰）。在整个逃亡过程中，他们之间迸发出了感情的火花。而且两人都对现有的时间管理机制都非常不满，进而联手起来对抗这个统治机构。仅凭两人之力能够推翻成熟的权力机构吗？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-05-29 14:50:22</dateadded>
+  <title>时间规划局</title>
+  <originaltitle>In Time</originaltitle>
+  <actor>
+    <name>Justin Timberlake</name>
+    <role>Will Salas</role>
+    <type>Actor</type>
+    <tmdbid>12111</tmdbid>
+    <imdbid>nm0005493</imdbid>
+  </actor>
+  <actor>
+    <name>Amanda Seyfried</name>
+    <role>Sylvia Weis</role>
+    <type>Actor</type>
+    <tmdbid>71070</tmdbid>
+    <imdbid>nm1086543</imdbid>
+  </actor>
+  <actor>
+    <name>Cillian Murphy</name>
+    <role>Raymond Leon</role>
+    <type>Actor</type>
+    <tmdbid>2037</tmdbid>
+    <imdbid>nm0614165</imdbid>
+  </actor>
+  <actor>
+    <name>Olivia Wilde</name>
+    <role>Rachel Salas</role>
+    <type>Actor</type>
+    <tmdbid>59315</tmdbid>
+    <imdbid>nm1312575</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Pettyfer</name>
+    <role>Fortis</role>
+    <type>Actor</type>
+    <tmdbid>61363</tmdbid>
+    <imdbid>nm1641117</imdbid>
+  </actor>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Borel</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Bomer</name>
+    <role>Henry Hamilton</role>
+    <type>Actor</type>
+    <tmdbid>66743</tmdbid>
+    <imdbid>nm0093589</imdbid>
+  </actor>
+  <actor>
+    <name>Vincent Kartheiser</name>
+    <role>Philippe Weis</role>
+    <type>Actor</type>
+    <tmdbid>52646</tmdbid>
+    <imdbid>nm0440229</imdbid>
+  </actor>
+  <actor>
+    <name>Yaya DaCosta</name>
+    <role>Greta</role>
+    <type>Actor</type>
+    <tmdbid>60033</tmdbid>
+    <imdbid>nm1861624</imdbid>
+  </actor>
+  <actor>
+    <name>Toby Hemingway</name>
+    <role>Timekeeper Kors</role>
+    <type>Actor</type>
+    <tmdbid>60901</tmdbid>
+    <imdbid>nm1738172</imdbid>
+  </actor>
+  <actor>
+    <name>Bella Heathcote</name>
+    <role>Michele Weis</role>
+    <type>Actor</type>
+    <tmdbid>234982</tmdbid>
+    <imdbid>nm2757333</imdbid>
+  </actor>
+  <actor>
+    <name>Shyloh Oostwald</name>
+    <role>Maya</role>
+    <type>Actor</type>
+    <tmdbid>1011100</tmdbid>
+    <imdbid>nm3618685</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Fitzpatrick</name>
+    <role>Kara</role>
+    <type>Actor</type>
+    <tmdbid>1011107</tmdbid>
+    <imdbid>nm3500747</imdbid>
+  </actor>
+  <actor>
+    <name>Will Harris</name>
+    <role>Ulysse</role>
+    <type>Actor</type>
+    <tmdbid>135786</tmdbid>
+    <imdbid>nm1705317</imdbid>
+  </actor>
+  <actor>
+    <name>Michael William Freeman</name>
+    <role>Nardin</role>
+    <type>Actor</type>
+    <tmdbid>1416557</tmdbid>
+    <imdbid>nm2508626</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse Lee Soffer</name>
+    <role>Webb</role>
+    <type>Actor</type>
+    <tmdbid>1011102</tmdbid>
+    <imdbid>nm0497522</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Perilo</name>
+    <role>Bell</role>
+    <type>Actor</type>
+    <tmdbid>205114</tmdbid>
+    <imdbid>nm1515878</imdbid>
+  </actor>
+  <actor>
+    <name>Zuleyka Silver</name>
+    <role>Pasha</role>
+    <type>Actor</type>
+    <tmdbid>1011104</tmdbid>
+    <imdbid>nm3561761</imdbid>
+  </actor>
+  <actor>
+    <name>Colin McGurk</name>
+    <role>Citizen</role>
+    <type>Actor</type>
+    <tmdbid>1572100</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Ashley Samuels</name>
+    <role>Sagita</role>
+    <type>Actor</type>
+    <tmdbid>1011105</tmdbid>
+    <imdbid>nm3359122</imdbid>
+  </actor>
+  <actor>
+    <name>Ray Santiago</name>
+    <role>Victa</role>
+    <type>Actor</type>
+    <tmdbid>52957</tmdbid>
+    <imdbid>nm0763631</imdbid>
+  </actor>
+  <actor>
+    <name>William Peltz</name>
+    <role>Pierre</role>
+    <type>Actor</type>
+    <tmdbid>1011103</tmdbid>
+  </actor>
+  <actor>
+    <name>Christiann Castellanos</name>
+    <role>Jasmine</role>
+    <type>Actor</type>
+    <tmdbid>936308</tmdbid>
+    <imdbid>nm2483932</imdbid>
+  </actor>
+  <actor>
+    <name>Abhi Sinha</name>
+    <role>Ross</role>
+    <type>Actor</type>
+    <tmdbid>1324452</tmdbid>
+    <imdbid>nm2974421</imdbid>
+  </actor>
+  <actor>
+    <name>Maximilian Osinski</name>
+    <role>Louis</role>
+    <type>Actor</type>
+    <tmdbid>1011106</tmdbid>
+    <imdbid>nm2471273</imdbid>
+  </actor>
+  <actor>
+    <name>Kristopher Higgins</name>
+    <role>Timekeeper Dent</role>
+    <type>Actor</type>
+    <tmdbid>1448885</tmdbid>
+    <imdbid>nm1759045</imdbid>
+  </actor>
+  <actor>
+    <name>Germano Sardinha</name>
+    <role>Carlo</role>
+    <type>Actor</type>
+    <tmdbid>2210866</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Lashaway</name>
+    <role>Ekman</role>
+    <type>Actor</type>
+    <tmdbid>114600</tmdbid>
+    <imdbid>nm1731478</imdbid>
+  </actor>
+  <actor>
+    <name>Brendan Miller</name>
+    <role>Kolber</role>
+    <type>Actor</type>
+    <tmdbid>83861</tmdbid>
+    <imdbid>nm1676629</imdbid>
+  </actor>
+  <actor>
+    <name>La Monde Byrd</name>
+    <role>Minuteman Rado</role>
+    <type>Actor</type>
+    <tmdbid>1888283</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul David Story</name>
+    <role>Minuteman Roth</role>
+    <type>Actor</type>
+    <tmdbid>1232600</tmdbid>
+    <imdbid>nm2176683</imdbid>
+  </actor>
+  <actor>
+    <name>Blake Sheldon</name>
+    <role>Man at Door</role>
+    <type>Actor</type>
+    <tmdbid>1439167</tmdbid>
+    <imdbid>nm4455312</imdbid>
+  </actor>
+  <actor>
+    <name>Collins Pennie</name>
+    <role>Timekeeper Jaeger</role>
+    <type>Actor</type>
+    <tmdbid>53652</tmdbid>
+    <imdbid>nm1574663</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa Ordway</name>
+    <role>Leila</role>
+    <type>Actor</type>
+    <tmdbid>114602</tmdbid>
+    <imdbid>nm2377802</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Peck</name>
+    <role>Constantin</role>
+    <type>Actor</type>
+    <tmdbid>119586</tmdbid>
+    <imdbid>nm0669656</imdbid>
+  </actor>
+  <actor>
+    <name>Korrina Rico</name>
+    <role>Hotel Clerk</role>
+    <type>Actor</type>
+    <tmdbid>1169764</tmdbid>
+    <imdbid>nm2980893</imdbid>
+  </actor>
+  <actor>
+    <name>Seema Lazar</name>
+    <role>Timekeeper Ellini</role>
+    <type>Actor</type>
+    <tmdbid>1446850</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Jamal Craig</name>
+    <role>Girard</role>
+    <type>Actor</type>
+    <tmdbid>1230849</tmdbid>
+    <imdbid>nm1950863</imdbid>
+  </actor>
+  <actor>
+    <name>Andreas Wigand</name>
+    <role>Milus</role>
+    <type>Actor</type>
+    <tmdbid>1816172</tmdbid>
+  </actor>
+  <actor>
+    <name>Sasha Pivovarova</name>
+    <role>Clara</role>
+    <type>Actor</type>
+    <tmdbid>2210996</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Chávez</name>
+    <role>Ernest</role>
+    <type>Actor</type>
+    <tmdbid>1231304</tmdbid>
+    <imdbid>nm0161670</imdbid>
+  </actor>
+  <actor>
+    <name>August Emerson</name>
+    <role>Levi</role>
+    <type>Actor</type>
+    <tmdbid>208727</tmdbid>
+    <imdbid>nm2420989</imdbid>
+  </actor>
+  <actor>
+    <name>Cathy Baron</name>
+    <role>Ruby</role>
+    <type>Actor</type>
+    <tmdbid>1011108</tmdbid>
+    <imdbid>nm2199801</imdbid>
+  </actor>
+  <actor>
+    <name>Kris Lemche</name>
+    <role>Markus</role>
+    <type>Actor</type>
+    <tmdbid>20176</tmdbid>
+    <imdbid>nm0501210</imdbid>
+  </actor>
+  <actor>
+    <name>Sterling Sulieman</name>
+    <role>Franck</role>
+    <type>Actor</type>
+    <tmdbid>223200</tmdbid>
+    <imdbid>nm2117181</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel Roberts</name>
+    <role>Carrera</role>
+    <type>Actor</type>
+    <tmdbid>35198</tmdbid>
+    <imdbid>nm1212051</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Staron</name>
+    <role>Oris</role>
+    <type>Actor</type>
+    <tmdbid>1464847</tmdbid>
+    <imdbid>nm2759872</imdbid>
+  </actor>
+  <actor>
+    <name>Drew James</name>
+    <role>Thomas</role>
+    <type>Actor</type>
+    <tmdbid>1367845</tmdbid>
+  </actor>
+  <actor>
+    <name>Swen Temmel</name>
+    <role>Breitling</role>
+    <type>Actor</type>
+    <tmdbid>1075049</tmdbid>
+    <imdbid>nm2394568</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Parker Kennedy</name>
+    <role>Edouarda</role>
+    <type>Actor</type>
+    <tmdbid>211540</tmdbid>
+    <imdbid>nm2498781</imdbid>
+  </actor>
+  <actor>
+    <name>Matt O'Leary</name>
+    <role>Moser</role>
+    <type>Actor</type>
+    <tmdbid>71467</tmdbid>
+    <imdbid>nm0641610</imdbid>
+  </actor>
+  <actor>
+    <name>Trever O'Brien</name>
+    <role>Nomos</role>
+    <type>Actor</type>
+    <tmdbid>59016</tmdbid>
+    <imdbid>nm0639871</imdbid>
+  </actor>
+  <actor>
+    <name>Faye Kingslee</name>
+    <role>Timekeeper Jean</role>
+    <type>Actor</type>
+    <tmdbid>1304467</tmdbid>
+    <imdbid>nm3841651</imdbid>
+  </actor>
+  <director tmdbid="8685" imdbid="nm0629272">Andrew Niccol</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xhYUaR5QiUs</trailer>
+  <rating>6.7</rating>
+  <year>2011</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt1637688</imdbid>
+  <tmdbid>49530</tmdbid>
+  <premiered>2011-10-27</premiered>
+  <releasedate>2011-10-27</releasedate>
+  <criticrating>36</criticrating>
+  <runtime>109</runtime>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>惊悚</genre>
+  <genre>科幻</genre>
+  <studio>New Regency Pictures</studio>
+  <studio>Regency Enterprises</studio>
+  <studio>Lucky Strike Film Studios</studio>
+  <uniqueid type="Tmdb">49530</uniqueid>
+  <uniqueid type="Imdb">tt1637688</uniqueid>
+  <id>tt1637688</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3538157</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6556</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

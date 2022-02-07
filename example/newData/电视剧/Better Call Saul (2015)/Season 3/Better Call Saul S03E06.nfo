@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Jimmy embarks on a new endeavor. Chuck pushes himself to the limit. Nacho finds himself ensnared in a power struggle.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-07-28 01:40:03</dateadded>
+  <title>过气品牌</title>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Jimmy McGill</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Rhea Seehorn</name>
+    <role>Kim Wexler</role>
+    <type>Actor</type>
+    <tmdbid>62765</tmdbid>
+    <imdbid>nm0781533</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Fabian</name>
+    <role>Howard Hamlin</role>
+    <type>Actor</type>
+    <tmdbid>58791</tmdbid>
+    <imdbid>nm0264579</imdbid>
+  </actor>
+  <actor>
+    <name>Michael McKean</name>
+    <role>Chuck McGill</role>
+    <type>Actor</type>
+    <tmdbid>21731</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Mando</name>
+    <role>Nacho Varga</role>
+    <type>GuestStar</type>
+    <tmdbid>829372</tmdbid>
+    <imdbid>nm3103126</imdbid>
+  </actor>
+  <actor>
+    <name>Tina Parker</name>
+    <role>Francesca Liddy</role>
+    <type>GuestStar</type>
+    <tmdbid>147085</tmdbid>
+    <imdbid>nm0662669</imdbid>
+  </actor>
+  <actor>
+    <name>Ann Cusack</name>
+    <role>Rebecca Bois</role>
+    <type>GuestStar</type>
+    <tmdbid>59260</tmdbid>
+    <imdbid>nm0193639</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>GuestStar</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Fadem</name>
+    <role>Camera Guy</role>
+    <type>GuestStar</type>
+    <tmdbid>205209</tmdbid>
+    <imdbid>nm1758915</imdbid>
+  </actor>
+  <actor>
+    <name>Hayley Holmes</name>
+    <role>Make-Up Girl</role>
+    <type>GuestStar</type>
+    <tmdbid>965884</tmdbid>
+    <imdbid>nm2210617</imdbid>
+  </actor>
+  <actor>
+    <name>Julian Bonfiglio</name>
+    <role>Sound Guy</role>
+    <type>GuestStar</type>
+    <tmdbid>1843906</tmdbid>
+  </actor>
+  <actor>
+    <name>Kerry Condon</name>
+    <role>Stacey Ehrmantraut</role>
+    <type>GuestStar</type>
+    <tmdbid>62105</tmdbid>
+    <imdbid>nm0174403</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Fraser</name>
+    <role>Lydia Rodarte-Quayle</role>
+    <type>GuestStar</type>
+    <tmdbid>42279</tmdbid>
+    <imdbid>nm0292182</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Margolis</name>
+    <role>Hector Salamanca</role>
+    <type>GuestStar</type>
+    <tmdbid>1173</tmdbid>
+    <imdbid>nm0546797</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremiah Bitsui</name>
+    <role>Victor</role>
+    <type>GuestStar</type>
+    <tmdbid>582668</tmdbid>
+    <imdbid>nm0084497</imdbid>
+  </actor>
+  <actor>
+    <name>Ray Campbell</name>
+    <role>Tyrus Kitt</role>
+    <type>GuestStar</type>
+    <tmdbid>159334</tmdbid>
+    <imdbid>nm1530474</imdbid>
+  </actor>
+  <actor>
+    <name>Juan Carlos Cantu</name>
+    <role>Manuel Varga</role>
+    <type>GuestStar</type>
+    <tmdbid>168147</tmdbid>
+    <imdbid>nm1091922</imdbid>
+  </actor>
+  <director>Keith Gordon</director>
+  <rating>8.469</rating>
+  <year>2017</year>
+  <imdbid>tt5719540</imdbid>
+  <tvdbid>6023998</tvdbid>
+  <runtime>48</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt5719540</uniqueid>
+  <uniqueid type="Tvdb">6023998</uniqueid>
+  <episode>6</episode>
+  <season>3</season>
+  <aired>2017-05-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>34367970</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2862</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

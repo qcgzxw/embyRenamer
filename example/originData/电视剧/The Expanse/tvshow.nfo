@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[故事讲述二百年后的未来，人类殖民太阳系。由于重力的影响，太阳系的人类逐渐分成了地球人、火星人和以小行星带为主的谷神星人，彼此之间的关系由于资源的争夺而变得紧张。警探Josephus Miller（托马斯·简 饰演）连同船长Jim Holden（史蒂文·斯崔特 饰演）与他的船员一起揭发了一个威胁秩序和平及人类生存的阴谋。]]></plot>
+  <outline><![CDATA[故事讲述二百年后的未来，人类殖民太阳系。由于重力的影响，太阳系的人类逐渐分成了地球人、火星人和以小行星带为主的谷神星人，彼此之间的关系由于资源的争夺而变得紧张。警探Josephus Miller（托马斯·简 饰演）连同船长Jim Holden（史蒂文·斯崔特 饰演）与他的船员一起揭发了一个威胁秩序和平及人类生存的阴谋。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-10 02:49:41</dateadded>
+  <title>苍穹浩瀚</title>
+  <originaltitle>The Expanse</originaltitle>
+  <actor>
+    <name>Steven Strait</name>
+    <role>Jim Holden</role>
+    <type>Actor</type>
+    <tmdbid>54815</tmdbid>
+    <imdbid>nm1711829</imdbid>
+  </actor>
+  <actor>
+    <name>Cas Anvar</name>
+    <role>Alex Kamal</role>
+    <type>Actor</type>
+    <tmdbid>59214</tmdbid>
+    <imdbid>nm0031679</imdbid>
+  </actor>
+  <actor>
+    <name>Dominique Tipper</name>
+    <role>Naomi Nagata</role>
+    <type>Actor</type>
+    <tmdbid>1361876</tmdbid>
+    <imdbid>nm4625680</imdbid>
+  </actor>
+  <actor>
+    <name>Wes Chatham</name>
+    <role>Amos Burton</role>
+    <type>Actor</type>
+    <tmdbid>51682</tmdbid>
+    <imdbid>nm1434871</imdbid>
+  </actor>
+  <actor>
+    <name>Shohreh Aghdashloo</name>
+    <role>Chrisjen Avasarala</role>
+    <type>Actor</type>
+    <tmdbid>21041</tmdbid>
+    <imdbid>nm0013037</imdbid>
+  </actor>
+  <actor>
+    <name>Cara Gee</name>
+    <role>Camina Drummer</role>
+    <type>Actor</type>
+    <tmdbid>1197122</tmdbid>
+    <imdbid>nm4446254</imdbid>
+  </actor>
+  <actor>
+    <name>Frankie Adams</name>
+    <role>Bobbie Draper</role>
+    <type>Actor</type>
+    <tmdbid>1753341</tmdbid>
+    <imdbid>nm4213877</imdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=M0QwBp_da28</trailer>
+  <trailer>http://www.youtube.com/watch?v=ydKmedH336Q</trailer>
+  <trailer>http://www.youtube.com/watch?v=8X5gXIQmY-E</trailer>
+  <rating>7.9</rating>
+  <year>2015</year>
+  <mpaa>TV-14</mpaa>
+  <imdb_id>tt3230854</imdb_id>
+  <tmdbid>63639</tmdbid>
+  <premiered>2015-12-14</premiered>
+  <releasedate>2015-12-14</releasedate>
+  <runtime>43</runtime>
+  <genre>剧情</genre>
+  <genre>悬疑</genre>
+  <genre>Sci-Fi &amp; Fantasy</genre>
+  <studio>Amazon</studio>
+  <zap2itid>SH02250408</zap2itid>
+  <tvrageid>41967</tvrageid>
+  <uniqueid type="Imdb">tt3230854</uniqueid>
+  <uniqueid type="Tmdb">63639</uniqueid>
+  <uniqueid type="Zap2It">SH02250408</uniqueid>
+  <uniqueid type="Tvdb">280619</uniqueid>
+  <tvdbid>280619</tvdbid>
+  <uniqueid type="TvRage">41967</uniqueid>
+  <id>280619</id>
+  <episodeguide>
+    <url cache="280619.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/280619/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[库珀（瓦耶特·鲁塞尔 Wyatt Russell 饰）是一位喜欢游历世界的青年，某次，旅费吃紧的他参加了一项游戏测试的工作，没想到这份收入优渥的工作却给他的人生带来了毁灭性的打击。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-06-09 06:20:07</dateadded>
+  <title>终极玩家</title>
+  <actor>
+    <name>Wyatt Russell</name>
+    <role>Cooper Redfield</role>
+    <type>GuestStar</type>
+    <tmdbid>986808</tmdbid>
+    <imdbid>nm0751518</imdbid>
+  </actor>
+  <actor>
+    <name>Wunmi Mosaku</name>
+    <role>Katie</role>
+    <type>GuestStar</type>
+    <tmdbid>134774</tmdbid>
+    <imdbid>nm2148911</imdbid>
+  </actor>
+  <actor>
+    <name>Ken Yamamura</name>
+    <role>Shou Saito</role>
+    <type>GuestStar</type>
+    <tmdbid>1155715</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Moynihan</name>
+    <role>Cooper's Mum</role>
+    <type>GuestStar</type>
+    <tmdbid>556446</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamie Paul</name>
+    <role>Rick Peters</role>
+    <type>GuestStar</type>
+    <tmdbid>1477995</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Neil</name>
+    <role>Scared Girl on Plane (as Jessica Nell)</role>
+    <type>GuestStar</type>
+    <tmdbid>1876970</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannah John-Kamen</name>
+    <role>Sonja</role>
+    <type>GuestStar</type>
+    <tmdbid>1408809</tmdbid>
+    <imdbid>nm4789912</imdbid>
+  </actor>
+  <director>Dan Trachtenberg</director>
+  <rating>7.593</rating>
+  <year>2016</year>
+  <imdbid>tt5709242</imdbid>
+  <tvdbid>5692430</tvdbid>
+  <runtime>57</runtime>
+  <genre>Drama</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt5709242</uniqueid>
+  <uniqueid type="Tvdb">5692430</uniqueid>
+  <episode>2</episode>
+  <season>3</season>
+  <aired>2016-10-21</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10016333</bitrate>
+        <width>1920</width>
+        <height>872</height>
+        <aspect>240:109</aspect>
+        <aspectratio>240:109</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>56</duration>
+        <durationinseconds>3402</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

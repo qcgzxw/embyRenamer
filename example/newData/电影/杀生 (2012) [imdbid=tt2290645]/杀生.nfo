@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[中国西南、与世隔绝、群山环抱中有个寨子，是个人皆长寿、规矩自成之地，清时皇帝赐名“长寿镇”。某日突爆传染病，地方官派医生（任达华 饰）前往诊治，他在镇子外发现奄奄一息的牛结实（黄渤 饰）。进寨后，往日温厚的村民一反常态，不仅对牛结实拒施援手、避若瘟疫，更迁怒于医生多管闲事，老镇长（马精武 饰）亲自带着长寿镇医生（苏有朋 饰）和接生婆（梁静 饰）、油漆匠，老族长等人千万百计的阻挠医生对牛结实的救援，牛结实最终没能被救活，医生也找不到此人暴毙的原因。镇民们对医生的不欢迎不合作态度，令医生很沮丧，正当他准备离开的时候，无意中发现了一个被全镇民众一起隐藏在山崖上的一个秘密，带着重重疑惑医生决定暗中走访长寿镇，直到他偶遇一个男孩，长寿镇迷案的真相才一步步揭开……该片改编自陈铁军的中篇小说《设计死亡》。]]></plot>
+  <outline><![CDATA[看到的不一定就是真相]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-03 18:09:59</dateadded>
+  <title>杀生</title>
+  <originaltitle>杀生</originaltitle>
+  <actor>
+    <name>Huang Bo</name>
+    <role>牛结实</role>
+    <type>Actor</type>
+    <tmdbid>128026</tmdbid>
+    <imdbid>nm2348646</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Yam</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>20519</tmdbid>
+  </actor>
+  <actor>
+    <name>Alec Su</name>
+    <role>Dr Niu</role>
+    <type>Actor</type>
+    <tmdbid>102296</tmdbid>
+  </actor>
+  <actor>
+    <name>Nan Yu</name>
+    <role>Widow Ma</role>
+    <type>Actor</type>
+    <tmdbid>27084</tmdbid>
+  </actor>
+  <actor>
+    <name>Liang Jing</name>
+    <role>Midwife</role>
+    <type>Actor</type>
+    <tmdbid>130866</tmdbid>
+    <imdbid>nm1981463</imdbid>
+  </actor>
+  <actor>
+    <name>Ma Jingwu</name>
+    <role>Mayor</role>
+    <type>Actor</type>
+    <tmdbid>64989</tmdbid>
+  </actor>
+  <director tmdbid="131301" imdbid="nm1299690">Guan Hu</director>
+  <rating>6.5</rating>
+  <year>2012</year>
+  <imdbid>tt2290645</imdbid>
+  <tmdbid>114464</tmdbid>
+  <premiered>2012-04-28</premiered>
+  <releasedate>2012-04-28</releasedate>
+  <runtime>108</runtime>
+  <tagline>看到的不一定就是真相</tagline>
+  <country>China</country>
+  <genre>悬疑</genre>
+  <genre>剧情</genre>
+  <studio>Prestige@CHDWEB</studio>
+  <uniqueid type="Tmdb">114464</uniqueid>
+  <uniqueid type="Imdb">tt2290645</uniqueid>
+  <id>tt2290645</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>14978718</bitrate>
+        <width>1920</width>
+        <height>864</height>
+        <aspect>20:9</aspect>
+        <aspectratio>20:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>108</duration>
+        <durationinseconds>6501</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　西虹市丙级球队大翔队的守门员王多鱼（沈腾 饰）因比赛失利被教练开除，一筹莫展之际王多鱼突然收到神秘人士金老板（张晨光 饰）的邀请，被告知自己竟然是保险大亨王老太爷（李立群 饰）的唯一继承人，遗产高达百亿！但是王老太爷给出了一个非常奇葩的条件，那就是要求王多鱼在一个月内花光十亿，还不能告诉身边人，否则失去继承权。王多鱼毫不犹豫签下了“军令状”，与好友庄强（张一鸣 饰）以及财务夏竹（宋芸桦 饰）一起开启了“挥金之旅”，即将成为西虹市首富的王多鱼，第一次感受到了做富人的快乐，同时也发现想要挥金如土实在没有那么简单！]]></plot>
+  <outline><![CDATA[是金子总会花光的]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2018-10-02 13:38:43</dateadded>
+  <title>西虹市首富</title>
+  <originaltitle>西虹市首富</originaltitle>
+  <actor>
+    <name>Shen Teng</name>
+    <role>Wang Duo Yu</role>
+    <type>Actor</type>
+    <tmdbid>1519026</tmdbid>
+    <imdbid>nm7613067</imdbid>
+  </actor>
+  <actor>
+    <name>Vivian Sung</name>
+    <role>Xia Zhu</role>
+    <type>Actor</type>
+    <tmdbid>1354895</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Yiming</name>
+    <role>Zhuang Qiang</role>
+    <type>Actor</type>
+    <tmdbid>2093325</tmdbid>
+    <imdbid>nm9656541</imdbid>
+  </actor>
+  <actor>
+    <name>Morning Chang</name>
+    <role>Mr. Jin</role>
+    <type>Actor</type>
+    <tmdbid>1910034</tmdbid>
+    <imdbid>nm3756798</imdbid>
+  </actor>
+  <actor>
+    <name>Chang Yuan</name>
+    <role>Liu Jiannan</role>
+    <type>Actor</type>
+    <tmdbid>1985025</tmdbid>
+    <imdbid>nm7613074</imdbid>
+  </actor>
+  <actor>
+    <name>Wei Xiang</name>
+    <role>Coach</role>
+    <type>Actor</type>
+    <tmdbid>2093326</tmdbid>
+    <imdbid>nm9410159</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Lichun</name>
+    <role>Wang' Er Ye</role>
+    <type>Actor</type>
+    <tmdbid>545292</tmdbid>
+    <imdbid>nm0497757</imdbid>
+  </actor>
+  <actor>
+    <name>Chao Tzu-Chiang</name>
+    <role>Mr. Yin</role>
+    <type>Actor</type>
+    <tmdbid>2093327</tmdbid>
+    <imdbid>nm1171795</imdbid>
+  </actor>
+  <actor>
+    <name>ChengSi Wang</name>
+    <role>Da Cong Ming</role>
+    <type>Actor</type>
+    <tmdbid>2029011</tmdbid>
+    <imdbid>nm9673832</imdbid>
+  </actor>
+  <actor>
+    <name>Raquel Xu</name>
+    <role>Shasha</role>
+    <type>Actor</type>
+    <tmdbid>1822751</tmdbid>
+    <imdbid>nm6875568</imdbid>
+  </actor>
+  <actor>
+    <name>Haoyu Yang</name>
+    <role>Man in street</role>
+    <type>Actor</type>
+    <tmdbid>939118</tmdbid>
+    <imdbid>nm4071109</imdbid>
+  </actor>
+  <actor>
+    <name>Allen Ai Lun</name>
+    <role>Gao Ran</role>
+    <type>Actor</type>
+    <tmdbid>1519031</tmdbid>
+    <imdbid>nm8054476</imdbid>
+  </actor>
+  <director tmdbid="1519023" imdbid="nm7613065">Yan Fei</director>
+  <director tmdbid="1519024" imdbid="nm7613066">Peng Damo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zX7sXfsnpfI</trailer>
+  <rating>6.1</rating>
+  <year>2018</year>
+  <imdbid>tt8529186</imdbid>
+  <tmdbid>538331</tmdbid>
+  <premiered>2018-07-27</premiered>
+  <releasedate>2018-07-27</releasedate>
+  <criticrating>67</criticrating>
+  <runtime>117</runtime>
+  <tagline>是金子总会花光的</tagline>
+  <country>China</country>
+  <genre>喜剧</genre>
+  <studio>Fun Age Pictures</studio>
+  <uniqueid type="Tmdb">538331</uniqueid>
+  <uniqueid type="Imdb">tt8529186</uniqueid>
+  <id>tt8529186</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2526635</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7021</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128007</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

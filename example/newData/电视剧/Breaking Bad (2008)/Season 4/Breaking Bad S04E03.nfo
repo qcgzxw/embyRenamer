@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Walter 发现 Gus 对他的监控越来越严格了，甚至在实验室里装上了监视器。Skyler 来到 Walter 的住处，发现了他的伤势，再次询问 Walter 是否安全。Marie 装作各种身份的顾客走访房屋出售，却被抓住了她的偷窃罪行，Hank 知道后拜托同事 Tim 保 Marie 出来，警局里的 Marie 终于抑制不住自己的情绪痛哭。Jesse 和 Walter 的交流逐渐稀少。Walter 和 Skyler 和 Saul 讨论关于洗钱的事项，Skyler 执意要买那家洗车行，并要求 Saul 想一个 Bogdan 不能拒绝的理由。Skyler 想到了一个办法，指挥 Saul 的手下冒充环境监管人员告诫 Bogdan 污染指数超标，要求他立刻停业整改。Tim 找到 Hank 向他提起了 Gale 的案件，请求 Hank 帮忙，并提供了 Gale 的笔记本的复印件给他。Bogdan 果然如 Skyler 所料打电话给她，Skyler 成功杀价到 80 万。Jesse 家俨然已经变成了流浪汉和瘾君子的聚集场所，Tyrus 也开始监视 Jesse 家。Walter 和 Skyler 庆祝买下洗车行买了一瓶昂贵的香槟，Skyler 为此和 Walter 争吵，要他更谨慎一些。看上去满不在乎的 Hank 失眠了，他翻开了 Gale 的实验室笔记本。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 18:20:43</dateadded>
+  <title>开放参观</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Hasty</name>
+    <role>Stephanie Doswell</role>
+    <type>GuestStar</type>
+    <tmdbid>191897</tmdbid>
+    <imdbid>nm1859626</imdbid>
+  </actor>
+  <actor>
+    <name>Ralph Alderman</name>
+    <role>First Realtor</role>
+    <type>GuestStar</type>
+    <tmdbid>61161</tmdbid>
+  </actor>
+  <actor>
+    <name>Marius Stan</name>
+    <role>Bogdan Wolynetz</role>
+    <type>GuestStar</type>
+    <tmdbid>1223197</tmdbid>
+  </actor>
+  <actor>
+    <name>Delana Michaels</name>
+    <role>Female Homeowner</role>
+    <type>GuestStar</type>
+    <tmdbid>155876</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Howard</name>
+    <role>Sketchy</role>
+    <type>GuestStar</type>
+    <tmdbid>15034</tmdbid>
+    <imdbid>nm0397386</imdbid>
+  </actor>
+  <actor>
+    <name>Ray Campbell</name>
+    <role>Tyrus Kitt</role>
+    <type>GuestStar</type>
+    <tmdbid>159334</tmdbid>
+    <imdbid>nm1530474</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Burr</name>
+    <role>Kuby</role>
+    <type>GuestStar</type>
+    <tmdbid>109708</tmdbid>
+    <imdbid>nm0122987</imdbid>
+  </actor>
+  <actor>
+    <name>Lavell Crawford</name>
+    <role>Huell</role>
+    <type>GuestStar</type>
+    <tmdbid>564348</tmdbid>
+    <imdbid>nm1089417</imdbid>
+  </actor>
+  <actor>
+    <name>Nigel Gibbs</name>
+    <role>APD Detective Tim Roberts</role>
+    <type>GuestStar</type>
+    <tmdbid>11915</tmdbid>
+    <imdbid>nm0316708</imdbid>
+  </actor>
+  <director tmdbid="27571">David Slade</director>
+  <rating>7.708</rating>
+  <year>2011</year>
+  <imdbid>tt1683090</imdbid>
+  <tvdbid>4110088</tvdbid>
+  <runtime>46</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt1683090</uniqueid>
+  <uniqueid type="Tvdb">4110088</uniqueid>
+  <episode>3</episode>
+  <season>4</season>
+  <aired>2011-07-31</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10149655</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>46</duration>
+        <durationinseconds>2773</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

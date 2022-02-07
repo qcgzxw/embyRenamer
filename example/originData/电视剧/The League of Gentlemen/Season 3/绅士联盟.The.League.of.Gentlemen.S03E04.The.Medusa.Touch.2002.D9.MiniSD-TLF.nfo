@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[At the 'Windermere' guest house Sunny and Alvin Steele are preparing for another swingers' sexploitation weekend,though,unlike Sunny,Alvin is not really enthusiastic,and goes off to the ...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-15 22:04:58</dateadded>
+  <title>第 4 集</title>
+  <actor>
+    <name>Mark Gatiss</name>
+    <type>Actor</type>
+    <tmdbid>34546</tmdbid>
+    <imdbid>nm0309693</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Hays-Marshall</name>
+    <type>Actor</type>
+    <tmdbid>1231013</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Dyson</name>
+    <type>Actor</type>
+    <tmdbid>1227405</tmdbid>
+  </actor>
+  <actor>
+    <name>Laurence Llewelyn-Bowen</name>
+    <type>GuestStar</type>
+    <tmdbid>1215956</tmdbid>
+  </actor>
+  <actor>
+    <name>Brooke Vincent</name>
+    <role>Casey Glass</role>
+    <type>GuestStar</type>
+    <tmdbid>1215226</tmdbid>
+  </actor>
+  <director>Steve Bendelack</director>
+  <rating>0</rating>
+  <year>2002</year>
+  <imdbid>tt0630131</imdbid>
+  <tvdbid>87714</tvdbid>
+  <runtime>27</runtime>
+  <genre>Comedy</genre>
+  <genre>Horror</genre>
+  <tvrageid>359229</tvrageid>
+  <uniqueid type="Imdb">tt0630131</uniqueid>
+  <uniqueid type="Tvdb">87714</uniqueid>
+  <uniqueid type="TvRage">359229</uniqueid>
+  <episode>4</episode>
+  <season>3</season>
+  <aired>2002-10-17</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1263099</bitrate>
+        <width>700</width>
+        <height>572</height>
+        <aspect>40075:22451</aspect>
+        <aspectratio>40075:22451</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>26</duration>
+        <durationinseconds>1603</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

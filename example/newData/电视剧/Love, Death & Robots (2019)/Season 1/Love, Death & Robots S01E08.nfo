@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[时代翻天覆地，猎妖师之子也与狐妖之女发展出一段奇妙情谊。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-27 16:03:26</dateadded>
+  <title>祝有好收获</title>
+  <actor>
+    <name>Elaine Tan</name>
+    <role>Adult Yan (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>123791</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Yang King</name>
+    <role>Adult Liang / Renshu / Young Man (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>157067</tmdbid>
+  </actor>
+  <actor>
+    <name>Gwendoline Yeo</name>
+    <role>Tsiao Jung (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>46774</tmdbid>
+  </actor>
+  <actor>
+    <name>Maddox Henry</name>
+    <role>Young Liang (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1896480</tmdbid>
+  </actor>
+  <actor>
+    <name>Sumalee Montano</name>
+    <role>Young Yan / Woman (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>66655</tmdbid>
+  </actor>
+  <actor>
+    <name>J. B. Blanc</name>
+    <role>Supervisor / British Man (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>136152</tmdbid>
+  </actor>
+  <director>Oliver Thomas</director>
+  <rating>7.6</rating>
+  <year>2019</year>
+  <imdbid>tt9788498</imdbid>
+  <tvdbid>7069826</tvdbid>
+  <runtime>17</runtime>
+  <genre>Animation</genre>
+  <genre>Short</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <genre>Horror</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt9788498</uniqueid>
+  <uniqueid type="Tvdb">7069826</uniqueid>
+  <episode>8</episode>
+  <season>1</season>
+  <aired>2019-03-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2221438</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>17</duration>
+        <durationinseconds>1032</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>367915</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

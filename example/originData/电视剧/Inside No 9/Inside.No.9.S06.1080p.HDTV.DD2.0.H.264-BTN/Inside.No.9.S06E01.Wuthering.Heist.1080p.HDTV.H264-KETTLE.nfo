@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[潘塔龙有一个大胆的计划，要偷走价值 1200 万英镑的一批钻石。 但是他雇了一整群双线小丑来做这件事。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-17 14:13:23</dateadded>
+  <title>呼啸大劫案</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>GuestStar</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>GuestStar</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Bishop</name>
+    <role>Arlo</role>
+    <type>GuestStar</type>
+    <tmdbid>19996</tmdbid>
+  </actor>
+  <actor>
+    <name>Gemma Whelan</name>
+    <role>Columbina</role>
+    <type>GuestStar</type>
+    <tmdbid>1475127</tmdbid>
+    <imdbid>nm2247629</imdbid>
+  </actor>
+  <actor>
+    <name>Paterson Joseph</name>
+    <role>Pantalone</role>
+    <type>GuestStar</type>
+    <tmdbid>19868</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosa Robson</name>
+    <role>Hortensia</role>
+    <type>GuestStar</type>
+    <tmdbid>1592115</tmdbid>
+  </actor>
+  <actor>
+    <name>Dino Kelly</name>
+    <role>Mario</role>
+    <type>GuestStar</type>
+    <tmdbid>2434251</tmdbid>
+  </actor>
+  <director>Guillem Morales</director>
+  <rating>4</rating>
+  <year>2021</year>
+  <imdbid>tt11673122</imdbid>
+  <tvdbid>8400063</tvdbid>
+  <runtime>30</runtime>
+  <uniqueid type="Tvdb">8400063</uniqueid>
+  <uniqueid type="Imdb">tt11673122</uniqueid>
+  <episode>1</episode>
+  <season>6</season>
+  <aired>2021-05-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3380602</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>interlaced</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1791</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>mp2</codec>
+        <micodec>mp2</micodec>
+        <bitrate>256000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>dvbsub</codec>
+        <micodec>dvbsub</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

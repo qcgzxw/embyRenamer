@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　10年前在一起奇怪的事故中独自生还的失忆少女子允，在一对老夫妇的抚养下长大。为了贴补家用，子允参加了某档电视节目，但让她没想到的是，就在节目播出后，开始有各种奇怪的人出现在她面前……]]></plot>
+  <outline><![CDATA[魔女首部曲：诞生]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-03 14:57:57</dateadded>
+  <title>魔女</title>
+  <originaltitle>마녀</originaltitle>
+  <actor>
+    <name>Kim Da-mi</name>
+    <role>Ja-yoon</role>
+    <type>Actor</type>
+    <tmdbid>2053219</tmdbid>
+    <imdbid>nm9913973</imdbid>
+  </actor>
+  <actor>
+    <name>Cho Min-soo</name>
+    <role>Dr. Baek</role>
+    <type>Actor</type>
+    <tmdbid>1294946</tmdbid>
+    <imdbid>nm5872161</imdbid>
+  </actor>
+  <actor>
+    <name>Park Hee-soon</name>
+    <role>Mr. Choi</role>
+    <type>Actor</type>
+    <tmdbid>93999</tmdbid>
+    <imdbid>nm1775551</imdbid>
+  </actor>
+  <actor>
+    <name>Choi Woo-shik</name>
+    <role>Nobleman</role>
+    <type>Actor</type>
+    <tmdbid>1255881</tmdbid>
+    <imdbid>nm6079248</imdbid>
+  </actor>
+  <actor>
+    <name>Go Min-si</name>
+    <role>Myeong-hee</role>
+    <type>Actor</type>
+    <tmdbid>1787992</tmdbid>
+    <imdbid>nm9613039</imdbid>
+  </actor>
+  <actor>
+    <name>Choi Jung-woo</name>
+    <role>Mr. Goo</role>
+    <type>Actor</type>
+    <tmdbid>572227</tmdbid>
+    <imdbid>nm3853513</imdbid>
+  </actor>
+  <actor>
+    <name>Oh Mi-hee</name>
+    <role>Mr. Goo's wife</role>
+    <type>Actor</type>
+    <tmdbid>146861</tmdbid>
+    <imdbid>nm2405088</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Byung-ok</name>
+    <role>Corporal Do</role>
+    <type>Actor</type>
+    <tmdbid>77182</tmdbid>
+    <imdbid>nm1366028</imdbid>
+  </actor>
+  <actor>
+    <name>Jeong Da-eun</name>
+    <role>Long Hair</role>
+    <type>Actor</type>
+    <tmdbid>1717332</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Ju-won</name>
+    <role>Mr. Sung</role>
+    <type>Actor</type>
+    <tmdbid>1522159</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Ha-na</name>
+    <role>young Ja-yoon</role>
+    <type>Actor</type>
+    <tmdbid>2097726</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Ki-young</name>
+    <role>Mr. Lee</role>
+    <type>Actor</type>
+    <tmdbid>125734</tmdbid>
+    <imdbid>nm1037141</imdbid>
+  </actor>
+  <actor>
+    <name>Kwon Tae-won</name>
+    <role>Mr. Ko</role>
+    <type>Actor</type>
+    <tmdbid>123818</tmdbid>
+    <imdbid>nm2135094</imdbid>
+  </actor>
+  <actor>
+    <name>Yeo Moo-yeong</name>
+    <role>Old Doctor</role>
+    <type>Actor</type>
+    <tmdbid>2119923</tmdbid>
+  </actor>
+  <actor>
+    <name>Chung Ye-jin</name>
+    <role>Jeju Sonyeo</role>
+    <type>Actor</type>
+    <tmdbid>2189618</tmdbid>
+    <imdbid>nm6896466</imdbid>
+  </actor>
+  <director tmdbid="557736" imdbid="nm4219902">Park Hoon-jung</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BmD6BAQjDzY</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eYJuGhT5nYs</trailer>
+  <rating>7.1</rating>
+  <year>2018</year>
+  <imdbid>tt8574252</imdbid>
+  <tmdbid>530254</tmdbid>
+  <premiered>2018-06-27</premiered>
+  <releasedate>2018-06-27</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>126</runtime>
+  <tagline>魔女首部曲：诞生</tagline>
+  <country>South Korea</country>
+  <genre>动作</genre>
+  <genre>悬疑</genre>
+  <genre>奇幻</genre>
+  <studio>Peppermint&amp;company</studio>
+  <studio>Warner Bros. Korea</studio>
+  <studio>Goldmoon Film</studio>
+  <set tmdbcolid="619533">
+    <name>魔女（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">530254</uniqueid>
+  <uniqueid type="Imdb">tt8574252</uniqueid>
+  <id>tt8574252</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>31184294</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>125</duration>
+        <durationinseconds>7541</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>320000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

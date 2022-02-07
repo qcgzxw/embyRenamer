@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Walter万分思念家人，在咨询过 Saul 之后，他决定直接回家。妻子 Skyler 看到 Walter 回来之后，报警抓 Walter。警方了解情况后表示无能为力。Walter Jr. 看到父亲回家很开心，对于母亲的作法十分反感。次日清晨，Walter 和妻子促膝谈心，他告诉妻子自己之所以制毒，都是为了这个家，因为自己死后，家境必定会陷入困境，自己希望给孩子们和妻子留下一笔钱。Walter 希望妻子好好考虑后，晚上给自己答复。晚上，Walter 开心地做晚餐，并且请 Walter Jr. 的同学 Louis 来家里吃饭。Skyler 给 Walter 的答复是：“我和 Ted 上床了。” Tuco 的两个表兄弟到达小镇，要为 Tuco 报仇。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-20 17:02:39</dateadded>
+  <title>我出轨了</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Trejo</name>
+    <role>Tortuga</role>
+    <type>GuestStar</type>
+    <tmdbid>11160</tmdbid>
+    <imdbid>nm0001803</imdbid>
+  </actor>
+  <actor>
+    <name>Caleb Landry Jones</name>
+    <role>Louis</role>
+    <type>GuestStar</type>
+    <tmdbid>572541</tmdbid>
+    <imdbid>nm2655177</imdbid>
+  </actor>
+  <actor>
+    <name>Stoney Westmoreland</name>
+    <role>Policeman</role>
+    <type>GuestStar</type>
+    <tmdbid>19491</tmdbid>
+    <imdbid>nm0922899</imdbid>
+  </actor>
+  <actor>
+    <name>Shari Rhodes</name>
+    <role>Bingo Lady</role>
+    <type>GuestStar</type>
+    <tmdbid>12435</tmdbid>
+  </actor>
+  <actor>
+    <name>Julie Dretzin</name>
+    <role>Pamela</role>
+    <type>GuestStar</type>
+    <tmdbid>156990</tmdbid>
+    <imdbid>nm0003740</imdbid>
+  </actor>
+  <actor>
+    <name>Luis Moncada</name>
+    <role>Marco Salamanca</role>
+    <type>GuestStar</type>
+    <tmdbid>945491</tmdbid>
+    <imdbid>nm1616991</imdbid>
+  </actor>
+  <actor>
+    <name>Javier Grajeda</name>
+    <role>Juan Bolsa</role>
+    <type>GuestStar</type>
+    <tmdbid>66148</tmdbid>
+    <imdbid>nm0334462</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Cousins</name>
+    <role>Ted Beneke</role>
+    <type>GuestStar</type>
+    <tmdbid>20379</tmdbid>
+    <imdbid>nm0184086</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Margolis</name>
+    <role>Tio Salamanca</role>
+    <type>GuestStar</type>
+    <tmdbid>1173</tmdbid>
+    <imdbid>nm0546797</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Michael Quezada</name>
+    <role>Steven Gomez</role>
+    <type>GuestStar</type>
+    <tmdbid>61535</tmdbid>
+    <imdbid>nm2366374</imdbid>
+  </actor>
+  <director>Michelle MacLaren</director>
+  <rating>7.958</rating>
+  <year>2010</year>
+  <imdbid>tt1615187</imdbid>
+  <tvdbid>1894741</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <tvrageid>1064907498</tvrageid>
+  <uniqueid type="Imdb">tt1615187</uniqueid>
+  <uniqueid type="Tvdb">1894741</uniqueid>
+  <uniqueid type="TvRage">1064907498</uniqueid>
+  <episode>3</episode>
+  <season>3</season>
+  <aired>2010-04-04</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9938257</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2833</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

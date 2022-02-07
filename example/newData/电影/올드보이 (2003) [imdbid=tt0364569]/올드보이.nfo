@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[女儿生日那天，中年男子吴大修（崔岷植饰）在醉酒回家路上，突遭不明身份的人绑架失踪。就此，他毫无理由地被囚禁在一个神秘的私人监狱中。寻死未果的吴大修，每天看电视，三餐吃煎饺。通过电视，他得知妻子已遭杀害，女儿下落不明，自己更被怀疑为凶手。就此，吴大修开始锻炼身体，决心复仇，并在牢中度过漫长的15年...]]></plot>
+  <outline><![CDATA[15年监禁……5天复仇]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-06 23:31:24</dateadded>
+  <title>老男孩</title>
+  <originaltitle>올드보이</originaltitle>
+  <actor>
+    <name>Choi Min-sik</name>
+    <role>Oh Dae-su</role>
+    <type>Actor</type>
+    <tmdbid>64880</tmdbid>
+    <imdbid>nm0158856</imdbid>
+  </actor>
+  <actor>
+    <name>Yoo Ji-tae</name>
+    <role>Lee Woo-jin</role>
+    <type>Actor</type>
+    <tmdbid>10112</tmdbid>
+    <imdbid>nm0949167</imdbid>
+  </actor>
+  <actor>
+    <name>Kang Hye-jung</name>
+    <role>Mi-do</role>
+    <type>Actor</type>
+    <tmdbid>1299317</tmdbid>
+    <imdbid>nm1367246</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Byung-ok</name>
+    <role>Mr. Han</role>
+    <type>Actor</type>
+    <tmdbid>77182</tmdbid>
+    <imdbid>nm1366028</imdbid>
+  </actor>
+  <actor>
+    <name>Ji Dae-han</name>
+    <role>No Joo-hwan</role>
+    <type>Actor</type>
+    <tmdbid>77180</tmdbid>
+    <imdbid>nm1203041</imdbid>
+  </actor>
+  <actor>
+    <name>Oh Dal-su</name>
+    <role>Park Cheol-woong</role>
+    <type>Actor</type>
+    <tmdbid>77188</tmdbid>
+    <imdbid>nm1367681</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Seung-shin</name>
+    <role>Hypnotist</role>
+    <type>Actor</type>
+    <tmdbid>554330</tmdbid>
+    <imdbid>nm1800416</imdbid>
+  </actor>
+  <actor>
+    <name>Yoon Jin-seo</name>
+    <role>Lee Soo-ah</role>
+    <type>Actor</type>
+    <tmdbid>117504</tmdbid>
+    <imdbid>nm1517134</imdbid>
+  </actor>
+  <actor>
+    <name>Oh Tae-kyung</name>
+    <role>(Young) Dae-su</role>
+    <type>Actor</type>
+    <tmdbid>77183</tmdbid>
+    <imdbid>nm0644905</imdbid>
+  </actor>
+  <actor>
+    <name>Yoo Yeon-seok</name>
+    <role>(Young) Woo-jin</role>
+    <type>Actor</type>
+    <tmdbid>587675</tmdbid>
+    <imdbid>nm4931932</imdbid>
+  </actor>
+  <actor>
+    <name>Yoo Il-han</name>
+    <role>(Young) Joo-hwan</role>
+    <type>Actor</type>
+    <tmdbid>1291042</tmdbid>
+  </actor>
+  <actor>
+    <name>Oh Gwang-rok</name>
+    <role>Suicidal Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>528339</tmdbid>
+    <imdbid>nm1059108</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Dae-yeon</name>
+    <role>Beggar (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>39258</tmdbid>
+    <imdbid>nm1139514</imdbid>
+  </actor>
+  <actor>
+    <name>Park Myung-shin</name>
+    <role>Young-ja (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>96663</tmdbid>
+    <imdbid>nm1241993</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Su-hyun</name>
+    <role>Chief Secretary (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1299249</tmdbid>
+    <imdbid>nm1365943</imdbid>
+  </actor>
+  <actor>
+    <name>Yong-ih</name>
+    <role>Delivery Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>109642</tmdbid>
+    <imdbid>nm1395329</imdbid>
+  </actor>
+  <actor>
+    <name>Seo Myeong-Seok</name>
+    <role>Cigarette Gangster</role>
+    <type>Actor</type>
+    <tmdbid>3037131</tmdbid>
+  </actor>
+  <actor>
+    <name>Mun Seong-Bok</name>
+    <role>Woo-Jin's Bodyguard</role>
+    <type>Actor</type>
+    <tmdbid>2863459</tmdbid>
+  </actor>
+  <director tmdbid="10099" imdbid="nm0661791">Park Chan-wook</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=I18wDlx6WzI</trailer>
+  <rating>8.4</rating>
+  <year>2003</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0364569</imdbid>
+  <tmdbid>670</tmdbid>
+  <premiered>2003-11-21</premiered>
+  <releasedate>2003-11-21</releasedate>
+  <criticrating>81</criticrating>
+  <runtime>120</runtime>
+  <tagline>15年监禁……5天复仇</tagline>
+  <country>South Korea</country>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <genre>悬疑</genre>
+  <genre>动作</genre>
+  <studio>Show East</studio>
+  <studio>CJ Entertainment</studio>
+  <studio>Egg Film</studio>
+  <studio>Cineclick Asia</studio>
+  <set>
+    <name>复仇三部曲</name>
+  </set>
+  <uniqueid type="Tmdb">670</uniqueid>
+  <uniqueid type="Imdb">tt0364569</uniqueid>
+  <id>tt0364569</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>14345828</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>119</duration>
+        <durationinseconds>7198</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

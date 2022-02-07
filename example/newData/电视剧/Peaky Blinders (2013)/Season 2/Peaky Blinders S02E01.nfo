@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[When Birmingham crime boss Tommy Shelby's beloved Garrison pub is bombed, he finds himself blackmailed into murdering an Irish dissident.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-05-17 01:55:10</dateadded>
+  <title>第 1 集</title>
+  <actor>
+    <name>Cillian Murphy</name>
+    <role>Tommy Shelby</role>
+    <type>Actor</type>
+    <tmdbid>2037</tmdbid>
+    <imdbid>nm0614165</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Anderson</name>
+    <role>Arthur Shelby</role>
+    <type>Actor</type>
+    <tmdbid>220448</tmdbid>
+    <imdbid>nm2167957</imdbid>
+  </actor>
+  <actor>
+    <name>Finn Cole</name>
+    <role>Michael Gray</role>
+    <type>Actor</type>
+    <tmdbid>1508313</tmdbid>
+    <imdbid>nm6806440</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Cole</name>
+    <role>John Shelby</role>
+    <type>Actor</type>
+    <tmdbid>1081875</tmdbid>
+    <imdbid>nm3771184</imdbid>
+  </actor>
+  <actor>
+    <name>Helen McCrory</name>
+    <role>Polly Gray</role>
+    <type>Actor</type>
+    <tmdbid>15737</tmdbid>
+    <imdbid>nm0567031</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Neill</name>
+    <role>C.I. Chester Campbell</role>
+    <type>Actor</type>
+    <tmdbid>4783</tmdbid>
+    <imdbid>nm0000554</imdbid>
+  </actor>
+  <actor>
+    <name>Sophie Rundle</name>
+    <role>Ada Shelby</role>
+    <type>Actor</type>
+    <tmdbid>1088620</tmdbid>
+    <imdbid>nm2570706</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Hardy</name>
+    <role>Alfie Solomons</role>
+    <type>Actor</type>
+    <tmdbid>2524</tmdbid>
+    <imdbid>nm0362766</imdbid>
+  </actor>
+  <actor>
+    <name>Natasha O'Keeffe</name>
+    <role>Lizzie Stark</role>
+    <type>Actor</type>
+    <tmdbid>1167897</tmdbid>
+    <imdbid>nm3761798</imdbid>
+  </actor>
+  <actor>
+    <name>Annabelle Wallis</name>
+    <role>Grace Burgess</role>
+    <type>Actor</type>
+    <tmdbid>82809</tmdbid>
+    <imdbid>nm1834115</imdbid>
+  </actor>
+  <actor>
+    <name>Noah Taylor</name>
+    <role>Darby Sabini</role>
+    <type>Actor</type>
+    <tmdbid>1284</tmdbid>
+    <imdbid>nm0852965</imdbid>
+  </actor>
+  <actor>
+    <name>Jordan Bolger</name>
+    <role>Isaiah Jesus</role>
+    <type>GuestStar</type>
+    <tmdbid>1674734</tmdbid>
+  </actor>
+  <actor>
+    <name>Aimee-Ffion Edwards</name>
+    <role>Esme Shelby</role>
+    <type>GuestStar</type>
+    <tmdbid>1224269</tmdbid>
+    <imdbid>nm2929682</imdbid>
+  </actor>
+  <actor>
+    <name>Colin Connor</name>
+    <role>Black Lion Barman</role>
+    <type>GuestStar</type>
+    <tmdbid>2101780</tmdbid>
+  </actor>
+  <actor>
+    <name>Harrison Vaughan</name>
+    <role>Black Lion Boy</role>
+    <type>GuestStar</type>
+    <tmdbid>1646155</tmdbid>
+  </actor>
+  <actor>
+    <name>Jane Wood</name>
+    <role>Medium</role>
+    <type>GuestStar</type>
+    <tmdbid>1246598</tmdbid>
+  </actor>
+  <actor>
+    <name>Rory Gallagher</name>
+    <role>Eamonn Duggan</role>
+    <type>GuestStar</type>
+    <tmdbid>126919</tmdbid>
+  </actor>
+  <actor>
+    <name>James Boyland</name>
+    <role>Communist Comrade</role>
+    <type>GuestStar</type>
+    <tmdbid>1660457</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Mothersdale</name>
+    <role>Sabini Kidnap Gangster</role>
+    <type>GuestStar</type>
+    <tmdbid>1885216</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard McCabe</name>
+    <role>Winston Churchill</role>
+    <type>GuestStar</type>
+    <tmdbid>7025</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Fearn</name>
+    <role>King Maine</role>
+    <type>GuestStar</type>
+    <tmdbid>1525322</tmdbid>
+  </actor>
+  <actor>
+    <name>Dorian Lough</name>
+    <role>Mario</role>
+    <type>GuestStar</type>
+    <tmdbid>1221067</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Pitts</name>
+    <role>Sergeant Moss</role>
+    <type>GuestStar</type>
+    <tmdbid>1229255</tmdbid>
+  </actor>
+  <actor>
+    <name>Rory Keenan</name>
+    <role>Donal</role>
+    <type>GuestStar</type>
+    <tmdbid>1041731</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul McEwan</name>
+    <role>Governor</role>
+    <type>GuestStar</type>
+    <tmdbid>1067844</tmdbid>
+    <imdbid>nm0568611</imdbid>
+  </actor>
+  <actor>
+    <name>Simone Kirby</name>
+    <role>Irene O'Donnell</role>
+    <type>GuestStar</type>
+    <tmdbid>1307014</tmdbid>
+  </actor>
+  <actor>
+    <name>Ned Dennehy</name>
+    <role>Charlie Strong</role>
+    <type>GuestStar</type>
+    <tmdbid>63362</tmdbid>
+  </actor>
+  <actor>
+    <name>Harry Kirton</name>
+    <role>Finn Shelby</role>
+    <type>GuestStar</type>
+    <tmdbid>1839855</tmdbid>
+  </actor>
+  <director>Colm McCarthy</director>
+  <rating>8.145</rating>
+  <year>2014</year>
+  <imdbid>tt3655782</imdbid>
+  <tvdbid>4998139</tvdbid>
+  <runtime>59</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <tvrageid>1065665291</tvrageid>
+  <uniqueid type="Imdb">tt3655782</uniqueid>
+  <uniqueid type="Tvdb">4998139</uniqueid>
+  <uniqueid type="TvRage">1065665291</uniqueid>
+  <episode>1</episode>
+  <season>2</season>
+  <aired>2014-10-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10615831</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>58</duration>
+        <durationinseconds>3534</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

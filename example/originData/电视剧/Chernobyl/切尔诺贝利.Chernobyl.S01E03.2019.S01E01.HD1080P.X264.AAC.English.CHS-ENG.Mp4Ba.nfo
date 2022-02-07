@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[普里皮亚季市居民柳德米拉·伊格纳滕科没有听从有关于她的消防员丈夫被辐射污染的警告进行了接触。瓦列利·列加索夫制定了解决风险的净化计划，其中也包括净化人类风险。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-26 08:59:03</dateadded>
+  <title>敞开吧，大地</title>
+  <actor>
+    <name>Jared Harris</name>
+    <role>Valery Legasov</role>
+    <type>Actor</type>
+    <tmdbid>15440</tmdbid>
+    <imdbid>nm0364813</imdbid>
+  </actor>
+  <actor>
+    <name>Stellan Skarsgård</name>
+    <role>Boris Shcherbina</role>
+    <type>Actor</type>
+    <tmdbid>1640</tmdbid>
+    <imdbid>nm0001745</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Watson</name>
+    <role>Ulana Khomyuk</role>
+    <type>Actor</type>
+    <tmdbid>1639</tmdbid>
+    <imdbid>nm0001833</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Ritter</name>
+    <role>Anatoly Dyatlov</role>
+    <type>Actor</type>
+    <tmdbid>52888</tmdbid>
+    <imdbid>nm0728795</imdbid>
+  </actor>
+  <actor>
+    <name>Jessie Buckley</name>
+    <role>Lyudmilla Ignatenko</role>
+    <type>Actor</type>
+    <tmdbid>1498158</tmdbid>
+    <imdbid>nm2976580</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Nagaitis</name>
+    <role>Vasily Ignatenko</role>
+    <type>Actor</type>
+    <tmdbid>1435230</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Troughton</name>
+    <role>Alexandr Akimov</role>
+    <type>Actor</type>
+    <tmdbid>5421</tmdbid>
+    <imdbid>nm0873744</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Emms</name>
+    <role>Leonid Toptunov</role>
+    <type>Actor</type>
+    <tmdbid>589652</tmdbid>
+    <imdbid>nm3016166</imdbid>
+  </actor>
+  <actor>
+    <name>Con O'Neill</name>
+    <role>Viktor Bryukhanov</role>
+    <type>Actor</type>
+    <tmdbid>96279</tmdbid>
+    <imdbid>nm0642126</imdbid>
+  </actor>
+  <actor>
+    <name>Adrian Rawlins</name>
+    <role>Nikolai Fomin</role>
+    <type>Actor</type>
+    <tmdbid>1643</tmdbid>
+    <imdbid>nm0712628</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Williams</name>
+    <role>KGB Chairman Charkov</role>
+    <type>Actor</type>
+    <tmdbid>122589</tmdbid>
+  </actor>
+  <actor>
+    <name>David Dencik</name>
+    <role>Mikhail Gorbachev</role>
+    <type>Actor</type>
+    <tmdbid>93236</tmdbid>
+    <imdbid>nm1399770</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Lewis Jones</name>
+    <role>General Pikalov</role>
+    <type>Actor</type>
+    <tmdbid>185460</tmdbid>
+  </actor>
+  <actor>
+    <name>Ralph Ineson</name>
+    <role>General Tarakanov</role>
+    <type>Actor</type>
+    <tmdbid>202032</tmdbid>
+    <imdbid>nm0408591</imdbid>
+  </actor>
+  <actor>
+    <name>Barry Keoghan</name>
+    <role>Pavel</role>
+    <type>Actor</type>
+    <tmdbid>1290466</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Ferns</name>
+    <role>Glukhov</role>
+    <type>Actor</type>
+    <tmdbid>60416</tmdbid>
+    <imdbid>nm0273159</imdbid>
+  </actor>
+  <actor>
+    <name>Fares Fares</name>
+    <role>Bacho</role>
+    <type>Actor</type>
+    <tmdbid>57012</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael McElhatton</name>
+    <role>Prosecutor Andrei Stepashin</role>
+    <type>Actor</type>
+    <tmdbid>73288</tmdbid>
+  </actor>
+  <actor>
+    <name>Baltasar Breki Samper</name>
+    <role>Ananenko</role>
+    <type>GuestStar</type>
+    <tmdbid>1081090</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Barantini</name>
+    <role>Bezpalov</role>
+    <type>GuestStar</type>
+    <tmdbid>191750</tmdbid>
+  </actor>
+  <actor>
+    <name>Oscar Dyekjær Giese</name>
+    <role>Baranov</role>
+    <type>GuestStar</type>
+    <tmdbid>1149907</tmdbid>
+  </actor>
+  <actor>
+    <name>Caoilfhionn Dunne</name>
+    <role>Yenina</role>
+    <type>GuestStar</type>
+    <tmdbid>1914302</tmdbid>
+  </actor>
+  <actor>
+    <name>Pandora Colin</name>
+    <role>Dr. Vetrova</role>
+    <type>GuestStar</type>
+    <tmdbid>199523</tmdbid>
+  </actor>
+  <actor>
+    <name>Gerard Kearns</name>
+    <role>Pravik</role>
+    <type>GuestStar</type>
+    <tmdbid>83817</tmdbid>
+  </actor>
+  <actor>
+    <name>Povilas Jatkevicius</name>
+    <role>Kibenok</role>
+    <type>GuestStar</type>
+    <tmdbid>2313977</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Atkins</name>
+    <role>Niyazova</role>
+    <type>GuestStar</type>
+    <tmdbid>557384</tmdbid>
+  </actor>
+  <actor>
+    <name>Darius Petkevičius</name>
+    <role>Local Husband</role>
+    <type>GuestStar</type>
+    <tmdbid>1400630</tmdbid>
+  </actor>
+  <actor>
+    <name>James Cosmo</name>
+    <role>Miner</role>
+    <type>GuestStar</type>
+    <tmdbid>2467</tmdbid>
+  </actor>
+  <actor>
+    <name>Arnas Danusas</name>
+    <role>Soldier (Miner's Bus)</role>
+    <type>GuestStar</type>
+    <tmdbid>2033539</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Colgan</name>
+    <role>Mikhail Shadov</role>
+    <type>GuestStar</type>
+    <tmdbid>1541147</tmdbid>
+  </actor>
+  <actor>
+    <name>James Kermack</name>
+    <role>Miner</role>
+    <type>GuestStar</type>
+    <tmdbid>1376879</tmdbid>
+  </actor>
+  <actor>
+    <name>Karolis Vilkas</name>
+    <role>Miner</role>
+    <type>GuestStar</type>
+    <tmdbid>2338583</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Drew</name>
+    <role>Kremlin Aide Female</role>
+    <type>GuestStar</type>
+    <tmdbid>1349802</tmdbid>
+  </actor>
+  <actor>
+    <name>Cait Davis</name>
+    <role>Local Wife at Bar</role>
+    <type>GuestStar</type>
+    <tmdbid>2313984</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Shaeffer</name>
+    <role>Blond Man</role>
+    <type>GuestStar</type>
+    <tmdbid>1563431</tmdbid>
+  </actor>
+  <actor>
+    <name>Šarūnas Datenis</name>
+    <role>Soldier (Reactor Site)</role>
+    <type>GuestStar</type>
+    <tmdbid>1336215</tmdbid>
+  </actor>
+  <actor>
+    <name>Deividas Breive</name>
+    <role>Soldier (Mobile Office)</role>
+    <type>GuestStar</type>
+    <tmdbid>1945390</tmdbid>
+  </actor>
+  <director>Johan Renck</director>
+  <rating>9.162</rating>
+  <year>2019</year>
+  <imdbid>tt9166672</imdbid>
+  <tvdbid>7223774</tvdbid>
+  <runtime>63</runtime>
+  <genre>Drama</genre>
+  <genre>History</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt9166672</uniqueid>
+  <uniqueid type="Tvdb">7223774</uniqueid>
+  <episode>3</episode>
+  <season>1</season>
+  <aired>2019-05-20</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5624863</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>63</duration>
+        <durationinseconds>3809</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>381583</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

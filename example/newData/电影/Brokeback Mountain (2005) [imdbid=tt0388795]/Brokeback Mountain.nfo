@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[1963年的灿烂夏日，怀俄明西部，年轻的牛仔杰克·特维斯特（Jake Gyllenhaal饰）与恩尼斯·德尔玛(希斯·莱杰饰）因同为牧场主乔·阿桂尔(兰迪·奎德饰）打工而相识，杰克比较健谈，且骑术高超，恩尼斯自幼父母双亡，性格内向寡语。人迹罕至的断背山深处，高山牧场的放羊工作单调而艰苦，随时有遭遇野兽袭击的可能，不得不有人看守羊群，和羊群睡在一起。起初二人一个放羊，一个看营地，少有交流。直到有一天，二人晚饭时喝多了酒，深夜又分外寒冷，于是杰克与恩尼斯同帐共裘而眠，在酒精与荷尔蒙的作用下，他们之间发生了“不该发生的事”。空虚寂寥让两个19岁的青年彼此相爱了，一个人做饭，另一个放羊，篝火边长谈，帐篷内欢爱，同性间的纯美真爱伴随二人度过了人生中最美好的一段夏日时光。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-03 23:39:11</dateadded>
+  <title>断背山</title>
+  <originaltitle>Brokeback Mountain</originaltitle>
+  <actor>
+    <name>Heath Ledger</name>
+    <role>Ennis Del Mar</role>
+    <type>Actor</type>
+    <tmdbid>1810</tmdbid>
+  </actor>
+  <actor>
+    <name>Jake Gyllenhaal</name>
+    <role>Jack Twist</role>
+    <type>Actor</type>
+    <tmdbid>131</tmdbid>
+    <imdbid>nm0350453</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Williams</name>
+    <role>Alma Beers</role>
+    <type>Actor</type>
+    <tmdbid>1812</tmdbid>
+    <imdbid>nm0931329</imdbid>
+  </actor>
+  <actor>
+    <name>Anne Hathaway</name>
+    <role>Lureen Newsome</role>
+    <type>Actor</type>
+    <tmdbid>1813</tmdbid>
+    <imdbid>nm0004266</imdbid>
+  </actor>
+  <actor>
+    <name>Randy Quaid</name>
+    <role>Joe Aguirre</role>
+    <type>Actor</type>
+    <tmdbid>1811</tmdbid>
+  </actor>
+  <actor>
+    <name>Linda Cardellini</name>
+    <role>Cassie Cartwright</role>
+    <type>Actor</type>
+    <tmdbid>1817</tmdbid>
+    <imdbid>nm0004802</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Faris</name>
+    <role>Lashawn Malone</role>
+    <type>Actor</type>
+    <tmdbid>1772</tmdbid>
+  </actor>
+  <actor>
+    <name>David Harbour</name>
+    <role>Randall Malone</role>
+    <type>Actor</type>
+    <tmdbid>35029</tmdbid>
+  </actor>
+  <actor>
+    <name>Roberta Maxwell</name>
+    <role>Mrs. Twist</role>
+    <type>Actor</type>
+    <tmdbid>10362</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Mara</name>
+    <role>Alma Del Mar Jr. (age 19)</role>
+    <type>Actor</type>
+    <tmdbid>51072</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter McRobbie</name>
+    <role>John Twist</role>
+    <type>Actor</type>
+    <tmdbid>19489</tmdbid>
+  </actor>
+  <actor>
+    <name>Graham Beckel</name>
+    <role>L.D. Newsome</role>
+    <type>Actor</type>
+    <tmdbid>6110</tmdbid>
+  </actor>
+  <actor>
+    <name>Mary Liboiron</name>
+    <role>Fayette Newsome</role>
+    <type>Actor</type>
+    <tmdbid>2022523</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Michael Campbell</name>
+    <role>Monroe</role>
+    <type>Actor</type>
+    <tmdbid>65728</tmdbid>
+  </actor>
+  <actor>
+    <name>Marty Antonini</name>
+    <role>Timmy</role>
+    <type>Actor</type>
+    <tmdbid>1816</tmdbid>
+  </actor>
+  <actor>
+    <name>David Trimble</name>
+    <role>Basque</role>
+    <type>Actor</type>
+    <tmdbid>1081513</tmdbid>
+  </actor>
+  <actor>
+    <name>Larry Reese</name>
+    <role>Jolly Minister</role>
+    <type>Actor</type>
+    <tmdbid>1814</tmdbid>
+  </actor>
+  <actor>
+    <name>Valerie Planche</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>1815</tmdbid>
+  </actor>
+  <actor>
+    <name>Víctor Reyes</name>
+    <role>Chilean Sheepherder #1</role>
+    <type>Actor</type>
+    <tmdbid>2022519</tmdbid>
+  </actor>
+  <actor>
+    <name>Lachlan Mackintosh</name>
+    <role>Chilean Sheepherder #2</role>
+    <type>Actor</type>
+    <tmdbid>2022520</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Carey</name>
+    <role>Rodeo Clown</role>
+    <type>Actor</type>
+    <tmdbid>54635</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Bland</name>
+    <role>Biker #1</role>
+    <type>Actor</type>
+    <tmdbid>1814874</tmdbid>
+  </actor>
+  <actor>
+    <name>Steven Cree Molison</name>
+    <role>Biker #2</role>
+    <type>Actor</type>
+    <tmdbid>157729</tmdbid>
+  </actor>
+  <actor>
+    <name>Duval Lang</name>
+    <role>Announcer</role>
+    <type>Actor</type>
+    <tmdbid>2022521</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan McDougall</name>
+    <role>Bartender #1</role>
+    <type>Actor</type>
+    <tmdbid>1911906</tmdbid>
+  </actor>
+  <actor>
+    <name>Dean Barrett</name>
+    <role>Bartender #2</role>
+    <type>Actor</type>
+    <tmdbid>2751478</tmdbid>
+  </actor>
+  <actor>
+    <name>Kade Phillips</name>
+    <role>Ennis Del Mar (age 9)</role>
+    <type>Actor</type>
+    <tmdbid>589596</tmdbid>
+  </actor>
+  <actor>
+    <name>Steffen Cole Moser</name>
+    <role>K.E. Del Mar (age 11)</role>
+    <type>Actor</type>
+    <tmdbid>2022524</tmdbid>
+  </actor>
+  <actor>
+    <name>Cheyenne Hill</name>
+    <role>Alma Del Mar Jr. (age 13)</role>
+    <type>Actor</type>
+    <tmdbid>2022529</tmdbid>
+  </actor>
+  <actor>
+    <name>Cayla Wolever</name>
+    <role>Jenny Del Mar (age 11)</role>
+    <type>Actor</type>
+    <tmdbid>2022528</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Hyslop</name>
+    <role>Alma Del Mar Jr. (age 9-12)</role>
+    <type>Actor</type>
+    <tmdbid>2022527</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacey Kenny</name>
+    <role>Jenny Del Mar (age 7-8)</role>
+    <type>Actor</type>
+    <tmdbid>1116153</tmdbid>
+  </actor>
+  <actor>
+    <name>Keanna Dubé</name>
+    <role>Alma Del Mar Jr. (age 5)</role>
+    <type>Actor</type>
+    <tmdbid>2022525</tmdbid>
+  </actor>
+  <actor>
+    <name>Brooklynn Proulx</name>
+    <role>Jenny Del Mar (age 4)</role>
+    <type>Actor</type>
+    <tmdbid>39518</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannah Stewart</name>
+    <role>Alma Jr. (age 3)</role>
+    <type>Actor</type>
+    <tmdbid>2022522</tmdbid>
+  </actor>
+  <actor>
+    <name>Jake Church</name>
+    <role>Bobby Twist (age 10)</role>
+    <type>Actor</type>
+    <tmdbid>1815043</tmdbid>
+  </actor>
+  <actor>
+    <name>James Baker</name>
+    <role>Farmer #1</role>
+    <type>Actor</type>
+    <tmdbid>2022526</tmdbid>
+  </actor>
+  <actor>
+    <name>Pete Seadon</name>
+    <role>Farmer #2</role>
+    <type>Actor</type>
+    <tmdbid>54636</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerry Callaghan</name>
+    <role>Judge</role>
+    <type>Actor</type>
+    <tmdbid>1815034</tmdbid>
+  </actor>
+  <actor>
+    <name>Ken Zilka</name>
+    <role>Roughneck #1</role>
+    <type>Actor</type>
+    <tmdbid>2022530</tmdbid>
+  </actor>
+  <actor>
+    <name>John Tench</name>
+    <role>Roughneck #2</role>
+    <type>Actor</type>
+    <tmdbid>27143</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Martin</name>
+    <role>Carl</role>
+    <type>Actor</type>
+    <tmdbid>2022531</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Lauder</name>
+    <role>Killer Mechanic</role>
+    <type>Actor</type>
+    <tmdbid>2022532</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Fraser</name>
+    <role>Grease Monkey</role>
+    <type>Actor</type>
+    <tmdbid>1940061</tmdbid>
+  </actor>
+  <actor>
+    <name>Cam Sutherland</name>
+    <role>Assailant</role>
+    <type>Actor</type>
+    <tmdbid>2022533</tmdbid>
+  </actor>
+  <actor>
+    <name>Barb Mitchell</name>
+    <role>Western Dancer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1073006</tmdbid>
+  </actor>
+  <actor>
+    <name>Rodrigo Prieto</name>
+    <role>Young Mexican (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>275</tmdbid>
+  </actor>
+  <actor>
+    <name>Ken Roberts</name>
+    <role>Signal Bartender (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>92958</tmdbid>
+  </actor>
+  <actor>
+    <name>Kailin See</name>
+    <role>Hippy Girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>89247</tmdbid>
+  </actor>
+  <actor>
+    <name>Jayson Therrien</name>
+    <role>Bar Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>117436</tmdbid>
+  </actor>
+  <actor>
+    <name>Erika Walter</name>
+    <role>Waitress #2 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>114587</tmdbid>
+  </actor>
+  <director tmdbid="1614" imdbid="nm0000487">Ang Lee</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kMA30rThECg</trailer>
+  <rating>7.7</rating>
+  <year>2005</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0388795</imdbid>
+  <tmdbid>142</tmdbid>
+  <premiered>2005-09-10</premiered>
+  <releasedate>2005-09-10</releasedate>
+  <criticrating>87</criticrating>
+  <runtime>134</runtime>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <studio>Good Machine</studio>
+  <studio>Focus Features</studio>
+  <studio>River Road Entertainment</studio>
+  <studio>Alberta Film Entertainment</studio>
+  <set>
+    <name>李安 Ang Lee</name>
+  </set>
+  <uniqueid type="Imdb">tt0388795</uniqueid>
+  <uniqueid type="Tmdb">142</uniqueid>
+  <id>tt0388795</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3888180</bitrate>
+        <width>1918</width>
+        <height>1040</height>
+        <aspect>959:520</aspect>
+        <aspectratio>959:520</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>134</duration>
+        <durationinseconds>8067</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

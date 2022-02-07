@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[莱纳德和谢尔顿激烈争吵后，佩妮问起两人为何会成为室友。莱纳德向佩妮讲述了与谢尔顿初次见面时的情景。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-19 04:22:06</dateadded>
+  <title>楼梯回忆</title>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Leonard Hofstadter</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>Howard Wolowitz</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Nayyar</name>
+    <role>Rajesh Koothrappali</role>
+    <type>Actor</type>
+    <tmdbid>208099</tmdbid>
+    <imdbid>nm2471798</imdbid>
+  </actor>
+  <actor>
+    <name>Carol Ann Susi</name>
+    <role>Debbie Wolowitz (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1212530</tmdbid>
+    <imdbid>nm0839836</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Lieberman</name>
+    <role>Announcer (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1484254</tmdbid>
+  </actor>
+  <actor>
+    <name>Ally Maki</name>
+    <role>Joyce Kim</role>
+    <type>GuestStar</type>
+    <tmdbid>209596</tmdbid>
+    <imdbid>nm1280361</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Yeun</name>
+    <role>Sebastian</role>
+    <type>GuestStar</type>
+    <tmdbid>215055</tmdbid>
+    <imdbid>nm3081796</imdbid>
+  </actor>
+  <actor>
+    <name>Ajgie Kirkland</name>
+    <role>Louie</role>
+    <type>GuestStar</type>
+    <tmdbid>1325966</tmdbid>
+    <imdbid>nm0456627</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>8.2</rating>
+  <year>2010</year>
+  <imdbid>tt1648756</imdbid>
+  <tvdbid>2063661</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>1064919092</tvrageid>
+  <uniqueid type="Imdb">tt1648756</uniqueid>
+  <uniqueid type="Tvdb">2063661</uniqueid>
+  <uniqueid type="TvRage">1064919092</uniqueid>
+  <episode>22</episode>
+  <season>3</season>
+  <aired>2010-05-17</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2134505</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1190</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

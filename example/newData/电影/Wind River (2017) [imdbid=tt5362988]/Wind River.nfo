@@ -1,0 +1,384 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[故事聚焦雷纳饰演的捕猎者科里协助奥尔森饰演的FBI探员，调查一宗发生在风河谷的少女谋杀案，但是伴随案件侦破，科里悲惨的过往也被残忍掀开……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2017-11-04 07:32:01</dateadded>
+  <title>猎凶风河谷</title>
+  <originaltitle>Wind River</originaltitle>
+  <actor>
+    <name>Jeremy Renner</name>
+    <role>Cory Lambert</role>
+    <type>Actor</type>
+    <tmdbid>17604</tmdbid>
+    <imdbid>nm0719637</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Olsen</name>
+    <role>Jane Banner</role>
+    <type>Actor</type>
+    <tmdbid>550843</tmdbid>
+    <imdbid>nm0647634</imdbid>
+  </actor>
+  <actor>
+    <name>Gil Birmingham</name>
+    <role>Martin Hanson</role>
+    <type>Actor</type>
+    <tmdbid>84225</tmdbid>
+    <imdbid>nm0083655</imdbid>
+  </actor>
+  <actor>
+    <name>Kelsey Asbille</name>
+    <role>Natalie Hanson</role>
+    <type>Actor</type>
+    <tmdbid>205976</tmdbid>
+    <imdbid>nm2080328</imdbid>
+  </actor>
+  <actor>
+    <name>Teo Briones</name>
+    <role>Casey Lambert</role>
+    <type>Actor</type>
+    <tmdbid>1547148</tmdbid>
+    <imdbid>nm3897067</imdbid>
+  </actor>
+  <actor>
+    <name>Tantoo Cardinal</name>
+    <role>Alice Crowheart</role>
+    <type>Actor</type>
+    <tmdbid>7863</tmdbid>
+    <imdbid>nm0001987</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Del Negro</name>
+    <role>Dillon</role>
+    <type>Actor</type>
+    <tmdbid>85484</tmdbid>
+    <imdbid>nm0215682</imdbid>
+  </actor>
+  <actor>
+    <name>Hugh Dillon</name>
+    <role>Curtis</role>
+    <type>Actor</type>
+    <tmdbid>67704</tmdbid>
+    <imdbid>nm0227003</imdbid>
+  </actor>
+  <actor>
+    <name>Julia Jones</name>
+    <role>Wilma Lambert</role>
+    <type>Actor</type>
+    <tmdbid>87310</tmdbid>
+    <imdbid>nm1247407</imdbid>
+  </actor>
+  <actor>
+    <name>James Jordan</name>
+    <role>Pete Mickens</role>
+    <type>Actor</type>
+    <tmdbid>1224342</tmdbid>
+    <imdbid>nm2028579</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Lange</name>
+    <role>Dr. Whitehurst</role>
+    <type>Actor</type>
+    <tmdbid>116514</tmdbid>
+    <imdbid>nm1441925</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Sensmeier</name>
+    <role>Chip Hanson</role>
+    <type>Actor</type>
+    <tmdbid>1584347</tmdbid>
+    <imdbid>nm2936232</imdbid>
+  </actor>
+  <actor>
+    <name>Jon Bernthal</name>
+    <role>Matt Rayburn</role>
+    <type>Actor</type>
+    <tmdbid>19498</tmdbid>
+    <imdbid>nm1256532</imdbid>
+  </actor>
+  <actor>
+    <name>Graham Greene</name>
+    <role>Ben</role>
+    <type>Actor</type>
+    <tmdbid>6804</tmdbid>
+    <imdbid>nm0001295</imdbid>
+  </actor>
+  <actor>
+    <name>Apesanahkwat</name>
+    <role>Dan Crowheart</role>
+    <type>Actor</type>
+    <tmdbid>32652</tmdbid>
+    <imdbid>nm0032009</imdbid>
+  </actor>
+  <actor>
+    <name>Althea Sam</name>
+    <role>Annie Hanson</role>
+    <type>Actor</type>
+    <tmdbid>1877667</tmdbid>
+    <imdbid>nm9157290</imdbid>
+  </actor>
+  <actor>
+    <name>Tokala Black Elk</name>
+    <role>Sam Littlefeather</role>
+    <type>Actor</type>
+    <tmdbid>1380163</tmdbid>
+    <imdbid>nm1129746</imdbid>
+  </actor>
+  <actor>
+    <name>Tyler Laracca</name>
+    <role>Frank Walker</role>
+    <type>Actor</type>
+    <tmdbid>1689893</tmdbid>
+  </actor>
+  <actor>
+    <name>Shayne J. Cullen</name>
+    <role>BIA Officer #1</role>
+    <type>Actor</type>
+    <tmdbid>1390554</tmdbid>
+    <imdbid>nm2314504</imdbid>
+  </actor>
+  <actor>
+    <name>Dallin Tusieseina</name>
+    <role>BIA Officer #2</role>
+    <type>Actor</type>
+    <tmdbid>1932019</tmdbid>
+    <imdbid>nm9157291</imdbid>
+  </actor>
+  <actor>
+    <name>Austin R. Grant</name>
+    <role>Carl</role>
+    <type>Actor</type>
+    <tmdbid>1281174</tmdbid>
+    <imdbid>nm5173220</imdbid>
+  </actor>
+  <actor>
+    <name>Ian Bohen</name>
+    <role>Evan</role>
+    <type>Actor</type>
+    <tmdbid>31362</tmdbid>
+    <imdbid>nm0092026</imdbid>
+  </actor>
+  <actor>
+    <name>Gabe Casdorph</name>
+    <role>Contractor #1</role>
+    <type>Actor</type>
+    <tmdbid>1853996</tmdbid>
+    <imdbid>nm2131703</imdbid>
+  </actor>
+  <actor>
+    <name>Mason D. Davis</name>
+    <role>Contractor #2</role>
+    <type>Actor</type>
+    <tmdbid>1474894</tmdbid>
+    <imdbid>nm6475805</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Romrell</name>
+    <role>Contractor #3</role>
+    <type>Actor</type>
+    <tmdbid>1932021</tmdbid>
+    <imdbid>nm4684488</imdbid>
+  </actor>
+  <actor>
+    <name>Blake Robbins</name>
+    <role>Tim Winter</role>
+    <type>Actor</type>
+    <tmdbid>154888</tmdbid>
+    <imdbid>nm1083077</imdbid>
+  </actor>
+  <actor>
+    <name>Norman Lehnert</name>
+    <role>Dale</role>
+    <type>Actor</type>
+    <tmdbid>1511951</tmdbid>
+    <imdbid>nm0499824</imdbid>
+  </actor>
+  <actor>
+    <name>Ian Roylance</name>
+    <role>Coroner</role>
+    <type>Actor</type>
+    <tmdbid>1334794</tmdbid>
+    <imdbid>nm0747395</imdbid>
+  </actor>
+  <actor>
+    <name>Gus Sheridan</name>
+    <role>Classmate</role>
+    <type>Actor</type>
+    <tmdbid>1932022</tmdbid>
+    <imdbid>nm9157292</imdbid>
+  </actor>
+  <actor>
+    <name>Dana Anquoe</name>
+    <role>Coroner's Assistant #2 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1932023</tmdbid>
+    <imdbid>nm5427922</imdbid>
+  </actor>
+  <actor>
+    <name>Duy Beck</name>
+    <role>Native American Police Officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1932025</tmdbid>
+    <imdbid>nm2604068</imdbid>
+  </actor>
+  <actor>
+    <name>David Cardona</name>
+    <role>BIA Officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1594847</tmdbid>
+  </actor>
+  <actor>
+    <name>Teresa Duran-Norvick</name>
+    <role>Teacher (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1632210</tmdbid>
+    <imdbid>nm5612348</imdbid>
+  </actor>
+  <actor>
+    <name>Devin Hansen</name>
+    <role>Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1932089</tmdbid>
+    <imdbid>nm8294377</imdbid>
+  </actor>
+  <actor>
+    <name>Tara Karsian</name>
+    <role>Ingrid (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>164938</tmdbid>
+    <imdbid>nm0440160</imdbid>
+  </actor>
+  <director tmdbid="1215399" imdbid="nm0792263">Taylor Sheridan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CZgN0dpFoaE</trailer>
+  <rating>7.7</rating>
+  <year>2017</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt5362988</imdbid>
+  <tmdbid>395834</tmdbid>
+  <premiered>2017-08-03</premiered>
+  <releasedate>2017-08-03</releasedate>
+  <criticrating>87</criticrating>
+  <runtime>107</runtime>
+  <country>United States of America</country>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <genre>悬疑</genre>
+  <genre>惊悚</genre>
+  <studio>Savvy Media Holdings</studio>
+  <studio>Thunder Road</studio>
+  <studio>Film 44</studio>
+  <studio>Acacia Filmed Entertainment</studio>
+  <studio>Riverstone Pictures</studio>
+  <studio>Voltage Pictures</studio>
+  <studio>Wild Bunch Distribution</studio>
+  <studio>Synergics Films</studio>
+  <studio>Star Thrower Entertainment</studio>
+  <studio>Tunica-Biloxi Tribe of Louisiana</studio>
+  <studio>The Fyzz</studio>
+  <uniqueid type="Imdb">tt5362988</uniqueid>
+  <uniqueid type="Tmdb">395834</uniqueid>
+  <id>tt5362988</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4894490</bitrate>
+        <width>1912</width>
+        <height>800</height>
+        <aspect>239:100</aspect>
+        <aspectratio>239:100</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6417</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

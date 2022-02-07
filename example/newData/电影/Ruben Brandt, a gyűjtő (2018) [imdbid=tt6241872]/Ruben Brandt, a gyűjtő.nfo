@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[心理治疗师鲁本的梦境饱受「妖魔化」的名画侵扰，蒙娜丽莎、维纳斯全都成了骇人的噩梦怪物，若想一觉好眠，唯一办法是偷走所有入侵他梦里的名画。为帮助鲁本脱离梦魇，他与四名身怀绝技的病人联手组团偷遍罗浮宫、泰特现代艺术馆等各大美术馆，一场飞天遁地、瞒天过海的疯狂盗窃计画也就此展开。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-04-23 13:14:50</dateadded>
+  <title>盗梦特攻队</title>
+  <originaltitle>Ruben Brandt, a gyűjtő</originaltitle>
+  <actor>
+    <name>Kamarás Iván</name>
+    <role>Ruben Brandt (voice)</role>
+    <type>Actor</type>
+    <tmdbid>145812</tmdbid>
+    <imdbid>nm0436442</imdbid>
+  </actor>
+  <actor>
+    <name>Csaba Márton</name>
+    <role>Mike Kowalski (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2281158</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriella Hámori</name>
+    <role>Mimi (voice)</role>
+    <type>Actor</type>
+    <tmdbid>112074</tmdbid>
+    <imdbid>nm0961121</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Devere</name>
+    <role>Bye-Bye Joe (voice)</role>
+    <type>Actor</type>
+    <tmdbid>25445</tmdbid>
+    <imdbid>nm1295966</imdbid>
+  </actor>
+  <actor>
+    <name>Henry Grant</name>
+    <role>Membrano Bruno (voice) / Van Gogh's Postman (voice) / Renoir (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2281162</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Nielson Buckholdt</name>
+    <role>Fernando (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2607872</tmdbid>
+  </actor>
+  <actor>
+    <name>Katalin Dombi</name>
+    <role>Marina (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2281161</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Bellantoni</name>
+    <role>John Cooper (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2281160</tmdbid>
+  </actor>
+  <actor>
+    <name>Luca Bercovici</name>
+    <role>Kris Barutanski (voice)</role>
+    <type>Actor</type>
+    <tmdbid>29383</tmdbid>
+    <imdbid>nm0001942</imdbid>
+  </actor>
+  <actor>
+    <name>Butch Engle</name>
+    <role>Vincenzo Delangello (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1671722</tmdbid>
+  </actor>
+  <actor>
+    <name>Irén Bordán</name>
+    <role>Eva Kowalski (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1097146</tmdbid>
+    <imdbid>nm0096273</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Hoke</name>
+    <role>Professor Walden (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2607880</tmdbid>
+  </actor>
+  <actor>
+    <name>Iván Hegedűs</name>
+    <role>Boris (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2607883</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Linka</name>
+    <role>George (voice)</role>
+    <type>Actor</type>
+    <tmdbid>146123</tmdbid>
+    <imdbid>nm0512897</imdbid>
+  </actor>
+  <actor>
+    <name>Virginia Proud</name>
+    <role>Margaret (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2281163</tmdbid>
+  </actor>
+  <actor>
+    <name>Dave Fennoy</name>
+    <role>Garreth Graham (voice)</role>
+    <type>Actor</type>
+    <tmdbid>170317</tmdbid>
+    <imdbid>nm0271965</imdbid>
+  </actor>
+  <actor>
+    <name>Geoffrey Thomas</name>
+    <role>Gerhard Brandt (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1554488</tmdbid>
+    <imdbid>nm4130316</imdbid>
+  </actor>
+  <actor>
+    <name>Liam Aaron Grant</name>
+    <role>Young Ruben (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2607890</tmdbid>
+  </actor>
+  <actor>
+    <name>Zalán Makranczi</name>
+    <role>Mike Kowalsky (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1092702</tmdbid>
+    <imdbid>nm2514387</imdbid>
+  </actor>
+  <actor>
+    <name>Máté Mészáros</name>
+    <role>Membrano Bruno (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1827532</tmdbid>
+  </actor>
+  <actor>
+    <name>Gábor Nagypál</name>
+    <role>Bye-Bye Joe (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1373208</tmdbid>
+    <imdbid>nm2129108</imdbid>
+  </actor>
+  <director tmdbid="2110024" imdbid="nm0472425">Milorad Krstić</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5dOZpivfNxw</trailer>
+  <rating>7.5</rating>
+  <year>2018</year>
+  <imdbid>tt6241872</imdbid>
+  <tmdbid>543033</tmdbid>
+  <premiered>2018-06-22</premiered>
+  <releasedate>2018-06-22</releasedate>
+  <criticrating>82</criticrating>
+  <runtime>94</runtime>
+  <country>Hungary</country>
+  <genre>动画</genre>
+  <genre>动作</genre>
+  <genre>惊悚</genre>
+  <genre>犯罪</genre>
+  <studio>Ruben Brandt</studio>
+  <uniqueid type="Tmdb">543033</uniqueid>
+  <uniqueid type="Imdb">tt6241872</uniqueid>
+  <id>tt6241872</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>35405189</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>93</duration>
+        <durationinseconds>5620</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

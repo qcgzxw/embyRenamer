@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[卡尔向众人道别，准备前往癌症营。不过他对那里的活动并不喜欢——没有打靶，没有水橇滑水，也没有骑马，没有任何乐趣。神通广大的卡尔决定交一些新朋友，然后自己找点乐子——就当是苦中作乐吧。弗兰克担负起照顾孩子的职责，闲下来的希拉介绍乔迪参加玩具时间。为了讨好希拉，弗兰克答应给乔迪当性教练——尽管乔迪自己不是太情愿。菲欧娜发现杂货店经理鲍比拿全体员工当他个人的取乐工具，于是决定团结所有同事一起对付这个坏老板。利普和曼迪从寄养家庭中救出曼迪的半亲妹妹茉莉。黛比开始练习憋气——下次那些野蛮的城市泳池女孩再欺负她时，她至少可以保护自己。小凯和小维想生个孩子。吉米得知自己的父母将要离婚，而且他的父亲可能有同性恋倾向。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-11 21:43:20</dateadded>
+  <title>乐于助人的加拉格们</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Noel Fisher</name>
+    <role>Mickey Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>80352</tmdbid>
+    <imdbid>nm0279720</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Zach McGowan</name>
+    <role>Jody Silverman</role>
+    <type>Actor</type>
+    <tmdbid>62307</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Greenwell</name>
+    <role>Mandy Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>1155473</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Chatwin</name>
+    <role>Steve Wilton/Jimmy Lishman</role>
+    <type>Actor</type>
+    <tmdbid>503</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Edelstein</name>
+    <role>Bobby Mallison</role>
+    <type>GuestStar</type>
+    <tmdbid>59297</tmdbid>
+  </actor>
+  <actor>
+    <name>Kerry O'Malley</name>
+    <role>Kate</role>
+    <type>GuestStar</type>
+    <tmdbid>100567</tmdbid>
+    <imdbid>nm0641747</imdbid>
+  </actor>
+  <actor>
+    <name>Harry Hamlin</name>
+    <role>Lloyd "Ned" Lishman</role>
+    <type>GuestStar</type>
+    <tmdbid>64825</tmdbid>
+  </actor>
+  <actor>
+    <name>Joan Cusack</name>
+    <role>Sheila Jackson</role>
+    <type>GuestStar</type>
+    <tmdbid>3234</tmdbid>
+    <imdbid>nm0000349</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Patrick McGill</name>
+    <role>Tommy</role>
+    <type>GuestStar</type>
+    <tmdbid>154816</tmdbid>
+    <imdbid>nm1042946</imdbid>
+  </actor>
+  <director>Randall Einhorn</director>
+  <rating>7</rating>
+  <year>2013</year>
+  <imdbid>tt2316926</imdbid>
+  <tvdbid>4477134</tvdbid>
+  <runtime>51</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt2316926</uniqueid>
+  <uniqueid type="Tvdb">4477134</uniqueid>
+  <episode>4</episode>
+  <season>3</season>
+  <aired>2013-02-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11040531</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>51</duration>
+        <durationinseconds>3087</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

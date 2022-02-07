@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Jimmy is pushed to desperate measures. Nacho picks up a skill and Mike explores an alliance. Kim stands up to Hamlin.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-07-28 01:31:49</dateadded>
+  <title>滑</title>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Jimmy McGill</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Rhea Seehorn</name>
+    <role>Kim Wexler</role>
+    <type>Actor</type>
+    <tmdbid>62765</tmdbid>
+    <imdbid>nm0781533</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Fabian</name>
+    <role>Howard Hamlin</role>
+    <type>Actor</type>
+    <tmdbid>58791</tmdbid>
+    <imdbid>nm0264579</imdbid>
+  </actor>
+  <actor>
+    <name>Michael McKean</name>
+    <role>Chuck McGill</role>
+    <type>Actor</type>
+    <tmdbid>21731</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Mando</name>
+    <role>Nacho Varga</role>
+    <type>GuestStar</type>
+    <tmdbid>829372</tmdbid>
+    <imdbid>nm3103126</imdbid>
+  </actor>
+  <actor>
+    <name>Tina Parker</name>
+    <role>Francesca Liddy</role>
+    <type>GuestStar</type>
+    <tmdbid>147085</tmdbid>
+    <imdbid>nm0662669</imdbid>
+  </actor>
+  <actor>
+    <name>Mel Rodriguez</name>
+    <role>Marco</role>
+    <type>GuestStar</type>
+    <tmdbid>59675</tmdbid>
+    <imdbid>nm0735440</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>GuestStar</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Fadem</name>
+    <role>Camera Guy</role>
+    <type>GuestStar</type>
+    <tmdbid>205209</tmdbid>
+    <imdbid>nm1758915</imdbid>
+  </actor>
+  <actor>
+    <name>Hayley Holmes</name>
+    <role>Make-Up Girl</role>
+    <type>GuestStar</type>
+    <tmdbid>965884</tmdbid>
+    <imdbid>nm2210617</imdbid>
+  </actor>
+  <actor>
+    <name>Julian Bonfiglio</name>
+    <role>Sound Guy</role>
+    <type>GuestStar</type>
+    <tmdbid>1843906</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Margolis</name>
+    <role>Hector Salamanca</role>
+    <type>GuestStar</type>
+    <tmdbid>1173</tmdbid>
+    <imdbid>nm0546797</imdbid>
+  </actor>
+  <actor>
+    <name>Clea DuVall</name>
+    <role>Dr. Lara Cruz</role>
+    <type>GuestStar</type>
+    <tmdbid>20387</tmdbid>
+    <imdbid>nm0245112</imdbid>
+  </actor>
+  <actor>
+    <name>Juan Carlos Cantu</name>
+    <role>Manuel Varga</role>
+    <type>GuestStar</type>
+    <tmdbid>168147</tmdbid>
+    <imdbid>nm1091922</imdbid>
+  </actor>
+  <director>Adam Bernstein</director>
+  <rating>8.4</rating>
+  <year>2017</year>
+  <imdbid>tt5719546</imdbid>
+  <tvdbid>6024002</tvdbid>
+  <runtime>49</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt5719546</uniqueid>
+  <uniqueid type="Tvdb">6024002</uniqueid>
+  <episode>8</episode>
+  <season>3</season>
+  <aired>2017-06-05</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>24530826</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>48</duration>
+        <durationinseconds>2938</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

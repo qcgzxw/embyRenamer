@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[在一次全国自行车锦标赛上，倒霉的职业车手耿浩（黄渤 饰）以0.01秒的微弱差距败给撞到狗屎运的对手，屈居亚军，随后他又遭奸商李法拉（九孔 饰）算计，因药检呈阳性而被终身禁赛，他的教练（马少骅 饰）因此气倒。
+ 多年后，耿浩靠开车运送水产为生，养活中风的教练，而当年的骗子李法拉则依靠其推销的补品“肾白银”大发其财。李嫌弃彪悍魁梧的老婆，因此雇用两个业余杀手（王双宝 & 巴多 饰）杀妻，结果杀手反被老婆买通；耿浩的教练急火攻心，一命呜呼，耿浩遵照师傅遗愿前去找李法拉讨说法，谁知反中了李的奸计；东海（戎祥 饰）所率领的台湾黑帮来到内地和泰国毒贩（Worapoj Thuantanon 饰）做生意，但耿浩和李法拉的争执引来了警车，也搅了他们的好事。原本不相干的几组人马，由于偶然的机缘而上演了连串好戏…]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-02 14:00:52</dateadded>
+  <title>疯狂的赛车</title>
+  <originaltitle>疯狂的赛车</originaltitle>
+  <actor>
+    <name>Huang Bo</name>
+    <role>耿浩</role>
+    <type>Actor</type>
+    <tmdbid>128026</tmdbid>
+    <imdbid>nm2348646</imdbid>
+  </actor>
+  <actor>
+    <name>Morris Rong Xiang</name>
+    <role>东海</role>
+    <type>Actor</type>
+    <tmdbid>1364234</tmdbid>
+  </actor>
+  <actor>
+    <name>Kong Jiu</name>
+    <role>李法拉</role>
+    <type>Actor</type>
+    <tmdbid>128027</tmdbid>
+  </actor>
+  <actor>
+    <name>Ma Shaohua</name>
+    <role>教练</role>
+    <type>Actor</type>
+    <tmdbid>134793</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Zheng</name>
+    <role>大成</role>
+    <type>Actor</type>
+    <tmdbid>118711</tmdbid>
+    <imdbid>nm1905770</imdbid>
+  </actor>
+  <actor>
+    <name>Wang Shuangbao</name>
+    <role>杀手甲</role>
+    <type>Actor</type>
+    <tmdbid>71052</tmdbid>
+  </actor>
+  <actor>
+    <name>Ba Duo</name>
+    <role>杀手乙</role>
+    <type>Actor</type>
+    <tmdbid>1622939</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Kao</name>
+    <role>阿杰</role>
+    <type>Actor</type>
+    <tmdbid>1174366</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Gang</name>
+    <role>警察</role>
+    <type>Actor</type>
+    <tmdbid>1134974</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Xun</name>
+    <role>王小迅</role>
+    <type>Actor</type>
+    <tmdbid>1134976</tmdbid>
+    <imdbid>nm2355740</imdbid>
+  </actor>
+  <director tmdbid="17295" imdbid="nm1928500">Ning Hao</director>
+  <rating>7.3</rating>
+  <year>2009</year>
+  <imdbid>tt0851515</imdbid>
+  <tmdbid>33106</tmdbid>
+  <premiered>2009-01-20</premiered>
+  <releasedate>2009-01-20</releasedate>
+  <criticrating>76</criticrating>
+  <runtime>104</runtime>
+  <country>China</country>
+  <genre>动作</genre>
+  <genre>冒险</genre>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <uniqueid type="Tmdb">33106</uniqueid>
+  <uniqueid type="Imdb">tt0851515</uniqueid>
+  <id>tt0851515</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11508988</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6256</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,1022 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[两名天文学家发现一颗具有毁灭性的彗星将与地球相撞。他们借助媒体来警告社会大众，不料大家并不在意。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-30 06:37:18</dateadded>
+  <title>不要抬头</title>
+  <originaltitle>Don't Look Up</originaltitle>
+  <actor>
+    <name>Jennifer Lawrence</name>
+    <role>Kate Dibiasky</role>
+    <type>Actor</type>
+    <tmdbid>72129</tmdbid>
+    <imdbid>nm2225369</imdbid>
+  </actor>
+  <actor>
+    <name>Leonardo DiCaprio</name>
+    <role>Dr. Randall Mindy</role>
+    <type>Actor</type>
+    <tmdbid>6193</tmdbid>
+    <imdbid>nm0000138</imdbid>
+  </actor>
+  <actor>
+    <name>Meryl Streep</name>
+    <role>President Orlean</role>
+    <type>Actor</type>
+    <tmdbid>5064</tmdbid>
+    <imdbid>nm0000658</imdbid>
+  </actor>
+  <actor>
+    <name>Rob Morgan</name>
+    <role>Dr. Teddy Oglethorpe</role>
+    <type>Actor</type>
+    <tmdbid>1281250</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonah Hill</name>
+    <role>Jason Orlean</role>
+    <type>Actor</type>
+    <tmdbid>21007</tmdbid>
+    <imdbid>nm1706767</imdbid>
+  </actor>
+  <actor>
+    <name>Cate Blanchett</name>
+    <role>Brie Evantee</role>
+    <type>Actor</type>
+    <tmdbid>112</tmdbid>
+    <imdbid>nm0000949</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Rylance</name>
+    <role>Peter Isherwell</role>
+    <type>Actor</type>
+    <tmdbid>40900</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyler Perry</name>
+    <role>Jack Bremmer</role>
+    <type>Actor</type>
+    <tmdbid>80602</tmdbid>
+  </actor>
+  <actor>
+    <name>Timothée Chalamet</name>
+    <role>Yule</role>
+    <type>Actor</type>
+    <tmdbid>1190668</tmdbid>
+    <imdbid>nm3154303</imdbid>
+  </actor>
+  <actor>
+    <name>Ron Perlman</name>
+    <role>Benedict Drask</role>
+    <type>Actor</type>
+    <tmdbid>2372</tmdbid>
+  </actor>
+  <actor>
+    <name>Ariana Grande</name>
+    <role>Riley Bina</role>
+    <type>Actor</type>
+    <tmdbid>226001</tmdbid>
+  </actor>
+  <actor>
+    <name>Kid Cudi</name>
+    <role>DJ Chello</role>
+    <type>Actor</type>
+    <tmdbid>484359</tmdbid>
+    <imdbid>nm3264596</imdbid>
+  </actor>
+  <actor>
+    <name>Himesh Patel</name>
+    <role>Phillip</role>
+    <type>Actor</type>
+    <tmdbid>1227717</tmdbid>
+  </actor>
+  <actor>
+    <name>Melanie Lynskey</name>
+    <role>June Mindy</role>
+    <type>Actor</type>
+    <tmdbid>15091</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Chiklis</name>
+    <role>Dan Pawketty</role>
+    <type>Actor</type>
+    <tmdbid>19654</tmdbid>
+  </actor>
+  <actor>
+    <name>Tomer Sisley</name>
+    <role>Adul Grelio</role>
+    <type>Actor</type>
+    <tmdbid>25089</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Guilfoyle</name>
+    <role>General Themes</role>
+    <type>Actor</type>
+    <tmdbid>925</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Joy</name>
+    <role>Congressman Tenant</role>
+    <type>Actor</type>
+    <tmdbid>19976</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Alberts</name>
+    <role>Oliver</role>
+    <type>Actor</type>
+    <tmdbid>3359748</tmdbid>
+  </actor>
+  <actor>
+    <name>Ting Lik</name>
+    <role>Win</role>
+    <type>Actor</type>
+    <tmdbid>3359747</tmdbid>
+  </actor>
+  <actor>
+    <name>Lance A. Williams</name>
+    <role>Daniel</role>
+    <type>Actor</type>
+    <tmdbid>1566993</tmdbid>
+  </actor>
+  <actor>
+    <name>Shimali de Silva</name>
+    <role>Nisha</role>
+    <type>Actor</type>
+    <tmdbid>3081416</tmdbid>
+  </actor>
+  <actor>
+    <name>Hettienne Park</name>
+    <role>Dr. Calder</role>
+    <type>Actor</type>
+    <tmdbid>1218184</tmdbid>
+  </actor>
+  <actor>
+    <name>Rafael Silva</name>
+    <role>Nasa Scientist</role>
+    <type>Actor</type>
+    <tmdbid>2503394</tmdbid>
+  </actor>
+  <actor>
+    <name>Lonnie Farmer</name>
+    <role>Old Aide #1</role>
+    <type>Actor</type>
+    <tmdbid>188049</tmdbid>
+  </actor>
+  <actor>
+    <name>Homa Sarabi Daunis</name>
+    <role>White House Office Worker</role>
+    <type>Actor</type>
+    <tmdbid>3096579</tmdbid>
+  </actor>
+  <actor>
+    <name>Barbara Douglass</name>
+    <role>Office Worker</role>
+    <type>Actor</type>
+    <tmdbid>3359750</tmdbid>
+  </actor>
+  <actor>
+    <name>Rena Maliszewski</name>
+    <role>Anchor Reporting On Colon</role>
+    <type>Actor</type>
+    <tmdbid>1956550</tmdbid>
+  </actor>
+  <actor>
+    <name>Erik Parillo</name>
+    <role>Sherriff Conlon</role>
+    <type>Actor</type>
+    <tmdbid>1232602</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Hurst Radochia</name>
+    <role>Evan Mindy</role>
+    <type>Actor</type>
+    <tmdbid>3347891</tmdbid>
+  </actor>
+  <actor>
+    <name>Conor Sweeney</name>
+    <role>Marshall Mindy</role>
+    <type>Actor</type>
+    <tmdbid>2690142</tmdbid>
+  </actor>
+  <actor>
+    <name>Ross Partridge</name>
+    <role>Keith Ollens</role>
+    <type>Actor</type>
+    <tmdbid>45396</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Donelly</name>
+    <role>Old Aide #2</role>
+    <type>Actor</type>
+    <tmdbid>1730738</tmdbid>
+  </actor>
+  <actor>
+    <name>Liev Schreiber</name>
+    <role>Bash Narrator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>23626</tmdbid>
+    <imdbid>nm0000630</imdbid>
+  </actor>
+  <actor>
+    <name>Samsara Yett</name>
+    <role>Isherwell Child Aide</role>
+    <type>Actor</type>
+    <tmdbid>2861577</tmdbid>
+  </actor>
+  <actor>
+    <name>Meara Mahoney-Gross</name>
+    <role>Isherwell Child Aide</role>
+    <type>Actor</type>
+    <tmdbid>2828491</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaden Onwuakor</name>
+    <role>Isherwell Child Aide</role>
+    <type>Actor</type>
+    <tmdbid>3359754</tmdbid>
+  </actor>
+  <actor>
+    <name>Staci Roberts Steele</name>
+    <role>Linda Dicalio</role>
+    <type>Actor</type>
+    <tmdbid>3289563</tmdbid>
+  </actor>
+  <actor>
+    <name>Wendy Bellevue</name>
+    <role>Isherwell Child Handler</role>
+    <type>Actor</type>
+    <tmdbid>3359759</tmdbid>
+  </actor>
+  <actor>
+    <name>Mishka Yarovoy</name>
+    <role>Executive</role>
+    <type>Actor</type>
+    <tmdbid>3359761</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Everett</name>
+    <role>Chief Editor Paula Woods</role>
+    <type>Actor</type>
+    <tmdbid>1544237</tmdbid>
+  </actor>
+  <actor>
+    <name>Annette Miller</name>
+    <role>Mrs. Tanken</role>
+    <type>Actor</type>
+    <tmdbid>133964</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Thorne</name>
+    <role>Benjamin</role>
+    <type>Actor</type>
+    <tmdbid>3359764</tmdbid>
+  </actor>
+  <actor>
+    <name>Aimee Doherty</name>
+    <role>Passerby</role>
+    <type>Actor</type>
+    <tmdbid>3359771</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalie Rebenkoff</name>
+    <role>Talent PA</role>
+    <type>Actor</type>
+    <tmdbid>3359773</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Tanguay</name>
+    <role>News Anchor #2</role>
+    <type>Actor</type>
+    <tmdbid>2464114</tmdbid>
+  </actor>
+  <actor>
+    <name>Georgia Lyman</name>
+    <role>Groomer Thalia</role>
+    <type>Actor</type>
+    <tmdbid>1183867</tmdbid>
+    <imdbid>nm0528149</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/134425.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Georgia Jones","Url":"https://xslist.org/zh/model/134425.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/134425.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Patricia DeHaney</name>
+    <role>Hair Person</role>
+    <type>Actor</type>
+    <tmdbid>1417399</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Sidell</name>
+    <role>Stage Manager</role>
+    <type>Actor</type>
+    <tmdbid>1389617</tmdbid>
+  </actor>
+  <actor>
+    <name>Therese Plaehn</name>
+    <role>Autopsy Editor In Charge</role>
+    <type>Actor</type>
+    <tmdbid>118913</tmdbid>
+  </actor>
+  <actor>
+    <name>Omar Ghonim</name>
+    <role>Damian</role>
+    <type>Actor</type>
+    <tmdbid>2465122</tmdbid>
+  </actor>
+  <actor>
+    <name>Jody O'Neil</name>
+    <role>Stage Manager #2</role>
+    <type>Actor</type>
+    <tmdbid>1128729</tmdbid>
+  </actor>
+  <actor>
+    <name>Meghan Leathers</name>
+    <role>Media Quant</role>
+    <type>Actor</type>
+    <tmdbid>2803677</tmdbid>
+  </actor>
+  <actor>
+    <name>Ashleigh Banfield</name>
+    <role>Dalia Hensfield</role>
+    <type>Actor</type>
+    <tmdbid>1230050</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Silverman</name>
+    <role>Sarah Benterman</role>
+    <type>Actor</type>
+    <tmdbid>7404</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Snee</name>
+    <role>Senator Lerner</role>
+    <type>Actor</type>
+    <tmdbid>133967</tmdbid>
+  </actor>
+  <actor>
+    <name>Darryl Wooten</name>
+    <role>FBI Agent</role>
+    <type>Actor</type>
+    <tmdbid>2867221</tmdbid>
+  </actor>
+  <actor>
+    <name>Danielle Waxman</name>
+    <role>College Girl</role>
+    <type>Actor</type>
+    <tmdbid>3360293</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Smith</name>
+    <role>Blind Man FBI Agent</role>
+    <type>Actor</type>
+    <tmdbid>3360294</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon Glaser</name>
+    <role>Meow Man</role>
+    <type>Actor</type>
+    <tmdbid>59842</tmdbid>
+  </actor>
+  <actor>
+    <name>Dorothy Dwyer</name>
+    <role>Old Tough Lady</role>
+    <type>Actor</type>
+    <tmdbid>2913114</tmdbid>
+  </actor>
+  <actor>
+    <name>Odis Spencer Jr.</name>
+    <role>Chief Justice</role>
+    <type>Actor</type>
+    <tmdbid>3360298</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Evans</name>
+    <role>Devin Peters (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>16828</tmdbid>
+    <imdbid>nm0262635</imdbid>
+  </actor>
+  <actor>
+    <name>André Silva</name>
+    <type>Actor</type>
+    <tmdbid>1603919</tmdbid>
+  </actor>
+  <director tmdbid="55710">Adam McKay</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RbIxYm3mKzI</trailer>
+  <rating>7.3</rating>
+  <year>2021</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt11286314</imdbid>
+  <tmdbid>646380</tmdbid>
+  <premiered>2021-12-07</premiered>
+  <releasedate>2021-12-07</releasedate>
+  <runtime>143</runtime>
+  <country>United States of America</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <genre>科幻</genre>
+  <studio>Hyperobject Industries</studio>
+  <uniqueid type="Tmdb">646380</uniqueid>
+  <uniqueid type="Imdb">tt11286314</uniqueid>
+  <id>tt11286314</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>28840171</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>143</duration>
+        <durationinseconds>8591</durationinseconds>
+      </video>
+      <embeddedimage>
+        <codec>png</codec>
+        <micodec>png</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>普通话</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>ces</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>deu</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>ell</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>fra</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>msa</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>nld</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>ron</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>zho</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ces</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>deu</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ell</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fra</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>msa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nld</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ron</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ukr</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>zho</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>zho</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>zho</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

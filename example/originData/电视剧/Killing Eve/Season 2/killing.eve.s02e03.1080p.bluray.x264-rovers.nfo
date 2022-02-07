@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Villanelle's circumstances are looking bleak; Eve makes a dangerous deal with an old acquaintance.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-06-24 16:29:14</dateadded>
+  <title>饥饿的毛毛虫</title>
+  <actor>
+    <name>Sandra Oh</name>
+    <role>Eve Polastri</role>
+    <type>Actor</type>
+    <tmdbid>25540</tmdbid>
+    <imdbid>nm0644897</imdbid>
+  </actor>
+  <actor>
+    <name>Jodie Comer</name>
+    <role>Villanelle</role>
+    <type>Actor</type>
+    <tmdbid>1388593</tmdbid>
+    <imdbid>nm3069650</imdbid>
+  </actor>
+  <actor>
+    <name>Fiona Shaw</name>
+    <role>Carolyn Martens</role>
+    <type>Actor</type>
+    <tmdbid>10981</tmdbid>
+    <imdbid>nm0789716</imdbid>
+  </actor>
+  <actor>
+    <name>Nina Sosanya</name>
+    <role>Jess</role>
+    <type>Actor</type>
+    <tmdbid>7063</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Bodnia</name>
+    <role>Konstantin</role>
+    <type>Actor</type>
+    <tmdbid>3398</tmdbid>
+    <imdbid>nm0091035</imdbid>
+  </actor>
+  <actor>
+    <name>Edward Bluemel</name>
+    <role>Hugo</role>
+    <type>Actor</type>
+    <tmdbid>1731315</tmdbid>
+  </actor>
+  <actor>
+    <name>Owen McDonnell</name>
+    <role>Niko Polastri</role>
+    <type>Actor</type>
+    <tmdbid>365333</tmdbid>
+    <imdbid>nm1711652</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Delaney</name>
+    <role>Kenny Stowton</role>
+    <type>Actor</type>
+    <tmdbid>2021417</tmdbid>
+    <imdbid>nm7780301</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Thorp</name>
+    <role>Greg Richardson</role>
+    <type>GuestStar</type>
+    <tmdbid>127501</tmdbid>
+    <imdbid>nm2218927</imdbid>
+  </actor>
+  <actor>
+    <name>Nickolas Grace</name>
+    <role>Larry</role>
+    <type>GuestStar</type>
+    <tmdbid>63611</tmdbid>
+    <imdbid>nm0333380</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Pierson</name>
+    <role>Gemma</role>
+    <type>GuestStar</type>
+    <tmdbid>28475</tmdbid>
+    <imdbid>nm0682753</imdbid>
+  </actor>
+  <actor>
+    <name>Adrian Scarborough</name>
+    <role>Raymond</role>
+    <type>GuestStar</type>
+    <tmdbid>40311</tmdbid>
+    <imdbid>nm0769083</imdbid>
+  </actor>
+  <director>Lisa Brühlmann</director>
+  <rating>8.5</rating>
+  <year>2019</year>
+  <imdbid>tt9264276</imdbid>
+  <tvdbid>7077742</tvdbid>
+  <runtime>44</runtime>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt9264276</uniqueid>
+  <uniqueid type="Tvdb">7077742</uniqueid>
+  <episode>3</episode>
+  <season>2</season>
+  <aired>2019-04-21</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10663483</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>43</duration>
+        <durationinseconds>2639</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

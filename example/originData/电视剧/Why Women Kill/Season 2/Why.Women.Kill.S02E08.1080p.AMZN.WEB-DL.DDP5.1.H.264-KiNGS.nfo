@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[当阿尔玛庆祝成功加入园艺俱乐部时，伯特林开始怀念以前的阿尔玛。伊莎贝尔决定利用好手中的证据。小迪开始对邻居约斯特夫人的失踪产生怀疑。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-11 16:40:57</dateadded>
+  <title>宝贝，这是谋杀</title>
+  <actor>
+    <name>Allison Tolman</name>
+    <role>Alma Fillcot</role>
+    <type>Actor</type>
+    <tmdbid>1331652</tmdbid>
+  </actor>
+  <actor>
+    <name>Lana Parrilla</name>
+    <role>Rita Castillo</role>
+    <type>Actor</type>
+    <tmdbid>177231</tmdbid>
+  </actor>
+  <actor>
+    <name>B.K. Cannon</name>
+    <role>Dee Fillcot</role>
+    <type>Actor</type>
+    <tmdbid>1437461</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordane Christie</name>
+    <role>Vern</role>
+    <type>Actor</type>
+    <tmdbid>2145598</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Daddario</name>
+    <role>Scooter</role>
+    <type>Actor</type>
+    <tmdbid>1272291</tmdbid>
+  </actor>
+  <actor>
+    <name>Veronica Falcón</name>
+    <role>Catherine Castillo</role>
+    <type>Actor</type>
+    <tmdbid>1029593</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Frost</name>
+    <role>Bertram Fillcot</role>
+    <type>Actor</type>
+    <tmdbid>11109</tmdbid>
+  </actor>
+  <actor>
+    <name>Virginia Williams</name>
+    <role>Grace Berk</role>
+    <type>Actor</type>
+    <tmdbid>168986</tmdbid>
+  </actor>
+  <actor>
+    <name>Eileen Galindo</name>
+    <role>Isabel Vega</role>
+    <type>GuestStar</type>
+    <tmdbid>171335</tmdbid>
+    <imdbid>nm0302153</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Phillips</name>
+    <role>Joan</role>
+    <type>GuestStar</type>
+    <tmdbid>1472786</tmdbid>
+  </actor>
+  <actor>
+    <name>Kerry O'Malley</name>
+    <role>Mavis</role>
+    <type>GuestStar</type>
+    <tmdbid>100567</tmdbid>
+    <imdbid>nm0641747</imdbid>
+  </actor>
+  <actor>
+    <name>Cynthia Quiles</name>
+    <role>Brenda</role>
+    <type>GuestStar</type>
+    <tmdbid>1580162</tmdbid>
+  </actor>
+  <rating>0</rating>
+  <year>2021</year>
+  <imdbid>tt13629600</imdbid>
+  <tvdbid>8470762</tvdbid>
+  <runtime>49</runtime>
+  <uniqueid type="Tvdb">8470762</uniqueid>
+  <uniqueid type="Imdb">tt13629600</uniqueid>
+  <episode>8</episode>
+  <season>2</season>
+  <aired>2021-07-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6259728</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>48</duration>
+        <durationinseconds>2912</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

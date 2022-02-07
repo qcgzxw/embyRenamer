@@ -1,0 +1,493 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一个诅咒令阿伦黛尔王国被冰天雪地永久覆盖。乐观无畏的安娜公主（克里斯汀·贝尔配音）和一个大胆的山民克里斯托夫以及陪伴他左右的驯鹿斯文组队出发，遭遇了喜马拉雅山般的极端气候、神秘的生物与无处不在的魔法，不但为了寻到安娜的姐姐——冰雪王后爱尔莎（伊迪娜·门泽尔配音），更希望能破除冰封魔咒，拯救王国免遭灭顶之灾。]]></plot>
+  <outline><![CDATA[唯有真正的爱才能解救冰封的心]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-20 04:08:58</dateadded>
+  <title>冰雪奇缘</title>
+  <originaltitle>Frozen</originaltitle>
+  <actor>
+    <name>Kristen Bell</name>
+    <role>Anna (voice)</role>
+    <type>Actor</type>
+    <tmdbid>40462</tmdbid>
+  </actor>
+  <actor>
+    <name>Idina Menzel</name>
+    <role>Elsa (voice)</role>
+    <type>Actor</type>
+    <tmdbid>19394</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Groff</name>
+    <role>Kristoff (voice)</role>
+    <type>Actor</type>
+    <tmdbid>221611</tmdbid>
+    <imdbid>nm2676147</imdbid>
+  </actor>
+  <actor>
+    <name>Frank Welker</name>
+    <role>Sven(voice)</role>
+    <type>Actor</type>
+    <tmdbid>15831</tmdbid>
+    <imdbid>nm0919798</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Gad</name>
+    <role>Olaf (voice)</role>
+    <type>Actor</type>
+    <tmdbid>54415</tmdbid>
+    <imdbid>nm1265802</imdbid>
+  </actor>
+  <actor>
+    <name>Santino Fontana</name>
+    <role>Hans (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1188241</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Tudyk</name>
+    <role>Duke (voice)</role>
+    <type>Actor</type>
+    <tmdbid>21088</tmdbid>
+    <imdbid>nm0876138</imdbid>
+  </actor>
+  <actor>
+    <name>Ciarán Hinds</name>
+    <role>Pabbie / Grandpa (voice)</role>
+    <type>Actor</type>
+    <tmdbid>8785</tmdbid>
+    <imdbid>nm0001354</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Williams</name>
+    <role>Oaken (voice)</role>
+    <type>Actor</type>
+    <tmdbid>70238</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen J. Anderson</name>
+    <role>Kai (voice)</role>
+    <type>Actor</type>
+    <tmdbid>16842</tmdbid>
+  </actor>
+  <actor>
+    <name>Maia Wilson</name>
+    <role>Bulda (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1297610</tmdbid>
+  </actor>
+  <actor>
+    <name>Edie McClurg</name>
+    <role>Gerda (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3202</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Pine</name>
+    <role>Bishop (voice)</role>
+    <type>Actor</type>
+    <tmdbid>74573</tmdbid>
+  </actor>
+  <actor>
+    <name>Maurice LaMarche</name>
+    <role>King (voice)</role>
+    <type>Actor</type>
+    <tmdbid>34521</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Lacey Ganus</name>
+    <role>Teen Elsa (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2435132</tmdbid>
+  </actor>
+  <actor>
+    <name>Livvy Stubenrauch</name>
+    <role>Young Anna (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1207489</tmdbid>
+  </actor>
+  <actor>
+    <name>Eva Bella</name>
+    <role>Young Elsa (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1207488</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesse Corti</name>
+    <role>Spanish Dignitary (voice)</role>
+    <type>Actor</type>
+    <tmdbid>75599</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Marcus</name>
+    <role>German Dignitary (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1340662</tmdbid>
+  </actor>
+  <actor>
+    <name>Tucker Gilmore</name>
+    <role>Irish Dignitary (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1340663</tmdbid>
+  </actor>
+  <actor>
+    <name>Ava Acres</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1340664</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Apostolina</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1340665</tmdbid>
+  </actor>
+  <actor>
+    <name>Annaleigh Ashford</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>120831</tmdbid>
+  </actor>
+  <actor>
+    <name>Kirk Baily</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176035</tmdbid>
+    <imdbid>nm0047358</imdbid>
+  </actor>
+  <actor>
+    <name>Jenica Bergere</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>113818</tmdbid>
+    <imdbid>nm0074410</imdbid>
+  </actor>
+  <actor>
+    <name>David Boat</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>87176</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Briggs</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1340669</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyree Brown</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1248379</tmdbid>
+  </actor>
+  <actor>
+    <name>Woody Buck</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1340671</tmdbid>
+  </actor>
+  <actor>
+    <name>June Christopher</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>172696</tmdbid>
+    <imdbid>nm0160590</imdbid>
+  </actor>
+  <actor>
+    <name>Lewis Cleale</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1340673</tmdbid>
+  </actor>
+  <actor>
+    <name>Wendy Cutler</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1340674</tmdbid>
+    <imdbid>nm0193961</imdbid>
+  </actor>
+  <actor>
+    <name>Terri Douglas</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>186605</tmdbid>
+  </actor>
+  <actor>
+    <name>Eddie Frierson</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>146186</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean Gilpin</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>59051</tmdbid>
+  </actor>
+  <actor>
+    <name>Jackie Gonneau</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>950773</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Guest</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>36821</tmdbid>
+  </actor>
+  <actor>
+    <name>Bridget Hoffman</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>173428</tmdbid>
+    <imdbid>nm0033977</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Jameson</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>39214</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Kaz</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1340676</tmdbid>
+  </actor>
+  <actor>
+    <name>John Lavelle</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1340677</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Lee</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1120694</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia Lentz</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1207490</tmdbid>
+  </actor>
+  <actor>
+    <name>Annie Lopez</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1340678</tmdbid>
+  </actor>
+  <actor>
+    <name>Katie Lowes</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>108253</tmdbid>
+  </actor>
+  <actor>
+    <name>Mona Marshall</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>111466</tmdbid>
+  </actor>
+  <actor>
+    <name>Dara McGarry</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1077828</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Menville</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>113916</tmdbid>
+    <imdbid>nm0579914</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Overett</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1340680</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Pape</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>174563</tmdbid>
+  </actor>
+  <actor>
+    <name>Courtney Peldon</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>76461</tmdbid>
+    <imdbid>nm0670780</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Perry</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1340682</tmdbid>
+  </actor>
+  <actor>
+    <name>Raymond S. Persi</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1223658</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean-Michel Richaud</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>59060</tmdbid>
+  </actor>
+  <actor>
+    <name>Lynwood Robinson</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1296646</tmdbid>
+  </actor>
+  <actor>
+    <name>Carter Sand</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1340684</tmdbid>
+  </actor>
+  <actor>
+    <name>Jadon Sand</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1340685</tmdbid>
+  </actor>
+  <actor>
+    <name>Katie Silverman</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1009221</tmdbid>
+  </actor>
+  <actor>
+    <name>Pepper Sweeney</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>131365</tmdbid>
+  </actor>
+  <actor>
+    <name>Fred Tatasciore</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>60279</tmdbid>
+    <imdbid>nm0851317</imdbid>
+  </actor>
+  <director tmdbid="15774">Chris Buck</director>
+  <director tmdbid="1120694">Jennifer Lee</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8U8LOzhNGr8</trailer>
+  <rating>7.4</rating>
+  <year>2013</year>
+  <mpaa>PG</mpaa>
+  <imdbid>tt2294629</imdbid>
+  <tmdbid>109445</tmdbid>
+  <premiered>2013-11-20</premiered>
+  <releasedate>2013-11-20</releasedate>
+  <criticrating>90</criticrating>
+  <runtime>102</runtime>
+  <tagline>唯有真正的爱才能解救冰封的心</tagline>
+  <country>United States of America</country>
+  <genre>动画</genre>
+  <genre>冒险</genre>
+  <genre>家庭</genre>
+  <studio>Walt Disney Pictures</studio>
+  <studio>Walt Disney Animation Studios</studio>
+  <set tmdbcolid="386382">
+    <name>冰雪奇缘（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">109445</uniqueid>
+  <uniqueid type="Imdb">tt2294629</uniqueid>
+  <id>tt2294629</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>23318287</bitrate>
+        <width>3840</width>
+        <height>1608</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>102</duration>
+        <durationinseconds>6133</durationinseconds>
+      </video>
+      <audio>
+        <codec>truehd</codec>
+        <micodec>truehd</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1080</width>
+        <height>1548</height>
+        <aspect>30:43</aspect>
+        <aspectratio>30:43</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

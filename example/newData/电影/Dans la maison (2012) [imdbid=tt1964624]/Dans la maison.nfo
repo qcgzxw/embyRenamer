@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一名16岁的中学生闯入了同学的家，并把观察到的一切写入自己的文章中。而他的老师面对这个与众不同，却有着天赋的学生找到了教书的乐趣。然而，这次事件的进程却出乎意料，直至难以控制。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2017-12-17 11:49:46</dateadded>
+  <title>登堂入室</title>
+  <originaltitle>Dans la maison</originaltitle>
+  <actor>
+    <name>Fabrice Luchini</name>
+    <role>Germain</role>
+    <type>Actor</type>
+    <tmdbid>28255</tmdbid>
+    <imdbid>nm0524528</imdbid>
+  </actor>
+  <actor>
+    <name>Kristin Scott Thomas</name>
+    <role>Jeanne</role>
+    <type>Actor</type>
+    <tmdbid>5470</tmdbid>
+    <imdbid>nm0000218</imdbid>
+  </actor>
+  <actor>
+    <name>Ernst Umhauer</name>
+    <role>Claude</role>
+    <type>Actor</type>
+    <tmdbid>1075113</tmdbid>
+    <imdbid>nm3312875</imdbid>
+  </actor>
+  <actor>
+    <name>Emmanuelle Seigner</name>
+    <role>Esther</role>
+    <type>Actor</type>
+    <tmdbid>8925</tmdbid>
+    <imdbid>nm0782561</imdbid>
+  </actor>
+  <actor>
+    <name>Bastien Ughetto</name>
+    <role>Rapha fils</role>
+    <type>Actor</type>
+    <tmdbid>1075115</tmdbid>
+    <imdbid>nm4724320</imdbid>
+  </actor>
+  <actor>
+    <name>Denis Ménochet</name>
+    <role>Rapha père</role>
+    <type>Actor</type>
+    <tmdbid>81125</tmdbid>
+    <imdbid>nm1616970</imdbid>
+  </actor>
+  <actor>
+    <name>Jean-François Balmer</name>
+    <role>Le proviseur</role>
+    <type>Actor</type>
+    <tmdbid>35527</tmdbid>
+    <imdbid>nm0050983</imdbid>
+  </actor>
+  <actor>
+    <name>Fabrice Colson</name>
+    <role>Client de la galerie</role>
+    <type>Actor</type>
+    <tmdbid>1075111</tmdbid>
+    <imdbid>nm3861860</imdbid>
+  </actor>
+  <actor>
+    <name>Diana Stewart</name>
+    <role>Une femme au balcon</role>
+    <type>Actor</type>
+    <tmdbid>1075112</tmdbid>
+    <imdbid>nm2274095</imdbid>
+  </actor>
+  <actor>
+    <name>Stéphanie Campion</name>
+    <role>Une femme au balcon</role>
+    <type>Actor</type>
+    <tmdbid>1075114</tmdbid>
+    <imdbid>nm1594855</imdbid>
+  </actor>
+  <actor>
+    <name>Yolande Moreau</name>
+    <role>Les jumelles Rosalie et Eugénie</role>
+    <type>Actor</type>
+    <tmdbid>2415</tmdbid>
+    <imdbid>nm0603446</imdbid>
+  </actor>
+  <actor>
+    <name>Catherine Davenier</name>
+    <role>Anouk - la secrétaire</role>
+    <type>Actor</type>
+    <tmdbid>212103</tmdbid>
+    <imdbid>nm0202674</imdbid>
+  </actor>
+  <actor>
+    <name>Vincent Schmitt</name>
+    <role>Bernard - le prof de maths</role>
+    <type>Actor</type>
+    <tmdbid>1175149</tmdbid>
+    <imdbid>nm0773460</imdbid>
+  </actor>
+  <actor>
+    <name>Jacques Bosc</name>
+    <role>Monsieur Garcia - le père de Claude</role>
+    <type>Actor</type>
+    <tmdbid>583642</tmdbid>
+    <imdbid>nm1775282</imdbid>
+  </actor>
+  <director tmdbid="4387" imdbid="nm0654830">François Ozon</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eegoZpxQCzc</trailer>
+  <rating>7.4</rating>
+  <year>2012</year>
+  <mpaa>HK-III</mpaa>
+  <imdbid>tt1964624</imdbid>
+  <tmdbid>121875</tmdbid>
+  <premiered>2012-09-26</premiered>
+  <releasedate>2012-09-26</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>105</runtime>
+  <country>France</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <genre>悬疑</genre>
+  <genre>惊悚</genre>
+  <studio>Wild Bunch</studio>
+  <studio>France 2 Cinéma</studio>
+  <studio>Mandarin Film</studio>
+  <studio>FOZ</studio>
+  <uniqueid type="Imdb">tt1964624</uniqueid>
+  <uniqueid type="Tmdb">121875</uniqueid>
+  <id>tt1964624</id>
+  <fileinfo>
+    <streamdetails>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>96000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>rv40</codec>
+        <micodec>rv40</micodec>
+        <bitrate>1707373</bitrate>
+        <width>1280</width>
+        <height>688</height>
+        <aspect>80:43</aspect>
+        <aspectratio>80:43</aspectratio>
+        <framerate>24.000046</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6310</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+</movie>

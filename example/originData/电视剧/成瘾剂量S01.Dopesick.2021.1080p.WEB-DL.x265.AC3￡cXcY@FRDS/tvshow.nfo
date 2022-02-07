@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[一家公司如何引发美国历史上最严重的毒品流行的故事。 看看美国与阿片类药物成瘾斗争的中心，从陷入困境的弗吉尼亚矿业社区，到缉毒局的走廊，再到曼哈顿“百分之一”的大型制药公司的富裕。]]></plot>
+  <outline><![CDATA[一家公司如何引发美国历史上最严重的毒品流行的故事。 看看美国与阿片类药物成瘾斗争的中心，从陷入困境的弗吉尼亚矿业社区，到缉毒局的走廊，再到曼哈顿“百分之一”的大型制药公司的富裕。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-20 10:26:22</dateadded>
+  <title>成瘾剂量</title>
+  <originaltitle>Dopesick</originaltitle>
+  <actor>
+    <name>Michael Keaton</name>
+    <role>Samuel Finnix</role>
+    <type>Actor</type>
+    <tmdbid>2232</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Sarsgaard</name>
+    <role>Rick Mountcastle</role>
+    <type>Actor</type>
+    <tmdbid>133</tmdbid>
+    <imdbid>nm0765597</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Stuhlbarg</name>
+    <role>Richard Sackler</role>
+    <type>Actor</type>
+    <tmdbid>72873</tmdbid>
+    <imdbid>nm0836121</imdbid>
+  </actor>
+  <actor>
+    <name>Will Poulter</name>
+    <role>Billy Cutler</role>
+    <type>Actor</type>
+    <tmdbid>93491</tmdbid>
+    <imdbid>nm2401020</imdbid>
+  </actor>
+  <actor>
+    <name>John Hoogenakker</name>
+    <role>Randy Ramseyer</role>
+    <type>Actor</type>
+    <tmdbid>1188193</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaitlyn Dever</name>
+    <role>Betsy Mallum</role>
+    <type>Actor</type>
+    <tmdbid>481337</tmdbid>
+    <imdbid>nm3239803</imdbid>
+  </actor>
+  <actor>
+    <name>Rosario Dawson</name>
+    <role>Bridget Meyer</role>
+    <type>Actor</type>
+    <tmdbid>5916</tmdbid>
+  </actor>
+  <actor>
+    <name>Jake McDorman</name>
+    <role>John Brownlee</role>
+    <type>Actor</type>
+    <tmdbid>94791</tmdbid>
+    <imdbid>nm1416330</imdbid>
+  </actor>
+  <actor>
+    <name>Will Chase</name>
+    <role>Michael Friedman</role>
+    <type>Actor</type>
+    <tmdbid>87927</tmdbid>
+  </actor>
+  <actor>
+    <name>Phillipa Soo</name>
+    <role>Amber</role>
+    <type>Actor</type>
+    <tmdbid>1631814</tmdbid>
+  </actor>
+  <actor>
+    <name>Arischa Conner</name>
+    <role>Leah Turner</role>
+    <type>Actor</type>
+    <tmdbid>2024290</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Unterman</name>
+    <role>Jonathan Sackler</role>
+    <type>Actor</type>
+    <tmdbid>1388926</tmdbid>
+  </actor>
+  <actor>
+    <name>Brendan Patrick Connor</name>
+    <role>Howard Udell</role>
+    <type>Actor</type>
+    <tmdbid>1217576</tmdbid>
+    <imdbid>nm1615964</imdbid>
+  </actor>
+  <actor>
+    <name>Andrea Frankle</name>
+    <role>Beth Sackler</role>
+    <type>Actor</type>
+    <tmdbid>946356</tmdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=EzrLrUG2QVk</trailer>
+  <rating>7.9</rating>
+  <year>2021</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt9174558</imdb_id>
+  <tmdbid>110695</tmdbid>
+  <premiered>2021-10-13</premiered>
+  <releasedate>2021-10-13</releasedate>
+  <enddate>2021-11-17</enddate>
+  <runtime>62</runtime>
+  <genre>剧情</genre>
+  <studio>Hulu</studio>
+  <uniqueid type="Tmdb">110695</uniqueid>
+  <uniqueid type="Imdb">tt9174558</uniqueid>
+  <uniqueid type="Tvdb">390716</uniqueid>
+  <tvdbid>390716</tvdbid>
+  <id>390716</id>
+  <episodeguide>
+    <url cache="390716.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/390716/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Ended</status>
+</tvshow>

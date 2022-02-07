@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Walter 联系 Todd 的叔叔一伙，将原 Gus 手下全部干掉以防告密。Lydia 提供贩毒新市场，生意越做越大。Walter 心生退意，找到 Jesse 给了他钱，两人和好。Walter 告知妻子自己打算洗手不干。Hank 因 W.W 缩写开始怀疑 Walter。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 18:06:00</dateadded>
+  <title>瞒天过海</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Batayeh</name>
+    <role>Dennis Markowski</role>
+    <type>GuestStar</type>
+    <tmdbid>109687</tmdbid>
+    <imdbid>nm2099399</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Freihofer</name>
+    <role>Dan Wachsberger</role>
+    <type>GuestStar</type>
+    <tmdbid>2128853</tmdbid>
+    <imdbid>nm0293803</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Ward</name>
+    <role>Public Defender</role>
+    <type>GuestStar</type>
+    <tmdbid>204090</tmdbid>
+  </actor>
+  <actor>
+    <name>Craig Nigh</name>
+    <role>Asst. US Attorney</role>
+    <type>GuestStar</type>
+    <tmdbid>197857</tmdbid>
+  </actor>
+  <actor>
+    <name>Morse Bicknell</name>
+    <role>Declan's Driver</role>
+    <type>GuestStar</type>
+    <tmdbid>223395</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Sane</name>
+    <role>Frankie</role>
+    <type>GuestStar</type>
+    <tmdbid>1268114</tmdbid>
+    <imdbid>nm4577760</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Fraser</name>
+    <role>Lydia Rodarte-Quayle</role>
+    <type>GuestStar</type>
+    <tmdbid>42279</tmdbid>
+    <imdbid>nm0292182</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse Plemons</name>
+    <role>Todd</role>
+    <type>GuestStar</type>
+    <tmdbid>88124</tmdbid>
+    <imdbid>nm0687146</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Bowen</name>
+    <role>Uncle Jack</role>
+    <type>GuestStar</type>
+    <tmdbid>2234</tmdbid>
+    <imdbid>nm0100889</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Rankin</name>
+    <role>Kenny</role>
+    <type>GuestStar</type>
+    <tmdbid>114000</tmdbid>
+    <imdbid>nm0710271</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Michael Quezada</name>
+    <role>Steven Gomez</role>
+    <type>GuestStar</type>
+    <tmdbid>61535</tmdbid>
+    <imdbid>nm2366374</imdbid>
+  </actor>
+  <director>Michelle MacLaren</director>
+  <rating>8.957</rating>
+  <year>2012</year>
+  <imdbid>tt2301469</imdbid>
+  <tvdbid>4364463</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt2301469</uniqueid>
+  <uniqueid type="Tvdb">4364463</uniqueid>
+  <episode>8</episode>
+  <season>5</season>
+  <aired>2012-09-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9899395</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2841</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,662 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　艾泽拉斯与德拉诺本是两颗祥和安宁的星球，人类在艾泽拉斯大陆上世代繁衍生息，兽人则在德拉诺的土地上辛勤耕耘。直到古尔丹的出现，打破了两个星球的和平。邪恶的古尔丹为了一己私利，使用恶魔能量打开了一扇传送门 —— 黑暗之门，并残忍的破坏兽人的家园。霜狼氏族的酋长杜隆坦不得不带领着自己的族人离开支离破碎的德拉诺，在举步维艰的艾泽拉斯大陆上寻找着庇护所。面临家园危机的人类在领袖洛萨的带领下一边痛击着野蛮的入侵者，一边苦苦寻求着战争之外的解救方法。两个种族面临着同样的危机，他们必须设法渡过这场灾难。]]></plot>
+  <outline><![CDATA[两个世界，一个家园]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2019-09-21 08:00:46</dateadded>
+  <title>魔兽</title>
+  <originaltitle>Warcraft</originaltitle>
+  <actor>
+    <name>Travis Fimmel</name>
+    <role>Anduin Lothar</role>
+    <type>Actor</type>
+    <tmdbid>77700</tmdbid>
+    <imdbid>nm1379938</imdbid>
+  </actor>
+  <actor>
+    <name>Paula Patton</name>
+    <role>Garona Halforcen</role>
+    <type>Actor</type>
+    <tmdbid>52851</tmdbid>
+    <imdbid>nm1745736</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Foster</name>
+    <role>Medivh</role>
+    <type>Actor</type>
+    <tmdbid>11107</tmdbid>
+    <imdbid>nm0004936</imdbid>
+  </actor>
+  <actor>
+    <name>Dominic Cooper</name>
+    <role>Llane Wrynn</role>
+    <type>Actor</type>
+    <tmdbid>55470</tmdbid>
+    <imdbid>nm1002641</imdbid>
+  </actor>
+  <actor>
+    <name>Toby Kebbell</name>
+    <role>Durotan / Antonidas</role>
+    <type>Actor</type>
+    <tmdbid>20286</tmdbid>
+    <imdbid>nm1527905</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Schnetzer</name>
+    <role>Khadgar</role>
+    <type>Actor</type>
+    <tmdbid>224167</tmdbid>
+    <imdbid>nm3115493</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Kazinsky</name>
+    <role>Orgrim</role>
+    <type>Actor</type>
+    <tmdbid>1038379</tmdbid>
+    <imdbid>nm2059117</imdbid>
+  </actor>
+  <actor>
+    <name>Clancy Brown</name>
+    <role>Blackhand</role>
+    <type>Actor</type>
+    <tmdbid>6574</tmdbid>
+    <imdbid>nm0000317</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Wu</name>
+    <role>Gul'dan</role>
+    <type>Actor</type>
+    <tmdbid>64436</tmdbid>
+    <imdbid>nm0943079</imdbid>
+  </actor>
+  <actor>
+    <name>Ruth Negga</name>
+    <role>Lady Taria Wrynn</role>
+    <type>Actor</type>
+    <tmdbid>17018</tmdbid>
+    <imdbid>nm1550948</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Galvin</name>
+    <role>Draka</role>
+    <type>Actor</type>
+    <tmdbid>106952</tmdbid>
+    <imdbid>nm0303442</imdbid>
+  </actor>
+  <actor>
+    <name>Callum Keith Rennie</name>
+    <role>Moroes</role>
+    <type>Actor</type>
+    <tmdbid>540</tmdbid>
+    <imdbid>nm0719678</imdbid>
+  </actor>
+  <actor>
+    <name>Burkley Duffield</name>
+    <role>Callan</role>
+    <type>Actor</type>
+    <tmdbid>1382451</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Robbins</name>
+    <role>Karos</role>
+    <type>Actor</type>
+    <tmdbid>77164</tmdbid>
+    <imdbid>nm0730455</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Redman</name>
+    <role>Varis / Caged Frostwolf</role>
+    <type>Actor</type>
+    <tmdbid>172873</tmdbid>
+    <imdbid>nm1484233</imdbid>
+  </actor>
+  <actor>
+    <name>Glenn Ennis</name>
+    <role>Compound Guard</role>
+    <type>Actor</type>
+    <tmdbid>1233165</tmdbid>
+    <imdbid>nm1029283</imdbid>
+  </actor>
+  <actor>
+    <name>Terry Notary</name>
+    <role>Grommash Hellscream</role>
+    <type>Actor</type>
+    <tmdbid>236696</tmdbid>
+    <imdbid>nm1024953</imdbid>
+  </actor>
+  <actor>
+    <name>Elena Wurlitzer</name>
+    <role>Draenei Mother</role>
+    <type>Actor</type>
+    <tmdbid>1679287</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Adamthwaite</name>
+    <role>King Magni</role>
+    <type>Actor</type>
+    <tmdbid>63566</tmdbid>
+    <imdbid>nm1027678</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Van Hooft</name>
+    <role>Aloman</role>
+    <type>Actor</type>
+    <tmdbid>290112</tmdbid>
+  </actor>
+  <actor>
+    <name>Callan Mulvey</name>
+    <role>Warrior</role>
+    <type>Actor</type>
+    <tmdbid>208296</tmdbid>
+    <imdbid>nm0612534</imdbid>
+  </actor>
+  <actor>
+    <name>Adrian Glynn McMorran</name>
+    <role>Officer #1</role>
+    <type>Actor</type>
+    <tmdbid>1679290</tmdbid>
+    <imdbid>nm1412321</imdbid>
+  </actor>
+  <actor>
+    <name>Kyle Rideout</name>
+    <role>Officer #2</role>
+    <type>Actor</type>
+    <tmdbid>1127280</tmdbid>
+    <imdbid>nm2079911</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Antonakos</name>
+    <role>Officer #3</role>
+    <type>Actor</type>
+    <tmdbid>103283</tmdbid>
+    <imdbid>nm1862545</imdbid>
+  </actor>
+  <actor>
+    <name>Elisabeth Rosen</name>
+    <role>Westfall Woman</role>
+    <type>Actor</type>
+    <tmdbid>172800</tmdbid>
+    <imdbid>nm0741960</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Sabongui</name>
+    <role>Footman</role>
+    <type>Actor</type>
+    <tmdbid>102742</tmdbid>
+    <imdbid>nm1150775</imdbid>
+  </actor>
+  <actor>
+    <name>Kent O'Connor</name>
+    <role>Footman</role>
+    <type>Actor</type>
+    <tmdbid>3051515</tmdbid>
+  </actor>
+  <actor>
+    <name>Wesley MacInnes</name>
+    <role>Gate Guard</role>
+    <type>Actor</type>
+    <tmdbid>1417044</tmdbid>
+    <imdbid>nm3577741</imdbid>
+  </actor>
+  <actor>
+    <name>Mackenzie Gray</name>
+    <role>Lordaerian Delegate</role>
+    <type>Actor</type>
+    <tmdbid>37698</tmdbid>
+    <imdbid>nm0336797</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Sloan</name>
+    <role>Elf Delegate</role>
+    <type>Actor</type>
+    <tmdbid>1508117</tmdbid>
+    <imdbid>nm2315589</imdbid>
+  </actor>
+  <actor>
+    <name>Valérie Wiseman</name>
+    <role>Kul Tiran Delegate</role>
+    <type>Actor</type>
+    <tmdbid>1504484</tmdbid>
+    <imdbid>nm1116289</imdbid>
+  </actor>
+  <actor>
+    <name>Dan Payne</name>
+    <role>Clansmen</role>
+    <type>Actor</type>
+    <tmdbid>85505</tmdbid>
+    <imdbid>nm1026161</imdbid>
+  </actor>
+  <actor>
+    <name>Eugene Lipinski</name>
+    <role>Finden</role>
+    <type>Actor</type>
+    <tmdbid>28871</tmdbid>
+    <imdbid>nm0513468</imdbid>
+  </actor>
+  <actor>
+    <name>Christina Jastrzembska</name>
+    <role>Archmage</role>
+    <type>Actor</type>
+    <tmdbid>158587</tmdbid>
+    <imdbid>nm0419363</imdbid>
+  </actor>
+  <actor>
+    <name>Travis MacDonald</name>
+    <role>Prison Mage #1</role>
+    <type>Actor</type>
+    <tmdbid>1233167</tmdbid>
+    <imdbid>nm0531960</imdbid>
+  </actor>
+  <actor>
+    <name>Frank C. Turner</name>
+    <role>Prison Mage #2</role>
+    <type>Actor</type>
+    <tmdbid>61167</tmdbid>
+    <imdbid>nm0003964</imdbid>
+  </actor>
+  <actor>
+    <name>Tommy Rieder</name>
+    <role>Young Medivh</role>
+    <type>Actor</type>
+    <tmdbid>1475094</tmdbid>
+  </actor>
+  <actor>
+    <name>Dylan Schombing</name>
+    <role>Young Varian Wrynn</role>
+    <type>Actor</type>
+    <tmdbid>1510489</tmdbid>
+    <imdbid>nm6090983</imdbid>
+  </actor>
+  <actor>
+    <name>Donavon Stinson</name>
+    <role>Prison Soldier</role>
+    <type>Actor</type>
+    <tmdbid>72045</tmdbid>
+    <imdbid>nm1306686</imdbid>
+  </actor>
+  <actor>
+    <name>Meelah Robbins</name>
+    <role>Scared Girl</role>
+    <type>Actor</type>
+    <tmdbid>3051519</tmdbid>
+  </actor>
+  <actor>
+    <name>One Take Charlie</name>
+    <role>Sheep</role>
+    <type>Actor</type>
+    <tmdbid>3051522</tmdbid>
+  </actor>
+  <actor>
+    <name>Glenn Close</name>
+    <role>Alodi (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>515</tmdbid>
+    <imdbid>nm0000335</imdbid>
+  </actor>
+  <actor>
+    <name>Trevor Mack</name>
+    <role>Warrior (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1512660</tmdbid>
+    <imdbid>nm4873894</imdbid>
+  </actor>
+  <actor>
+    <name>Joel Sturrock</name>
+    <role>Dwarf Messenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1679314</tmdbid>
+  </actor>
+  <actor>
+    <name>Raj Lal</name>
+    <role>Knight (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>114895</tmdbid>
+  </actor>
+  <actor>
+    <name>Donnie MacNeil</name>
+    <role>Squire (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>111930</tmdbid>
+    <imdbid>nm3633814</imdbid>
+  </actor>
+  <actor>
+    <name>G. Michael Gray</name>
+    <role>Tower Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>119811</tmdbid>
+    <imdbid>nm0336632</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Patric</name>
+    <role>Human Villager (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1368268</tmdbid>
+    <imdbid>nm2789088</imdbid>
+  </actor>
+  <actor>
+    <name>Jill Morrison</name>
+    <role>Indecisive Woman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>203294</tmdbid>
+    <imdbid>nm1705724</imdbid>
+  </actor>
+  <director tmdbid="81850" imdbid="nm1512910">Duncan Jones</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=65AjY_nRdqE</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2Rxoz13Bthc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RVzb956kdgc</trailer>
+  <rating>6.8</rating>
+  <year>2016</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt0803096</imdbid>
+  <tmdbid>68735</tmdbid>
+  <premiered>2016-05-25</premiered>
+  <releasedate>2016-05-25</releasedate>
+  <criticrating>28</criticrating>
+  <runtime>123</runtime>
+  <tagline>两个世界，一个家园</tagline>
+  <country>Canada</country>
+  <country>China</country>
+  <country>Japan</country>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>冒险</genre>
+  <genre>奇幻</genre>
+  <studio>Legendary Pictures</studio>
+  <studio>Universal Pictures</studio>
+  <studio>Atlas Entertainment</studio>
+  <studio>Blizzard Entertainment</studio>
+  <studio>Tencent Pictures</studio>
+  <uniqueid type="Tmdb">68735</uniqueid>
+  <uniqueid type="Imdb">tt0803096</uniqueid>
+  <id>tt0803096</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>34408359</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>123</duration>
+        <durationinseconds>7387</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>truehd</codec>
+        <micodec>truehd</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ice</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　《房间》由雷尼·亚伯拉罕森（Lenny Abrahamsonand）导演、加拿大和爱尔兰合拍。该片根据艾玛·唐纳修（Emma Donoghue）的同名小说改编，讲述了布里·拉尔森饰演的女孩玛（Ma）被邻居所骗，之后被囚禁在一个狭小的房间里长达七年之久。在此期间她遭到强奸，并生下了儿子杰克（Jack）。和所有妈妈一样，玛也竭尽全力为孩子创造一个安全和开心的成长氛围，虽然他们被困在一个不到10平米的房间里，但通过幻想玛为儿子创造了一个神奇的世界。不过随着一天天长大，杰克的好奇心使他不再满足于这个世界，于是玛精心策划、带着杰克逃出了那个囚禁他们的房间。然而，逃出来后这对脱离社会太长时间的母子才发现，现实世界才是最让他们害怕的。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-07-03 05:25:31</dateadded>
+  <title>房间</title>
+  <originaltitle>Room</originaltitle>
+  <actor>
+    <name>Brie Larson</name>
+    <role>Joy "Ma" Newsome</role>
+    <type>Actor</type>
+    <tmdbid>60073</tmdbid>
+    <imdbid>nm0488953</imdbid>
+  </actor>
+  <actor>
+    <name>Jacob Tremblay</name>
+    <role>Jack Newsome</role>
+    <type>Actor</type>
+    <tmdbid>1277188</tmdbid>
+  </actor>
+  <actor>
+    <name>Joan Allen</name>
+    <role>Nancy Newsome</role>
+    <type>Actor</type>
+    <tmdbid>11148</tmdbid>
+    <imdbid>nm0000260</imdbid>
+  </actor>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Robert Newsome</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Bridgers</name>
+    <role>Old Nick</role>
+    <type>Actor</type>
+    <tmdbid>144160</tmdbid>
+    <imdbid>nm0108703</imdbid>
+  </actor>
+  <actor>
+    <name>Tom McCamus</name>
+    <role>Leo</role>
+    <type>Actor</type>
+    <tmdbid>64712</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Brugel</name>
+    <role>Officer Parker</role>
+    <type>Actor</type>
+    <tmdbid>1232769</tmdbid>
+    <imdbid>nm0115760</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Pingue</name>
+    <role>Officer Grabowski</role>
+    <type>Actor</type>
+    <tmdbid>86237</tmdbid>
+  </actor>
+  <actor>
+    <name>Cas Anvar</name>
+    <role>Dr. Mittal</role>
+    <type>Actor</type>
+    <tmdbid>59214</tmdbid>
+    <imdbid>nm0031679</imdbid>
+  </actor>
+  <actor>
+    <name>Wendy Crewson</name>
+    <role>Talk Show Host</role>
+    <type>Actor</type>
+    <tmdbid>19957</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Drummond</name>
+    <role>Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>984711</tmdbid>
+  </actor>
+  <actor>
+    <name>Randal Edwards</name>
+    <role>Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>103284</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Fulton</name>
+    <role>Neighborhood Boy</role>
+    <type>Actor</type>
+    <tmdbid>1260011</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Mader</name>
+    <role>FBI Agent</role>
+    <type>Actor</type>
+    <tmdbid>76514</tmdbid>
+  </actor>
+  <actor>
+    <name>Zarrin Darnell-Martin</name>
+    <role>Attending Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1517741</tmdbid>
+  </actor>
+  <actor>
+    <name>Jee-Yun Lee</name>
+    <role>News Anchor</role>
+    <type>Actor</type>
+    <tmdbid>201951</tmdbid>
+  </actor>
+  <actor>
+    <name>Ola Sturik</name>
+    <role>Reporter #1</role>
+    <type>Actor</type>
+    <tmdbid>1239345</tmdbid>
+    <imdbid>nm0836380</imdbid>
+  </actor>
+  <actor>
+    <name>Rodrigo Fernandez-Stoll</name>
+    <role>Reporter #2</role>
+    <type>Actor</type>
+    <tmdbid>1279082</tmdbid>
+  </actor>
+  <actor>
+    <name>Rory O'Shea</name>
+    <role>Reporter #3</role>
+    <type>Actor</type>
+    <tmdbid>1357824</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Gordon</name>
+    <role>Doug</role>
+    <type>Actor</type>
+    <tmdbid>43258</tmdbid>
+  </actor>
+  <actor>
+    <name>Sandy McMaster</name>
+    <role>Veteran</role>
+    <type>Actor</type>
+    <tmdbid>1517744</tmdbid>
+  </actor>
+  <actor>
+    <name>Chantelle Chung</name>
+    <role>Clerk (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>88933</tmdbid>
+  </actor>
+  <actor>
+    <name>Brad Wietersen</name>
+    <role>TV Crewman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1517743</tmdbid>
+  </actor>
+  <actor>
+    <name>Megan Park</name>
+    <role>Laura (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>55615</tmdbid>
+  </actor>
+  <actor>
+    <name>Graeme Potts</name>
+    <role>TV Cameraman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1501539</tmdbid>
+  </actor>
+  <actor>
+    <name>Katelyn Wells</name>
+    <role>Teenage Girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1852251</tmdbid>
+  </actor>
+  <director tmdbid="83281">Lenny Abrahamson</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=E_Ci-pAL4eE</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6C6fZ-fwDws</trailer>
+  <rating>8.1</rating>
+  <year>2015</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt3170832</imdbid>
+  <tmdbid>264644</tmdbid>
+  <premiered>2015-10-16</premiered>
+  <releasedate>2015-10-16</releasedate>
+  <criticrating>93</criticrating>
+  <runtime>118</runtime>
+  <country>Canada</country>
+  <country>Ireland</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <studio>Elevation Pictures</studio>
+  <studio>Téléfilm Canada</studio>
+  <studio>Element Pictures</studio>
+  <studio>FilmNation Entertainment</studio>
+  <studio>No Trace Camping</studio>
+  <studio>Film4 Productions</studio>
+  <studio>Screen Ireland</studio>
+  <uniqueid type="Tmdb">264644</uniqueid>
+  <uniqueid type="Imdb">tt3170832</uniqueid>
+  <id>tt3170832</id>
+  <fileinfo>
+    <streamdetails>
+      <audio>
+        <codec>cook</codec>
+        <micodec>cook</micodec>
+        <bitrate>96468</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>rv40</codec>
+        <micodec>rv40</micodec>
+        <bitrate>1687905</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975983</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7058</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+</movie>

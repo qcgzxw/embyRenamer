@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[沿海小城，年轻警官杨家栋（井柏然 饰）初来乍到，恰遇城建委主任唐奕杰（张颂文 饰）坠楼身亡。杨家栋遂展开调查，发现唐奕杰坠楼案与和他过从甚密的紫金企业 负责人姜紫成（秦昊 饰），还有几年前紫金企业合伙人阿云（陈妍希 饰）失踪案都有着密切的关系。杨家栋调查中惨遭革职、追杀，一路逃往香港，途中与死者女儿小诺（马思纯 饰）意外邂逅，并在小诺的协助下继续追查，浑然不觉自己正落入一个纯情陷阱……]]></plot>
+  <outline><![CDATA[一场游戏一场梦]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-06 05:04:19</dateadded>
+  <title>风中有朵雨做的云</title>
+  <originaltitle>风中有朵雨做的云</originaltitle>
+  <actor>
+    <name>Jing Boran</name>
+    <role>Yang Jiadong</role>
+    <type>Actor</type>
+    <tmdbid>1094210</tmdbid>
+    <imdbid>nm3628606</imdbid>
+  </actor>
+  <actor>
+    <name>Ma Sichun</name>
+    <role>Tang Xiaonuo</role>
+    <type>Actor</type>
+    <tmdbid>1476994</tmdbid>
+    <imdbid>nm7626261</imdbid>
+  </actor>
+  <actor>
+    <name>Song Jia</name>
+    <role>Lin Hui</role>
+    <type>Actor</type>
+    <tmdbid>96614</tmdbid>
+    <imdbid>nm2346095</imdbid>
+  </actor>
+  <actor>
+    <name>Qin Hao</name>
+    <role>Jiang Zicheng</role>
+    <type>Actor</type>
+    <tmdbid>1016315</tmdbid>
+    <imdbid>nm2290954</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Chen</name>
+    <role>Lian Ayun</role>
+    <type>Actor</type>
+    <tmdbid>126777</tmdbid>
+    <imdbid>nm3720749</imdbid>
+  </actor>
+  <actor>
+    <name>Edison Chen</name>
+    <role>Old A</role>
+    <type>Actor</type>
+    <tmdbid>20372</tmdbid>
+    <imdbid>nm0155211</imdbid>
+  </actor>
+  <actor>
+    <name>Zhang Songwen</name>
+    <role>Tang Yijie</role>
+    <type>Actor</type>
+    <tmdbid>1086250</tmdbid>
+    <imdbid>nm4210896</imdbid>
+  </actor>
+  <director tmdbid="71056" imdbid="nm0521601">Lou Ye</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=l10rdRMrqQ0</trailer>
+  <rating>6.6</rating>
+  <year>2018</year>
+  <imdbid>tt8071308</imdbid>
+  <tmdbid>454161</tmdbid>
+  <premiered>2018-11-09</premiered>
+  <releasedate>2018-11-09</releasedate>
+  <runtime>124</runtime>
+  <tagline>一场游戏一场梦</tagline>
+  <country>China</country>
+  <genre>犯罪</genre>
+  <studio>Dream Factory</studio>
+  <uniqueid type="Tmdb">454161</uniqueid>
+  <uniqueid type="Imdb">tt8071308</uniqueid>
+  <id>tt8071308</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6854655</bitrate>
+        <width>3840</width>
+        <height>2072</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>24.00001</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>124</duration>
+        <durationinseconds>7441</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

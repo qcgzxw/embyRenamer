@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[这是一部关于政治、复仇的真实的电影。1972年在联邦德国举办的第20届奥运会上，巴勒斯坦的极端恐怖组织“黑色九月”闯进了奥运村绑架了11名以色列运动员，以此要挟以色列释放被关押的该组织成员。  　　联邦德国的警察草率对待了这次绑架事件，他们直接冲进了恐怖组织的巢穴企图武装营救人质，熟料导致了11名以色列运动员全部遇难!  　　事件发生之后，以色列“摩萨德”高层迅速训练了一批特工，展开了对“黑色九月”组织以及相关的巴勒斯坦人长达一个世纪的血腥报复……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-20 16:20:38</dateadded>
+  <title>慕尼黑</title>
+  <originaltitle>Munich</originaltitle>
+  <actor>
+    <name>Eric Bana</name>
+    <role>Avner</role>
+    <type>Actor</type>
+    <tmdbid>8783</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Craig</name>
+    <role>Steve</role>
+    <type>Actor</type>
+    <tmdbid>8784</tmdbid>
+    <imdbid>nm0185819</imdbid>
+  </actor>
+  <actor>
+    <name>Ciarán Hinds</name>
+    <role>Carl</role>
+    <type>Actor</type>
+    <tmdbid>8785</tmdbid>
+    <imdbid>nm0001354</imdbid>
+  </actor>
+  <actor>
+    <name>Mathieu Kassovitz</name>
+    <role>Robert</role>
+    <type>Actor</type>
+    <tmdbid>2406</tmdbid>
+    <imdbid>nm0440913</imdbid>
+  </actor>
+  <actor>
+    <name>Hanns Zischler</name>
+    <role>Hans</role>
+    <type>Actor</type>
+    <tmdbid>169</tmdbid>
+  </actor>
+  <actor>
+    <name>Ayelet Zurer</name>
+    <role>Daphna</role>
+    <type>Actor</type>
+    <tmdbid>8786</tmdbid>
+  </actor>
+  <actor>
+    <name>Geoffrey Rush</name>
+    <role>Ephraim</role>
+    <type>Actor</type>
+    <tmdbid>118</tmdbid>
+    <imdbid>nm0001691</imdbid>
+  </actor>
+  <actor>
+    <name>Gila Almagor</name>
+    <role>Avner's Mother</role>
+    <type>Actor</type>
+    <tmdbid>8787</tmdbid>
+  </actor>
+  <actor>
+    <name>Mathieu Amalric</name>
+    <role>Louis</role>
+    <type>Actor</type>
+    <tmdbid>8789</tmdbid>
+  </actor>
+  <actor>
+    <name>Moritz Bleibtreu</name>
+    <role>Andreas</role>
+    <type>Actor</type>
+    <tmdbid>677</tmdbid>
+  </actor>
+  <actor>
+    <name>Valeria Bruni‑Tedeschi</name>
+    <role>Sylvie</role>
+    <type>Actor</type>
+    <tmdbid>5077</tmdbid>
+  </actor>
+  <actor>
+    <name>Meret Becker</name>
+    <role>Yvonne</role>
+    <type>Actor</type>
+    <tmdbid>8790</tmdbid>
+  </actor>
+  <actor>
+    <name>Marie-Josée Croze</name>
+    <role>Jeanette the Dutch Assassin</role>
+    <type>Actor</type>
+    <tmdbid>8791</tmdbid>
+  </actor>
+  <actor>
+    <name>Yvan Attal</name>
+    <role>Tony</role>
+    <type>Actor</type>
+    <tmdbid>2245</tmdbid>
+  </actor>
+  <actor>
+    <name>Lynn Cohen</name>
+    <role>Golda Meir</role>
+    <type>Actor</type>
+    <tmdbid>8792</tmdbid>
+  </actor>
+  <actor>
+    <name>Ami Weinberg</name>
+    <role>General Zamir</role>
+    <type>Actor</type>
+    <tmdbid>8793</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Lonsdale</name>
+    <role>Papa</role>
+    <type>Actor</type>
+    <tmdbid>2369</tmdbid>
+  </actor>
+  <actor>
+    <name>Igal Naor</name>
+    <role>Mahmoud Hamshari</role>
+    <type>Actor</type>
+    <tmdbid>41316</tmdbid>
+  </actor>
+  <actor>
+    <name>Abdelhafid Metalsi</name>
+    <type>Actor</type>
+    <tmdbid>67145</tmdbid>
+  </actor>
+  <actor>
+    <name>Mostefa Djadjam</name>
+    <role>Hussein Abad Al-Chir</role>
+    <type>Actor</type>
+    <tmdbid>45199</tmdbid>
+  </actor>
+  <director tmdbid="488" imdbid="nm0000229">Steven Spielberg</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0LFfT44BlaQ</trailer>
+  <rating>7.5</rating>
+  <year>2005</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0408306</imdbid>
+  <tmdbid>612</tmdbid>
+  <premiered>2005-12-23</premiered>
+  <releasedate>2005-12-23</releasedate>
+  <criticrating>78</criticrating>
+  <runtime>164</runtime>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <country>France</country>
+  <genre>剧情</genre>
+  <genre>动作</genre>
+  <genre>历史</genre>
+  <genre>惊悚</genre>
+  <studio>Universal Pictures</studio>
+  <studio>Amblin Entertainment</studio>
+  <studio>Barry Mendel Productions</studio>
+  <studio>Alliance Atlantis Communications</studio>
+  <studio>Peninsula Films</studio>
+  <studio>DreamWorks Pictures</studio>
+  <studio>The Kennedy/Marshall Company</studio>
+  <uniqueid type="Tmdb">612</uniqueid>
+  <uniqueid type="Imdb">tt0408306</uniqueid>
+  <id>tt0408306</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>31059822</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>163</duration>
+        <durationinseconds>9829</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ssa</codec>
+        <micodec>ssa</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

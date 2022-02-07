@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[阿丽莎（杰西卡·巴登《龙虾》）仍在应对第一季中各种事件带来的影响。第二季中登场了新人物邦妮，由荣获英国独立电影奖 (BIFA) 的娜奥米·阿基（《麦克白夫人》和即将上映的《星球大战 9：天行者崛起》）饰演。邦妮是一个有着复杂过往的局外人，并与阿丽莎有着神秘的联系。
+
+英国编剧查理·科维尔回归，为《这个破世界的末日》续写精彩。本剧改编自查尔斯·福斯曼荣获奖项的漫画书系列。原创歌曲和配乐将再次由葛拉罕·卡克森操刀。英国导演露西·福布斯（《In My Skin》）和戴斯特尼·埃卡拉加（《Gone Too Far》）分别执导了第一部分和第二部分。
+
+该剧集由 Clerkenwell Films 和 Dominic Buchanan Productions 制作。由默里·弗格森、埃德·麦克唐纳、安迪·贝克、多米尼克·布坎南、乔纳森·恩特威斯尔和查理·科维尔担任监制，珍妮·弗雷恩担任制片人。《这个破世界的末日》由 Netflix 和 Channel 4 联合出品。
+
+《这个破世界的末日》第二季将于 2019 年 11 月 5 日在 Netflix 上面向所有地区（英国除外）上线]]></plot>
+  <outline><![CDATA[阿丽莎（杰西卡·巴登《龙虾》）仍在应对第一季中各种事件带来的影响。第二季中登场了新人物邦妮，由荣获英国独立电影奖 (BIFA) 的娜奥米·阿基（《麦克白夫人》和即将上映的《星球大战 9：天行者崛起》）饰演。邦妮是一个有着复杂过往的局外人，并与阿丽莎有着神秘的联系。
+
+英国编剧查理·科维尔回归，为《这个破世界的末日》续写精彩。本剧改编自查尔斯·福斯曼荣获奖项的漫画书系列。原创歌曲和配乐将再次由葛拉罕·卡克森操刀。英国导演露西·福布斯（《In My Skin》）和戴斯特尼·埃卡拉加（《Gone Too Far》）分别执导了第一部分和第二部分。
+
+该剧集由 Clerkenwell Films 和 Dominic Buchanan Productions 制作。由默里·弗格森、埃德·麦克唐纳、安迪·贝克、多米尼克·布坎南、乔纳森·恩特威斯尔和查理·科维尔担任监制，珍妮·弗雷恩担任制片人。《这个破世界的末日》由 Netflix 和 Channel 4 联合出品。
+
+《这个破世界的末日》第二季将于 2019 年 11 月 5 日在 Netflix 上面向所有地区（英国除外）上线]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2019-11-19 13:51:32</dateadded>
+  <title>去他*的世界</title>
+  <originaltitle>The End of the F***ing World</originaltitle>
+  <actor>
+    <name>Alex Lawther</name>
+    <role>James</role>
+    <type>Actor</type>
+    <tmdbid>1379277</tmdbid>
+    <imdbid>nm3867299</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Barden</name>
+    <role>Alyssa</role>
+    <type>Actor</type>
+    <tmdbid>550552</tmdbid>
+    <imdbid>nm1875238</imdbid>
+  </actor>
+  <actor>
+    <name>Naomi Ackie</name>
+    <role>Bonnie</role>
+    <type>Actor</type>
+    <tmdbid>1537686</tmdbid>
+    <imdbid>nm7609875</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Dylan</name>
+    <role>Todd Alan King</role>
+    <type>Actor</type>
+    <tmdbid>1945738</tmdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=SqILm2JuHx4</trailer>
+  <rating>8.3</rating>
+  <year>2017</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt6257970</imdb_id>
+  <tmdbid>74577</tmdbid>
+  <premiered>2017-10-24</premiered>
+  <releasedate>2017-10-24</releasedate>
+  <enddate>2019-11-07</enddate>
+  <runtime>21</runtime>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <genre>犯罪</genre>
+  <studio>Channel 4</studio>
+  <studio>Netflix</studio>
+  <uniqueid type="Imdb">tt6257970</uniqueid>
+  <uniqueid type="Tmdb">74577</uniqueid>
+  <uniqueid type="Tvdb">336522</uniqueid>
+  <tvdbid>336522</tvdbid>
+  <id>336522</id>
+  <episodeguide>
+    <url cache="336522.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/336522/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Ended</status>
+</tvshow>

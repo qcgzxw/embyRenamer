@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[翻拍自2011年叫好叫座的法国电影《触不可及》（Untouchable），布莱恩·科兰斯顿和凯文·哈特分饰瘫痪的富商Phillip和来自街头的男子Dell，Dell因为有犯罪前科找不到工作，阴差阳错来照顾Phillip，背景天差地别的两人经历了嘀笑皆非的一系列事件后成了令人动容的莫逆之交。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-08-14 06:54:09</dateadded>
+  <title>触不可及</title>
+  <originaltitle>The Upside</originaltitle>
+  <actor>
+    <name>Kevin Hart</name>
+    <role>Dell Scott</role>
+    <type>Actor</type>
+    <tmdbid>55638</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Phillip Lacasse</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Nicole Kidman</name>
+    <role>Yvonne Pendleton</role>
+    <type>Actor</type>
+    <tmdbid>2227</tmdbid>
+    <imdbid>nm0000173</imdbid>
+  </actor>
+  <actor>
+    <name>Golshifteh Farahani</name>
+    <role>Maggie</role>
+    <type>Actor</type>
+    <tmdbid>229932</tmdbid>
+  </actor>
+  <actor>
+    <name>Aja Naomi King</name>
+    <role>Latrice</role>
+    <type>Actor</type>
+    <tmdbid>1120699</tmdbid>
+  </actor>
+  <actor>
+    <name>Tate Donovan</name>
+    <role>Carter Locke</role>
+    <type>Actor</type>
+    <tmdbid>15455</tmdbid>
+  </actor>
+  <actor>
+    <name>Jahi Di'Allo Winston</name>
+    <role>Anthony Scott</role>
+    <type>Actor</type>
+    <tmdbid>1795607</tmdbid>
+  </actor>
+  <actor>
+    <name>Genevieve Angelson</name>
+    <role>Jenny Lacasse</role>
+    <type>Actor</type>
+    <tmdbid>1289020</tmdbid>
+  </actor>
+  <actor>
+    <name>Suzanne Savoy</name>
+    <role>Charlotte</role>
+    <type>Actor</type>
+    <tmdbid>108922</tmdbid>
+    <imdbid>nm0767929</imdbid>
+  </actor>
+  <actor>
+    <name>Julianna Margulies</name>
+    <role>Lily Foley</role>
+    <type>Actor</type>
+    <tmdbid>25654</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Alana Handler</name>
+    <role>Proctor</role>
+    <type>Actor</type>
+    <tmdbid>1426634</tmdbid>
+  </actor>
+  <actor>
+    <name>Junnie Lopez</name>
+    <role>Restaurant Employee</role>
+    <type>Actor</type>
+    <tmdbid>1657687</tmdbid>
+  </actor>
+  <actor>
+    <name>Pia Mechler</name>
+    <role>Art Dealer</role>
+    <type>Actor</type>
+    <tmdbid>213582</tmdbid>
+  </actor>
+  <actor>
+    <name>Amara Karan</name>
+    <type>Actor</type>
+    <tmdbid>66443</tmdbid>
+  </actor>
+  <actor>
+    <name>Ursula Triplett</name>
+    <role>Caterer</role>
+    <type>Actor</type>
+    <tmdbid>1935642</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Kochanowicz</name>
+    <role>New Carer Jason</role>
+    <type>Actor</type>
+    <tmdbid>1343821</tmdbid>
+  </actor>
+  <actor>
+    <name>Annie Pisapia</name>
+    <role>Opera Attendee</role>
+    <type>Actor</type>
+    <tmdbid>1979097</tmdbid>
+  </actor>
+  <actor>
+    <name>Phillip Chorba</name>
+    <role>Applicant #5</role>
+    <type>Actor</type>
+    <tmdbid>1271781</tmdbid>
+  </actor>
+  <actor>
+    <name>Alisha Poland</name>
+    <role>Upscale Restaurant Patron</role>
+    <type>Actor</type>
+    <tmdbid>1972911</tmdbid>
+  </actor>
+  <actor>
+    <name>Julie Stackhouse</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1756828</tmdbid>
+  </actor>
+  <actor>
+    <name>Lyman Chen</name>
+    <role>Applicant #2</role>
+    <type>Actor</type>
+    <tmdbid>1610941</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Ayash</name>
+    <role>Upscale Restaurant Patron</role>
+    <type>Actor</type>
+    <tmdbid>1657693</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Butler</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>118941</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Hart</name>
+    <role>Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>1766000</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Mowery</name>
+    <role>Cabbie</role>
+    <type>Actor</type>
+    <tmdbid>1344726</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Christopher</name>
+    <role>Officer</role>
+    <type>Actor</type>
+    <tmdbid>1653347</tmdbid>
+  </actor>
+  <actor>
+    <name>Madeleine Woolner</name>
+    <role>New Carer</role>
+    <type>Actor</type>
+    <tmdbid>1979098</tmdbid>
+  </actor>
+  <actor>
+    <name>Charmar Jeter</name>
+    <role>Diner Patron</role>
+    <type>Actor</type>
+    <tmdbid>1756834</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew D'Arcy</name>
+    <role>Waitstaff</role>
+    <type>Actor</type>
+    <tmdbid>1741856</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Gallagher</name>
+    <role>Applicant #4</role>
+    <type>Actor</type>
+    <tmdbid>92803</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles W Harris III</name>
+    <role>Usher</role>
+    <type>Actor</type>
+    <tmdbid>1979099</tmdbid>
+  </actor>
+  <actor>
+    <name>Nikki Corinne Thomas</name>
+    <role>Restaurant Patron</role>
+    <type>Actor</type>
+    <tmdbid>1979100</tmdbid>
+  </actor>
+  <actor>
+    <name>Gemma McIlhenny</name>
+    <role>Ice Cream Shop Patron</role>
+    <type>Actor</type>
+    <tmdbid>1979101</tmdbid>
+  </actor>
+  <director tmdbid="17329">Neil Burger</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EWw7rCHcduQ</trailer>
+  <rating>7</rating>
+  <year>2019</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt1987680</imdbid>
+  <tmdbid>440472</tmdbid>
+  <premiered>2019-01-10</premiered>
+  <releasedate>2019-01-10</releasedate>
+  <runtime>126</runtime>
+  <country>United States of America</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <studio>Escape Artists</studio>
+  <studio>Lantern Entertainment</studio>
+  <studio>The Weinstein Company</studio>
+  <uniqueid type="Imdb">tt1987680</uniqueid>
+  <uniqueid type="Tmdb">440472</uniqueid>
+  <id>tt1987680</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5583332</bitrate>
+        <width>1920</width>
+        <height>1038</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>125</duration>
+        <durationinseconds>7548</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[智利毒品化学家“蟑螂”把他的产品卖给了哥伦比亚走私犯巴勃罗·埃斯科瓦尔；缉毒局专员史帝夫·墨菲在波哥大加入这场毒品之战。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-15 01:25:32</dateadded>
+  <title>陷入</title>
+  <actor>
+    <name>Wagner Moura</name>
+    <role>Pablo Escobar</role>
+    <type>Actor</type>
+    <tmdbid>52583</tmdbid>
+  </actor>
+  <actor>
+    <name>Pedro Pascal</name>
+    <role>Javier Peña</role>
+    <type>Actor</type>
+    <tmdbid>1253360</tmdbid>
+  </actor>
+  <actor>
+    <name>Boyd Holbrook</name>
+    <role>Steve Murphy</role>
+    <type>Actor</type>
+    <tmdbid>467645</tmdbid>
+  </actor>
+  <actor>
+    <name>Joanna Christie</name>
+    <role>Connie Murphy</role>
+    <type>Actor</type>
+    <tmdbid>1230988</tmdbid>
+  </actor>
+  <actor>
+    <name>Maurice Compte</name>
+    <role>Horacio Carrillo</role>
+    <type>Actor</type>
+    <tmdbid>48530</tmdbid>
+    <imdbid>nm0173997</imdbid>
+  </actor>
+  <actor>
+    <name>Paulina Gaitán</name>
+    <role>Tata Escobar</role>
+    <type>Actor</type>
+    <tmdbid>36586</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Sigman</name>
+    <role>Valeria Velez</role>
+    <type>Actor</type>
+    <tmdbid>929937</tmdbid>
+  </actor>
+  <actor>
+    <name>Diego Cataño</name>
+    <role>La Quica</role>
+    <type>Actor</type>
+    <tmdbid>112129</tmdbid>
+    <imdbid>nm1593407</imdbid>
+  </actor>
+  <actor>
+    <name>Jorge A. Jimenez</name>
+    <role>Poison</role>
+    <type>Actor</type>
+    <tmdbid>99508</tmdbid>
+    <imdbid>nm2784856</imdbid>
+  </actor>
+  <actor>
+    <name>Juan Pablo Raba</name>
+    <role>Gustavo Gaviria</role>
+    <type>Actor</type>
+    <tmdbid>937009</tmdbid>
+    <imdbid>nm0704696</imdbid>
+  </actor>
+  <actor>
+    <name>Raúl Méndez</name>
+    <role>Cesar Gaviria</role>
+    <type>Actor</type>
+    <tmdbid>18463</tmdbid>
+  </actor>
+  <actor>
+    <name>Bruno Bichir</name>
+    <role>Fernando Duque</role>
+    <type>Actor</type>
+    <tmdbid>52745</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Guzmán</name>
+    <role>José Rodríguez Gacha</role>
+    <type>Actor</type>
+    <tmdbid>40481</tmdbid>
+  </actor>
+  <actor>
+    <name>André Mattos</name>
+    <role>Jorge Luis Ochoa</role>
+    <type>GuestStar</type>
+    <tmdbid>223293</tmdbid>
+  </actor>
+  <actor>
+    <name>Roberto Urbina</name>
+    <role>Fabio Ochoa</role>
+    <type>GuestStar</type>
+    <tmdbid>1032537</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Riedinger</name>
+    <role>Carlos Lehder</role>
+    <type>GuestStar</type>
+    <tmdbid>85613</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard T. Jones</name>
+    <role>Agent DEA</role>
+    <type>GuestStar</type>
+    <tmdbid>55755</tmdbid>
+    <imdbid>nm0429114</imdbid>
+  </actor>
+  <actor>
+    <name>A.J. Buckley</name>
+    <role>Kevin Brady</role>
+    <type>GuestStar</type>
+    <tmdbid>60460</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Gnecco</name>
+    <role>La Cucaracha</role>
+    <type>GuestStar</type>
+    <tmdbid>127248</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon Ecker</name>
+    <role>The Lion</role>
+    <type>GuestStar</type>
+    <tmdbid>1415544</tmdbid>
+  </actor>
+  <actor>
+    <name>Ariel Sierra</name>
+    <role>Sure Shot</role>
+    <type>GuestStar</type>
+    <tmdbid>1532438</tmdbid>
+  </actor>
+  <actor>
+    <name>Julián Díaz</name>
+    <role>El Negro</role>
+    <type>GuestStar</type>
+    <tmdbid>807510</tmdbid>
+  </actor>
+  <actor>
+    <name>Carolina Gaitán</name>
+    <role>Marta Ochoa</role>
+    <type>GuestStar</type>
+    <tmdbid>1489764</tmdbid>
+  </actor>
+  <actor>
+    <name>Jorge Monterrosa</name>
+    <role>Trujillo</role>
+    <type>GuestStar</type>
+    <tmdbid>1935289</tmdbid>
+  </actor>
+  <actor>
+    <name>Paulina García</name>
+    <role>Hermilda Gaviria</role>
+    <type>GuestStar</type>
+    <tmdbid>1532436</tmdbid>
+  </actor>
+  <director>José Padilha</director>
+  <rating>8.314</rating>
+  <year>2015</year>
+  <imdbid>tt3591824</imdbid>
+  <tvdbid>4920750</tvdbid>
+  <runtime>57</runtime>
+  <uniqueid type="Tvdb">4920750</uniqueid>
+  <uniqueid type="Imdb">tt3591824</uniqueid>
+  <episode>1</episode>
+  <season>1</season>
+  <aired>2015-08-28</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3863700</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>57</duration>
+        <durationinseconds>3420</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

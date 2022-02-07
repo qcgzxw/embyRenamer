@@ -1,0 +1,307 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[以1987年全斗焕独裁统治下发生的六月民主抗争运动为背景。1987年1月，一名参加学运的大学生在被警察拷问的过程中死亡，朴处长 (金允锡 饰) 下令将尸体火化以毁灭证据。另一边厢，当日值班的崔检察官(河正宇 饰) 拒绝执行任务，并要求解剖验尸，结果显示大学生被拷打致死。经调查后，记者尹尚三 (李熙俊 饰) 亦意外发现大学生的死因是窒息，事情因而在各大媒体上曝光。种种证据矛头均指向涉事的警察，官方却依然坚持他只是死于突发心脏病。当朴处长越想把真相隐瞒，事情就越一发不可收拾……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-05-31 14:26:18</dateadded>
+  <title>1987：黎明到来的那一天</title>
+  <originaltitle>1987</originaltitle>
+  <actor>
+    <name>Kim Yoon-seok</name>
+    <role>Park Cheo-won</role>
+    <type>Actor</type>
+    <tmdbid>75912</tmdbid>
+    <imdbid>nm2412823</imdbid>
+  </actor>
+  <actor>
+    <name>Ha Jung-woo</name>
+    <role>Prosecutor Choi Hwan</role>
+    <type>Actor</type>
+    <tmdbid>75913</tmdbid>
+    <imdbid>nm1978402</imdbid>
+  </actor>
+  <actor>
+    <name>Yoo Hae-jin</name>
+    <role>Han Byung-yong</role>
+    <type>Actor</type>
+    <tmdbid>84996</tmdbid>
+    <imdbid>nm1640313</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Tae-ri</name>
+    <role>Yeon-hee</role>
+    <type>Actor</type>
+    <tmdbid>1537768</tmdbid>
+    <imdbid>nm3892241</imdbid>
+  </actor>
+  <actor>
+    <name>Park Hee-soon</name>
+    <role>Detective Jo Han-kyung</role>
+    <type>Actor</type>
+    <tmdbid>93999</tmdbid>
+    <imdbid>nm1775551</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Hee-jun</name>
+    <role>Reporter Yoon Sang-sam</role>
+    <type>Actor</type>
+    <tmdbid>1046863</tmdbid>
+    <imdbid>nm3736232</imdbid>
+  </actor>
+  <actor>
+    <name>Sol Kyung-gu</name>
+    <role>Kim Jung-nam</role>
+    <type>Actor</type>
+    <tmdbid>85008</tmdbid>
+    <imdbid>nm0812555</imdbid>
+  </actor>
+  <actor>
+    <name>Yeo Jin-goo</name>
+    <role>Park Jong-chul</role>
+    <type>Actor</type>
+    <tmdbid>1207629</tmdbid>
+    <imdbid>nm2082531</imdbid>
+  </actor>
+  <actor>
+    <name>Kang Dong-won</name>
+    <role>Lee Han-yeol</role>
+    <type>Actor</type>
+    <tmdbid>83014</tmdbid>
+    <imdbid>nm1504868</imdbid>
+  </actor>
+  <actor>
+    <name>Moon Sung-keun</name>
+    <role>Jang Se-dong</role>
+    <type>Actor</type>
+    <tmdbid>240948</tmdbid>
+    <imdbid>nm0600673</imdbid>
+  </actor>
+  <actor>
+    <name>Yoo Seung-mok</name>
+    <role>Yoo Jung-bang</role>
+    <type>Actor</type>
+    <tmdbid>1128004</tmdbid>
+    <imdbid>nm2182458</imdbid>
+  </actor>
+  <actor>
+    <name>Hyun Bong-sik</name>
+    <role>Mr. Park</role>
+    <type>Actor</type>
+    <tmdbid>2273915</tmdbid>
+    <imdbid>nm9025636</imdbid>
+  </actor>
+  <actor>
+    <name>Park Ji-hwan</name>
+    <role>Inspector Hwang</role>
+    <type>Actor</type>
+    <tmdbid>1078674</tmdbid>
+    <imdbid>nm3306464</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Yong-jik</name>
+    <role>Senior police officer Ban</role>
+    <type>Actor</type>
+    <tmdbid>1346901</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Ji-hong</name>
+    <role>Assistant Inspector Kang</role>
+    <type>Actor</type>
+    <tmdbid>2470130</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Eui-sung</name>
+    <role>Lee Boo-young</role>
+    <type>Actor</type>
+    <tmdbid>1347175</tmdbid>
+    <imdbid>nm0453440</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Jong-soo</name>
+    <role>Park Jung-ki</role>
+    <type>Actor</type>
+    <tmdbid>1295417</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Chang-hoon</name>
+    <role>Prosecutor Pyo</role>
+    <type>Actor</type>
+    <tmdbid>2462807</tmdbid>
+    <imdbid>nm11001766</imdbid>
+  </actor>
+  <actor>
+    <name>Seo Hyun-woo</name>
+    <role>Prosecutor Lee</role>
+    <type>Actor</type>
+    <tmdbid>1591370</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Hyun-kyun</name>
+    <role>Oh Yun-sang</role>
+    <type>Actor</type>
+    <tmdbid>3003869</tmdbid>
+    <imdbid>nm10711076</imdbid>
+  </actor>
+  <actor>
+    <name>Park Kyung-hye</name>
+    <role>Jung-mi</role>
+    <type>Actor</type>
+    <tmdbid>1859758</tmdbid>
+    <imdbid>nm9048342</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Soo-jin</name>
+    <role>Yeon-hee's mother</role>
+    <type>Actor</type>
+    <tmdbid>1191490</tmdbid>
+    <imdbid>nm9721970</imdbid>
+  </actor>
+  <actor>
+    <name>Jo Woo-jin</name>
+    <role>Park Jong-chul's uncle</role>
+    <type>Actor</type>
+    <tmdbid>1566012</tmdbid>
+    <imdbid>nm4623753</imdbid>
+  </actor>
+  <actor>
+    <name>Woo Hyeon</name>
+    <role>Kang Min-chang</role>
+    <type>Actor</type>
+    <tmdbid>572172</tmdbid>
+    <imdbid>nm2440234</imdbid>
+  </actor>
+  <actor>
+    <name>Moon So-ri</name>
+    <role>Protester</role>
+    <type>Actor</type>
+    <tmdbid>83122</tmdbid>
+    <imdbid>nm0600668</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Kyung-duk</name>
+    <role>Senior Patrol Officer Lee</role>
+    <type>Actor</type>
+    <tmdbid>2483539</tmdbid>
+  </actor>
+  <actor>
+    <name>Oh Dal-su</name>
+    <role>Journalist (cameo) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>77188</tmdbid>
+    <imdbid>nm1367681</imdbid>
+  </actor>
+  <actor>
+    <name>Ko Chang-seok</name>
+    <role>Journalist (cameo) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>150697</tmdbid>
+    <imdbid>nm2944077</imdbid>
+  </actor>
+  <actor>
+    <name>Bae Young-ran</name>
+    <role>Nurse (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2379033</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Kuk-hee</name>
+    <role>Democratic personage (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2003804</tmdbid>
+  </actor>
+  <actor>
+    <name>Jung In-gi</name>
+    <role>Priest Kim Seung-hoon (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>240082</tmdbid>
+    <imdbid>nm1559446</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Hwa-ryong</name>
+    <role>Priest Halm Se-woong (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2274442</tmdbid>
+    <imdbid>nm2604920</imdbid>
+  </actor>
+  <actor>
+    <name>Choi Gwang-il</name>
+    <role>Ahn Yoo (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2485848</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Seung-hoon</name>
+    <role>Hwang Jeok-jun (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1309296</tmdbid>
+  </actor>
+  <actor>
+    <name>Kang Jung-woo</name>
+    <role>Lee Jong-chang</role>
+    <type>Actor</type>
+    <tmdbid>2792885</tmdbid>
+    <imdbid>nm11929530</imdbid>
+  </actor>
+  <actor>
+    <name>Na Chul</name>
+    <role>Investigator (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2228586</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Won-Jin</name>
+    <role>Dong-A Ilbo Reporter #1 / Protester</role>
+    <type>Actor</type>
+    <tmdbid>3068216</tmdbid>
+  </actor>
+  <director tmdbid="68905" imdbid="nm2287741">Jang Joon-hwan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eTzBIH51Irc</trailer>
+  <rating>7.8</rating>
+  <year>2017</year>
+  <imdbid>tt6493286</imdbid>
+  <tmdbid>437103</tmdbid>
+  <premiered>2017-12-27</premiered>
+  <releasedate>2017-12-27</releasedate>
+  <criticrating>82</criticrating>
+  <runtime>129</runtime>
+  <country>South Korea</country>
+  <genre>剧情</genre>
+  <genre>历史</genre>
+  <genre>惊悚</genre>
+  <studio>CJ Entertainment</studio>
+  <studio>Woojeong Film</studio>
+  <uniqueid type="Tmdb">437103</uniqueid>
+  <uniqueid type="Imdb">tt6493286</uniqueid>
+  <id>tt6493286</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2794041</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>129</duration>
+        <durationinseconds>7757</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>191824</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

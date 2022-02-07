@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[桑美开始在恶魔经营的商店工作，瑞克觉得事有蹊跷。杰瑞和莫蒂对冥王星到底算不算星球这点吵个不停，最后决定到此一游。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 07:45:43</dateadded>
+  <title>魔鬼商店</title>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfred Molina</name>
+    <role>The Devil (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>658</tmdbid>
+    <imdbid>nm0000547</imdbid>
+  </actor>
+  <actor>
+    <name>Kari Wahlgren</name>
+    <role>Plutonian Chat Show Host 1 / Talking Doll (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>116315</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Chernoff</name>
+    <role>Plutonian Chat Show Host 2 / Teenager Employee (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1701455</tmdbid>
+  </actor>
+  <actor>
+    <name>Rich Fulcher</name>
+    <role>King Flippy Nips (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>98106</tmdbid>
+  </actor>
+  <actor>
+    <name>Tress MacNeille</name>
+    <role>Mrs. Tate / Party Guest 1 (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>34983</tmdbid>
+  </actor>
+  <actor>
+    <name>Nolan North</name>
+    <role>Scroopy Noopers (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>19508</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Johnson</name>
+    <role>Mr. Goldenfold (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>167411</tmdbid>
+  </actor>
+  <actor>
+    <name>Phil Hendrie</name>
+    <role>Principal Gene Vagina / Plutocrat's Friend (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>181234</tmdbid>
+  </actor>
+  <director>John Rice</director>
+  <rating>8.5</rating>
+  <year>2014</year>
+  <imdbid>tt3333840</imdbid>
+  <tvdbid>4743890</tvdbid>
+  <runtime>22</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <uniqueid type="Tvdb">4743890</uniqueid>
+  <uniqueid type="Imdb">tt3333840</uniqueid>
+  <episode>9</episode>
+  <season>1</season>
+  <aired>2014-03-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2050690</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1340</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[NJ（吴念真）是个很有原则的生意人，同妻子敏敏（金燕玲）、女儿婷婷（李凯莉）、儿子洋洋（张杨洋）以及外婆住在台北某所普通公寓里。小舅子的一场麻烦婚礼过后，因为外婆突然中风昏迷，他迎来更加混乱的日子...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-11-10 15:32:05</dateadded>
+  <title>一一</title>
+  <originaltitle>一一</originaltitle>
+  <actor>
+    <name>Wu Nien-Jen</name>
+    <role>NJ Jian</role>
+    <type>Actor</type>
+    <tmdbid>143036</tmdbid>
+    <imdbid>nm0943150</imdbid>
+  </actor>
+  <actor>
+    <name>Elaine Jin</name>
+    <role>Min-Min</role>
+    <type>Actor</type>
+    <tmdbid>103598</tmdbid>
+    <imdbid>nm0157805</imdbid>
+  </actor>
+  <actor>
+    <name>Issei Ogata</name>
+    <role>Mr. Ota</role>
+    <type>Actor</type>
+    <tmdbid>143037</tmdbid>
+    <imdbid>nm0644521</imdbid>
+  </actor>
+  <actor>
+    <name>Kelly Lee</name>
+    <role>Ting-Ting</role>
+    <type>Actor</type>
+    <tmdbid>143038</tmdbid>
+    <imdbid>nm0497662</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Chang</name>
+    <role>Yang-Yang</role>
+    <type>Actor</type>
+    <tmdbid>143039</tmdbid>
+    <imdbid>nm0151740</imdbid>
+  </actor>
+  <actor>
+    <name>Hsi-Sheng Chen</name>
+    <role>A-Di</role>
+    <type>Actor</type>
+    <tmdbid>555375</tmdbid>
+    <imdbid>nm0155240</imdbid>
+  </actor>
+  <actor>
+    <name>Shu-shen Hsiao</name>
+    <role>Xiao-Yan</role>
+    <type>Actor</type>
+    <tmdbid>555377</tmdbid>
+    <imdbid>nm0398764</imdbid>
+  </actor>
+  <actor>
+    <name>Adriene Lin</name>
+    <role>Lili</role>
+    <type>Actor</type>
+    <tmdbid>555378</tmdbid>
+  </actor>
+  <actor>
+    <name>Pang Chang Yu</name>
+    <role>Fatty</role>
+    <type>Actor</type>
+    <tmdbid>555379</tmdbid>
+    <imdbid>nm0950548</imdbid>
+  </actor>
+  <actor>
+    <name>Kelly Ko</name>
+    <role>Sherry</role>
+    <type>Actor</type>
+    <tmdbid>1316890</tmdbid>
+  </actor>
+  <actor>
+    <name>Tang Ru-Yun</name>
+    <role>Grandma</role>
+    <type>Actor</type>
+    <tmdbid>555380</tmdbid>
+    <imdbid>nm0849332</imdbid>
+  </actor>
+  <actor>
+    <name>Shu-Yuan Hsu</name>
+    <role>Mrs. Jiang</role>
+    <type>Actor</type>
+    <tmdbid>555381</tmdbid>
+    <imdbid>nm0398847</imdbid>
+  </actor>
+  <actor>
+    <name>Hsin-Yi Tseng</name>
+    <role>Yun-Yun</role>
+    <type>Actor</type>
+    <tmdbid>555382</tmdbid>
+    <imdbid>nm0874915</imdbid>
+  </actor>
+  <actor>
+    <name>Yi-Wen Chen</name>
+    <type>Actor</type>
+    <tmdbid>150165</tmdbid>
+    <imdbid>nm0155439</imdbid>
+  </actor>
+  <actor>
+    <name>An-an Hsu</name>
+    <type>Actor</type>
+    <tmdbid>551671</tmdbid>
+  </actor>
+  <actor>
+    <name>Lawrence Ko</name>
+    <role>The Soldier</role>
+    <type>Actor</type>
+    <tmdbid>150609</tmdbid>
+    <imdbid>nm0461940</imdbid>
+  </actor>
+  <actor>
+    <name>Kai-Li Peng</name>
+    <role>Cellist in cello concert scene</role>
+    <type>Actor</type>
+    <tmdbid>555383</tmdbid>
+    <imdbid>nm0671821</imdbid>
+  </actor>
+  <actor>
+    <name>Tang Tsung Sheng</name>
+    <role>Blue Shirt</role>
+    <type>Actor</type>
+    <tmdbid>555384</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward Yang</name>
+    <role>Pianist in cello concert scene</role>
+    <type>Actor</type>
+    <tmdbid>143035</tmdbid>
+    <imdbid>nm0945981</imdbid>
+  </actor>
+  <actor>
+    <name>Tang Cong-sheng</name>
+    <type>Actor</type>
+    <tmdbid>1407086</tmdbid>
+  </actor>
+  <actor>
+    <name>Kiyotaka Ueno</name>
+    <type>Actor</type>
+    <tmdbid>1411319</tmdbid>
+    <imdbid>nm1218187</imdbid>
+  </actor>
+  <actor>
+    <name>Wang Chi-tsan</name>
+    <role>Punk at N.Y. Bagel Cafe</role>
+    <type>Actor</type>
+    <tmdbid>1554173</tmdbid>
+    <imdbid>nm0910860</imdbid>
+  </actor>
+  <actor>
+    <name>Shau-Ching Sung</name>
+    <role>Young banker</role>
+    <type>Actor</type>
+    <tmdbid>2412691</tmdbid>
+    <imdbid>nm6937667</imdbid>
+  </actor>
+  <actor>
+    <name>Hsu Kuei-ying</name>
+    <role>N.J.'s secretary</role>
+    <type>Actor</type>
+    <tmdbid>1675551</tmdbid>
+  </actor>
+  <actor>
+    <name>Chi-Tung Yu</name>
+    <role>Xiao-Yan's uncle</role>
+    <type>Actor</type>
+    <tmdbid>2468268</tmdbid>
+  </actor>
+  <actor>
+    <name>Mei-Yun Yu</name>
+    <role>N.J.'s neighbor</role>
+    <type>Actor</type>
+    <tmdbid>2468274</tmdbid>
+  </actor>
+  <actor>
+    <name>Shih-Ping Yang</name>
+    <role>Grandma's Doctor</role>
+    <type>Actor</type>
+    <tmdbid>3120208</tmdbid>
+  </actor>
+  <director tmdbid="143035" imdbid="nm0945981">Edward Yang</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=EbwNZGrRfF8</trailer>
+  <rating>8.2</rating>
+  <year>2000</year>
+  <imdbid>tt0244316</imdbid>
+  <tmdbid>25538</tmdbid>
+  <premiered>2000-09-20</premiered>
+  <releasedate>2000-09-20</releasedate>
+  <runtime>174</runtime>
+  <country>Taiwan</country>
+  <country>Japan</country>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <studio>Omega Project</studio>
+  <studio>AtomFilms</studio>
+  <studio>Nemuru Otoko Seisaku Iinkai</studio>
+  <uniqueid type="Tmdb">25538</uniqueid>
+  <uniqueid type="Imdb">tt0244316</uniqueid>
+  <id>tt0244316</id>
+  <fileinfo>
+    <streamdetails>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>96000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>rv40</codec>
+        <micodec>rv40</micodec>
+        <bitrate>1702003</bitrate>
+        <width>1280</width>
+        <height>688</height>
+        <aspect>80:43</aspect>
+        <aspectratio>80:43</aspectratio>
+        <framerate>23.975983</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>173</duration>
+        <durationinseconds>10413</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+</movie>

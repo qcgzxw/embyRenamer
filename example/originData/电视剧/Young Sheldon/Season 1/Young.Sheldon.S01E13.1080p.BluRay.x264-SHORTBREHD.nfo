@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[当流感季节袭击梅德福时，谢尔顿采取了极端措施以保持健康。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-08-04 11:55:16</dateadded>
+  <title>打喷嚏，关禁闭，还有娘娘腔史派塞克</title>
+  <actor>
+    <name>Iain Armitage</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1684536</tmdbid>
+    <imdbid>nm8071137</imdbid>
+  </actor>
+  <actor>
+    <name>Zoe Perry</name>
+    <role>Mary Cooper</role>
+    <type>Actor</type>
+    <tmdbid>133450</tmdbid>
+    <imdbid>nm1409365</imdbid>
+  </actor>
+  <actor>
+    <name>Lance Barber</name>
+    <role>George Cooper Sr.</role>
+    <type>Actor</type>
+    <tmdbid>1212111</tmdbid>
+    <imdbid>nm1115741</imdbid>
+  </actor>
+  <actor>
+    <name>Montana Jordan</name>
+    <role>Georgie Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1817307</tmdbid>
+    <imdbid>nm7718664</imdbid>
+  </actor>
+  <actor>
+    <name>Raegan Revord</name>
+    <role>Missy Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1575317</tmdbid>
+    <imdbid>nm6862942</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Potts</name>
+    <role>Connie Tucker</role>
+    <type>Actor</type>
+    <tmdbid>8873</tmdbid>
+    <imdbid>nm0001633</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Dave Florek</name>
+    <role>Mr. Eberland</role>
+    <type>GuestStar</type>
+    <tmdbid>107438</tmdbid>
+    <imdbid>nm0282649</imdbid>
+  </actor>
+  <actor>
+    <name>Kurt Doss</name>
+    <role>Ned</role>
+    <type>GuestStar</type>
+    <tmdbid>1490431</tmdbid>
+  </actor>
+  <actor>
+    <name>Caitlin Carmichael</name>
+    <role>Veronica</role>
+    <type>GuestStar</type>
+    <tmdbid>966753</tmdbid>
+  </actor>
+  <actor>
+    <name>Pam Cook</name>
+    <role>Diane</role>
+    <type>GuestStar</type>
+    <tmdbid>1948601</tmdbid>
+  </actor>
+  <actor>
+    <name>Valerie Mahaffey</name>
+    <role>Victoria MacElroy</role>
+    <type>GuestStar</type>
+    <tmdbid>99351</tmdbid>
+    <imdbid>nm0536723</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Phuong</name>
+    <role>Tam Nguyen</role>
+    <type>GuestStar</type>
+    <tmdbid>2181372</tmdbid>
+    <imdbid>nm7910690</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Stepanek</name>
+    <role>Hubert Givens</role>
+    <type>GuestStar</type>
+    <tmdbid>146391</tmdbid>
+    <imdbid>nm0826745</imdbid>
+  </actor>
+  <actor>
+    <name>Rex Linn</name>
+    <role>Tom Petersen</role>
+    <type>GuestStar</type>
+    <tmdbid>16937</tmdbid>
+    <imdbid>nm0513010</imdbid>
+  </actor>
+  <rating>6.3</rating>
+  <year>2018</year>
+  <imdbid>tt7669674</imdbid>
+  <tvdbid>6447062</tvdbid>
+  <runtime>21</runtime>
+  <genre>Comedy</genre>
+  <uniqueid type="Imdb">tt7669674</uniqueid>
+  <uniqueid type="Tvdb">6447062</uniqueid>
+  <episode>13</episode>
+  <season>1</season>
+  <aired>2018-02-01</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9875990</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1263</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

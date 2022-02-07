@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[埃琳娜决定回来之后不再联系莱拉，莱拉也没有来找过她。皮诺西亚的孩子降生了，埃琳娜买了一块毛毯去看望她。皮诺西亚因为孩子的事情很疲惫，她劝说埃琳娜还是不结婚的好，还告诉她莱拉已经去鞋店工作了，埃琳娜并不知道莱拉为什么改了主意，皮诺西亚的妈妈来了，对莱拉又是一番抱怨，埃琳娜不愿意再听下去，转身告别后走了出来。
+
+埃琳娜看到一群人点燃了篝火，据说是过安东尼火把节，她走过来听说安东尼奥被遣送了回来，便找到他询问情况，安东尼奥说自己现在还处于害怕之中，那天他自己站岗时，想起了父亲曾教过自己的一个游戏，就是把自己的手指当成了木偶，然后跟他们对话，可是后来他发现自己控制不了那些木偶了，他就用力地用手击打着岗亭，直到现在他也没能完全平息下来，埃琳娜意识到，安东尼奥可能精神上出了问题。这时，去喊妈妈下楼观看篝火的卡梅拉在楼上大叫起来，大家跑上楼发现她把自己反锁在屋里，帕斯卡尔用力打开了房门，发现她已经上吊自杀了，埃琳娜看到了这个场景非常震惊，她暗自下决心，尽快离开这个充满恐惧的地方。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-11-02 00:17:22</dateadded>
+  <title>愤怒</title>
+  <actor>
+    <name>Gaia Girace</name>
+    <role>Lila (Teenager)</role>
+    <type>Actor</type>
+    <tmdbid>2165956</tmdbid>
+    <imdbid>nm10135221</imdbid>
+  </actor>
+  <actor>
+    <name>Margherita Mazzucco</name>
+    <role>Elena (Teenager)</role>
+    <type>Actor</type>
+    <tmdbid>2165955</tmdbid>
+  </actor>
+  <actor>
+    <name>Ludovica Nasti</name>
+    <role>Lila (Younger)</role>
+    <type>Actor</type>
+    <tmdbid>2165954</tmdbid>
+  </actor>
+  <actor>
+    <name>Elisa del Genio</name>
+    <role>Elena (Younger)</role>
+    <type>Actor</type>
+    <tmdbid>2165953</tmdbid>
+  </actor>
+  <actor>
+    <name>Dora Romano</name>
+    <role>Miss Oliviero</role>
+    <type>Actor</type>
+    <tmdbid>1510167</tmdbid>
+    <imdbid>nm0738873</imdbid>
+  </actor>
+  <director>Saverio Costanzo</director>
+  <rating>4.5</rating>
+  <year>2020</year>
+  <imdbid>tt9413922</imdbid>
+  <tvdbid>7550354</tvdbid>
+  <runtime>61</runtime>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt9413922</uniqueid>
+  <uniqueid type="Tvdb">7550354</uniqueid>
+  <episode>6</episode>
+  <season>2</season>
+  <aired>2020-02-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10262902</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>61</duration>
+        <durationinseconds>3677</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Beck's continued casual encounters catch Joe off guard, as does a run-in with the police, making him realize a key situation must be dealt with.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-01-05 22:04:52</dateadded>
+  <title>第 3 集</title>
+  <actor>
+    <name>Penn Badgley</name>
+    <role>Joe Goldberg</role>
+    <type>Actor</type>
+    <tmdbid>110927</tmdbid>
+    <imdbid>nm0046112</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Lail</name>
+    <role>Guinevere Beck</role>
+    <type>Actor</type>
+    <tmdbid>1368507</tmdbid>
+    <imdbid>nm5634768</imdbid>
+  </actor>
+  <actor>
+    <name>Luca Padovan</name>
+    <role>Paco</role>
+    <type>Actor</type>
+    <tmdbid>2126167</tmdbid>
+  </actor>
+  <actor>
+    <name>Zach Cherry</name>
+    <role>Ethan Russell</role>
+    <type>Actor</type>
+    <tmdbid>1838225</tmdbid>
+  </actor>
+  <actor>
+    <name>Kacey Carrig</name>
+    <role>Bartender</role>
+    <type>GuestStar</type>
+    <tmdbid>2455534</tmdbid>
+    <imdbid>nm7916857</imdbid>
+  </actor>
+  <actor>
+    <name>Lou Taylor Pucci</name>
+    <role>Benji</role>
+    <type>GuestStar</type>
+    <tmdbid>17441</tmdbid>
+    <imdbid>nm1086384</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Getz</name>
+    <role>Tomas</role>
+    <type>GuestStar</type>
+    <tmdbid>1572579</tmdbid>
+    <imdbid>nm5505543</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Itzkow</name>
+    <role>Yuri</role>
+    <type>GuestStar</type>
+    <tmdbid>2455535</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean David Cooper</name>
+    <role>Officer Martin</role>
+    <type>GuestStar</type>
+    <tmdbid>2455537</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamar Greene</name>
+    <role>Officer Warren</role>
+    <type>GuestStar</type>
+    <tmdbid>1674261</tmdbid>
+    <imdbid>nm7263215</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Chaneski</name>
+    <role>Hiker</role>
+    <type>GuestStar</type>
+    <tmdbid>1472864</tmdbid>
+  </actor>
+  <actor>
+    <name>Christine Toy Johnson</name>
+    <role>Allison Mott</role>
+    <type>GuestStar</type>
+    <tmdbid>1109028</tmdbid>
+    <imdbid>nm0870265</imdbid>
+  </actor>
+  <actor>
+    <name>Nicole Kang</name>
+    <role>Lynn Lieser</role>
+    <type>GuestStar</type>
+    <tmdbid>2081650</tmdbid>
+    <imdbid>nm9169007</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Cosgrove</name>
+    <role>Ron</role>
+    <type>GuestStar</type>
+    <tmdbid>203511</tmdbid>
+    <imdbid>nm0181822</imdbid>
+  </actor>
+  <actor>
+    <name>Hari Nef</name>
+    <role>Blythe</role>
+    <type>GuestStar</type>
+    <tmdbid>1611609</tmdbid>
+    <imdbid>nm6341515</imdbid>
+  </actor>
+  <actor>
+    <name>Kathryn Gallagher</name>
+    <role>Annika</role>
+    <type>GuestStar</type>
+    <tmdbid>2270221</tmdbid>
+    <imdbid>nm4137840</imdbid>
+  </actor>
+  <actor>
+    <name>Shay Mitchell</name>
+    <role>Peach Salinger</role>
+    <type>GuestStar</type>
+    <tmdbid>222088</tmdbid>
+  </actor>
+  <director>Marcos Siega</director>
+  <rating>7.6</rating>
+  <year>2018</year>
+  <imdbid>tt7608280</imdbid>
+  <tvdbid>6461784</tvdbid>
+  <runtime>43</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt7608280</uniqueid>
+  <uniqueid type="Tvdb">6461784</uniqueid>
+  <episode>3</episode>
+  <season>1</season>
+  <aired>2018-09-23</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9509827</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>43</duration>
+        <durationinseconds>2580</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

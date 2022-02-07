@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[A jury holdout attempts to prevent a miscarriage of justice by forcing his colleagues to reconsider the evidence.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-19 20:28:47</dateadded>
+  <title>12 Angry Men</title>
+  <actor>
+    <name>Henry Fonda</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Lee J. Cobb</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Martin Balsam</name>
+    <type>Actor</type>
+  </actor>
+  <director>Sidney Lumet</director>
+  <writer>Reginald Rose</writer>
+  <credits>Reginald Rose</credits>
+  <rating>9</rating>
+  <year>1957</year>
+  <imdbid>tt0050083</imdbid>
+  <runtime>96</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt0050083</uniqueid>
+  <id>tt0050083</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>17628489</bitrate>
+        <width>1800</width>
+        <height>1080</height>
+        <aspect>5:3</aspect>
+        <aspectratio>5:3</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5781</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>320000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>1</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

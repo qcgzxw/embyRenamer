@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[李奥纳德和薛尔登合写一份论文，出版杂志却没有挂李奥纳德的名，于是两人就在沃洛威兹太太家吃晚餐时起了口角。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 17:58:47</dateadded>
+  <title>The Leftover Thermalization</title>
+  <director>Mark Cendrowski</director>
+  <rating>7.4</rating>
+  <year>2015</year>
+  <imdbid>tt3862722</imdbid>
+  <tvdbid>5135832</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>1065756634</tvrageid>
+  <uniqueid type="Imdb">tt3862722</uniqueid>
+  <uniqueid type="Tvdb">5135832</uniqueid>
+  <uniqueid type="TvRage">1065756634</uniqueid>
+  <episode>18</episode>
+  <season>8</season>
+  <aired>2015-03-12</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1353542</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1174</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

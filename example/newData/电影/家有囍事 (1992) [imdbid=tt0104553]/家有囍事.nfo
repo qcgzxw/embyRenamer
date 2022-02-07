@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　常家三兄弟性格各异，他们的爱情生活亦变化多端。老大常满家有贤妻程大嫂，她服侍老爷、奶奶尽心周到，但进得厨房上不得厅堂；而后常满有了外遇，不料东窗事发，妻子同外遇相遇，最后常满几经波折，总算与贤妻重归于好。老二常舒女里女气，与一个男人气十足的女生梁无双相爱；两人时而斗气，时而和好，最终共结连理。老三常欢是个花花公子，主张博爱主义，周旋于众女之间，但由于一次意外而变成失忆症患者，众女皆对他避而远之，只有何里玉一个人留下来专心服侍；常欢病好后，觉得真爱难求，遂收心养性，迎得美人归。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-05 00:34:56</dateadded>
+  <title>家有喜事</title>
+  <originaltitle>家有囍事</originaltitle>
+  <actor>
+    <name>Stephen Chow</name>
+    <role>Shang Foon</role>
+    <type>Actor</type>
+    <tmdbid>57607</tmdbid>
+    <imdbid>nm0159507</imdbid>
+  </actor>
+  <actor>
+    <name>Leslie Cheung</name>
+    <role>Shang So</role>
+    <type>Actor</type>
+    <tmdbid>69637</tmdbid>
+    <imdbid>nm0002000</imdbid>
+  </actor>
+  <actor>
+    <name>Raymond Pak-Ming Wong</name>
+    <role>Shang Moon</role>
+    <type>Actor</type>
+    <tmdbid>240177</tmdbid>
+    <imdbid>nm2260417</imdbid>
+  </actor>
+  <actor>
+    <name>Sandra Ng Kwun-Yu</name>
+    <role>Ching</role>
+    <type>Actor</type>
+    <tmdbid>88495</tmdbid>
+    <imdbid>nm0510950</imdbid>
+  </actor>
+  <actor>
+    <name>Maggie Cheung</name>
+    <role>Ho Yok 'Holiyok'</role>
+    <type>Actor</type>
+    <tmdbid>1338</tmdbid>
+    <imdbid>nm0001041</imdbid>
+  </actor>
+  <actor>
+    <name>Teresa Mo</name>
+    <role>Leung Mo-Shang</role>
+    <type>Actor</type>
+    <tmdbid>70590</tmdbid>
+    <imdbid>nm0594909</imdbid>
+  </actor>
+  <actor>
+    <name>Sheila Chan Suk-Lan</name>
+    <role>Sheila</role>
+    <type>Actor</type>
+    <tmdbid>565456</tmdbid>
+    <imdbid>nm0151092</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Heung-Kam</name>
+    <role>Grandmother</role>
+    <type>Actor</type>
+    <tmdbid>148891</tmdbid>
+    <imdbid>nm0497394</imdbid>
+  </actor>
+  <actor>
+    <name>Kwan Hoi-San</name>
+    <role>Grandfather</role>
+    <type>Actor</type>
+    <tmdbid>1135238</tmdbid>
+  </actor>
+  <actor>
+    <name>Loletta Lee</name>
+    <role>Foon's Girl</role>
+    <type>Actor</type>
+    <tmdbid>1135177</tmdbid>
+    <imdbid>nm0497782</imdbid>
+  </actor>
+  <actor>
+    <name>Tommy Wong</name>
+    <role>Kwong</role>
+    <type>Actor</type>
+    <tmdbid>1135394</tmdbid>
+    <imdbid>nm0939209</imdbid>
+  </actor>
+  <actor>
+    <name>Cheri Ho Pui-Yee</name>
+    <role>Dolleen</role>
+    <type>Actor</type>
+    <tmdbid>1427609</tmdbid>
+  </actor>
+  <actor>
+    <name>Chow Chi-Fai</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1414273</tmdbid>
+  </actor>
+  <actor>
+    <name>Clifton Ko Chi-Sum</name>
+    <role>Sings karaoke w/ Ching</role>
+    <type>Actor</type>
+    <tmdbid>123200</tmdbid>
+    <imdbid>nm0170504</imdbid>
+  </actor>
+  <actor>
+    <name>San Tak-Kan</name>
+    <role>Headmaster</role>
+    <type>Actor</type>
+    <tmdbid>1414028</tmdbid>
+  </actor>
+  <director tmdbid="123200" imdbid="nm0170504">Clifton Ko Chi-Sum</director>
+  <rating>7.2</rating>
+  <year>1992</year>
+  <imdbid>tt0104553</imdbid>
+  <tmdbid>60145</tmdbid>
+  <premiered>1992-01-25</premiered>
+  <releasedate>1992-01-25</releasedate>
+  <criticrating>91</criticrating>
+  <runtime>106</runtime>
+  <country>Hong Kong</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <studio>Ko Chi Sum Films Company Limited</studio>
+  <studio>Mandarin Film Company</studio>
+  <studio>Regal Films Company Ltd.</studio>
+  <set tmdbcolid="725154">
+    <name>家有喜事</name>
+  </set>
+  <uniqueid type="TmdbCollection">725154</uniqueid>
+  <tmdbcollectionid>725154</tmdbcollectionid>
+  <uniqueid type="Imdb">tt0104553</uniqueid>
+  <uniqueid type="Tmdb">60145</uniqueid>
+  <id>tt0104553</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6438798</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6372</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

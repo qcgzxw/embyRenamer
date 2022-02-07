@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[薛尔登和雷杰测试他们是否能在盐矿中，进行暗物质研究并存活下来。 李奥纳德和潘妮因为钱而起了口角。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 17:51:30</dateadded>
+  <title>The Expedition Approximation</title>
+  <director>Mark Cendrowski</director>
+  <rating>7.2</rating>
+  <year>2014</year>
+  <imdbid>tt3823240</imdbid>
+  <tvdbid>4997387</tvdbid>
+  <runtime>22</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>1065683267</tvrageid>
+  <uniqueid type="Imdb">tt3823240</uniqueid>
+  <uniqueid type="Tvdb">4997387</uniqueid>
+  <uniqueid type="TvRage">1065683267</uniqueid>
+  <episode>6</episode>
+  <season>8</season>
+  <aired>2014-10-20</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1585501</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1290</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

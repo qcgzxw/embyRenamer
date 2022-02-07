@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[祖鲁在大陪审团面前作证。伊莎贝拉试图与艾迪娜达成一笔交易。费利斯向美方联络人抛出一个大胆提议。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-17 01:26:37</dateadded>
+  <title>隧道挖掘</title>
+  <actor>
+    <name>Scoot McNairy</name>
+    <role>Walt Breslin / Narrator</role>
+    <type>Actor</type>
+    <tmdbid>59233</tmdbid>
+  </actor>
+  <actor>
+    <name>Diego Luna</name>
+    <role>Miguel Ángel Félix Gallardo</role>
+    <type>Actor</type>
+    <tmdbid>8688</tmdbid>
+  </actor>
+  <actor>
+    <name>José María Yázpik</name>
+    <role>Amado Carrillo Fuentes</role>
+    <type>Actor</type>
+    <tmdbid>72128</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernanda Urrejola</name>
+    <role>María Elvira</role>
+    <type>Actor</type>
+    <tmdbid>955954</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfonso Dosal</name>
+    <role>Benjamín Arellano Félix</role>
+    <type>Actor</type>
+    <tmdbid>1149129</tmdbid>
+  </actor>
+  <actor>
+    <name>Julio Cedillo</name>
+    <role>Guillermo González Calderoni</role>
+    <type>Actor</type>
+    <tmdbid>36634</tmdbid>
+    <imdbid>nm0147814</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Ransom</name>
+    <role>Dunn</role>
+    <type>Actor</type>
+    <tmdbid>1174218</tmdbid>
+    <imdbid>nm0710417</imdbid>
+  </actor>
+  <actor>
+    <name>Mayra Hermosillo</name>
+    <role>Enedina Arellano Félix</role>
+    <type>Actor</type>
+    <tmdbid>1526350</tmdbid>
+  </actor>
+  <actor>
+    <name>Alejandro Edda</name>
+    <role>Joaquín 'El Chapo' Guzmán</role>
+    <type>Actor</type>
+    <tmdbid>1809025</tmdbid>
+  </actor>
+  <actor>
+    <name>Miguel Rodarte</name>
+    <role>Danilo Garza</role>
+    <type>Actor</type>
+    <tmdbid>133762</tmdbid>
+  </actor>
+  <actor>
+    <name>Gorka Lasaosa</name>
+    <role>Héctor Luis Palma Salazar</role>
+    <type>Actor</type>
+    <tmdbid>82698</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Knight</name>
+    <role>Kenny</role>
+    <type>Actor</type>
+    <tmdbid>307885</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesse Garcia</name>
+    <role>Sal Orozco</role>
+    <type>Actor</type>
+    <tmdbid>66525</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Biedel</name>
+    <role>Daryl Petsky</role>
+    <type>Actor</type>
+    <tmdbid>588335</tmdbid>
+  </actor>
+  <actor>
+    <name>Jero Medina</name>
+    <role>Ossie Mejía</role>
+    <type>Actor</type>
+    <tmdbid>2558356</tmdbid>
+  </actor>
+  <actor>
+    <name>Alberto Zeni</name>
+    <role>Amat Palacios</role>
+    <type>Actor</type>
+    <tmdbid>1907493</tmdbid>
+  </actor>
+  <actor>
+    <name>Andres Londono</name>
+    <role>Enrique Clavel</role>
+    <type>Actor</type>
+    <tmdbid>1018723</tmdbid>
+  </actor>
+  <actor>
+    <name>Flavio Medina</name>
+    <role>Juan García Abrego</role>
+    <type>Actor</type>
+    <tmdbid>1048704</tmdbid>
+  </actor>
+  <actor>
+    <name>Joaquín Cosío</name>
+    <role>Ernesto 'Don Neto' Fonseca Carrillo</role>
+    <type>GuestStar</type>
+    <tmdbid>76857</tmdbid>
+    <imdbid>nm1370408</imdbid>
+  </actor>
+  <actor>
+    <name>Teresa Ruiz</name>
+    <role>Isabella Bautista</role>
+    <type>GuestStar</type>
+    <tmdbid>589722</tmdbid>
+  </actor>
+  <actor>
+    <name>Clark Freeman</name>
+    <role>Ed Heath</role>
+    <type>GuestStar</type>
+    <tmdbid>138771</tmdbid>
+  </actor>
+  <actor>
+    <name>Gerardo Taracena</name>
+    <role>Pablo Acosta</role>
+    <type>GuestStar</type>
+    <tmdbid>17689</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernanda Andrade</name>
+    <role>Alejandra</role>
+    <type>GuestStar</type>
+    <tmdbid>134365</tmdbid>
+  </actor>
+  <director>Marcela Said</director>
+  <rating>7.2</rating>
+  <year>2020</year>
+  <imdbid>tt10499232</imdbid>
+  <tvdbid>7576347</tvdbid>
+  <runtime>60</runtime>
+  <uniqueid type="Tvdb">7576347</uniqueid>
+  <uniqueid type="Imdb">tt10499232</uniqueid>
+  <episode>4</episode>
+  <season>2</season>
+  <aired>2020-02-13</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3833467</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>60</duration>
+        <durationinseconds>3629</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

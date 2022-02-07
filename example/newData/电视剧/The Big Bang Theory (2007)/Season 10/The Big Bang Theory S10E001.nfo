@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[潘妮和李奥纳德办喜事，但李奥纳德的父亲和薛尔登的妈妈上床了，而且潘妮的家人也来了，一切变得很尴尬。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-16 16:27:09</dateadded>
+  <title>The Conjugal Conjecture</title>
+  <actor>
+    <name>Christine Baranski</name>
+    <type>GuestStar</type>
+    <tmdbid>11870</tmdbid>
+    <imdbid>nm0004724</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <type>GuestStar</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Jack McBrayer</name>
+    <type>GuestStar</type>
+    <tmdbid>58737</tmdbid>
+    <imdbid>nm1442113</imdbid>
+  </actor>
+  <actor>
+    <name>Judd Hirsch</name>
+    <type>GuestStar</type>
+    <tmdbid>6167</tmdbid>
+    <imdbid>nm0002139</imdbid>
+  </actor>
+  <actor>
+    <name>Katey Sagal</name>
+    <type>GuestStar</type>
+    <tmdbid>18980</tmdbid>
+    <imdbid>nm0005408</imdbid>
+  </actor>
+  <actor>
+    <name>Keith Carradine</name>
+    <type>GuestStar</type>
+    <tmdbid>30613</tmdbid>
+    <imdbid>nm0001018</imdbid>
+  </actor>
+  <actor>
+    <name>Laurie Metcalf</name>
+    <type>GuestStar</type>
+    <tmdbid>12133</tmdbid>
+    <imdbid>nm0582418</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.8</rating>
+  <year>2016</year>
+  <imdbid>tt3603372</imdbid>
+  <tvdbid>5654968</tvdbid>
+  <runtime>22</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <uniqueid type="Imdb">tt3603372</uniqueid>
+  <uniqueid type="Tvdb">5654968</uniqueid>
+  <episode>1</episode>
+  <season>10</season>
+  <aired>2016-09-19</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>14271103</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1312</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

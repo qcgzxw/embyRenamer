@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[千仞雪负伤逃走，唐三等人立刻带雪夜大帝前往安全的地方疗毒。可沿途 前来阻止唐三的军队接连不断，想逃出皇宫也是困难重重。只听得一声“万佛朝宗”，竟是千仞雪安排在士兵中的耳目趁乱施展的武魂融合技。正当唐三他们无力招架时，敏之一族带着救兵赶到了...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <lockedfields>Name</lockedfields>
+  <dateadded>2021-05-08 12:27:51</dateadded>
+  <title>第 8 部分（海神之光篇）：第 155 集「唐三决战武魂殿，雪夜大帝再次毒发」</title>
+  <rating>0</rating>
+  <year>2021</year>
+  <runtime>21</runtime>
+  <episode>155</episode>
+  <season>1</season>
+  <aired>2021-05-08</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6984243</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1275</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>93405</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

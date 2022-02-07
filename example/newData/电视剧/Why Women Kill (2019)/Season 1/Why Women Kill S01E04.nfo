@@ -1,0 +1,188 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[　　贝丝·安和阿普里尔一起在荒野的一边散步，和罗伯的老板共进晚餐，度过了一个有趣的夜晚。汤米想给他和西蒙娜的关系贴上标签，但西蒙娜的女儿艾米的来访可能会破坏一切。泰勒、杰德和伊莱与杰德疯狂的前男友混在一起，这对夫妻的生活变得很不愉快。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-09-14 06:04:49</dateadded>
+  <title>杀人让我为你所吸引</title>
+  <actor>
+    <name>Ginnifer Goodwin</name>
+    <role>Beth Ann Stanton</role>
+    <type>Actor</type>
+    <tmdbid>417</tmdbid>
+    <imdbid>nm0329481</imdbid>
+  </actor>
+  <actor>
+    <name>Lucy Liu</name>
+    <role>Simone Grove</role>
+    <type>Actor</type>
+    <tmdbid>140</tmdbid>
+    <imdbid>nm0005154</imdbid>
+  </actor>
+  <actor>
+    <name>Kirby Howell-Baptiste</name>
+    <role>Taylor Harding</role>
+    <type>Actor</type>
+    <tmdbid>1532312</tmdbid>
+    <imdbid>nm4624730</imdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Daddario</name>
+    <role>Jade</role>
+    <type>Actor</type>
+    <tmdbid>109513</tmdbid>
+    <imdbid>nm1275259</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Davenport</name>
+    <role>Karl Grove</role>
+    <type>Actor</type>
+    <tmdbid>1709</tmdbid>
+    <imdbid>nm0202603</imdbid>
+  </actor>
+  <actor>
+    <name>Reid Scott</name>
+    <role>Eli Cohen</role>
+    <type>Actor</type>
+    <tmdbid>81316</tmdbid>
+    <imdbid>nm1169428</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Jaeger</name>
+    <role>Rob Stanton</role>
+    <type>Actor</type>
+    <tmdbid>65727</tmdbid>
+    <imdbid>nm0415382</imdbid>
+  </actor>
+  <actor>
+    <name>Sadie Calvano</name>
+    <role>April</role>
+    <type>Actor</type>
+    <tmdbid>1258702</tmdbid>
+    <imdbid>nm3970180</imdbid>
+  </actor>
+  <actor>
+    <name>Spencer Garrett</name>
+    <role>Hal Burke</role>
+    <type>GuestStar</type>
+    <tmdbid>49275</tmdbid>
+    <imdbid>nm0308208</imdbid>
+  </actor>
+  <actor>
+    <name>Peri Gilpin</name>
+    <role>Vivian Burke</role>
+    <type>GuestStar</type>
+    <tmdbid>21703</tmdbid>
+    <imdbid>nm0004963</imdbid>
+  </actor>
+  <actor>
+    <name>Charlie DePew</name>
+    <role>Brad</role>
+    <type>GuestStar</type>
+    <tmdbid>1424715</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin McNamara</name>
+    <role>Duke</role>
+    <type>GuestStar</type>
+    <tmdbid>1720650</tmdbid>
+  </actor>
+  <actor>
+    <name>Leo Howard</name>
+    <role>Tommy Harte</role>
+    <type>GuestStar</type>
+    <tmdbid>557921</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Jun Li</name>
+    <role>Amy</role>
+    <type>GuestStar</type>
+    <tmdbid>1321015</tmdbid>
+    <imdbid>nm4050835</imdbid>
+  </actor>
+  <actor>
+    <name>Alicia Coppola</name>
+    <role>Sheila Mosconi</role>
+    <type>GuestStar</type>
+    <tmdbid>126875</tmdbid>
+  </actor>
+  <actor>
+    <name>John Patrick Kelly</name>
+    <role>Joe</role>
+    <type>GuestStar</type>
+    <tmdbid>1730990</tmdbid>
+  </actor>
+  <actor>
+    <name>Victoria Garcia-Kelleher</name>
+    <role>Gretchen Clark</role>
+    <type>GuestStar</type>
+    <tmdbid>1500108</tmdbid>
+  </actor>
+  <director>Valerie Weiss</director>
+  <rating>6</rating>
+  <year>2019</year>
+  <imdbid>tt10359252</imdbid>
+  <tvdbid>7298943</tvdbid>
+  <runtime>46</runtime>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt10359252</uniqueid>
+  <uniqueid type="Tvdb">7298943</uniqueid>
+  <episode>4</episode>
+  <season>1</season>
+  <aired>2019-09-05</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>8812032</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>45</duration>
+        <durationinseconds>2746</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,210 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[韩国，上世纪30年代，日本占领期间。一位年轻的少女（金泰璃 饰）受雇到一位富有的日本小姐（金敏喜 饰）家中当女佣。后者在一座巨大的庄园内生活，并受专横的叔叔看管。但这位女佣却有一个秘密。在一个假扮日本伯爵（河正宇 饰）的骗子的帮助下，他们为小姐设下了其他圈套……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-01-04 14:32:44</dateadded>
+  <title>小姐</title>
+  <originaltitle>아가씨</originaltitle>
+  <actor>
+    <name>Kim Min-hee</name>
+    <role>Lady Hideko</role>
+    <type>Actor</type>
+    <tmdbid>123664</tmdbid>
+    <imdbid>nm1195119</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Tae-ri</name>
+    <role>Sookee</role>
+    <type>Actor</type>
+    <tmdbid>1537768</tmdbid>
+    <imdbid>nm3892241</imdbid>
+  </actor>
+  <actor>
+    <name>Ha Jung-woo</name>
+    <role>Count Fujiwara</role>
+    <type>Actor</type>
+    <tmdbid>75913</tmdbid>
+    <imdbid>nm1978402</imdbid>
+  </actor>
+  <actor>
+    <name>Cho Jin-woong</name>
+    <role>Uncle Kouzuki</role>
+    <type>Actor</type>
+    <tmdbid>138336</tmdbid>
+    <imdbid>nm2437361</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Hae-sook</name>
+    <role>Ms. Sasaki</role>
+    <type>Actor</type>
+    <tmdbid>93252</tmdbid>
+    <imdbid>nm3482070</imdbid>
+  </actor>
+  <actor>
+    <name>Moon So-ri</name>
+    <role>Aunt of Noble Lady</role>
+    <type>Actor</type>
+    <tmdbid>83122</tmdbid>
+    <imdbid>nm0600668</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Yong-nyeo</name>
+    <role>Bok-soon</role>
+    <type>Actor</type>
+    <tmdbid>557743</tmdbid>
+    <imdbid>nm1079857</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Dong-hwi</name>
+    <role>Goo-gai</role>
+    <type>Actor</type>
+    <tmdbid>1418580</tmdbid>
+    <imdbid>nm6771561</imdbid>
+  </actor>
+  <actor>
+    <name>Jo Eun-hyung</name>
+    <role>Young Hideko</role>
+    <type>Actor</type>
+    <tmdbid>1993723</tmdbid>
+    <imdbid>nm8621197</imdbid>
+  </actor>
+  <actor>
+    <name>Han Ha-na</name>
+    <role>Junko</role>
+    <type>Actor</type>
+    <tmdbid>2124000</tmdbid>
+    <imdbid>nm8621198</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Kyu-jung</name>
+    <role>Maid 1</role>
+    <type>Actor</type>
+    <tmdbid>2124004</tmdbid>
+    <imdbid>nm8621199</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Si-eun</name>
+    <role>Maid 2</role>
+    <type>Actor</type>
+    <tmdbid>1606060</tmdbid>
+  </actor>
+  <actor>
+    <name>Ha Si-yeon</name>
+    <role>Maid 3</role>
+    <type>Actor</type>
+    <tmdbid>2123998</tmdbid>
+    <imdbid>nm8621200</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Eun-yeong</name>
+    <role>Maid 4</role>
+    <type>Actor</type>
+    <tmdbid>2124002</tmdbid>
+    <imdbid>nm2491885</imdbid>
+  </actor>
+  <actor>
+    <name>Jeong Ha-dam</name>
+    <role>Maid 5</role>
+    <type>Actor</type>
+    <tmdbid>1576059</tmdbid>
+    <imdbid>nm6844249</imdbid>
+  </actor>
+  <actor>
+    <name>Kim In-woo</name>
+    <role>Audience Member</role>
+    <type>Actor</type>
+    <tmdbid>1830800</tmdbid>
+    <imdbid>nm6844576</imdbid>
+  </actor>
+  <actor>
+    <name>Seon Uk-hyeon</name>
+    <role>Port clerk</role>
+    <type>Actor</type>
+    <tmdbid>2205137</tmdbid>
+  </actor>
+  <actor>
+    <name>Lim Han-bin</name>
+    <role>Boy in picture (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2477034</tmdbid>
+  </actor>
+  <director tmdbid="10099" imdbid="nm0661791">Park Chan-wook</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NoyWKl0e8FI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6sVYumzrKvs</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=whldChqCsYk</trailer>
+  <rating>8.1</rating>
+  <year>2016</year>
+  <mpaa>HK-III</mpaa>
+  <imdbid>tt4016934</imdbid>
+  <tmdbid>290098</tmdbid>
+  <premiered>2016-06-01</premiered>
+  <releasedate>2016-06-01</releasedate>
+  <criticrating>95</criticrating>
+  <runtime>139</runtime>
+  <country>South Korea</country>
+  <genre>惊悚</genre>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <studio>Moho Film</studio>
+  <studio>Yong Film</studio>
+  <studio>CJ Entertainment</studio>
+  <uniqueid type="Tmdb">290098</uniqueid>
+  <uniqueid type="Imdb">tt4016934</uniqueid>
+  <id>tt4016934</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5618568</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>25</framerate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>139</duration>
+        <durationinseconds>8345</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

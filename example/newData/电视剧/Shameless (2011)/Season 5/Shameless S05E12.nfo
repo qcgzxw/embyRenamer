@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[菲奥娜在他的旅行后与格斯重聚，但她对肖恩的友好感情变成了爱情，这一事实让她伤心欲绝。
+
+另外，弗兰克也有他自己的爱情挣扎，因为他努力让比安卡在哥斯达黎加开心！]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-16 18:11:32</dateadded>
+  <title>情歌 (加拉格版)</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Noel Fisher</name>
+    <role>Mickey Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>80352</tmdbid>
+    <imdbid>nm0279720</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Bergl</name>
+    <role>Sammi Slott</role>
+    <type>Actor</type>
+    <tmdbid>51390</tmdbid>
+    <imdbid>nm0004749</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Reilly Burke</name>
+    <role>Theo Wallace</role>
+    <type>GuestStar</type>
+    <tmdbid>108774</tmdbid>
+    <imdbid>nm0121805</imdbid>
+  </actor>
+  <actor>
+    <name>Bojana Novaković</name>
+    <role>Bianca Samson</role>
+    <type>GuestStar</type>
+    <tmdbid>81682</tmdbid>
+    <imdbid>nm0636942</imdbid>
+  </actor>
+  <actor>
+    <name>Sasha Alexander</name>
+    <role>Helene Runyon</role>
+    <type>GuestStar</type>
+    <tmdbid>64154</tmdbid>
+  </actor>
+  <actor>
+    <name>Chloe Webb</name>
+    <role>Monica Gallagher</role>
+    <type>GuestStar</type>
+    <tmdbid>43476</tmdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Bell Calloway</name>
+    <role>Carol Fisher</role>
+    <type>GuestStar</type>
+    <tmdbid>100653</tmdbid>
+  </actor>
+  <actor>
+    <name>Nichole Sakura</name>
+    <role>Amanda</role>
+    <type>GuestStar</type>
+    <tmdbid>996697</tmdbid>
+  </actor>
+  <actor>
+    <name>Luca Oriel</name>
+    <role>Derek Delgado</role>
+    <type>GuestStar</type>
+    <tmdbid>1148219</tmdbid>
+  </actor>
+  <actor>
+    <name>Kellen Michael</name>
+    <role>Chuckie Slott</role>
+    <type>GuestStar</type>
+    <tmdbid>1809024</tmdbid>
+  </actor>
+  <actor>
+    <name>Dermot Mulroney</name>
+    <role>Sean Pierce</role>
+    <type>GuestStar</type>
+    <tmdbid>20212</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Kazee</name>
+    <role>Gus Pfender</role>
+    <type>GuestStar</type>
+    <tmdbid>207062</tmdbid>
+  </actor>
+  <director>Christopher Chulack</director>
+  <rating>8.3</rating>
+  <year>2015</year>
+  <imdbid>tt3902188</imdbid>
+  <tvdbid>5006643</tvdbid>
+  <runtime>59</runtime>
+  <uniqueid type="Imdb">tt3902188</uniqueid>
+  <uniqueid type="Tvdb">5006643</uniqueid>
+  <episode>12</episode>
+  <season>5</season>
+  <aired>2015-04-05</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>9095895</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>58</duration>
+        <durationinseconds>3513</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>265-SiGMA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

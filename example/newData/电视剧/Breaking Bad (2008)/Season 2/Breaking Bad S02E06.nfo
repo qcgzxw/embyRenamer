@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Jesse 的好友 Pete 被一对吸毒的夫妻抢走了毒品；Walter 告诉 Jesse，他必须要有所长进，要不大家都会认为他和他的员工是软蛋。然而 Jesse 的执行力并不强，他发现这超出他能力范围了。Walter 的制毒过程也并不顺利。Skyler 接到 Gretchen 的电话，Walter 编的谎言不攻自破。Jesse 来到那对夫妇家中，欲追讨毒品，却遇上夫妻内讧，妻子用偷来的 ATM 机压碎了男子的头，男子当场死亡。Jesse 给警察打电话并逃离现场。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-20 18:21:19</dateadded>
+  <title>躲猫猫</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>David Ury</name>
+    <role>Spooge</role>
+    <type>GuestStar</type>
+    <tmdbid>1237876</tmdbid>
+    <imdbid>nm1352845</imdbid>
+  </actor>
+  <actor>
+    <name>Cocoa Brown</name>
+    <role>Mail Lady</role>
+    <type>GuestStar</type>
+    <tmdbid>999320</tmdbid>
+  </actor>
+  <actor>
+    <name>Dale Dickey</name>
+    <role>Spooge's Woman</role>
+    <type>GuestStar</type>
+    <tmdbid>46814</tmdbid>
+    <imdbid>nm0225460</imdbid>
+  </actor>
+  <actor>
+    <name>Carmen Serano</name>
+    <role>Carmen Molina</role>
+    <type>GuestStar</type>
+    <tmdbid>115688</tmdbid>
+    <imdbid>nm0784831</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Hecht</name>
+    <role>Gretchen Schwartz</role>
+    <type>GuestStar</type>
+    <tmdbid>14984</tmdbid>
+    <imdbid>nm0372961</imdbid>
+  </actor>
+  <actor>
+    <name>Charles Baker</name>
+    <role>Skinny Pete</role>
+    <type>GuestStar</type>
+    <tmdbid>82945</tmdbid>
+    <imdbid>nm1889973</imdbid>
+  </actor>
+  <director>Peter Medak</director>
+  <rating>8.267</rating>
+  <year>2009</year>
+  <imdbid>tt1232253</imdbid>
+  <tvdbid>438917</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <tvrageid>710919</tvrageid>
+  <uniqueid type="Imdb">tt1232253</uniqueid>
+  <uniqueid type="Tvdb">438917</uniqueid>
+  <uniqueid type="TvRage">710919</uniqueid>
+  <episode>6</episode>
+  <season>2</season>
+  <aired>2009-04-12</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9890963</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2842</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

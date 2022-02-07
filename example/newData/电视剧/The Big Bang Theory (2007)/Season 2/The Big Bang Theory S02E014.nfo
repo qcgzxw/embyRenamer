@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[小伙子们得知佩妮遇到了经济困难，谢尔顿答应借她钱，莱纳德则试图要佩妮的前男友偿还旧债。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-19 04:29:37</dateadded>
+  <title>经济渗透率</title>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Leonard Hofstadter</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>Howard Wolowitz</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Nayyar</name>
+    <role>Rajesh Koothrappali</role>
+    <type>Actor</type>
+    <tmdbid>208099</tmdbid>
+    <imdbid>nm2471798</imdbid>
+  </actor>
+  <actor>
+    <name>Sara Gilbert</name>
+    <role>Leslie Winkle</role>
+    <type>Actor</type>
+    <tmdbid>3282</tmdbid>
+    <imdbid>nm0004960</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Patrick Wade</name>
+    <role>Kurt</role>
+    <type>GuestStar</type>
+    <tmdbid>1118085</tmdbid>
+    <imdbid>nm1341438</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>6.9</rating>
+  <year>2009</year>
+  <imdbid>tt1256024</imdbid>
+  <tvdbid>428394</tvdbid>
+  <runtime>22</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>771773</tvrageid>
+  <uniqueid type="Imdb">tt1256024</uniqueid>
+  <uniqueid type="Tvdb">428394</uniqueid>
+  <uniqueid type="TvRage">771773</uniqueid>
+  <episode>14</episode>
+  <season>2</season>
+  <aired>2009-02-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1597353</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1297</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127999</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

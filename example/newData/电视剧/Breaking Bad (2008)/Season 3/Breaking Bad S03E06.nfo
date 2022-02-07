@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Walter 和 Skyler 决定离婚，Walter 搬走并且同意将来全权承担两个孩子的生活费。Walter 正式上班，新的合作伙伴是化学硕士 Gale。Gale 相当有才华，但也很呆气。Hank 苦守 Jesse，希望能查到他的房车。Hank 听说 Jesse 是 Walter 的学生，说不定 Walter 能帮忙，于是打电话向 Walter 求助。Walter 接到电话后，吓出一身冷汗，他决定销毁房车，Jesse 听说消息后，不知情的他赶来阻止 Walter，反而让 Hank 跟踪至废车场。Jesse 和 Walter 躲在车里不敢吱声，Hank 拿铁棍撬车，被停车行的人制止，要求他出示搜查证。Hank 只好打电话回警署求助。Walter 打电话找合作的律师 Saul，让他找人假扮交警给 Hank 打电话，告知 Marie 遇车祸正在抢救。Hank 接以电话后，十分紧张，径直赶往医院。Walter 和 Jesse 趁此机会销毁制毒用房车。Tuco 的两个堂兄弟誓死追杀 Walter，不过 Gus 诱导他们去杀 Hank。Hank 赶到医院后发现是个骗局，十分愤怒。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-20 18:58:28</dateadded>
+  <title>日落</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Kiesche</name>
+    <role>Clovis</role>
+    <type>GuestStar</type>
+    <tmdbid>76537</tmdbid>
+    <imdbid>nm0452622</imdbid>
+  </actor>
+  <actor>
+    <name>Frank Bond</name>
+    <role>Realtor</role>
+    <type>GuestStar</type>
+    <tmdbid>210697</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiji Hise</name>
+    <role>Mother</role>
+    <type>GuestStar</type>
+    <tmdbid>223397</tmdbid>
+    <imdbid>nm2385677</imdbid>
+  </actor>
+  <actor>
+    <name>Luis Moncada</name>
+    <role>Marco Salamanca</role>
+    <type>GuestStar</type>
+    <tmdbid>945491</tmdbid>
+    <imdbid>nm1616991</imdbid>
+  </actor>
+  <actor>
+    <name>David Costabile</name>
+    <role>Gale Boetticher</role>
+    <type>GuestStar</type>
+    <tmdbid>82167</tmdbid>
+    <imdbid>nm0182345</imdbid>
+  </actor>
+  <actor>
+    <name>Larry Hankin</name>
+    <role>Old Joe</role>
+    <type>GuestStar</type>
+    <tmdbid>11519</tmdbid>
+    <imdbid>nm0359969</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Shamus Wiles</name>
+    <role>ASAC George Merkert</role>
+    <type>GuestStar</type>
+    <tmdbid>9291</tmdbid>
+    <imdbid>nm0928795</imdbid>
+  </actor>
+  <actor>
+    <name>Tina Parker</name>
+    <role>Francesca</role>
+    <type>GuestStar</type>
+    <tmdbid>147085</tmdbid>
+    <imdbid>nm0662669</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Jones</name>
+    <role>Badger</role>
+    <type>GuestStar</type>
+    <tmdbid>191202</tmdbid>
+    <imdbid>nm2804503</imdbid>
+  </actor>
+  <actor>
+    <name>Charles Baker</name>
+    <role>Skinny Pete</role>
+    <type>GuestStar</type>
+    <tmdbid>82945</tmdbid>
+    <imdbid>nm1889973</imdbid>
+  </actor>
+  <director>John Shiban</director>
+  <rating>8.587</rating>
+  <year>2010</year>
+  <imdbid>tt1615556</imdbid>
+  <tvdbid>2062371</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <tvrageid>1064907501</tvrageid>
+  <uniqueid type="Imdb">tt1615556</uniqueid>
+  <uniqueid type="Tvdb">2062371</uniqueid>
+  <uniqueid type="TvRage">1064907501</uniqueid>
+  <episode>6</episode>
+  <season>3</season>
+  <aired>2010-04-25</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9938000</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2833</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[派出所年轻民警丁小田抓捕电信诈骗罪犯，与警方电信诈骗专案组不谋而合，专案组已经派出女特警小兔，混入远在泰国阿海与阿芳的骗子团队搜集证据，丁小田与卧底女特警小兔密切配合，与阿海、阿芳诈骗集团展开扣人心弦的反诈智斗，逐步掌握了犯罪团伙的诈骗各个环节机密与证据，但同时阿海也与人立下30天骗下1亿人民币惊天赌约，多位商业巨贾及大量老百姓卷入其中……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-04-03 07:47:57</dateadded>
+  <title>巨额来电</title>
+  <originaltitle>巨额来电</originaltitle>
+  <actor>
+    <name>Gwei Lun-mei</name>
+    <role>Liu Lifang</role>
+    <type>Actor</type>
+    <tmdbid>85962</tmdbid>
+    <imdbid>nm1251565</imdbid>
+  </actor>
+  <actor>
+    <name>Zhang Xiaoquan</name>
+    <role>Lin Yahai</role>
+    <type>Actor</type>
+    <tmdbid>126717</tmdbid>
+    <imdbid>nm2432847</imdbid>
+  </actor>
+  <actor>
+    <name>Chen Xuedong</name>
+    <role>Ding Xiatiang</role>
+    <type>Actor</type>
+    <tmdbid>1193310</tmdbid>
+    <imdbid>nm7181232</imdbid>
+  </actor>
+  <actor>
+    <name>Eddie Cheung</name>
+    <type>Actor</type>
+    <tmdbid>72732</tmdbid>
+    <imdbid>nm0156567</imdbid>
+  </actor>
+  <actor>
+    <name>Jiang Mengjie</name>
+    <role>Xu Xiaotu</role>
+    <type>Actor</type>
+    <tmdbid>1716601</tmdbid>
+    <imdbid>nm3137610</imdbid>
+  </actor>
+  <actor>
+    <name>Jiang Chao</name>
+    <type>Actor</type>
+    <tmdbid>235521</tmdbid>
+    <imdbid>nm3254401</imdbid>
+  </actor>
+  <director tmdbid="31033" imdbid="nm0161152">Oxide Pang Chun</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=685ynVLLd2o</trailer>
+  <rating>5.6</rating>
+  <year>2017</year>
+  <imdbid>tt7039862</imdbid>
+  <tmdbid>481563</tmdbid>
+  <premiered>2017-12-08</premiered>
+  <releasedate>2017-12-08</releasedate>
+  <runtime>123</runtime>
+  <country>Hong Kong</country>
+  <country>China</country>
+  <genre>惊悚</genre>
+  <genre>动作</genre>
+  <studio>Universe Entertainment</studio>
+  <uniqueid type="Tmdb">481563</uniqueid>
+  <uniqueid type="Imdb">tt7039862</uniqueid>
+  <id>tt7039862</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2888836</bitrate>
+        <width>1920</width>
+        <height>808</height>
+        <aspect>240:101</aspect>
+        <aspectratio>240:101</aspectratio>
+        <framerate>23.809525</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>122</duration>
+        <durationinseconds>7370</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

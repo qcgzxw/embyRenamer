@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[关于阿片类药物世界的三个故事发生了冲突：一个毒贩在加拿大和美国之间安排了多卡特尔的芬太尼走私行动，一名从OxyContin瘾中恢复过来的建筑师追查了她儿子参与麻醉品活动的真相，以及一位大学教授为突如其来的斗争而奋斗 关于他的研究雇主的启示，他是一家具有深厚政府影响力的制药公司，将一种新型的“非成瘾性”止痛药推向市场。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-09 12:54:40</dateadded>
+  <title>危机</title>
+  <originaltitle>Crisis</originaltitle>
+  <actor>
+    <name>Gary Oldman</name>
+    <role>Dr. Tyrone Brower</role>
+    <type>Actor</type>
+    <tmdbid>64</tmdbid>
+    <imdbid>nm0000198</imdbid>
+  </actor>
+  <actor>
+    <name>Armie Hammer</name>
+    <role>Jake Kahane</role>
+    <type>Actor</type>
+    <tmdbid>53807</tmdbid>
+    <imdbid>nm2309517</imdbid>
+  </actor>
+  <actor>
+    <name>Evangeline Lilly</name>
+    <role>Claire Reimann</role>
+    <type>Actor</type>
+    <tmdbid>19034</tmdbid>
+    <imdbid>nm1431940</imdbid>
+  </actor>
+  <actor>
+    <name>Greg Kinnear</name>
+    <role>Dean Geoff Talbot</role>
+    <type>Actor</type>
+    <tmdbid>17141</tmdbid>
+    <imdbid>nm0001427</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Rodriguez</name>
+    <role>Supervisor Garrett</role>
+    <type>Actor</type>
+    <tmdbid>17647</tmdbid>
+    <imdbid>nm0735442</imdbid>
+  </actor>
+  <actor>
+    <name>Luke Evans</name>
+    <role>Bill Simmons</role>
+    <type>Actor</type>
+    <tmdbid>114019</tmdbid>
+  </actor>
+  <actor>
+    <name>Lily-Rose Depp</name>
+    <role>Emmie Kelly</role>
+    <type>Actor</type>
+    <tmdbid>1459885</tmdbid>
+  </actor>
+  <actor>
+    <name>Kid Cudi</name>
+    <role>Ben Walker</role>
+    <type>Actor</type>
+    <tmdbid>484359</tmdbid>
+    <imdbid>nm3264596</imdbid>
+  </actor>
+  <actor>
+    <name>Veronica Ferres</name>
+    <role>Meg Holmes</role>
+    <type>Actor</type>
+    <tmdbid>23524</tmdbid>
+  </actor>
+  <actor>
+    <name>Mia Kirshner</name>
+    <role>Susan</role>
+    <type>Actor</type>
+    <tmdbid>18658</tmdbid>
+  </actor>
+  <actor>
+    <name>Indira Varma</name>
+    <role>Madira Brower</role>
+    <type>Actor</type>
+    <tmdbid>30430</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Donovan</name>
+    <role>Lawrence Morgan</role>
+    <type>Actor</type>
+    <tmdbid>42993</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Aronov</name>
+    <role>Minas</role>
+    <type>Actor</type>
+    <tmdbid>126686</tmdbid>
+  </actor>
+  <actor>
+    <name>Toni Garrn</name>
+    <role>Sarah</role>
+    <type>Actor</type>
+    <tmdbid>1679828</tmdbid>
+  </actor>
+  <actor>
+    <name>Hamza Haq</name>
+    <role>Manager</role>
+    <type>Actor</type>
+    <tmdbid>1652138</tmdbid>
+  </actor>
+  <actor>
+    <name>John Ralston</name>
+    <role>FDA Chairman</role>
+    <type>Actor</type>
+    <tmdbid>33343</tmdbid>
+  </actor>
+  <actor>
+    <name>Ellora Torchia</name>
+    <role>Reeva</role>
+    <type>Actor</type>
+    <tmdbid>1457454</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Tsekhman</name>
+    <role>Armen</role>
+    <type>Actor</type>
+    <tmdbid>476556</tmdbid>
+  </actor>
+  <actor>
+    <name>Sara Sampaio</name>
+    <role>Inez</role>
+    <type>Actor</type>
+    <tmdbid>1400745</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Jarecki</name>
+    <role>Stanley Foster</role>
+    <type>Actor</type>
+    <tmdbid>81856</tmdbid>
+    <imdbid>nm1906430</imdbid>
+  </actor>
+  <actor>
+    <name>Éric Bruneau</name>
+    <role>Guy Parent</role>
+    <type>Actor</type>
+    <tmdbid>559582</tmdbid>
+  </actor>
+  <actor>
+    <name>Duke Nicholson</name>
+    <role>Derrick Millebran</role>
+    <type>Actor</type>
+    <tmdbid>1605467</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Jun</name>
+    <role>Shimon</role>
+    <type>Actor</type>
+    <tmdbid>1872281</tmdbid>
+  </actor>
+  <actor>
+    <name>Benz Antoine</name>
+    <role>Detective Carson</role>
+    <type>Actor</type>
+    <tmdbid>80178</tmdbid>
+  </actor>
+  <actor>
+    <name>Kwasi Songui</name>
+    <role>Red</role>
+    <type>Actor</type>
+    <tmdbid>207881</tmdbid>
+  </actor>
+  <actor>
+    <name>Ayesha Mansur Gonsalves</name>
+    <role>Female Collegue</role>
+    <type>Actor</type>
+    <tmdbid>2019625</tmdbid>
+  </actor>
+  <actor>
+    <name>Raphaël Roberge</name>
+    <role>Simon's Friend</role>
+    <type>Actor</type>
+    <tmdbid>2324149</tmdbid>
+  </actor>
+  <actor>
+    <name>Meghan Allen</name>
+    <role>Immigration Officer</role>
+    <type>Actor</type>
+    <tmdbid>1849337</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Cavalier</name>
+    <role>Private Investigator</role>
+    <type>Actor</type>
+    <tmdbid>30617</tmdbid>
+  </actor>
+  <actor>
+    <name>Maurizio Terrazzano</name>
+    <role>DPD Officer 2</role>
+    <type>Actor</type>
+    <tmdbid>125686</tmdbid>
+  </actor>
+  <actor>
+    <name>Dawn Ford</name>
+    <role>Tenure Chairwoman</role>
+    <type>Actor</type>
+    <tmdbid>1091868</tmdbid>
+  </actor>
+  <actor>
+    <name>Kareem Tristan Alleyne</name>
+    <role>DEA Staff #1</role>
+    <type>Actor</type>
+    <tmdbid>2392633</tmdbid>
+  </actor>
+  <actor>
+    <name>Russell Yuen</name>
+    <role>FDA Member</role>
+    <type>Actor</type>
+    <tmdbid>29466</tmdbid>
+    <imdbid>nm0004067</imdbid>
+  </actor>
+  <actor>
+    <name>Kenny Wong</name>
+    <role>DEA Staff #2</role>
+    <type>Actor</type>
+    <tmdbid>1789637</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcel Jeannin</name>
+    <role>Harold Morgan</role>
+    <type>Actor</type>
+    <tmdbid>143395</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Costa</name>
+    <role>Rehab Attendant</role>
+    <type>Actor</type>
+    <tmdbid>1548737</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlo Mestroni</name>
+    <role>Morgue Doctor</role>
+    <type>Actor</type>
+    <tmdbid>115595</tmdbid>
+  </actor>
+  <actor>
+    <name>Sabrina Campilii</name>
+    <role>Cashier - Supermarket</role>
+    <type>Actor</type>
+    <tmdbid>1684365</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate McIninch</name>
+    <role>FDA Committee Member</role>
+    <type>Actor</type>
+    <tmdbid>1835484</tmdbid>
+  </actor>
+  <actor>
+    <name>Rodney Alexandre</name>
+    <role>Frankie</role>
+    <type>Actor</type>
+    <tmdbid>1510496</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalie Liconti</name>
+    <role>Girl with Piercings</role>
+    <type>Actor</type>
+    <tmdbid>2391938</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Ebbs</name>
+    <role>Franklin</role>
+    <type>Actor</type>
+    <tmdbid>1542593</tmdbid>
+  </actor>
+  <actor>
+    <name>Sébastien Beaulac</name>
+    <role>Heavy Looking Driver</role>
+    <type>Actor</type>
+    <tmdbid>1335625</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Champagne</name>
+    <role>Cedric Beauville</role>
+    <type>Actor</type>
+    <tmdbid>2392635</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Chevery</name>
+    <role>Agent E.Thomas</role>
+    <type>Actor</type>
+    <tmdbid>2250326</tmdbid>
+  </actor>
+  <actor>
+    <name>Noah Ruscica</name>
+    <role>Simon Gilcrest</role>
+    <type>Actor</type>
+    <tmdbid>2207956</tmdbid>
+  </actor>
+  <actor>
+    <name>Billy Bryk</name>
+    <role>David Reimann</role>
+    <type>Actor</type>
+    <tmdbid>2682376</tmdbid>
+  </actor>
+  <actor>
+    <name>Ivan Peric</name>
+    <role>RCMP Detective</role>
+    <type>Actor</type>
+    <tmdbid>2923375</tmdbid>
+  </actor>
+  <actor>
+    <name>Guy Nadon</name>
+    <role>Mother</role>
+    <type>Actor</type>
+    <tmdbid>143168</tmdbid>
+  </actor>
+  <director tmdbid="81856" imdbid="nm1906430">Nicholas Jarecki</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=36ACqc0OHGQ</trailer>
+  <rating>6.1</rating>
+  <year>2021</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt9731682</imdbid>
+  <tmdbid>580532</tmdbid>
+  <premiered>2021-02-26</premiered>
+  <releasedate>2021-02-26</releasedate>
+  <criticrating>66</criticrating>
+  <runtime>119</runtime>
+  <country>Belgium</country>
+  <country>Canada</country>
+  <genre>惊悚</genre>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <studio>Bideford Productions</studio>
+  <studio>Burn Later Productions</studio>
+  <studio>Construction Film</studio>
+  <studio>Green Room Films</studio>
+  <studio>Matisse Pictures</studio>
+  <studio>Tuesday Films</studio>
+  <studio>Les Productions LOD</studio>
+  <studio>Paradise City Films</studio>
+  <uniqueid type="Tmdb">580532</uniqueid>
+  <uniqueid type="Imdb">tt9731682</uniqueid>
+  <id>tt9731682</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11339617</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>118</duration>
+        <durationinseconds>7116</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChS&amp;En</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

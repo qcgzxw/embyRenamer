@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[《浴血黑帮》讲述了战后伯明翰地区传奇黑帮家族Peaky Blinders的故事。时间要追溯到1919年，家族成员有一大嗜好，就是将剃刀刀片缝进他们帽子的帽檐之间，这也是“剃刀党”的名称由来。斯里安·墨菲将饰演一名残酷的黑帮份子Tommy Shelby ，是家族兄弟的领袖，嗜血无情。在那个时代，退伍军人、革命者和罪犯，都在社会底层挣扎生存。而当贝尔法斯特的警方负责人开始介入时，Tommy和他的黑帮势力制造出的恐怖统治开始了倾斜。]]></plot>
+  <outline><![CDATA[《浴血黑帮》讲述了战后伯明翰地区传奇黑帮家族Peaky Blinders的故事。时间要追溯到1919年，家族成员有一大嗜好，就是将剃刀刀片缝进他们帽子的帽檐之间，这也是“剃刀党”的名称由来。斯里安·墨菲将饰演一名残酷的黑帮份子Tommy Shelby ，是家族兄弟的领袖，嗜血无情。在那个时代，退伍军人、革命者和罪犯，都在社会底层挣扎生存。而当贝尔法斯特的警方负责人开始介入时，Tommy和他的黑帮势力制造出的恐怖统治开始了倾斜。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-05-24 13:39:43</dateadded>
+  <title>浴血黑帮</title>
+  <originaltitle>Peaky Blinders</originaltitle>
+  <actor>
+    <name>Cillian Murphy</name>
+    <role>Tommy Shelby</role>
+    <type>Actor</type>
+    <tmdbid>2037</tmdbid>
+    <imdbid>nm0614165</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Anderson</name>
+    <role>Arthur Shelby</role>
+    <type>Actor</type>
+    <tmdbid>220448</tmdbid>
+    <imdbid>nm2167957</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Claflin</name>
+    <role>Oswald Mosley</role>
+    <type>Actor</type>
+    <tmdbid>237455</tmdbid>
+    <imdbid>nm3510471</imdbid>
+  </actor>
+  <actor>
+    <name>Finn Cole</name>
+    <role>Michael Gray</role>
+    <type>Actor</type>
+    <tmdbid>1508313</tmdbid>
+    <imdbid>nm6806440</imdbid>
+  </actor>
+  <actor>
+    <name>Anya Taylor-Joy</name>
+    <role>Gina Gray</role>
+    <type>Actor</type>
+    <tmdbid>1397778</tmdbid>
+    <imdbid>nm5896355</imdbid>
+  </actor>
+  <actor>
+    <name>Helen McCrory</name>
+    <role>Polly Gray</role>
+    <type>Actor</type>
+    <tmdbid>15737</tmdbid>
+    <imdbid>nm0567031</imdbid>
+  </actor>
+  <actor>
+    <name>Sophie Rundle</name>
+    <role>Ada Shelby</role>
+    <type>Actor</type>
+    <tmdbid>1088620</tmdbid>
+    <imdbid>nm2570706</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Phillips</name>
+    <role>Linda Shelby</role>
+    <type>Actor</type>
+    <tmdbid>1392625</tmdbid>
+    <imdbid>nm2669186</imdbid>
+  </actor>
+  <actor>
+    <name>Harry Kirton</name>
+    <role>Finn Shelby</role>
+    <type>Actor</type>
+    <tmdbid>1839855</tmdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=Ruyl8_PT_y8</trailer>
+  <trailer>http://www.youtube.com/watch?v=whgdkjDJAjg</trailer>
+  <trailer>http://www.youtube.com/watch?v=_zCZRnmupXY</trailer>
+  <trailer>http://www.youtube.com/watch?v=t5D4-nTAWLY</trailer>
+  <trailer>http://www.youtube.com/watch?v=uIJ07Wg5i0k</trailer>
+  <trailer>http://www.youtube.com/watch?v=EM12mcTEI88</trailer>
+  <rating>8.6</rating>
+  <year>2013</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt2442560</imdb_id>
+  <tmdbid>60574</tmdbid>
+  <premiered>2013-09-12</premiered>
+  <releasedate>2013-09-12</releasedate>
+  <runtime>60</runtime>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <studio>BBC One</studio>
+  <studio>BBC Two</studio>
+  <zap2itid>SH01804499</zap2itid>
+  <tvrageid>37240</tvrageid>
+  <uniqueid type="Imdb">tt2442560</uniqueid>
+  <uniqueid type="Tmdb">60574</uniqueid>
+  <uniqueid type="Zap2It">SH01804499</uniqueid>
+  <uniqueid type="Tvdb">270915</uniqueid>
+  <tvdbid>270915</tvdbid>
+  <uniqueid type="TvRage">37240</uniqueid>
+  <id>270915</id>
+  <episodeguide>
+    <url cache="270915.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/270915/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

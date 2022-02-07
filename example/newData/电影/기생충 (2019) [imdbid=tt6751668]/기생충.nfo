@@ -1,0 +1,331 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[基宇（崔宇植 饰）出生在一个贫穷的家庭之中，和妹妹基婷（朴素丹 饰）以及父母在狭窄的地下室里过着相依为命的日子。一天，基宇的同学上门拜访，他告诉基宇，自己在一个有钱人家里给他们的女儿做家教，太太是一个头脑简单出手又阔绰的女人，因为自己要出国留学，所以将家教的职位暂时转交给基宇。就这样，基宇来到了朴社长（李善均 饰）家中，并且见到了他的太太（赵汝贞 饰），没过多久，基宇的妹妹和父母也如同寄生虫一般的进入了朴社长家里工作。然而，他们的野心并没有止步于此，基宇更是和大小姐坠入了爱河。随着时间的推移，朴社长家里隐藏的秘密渐渐浮出了水面。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-08-10 00:35:26</dateadded>
+  <title>寄生虫</title>
+  <originaltitle>기생충</originaltitle>
+  <actor>
+    <name>Song Kang-ho</name>
+    <role>Kim Ki-taek</role>
+    <type>Actor</type>
+    <tmdbid>20738</tmdbid>
+    <imdbid>nm0814280</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Sun-kyun</name>
+    <role>Park Dong-ik</role>
+    <type>Actor</type>
+    <tmdbid>115290</tmdbid>
+    <imdbid>nm1310525</imdbid>
+  </actor>
+  <actor>
+    <name>Cho Yeo-jeong</name>
+    <role>Yeon-kyo</role>
+    <type>Actor</type>
+    <tmdbid>556435</tmdbid>
+    <imdbid>nm1856097</imdbid>
+  </actor>
+  <actor>
+    <name>Choi Woo-shik</name>
+    <role>Ki-woo</role>
+    <type>Actor</type>
+    <tmdbid>1255881</tmdbid>
+    <imdbid>nm6079248</imdbid>
+  </actor>
+  <actor>
+    <name>Park So-dam</name>
+    <role>Ki-jung</role>
+    <type>Actor</type>
+    <tmdbid>1442583</tmdbid>
+    <imdbid>nm6524394</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Jung-eun</name>
+    <role>Moon-gwang</role>
+    <type>Actor</type>
+    <tmdbid>1572354</tmdbid>
+    <imdbid>nm7553003</imdbid>
+  </actor>
+  <actor>
+    <name>Chang Hyae-jin</name>
+    <role>Chung-sook</role>
+    <type>Actor</type>
+    <tmdbid>2158882</tmdbid>
+    <imdbid>nm10180600</imdbid>
+  </actor>
+  <actor>
+    <name>Park Myung-hoon</name>
+    <role>Geun-se</role>
+    <type>Actor</type>
+    <tmdbid>1694435</tmdbid>
+    <imdbid>nm6672111</imdbid>
+  </actor>
+  <actor>
+    <name>Jung Ji-so</name>
+    <role>Da-hye</role>
+    <type>Actor</type>
+    <tmdbid>1418762</tmdbid>
+    <imdbid>nm7616095</imdbid>
+  </actor>
+  <actor>
+    <name>Jung Hyeon-jun</name>
+    <role>Da-song</role>
+    <type>Actor</type>
+    <tmdbid>2306987</tmdbid>
+    <imdbid>nm10700274</imdbid>
+  </actor>
+  <actor>
+    <name>Park Keun-rok</name>
+    <role>Driver Yoon</role>
+    <type>Actor</type>
+    <tmdbid>1709230</tmdbid>
+    <imdbid>nm4522499</imdbid>
+  </actor>
+  <actor>
+    <name>Jung Yi-seo</name>
+    <role>Pizza manager</role>
+    <type>Actor</type>
+    <tmdbid>2326809</tmdbid>
+  </actor>
+  <actor>
+    <name>Cho Jae-myung</name>
+    <role>Pizza man</role>
+    <type>Actor</type>
+    <tmdbid>2478772</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeong Ik-han</name>
+    <role>Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>2326615</tmdbid>
+    <imdbid>nm10215504</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Gyu-baek</name>
+    <role>Drunk 1</role>
+    <type>Actor</type>
+    <tmdbid>2478781</tmdbid>
+    <imdbid>nm11044243</imdbid>
+  </actor>
+  <actor>
+    <name>Ahn Seong-bong</name>
+    <role>Street man</role>
+    <type>Actor</type>
+    <tmdbid>2379047</tmdbid>
+    <imdbid>nm9086195</imdbid>
+  </actor>
+  <actor>
+    <name>Yoon Young-woo</name>
+    <role>Benz Dealer</role>
+    <type>Actor</type>
+    <tmdbid>2499966</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Jae-wook</name>
+    <role>VR Specialist</role>
+    <type>Actor</type>
+    <tmdbid>1419705</tmdbid>
+    <imdbid>nm1176304</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Dong-yong</name>
+    <role>Drunk 2</role>
+    <type>Actor</type>
+    <tmdbid>2538180</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeon Eun-mi</name>
+    <role>Mart cashier</role>
+    <type>Actor</type>
+    <tmdbid>2538209</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Geon</name>
+    <role>Party man</role>
+    <type>Actor</type>
+    <tmdbid>2114604</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Joo-hyung</name>
+    <role>Party man</role>
+    <type>Actor</type>
+    <tmdbid>1537955</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Ji-hye</name>
+    <role>A Singer</role>
+    <type>Actor</type>
+    <tmdbid>2320125</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Bo-ryeong</name>
+    <role>Cellist</role>
+    <type>Actor</type>
+    <tmdbid>1895563</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Hye-sook</name>
+    <role>Party woman</role>
+    <type>Actor</type>
+    <tmdbid>2479225</tmdbid>
+  </actor>
+  <actor>
+    <name>Baek Seung-hwan</name>
+    <role>Party man</role>
+    <type>Actor</type>
+    <tmdbid>2479219</tmdbid>
+  </actor>
+  <actor>
+    <name>Riccardo Ferraresso</name>
+    <role>Italy Chef</role>
+    <type>Actor</type>
+    <tmdbid>2478778</tmdbid>
+  </actor>
+  <actor>
+    <name>Ko Kwan-jae</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>2478782</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Si-hoon</name>
+    <role>Detective</role>
+    <type>Actor</type>
+    <tmdbid>2478780</tmdbid>
+  </actor>
+  <actor>
+    <name>Seo Bok-hyeon</name>
+    <role>JTBC Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2478774</tmdbid>
+  </actor>
+  <actor>
+    <name>Shim Soo-mi</name>
+    <role>JTBC Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2478775</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoon Hye-ree</name>
+    <role>JTBC Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2141187</tmdbid>
+    <imdbid>nm10410054</imdbid>
+  </actor>
+  <actor>
+    <name>Andreas Fronk</name>
+    <role>German father</role>
+    <type>Actor</type>
+    <tmdbid>1835700</tmdbid>
+    <imdbid>nm9069396</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Elisabeth Rihlmann</name>
+    <role>German mother</role>
+    <type>Actor</type>
+    <tmdbid>2320126</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosie Peralta</name>
+    <role>Southeast asian housekeeper</role>
+    <type>Actor</type>
+    <tmdbid>2478779</tmdbid>
+  </actor>
+  <actor>
+    <name>Shin Seung-min</name>
+    <role>Namgung Hyun-ja</role>
+    <type>Actor</type>
+    <tmdbid>2478777</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Seo-jun</name>
+    <role>Min-hyuk</role>
+    <type>Actor</type>
+    <tmdbid>1347525</tmdbid>
+    <imdbid>nm6124994</imdbid>
+  </actor>
+  <actor>
+    <name>Kwak Sin-ae</name>
+    <role>Judge (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2187912</tmdbid>
+    <imdbid>nm10113618</imdbid>
+  </actor>
+  <director tmdbid="21684" imdbid="nm0094435">Bong Joon-ho</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=isOGD_7hNIY</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PhPROyE0OaM</trailer>
+  <rating>8.6</rating>
+  <year>2019</year>
+  <mpaa>HK-IIB</mpaa>
+  <imdbid>tt6751668</imdbid>
+  <tmdbid>496243</tmdbid>
+  <premiered>2019-05-30</premiered>
+  <releasedate>2019-05-30</releasedate>
+  <criticrating>98</criticrating>
+  <runtime>132</runtime>
+  <country>South Korea</country>
+  <genre>喜剧</genre>
+  <genre>惊悚</genre>
+  <genre>剧情</genre>
+  <studio>Barunson E&amp;A</studio>
+  <studio>CJ Entertainment</studio>
+  <uniqueid type="Tmdb">496243</uniqueid>
+  <uniqueid type="Imdb">tt6751668</uniqueid>
+  <id>tt6751668</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5121682</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.97615</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>132</duration>
+        <durationinseconds>7922</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ssa</codec>
+        <micodec>ssa</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

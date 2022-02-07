@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[本剧根据英国同名剧集改编。 本剧主演 William H. Macy 曾获得艾美奖。
+
+拥有有六个孩子的单身父亲 Frank（威廉姆·H·梅西 William H. Macy 饰）和孩子们生活在周围到处是酒鬼、乞丐和罪犯的最底层社区。
+
+他收入不高，整天酗酒，根本不管儿女们的死活，不到20岁的大女儿 Fiona（埃米·罗森 Emmy Rossum 饰）不得不承担起照顾五个弟妹以及养家糊口的责任。
+
+跨过宿醉的父亲的身体争抢着偷来的早餐；凌晨4点大开着摇滚乐狂欢；纵容邻居在他们的楼梯上做爱；这个热闹非凡的家庭忙碌、自由、无法无天、充满冒险。
+
+他们拥有的不多，但他们懂得生活中最重要的是什么……]]></plot>
+  <outline><![CDATA[本剧根据英国同名剧集改编。 本剧主演 William H. Macy 曾获得艾美奖。
+
+拥有有六个孩子的单身父亲 Frank（威廉姆·H·梅西 William H. Macy 饰）和孩子们生活在周围到处是酒鬼、乞丐和罪犯的最底层社区。
+
+他收入不高，整天酗酒，根本不管儿女们的死活，不到20岁的大女儿 Fiona（埃米·罗森 Emmy Rossum 饰）不得不承担起照顾五个弟妹以及养家糊口的责任。
+
+跨过宿醉的父亲的身体争抢着偷来的早餐；凌晨4点大开着摇滚乐狂欢；纵容邻居在他们的楼梯上做爱；这个热闹非凡的家庭忙碌、自由、无法无天、充满冒险。
+
+他们拥有的不多，但他们懂得生活中最重要的是什么……]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-17 06:07:43</dateadded>
+  <title>无耻之徒</title>
+  <originaltitle>Shameless</originaltitle>
+  <trailer>http://www.youtube.com/watch?v=CHstRRD_8LE</trailer>
+  <trailer>http://www.youtube.com/watch?v=-7QA-uMAiLw</trailer>
+  <rating>8.6</rating>
+  <year>2011</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt1586680</imdb_id>
+  <tmdbid>34307</tmdbid>
+  <premiered>2011-01-09</premiered>
+  <releasedate>2011-01-09</releasedate>
+  <criticrating>38</criticrating>
+  <runtime>60</runtime>
+  <genre>剧情</genre>
+  <genre>喜剧</genre>
+  <studio>Showtime</studio>
+  <zap2itid>SH01347868</zap2itid>
+  <tvrageid>25117</tvrageid>
+  <tvdbid>161511</tvdbid>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Noel Fisher</name>
+    <role>Mickey Milkovich</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Christian Isaiah</name>
+    <role>Liam Gallagher</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kate Miner</name>
+    <role>Tami Tamietti</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Paris Newton</name>
+    <role>Franny Gallagher</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Scott Michael Campbell</name>
+    <role>Brad</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Elise Eberle</name>
+    <role>Sandy Milkovich</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Dennis Cockrum</name>
+    <role>Terry Milkovich</role>
+    <type>Actor</type>
+  </actor>
+  <id>161511</id>
+  <episodeguide>
+    <url cache="161511.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/161511/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

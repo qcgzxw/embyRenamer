@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[托比，一个愤世嫉俗的广告导演，发现自己陷入了一个古代西班牙鞋匠的荒唐幻想中，他相信自己就是堂吉诃德。在他们越来越超现实的冒险过程中，托比被迫直面他 在青年时代拍摄的一部电影的悲剧性后果——这部电影永远地改变了一个西班牙小村庄的希望和梦想。托比能补偿并找回初心吗?堂吉诃德能在他的疯狂和即将来临的死亡中幸存吗?爱情能战胜一切吗?]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-01-21 05:37:44</dateadded>
+  <title>这个男人来自疯狂世界</title>
+  <originaltitle>The Man Who Killed Don Quixote</originaltitle>
+  <actor>
+    <name>Adam Driver</name>
+    <role>Toby</role>
+    <type>Actor</type>
+    <tmdbid>1023139</tmdbid>
+    <imdbid>nm3485845</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Pryce</name>
+    <role>Don Quixote</role>
+    <type>Actor</type>
+    <tmdbid>378</tmdbid>
+    <imdbid>nm0000596</imdbid>
+  </actor>
+  <actor>
+    <name>Stellan Skarsgård</name>
+    <role>The Boss</role>
+    <type>Actor</type>
+    <tmdbid>1640</tmdbid>
+    <imdbid>nm0001745</imdbid>
+  </actor>
+  <actor>
+    <name>Jordi Mollà</name>
+    <role>Alexei Miiskin</role>
+    <type>Actor</type>
+    <tmdbid>31384</tmdbid>
+    <imdbid>nm0003244</imdbid>
+  </actor>
+  <actor>
+    <name>Joana Ribeiro</name>
+    <role>Angelica</role>
+    <type>Actor</type>
+    <tmdbid>1686493</tmdbid>
+    <imdbid>nm4940278</imdbid>
+  </actor>
+  <actor>
+    <name>Óscar Jaenada</name>
+    <role>Gitano</role>
+    <type>Actor</type>
+    <tmdbid>59129</tmdbid>
+    <imdbid>nm1049982</imdbid>
+  </actor>
+  <actor>
+    <name>Olga Kurylenko</name>
+    <role>Jacqui</role>
+    <type>Actor</type>
+    <tmdbid>18182</tmdbid>
+    <imdbid>nm1385871</imdbid>
+  </actor>
+  <actor>
+    <name>Rossy de Palma</name>
+    <type>Actor</type>
+    <tmdbid>25258</tmdbid>
+    <imdbid>nm0658041</imdbid>
+  </actor>
+  <actor>
+    <name>Sergi López</name>
+    <type>Actor</type>
+    <tmdbid>16972</tmdbid>
+    <imdbid>nm0530365</imdbid>
+  </actor>
+  <actor>
+    <name>Paloma Bloyd</name>
+    <role>Melissa</role>
+    <type>Actor</type>
+    <tmdbid>1149826</tmdbid>
+    <imdbid>nm2851377</imdbid>
+  </actor>
+  <actor>
+    <name>Lídia Franco</name>
+    <role>Panicky Woman 1</role>
+    <type>Actor</type>
+    <tmdbid>941261</tmdbid>
+    <imdbid>nm0290593</imdbid>
+  </actor>
+  <actor>
+    <name>Bruno Schiappa</name>
+    <role>Police Chief</role>
+    <type>Actor</type>
+    <tmdbid>1675456</tmdbid>
+  </actor>
+  <actor>
+    <name>Terry Gilliam</name>
+    <role>Giant #2 (Voice)</role>
+    <type>Actor</type>
+    <tmdbid>280</tmdbid>
+    <imdbid>nm0000416</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Watkins</name>
+    <role>Rupert</role>
+    <type>Actor</type>
+    <tmdbid>63608</tmdbid>
+    <imdbid>nm0914327</imdbid>
+  </actor>
+  <actor>
+    <name>Maria d'Aires</name>
+    <role>Panicky Woman 2</role>
+    <type>Actor</type>
+    <tmdbid>933185</tmdbid>
+    <imdbid>nm0194916</imdbid>
+  </actor>
+  <actor>
+    <name>Jorge Calvo</name>
+    <role>Sancho Panza (B&amp;W Film)</role>
+    <type>Actor</type>
+    <tmdbid>110130</tmdbid>
+    <imdbid>nm0130948</imdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Castro</name>
+    <role>Toby's Cameraman (B&amp;W Film)</role>
+    <type>Actor</type>
+    <tmdbid>472560</tmdbid>
+    <imdbid>nm0145579</imdbid>
+  </actor>
+  <actor>
+    <name>Viveka Rytzner</name>
+    <role>Junior Creative</role>
+    <type>Actor</type>
+    <tmdbid>2376642</tmdbid>
+  </actor>
+  <actor>
+    <name>Alberto Jo Lee</name>
+    <role>Chinese Translator / Creative Creep</role>
+    <type>Actor</type>
+    <tmdbid>132443</tmdbid>
+    <imdbid>nm1902049</imdbid>
+  </actor>
+  <actor>
+    <name>José Luis Ferrer</name>
+    <role>Don Quixote (commercial)</role>
+    <type>Actor</type>
+    <tmdbid>1613120</tmdbid>
+  </actor>
+  <actor>
+    <name>Ismael Fritschi</name>
+    <role>Sancho Panza (commercial)</role>
+    <type>Actor</type>
+    <tmdbid>1465849</tmdbid>
+    <imdbid>nm1644151</imdbid>
+  </actor>
+  <actor>
+    <name>Juan López-Tagle</name>
+    <role>Spanish Propman</role>
+    <type>Actor</type>
+    <tmdbid>2091229</tmdbid>
+  </actor>
+  <director tmdbid="280" imdbid="nm0000416">Terry Gilliam</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CmscmzjFLdc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=v_pQ47SSTPk</trailer>
+  <rating>6.4</rating>
+  <year>2018</year>
+  <mpaa>NR</mpaa>
+  <imdbid>tt1318517</imdbid>
+  <tmdbid>297725</tmdbid>
+  <premiered>2018-05-19</premiered>
+  <releasedate>2018-05-19</releasedate>
+  <criticrating>65</criticrating>
+  <runtime>133</runtime>
+  <country>Belgium</country>
+  <country>United Kingdom</country>
+  <country>France</country>
+  <country>Portugal</country>
+  <country>Spain</country>
+  <genre>冒险</genre>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <genre>奇幻</genre>
+  <studio>Tornasol Films</studio>
+  <studio>Entre Chien et Loup</studio>
+  <studio>Recorded Picture Company</studio>
+  <studio>Amazon Studios</studio>
+  <studio>Alacran Pictures</studio>
+  <studio>Eurimages</studio>
+  <studio>Movistar+</studio>
+  <studio>Proximus</studio>
+  <studio>Ukbar Films</studio>
+  <studio>Wallimage</studio>
+  <studio>TVE</studio>
+  <uniqueid type="Tmdb">297725</uniqueid>
+  <uniqueid type="Imdb">tt1318517</uniqueid>
+  <id>tt1318517</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>13009189</bitrate>
+        <width>1920</width>
+        <height>804</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>133</duration>
+        <durationinseconds>7983</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[春天，贪玩的童僧拿着石头，绑在鱼、青蛙和蛇身上，捉弄着小生灵们。老僧（吴永洙饰）发现后，用同样的手法惩罚他，告诫他不可胡来...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2017-12-17 11:54:10</dateadded>
+  <title>春夏秋冬又一春</title>
+  <originaltitle>봄 여름 가을 겨울 그리고 봄</originaltitle>
+  <actor>
+    <name>Oh Yeong-su</name>
+    <role>Old Monk</role>
+    <type>Actor</type>
+    <tmdbid>1048070</tmdbid>
+    <imdbid>nm1301454</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Ki-duk</name>
+    <role>Adult Monk</role>
+    <type>Actor</type>
+    <tmdbid>1188</tmdbid>
+    <imdbid>nm1104118</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Young-min</name>
+    <role>Young Adult Monk</role>
+    <type>Actor</type>
+    <tmdbid>4259</tmdbid>
+    <imdbid>nm1018275</imdbid>
+  </actor>
+  <actor>
+    <name>Seo Jae-kyeong</name>
+    <role>Boy Monk</role>
+    <type>Actor</type>
+    <tmdbid>117376</tmdbid>
+    <imdbid>nm1138064</imdbid>
+  </actor>
+  <actor>
+    <name>Ha Yeo-jin</name>
+    <role>The Girl</role>
+    <type>Actor</type>
+    <tmdbid>4261</tmdbid>
+    <imdbid>nm1415741</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Jong-ho</name>
+    <role>Child Monk</role>
+    <type>Actor</type>
+    <tmdbid>4262</tmdbid>
+    <imdbid>nm1414385</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Jung-young</name>
+    <role>The Girl's Mother</role>
+    <type>Actor</type>
+    <tmdbid>4263</tmdbid>
+    <imdbid>nm1558348</imdbid>
+  </actor>
+  <actor>
+    <name>Ji Dae-han</name>
+    <role>Detective Ji</role>
+    <type>Actor</type>
+    <tmdbid>77180</tmdbid>
+    <imdbid>nm1203041</imdbid>
+  </actor>
+  <actor>
+    <name>Park Zia</name>
+    <role>The Baby's Mother</role>
+    <type>Actor</type>
+    <tmdbid>1145852</tmdbid>
+  </actor>
+  <actor>
+    <name>Song Min-young</name>
+    <role>The Baby</role>
+    <type>Actor</type>
+    <tmdbid>4267</tmdbid>
+    <imdbid>nm1579483</imdbid>
+  </actor>
+  <director tmdbid="1188" imdbid="nm1104118">Kim Ki-duk</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jdRkhD_hmo0</trailer>
+  <rating>8</rating>
+  <year>2003</year>
+  <imdbid>tt0374546</imdbid>
+  <tmdbid>113</tmdbid>
+  <premiered>2003-09-19</premiered>
+  <releasedate>2003-09-19</releasedate>
+  <criticrating>94</criticrating>
+  <runtime>105</runtime>
+  <country>South Korea</country>
+  <country>Germany</country>
+  <genre>剧情</genre>
+  <studio>LJ Film</studio>
+  <studio>Korea Pictures</studio>
+  <studio>Cineclick Asia</studio>
+  <studio>Cinesoul</studio>
+  <studio>Mirae Asset Capital</studio>
+  <studio>Muhan Investment</studio>
+  <studio>Pandora Film</studio>
+  <uniqueid type="Imdb">tt0374546</uniqueid>
+  <uniqueid type="Tmdb">113</uniqueid>
+  <id>tt0374546</id>
+  <fileinfo>
+    <streamdetails>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>96000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>rv40</codec>
+        <micodec>rv40</micodec>
+        <bitrate>2494623</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976044</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6306</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+</movie>

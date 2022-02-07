@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[桑美和莫蒂为了找出瑞克，而展开跨维度之旅，却发现一群瑞克。瑞克狂嗑一款非常特殊的鸡块沾酱。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 07:56:36</dateadded>
+  <title>找回瑞克</title>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathan Fillion</name>
+    <role>Cornvelious Daniel (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>51797</tmdbid>
+    <imdbid>nm0277213</imdbid>
+  </actor>
+  <actor>
+    <name>Dan Harmon</name>
+    <role>Phoenixperson / McDoncalds Employee (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>57194</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Kenny</name>
+    <role>Conroy / Federation Admiral / Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>78798</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Johnson</name>
+    <role>Mr. Goldenfold / Federation Personnel (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>167411</tmdbid>
+  </actor>
+  <actor>
+    <name>Maurice LaMarche</name>
+    <role>Federation President / Gromflomite Engineer / Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>34521</tmdbid>
+  </actor>
+  <actor>
+    <name>Nolan North</name>
+    <role>Gromflomite Commander / Gromflomite Soldier / Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>19508</tmdbid>
+  </actor>
+  <actor>
+    <name>Kari Wahlgren</name>
+    <role>Diane Sanchez / Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>116315</tmdbid>
+  </actor>
+  <actor>
+    <name>Cassie Steele</name>
+    <role>Tammy Gueterman (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>180986</tmdbid>
+  </actor>
+  <director>Juan Jose Meza-Leon</director>
+  <rating>9.6</rating>
+  <year>2017</year>
+  <imdbid>tt5218228</imdbid>
+  <tvdbid>6016897</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <uniqueid type="Tvdb">6016897</uniqueid>
+  <uniqueid type="Imdb">tt5218228</uniqueid>
+  <episode>1</episode>
+  <season>3</season>
+  <aired>2017-04-01</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2226401</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1402</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

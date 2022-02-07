@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[杰克（杰克•尼科尔森 Jack Nicholson 饰）是一个作家。一个冬天，他得到了一个看管山顶酒店的差事。这正合杰克的意思，他正好可以有一个幽静的地方写作。于是杰克带着妻儿搬进了酒店。冬天大雪封路，山顶酒店只有杰克一家三口。从他们一搬进来，杰克的妻子温蒂（谢莉·杜瓦尔 Shelley Duvall 饰）就发现这里气氛诡异，杰克的儿子丹尼（丹尼·劳埃德 Danny Lloyd 饰）经常看到一些他不认识的人，但这里除了他们一家别无他人。而杰克除了一整天闷头写作外，脾气亦变得越来越古怪。直到有一天，温蒂发现丈夫这些天来一直写就只有一句话：杰克发疯了！]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-04-17 15:47:47</dateadded>
+  <title>闪灵</title>
+  <originaltitle>The Shining</originaltitle>
+  <actor>
+    <name>Jack Nicholson</name>
+    <role>Jack Torrance</role>
+    <type>Actor</type>
+    <tmdbid>514</tmdbid>
+    <imdbid>nm0000197</imdbid>
+  </actor>
+  <actor>
+    <name>Shelley Duvall</name>
+    <role>Wendy Torrance</role>
+    <type>Actor</type>
+    <tmdbid>10409</tmdbid>
+    <imdbid>nm0001167</imdbid>
+  </actor>
+  <actor>
+    <name>Scatman Crothers</name>
+    <role>Dick Hallorann</role>
+    <type>Actor</type>
+    <tmdbid>7077</tmdbid>
+    <imdbid>nm0001079</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Lloyd</name>
+    <role>Danny Torrance</role>
+    <type>Actor</type>
+    <tmdbid>10410</tmdbid>
+    <imdbid>nm0515950</imdbid>
+  </actor>
+  <actor>
+    <name>Barry Nelson</name>
+    <role>Stuart Ullman</role>
+    <type>Actor</type>
+    <tmdbid>10411</tmdbid>
+    <imdbid>nm0625167</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Turkel</name>
+    <role>Lloyd the Bartender</role>
+    <type>Actor</type>
+    <tmdbid>592</tmdbid>
+    <imdbid>nm0877185</imdbid>
+  </actor>
+  <actor>
+    <name>Anne Jackson</name>
+    <role>Doctor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>10412</tmdbid>
+    <imdbid>nm0413271</imdbid>
+  </actor>
+  <actor>
+    <name>Barry Dennen</name>
+    <role>Bill Watson</role>
+    <type>Actor</type>
+    <tmdbid>72742</tmdbid>
+    <imdbid>nm0219336</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Burton</name>
+    <role>Larry Durkin</role>
+    <type>Actor</type>
+    <tmdbid>16504</tmdbid>
+    <imdbid>nm0123748</imdbid>
+  </actor>
+  <actor>
+    <name>Philip Stone</name>
+    <role>Delbert Grady</role>
+    <type>Actor</type>
+    <tmdbid>694</tmdbid>
+    <imdbid>nm0832104</imdbid>
+  </actor>
+  <actor>
+    <name>Lia Beldam</name>
+    <role>Young Woman in Bath</role>
+    <type>Actor</type>
+    <tmdbid>1413939</tmdbid>
+    <imdbid>nm0067672</imdbid>
+  </actor>
+  <actor>
+    <name>Billie Gibson</name>
+    <role>Old Woman in Bath</role>
+    <type>Actor</type>
+    <tmdbid>1413940</tmdbid>
+    <imdbid>nm0316862</imdbid>
+  </actor>
+  <actor>
+    <name>David Baxt</name>
+    <role>Forest Ranger 1 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>38651</tmdbid>
+    <imdbid>nm0062657</imdbid>
+  </actor>
+  <actor>
+    <name>Manning Redwood</name>
+    <role>Forest Ranger 2 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>99366</tmdbid>
+    <imdbid>nm0715197</imdbid>
+  </actor>
+  <actor>
+    <name>Lisa Burns</name>
+    <role>Grady Daughter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2023547</tmdbid>
+  </actor>
+  <actor>
+    <name>Louise Burns</name>
+    <role>Grady Daughter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2023548</tmdbid>
+  </actor>
+  <actor>
+    <name>Robin Pappas</name>
+    <role>Nurse (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1697241</tmdbid>
+  </actor>
+  <actor>
+    <name>Alison Coleridge</name>
+    <role>Secretary (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2023549</tmdbid>
+    <imdbid>nm0171277</imdbid>
+  </actor>
+  <actor>
+    <name>Burnell Tucker</name>
+    <role>Policeman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>184980</tmdbid>
+    <imdbid>nm0875813</imdbid>
+  </actor>
+  <actor>
+    <name>Jana Shelden</name>
+    <role>Stewardess (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>201441</tmdbid>
+    <imdbid>nm0791030</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Phelps</name>
+    <role>Receptionist (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2023550</tmdbid>
+  </actor>
+  <actor>
+    <name>Norman Gay</name>
+    <role>Injured Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2023551</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Desbois</name>
+    <role>Hotel Porter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1526724</tmdbid>
+    <imdbid>nm1160883</imdbid>
+  </actor>
+  <actor>
+    <name>Vivian Kubrick</name>
+    <role>Smoking Guest on Ballroom Couch (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>8645</tmdbid>
+    <imdbid>nm0473588</imdbid>
+  </actor>
+  <actor>
+    <name>Derek Lyons</name>
+    <role>Hotel Bellhop (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1271092</tmdbid>
+    <imdbid>nm1750488</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Harris</name>
+    <role>Ballroom Dancer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>964699</tmdbid>
+    <imdbid>nm0364402</imdbid>
+  </actor>
+  <actor>
+    <name>Peter McNamara</name>
+    <role>Dinner Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1452763</tmdbid>
+    <imdbid>nm0534063</imdbid>
+  </actor>
+  <actor>
+    <name>Guy Standeven</name>
+    <role>Ballroom Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1708535</tmdbid>
+  </actor>
+  <actor>
+    <name>Reg Thomason</name>
+    <role>Ballroom Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2021756</tmdbid>
+  </actor>
+  <director tmdbid="240" imdbid="nm0000040">Stanley Kubrick</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=S014oGZiSdI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ANKdpe4J2h0</trailer>
+  <rating>8.4</rating>
+  <year>1980</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0081505</imdbid>
+  <tmdbid>694</tmdbid>
+  <premiered>1980-05-23</premiered>
+  <releasedate>1980-05-23</releasedate>
+  <criticrating>84</criticrating>
+  <runtime>120</runtime>
+  <country>United States of America</country>
+  <country>United Kingdom</country>
+  <genre>恐怖</genre>
+  <genre>惊悚</genre>
+  <studio>Hawk Films</studio>
+  <studio>Peregrine</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>Producers Circle</studio>
+  <set tmdbcolid="530064">
+    <name>闪灵（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">694</uniqueid>
+  <uniqueid type="Imdb">tt0081505</uniqueid>
+  <id>tt0081505</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4075811</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>119</duration>
+        <durationinseconds>7178</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

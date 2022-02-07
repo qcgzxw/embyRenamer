@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　台湾一个小渔村，女孩阿北一直在这里过着平静的生活。直到有一天，她在海边拣到了一个由香港飘过来的玻璃樽。玻璃樽里有一张香港男孩写的纸条：“我很寂寞，你呢？”，里面还留了他的住址和联系电话。于是，阿北开始在满怀憧憬中来到香港寻找这个男孩。  根据地址，阿北找到了男孩阿波。阿波为阿北的勇气所折服，收留了她。经过一段时间的接触，阿北惊奇地发现阿波原来是个同性恋，根本不是自己心目中的白马王子。这时，阿北遇上了心中的白马王子――金融奇才阿祥。为了接近喜欢追求刺激的阿祥，阿北谎称自己是黑社会老大的女儿。于是，一场意想不到的经历发生了。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-05 02:41:47</dateadded>
+  <title>玻璃樽</title>
+  <originaltitle>玻璃樽</originaltitle>
+  <actor>
+    <name>Jackie Chan</name>
+    <role>Chi Wu</role>
+    <type>Actor</type>
+    <tmdbid>18897</tmdbid>
+    <imdbid>nm0000329</imdbid>
+  </actor>
+  <actor>
+    <name>Shu Qi</name>
+    <role>Ah Bu</role>
+    <type>Actor</type>
+    <tmdbid>21911</tmdbid>
+    <imdbid>nm0795517</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Leung Chiu-Wai</name>
+    <role>Albert</role>
+    <type>Actor</type>
+    <tmdbid>1337</tmdbid>
+    <imdbid>nm0504897</imdbid>
+  </actor>
+  <actor>
+    <name>Wakin Chau</name>
+    <role>L.W. Lo</role>
+    <type>Actor</type>
+    <tmdbid>67889</tmdbid>
+    <imdbid>nm0154235</imdbid>
+  </actor>
+  <actor>
+    <name>Bradley James Allan</name>
+    <role>Alan</role>
+    <type>Actor</type>
+    <tmdbid>134686</tmdbid>
+    <imdbid>nm0015904</imdbid>
+  </actor>
+  <actor>
+    <name>Richie Ren</name>
+    <role>Long-Yi</role>
+    <type>Actor</type>
+    <tmdbid>64496</tmdbid>
+    <imdbid>nm0719104</imdbid>
+  </actor>
+  <actor>
+    <name>Ken Lo</name>
+    <role>Lo's Bodyguard</role>
+    <type>Actor</type>
+    <tmdbid>70690</tmdbid>
+    <imdbid>nm0516310</imdbid>
+  </actor>
+  <actor>
+    <name>Chan Chung-Yung</name>
+    <role>Bu's father</role>
+    <type>Actor</type>
+    <tmdbid>974461</tmdbid>
+    <imdbid>nm0150844</imdbid>
+  </actor>
+  <actor>
+    <name>Elaine Jin</name>
+    <role>Bu's Mother</role>
+    <type>Actor</type>
+    <tmdbid>103598</tmdbid>
+    <imdbid>nm0157805</imdbid>
+  </actor>
+  <actor>
+    <name>Jo Kuk</name>
+    <role>Pretty girl at seaside</role>
+    <type>Actor</type>
+    <tmdbid>105421</tmdbid>
+    <imdbid>nm0423268</imdbid>
+  </actor>
+  <actor>
+    <name>Sandra Ng Kwun-Yu</name>
+    <role>Airport Pickpocket</role>
+    <type>Actor</type>
+    <tmdbid>88495</tmdbid>
+    <imdbid>nm0510950</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Wu</name>
+    <role>Xiao Jun</role>
+    <type>Actor</type>
+    <tmdbid>120419</tmdbid>
+    <imdbid>nm0938925</imdbid>
+  </actor>
+  <actor>
+    <name>William Chan Yuk-Choh</name>
+    <role>Howie's bodyguard</role>
+    <type>Actor</type>
+    <tmdbid>1123830</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacqueline Li</name>
+    <role>Michele</role>
+    <type>Actor</type>
+    <tmdbid>1639507</tmdbid>
+  </actor>
+  <actor>
+    <name>Eileen Tung</name>
+    <role>Elaine</role>
+    <type>Actor</type>
+    <tmdbid>987139</tmdbid>
+    <imdbid>nm0876607</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Chow</name>
+    <role>Policeman with dog</role>
+    <type>Actor</type>
+    <tmdbid>57607</tmdbid>
+    <imdbid>nm0159507</imdbid>
+  </actor>
+  <actor>
+    <name>Carmen Soo</name>
+    <role>Gloria</role>
+    <type>Actor</type>
+    <tmdbid>1173291</tmdbid>
+    <imdbid>nm1745791</imdbid>
+  </actor>
+  <actor>
+    <name>Mars</name>
+    <role>Masked Metal Bat Thug (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>119454</tmdbid>
+    <imdbid>nm0550301</imdbid>
+  </actor>
+  <actor>
+    <name>Kwan Yung</name>
+    <role>Lo's Bodyguard</role>
+    <type>Actor</type>
+    <tmdbid>1356512</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Wu</name>
+    <role>Photographer's Assistant</role>
+    <type>Actor</type>
+    <tmdbid>64436</tmdbid>
+    <imdbid>nm0943079</imdbid>
+  </actor>
+  <director tmdbid="65934" imdbid="nm0463674">Vincent Kok</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vJvkOUX9Sus</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tPiMlwGqtoM</trailer>
+  <rating>6.1</rating>
+  <year>1999</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt0184526</imdbid>
+  <tmdbid>10951</tmdbid>
+  <premiered>1999-02-12</premiered>
+  <releasedate>1999-02-12</releasedate>
+  <criticrating>56</criticrating>
+  <runtime>120</runtime>
+  <country>Hong Kong</country>
+  <country>Taiwan</country>
+  <genre>冒险</genre>
+  <genre>动作</genre>
+  <genre>喜剧</genre>
+  <genre>爱情</genre>
+  <studio>Golden Harvest Pictures</studio>
+  <uniqueid type="Imdb">tt0184526</uniqueid>
+  <uniqueid type="Tmdb">10951</uniqueid>
+  <id>tt0184526</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6965948</bitrate>
+        <width>1920</width>
+        <height>812</height>
+        <aspect>480:203</aspect>
+        <aspectratio>480:203</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>119</duration>
+        <durationinseconds>7191</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

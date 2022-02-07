@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[弗兰克已经有近五个月没有回家了，除了黛比之外，这个家庭已经习惯了没有他的生活。 吉米现在已经搬进来，正在帮助菲奥娜保持一切正常。 但是，菲奥娜觉得这很奇怪，渴望往来中的旧情。 当斯蒂芬妮的父亲出现并让他成为谋杀情人的帮凶时，吉米遇到了真正的问题。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-11 20:17:18</dateadded>
+  <title>无尽的浩瀚</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Noel Fisher</name>
+    <role>Mickey Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>80352</tmdbid>
+    <imdbid>nm0279720</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Zach McGowan</name>
+    <role>Jody Silverman</role>
+    <type>Actor</type>
+    <tmdbid>62307</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Greenwell</name>
+    <role>Mandy Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>1155473</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Chatwin</name>
+    <role>Steve Wilton/Jimmy Lishman</role>
+    <type>Actor</type>
+    <tmdbid>503</tmdbid>
+  </actor>
+  <actor>
+    <name>Ed Lauter</name>
+    <role>Dick Healey</role>
+    <type>GuestStar</type>
+    <tmdbid>21523</tmdbid>
+  </actor>
+  <actor>
+    <name>Diora Baird</name>
+    <role>Meg</role>
+    <type>GuestStar</type>
+    <tmdbid>59263</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Fantauzzi</name>
+    <role>Estefania</role>
+    <type>GuestStar</type>
+    <tmdbid>1286908</tmdbid>
+  </actor>
+  <actor>
+    <name>Bernardo De Paula</name>
+    <role>Beto</role>
+    <type>GuestStar</type>
+    <tmdbid>1346997</tmdbid>
+  </actor>
+  <actor>
+    <name>Harry Hamlin</name>
+    <role>Lloyd "Ned" Lishman</role>
+    <type>GuestStar</type>
+    <tmdbid>64825</tmdbid>
+  </actor>
+  <actor>
+    <name>Joan Cusack</name>
+    <role>Sheila Jackson</role>
+    <type>GuestStar</type>
+    <tmdbid>3234</tmdbid>
+    <imdbid>nm0000349</imdbid>
+  </actor>
+  <director>Mark Mylod</director>
+  <rating>6.6</rating>
+  <year>2013</year>
+  <imdbid>tt2316912</imdbid>
+  <tvdbid>4400381</tvdbid>
+  <runtime>59</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt2316912</uniqueid>
+  <uniqueid type="Tvdb">4400381</uniqueid>
+  <episode>1</episode>
+  <season>3</season>
+  <aired>2013-01-13</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9681541</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>58</duration>
+        <durationinseconds>3520</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

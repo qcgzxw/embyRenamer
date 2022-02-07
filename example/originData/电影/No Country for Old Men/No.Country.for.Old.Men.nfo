@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　《老无所依》根据普利策奖得主科马克·麦卡锡的小说改编。美国西部巴尔的摩，老牛仔Moss（Josh Brolin 饰）在猎杀羚羊时发现几具尸体，几包海洛因和200万现金。Moss决定将毒品和现金占为己有，想以此改变自己的生活，谁知却遭到冷血杀手Chigurh（Javier Bardem 饰）的跟踪和追杀，陷入了逃亡的险境。同时，当地治安官Bell（Tommy Lee Jones 饰）也在对一连串的杀人事件进行调查，并努力保护Moss的安全。但是，让Bell感到无力绝望的是，他使劲浑身解数也无法追踪到冷血杀手，Moss的生命安全也受到严重的威胁，Bell一边缅怀父辈们的光荣岁月，一边深感现实中老无所依的悲哀。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-04-27 14:57:23</dateadded>
+  <title>老无所依</title>
+  <originaltitle>No Country for Old Men</originaltitle>
+  <actor>
+    <name>Josh Brolin</name>
+    <role>Llewelyn Moss</role>
+    <type>Actor</type>
+    <tmdbid>16851</tmdbid>
+    <imdbid>nm0000982</imdbid>
+  </actor>
+  <actor>
+    <name>Javier Bardem</name>
+    <role>Anton Chigurh</role>
+    <type>Actor</type>
+    <tmdbid>3810</tmdbid>
+    <imdbid>nm0000849</imdbid>
+  </actor>
+  <actor>
+    <name>Tommy Lee Jones</name>
+    <role>Sheriff Ed Tom Bell</role>
+    <type>Actor</type>
+    <tmdbid>2176</tmdbid>
+    <imdbid>nm0000169</imdbid>
+  </actor>
+  <actor>
+    <name>Kelly Macdonald</name>
+    <role>Carla Jean Moss</role>
+    <type>Actor</type>
+    <tmdbid>9015</tmdbid>
+    <imdbid>nm0531808</imdbid>
+  </actor>
+  <actor>
+    <name>Woody Harrelson</name>
+    <role>Carson Wells</role>
+    <type>Actor</type>
+    <tmdbid>57755</tmdbid>
+    <imdbid>nm0000437</imdbid>
+  </actor>
+  <actor>
+    <name>Garret Dillahunt</name>
+    <role>Wendell</role>
+    <type>Actor</type>
+    <tmdbid>39520</tmdbid>
+    <imdbid>nm0226813</imdbid>
+  </actor>
+  <actor>
+    <name>Tess Harper</name>
+    <role>Loretta Bell</role>
+    <type>Actor</type>
+    <tmdbid>41249</tmdbid>
+    <imdbid>nm0002128</imdbid>
+  </actor>
+  <actor>
+    <name>Barry Corbin</name>
+    <role>Ellis</role>
+    <type>Actor</type>
+    <tmdbid>12852</tmdbid>
+    <imdbid>nm0179224</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Root</name>
+    <role>Man who hires Wells (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>17401</tmdbid>
+    <imdbid>nm0740535</imdbid>
+  </actor>
+  <actor>
+    <name>Rodger Boyce</name>
+    <role>El Paso Sheriff (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>51732</tmdbid>
+    <imdbid>nm0003923</imdbid>
+  </actor>
+  <actor>
+    <name>Beth Grant</name>
+    <role>Carla Jeans Mother (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>5151</tmdbid>
+    <imdbid>nm0335275</imdbid>
+  </actor>
+  <actor>
+    <name>Ana Reeder</name>
+    <role>Poolside Woman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>51733</tmdbid>
+    <imdbid>nm0715768</imdbid>
+  </actor>
+  <actor>
+    <name>Kit Gwin</name>
+    <role>Sheriff's Secretary (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>51734</tmdbid>
+    <imdbid>nm0350337</imdbid>
+  </actor>
+  <actor>
+    <name>Zach Hopkins</name>
+    <role>Strangled Deputy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>51735</tmdbid>
+    <imdbid>nm0394308</imdbid>
+  </actor>
+  <actor>
+    <name>Chip Love</name>
+    <role>Man in Ford (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2026754</tmdbid>
+  </actor>
+  <actor>
+    <name>Eduardo Antonio Garcia</name>
+    <role>'Agua' Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>109098</tmdbid>
+    <imdbid>nm0031370</imdbid>
+  </actor>
+  <actor>
+    <name>Gene Jones</name>
+    <role>Thomas Thayer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1194944</tmdbid>
+    <imdbid>nm0428122</imdbid>
+  </actor>
+  <actor>
+    <name>Myk Watford</name>
+    <role>'Managerial' Victim (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>84955</tmdbid>
+    <imdbid>nm0914223</imdbid>
+  </actor>
+  <actor>
+    <name>Boots Southerland</name>
+    <role>'Managerial' Victim (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>57155</tmdbid>
+    <imdbid>nm0816105</imdbid>
+  </actor>
+  <actor>
+    <name>Kathy Lamkin</name>
+    <role>Desert Aire Manager (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>93927</tmdbid>
+    <imdbid>nm0483541</imdbid>
+  </actor>
+  <actor>
+    <name>Johnnie Hector</name>
+    <role>Cabbie at Bus Station (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1448102</tmdbid>
+  </actor>
+  <actor>
+    <name>Margaret Bowman</name>
+    <role>Del Rio Motel Clerk (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>114977</tmdbid>
+    <imdbid>nm0101358</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Kopache</name>
+    <role>Boot Salesman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>9284</tmdbid>
+    <imdbid>nm0465664</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Douglas</name>
+    <role>Cabbie at Motel (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>20496</tmdbid>
+    <imdbid>nm0235103</imdbid>
+  </actor>
+  <actor>
+    <name>Doris Hargrave</name>
+    <role>Waitress (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>206379</tmdbid>
+    <imdbid>nm0362938</imdbid>
+  </actor>
+  <actor>
+    <name>Rutherford Cravens</name>
+    <role>Gun Store Clerk (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1234823</tmdbid>
+    <imdbid>nm0186657</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Posey</name>
+    <role>Sporting Goods Clerk (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1219824</tmdbid>
+    <imdbid>nm0692670</imdbid>
+  </actor>
+  <actor>
+    <name>George Adelo</name>
+    <role>Mexican in Bathtub (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2026768</tmdbid>
+  </actor>
+  <actor>
+    <name>Mathew Greer</name>
+    <role>Hitchhiking Driver (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>559328</tmdbid>
+    <imdbid>nm0339472</imdbid>
+  </actor>
+  <actor>
+    <name>Trent Moore</name>
+    <role>Nervous Accountant (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2026772</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Miles</name>
+    <role>Hotel Eagle Clerk (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1402887</tmdbid>
+    <imdbid>nm0587185</imdbid>
+  </actor>
+  <actor>
+    <name>Luce Rains</name>
+    <role>Pickup Driver (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>53969</tmdbid>
+    <imdbid>nm0366890</imdbid>
+  </actor>
+  <actor>
+    <name>Philip Bentham</name>
+    <role>Border Bridge Youth (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2026781</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Reeves</name>
+    <role>Border Bridge Youth (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2026783</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Meyer</name>
+    <role>Border Bridge Youth (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1243825</tmdbid>
+    <imdbid>nm1107024</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Warner</name>
+    <role>Flatbed Driver (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>139235</tmdbid>
+    <imdbid>nm1070870</imdbid>
+  </actor>
+  <actor>
+    <name>Brandon Smith</name>
+    <role>INS Official (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>36637</tmdbid>
+    <imdbid>nm0807503</imdbid>
+  </actor>
+  <actor>
+    <name>Roland Uribe</name>
+    <role>Well Dressed Mexican (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>583835</tmdbid>
+    <imdbid>nm1587496</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Jackson</name>
+    <role>Chicken Farmer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>525243</tmdbid>
+    <imdbid>nm1005233</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Blaylock</name>
+    <role>Boy on Bike (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>962225</tmdbid>
+    <imdbid>nm1988382</imdbid>
+  </actor>
+  <actor>
+    <name>Caleb Landry Jones</name>
+    <role>Boy on Bike (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>572541</tmdbid>
+    <imdbid>nm2655177</imdbid>
+  </actor>
+  <actor>
+    <name>Dorsey Ray</name>
+    <role>Odessa Cabbie (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2026797</tmdbid>
+  </actor>
+  <actor>
+    <name>Angel H. Alvarado Jr.</name>
+    <role>Norteño Band (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2026798</tmdbid>
+  </actor>
+  <actor>
+    <name>David A. Gomez</name>
+    <role>Norteño Band (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2026799</tmdbid>
+  </actor>
+  <actor>
+    <name>Milton Hernandez</name>
+    <role>Norteño Band (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2026810</tmdbid>
+  </actor>
+  <actor>
+    <name>John Mancha</name>
+    <role>Norteño Band (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2026811</tmdbid>
+  </actor>
+  <actor>
+    <name>Albert Fry Jr.</name>
+    <role>El Paso Deputy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1263430</tmdbid>
+    <imdbid>nm3036630</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Flick</name>
+    <role>Cab Driver (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1936774</tmdbid>
+    <imdbid>nm2318505</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Slagsvol</name>
+    <role>Nurse (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2026812</tmdbid>
+  </actor>
+  <actor>
+    <name>Angelo Martinez</name>
+    <role>Bus Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1349628</tmdbid>
+    <imdbid>nm3089692</imdbid>
+  </actor>
+  <director tmdbid="1223" imdbid="nm0001054">Joel Coen</director>
+  <director tmdbid="1224" imdbid="nm0001053">Ethan Coen</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aCjnUJjWb38</trailer>
+  <rating>8.1</rating>
+  <year>2007</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0477348</imdbid>
+  <tmdbid>6977</tmdbid>
+  <premiered>2007-11-08</premiered>
+  <releasedate>2007-11-08</releasedate>
+  <criticrating>93</criticrating>
+  <runtime>122</runtime>
+  <country>United States of America</country>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <studio>Miramax</studio>
+  <studio>Scott Rudin Productions</studio>
+  <studio>Mike Zoss Productions</studio>
+  <studio>Paramount Vantage</studio>
+  <uniqueid type="Tmdb">6977</uniqueid>
+  <uniqueid type="Imdb">tt0477348</uniqueid>
+  <id>tt0477348</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3743599</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976042</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>122</duration>
+        <durationinseconds>7330</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

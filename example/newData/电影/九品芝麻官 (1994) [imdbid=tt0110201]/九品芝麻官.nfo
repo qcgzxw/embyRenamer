@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　包龙星起初为清朝九品候补知县，号称白面包青天，为宋代青天大人包拯的后裔。但他却无包拯维护公义的精神，接受地方门阀的贿赂而诬害忠良，以至于人人喊打。后来包龙星痛改前非，为了给一名含冤被判处死刑的女子申冤，历尽千辛万苦上燕京告御状，最后被封为八府巡按，于法庭辩论打败了犯罪者与背后的恶势力，告大白于天下。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-04 14:13:44</dateadded>
+  <title>九品芝麻官</title>
+  <originaltitle>九品芝麻官</originaltitle>
+  <actor>
+    <name>Stephen Chow</name>
+    <role>Pao Lung Sing</role>
+    <type>Actor</type>
+    <tmdbid>57607</tmdbid>
+    <imdbid>nm0159507</imdbid>
+  </actor>
+  <actor>
+    <name>Ng Man-tat</name>
+    <role>Pao Yau Wai</role>
+    <type>Actor</type>
+    <tmdbid>70437</tmdbid>
+    <imdbid>nm0628806</imdbid>
+  </actor>
+  <actor>
+    <name>Sharla Cheung</name>
+    <role>Mrs Chi Siu Lin</role>
+    <type>Actor</type>
+    <tmdbid>67221</tmdbid>
+    <imdbid>nm0156522</imdbid>
+  </actor>
+  <actor>
+    <name>Elvis Tsui</name>
+    <role>Panther / Lui Pao</role>
+    <type>Actor</type>
+    <tmdbid>83631</tmdbid>
+    <imdbid>nm0875275</imdbid>
+  </actor>
+  <actor>
+    <name>Lawrence Ng</name>
+    <role>Mirror Fong Tong Kan</role>
+    <type>Actor</type>
+    <tmdbid>122818</tmdbid>
+    <imdbid>nm0628714</imdbid>
+  </actor>
+  <actor>
+    <name>Ada Choi</name>
+    <role>Yu Yin</role>
+    <type>Actor</type>
+    <tmdbid>87948</tmdbid>
+    <imdbid>nm0158785</imdbid>
+  </actor>
+  <actor>
+    <name>Collin Chou Siu-Lung</name>
+    <role>Shang Wai</role>
+    <type>Actor</type>
+    <tmdbid>52908</tmdbid>
+    <imdbid>nm0628877</imdbid>
+  </actor>
+  <actor>
+    <name>Ku Feng</name>
+    <role>Navy Commander Shang Kwan</role>
+    <type>Actor</type>
+    <tmdbid>229302</tmdbid>
+  </actor>
+  <actor>
+    <name>Christy Chung Lai-Tai</name>
+    <role>Stone Mansion</role>
+    <type>Actor</type>
+    <tmdbid>54615</tmdbid>
+    <imdbid>nm0161198</imdbid>
+  </actor>
+  <actor>
+    <name>Joey Leung Wing-Chung</name>
+    <role>Stone Talk</role>
+    <type>Actor</type>
+    <tmdbid>213441</tmdbid>
+  </actor>
+  <actor>
+    <name>Ng Wui</name>
+    <role>Sing's father</role>
+    <type>Actor</type>
+    <tmdbid>1158860</tmdbid>
+    <imdbid>nm0628860</imdbid>
+  </actor>
+  <actor>
+    <name>Teresa Ha Ping</name>
+    <role>Sing's mother</role>
+    <type>Actor</type>
+    <tmdbid>1178817</tmdbid>
+    <imdbid>nm0351719</imdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Au Shui-Wai</name>
+    <role>Duke / Prince Tin</role>
+    <type>Actor</type>
+    <tmdbid>1365933</tmdbid>
+    <imdbid>nm3045139</imdbid>
+  </actor>
+  <actor>
+    <name>Lo Hung</name>
+    <role>Judiciary Secretary Fa</role>
+    <type>Actor</type>
+    <tmdbid>1416970</tmdbid>
+  </actor>
+  <actor>
+    <name>Wong Yat-fei</name>
+    <role>Magistrate Chan Pak Cheung</role>
+    <type>Actor</type>
+    <tmdbid>956575</tmdbid>
+    <imdbid>nm0939431</imdbid>
+  </actor>
+  <actor>
+    <name>Ling Hon</name>
+    <role>Home Affair Secretary</role>
+    <type>Actor</type>
+    <tmdbid>1415673</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Wong</name>
+    <role>Majesty / Ai Shin Chue Luo</role>
+    <type>Actor</type>
+    <tmdbid>1329775</tmdbid>
+    <imdbid>nm0939065</imdbid>
+  </actor>
+  <actor>
+    <name>Liu Xun</name>
+    <role>Eunuch Lee Lin Ying</role>
+    <type>Actor</type>
+    <tmdbid>65974</tmdbid>
+    <imdbid>nm0490614</imdbid>
+  </actor>
+  <actor>
+    <name>Kingdom Yuen</name>
+    <role>Auntie San</role>
+    <type>Actor</type>
+    <tmdbid>94076</tmdbid>
+    <imdbid>nm0950738</imdbid>
+  </actor>
+  <actor>
+    <name>Lo Fan</name>
+    <role>Auntie San's rival pimp</role>
+    <type>Actor</type>
+    <tmdbid>1615348</tmdbid>
+  </actor>
+  <actor>
+    <name>John Ching Tung</name>
+    <role>Loi Fook</role>
+    <type>Actor</type>
+    <tmdbid>1134731</tmdbid>
+    <imdbid>nm3214848</imdbid>
+  </actor>
+  <actor>
+    <name>Wong Hung</name>
+    <role>Lin Chi Yong</role>
+    <type>Actor</type>
+    <tmdbid>1139220</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Kin-Yan</name>
+    <role>Yu Fa</role>
+    <type>Actor</type>
+    <tmdbid>237235</tmdbid>
+  </actor>
+  <actor>
+    <name>Wong Fung-King</name>
+    <role>Yiu Yuen Kwan</role>
+    <type>Actor</type>
+    <tmdbid>2999081</tmdbid>
+  </actor>
+  <actor>
+    <name>Tenky Tin Kai-Man</name>
+    <type>Actor</type>
+    <tmdbid>1136808</tmdbid>
+    <imdbid>nm1214151</imdbid>
+  </actor>
+  <actor>
+    <name>Leung Kai-Chi</name>
+    <type>Actor</type>
+    <tmdbid>1414026</tmdbid>
+  </actor>
+  <actor>
+    <name>Buffalo Tang Tai-Wo</name>
+    <type>Actor</type>
+    <tmdbid>1270653</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacky Cheung Chun-Hung</name>
+    <type>Actor</type>
+    <tmdbid>1417211</tmdbid>
+  </actor>
+  <actor>
+    <name>So Wai-Nam</name>
+    <type>Actor</type>
+    <tmdbid>1400222</tmdbid>
+  </actor>
+  <actor>
+    <name>Chang Kin-Ming</name>
+    <type>Actor</type>
+    <tmdbid>1415799</tmdbid>
+  </actor>
+  <actor>
+    <name>Hui Sze-Man</name>
+    <type>Actor</type>
+    <tmdbid>1629227</tmdbid>
+    <imdbid>nm11003752</imdbid>
+  </actor>
+  <actor>
+    <name>Chan Man-Hiu</name>
+    <type>Actor</type>
+    <tmdbid>2243368</tmdbid>
+  </actor>
+  <actor>
+    <name>John Cheung Chan-Sang</name>
+    <type>Actor</type>
+    <tmdbid>1361025</tmdbid>
+  </actor>
+  <actor>
+    <name>Lui Siu-Ming</name>
+    <type>Actor</type>
+    <tmdbid>1367467</tmdbid>
+    <imdbid>nm4127791</imdbid>
+  </actor>
+  <actor>
+    <name>William Leung Chi-Ming</name>
+    <type>Actor</type>
+    <tmdbid>1417069</tmdbid>
+  </actor>
+  <actor>
+    <name>Choi Kin-Shing</name>
+    <type>Actor</type>
+    <tmdbid>1632759</tmdbid>
+  </actor>
+  <director tmdbid="548474" imdbid="nm0939147">Wong Jing</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9ioJQL7NW6I</trailer>
+  <rating>7.5</rating>
+  <year>1994</year>
+  <imdbid>tt0110201</imdbid>
+  <tmdbid>55156</tmdbid>
+  <premiered>1994-03-31</premiered>
+  <releasedate>1994-03-31</releasedate>
+  <runtime>107</runtime>
+  <country>Hong Kong</country>
+  <genre>喜剧</genre>
+  <studio>Win's Movie Production Limited</studio>
+  <uniqueid type="Imdb">tt0110201</uniqueid>
+  <uniqueid type="Tmdb">55156</uniqueid>
+  <id>tt0110201</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>9588727</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6404</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

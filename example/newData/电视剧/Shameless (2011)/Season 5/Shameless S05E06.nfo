@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[吉米/杰克/史蒂夫的回归让菲奥娜陷入了混乱，但她首先必须处理一个更大的危机，伊恩偷走了米奇和斯维特拉娜的孩子，并带着他一起去公路旅行。
+
+与此同时，复仇的萨米接管了加拉格尔的房子，并实施了严格的宵禁，没有为弗兰克提供任何便利设施。
+
+另外，黛比开始上高中，维罗妮卡也在为与凯文分居的决定而苦苦挣扎。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-16 18:16:05</dateadded>
+  <title>疯狂的爱</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Noel Fisher</name>
+    <role>Mickey Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>80352</tmdbid>
+    <imdbid>nm0279720</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Bergl</name>
+    <role>Sammi Slott</role>
+    <type>Actor</type>
+    <tmdbid>51390</tmdbid>
+    <imdbid>nm0004749</imdbid>
+  </actor>
+  <actor>
+    <name>Dichen Lachman</name>
+    <role>Angela</role>
+    <type>GuestStar</type>
+    <tmdbid>94797</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Chatwin</name>
+    <role>Steve Wilton/Jimmy Lishman</role>
+    <type>GuestStar</type>
+    <tmdbid>503</tmdbid>
+  </actor>
+  <actor>
+    <name>J. Michael Trautmann</name>
+    <role>Iggy Milkovich</role>
+    <type>GuestStar</type>
+    <tmdbid>1327853</tmdbid>
+  </actor>
+  <actor>
+    <name>Nichole Sakura</name>
+    <role>Amanda</role>
+    <type>GuestStar</type>
+    <tmdbid>996697</tmdbid>
+  </actor>
+  <actor>
+    <name>Luca Oriel</name>
+    <role>Derek Delgado</role>
+    <type>GuestStar</type>
+    <tmdbid>1148219</tmdbid>
+  </actor>
+  <actor>
+    <name>Kellen Michael</name>
+    <role>Chuckie Slott</role>
+    <type>GuestStar</type>
+    <tmdbid>1809024</tmdbid>
+  </actor>
+  <actor>
+    <name>Isidora Goreshter</name>
+    <role>Svetlana Yevgenivna</role>
+    <type>GuestStar</type>
+    <tmdbid>1677397</tmdbid>
+  </actor>
+  <actor>
+    <name>Dermot Mulroney</name>
+    <role>Sean Pierce</role>
+    <type>GuestStar</type>
+    <tmdbid>20212</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Kazee</name>
+    <role>Gus Pfender</role>
+    <type>GuestStar</type>
+    <tmdbid>207062</tmdbid>
+  </actor>
+  <director>Anthony Hemingway</director>
+  <rating>8.3</rating>
+  <year>2015</year>
+  <imdbid>tt3953104</imdbid>
+  <tvdbid>5006637</tvdbid>
+  <runtime>57</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <tvrageid>1065627716</tvrageid>
+  <uniqueid type="Imdb">tt3953104</uniqueid>
+  <uniqueid type="Tvdb">5006637</uniqueid>
+  <uniqueid type="TvRage">1065627716</uniqueid>
+  <episode>6</episode>
+  <season>5</season>
+  <aired>2015-02-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>9157673</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>57</duration>
+        <durationinseconds>3436</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>265-SiGMA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

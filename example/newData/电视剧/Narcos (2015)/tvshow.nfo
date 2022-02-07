@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[埃斯科瓦尔（瓦格纳·马拉 Wagner Moura 饰）曾是一个走私商人，机缘巧合之下开始接触毒品生意，野心勃勃的他将无法计数的毒品贩卖到美国，成为了富可敌国的大毒枭。与此同时，他集结了圈内几大巨头，成立了声名显赫的麦德林集团，一时间，埃斯科瓦尔的劲头无人能敌。墨菲（波伊德·霍布鲁克 Boyd Holbrook 饰）是美国缉毒局派往哥伦比亚的警探，他和搭档潘那（佩德罗·帕斯卡 Pedro Pascal 饰）合作，主要负责埃斯科瓦尔的案件。埃斯科瓦尔当上了议员，甚至决心竞选总统，却在国会当众受辱。之后，哥伦比亚政府试图启用引渡法案对付毒枭们，为了对抗政府，埃斯科瓦尔彻底沦为了反社会的恐怖分子，在不断壮大自己的毒品帝国的同时，用炸弹、暗杀和鲜血提醒着哥伦比亚政府，谁才是真正的老大。]]></plot>
+  <outline><![CDATA[埃斯科瓦尔（瓦格纳·马拉 Wagner Moura 饰）曾是一个走私商人，机缘巧合之下开始接触毒品生意，野心勃勃的他将无法计数的毒品贩卖到美国，成为了富可敌国的大毒枭。与此同时，他集结了圈内几大巨头，成立了声名显赫的麦德林集团，一时间，埃斯科瓦尔的劲头无人能敌。墨菲（波伊德·霍布鲁克 Boyd Holbrook 饰）是美国缉毒局派往哥伦比亚的警探，他和搭档潘那（佩德罗·帕斯卡 Pedro Pascal 饰）合作，主要负责埃斯科瓦尔的案件。埃斯科瓦尔当上了议员，甚至决心竞选总统，却在国会当众受辱。之后，哥伦比亚政府试图启用引渡法案对付毒枭们，为了对抗政府，埃斯科瓦尔彻底沦为了反社会的恐怖分子，在不断壮大自己的毒品帝国的同时，用炸弹、暗杀和鲜血提醒着哥伦比亚政府，谁才是真正的老大。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-15 22:42:09</dateadded>
+  <title>毒枭</title>
+  <originaltitle>Narcos</originaltitle>
+  <actor>
+    <name>Pedro Pascal</name>
+    <role>Javier Peña</role>
+    <type>Actor</type>
+    <tmdbid>1253360</tmdbid>
+  </actor>
+  <actor>
+    <name>Matias Varela</name>
+    <role>Jorge Salcedo</role>
+    <type>Actor</type>
+    <tmdbid>125739</tmdbid>
+  </actor>
+  <actor>
+    <name>Damián Alcázar</name>
+    <role>Gilberto Rodríguez Orejuela</role>
+    <type>Actor</type>
+    <tmdbid>7370</tmdbid>
+  </actor>
+  <actor>
+    <name>Francisco Denis</name>
+    <role>Miguel Rodríguez Orejuela</role>
+    <type>Actor</type>
+    <tmdbid>1004053</tmdbid>
+  </actor>
+  <actor>
+    <name>Alberto Ammann</name>
+    <role>Pacho Herrera</role>
+    <type>Actor</type>
+    <tmdbid>110424</tmdbid>
+  </actor>
+  <actor>
+    <name>Pêpê Rapazote</name>
+    <role>Chepe Santacruz Londoño</role>
+    <type>Actor</type>
+    <tmdbid>1150468</tmdbid>
+  </actor>
+  <actor>
+    <name>Arturo Castro</name>
+    <role>David Rodriguez</role>
+    <type>Actor</type>
+    <tmdbid>1457999</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Stahl-David</name>
+    <role>Chris Feistl</role>
+    <type>Actor</type>
+    <tmdbid>51991</tmdbid>
+    <imdbid>nm1221863</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Whelan</name>
+    <role>Daniel Van Ness</role>
+    <type>Actor</type>
+    <tmdbid>1046893</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Londo</name>
+    <role>Maria Salazar</role>
+    <type>Actor</type>
+    <tmdbid>1618597</tmdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=RNWAKZzgbp4</trailer>
+  <rating>7.9</rating>
+  <year>2015</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt2707408</imdb_id>
+  <tmdbid>63351</tmdbid>
+  <premiered>2015-08-28</premiered>
+  <releasedate>2015-08-28</releasedate>
+  <enddate>2017-09-01</enddate>
+  <runtime>57</runtime>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <studio>Netflix</studio>
+  <tvrageid>37241</tvrageid>
+  <uniqueid type="Tmdb">63351</uniqueid>
+  <uniqueid type="Imdb">tt2707408</uniqueid>
+  <uniqueid type="TvRage">37241</uniqueid>
+  <uniqueid type="Tvdb">282670</uniqueid>
+  <tvdbid>282670</tvdbid>
+  <id>282670</id>
+  <episodeguide>
+    <url cache="282670.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/282670/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Ended</status>
+</tvshow>

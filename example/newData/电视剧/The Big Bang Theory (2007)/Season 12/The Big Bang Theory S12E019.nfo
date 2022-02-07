@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[获得诺贝尔奖提名的艾米，有可能成为科学界年轻女性的楷模，因不堪重压而开始举止失常。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 00:17:36</dateadded>
+  <title>榜样的匮乏</title>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Leonard Hofstadter</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>Howard Wolowitz</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Nayyar</name>
+    <role>Rajesh Koothrappali</role>
+    <type>Actor</type>
+    <tmdbid>208099</tmdbid>
+    <imdbid>nm2471798</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa Rauch</name>
+    <role>Bernadette Rostenkowski</role>
+    <type>Actor</type>
+    <tmdbid>1221716</tmdbid>
+    <imdbid>nm1851981</imdbid>
+  </actor>
+  <actor>
+    <name>Mayim Bialik</name>
+    <role>Amy Farrah Fowler</role>
+    <type>Actor</type>
+    <tmdbid>167640</tmdbid>
+    <imdbid>nm0080524</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Sussman</name>
+    <role>Stuart Bloom</role>
+    <type>Actor</type>
+    <tmdbid>60633</tmdbid>
+    <imdbid>nm0839934</imdbid>
+  </actor>
+  <actor>
+    <name>Brooke Dillman</name>
+    <role>Bebe</role>
+    <type>GuestStar</type>
+    <tmdbid>54718</tmdbid>
+  </actor>
+  <actor>
+    <name>Regina King</name>
+    <role>Janine Davis</role>
+    <type>GuestStar</type>
+    <tmdbid>9788</tmdbid>
+    <imdbid>nm0005093</imdbid>
+  </actor>
+  <actor>
+    <name>Doreen Calderon</name>
+    <role>Woman #1</role>
+    <type>GuestStar</type>
+    <tmdbid>1732748</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Eagen</name>
+    <role>Woman #2</role>
+    <type>GuestStar</type>
+    <tmdbid>1602547</tmdbid>
+  </actor>
+  <actor>
+    <name>Claudia Choi</name>
+    <role>Woman #3</role>
+    <type>GuestStar</type>
+    <tmdbid>19281</tmdbid>
+    <imdbid>nm1695726</imdbid>
+  </actor>
+  <actor>
+    <name>Tiffany Commons</name>
+    <role>Woman #4</role>
+    <type>GuestStar</type>
+    <tmdbid>2003347</tmdbid>
+  </actor>
+  <actor>
+    <name>Krishna Smitha</name>
+    <role>Woman #5</role>
+    <type>GuestStar</type>
+    <tmdbid>1468254</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Malina</name>
+    <role>President Siebert</role>
+    <type>GuestStar</type>
+    <tmdbid>131642</tmdbid>
+    <imdbid>nm0539651</imdbid>
+  </actor>
+  <actor>
+    <name>Susan Leslie</name>
+    <role>Woman #6</role>
+    <type>GuestStar</type>
+    <tmdbid>149525</tmdbid>
+  </actor>
+  <actor>
+    <name>Cassidey Fralin</name>
+    <role>Woman #7</role>
+    <type>GuestStar</type>
+    <tmdbid>2095882</tmdbid>
+  </actor>
+  <actor>
+    <name>Riley Go</name>
+    <role>Woman #8</role>
+    <type>GuestStar</type>
+    <tmdbid>1866586</tmdbid>
+  </actor>
+  <actor>
+    <name>Cleo Fraser</name>
+    <role>Little Girl</role>
+    <type>GuestStar</type>
+    <tmdbid>2034495</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Posehn</name>
+    <role>Bert Kibbler</role>
+    <type>GuestStar</type>
+    <tmdbid>20405</tmdbid>
+    <imdbid>nm0692634</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7</rating>
+  <year>2019</year>
+  <imdbid>tt6674720</imdbid>
+  <tvdbid>7117710</tvdbid>
+  <runtime>20</runtime>
+  <uniqueid type="Tvdb">7117710</uniqueid>
+  <uniqueid type="Imdb">tt6674720</uniqueid>
+  <episode>19</episode>
+  <season>12</season>
+  <aired>2019-04-18</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4688134</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>20</duration>
+        <durationinseconds>1216</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Andy在Comfort Support Line的呼叫中心工作，这是一个孤独和绝望的帮助热线。他成为缠扰者的目标后能否应对情绪压力？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-06 12:35:53</dateadded>
+  <title>冰冷的安慰</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Jane Horrocks</name>
+    <role>Liz</role>
+    <type>GuestStar</type>
+    <tmdbid>34902</tmdbid>
+    <imdbid>nm0001363</imdbid>
+  </actor>
+  <actor>
+    <name>Nikki Amuka-Bird</name>
+    <role>Joanne</role>
+    <type>GuestStar</type>
+    <tmdbid>109319</tmdbid>
+    <imdbid>nm0025458</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Way</name>
+    <role>Michael</role>
+    <type>GuestStar</type>
+    <tmdbid>147255</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward Easton</name>
+    <role>Caller</role>
+    <type>GuestStar</type>
+    <tmdbid>1457456</tmdbid>
+  </actor>
+  <actor>
+    <name>Vilma Hollingbery</name>
+    <role>Caller</role>
+    <type>GuestStar</type>
+    <tmdbid>81031</tmdbid>
+    <imdbid>nm0391108</imdbid>
+  </actor>
+  <actor>
+    <name>Kath Hughes</name>
+    <role>Caller</role>
+    <type>GuestStar</type>
+    <tmdbid>1457457</tmdbid>
+  </actor>
+  <actor>
+    <name>James Meehan</name>
+    <role>Caller</role>
+    <type>GuestStar</type>
+    <tmdbid>1457458</tmdbid>
+  </actor>
+  <actor>
+    <name>Vicky Hall</name>
+    <role>Caller</role>
+    <type>GuestStar</type>
+    <tmdbid>1229276</tmdbid>
+  </actor>
+  <director tmdbid="28485" imdbid="nm0671487">Steve Pemberton</director>
+  <director tmdbid="34551" imdbid="nm0790501">Reece Shearsmith</director>
+  <rating>8.333</rating>
+  <year>2015</year>
+  <imdbid>tt4533012</imdbid>
+  <tvdbid>5157104</tvdbid>
+  <runtime>29</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Horror</genre>
+  <uniqueid type="Imdb">tt4533012</uniqueid>
+  <uniqueid type="Tvdb">5157104</uniqueid>
+  <episode>4</episode>
+  <season>2</season>
+  <aired>2015-04-16</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10804396</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>28</duration>
+        <durationinseconds>1735</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

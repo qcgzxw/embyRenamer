@@ -1,0 +1,204 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[　　贝丝·安和罗布开了一个乔迁派对向邻居介绍自己，但邻居玛丽和拉尔夫似乎有点不对劲。当西蒙娜和卡尔与艾米保守的未来姻亲共进晚餐时，喜事接踵而至，秘密曝光。泰勒开始质疑生活安排并揭露了伊莱的一个黑暗真相后，三人之间的紧张关系加剧。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-09-21 06:50:17</dateadded>
+  <title>各方各面都近乎致命</title>
+  <actor>
+    <name>Ginnifer Goodwin</name>
+    <role>Beth Ann Stanton</role>
+    <type>Actor</type>
+    <tmdbid>417</tmdbid>
+    <imdbid>nm0329481</imdbid>
+  </actor>
+  <actor>
+    <name>Lucy Liu</name>
+    <role>Simone Grove</role>
+    <type>Actor</type>
+    <tmdbid>140</tmdbid>
+    <imdbid>nm0005154</imdbid>
+  </actor>
+  <actor>
+    <name>Kirby Howell-Baptiste</name>
+    <role>Taylor Harding</role>
+    <type>Actor</type>
+    <tmdbid>1532312</tmdbid>
+    <imdbid>nm4624730</imdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Daddario</name>
+    <role>Jade</role>
+    <type>Actor</type>
+    <tmdbid>109513</tmdbid>
+    <imdbid>nm1275259</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Davenport</name>
+    <role>Karl Grove</role>
+    <type>Actor</type>
+    <tmdbid>1709</tmdbid>
+    <imdbid>nm0202603</imdbid>
+  </actor>
+  <actor>
+    <name>Reid Scott</name>
+    <role>Eli Cohen</role>
+    <type>Actor</type>
+    <tmdbid>81316</tmdbid>
+    <imdbid>nm1169428</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Jaeger</name>
+    <role>Rob Stanton</role>
+    <type>Actor</type>
+    <tmdbid>65727</tmdbid>
+    <imdbid>nm0415382</imdbid>
+  </actor>
+  <actor>
+    <name>Sadie Calvano</name>
+    <role>April</role>
+    <type>Actor</type>
+    <tmdbid>1258702</tmdbid>
+    <imdbid>nm3970180</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Gant</name>
+    <role>Dale Clarkson</role>
+    <type>GuestStar</type>
+    <tmdbid>15283</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie DePew</name>
+    <role>Brad</role>
+    <type>GuestStar</type>
+    <tmdbid>1424715</tmdbid>
+  </actor>
+  <actor>
+    <name>Dale Dickey</name>
+    <role>Ruby</role>
+    <type>GuestStar</type>
+    <tmdbid>46814</tmdbid>
+    <imdbid>nm0225460</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Craighead</name>
+    <role>Dwight</role>
+    <type>GuestStar</type>
+    <tmdbid>949345</tmdbid>
+  </actor>
+  <actor>
+    <name>Hayley Hasselhoff</name>
+    <role>Patty</role>
+    <type>GuestStar</type>
+    <tmdbid>1585132</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Ferrara</name>
+    <role>Leo Mosconi</role>
+    <type>GuestStar</type>
+    <tmdbid>113245</tmdbid>
+    <imdbid>nm0273946</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/7827.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Sunrise Adams - サンライズ アダムス","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/z-DMM(骑)/AI-Fix-サンライズ アダムス.jpg","Url":"https://xslist.org/zh/model/7827.html","ImageType":"Backdrop"}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/7827.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Analeigh Tipton</name>
+    <role>Mary</role>
+    <type>GuestStar</type>
+    <tmdbid>124644</tmdbid>
+    <imdbid>nm3006818</imdbid>
+  </actor>
+  <actor>
+    <name>Philip Anthony-Rodriguez</name>
+    <role>Hector</role>
+    <type>GuestStar</type>
+    <tmdbid>1215388</tmdbid>
+    <imdbid>nm1271152</imdbid>
+  </actor>
+  <actor>
+    <name>Li Jun Li</name>
+    <role>Amy</role>
+    <type>GuestStar</type>
+    <tmdbid>1321015</tmdbid>
+    <imdbid>nm4050835</imdbid>
+  </actor>
+  <actor>
+    <name>Alicia Coppola</name>
+    <role>Sheila Mosconi</role>
+    <type>GuestStar</type>
+    <tmdbid>126875</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Porter</name>
+    <role>Ralph</role>
+    <type>GuestStar</type>
+    <tmdbid>53368</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Daniels</name>
+    <role>Lamar</role>
+    <type>GuestStar</type>
+    <tmdbid>104785</tmdbid>
+    <imdbid>nm0199823</imdbid>
+  </actor>
+  <actor>
+    <name>Victoria Garcia-Kelleher</name>
+    <role>Gretchen Clark</role>
+    <type>GuestStar</type>
+    <tmdbid>1500108</tmdbid>
+  </actor>
+  <director>David Warren</director>
+  <rating>6.2</rating>
+  <year>2019</year>
+  <imdbid>tt10359264</imdbid>
+  <tvdbid>7298945</tvdbid>
+  <runtime>53</runtime>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt10359264</uniqueid>
+  <uniqueid type="Tvdb">7298945</uniqueid>
+  <episode>6</episode>
+  <season>1</season>
+  <aired>2019-09-19</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5587386</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>52</duration>
+        <durationinseconds>3161</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>374075</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

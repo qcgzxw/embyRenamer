@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[当格斯宣布他要离开去巡演时，菲奥娜被她的关系状况搞糊涂了。
+
+与此同时，卡尔的老板要求卡尔将毒品运到印第安纳州；弗兰克发现了一种报复萨米的方法，利用Chuckie作为骡子并逮捕了他；利普仍在赚取学费，说服小凯到宿舍来卖毒品。
+
+此外，由于伊恩拒绝接受他的躁郁症诊断，黛比的任务是照看他按时吃药。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-16 18:17:35</dateadded>
+  <title>卡尔叔叔</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Noel Fisher</name>
+    <role>Mickey Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>80352</tmdbid>
+    <imdbid>nm0279720</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Bergl</name>
+    <role>Sammi Slott</role>
+    <type>Actor</type>
+    <tmdbid>51390</tmdbid>
+    <imdbid>nm0004749</imdbid>
+  </actor>
+  <actor>
+    <name>Axle Whitehead</name>
+    <role>Davis</role>
+    <type>GuestStar</type>
+    <tmdbid>1247107</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Hasley</name>
+    <role>Dr. Thompson</role>
+    <type>GuestStar</type>
+    <tmdbid>1410659</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael B. Silver</name>
+    <role>Lorenzo</role>
+    <type>GuestStar</type>
+    <tmdbid>12226</tmdbid>
+  </actor>
+  <actor>
+    <name>Bojana Novaković</name>
+    <role>Bianca Samson</role>
+    <type>GuestStar</type>
+    <tmdbid>81682</tmdbid>
+    <imdbid>nm0636942</imdbid>
+  </actor>
+  <actor>
+    <name>J. Michael Trautmann</name>
+    <role>Iggy Milkovich</role>
+    <type>GuestStar</type>
+    <tmdbid>1327853</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenica Bergere</name>
+    <role>Lisa</role>
+    <type>GuestStar</type>
+    <tmdbid>113818</tmdbid>
+  </actor>
+  <actor>
+    <name>Nichole Sakura</name>
+    <role>Amanda</role>
+    <type>GuestStar</type>
+    <tmdbid>996697</tmdbid>
+  </actor>
+  <actor>
+    <name>Luca Oriel</name>
+    <role>Derek Delgado</role>
+    <type>GuestStar</type>
+    <tmdbid>1148219</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Patrick McGill</name>
+    <role>Tommy</role>
+    <type>GuestStar</type>
+    <tmdbid>154816</tmdbid>
+    <imdbid>nm1042946</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Hoffmaster</name>
+    <role>Kermit</role>
+    <type>GuestStar</type>
+    <tmdbid>1224161</tmdbid>
+    <imdbid>nm1687798</imdbid>
+  </actor>
+  <actor>
+    <name>Kellen Michael</name>
+    <role>Chuckie Slott</role>
+    <type>GuestStar</type>
+    <tmdbid>1809024</tmdbid>
+  </actor>
+  <actor>
+    <name>Dermot Mulroney</name>
+    <role>Sean Pierce</role>
+    <type>GuestStar</type>
+    <tmdbid>20212</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Kazee</name>
+    <role>Gus Pfender</role>
+    <type>GuestStar</type>
+    <tmdbid>207062</tmdbid>
+  </actor>
+  <director>Wendey Stanzler</director>
+  <rating>8.4</rating>
+  <year>2015</year>
+  <imdbid>tt4056348</imdbid>
+  <tvdbid>5006639</tvdbid>
+  <runtime>52</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt4056348</uniqueid>
+  <uniqueid type="Tvdb">5006639</uniqueid>
+  <episode>8</episode>
+  <season>5</season>
+  <aired>2015-03-08</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>9223137</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>51</duration>
+        <durationinseconds>3091</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>265-SiGMA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[小伙子们开车去贝克斯菲尔德参加漫展时厄运连连。留在家里的女孩们则发现漫画书其实没那么糟。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-19 03:15:57</dateadded>
+  <title>贝克斯菲尔德探险</title>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Leonard Hofstadter</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>Howard Wolowitz</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Nayyar</name>
+    <role>Rajesh Koothrappali</role>
+    <type>Actor</type>
+    <tmdbid>208099</tmdbid>
+    <imdbid>nm2471798</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa Rauch</name>
+    <role>Bernadette Rostenkowski</role>
+    <type>Actor</type>
+    <tmdbid>1221716</tmdbid>
+    <imdbid>nm1851981</imdbid>
+  </actor>
+  <actor>
+    <name>Mayim Bialik</name>
+    <role>Amy Farrah Fowler</role>
+    <type>Actor</type>
+    <tmdbid>167640</tmdbid>
+    <imdbid>nm0080524</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Sussman</name>
+    <role>Stuart Bloom</role>
+    <type>Actor</type>
+    <tmdbid>60633</tmdbid>
+    <imdbid>nm0839934</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Battaglia</name>
+    <role>Officer Reynolds</role>
+    <type>GuestStar</type>
+    <tmdbid>15282</tmdbid>
+  </actor>
+  <actor>
+    <name>Angela Sargeant</name>
+    <role>Lana</role>
+    <type>GuestStar</type>
+    <tmdbid>168398</tmdbid>
+    <imdbid>nm1200036</imdbid>
+  </actor>
+  <actor>
+    <name>Craig Gellis</name>
+    <role>Car Thief #1</role>
+    <type>GuestStar</type>
+    <tmdbid>154829</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Alvarez</name>
+    <role>Car Thief #2</role>
+    <type>GuestStar</type>
+    <tmdbid>65826</tmdbid>
+  </actor>
+  <actor>
+    <name>Rick Gifford</name>
+    <role>Guy</role>
+    <type>GuestStar</type>
+    <tmdbid>164544</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Scott Rudolph</name>
+    <role>Captain Sweatpants (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>1886805</tmdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>8</rating>
+  <year>2013</year>
+  <imdbid>tt2582488</imdbid>
+  <tvdbid>4453065</tvdbid>
+  <runtime>21</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <uniqueid type="Imdb">tt2582488</uniqueid>
+  <uniqueid type="Tvdb">4453065</uniqueid>
+  <episode>13</episode>
+  <season>6</season>
+  <aired>2013-01-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1583501</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976042</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1262</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

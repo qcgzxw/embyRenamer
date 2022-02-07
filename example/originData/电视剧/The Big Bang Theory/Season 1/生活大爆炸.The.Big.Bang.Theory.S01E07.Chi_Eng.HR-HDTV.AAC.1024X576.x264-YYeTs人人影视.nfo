@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[佩妮的朋友在她的公寓里勾搭霍华德，佩妮只得到对面小伙子们的家里过夜，成了他们光晕团队的第四人。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 16:40:06</dateadded>
+  <title>新进电玩玩伴</title>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Leonard Hofstadter</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>Howard Wolowitz</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Nayyar</name>
+    <role>Rajesh Koothrappali</role>
+    <type>Actor</type>
+    <tmdbid>208099</tmdbid>
+    <imdbid>nm2471798</imdbid>
+  </actor>
+  <actor>
+    <name>Brooke D'Orsay</name>
+    <role>Christy Vanderbel</role>
+    <type>GuestStar</type>
+    <tmdbid>42297</tmdbid>
+    <imdbid>nm1175262</imdbid>
+  </actor>
+  <actor>
+    <name>James Hong</name>
+    <role>Chen</role>
+    <type>GuestStar</type>
+    <tmdbid>20904</tmdbid>
+    <imdbid>nm0393222</imdbid>
+  </actor>
+  <actor>
+    <name>Carol Ann Susi</name>
+    <role>Debbie Wolowitz (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1212530</tmdbid>
+    <imdbid>nm0839836</imdbid>
+  </actor>
+  <actor>
+    <name>Kimberly Brooks</name>
+    <role>Automated Cell Phone Voice (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>54427</tmdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.6</rating>
+  <year>2007</year>
+  <imdbid>tt1136041</imdbid>
+  <tvdbid>341166</tvdbid>
+  <runtime>21</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>618419</tvrageid>
+  <uniqueid type="Imdb">tt1136041</uniqueid>
+  <uniqueid type="Tvdb">341166</uniqueid>
+  <uniqueid type="TvRage">618419</uniqueid>
+  <episode>7</episode>
+  <season>1</season>
+  <aired>2007-11-05</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1398621</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>20</duration>
+        <durationinseconds>1238</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

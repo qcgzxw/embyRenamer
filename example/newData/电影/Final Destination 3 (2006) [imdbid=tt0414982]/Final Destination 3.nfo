@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　死神来了系列从六年前的第一部面世以来就有一批忠实地粉丝，2000年的第二部，原先能遇见死亡的人从男高中生换成女高中生，在这第三部中继续延续用美丽清纯的女“通灵王”的决定，相信是为了更好的吸引眼球。　　高中生温迪、茱莉，这对好姊妹和她们的男朋友等人游玩，主角看见云霄飞车失事的惨难，在幻象中，她和朋友们全都死于这场灾难。清醒后的她，马上阻止大家搭乘云霄飞车，果真，云霄飞车惨难真的发生了！温迪的一些朋友惨死于这场灾难，但她也救了一些朋友，包括好姊妹茱莉、凯文、艾伦、伊安等人。然而在日后，温迪的这些朋友开始一个接一个死于离奇意外，她意识到了死神已经开始找她们讨命了，温迪和朋友们决定开始计划欺骗死神，再次逃过这一劫。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-12 17:36:28</dateadded>
+  <title>死神来了3</title>
+  <originaltitle>Final Destination 3</originaltitle>
+  <actor>
+    <name>Mary Elizabeth Winstead</name>
+    <role>Wendy Christensen</role>
+    <type>Actor</type>
+    <tmdbid>17628</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Merriman</name>
+    <role>Kevin Fischer</role>
+    <type>Actor</type>
+    <tmdbid>57136</tmdbid>
+  </actor>
+  <actor>
+    <name>Kris Lemche</name>
+    <role>Ian McKinley</role>
+    <type>Actor</type>
+    <tmdbid>20176</tmdbid>
+    <imdbid>nm0501210</imdbid>
+  </actor>
+  <actor>
+    <name>Alexz Johnson</name>
+    <role>Erin Ulmer</role>
+    <type>Actor</type>
+    <tmdbid>57137</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Easton</name>
+    <role>Frankie Cheeks</role>
+    <type>Actor</type>
+    <tmdbid>37700</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesse Moss</name>
+    <role>Jason Wise</role>
+    <type>Actor</type>
+    <tmdbid>59926</tmdbid>
+  </actor>
+  <actor>
+    <name>Gina Holden</name>
+    <role>Carrie Dreyer</role>
+    <type>Actor</type>
+    <tmdbid>33336</tmdbid>
+  </actor>
+  <actor>
+    <name>Texas Battle</name>
+    <role>Lewis Romero</role>
+    <type>Actor</type>
+    <tmdbid>53185</tmdbid>
+  </actor>
+  <actor>
+    <name>Chelan Simmons</name>
+    <role>Ashley Freund</role>
+    <type>Actor</type>
+    <tmdbid>27775</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Crew</name>
+    <role>Julie Christensen</role>
+    <type>Actor</type>
+    <tmdbid>58370</tmdbid>
+  </actor>
+  <actor>
+    <name>Crystal Lowe</name>
+    <role>Ashlyn Halperin</role>
+    <type>Actor</type>
+    <tmdbid>58393</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Todd</name>
+    <role>Devil (voice)</role>
+    <type>Actor</type>
+    <tmdbid>19384</tmdbid>
+  </actor>
+  <actor>
+    <name>Ecstasia Sanders</name>
+    <role>Amber Regan</role>
+    <type>Actor</type>
+    <tmdbid>77052</tmdbid>
+  </actor>
+  <actor>
+    <name>Jody Racicot</name>
+    <role>Bludworth</role>
+    <type>Actor</type>
+    <tmdbid>33339</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Gallagher</name>
+    <role>Colquitt</role>
+    <type>Actor</type>
+    <tmdbid>17837</tmdbid>
+    <imdbid>nm0302466</imdbid>
+  </actor>
+  <actor>
+    <name>Maggie Ma</name>
+    <role>Perry Malinowski</role>
+    <type>Actor</type>
+    <tmdbid>59247</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Shield</name>
+    <role>Paul Revere</role>
+    <type>Actor</type>
+    <tmdbid>1328755</tmdbid>
+  </actor>
+  <actor>
+    <name>Cory Monteith</name>
+    <role>Kahill</role>
+    <type>Actor</type>
+    <tmdbid>33352</tmdbid>
+  </actor>
+  <actor>
+    <name>Dylan Basu</name>
+    <role>Ethan</role>
+    <type>Actor</type>
+    <tmdbid>2237846</tmdbid>
+  </actor>
+  <actor>
+    <name>Alberto Ghisi</name>
+    <role>Harry</role>
+    <type>Actor</type>
+    <tmdbid>1224709</tmdbid>
+  </actor>
+  <actor>
+    <name>Stuart Cowan</name>
+    <role>Launch Attendant</role>
+    <type>Actor</type>
+    <tmdbid>930508</tmdbid>
+  </actor>
+  <actor>
+    <name>Harris Allan</name>
+    <role>Ride Attendant</role>
+    <type>Actor</type>
+    <tmdbid>77899</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexandr Kalugin</name>
+    <role>Yuri</role>
+    <type>Actor</type>
+    <tmdbid>142295</tmdbid>
+  </actor>
+  <actor>
+    <name>Nels Lennarson</name>
+    <role>Clark</role>
+    <type>Actor</type>
+    <tmdbid>63564</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Rupp</name>
+    <role>Polanski</role>
+    <type>Actor</type>
+    <tmdbid>229167</tmdbid>
+  </actor>
+  <actor>
+    <name>R. David Stephens</name>
+    <role>Minister</role>
+    <type>Actor</type>
+    <tmdbid>1358990</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Francis</name>
+    <role>Payton</role>
+    <type>Actor</type>
+    <tmdbid>52718</tmdbid>
+  </actor>
+  <actor>
+    <name>Graham Andrews</name>
+    <role>Ben Franklin</role>
+    <type>Actor</type>
+    <tmdbid>1322364</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Morelli</name>
+    <role>Husband</role>
+    <type>Actor</type>
+    <tmdbid>113204</tmdbid>
+  </actor>
+  <actor>
+    <name>Nesta Chapman</name>
+    <role>Wife</role>
+    <type>Actor</type>
+    <tmdbid>1368544</tmdbid>
+  </actor>
+  <actor>
+    <name>Dustin Milligan</name>
+    <role>Marcus</role>
+    <type>Actor</type>
+    <tmdbid>53117</tmdbid>
+    <imdbid>nm1682420</imdbid>
+  </actor>
+  <actor>
+    <name>Lou Bollo</name>
+    <role>Tow Truck Driver</role>
+    <type>Actor</type>
+    <tmdbid>2052744</tmdbid>
+  </actor>
+  <actor>
+    <name>Colby Johannson</name>
+    <role>Lineman</role>
+    <type>Actor</type>
+    <tmdbid>169510</tmdbid>
+  </actor>
+  <actor>
+    <name>Keith Dallas</name>
+    <role>Offensive Lineman</role>
+    <type>Actor</type>
+    <tmdbid>55788</tmdbid>
+  </actor>
+  <actor>
+    <name>Víctor Ayala</name>
+    <role>M-80 Boys</role>
+    <type>Actor</type>
+    <tmdbid>1050696</tmdbid>
+  </actor>
+  <actor>
+    <name>Agam Darshi</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>62173</tmdbid>
+  </actor>
+  <actor>
+    <name>Dylan Basile</name>
+    <role>Sean</role>
+    <type>Actor</type>
+    <tmdbid>2237870</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Ellis</name>
+    <role>Subway Performer</role>
+    <type>Actor</type>
+    <tmdbid>1313644</tmdbid>
+  </actor>
+  <director tmdbid="57134">James Wong</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-m_GmDZ7pSY</trailer>
+  <rating>5.8</rating>
+  <year>2006</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0414982</imdbid>
+  <tmdbid>9286</tmdbid>
+  <premiered>2006-02-09</premiered>
+  <releasedate>2006-02-09</releasedate>
+  <criticrating>44</criticrating>
+  <runtime>93</runtime>
+  <country>Canada</country>
+  <country>Germany</country>
+  <country>United States of America</country>
+  <genre>恐怖</genre>
+  <genre>悬疑</genre>
+  <studio>New Line Cinema</studio>
+  <studio>Zide-Perry Productions</studio>
+  <studio>Kumar Mobiliengesellschaft mbH &amp; Co. Projekt Nr. 1 KG</studio>
+  <studio>Hard Eight Pictures</studio>
+  <studio>Matinee Pictures</studio>
+  <studio>Practical Pictures</studio>
+  <set tmdbcolid="8864">
+    <name>死神来了（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">9286</uniqueid>
+  <uniqueid type="Imdb">tt0414982</uniqueid>
+  <id>tt0414982</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>12171588</bitrate>
+        <width>1920</width>
+        <height>814</height>
+        <aspect>960:407</aspect>
+        <aspectratio>960:407</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>92</duration>
+        <durationinseconds>5570</durationinseconds>
+      </video>
+      <audio>
+        <codec>truehd</codec>
+        <micodec>truehd</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

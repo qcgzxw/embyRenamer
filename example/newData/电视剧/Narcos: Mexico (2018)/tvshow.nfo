@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[本作将聚焦于反毒战争的起源 – 墨西哥的瓜达拉哈拉贩毒集团，时间也将移前至80年代，讲述冷静﹑大胆﹑头脑清晰﹑忠于 亲友的Felix Gallardo（Diego Luna饰）如何把散乱的贩毒者统一起来，成为被称为「Godfather」的大毒枭。而缉毒局探员Kiki Camarena（Michael Pena饰）带着妻儿从加州搬到瓜达拉哈拉，但他没意料到此反毒战的危险程度，并引发了惨剧。]]></plot>
+  <outline><![CDATA[本作将聚焦于反毒战争的起源 – 墨西哥的瓜达拉哈拉贩毒集团，时间也将移前至80年代，讲述冷静﹑大胆﹑头脑清晰﹑忠于 亲友的Felix Gallardo（Diego Luna饰）如何把散乱的贩毒者统一起来，成为被称为「Godfather」的大毒枭。而缉毒局探员Kiki Camarena（Michael Pena饰）带着妻儿从加州搬到瓜达拉哈拉，但他没意料到此反毒战的危险程度，并引发了惨剧。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-17 21:08:57</dateadded>
+  <title>毒枭：墨西哥</title>
+  <originaltitle>Narcos: Mexico</originaltitle>
+  <actor>
+    <name>Scoot McNairy</name>
+    <role>Walt Breslin / Narrator</role>
+    <type>Actor</type>
+    <tmdbid>59233</tmdbid>
+  </actor>
+  <actor>
+    <name>José María Yázpik</name>
+    <role>Amado Carrillo Fuentes</role>
+    <type>Actor</type>
+    <tmdbid>72128</tmdbid>
+  </actor>
+  <actor>
+    <name>Luis Gerardo Méndez</name>
+    <role>Victor Tapia</role>
+    <type>Actor</type>
+    <tmdbid>936254</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Letscher</name>
+    <role>James 'Jaime' Kuykendall</role>
+    <type>Actor</type>
+    <tmdbid>28414</tmdbid>
+    <imdbid>nm0504762</imdbid>
+  </actor>
+  <actor>
+    <name>Luisa Maria Rubino</name>
+    <role>Andrea Nuñez</role>
+    <type>Actor</type>
+    <tmdbid>2182309</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfonso Dosal</name>
+    <role>Benjamín Arellano Félix</role>
+    <type>Actor</type>
+    <tmdbid>1149129</tmdbid>
+  </actor>
+  <actor>
+    <name>Mayra Hermosillo</name>
+    <role>Enedina Arellano Félix</role>
+    <type>Actor</type>
+    <tmdbid>1526350</tmdbid>
+  </actor>
+  <actor>
+    <name>Manuel Masalva</name>
+    <role>Ramón Arellano Félix</role>
+    <type>Actor</type>
+    <tmdbid>2229075</tmdbid>
+  </actor>
+  <actor>
+    <name>Alejandro Edda</name>
+    <role>Joaquín 'El Chapo' Guzmán</role>
+    <type>Actor</type>
+    <tmdbid>1809025</tmdbid>
+  </actor>
+  <actor>
+    <name>Gorka Lasaosa</name>
+    <role>Héctor Luis Palma Salazar</role>
+    <type>Actor</type>
+    <tmdbid>82698</tmdbid>
+  </actor>
+  <actor>
+    <name>Alberto Guerra</name>
+    <role>Ismael 'El Mayo' Zambada</role>
+    <type>Actor</type>
+    <tmdbid>1020697</tmdbid>
+  </actor>
+  <rating>7.9</rating>
+  <year>2018</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt8714904</imdb_id>
+  <tmdbid>80968</tmdbid>
+  <premiered>2018-11-16</premiered>
+  <releasedate>2018-11-16</releasedate>
+  <enddate>2021-11-05</enddate>
+  <runtime>50</runtime>
+  <genre>剧情</genre>
+  <genre>犯罪</genre>
+  <studio>Netflix</studio>
+  <uniqueid type="Tmdb">80968</uniqueid>
+  <uniqueid type="Imdb">tt8714904</uniqueid>
+  <uniqueid type="Tvdb">353232</uniqueid>
+  <tvdbid>353232</tvdbid>
+  <id>353232</id>
+  <episodeguide>
+    <url cache="353232.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/353232/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Ended</status>
+</tvshow>

@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[17 岁的詹姆斯厌倦了杀动物。这时，自以为是的女孩阿丽莎突然出现在校园，这让詹姆斯开始酝酿自己第一次真正的谋杀。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-11-07 16:41:54</dateadded>
+  <title>第 1 集</title>
+  <actor>
+    <name>Alex Lawther</name>
+    <role>James</role>
+    <type>Actor</type>
+    <tmdbid>1379277</tmdbid>
+    <imdbid>nm3867299</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Barden</name>
+    <role>Alyssa</role>
+    <type>Actor</type>
+    <tmdbid>550552</tmdbid>
+    <imdbid>nm1875238</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Oram</name>
+    <role>Phil</role>
+    <type>Actor</type>
+    <tmdbid>219367</tmdbid>
+    <imdbid>nm1361530</imdbid>
+  </actor>
+  <actor>
+    <name>Christine Bottomley</name>
+    <role>Gwen</role>
+    <type>GuestStar</type>
+    <tmdbid>75070</tmdbid>
+    <imdbid>nm1180835</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Appleton</name>
+    <role>Kelly</role>
+    <type>GuestStar</type>
+    <tmdbid>1770525</tmdbid>
+    <imdbid>nm8221626</imdbid>
+  </actor>
+  <actor>
+    <name>Juliet Cowan</name>
+    <role>Diner Waitress</role>
+    <type>GuestStar</type>
+    <tmdbid>1213838</tmdbid>
+    <imdbid>nm0184588</imdbid>
+  </actor>
+  <actor>
+    <name>Holly Beechey</name>
+    <role>Little Alyssa</role>
+    <type>GuestStar</type>
+    <tmdbid>2429707</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelly Harrison</name>
+    <role>Vanessa</role>
+    <type>GuestStar</type>
+    <tmdbid>126956</tmdbid>
+    <imdbid>nm1043326</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Veal</name>
+    <role>Little James</role>
+    <type>GuestStar</type>
+    <tmdbid>1972389</tmdbid>
+  </actor>
+  <actor>
+    <name>Navin Chowdhry</name>
+    <role>Tony</role>
+    <type>GuestStar</type>
+    <tmdbid>81267</tmdbid>
+    <imdbid>nm0159527</imdbid>
+  </actor>
+  <director>Jonathan Entwistle</director>
+  <rating>7.8</rating>
+  <year>2017</year>
+  <imdbid>tt6857118</imdbid>
+  <tvdbid>6367590</tvdbid>
+  <runtime>19</runtime>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt6857118</uniqueid>
+  <uniqueid type="Tvdb">6367590</uniqueid>
+  <episode>1</episode>
+  <season>1</season>
+  <aired>2017-10-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>45301746</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>18</duration>
+        <durationinseconds>1134</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,620 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[小男孩米格（安东尼·冈萨雷斯 Anthony Gonzalez 配音）一心梦想成为音乐家，更希望自己能和偶像歌神德拉库斯（本杰明·布拉特 Benjamin Bratt 配音）一样，创造出打动人心的音乐，但他的家族却世代禁止族人接触音乐。米格痴迷音乐，无比渴望证明自己的音乐才能，却因为一系列怪事，来到了五彩斑斓又光怪陆离的神秘世界。在那里，米格遇见了魅力十足的落魄乐手埃克托（盖尔·加西亚·贝纳尔 Gael García Bernal 配音），他们一起踏上了探寻米格家族不为人知往事的奇妙之旅，并开启了一段震撼心灵、感动非凡、永生难忘的旅程。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-03-04 07:25:36</dateadded>
+  <title>寻梦环游记</title>
+  <originaltitle>Coco</originaltitle>
+  <actor>
+    <name>Anthony Gonzalez</name>
+    <role>Miguel Rivera (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1193391</tmdbid>
+    <imdbid>nm5645519</imdbid>
+  </actor>
+  <actor>
+    <name>Gael García Bernal</name>
+    <role>Héctor (voice)</role>
+    <type>Actor</type>
+    <tmdbid>258</tmdbid>
+    <imdbid>nm0305558</imdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Bratt</name>
+    <role>Ernesto de la Cruz (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4589</tmdbid>
+    <imdbid>nm0000973</imdbid>
+  </actor>
+  <actor>
+    <name>Alanna Ubach</name>
+    <role>Mamá Imelda Rivera (voice)</role>
+    <type>Actor</type>
+    <tmdbid>10402</tmdbid>
+    <imdbid>nm0005513</imdbid>
+  </actor>
+  <actor>
+    <name>Renée Victor</name>
+    <role>Elena Rivera (voice)</role>
+    <type>Actor</type>
+    <tmdbid>154004</tmdbid>
+    <imdbid>nm0896149</imdbid>
+  </actor>
+  <actor>
+    <name>Jaime Camil</name>
+    <role>Papá Enrique Rivera (voice)</role>
+    <type>Actor</type>
+    <tmdbid>545087</tmdbid>
+    <imdbid>nm0131781</imdbid>
+  </actor>
+  <actor>
+    <name>Alfonso Aráu</name>
+    <role>Papá Julio Rivera (voice)</role>
+    <type>Actor</type>
+    <tmdbid>22767</tmdbid>
+    <imdbid>nm0000778</imdbid>
+  </actor>
+  <actor>
+    <name>Herbert Siguenza</name>
+    <role>Tío Oscar Rivera / Tío Felipe Rivera (voice)</role>
+    <type>Actor</type>
+    <tmdbid>178667</tmdbid>
+    <imdbid>nm0797567</imdbid>
+  </actor>
+  <actor>
+    <name>Lombardo Boyar</name>
+    <role>Mariachi / Gustavo (voice)</role>
+    <type>Actor</type>
+    <tmdbid>4992</tmdbid>
+    <imdbid>nm0101603</imdbid>
+  </actor>
+  <actor>
+    <name>Ana Ofelia Murguía</name>
+    <role>Mamá Socorro "Coco" Rivera (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1043869</tmdbid>
+    <imdbid>nm0613872</imdbid>
+  </actor>
+  <actor>
+    <name>Sofía Espinosa</name>
+    <role>Mamá Luisa Rivera (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1007527</tmdbid>
+    <imdbid>nm2016172</imdbid>
+  </actor>
+  <actor>
+    <name>Dyana Ortelli</name>
+    <role>Tía Victoria Rivera (voice)</role>
+    <type>Actor</type>
+    <tmdbid>104382</tmdbid>
+    <imdbid>nm0650969</imdbid>
+  </actor>
+  <actor>
+    <name>Gabriel Iglesias</name>
+    <role>Head Clerk (voice)</role>
+    <type>Actor</type>
+    <tmdbid>86498</tmdbid>
+    <imdbid>nm0407101</imdbid>
+  </actor>
+  <actor>
+    <name>Selene Luna</name>
+    <role>Tía Rosita Rivera (voice)</role>
+    <type>Actor</type>
+    <tmdbid>48161</tmdbid>
+    <imdbid>nm0526090</imdbid>
+  </actor>
+  <actor>
+    <name>Natalia Córdova-Buckley</name>
+    <role>Frida Kahlo (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1693947</tmdbid>
+    <imdbid>nm3086285</imdbid>
+  </actor>
+  <actor>
+    <name>Edward James Olmos</name>
+    <role>Chicharrón (voice)</role>
+    <type>Actor</type>
+    <tmdbid>587</tmdbid>
+    <imdbid>nm0001579</imdbid>
+  </actor>
+  <actor>
+    <name>Carla Medina</name>
+    <role>Departure Agent (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1938082</tmdbid>
+    <imdbid>nm3770662</imdbid>
+  </actor>
+  <actor>
+    <name>Luis Valdez</name>
+    <role>Tío Berto Rivera / Don Hidalgo (voice)</role>
+    <type>Actor</type>
+    <tmdbid>82219</tmdbid>
+    <imdbid>nm0883609</imdbid>
+  </actor>
+  <actor>
+    <name>Blanca Araceli</name>
+    <role>Emcee (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1830409</tmdbid>
+    <imdbid>nm3834375</imdbid>
+  </actor>
+  <actor>
+    <name>Polo Rojas</name>
+    <role>Abel Rivera (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1938081</tmdbid>
+  </actor>
+  <actor>
+    <name>Montse Hernandez</name>
+    <role>Rosa Rivera (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1450386</tmdbid>
+  </actor>
+  <actor>
+    <name>Octavio Solis</name>
+    <role>Arrival Agent (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1499749</tmdbid>
+    <imdbid>nm1032812</imdbid>
+  </actor>
+  <actor>
+    <name>Cheech Marin</name>
+    <role>Corrections Officer (voice)</role>
+    <type>Actor</type>
+    <tmdbid>11159</tmdbid>
+    <imdbid>nm0001507</imdbid>
+  </actor>
+  <actor>
+    <name>Salvador Reyes</name>
+    <role>Security Guard (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1496949</tmdbid>
+  </actor>
+  <actor>
+    <name>John Ratzenberger</name>
+    <role>Juan Ortodoncia (voice)</role>
+    <type>Actor</type>
+    <tmdbid>7907</tmdbid>
+    <imdbid>nm0001652</imdbid>
+  </actor>
+  <actor>
+    <name>Antonio Sol</name>
+    <role>Ernesto de la Cruz (singing voice)</role>
+    <type>Actor</type>
+    <tmdbid>1938080</tmdbid>
+  </actor>
+  <actor>
+    <name>Liliana Barba Meinecke</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1765706</tmdbid>
+  </actor>
+  <actor>
+    <name>Emmanuel Bernal</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1999025</tmdbid>
+  </actor>
+  <actor>
+    <name>David Berón</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>84172</tmdbid>
+    <imdbid>nm0078588</imdbid>
+  </actor>
+  <actor>
+    <name>Denise Blasor</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1026727</tmdbid>
+    <imdbid>nm0087757</imdbid>
+  </actor>
+  <actor>
+    <name>Wilma Bonet</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1576334</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Castillo</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1826627</tmdbid>
+  </actor>
+  <actor>
+    <name>Vicki Davis</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>154884</tmdbid>
+    <imdbid>nm0205615</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Diaz</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1999034</tmdbid>
+    <imdbid>nm9401747</imdbid>
+  </actor>
+  <actor>
+    <name>Roberto Donati</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1445775</tmdbid>
+    <imdbid>nm0232247</imdbid>
+  </actor>
+  <actor>
+    <name>Efrain Figueroa</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>168164</tmdbid>
+    <imdbid>nm0276691</imdbid>
+  </actor>
+  <actor>
+    <name>Deb Fink</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1999037</tmdbid>
+  </actor>
+  <actor>
+    <name>Libertad García Fonzi</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1999038</tmdbid>
+  </actor>
+  <actor>
+    <name>Emilio Fuentes</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1999042</tmdbid>
+    <imdbid>nm9401749</imdbid>
+  </actor>
+  <actor>
+    <name>Daniella Garcia-Lorido</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>552525</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Gomez</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1999047</tmdbid>
+    <imdbid>nm9401751</imdbid>
+  </actor>
+  <actor>
+    <name>Lillian Groag</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1445642</tmdbid>
+    <imdbid>nm5579513</imdbid>
+  </actor>
+  <actor>
+    <name>Joshua Guerrero</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1695206</tmdbid>
+    <imdbid>nm5166169</imdbid>
+  </actor>
+  <actor>
+    <name>Marabina Jaimes</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1999048</tmdbid>
+    <imdbid>nm0415811</imdbid>
+  </actor>
+  <actor>
+    <name>Jossara Jinaro</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>167325</tmdbid>
+    <imdbid>nm0423099</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Lanz</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1552817</tmdbid>
+    <imdbid>nm2267815</imdbid>
+  </actor>
+  <actor>
+    <name>Constanza Lechuga</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1999049</tmdbid>
+  </actor>
+  <actor>
+    <name>Luisa Leschin</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>106800</tmdbid>
+    <imdbid>nm0503899</imdbid>
+  </actor>
+  <actor>
+    <name>Ruth Livier</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>155868</tmdbid>
+    <imdbid>nm0515207</imdbid>
+  </actor>
+  <actor>
+    <name>Maria Dominique Lopez</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1998940</tmdbid>
+  </actor>
+  <actor>
+    <name>Valeria Maldonado</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1035243</tmdbid>
+    <imdbid>nm3677311</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Miro</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>64448</tmdbid>
+    <imdbid>nm0592455</imdbid>
+  </actor>
+  <actor>
+    <name>Adrian Molina</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1684652</tmdbid>
+    <imdbid>nm2937122</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Edward Mora</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>170293</tmdbid>
+    <imdbid>nm0602265</imdbid>
+  </actor>
+  <actor>
+    <name>Vivianne Nacif</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1999051</tmdbid>
+  </actor>
+  <actor>
+    <name>Adriana Sevahn Nichols</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1999052</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Nichols</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1999053</tmdbid>
+    <imdbid>nm9401754</imdbid>
+  </actor>
+  <actor>
+    <name>Arthur Ortiz</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1999054</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Pacheco</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1999055</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Pacheco</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1363155</tmdbid>
+    <imdbid>nm8183723</imdbid>
+  </actor>
+  <actor>
+    <name>Jacqueline Pinol</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>146392</tmdbid>
+    <imdbid>nm0034791</imdbid>
+  </actor>
+  <actor>
+    <name>James Ponce</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1999058</tmdbid>
+  </actor>
+  <actor>
+    <name>Al Rodrigo</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1214171</tmdbid>
+    <imdbid>nm0734989</imdbid>
+  </actor>
+  <actor>
+    <name>J. Francisco Rodriguez</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1870481</tmdbid>
+    <imdbid>nm4323231</imdbid>
+  </actor>
+  <actor>
+    <name>Eduardo Roman</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>932313</tmdbid>
+    <imdbid>nm0406939</imdbid>
+  </actor>
+  <actor>
+    <name>Eddie Santiago</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1524538</tmdbid>
+    <imdbid>nm0992733</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa Santos</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1472053</tmdbid>
+    <imdbid>nm2397478</imdbid>
+  </actor>
+  <actor>
+    <name>Luis Solís</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1999061</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosalba Sotelo</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1999063</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Triana</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1830412</tmdbid>
+  </actor>
+  <actor>
+    <name>Trujo</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1999064</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Unkrich</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>8</tmdbid>
+    <imdbid>nm0881279</imdbid>
+  </actor>
+  <actor>
+    <name>Ruth Zalduondo</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1445768</tmdbid>
+    <imdbid>nm0952399</imdbid>
+  </actor>
+  <actor>
+    <name>James Zavaleta</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1999065</tmdbid>
+  </actor>
+  <actor>
+    <name>Bernardo Cubria</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1315140</tmdbid>
+    <imdbid>nm2859563</imdbid>
+  </actor>
+  <actor>
+    <name>Gary Carlos Cervantes</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>48136</tmdbid>
+    <imdbid>nm0148869</imdbid>
+  </actor>
+  <actor>
+    <name>Johnny A. Sanchez</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>59783</tmdbid>
+    <imdbid>nm1146844</imdbid>
+  </actor>
+  <actor>
+    <name>Levi Nunez</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>584023</tmdbid>
+    <imdbid>nm1269669</imdbid>
+  </actor>
+  <actor>
+    <name>Óscar Bonfiglio</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1510983</tmdbid>
+    <imdbid>nm0094399</imdbid>
+  </actor>
+  <actor>
+    <name>Lalo Alcaraz</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1789683</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcela Davison Aviles</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1999073</tmdbid>
+  </actor>
+  <actor>
+    <name>Carolina Ángel</name>
+    <role>Additional voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1999015</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Giacchino</name>
+    <role>Sunrise Spectacular's orchestra conductor</role>
+    <type>Actor</type>
+    <tmdbid>15347</tmdbid>
+  </actor>
+  <director tmdbid="8" imdbid="nm0881279">Lee Unkrich</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xlnPHQ3TLX8</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bvomHFZO0mk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Rvr68u6k5sI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_TLXORFumu0</trailer>
+  <rating>8.4</rating>
+  <year>2017</year>
+  <mpaa>PG</mpaa>
+  <imdbid>tt2380307</imdbid>
+  <tmdbid>354912</tmdbid>
+  <premiered>2017-10-27</premiered>
+  <releasedate>2017-10-27</releasedate>
+  <criticrating>97</criticrating>
+  <runtime>101</runtime>
+  <country>United States of America</country>
+  <genre>家庭</genre>
+  <genre>动画</genre>
+  <genre>奇幻</genre>
+  <genre>音乐</genre>
+  <genre>喜剧</genre>
+  <genre>冒险</genre>
+  <studio>Pixar</studio>
+  <studio>Walt Disney Pictures</studio>
+  <uniqueid type="Tmdb">354912</uniqueid>
+  <uniqueid type="Imdb">tt2380307</uniqueid>
+  <id>tt2380307</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2499843</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6046</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>224000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

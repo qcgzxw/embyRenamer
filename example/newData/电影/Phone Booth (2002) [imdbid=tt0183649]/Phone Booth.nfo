@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[广告推销员斯图（柯林•法瑞尔 Colin Farrell 饰）在外面瞒着妻子有一个秘密情人，为了躲避妻子的电话单检查，这天他又偷偷溜到街上公用电话亭准备打电话约会情人。不料，在他进入电话亭的一刹那，电话铃响了。虽然不知是谁打的电话，出于习惯，斯图拿起了听筒。
+ 一把阴沉单调的男声随即响起，警告斯图不要挂掉，否则将血渐街头！斯图当然没有理会这恶作剧般的警告，马上挂了电话。这时，一声枪响，一名路人已经倒在地上。斯图吓得魂飞魄散，动也不敢动。
+ 警察闻讯而来，然而他们对斯图的解释怎么也不相信，斯图还成了枪击案的主要嫌疑人。一时间，全城轰动，斯图的妻子和情人都闻讯赶来了……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-11-04 13:42:19</dateadded>
+  <title>狙击电话亭</title>
+  <originaltitle>Phone Booth</originaltitle>
+  <actor>
+    <name>Colin Farrell</name>
+    <role>Stu Shepard</role>
+    <type>Actor</type>
+    <tmdbid>72466</tmdbid>
+    <imdbid>nm0268199</imdbid>
+  </actor>
+  <actor>
+    <name>Kiefer Sutherland</name>
+    <role>The Caller</role>
+    <type>Actor</type>
+    <tmdbid>2628</tmdbid>
+    <imdbid>nm0000662</imdbid>
+  </actor>
+  <actor>
+    <name>Forest Whitaker</name>
+    <role>Captain Ramey</role>
+    <type>Actor</type>
+    <tmdbid>2178</tmdbid>
+    <imdbid>nm0001845</imdbid>
+  </actor>
+  <actor>
+    <name>Radha Mitchell</name>
+    <role>Kelly Shepard</role>
+    <type>Actor</type>
+    <tmdbid>8329</tmdbid>
+    <imdbid>nm0593664</imdbid>
+  </actor>
+  <actor>
+    <name>Katie Holmes</name>
+    <role>Pamela McFadden</role>
+    <type>Actor</type>
+    <tmdbid>3897</tmdbid>
+    <imdbid>nm0005017</imdbid>
+  </actor>
+  <actor>
+    <name>Paula Jai Parker</name>
+    <role>Felicia</role>
+    <type>Actor</type>
+    <tmdbid>45245</tmdbid>
+    <imdbid>nm0005294</imdbid>
+  </actor>
+  <actor>
+    <name>Arian Waring Ash</name>
+    <role>Corky</role>
+    <type>Actor</type>
+    <tmdbid>174223</tmdbid>
+    <imdbid>nm0038614</imdbid>
+  </actor>
+  <actor>
+    <name>Tia Texada</name>
+    <role>Asia</role>
+    <type>Actor</type>
+    <tmdbid>68430</tmdbid>
+    <imdbid>nm0004137</imdbid>
+  </actor>
+  <actor>
+    <name>John Enos III</name>
+    <role>Leon</role>
+    <type>Actor</type>
+    <tmdbid>42557</tmdbid>
+    <imdbid>nm0004897</imdbid>
+  </actor>
+  <actor>
+    <name>Richard T. Jones</name>
+    <role>Sergeant Cole</role>
+    <type>Actor</type>
+    <tmdbid>55755</tmdbid>
+    <imdbid>nm0429114</imdbid>
+  </actor>
+  <actor>
+    <name>Keith Nobbs</name>
+    <role>Adam</role>
+    <type>Actor</type>
+    <tmdbid>120255</tmdbid>
+    <imdbid>nm0633470</imdbid>
+  </actor>
+  <actor>
+    <name>Dell Yount</name>
+    <role>Pizza Guy</role>
+    <type>Actor</type>
+    <tmdbid>149526</tmdbid>
+    <imdbid>nm0950306</imdbid>
+  </actor>
+  <actor>
+    <name>James MacDonald</name>
+    <role>Negotiator</role>
+    <type>Actor</type>
+    <tmdbid>1188456</tmdbid>
+    <imdbid>nm0531762</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Pais</name>
+    <role>Mario</role>
+    <type>Actor</type>
+    <tmdbid>6181</tmdbid>
+    <imdbid>nm0656929</imdbid>
+  </actor>
+  <actor>
+    <name>Yorgo Constantine</name>
+    <role>ESU Commander</role>
+    <type>Actor</type>
+    <tmdbid>21051</tmdbid>
+    <imdbid>nm0176085</imdbid>
+  </actor>
+  <actor>
+    <name>Colin Patrick Lynch</name>
+    <role>ESU Technician</role>
+    <type>Actor</type>
+    <tmdbid>56459</tmdbid>
+    <imdbid>nm0528260</imdbid>
+  </actor>
+  <actor>
+    <name>Troy Gilbert</name>
+    <role>ESU Sniper</role>
+    <type>Actor</type>
+    <tmdbid>1645509</tmdbid>
+    <imdbid>nm0318266</imdbid>
+  </actor>
+  <actor>
+    <name>Seth William Meier</name>
+    <role>Officer McDuff</role>
+    <type>Actor</type>
+    <tmdbid>1511570</tmdbid>
+    <imdbid>nm0576720</imdbid>
+  </actor>
+  <actor>
+    <name>Svetlana Efremova</name>
+    <role>Erica</role>
+    <type>Actor</type>
+    <tmdbid>63679</tmdbid>
+    <imdbid>nm0250610</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Erb</name>
+    <role>Lars</role>
+    <type>Actor</type>
+    <tmdbid>1591567</tmdbid>
+    <imdbid>nm0258623</imdbid>
+  </actor>
+  <actor>
+    <name>Domenick Lombardozzi</name>
+    <role>Wyatt</role>
+    <type>Actor</type>
+    <tmdbid>17941</tmdbid>
+    <imdbid>nm0518511</imdbid>
+  </actor>
+  <actor>
+    <name>Maile Flanagan</name>
+    <role>Lana</role>
+    <type>Actor</type>
+    <tmdbid>23211</tmdbid>
+    <imdbid>nm0281068</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Reynolds</name>
+    <role>Richard</role>
+    <type>Actor</type>
+    <tmdbid>1529147</tmdbid>
+    <imdbid>nm0721980</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Foster</name>
+    <role>Big Q (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>11107</tmdbid>
+    <imdbid>nm0004936</imdbid>
+  </actor>
+  <actor>
+    <name>Jared Leto</name>
+    <role>Bobby (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>7499</tmdbid>
+    <imdbid>nm0001467</imdbid>
+  </actor>
+  <director tmdbid="5572" imdbid="nm0001708">Joel Schumacher</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=p07lBCfC2q8</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=b907DkcMgbE</trailer>
+  <rating>7</rating>
+  <year>2002</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0183649</imdbid>
+  <tmdbid>1817</tmdbid>
+  <premiered>2002-09-09</premiered>
+  <releasedate>2002-09-09</releasedate>
+  <criticrating>72</criticrating>
+  <runtime>81</runtime>
+  <country>United States of America</country>
+  <genre>惊悚</genre>
+  <genre>剧情</genre>
+  <studio>Fox 2000 Pictures</studio>
+  <uniqueid type="Tmdb">1817</uniqueid>
+  <uniqueid type="Imdb">tt0183649</uniqueid>
+  <id>tt0183649</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11595433</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>81</duration>
+        <durationinseconds>4860</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

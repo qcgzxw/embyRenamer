@@ -1,0 +1,589 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[位于非洲的神秘国家瓦坎达，凭借来自宇宙的振金而成为科技极度发达的国家，不过他们长久封闭，始终对外界保守这个秘密。在前国王死于联合国爆炸袭击后，特查拉王子（查德维克·博斯曼 Chadwick Boseman 饰）继任成为新的国王，同时他也是黑豹的继承者。登基之后，特查拉与前女友娜吉雅（露皮塔·尼永奥 Lupita Nyong'o 饰）、贴身侍卫奥姆烨（丹娜·奎里拉 Danai Gurira 饰）追查曾经盗取振金并杀害瓦坎达人的尤利西斯·克劳（安迪·瑟金斯 Andy Serkis 饰）。一番厮杀后，克劳侥幸逃脱，谁知最终死于合伙人艾瑞克·克尔芒戈（迈克尔·B·乔丹 Michael B. Jordan 饰）之手。艾瑞克同样具有瓦坎达血统，而且当年他的父亲死在了自己的兄弟——特查拉父亲的手中。
+ 怀着莫大的仇恨，艾瑞克踏足瓦坎达，去争夺至高无上的王位……]]></plot>
+  <outline><![CDATA[漫威电影宇宙新英雄 复仇者联盟集结强势倒数]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2018-05-07 10:08:58</dateadded>
+  <title>黑豹</title>
+  <originaltitle>Black Panther</originaltitle>
+  <actor>
+    <name>Chadwick Boseman</name>
+    <role>King T’Challa / Black Panther</role>
+    <type>Actor</type>
+    <tmdbid>172069</tmdbid>
+    <imdbid>nm1569276</imdbid>
+  </actor>
+  <actor>
+    <name>Michael B. Jordan</name>
+    <role>N'Jadaka / Erik 'Killmonger' Stevens</role>
+    <type>Actor</type>
+    <tmdbid>135651</tmdbid>
+    <imdbid>nm0430107</imdbid>
+  </actor>
+  <actor>
+    <name>Lupita Nyong'o</name>
+    <role>Nakia</role>
+    <type>Actor</type>
+    <tmdbid>1267329</tmdbid>
+  </actor>
+  <actor>
+    <name>Danai Gurira</name>
+    <role>Okoye</role>
+    <type>Actor</type>
+    <tmdbid>82104</tmdbid>
+    <imdbid>nm1775091</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Freeman</name>
+    <role>Everett K. Ross</role>
+    <type>Actor</type>
+    <tmdbid>7060</tmdbid>
+    <imdbid>nm0293509</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Kaluuya</name>
+    <role>W'Kabi</role>
+    <type>Actor</type>
+    <tmdbid>206919</tmdbid>
+    <imdbid>nm2257207</imdbid>
+  </actor>
+  <actor>
+    <name>Letitia Wright</name>
+    <role>Shuri</role>
+    <type>Actor</type>
+    <tmdbid>1083010</tmdbid>
+    <imdbid>nm4004793</imdbid>
+  </actor>
+  <actor>
+    <name>Winston Duke</name>
+    <role>M'Baku</role>
+    <type>Actor</type>
+    <tmdbid>1447932</tmdbid>
+    <imdbid>nm6328300</imdbid>
+  </actor>
+  <actor>
+    <name>Sterling K. Brown</name>
+    <role>N'Jobu</role>
+    <type>Actor</type>
+    <tmdbid>1225953</tmdbid>
+    <imdbid>nm1250791</imdbid>
+  </actor>
+  <actor>
+    <name>Angela Bassett</name>
+    <role>Ramonda</role>
+    <type>Actor</type>
+    <tmdbid>9780</tmdbid>
+    <imdbid>nm0000291</imdbid>
+  </actor>
+  <actor>
+    <name>Forest Whitaker</name>
+    <role>Zuri</role>
+    <type>Actor</type>
+    <tmdbid>2178</tmdbid>
+    <imdbid>nm0001845</imdbid>
+  </actor>
+  <actor>
+    <name>Andy Serkis</name>
+    <role>Ulysses Klaue / Klaw</role>
+    <type>Actor</type>
+    <tmdbid>1333</tmdbid>
+    <imdbid>nm0785227</imdbid>
+  </actor>
+  <actor>
+    <name>Florence Kasumba</name>
+    <role>Ayo</role>
+    <type>Actor</type>
+    <tmdbid>139900</tmdbid>
+    <imdbid>nm0441042</imdbid>
+  </actor>
+  <actor>
+    <name>John Kani</name>
+    <role>T'Chaka</role>
+    <type>Actor</type>
+    <tmdbid>51878</tmdbid>
+    <imdbid>nm0437689</imdbid>
+  </actor>
+  <actor>
+    <name>David S. Lee</name>
+    <role>Limbani</role>
+    <type>Actor</type>
+    <tmdbid>71078</tmdbid>
+    <imdbid>nm1605085</imdbid>
+  </actor>
+  <actor>
+    <name>Nabiyah Be</name>
+    <role>Linda</role>
+    <type>Actor</type>
+    <tmdbid>1856116</tmdbid>
+    <imdbid>nm8852246</imdbid>
+  </actor>
+  <actor>
+    <name>Isaach De Bankolé</name>
+    <role>River Tribe Elder</role>
+    <type>Actor</type>
+    <tmdbid>4812</tmdbid>
+    <imdbid>nm0207218</imdbid>
+  </actor>
+  <actor>
+    <name>Connie Chiume</name>
+    <role>Mining Tribe Elder</role>
+    <type>Actor</type>
+    <tmdbid>1181397</tmdbid>
+    <imdbid>nm0158448</imdbid>
+  </actor>
+  <actor>
+    <name>Dorothy  Steel</name>
+    <role>Merchant Tribe Elder</role>
+    <type>Actor</type>
+    <tmdbid>1979169</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Sapani</name>
+    <role>Border Tribe Elder</role>
+    <type>Actor</type>
+    <tmdbid>165424</tmdbid>
+    <imdbid>nm0764527</imdbid>
+  </actor>
+  <actor>
+    <name>Sydelle Noel</name>
+    <role>Xoliswa</role>
+    <type>Actor</type>
+    <tmdbid>1104414</tmdbid>
+    <imdbid>nm1999504</imdbid>
+  </actor>
+  <actor>
+    <name>Marija Abney</name>
+    <role>Dora Milaje</role>
+    <type>Actor</type>
+    <tmdbid>1979170</tmdbid>
+    <imdbid>nm6112965</imdbid>
+  </actor>
+  <actor>
+    <name>Zola Williams</name>
+    <role>Dora Milaje</role>
+    <type>Actor</type>
+    <tmdbid>1979176</tmdbid>
+    <imdbid>nm6880265</imdbid>
+  </actor>
+  <actor>
+    <name>Janeshia Adams-Ginyard</name>
+    <role>Dora Milaje</role>
+    <type>Actor</type>
+    <tmdbid>1580160</tmdbid>
+    <imdbid>nm3821861</imdbid>
+  </actor>
+  <actor>
+    <name>Maria Hippolyte</name>
+    <role>Dora Milaje</role>
+    <type>Actor</type>
+    <tmdbid>1979172</tmdbid>
+    <imdbid>nm6672490</imdbid>
+  </actor>
+  <actor>
+    <name>Marie Mouroum</name>
+    <role>Dora Milaje</role>
+    <type>Actor</type>
+    <tmdbid>1979183</tmdbid>
+    <imdbid>nm5719611</imdbid>
+  </actor>
+  <actor>
+    <name>Jénel Stevens</name>
+    <role>Dora Milaje</role>
+    <type>Actor</type>
+    <tmdbid>1903679</tmdbid>
+    <imdbid>nm3565493</imdbid>
+  </actor>
+  <actor>
+    <name>Sope Aluko</name>
+    <role>Shaman</role>
+    <type>Actor</type>
+    <tmdbid>1431508</tmdbid>
+    <imdbid>nm3571491</imdbid>
+  </actor>
+  <actor>
+    <name>Stan Lee</name>
+    <role>Casino Patron</role>
+    <type>Actor</type>
+    <tmdbid>7624</tmdbid>
+    <imdbid>nm0498278</imdbid>
+  </actor>
+  <actor>
+    <name>Atandwa Kani</name>
+    <role>Young T'Chaka</role>
+    <type>Actor</type>
+    <tmdbid>1222428</tmdbid>
+    <imdbid>nm2818492</imdbid>
+  </actor>
+  <actor>
+    <name>Ashton Tyler</name>
+    <role>Young T'Challa</role>
+    <type>Actor</type>
+    <tmdbid>1734933</tmdbid>
+    <imdbid>nm8037970</imdbid>
+  </actor>
+  <actor>
+    <name>Denzel Whitaker</name>
+    <role>Young Zuri</role>
+    <type>Actor</type>
+    <tmdbid>77278</tmdbid>
+    <imdbid>nm1091701</imdbid>
+  </actor>
+  <actor>
+    <name>Shaunette Renée Wilson</name>
+    <role>Dora Milaje</role>
+    <type>Actor</type>
+    <tmdbid>1787399</tmdbid>
+    <imdbid>nm8189246</imdbid>
+  </actor>
+  <actor>
+    <name>Christine Hollingsworth</name>
+    <role>Dora Milaje</role>
+    <type>Actor</type>
+    <tmdbid>1979177</tmdbid>
+    <imdbid>nm3900049</imdbid>
+  </actor>
+  <actor>
+    <name>Lucy Hockings</name>
+    <role>BBC Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1821546</tmdbid>
+  </actor>
+  <actor>
+    <name>Bambadjan Bamba</name>
+    <role>Military Leader</role>
+    <type>Actor</type>
+    <tmdbid>965219</tmdbid>
+    <imdbid>nm2262926</imdbid>
+  </actor>
+  <actor>
+    <name>Roland Kilumbu</name>
+    <role>Young Military</role>
+    <type>Actor</type>
+    <tmdbid>1787404</tmdbid>
+    <imdbid>nm7407625</imdbid>
+  </actor>
+  <actor>
+    <name>Francesca Faridany</name>
+    <role>Museum Director</role>
+    <type>Actor</type>
+    <tmdbid>171733</tmdbid>
+    <imdbid>nm0267432</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Ashworth</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>1301772</tmdbid>
+    <imdbid>nm0039327</imdbid>
+  </actor>
+  <actor>
+    <name>Seth Carr</name>
+    <role>Young Killmonger</role>
+    <type>Actor</type>
+    <tmdbid>1609481</tmdbid>
+    <imdbid>nm3695624</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Sample</name>
+    <role>Jabari Fisherman</role>
+    <type>Actor</type>
+    <tmdbid>1456750</tmdbid>
+    <imdbid>nm2078999</imdbid>
+  </actor>
+  <actor>
+    <name>Alexis Rhee</name>
+    <role>Sophia</role>
+    <type>Actor</type>
+    <tmdbid>58930</tmdbid>
+    <imdbid>nm0722224</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Hibbert</name>
+    <role>Young Oakland Kid</role>
+    <type>Actor</type>
+    <tmdbid>1688889</tmdbid>
+    <imdbid>nm7683379</imdbid>
+  </actor>
+  <actor>
+    <name>Trevor Noah</name>
+    <role>Griot (voice)</role>
+    <type>Actor</type>
+    <tmdbid>131133</tmdbid>
+    <imdbid>nm3696388</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Chung</name>
+    <role>Casino Dealer</role>
+    <type>Actor</type>
+    <tmdbid>1787407</tmdbid>
+    <imdbid>nm7162668</imdbid>
+  </actor>
+  <actor>
+    <name>Shad Gaspard</name>
+    <role>Actor</role>
+    <type>Actor</type>
+    <tmdbid>973644</tmdbid>
+    <imdbid>nm2414411</imdbid>
+  </actor>
+  <actor>
+    <name>William Cowboy Reed</name>
+    <role>Museum Guard</role>
+    <type>Actor</type>
+    <tmdbid>1771603</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael David Yuhl</name>
+    <role>Ambassador</role>
+    <type>Actor</type>
+    <tmdbid>1787401</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Elkins</name>
+    <role>CIA Agent</role>
+    <type>Actor</type>
+    <tmdbid>1773399</tmdbid>
+    <imdbid>nm2051427</imdbid>
+  </actor>
+  <actor>
+    <name>Raven Wynn</name>
+    <role>Korean Market Shopper</role>
+    <type>Actor</type>
+    <tmdbid>1787400</tmdbid>
+    <imdbid>nm8530832</imdbid>
+  </actor>
+  <actor>
+    <name>Amechi Okocha</name>
+    <role>Bueze</role>
+    <type>Actor</type>
+    <tmdbid>1787402</tmdbid>
+    <imdbid>nm5345408</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Sears</name>
+    <role>French Ambassador</role>
+    <type>Actor</type>
+    <tmdbid>1460999</tmdbid>
+  </actor>
+  <actor>
+    <name>Timothy Carr</name>
+    <role>UN Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>1787405</tmdbid>
+  </actor>
+  <actor>
+    <name>Apollo GT</name>
+    <role>Fish Market Shopper</role>
+    <type>Actor</type>
+    <tmdbid>1787406</tmdbid>
+    <imdbid>nm6872257</imdbid>
+  </actor>
+  <actor>
+    <name>James Siderits</name>
+    <role>U.N. Official / Translator</role>
+    <type>Actor</type>
+    <tmdbid>1787408</tmdbid>
+  </actor>
+  <actor>
+    <name>Travis Love</name>
+    <role>Jabari Warrior</role>
+    <type>Actor</type>
+    <tmdbid>1367313</tmdbid>
+    <imdbid>nm5344589</imdbid>
+  </actor>
+  <actor>
+    <name>Lidya Jewett</name>
+    <role>Young Nakia</role>
+    <type>Actor</type>
+    <tmdbid>1734929</tmdbid>
+    <imdbid>nm6983144</imdbid>
+  </actor>
+  <actor>
+    <name>Alona Leoine</name>
+    <role>School Child / Playground Kid</role>
+    <type>Actor</type>
+    <tmdbid>1795537</tmdbid>
+    <imdbid>nm7732619</imdbid>
+  </actor>
+  <actor>
+    <name>Kinley Fleurejuste</name>
+    <role>Uptown Patron</role>
+    <type>Actor</type>
+    <tmdbid>1856121</tmdbid>
+  </actor>
+  <actor>
+    <name>Ofu Obekpa</name>
+    <role>Kings Guard</role>
+    <type>Actor</type>
+    <tmdbid>1856126</tmdbid>
+    <imdbid>nm8098676</imdbid>
+  </actor>
+  <actor>
+    <name>Michael R. Ciminna</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>1856124</tmdbid>
+  </actor>
+  <actor>
+    <name>John Y Lee</name>
+    <role>Casino Dealer</role>
+    <type>Actor</type>
+    <tmdbid>1856128</tmdbid>
+  </actor>
+  <actor>
+    <name>Byron Coolie</name>
+    <role>Wakandan</role>
+    <type>Actor</type>
+    <tmdbid>1856131</tmdbid>
+  </actor>
+  <actor>
+    <name>William Walker</name>
+    <role>Museum Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>1856132</tmdbid>
+    <imdbid>nm3507620</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Akharoh Jr.</name>
+    <role>Citizen of Wakanda</role>
+    <type>Actor</type>
+    <tmdbid>1754081</tmdbid>
+  </actor>
+  <actor>
+    <name>Stanley Aughtry</name>
+    <role>Merchant Tribe Warrior</role>
+    <type>Actor</type>
+    <tmdbid>1856133</tmdbid>
+  </actor>
+  <actor>
+    <name>Raenen Golez</name>
+    <role>Casino Patron</role>
+    <type>Actor</type>
+    <tmdbid>1856135</tmdbid>
+  </actor>
+  <actor>
+    <name>Leo De Rivera</name>
+    <role>Casino Bartender</role>
+    <type>Actor</type>
+    <tmdbid>1856136</tmdbid>
+  </actor>
+  <actor>
+    <name>Tevin Beech</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>1856138</tmdbid>
+  </actor>
+  <actor>
+    <name>Tari Omoro</name>
+    <role>Jabari Drummer</role>
+    <type>Actor</type>
+    <tmdbid>1856137</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Antonio Canal</name>
+    <role>Casino Guest</role>
+    <type>Actor</type>
+    <tmdbid>1856139</tmdbid>
+  </actor>
+  <actor>
+    <name>David Dunston</name>
+    <role>Citizen of Wakanda</role>
+    <type>Actor</type>
+    <tmdbid>1826048</tmdbid>
+    <imdbid>nm8749478</imdbid>
+  </actor>
+  <actor>
+    <name>Josue Louis-Charles</name>
+    <role>Mining Tribe</role>
+    <type>Actor</type>
+    <tmdbid>1856140</tmdbid>
+  </actor>
+  <actor>
+    <name>Isaac Phillips</name>
+    <role>Mining Tribe #2</role>
+    <type>Actor</type>
+    <tmdbid>1842230</tmdbid>
+    <imdbid>nm2578167</imdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Stan</name>
+    <role>James 'Bucky' Barnes / Winter Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>60898</tmdbid>
+    <imdbid>nm1659221</imdbid>
+  </actor>
+  <actor>
+    <name>Jamel Chambers</name>
+    <role>Merchant (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1787403</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Christopher Rodney</name>
+    <role>Kings Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2123041</tmdbid>
+    <imdbid>nm5360375</imdbid>
+  </actor>
+  <director tmdbid="1056121" imdbid="nm3363032">Ryan Coogler</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xjDjIWPwcPU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dxWvtMOGAhw</trailer>
+  <rating>7.3</rating>
+  <year>2018</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt1825683</imdbid>
+  <tmdbid>284054</tmdbid>
+  <premiered>2018-02-13</premiered>
+  <releasedate>2018-02-13</releasedate>
+  <criticrating>96</criticrating>
+  <runtime>135</runtime>
+  <tagline>漫威电影宇宙新英雄 复仇者联盟集结强势倒数</tagline>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>冒险</genre>
+  <genre>科幻</genre>
+  <studio>Marvel Studios</studio>
+  <studio>Walt Disney Pictures</studio>
+  <set tmdbcolid="529892">
+    <name>黑豹（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">284054</uniqueid>
+  <uniqueid type="Imdb">tt1825683</uniqueid>
+  <id>tt1825683</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4141880</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>134</duration>
+        <durationinseconds>8073</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

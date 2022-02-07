@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Two police officers have time to get to know each other on the night shift. But PC Thompson's previous partner died in a brutal attack, the forensic evidence has gone missing and PC Varney is asking awkward questions.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-05-05 17:46:13</dateadded>
+  <title>监视</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Callard</name>
+    <role>Controller</role>
+    <type>GuestStar</type>
+    <tmdbid>27820</tmdbid>
+    <imdbid>nm0130319</imdbid>
+  </actor>
+  <actor>
+    <name>Malik Ibheis</name>
+    <role>DC Dobson</role>
+    <type>GuestStar</type>
+    <tmdbid>1829416</tmdbid>
+  </actor>
+  <director>Guillem Morales</director>
+  <rating>8.5</rating>
+  <year>2020</year>
+  <imdbid>tt10948256</imdbid>
+  <tvdbid>7555722</tvdbid>
+  <runtime>30</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Horror</genre>
+  <uniqueid type="Imdb">tt10948256</uniqueid>
+  <uniqueid type="Tvdb">7555722</uniqueid>
+  <episode>6</episode>
+  <season>5</season>
+  <aired>2020-03-09</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5078658</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1790</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

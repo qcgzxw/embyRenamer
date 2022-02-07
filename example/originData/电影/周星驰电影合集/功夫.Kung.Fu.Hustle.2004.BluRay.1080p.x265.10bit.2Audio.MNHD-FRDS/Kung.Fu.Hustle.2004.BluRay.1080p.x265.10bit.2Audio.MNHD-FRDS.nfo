@@ -1,0 +1,220 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　1940年代的上海，自小受尽欺辱的街头混混阿星为了能出人头地，可谓窥见机会的缝隙就往里钻，今次他盯上行动日益猖獗的黑道势力“斧头帮”，想借之大名成就大业。阿星假冒“斧头帮”成员试图在一个叫“猪笼城寨”的地方对居民敲诈，不想引来真的“斧头帮”与“猪笼城寨”居民的恩怨。“猪笼城寨”原是藏龙卧虎之处，居民中有许多身怀绝技者，他们隐藏于此本是为远离江湖恩怨，不想麻烦自动上身，躲都躲不及。而在观战正邪两派的斗争中，阿星逐渐领悟功夫的真谛。]]></plot>
+  <outline><![CDATA[从街头混混，到一代宗师。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-05 03:39:55</dateadded>
+  <title>功夫</title>
+  <originaltitle>功夫</originaltitle>
+  <actor>
+    <name>Stephen Chow</name>
+    <role>Sing</role>
+    <type>Actor</type>
+    <tmdbid>57607</tmdbid>
+    <imdbid>nm0159507</imdbid>
+  </actor>
+  <actor>
+    <name>Yuen Wah</name>
+    <role>Landlord</role>
+    <type>Actor</type>
+    <tmdbid>57609</tmdbid>
+    <imdbid>nm0950757</imdbid>
+  </actor>
+  <actor>
+    <name>Yuen Qiu</name>
+    <role>Landlady</role>
+    <type>Actor</type>
+    <tmdbid>119426</tmdbid>
+    <imdbid>nm1228408</imdbid>
+  </actor>
+  <actor>
+    <name>Lam Tze-chung</name>
+    <role>Sing's sidekick</role>
+    <type>Actor</type>
+    <tmdbid>545277</tmdbid>
+    <imdbid>nm1125531</imdbid>
+  </actor>
+  <actor>
+    <name>Bruce Leung Siu-Lung</name>
+    <role>The Beast</role>
+    <type>Actor</type>
+    <tmdbid>576408</tmdbid>
+  </actor>
+  <actor>
+    <name>Eva Huang</name>
+    <role>Fong</role>
+    <type>Actor</type>
+    <tmdbid>83635</tmdbid>
+    <imdbid>nm1785004</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Chan Kwok-Kwan</name>
+    <role>Brother Sum</role>
+    <type>Actor</type>
+    <tmdbid>1173223</tmdbid>
+    <imdbid>nm2185928</imdbid>
+  </actor>
+  <actor>
+    <name>Dung Chi-Wa</name>
+    <role>Donut - Hexagonal Staff</role>
+    <type>Actor</type>
+    <tmdbid>1173200</tmdbid>
+  </actor>
+  <actor>
+    <name>Chiu Chi-Ling</name>
+    <role>Tailor</role>
+    <type>Actor</type>
+    <tmdbid>1173216</tmdbid>
+    <imdbid>nm1787710</imdbid>
+  </actor>
+  <actor>
+    <name>Xing Yu</name>
+    <role>Coolie - 12 Kicks of Tam School</role>
+    <type>Actor</type>
+    <tmdbid>78878</tmdbid>
+    <imdbid>nm1789084</imdbid>
+  </actor>
+  <actor>
+    <name>Lam Suet</name>
+    <role>Axe Gang Vice General</role>
+    <type>Actor</type>
+    <tmdbid>25251</tmdbid>
+    <imdbid>nm0482695</imdbid>
+  </actor>
+  <actor>
+    <name>Tenky Tin Kai-Man</name>
+    <role>Axe Gang Advisor</role>
+    <type>Actor</type>
+    <tmdbid>1136808</tmdbid>
+    <imdbid>nm1214151</imdbid>
+  </actor>
+  <actor>
+    <name>Jia Kangxi</name>
+    <role>Harpist Assassin # 1</role>
+    <type>Actor</type>
+    <tmdbid>1173224</tmdbid>
+  </actor>
+  <actor>
+    <name>Fung Hak-On</name>
+    <role>Harpist Assassin # 2</role>
+    <type>Actor</type>
+    <tmdbid>118745</tmdbid>
+    <imdbid>nm0271804</imdbid>
+  </actor>
+  <actor>
+    <name>Charlie Yuen Cheung-Yan</name>
+    <role>Beggar</role>
+    <type>Actor</type>
+    <tmdbid>65975</tmdbid>
+    <imdbid>nm0950713</imdbid>
+  </actor>
+  <actor>
+    <name>Feng Xiaogang</name>
+    <role>Crocodile Gang Boss</role>
+    <type>Actor</type>
+    <tmdbid>1287732</tmdbid>
+    <imdbid>nm0271815</imdbid>
+  </actor>
+  <actor>
+    <name>Kai Shi Chen</name>
+    <role>Rabbit Tooth Jane (Djenn)</role>
+    <type>Actor</type>
+    <tmdbid>1676386</tmdbid>
+    <imdbid>nm1961357</imdbid>
+  </actor>
+  <actor>
+    <name>Jazz Lam</name>
+    <role>Bully</role>
+    <type>Actor</type>
+    <tmdbid>1132933</tmdbid>
+    <imdbid>nm0482579</imdbid>
+  </actor>
+  <director tmdbid="57607" imdbid="nm0159507">Stephen Chow</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-m3IB7N_PRk</trailer>
+  <rating>7.7</rating>
+  <year>2004</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0373074</imdbid>
+  <tmdbid>9470</tmdbid>
+  <premiered>2004-02-10</premiered>
+  <releasedate>2004-02-10</releasedate>
+  <criticrating>91</criticrating>
+  <runtime>99</runtime>
+  <tagline>从街头混混，到一代宗师。</tagline>
+  <country>China</country>
+  <country>Hong Kong</country>
+  <genre>动作</genre>
+  <genre>喜剧</genre>
+  <genre>犯罪</genre>
+  <genre>奇幻</genre>
+  <studio>Star Overseas</studio>
+  <studio>China Film Co-Production Corporation</studio>
+  <uniqueid type="Imdb">tt0373074</uniqueid>
+  <uniqueid type="Tmdb">9470</uniqueid>
+  <id>tt0373074</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6580430</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5966</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,447 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[艾莲达在外求职屡屡碰壁。走投无路的妮可为了认罪协议而供出红老大。美味蒂向卡普托求助。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-10-05 16:58:01</dateadded>
+  <title>会说话的驴蛋</title>
+  <actor>
+    <name>Taylor Schilling</name>
+    <role>Piper Chapman</role>
+    <type>Actor</type>
+    <tmdbid>221809</tmdbid>
+    <imdbid>nm2279940</imdbid>
+  </actor>
+  <actor>
+    <name>Natasha Lyonne</name>
+    <role>Nicky Nichols</role>
+    <type>Actor</type>
+    <tmdbid>10871</tmdbid>
+    <imdbid>nm0005169</imdbid>
+  </actor>
+  <actor>
+    <name>Uzo Aduba</name>
+    <role>Suzanne 'Crazy Eyes' Warren</role>
+    <type>Actor</type>
+    <tmdbid>1332680</tmdbid>
+    <imdbid>nm2499064</imdbid>
+  </actor>
+  <actor>
+    <name>Danielle Brooks</name>
+    <role>Tasha 'Taystee' Jefferson</role>
+    <type>Actor</type>
+    <tmdbid>1075037</tmdbid>
+    <imdbid>nm5335029</imdbid>
+  </actor>
+  <actor>
+    <name>Jackie Cruz</name>
+    <role>Marisol 'Flaca' Gonzales</role>
+    <type>Actor</type>
+    <tmdbid>1443625</tmdbid>
+    <imdbid>nm3117320</imdbid>
+  </actor>
+  <actor>
+    <name>Selenis Leyva</name>
+    <role>Gloria Mendoza</role>
+    <type>Actor</type>
+    <tmdbid>162503</tmdbid>
+    <imdbid>nm0508139</imdbid>
+  </actor>
+  <actor>
+    <name>Taryn Manning</name>
+    <role>Tiffany 'Pennsatucky' Doggett</role>
+    <type>Actor</type>
+    <tmdbid>343</tmdbid>
+    <imdbid>nm0543383</imdbid>
+  </actor>
+  <actor>
+    <name>Adrienne C. Moore</name>
+    <role>Cindy Hayes</role>
+    <type>Actor</type>
+    <tmdbid>1443478</tmdbid>
+  </actor>
+  <actor>
+    <name>Dascha Polanco</name>
+    <role>Dayanara Diaz</role>
+    <type>Actor</type>
+    <tmdbid>1026947</tmdbid>
+    <imdbid>nm4745601</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Sandow</name>
+    <role>Joe Caputo</role>
+    <type>Actor</type>
+    <tmdbid>95519</tmdbid>
+    <imdbid>nm0762191</imdbid>
+  </actor>
+  <actor>
+    <name>Yael Stone</name>
+    <role>Lorna Morello</role>
+    <type>Actor</type>
+    <tmdbid>1028560</tmdbid>
+    <imdbid>nm0832227</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Mulgrew</name>
+    <role>Galina 'Red' Reznikov</role>
+    <type>Actor</type>
+    <tmdbid>35317</tmdbid>
+    <imdbid>nm0000550</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Prepon</name>
+    <role>Alex Vause</role>
+    <type>Actor</type>
+    <tmdbid>18974</tmdbid>
+    <imdbid>nm0696059</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Rodriguez</name>
+    <role>Aleida Diaz</role>
+    <type>Actor</type>
+    <tmdbid>65421</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Pimentel</name>
+    <role>Maria Ruiz</role>
+    <type>Actor</type>
+    <tmdbid>171940</tmdbid>
+    <imdbid>nm1478791</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Gómez</name>
+    <role>Blanca Flores</role>
+    <type>Actor</type>
+    <tmdbid>1443612</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Peters</name>
+    <role>Joel Luschek</role>
+    <type>Actor</type>
+    <tmdbid>1448945</tmdbid>
+  </actor>
+  <actor>
+    <name>Dale Soules</name>
+    <role>Frieda Berlin</role>
+    <type>Actor</type>
+    <tmdbid>1102500</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Segarra</name>
+    <role>CO Stefanovic</role>
+    <type>GuestStar</type>
+    <tmdbid>426216</tmdbid>
+  </actor>
+  <actor>
+    <name>Ali Ahn</name>
+    <role>FBI Agent Nguyen</role>
+    <type>GuestStar</type>
+    <tmdbid>1323810</tmdbid>
+    <imdbid>nm2416847</imdbid>
+  </actor>
+  <actor>
+    <name>Shawna Hamic</name>
+    <role>CO Virginia 'Ginger' Copeland</role>
+    <type>GuestStar</type>
+    <tmdbid>2375314</tmdbid>
+  </actor>
+  <actor>
+    <name>Morgan Higgins</name>
+    <role>Shop Assistant</role>
+    <type>GuestStar</type>
+    <tmdbid>1868708</tmdbid>
+  </actor>
+  <actor>
+    <name>Michele Hicks</name>
+    <role>Michelle Goldstein</role>
+    <type>GuestStar</type>
+    <tmdbid>163642</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia Kalember</name>
+    <role>Marka Nichols</role>
+    <type>GuestStar</type>
+    <tmdbid>23627</tmdbid>
+  </actor>
+  <actor>
+    <name>Bruce Altman</name>
+    <role>Les Nichols</role>
+    <type>GuestStar</type>
+    <tmdbid>27545</tmdbid>
+    <imdbid>nm0022883</imdbid>
+  </actor>
+  <actor>
+    <name>Presley Ryan</name>
+    <role>13 Year Old Nicky</role>
+    <type>GuestStar</type>
+    <tmdbid>3091738</tmdbid>
+  </actor>
+  <actor>
+    <name>Desiree Rodriguez</name>
+    <role>Mirta</role>
+    <type>GuestStar</type>
+    <tmdbid>2570201</tmdbid>
+  </actor>
+  <actor>
+    <name>Mallory Sparks</name>
+    <role>Pamela Fryman</role>
+    <type>GuestStar</type>
+    <tmdbid>2260010</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Jeffrey</name>
+    <role>FBI Agent Daryl Michelson</role>
+    <type>GuestStar</type>
+    <tmdbid>1384820</tmdbid>
+  </actor>
+  <actor>
+    <name>Ed Squires</name>
+    <role>Asshole #1</role>
+    <type>GuestStar</type>
+    <tmdbid>1669335</tmdbid>
+  </actor>
+  <actor>
+    <name>Phoebe Amirault</name>
+    <role>Nicky's Classmate at Bat Mitzvah (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>1939777</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmelle Danneman</name>
+    <role>Nicky's Relative (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>3091745</tmdbid>
+  </actor>
+  <actor>
+    <name>Robbie DeRaffele</name>
+    <role>Entourage (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>1900364</tmdbid>
+  </actor>
+  <actor>
+    <name>James McMenamin</name>
+    <role>Charlie 'Donuts' Coates</role>
+    <type>GuestStar</type>
+    <tmdbid>1319037</tmdbid>
+  </actor>
+  <actor>
+    <name>Annie McNamara</name>
+    <role>Sue Gillan</role>
+    <type>GuestStar</type>
+    <tmdbid>2520396</tmdbid>
+  </actor>
+  <actor>
+    <name>Henny Russell</name>
+    <role>Carol Denning</role>
+    <type>GuestStar</type>
+    <tmdbid>209503</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcia DeBonis</name>
+    <role>Cathy</role>
+    <type>GuestStar</type>
+    <tmdbid>116691</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Fuller</name>
+    <role>Badison Murphy</role>
+    <type>GuestStar</type>
+    <tmdbid>133401</tmdbid>
+  </actor>
+  <actor>
+    <name>Finnerty Steeves</name>
+    <role>Beth Hoefler</role>
+    <type>GuestStar</type>
+    <tmdbid>1789094</tmdbid>
+  </actor>
+  <actor>
+    <name>Alice Kremelberg</name>
+    <role>Nicole Eckelcamp</role>
+    <type>GuestStar</type>
+    <tmdbid>1357037</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniella De Jesús</name>
+    <role>Zirconia Cabrera</role>
+    <type>GuestStar</type>
+    <tmdbid>2375308</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Houston</name>
+    <role>CO Lee Dixon</role>
+    <type>GuestStar</type>
+    <tmdbid>205128</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Dillenburg</name>
+    <role>CO Ryder Blake</role>
+    <type>GuestStar</type>
+    <tmdbid>2375405</tmdbid>
+  </actor>
+  <actor>
+    <name>Miguel Izaguirre</name>
+    <role>Diablo</role>
+    <type>GuestStar</type>
+    <tmdbid>2376884</tmdbid>
+  </actor>
+  <actor>
+    <name>Hunter Emery</name>
+    <role>CO Rick Hopper</role>
+    <type>GuestStar</type>
+    <tmdbid>1376582</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Webber</name>
+    <role>CO Alvarez</role>
+    <type>GuestStar</type>
+    <tmdbid>2375316</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Vrotsos</name>
+    <role>CO Hellman</role>
+    <type>GuestStar</type>
+    <tmdbid>1154271</tmdbid>
+  </actor>
+  <actor>
+    <name>Branden Wellington</name>
+    <role>CO Jarod Young</role>
+    <type>GuestStar</type>
+    <tmdbid>2146550</tmdbid>
+  </actor>
+  <actor>
+    <name>Sipiwe Moyo</name>
+    <role>Adeola</role>
+    <type>GuestStar</type>
+    <tmdbid>1511822</tmdbid>
+  </actor>
+  <actor>
+    <name>Phumzile Sitole</name>
+    <role>Akers</role>
+    <type>GuestStar</type>
+    <tmdbid>1761816</tmdbid>
+  </actor>
+  <actor>
+    <name>Mandela Bellamy</name>
+    <role>Rosalie Deitland</role>
+    <type>GuestStar</type>
+    <tmdbid>1990682</tmdbid>
+    <imdbid>nm3917917</imdbid>
+  </actor>
+  <actor>
+    <name>Susan Heyward</name>
+    <role>Tamika Ward</role>
+    <type>GuestStar</type>
+    <tmdbid>1422261</tmdbid>
+    <imdbid>nm2526851</imdbid>
+  </actor>
+  <actor>
+    <name>Shannon Esper</name>
+    <role>Alana Dwight</role>
+    <type>GuestStar</type>
+    <tmdbid>1289021</tmdbid>
+  </actor>
+  <actor>
+    <name>Besanya Santiago</name>
+    <role>Creech</role>
+    <type>GuestStar</type>
+    <tmdbid>2375413</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Tarver</name>
+    <role>CO Artesian McCullough</role>
+    <type>GuestStar</type>
+    <tmdbid>1534551</tmdbid>
+  </actor>
+  <director>Phil Abraham</director>
+  <rating>8.75</rating>
+  <year>2018</year>
+  <imdbid>tt7435422</imdbid>
+  <tvdbid>6737732</tvdbid>
+  <runtime>56</runtime>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt7435422</uniqueid>
+  <uniqueid type="Tvdb">6737732</uniqueid>
+  <episode>4</episode>
+  <season>6</season>
+  <aired>2018-07-27</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4502504</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>56</duration>
+        <durationinseconds>3383</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

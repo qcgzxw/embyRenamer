@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[薛尔登找朋友们来烦他，希望借此进入正确的心理状态，让自己在暗物质研究中有所突破。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 17:55:52</dateadded>
+  <title>The Anxiety Optimization</title>
+  <actor>
+    <name>Ed Lieberman</name>
+    <type>GuestStar</type>
+    <tmdbid>1484254</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Spencer</name>
+    <type>GuestStar</type>
+    <tmdbid>591519</tmdbid>
+    <imdbid>nm3189010</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.5</rating>
+  <year>2015</year>
+  <imdbid>tt3862708</imdbid>
+  <tvdbid>5077937</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>1065729773</tvrageid>
+  <uniqueid type="Imdb">tt3862708</uniqueid>
+  <uniqueid type="Tvdb">5077937</uniqueid>
+  <uniqueid type="TvRage">1065729773</uniqueid>
+  <episode>13</episode>
+  <season>8</season>
+  <aired>2015-01-29</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1584444</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>20</duration>
+        <durationinseconds>1223</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

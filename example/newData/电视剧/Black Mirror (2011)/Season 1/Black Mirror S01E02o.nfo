@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[在未来世界，衣着统一的人们只通过虚拟网络交流，依靠日复一日骑自行车赚取赖以为生的消费点数。不甘做行尸走肉的Bing（丹尼尔·卡卢亚 Daniel Kaluuya 饰）倾尽自己所有点数帮助天籁般歌声的Abi（杰西卡·布朗-芬德利 Jessica Brown-Findlay 饰）登上选秀舞台，却被Abi沦为艳星的事实深深打击。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-06-08 16:18:38</dateadded>
+  <title>一千五百万的价值</title>
+  <actor>
+    <name>Daniel Kaluuya</name>
+    <role>Bingham 'Bing' Madsen</role>
+    <type>GuestStar</type>
+    <tmdbid>206919</tmdbid>
+    <imdbid>nm2257207</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Brown Findlay</name>
+    <role>Abi Khan</role>
+    <type>GuestStar</type>
+    <tmdbid>567269</tmdbid>
+    <imdbid>nm3726887</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Popplewell</name>
+    <role>Dustin</role>
+    <type>GuestStar</type>
+    <tmdbid>311811</tmdbid>
+    <imdbid>nm0691586</imdbid>
+  </actor>
+  <actor>
+    <name>Rupert Everett</name>
+    <role>Judge Hope</role>
+    <type>GuestStar</type>
+    <tmdbid>4757</tmdbid>
+    <imdbid>nm0000391</imdbid>
+  </actor>
+  <actor>
+    <name>Julia Davis</name>
+    <role>Judge Charity</role>
+    <type>GuestStar</type>
+    <tmdbid>1836</tmdbid>
+    <imdbid>nm0204919</imdbid>
+  </actor>
+  <actor>
+    <name>Ashley Thomas</name>
+    <role>Judge Wraith</role>
+    <type>GuestStar</type>
+    <tmdbid>1636813</tmdbid>
+    <imdbid>nm0858500</imdbid>
+  </actor>
+  <actor>
+    <name>Kerrie Hayes</name>
+    <role>Glee</role>
+    <type>GuestStar</type>
+    <tmdbid>570323</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannah John-Kamen</name>
+    <role>Selma Telse</role>
+    <type>GuestStar</type>
+    <tmdbid>1408809</tmdbid>
+    <imdbid>nm4789912</imdbid>
+  </actor>
+  <actor>
+    <name>Isabella Laughland</name>
+    <role>Swift</role>
+    <type>GuestStar</type>
+    <tmdbid>234930</tmdbid>
+  </actor>
+  <actor>
+    <name>David Fynn</name>
+    <role>Oliver</role>
+    <type>GuestStar</type>
+    <tmdbid>204807</tmdbid>
+  </actor>
+  <actor>
+    <name>Colin Michael Carmichael</name>
+    <role>Kai</role>
+    <type>GuestStar</type>
+    <tmdbid>1512263</tmdbid>
+  </actor>
+  <actor>
+    <name>Eugene O'Hare</name>
+    <role>Hammond</role>
+    <type>GuestStar</type>
+    <tmdbid>1762541</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaimi Barbakoff</name>
+    <role>Anna</role>
+    <type>GuestStar</type>
+    <tmdbid>1625157</tmdbid>
+  </actor>
+  <director>Euros Lyn</director>
+  <rating>7.7</rating>
+  <year>2011</year>
+  <imdbid>tt2089049</imdbid>
+  <tvdbid>4201396</tvdbid>
+  <runtime>62</runtime>
+  <genre>Drama</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt2089049</uniqueid>
+  <uniqueid type="Tvdb">4201396</uniqueid>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2011-12-11</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11092494</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>62</duration>
+        <durationinseconds>3720</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

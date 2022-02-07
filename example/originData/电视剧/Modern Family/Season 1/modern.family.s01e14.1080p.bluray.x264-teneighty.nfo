@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[杰让米奇尔帮歌洛莉亚处理交通事故。其实真正的原因是歌洛莉亚驾驶技术太烂却又死不承认，老是找借口把责任推在别人身上，大家都不敢告诉她实情。于是杰将这个难题推给了米奇尔。米奇尔却以为这是杰第一次主动找自己做法律援助，非常的高兴，于是积极了解事故发生的过程，准备为歌洛莉亚维权。但曼尼却向米奇尔悄悄透露了事故的真正原因，原来一切责任都在歌洛莉亚身上，她不仅超速而且驾驶技术也非常烂。米奇尔陷入两难的困境，不知道怎样将实话告诉歌洛莉亚。在蛋糕店里米奇尔刚委婉地说明实情就遭到歌洛莉亚的抢白，事情没解决不说还惹的歌洛莉亚拂袖而去。米奇尔郁闷极了。却不料没过一会儿，歌洛莉亚就又回到蛋糕店，还主动承认自己驾驶技术可能真的不行。米奇尔很吃惊歌洛莉亚怎么转变的如此之快，出了店门才发现，原来歌洛莉亚驾车竟然撞坏了蛋糕店的招牌。卡梅隆过去是个健身达人，室内网球打的特别好，多次约杰一起打球，杰推辞多次后只好答应了。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-10 07:45:44</dateadded>
+  <title>状况百出的攀比</title>
+  <actor>
+    <name>Ed O'Neill</name>
+    <role>Jay Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>18977</tmdbid>
+    <imdbid>nm0642145</imdbid>
+  </actor>
+  <actor>
+    <name>Sofía Vergara</name>
+    <role>Gloria Delgado-Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>63522</tmdbid>
+    <imdbid>nm0005527</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Bowen</name>
+    <role>Claire Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>31171</tmdbid>
+    <imdbid>nm0100866</imdbid>
+  </actor>
+  <actor>
+    <name>Ty Burrell</name>
+    <role>Phil Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>15232</tmdbid>
+    <imdbid>nm0123092</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse Tyler Ferguson</name>
+    <role>Mitchell Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>204815</tmdbid>
+    <imdbid>nm0272479</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Stonestreet</name>
+    <role>Cameron Tucker</role>
+    <type>Actor</type>
+    <tmdbid>156962</tmdbid>
+    <imdbid>nm0832314</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Hyland</name>
+    <role>Haley Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>91351</tmdbid>
+    <imdbid>nm0405103</imdbid>
+  </actor>
+  <actor>
+    <name>Ariel Winter</name>
+    <role>Alex Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>42160</tmdbid>
+    <imdbid>nm1736769</imdbid>
+  </actor>
+  <actor>
+    <name>Nolan Gould</name>
+    <role>Luke Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>147710</tmdbid>
+    <imdbid>nm2188098</imdbid>
+  </actor>
+  <actor>
+    <name>Rico Rodriguez</name>
+    <role>Manny Delgado</role>
+    <type>Actor</type>
+    <tmdbid>206737</tmdbid>
+    <imdbid>nm2349726</imdbid>
+  </actor>
+  <actor>
+    <name>Minnie Driver</name>
+    <role>Valerie</role>
+    <type>GuestStar</type>
+    <tmdbid>6613</tmdbid>
+    <imdbid>nm0000378</imdbid>
+  </actor>
+  <actor>
+    <name>Blake Gibbons</name>
+    <role>Construction Worker</role>
+    <type>GuestStar</type>
+    <tmdbid>41275</tmdbid>
+  </actor>
+  <actor>
+    <name>Reid Ewing</name>
+    <role>Dylan Marshall</role>
+    <type>GuestStar</type>
+    <tmdbid>967692</tmdbid>
+    <imdbid>nm2938641</imdbid>
+  </actor>
+  <director>Jason Winer</director>
+  <rating>8.2</rating>
+  <year>2010</year>
+  <imdbid>tt1580159</imdbid>
+  <tvdbid>1559121</tvdbid>
+  <runtime>22</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <uniqueid type="Imdb">tt1580159</uniqueid>
+  <uniqueid type="Tvdb">1559121</uniqueid>
+  <episode>14</episode>
+  <season>1</season>
+  <aired>2010-02-03</aired>
+  <fileinfo>
+    <streamdetails>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>14459221</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1299</durationinseconds>
+      </video>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

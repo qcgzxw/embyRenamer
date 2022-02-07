@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[看到佩妮亲吻别的男子后，莱纳德备受打击，随后以同小伙子们聚餐为幌子邀她出来约会。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 16:39:59</dateadded>
+  <title>被拒绝的莱纳德</title>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Leonard Hofstadter</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>Howard Wolowitz</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Nayyar</name>
+    <role>Rajesh Koothrappali</role>
+    <type>Actor</type>
+    <tmdbid>208099</tmdbid>
+    <imdbid>nm2471798</imdbid>
+  </actor>
+  <actor>
+    <name>Sherry Weston</name>
+    <role>Dance Instructor</role>
+    <type>GuestStar</type>
+    <tmdbid>1224129</tmdbid>
+    <imdbid>nm1281683</imdbid>
+  </actor>
+  <actor>
+    <name>Allen Nabors</name>
+    <role>Doug</role>
+    <type>GuestStar</type>
+    <tmdbid>98802</tmdbid>
+    <imdbid>nm1031542</imdbid>
+  </actor>
+  <actor>
+    <name>Treisa Gary</name>
+    <role>Waitress</role>
+    <type>GuestStar</type>
+    <tmdbid>1450810</tmdbid>
+    <imdbid>nm1420224</imdbid>
+  </actor>
+  <actor>
+    <name>Sara Gilbert</name>
+    <role>Leslie Winkle</role>
+    <type>GuestStar</type>
+    <tmdbid>3282</tmdbid>
+    <imdbid>nm0004960</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.1</rating>
+  <year>2007</year>
+  <imdbid>tt1091290</imdbid>
+  <tvdbid>337249</tvdbid>
+  <runtime>22</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>604480</tvrageid>
+  <uniqueid type="Imdb">tt1091290</uniqueid>
+  <uniqueid type="Tvdb">337249</uniqueid>
+  <uniqueid type="TvRage">604480</uniqueid>
+  <episode>3</episode>
+  <season>1</season>
+  <aired>2007-10-08</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1399135</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1295</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

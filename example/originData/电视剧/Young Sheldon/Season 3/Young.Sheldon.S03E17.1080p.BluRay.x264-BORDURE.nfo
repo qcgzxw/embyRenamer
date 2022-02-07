@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[当谢尔顿指控斯特吉斯博士剽窃时，他非常愤怒。玛丽也在为米茜的高级棒球仪式寻找一个“女孩奖杯”，乔治和维罗妮卡在约会时遇到了他的新女友雅娜 。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-11 23:30:49</dateadded>
+  <title>学术犯罪和更浪漫的塔可钟</title>
+  <actor>
+    <name>Iain Armitage</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1684536</tmdbid>
+    <imdbid>nm8071137</imdbid>
+  </actor>
+  <actor>
+    <name>Zoe Perry</name>
+    <role>Mary Cooper</role>
+    <type>Actor</type>
+    <tmdbid>133450</tmdbid>
+    <imdbid>nm1409365</imdbid>
+  </actor>
+  <actor>
+    <name>Lance Barber</name>
+    <role>George Cooper Sr.</role>
+    <type>Actor</type>
+    <tmdbid>1212111</tmdbid>
+    <imdbid>nm1115741</imdbid>
+  </actor>
+  <actor>
+    <name>Montana Jordan</name>
+    <role>Georgie Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1817307</tmdbid>
+    <imdbid>nm7718664</imdbid>
+  </actor>
+  <actor>
+    <name>Raegan Revord</name>
+    <role>Missy Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1575317</tmdbid>
+    <imdbid>nm6862942</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Potts</name>
+    <role>Connie Tucker</role>
+    <type>Actor</type>
+    <tmdbid>8873</tmdbid>
+    <imdbid>nm0001633</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Hobby</name>
+    <role>Jeff Difford</role>
+    <type>Actor</type>
+    <tmdbid>1536526</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Isabel May</name>
+    <role>Veronica Duncan</role>
+    <type>GuestStar</type>
+    <tmdbid>1972974</tmdbid>
+    <imdbid>nm8908475</imdbid>
+  </actor>
+  <actor>
+    <name>Louie Anderson</name>
+    <role>Ralph</role>
+    <type>GuestStar</type>
+    <tmdbid>44795</tmdbid>
+    <imdbid>nm0004706</imdbid>
+  </actor>
+  <actor>
+    <name>Lyn Alicia Henderson</name>
+    <role>Sally</role>
+    <type>GuestStar</type>
+    <tmdbid>1337441</tmdbid>
+    <imdbid>nm0376531</imdbid>
+  </actor>
+  <actor>
+    <name>Stacey Moseley</name>
+    <role>Carol</role>
+    <type>GuestStar</type>
+    <tmdbid>171300</tmdbid>
+    <imdbid>nm0608435</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Begley Jr.</name>
+    <role>Grant Linkletter</role>
+    <type>GuestStar</type>
+    <tmdbid>42157</tmdbid>
+    <imdbid>nm0000893</imdbid>
+  </actor>
+  <actor>
+    <name>Ava Allan</name>
+    <role>Jana Boggs</role>
+    <type>GuestStar</type>
+    <tmdbid>1258895</tmdbid>
+    <imdbid>nm3709243</imdbid>
+  </actor>
+  <actor>
+    <name>Wallace Shawn</name>
+    <role>John Sturgis</role>
+    <type>GuestStar</type>
+    <tmdbid>12900</tmdbid>
+    <imdbid>nm0001728</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa Peterman</name>
+    <role>Brenda Sparks</role>
+    <type>GuestStar</type>
+    <tmdbid>145816</tmdbid>
+    <imdbid>nm0676292</imdbid>
+  </actor>
+  <rating>5.5</rating>
+  <year>2020</year>
+  <imdbid>tt11761420</imdbid>
+  <tvdbid>7595723</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <uniqueid type="Imdb">tt11761420</uniqueid>
+  <uniqueid type="Tvdb">7595723</uniqueid>
+  <episode>17</episode>
+  <season>3</season>
+  <aired>2020-03-05</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>15298521</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1185</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[来自未名地方的新生 Nanno 如伊甸园的毒蛇，放大人们的欲望，揭露心灵深处的黑暗。他是令人尊敬的老师，一场视频风波揭露了老师背后的肮脏行为，性侵、威胁，道貌岸然的样子由 Nanno 来放大！]]></plot>
+  <outline><![CDATA[来自未名地方的新生 Nanno 如伊甸园的毒蛇，放大人们的欲望，揭露心灵深处的黑暗。他是令人尊敬的老师，一场视频风波揭露了老师背后的肮脏行为，性侵、威胁，道貌岸然的样子由 Nanno 来放大！]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-05 12:58:58</dateadded>
+  <title>禁忌女孩</title>
+  <originaltitle>เด็กใหม่</originaltitle>
+  <actor>
+    <name>Chicha Amatayakul</name>
+    <role>Nanno</role>
+    <type>Actor</type>
+    <tmdbid>2278988</tmdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=qgI2oEpMN58</trailer>
+  <trailer>http://www.youtube.com/watch?v=Xu63tr_B39g</trailer>
+  <rating>8.5</rating>
+  <year>2018</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt8824648</imdb_id>
+  <tmdbid>83639</tmdbid>
+  <premiered>2018-10-27</premiered>
+  <releasedate>2018-10-27</releasedate>
+  <runtime>42</runtime>
+  <genre>剧情</genre>
+  <genre>悬疑</genre>
+  <genre>犯罪</genre>
+  <studio>GMM 25</studio>
+  <uniqueid type="Tmdb">83639</uniqueid>
+  <uniqueid type="Imdb">tt8824648</uniqueid>
+  <uniqueid type="Tvdb">351534</uniqueid>
+  <tvdbid>351534</tvdbid>
+  <id>351534</id>
+  <episodeguide>
+    <url cache="351534.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/351534/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

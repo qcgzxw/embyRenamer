@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[莱拉怀孕了，但她却故意干着很重的活，连店里的摆设也要亲力亲为，埃琳娜猜测她可能是想通过这样的举动来让肚子里的孩子流产，埃琳娜的这种想法在莱拉怀孕十周时得到了证实。莱拉让埃琳娜陪她一起去斯特凡诺和索拉拉家族一起开的鞋店，她想对自己的那张婚纱照进行改动，在埃琳娜的帮助下，莱拉开始对婚纱照进行剪裁起来，在常人的眼里变得面目全非，里诺等人不愿意再看下去，纷纷躲在了一边，等莱拉全部更改完毕之后，只有索拉拉兄弟表示认可，觉得这简直是天才的手笔。这时，工人们进来告诉大家，外面的彩灯装好了，可以进行测试了，众人来到外面，彩灯逐次亮起，莱拉却敏感地发现招牌上并不是事先约定赛鲁罗皮鞋的字样，而是索拉拉皮鞋，这让莱拉非常愤怒。
+
+莱拉把里诺叫到一旁询问，里诺让她不要声张，况且这对于鞋店并没有什么影响，莱拉问他是不是向斯特凡诺或是索拉拉兄弟借钱了，不然，为什么他们说什么他都要听，莱拉觉得哥哥与丈夫一样，现在她已经不能信任他们了，随后，莱拉发觉自己的肚子很疼，埃琳娜有些不放心地跟她进到了店里，莱拉并没有任何害怕，反而有些惊喜地告诉埃琳娜，她的孩子没有了。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-11-02 00:16:14</dateadded>
+  <title>抹去</title>
+  <actor>
+    <name>Gaia Girace</name>
+    <role>Lila (Teenager)</role>
+    <type>Actor</type>
+    <tmdbid>2165956</tmdbid>
+    <imdbid>nm10135221</imdbid>
+  </actor>
+  <actor>
+    <name>Margherita Mazzucco</name>
+    <role>Elena (Teenager)</role>
+    <type>Actor</type>
+    <tmdbid>2165955</tmdbid>
+  </actor>
+  <actor>
+    <name>Ludovica Nasti</name>
+    <role>Lila (Younger)</role>
+    <type>Actor</type>
+    <tmdbid>2165954</tmdbid>
+  </actor>
+  <actor>
+    <name>Elisa del Genio</name>
+    <role>Elena (Younger)</role>
+    <type>Actor</type>
+    <tmdbid>2165953</tmdbid>
+  </actor>
+  <actor>
+    <name>Dora Romano</name>
+    <role>Miss Oliviero</role>
+    <type>Actor</type>
+    <tmdbid>1510167</tmdbid>
+    <imdbid>nm0738873</imdbid>
+  </actor>
+  <director>Saverio Costanzo</director>
+  <rating>4</rating>
+  <year>2020</year>
+  <imdbid>tt9413914</imdbid>
+  <tvdbid>7550351</tvdbid>
+  <runtime>63</runtime>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt9413914</uniqueid>
+  <uniqueid type="Tvdb">7550351</uniqueid>
+  <episode>3</episode>
+  <season>2</season>
+  <aired>2020-02-17</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10309775</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>62</duration>
+        <durationinseconds>3760</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

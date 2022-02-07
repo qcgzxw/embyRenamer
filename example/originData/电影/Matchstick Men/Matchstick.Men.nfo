@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[火柴人——美国俚语，说的是那种让你掏心掏肺外加掏钱的骗徒……一个厉害的火柴人，即使他手上只有一盒火柴，他都有办法用高超的骗术，夸张火柴的效能，并且让一堆人捧着现金抢着向他买火柴。从这一点上看，与营销案例中关于“如何把冰卖给爱斯基摩人”颇有些相似之处，因此才有了罗伊的那句话：“我从不使用暴力，人们都是心甘情愿给我钱的！” 罗伊（尼古拉斯·凯奇）与弗兰克（萨姆洛克·维尔）是一对从事小打小闹的骗子生涯的搭档，他们利用人们爱占便宜的心理屡屡得手，因为既不会让受骗者倾家荡产，每次的骗术伎俩又是花样翻新，所以骗子生涯倒也波澜不惊。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-05-01 15:20:06</dateadded>
+  <title>火柴人</title>
+  <originaltitle>Matchstick Men</originaltitle>
+  <actor>
+    <name>Nicolas Cage</name>
+    <role>Roy Waller</role>
+    <type>Actor</type>
+    <tmdbid>2963</tmdbid>
+    <imdbid>nm0000115</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Rockwell</name>
+    <role>Frank Mercer</role>
+    <type>Actor</type>
+    <tmdbid>6807</tmdbid>
+    <imdbid>nm0005377</imdbid>
+  </actor>
+  <actor>
+    <name>Alison Lohman</name>
+    <role>Angela</role>
+    <type>Actor</type>
+    <tmdbid>8291</tmdbid>
+    <imdbid>nm0517844</imdbid>
+  </actor>
+  <actor>
+    <name>Bruce Altman</name>
+    <role>Dr. Klein</role>
+    <type>Actor</type>
+    <tmdbid>27545</tmdbid>
+    <imdbid>nm0022883</imdbid>
+  </actor>
+  <actor>
+    <name>Bruce McGill</name>
+    <role>Chuck Frechette</role>
+    <type>Actor</type>
+    <tmdbid>14888</tmdbid>
+    <imdbid>nm0569226</imdbid>
+  </actor>
+  <actor>
+    <name>Jenny O'Hara</name>
+    <role>Mrs. Schaffer</role>
+    <type>Actor</type>
+    <tmdbid>4734</tmdbid>
+    <imdbid>nm0641266</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Eastin</name>
+    <role>Mr. Schaffer</role>
+    <type>Actor</type>
+    <tmdbid>9276</tmdbid>
+    <imdbid>nm0247611</imdbid>
+  </actor>
+  <actor>
+    <name>Beth Grant</name>
+    <role>Laundry Lady</role>
+    <type>Actor</type>
+    <tmdbid>5151</tmdbid>
+    <imdbid>nm0335275</imdbid>
+  </actor>
+  <actor>
+    <name>Sheila Kelley</name>
+    <role>Kathy</role>
+    <type>Actor</type>
+    <tmdbid>68109</tmdbid>
+    <imdbid>nm0445992</imdbid>
+  </actor>
+  <actor>
+    <name>Fran Kranz</name>
+    <role>Slacker Boyfriend</role>
+    <type>Actor</type>
+    <tmdbid>51533</tmdbid>
+    <imdbid>nm0469823</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Kelleher</name>
+    <role>Bishop</role>
+    <type>Actor</type>
+    <tmdbid>72864</tmdbid>
+    <imdbid>nm0445551</imdbid>
+  </actor>
+  <actor>
+    <name>Nigel Gibbs</name>
+    <role>Holt</role>
+    <type>Actor</type>
+    <tmdbid>11915</tmdbid>
+    <imdbid>nm0316708</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Saito</name>
+    <role>Pharmacist #1</role>
+    <type>Actor</type>
+    <tmdbid>151479</tmdbid>
+    <imdbid>nm0756827</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Maculan</name>
+    <role>Pharmacist #2</role>
+    <type>Actor</type>
+    <tmdbid>1226471</tmdbid>
+    <imdbid>nm0534380</imdbid>
+  </actor>
+  <actor>
+    <name>Giannina Facio</name>
+    <role>Bank Teller</role>
+    <type>Actor</type>
+    <tmdbid>58787</tmdbid>
+    <imdbid>nm0264857</imdbid>
+  </actor>
+  <actor>
+    <name>Stoney Westmoreland</name>
+    <role>Man in Line</role>
+    <type>Actor</type>
+    <tmdbid>19491</tmdbid>
+    <imdbid>nm0922899</imdbid>
+  </actor>
+  <actor>
+    <name>Melora Walters</name>
+    <role>Heather (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>4766</tmdbid>
+  </actor>
+  <director tmdbid="578" imdbid="nm0000631">Ridley Scott</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zDoOdd00nHM</trailer>
+  <rating>7.3</rating>
+  <year>2003</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt0325805</imdbid>
+  <tmdbid>7270</tmdbid>
+  <premiered>2003-09-01</premiered>
+  <releasedate>2003-09-01</releasedate>
+  <criticrating>82</criticrating>
+  <runtime>116</runtime>
+  <country>United States of America</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <genre>犯罪</genre>
+  <genre>惊悚</genre>
+  <studio>Saturn Films</studio>
+  <studio>Scott Free Productions</studio>
+  <studio>Rickshaw Productions</studio>
+  <studio>LivePlanet</studio>
+  <studio>ImageMovers</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>HorsePower Entertainment</studio>
+  <uniqueid type="Tmdb">7270</uniqueid>
+  <uniqueid type="Imdb">tt0325805</uniqueid>
+  <id>tt0325805</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10778073</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>6969</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

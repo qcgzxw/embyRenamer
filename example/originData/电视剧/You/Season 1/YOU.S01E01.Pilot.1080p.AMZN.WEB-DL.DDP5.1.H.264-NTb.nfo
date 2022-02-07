@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[A charming first encounter quickly turns into something more nefarious when bookstore manager Joe takes a very strong liking to grad student Beck.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-10-07 14:36:46</dateadded>
+  <title>第 1 集</title>
+  <actor>
+    <name>Penn Badgley</name>
+    <role>Joe Goldberg</role>
+    <type>Actor</type>
+    <tmdbid>110927</tmdbid>
+    <imdbid>nm0046112</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Lail</name>
+    <role>Guinevere Beck</role>
+    <type>Actor</type>
+    <tmdbid>1368507</tmdbid>
+    <imdbid>nm5634768</imdbid>
+  </actor>
+  <actor>
+    <name>Luca Padovan</name>
+    <role>Paco</role>
+    <type>Actor</type>
+    <tmdbid>2126167</tmdbid>
+  </actor>
+  <actor>
+    <name>Zach Cherry</name>
+    <role>Ethan Russell</role>
+    <type>Actor</type>
+    <tmdbid>1838225</tmdbid>
+  </actor>
+  <actor>
+    <name>Cliff Moylan</name>
+    <role>Gas Company Man</role>
+    <type>GuestStar</type>
+    <tmdbid>1410481</tmdbid>
+    <imdbid>nm2854316</imdbid>
+  </actor>
+  <actor>
+    <name>Katy Rea</name>
+    <role>Neo-Folk Singer</role>
+    <type>GuestStar</type>
+    <tmdbid>2455476</tmdbid>
+  </actor>
+  <actor>
+    <name>Mehdi Barakchian</name>
+    <role>Middle-Aged Brooklynite</role>
+    <type>GuestStar</type>
+    <tmdbid>2455477</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Lewis</name>
+    <role>Homeless Man</role>
+    <type>GuestStar</type>
+    <tmdbid>2455478</tmdbid>
+    <imdbid>nm3504820</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick K. Dooley</name>
+    <role>Drunk Man</role>
+    <type>GuestStar</type>
+    <tmdbid>2455479</tmdbid>
+  </actor>
+  <actor>
+    <name>Shehzad</name>
+    <role>Johno</role>
+    <type>GuestStar</type>
+    <tmdbid>2455480</tmdbid>
+    <imdbid>nm6913149</imdbid>
+  </actor>
+  <actor>
+    <name>T.J. Atoms</name>
+    <role>Candy Store MC</role>
+    <type>GuestStar</type>
+    <tmdbid>2455481</tmdbid>
+  </actor>
+  <actor>
+    <name>Venida Evans</name>
+    <role>Older Woman</role>
+    <type>GuestStar</type>
+    <tmdbid>1196527</tmdbid>
+    <imdbid>nm0263287</imdbid>
+  </actor>
+  <actor>
+    <name>Reg Rogers</name>
+    <role>Professor Paul Leahy</role>
+    <type>GuestStar</type>
+    <tmdbid>129759</tmdbid>
+    <imdbid>nm0737138</imdbid>
+  </actor>
+  <actor>
+    <name>Lou Taylor Pucci</name>
+    <role>Benji</role>
+    <type>GuestStar</type>
+    <tmdbid>17441</tmdbid>
+    <imdbid>nm1086384</imdbid>
+  </actor>
+  <actor>
+    <name>Nicole Kang</name>
+    <role>Lynn Lieser</role>
+    <type>GuestStar</type>
+    <tmdbid>2081650</tmdbid>
+    <imdbid>nm9169007</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Cosgrove</name>
+    <role>Ron</role>
+    <type>GuestStar</type>
+    <tmdbid>203511</tmdbid>
+    <imdbid>nm0181822</imdbid>
+  </actor>
+  <actor>
+    <name>Gianni Ciardiello</name>
+    <role>Young Joe Goldberg</role>
+    <type>GuestStar</type>
+    <tmdbid>2455475</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Blum</name>
+    <role>Mr. Mooney</role>
+    <type>GuestStar</type>
+    <tmdbid>14103</tmdbid>
+    <imdbid>nm0089685</imdbid>
+  </actor>
+  <actor>
+    <name>Victoria Cartagena</name>
+    <role>Claudia</role>
+    <type>GuestStar</type>
+    <tmdbid>118388</tmdbid>
+    <imdbid>nm1742739</imdbid>
+  </actor>
+  <actor>
+    <name>Kathryn Gallagher</name>
+    <role>Annika</role>
+    <type>GuestStar</type>
+    <tmdbid>2270221</tmdbid>
+    <imdbid>nm4137840</imdbid>
+  </actor>
+  <actor>
+    <name>Ron Maestri</name>
+    <role>Swanky Party Guest (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>2584246</tmdbid>
+  </actor>
+  <actor>
+    <name>Annie Pisapia</name>
+    <role>Maid (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>1979097</tmdbid>
+  </actor>
+  <actor>
+    <name>Shay Mitchell</name>
+    <role>Peach Salinger</role>
+    <type>GuestStar</type>
+    <tmdbid>222088</tmdbid>
+  </actor>
+  <director>Lee Toland Krieger</director>
+  <rating>7.1</rating>
+  <year>2018</year>
+  <imdbid>tt7360754</imdbid>
+  <tvdbid>6821139</tvdbid>
+  <runtime>48</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt7360754</uniqueid>
+  <uniqueid type="Tvdb">6821139</uniqueid>
+  <episode>1</episode>
+  <season>1</season>
+  <aired>2018-09-09</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5971184</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>48</duration>
+        <durationinseconds>2884</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

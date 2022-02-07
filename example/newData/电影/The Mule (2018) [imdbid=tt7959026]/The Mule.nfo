@@ -1,0 +1,680 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[这部由东木制片的《The Mule》将聚焦一位名叫Leo Sharp的二战老兵，他为墨西哥贩毒集团锡那罗亚运送毒品长达十年之久，2011年在用一辆破卡车运送价值300万美元毒品穿越密歇根州的时候被捕，当时他已经90岁高龄，后来他的律师坚称Sharp是因为老年痴呆而被人利用，最后Sharp只被判入狱三年。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-04-13 12:41:42</dateadded>
+  <title>骡子</title>
+  <originaltitle>The Mule</originaltitle>
+  <actor>
+    <name>Clint Eastwood</name>
+    <role>Earl Stone</role>
+    <type>Actor</type>
+    <tmdbid>190</tmdbid>
+    <imdbid>nm0000142</imdbid>
+  </actor>
+  <actor>
+    <name>Bradley Cooper</name>
+    <role>Agent Colin Bates</role>
+    <type>Actor</type>
+    <tmdbid>51329</tmdbid>
+    <imdbid>nm0177896</imdbid>
+  </actor>
+  <actor>
+    <name>Laurence Fishburne</name>
+    <role>Special Agent in Charge</role>
+    <type>Actor</type>
+    <tmdbid>2975</tmdbid>
+    <imdbid>nm0000401</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Peña</name>
+    <role>Agent Treviño</role>
+    <type>Actor</type>
+    <tmdbid>454</tmdbid>
+    <imdbid>nm0671567</imdbid>
+  </actor>
+  <actor>
+    <name>Dianne Wiest</name>
+    <role>Mary</role>
+    <type>Actor</type>
+    <tmdbid>1902</tmdbid>
+    <imdbid>nm0001848</imdbid>
+  </actor>
+  <actor>
+    <name>Ignacio Serricchio</name>
+    <role>Julio</role>
+    <type>Actor</type>
+    <tmdbid>139868</tmdbid>
+    <imdbid>nm1579445</imdbid>
+  </actor>
+  <actor>
+    <name>Andy García</name>
+    <role>Latón</role>
+    <type>Actor</type>
+    <tmdbid>1271</tmdbid>
+    <imdbid>nm0000412</imdbid>
+  </actor>
+  <actor>
+    <name>Taissa Farmiga</name>
+    <role>Ginny</role>
+    <type>Actor</type>
+    <tmdbid>527313</tmdbid>
+    <imdbid>nm3920288</imdbid>
+  </actor>
+  <actor>
+    <name>Alison Eastwood</name>
+    <role>Iris</role>
+    <type>Actor</type>
+    <tmdbid>389</tmdbid>
+    <imdbid>nm0002055</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Herd</name>
+    <role>Tim Kennedy</role>
+    <type>Actor</type>
+    <tmdbid>13732</tmdbid>
+    <imdbid>nm0378800</imdbid>
+  </actor>
+  <actor>
+    <name>Lobo Sebastian</name>
+    <role>Bug</role>
+    <type>Actor</type>
+    <tmdbid>48071</tmdbid>
+    <imdbid>nm0780957</imdbid>
+  </actor>
+  <actor>
+    <name>Manny Montana</name>
+    <role>Axl</role>
+    <type>Actor</type>
+    <tmdbid>1182725</tmdbid>
+    <imdbid>nm2861303</imdbid>
+  </actor>
+  <actor>
+    <name>Noel Gugliemi</name>
+    <role>Bald Rob</role>
+    <type>Actor</type>
+    <tmdbid>53252</tmdbid>
+    <imdbid>nm0346595</imdbid>
+  </actor>
+  <actor>
+    <name>Gustavo Muñoz</name>
+    <role>Farmhand #2</role>
+    <type>Actor</type>
+    <tmdbid>1660431</tmdbid>
+    <imdbid>nm3169819</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick L. Reyes</name>
+    <role>Farmhand #3</role>
+    <type>Actor</type>
+    <tmdbid>2232700</tmdbid>
+    <imdbid>nm8423767</imdbid>
+  </actor>
+  <actor>
+    <name>Cesar de León</name>
+    <role>José</role>
+    <type>Actor</type>
+    <tmdbid>556873</tmdbid>
+    <imdbid>nm1478076</imdbid>
+  </actor>
+  <actor>
+    <name>Jackie Prucha</name>
+    <role>Helen</role>
+    <type>Actor</type>
+    <tmdbid>223020</tmdbid>
+    <imdbid>nm1836910</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Drescher</name>
+    <role>Computer Daylily Guy</role>
+    <type>Actor</type>
+    <tmdbid>1683090</tmdbid>
+    <imdbid>nm0237503</imdbid>
+  </actor>
+  <actor>
+    <name>Christi McClintock</name>
+    <role>Daylily Fan</role>
+    <type>Actor</type>
+    <tmdbid>2292592</tmdbid>
+    <imdbid>nm10260847</imdbid>
+  </actor>
+  <actor>
+    <name>Keith Flippen</name>
+    <role>MC</role>
+    <type>Actor</type>
+    <tmdbid>174106</tmdbid>
+    <imdbid>nm0282436</imdbid>
+  </actor>
+  <actor>
+    <name>Kinsley Isla Dillon</name>
+    <role>Younger Ginny</role>
+    <type>Actor</type>
+    <tmdbid>2239472</tmdbid>
+    <imdbid>nm9363688</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Knezevich</name>
+    <role>Dave</role>
+    <type>Actor</type>
+    <tmdbid>1890166</tmdbid>
+    <imdbid>nm2374823</imdbid>
+  </actor>
+  <actor>
+    <name>Megan Leahy</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>2292593</tmdbid>
+    <imdbid>nm2622813</imdbid>
+  </actor>
+  <actor>
+    <name>Austin Freeman</name>
+    <role>Mike</role>
+    <type>Actor</type>
+    <tmdbid>1696434</tmdbid>
+    <imdbid>nm5837211</imdbid>
+  </actor>
+  <actor>
+    <name>Victor Rasuk</name>
+    <role>Rico</role>
+    <type>Actor</type>
+    <tmdbid>59251</tmdbid>
+    <imdbid>nm0711559</imdbid>
+  </actor>
+  <actor>
+    <name>Robert LaSardo</name>
+    <role>Emilio</role>
+    <type>Actor</type>
+    <tmdbid>65831</tmdbid>
+    <imdbid>nm0489436</imdbid>
+  </actor>
+  <actor>
+    <name>Saul Huezo</name>
+    <role>Andrés</role>
+    <type>Actor</type>
+    <tmdbid>2139674</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Coc</name>
+    <role>Assault Rifle Guy</role>
+    <type>Actor</type>
+    <tmdbid>2081585</tmdbid>
+    <imdbid>nm7839517</imdbid>
+  </actor>
+  <actor>
+    <name>Eugene Cordero</name>
+    <role>Luis Rocha</role>
+    <type>Actor</type>
+    <tmdbid>1370567</tmdbid>
+    <imdbid>nm3082341</imdbid>
+  </actor>
+  <actor>
+    <name>Felicia Dee</name>
+    <role>Biker #1</role>
+    <type>Actor</type>
+    <tmdbid>2292594</tmdbid>
+    <imdbid>nm6679225</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica B. Wellington</name>
+    <role>Biker #2</role>
+    <type>Actor</type>
+    <tmdbid>2292595</tmdbid>
+    <imdbid>nm7448595</imdbid>
+  </actor>
+  <actor>
+    <name>Michael H. Cole</name>
+    <role>Banker</role>
+    <type>Actor</type>
+    <tmdbid>1158065</tmdbid>
+    <imdbid>nm2360398</imdbid>
+  </actor>
+  <actor>
+    <name>Charles Lawlor</name>
+    <role>Phil</role>
+    <type>Actor</type>
+    <tmdbid>1643635</tmdbid>
+    <imdbid>nm0492542</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Heckner</name>
+    <role>Texas State Trooper</role>
+    <type>Actor</type>
+    <tmdbid>2243645</tmdbid>
+    <imdbid>nm3575708</imdbid>
+  </actor>
+  <actor>
+    <name>Mollie Busta</name>
+    <role>Mollie-B</role>
+    <type>Actor</type>
+    <tmdbid>2292596</tmdbid>
+    <imdbid>nm10560864</imdbid>
+  </actor>
+  <actor>
+    <name>James DeForest Parker</name>
+    <role>Old Vet</role>
+    <type>Actor</type>
+    <tmdbid>1400931</tmdbid>
+    <imdbid>nm1505015</imdbid>
+  </actor>
+  <actor>
+    <name>Clifton Collins Jr.</name>
+    <role>Gustavo</role>
+    <type>Actor</type>
+    <tmdbid>5365</tmdbid>
+    <imdbid>nm0004286</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Moncada</name>
+    <role>Eduardo</role>
+    <type>Actor</type>
+    <tmdbid>1371007</tmdbid>
+    <imdbid>nm3718379</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Alayo</name>
+    <role>Sal</role>
+    <type>Actor</type>
+    <tmdbid>210855</tmdbid>
+    <imdbid>nm2191237</imdbid>
+  </actor>
+  <actor>
+    <name>Travina Springer</name>
+    <role>Young Wife</role>
+    <type>Actor</type>
+    <tmdbid>1758064</tmdbid>
+    <imdbid>nm3661483</imdbid>
+  </actor>
+  <actor>
+    <name>Kareem J. Grimes</name>
+    <role>Nerdy Husband</role>
+    <type>Actor</type>
+    <tmdbid>1065869</tmdbid>
+    <imdbid>nm0342214</imdbid>
+  </actor>
+  <actor>
+    <name>Caroline Avery Granger</name>
+    <role>Hot 45-Year-Old</role>
+    <type>Actor</type>
+    <tmdbid>2259078</tmdbid>
+    <imdbid>nm1655750</imdbid>
+  </actor>
+  <actor>
+    <name>Diego Cataño</name>
+    <role>Weasel</role>
+    <type>Actor</type>
+    <tmdbid>112129</tmdbid>
+    <imdbid>nm1593407</imdbid>
+  </actor>
+  <actor>
+    <name>Kiana N. Paz</name>
+    <role>Cartel Girl #1</role>
+    <type>Actor</type>
+    <tmdbid>2292597</tmdbid>
+    <imdbid>nm10560867</imdbid>
+  </actor>
+  <actor>
+    <name>Ashley V. Yanez</name>
+    <role>Cartel Girl #2</role>
+    <type>Actor</type>
+    <tmdbid>2292598</tmdbid>
+    <imdbid>nm10560869</imdbid>
+  </actor>
+  <actor>
+    <name>Nicole M. Gomez</name>
+    <role>Cartel Girl #3</role>
+    <type>Actor</type>
+    <tmdbid>2292599</tmdbid>
+    <imdbid>nm10560868</imdbid>
+  </actor>
+  <actor>
+    <name>Dylan Kussman</name>
+    <role>Sheriff</role>
+    <type>Actor</type>
+    <tmdbid>2695</tmdbid>
+    <imdbid>nm0476378</imdbid>
+  </actor>
+  <actor>
+    <name>Grant Roberts</name>
+    <role>DEA Agent</role>
+    <type>Actor</type>
+    <tmdbid>1378662</tmdbid>
+    <imdbid>nm1791638</imdbid>
+  </actor>
+  <actor>
+    <name>Pete Burris</name>
+    <role>DEA Regional Manager</role>
+    <type>Actor</type>
+    <tmdbid>1371000</tmdbid>
+    <imdbid>nm0123148</imdbid>
+  </actor>
+  <actor>
+    <name>Loren Dean</name>
+    <role>Agent Brown</role>
+    <type>Actor</type>
+    <tmdbid>11628</tmdbid>
+    <imdbid>nm0000363</imdbid>
+  </actor>
+  <actor>
+    <name>Kenny Barr</name>
+    <role>SWAT Captain</role>
+    <type>Actor</type>
+    <tmdbid>2292600</tmdbid>
+    <imdbid>nm7625185</imdbid>
+  </actor>
+  <actor>
+    <name>Jan Hartsell</name>
+    <role>Beauty School Admin</role>
+    <type>Actor</type>
+    <tmdbid>1797638</tmdbid>
+    <imdbid>nm2969197</imdbid>
+  </actor>
+  <actor>
+    <name>Javier Vazquez Jr.</name>
+    <role>Driver Pulled Over</role>
+    <type>Actor</type>
+    <tmdbid>2142766</tmdbid>
+    <imdbid>nm5053863</imdbid>
+  </actor>
+  <actor>
+    <name>Derek Russo</name>
+    <role>Big Dude</role>
+    <type>Actor</type>
+    <tmdbid>1628383</tmdbid>
+    <imdbid>nm2403799</imdbid>
+  </actor>
+  <actor>
+    <name>Megan Mieduch</name>
+    <role>24-Hour Waitress</role>
+    <type>Actor</type>
+    <tmdbid>2292602</tmdbid>
+    <imdbid>nm2973148</imdbid>
+  </actor>
+  <actor>
+    <name>Leonard Hennessy</name>
+    <role>Pastor</role>
+    <type>Actor</type>
+    <tmdbid>2292603</tmdbid>
+    <imdbid>nm5130861</imdbid>
+  </actor>
+  <actor>
+    <name>Dayna Beilenson</name>
+    <role>Judge</role>
+    <type>Actor</type>
+    <tmdbid>1236032</tmdbid>
+    <imdbid>nm0067205</imdbid>
+  </actor>
+  <actor>
+    <name>Tess Malis Kincaid</name>
+    <role>Attorney</role>
+    <type>Actor</type>
+    <tmdbid>2077300</tmdbid>
+    <imdbid>nm3384278</imdbid>
+  </actor>
+  <actor>
+    <name>Antwan Mills</name>
+    <role>Translator</role>
+    <type>Actor</type>
+    <tmdbid>1381712</tmdbid>
+    <imdbid>nm1573836</imdbid>
+  </actor>
+  <actor>
+    <name>Sparrow Nicole</name>
+    <role>Ashlyn Bates (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2129985</tmdbid>
+    <imdbid>nm9490304</imdbid>
+  </actor>
+  <actor>
+    <name>Almendra Fuentes</name>
+    <role>Chola (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2259076</tmdbid>
+    <imdbid>nm10172926</imdbid>
+  </actor>
+  <actor>
+    <name>Mia Rio</name>
+    <role>Chola Girlfriend (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2259077</tmdbid>
+  </actor>
+  <actor>
+    <name>Jill Flint</name>
+    <role>Pam (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>118494</tmdbid>
+    <imdbid>nm1543216</imdbid>
+  </actor>
+  <actor>
+    <name>Monica Mathis</name>
+    <role>Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2193690</tmdbid>
+    <imdbid>nm9345142</imdbid>
+  </actor>
+  <actor>
+    <name>Ashani Roberts</name>
+    <role>Pretty Nurse (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2062742</tmdbid>
+    <imdbid>nm7430638</imdbid>
+  </actor>
+  <actor>
+    <name>Devon Ogden</name>
+    <role>Pretty Woman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1043440</tmdbid>
+    <imdbid>nm3055481</imdbid>
+  </actor>
+  <actor>
+    <name>Katie Gill</name>
+    <role>Sarah (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>203801</tmdbid>
+    <imdbid>nm0318694</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Dale</name>
+    <role>The Clown (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1702414</tmdbid>
+    <imdbid>nm0197780</imdbid>
+  </actor>
+  <actor>
+    <name>Artemis</name>
+    <role>Asian Bride (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2387997</tmdbid>
+    <imdbid>nm5893826</imdbid>
+  </actor>
+  <actor>
+    <name>Milton Saul</name>
+    <role>U.S. Marshal (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2096300</tmdbid>
+    <imdbid>nm7900960</imdbid>
+  </actor>
+  <actor>
+    <name>Patti Schellhaas</name>
+    <role>Driver (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1506245</tmdbid>
+    <imdbid>nm6768665</imdbid>
+  </actor>
+  <director tmdbid="190" imdbid="nm0000142">Clint Eastwood</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=N_QksSzK7sI</trailer>
+  <rating>7</rating>
+  <year>2018</year>
+  <mpaa>HK-IIB</mpaa>
+  <imdbid>tt7959026</imdbid>
+  <tmdbid>504172</tmdbid>
+  <premiered>2018-12-14</premiered>
+  <releasedate>2018-12-14</releasedate>
+  <criticrating>70</criticrating>
+  <runtime>116</runtime>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <studio>Imperative Entertainment</studio>
+  <studio>Bron Studios</studio>
+  <studio>Malpaso Productions</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>Creative Wealth Media Finance</studio>
+  <uniqueid type="Tmdb">504172</uniqueid>
+  <uniqueid type="Imdb">tt7959026</uniqueid>
+  <id>tt7959026</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>48003084</bitrate>
+        <width>3840</width>
+        <height>1608</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>6986</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

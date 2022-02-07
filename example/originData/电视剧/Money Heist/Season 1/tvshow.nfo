@@ -1,0 +1,177 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[八名窃贼将自己与人质反锁在西班牙皇家造币厂内，他们背后的犯罪首脑则妄图操纵警察实现自己的计划。]]></plot>
+  <outline><![CDATA[八名窃贼将自己与人质反锁在西班牙皇家造币厂内，他们背后的犯罪首脑则妄图操纵警察实现自己的计划。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-15 04:18:58</dateadded>
+  <title>纸钞屋</title>
+  <originaltitle>La casa de papel</originaltitle>
+  <trailer>http://www.youtube.com/watch?v=cQYvQIrM1FY</trailer>
+  <trailer>http://www.youtube.com/watch?v=ZAXA1DV4dtI</trailer>
+  <trailer>http://www.youtube.com/watch?v=p_PJbmrX4uk</trailer>
+  <trailer>http://www.youtube.com/watch?v=TFJwUwnShnA</trailer>
+  <rating>8.3</rating>
+  <year>2017</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt6468322</imdb_id>
+  <tmdbid>71446</tmdbid>
+  <premiered>2017-05-02</premiered>
+  <releasedate>2017-05-02</releasedate>
+  <runtime>65</runtime>
+  <genre>Thriller</genre>
+  <studio>Netflix</studio>
+  <tvdbid>327417</tvdbid>
+  <actor>
+    <name>José Manuel Poga</name>
+    <role>Cesar Gandía</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Álvaro Morte</name>
+    <role>Profesor</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Úrsula Corberó</name>
+    <role>Tokio</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Pedro Alonso</name>
+    <role>Berlín</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Miguel Herrán</name>
+    <role>Río</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Paco Tous</name>
+    <role>Moscú</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Jaime Lorente</name>
+    <role>Denver</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Alba Flores</name>
+    <role>Nairobi</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Darko Peric</name>
+    <role>Helsinki</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Roberto García</name>
+    <role>Oslo</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Itziar Ituño</name>
+    <role>Raquel Murillo</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Fernando Soto</name>
+    <role>Ángel Rubio</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Juan Fernández</name>
+    <role>Coronel Prieto</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Esther Acebo</name>
+    <role>Mónica Gaztambide</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Najwa Nimri</name>
+    <role>Alicia Sierra</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Rodrigo de la Serna</name>
+    <role>Palermo</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Luka Peroš</name>
+    <role>Marsella</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Fernando Cayo</name>
+    <role>Tamayo</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Hovik Keuchkerian</name>
+    <role>Bogotá</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Enrique Arce</name>
+    <role>Arturo Román</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>María Pedraza</name>
+    <role>Alison Parker</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Fran Morcillo</name>
+    <role>Pablo Ruiz</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Anna Gras</name>
+    <role>Mercedes Colmenar</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Kiti Mánver</name>
+    <role>Mariví Fuentes</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Mario de la Rosa</name>
+    <role>Suárez</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Naia Guz Sanchez</name>
+    <role>Paula Vicuña</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Pep Tosar</name>
+    <role>Comisario Sánchez</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Clara Alvarado</name>
+    <role>Ariadna Cascales</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Miquel García Borda</name>
+    <role>Alberto Vicuña</role>
+    <type>Actor</type>
+  </actor>
+  <id>327417</id>
+  <episodeguide>
+    <url cache="327417.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/327417/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

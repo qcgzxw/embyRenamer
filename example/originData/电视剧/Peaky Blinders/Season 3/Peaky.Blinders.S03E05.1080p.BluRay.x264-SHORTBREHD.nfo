@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[As the Russians test the Peaky Blinders, Tommy realises that he is seriously outmaneuvered. But he has an ace up his sleeve.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-05-17 00:10:00</dateadded>
+  <title>第 5 集</title>
+  <actor>
+    <name>Cillian Murphy</name>
+    <role>Tommy Shelby</role>
+    <type>Actor</type>
+    <tmdbid>2037</tmdbid>
+    <imdbid>nm0614165</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Anderson</name>
+    <role>Arthur Shelby</role>
+    <type>Actor</type>
+    <tmdbid>220448</tmdbid>
+    <imdbid>nm2167957</imdbid>
+  </actor>
+  <actor>
+    <name>Finn Cole</name>
+    <role>Michael Gray</role>
+    <type>Actor</type>
+    <tmdbid>1508313</tmdbid>
+    <imdbid>nm6806440</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Cole</name>
+    <role>John Shelby</role>
+    <type>Actor</type>
+    <tmdbid>1081875</tmdbid>
+    <imdbid>nm3771184</imdbid>
+  </actor>
+  <actor>
+    <name>Helen McCrory</name>
+    <role>Polly Gray</role>
+    <type>Actor</type>
+    <tmdbid>15737</tmdbid>
+    <imdbid>nm0567031</imdbid>
+  </actor>
+  <actor>
+    <name>Sophie Rundle</name>
+    <role>Ada Shelby</role>
+    <type>Actor</type>
+    <tmdbid>1088620</tmdbid>
+    <imdbid>nm2570706</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Hardy</name>
+    <role>Alfie Solomons</role>
+    <type>Actor</type>
+    <tmdbid>2524</tmdbid>
+    <imdbid>nm0362766</imdbid>
+  </actor>
+  <actor>
+    <name>Natasha O'Keeffe</name>
+    <role>Lizzie Stark</role>
+    <type>Actor</type>
+    <tmdbid>1167897</tmdbid>
+    <imdbid>nm3761798</imdbid>
+  </actor>
+  <actor>
+    <name>Jassa Ahluwalia</name>
+    <role>Dimitri</role>
+    <type>GuestStar</type>
+    <tmdbid>1281197</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Bolger</name>
+    <role>Isaiah Jesus</role>
+    <type>GuestStar</type>
+    <tmdbid>1674734</tmdbid>
+  </actor>
+  <director>Tim Mielants</director>
+  <rating>8.3</rating>
+  <year>2016</year>
+  <imdbid>tt4370554</imdbid>
+  <tvdbid>5495125</tvdbid>
+  <runtime>57</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt4370554</uniqueid>
+  <uniqueid type="Tvdb">5495125</uniqueid>
+  <episode>5</episode>
+  <season>3</season>
+  <aired>2016-06-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10013177</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>56</duration>
+        <durationinseconds>3403</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

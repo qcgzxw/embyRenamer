@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[某个外星实体现身，还要求来段音乐。瑞克和莫蒂于是找上Ice-T 帮忙谱曲，好参加星际歌唱大赛。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 07:52:35</dateadded>
+  <title>星际歌唱实境秀</title>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>Kurtwood Smith</name>
+    <role>General Nathan (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>2115</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Benson</name>
+    <role>Ethan (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>220756</tmdbid>
+  </actor>
+  <actor>
+    <name>Jess Harnell</name>
+    <role>Greebybobe (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>84495</tmdbid>
+  </actor>
+  <actor>
+    <name>Maurice LaMarche</name>
+    <role>Adviser / Rabbi (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>34521</tmdbid>
+  </actor>
+  <actor>
+    <name>Keith David</name>
+    <role>President Curtis (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>65827</tmdbid>
+  </actor>
+  <actor>
+    <name>William Holmes</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1491527</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Johnson</name>
+    <role>Mr. Goldenfold (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>167411</tmdbid>
+  </actor>
+  <actor>
+    <name>Phil Hendrie</name>
+    <role>Principal Gene Vagina (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>181234</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Harmon</name>
+    <role>Birdperson / Ice-T (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>57194</tmdbid>
+  </actor>
+  <actor>
+    <name>Cassie Steele</name>
+    <role>Tammy Gueterman (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>180986</tmdbid>
+  </actor>
+  <director>Wes Archer</director>
+  <rating>8.3</rating>
+  <year>2015</year>
+  <imdbid>tt4832266</imdbid>
+  <tvdbid>5292289</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <tvrageid>1065849491</tvrageid>
+  <uniqueid type="Tvdb">5292289</uniqueid>
+  <uniqueid type="Imdb">tt4832266</uniqueid>
+  <uniqueid type="TvRage">1065849491</uniqueid>
+  <episode>5</episode>
+  <season>2</season>
+  <aired>2015-08-23</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2282253</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+        <duration>23</duration>
+        <durationinseconds>1382</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

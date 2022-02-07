@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[对泄密非常多疑的米格尔加强了他的安全措施。帕乔对给予他的提议做出了决定。潘纳正试图接近一个目击证人。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-15 11:01:33</dateadded>
+  <title>维护与对策</title>
+  <actor>
+    <name>Pedro Pascal</name>
+    <role>Javier Peña</role>
+    <type>Actor</type>
+    <tmdbid>1253360</tmdbid>
+  </actor>
+  <actor>
+    <name>Matias Varela</name>
+    <role>Jorge Salcedo</role>
+    <type>Actor</type>
+    <tmdbid>125739</tmdbid>
+  </actor>
+  <actor>
+    <name>Damián Alcázar</name>
+    <role>Gilberto Rodríguez Orejuela</role>
+    <type>Actor</type>
+    <tmdbid>7370</tmdbid>
+  </actor>
+  <actor>
+    <name>Francisco Denis</name>
+    <role>Miguel Rodríguez Orejuela</role>
+    <type>Actor</type>
+    <tmdbid>1004053</tmdbid>
+  </actor>
+  <actor>
+    <name>Alberto Ammann</name>
+    <role>Pacho Herrera</role>
+    <type>Actor</type>
+    <tmdbid>110424</tmdbid>
+  </actor>
+  <actor>
+    <name>Pêpê Rapazote</name>
+    <role>Chepe Santacruz Londoño</role>
+    <type>Actor</type>
+    <tmdbid>1150468</tmdbid>
+  </actor>
+  <actor>
+    <name>Arturo Castro</name>
+    <role>David Rodriguez</role>
+    <type>Actor</type>
+    <tmdbid>1457999</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Stahl-David</name>
+    <role>Chris Feistl</role>
+    <type>Actor</type>
+    <tmdbid>51991</tmdbid>
+    <imdbid>nm1221863</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Whelan</name>
+    <role>Daniel Van Ness</role>
+    <type>Actor</type>
+    <tmdbid>1046893</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Londo</name>
+    <role>Maria Salazar</role>
+    <type>Actor</type>
+    <tmdbid>1618597</tmdbid>
+  </actor>
+  <director>Josef Wladyka</director>
+  <rating>8.533</rating>
+  <year>2017</year>
+  <imdbid>tt6038966</imdbid>
+  <tvdbid>6195659</tvdbid>
+  <runtime>60</runtime>
+  <uniqueid type="Tvdb">6195659</uniqueid>
+  <uniqueid type="Imdb">tt6038966</uniqueid>
+  <episode>5</episode>
+  <season>3</season>
+  <aired>2017-09-01</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2713668</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>60</duration>
+        <durationinseconds>3617</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

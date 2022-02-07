@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[天才和疯子常常只是同一个人的两种描述。神探陈佳彬（刘青云 饰）就是这样一个人物，和天才画家梵高一样，他也曾经割下自己的耳朵。尽管破案无数，侦探能力超凡，却终被世俗认定是疯子一个，提早从警局里退了休。
+ 　　探员何家安（安志杰 饰）接到了一桩棘手的案件。案发地在树林，两名警员王国柱（李国麟 饰）和高志伟（林家栋 饰）办案之后，只有高志伟平安归来，而王国柱和他的枪则神秘失踪。何家安请来陈佳彬为他指点迷津，却未料到陈佳彬的“疯子”行为又一次在侦探过程中表露无遗。他断定高志伟就是此案凶手，并把推理建立在他自己大量的想象之上。他自称能看到高志伟的“七宗罪”，正是这些罪恶把高志伟引向犯罪之路。然而，要何家安相信这一切并不容易，因为他已经被高志伟的演技所迷惑…]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-03-20 08:16:38</dateadded>
+  <title>神探</title>
+  <originaltitle>神探</originaltitle>
+  <actor>
+    <name>Lau Ching-Wan</name>
+    <role>Inspector Chan Kwai Bun</role>
+    <type>Actor</type>
+    <tmdbid>940339</tmdbid>
+    <imdbid>nm0490513</imdbid>
+  </actor>
+  <actor>
+    <name>Andy On</name>
+    <role>Inspector Ho Ka On</role>
+    <type>Actor</type>
+    <tmdbid>63585</tmdbid>
+    <imdbid>nm0648499</imdbid>
+  </actor>
+  <actor>
+    <name>Gordon Lam</name>
+    <role>Ko Chi Wai</role>
+    <type>Actor</type>
+    <tmdbid>83820</tmdbid>
+    <imdbid>nm0482628</imdbid>
+  </actor>
+  <actor>
+    <name>Kelly Lin</name>
+    <role>May Cheung</role>
+    <type>Actor</type>
+    <tmdbid>52575</tmdbid>
+    <imdbid>nm0510914</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Kwok-Lun</name>
+    <role>Wong Kwok Chu</role>
+    <type>Actor</type>
+    <tmdbid>224027</tmdbid>
+    <imdbid>nm0974484</imdbid>
+  </actor>
+  <actor>
+    <name>Karen Lee Choi-Ling</name>
+    <role>Gigi</role>
+    <type>Actor</type>
+    <tmdbid>224028</tmdbid>
+    <imdbid>nm2356427</imdbid>
+  </actor>
+  <actor>
+    <name>Flora Chan</name>
+    <role>May Cheung - in Bun's eyes</role>
+    <type>Actor</type>
+    <tmdbid>1223045</tmdbid>
+    <imdbid>nm0999177</imdbid>
+  </actor>
+  <actor>
+    <name>Eddie Cheung</name>
+    <role>Violent Man - Ko's Inner Personality</role>
+    <type>Actor</type>
+    <tmdbid>72732</tmdbid>
+    <imdbid>nm0156567</imdbid>
+  </actor>
+  <actor>
+    <name>Lam Suet</name>
+    <role>Fatso - Ko's Inner Personality</role>
+    <type>Actor</type>
+    <tmdbid>25251</tmdbid>
+    <imdbid>nm0482695</imdbid>
+  </actor>
+  <actor>
+    <name>Ronald Yan</name>
+    <role>Chi-Wai's Boss</role>
+    <type>Actor</type>
+    <tmdbid>1132615</tmdbid>
+    <imdbid>nm2648509</imdbid>
+  </actor>
+  <actor>
+    <name>Wah Wo Wong</name>
+    <role>Restaurant Manager</role>
+    <type>Actor</type>
+    <tmdbid>237122</tmdbid>
+    <imdbid>nm1883939</imdbid>
+  </actor>
+  <actor>
+    <name>Jo Kuk</name>
+    <role>Ho Ka-On's inner personality</role>
+    <type>Actor</type>
+    <tmdbid>105421</tmdbid>
+    <imdbid>nm0423268</imdbid>
+  </actor>
+  <actor>
+    <name>刘锦玲</name>
+    <type>Actor</type>
+    <tmdbid>936673</tmdbid>
+    <imdbid>nm0490555</imdbid>
+  </actor>
+  <actor>
+    <name>Eddy Ko</name>
+    <type>Actor</type>
+    <tmdbid>612216</tmdbid>
+    <imdbid>nm0304708</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Lee Yat-Sing</name>
+    <type>Actor</type>
+    <tmdbid>1619791</tmdbid>
+    <imdbid>nm2650498</imdbid>
+  </actor>
+  <actor>
+    <name>Yuen Ling-To</name>
+    <type>Actor</type>
+    <tmdbid>237120</tmdbid>
+    <imdbid>nm1295631</imdbid>
+  </actor>
+  <actor>
+    <name>Wong Wa-Wo</name>
+    <type>Actor</type>
+    <tmdbid>1172955</tmdbid>
+  </actor>
+  <actor>
+    <name>Apple Chow Suk-Wai</name>
+    <type>Actor</type>
+    <tmdbid>2752606</tmdbid>
+  </actor>
+  <actor>
+    <name>Jackson Ha Chak-San</name>
+    <type>Actor</type>
+    <tmdbid>2752611</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Lai</name>
+    <type>Actor</type>
+    <tmdbid>2465833</tmdbid>
+    <imdbid>nm2648463</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Cheung Ka-Kit</name>
+    <type>Actor</type>
+    <tmdbid>2752618</tmdbid>
+  </actor>
+  <actor>
+    <name>Chiu Chi-Shing</name>
+    <type>Actor</type>
+    <tmdbid>135840</tmdbid>
+  </actor>
+  <actor>
+    <name>Hung Wai-Leung</name>
+    <type>Actor</type>
+    <tmdbid>237119</tmdbid>
+  </actor>
+  <actor>
+    <name>Lu Ching-Ting</name>
+    <type>Actor</type>
+    <tmdbid>1619521</tmdbid>
+  </actor>
+  <actor>
+    <name>Singh Hartihan Bitto</name>
+    <role>Naresh Sharma</role>
+    <type>Actor</type>
+    <tmdbid>127431</tmdbid>
+    <imdbid>nm2920258</imdbid>
+  </actor>
+  <actor>
+    <name>Lui Siu-Ming</name>
+    <type>Actor</type>
+    <tmdbid>1367467</tmdbid>
+    <imdbid>nm4127791</imdbid>
+  </actor>
+  <actor>
+    <name>Wong Shiu-Keung</name>
+    <type>Actor</type>
+    <tmdbid>1835108</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Cheung Yiu-Fai</name>
+    <type>Actor</type>
+    <tmdbid>1404929</tmdbid>
+  </actor>
+  <director tmdbid="25236" imdbid="nm0864775">Johnnie To</director>
+  <director tmdbid="58052" imdbid="nm0906413">Wai Ka-Fai</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rotL2JpoBcI</trailer>
+  <rating>7.2</rating>
+  <year>2007</year>
+  <imdbid>tt0969269</imdbid>
+  <tmdbid>14016</tmdbid>
+  <premiered>2007-11-29</premiered>
+  <releasedate>2007-11-29</releasedate>
+  <criticrating>81</criticrating>
+  <runtime>90</runtime>
+  <country>Hong Kong</country>
+  <genre>动作</genre>
+  <genre>犯罪</genre>
+  <genre>惊悚</genre>
+  <studio>Milkyway Image Company</studio>
+  <uniqueid type="Tmdb">14016</uniqueid>
+  <uniqueid type="Imdb">tt0969269</uniqueid>
+  <id>tt0969269</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>12976088</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>90</duration>
+        <durationinseconds>5420</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

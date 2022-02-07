@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[电影讲述了香港现代史上两大著名狠角色大毒枭跛豪（甄子丹饰）、五亿探长雷洛（刘德华饰）的传奇故事。上世纪六七十年代，香港由英国殖民，权势腐败、社会混乱。1963年，穷困潦倒的青年阿豪（甄子丹饰）偷渡至香港，抱着“生死有命、富贵在天”之心决意一搏人生。阿豪带着几个兄弟，从九龙城寨底层开始一路刀刃舔血，爬上香港毒品霸主之位，一手掌控香港十大黑帮，江湖人称“跛豪”。而雷洛（刘德华饰）则从一位普通探长一步步爬上华人总探长高位，统领全香港三万警察，手握香港治安“潜规则”。为垄断香港黄赌毒三大经济产业，跛豪与雷洛结拜为兄弟，两人一黑一白两手遮天，权势滔天，家财亿万，独霸香港岛……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2017-12-23 05:53:25</dateadded>
+  <title>追龙</title>
+  <originaltitle>追龍</originaltitle>
+  <actor>
+    <name>Donnie Yen</name>
+    <role>Crippled Ho</role>
+    <type>Actor</type>
+    <tmdbid>1341</tmdbid>
+    <imdbid>nm0947447</imdbid>
+  </actor>
+  <actor>
+    <name>Andy Lau</name>
+    <role>Lee Rock</role>
+    <type>Actor</type>
+    <tmdbid>25246</tmdbid>
+    <imdbid>nm0490489</imdbid>
+  </actor>
+  <actor>
+    <name>Kent Cheng</name>
+    <role>Piggy</role>
+    <type>Actor</type>
+    <tmdbid>65966</tmdbid>
+    <imdbid>nm0155587</imdbid>
+  </actor>
+  <actor>
+    <name>Wilfred Lau</name>
+    <role>Wayne</role>
+    <type>Actor</type>
+    <tmdbid>148892</tmdbid>
+  </actor>
+  <actor>
+    <name>Felix Wong</name>
+    <role>Jan</role>
+    <type>Actor</type>
+    <tmdbid>71655</tmdbid>
+    <imdbid>nm0939059</imdbid>
+  </actor>
+  <actor>
+    <name>Philip Keung</name>
+    <role>Wil</role>
+    <type>Actor</type>
+    <tmdbid>140478</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Hu</name>
+    <role>Jane</role>
+    <type>Actor</type>
+    <tmdbid>1209782</tmdbid>
+    <imdbid>nm6612845</imdbid>
+  </actor>
+  <actor>
+    <name>Raquel Xu</name>
+    <role>Rose</role>
+    <type>Actor</type>
+    <tmdbid>1822751</tmdbid>
+    <imdbid>nm6875568</imdbid>
+  </actor>
+  <actor>
+    <name>Philip Ng</name>
+    <role>Wai Man</role>
+    <type>Actor</type>
+    <tmdbid>100585</tmdbid>
+    <imdbid>nm1264535</imdbid>
+  </actor>
+  <actor>
+    <name>Kent Tong</name>
+    <type>Actor</type>
+    <tmdbid>1254216</tmdbid>
+    <imdbid>nm0867242</imdbid>
+  </actor>
+  <actor>
+    <name>Niki Chow</name>
+    <type>Actor</type>
+    <tmdbid>944553</tmdbid>
+    <imdbid>nm1111953</imdbid>
+  </actor>
+  <actor>
+    <name>Bryan Larkin</name>
+    <role>Ernest Hunt</role>
+    <type>Actor</type>
+    <tmdbid>567086</tmdbid>
+    <imdbid>nm1385922</imdbid>
+  </actor>
+  <actor>
+    <name>Julian Gaertner</name>
+    <role>Translator Geoff</role>
+    <type>Actor</type>
+    <tmdbid>1735401</tmdbid>
+  </actor>
+  <actor>
+    <name>Philippe Joly</name>
+    <role>Chief Commissioner of Police</role>
+    <type>Actor</type>
+    <tmdbid>1379945</tmdbid>
+    <imdbid>nm4235698</imdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Tsang</name>
+    <role>Sir Chow</role>
+    <type>Actor</type>
+    <tmdbid>10885</tmdbid>
+    <imdbid>nm0874684</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Chan</name>
+    <role>Master Dane</role>
+    <type>Actor</type>
+    <tmdbid>83358</tmdbid>
+    <imdbid>nm0151155</imdbid>
+  </actor>
+  <actor>
+    <name>Terence Yin</name>
+    <role>Tong's brother</role>
+    <type>Actor</type>
+    <tmdbid>74196</tmdbid>
+    <imdbid>nm0948045</imdbid>
+  </actor>
+  <actor>
+    <name>Ricky Yi Fan-Wai</name>
+    <role>Grizzly Bear</role>
+    <type>Actor</type>
+    <tmdbid>1356792</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Ng</name>
+    <role>Chubby</role>
+    <type>Actor</type>
+    <tmdbid>227806</tmdbid>
+    <imdbid>nm0628726</imdbid>
+  </actor>
+  <actor>
+    <name>Jai Day</name>
+    <type>Actor</type>
+    <tmdbid>222881</tmdbid>
+    <imdbid>nm3607849</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Wong</name>
+    <role>Comic</role>
+    <type>Actor</type>
+    <tmdbid>2355814</tmdbid>
+  </actor>
+  <director tmdbid="270960" imdbid="nm0151630">Aman Chang</director>
+  <director tmdbid="548474" imdbid="nm0939147">Wong Jing</director>
+  <director tmdbid="1002598" imdbid="nm1712317">Jason Kwan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FYu-yhnRzyE</trailer>
+  <rating>6.8</rating>
+  <year>2017</year>
+  <imdbid>tt6015328</imdbid>
+  <tmdbid>449927</tmdbid>
+  <premiered>2017-09-28</premiered>
+  <releasedate>2017-09-28</releasedate>
+  <criticrating>57</criticrating>
+  <runtime>129</runtime>
+  <country>Hong Kong</country>
+  <country>China</country>
+  <genre>动作</genre>
+  <genre>犯罪</genre>
+  <genre>历史</genre>
+  <studio>Mega-Vision Pictures (MVP)</studio>
+  <studio>Bona Film Group</studio>
+  <studio>Infinitus Entertainment</studio>
+  <set tmdbcolid="707637">
+    <name>追龍（系列）</name>
+  </set>
+  <uniqueid type="TmdbCollection">707637</uniqueid>
+  <tmdbcollectionid>707637</tmdbcollectionid>
+  <uniqueid type="Imdb">tt6015328</uniqueid>
+  <uniqueid type="Tmdb">449927</uniqueid>
+  <id>tt6015328</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2871661</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24.00002</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>128</duration>
+        <durationinseconds>7736</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>62827</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <collectionnumber>707637</collectionnumber>
+</movie>

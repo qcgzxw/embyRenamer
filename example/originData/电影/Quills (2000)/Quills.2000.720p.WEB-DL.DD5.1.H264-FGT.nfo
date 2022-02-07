@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[萨德（乔弗瑞•拉什Geoffrey Rush饰）是19世纪的法国作家。他才高八斗，崇尚言论自由，小说中有不少情色描写。这些作品激怒了法国当局，政府把他关入疯人院，然而，专制的枷锁只令到萨德更坚定地奋笔疾书，作品在疯人院里一部一部的诞生。 疯人院的主管是一个开明的年轻神父。他也读萨德的小说，对萨德的才华和精神充满欣赏。他对萨德提供优厚的生活条件，让他专心写作，同时让洗衣女梅德林（凯特•温斯莱特Kate Winslet饰）帮助萨德，把他的作品带到外面出版。梅德林与萨德之间也暗生情愫。 然而，强大的国家机器还是将萨德送上了绞刑架。政府容忍不了他“伤风败俗”，但他的作品却流传了下来，开启了民众的思想。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-11-12 10:46:10</dateadded>
+  <title>鹅毛笔</title>
+  <originaltitle>Quills</originaltitle>
+  <actor>
+    <name>Geoffrey Rush</name>
+    <role>Marquis de Sade</role>
+    <type>Actor</type>
+    <tmdbid>118</tmdbid>
+    <imdbid>nm0001691</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Winslet</name>
+    <role>Madeleine LeClerc</role>
+    <type>Actor</type>
+    <tmdbid>204</tmdbid>
+    <imdbid>nm0000701</imdbid>
+  </actor>
+  <actor>
+    <name>Joaquin Phoenix</name>
+    <role>Abbe du Coulmier</role>
+    <type>Actor</type>
+    <tmdbid>73421</tmdbid>
+    <imdbid>nm0001618</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Caine</name>
+    <role>Dr. Royer-Collard</role>
+    <type>Actor</type>
+    <tmdbid>3895</tmdbid>
+    <imdbid>nm0000323</imdbid>
+  </actor>
+  <actor>
+    <name>Billie Whitelaw</name>
+    <role>Madame LeClerc</role>
+    <type>Actor</type>
+    <tmdbid>8226</tmdbid>
+    <imdbid>nm0925794</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Malahide</name>
+    <role>Delbené</role>
+    <type>Actor</type>
+    <tmdbid>8979</tmdbid>
+    <imdbid>nm0538869</imdbid>
+  </actor>
+  <actor>
+    <name>Amelia Warner</name>
+    <role>Simone</role>
+    <type>Actor</type>
+    <tmdbid>23496</tmdbid>
+    <imdbid>nm0912396</imdbid>
+  </actor>
+  <actor>
+    <name>Jane Menelaus</name>
+    <role>Renee Pelagie</role>
+    <type>Actor</type>
+    <tmdbid>1230265</tmdbid>
+    <imdbid>nm0579448</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Moyer</name>
+    <role>Prouix</role>
+    <type>Actor</type>
+    <tmdbid>32203</tmdbid>
+    <imdbid>nm0610459</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Pritchard</name>
+    <role>Valcour</role>
+    <type>Actor</type>
+    <tmdbid>1402411</tmdbid>
+    <imdbid>nm0698082</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Jenn</name>
+    <role>Cleante</role>
+    <type>Actor</type>
+    <tmdbid>62106</tmdbid>
+    <imdbid>nm0421044</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Babington</name>
+    <role>Pitou</role>
+    <type>Actor</type>
+    <tmdbid>62266</tmdbid>
+    <imdbid>nm0044991</imdbid>
+  </actor>
+  <actor>
+    <name>George Antoni</name>
+    <role>Dauphin</role>
+    <type>Actor</type>
+    <tmdbid>207309</tmdbid>
+    <imdbid>nm0947964</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Marcus</name>
+    <role>Bouchon</role>
+    <type>Actor</type>
+    <tmdbid>994</tmdbid>
+    <imdbid>nm0007154</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Berrington</name>
+    <role>Charlotte</role>
+    <type>Actor</type>
+    <tmdbid>42998</tmdbid>
+    <imdbid>nm0077397</imdbid>
+  </actor>
+  <actor>
+    <name>Edward Tudor-Pole</name>
+    <role>Franval</role>
+    <type>Actor</type>
+    <tmdbid>79638</tmdbid>
+    <imdbid>nm0876128</imdbid>
+  </actor>
+  <actor>
+    <name>Harry Jones</name>
+    <role>Orvolle</role>
+    <type>Actor</type>
+    <tmdbid>121112</tmdbid>
+    <imdbid>nm0428199</imdbid>
+  </actor>
+  <actor>
+    <name>Bridget McConnell</name>
+    <role>Madame Bougival</role>
+    <type>Actor</type>
+    <tmdbid>1800611</tmdbid>
+  </actor>
+  <actor>
+    <name>Pauline McLynn</name>
+    <role>Mademoiselle Clairwil</role>
+    <type>Actor</type>
+    <tmdbid>69465</tmdbid>
+    <imdbid>nm0572965</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Palmer</name>
+    <role>Michette</role>
+    <type>Actor</type>
+    <tmdbid>1057876</tmdbid>
+    <imdbid>nm0658424</imdbid>
+  </actor>
+  <actor>
+    <name>Toby Sawyer</name>
+    <role>Louison</role>
+    <type>Actor</type>
+    <tmdbid>157813</tmdbid>
+    <imdbid>nm0768223</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Ainsleigh</name>
+    <role>Guerin</role>
+    <type>Actor</type>
+    <tmdbid>87591</tmdbid>
+    <imdbid>nm0014705</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Avery</name>
+    <role>Abbe du Maupas</role>
+    <type>Actor</type>
+    <tmdbid>182070</tmdbid>
+    <imdbid>nm0043002</imdbid>
+  </actor>
+  <actor>
+    <name>Terry O'Neill</name>
+    <role>Gaillon</role>
+    <type>Actor</type>
+    <tmdbid>82410</tmdbid>
+    <imdbid>nm0642324</imdbid>
+  </actor>
+  <actor>
+    <name>Diana Morrison</name>
+    <role>Mademoiselle Renard</role>
+    <type>Actor</type>
+    <tmdbid>1544718</tmdbid>
+  </actor>
+  <actor>
+    <name>Carol MacReady</name>
+    <role>Sister Noirceuil</role>
+    <type>Actor</type>
+    <tmdbid>133498</tmdbid>
+    <imdbid>nm0534315</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Ward</name>
+    <role>The Horseman</role>
+    <type>Actor</type>
+    <tmdbid>29527</tmdbid>
+    <imdbid>nm0911886</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Mulholland</name>
+    <role>Fop</role>
+    <type>Actor</type>
+    <tmdbid>1563375</tmdbid>
+  </actor>
+  <actor>
+    <name>Ron Cook</name>
+    <role>Napoleon</role>
+    <type>Actor</type>
+    <tmdbid>5319</tmdbid>
+    <imdbid>nm0177267</imdbid>
+  </actor>
+  <actor>
+    <name>Julian Tait</name>
+    <role>Pawnbroker</role>
+    <type>Actor</type>
+    <tmdbid>2066366</tmdbid>
+    <imdbid>nm0846896</imdbid>
+  </actor>
+  <actor>
+    <name>Deborah Vale</name>
+    <role>Sister Rose Fatima</role>
+    <type>Actor</type>
+    <tmdbid>2066369</tmdbid>
+    <imdbid>nm0883879</imdbid>
+  </actor>
+  <actor>
+    <name>Tessa Vale</name>
+    <role>Sister Flavie</role>
+    <type>Actor</type>
+    <tmdbid>2066371</tmdbid>
+    <imdbid>nm0883919</imdbid>
+  </actor>
+  <actor>
+    <name>Howard Lew Lewis</name>
+    <role>First Vendor</role>
+    <type>Actor</type>
+    <tmdbid>157785</tmdbid>
+    <imdbid>nm0507270</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Dunford</name>
+    <role>Second Vendor</role>
+    <type>Actor</type>
+    <tmdbid>1816662</tmdbid>
+  </actor>
+  <actor>
+    <name>Lisa Hammond</name>
+    <role>Prostitute</role>
+    <type>Actor</type>
+    <tmdbid>1753731</tmdbid>
+  </actor>
+  <actor>
+    <name>Mathew Fraser</name>
+    <role>Lunatic Band Member</role>
+    <type>Actor</type>
+    <tmdbid>2067032</tmdbid>
+    <imdbid>nm0292197</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Beddard</name>
+    <role>Lunatic at Play</role>
+    <type>Actor</type>
+    <tmdbid>1029199</tmdbid>
+    <imdbid>nm0065966</imdbid>
+  </actor>
+  <director tmdbid="648" imdbid="nm0442241">Philip Kaufman</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=u--PYnIYewE</trailer>
+  <rating>7.3</rating>
+  <year>2000</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0180073</imdbid>
+  <tmdbid>10876</tmdbid>
+  <premiered>2000-11-22</premiered>
+  <releasedate>2000-11-22</releasedate>
+  <criticrating>75</criticrating>
+  <runtime>124</runtime>
+  <country>Germany</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <studio>Charenton Productions</studio>
+  <studio>Fox Searchlight Pictures</studio>
+  <studio>Industry Entertainment</studio>
+  <studio>Walrus &amp; Associates</studio>
+  <studio>Hollywood Partners</studio>
+  <uniqueid type="Tmdb">10876</uniqueid>
+  <uniqueid type="Imdb">tt0180073</uniqueid>
+  <id>tt0180073</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4470704</bitrate>
+        <width>1280</width>
+        <height>694</height>
+        <aspect>640:347</aspect>
+        <aspectratio>640:347</aspectratio>
+        <framerate>23.976</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>124</duration>
+        <durationinseconds>7446</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

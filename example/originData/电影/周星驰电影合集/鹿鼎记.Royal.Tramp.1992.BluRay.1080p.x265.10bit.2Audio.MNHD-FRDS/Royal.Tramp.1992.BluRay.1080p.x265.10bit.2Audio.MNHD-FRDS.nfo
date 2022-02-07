@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　清朝初期，康熙皇帝尚年少，奸臣当道，民不聊生。“天地会”是一个推翻清朝的民间组织。“天地会”首领陈近南在一次行动中幸得韦小宝相救，小宝就此加入天地会，被派到王宫当卧底，偷取藏有清朝秘密的《四十二章经》。聪明机灵的小宝很快便成为了皇上的心腹，做了大官。小宝陷入了两难的状态，他既要执行任务却又跟皇帝成为了好朋友。就在小宝想要逃走之际，师父陈近南找到了他，并派人监视他回到王宫。宫廷之内十分险恶，鳌拜欲篡夺皇位，而邪教组织神龙教也将真正的皇后软禁，让自己的圣女龙儿化装成皇后，伺机盗取《四十二章经》。机智的韦小永宝周旋于众人之间，并借假太后龙儿之手将鳌拜制伏。皇帝再封小宝为更大的官，小宝自此权倾朝野，继续做他的边缘人。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-04 14:19:46</dateadded>
+  <title>鹿鼎记</title>
+  <originaltitle>鹿鼎記</originaltitle>
+  <actor>
+    <name>Stephen Chow</name>
+    <role>Wei Siu Bo / Wilson Bond</role>
+    <type>Actor</type>
+    <tmdbid>57607</tmdbid>
+    <imdbid>nm0159507</imdbid>
+  </actor>
+  <actor>
+    <name>Sharla Cheung</name>
+    <role>Empress Dowager / Long-er / Mother Queen</role>
+    <type>Actor</type>
+    <tmdbid>67221</tmdbid>
+    <imdbid>nm0156522</imdbid>
+  </actor>
+  <actor>
+    <name>Deric Wan</name>
+    <role>Emperor Kang Xi</role>
+    <type>Actor</type>
+    <tmdbid>1090949</tmdbid>
+  </actor>
+  <actor>
+    <name>Chingmy Yau</name>
+    <role>Princess King Ning</role>
+    <type>Actor</type>
+    <tmdbid>67222</tmdbid>
+    <imdbid>nm0946873</imdbid>
+  </actor>
+  <actor>
+    <name>Ng Man-tat</name>
+    <role>Ha Da Fu</role>
+    <type>Actor</type>
+    <tmdbid>70437</tmdbid>
+    <imdbid>nm0628806</imdbid>
+  </actor>
+  <actor>
+    <name>Elvis Tsui</name>
+    <role>Aobai / O'Brian / Obai</role>
+    <type>Actor</type>
+    <tmdbid>83631</tmdbid>
+    <imdbid>nm0875275</imdbid>
+  </actor>
+  <actor>
+    <name>Natalis Chan</name>
+    <role>Duran</role>
+    <type>Actor</type>
+    <tmdbid>990443</tmdbid>
+    <imdbid>nm0150850</imdbid>
+  </actor>
+  <actor>
+    <name>Damian Lau</name>
+    <role>Chan Kan Nam</role>
+    <type>Actor</type>
+    <tmdbid>83624</tmdbid>
+    <imdbid>nm0490521</imdbid>
+  </actor>
+  <actor>
+    <name>Sandra Ng Kwun-Yu</name>
+    <role>Wei Chun Fa / Sister Bond</role>
+    <type>Actor</type>
+    <tmdbid>88495</tmdbid>
+    <imdbid>nm0510950</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Lee Ka-Ting</name>
+    <role>Lai Chun, brothel keeper</role>
+    <type>Actor</type>
+    <tmdbid>1166375</tmdbid>
+  </actor>
+  <actor>
+    <name>Vivian Chan</name>
+    <role>Nam</role>
+    <type>Actor</type>
+    <tmdbid>1145460</tmdbid>
+    <imdbid>nm0151145</imdbid>
+  </actor>
+  <actor>
+    <name>Lau Kong</name>
+    <role>Chief Jon</role>
+    <type>Actor</type>
+    <tmdbid>140481</tmdbid>
+    <imdbid>nm0490576</imdbid>
+  </actor>
+  <actor>
+    <name>Fennie Yuen</name>
+    <role>Nam's Twin</role>
+    <type>Actor</type>
+    <tmdbid>579216</tmdbid>
+  </actor>
+  <actor>
+    <name>Brigitte Lin</name>
+    <role>Divine Lady of Dragon Sect</role>
+    <type>Actor</type>
+    <tmdbid>56830</tmdbid>
+    <imdbid>nm0510857</imdbid>
+  </actor>
+  <director tmdbid="548474" imdbid="nm0939147">Wong Jing</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XnMo_5ovSGE</trailer>
+  <rating>7.1</rating>
+  <year>1992</year>
+  <mpaa>HK-R</mpaa>
+  <imdbid>tt0104770</imdbid>
+  <tmdbid>51730</tmdbid>
+  <premiered>1992-07-30</premiered>
+  <releasedate>1992-07-30</releasedate>
+  <criticrating>81</criticrating>
+  <runtime>110</runtime>
+  <country>Hong Kong</country>
+  <genre>动作</genre>
+  <genre>喜剧</genre>
+  <studio>Win's Movie Productions Ltd.</studio>
+  <set tmdbcolid="206076">
+    <name>鹿鼎记（系列）</name>
+  </set>
+  <uniqueid type="TmdbCollection">206076</uniqueid>
+  <tmdbcollectionid>206076</tmdbcollectionid>
+  <uniqueid type="Imdb">tt0104770</uniqueid>
+  <uniqueid type="Tmdb">51730</uniqueid>
+  <id>tt0104770</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>8206577</bitrate>
+        <width>1920</width>
+        <height>1022</height>
+        <aspect>960:511</aspect>
+        <aspectratio>960:511</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>110</duration>
+        <durationinseconds>6606</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

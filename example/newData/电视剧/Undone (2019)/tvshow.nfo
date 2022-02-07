@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[亚马逊将打造全新动画剧集《未了之事》，拉斐尔·鲍勃-瓦克斯伯格、凯特·帕迪(《马男波杰克》)联手打造。罗莎·萨拉查、安吉丽卡·布拉尔参与配音。该剧为半小时剧集，故事围绕艾尔玛(罗莎·萨拉查配音)展开，艾尔玛经历了一场车祸，而此后恢复了的她发现自己拥有控制时间的能力。她更决定寻找出父亲死亡的秘密。该动画剧集将在2019年播出。]]></plot>
+  <outline><![CDATA[亚马逊将打造全新动画剧集《未了之事》，拉斐尔·鲍勃-瓦克斯伯格、凯特·帕迪(《马男波杰克》)联手打造。罗莎·萨拉查、安吉丽卡·布拉尔参与配音。该剧为半小时剧集，故事围绕艾尔玛(罗莎·萨拉查配音)展开，艾尔玛经历了一场车祸，而此后恢复了的她发现自己拥有控制时间的能力。她更决定寻找出父亲死亡的秘密。该动画剧集将在2019年播出。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-19 14:59:25</dateadded>
+  <title>抹去重来</title>
+  <originaltitle>Undone</originaltitle>
+  <actor>
+    <name>Rosa Salazar</name>
+    <role>Alma Winograd-Diaz</role>
+    <type>Actor</type>
+    <tmdbid>973667</tmdbid>
+    <imdbid>nm4023073</imdbid>
+  </actor>
+  <actor>
+    <name>Angelique Cabral</name>
+    <role>Becca Winograd-Diaz</role>
+    <type>Actor</type>
+    <tmdbid>1001536</tmdbid>
+    <imdbid>nm2512132</imdbid>
+  </actor>
+  <actor>
+    <name>Constance Marie</name>
+    <role>Camila Diaz</role>
+    <type>Actor</type>
+    <tmdbid>92326</tmdbid>
+    <imdbid>nm0005186</imdbid>
+  </actor>
+  <actor>
+    <name>Siddharth Dhananjay</name>
+    <role>Sam</role>
+    <type>Actor</type>
+    <tmdbid>1716711</tmdbid>
+    <imdbid>nm8615352</imdbid>
+  </actor>
+  <actor>
+    <name>Daveed Diggs</name>
+    <role>Tunde</role>
+    <type>Actor</type>
+    <tmdbid>1652371</tmdbid>
+    <imdbid>nm4377526</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Jacob Winograd</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=6uWCNHQgfnc</trailer>
+  <trailer>http://www.youtube.com/watch?v=QgyYtPq-4hw</trailer>
+  <rating>7.8</rating>
+  <year>2019</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt8101850</imdb_id>
+  <tmdbid>86340</tmdbid>
+  <premiered>2019-09-13</premiered>
+  <releasedate>2019-09-13</releasedate>
+  <runtime>23</runtime>
+  <genre>动画</genre>
+  <genre>Sci-Fi &amp; Fantasy</genre>
+  <genre>剧情</genre>
+  <studio>Amazon</studio>
+  <uniqueid type="Imdb">tt8101850</uniqueid>
+  <uniqueid type="Tmdb">86340</uniqueid>
+  <uniqueid type="Tvdb">357756</uniqueid>
+  <tvdbid>357756</tvdbid>
+  <id>357756</id>
+  <episodeguide>
+    <url cache="357756.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/357756/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

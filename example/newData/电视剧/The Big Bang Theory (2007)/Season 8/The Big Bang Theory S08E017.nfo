@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[薛尔登申请参加殖民火星的单程任务，惹得艾美不高兴。 李奥纳德为潘妮准备了一份成人的惊喜。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 17:59:11</dateadded>
+  <title>The Colonization Application</title>
+  <actor>
+    <name>Laura Spencer</name>
+    <type>GuestStar</type>
+    <tmdbid>591519</tmdbid>
+    <imdbid>nm3189010</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.6</rating>
+  <year>2015</year>
+  <imdbid>tt3862720</imdbid>
+  <tvdbid>5127444</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>1065754069</tvrageid>
+  <uniqueid type="Imdb">tt3862720</uniqueid>
+  <uniqueid type="Tvdb">5127444</uniqueid>
+  <uniqueid type="TvRage">1065754069</uniqueid>
+  <episode>17</episode>
+  <season>8</season>
+  <aired>2015-03-05</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1583847</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>20</duration>
+        <durationinseconds>1209</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

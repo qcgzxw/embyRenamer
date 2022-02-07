@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Lazzaro是一位内心单纯的年轻农民，Tancredi则是一位骄横的年轻贵族。他在Inviolata这座与世隔绝的小城内生活，这个城镇则由侯爵夫人Alfonsina de Luna所统治。年轻的农民和年轻的贵族相遇并成为好友。某天，Tancredi出于玩乐的目的，自导自演了绑架闹剧，并向Lazzaro求助。Lazzaro非常珍视这段真诚且快乐的友谊，他决定穿越时空，回到小城，以寻找Tancredi。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-11-05 04:31:22</dateadded>
+  <title>幸福的拉扎罗</title>
+  <originaltitle>Lazzaro felice</originaltitle>
+  <actor>
+    <name>Adriano Tardiolo</name>
+    <role>Lazzaro</role>
+    <type>Actor</type>
+    <tmdbid>1906186</tmdbid>
+  </actor>
+  <actor>
+    <name>Agnese Graziani</name>
+    <role>Antonia (young)</role>
+    <type>Actor</type>
+    <tmdbid>1524907</tmdbid>
+    <imdbid>nm6510725</imdbid>
+  </actor>
+  <actor>
+    <name>Luca Chikovani</name>
+    <role>Tancredi (young)</role>
+    <type>Actor</type>
+    <tmdbid>2046229</tmdbid>
+  </actor>
+  <actor>
+    <name>Alba Rohrwacher</name>
+    <role>Antonia</role>
+    <type>Actor</type>
+    <tmdbid>128748</tmdbid>
+    <imdbid>nm2130040</imdbid>
+  </actor>
+  <actor>
+    <name>Sergi López</name>
+    <role>Ultimo</role>
+    <type>Actor</type>
+    <tmdbid>16972</tmdbid>
+    <imdbid>nm0530365</imdbid>
+  </actor>
+  <actor>
+    <name>Tommaso Ragno</name>
+    <role>Tancredi</role>
+    <type>Actor</type>
+    <tmdbid>226353</tmdbid>
+    <imdbid>nm0706556</imdbid>
+  </actor>
+  <actor>
+    <name>Natalino Balasso</name>
+    <role>Nicola</role>
+    <type>Actor</type>
+    <tmdbid>586476</tmdbid>
+    <imdbid>nm1215814</imdbid>
+  </actor>
+  <actor>
+    <name>Nicoletta Braschi</name>
+    <role>Marchesa Alfonsina De Luna</role>
+    <type>Actor</type>
+    <tmdbid>9235</tmdbid>
+    <imdbid>nm0000971</imdbid>
+  </actor>
+  <actor>
+    <name>Carlo Massimino</name>
+    <role>Pippo</role>
+    <type>Actor</type>
+    <tmdbid>2057116</tmdbid>
+  </actor>
+  <actor>
+    <name>Daria Pascal Attolini</name>
+    <role>Maria Grazia</role>
+    <type>Actor</type>
+    <tmdbid>1302687</tmdbid>
+    <imdbid>nm5913398</imdbid>
+  </actor>
+  <actor>
+    <name>Maddalena Baiocco</name>
+    <role>Stefania</role>
+    <type>Actor</type>
+    <tmdbid>2161402</tmdbid>
+  </actor>
+  <actor>
+    <name>Giulia Caccavello</name>
+    <role>Teresa</role>
+    <type>Actor</type>
+    <tmdbid>2161403</tmdbid>
+  </actor>
+  <actor>
+    <name>Annunziata Capretto</name>
+    <role>Natalina</role>
+    <type>Actor</type>
+    <tmdbid>2161404</tmdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Genovesi</name>
+    <role>Maresciallo</role>
+    <type>Actor</type>
+    <tmdbid>129106</tmdbid>
+    <imdbid>nm3500190</imdbid>
+  </actor>
+  <actor>
+    <name>Davide Denci</name>
+    <role>Appuntato</role>
+    <type>Actor</type>
+    <tmdbid>2161405</tmdbid>
+  </actor>
+  <actor>
+    <name>Edoardo Montalto</name>
+    <role>Pippo (young)</role>
+    <type>Actor</type>
+    <tmdbid>2161407</tmdbid>
+  </actor>
+  <actor>
+    <name>Leonardo Nigro</name>
+    <type>Actor</type>
+    <tmdbid>50791</tmdbid>
+    <imdbid>nm1203686</imdbid>
+  </actor>
+  <actor>
+    <name>Gala Othero Winter</name>
+    <role>Stefania</role>
+    <type>Actor</type>
+    <tmdbid>2161408</tmdbid>
+  </actor>
+  <actor>
+    <name>Iris Pulvano</name>
+    <role>Natalina (adult)</role>
+    <type>Actor</type>
+    <tmdbid>2161409</tmdbid>
+  </actor>
+  <actor>
+    <name>Ettore Scarpa</name>
+    <role>Maresciallo</role>
+    <type>Actor</type>
+    <tmdbid>2161410</tmdbid>
+  </actor>
+  <actor>
+    <name>Pasqualina Scuncia</name>
+    <role>Suora</role>
+    <type>Actor</type>
+    <tmdbid>239922</tmdbid>
+    <imdbid>nm4409697</imdbid>
+  </actor>
+  <actor>
+    <name>Carlo Tarmati</name>
+    <role>Carletto</role>
+    <type>Actor</type>
+    <tmdbid>1524909</tmdbid>
+    <imdbid>nm7170363</imdbid>
+  </actor>
+  <actor>
+    <name>Pascal Tréguy</name>
+    <role>Head animal trainer</role>
+    <type>Actor</type>
+    <tmdbid>41584</tmdbid>
+    <imdbid>nm1774931</imdbid>
+  </actor>
+  <director tmdbid="931211" imdbid="nm3114621">Alice Rohrwacher</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=e3gS7BDmZlw</trailer>
+  <rating>7.5</rating>
+  <year>2018</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt6752992</imdbid>
+  <tmdbid>481432</tmdbid>
+  <premiered>2018-05-31</premiered>
+  <releasedate>2018-05-31</releasedate>
+  <criticrating>91</criticrating>
+  <runtime>128</runtime>
+  <country>France</country>
+  <country>Italy</country>
+  <country>Switzerland</country>
+  <genre>剧情</genre>
+  <genre>奇幻</genre>
+  <studio>Ad Vitam Production</studio>
+  <studio>Tempesta</studio>
+  <studio>Amka Films</studio>
+  <studio>01 Distribution</studio>
+  <uniqueid type="Tmdb">481432</uniqueid>
+  <uniqueid type="Imdb">tt6752992</uniqueid>
+  <id>tt6752992</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2023502</bitrate>
+        <width>1756</width>
+        <height>1080</height>
+        <aspect>439:270</aspect>
+        <aspectratio>439:270</aspectratio>
+        <framerate>23.97613</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>127</duration>
+        <durationinseconds>7658</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127999</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

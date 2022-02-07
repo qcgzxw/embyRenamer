@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[李成阳打电话给陈建波询问，按照陈建波所指的地点，李成阳挖了五米深都没见到尸体，陈建波也不明所以，当初他才埋两米深，而且他埋尸的地方也不应会被人知道。曹鹏的儿子曹晓峰看到安福桥已经开挖，他以为是父亲叫人挖的，打电话过去询问。曹鹏正在开会，手机被放在外面，没有接到曹晓峰的电话。此时，随着夜色越发深沉，会议室内和安福桥的形势也同时变得越来越严峻，督导组想办法拖住高明远和相关人员，为李成阳那边争取时间，而安福桥旁的李成阳正在带人积极地开展挖掘工作。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-04 13:41:44</dateadded>
+  <title>挖掘</title>
+  <actor>
+    <name>Sun Honglei</name>
+    <role>李成阳</role>
+    <type>Actor</type>
+    <tmdbid>73774</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Yixing</name>
+    <role>林浩</role>
+    <type>Actor</type>
+    <tmdbid>1532511</tmdbid>
+    <imdbid>nm7344694</imdbid>
+  </actor>
+  <actor>
+    <name>Liu Yijun</name>
+    <role>何勇</role>
+    <type>Actor</type>
+    <tmdbid>1971602</tmdbid>
+  </actor>
+  <actor>
+    <name>Wu Yue</name>
+    <role>贺芸</role>
+    <type>Actor</type>
+    <tmdbid>113791</tmdbid>
+  </actor>
+  <actor>
+    <name>Maggie Jiang</name>
+    <role>黄希</role>
+    <type>Actor</type>
+    <tmdbid>1590275</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Zhifei</name>
+    <role>高明远</role>
+    <type>Actor</type>
+    <tmdbid>1291458</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Zhibing</name>
+    <role>骆山河</role>
+    <type>Actor</type>
+    <tmdbid>1418366</tmdbid>
+  </actor>
+  <actor>
+    <name>Wu Xiaoliang</name>
+    <role>孙兴</role>
+    <type>Actor</type>
+    <tmdbid>1381455</tmdbid>
+  </actor>
+  <actor>
+    <name>Ning Li</name>
+    <role>马帅</role>
+    <type>Actor</type>
+    <tmdbid>987205</tmdbid>
+    <imdbid>nm1280632</imdbid>
+  </actor>
+  <actor>
+    <name>Che Xiao</name>
+    <role>李丽涓</role>
+    <type>Actor</type>
+    <tmdbid>143845</tmdbid>
+  </actor>
+  <actor>
+    <name>Tan Kai</name>
+    <role>董耀</role>
+    <type>Actor</type>
+    <tmdbid>1183237</tmdbid>
+  </actor>
+  <actor>
+    <name>Hou Chang-Rong</name>
+    <role>赵立根</role>
+    <type>Actor</type>
+    <tmdbid>1721000</tmdbid>
+  </actor>
+  <actor>
+    <name>Sun Hao</name>
+    <role>胡笑伟</role>
+    <type>Actor</type>
+    <tmdbid>1712882</tmdbid>
+  </actor>
+  <actor>
+    <name>Xiaoou Zhou</name>
+    <role>陈建波</role>
+    <type>Actor</type>
+    <tmdbid>237822</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhao Xiaorui</name>
+    <role>曹鹏</role>
+    <type>Actor</type>
+    <tmdbid>1418469</tmdbid>
+  </actor>
+  <actor>
+    <name>Ruijia Jiang</name>
+    <role>麦佳</role>
+    <type>Actor</type>
+    <tmdbid>1180915</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Yang</name>
+    <role>刘铭</role>
+    <type>Actor</type>
+    <tmdbid>2450488</tmdbid>
+  </actor>
+  <rating>0</rating>
+  <year>2021</year>
+  <tvdbid>8605731</tvdbid>
+  <runtime>45</runtime>
+  <genre>中国大陆</genre>
+  <uniqueid type="Tvdb">8605731</uniqueid>
+  <episode>25</episode>
+  <season>1</season>
+  <aired>2021-08-27</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4660211</bitrate>
+        <width>1920</width>
+        <height>958</height>
+        <aspect>960:479</aspect>
+        <aspectratio>960:479</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>44</duration>
+        <durationinseconds>2684</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>93402</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1999</width>
+        <height>931</height>
+        <aspect>1999:931</aspect>
+        <aspectratio>1999:931</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

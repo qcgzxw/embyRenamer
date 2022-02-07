@@ -1,0 +1,489 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[土耳其（杰森•斯坦森饰）是一位黑市拳击的经理人，不过他遇到了麻烦，本该参加比赛的选手被吉普赛人米奇（布拉德•皮特饰）一拳击倒。土耳其不得不选择在黑帮老大布里克（阿兰•福特饰）与吉塞人之间周旋，来获得生机。与此同时，四指弗兰克（本尼西奥•德尔•托罗饰）携带一颗86克拉的钻石来到伦敦，这件赃物引起了各路匪徒的兴趣，其中包括军火商老布（拉德•舍博德兹加饰）、杀手“子弹牙齿”托尼（维尼•琼斯饰）与黑人小混混维尼（罗比•吉饰）。这些心怀不轨的罪犯各自盘算着自己的完美计划，不想造化弄人，惊人的巧合引出一连串幽默的冷笑话。所有的一切都在伦敦的夜晚交织，究竟谁能够从中解脱？就在盖•瑞奇导演的《偷拐抢骗》中揭晓。]]></plot>
+  <outline><![CDATA[Stealin' Stones and Breakin' Bones.]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2018-03-10 05:58:37</dateadded>
+  <title>偷拐抢骗</title>
+  <originaltitle>Snatch</originaltitle>
+  <actor>
+    <name>Benicio del Toro</name>
+    <role>Franky Four Fingers</role>
+    <type>Actor</type>
+    <tmdbid>1121</tmdbid>
+    <imdbid>nm0001125</imdbid>
+  </actor>
+  <actor>
+    <name>Dennis Farina</name>
+    <role>Cousin Avi</role>
+    <type>Actor</type>
+    <tmdbid>1117</tmdbid>
+    <imdbid>nm0001199</imdbid>
+  </actor>
+  <actor>
+    <name>Vinnie Jones</name>
+    <role>Bullet Tooth Tony</role>
+    <type>Actor</type>
+    <tmdbid>980</tmdbid>
+    <imdbid>nm0005068</imdbid>
+  </actor>
+  <actor>
+    <name>Brad Pitt</name>
+    <role>Mickey O'Neil</role>
+    <type>Actor</type>
+    <tmdbid>287</tmdbid>
+    <imdbid>nm0000093</imdbid>
+  </actor>
+  <actor>
+    <name>Rade Šerbedžija</name>
+    <role>Boris "The Blade" Yurinov</role>
+    <type>Actor</type>
+    <tmdbid>1118</tmdbid>
+    <imdbid>nm0784884</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Statham</name>
+    <role>Turkish</role>
+    <type>Actor</type>
+    <tmdbid>976</tmdbid>
+    <imdbid>nm0005458</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Graham</name>
+    <role>Tommy</role>
+    <type>Actor</type>
+    <tmdbid>1115</tmdbid>
+    <imdbid>nm0334318</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Ford</name>
+    <role>Brick Top Polford</role>
+    <type>Actor</type>
+    <tmdbid>1116</tmdbid>
+    <imdbid>nm0285495</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Reid</name>
+    <role>Doug "The Head" Denovitz</role>
+    <type>Actor</type>
+    <tmdbid>1122</tmdbid>
+    <imdbid>nm0717372</imdbid>
+  </actor>
+  <actor>
+    <name>Robbie Gee</name>
+    <role>Vincent</role>
+    <type>Actor</type>
+    <tmdbid>1119</tmdbid>
+    <imdbid>nm0311563</imdbid>
+  </actor>
+  <actor>
+    <name>Lennie James</name>
+    <role>Sol</role>
+    <type>Actor</type>
+    <tmdbid>1120</tmdbid>
+    <imdbid>nm0416694</imdbid>
+  </actor>
+  <actor>
+    <name>Ewen Bremner</name>
+    <role>Mullet</role>
+    <type>Actor</type>
+    <tmdbid>1125</tmdbid>
+    <imdbid>nm0001971</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Flemyng</name>
+    <role>Darren</role>
+    <type>Actor</type>
+    <tmdbid>973</tmdbid>
+    <imdbid>nm0002076</imdbid>
+  </actor>
+  <actor>
+    <name>Ade</name>
+    <role>Tyrone</role>
+    <type>Actor</type>
+    <tmdbid>2627</tmdbid>
+    <imdbid>nm0011744</imdbid>
+  </actor>
+  <actor>
+    <name>Andy Beckwith</name>
+    <role>Errol</role>
+    <type>Actor</type>
+    <tmdbid>1123</tmdbid>
+    <imdbid>nm0065874</imdbid>
+  </actor>
+  <actor>
+    <name>Charles Cork</name>
+    <role>MC</role>
+    <type>Actor</type>
+    <tmdbid>40651</tmdbid>
+    <imdbid>nm0179893</imdbid>
+  </actor>
+  <actor>
+    <name>Sorcha Cusack</name>
+    <role>Mum O'Neil</role>
+    <type>Actor</type>
+    <tmdbid>1221763</tmdbid>
+    <imdbid>nm0193663</imdbid>
+  </actor>
+  <actor>
+    <name>Dave Legeno</name>
+    <role>John</role>
+    <type>Actor</type>
+    <tmdbid>60348</tmdbid>
+    <imdbid>nm0499270</imdbid>
+  </actor>
+  <actor>
+    <name>Trevor Steedman</name>
+    <role>Bomber Harris</role>
+    <type>Actor</type>
+    <tmdbid>1340211</tmdbid>
+    <imdbid>nm0824365</imdbid>
+  </actor>
+  <actor>
+    <name>Yuri Stepanov</name>
+    <role>Himy</role>
+    <type>Actor</type>
+    <tmdbid>83838</tmdbid>
+    <imdbid>nm0826784</imdbid>
+  </actor>
+  <actor>
+    <name>Velibor Topic</name>
+    <role>The Russian</role>
+    <type>Actor</type>
+    <tmdbid>34515</tmdbid>
+    <imdbid>nm0867677</imdbid>
+  </actor>
+  <actor>
+    <name>Liam McMahon</name>
+    <role>Gypsy Man</role>
+    <type>Actor</type>
+    <tmdbid>210485</tmdbid>
+    <imdbid>nm0573054</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Faraday</name>
+    <role>Policeman</role>
+    <type>Actor</type>
+    <tmdbid>30323</tmdbid>
+    <imdbid>nm0267003</imdbid>
+  </actor>
+  <actor>
+    <name>Elwin 'Chopper' David</name>
+    <role>Boxer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1473866</tmdbid>
+  </actor>
+  <actor>
+    <name>William Beck</name>
+    <role>Neil</role>
+    <type>Actor</type>
+    <tmdbid>1124</tmdbid>
+    <imdbid>nm0065307</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Douglas</name>
+    <role>Rosebud</role>
+    <type>Actor</type>
+    <tmdbid>17072</tmdbid>
+    <imdbid>nm0002243</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Fogerty</name>
+    <role>Gorgeous George</role>
+    <type>Actor</type>
+    <tmdbid>2302</tmdbid>
+    <imdbid>nm0283912</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Meyers</name>
+    <role>Avi's Colleague</role>
+    <type>Actor</type>
+    <tmdbid>933883</tmdbid>
+    <imdbid>nm0583534</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Buckham</name>
+    <role>Gary</role>
+    <type>Actor</type>
+    <tmdbid>1901415</tmdbid>
+  </actor>
+  <actor>
+    <name>Mickey Cantwell</name>
+    <role>Liam</role>
+    <type>Actor</type>
+    <tmdbid>1901416</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicola Collins</name>
+    <role>Alex</role>
+    <type>Actor</type>
+    <tmdbid>1362561</tmdbid>
+    <imdbid>nm0172577</imdbid>
+  </actor>
+  <actor>
+    <name>Teena Collins</name>
+    <role>Susi</role>
+    <type>Actor</type>
+    <tmdbid>1901417</tmdbid>
+  </actor>
+  <actor>
+    <name>James Cunningham</name>
+    <role>Horrible Man</role>
+    <type>Actor</type>
+    <tmdbid>167122</tmdbid>
+    <imdbid>nm0192330</imdbid>
+  </actor>
+  <actor>
+    <name>Mickey Dee</name>
+    <role>Jack</role>
+    <type>Actor</type>
+    <tmdbid>1901418</tmdbid>
+  </actor>
+  <actor>
+    <name>Goldie</name>
+    <role>Bad Boy Lincoln</role>
+    <type>Actor</type>
+    <tmdbid>1123329</tmdbid>
+    <imdbid>nm0325635</imdbid>
+  </actor>
+  <actor>
+    <name>Sid Hoare</name>
+    <role>Reuben</role>
+    <type>Actor</type>
+    <tmdbid>1836529</tmdbid>
+  </actor>
+  <actor>
+    <name>Ronald Isaac</name>
+    <role>Referee</role>
+    <type>Actor</type>
+    <tmdbid>555144</tmdbid>
+    <imdbid>nm0410514</imdbid>
+  </actor>
+  <actor>
+    <name>Chuck Julian</name>
+    <role>Michael</role>
+    <type>Actor</type>
+    <tmdbid>199104</tmdbid>
+    <imdbid>nm0432192</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Ninh Cao</name>
+    <role>Charlie</role>
+    <type>Actor</type>
+    <tmdbid>554285</tmdbid>
+    <imdbid>nm0134865</imdbid>
+  </actor>
+  <actor>
+    <name>Paul O'Boyle</name>
+    <role>Patrick</role>
+    <type>Actor</type>
+    <tmdbid>1901423</tmdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Roussounis</name>
+    <role>Paulie</role>
+    <type>Actor</type>
+    <tmdbid>1380903</tmdbid>
+    <imdbid>nm0746101</imdbid>
+  </actor>
+  <actor>
+    <name>Sidney Sedin</name>
+    <role>Pauline</role>
+    <type>Actor</type>
+    <tmdbid>1901426</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Szakacs</name>
+    <role>Sausage Charlie</role>
+    <type>Actor</type>
+    <tmdbid>1901427</tmdbid>
+  </actor>
+  <actor>
+    <name>John Taheny</name>
+    <role>Salt Peter</role>
+    <type>Actor</type>
+    <tmdbid>1901428</tmdbid>
+  </actor>
+  <actor>
+    <name>Mick Theo</name>
+    <role>Mad Fist Willy</role>
+    <type>Actor</type>
+    <tmdbid>1901429</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Till</name>
+    <role>John the Gun</role>
+    <type>Actor</type>
+    <tmdbid>1901430</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Welch</name>
+    <role>Horace "Good Night" Anderson</role>
+    <type>Actor</type>
+    <tmdbid>555146</tmdbid>
+    <imdbid>nm1013291</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Hughes</name>
+    <role>Gypsy Man</role>
+    <type>Actor</type>
+    <tmdbid>1901432</tmdbid>
+  </actor>
+  <actor>
+    <name>James Warren</name>
+    <role>Gypsy Man</role>
+    <type>Actor</type>
+    <tmdbid>1646438</tmdbid>
+    <imdbid>nm0912879</imdbid>
+  </actor>
+  <actor>
+    <name>Austin Drage</name>
+    <role>Gypsy Kid</role>
+    <type>Actor</type>
+    <tmdbid>1892745</tmdbid>
+    <imdbid>nm0236674</imdbid>
+  </actor>
+  <actor>
+    <name>Liam Donaghy</name>
+    <role>Gypsy Kid</role>
+    <type>Actor</type>
+    <tmdbid>1901433</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Williams</name>
+    <role>Gypsy Kid</role>
+    <type>Actor</type>
+    <tmdbid>1901434</tmdbid>
+  </actor>
+  <actor>
+    <name>John Farnell</name>
+    <role>Brick Top's Henchman</role>
+    <type>Actor</type>
+    <tmdbid>1901435</tmdbid>
+  </actor>
+  <actor>
+    <name>Shaun Pearson</name>
+    <role>Brick Top's Henchman</role>
+    <type>Actor</type>
+    <tmdbid>1901436</tmdbid>
+  </actor>
+  <actor>
+    <name>Dean Smith</name>
+    <role>Brick Top's Henchman</role>
+    <type>Actor</type>
+    <tmdbid>1901437</tmdbid>
+    <imdbid>nm2217137</imdbid>
+  </actor>
+  <actor>
+    <name>Roy Snell</name>
+    <role>Brick Top's Henchman</role>
+    <type>Actor</type>
+    <tmdbid>1901438</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Shield</name>
+    <role>Policeman</role>
+    <type>Actor</type>
+    <tmdbid>1901439</tmdbid>
+  </actor>
+  <actor>
+    <name>Guy Ritchie</name>
+    <role>Man Reading Newspaper (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>956</tmdbid>
+    <imdbid>nm0005363</imdbid>
+  </actor>
+  <director tmdbid="956" imdbid="nm0005363">Guy Ritchie</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ni4tEtuTccc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=u8jVN5UAji8</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=11ptis6I2Zk</trailer>
+  <rating>8.3</rating>
+  <year>2000</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0208092</imdbid>
+  <tmdbid>107</tmdbid>
+  <premiered>2000-09-01</premiered>
+  <releasedate>2000-09-01</releasedate>
+  <criticrating>73</criticrating>
+  <runtime>103</runtime>
+  <tagline>Stealin' Stones and Breakin' Bones.</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>犯罪</genre>
+  <genre>喜剧</genre>
+  <studio>Screen Gems</studio>
+  <studio>SKA Films</studio>
+  <studio>Columbia Pictures</studio>
+  <uniqueid type="Tmdb">107</uniqueid>
+  <uniqueid type="Imdb">tt0208092</uniqueid>
+  <id>tt0208092</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5094816</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>102</duration>
+        <durationinseconds>6166</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

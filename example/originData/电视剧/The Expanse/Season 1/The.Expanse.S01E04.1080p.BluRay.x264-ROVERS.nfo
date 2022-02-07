@@ -1,0 +1,267 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[火星军官要求公开认错平息局势，霍尔登拒绝服从命令。隐形飞船再次袭击唐纳哥号，双方爆发火力冲突。霍尔登发现隐形飞船的目的是陷害火星，舰长遂命令洛佩斯护送霍尔登逃回火星指挥处作证。关押船员的地方损坏，内奥米等人陷入绝境。敌人登上唐纳哥号，霍尔登强迫洛佩斯救出濒死的船员。洛佩斯拼死护送霍尔登几人进入逃生船，随后舰长亲自引爆了唐纳哥号。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-07 19:42:33</dateadded>
+  <title>近战</title>
+  <actor>
+    <name>Steven Strait</name>
+    <role>Jim Holden</role>
+    <type>Actor</type>
+    <tmdbid>54815</tmdbid>
+    <imdbid>nm1711829</imdbid>
+  </actor>
+  <actor>
+    <name>Cas Anvar</name>
+    <role>Alex Kamal</role>
+    <type>Actor</type>
+    <tmdbid>59214</tmdbid>
+    <imdbid>nm0031679</imdbid>
+  </actor>
+  <actor>
+    <name>Dominique Tipper</name>
+    <role>Naomi Nagata</role>
+    <type>Actor</type>
+    <tmdbid>1361876</tmdbid>
+    <imdbid>nm4625680</imdbid>
+  </actor>
+  <actor>
+    <name>Wes Chatham</name>
+    <role>Amos Burton</role>
+    <type>Actor</type>
+    <tmdbid>51682</tmdbid>
+    <imdbid>nm1434871</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Jane</name>
+    <role>Detective Josephus Miller</role>
+    <type>Actor</type>
+    <tmdbid>11155</tmdbid>
+    <imdbid>nm0005048</imdbid>
+  </actor>
+  <actor>
+    <name>Shohreh Aghdashloo</name>
+    <role>Chrisjen Avasarala</role>
+    <type>Actor</type>
+    <tmdbid>21041</tmdbid>
+    <imdbid>nm0013037</imdbid>
+  </actor>
+  <actor>
+    <name>Florence Faivre</name>
+    <role>Julie Mao</role>
+    <type>Actor</type>
+    <tmdbid>88794</tmdbid>
+    <imdbid>nm1552467</imdbid>
+  </actor>
+  <actor>
+    <name>Paulo Costanzo</name>
+    <role>Shed Garvey</role>
+    <type>GuestStar</type>
+    <tmdbid>57133</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Bogen</name>
+    <role>Bizi Bitiko</role>
+    <type>GuestStar</type>
+    <tmdbid>1179446</tmdbid>
+  </actor>
+  <actor>
+    <name>Austin Strugnell</name>
+    <role>Sensor / Comms Officer</role>
+    <type>GuestStar</type>
+    <tmdbid>1722081</tmdbid>
+  </actor>
+  <actor>
+    <name>Boyd Banks</name>
+    <role>Coroner</role>
+    <type>GuestStar</type>
+    <tmdbid>20196</tmdbid>
+  </actor>
+  <actor>
+    <name>Jane Moffat</name>
+    <role>Brothel Madam</role>
+    <type>GuestStar</type>
+    <tmdbid>1362948</tmdbid>
+  </actor>
+  <actor>
+    <name>Brett Ryan</name>
+    <role>Cpl. Mole</role>
+    <type>GuestStar</type>
+    <tmdbid>1543683</tmdbid>
+  </actor>
+  <actor>
+    <name>Diana Bentley</name>
+    <role>Sergent Grimes</role>
+    <type>GuestStar</type>
+    <tmdbid>1588870</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean Yoon</name>
+    <role>Captain Theresa Yao</role>
+    <type>GuestStar</type>
+    <tmdbid>88929</tmdbid>
+  </actor>
+  <actor>
+    <name>John MacDonald</name>
+    <role>Martian Marine</role>
+    <type>GuestStar</type>
+    <tmdbid>1366350</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordan Van Dyck</name>
+    <role>Cpl. Dookie</role>
+    <type>GuestStar</type>
+    <tmdbid>1570611</tmdbid>
+  </actor>
+  <actor>
+    <name>Marvin Kaye</name>
+    <role>Gambler</role>
+    <type>GuestStar</type>
+    <tmdbid>212010</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Spence</name>
+    <role>Mormon Elder</role>
+    <type>GuestStar</type>
+    <tmdbid>2431465</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Arnfinson</name>
+    <role>Boarder</role>
+    <type>GuestStar</type>
+    <tmdbid>232492</tmdbid>
+  </actor>
+  <actor>
+    <name>Tattiawna Jones</name>
+    <role>Weapons Officer</role>
+    <type>GuestStar</type>
+    <tmdbid>110911</tmdbid>
+  </actor>
+  <actor>
+    <name>Tina Jung</name>
+    <role>Wasted Girl</role>
+    <type>GuestStar</type>
+    <tmdbid>1776255</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Hernandez</name>
+    <role>Dimitri Havelock</role>
+    <type>GuestStar</type>
+    <tmdbid>19487</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Stanley</name>
+    <role>Great Dane</role>
+    <type>GuestStar</type>
+    <tmdbid>2431204</tmdbid>
+  </actor>
+  <actor>
+    <name>Lola Glaudini</name>
+    <role>Captain Shaddid</role>
+    <type>GuestStar</type>
+    <tmdbid>34845</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Bryk</name>
+    <role>Lopez</role>
+    <type>GuestStar</type>
+    <tmdbid>231</tmdbid>
+  </actor>
+  <actor>
+    <name>Yatharth Bhatt</name>
+    <role>Avasarala's Grandson #1</role>
+    <type>GuestStar</type>
+    <tmdbid>1849335</tmdbid>
+  </actor>
+  <actor>
+    <name>Athena Karkanis</name>
+    <role>Octavia Muss</role>
+    <type>GuestStar</type>
+    <tmdbid>51037</tmdbid>
+    <imdbid>nm1920701</imdbid>
+  </actor>
+  <actor>
+    <name>Brian George</name>
+    <role>Arjun Avasarala</role>
+    <type>GuestStar</type>
+    <tmdbid>58511</tmdbid>
+    <imdbid>nm0313364</imdbid>
+  </actor>
+  <actor>
+    <name>Shawn Doyle</name>
+    <role>Sadavir Errinwright</role>
+    <type>GuestStar</type>
+    <tmdbid>25878</tmdbid>
+    <imdbid>nm0236495</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Roach</name>
+    <role>Admiral Souther</role>
+    <type>GuestStar</type>
+    <tmdbid>5921</tmdbid>
+    <imdbid>nm0730045</imdbid>
+  </actor>
+  <actor>
+    <name>Chad L. Coleman</name>
+    <role>Frederick Lucius Johnson</role>
+    <type>GuestStar</type>
+    <tmdbid>124645</tmdbid>
+  </actor>
+  <director>Jeff Woolnough</director>
+  <rating>7.914</rating>
+  <year>2015</year>
+  <imdbid>tt3983230</imdbid>
+  <tvdbid>5280276</tvdbid>
+  <runtime>43</runtime>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <tvrageid>1065742156</tvrageid>
+  <uniqueid type="Imdb">tt3983230</uniqueid>
+  <uniqueid type="Tvdb">5280276</uniqueid>
+  <uniqueid type="TvRage">1065742156</uniqueid>
+  <episode>4</episode>
+  <season>1</season>
+  <aired>2015-12-29</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11018741</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>42</duration>
+        <durationinseconds>2554</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

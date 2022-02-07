@@ -1,0 +1,275 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[讲述的是性格耿直爱打抱不平的热血信访女士通过向极具原则性的9级公务员学习英语的过程中，逐渐学会讲英语的同时两个人的心扉也逐渐打开成为忘年之交的故事。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2017-12-04 09:57:19</dateadded>
+  <title>我能说</title>
+  <originaltitle>아이 캔 스피크</originaltitle>
+  <actor>
+    <name>Na Moon-hee</name>
+    <role>Na Ok-boon</role>
+    <type>Actor</type>
+    <tmdbid>123808</tmdbid>
+    <imdbid>nm0618520</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Je-hoon</name>
+    <role>Park Min-jae</role>
+    <type>Actor</type>
+    <tmdbid>531736</tmdbid>
+    <imdbid>nm2043703</imdbid>
+  </actor>
+  <actor>
+    <name>Seong Yu-bin</name>
+    <role>Young-jae</role>
+    <type>Actor</type>
+    <tmdbid>1520280</tmdbid>
+    <imdbid>nm6957970</imdbid>
+  </actor>
+  <actor>
+    <name>Yeom Hye-ran</name>
+    <role>Jinjoo-daek</role>
+    <type>Actor</type>
+    <tmdbid>2084416</tmdbid>
+    <imdbid>nm9470536</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Sang-hee</name>
+    <role>Hye-jung</role>
+    <type>Actor</type>
+    <tmdbid>1374543</tmdbid>
+    <imdbid>nm5471670</imdbid>
+  </actor>
+  <actor>
+    <name>Jeong Yeon-joo</name>
+    <role>A-young</role>
+    <type>Actor</type>
+    <tmdbid>1552969</tmdbid>
+    <imdbid>nm4933181</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Ji-hun</name>
+    <role>Jong-hyun</role>
+    <type>Actor</type>
+    <tmdbid>2159482</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Chul-min</name>
+    <role>Team leader Yang</role>
+    <type>Actor</type>
+    <tmdbid>138527</tmdbid>
+    <imdbid>nm1059148</imdbid>
+  </actor>
+  <actor>
+    <name>Son Sook</name>
+    <role>Jung-sim</role>
+    <type>Actor</type>
+    <tmdbid>1511024</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim So-jin</name>
+    <role>Geum-joo</role>
+    <type>Actor</type>
+    <tmdbid>1887382</tmdbid>
+    <imdbid>nm6194018</imdbid>
+  </actor>
+  <actor>
+    <name>Choi Soo-in</name>
+    <role>young Na Ok-boon</role>
+    <type>Actor</type>
+    <tmdbid>1583321</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Jae-in</name>
+    <role>Jung-sim (young)</role>
+    <type>Actor</type>
+    <tmdbid>2078000</tmdbid>
+    <imdbid>nm8467899</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Dae-yeon</name>
+    <role>Ward chief</role>
+    <type>Actor</type>
+    <tmdbid>39258</tmdbid>
+    <imdbid>nm1139514</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Il-woong</name>
+    <role>bald guy</role>
+    <type>Actor</type>
+    <tmdbid>2159483</tmdbid>
+    <imdbid>nm12040518</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Ja-young</name>
+    <role>executive of shopkeepers co-op</role>
+    <type>Actor</type>
+    <tmdbid>1180459</tmdbid>
+    <imdbid>nm3681777</imdbid>
+  </actor>
+  <actor>
+    <name>Cho Wan-ki</name>
+    <role>YBM counselor</role>
+    <type>Actor</type>
+    <tmdbid>1912573</tmdbid>
+    <imdbid>nm9086165</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Shin-seong</name>
+    <role>Reporter</role>
+    <type>Actor</type>
+    <tmdbid>231481</tmdbid>
+    <imdbid>nm4220234</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Sun-kyung</name>
+    <role>Hye-jung's friend</role>
+    <type>Actor</type>
+    <tmdbid>2878625</tmdbid>
+  </actor>
+  <actor>
+    <name>Jo Hyun-im</name>
+    <role>Park Min-jae's aunt</role>
+    <type>Actor</type>
+    <tmdbid>2878648</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Dong-yong</name>
+    <type>Actor</type>
+    <tmdbid>2159392</tmdbid>
+  </actor>
+  <actor>
+    <name>Chu Yeon-gyu</name>
+    <role>ward office employee</role>
+    <type>Actor</type>
+    <tmdbid>2878478</tmdbid>
+  </actor>
+  <actor>
+    <name>Woo Ji-hyeon</name>
+    <role>Public service employee</role>
+    <type>Actor</type>
+    <tmdbid>1747746</tmdbid>
+    <imdbid>nm6672275</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Kyung-duk</name>
+    <role>labor service subordinate 2</role>
+    <type>Actor</type>
+    <tmdbid>2483539</tmdbid>
+  </actor>
+  <actor>
+    <name>Son Seong-chan</name>
+    <role>Interviewer</role>
+    <type>Actor</type>
+    <tmdbid>1631997</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Nan-hee</name>
+    <role>interviewer 2</role>
+    <type>Actor</type>
+    <tmdbid>2747548</tmdbid>
+  </actor>
+  <actor>
+    <name>Seol Chang-hee</name>
+    <role>Interviewer</role>
+    <type>Actor</type>
+    <tmdbid>2159485</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Gun</name>
+    <role>Young-jae (young)</role>
+    <type>Actor</type>
+    <tmdbid>2159488</tmdbid>
+  </actor>
+  <actor>
+    <name>Ok Joo-ri</name>
+    <role>Merchant</role>
+    <type>Actor</type>
+    <tmdbid>2159490</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Jung-hyun</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>2097693</tmdbid>
+  </actor>
+  <actor>
+    <name>Jung Won-chang</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>2275300</tmdbid>
+    <imdbid>nm10300574</imdbid>
+  </actor>
+  <actor>
+    <name>Terris Brown</name>
+    <role>Airport immigration agent</role>
+    <type>Actor</type>
+    <tmdbid>2680551</tmdbid>
+  </actor>
+  <director tmdbid="24989" imdbid="nm0453477">Kim Hyun-suk</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=i5TUJ44NJnQ</trailer>
+  <rating>7.5</rating>
+  <year>2017</year>
+  <imdbid>tt7342204</imdbid>
+  <tmdbid>470524</tmdbid>
+  <premiered>2017-09-21</premiered>
+  <releasedate>2017-09-21</releasedate>
+  <runtime>119</runtime>
+  <country>South Korea</country>
+  <genre>剧情</genre>
+  <genre>喜剧</genre>
+  <studio>Myung Films</studio>
+  <studio>Little Big Pictures</studio>
+  <studio>Lotte Entertainment</studio>
+  <uniqueid type="Imdb">tt7342204</uniqueid>
+  <uniqueid type="Tmdb">470524</uniqueid>
+  <id>tt7342204</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1986658</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>29.97</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>118</duration>
+        <durationinseconds>7124</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

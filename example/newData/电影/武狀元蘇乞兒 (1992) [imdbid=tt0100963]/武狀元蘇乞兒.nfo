@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　广州提督之子苏灿在考取武状元时，被人设计陷害沦为乞丐。因为丐帮四大长老杀了自己的教主，入主朝廷的天理教太乙真人四处迫害丐帮，加上丐帮帮主阵亡令打狗棒法失传，丐帮一时四分五裂群龙无首。在心仪苏灿的如霜的暗中帮助下，传功长老选中苏灿为丐帮接班人，传以打狗律法要诀。苏灿学艺成功后，成为新任帮主，开始团结各地丐帮会员自强，共同奋力对抗天理教。太乙真人欲拥兵自立，预谋在黄帝狩猎之时下手行刺，不料消息走露传到苏灿耳中。]]></plot>
+  <outline><![CDATA[武状元苏乞儿]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-04 14:15:24</dateadded>
+  <title>武状元苏乞儿</title>
+  <originaltitle>武狀元蘇乞兒</originaltitle>
+  <actor>
+    <name>Stephen Chow</name>
+    <role>So Cha Ha Yee Chan / Tsan, So Hat Ngai</role>
+    <type>Actor</type>
+    <tmdbid>57607</tmdbid>
+    <imdbid>nm0159507</imdbid>
+  </actor>
+  <actor>
+    <name>Sharla Cheung</name>
+    <role>Yushang / Ru Shuang</role>
+    <type>Actor</type>
+    <tmdbid>67221</tmdbid>
+    <imdbid>nm0156522</imdbid>
+  </actor>
+  <actor>
+    <name>Ng Man-tat</name>
+    <role>General Su of Guangzhou</role>
+    <type>Actor</type>
+    <tmdbid>70437</tmdbid>
+    <imdbid>nm0628806</imdbid>
+  </actor>
+  <actor>
+    <name>Vindy Chan</name>
+    <role>Tracy / Ru Shuang's sister</role>
+    <type>Actor</type>
+    <tmdbid>1416929</tmdbid>
+  </actor>
+  <actor>
+    <name>Norman Chui</name>
+    <role>Chiu / Chau/Zhao Wu Ji</role>
+    <type>Actor</type>
+    <tmdbid>70674</tmdbid>
+    <imdbid>nm0160865</imdbid>
+  </actor>
+  <actor>
+    <name>David Lam Wai</name>
+    <role>Lord Seng Ko Lin Chin / Lord Zeng Ge Lin</role>
+    <type>Actor</type>
+    <tmdbid>83630</tmdbid>
+    <imdbid>nm0482708</imdbid>
+  </actor>
+  <actor>
+    <name>Wang Chung</name>
+    <role>Uncle Mok / Uncle Mo</role>
+    <type>Actor</type>
+    <tmdbid>124777</tmdbid>
+    <imdbid>nm0910869</imdbid>
+  </actor>
+  <actor>
+    <name>Natalis Chan</name>
+    <role>Secretary of Justice</role>
+    <type>Actor</type>
+    <tmdbid>990443</tmdbid>
+    <imdbid>nm0150850</imdbid>
+  </actor>
+  <actor>
+    <name>Lawrence Cheng</name>
+    <role>Professor / Advisor</role>
+    <type>Actor</type>
+    <tmdbid>111298</tmdbid>
+    <imdbid>nm0155593</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Wong Hin-Mung</name>
+    <role>Emperor</role>
+    <type>Actor</type>
+    <tmdbid>1045536</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Lai Bei-Dak</name>
+    <role>Uncle Cheng / Uncle Jeng</role>
+    <type>Actor</type>
+    <tmdbid>1191058</tmdbid>
+  </actor>
+  <actor>
+    <name>Jackson Ng Yuk-Sue</name>
+    <role>Po Ye Tat Tor / Botaroto</role>
+    <type>Actor</type>
+    <tmdbid>1398251</tmdbid>
+  </actor>
+  <actor>
+    <name>Chow Yee-Fan</name>
+    <role>Niu Da Chun</role>
+    <type>Actor</type>
+    <tmdbid>1417207</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Kin-Yan</name>
+    <role>Chan's friend's aunt's sister</role>
+    <type>Actor</type>
+    <tmdbid>237235</tmdbid>
+  </actor>
+  <actor>
+    <name>Kingdom Yuen</name>
+    <role>Madam Pimp / Brothel madam</role>
+    <type>Actor</type>
+    <tmdbid>94076</tmdbid>
+    <imdbid>nm0950738</imdbid>
+  </actor>
+  <director tmdbid="64901" imdbid="nm0150906">Gordon Chan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pcAughgA_pY</trailer>
+  <rating>6.9</rating>
+  <year>1992</year>
+  <imdbid>tt0100963</imdbid>
+  <tmdbid>47648</tmdbid>
+  <premiered>1992-12-17</premiered>
+  <releasedate>1992-12-17</releasedate>
+  <criticrating>69</criticrating>
+  <runtime>100</runtime>
+  <tagline>武状元苏乞儿</tagline>
+  <country>Hong Kong</country>
+  <genre>动作</genre>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <studio>Win's Movie Productions Ltd.</studio>
+  <uniqueid type="Imdb">tt0100963</uniqueid>
+  <uniqueid type="Tmdb">47648</uniqueid>
+  <id>tt0100963</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>9060052</bitrate>
+        <width>1920</width>
+        <height>1024</height>
+        <aspect>15:8</aspect>
+        <aspectratio>15:8</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6002</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[人人都植入内置芯片的时代，记忆影像可以被随时翻查。多疑的律师Liam（托比·凯贝尔 Toby Kebbell 饰）非常敏感妻子Fi（茱蒂·威泰克 Jodie Whittaker 饰）与前男友Jonas的关系。他歇斯底里的在三人记忆中搜查Fi不忠的证据，终于导致Fi崩溃离去。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-06-08 15:50:37</dateadded>
+  <title>你的全部历史</title>
+  <actor>
+    <name>Toby Kebbell</name>
+    <role>Liam Foxwell</role>
+    <type>GuestStar</type>
+    <tmdbid>20286</tmdbid>
+    <imdbid>nm1527905</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Cullen</name>
+    <role>Jonas</role>
+    <type>GuestStar</type>
+    <tmdbid>586000</tmdbid>
+    <imdbid>nm3665787</imdbid>
+  </actor>
+  <actor>
+    <name>Jodie Whittaker</name>
+    <role>Ffion Foxwell</role>
+    <type>GuestStar</type>
+    <tmdbid>66431</tmdbid>
+    <imdbid>nm2092886</imdbid>
+  </actor>
+  <actor>
+    <name>Amy Beth Hayes</name>
+    <role>Lucy</role>
+    <type>GuestStar</type>
+    <tmdbid>137411</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebekah Staton</name>
+    <role>Colleen</role>
+    <type>GuestStar</type>
+    <tmdbid>78334</tmdbid>
+  </actor>
+  <actor>
+    <name>Rhashan Stone</name>
+    <role>Jeff</role>
+    <type>GuestStar</type>
+    <tmdbid>432393</tmdbid>
+  </actor>
+  <actor>
+    <name>Phoebe Fox</name>
+    <role>Hallam</role>
+    <type>GuestStar</type>
+    <tmdbid>1320609</tmdbid>
+  </actor>
+  <actor>
+    <name>Jimi Mistry</name>
+    <role>Paul</role>
+    <type>GuestStar</type>
+    <tmdbid>16756</tmdbid>
+    <imdbid>nm0592993</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Lapaine</name>
+    <role>Max</role>
+    <type>GuestStar</type>
+    <tmdbid>3072</tmdbid>
+  </actor>
+  <actor>
+    <name>Karl Collins</name>
+    <role>Robbie</role>
+    <type>GuestStar</type>
+    <tmdbid>193356</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Chan</name>
+    <role>Leah</role>
+    <type>GuestStar</type>
+    <tmdbid>123403</tmdbid>
+  </actor>
+  <actor>
+    <name>Mona Goodwin</name>
+    <role>Gina</role>
+    <type>GuestStar</type>
+    <tmdbid>1542375</tmdbid>
+  </actor>
+  <director>Brian Welsh</director>
+  <rating>8.096</rating>
+  <year>2011</year>
+  <imdbid>tt2089050</imdbid>
+  <tvdbid>4201397</tvdbid>
+  <runtime>49</runtime>
+  <genre>Drama</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt2089050</uniqueid>
+  <uniqueid type="Tvdb">4201397</uniqueid>
+  <episode>3</episode>
+  <season>1</season>
+  <aired>2011-12-18</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>7602563</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>49</duration>
+        <durationinseconds>2941</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

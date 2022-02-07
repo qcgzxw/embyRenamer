@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一个超凡脱俗的童话，1963年，美国冷战时期，在一个高度警戒的政府实验室里，在此工作的Elisa(萨莉·霍金斯饰)深陷沉寂(此前说过她是哑女)、与世隔绝，非常孤独，但当她和同事Zelda(奥克塔维亚·斯宾瑟饰)发现一项机密实验的秘密之后，她的人生从此改变。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-03-15 16:43:14</dateadded>
+  <title>水形物语</title>
+  <originaltitle>The Shape of Water</originaltitle>
+  <actor>
+    <name>Sally Hawkins</name>
+    <role>Elisa Esposito</role>
+    <type>Actor</type>
+    <tmdbid>39658</tmdbid>
+    <imdbid>nm1020089</imdbid>
+  </actor>
+  <actor>
+    <name>Doug Jones</name>
+    <role>The Asset</role>
+    <type>Actor</type>
+    <tmdbid>17005</tmdbid>
+    <imdbid>nm0427964</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Shannon</name>
+    <role>Richard Strickland</role>
+    <type>Actor</type>
+    <tmdbid>335</tmdbid>
+    <imdbid>nm0788335</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Jenkins</name>
+    <role>Giles</role>
+    <type>Actor</type>
+    <tmdbid>28633</tmdbid>
+    <imdbid>nm0420955</imdbid>
+  </actor>
+  <actor>
+    <name>Octavia Spencer</name>
+    <role>Zelda Fuller</role>
+    <type>Actor</type>
+    <tmdbid>6944</tmdbid>
+    <imdbid>nm0818055</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Stuhlbarg</name>
+    <role>Dr. Robert Hoffstetler</role>
+    <type>Actor</type>
+    <tmdbid>72873</tmdbid>
+    <imdbid>nm0836121</imdbid>
+  </actor>
+  <actor>
+    <name>David Hewlett</name>
+    <role>Fleming</role>
+    <type>Actor</type>
+    <tmdbid>5892</tmdbid>
+    <imdbid>nm0382110</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Searcy</name>
+    <role>General Hoyt</role>
+    <type>Actor</type>
+    <tmdbid>12538</tmdbid>
+    <imdbid>nm0780678</imdbid>
+  </actor>
+  <actor>
+    <name>Stewart Arnott</name>
+    <role>Bernard</role>
+    <type>Actor</type>
+    <tmdbid>16591</tmdbid>
+    <imdbid>nm0036732</imdbid>
+  </actor>
+  <actor>
+    <name>Nigel Bennett</name>
+    <role>Mihalkov</role>
+    <type>Actor</type>
+    <tmdbid>44208</tmdbid>
+    <imdbid>nm0000911</imdbid>
+  </actor>
+  <actor>
+    <name>Lauren Lee Smith</name>
+    <role>Elaine Strickland</role>
+    <type>Actor</type>
+    <tmdbid>52394</tmdbid>
+    <imdbid>nm0809049</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Roach</name>
+    <role>Brewster Fuller</role>
+    <type>Actor</type>
+    <tmdbid>5921</tmdbid>
+    <imdbid>nm0730045</imdbid>
+  </actor>
+  <actor>
+    <name>Allegra Fulton</name>
+    <role>Yolanda</role>
+    <type>Actor</type>
+    <tmdbid>180937</tmdbid>
+    <imdbid>nm0298453</imdbid>
+  </actor>
+  <actor>
+    <name>John Kapelos</name>
+    <role>Mr. Arzounian</role>
+    <type>Actor</type>
+    <tmdbid>55554</tmdbid>
+    <imdbid>nm0438127</imdbid>
+  </actor>
+  <actor>
+    <name>Morgan Kelly</name>
+    <role>Pie Guy</role>
+    <type>Actor</type>
+    <tmdbid>54198</tmdbid>
+    <imdbid>nm1225457</imdbid>
+  </actor>
+  <actor>
+    <name>Wendy Lyon</name>
+    <role>Sally</role>
+    <type>Actor</type>
+    <tmdbid>166463</tmdbid>
+    <imdbid>nm0528994</imdbid>
+  </actor>
+  <actor>
+    <name>Madison Ferguson</name>
+    <role>Tammy Strickland</role>
+    <type>Actor</type>
+    <tmdbid>1376612</tmdbid>
+    <imdbid>nm5469410</imdbid>
+  </actor>
+  <actor>
+    <name>Jayden Greig</name>
+    <role>Timmy Strickland</role>
+    <type>Actor</type>
+    <tmdbid>1152073</tmdbid>
+    <imdbid>nm4486961</imdbid>
+  </actor>
+  <actor>
+    <name>Deney Forrest</name>
+    <role>Lou</role>
+    <type>Actor</type>
+    <tmdbid>1887797</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon McKnight</name>
+    <role>Duane</role>
+    <type>Actor</type>
+    <tmdbid>1887800</tmdbid>
+    <imdbid>nm6475012</imdbid>
+  </actor>
+  <actor>
+    <name>Dru Viergever</name>
+    <role>Military Policeman</role>
+    <type>Actor</type>
+    <tmdbid>1068995</tmdbid>
+    <imdbid>nm1617355</imdbid>
+  </actor>
+  <actor>
+    <name>Marvin Kaye</name>
+    <role>Burly Russian</role>
+    <type>Actor</type>
+    <tmdbid>212010</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Pagiamtzis</name>
+    <role>1960's Ad Man</role>
+    <type>Actor</type>
+    <tmdbid>1887791</tmdbid>
+    <imdbid>nm7458115</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Laurie</name>
+    <role>Car Passenger</role>
+    <type>Actor</type>
+    <tmdbid>1887794</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexey Pankratov</name>
+    <role>Soviet violinist</role>
+    <type>Actor</type>
+    <tmdbid>1887795</tmdbid>
+  </actor>
+  <actor>
+    <name>Shane Clinton Jarvis</name>
+    <role>Military Police</role>
+    <type>Actor</type>
+    <tmdbid>1754349</tmdbid>
+    <imdbid>nm6804482</imdbid>
+  </actor>
+  <actor>
+    <name>Evgeny Akimov</name>
+    <role>Restaurant Musician</role>
+    <type>Actor</type>
+    <tmdbid>1887798</tmdbid>
+  </actor>
+  <actor>
+    <name>Dave Reachill</name>
+    <role>Scientist</role>
+    <type>Actor</type>
+    <tmdbid>1639966</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Mease</name>
+    <role>Military Police</role>
+    <type>Actor</type>
+    <tmdbid>1754353</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Smith</name>
+    <role>Mrs. Peabody</role>
+    <type>Actor</type>
+    <tmdbid>1845453</tmdbid>
+    <imdbid>nm0807288</imdbid>
+  </actor>
+  <actor>
+    <name>Maxine Grossman</name>
+    <role>Bus Passenger</role>
+    <type>Actor</type>
+    <tmdbid>1887803</tmdbid>
+    <imdbid>nm4186991</imdbid>
+  </actor>
+  <actor>
+    <name>Edward Tracz</name>
+    <role>Amphibian Man Dance Double</role>
+    <type>Actor</type>
+    <tmdbid>1931967</tmdbid>
+  </actor>
+  <actor>
+    <name>Shaila D'Onofrio</name>
+    <role>Elisa Dance Double</role>
+    <type>Actor</type>
+    <tmdbid>1931968</tmdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Oude-Reimerink</name>
+    <role>Russian Band</role>
+    <type>Actor</type>
+    <tmdbid>1931969</tmdbid>
+  </actor>
+  <actor>
+    <name>Sergey Nikonov</name>
+    <role>Russian Band</role>
+    <type>Actor</type>
+    <tmdbid>1624542</tmdbid>
+    <imdbid>nm0631966</imdbid>
+  </actor>
+  <actor>
+    <name>Jonelle Gunderson</name>
+    <role>Bus Passenger #1</role>
+    <type>Actor</type>
+    <tmdbid>1931970</tmdbid>
+  </actor>
+  <actor>
+    <name>Clyde Whitham</name>
+    <role>Wet Cinema Patron</role>
+    <type>Actor</type>
+    <tmdbid>1669510</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Lett</name>
+    <role>Cadillac Salesman</role>
+    <type>Actor</type>
+    <tmdbid>180683</tmdbid>
+    <imdbid>nm0504683</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Waugh</name>
+    <role>African American Husband</role>
+    <type>Actor</type>
+    <tmdbid>1470381</tmdbid>
+    <imdbid>nm1479104</imdbid>
+  </actor>
+  <actor>
+    <name>Karen Glave</name>
+    <role>African American Wife</role>
+    <type>Actor</type>
+    <tmdbid>79403</tmdbid>
+    <imdbid>nm0322181</imdbid>
+  </actor>
+  <actor>
+    <name>Diego Fuentes</name>
+    <role>Worker</role>
+    <type>Actor</type>
+    <tmdbid>84730</tmdbid>
+    <imdbid>nm0297402</imdbid>
+  </actor>
+  <actor>
+    <name>Cody Ray Thompson</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>1335528</tmdbid>
+    <imdbid>nm1302751</imdbid>
+  </actor>
+  <director tmdbid="10828" imdbid="nm0868219">Guillermo del Toro</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XFYWazblaUA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uiA4B5Y63IQ</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=368_ovPsJk8</trailer>
+  <rating>7.3</rating>
+  <year>2017</year>
+  <mpaa>HK-III</mpaa>
+  <imdbid>tt5580390</imdbid>
+  <tmdbid>399055</tmdbid>
+  <premiered>2017-12-01</premiered>
+  <releasedate>2017-12-01</releasedate>
+  <criticrating>92</criticrating>
+  <runtime>123</runtime>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>奇幻</genre>
+  <genre>爱情</genre>
+  <studio>Double Dare You Productions</studio>
+  <studio>Fox Searchlight Pictures</studio>
+  <studio>Bull Productions</studio>
+  <studio>TSG Entertainment</studio>
+  <uniqueid type="Tmdb">399055</uniqueid>
+  <uniqueid type="Imdb">tt5580390</uniqueid>
+  <id>tt5580390</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4750385</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>123</duration>
+        <durationinseconds>7399</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

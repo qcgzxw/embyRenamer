@@ -1,0 +1,453 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[《低俗小说》由“文森特和马沙的妻子”、“金表”、“邦妮的处境”三个故事以及影片首尾的序幕和尾声五个部分组成。看似独立的小故事里面，却又有环环相扣的人和事。盗贼“小南瓜”和“小兔子”在早餐店里打劫，却遇上了天大的麻烦——黑社会成员朱尔斯（塞缪尔•杰克逊Samuel L. Jackson饰）和文森特（约翰•特拉沃尔塔John Travolta饰）在店内用餐，可谓天外有天。二人是否会放过两名小盗贼？而文森特是黑社会大哥马沙•华莱士（文•瑞姆斯Ving Rhames饰）的手下，马沙下命令让他陪妻子一个晚上，明知如有雷池必死无疑，但面对马沙妻子美艳诱惑，文森特该怎么办?]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-01-13 10:11:40</dateadded>
+  <title>低俗小说</title>
+  <originaltitle>Pulp Fiction</originaltitle>
+  <actor>
+    <name>John Travolta</name>
+    <role>Vincent Vega</role>
+    <type>Actor</type>
+    <tmdbid>8891</tmdbid>
+    <imdbid>nm0000237</imdbid>
+  </actor>
+  <actor>
+    <name>Samuel L. Jackson</name>
+    <role>Jules Winnfield</role>
+    <type>Actor</type>
+    <tmdbid>2231</tmdbid>
+    <imdbid>nm0000168</imdbid>
+  </actor>
+  <actor>
+    <name>Uma Thurman</name>
+    <role>Mia Wallace</role>
+    <type>Actor</type>
+    <tmdbid>139</tmdbid>
+    <imdbid>nm0000235</imdbid>
+  </actor>
+  <actor>
+    <name>Bruce Willis</name>
+    <role>Butch Coolidge</role>
+    <type>Actor</type>
+    <tmdbid>62</tmdbid>
+    <imdbid>nm0000246</imdbid>
+  </actor>
+  <actor>
+    <name>Ving Rhames</name>
+    <role>Marsellus Wallace</role>
+    <type>Actor</type>
+    <tmdbid>10182</tmdbid>
+    <imdbid>nm0000609</imdbid>
+  </actor>
+  <actor>
+    <name>Harvey Keitel</name>
+    <role>Winston "The Wolf" Wolfe</role>
+    <type>Actor</type>
+    <tmdbid>1037</tmdbid>
+    <imdbid>nm0000172</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Stoltz</name>
+    <role>Lance</role>
+    <type>Actor</type>
+    <tmdbid>7036</tmdbid>
+    <imdbid>nm0000655</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Roth</name>
+    <role>Ringo ("Pumpkin")</role>
+    <type>Actor</type>
+    <tmdbid>3129</tmdbid>
+    <imdbid>nm0000619</imdbid>
+  </actor>
+  <actor>
+    <name>Amanda Plummer</name>
+    <role>Yolanda ("Honey Bunny")</role>
+    <type>Actor</type>
+    <tmdbid>99</tmdbid>
+    <imdbid>nm0001625</imdbid>
+  </actor>
+  <actor>
+    <name>Maria de Medeiros</name>
+    <role>Fabienne</role>
+    <type>Actor</type>
+    <tmdbid>2319</tmdbid>
+    <imdbid>nm0210218</imdbid>
+  </actor>
+  <actor>
+    <name>Quentin Tarantino</name>
+    <role>Jimmie Dimmick</role>
+    <type>Actor</type>
+    <tmdbid>138</tmdbid>
+    <imdbid>nm0000233</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Walken</name>
+    <role>Captain Koons</role>
+    <type>Actor</type>
+    <tmdbid>4690</tmdbid>
+    <imdbid>nm0000686</imdbid>
+  </actor>
+  <actor>
+    <name>Rosanna Arquette</name>
+    <role>Jody</role>
+    <type>Actor</type>
+    <tmdbid>2165</tmdbid>
+    <imdbid>nm0000275</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Greene</name>
+    <role>Zed</role>
+    <type>Actor</type>
+    <tmdbid>11803</tmdbid>
+    <imdbid>nm0338886</imdbid>
+  </actor>
+  <actor>
+    <name>Duane Whitaker</name>
+    <role>Maynard</role>
+    <type>Actor</type>
+    <tmdbid>11804</tmdbid>
+    <imdbid>nm0924261</imdbid>
+  </actor>
+  <actor>
+    <name>Angela Jones</name>
+    <role>Esmarelda Villalobos</role>
+    <type>Actor</type>
+    <tmdbid>71836</tmdbid>
+    <imdbid>nm0427484</imdbid>
+  </actor>
+  <actor>
+    <name>Phil LaMarr</name>
+    <role>Marvin</role>
+    <type>Actor</type>
+    <tmdbid>31549</tmdbid>
+    <imdbid>nm0482851</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Buscemi</name>
+    <role>Buddy Holly</role>
+    <type>Actor</type>
+    <tmdbid>884</tmdbid>
+    <imdbid>nm0000114</imdbid>
+  </actor>
+  <actor>
+    <name>Bronagh Gallagher</name>
+    <role>Trudi</role>
+    <type>Actor</type>
+    <tmdbid>33399</tmdbid>
+    <imdbid>nm0302345</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Lovelace</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>11807</tmdbid>
+    <imdbid>nm0522503</imdbid>
+  </actor>
+  <actor>
+    <name>Frank Whaley</name>
+    <role>Brett</role>
+    <type>Actor</type>
+    <tmdbid>11805</tmdbid>
+    <imdbid>nm0001844</imdbid>
+  </actor>
+  <actor>
+    <name>Burr Steers</name>
+    <role>Roger</role>
+    <type>Actor</type>
+    <tmdbid>58552</tmdbid>
+    <imdbid>nm0824882</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Calderon</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>3137</tmdbid>
+    <imdbid>nm0129538</imdbid>
+  </actor>
+  <actor>
+    <name>Jerome Patrick Hoban</name>
+    <role>Ed Sullivan</role>
+    <type>Actor</type>
+    <tmdbid>1174004</tmdbid>
+    <imdbid>nm0387533</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Gilden</name>
+    <role>Page for Phillip Morris</role>
+    <type>Actor</type>
+    <tmdbid>1224317</tmdbid>
+    <imdbid>nm0318402</imdbid>
+  </actor>
+  <actor>
+    <name>Gary Shorelle</name>
+    <role>Ricky Nelson</role>
+    <type>Actor</type>
+    <tmdbid>1174007</tmdbid>
+    <imdbid>nm0794967</imdbid>
+  </actor>
+  <actor>
+    <name>Susan Griffiths</name>
+    <role>Marilyn Monroe</role>
+    <type>Actor</type>
+    <tmdbid>1174000</tmdbid>
+    <imdbid>nm0341601</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Clark</name>
+    <role>James Dean</role>
+    <type>Actor</type>
+    <tmdbid>1174001</tmdbid>
+    <imdbid>nm0163916</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Pilato</name>
+    <role>Dean Martin</role>
+    <type>Actor</type>
+    <tmdbid>54855</tmdbid>
+    <imdbid>nm0683334</imdbid>
+  </actor>
+  <actor>
+    <name>Brad Blumenthal</name>
+    <role>Jerry Lewis</role>
+    <type>Actor</type>
+    <tmdbid>1174008</tmdbid>
+    <imdbid>nm0662085</imdbid>
+  </actor>
+  <actor>
+    <name>Lorelei Leslie</name>
+    <role>Mamie van Doren</role>
+    <type>Actor</type>
+    <tmdbid>1099751</tmdbid>
+    <imdbid>nm0504147</imdbid>
+  </actor>
+  <actor>
+    <name>Emil Sitka</name>
+    <role>Hold Hands You Lovebirds (archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>107023</tmdbid>
+    <imdbid>nm0803238</imdbid>
+  </actor>
+  <actor>
+    <name>Brenda Hillhouse</name>
+    <role>Mrs. Coolidge - Butch's Mother</role>
+    <type>Actor</type>
+    <tmdbid>11162</tmdbid>
+    <imdbid>nm0384936</imdbid>
+  </actor>
+  <actor>
+    <name>Chandler Lindauer</name>
+    <role>Young Butch</role>
+    <type>Actor</type>
+    <tmdbid>1174002</tmdbid>
+    <imdbid>nm0511323</imdbid>
+  </actor>
+  <actor>
+    <name>Sy Sher</name>
+    <role>Klondike</role>
+    <type>Actor</type>
+    <tmdbid>1174006</tmdbid>
+    <imdbid>nm0792051</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Ruth</name>
+    <role>Sportscaster #1 - Coffee Shop</role>
+    <type>Actor</type>
+    <tmdbid>1173999</tmdbid>
+    <imdbid>nm0751936</imdbid>
+  </actor>
+  <actor>
+    <name>Rich Turner</name>
+    <role>Sportscaster #2</role>
+    <type>Actor</type>
+    <tmdbid>46346</tmdbid>
+    <imdbid>nm0877822</imdbid>
+  </actor>
+  <actor>
+    <name>Don Blakely</name>
+    <role>Wilson's Trainer</role>
+    <type>Actor</type>
+    <tmdbid>90337</tmdbid>
+    <imdbid>nm0086783</imdbid>
+  </actor>
+  <actor>
+    <name>Carl Allen</name>
+    <role>Dead Floyd Wilson</role>
+    <type>Actor</type>
+    <tmdbid>1174005</tmdbid>
+    <imdbid>nm0020340</imdbid>
+  </actor>
+  <actor>
+    <name>Karen Maruyama</name>
+    <role>Gawker #1</role>
+    <type>Actor</type>
+    <tmdbid>157865</tmdbid>
+    <imdbid>nm0555462</imdbid>
+  </actor>
+  <actor>
+    <name>Kathy Griffin</name>
+    <role>Hit-and-run Witness</role>
+    <type>Actor</type>
+    <tmdbid>3138</tmdbid>
+    <imdbid>nm0004980</imdbid>
+  </actor>
+  <actor>
+    <name>Venessia Valentino</name>
+    <role>Pedestrian / Bonnie Dimmick</role>
+    <type>Actor</type>
+    <tmdbid>1174009</tmdbid>
+    <imdbid>nm0884395</imdbid>
+  </actor>
+  <actor>
+    <name>Linda Kaye</name>
+    <role>Shot Woman</role>
+    <type>Actor</type>
+    <tmdbid>65907</tmdbid>
+    <imdbid>nm0443344</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Hibbert</name>
+    <role>The Gimp</role>
+    <type>Actor</type>
+    <tmdbid>1173998</tmdbid>
+    <imdbid>nm0382512</imdbid>
+  </actor>
+  <actor>
+    <name>Alexis Arquette</name>
+    <role>Man No. 4</role>
+    <type>Actor</type>
+    <tmdbid>19578</tmdbid>
+    <imdbid>nm0000793</imdbid>
+  </actor>
+  <actor>
+    <name>Julia Sweeney</name>
+    <role>Raquel</role>
+    <type>Actor</type>
+    <tmdbid>11806</tmdbid>
+    <imdbid>nm0842140</imdbid>
+  </actor>
+  <actor>
+    <name>Lawrence Bender</name>
+    <role>Long Hair Yuppy Scum</role>
+    <type>Actor</type>
+    <tmdbid>2545</tmdbid>
+    <imdbid>nm0004744</imdbid>
+  </actor>
+  <actor>
+    <name>Cie Allman</name>
+    <role>Winston Wolfe's Girlfriend at Party (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1274295</tmdbid>
+    <imdbid>nm0021515</imdbid>
+  </actor>
+  <actor>
+    <name>Rene Beard</name>
+    <role>Bar Tender (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1177915</tmdbid>
+  </actor>
+  <actor>
+    <name>Lori Pizzo</name>
+    <role>Lucky Lady (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1274296</tmdbid>
+    <imdbid>nm0686236</imdbid>
+  </actor>
+  <actor>
+    <name>Glendon Rich</name>
+    <role>Drug Dealer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1274297</tmdbid>
+    <imdbid>nm0723651</imdbid>
+  </actor>
+  <actor>
+    <name>Devan Richardson</name>
+    <role>Hopalong Cassidy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1274298</tmdbid>
+    <imdbid>nm1771244</imdbid>
+  </actor>
+  <actor>
+    <name>Ani Sava</name>
+    <role>Woman in Bathroom (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1274299</tmdbid>
+    <imdbid>nm0767216</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Rossi</name>
+    <role>Diner Patron #2 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1459067</tmdbid>
+    <imdbid>nm0744302</imdbid>
+  </actor>
+  <director tmdbid="138" imdbid="nm0000233">Quentin Tarantino</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tGpTpVyI_OQ</trailer>
+  <rating>8.9</rating>
+  <year>1994</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0110912</imdbid>
+  <tmdbid>680</tmdbid>
+  <premiered>1994-09-10</premiered>
+  <releasedate>1994-09-10</releasedate>
+  <criticrating>92</criticrating>
+  <runtime>155</runtime>
+  <country>United States of America</country>
+  <genre>惊悚</genre>
+  <genre>犯罪</genre>
+  <studio>Miramax</studio>
+  <studio>A Band Apart</studio>
+  <studio>Jersey Films</studio>
+  <uniqueid type="Tmdb">680</uniqueid>
+  <uniqueid type="Imdb">tt0110912</uniqueid>
+  <id>tt0110912</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3229334</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976042</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>154</duration>
+        <durationinseconds>9297</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[中学化学老师 Walter White 在50生日之际被诊断出患有肺癌，而他家中尚有怀孕的妻子和脑瘫的儿子。在一次跟随连襟兄弟 —— DEA 警官 Hank Schrader 抓捕毒贩的行动中，意外地看到了之前的学生 Jesse Pinkman 在警方的围捕下逃走的过程。万般无奈之下，Walter 想到了一个主意，他决定用自己的化学知识来制作冰毒，而Jesse 则负责出售。Walter 拿出所有积蓄，委托 Jesse 去买一辆旧房车做为流动实验室，两人开始了制毒之旅。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 15:49:28</dateadded>
+  <title>试播集</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>John Koyama</name>
+    <role>Emilio Koyama</role>
+    <type>GuestStar</type>
+    <tmdbid>92495</tmdbid>
+    <imdbid>nm0468697</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Hill</name>
+    <role>Jock</role>
+    <type>GuestStar</type>
+    <tmdbid>1216132</tmdbid>
+    <imdbid>nm1341364</imdbid>
+  </actor>
+  <actor>
+    <name>Gregory Chase</name>
+    <role>Dr. Belknap</role>
+    <type>GuestStar</type>
+    <tmdbid>161591</tmdbid>
+    <imdbid>nm0153767</imdbid>
+  </actor>
+  <actor>
+    <name>Max Arciniega</name>
+    <role>Krazy-8</role>
+    <type>GuestStar</type>
+    <tmdbid>1046460</tmdbid>
+  </actor>
+  <actor>
+    <name>Marius Stan</name>
+    <role>Bogdan Wolynetz</role>
+    <type>GuestStar</type>
+    <tmdbid>1223197</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmen Serano</name>
+    <role>Carmen Molina</role>
+    <type>GuestStar</type>
+    <tmdbid>115688</tmdbid>
+    <imdbid>nm0784831</imdbid>
+  </actor>
+  <actor>
+    <name>Roberta Marquez Seret</name>
+    <role>Chad's Girlfriend</role>
+    <type>GuestStar</type>
+    <tmdbid>1223192</tmdbid>
+  </actor>
+  <actor>
+    <name>Steven Michael Quezada</name>
+    <role>Steven Gomez</role>
+    <type>GuestStar</type>
+    <tmdbid>61535</tmdbid>
+    <imdbid>nm2366374</imdbid>
+  </actor>
+  <director>Vince Gilligan</director>
+  <rating>8.03</rating>
+  <year>2008</year>
+  <imdbid>tt0959621</imdbid>
+  <tvdbid>349232</tvdbid>
+  <runtime>58</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <tvrageid>637041</tvrageid>
+  <uniqueid type="Imdb">tt0959621</uniqueid>
+  <uniqueid type="Tvdb">349232</uniqueid>
+  <uniqueid type="TvRage">637041</uniqueid>
+  <episode>1</episode>
+  <season>1</season>
+  <aired>2008-01-20</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9779650</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>58</duration>
+        <durationinseconds>3486</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

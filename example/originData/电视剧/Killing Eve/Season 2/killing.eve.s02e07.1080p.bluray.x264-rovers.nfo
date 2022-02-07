@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Eve may have worrying competition for Villanelle's affections.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-06-24 16:54:12</dateadded>
+  <title>完全清醒</title>
+  <actor>
+    <name>Sandra Oh</name>
+    <role>Eve Polastri</role>
+    <type>Actor</type>
+    <tmdbid>25540</tmdbid>
+    <imdbid>nm0644897</imdbid>
+  </actor>
+  <actor>
+    <name>Jodie Comer</name>
+    <role>Villanelle</role>
+    <type>Actor</type>
+    <tmdbid>1388593</tmdbid>
+    <imdbid>nm3069650</imdbid>
+  </actor>
+  <actor>
+    <name>Fiona Shaw</name>
+    <role>Carolyn Martens</role>
+    <type>Actor</type>
+    <tmdbid>10981</tmdbid>
+    <imdbid>nm0789716</imdbid>
+  </actor>
+  <actor>
+    <name>Nina Sosanya</name>
+    <role>Jess</role>
+    <type>Actor</type>
+    <tmdbid>7063</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Bodnia</name>
+    <role>Konstantin</role>
+    <type>Actor</type>
+    <tmdbid>3398</tmdbid>
+    <imdbid>nm0091035</imdbid>
+  </actor>
+  <actor>
+    <name>Edward Bluemel</name>
+    <role>Hugo</role>
+    <type>Actor</type>
+    <tmdbid>1731315</tmdbid>
+  </actor>
+  <actor>
+    <name>Owen McDonnell</name>
+    <role>Niko Polastri</role>
+    <type>Actor</type>
+    <tmdbid>365333</tmdbid>
+    <imdbid>nm1711652</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Delaney</name>
+    <role>Kenny Stowton</role>
+    <type>Actor</type>
+    <tmdbid>2021417</tmdbid>
+    <imdbid>nm7780301</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Pierson</name>
+    <role>Gemma</role>
+    <type>GuestStar</type>
+    <tmdbid>28475</tmdbid>
+    <imdbid>nm0682753</imdbid>
+  </actor>
+  <actor>
+    <name>Adeel Akhtar</name>
+    <role>Martin</role>
+    <type>GuestStar</type>
+    <tmdbid>81840</tmdbid>
+    <imdbid>nm2253821</imdbid>
+  </actor>
+  <actor>
+    <name>Andrea Tivadar</name>
+    <role>Young Woman</role>
+    <type>GuestStar</type>
+    <tmdbid>1631815</tmdbid>
+    <imdbid>nm5862382</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Karklina</name>
+    <role>Young Woman 2</role>
+    <type>GuestStar</type>
+    <tmdbid>2311675</tmdbid>
+    <imdbid>nm6439781</imdbid>
+  </actor>
+  <actor>
+    <name>Austin Hardiman</name>
+    <role>Tommy</role>
+    <type>GuestStar</type>
+    <tmdbid>1869547</tmdbid>
+    <imdbid>nm3482338</imdbid>
+  </actor>
+  <actor>
+    <name>Olivia Carruthers</name>
+    <role>Mrs Leary</role>
+    <type>GuestStar</type>
+    <tmdbid>2316942</tmdbid>
+    <imdbid>nm1599800</imdbid>
+  </actor>
+  <actor>
+    <name>Marko Leht</name>
+    <role>Ivan</role>
+    <type>GuestStar</type>
+    <tmdbid>1820151</tmdbid>
+    <imdbid>nm4715250</imdbid>
+  </actor>
+  <actor>
+    <name>Renars Latkovskis</name>
+    <role>Gregor</role>
+    <type>GuestStar</type>
+    <tmdbid>2178151</tmdbid>
+    <imdbid>nm8164407</imdbid>
+  </actor>
+  <actor>
+    <name>Henry Lloyd-Hughes</name>
+    <role>Aaron Peel</role>
+    <type>GuestStar</type>
+    <tmdbid>513677</tmdbid>
+    <imdbid>nm1631222</imdbid>
+  </actor>
+  <actor>
+    <name>Emanuele Romano</name>
+    <role>Palazzo Guard</role>
+    <type>GuestStar</type>
+    <tmdbid>2068376</tmdbid>
+    <imdbid>nm3928370</imdbid>
+  </actor>
+  <director>Damon Thomas</director>
+  <rating>8.2</rating>
+  <year>2019</year>
+  <imdbid>tt9297976</imdbid>
+  <tvdbid>7123648</tvdbid>
+  <runtime>42</runtime>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt9297976</uniqueid>
+  <uniqueid type="Tvdb">7123648</uniqueid>
+  <episode>7</episode>
+  <season>2</season>
+  <aired>2019-05-19</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11241135</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>41</duration>
+        <durationinseconds>2503</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

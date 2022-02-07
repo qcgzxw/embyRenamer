@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[森林里一条偏僻小路的尽头，是一片长满芦苇的湖，湖下面有一个渔场，上面有一间间的水上宾馆，它们远看像是一个又一个的“小岛”。湖的主人熙真（徐倩）是一个漂亮的哑女，早上她驾驶小船接载宾馆的客人，顺便卖鱼粮给渔夫，晚上则以姿色诱惑那些客人，许多心术不正的男人都死在了她的美色中。曾是警察的贤植（金儒哲）因杀掉不忠女友逃亡到“小岛”，左思右想后准备吞枪自杀，就在举枪时，熙真突然从水里冒出来，把一把尖刀插入他的大腿，自杀不了的贤植对熙真产生既古怪又亲密的感觉。自此，两人开始在世外荒源上演疯狂激烈的情欲角逐大战。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-06-01 01:41:45</dateadded>
+  <title>漂流欲室</title>
+  <originaltitle>섬</originaltitle>
+  <actor>
+    <name>Suh Jung</name>
+    <role>Hee-Jin</role>
+    <type>Actor</type>
+    <tmdbid>69698</tmdbid>
+    <imdbid>nm0432591</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Yu-seok</name>
+    <role>Hyun-Shik</role>
+    <type>Actor</type>
+    <tmdbid>69699</tmdbid>
+    <imdbid>nm0453747</imdbid>
+  </actor>
+  <actor>
+    <name>Seo Won</name>
+    <role>Eun-ah</role>
+    <type>Actor</type>
+    <tmdbid>141873</tmdbid>
+    <imdbid>nm1117033</imdbid>
+  </actor>
+  <actor>
+    <name>Son Min-seok</name>
+    <role>Dal-soo</role>
+    <type>Actor</type>
+    <tmdbid>231508</tmdbid>
+  </actor>
+  <actor>
+    <name>Cho Jae-hyun</name>
+    <role>Mang-Chee</role>
+    <type>Actor</type>
+    <tmdbid>64453</tmdbid>
+    <imdbid>nm0128345</imdbid>
+  </actor>
+  <actor>
+    <name>Jang Hang-seon</name>
+    <role>Middle-aged man</role>
+    <type>Actor</type>
+    <tmdbid>80459</tmdbid>
+    <imdbid>nm0417526</imdbid>
+  </actor>
+  <actor>
+    <name>Han Ji-seon</name>
+    <role>Jeong-a</role>
+    <type>Actor</type>
+    <tmdbid>3146259</tmdbid>
+  </actor>
+  <director tmdbid="1188" imdbid="nm1104118">Kim Ki-duk</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NjpAjs70S9Y</trailer>
+  <rating>7</rating>
+  <year>2000</year>
+  <imdbid>tt0255589</imdbid>
+  <tmdbid>8653</tmdbid>
+  <premiered>2000-04-22</premiered>
+  <releasedate>2000-04-22</releasedate>
+  <criticrating>78</criticrating>
+  <runtime>90</runtime>
+  <country>South Korea</country>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <studio>Myung Films</studio>
+  <studio>CJ Entertainment</studio>
+  <uniqueid type="Tmdb">8653</uniqueid>
+  <uniqueid type="Imdb">tt0255589</uniqueid>
+  <id>tt0255589</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>7739174</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>90</duration>
+        <durationinseconds>5415</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>320000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[科学家意外发酵出的超智酸乳，自诞生以来便开始了祂们征服世界的行动。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-27 16:11:24</dateadded>
+  <title>当酸奶统治世界</title>
+  <actor>
+    <name>Maurice LaMarche</name>
+    <role>Narrator (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>34521</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexia Dox</name>
+    <role>Protesting Hippie / Ohio Mom (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1274523</tmdbid>
+  </actor>
+  <director>Victor Maldonado</director>
+  <director>Alfredo Torres Martínez</director>
+  <rating>6.7</rating>
+  <year>2019</year>
+  <imdbid>tt9788494</imdbid>
+  <tvdbid>6983266</tvdbid>
+  <runtime>6</runtime>
+  <genre>Animation</genre>
+  <genre>Short</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <genre>Horror</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt9788494</uniqueid>
+  <uniqueid type="Tvdb">6983266</uniqueid>
+  <episode>6</episode>
+  <season>1</season>
+  <aired>2019-03-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2797390</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>6</duration>
+        <durationinseconds>380</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>330181</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

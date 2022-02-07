@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Frank向国会宣战，以启动他的就业计划。Claire和俄罗斯大使开始了谈判。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-23 22:59:32</dateadded>
+  <title>第 5 集</title>
+  <actor>
+    <name>Kevin Spacey</name>
+    <role>Frank Underwood</role>
+    <type>Actor</type>
+    <tmdbid>1979</tmdbid>
+    <imdbid>nm0000228</imdbid>
+  </actor>
+  <actor>
+    <name>Robin Wright</name>
+    <role>Claire Underwood</role>
+    <type>Actor</type>
+    <tmdbid>32</tmdbid>
+    <imdbid>nm0000705</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Kelly</name>
+    <role>Doug Stamper</role>
+    <type>Actor</type>
+    <tmdbid>50217</tmdbid>
+    <imdbid>nm0446672</imdbid>
+  </actor>
+  <actor>
+    <name>Nathan Darrow</name>
+    <role>Edward Meechum</role>
+    <type>Actor</type>
+    <tmdbid>1224255</tmdbid>
+    <imdbid>nm2080557</imdbid>
+  </actor>
+  <actor>
+    <name>Jayne Atkinson</name>
+    <role>Catherine Durant</role>
+    <type>Actor</type>
+    <tmdbid>18261</tmdbid>
+    <imdbid>nm0040739</imdbid>
+  </actor>
+  <actor>
+    <name>Derek Cecil</name>
+    <role>Seth Grayson</role>
+    <type>Actor</type>
+    <tmdbid>60117</tmdbid>
+    <imdbid>nm0147689</imdbid>
+  </actor>
+  <actor>
+    <name>Lars Mikkelsen</name>
+    <role>Viktor Petrov</role>
+    <type>Actor</type>
+    <tmdbid>71158</tmdbid>
+    <imdbid>nm0586565</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Dickens</name>
+    <role>Kate Baldwin</role>
+    <type>Actor</type>
+    <tmdbid>21165</tmdbid>
+    <imdbid>nm0225332</imdbid>
+  </actor>
+  <actor>
+    <name>Mahershala Ali</name>
+    <role>Remy Danton</role>
+    <type>Actor</type>
+    <tmdbid>932967</tmdbid>
+    <imdbid>nm0991810</imdbid>
+  </actor>
+  <actor>
+    <name>Molly Parker</name>
+    <role>Jackie Sharp</role>
+    <type>Actor</type>
+    <tmdbid>27125</tmdbid>
+    <imdbid>nm0662504</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Marvel</name>
+    <role>Heather Dunbar</role>
+    <type>Actor</type>
+    <tmdbid>126713</tmdbid>
+    <imdbid>nm0555500</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Sparks</name>
+    <role>Thomas Yates</role>
+    <type>Actor</type>
+    <tmdbid>167564</tmdbid>
+    <imdbid>nm0817027</imdbid>
+  </actor>
+  <actor>
+    <name>Jimmi Simpson</name>
+    <role>Gavin Orsay</role>
+    <type>Actor</type>
+    <tmdbid>22125</tmdbid>
+    <imdbid>nm0801051</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Toth</name>
+    <role>Arnold Silva</role>
+    <type>GuestStar</type>
+    <tmdbid>1054324</tmdbid>
+  </actor>
+  <actor>
+    <name>Reg E. Cathey</name>
+    <role>Freddy</role>
+    <type>GuestStar</type>
+    <tmdbid>38951</tmdbid>
+    <imdbid>nm0146146</imdbid>
+  </actor>
+  <actor>
+    <name>Shawn Doyle</name>
+    <role>Dr. Alan Cooke</role>
+    <type>GuestStar</type>
+    <tmdbid>25878</tmdbid>
+    <imdbid>nm0236495</imdbid>
+  </actor>
+  <actor>
+    <name>Alexander Sokovikov</name>
+    <role>Alexi Moryakov</role>
+    <type>GuestStar</type>
+    <tmdbid>2297008</tmdbid>
+  </actor>
+  <actor>
+    <name>Chuck Cooper</name>
+    <role>Barney Hull</role>
+    <type>GuestStar</type>
+    <tmdbid>4892</tmdbid>
+    <imdbid>nm0177946</imdbid>
+  </actor>
+  <actor>
+    <name>Larry Pine</name>
+    <role>Bob Birch</role>
+    <type>GuestStar</type>
+    <tmdbid>19511</tmdbid>
+  </actor>
+  <director>James Foley</director>
+  <rating>7.6</rating>
+  <year>2015</year>
+  <imdbid>tt3897442</imdbid>
+  <tvdbid>5043399</tvdbid>
+  <runtime>53</runtime>
+  <genre>Drama</genre>
+  <tvrageid>1065581490</tvrageid>
+  <uniqueid type="Imdb">tt3897442</uniqueid>
+  <uniqueid type="Tvdb">5043399</uniqueid>
+  <uniqueid type="TvRage">1065581490</uniqueid>
+  <episode>5</episode>
+  <season>3</season>
+  <aired>2015-02-27</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3770105</bitrate>
+        <width>1920</width>
+        <height>960</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>52</duration>
+        <durationinseconds>3166</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

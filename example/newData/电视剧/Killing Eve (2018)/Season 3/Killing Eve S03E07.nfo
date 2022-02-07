@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Lack of progress in the investigation is frustrating Carolyn. Eve searches for a clue to Villanelle's whereabouts. Villanelle and Dasha team together for a kill. Konstantin is crumbling under pressure.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-06-24 11:47:58</dateadded>
+  <title>漂亮恶人</title>
+  <actor>
+    <name>Sandra Oh</name>
+    <role>Eve Polastri</role>
+    <type>Actor</type>
+    <tmdbid>25540</tmdbid>
+    <imdbid>nm0644897</imdbid>
+  </actor>
+  <actor>
+    <name>Jodie Comer</name>
+    <role>Villanelle</role>
+    <type>Actor</type>
+    <tmdbid>1388593</tmdbid>
+    <imdbid>nm3069650</imdbid>
+  </actor>
+  <actor>
+    <name>Fiona Shaw</name>
+    <role>Carolyn Martens</role>
+    <type>Actor</type>
+    <tmdbid>10981</tmdbid>
+    <imdbid>nm0789716</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Bodnia</name>
+    <role>Konstantin</role>
+    <type>Actor</type>
+    <tmdbid>3398</tmdbid>
+    <imdbid>nm0091035</imdbid>
+  </actor>
+  <actor>
+    <name>Yuli Lagodinsky</name>
+    <role>Irina</role>
+    <type>GuestStar</type>
+    <tmdbid>2107255</tmdbid>
+    <imdbid>nm9868399</imdbid>
+  </actor>
+  <actor>
+    <name>Raj Bajaj</name>
+    <role>Mo Jafari</role>
+    <type>GuestStar</type>
+    <tmdbid>1376876</tmdbid>
+  </actor>
+  <actor>
+    <name>Camille Cottin</name>
+    <role>Hélène</role>
+    <type>GuestStar</type>
+    <tmdbid>1348474</tmdbid>
+  </actor>
+  <actor>
+    <name>Hiftu Quasem</name>
+    <role>Hotel Receptionist</role>
+    <type>GuestStar</type>
+    <tmdbid>1729468</tmdbid>
+  </actor>
+  <actor>
+    <name>Oleg Mirochnikov</name>
+    <role>Detention Center Psychiatrist</role>
+    <type>GuestStar</type>
+    <tmdbid>1599253</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Douglas</name>
+    <role>American Golfer</role>
+    <type>GuestStar</type>
+    <tmdbid>17072</tmdbid>
+    <imdbid>nm0002243</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Cotcher</name>
+    <role>Taxi Driver</role>
+    <type>GuestStar</type>
+    <tmdbid>1242041</tmdbid>
+  </actor>
+  <actor>
+    <name>Harriet Walter</name>
+    <role>Dasha</role>
+    <type>GuestStar</type>
+    <tmdbid>17477</tmdbid>
+    <imdbid>nm0910040</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Bracken</name>
+    <role>Dr. Greer Barrie</role>
+    <type>GuestStar</type>
+    <tmdbid>1240399</tmdbid>
+  </actor>
+  <actor>
+    <name>Gemma Whelan</name>
+    <role>Geraldine</role>
+    <type>GuestStar</type>
+    <tmdbid>1475127</tmdbid>
+    <imdbid>nm2247629</imdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Roach</name>
+    <role>Rhian</role>
+    <type>GuestStar</type>
+    <tmdbid>237020</tmdbid>
+  </actor>
+  <actor>
+    <name>Turlough Convery</name>
+    <role>Bear</role>
+    <type>GuestStar</type>
+    <tmdbid>1474032</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Sapani</name>
+    <role>Jamie</role>
+    <type>GuestStar</type>
+    <tmdbid>165424</tmdbid>
+    <imdbid>nm0764527</imdbid>
+  </actor>
+  <rating>7</rating>
+  <year>2020</year>
+  <imdbid>tt11376854</imdbid>
+  <tvdbid>7694450</tvdbid>
+  <runtime>41</runtime>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt11376854</uniqueid>
+  <uniqueid type="Tvdb">7694450</uniqueid>
+  <episode>7</episode>
+  <season>3</season>
+  <aired>2020-05-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9833738</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>41</duration>
+        <durationinseconds>2481</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

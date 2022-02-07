@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[在一个崎岖不平的星球上迫降后，飞行员设法避难，却面临着内部的威胁。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-14 09:35:50</dateadded>
+  <title>生活小屋</title>
+  <actor>
+    <name>Michael B. Jordan</name>
+    <role>Terence</role>
+    <type>GuestStar</type>
+    <tmdbid>135651</tmdbid>
+    <imdbid>nm0430107</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Bonilla</name>
+    <role>Commander / Pilot (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>61285</tmdbid>
+    <imdbid>nm0094636</imdbid>
+  </actor>
+  <actor>
+    <name>Brian T. Delaney</name>
+    <role>Pilot (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1386148</tmdbid>
+    <imdbid>nm1281932</imdbid>
+  </actor>
+  <director>Alex Beaty</director>
+  <rating>6.1</rating>
+  <year>2021</year>
+  <imdbid>tt14536156</imdbid>
+  <tvdbid>8376694</tvdbid>
+  <runtime>14</runtime>
+  <uniqueid type="Imdb">tt14536156</uniqueid>
+  <uniqueid type="Tvdb">8376694</uniqueid>
+  <episode>7</episode>
+  <season>2</season>
+  <aired>2021-05-14</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4335270</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>13</duration>
+        <durationinseconds>812</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

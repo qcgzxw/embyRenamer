@@ -1,0 +1,217 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[弗兰克让卡尔去吓唬那些正在购买附近房产的女同性恋，同时恳求希拉不要屈服并卖掉她的房子。伊恩对米尔科维奇的房子进行了疯狂的清扫，并要求利普帮助说服曼迪不要和她的虐待狂男友肯雅塔搬到印第安纳州。与此同时，菲奥娜同意与戴维斯去音乐会，卡尔发现一个隐藏的人才，黛比举办了一个疯狂的派对在加拉格尔的房子。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-15 16:56:04</dateadded>
+  <title>两个丽莎</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Noel Fisher</name>
+    <role>Mickey Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>80352</tmdbid>
+    <imdbid>nm0279720</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Bergl</name>
+    <role>Sammi Slott</role>
+    <type>Actor</type>
+    <tmdbid>51390</tmdbid>
+    <imdbid>nm0004749</imdbid>
+  </actor>
+  <actor>
+    <name>Axle Whitehead</name>
+    <role>Davis</role>
+    <type>GuestStar</type>
+    <tmdbid>1247107</tmdbid>
+  </actor>
+  <actor>
+    <name>Dichen Lachman</name>
+    <role>Angela</role>
+    <type>GuestStar</type>
+    <tmdbid>94797</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Greenwell</name>
+    <role>Mandy Milkovich</role>
+    <type>GuestStar</type>
+    <tmdbid>1155473</tmdbid>
+  </actor>
+  <actor>
+    <name>Joan Cusack</name>
+    <role>Sheila Jackson</role>
+    <type>GuestStar</type>
+    <tmdbid>3234</tmdbid>
+    <imdbid>nm0000349</imdbid>
+  </actor>
+  <actor>
+    <name>Lily Holleman</name>
+    <role>Lisa</role>
+    <type>GuestStar</type>
+    <tmdbid>221679</tmdbid>
+  </actor>
+  <actor>
+    <name>James Allen McCune</name>
+    <role>Matty Baker</role>
+    <type>GuestStar</type>
+    <tmdbid>1223879</tmdbid>
+  </actor>
+  <actor>
+    <name>Alessandra Ford Balazs</name>
+    <role>Jackie Scabello</role>
+    <type>GuestStar</type>
+    <tmdbid>2574321</tmdbid>
+  </actor>
+  <actor>
+    <name>Danika Yarosh</name>
+    <role>Holly Herkimer</role>
+    <type>GuestStar</type>
+    <tmdbid>1466613</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenica Bergere</name>
+    <role>Lisa</role>
+    <type>GuestStar</type>
+    <tmdbid>113818</tmdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Bell Calloway</name>
+    <role>Carol Fisher</role>
+    <type>GuestStar</type>
+    <tmdbid>100653</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Patrick McGill</name>
+    <role>Tommy</role>
+    <type>GuestStar</type>
+    <tmdbid>154816</tmdbid>
+    <imdbid>nm1042946</imdbid>
+  </actor>
+  <actor>
+    <name>Kellen Michael</name>
+    <role>Chuckie Slott</role>
+    <type>GuestStar</type>
+    <tmdbid>1809024</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Kazee</name>
+    <role>Gus Pfender</role>
+    <type>GuestStar</type>
+    <tmdbid>207062</tmdbid>
+  </actor>
+  <director>Peter Segal</director>
+  <rating>8.2</rating>
+  <year>2015</year>
+  <imdbid>tt3858934</imdbid>
+  <tvdbid>5006634</tvdbid>
+  <runtime>53</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <tvrageid>1065613552</tvrageid>
+  <uniqueid type="Imdb">tt3858934</uniqueid>
+  <uniqueid type="Tvdb">5006634</uniqueid>
+  <uniqueid type="TvRage">1065613552</uniqueid>
+  <episode>3</episode>
+  <season>5</season>
+  <aired>2015-01-25</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>9338996</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>52</duration>
+        <durationinseconds>3167</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>265-SiGMA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,257 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[伯纳德（Bernard）和斯塔布斯（Stubbs）为了调查利亚姆（Liam），混入了一个私人娱乐场所，而德洛莉丝（Dolores）和凯勒（Caleb）也制定了类似的计划； 黑衣人（William）准备重新回到社会。 梅芙（Maeve）与一位老朋友会面...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-05-21 08:06:58</dateadded>
+  <title>流亡者之母</title>
+  <actor>
+    <name>Evan Rachel Wood</name>
+    <role>Dolores Abernathy</role>
+    <type>Actor</type>
+    <tmdbid>38940</tmdbid>
+    <imdbid>nm0939697</imdbid>
+  </actor>
+  <actor>
+    <name>Thandie Newton</name>
+    <role>Maeve Millay</role>
+    <type>Actor</type>
+    <tmdbid>9030</tmdbid>
+    <imdbid>nm0628601</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Wright</name>
+    <role>Bernard Lowe</role>
+    <type>Actor</type>
+    <tmdbid>2954</tmdbid>
+    <imdbid>nm0942482</imdbid>
+  </actor>
+  <actor>
+    <name>Tessa Thompson</name>
+    <role>Charlotte Hale</role>
+    <type>Actor</type>
+    <tmdbid>62561</tmdbid>
+    <imdbid>nm1935086</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Harris</name>
+    <role>Man in Black</role>
+    <type>Actor</type>
+    <tmdbid>228</tmdbid>
+    <imdbid>nm0000438</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Caleb</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Vincent Cassel</name>
+    <role>Serac</role>
+    <type>Actor</type>
+    <tmdbid>1925</tmdbid>
+    <imdbid>nm0001993</imdbid>
+  </actor>
+  <actor>
+    <name>Luke Hemsworth</name>
+    <role>Ashley Stubbs</role>
+    <type>GuestStar</type>
+    <tmdbid>216986</tmdbid>
+  </actor>
+  <actor>
+    <name>Katja Herbers</name>
+    <role>Grace</role>
+    <type>GuestStar</type>
+    <tmdbid>102137</tmdbid>
+    <imdbid>nm1126156</imdbid>
+  </actor>
+  <actor>
+    <name>Hiroyuki Sanada</name>
+    <role>Musashi</role>
+    <type>GuestStar</type>
+    <tmdbid>9195</tmdbid>
+    <imdbid>nm0760796</imdbid>
+  </actor>
+  <actor>
+    <name>Rafi Gavron</name>
+    <role>Roderick</role>
+    <type>GuestStar</type>
+    <tmdbid>21660</tmdbid>
+    <imdbid>nm1969169</imdbid>
+  </actor>
+  <actor>
+    <name>Phoebe Tonkin</name>
+    <role>Penny</role>
+    <type>GuestStar</type>
+    <tmdbid>145247</tmdbid>
+    <imdbid>nm2100081</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Anweis</name>
+    <role>The Mortician</role>
+    <type>GuestStar</type>
+    <tmdbid>1047718</tmdbid>
+    <imdbid>nm1717882</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Wang</name>
+    <role>Jiang</role>
+    <type>GuestStar</type>
+    <tmdbid>1525022</tmdbid>
+    <imdbid>nm3016639</imdbid>
+  </actor>
+  <actor>
+    <name>Nikki Muller</name>
+    <role>Financial Advisor</role>
+    <type>GuestStar</type>
+    <tmdbid>492693</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Gilleece</name>
+    <role>Michael</role>
+    <type>GuestStar</type>
+    <tmdbid>1512535</tmdbid>
+  </actor>
+  <actor>
+    <name>Kunal Shetty</name>
+    <role>Auctioneer</role>
+    <type>GuestStar</type>
+    <tmdbid>1841032</tmdbid>
+  </actor>
+  <actor>
+    <name>Nelson Lee</name>
+    <role>Limbic Dealer</role>
+    <type>GuestStar</type>
+    <tmdbid>109019</tmdbid>
+    <imdbid>nm1116914</imdbid>
+  </actor>
+  <actor>
+    <name>Toru Uchikado</name>
+    <role>New Yakuza</role>
+    <type>GuestStar</type>
+    <tmdbid>2185973</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoshio Iizuka</name>
+    <role>Yakuza Gangster</role>
+    <type>GuestStar</type>
+    <tmdbid>1333949</tmdbid>
+  </actor>
+  <actor>
+    <name>Bobby Tonelli</name>
+    <role>Attendant</role>
+    <type>GuestStar</type>
+    <tmdbid>1204761</tmdbid>
+  </actor>
+  <actor>
+    <name>Chad Doreck</name>
+    <role>Shop Clerk</role>
+    <type>GuestStar</type>
+    <tmdbid>156075</tmdbid>
+  </actor>
+  <actor>
+    <name>Salif Hardie</name>
+    <role>Waiter</role>
+    <type>GuestStar</type>
+    <tmdbid>2448703</tmdbid>
+  </actor>
+  <actor>
+    <name>Elando Baltimore</name>
+    <role>Handsome Man</role>
+    <type>GuestStar</type>
+    <tmdbid>2442283</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul-Mikél Williams</name>
+    <role>Charlie</role>
+    <type>GuestStar</type>
+    <tmdbid>1975196</tmdbid>
+  </actor>
+  <actor>
+    <name>Zane Rudert</name>
+    <role>Child Serac</role>
+    <type>GuestStar</type>
+    <tmdbid>2599506</tmdbid>
+  </actor>
+  <actor>
+    <name>Rex Rudert</name>
+    <role>Child Jean Mi</role>
+    <type>GuestStar</type>
+    <tmdbid>2599505</tmdbid>
+  </actor>
+  <actor>
+    <name>Tommy Flanagan</name>
+    <role>Martin Connells</role>
+    <type>GuestStar</type>
+    <tmdbid>2478</tmdbid>
+    <imdbid>nm0281107</imdbid>
+  </actor>
+  <actor>
+    <name>John Gallagher Jr.</name>
+    <role>Liam Dempsey</role>
+    <type>GuestStar</type>
+    <tmdbid>17487</tmdbid>
+    <imdbid>nm0302330</imdbid>
+  </actor>
+  <director>Paul Cameron</director>
+  <rating>8.154</rating>
+  <year>2020</year>
+  <imdbid>tt10011152</imdbid>
+  <tvdbid>7578996</tvdbid>
+  <runtime>60</runtime>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt10011152</uniqueid>
+  <uniqueid type="Tvdb">7578996</uniqueid>
+  <episode>4</episode>
+  <season>3</season>
+  <aired>2020-04-05</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9828348</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>60</duration>
+        <durationinseconds>3618</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

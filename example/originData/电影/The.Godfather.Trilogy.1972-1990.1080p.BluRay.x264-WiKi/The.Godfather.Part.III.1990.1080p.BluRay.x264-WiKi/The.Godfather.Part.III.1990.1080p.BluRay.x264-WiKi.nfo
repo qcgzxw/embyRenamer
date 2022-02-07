@@ -1,0 +1,594 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[转眼间已经是1979年，第二代教父麦克·柯里昂到了垂暮之年，为了灵魂的救赎，麦克慢慢结束家族的黑道事业，转投正当生意。麦克的儿子托尼酷爱艺术，无意接手家族事业，迈克尔决定让大哥逊尼的私生子，火爆好色的文森继承家业，当第三代教父。麦克的爱女玛丽和文森相恋，遭到父亲的反对，父女渐渐疏远。为了使家族资产合法化，麦克通过在梵蒂冈教廷的关系网，准备投资“屹立”集团，却遭到敌人的暗中阻挠，教皇的去世也让事情更加扑朔迷离。麦克无奈之下，只能重新选择用暴力解决问题，他的亲人也被卷入了这场血雨腥风。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-12 22:44:20</dateadded>
+  <title>教父3</title>
+  <originaltitle>The Godfather: Part III</originaltitle>
+  <actor>
+    <name>Al Pacino</name>
+    <role>Don Michael Corleone</role>
+    <type>Actor</type>
+    <tmdbid>1158</tmdbid>
+    <imdbid>nm0000199</imdbid>
+  </actor>
+  <actor>
+    <name>Diane Keaton</name>
+    <role>Kay Adams Michelson</role>
+    <type>Actor</type>
+    <tmdbid>3092</tmdbid>
+  </actor>
+  <actor>
+    <name>Talia Shire</name>
+    <role>Connie Corleone-Rizzi</role>
+    <type>Actor</type>
+    <tmdbid>3094</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy García</name>
+    <role>Don Vincent 'Vinnie' Mancini-Corleone</role>
+    <type>Actor</type>
+    <tmdbid>1271</tmdbid>
+    <imdbid>nm0000412</imdbid>
+  </actor>
+  <actor>
+    <name>Eli Wallach</name>
+    <role>Don Altobello</role>
+    <type>Actor</type>
+    <tmdbid>3265</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Mantegna</name>
+    <role>Joey Zasa</role>
+    <type>Actor</type>
+    <tmdbid>3266</tmdbid>
+  </actor>
+  <actor>
+    <name>George Hamilton</name>
+    <role>B.J. Harrison</role>
+    <type>Actor</type>
+    <tmdbid>3267</tmdbid>
+  </actor>
+  <actor>
+    <name>Bridget Fonda</name>
+    <role>Grace Hamilton</role>
+    <type>Actor</type>
+    <tmdbid>2233</tmdbid>
+  </actor>
+  <actor>
+    <name>Sofia Coppola</name>
+    <role>Mary Corleone</role>
+    <type>Actor</type>
+    <tmdbid>1769</tmdbid>
+  </actor>
+  <actor>
+    <name>Raf Vallone</name>
+    <role>Cardinal Lamberto</role>
+    <type>Actor</type>
+    <tmdbid>3268</tmdbid>
+  </actor>
+  <actor>
+    <name>Franc D'Ambrosio</name>
+    <role>Anthony Vito Corleone/Turiddu</role>
+    <type>Actor</type>
+    <tmdbid>3269</tmdbid>
+  </actor>
+  <actor>
+    <name>Donal Donnelly</name>
+    <role>Archbishop Gilday</role>
+    <type>Actor</type>
+    <tmdbid>168632</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Bright</name>
+    <role>Al Neri</role>
+    <type>Actor</type>
+    <tmdbid>3174</tmdbid>
+  </actor>
+  <actor>
+    <name>Helmut Berger</name>
+    <role>Frederick Keinszig</role>
+    <type>Actor</type>
+    <tmdbid>32058</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Novello</name>
+    <role>Dominic Abbandando</role>
+    <type>Actor</type>
+    <tmdbid>161860</tmdbid>
+  </actor>
+  <actor>
+    <name>John Savage</name>
+    <role>Father Andrew Hagen</role>
+    <type>Actor</type>
+    <tmdbid>47879</tmdbid>
+  </actor>
+  <actor>
+    <name>Franco Citti</name>
+    <role>Calo</role>
+    <type>Actor</type>
+    <tmdbid>44860</tmdbid>
+  </actor>
+  <actor>
+    <name>Mario Donatone</name>
+    <role>Mosca</role>
+    <type>Actor</type>
+    <tmdbid>103060</tmdbid>
+  </actor>
+  <actor>
+    <name>Vittorio Duse</name>
+    <role>Don Tommasino</role>
+    <type>Actor</type>
+    <tmdbid>32676</tmdbid>
+  </actor>
+  <actor>
+    <name>Enzo Robutti</name>
+    <role>Don Licio Lucchesi</role>
+    <type>Actor</type>
+    <tmdbid>122022</tmdbid>
+  </actor>
+  <actor>
+    <name>Michele Russo</name>
+    <role>Spara</role>
+    <type>Actor</type>
+    <tmdbid>982447</tmdbid>
+  </actor>
+  <actor>
+    <name>Al Martino</name>
+    <role>Johnny Fontane</role>
+    <type>Actor</type>
+    <tmdbid>3144</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Cicchini</name>
+    <role>Lou Pennino</role>
+    <type>Actor</type>
+    <tmdbid>156431</tmdbid>
+  </actor>
+  <actor>
+    <name>Rogerio Miranda</name>
+    <role>Twin Bodyguard Armand</role>
+    <type>Actor</type>
+    <tmdbid>982212</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Miranda</name>
+    <role>Twin Bodyguard Francesco</role>
+    <type>Actor</type>
+    <tmdbid>1754681</tmdbid>
+  </actor>
+  <actor>
+    <name>Vito Antuofermo</name>
+    <role>Anthony 'The Ant' Squigliaro</role>
+    <type>Actor</type>
+    <tmdbid>1169885</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Vento</name>
+    <role>Father John</role>
+    <type>Actor</type>
+    <tmdbid>1169886</tmdbid>
+  </actor>
+  <actor>
+    <name>Willie Brown</name>
+    <role>Party Politician</role>
+    <type>Actor</type>
+    <tmdbid>196286</tmdbid>
+    <imdbid>nm0114922</imdbid>
+  </actor>
+  <actor>
+    <name>Jeannie Linero</name>
+    <role>Lucy Mancini</role>
+    <type>Actor</type>
+    <tmdbid>167363</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeanne Savarino Pesch</name>
+    <role>Francesca Corleone</role>
+    <type>Actor</type>
+    <tmdbid>1169887</tmdbid>
+  </actor>
+  <actor>
+    <name>Janet Savarino Smith</name>
+    <role>Kathryn Corleone</role>
+    <type>Actor</type>
+    <tmdbid>1169888</tmdbid>
+  </actor>
+  <actor>
+    <name>Tere Livrano</name>
+    <role>Teresa Hagen</role>
+    <type>Actor</type>
+    <tmdbid>982089</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmine Caridi</name>
+    <role>Albert Volpe</role>
+    <type>Actor</type>
+    <tmdbid>133853</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Costello</name>
+    <role>Frank Romano</role>
+    <type>Actor</type>
+    <tmdbid>1209294</tmdbid>
+  </actor>
+  <actor>
+    <name>Al Ruscio</name>
+    <role>Leo Cuneo</role>
+    <type>Actor</type>
+    <tmdbid>37254</tmdbid>
+  </actor>
+  <actor>
+    <name>Mickey Knox</name>
+    <role>Marty Parisi</role>
+    <type>Actor</type>
+    <tmdbid>46418</tmdbid>
+  </actor>
+  <actor>
+    <name>Rick Aviles</name>
+    <role>Mask #1</role>
+    <type>Actor</type>
+    <tmdbid>3432</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Bowen</name>
+    <role>Mask #2</role>
+    <type>Actor</type>
+    <tmdbid>2234</tmdbid>
+    <imdbid>nm0100889</imdbid>
+  </actor>
+  <actor>
+    <name>Brett Halsey</name>
+    <role>Douglas Michelson</role>
+    <type>Actor</type>
+    <tmdbid>31896</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriele Torrei</name>
+    <role>Enzo the Baker</role>
+    <type>Actor</type>
+    <tmdbid>138211</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Freilino</name>
+    <role>Stockholder</role>
+    <type>Actor</type>
+    <tmdbid>572009</tmdbid>
+  </actor>
+  <actor>
+    <name>Gregory Corso</name>
+    <role>Unruly Stockholder</role>
+    <type>Actor</type>
+    <tmdbid>1129756</tmdbid>
+  </actor>
+  <actor>
+    <name>Marino Masé</name>
+    <role>Lupo</role>
+    <type>Actor</type>
+    <tmdbid>39151</tmdbid>
+  </actor>
+  <actor>
+    <name>Dado Ruspoli</name>
+    <role>Vanni</role>
+    <type>Actor</type>
+    <tmdbid>1158359</tmdbid>
+  </actor>
+  <actor>
+    <name>Valeria Sabel</name>
+    <role>Sister Vincenza</role>
+    <type>Actor</type>
+    <tmdbid>44977</tmdbid>
+  </actor>
+  <actor>
+    <name>Remo Remotti</name>
+    <role>Cardinal Sistine</role>
+    <type>Actor</type>
+    <tmdbid>76344</tmdbid>
+  </actor>
+  <actor>
+    <name>Luigi Laezza</name>
+    <role>Keinszig Killer</role>
+    <type>Actor</type>
+    <tmdbid>1650293</tmdbid>
+  </actor>
+  <actor>
+    <name>Giuseppe Pianviti</name>
+    <role>Keinszig Killer</role>
+    <type>Actor</type>
+    <tmdbid>1397074</tmdbid>
+  </actor>
+  <actor>
+    <name>Santo Indelicato</name>
+    <role>Guardia del Corpo</role>
+    <type>Actor</type>
+    <tmdbid>1962645</tmdbid>
+  </actor>
+  <actor>
+    <name>Simonetta Stefanelli</name>
+    <role>Apollonia Vitelli-Corleone</role>
+    <type>Actor</type>
+    <tmdbid>3145</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesco Paolo Bellante</name>
+    <role>Autista di Don Tommasino</role>
+    <type>Actor</type>
+    <tmdbid>1962648</tmdbid>
+  </actor>
+  <actor>
+    <name>Paco Reconti</name>
+    <role>Gesu</role>
+    <type>Actor</type>
+    <tmdbid>27201</tmdbid>
+  </actor>
+  <actor>
+    <name>Mimmo Cuticchio</name>
+    <role>Puppet Narrator</role>
+    <type>Actor</type>
+    <tmdbid>228567</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Honigman</name>
+    <role>Party Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1962649</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicky Blair</name>
+    <role>Nicky the Casino Host</role>
+    <type>Actor</type>
+    <tmdbid>16669</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony Guidera</name>
+    <role>Anthony, the Bodyguard</role>
+    <type>Actor</type>
+    <tmdbid>42731</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Tarsia</name>
+    <role>Frankie, the Bodyguard</role>
+    <type>Actor</type>
+    <tmdbid>1962650</tmdbid>
+  </actor>
+  <actor>
+    <name>Diana Agostini</name>
+    <role>Woman with Child at Street Fair</role>
+    <type>Actor</type>
+    <tmdbid>1699974</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica DiCicco</name>
+    <role>Child (as Jessica Di Ciccio)</role>
+    <type>Actor</type>
+    <tmdbid>94820</tmdbid>
+  </actor>
+  <actor>
+    <name>Catherine Scorsese</name>
+    <role>Woman in Cafe</role>
+    <type>Actor</type>
+    <tmdbid>11483</tmdbid>
+  </actor>
+  <actor>
+    <name>Ida Bernardini</name>
+    <role>Woman in Cafe</role>
+    <type>Actor</type>
+    <tmdbid>1446484</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Drago</name>
+    <role>Party Security</role>
+    <type>Actor</type>
+    <tmdbid>52859</tmdbid>
+  </actor>
+  <actor>
+    <name>David Hume Kennerly</name>
+    <role>Party Photographer</role>
+    <type>Actor</type>
+    <tmdbid>1962654</tmdbid>
+  </actor>
+  <actor>
+    <name>James D. Damiano</name>
+    <role>Son Playing Soccer</role>
+    <type>Actor</type>
+    <tmdbid>1962656</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Boccio</name>
+    <role>Father of Soccer Player</role>
+    <type>Actor</type>
+    <tmdbid>1962657</tmdbid>
+  </actor>
+  <actor>
+    <name>Ludovico Caldarera</name>
+    <role>Young Priest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1382323</tmdbid>
+  </actor>
+  <actor>
+    <name>R. Emmett Fitzsimmons</name>
+    <role>Mob Boss (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>174671</tmdbid>
+  </actor>
+  <actor>
+    <name>Salvatore Borgese</name>
+    <role>Lucchesi Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>49458</tmdbid>
+    <imdbid>nm0096613</imdbid>
+  </actor>
+  <actor>
+    <name>Salvatore Billa</name>
+    <role>Lucchesi Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>240914</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Ferrara</name>
+    <role>Zaza's Bodyguard</role>
+    <type>Actor</type>
+    <tmdbid>142159</tmdbid>
+  </actor>
+  <actor>
+    <name>Gia Coppola</name>
+    <role>Connie's Granddaughter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1193602</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Fontana</name>
+    <role>St. Gennaro Feast Mob Guy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1962660</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Maldone</name>
+    <role>Zasa's Bodyguard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1512402</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Devon</name>
+    <role>Mob Family Lawyer at Church (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>80167</tmdbid>
+  </actor>
+  <actor>
+    <name>Anton Coppola</name>
+    <role>Conductor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1962661</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmine Coppola</name>
+    <role>Bandleader (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2872</tmdbid>
+  </actor>
+  <actor>
+    <name>Ron Jeremy</name>
+    <role>Man Chewing Toothpick (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>42545</tmdbid>
+  </actor>
+  <actor>
+    <name>F.X. Vitolo</name>
+    <role>Pasquale (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>78975</tmdbid>
+  </actor>
+  <actor>
+    <name>David L. Thompson</name>
+    <role>Party Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>107179</tmdbid>
+  </actor>
+  <actor>
+    <name>Angelo Romero</name>
+    <role>Alfio (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1924436</tmdbid>
+  </actor>
+  <actor>
+    <name>Madelyn Renée Monti</name>
+    <role>Lola (singing voice)</role>
+    <type>Actor</type>
+    <tmdbid>1962665</tmdbid>
+  </actor>
+  <actor>
+    <name>Luciano Foti</name>
+    <role>Audience Member (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1140832</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Albanese</name>
+    <role>Grand Marshall at St. Gennaro Feast (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1507690</tmdbid>
+  </actor>
+  <actor>
+    <name>John Abineri</name>
+    <role>Hamilton Banker</role>
+    <type>Actor</type>
+    <tmdbid>133122</tmdbid>
+  </actor>
+  <director tmdbid="1776">Francis Ford Coppola</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=z8h3LVb8cl8</trailer>
+  <rating>7.6</rating>
+  <year>1990</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0099674</imdbid>
+  <tmdbid>242</tmdbid>
+  <premiered>1990-12-25</premiered>
+  <releasedate>1990-12-25</releasedate>
+  <criticrating>68</criticrating>
+  <runtime>170</runtime>
+  <country>Italy</country>
+  <country>United States of America</country>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <studio>Paramount</studio>
+  <set tmdbcolid="230">
+    <name>教父（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">242</uniqueid>
+  <uniqueid type="Imdb">tt0099674</uniqueid>
+  <id>tt0099674</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>19350483</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>170</duration>
+        <durationinseconds>10215</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

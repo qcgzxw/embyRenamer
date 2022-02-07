@@ -1,0 +1,354 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Jimmy and Kim build a legal firewall with help from Huell; Kim sets things straight with her clients as Jimmy is compromised by his; Gus calms troubled waters in service of his plot to build an empire; Mike does damage control.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-07-25 20:23:18</dateadded>
+  <title>JMM</title>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Jimmy McGill</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Rhea Seehorn</name>
+    <role>Kim Wexler</role>
+    <type>Actor</type>
+    <tmdbid>62765</tmdbid>
+    <imdbid>nm0781533</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Fabian</name>
+    <role>Howard Hamlin</role>
+    <type>Actor</type>
+    <tmdbid>58791</tmdbid>
+    <imdbid>nm0264579</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Mando</name>
+    <role>Nacho Varga</role>
+    <type>Actor</type>
+    <tmdbid>829372</tmdbid>
+    <imdbid>nm3103126</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Dalton</name>
+    <role>Lalo Salamanca</role>
+    <type>Actor</type>
+    <tmdbid>76855</tmdbid>
+    <imdbid>nm0198366</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Caio Cavalcante</name>
+    <role>Petrelli</role>
+    <type>GuestStar</type>
+    <tmdbid>2586487</tmdbid>
+  </actor>
+  <actor>
+    <name>Lavell Crawford</name>
+    <role>Huell Babineaux</role>
+    <type>GuestStar</type>
+    <tmdbid>564348</tmdbid>
+    <imdbid>nm1089417</imdbid>
+  </actor>
+  <actor>
+    <name>Kerry Condon</name>
+    <role>Stacey Ehrmantraut</role>
+    <type>GuestStar</type>
+    <tmdbid>62105</tmdbid>
+    <imdbid>nm0174403</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Fraser</name>
+    <role>Lydia Rodarte-Quayle</role>
+    <type>GuestStar</type>
+    <tmdbid>42279</tmdbid>
+    <imdbid>nm0292182</imdbid>
+  </actor>
+  <actor>
+    <name>Cara Pifko</name>
+    <role>Paige Novick</role>
+    <type>GuestStar</type>
+    <tmdbid>265855</tmdbid>
+    <imdbid>nm0682999</imdbid>
+  </actor>
+  <actor>
+    <name>Rex Linn</name>
+    <role>Kevin Wachtell</role>
+    <type>GuestStar</type>
+    <tmdbid>16937</tmdbid>
+    <imdbid>nm0513010</imdbid>
+  </actor>
+  <actor>
+    <name>Nigel Gibbs</name>
+    <role>Detective Tim Roberts</role>
+    <type>GuestStar</type>
+    <tmdbid>11915</tmdbid>
+    <imdbid>nm0316708</imdbid>
+  </actor>
+  <actor>
+    <name>Norbert Weisser</name>
+    <role>Peter Schuler</role>
+    <type>GuestStar</type>
+    <tmdbid>6701</tmdbid>
+    <imdbid>nm0919256</imdbid>
+  </actor>
+  <actor>
+    <name>Dan Martin</name>
+    <role>Judge Xavier Parson</role>
+    <type>GuestStar</type>
+    <tmdbid>95796</tmdbid>
+    <imdbid>nm0520901</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Hoffmaster</name>
+    <role>Judge Gerard Velber</role>
+    <type>GuestStar</type>
+    <tmdbid>1224161</tmdbid>
+    <imdbid>nm1687798</imdbid>
+  </actor>
+  <actor>
+    <name>Juliet Donenfeld</name>
+    <role>Kaylee</role>
+    <type>GuestStar</type>
+    <tmdbid>1914669</tmdbid>
+  </actor>
+  <actor>
+    <name>Alison Yates</name>
+    <role>Cleo Epstein</role>
+    <type>GuestStar</type>
+    <tmdbid>1957194</tmdbid>
+  </actor>
+  <actor>
+    <name>Dennis Boutsikaris</name>
+    <role>Rick Schweikart</role>
+    <type>GuestStar</type>
+    <tmdbid>118937</tmdbid>
+    <imdbid>nm0100381</imdbid>
+  </actor>
+  <actor>
+    <name>Saidah Arrika Ekulona</name>
+    <role>ADA Gina Khalil</role>
+    <type>GuestStar</type>
+    <tmdbid>171754</tmdbid>
+    <imdbid>nm1029241</imdbid>
+  </actor>
+  <director>Melissa Bernstein</director>
+  <rating>8.5</rating>
+  <year>2020</year>
+  <imdbid>tt8772216</imdbid>
+  <tvdbid>7555475</tvdbid>
+  <runtime>48</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt8772216</uniqueid>
+  <uniqueid type="Tvdb">7555475</uniqueid>
+  <episode>7</episode>
+  <season>5</season>
+  <aired>2020-03-30</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>23636229</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>48</duration>
+        <durationinseconds>2883</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ice</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

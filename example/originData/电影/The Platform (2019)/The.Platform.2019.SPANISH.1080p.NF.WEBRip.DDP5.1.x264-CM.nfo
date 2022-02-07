@@ -1,0 +1,471 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一个不太遥远的将来，反社会制度的公民格伦自愿将自己监禁起来，希望他的行为能够改变现有制度。但被囚禁后他变得如此激进，行事也变得不惜代价……要理解他人性改变的轨迹，我们需要了解他的监狱：监狱坑——“环形监狱”的排列方式，不知数目的楼层被垂直堆叠起来，从中间被掏空。每天，装满食物的平台从顶层降下。它会在每一层停留几分钟，越往上层的人约能吃得饱，而位于底层的人则在为吃剩的食物而战……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-03-31 11:31:02</dateadded>
+  <title>饥饿站台</title>
+  <originaltitle>El hoyo</originaltitle>
+  <actor>
+    <name>Ivan Massagué</name>
+    <role>Goreng</role>
+    <type>Actor</type>
+    <tmdbid>31422</tmdbid>
+    <imdbid>nm1293644</imdbid>
+  </actor>
+  <actor>
+    <name>Antonia San Juan</name>
+    <role>Imoguiri</role>
+    <type>Actor</type>
+    <tmdbid>961</tmdbid>
+    <imdbid>nm0760665</imdbid>
+  </actor>
+  <actor>
+    <name>Zorion Eguileor</name>
+    <role>Trimagasi</role>
+    <type>Actor</type>
+    <tmdbid>970993</tmdbid>
+    <imdbid>nm1445349</imdbid>
+  </actor>
+  <actor>
+    <name>Emilio Buale</name>
+    <role>Baharat</role>
+    <type>Actor</type>
+    <tmdbid>1031961</tmdbid>
+    <imdbid>nm0117763</imdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Masangkay</name>
+    <role>Miharu</role>
+    <type>Actor</type>
+    <tmdbid>1640347</tmdbid>
+    <imdbid>nm4724329</imdbid>
+  </actor>
+  <actor>
+    <name>Zihara Llana</name>
+    <role>Mali</role>
+    <type>Actor</type>
+    <tmdbid>2574975</tmdbid>
+  </actor>
+  <actor>
+    <name>Mario Pardo</name>
+    <role>Baharat's Friend</role>
+    <type>Actor</type>
+    <tmdbid>237352</tmdbid>
+    <imdbid>nm0661118</imdbid>
+  </actor>
+  <actor>
+    <name>Algis Arlauskas</name>
+    <role>Inmate #1</role>
+    <type>Actor</type>
+    <tmdbid>560153</tmdbid>
+    <imdbid>nm0035131</imdbid>
+  </actor>
+  <actor>
+    <name>Txubio Fernández de Jáuregui</name>
+    <role>Chef</role>
+    <type>Actor</type>
+    <tmdbid>1489884</tmdbid>
+    <imdbid>nm3393199</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Goode</name>
+    <role>Mr. Brambang</role>
+    <type>Actor</type>
+    <tmdbid>1829145</tmdbid>
+  </actor>
+  <actor>
+    <name>Óscar Oliver</name>
+    <role>Cook #1</role>
+    <type>Actor</type>
+    <tmdbid>2374024</tmdbid>
+  </actor>
+  <actor>
+    <name>Chema Trujillo</name>
+    <role>Level 5 Male Inmate</role>
+    <type>Actor</type>
+    <tmdbid>2574977</tmdbid>
+  </actor>
+  <actor>
+    <name>Miriam Martín</name>
+    <role>Level 5 Female Inmate</role>
+    <type>Actor</type>
+    <tmdbid>1385566</tmdbid>
+  </actor>
+  <actor>
+    <name>Gorka Zufiaurre</name>
+    <role>Inmate #2</role>
+    <type>Actor</type>
+    <tmdbid>1391915</tmdbid>
+    <imdbid>nm6358293</imdbid>
+  </actor>
+  <actor>
+    <name>Miriam K. Martxante</name>
+    <role>Cook #2</role>
+    <type>Actor</type>
+    <tmdbid>2574979</tmdbid>
+  </actor>
+  <actor>
+    <name>Miren Gaztañaga</name>
+    <role>Cook #3</role>
+    <type>Actor</type>
+    <tmdbid>1795540</tmdbid>
+  </actor>
+  <actor>
+    <name>Braulio Cortés</name>
+    <role>Cook #4</role>
+    <type>Actor</type>
+    <tmdbid>2574980</tmdbid>
+  </actor>
+  <actor>
+    <name>Javier Mediavilla</name>
+    <role>Cook #5</role>
+    <type>Actor</type>
+    <tmdbid>2574982</tmdbid>
+  </actor>
+  <actor>
+    <name>Álvaro Orellana</name>
+    <role>Cook #6</role>
+    <type>Actor</type>
+    <tmdbid>2574983</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Dopico</name>
+    <role>Cook #7</role>
+    <type>Actor</type>
+    <tmdbid>2574985</tmdbid>
+  </actor>
+  <actor>
+    <name>Lian Xushao</name>
+    <role>Cook #8</role>
+    <type>Actor</type>
+    <tmdbid>2574987</tmdbid>
+  </actor>
+  <director tmdbid="2374023">Galder Gaztelu-Urrutia</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7a3o-00k0qg</trailer>
+  <rating>7</rating>
+  <year>2019</year>
+  <mpaa>NC-17</mpaa>
+  <imdbid>tt8228288</imdbid>
+  <tmdbid>619264</tmdbid>
+  <premiered>2019-11-08</premiered>
+  <releasedate>2019-11-08</releasedate>
+  <criticrating>80</criticrating>
+  <runtime>95</runtime>
+  <country>Spain</country>
+  <genre>剧情</genre>
+  <genre>科幻</genre>
+  <genre>惊悚</genre>
+  <studio>Basque Films</studio>
+  <studio>Mr. Miyagi</studio>
+  <studio>Consejería de Cultura del Gobierno Vasco</studio>
+  <studio>Instituto de la Cinematografía y de las Artes Audiovisuales (ICAA)</studio>
+  <studio>TVE</studio>
+  <studio>EiTB</studio>
+  <uniqueid type="Tmdb">619264</uniqueid>
+  <uniqueid type="Imdb">tt8228288</uniqueid>
+  <id>tt8228288</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>8269877</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>94</duration>
+        <durationinseconds>5690</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

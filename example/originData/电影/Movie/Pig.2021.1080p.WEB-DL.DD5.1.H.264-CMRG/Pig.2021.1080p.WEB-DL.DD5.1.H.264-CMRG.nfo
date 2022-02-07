@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一名松露猎手(凯奇饰)独自居住在俄勒冈州的野外，当他心爱的觅食猪被绑架后，他必须前往波特兰，带着自己被抛弃的过往，去拯救那只猪。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-19 22:36:49</dateadded>
+  <title>猪</title>
+  <originaltitle>Pig</originaltitle>
+  <actor>
+    <name>Nicolas Cage</name>
+    <role>Robin Feld</role>
+    <type>Actor</type>
+    <tmdbid>2963</tmdbid>
+    <imdbid>nm0000115</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Wolff</name>
+    <role>Amir</role>
+    <type>Actor</type>
+    <tmdbid>934281</tmdbid>
+    <imdbid>nm1842974</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Arkin</name>
+    <role>Darius</role>
+    <type>Actor</type>
+    <tmdbid>55257</tmdbid>
+    <imdbid>nm0035060</imdbid>
+  </actor>
+  <actor>
+    <name>Nina Belforte</name>
+    <role>Charlotte</role>
+    <type>Actor</type>
+    <tmdbid>3125984</tmdbid>
+  </actor>
+  <actor>
+    <name>Gretchen Corbett</name>
+    <role>Mac</role>
+    <type>Actor</type>
+    <tmdbid>79734</tmdbid>
+  </actor>
+  <actor>
+    <name>Dalene Young</name>
+    <role>Jezebel</role>
+    <type>Actor</type>
+    <tmdbid>942560</tmdbid>
+  </actor>
+  <actor>
+    <name>Darius Pierce</name>
+    <role>Edgar</role>
+    <type>Actor</type>
+    <tmdbid>2087317</tmdbid>
+  </actor>
+  <actor>
+    <name>Elijah Ungvary</name>
+    <role>Scratch</role>
+    <type>Actor</type>
+    <tmdbid>1700997</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Sutherland</name>
+    <role>Drunk Man</role>
+    <type>Actor</type>
+    <tmdbid>1102514</tmdbid>
+  </actor>
+  <actor>
+    <name>David Knell</name>
+    <role>Finway</role>
+    <type>Actor</type>
+    <tmdbid>41253</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Tarjyoto</name>
+    <role>Dishwasher</role>
+    <type>Actor</type>
+    <tmdbid>1209877</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Walton</name>
+    <role>Butcher Joe</role>
+    <type>Actor</type>
+    <tmdbid>2089258</tmdbid>
+  </actor>
+  <actor>
+    <name>Dana Millican</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>1252505</tmdbid>
+  </actor>
+  <actor>
+    <name>October Moore</name>
+    <role>Helen</role>
+    <type>Actor</type>
+    <tmdbid>1732069</tmdbid>
+  </actor>
+  <actor>
+    <name>Cassandra Violet</name>
+    <role>Lori</role>
+    <type>Actor</type>
+    <tmdbid>3158876</tmdbid>
+  </actor>
+  <actor>
+    <name>Julia Bray</name>
+    <role>Bree</role>
+    <type>Actor</type>
+    <tmdbid>1113557</tmdbid>
+  </actor>
+  <actor>
+    <name>Beth Harper</name>
+    <role>Donna</role>
+    <type>Actor</type>
+    <tmdbid>3158880</tmdbid>
+  </actor>
+  <actor>
+    <name>David Shaughnessy</name>
+    <role>Audiobook Narrator</role>
+    <type>Actor</type>
+    <tmdbid>193254</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin-Michael Moore</name>
+    <role>Dennis</role>
+    <type>Actor</type>
+    <tmdbid>1495078</tmdbid>
+  </actor>
+  <actor>
+    <name>Davis King</name>
+    <role>Bryce</role>
+    <type>Actor</type>
+    <tmdbid>3158888</tmdbid>
+  </actor>
+  <actor>
+    <name>Cody Burns</name>
+    <role>Server (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3158889</tmdbid>
+  </actor>
+  <actor>
+    <name>Kieran Thomas</name>
+    <role>Server (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3160834</tmdbid>
+  </actor>
+  <actor>
+    <name>Parker Green</name>
+    <role>Kid with Bike (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2482013</tmdbid>
+  </actor>
+  <actor>
+    <name>Kent W. Luttrell</name>
+    <role>Skinny Cook (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1954125</tmdbid>
+  </actor>
+  <actor>
+    <name>Troy Oelke</name>
+    <role>Truffle Hunter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3160823</tmdbid>
+  </actor>
+  <actor>
+    <name>Jovani Ridler</name>
+    <role>Dominatrix (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3160825</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Salfelder</name>
+    <role>Toothless Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3160830</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamie Martin Stewart</name>
+    <role>Bar Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3160831</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Vasic</name>
+    <role>Husband (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3160835</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Wilson</name>
+    <role>Scorekeeper (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2597919</tmdbid>
+  </actor>
+  <director tmdbid="2580328">Michael Sarnoski</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1i-_CRKdh4Y</trailer>
+  <rating>7</rating>
+  <year>2021</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt11003218</imdbid>
+  <tmdbid>635731</tmdbid>
+  <premiered>2021-07-16</premiered>
+  <releasedate>2021-07-16</releasedate>
+  <runtime>92</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <studio>AI-Film</studio>
+  <studio>Pulse Films</studio>
+  <studio>Saturn Films</studio>
+  <studio>Valparaiso Pictures</studio>
+  <studio>BlockBox Entertainment</studio>
+  <studio>Sweet Tomato Films</studio>
+  <studio>Escape Artists</studio>
+  <studio>Neon</studio>
+  <uniqueid type="Tmdb">635731</uniqueid>
+  <uniqueid type="Imdb">tt11003218</uniqueid>
+  <id>tt11003218</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6991679</bitrate>
+        <width>1916</width>
+        <height>800</height>
+        <aspect>479:200</aspect>
+        <aspectratio>479:200</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5510</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,896 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[桑德拉·布洛克饰演的Debbie Ocean是《十一罗汉》集团头目乔治·克鲁尼饰演的Danny Ocean的妹妹，曾因盗窃入狱服刑。而黛比刚一出狱就策划惊天大案，与凯特·布兰切特饰演的好友一起网罗顶尖高手，准备在一年一度的时尚盛会Met Gala（纽约大都会艺术博物馆慈善舞会）上盗取由安妮·海瑟薇饰演的大明星所佩戴，价值一亿五千万美金的卡地亚钻石项链。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-08-27 14:10:41</dateadded>
+  <title>瞒天过海：美人计</title>
+  <originaltitle>Ocean's Eight</originaltitle>
+  <actor>
+    <name>Cate Blanchett</name>
+    <role>Lou Miller</role>
+    <type>Actor</type>
+    <tmdbid>112</tmdbid>
+    <imdbid>nm0000949</imdbid>
+  </actor>
+  <actor>
+    <name>Sandra Bullock</name>
+    <role>Debbie Ocean</role>
+    <type>Actor</type>
+    <tmdbid>18277</tmdbid>
+    <imdbid>nm0000113</imdbid>
+  </actor>
+  <actor>
+    <name>Anne Hathaway</name>
+    <role>Daphne Kluger</role>
+    <type>Actor</type>
+    <tmdbid>1813</tmdbid>
+    <imdbid>nm0004266</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Paulson</name>
+    <role>Tammy</role>
+    <type>Actor</type>
+    <tmdbid>34490</tmdbid>
+    <imdbid>nm0005299</imdbid>
+  </actor>
+  <actor>
+    <name>Awkwafina</name>
+    <role>Constance</role>
+    <type>Actor</type>
+    <tmdbid>1625558</tmdbid>
+    <imdbid>nm5377144</imdbid>
+  </actor>
+  <actor>
+    <name>Mindy Kaling</name>
+    <role>Amita</role>
+    <type>Actor</type>
+    <tmdbid>125167</tmdbid>
+    <imdbid>nm1411676</imdbid>
+  </actor>
+  <actor>
+    <name>Helena Bonham Carter</name>
+    <role>Rose Weil</role>
+    <type>Actor</type>
+    <tmdbid>1283</tmdbid>
+    <imdbid>nm0000307</imdbid>
+  </actor>
+  <actor>
+    <name>Rihanna</name>
+    <role>Leslie "Nine Ball"</role>
+    <type>Actor</type>
+    <tmdbid>131519</tmdbid>
+    <imdbid>nm1982597</imdbid>
+  </actor>
+  <actor>
+    <name>Dakota Fanning</name>
+    <role>Penelope Stern</role>
+    <type>Actor</type>
+    <tmdbid>501</tmdbid>
+    <imdbid>nm0266824</imdbid>
+  </actor>
+  <actor>
+    <name>Midori Francis</name>
+    <role>April</role>
+    <type>Actor</type>
+    <tmdbid>1984116</tmdbid>
+    <imdbid>nm6377764</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Hauck</name>
+    <role>Omaha Banker #1</role>
+    <type>Actor</type>
+    <tmdbid>1333666</tmdbid>
+    <imdbid>nm3069619</imdbid>
+  </actor>
+  <actor>
+    <name>Elliott Gould</name>
+    <role>Reuben Tishkoff</role>
+    <type>Actor</type>
+    <tmdbid>827</tmdbid>
+    <imdbid>nm0001285</imdbid>
+  </actor>
+  <actor>
+    <name>Daniella Rabbani</name>
+    <role>Bergdorf Salesperson</role>
+    <type>Actor</type>
+    <tmdbid>1427970</tmdbid>
+    <imdbid>nm4313350</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Armitage</name>
+    <role>Claude Becker</role>
+    <type>Actor</type>
+    <tmdbid>30315</tmdbid>
+    <imdbid>nm0035514</imdbid>
+  </actor>
+  <actor>
+    <name>Katherine Hozier-Adams</name>
+    <role>Plaza Hotel Front Desk Clerk</role>
+    <type>Actor</type>
+    <tmdbid>2632955</tmdbid>
+  </actor>
+  <actor>
+    <name>Freddy J. Davila</name>
+    <role>Plaza Hotel Doorman</role>
+    <type>Actor</type>
+    <tmdbid>2632956</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesca Calò</name>
+    <role>Plaza Hotel Maid</role>
+    <type>Actor</type>
+    <tmdbid>1878439</tmdbid>
+  </actor>
+  <actor>
+    <name>Gemma Forbes</name>
+    <role>Mrs. Randall</role>
+    <type>Actor</type>
+    <tmdbid>1690581</tmdbid>
+  </actor>
+  <actor>
+    <name>Katie Holmes</name>
+    <role>Katie Holmes (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>3897</tmdbid>
+    <imdbid>nm0005017</imdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Kirk</name>
+    <role>Cara</role>
+    <type>Actor</type>
+    <tmdbid>1352662</tmdbid>
+    <imdbid>nm5016840</imdbid>
+  </actor>
+  <actor>
+    <name>Deidre Goodwin</name>
+    <role>Prison Guard</role>
+    <type>Actor</type>
+    <tmdbid>17642</tmdbid>
+    <imdbid>nm1129963</imdbid>
+  </actor>
+  <actor>
+    <name>Sas Goldberg</name>
+    <role>Press Conference Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1323566</tmdbid>
+    <imdbid>nm4581341</imdbid>
+  </actor>
+  <actor>
+    <name>Linda Atkinson</name>
+    <role>Chairwoman</role>
+    <type>Actor</type>
+    <tmdbid>2111148</tmdbid>
+  </actor>
+  <actor>
+    <name>Griffin Dunne</name>
+    <role>Parole Board Officer (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2171</tmdbid>
+    <imdbid>nm0001162</imdbid>
+  </actor>
+  <actor>
+    <name>David Gibson</name>
+    <role>Omaha Banker #2</role>
+    <type>Actor</type>
+    <tmdbid>2305430</tmdbid>
+    <imdbid>nm0316930</imdbid>
+  </actor>
+  <actor>
+    <name>Whitney White</name>
+    <role>Cynthia</role>
+    <type>Actor</type>
+    <tmdbid>2632986</tmdbid>
+  </actor>
+  <actor>
+    <name>Craig Waletzko</name>
+    <role>Omaha Banker #3</role>
+    <type>Actor</type>
+    <tmdbid>2632957</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian J. Carter</name>
+    <role>Mr. Randall</role>
+    <type>Actor</type>
+    <tmdbid>1990619</tmdbid>
+  </actor>
+  <actor>
+    <name>Naheed Khan</name>
+    <role>Amita's Mother</role>
+    <type>Actor</type>
+    <tmdbid>2632980</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexandre De Betak</name>
+    <role>Fashion Show Designer</role>
+    <type>Actor</type>
+    <tmdbid>2632978</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Stephen</name>
+    <role>3 Card Monty Chump</role>
+    <type>Actor</type>
+    <tmdbid>1861156</tmdbid>
+  </actor>
+  <actor>
+    <name>Timothy Woods</name>
+    <role>Derek</role>
+    <type>Actor</type>
+    <tmdbid>1900389</tmdbid>
+    <imdbid>nm8673146</imdbid>
+  </actor>
+  <actor>
+    <name>Talia Cuomo</name>
+    <role>Keri</role>
+    <type>Actor</type>
+    <tmdbid>2632988</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Prendergast</name>
+    <role>Charlie</role>
+    <type>Actor</type>
+    <tmdbid>1726159</tmdbid>
+    <imdbid>nm5960896</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Robichaux</name>
+    <role>Lawrence</role>
+    <type>Actor</type>
+    <tmdbid>1467970</tmdbid>
+    <imdbid>nm1767468</imdbid>
+  </actor>
+  <actor>
+    <name>Alexander Blaise</name>
+    <role>Cartier President</role>
+    <type>Actor</type>
+    <tmdbid>1257863</tmdbid>
+    <imdbid>nm0086432</imdbid>
+  </actor>
+  <actor>
+    <name>Asher Bailey</name>
+    <role>Tinder Boy</role>
+    <type>Actor</type>
+    <tmdbid>2633431</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Anthony Wilson</name>
+    <role>Met American Wing Guard</role>
+    <type>Actor</type>
+    <tmdbid>127070</tmdbid>
+    <imdbid>nm0933096</imdbid>
+  </actor>
+  <actor>
+    <name>Damian Young</name>
+    <role>David Welch</role>
+    <type>Actor</type>
+    <tmdbid>109144</tmdbid>
+    <imdbid>nm0949433</imdbid>
+  </actor>
+  <actor>
+    <name>Gideon Glick</name>
+    <role>Kyle McCallister</role>
+    <type>Actor</type>
+    <tmdbid>130228</tmdbid>
+    <imdbid>nm1921376</imdbid>
+  </actor>
+  <actor>
+    <name>James Hindman</name>
+    <role>Paul Damanian</role>
+    <type>Actor</type>
+    <tmdbid>1460932</tmdbid>
+    <imdbid>nm1159218</imdbid>
+  </actor>
+  <actor>
+    <name>Eaddy Kiernan</name>
+    <role>Eaddy</role>
+    <type>Actor</type>
+    <tmdbid>2633432</tmdbid>
+  </actor>
+  <actor>
+    <name>David Little</name>
+    <role>Bingo Master</role>
+    <type>Actor</type>
+    <tmdbid>170924</tmdbid>
+    <imdbid>nm0514539</imdbid>
+  </actor>
+  <actor>
+    <name>Liana Wright-Mark</name>
+    <role>Gallery Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>2633433</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Batyr</name>
+    <role>Maitre'd</role>
+    <type>Actor</type>
+    <tmdbid>1858919</tmdbid>
+  </actor>
+  <actor>
+    <name>Clark Carmichael</name>
+    <role>Undercover Man</role>
+    <type>Actor</type>
+    <tmdbid>1956107</tmdbid>
+    <imdbid>nm1028513</imdbid>
+  </actor>
+  <actor>
+    <name>Nancy Lemenager</name>
+    <role>Undercover Woman</role>
+    <type>Actor</type>
+    <tmdbid>2090808</tmdbid>
+    <imdbid>nm2591166</imdbid>
+  </actor>
+  <actor>
+    <name>Bianca LaVerne Jones</name>
+    <role>Detective</role>
+    <type>Actor</type>
+    <tmdbid>1562986</tmdbid>
+    <imdbid>nm2340833</imdbid>
+  </actor>
+  <actor>
+    <name>McNally Sagal</name>
+    <role>Detective Morris</role>
+    <type>Actor</type>
+    <tmdbid>148632</tmdbid>
+    <imdbid>nm0755968</imdbid>
+  </actor>
+  <actor>
+    <name>Caitlin Mehner</name>
+    <role>Pamela</role>
+    <type>Actor</type>
+    <tmdbid>227989</tmdbid>
+    <imdbid>nm2790561</imdbid>
+  </actor>
+  <actor>
+    <name>James Biberi</name>
+    <role>Yuri</role>
+    <type>Actor</type>
+    <tmdbid>37156</tmdbid>
+    <imdbid>nm0080866</imdbid>
+  </actor>
+  <actor>
+    <name>Migs Govea</name>
+    <role>Guillermo</role>
+    <type>Actor</type>
+    <tmdbid>1900394</tmdbid>
+    <imdbid>nm2787243</imdbid>
+  </actor>
+  <actor>
+    <name>Nathanya Alexander</name>
+    <role>Veronica</role>
+    <type>Actor</type>
+    <tmdbid>1748130</tmdbid>
+    <imdbid>nm7134779</imdbid>
+  </actor>
+  <actor>
+    <name>Natasha Harper</name>
+    <role>Museum Gala Head Waiter</role>
+    <type>Actor</type>
+    <tmdbid>2633434</tmdbid>
+  </actor>
+  <actor>
+    <name>Shannon Freyer</name>
+    <role>Lorraine</role>
+    <type>Actor</type>
+    <tmdbid>1568613</tmdbid>
+  </actor>
+  <actor>
+    <name>Grant Hyun</name>
+    <role>Hipster Customer</role>
+    <type>Actor</type>
+    <tmdbid>2371244</tmdbid>
+  </actor>
+  <actor>
+    <name>Tatiana Spottiswoode</name>
+    <role>Hipster Customer</role>
+    <type>Actor</type>
+    <tmdbid>2633472</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward Barsamian</name>
+    <role>Vogue Red Carpet Host</role>
+    <type>Actor</type>
+    <tmdbid>2633473</tmdbid>
+  </actor>
+  <actor>
+    <name>Whit Anderson</name>
+    <role>Museum Gala Host</role>
+    <type>Actor</type>
+    <tmdbid>2633474</tmdbid>
+  </actor>
+  <actor>
+    <name>Conor Donovan</name>
+    <role>Bus Boy #1</role>
+    <type>Actor</type>
+    <tmdbid>82754</tmdbid>
+    <imdbid>nm1331627</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Gandolfini</name>
+    <role>Bus Boy #2</role>
+    <type>Actor</type>
+    <tmdbid>1900369</tmdbid>
+    <imdbid>nm6408859</imdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Kieffer</name>
+    <role>Museum Gala Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>1716825</tmdbid>
+    <imdbid>nm0452395</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Brown</name>
+    <role>Gala Great Hall Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>207324</tmdbid>
+    <imdbid>nm0114018</imdbid>
+  </actor>
+  <actor>
+    <name>James Corden</name>
+    <role>John Frazier</role>
+    <type>Actor</type>
+    <tmdbid>55466</tmdbid>
+    <imdbid>nm0179479</imdbid>
+  </actor>
+  <actor>
+    <name>Marlo Thomas</name>
+    <role>Rene</role>
+    <type>Actor</type>
+    <tmdbid>104997</tmdbid>
+    <imdbid>nm0005486</imdbid>
+  </actor>
+  <actor>
+    <name>Dana Ivey</name>
+    <role>Diana</role>
+    <type>Actor</type>
+    <tmdbid>13314</tmdbid>
+    <imdbid>nm0412374</imdbid>
+  </actor>
+  <actor>
+    <name>Mary Louise Wilson</name>
+    <role>Marlene</role>
+    <type>Actor</type>
+    <tmdbid>115767</tmdbid>
+    <imdbid>nm0933840</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Ashley</name>
+    <role>Ethel</role>
+    <type>Actor</type>
+    <tmdbid>44845</tmdbid>
+    <imdbid>nm0039051</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Feil</name>
+    <role>Yardley Executive #1</role>
+    <type>Actor</type>
+    <tmdbid>1327371</tmdbid>
+    <imdbid>nm2339276</imdbid>
+  </actor>
+  <actor>
+    <name>Suzanne Jaehne</name>
+    <role>Yardley Executive #4</role>
+    <type>Actor</type>
+    <tmdbid>1689649</tmdbid>
+  </actor>
+  <actor>
+    <name>Doug Yasuda</name>
+    <role>Yardley Executive</role>
+    <type>Actor</type>
+    <tmdbid>1454094</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert G. McKay</name>
+    <role>Detective</role>
+    <type>Actor</type>
+    <tmdbid>122257</tmdbid>
+    <imdbid>nm1134599</imdbid>
+  </actor>
+  <actor>
+    <name>Soraya Butler</name>
+    <role>Auctioneer</role>
+    <type>Actor</type>
+    <tmdbid>1784485</tmdbid>
+  </actor>
+  <actor>
+    <name>Jill Marie Lawrence</name>
+    <role>Costume Exhibit Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>94438</tmdbid>
+    <imdbid>nm1036652</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel May Wong</name>
+    <role>Costume Exhibit Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>1811949</tmdbid>
+  </actor>
+  <actor>
+    <name>Waris Ahluwalia</name>
+    <role>Waris Ahluwalia</role>
+    <type>Actor</type>
+    <tmdbid>5301</tmdbid>
+    <imdbid>nm1753302</imdbid>
+  </actor>
+  <actor>
+    <name>Lily Aldridge</name>
+    <role>Lily Aldridge</role>
+    <type>Actor</type>
+    <tmdbid>1127051</tmdbid>
+    <imdbid>nm3891601</imdbid>
+  </actor>
+  <actor>
+    <name>Dennis Basso</name>
+    <role>Dennis Basso</role>
+    <type>Actor</type>
+    <tmdbid>2633477</tmdbid>
+  </actor>
+  <actor>
+    <name>Derek Blasberg</name>
+    <role>Derek Blasberg</role>
+    <type>Actor</type>
+    <tmdbid>1748133</tmdbid>
+    <imdbid>nm4134046</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Bolton</name>
+    <role>Andrew Bolton</role>
+    <type>Actor</type>
+    <tmdbid>1603156</tmdbid>
+    <imdbid>nm3783703</imdbid>
+  </actor>
+  <actor>
+    <name>Hamish Bowles</name>
+    <role>Hamish Bowles</role>
+    <type>Actor</type>
+    <tmdbid>1128876</tmdbid>
+    <imdbid>nm0101233</imdbid>
+  </actor>
+  <actor>
+    <name>Leon Bridges</name>
+    <role>Leon Bridges</role>
+    <type>Actor</type>
+    <tmdbid>1551765</tmdbid>
+    <imdbid>nm5910736</imdbid>
+  </actor>
+  <actor>
+    <name>Cindy Bruna</name>
+    <role>Cindy Bruna</role>
+    <type>Actor</type>
+    <tmdbid>1701031</tmdbid>
+  </actor>
+  <actor>
+    <name>Common</name>
+    <role>Common</role>
+    <type>Actor</type>
+    <tmdbid>4238</tmdbid>
+    <imdbid>nm0996669</imdbid>
+  </actor>
+  <actor>
+    <name>Desiigner</name>
+    <role>Desiigner</role>
+    <type>Actor</type>
+    <tmdbid>1805323</tmdbid>
+    <imdbid>nm8137369</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Ewers</name>
+    <role>Anna Ewers</role>
+    <type>Actor</type>
+    <tmdbid>2633490</tmdbid>
+  </actor>
+  <actor>
+    <name>Tonne Goodman</name>
+    <role>Tonne Goodman</role>
+    <type>Actor</type>
+    <tmdbid>1128877</tmdbid>
+    <imdbid>nm3997421</imdbid>
+  </actor>
+  <actor>
+    <name>Adriana Lima</name>
+    <role>Adriana Lima</role>
+    <type>Actor</type>
+    <tmdbid>209198</tmdbid>
+    <imdbid>nm0992596</imdbid>
+  </actor>
+  <actor>
+    <name>Wes Gordon</name>
+    <role>Wes Gordon</role>
+    <type>Actor</type>
+    <tmdbid>2633492</tmdbid>
+  </actor>
+  <actor>
+    <name>Prabal Gurung</name>
+    <role>Prabal Gurung</role>
+    <type>Actor</type>
+    <tmdbid>2540800</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Harvey</name>
+    <role>Matt Harvey</role>
+    <type>Actor</type>
+    <tmdbid>49806</tmdbid>
+    <imdbid>nm2791452</imdbid>
+  </actor>
+  <actor>
+    <name>Dee Hilfiger</name>
+    <role>Dee Hilfiger</role>
+    <type>Actor</type>
+    <tmdbid>2633494</tmdbid>
+  </actor>
+  <actor>
+    <name>Tommy Hilfiger</name>
+    <role>Tommy Hilfiger</role>
+    <type>Actor</type>
+    <tmdbid>77068</tmdbid>
+    <imdbid>nm0383966</imdbid>
+  </actor>
+  <actor>
+    <name>Aerin Lauder</name>
+    <role>Aerin Lauder</role>
+    <type>Actor</type>
+    <tmdbid>2633504</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Mangold</name>
+    <role>Nick Mangold</role>
+    <type>Actor</type>
+    <tmdbid>2407558</tmdbid>
+  </actor>
+  <actor>
+    <name>John McEnroe</name>
+    <role>John McEnroe</role>
+    <type>Actor</type>
+    <tmdbid>215157</tmdbid>
+    <imdbid>nm0568501</imdbid>
+  </actor>
+  <actor>
+    <name>Wendi Murdoch</name>
+    <role>Wendi Murdoch</role>
+    <type>Actor</type>
+    <tmdbid>1380435</tmdbid>
+    <imdbid>nm3684595</imdbid>
+  </actor>
+  <actor>
+    <name>Olivia Munn</name>
+    <role>Olivia Munn</role>
+    <type>Actor</type>
+    <tmdbid>81364</tmdbid>
+    <imdbid>nm1601397</imdbid>
+  </actor>
+  <actor>
+    <name>Kimberly Pauley</name>
+    <role>Kimberly Pauley</role>
+    <type>Actor</type>
+    <tmdbid>2633506</tmdbid>
+  </actor>
+  <actor>
+    <name>Rainey Qualley</name>
+    <role>Rainey Qualley</role>
+    <type>Actor</type>
+    <tmdbid>1008554</tmdbid>
+    <imdbid>nm3958585</imdbid>
+  </actor>
+  <actor>
+    <name>Jaime King</name>
+    <role>Jaime King</role>
+    <type>Actor</type>
+    <tmdbid>5915</tmdbid>
+    <imdbid>nm0454809</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Wintour</name>
+    <role>Anna Wintour</role>
+    <type>Actor</type>
+    <tmdbid>89815</tmdbid>
+    <imdbid>nm1659661</imdbid>
+  </actor>
+  <actor>
+    <name>Amy Robach</name>
+    <role>Amy Robach</role>
+    <type>Actor</type>
+    <tmdbid>1232736</tmdbid>
+    <imdbid>nm1670678</imdbid>
+  </actor>
+  <actor>
+    <name>Hailey Bieber</name>
+    <role>Hailey Baldwin</role>
+    <type>Actor</type>
+    <tmdbid>1742091</tmdbid>
+    <imdbid>nm2440257</imdbid>
+  </actor>
+  <actor>
+    <name>Sofia Sanchez de Betak</name>
+    <role>Sofia Sanchez de Betak</role>
+    <type>Actor</type>
+    <tmdbid>2633507</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Sharapova</name>
+    <role>Maria Sharapova</role>
+    <type>Actor</type>
+    <tmdbid>1218644</tmdbid>
+    <imdbid>nm1682495</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Simkhai</name>
+    <role>Jonathan Simkhai</role>
+    <type>Actor</type>
+    <tmdbid>2633515</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Wang</name>
+    <role>Alexander Wang</role>
+    <type>Actor</type>
+    <tmdbid>1686427</tmdbid>
+    <imdbid>nm4207412</imdbid>
+  </actor>
+  <actor>
+    <name>Wen Liu</name>
+    <role>Wen Liu</role>
+    <type>Actor</type>
+    <tmdbid>1431124</tmdbid>
+  </actor>
+  <actor>
+    <name>Sofia Richie</name>
+    <role>Sofia Richie</role>
+    <type>Actor</type>
+    <tmdbid>2087914</tmdbid>
+    <imdbid>nm6512373</imdbid>
+  </actor>
+  <actor>
+    <name>Serena Williams</name>
+    <role>Serena Williams</role>
+    <type>Actor</type>
+    <tmdbid>1214573</tmdbid>
+    <imdbid>nm1102987</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Winklevoss</name>
+    <role>Cameron Winklevoss</role>
+    <type>Actor</type>
+    <tmdbid>1713351</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyler Winklevoss</name>
+    <role>Tyler Winklevoss</role>
+    <type>Actor</type>
+    <tmdbid>1713353</tmdbid>
+  </actor>
+  <actor>
+    <name>Kendall Jenner</name>
+    <role>Kendall Jenner</role>
+    <type>Actor</type>
+    <tmdbid>1549005</tmdbid>
+    <imdbid>nm2832525</imdbid>
+  </actor>
+  <actor>
+    <name>Gigi Hadid</name>
+    <role>Gigi Hadid</role>
+    <type>Actor</type>
+    <tmdbid>1305687</tmdbid>
+    <imdbid>nm4676882</imdbid>
+  </actor>
+  <actor>
+    <name>Georgia Witkin</name>
+    <role>Dr. Georgia Witkin</role>
+    <type>Actor</type>
+    <tmdbid>2633574</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Wu</name>
+    <role>Jason Wu</role>
+    <type>Actor</type>
+    <tmdbid>571566</tmdbid>
+    <imdbid>nm3506635</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Kardashian West</name>
+    <role>Kim Kardashian West</role>
+    <type>Actor</type>
+    <tmdbid>212225</tmdbid>
+    <imdbid>nm2578007</imdbid>
+  </actor>
+  <actor>
+    <name>Kylie Jenner</name>
+    <role>Kylie Jenner</role>
+    <type>Actor</type>
+    <tmdbid>1695682</tmdbid>
+    <imdbid>nm2832473</imdbid>
+  </actor>
+  <actor>
+    <name>Zac Posen</name>
+    <role>Zac Posen (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1251123</tmdbid>
+  </actor>
+  <actor>
+    <name>Shaobo Qin</name>
+    <role>Yen (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1900</tmdbid>
+    <imdbid>nm0702660</imdbid>
+  </actor>
+  <actor>
+    <name>Griffin Newman</name>
+    <role>Conned Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>225377</tmdbid>
+    <imdbid>nm1969645</imdbid>
+  </actor>
+  <actor>
+    <name>Heidi Klum</name>
+    <role>Self (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>10584</tmdbid>
+    <imdbid>nm0005099</imdbid>
+  </actor>
+  <actor>
+    <name>Lauren Santo Domingo</name>
+    <role>Lauren Santo Domingo (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1748132</tmdbid>
+  </actor>
+  <actor>
+    <name>Nina Cuso</name>
+    <role>Vogue Editor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1900381</tmdbid>
+    <imdbid>nm8569954</imdbid>
+  </actor>
+  <director tmdbid="23964" imdbid="nm0002657">Gary Ross</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MFWF9dU5Zc0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=n5LoVcVsiSQ</trailer>
+  <rating>6.9</rating>
+  <year>2018</year>
+  <mpaa>HK-IIA</mpaa>
+  <imdbid>tt5164214</imdbid>
+  <tmdbid>402900</tmdbid>
+  <premiered>2018-06-07</premiered>
+  <releasedate>2018-06-07</releasedate>
+  <criticrating>69</criticrating>
+  <runtime>110</runtime>
+  <country>United States of America</country>
+  <genre>犯罪</genre>
+  <genre>喜剧</genre>
+  <genre>动作</genre>
+  <studio>Village Roadshow Pictures</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>Larger Than Life Productions</studio>
+  <studio>Rahway Road Productions</studio>
+  <studio>Smoke House Pictures</studio>
+  <uniqueid type="Tmdb">402900</uniqueid>
+  <uniqueid type="Imdb">tt5164214</uniqueid>
+  <id>tt5164214</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1997187</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>110</duration>
+        <durationinseconds>6607</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127913</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

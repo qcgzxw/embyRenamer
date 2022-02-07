@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Felix 非常确定他的妻子对她的老板 Dmitri 有事，所以他决定聘请一些帮助以一种或另一种方式证明事情。 当专业唇读者 Iris 带着她强大的双筒望远镜到达时，这对夫妇在酒店卧室放样，并开始收集他们的证据。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-17 14:13:20</dateadded>
+  <title>唇语服务</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>GuestStar</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>GuestStar</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Sian Clifford</name>
+    <role>Iris</role>
+    <type>GuestStar</type>
+    <tmdbid>1648728</tmdbid>
+    <imdbid>nm5427486</imdbid>
+  </actor>
+  <actor>
+    <name>Charles Armstrong</name>
+    <role>Home Secretary</role>
+    <type>GuestStar</type>
+    <tmdbid>1356913</tmdbid>
+  </actor>
+  <director>Guillem Morales</director>
+  <rating>8</rating>
+  <year>2021</year>
+  <imdbid>tt14543424</imdbid>
+  <tvdbid>8417824</tvdbid>
+  <runtime>29</runtime>
+  <uniqueid type="Tvdb">8417824</uniqueid>
+  <uniqueid type="Imdb">tt14543424</uniqueid>
+  <episode>3</episode>
+  <season>6</season>
+  <aired>2021-05-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2411259</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1745</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

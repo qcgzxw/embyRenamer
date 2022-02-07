@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[佩妮的前男友扎克再次出现，向霍夫斯塔特家提出不同寻常的请求。拉杰什试图拯救他与安努的恋情。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 00:17:33</dateadded>
+  <title>借精生子</title>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Leonard Hofstadter</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>Howard Wolowitz</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Nayyar</name>
+    <role>Rajesh Koothrappali</role>
+    <type>Actor</type>
+    <tmdbid>208099</tmdbid>
+    <imdbid>nm2471798</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa Rauch</name>
+    <role>Bernadette Rostenkowski</role>
+    <type>Actor</type>
+    <tmdbid>1221716</tmdbid>
+    <imdbid>nm1851981</imdbid>
+  </actor>
+  <actor>
+    <name>Mayim Bialik</name>
+    <role>Amy Farrah Fowler</role>
+    <type>Actor</type>
+    <tmdbid>167640</tmdbid>
+    <imdbid>nm0080524</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Sussman</name>
+    <role>Stuart Bloom</role>
+    <type>Actor</type>
+    <tmdbid>60633</tmdbid>
+    <imdbid>nm0839934</imdbid>
+  </actor>
+  <actor>
+    <name>Brian George</name>
+    <role>V.M. Koothrappali</role>
+    <type>GuestStar</type>
+    <tmdbid>58511</tmdbid>
+    <imdbid>nm0313364</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Thomas Smith</name>
+    <role>Zack Johnson</role>
+    <type>GuestStar</type>
+    <tmdbid>1215595</tmdbid>
+    <imdbid>nm1705502</imdbid>
+  </actor>
+  <actor>
+    <name>Rati Gupta</name>
+    <role>Anu</role>
+    <type>GuestStar</type>
+    <tmdbid>932790</tmdbid>
+    <imdbid>nm3552499</imdbid>
+  </actor>
+  <actor>
+    <name>Shay Ali</name>
+    <role>Greg</role>
+    <type>GuestStar</type>
+    <tmdbid>1880813</tmdbid>
+    <imdbid>nm4280847</imdbid>
+  </actor>
+  <actor>
+    <name>Chip Chinery</name>
+    <role>Bob</role>
+    <type>GuestStar</type>
+    <tmdbid>155692</tmdbid>
+    <imdbid>nm0157842</imdbid>
+  </actor>
+  <actor>
+    <name>Lindsey Kraft</name>
+    <role>Marissa Johnson</role>
+    <type>GuestStar</type>
+    <tmdbid>95521</tmdbid>
+    <imdbid>nm1837970</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>6.2</rating>
+  <year>2019</year>
+  <imdbid>tt6674708</imdbid>
+  <tvdbid>6938260</tvdbid>
+  <runtime>20</runtime>
+  <uniqueid type="Tvdb">6938260</uniqueid>
+  <uniqueid type="Imdb">tt6674708</uniqueid>
+  <episode>12</episode>
+  <season>12</season>
+  <aired>2019-01-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4560601</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1196</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

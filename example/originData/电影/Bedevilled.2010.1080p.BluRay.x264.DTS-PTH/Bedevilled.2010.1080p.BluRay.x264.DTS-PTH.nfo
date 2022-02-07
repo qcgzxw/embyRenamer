@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[在首尔金融业独自打拼的单身女子郑海媛（池成媛 饰）自然承受来自方方面面的巨大压力，她的情绪越来越紧张，最终不得不被迫休假。利用假期，海媛回到阔别已久的家乡无岛。这里风景秀美，民风粗犷甚至有些野蛮，男尊女卑的现象依然十分严重。海媛重逢了童年的玩伴金福南（徐英姬 饰），这是一个温和开朗、任劳任怨的女人，但是她的丈夫和家人都视其为猪狗，任意欺负和凌辱。福南希望女儿小燕拥有更好的人生，只是在这个蛮荒所在，人的尊严被肆意践踏。巨大的压力下，逆来顺受的福南化身为悲剧的复仇女王……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-02 06:25:06</dateadded>
+  <title>金福南杀人事件始末</title>
+  <originaltitle>김복남 살인사건의 전말</originaltitle>
+  <actor>
+    <name>Seo Young-hee</name>
+    <role>Kim Bok-Nam</role>
+    <type>Actor</type>
+    <tmdbid>75914</tmdbid>
+  </actor>
+  <actor>
+    <name>Hwang Geum-hee</name>
+    <role>Hae-Won</role>
+    <type>Actor</type>
+    <tmdbid>1414400</tmdbid>
+  </actor>
+  <actor>
+    <name>Baek Su-Ryeon</name>
+    <role>Dong-ho's grandma</role>
+    <type>Actor</type>
+    <tmdbid>1190219</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Jeong-hak</name>
+    <role>Man-jong</role>
+    <type>Actor</type>
+    <tmdbid>17125</tmdbid>
+  </actor>
+  <actor>
+    <name>Bae Sung-woo</name>
+    <role>Cheol-Jong</role>
+    <type>Actor</type>
+    <tmdbid>573794</tmdbid>
+    <imdbid>nm3755026</imdbid>
+  </actor>
+  <actor>
+    <name>Oh Yong</name>
+    <role>Deuk-Soo</role>
+    <type>Actor</type>
+    <tmdbid>1191165</tmdbid>
+  </actor>
+  <actor>
+    <name>Hwang Min-Ho</name>
+    <role>Dodgers</role>
+    <type>Actor</type>
+    <tmdbid>229727</tmdbid>
+  </actor>
+  <actor>
+    <name>Je Min</name>
+    <role>prostitute</role>
+    <type>Actor</type>
+    <tmdbid>229728</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Ji-Eun</name>
+    <role>Yeon-hee</role>
+    <type>Actor</type>
+    <tmdbid>229729</tmdbid>
+  </actor>
+  <actor>
+    <name>Son Young-soon</name>
+    <role>Soon-Yi</role>
+    <type>Actor</type>
+    <tmdbid>1099795</tmdbid>
+  </actor>
+  <actor>
+    <name>Tak Sung-Eun</name>
+    <role>Ji-Soo</role>
+    <type>Actor</type>
+    <tmdbid>1084660</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeong Gi-seop</name>
+    <role>Police corporal Choi</role>
+    <type>Actor</type>
+    <tmdbid>139514</tmdbid>
+  </actor>
+  <actor>
+    <name>Hong Seung-jin</name>
+    <role>Yankees</role>
+    <type>Actor</type>
+    <tmdbid>229755</tmdbid>
+  </actor>
+  <actor>
+    <name>Jo Deok-jae</name>
+    <role>Police Officer Seo</role>
+    <type>Actor</type>
+    <tmdbid>564848</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoo Soon-chul</name>
+    <role>Dementia Granddad</role>
+    <type>Actor</type>
+    <tmdbid>1567063</tmdbid>
+  </actor>
+  <director tmdbid="548666">Jang Cheol-soo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=QBvo4TvbDBU</trailer>
+  <rating>7.3</rating>
+  <year>2010</year>
+  <imdbid>tt1646959</imdbid>
+  <tmdbid>59421</tmdbid>
+  <premiered>2010-08-19</premiered>
+  <releasedate>2010-08-19</releasedate>
+  <criticrating>82</criticrating>
+  <runtime>116</runtime>
+  <country>South Korea</country>
+  <genre>惊悚</genre>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <genre>恐怖</genre>
+  <studio>Filma Pictures</studio>
+  <studio>Tori Pictures</studio>
+  <studio>Sponge Ent.</studio>
+  <uniqueid type="Tmdb">59421</uniqueid>
+  <uniqueid type="Imdb">tt1646959</uniqueid>
+  <id>tt1646959</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>12259509</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6949</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

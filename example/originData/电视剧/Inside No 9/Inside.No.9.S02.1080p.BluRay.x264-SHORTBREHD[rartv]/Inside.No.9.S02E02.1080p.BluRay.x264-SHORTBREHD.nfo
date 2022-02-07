@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[当克莉丝汀从一个化妆舞会带回家时，她的生活开始瓦解。她的快乐慢慢变成了悲伤。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-06 12:36:02</dateadded>
+  <title>克里斯汀的12天</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Sheridan Smith</name>
+    <role>Christine</role>
+    <type>GuestStar</type>
+    <tmdbid>110080</tmdbid>
+    <imdbid>nm0809956</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Riley</name>
+    <role>Adam</role>
+    <type>GuestStar</type>
+    <tmdbid>47702</tmdbid>
+    <imdbid>nm2068559</imdbid>
+  </actor>
+  <actor>
+    <name>Stacy Liu</name>
+    <role>Fung</role>
+    <type>GuestStar</type>
+    <tmdbid>1457448</tmdbid>
+  </actor>
+  <actor>
+    <name>Michele Dotrice</name>
+    <role>Marion</role>
+    <type>GuestStar</type>
+    <tmdbid>96188</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Ellerby</name>
+    <role>Zara</role>
+    <type>GuestStar</type>
+    <tmdbid>1085177</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Copley</name>
+    <role>Ernie</role>
+    <type>GuestStar</type>
+    <tmdbid>116975</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Little</name>
+    <role>Jack</role>
+    <type>GuestStar</type>
+    <tmdbid>1457449</tmdbid>
+  </actor>
+  <actor>
+    <name>Dexter Little</name>
+    <role>Jack</role>
+    <type>GuestStar</type>
+    <tmdbid>1457450</tmdbid>
+  </actor>
+  <rating>8.333</rating>
+  <year>2015</year>
+  <imdbid>tt4513410</imdbid>
+  <tvdbid>5157102</tvdbid>
+  <runtime>29</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Horror</genre>
+  <uniqueid type="Imdb">tt4513410</uniqueid>
+  <uniqueid type="Tvdb">5157102</uniqueid>
+  <episode>2</episode>
+  <season>2</season>
+  <aired>2015-04-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10596837</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1769</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

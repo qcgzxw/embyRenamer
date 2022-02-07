@@ -1,0 +1,416 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[多米尼克（范·迪塞尔 饰）在率领伙伴大干一票收获1亿美金之后，大家环游全球逍遥快活，可带罪之身注定无法衣锦还乡与家人团聚。此时霍布斯（道恩·强森 饰）正率领手下缉拿一个在12个国家流窜作案的雇佣兵犯罪集团，该集团头目（卢克·伊万斯 饰）狡猾奸诈，而机智能干的副手居然是“死而复生”的多米尼克旧爱莱蒂（米歇尔·罗德里格兹 饰）！在对抗中渐落下风的霍布斯想到了一个两全之计：招募多米尼克团伙与雇佣兵集团对抗……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-04 02:20:50</dateadded>
+  <title>速度与激情6</title>
+  <originaltitle>Fast &amp; Furious 6</originaltitle>
+  <actor>
+    <name>Vin Diesel</name>
+    <role>Dominic Toretto</role>
+    <type>Actor</type>
+    <tmdbid>12835</tmdbid>
+    <imdbid>nm0004874</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Walker</name>
+    <role>Brian O'Conner</role>
+    <type>Actor</type>
+    <tmdbid>8167</tmdbid>
+  </actor>
+  <actor>
+    <name>Dwayne Johnson</name>
+    <role>Luke Hobbs</role>
+    <type>Actor</type>
+    <tmdbid>18918</tmdbid>
+    <imdbid>nm0425005</imdbid>
+  </actor>
+  <actor>
+    <name>Jordana Brewster</name>
+    <role>Mia Toretto</role>
+    <type>Actor</type>
+    <tmdbid>22123</tmdbid>
+    <imdbid>nm0108287</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Rodriguez</name>
+    <role>Leticia 'Letty' Ortiz</role>
+    <type>Actor</type>
+    <tmdbid>17647</tmdbid>
+    <imdbid>nm0735442</imdbid>
+  </actor>
+  <actor>
+    <name>Tyrese Gibson</name>
+    <role>Roman Pearce</role>
+    <type>Actor</type>
+    <tmdbid>8169</tmdbid>
+  </actor>
+  <actor>
+    <name>Sung Kang</name>
+    <role>Han Lue</role>
+    <type>Actor</type>
+    <tmdbid>61697</tmdbid>
+    <imdbid>nm0437646</imdbid>
+  </actor>
+  <actor>
+    <name>Gal Gadot</name>
+    <role>Gisele Yashar</role>
+    <type>Actor</type>
+    <tmdbid>90633</tmdbid>
+    <imdbid>nm2933757</imdbid>
+  </actor>
+  <actor>
+    <name>Ludacris</name>
+    <role>Tej Parker</role>
+    <type>Actor</type>
+    <tmdbid>8171</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke Evans</name>
+    <role>Owen Shaw</role>
+    <type>Actor</type>
+    <tmdbid>114019</tmdbid>
+  </actor>
+  <actor>
+    <name>Elsa Pataky</name>
+    <role>Elena Neves</role>
+    <type>Actor</type>
+    <tmdbid>73269</tmdbid>
+    <imdbid>nm0665235</imdbid>
+  </actor>
+  <actor>
+    <name>Gina Carano</name>
+    <role>Riley</role>
+    <type>Actor</type>
+    <tmdbid>78452</tmdbid>
+  </actor>
+  <actor>
+    <name>Clara Paget</name>
+    <role>Vegh</role>
+    <type>Actor</type>
+    <tmdbid>1258227</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Kold</name>
+    <role>Klaus</role>
+    <type>Actor</type>
+    <tmdbid>936415</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Taslim</name>
+    <role>Jah</role>
+    <type>Actor</type>
+    <tmdbid>592496</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel M. Stewart</name>
+    <role>Denlinger</role>
+    <type>Actor</type>
+    <tmdbid>1835251</tmdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Davies</name>
+    <role>Adolfson</role>
+    <type>Actor</type>
+    <tmdbid>32557</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Stirling</name>
+    <role>Oakes</role>
+    <type>Actor</type>
+    <tmdbid>40739</tmdbid>
+  </actor>
+  <actor>
+    <name>David Ajala</name>
+    <role>Ivory</role>
+    <type>Actor</type>
+    <tmdbid>971049</tmdbid>
+  </actor>
+  <actor>
+    <name>Thure Lindhardt</name>
+    <role>Firuz</role>
+    <type>Actor</type>
+    <tmdbid>20258</tmdbid>
+  </actor>
+  <actor>
+    <name>Shea Whigham</name>
+    <role>Stasiak</role>
+    <type>Actor</type>
+    <tmdbid>74242</tmdbid>
+    <imdbid>nm0924154</imdbid>
+  </actor>
+  <actor>
+    <name>Andrei Zayats</name>
+    <role>Russian Officer</role>
+    <type>Actor</type>
+    <tmdbid>1202629</tmdbid>
+    <imdbid>nm3507110</imdbid>
+  </actor>
+  <actor>
+    <name>John Ortiz</name>
+    <role>Braga</role>
+    <type>Actor</type>
+    <tmdbid>40543</tmdbid>
+    <imdbid>nm0651159</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Thorpe</name>
+    <role>Snobby Auctioneer Organizer</role>
+    <type>Actor</type>
+    <tmdbid>79879</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Vegh</name>
+    <role>Forensic Analyst</role>
+    <type>Actor</type>
+    <tmdbid>1410580</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Marcus</name>
+    <role>Davies</role>
+    <type>Actor</type>
+    <tmdbid>994</tmdbid>
+    <imdbid>nm0007154</imdbid>
+  </actor>
+  <actor>
+    <name>Magda Rodriguez</name>
+    <role>Secretary</role>
+    <type>Actor</type>
+    <tmdbid>133673</tmdbid>
+  </actor>
+  <actor>
+    <name>Andy Pointon</name>
+    <role>Terry</role>
+    <type>Actor</type>
+    <tmdbid>1835256</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor Gardener</name>
+    <role>NATO Commander</role>
+    <type>Actor</type>
+    <tmdbid>1563380</tmdbid>
+    <imdbid>nm1375139</imdbid>
+  </actor>
+  <actor>
+    <name>Sol de la Barreda</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1790581</tmdbid>
+  </actor>
+  <actor>
+    <name>Elvira Tricás</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>1835266</tmdbid>
+  </actor>
+  <actor>
+    <name>Carolina Pozo</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>1835267</tmdbid>
+  </actor>
+  <actor>
+    <name>Revil Beat</name>
+    <role>Benito</role>
+    <type>Actor</type>
+    <tmdbid>1835273</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Li Yan</name>
+    <role>Lead Chinese Agent</role>
+    <type>Actor</type>
+    <tmdbid>1835277</tmdbid>
+  </actor>
+  <actor>
+    <name>Eddie Bagayawa</name>
+    <role>Subway Commuter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1523067</tmdbid>
+  </actor>
+  <actor>
+    <name>Dean Barlage</name>
+    <role>English Driver (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1034648</tmdbid>
+  </actor>
+  <actor>
+    <name>Gintare Beinoraviciute</name>
+    <role>Street Race Spectator (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1743573</tmdbid>
+  </actor>
+  <actor>
+    <name>Catherine Delaloye</name>
+    <role>Beautiful Girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1609801</tmdbid>
+  </actor>
+  <actor>
+    <name>Rowena Diamond</name>
+    <role>Hot, Sexy Girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1835297</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Haldor</name>
+    <role>Racer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1565074</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Koji</name>
+    <role>HK Police (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1658375</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Martin</name>
+    <role>Braga's Thug (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>221433</tmdbid>
+  </actor>
+  <actor>
+    <name>Rita Ora</name>
+    <role>Race Caller (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1089873</tmdbid>
+  </actor>
+  <actor>
+    <name>Gemita Samarra</name>
+    <role>Auctioneers Assistant (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1436404</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Statham</name>
+    <role>Deckard Shaw (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>976</tmdbid>
+    <imdbid>nm0005458</imdbid>
+  </actor>
+  <director tmdbid="58189">Justin Lin</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=upAz3aWaO1c</trailer>
+  <rating>7</rating>
+  <year>2013</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt1905041</imdbid>
+  <tmdbid>82992</tmdbid>
+  <premiered>2013-05-21</premiered>
+  <releasedate>2013-05-21</releasedate>
+  <criticrating>70</criticrating>
+  <runtime>131</runtime>
+  <country>Japan</country>
+  <country>Spain</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>惊悚</genre>
+  <genre>犯罪</genre>
+  <studio>Universal Pictures</studio>
+  <studio>Relativity Media</studio>
+  <studio>Original Film</studio>
+  <studio>One Race</studio>
+  <studio>Fuji Television Network</studio>
+  <studio>F &amp; F VI Productions A.I.E</studio>
+  <studio>DENTSU</studio>
+  <set tmdbcolid="9485">
+    <name>速度与激情（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">82992</uniqueid>
+  <uniqueid type="Imdb">tt1905041</uniqueid>
+  <id>tt1905041</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>17924695</bitrate>
+        <width>3840</width>
+        <height>1632</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>131</duration>
+        <durationinseconds>7863</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

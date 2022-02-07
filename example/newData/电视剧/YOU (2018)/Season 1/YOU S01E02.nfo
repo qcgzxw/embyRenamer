@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Beck deals with unwanted advances from her advisor, and brings Joe to Peach's high society soiree; Joe tries to navigate matters with Benji.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-01-05 22:04:26</dateadded>
+  <title>第 2 集</title>
+  <actor>
+    <name>Penn Badgley</name>
+    <role>Joe Goldberg</role>
+    <type>Actor</type>
+    <tmdbid>110927</tmdbid>
+    <imdbid>nm0046112</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Lail</name>
+    <role>Guinevere Beck</role>
+    <type>Actor</type>
+    <tmdbid>1368507</tmdbid>
+    <imdbid>nm5634768</imdbid>
+  </actor>
+  <actor>
+    <name>Luca Padovan</name>
+    <role>Paco</role>
+    <type>Actor</type>
+    <tmdbid>2126167</tmdbid>
+  </actor>
+  <actor>
+    <name>Zach Cherry</name>
+    <role>Ethan Russell</role>
+    <type>Actor</type>
+    <tmdbid>1838225</tmdbid>
+  </actor>
+  <actor>
+    <name>Reg Rogers</name>
+    <role>Professor Paul Leahy</role>
+    <type>GuestStar</type>
+    <tmdbid>129759</tmdbid>
+    <imdbid>nm0737138</imdbid>
+  </actor>
+  <actor>
+    <name>Lou Taylor Pucci</name>
+    <role>Benji</role>
+    <type>GuestStar</type>
+    <tmdbid>17441</tmdbid>
+    <imdbid>nm1086384</imdbid>
+  </actor>
+  <actor>
+    <name>Manini Gupta</name>
+    <role>Maddie</role>
+    <type>GuestStar</type>
+    <tmdbid>2455496</tmdbid>
+    <imdbid>nm3297040</imdbid>
+  </actor>
+  <actor>
+    <name>Nicole Kang</name>
+    <role>Lynn Lieser</role>
+    <type>GuestStar</type>
+    <tmdbid>2081650</tmdbid>
+    <imdbid>nm9169007</imdbid>
+  </actor>
+  <actor>
+    <name>Gianni Ciardiello</name>
+    <role>Young Joe Goldberg</role>
+    <type>GuestStar</type>
+    <tmdbid>2455475</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Blum</name>
+    <role>Mr. Mooney</role>
+    <type>GuestStar</type>
+    <tmdbid>14103</tmdbid>
+    <imdbid>nm0089685</imdbid>
+  </actor>
+  <actor>
+    <name>Kathryn Gallagher</name>
+    <role>Annika</role>
+    <type>GuestStar</type>
+    <tmdbid>2270221</tmdbid>
+    <imdbid>nm4137840</imdbid>
+  </actor>
+  <actor>
+    <name>Shay Mitchell</name>
+    <role>Peach Salinger</role>
+    <type>GuestStar</type>
+    <tmdbid>222088</tmdbid>
+  </actor>
+  <director>Lee Toland Krieger</director>
+  <rating>7.5</rating>
+  <year>2018</year>
+  <imdbid>tt7608276</imdbid>
+  <tvdbid>6461783</tvdbid>
+  <runtime>45</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt7608276</uniqueid>
+  <uniqueid type="Tvdb">6461783</uniqueid>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2018-09-16</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9164126</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>45</duration>
+        <durationinseconds>2702</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

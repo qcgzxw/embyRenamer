@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[托尼（勒诺拉·克里奇洛 Lenora Crichlow 饰）从昏迷中醒来，发现自己在一间陌生的房间里并且失去了记忆。在她昏迷的这段时间中，世界显然发生了翻天覆地的变化，街道上充斥着无情的看客，而她竟然成为了杀人狂追杀的猎物。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-06-08 16:50:43</dateadded>
+  <title>白熊</title>
+  <actor>
+    <name>Lenora Crichlow</name>
+    <role>Victoria Skillane</role>
+    <type>GuestStar</type>
+    <tmdbid>202734</tmdbid>
+    <imdbid>nm1564072</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Smiley</name>
+    <role>Baxter</role>
+    <type>GuestStar</type>
+    <tmdbid>17078</tmdbid>
+    <imdbid>nm0806968</imdbid>
+  </actor>
+  <actor>
+    <name>Tuppence Middleton</name>
+    <role>Jem</role>
+    <type>GuestStar</type>
+    <tmdbid>89822</tmdbid>
+    <imdbid>nm3095562</imdbid>
+  </actor>
+  <actor>
+    <name>Ian Bonar</name>
+    <role>Damien</role>
+    <type>GuestStar</type>
+    <tmdbid>122556</tmdbid>
+    <imdbid>nm1947068</imdbid>
+  </actor>
+  <actor>
+    <name>Elisabeth Hopper</name>
+    <role>Knife Woman</role>
+    <type>GuestStar</type>
+    <tmdbid>1525320</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Bartlett</name>
+    <role>Welder Guy</role>
+    <type>GuestStar</type>
+    <tmdbid>19704</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Ofield</name>
+    <role>Iain Rannoch</role>
+    <type>GuestStar</type>
+    <tmdbid>1785004</tmdbid>
+  </actor>
+  <actor>
+    <name>Imani Jackman</name>
+    <role>Jemima Sykes</role>
+    <type>GuestStar</type>
+    <tmdbid>1938283</tmdbid>
+  </actor>
+  <director>Carl Tibbetts</director>
+  <rating>7.458</rating>
+  <year>2013</year>
+  <imdbid>tt2542420</imdbid>
+  <tvdbid>4418487</tvdbid>
+  <runtime>42</runtime>
+  <genre>Drama</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt2542420</uniqueid>
+  <uniqueid type="Tvdb">4418487</uniqueid>
+  <episode>2</episode>
+  <season>2</season>
+  <aired>2013-02-18</aired>
+  <fileinfo>
+    <streamdetails>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5100552</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>42</duration>
+        <durationinseconds>2537</durationinseconds>
+      </video>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

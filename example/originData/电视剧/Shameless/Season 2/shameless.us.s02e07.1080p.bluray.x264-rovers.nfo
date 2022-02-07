@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[为了赢回凯伦的好感，利普主动为凯伦和乔迪构想了一份婚前协定；伊恩和利普的冷战升级为肉搏战；弗兰克想把格莱美赶出家门，但遭到菲欧娜的反对，直到地下室的毒品工厂发生了爆炸；菲欧娜受贾丝明的邀请前去参加设在大卫船上的夏日结束大狂欢，但令她气恼的是，史蒂夫和女友也在宾客之中。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-10 14:47:09</dateadded>
+  <title>夏日落幕派对</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Slade Wiggins</name>
+    <role>Karen Jackson</role>
+    <type>Actor</type>
+    <tmdbid>439253</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Chatwin</name>
+    <role>Steve Wilton/Jimmy Lishman</role>
+    <type>Actor</type>
+    <tmdbid>503</tmdbid>
+  </actor>
+  <actor>
+    <name>Amy Smart</name>
+    <role>Jasmine Hollander</role>
+    <type>GuestStar</type>
+    <tmdbid>20189</tmdbid>
+  </actor>
+  <actor>
+    <name>Zach McGowan</name>
+    <role>Jody Silverman</role>
+    <type>GuestStar</type>
+    <tmdbid>62307</tmdbid>
+  </actor>
+  <actor>
+    <name>Louise Fletcher</name>
+    <role>Peggy Gallagher</role>
+    <type>GuestStar</type>
+    <tmdbid>7071</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Carter</name>
+    <role>Stan Kopchek</role>
+    <type>GuestStar</type>
+    <tmdbid>40429</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Fantauzzi</name>
+    <role>Estefania</role>
+    <type>GuestStar</type>
+    <tmdbid>1286908</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Patrick McGill</name>
+    <role>Tommy</role>
+    <type>GuestStar</type>
+    <tmdbid>154816</tmdbid>
+    <imdbid>nm1042946</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Hoffmaster</name>
+    <role>Kermit</role>
+    <type>GuestStar</type>
+    <tmdbid>1224161</tmdbid>
+    <imdbid>nm1687798</imdbid>
+  </actor>
+  <director>David Nutter</director>
+  <rating>6.6</rating>
+  <year>2012</year>
+  <imdbid>tt2064556</imdbid>
+  <tvdbid>4232179</tvdbid>
+  <runtime>49</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt2064556</uniqueid>
+  <uniqueid type="Tvdb">4232179</uniqueid>
+  <episode>7</episode>
+  <season>2</season>
+  <aired>2012-02-19</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9599135</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>48</duration>
+        <durationinseconds>2933</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

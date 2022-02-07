@@ -1,0 +1,411 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[莉娜（娜塔莉·波特曼饰）除了工作就是整天想着自己的丈夫凯恩（奥斯卡·伊萨克饰），因为凯恩在执行任务中已失踪了一年。没有想到凯恩一年后从一个高度机密的军事任务中回来后，莉娜高兴坏了，不过她很快发现，丈夫连简单的问题都不能回答了，生命也出现了危险，在去医院的路上，她们被一个军事小组拦下。当莉娜醒来之后，发现和文崔斯博士（詹妮弗·杰森·李饰）在一起，文崔斯告诉她，一种神秘的能量从黑水国家公园里传出，被称为微光。三年前一次无法解释的光脉冲导致了微光，并且它正在缓慢扩散。但是关于微光起源的更广阔的真相和本质是什么，仍不得而知。莉娜志愿和其他三名专家队员——乔西（泰莎·汤普森饰）、安雅（吉娜·罗德里格兹饰）、卡斯·谢泼德（图娃·诺沃妮饰）一起，跟随文崔斯博士的脚步，去往那个被限禁的区域，搞明白之前消失的队员都遭遇了什么，以及微光对于人类来说意味着什么。]]></plot>
+  <outline><![CDATA[毁灭还是重生]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2018-03-14 08:58:46</dateadded>
+  <title>湮灭</title>
+  <originaltitle>Annihilation</originaltitle>
+  <actor>
+    <name>Natalie Portman</name>
+    <role>Lena</role>
+    <type>Actor</type>
+    <tmdbid>524</tmdbid>
+    <imdbid>nm0000204</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Jason Leigh</name>
+    <role>Dr Ventress</role>
+    <type>Actor</type>
+    <tmdbid>10431</tmdbid>
+  </actor>
+  <actor>
+    <name>Gina Rodriguez</name>
+    <role>Anya Thorensen</role>
+    <type>Actor</type>
+    <tmdbid>180486</tmdbid>
+  </actor>
+  <actor>
+    <name>Tessa Thompson</name>
+    <role>Josie Radek</role>
+    <type>Actor</type>
+    <tmdbid>62561</tmdbid>
+    <imdbid>nm1935086</imdbid>
+  </actor>
+  <actor>
+    <name>Tuva Novotny</name>
+    <role>Cass Sheppard</role>
+    <type>Actor</type>
+    <tmdbid>67737</tmdbid>
+  </actor>
+  <actor>
+    <name>Oscar Isaac</name>
+    <role>Kane</role>
+    <type>Actor</type>
+    <tmdbid>25072</tmdbid>
+    <imdbid>nm1209966</imdbid>
+  </actor>
+  <actor>
+    <name>Benedict Wong</name>
+    <role>Lomax</role>
+    <type>Actor</type>
+    <tmdbid>30082</tmdbid>
+    <imdbid>nm0938950</imdbid>
+  </actor>
+  <actor>
+    <name>Sonoya Mizuno</name>
+    <role>Katie (Med Student) / Humanoid</role>
+    <type>Actor</type>
+    <tmdbid>1457238</tmdbid>
+  </actor>
+  <actor>
+    <name>David Gyasi</name>
+    <role>Daniel</role>
+    <type>Actor</type>
+    <tmdbid>55411</tmdbid>
+  </actor>
+  <actor>
+    <name>John Schwab</name>
+    <role>Paramedic</role>
+    <type>Actor</type>
+    <tmdbid>207304</tmdbid>
+    <imdbid>nm1134945</imdbid>
+  </actor>
+  <actor>
+    <name>Sammy Hayman</name>
+    <role>Mayer</role>
+    <type>Actor</type>
+    <tmdbid>1890513</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Danford</name>
+    <role>Shelley</role>
+    <type>Actor</type>
+    <tmdbid>1889048</tmdbid>
+  </actor>
+  <actor>
+    <name>Kristen McGarrity</name>
+    <role>Lena Double</role>
+    <type>Actor</type>
+    <tmdbid>1997026</tmdbid>
+  </actor>
+  <actor>
+    <name>Bern Collaço</name>
+    <role>Scientist (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1502439</tmdbid>
+    <imdbid>nm0171625</imdbid>
+  </actor>
+  <actor>
+    <name>Kumud Pant</name>
+    <role>Scientist (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1326945</tmdbid>
+  </actor>
+  <actor>
+    <name>Honey Holmes</name>
+    <role>Scientist (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1358942</tmdbid>
+    <imdbid>nm5409106</imdbid>
+  </actor>
+  <actor>
+    <name>Hiten Patel</name>
+    <role>Scientist (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1973190</tmdbid>
+    <imdbid>nm9316536</imdbid>
+  </actor>
+  <actor>
+    <name>Kola Bokinni</name>
+    <role>Peyton (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1711173</tmdbid>
+  </actor>
+  <actor>
+    <name>Odette Michell</name>
+    <role>Nurse (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1973191</tmdbid>
+  </actor>
+  <actor>
+    <name>Miroslav Zaruba</name>
+    <role>Lab Security (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1651386</tmdbid>
+  </actor>
+  <actor>
+    <name>Cosmo Jarvis</name>
+    <role>Special Ops Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1363054</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Prewitt</name>
+    <role>Special Ops Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1973192</tmdbid>
+  </actor>
+  <director tmdbid="2036">Alex Garland</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=89OP78l9oF0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ufaDurSCKOk</trailer>
+  <rating>6.8</rating>
+  <year>2018</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt2798920</imdbid>
+  <tmdbid>300668</tmdbid>
+  <premiered>2018-02-22</premiered>
+  <releasedate>2018-02-22</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>115</runtime>
+  <tagline>毁灭还是重生</tagline>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>科幻</genre>
+  <genre>恐怖</genre>
+  <studio>DNA Films</studio>
+  <studio>Paramount</studio>
+  <studio>Scott Rudin Productions</studio>
+  <studio>Skydance Media</studio>
+  <uniqueid type="Tmdb">300668</uniqueid>
+  <uniqueid type="Imdb">tt2798920</uniqueid>
+  <id>tt2798920</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4024664</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6929</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

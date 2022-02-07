@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[继曼谷、纽约之后，东京再出大案。唐人街神探唐仁、秦风受侦探野田昊的邀请前往破案。“CRIMASTER世界侦探排行榜”中的侦探们闻讯后也齐聚东京，加入挑战，而排名第一Q的现身，让这个大案更加扑朔迷离，一场亚洲最强神探之间的较量即将爆笑展开……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-05 02:08:43</dateadded>
+  <title>唐人街探案3</title>
+  <originaltitle>唐人街探案3</originaltitle>
+  <actor>
+    <name>Baoqiang Wang</name>
+    <role>Tang Ren</role>
+    <type>Actor</type>
+    <tmdbid>71051</tmdbid>
+    <imdbid>nm1316170</imdbid>
+  </actor>
+  <actor>
+    <name>Liu Haoran</name>
+    <role>Qin Feng</role>
+    <type>Actor</type>
+    <tmdbid>1573819</tmdbid>
+  </actor>
+  <actor>
+    <name>Satoshi Tsumabuki</name>
+    <role>Noda Hiroshi</role>
+    <type>Actor</type>
+    <tmdbid>80108</tmdbid>
+    <imdbid>nm1070494</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Jaa</name>
+    <role>Jack Jaa</role>
+    <type>Actor</type>
+    <tmdbid>57207</tmdbid>
+  </actor>
+  <actor>
+    <name>Masami Nagasawa</name>
+    <role>Kobayashi Anna</role>
+    <type>Actor</type>
+    <tmdbid>87637</tmdbid>
+  </actor>
+  <actor>
+    <name>Tomokazu Miura</name>
+    <role>Watanabe</role>
+    <type>Actor</type>
+    <tmdbid>33134</tmdbid>
+  </actor>
+  <actor>
+    <name>Shang Yuxian</name>
+    <role>Kiko</role>
+    <type>Actor</type>
+    <tmdbid>1982750</tmdbid>
+  </actor>
+  <actor>
+    <name>Xiao Yang</name>
+    <role>Song Yi</role>
+    <type>Actor</type>
+    <tmdbid>543877</tmdbid>
+    <imdbid>nm4763789</imdbid>
+  </actor>
+  <actor>
+    <name>Roy Chiu</name>
+    <role>Lin Mo</role>
+    <type>Actor</type>
+    <tmdbid>1240922</tmdbid>
+  </actor>
+  <actor>
+    <name>Janine Chang</name>
+    <role>Ivy</role>
+    <type>Actor</type>
+    <tmdbid>564891</tmdbid>
+    <imdbid>nm2100867</imdbid>
+  </actor>
+  <actor>
+    <name>Cheng Xiao</name>
+    <role>Lu Jingjing</role>
+    <type>Actor</type>
+    <tmdbid>1875779</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Zifeng</name>
+    <role>Si Nuo</role>
+    <type>Actor</type>
+    <tmdbid>1173805</tmdbid>
+  </actor>
+  <actor>
+    <name>Shota Sometani</name>
+    <type>Actor</type>
+    <tmdbid>1018944</tmdbid>
+    <imdbid>nm2202409</imdbid>
+  </actor>
+  <actor>
+    <name>Honami Suzuki</name>
+    <type>Actor</type>
+    <tmdbid>553069</tmdbid>
+  </actor>
+  <actor>
+    <name>Tadanobu Asano</name>
+    <type>Actor</type>
+    <tmdbid>13275</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Xiran</name>
+    <type>Actor</type>
+    <tmdbid>2870481</tmdbid>
+  </actor>
+  <actor>
+    <name>Janice Man</name>
+    <role>Lin nai</role>
+    <type>Actor</type>
+    <tmdbid>78253</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Mingxuan</name>
+    <role>Liu Feng</role>
+    <type>Actor</type>
+    <tmdbid>2730674</tmdbid>
+  </actor>
+  <director tmdbid="1065761">Chen Sicheng</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8ebhfZ8R2Js</trailer>
+  <rating>5.7</rating>
+  <year>2021</year>
+  <imdbid>tt10370822</imdbid>
+  <tmdbid>602666</tmdbid>
+  <premiered>2021-02-12</premiered>
+  <releasedate>2021-02-12</releasedate>
+  <runtime>136</runtime>
+  <country>China</country>
+  <genre>动作</genre>
+  <genre>喜剧</genre>
+  <genre>悬疑</genre>
+  <set tmdbcolid="525451">
+    <name>唐人街探案（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">602666</uniqueid>
+  <uniqueid type="Imdb">tt10370822</uniqueid>
+  <id>tt10370822</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5981638</bitrate>
+        <width>3840</width>
+        <height>1616</height>
+        <aspect>240:101</aspect>
+        <aspectratio>240:101</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>135</duration>
+        <durationinseconds>8155</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127991</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

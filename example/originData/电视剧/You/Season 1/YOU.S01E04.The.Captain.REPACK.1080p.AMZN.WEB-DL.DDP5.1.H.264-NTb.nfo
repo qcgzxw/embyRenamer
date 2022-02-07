@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-01-05 22:30:10</dateadded>
+  <title>第 4 集</title>
+  <actor>
+    <name>Penn Badgley</name>
+    <role>Joe Goldberg</role>
+    <type>Actor</type>
+    <tmdbid>110927</tmdbid>
+    <imdbid>nm0046112</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Lail</name>
+    <role>Guinevere Beck</role>
+    <type>Actor</type>
+    <tmdbid>1368507</tmdbid>
+    <imdbid>nm5634768</imdbid>
+  </actor>
+  <actor>
+    <name>Luca Padovan</name>
+    <role>Paco</role>
+    <type>Actor</type>
+    <tmdbid>2126167</tmdbid>
+  </actor>
+  <actor>
+    <name>Zach Cherry</name>
+    <role>Ethan Russell</role>
+    <type>Actor</type>
+    <tmdbid>1838225</tmdbid>
+  </actor>
+  <actor>
+    <name>Mercedes Griffeth</name>
+    <role>Mia</role>
+    <type>GuestStar</type>
+    <tmdbid>1464131</tmdbid>
+    <imdbid>nm5277939</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Bergl</name>
+    <role>Nancy</role>
+    <type>GuestStar</type>
+    <tmdbid>51390</tmdbid>
+    <imdbid>nm0004749</imdbid>
+  </actor>
+  <actor>
+    <name>James DeFilippi</name>
+    <role>Cooper</role>
+    <type>GuestStar</type>
+    <tmdbid>2455896</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke David Young</name>
+    <role>Mr. Robert Sawyer</role>
+    <type>GuestStar</type>
+    <tmdbid>2455897</tmdbid>
+    <imdbid>nm4461596</imdbid>
+  </actor>
+  <actor>
+    <name>Damion J. Williams</name>
+    <role>Wedonite</role>
+    <type>GuestStar</type>
+    <tmdbid>2455898</tmdbid>
+  </actor>
+  <actor>
+    <name>James P. Rees</name>
+    <role>Bed-Bug Inspector</role>
+    <type>GuestStar</type>
+    <tmdbid>2210029</tmdbid>
+    <imdbid>nm3980868</imdbid>
+  </actor>
+  <actor>
+    <name>Nicole Kang</name>
+    <role>Lynn Lieser</role>
+    <type>GuestStar</type>
+    <tmdbid>2081650</tmdbid>
+    <imdbid>nm9169007</imdbid>
+  </actor>
+  <actor>
+    <name>Kathryn Gallagher</name>
+    <role>Annika</role>
+    <type>GuestStar</type>
+    <tmdbid>2270221</tmdbid>
+    <imdbid>nm4137840</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Park</name>
+    <role>Edwin Beck</role>
+    <type>GuestStar</type>
+    <tmdbid>1070349</tmdbid>
+    <imdbid>nm0661906</imdbid>
+  </actor>
+  <actor>
+    <name>Shay Mitchell</name>
+    <role>Peach Salinger</role>
+    <type>GuestStar</type>
+    <tmdbid>222088</tmdbid>
+  </actor>
+  <director>Victoria Mahoney</director>
+  <rating>7.4</rating>
+  <year>2018</year>
+  <imdbid>tt7643978</imdbid>
+  <tvdbid>6461785</tvdbid>
+  <runtime>42</runtime>
+  <uniqueid type="Imdb">tt7643978</uniqueid>
+  <uniqueid type="Tvdb">6461785</uniqueid>
+  <episode>4</episode>
+  <season>1</season>
+  <aired>2018-09-30</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9673195</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>42</duration>
+        <durationinseconds>2529</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

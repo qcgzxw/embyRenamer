@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[　　嫌疑人杀人抛尸，却因意外在大庭广众之下被当场抓获。现场至少有几百个目击证人，嫌疑人对整个犯罪经过也供认不讳。 人证、物证、口供，证据链齐全。就在检察机关对嫌疑人正式提起公诉之时，案情却陡然生变…… 这背后究竟隐藏着怎样令人震惊的案情？为了查清真相，有一位检察官历经十年光阴，付出了青春、事业、名声、前途、家庭等等无数代价，甚至，还包括生命。]]></plot>
+  <outline><![CDATA[　　嫌疑人杀人抛尸，却因意外在大庭广众之下被当场抓获。现场至少有几百个目击证人，嫌疑人对整个犯罪经过也供认不讳。 人证、物证、口供，证据链齐全。就在检察机关对嫌疑人正式提起公诉之时，案情却陡然生变…… 这背后究竟隐藏着怎样令人震惊的案情？为了查清真相，有一位检察官历经十年光阴，付出了青春、事业、名声、前途、家庭等等无数代价，甚至，还包括生命。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-15 16:06:25</dateadded>
+  <title>沉默的真相</title>
+  <originaltitle>沉默的真相</originaltitle>
+  <actor>
+    <name>Liao Fan</name>
+    <role>Yan Liang</role>
+    <type>Actor</type>
+    <tmdbid>99692</tmdbid>
+    <imdbid>nm1233224</imdbid>
+  </actor>
+  <actor>
+    <name>Bai Yu</name>
+    <role>Jiang Yang</role>
+    <type>Actor</type>
+    <tmdbid>1698814</tmdbid>
+    <imdbid>nm7889237</imdbid>
+  </actor>
+  <actor>
+    <name>Lü Xiaolin</name>
+    <role>Ren Yueting, Captain of the Criminal Police</role>
+    <type>Actor</type>
+    <tmdbid>1909342</tmdbid>
+    <imdbid>nm4892567</imdbid>
+  </actor>
+  <actor>
+    <name>Zhao Yang</name>
+    <role>Zhu Wei</role>
+    <type>Actor</type>
+    <tmdbid>1780719</tmdbid>
+  </actor>
+  <actor>
+    <name>Tan Zhuo</name>
+    <role>Li Jing</role>
+    <type>Actor</type>
+    <tmdbid>938326</tmdbid>
+    <imdbid>nm3431007</imdbid>
+  </actor>
+  <actor>
+    <name>Ning Li</name>
+    <role>Zhang Chao</role>
+    <type>Actor</type>
+    <tmdbid>987205</tmdbid>
+    <imdbid>nm1280632</imdbid>
+  </actor>
+  <actor>
+    <name>Lu Siyu</name>
+    <role>Hou Guiping</role>
+    <type>Actor</type>
+    <tmdbid>2802902</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhao Leiqi</name>
+    <role>Gu Yiming</role>
+    <type>Actor</type>
+    <tmdbid>2586775</tmdbid>
+  </actor>
+  <actor>
+    <name>Huang Yao</name>
+    <role>Zhang Xiaoqian, Jiangtan Evening News reporter</role>
+    <type>Actor</type>
+    <tmdbid>2149028</tmdbid>
+  </actor>
+  <actor>
+    <name>Tian Xiaojie</name>
+    <role>Chen Mingzhang, forensic doctor</role>
+    <type>Actor</type>
+    <tmdbid>1637213</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuanyuan Zhao</name>
+    <role>Wu Aike</role>
+    <type>Actor</type>
+    <tmdbid>1087177</tmdbid>
+    <imdbid>nm4593170</imdbid>
+  </actor>
+  <actor>
+    <name>Cao Weiyu</name>
+    <role>Li Jianguo, Criminal Police Chief from Pingkang County</role>
+    <type>Actor</type>
+    <tmdbid>1924494</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Lei</name>
+    <role>Hu Yilang</role>
+    <type>Actor</type>
+    <tmdbid>2827809</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Zhigang</name>
+    <role>Chief Prosecutor Wu</role>
+    <type>Actor</type>
+    <tmdbid>3112989</tmdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=n8DXjjkbxUM</trailer>
+  <rating>8.3</rating>
+  <year>2020</year>
+  <imdb_id>tt11298328</imdb_id>
+  <tmdbid>105053</tmdbid>
+  <premiered>2020-09-16</premiered>
+  <releasedate>2020-09-16</releasedate>
+  <enddate>2020-09-18</enddate>
+  <runtime>50</runtime>
+  <genre>犯罪</genre>
+  <genre>悬疑</genre>
+  <studio>iQiyi</studio>
+  <uniqueid type="Imdb">tt11298328</uniqueid>
+  <uniqueid type="Tmdb">105053</uniqueid>
+  <uniqueid type="Tvdb">388507</uniqueid>
+  <tvdbid>388507</tvdbid>
+  <id>388507</id>
+  <episodeguide>
+    <url cache="388507.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/388507/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Ended</status>
+</tvshow>

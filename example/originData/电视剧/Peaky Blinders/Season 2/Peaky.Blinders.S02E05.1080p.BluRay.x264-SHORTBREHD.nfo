@@ -1,0 +1,258 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[The Peaky Blinders are under attack. Tommy's power base in London is obliterated, and both Arthur and Michael are arrested and imprisoned.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-05-17 01:49:35</dateadded>
+  <title>第 5 集</title>
+  <actor>
+    <name>Cillian Murphy</name>
+    <role>Tommy Shelby</role>
+    <type>Actor</type>
+    <tmdbid>2037</tmdbid>
+    <imdbid>nm0614165</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Anderson</name>
+    <role>Arthur Shelby</role>
+    <type>Actor</type>
+    <tmdbid>220448</tmdbid>
+    <imdbid>nm2167957</imdbid>
+  </actor>
+  <actor>
+    <name>Finn Cole</name>
+    <role>Michael Gray</role>
+    <type>Actor</type>
+    <tmdbid>1508313</tmdbid>
+    <imdbid>nm6806440</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Cole</name>
+    <role>John Shelby</role>
+    <type>Actor</type>
+    <tmdbid>1081875</tmdbid>
+    <imdbid>nm3771184</imdbid>
+  </actor>
+  <actor>
+    <name>Helen McCrory</name>
+    <role>Polly Gray</role>
+    <type>Actor</type>
+    <tmdbid>15737</tmdbid>
+    <imdbid>nm0567031</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Neill</name>
+    <role>C.I. Chester Campbell</role>
+    <type>Actor</type>
+    <tmdbid>4783</tmdbid>
+    <imdbid>nm0000554</imdbid>
+  </actor>
+  <actor>
+    <name>Sophie Rundle</name>
+    <role>Ada Shelby</role>
+    <type>Actor</type>
+    <tmdbid>1088620</tmdbid>
+    <imdbid>nm2570706</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Hardy</name>
+    <role>Alfie Solomons</role>
+    <type>Actor</type>
+    <tmdbid>2524</tmdbid>
+    <imdbid>nm0362766</imdbid>
+  </actor>
+  <actor>
+    <name>Natasha O'Keeffe</name>
+    <role>Lizzie Stark</role>
+    <type>Actor</type>
+    <tmdbid>1167897</tmdbid>
+    <imdbid>nm3761798</imdbid>
+  </actor>
+  <actor>
+    <name>Annabelle Wallis</name>
+    <role>Grace Burgess</role>
+    <type>Actor</type>
+    <tmdbid>82809</tmdbid>
+    <imdbid>nm1834115</imdbid>
+  </actor>
+  <actor>
+    <name>Noah Taylor</name>
+    <role>Darby Sabini</role>
+    <type>Actor</type>
+    <tmdbid>1284</tmdbid>
+    <imdbid>nm0852965</imdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Riley</name>
+    <role>May Carleton</role>
+    <type>GuestStar</type>
+    <tmdbid>115679</tmdbid>
+    <imdbid>nm2731660</imdbid>
+  </actor>
+  <actor>
+    <name>Aimee-Ffion Edwards</name>
+    <role>Esme Shelby</role>
+    <type>GuestStar</type>
+    <tmdbid>1224269</tmdbid>
+    <imdbid>nm2929682</imdbid>
+  </actor>
+  <actor>
+    <name>Dorian Lough</name>
+    <role>Mario</role>
+    <type>GuestStar</type>
+    <tmdbid>1221067</tmdbid>
+  </actor>
+  <actor>
+    <name>Rupert Procter</name>
+    <role>Micky</role>
+    <type>GuestStar</type>
+    <tmdbid>86480</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Sheridan</name>
+    <role>Sabini Officer</role>
+    <type>GuestStar</type>
+    <tmdbid>1232078</tmdbid>
+  </actor>
+  <actor>
+    <name>Lizzy McInnerny</name>
+    <role>Mrs. Ross</role>
+    <type>GuestStar</type>
+    <tmdbid>202031</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Bullion</name>
+    <role>Billy Kitchen</role>
+    <type>GuestStar</type>
+    <tmdbid>1488465</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Pitts</name>
+    <role>Sergeant Moss</role>
+    <type>GuestStar</type>
+    <tmdbid>1229255</tmdbid>
+  </actor>
+  <actor>
+    <name>Rory Keenan</name>
+    <role>Donal</role>
+    <type>GuestStar</type>
+    <tmdbid>1041731</tmdbid>
+  </actor>
+  <actor>
+    <name>Simone Kirby</name>
+    <role>Irene O'Donnell</role>
+    <type>GuestStar</type>
+    <tmdbid>1307014</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh O'Connor</name>
+    <role>James</role>
+    <type>GuestStar</type>
+    <tmdbid>1206334</tmdbid>
+    <imdbid>nm4853066</imdbid>
+  </actor>
+  <actor>
+    <name>Henry Garrett</name>
+    <role>Clive Macmillan</role>
+    <type>GuestStar</type>
+    <tmdbid>125719</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam El Hagar</name>
+    <role>Ollie</role>
+    <type>GuestStar</type>
+    <tmdbid>2424349</tmdbid>
+    <imdbid>nm1029242</imdbid>
+  </actor>
+  <actor>
+    <name>Benedict Relton</name>
+    <role>Policeman Outside Russell's House</role>
+    <type>GuestStar</type>
+    <tmdbid>1055746</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Hazeldine</name>
+    <role>Georgie Sewell</role>
+    <type>GuestStar</type>
+    <tmdbid>563559</tmdbid>
+    <imdbid>nm1486831</imdbid>
+  </actor>
+  <actor>
+    <name>Packy Lee</name>
+    <role>Johnny Dogs</role>
+    <type>GuestStar</type>
+    <tmdbid>211610</tmdbid>
+    <imdbid>nm0497970</imdbid>
+  </actor>
+  <actor>
+    <name>Ned Dennehy</name>
+    <role>Charlie Strong</role>
+    <type>GuestStar</type>
+    <tmdbid>63362</tmdbid>
+  </actor>
+  <actor>
+    <name>Harry Kirton</name>
+    <role>Finn Shelby</role>
+    <type>GuestStar</type>
+    <tmdbid>1839855</tmdbid>
+  </actor>
+  <director>Colm McCarthy</director>
+  <rating>7.8</rating>
+  <year>2014</year>
+  <imdbid>tt3683578</imdbid>
+  <tvdbid>5008793</tvdbid>
+  <runtime>59</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt3683578</uniqueid>
+  <uniqueid type="Tvdb">5008793</uniqueid>
+  <episode>5</episode>
+  <season>2</season>
+  <aired>2014-10-30</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10585700</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>59</duration>
+        <durationinseconds>3545</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

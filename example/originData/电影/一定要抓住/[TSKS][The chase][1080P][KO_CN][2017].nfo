@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[杀人案再次发生，犯罪手法竟然与30年前一起未结案事件一模一样。非常了解小区的老人和非常了解事件的前职刑 警用直觉与感觉开始追踪凶手....]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2017-12-22 11:22:31</dateadded>
+  <title>一定要抓住</title>
+  <originaltitle>반드시 잡는다</originaltitle>
+  <actor>
+    <name>Baek Yoon-sik</name>
+    <role>Sim Deok-su</role>
+    <type>Actor</type>
+    <tmdbid>229752</tmdbid>
+    <imdbid>nm1328575</imdbid>
+  </actor>
+  <actor>
+    <name>Sung Dong-il</name>
+    <role>Park Pyeong-dal</role>
+    <type>Actor</type>
+    <tmdbid>1020859</tmdbid>
+    <imdbid>nm1753862</imdbid>
+  </actor>
+  <actor>
+    <name>Bae Jong-ok</name>
+    <role>Min Yeong-sook</role>
+    <type>Actor</type>
+    <tmdbid>1094648</tmdbid>
+    <imdbid>nm0046276</imdbid>
+  </actor>
+  <actor>
+    <name>Son Jong-hak</name>
+    <role>Detective Choi</role>
+    <type>Actor</type>
+    <tmdbid>1333030</tmdbid>
+    <imdbid>nm5601908</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Hye-In</name>
+    <role>Kim Ji-eun</role>
+    <type>Actor</type>
+    <tmdbid>1659174</tmdbid>
+    <imdbid>nm8257423</imdbid>
+  </actor>
+  <actor>
+    <name>Jo Dal-hwan</name>
+    <role>Constable Lee</role>
+    <type>Actor</type>
+    <tmdbid>1294526</tmdbid>
+    <imdbid>nm1572247</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Kan-hie</name>
+    <role>Lee Jeong-ae</role>
+    <type>Actor</type>
+    <tmdbid>554024</tmdbid>
+    <imdbid>nm1563589</imdbid>
+  </actor>
+  <actor>
+    <name>Park Hyoung-soo</name>
+    <role>Bae Du-shik</role>
+    <type>Actor</type>
+    <tmdbid>2128935</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Ji-hyun</name>
+    <role>Kim Soo-kyung</role>
+    <type>Actor</type>
+    <tmdbid>1988598</tmdbid>
+  </actor>
+  <actor>
+    <name>Jo Hyun-sik</name>
+    <role>Mr. Choi (young)</role>
+    <type>Actor</type>
+    <tmdbid>2139723</tmdbid>
+    <imdbid>nm8468703</imdbid>
+  </actor>
+  <actor>
+    <name>Cheon Ho-jin</name>
+    <role>Na Jeong-Hyuk</role>
+    <type>Actor</type>
+    <tmdbid>87090</tmdbid>
+    <imdbid>nm1141657</imdbid>
+  </actor>
+  <actor>
+    <name>Jung Sung-il</name>
+    <role>Park Pyung-Dal (young)</role>
+    <type>Actor</type>
+    <tmdbid>2804996</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Jeong-eun</name>
+    <role>Ji-eun's mother</role>
+    <type>Actor</type>
+    <tmdbid>2406037</tmdbid>
+    <imdbid>nm3786331</imdbid>
+  </actor>
+  <actor>
+    <name>Kang Mal-geum</name>
+    <role>Helper</role>
+    <type>Actor</type>
+    <tmdbid>2256730</tmdbid>
+  </actor>
+  <director tmdbid="1294527" imdbid="nm2341549">Kim Hong-sun</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bmREI4lKE8E</trailer>
+  <rating>6.6</rating>
+  <year>2017</year>
+  <imdbid>tt8088944</imdbid>
+  <tmdbid>488621</tmdbid>
+  <premiered>2017-11-29</premiered>
+  <releasedate>2017-11-29</releasedate>
+  <runtime>110</runtime>
+  <country>South Korea</country>
+  <genre>惊悚</genre>
+  <studio>Next Entertainment World</studio>
+  <studio>Cine Joo</studio>
+  <studio>AD406</studio>
+  <uniqueid type="Imdb">tt8088944</uniqueid>
+  <uniqueid type="Tmdb">488621</uniqueid>
+  <id>tt8088944</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2110352</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>110</duration>
+        <durationinseconds>6616</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>128000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

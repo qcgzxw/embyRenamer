@@ -1,0 +1,672 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[故事发生在遥远的26世纪，外科医生依德（克里斯托弗·瓦尔兹 Christoph Waltz 饰）在垃圾场里捡到了只剩下头部的机械少女将她带回家中，给她装上了本来为自己已故的女儿所准备的义体，并取名阿丽塔（罗莎·萨拉扎尔 Rosa Salazar 饰）。苏醒后的阿丽塔对这个五彩斑斓但却暴力而又残酷的世界产生了浓厚的兴趣，在结识了青年雨果（基恩·约翰逊 Keean Johnson 饰）后，阿丽塔开始接触名为机动球的运动，并在比赛中展现出了惊人的格斗天赋。在废铁城居民们的头顶，漂浮着巨大的浮空城市撒冷，废铁城居民们的一切劳作和付出，都是为了给撒冷提供继续运作的燃料。在大财阀维克特（马赫沙拉·阿里 Mahershala Ali 饰）所设立的机动球比赛中，最终获得冠军的人能够获得前往撒冷生活的资格，阿丽塔决定利用自己的格斗天赋参加比赛，却被卷入了一个巨大的阴谋之中。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-01-11 11:32:58</dateadded>
+  <title>阿丽塔：战斗天使</title>
+  <originaltitle>Alita: Battle Angel</originaltitle>
+  <actor>
+    <name>Rosa Salazar</name>
+    <role>Alita</role>
+    <type>Actor</type>
+    <tmdbid>973667</tmdbid>
+    <imdbid>nm4023073</imdbid>
+  </actor>
+  <actor>
+    <name>Christoph Waltz</name>
+    <role>Dr. Dyson Ido</role>
+    <type>Actor</type>
+    <tmdbid>27319</tmdbid>
+    <imdbid>nm0910607</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Connelly</name>
+    <role>Chiren</role>
+    <type>Actor</type>
+    <tmdbid>6161</tmdbid>
+    <imdbid>nm0000124</imdbid>
+  </actor>
+  <actor>
+    <name>Mahershala Ali</name>
+    <role>Vector</role>
+    <type>Actor</type>
+    <tmdbid>932967</tmdbid>
+    <imdbid>nm0991810</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Skrein</name>
+    <role>Zapan</role>
+    <type>Actor</type>
+    <tmdbid>1047649</tmdbid>
+    <imdbid>nm4534098</imdbid>
+  </actor>
+  <actor>
+    <name>Jackie Earle Haley</name>
+    <role>Grewishka</role>
+    <type>Actor</type>
+    <tmdbid>17183</tmdbid>
+    <imdbid>nm0355097</imdbid>
+  </actor>
+  <actor>
+    <name>Keean Johnson</name>
+    <role>Hugo</role>
+    <type>Actor</type>
+    <tmdbid>1448516</tmdbid>
+    <imdbid>nm5277107</imdbid>
+  </actor>
+  <actor>
+    <name>Lana Condor</name>
+    <role>Koyomi</role>
+    <type>Actor</type>
+    <tmdbid>1452046</tmdbid>
+    <imdbid>nm7093076</imdbid>
+  </actor>
+  <actor>
+    <name>Jorge Lendeborg Jr.</name>
+    <role>Tanji</role>
+    <type>Actor</type>
+    <tmdbid>1563266</tmdbid>
+    <imdbid>nm7449863</imdbid>
+  </actor>
+  <actor>
+    <name>Eiza González</name>
+    <role>Nyssiana</role>
+    <type>Actor</type>
+    <tmdbid>1222992</tmdbid>
+    <imdbid>nm2555462</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Fahey</name>
+    <role>McTeague</role>
+    <type>Actor</type>
+    <tmdbid>20495</tmdbid>
+    <imdbid>nm0001194</imdbid>
+  </actor>
+  <actor>
+    <name>Idara Victor</name>
+    <role>Nurse Gerhad</role>
+    <type>Actor</type>
+    <tmdbid>205849</tmdbid>
+    <imdbid>nm1701107</imdbid>
+  </actor>
+  <actor>
+    <name>Rick Yune</name>
+    <role>Master Clive Lee</role>
+    <type>Actor</type>
+    <tmdbid>10883</tmdbid>
+    <imdbid>nm0950935</imdbid>
+  </actor>
+  <actor>
+    <name>Derek Mears</name>
+    <role>Romo</role>
+    <type>Actor</type>
+    <tmdbid>51300</tmdbid>
+    <imdbid>nm0575216</imdbid>
+  </actor>
+  <actor>
+    <name>Leonard Wu</name>
+    <role>Kinuba</role>
+    <type>Actor</type>
+    <tmdbid>1325691</tmdbid>
+    <imdbid>nm1422236</imdbid>
+  </actor>
+  <actor>
+    <name>Racer Rodriguez</name>
+    <role>Claymore</role>
+    <type>Actor</type>
+    <tmdbid>947563</tmdbid>
+    <imdbid>nm1897406</imdbid>
+  </actor>
+  <actor>
+    <name>Marko Zaror</name>
+    <role>Ajakutty</role>
+    <type>Actor</type>
+    <tmdbid>118370</tmdbid>
+    <imdbid>nm1047252</imdbid>
+  </actor>
+  <actor>
+    <name>Hugo Perez</name>
+    <role>Jacked Cyborg</role>
+    <type>Actor</type>
+    <tmdbid>54765</tmdbid>
+    <imdbid>nm1967269</imdbid>
+  </actor>
+  <actor>
+    <name>Casper Van Dien</name>
+    <role>Amok</role>
+    <type>Actor</type>
+    <tmdbid>27763</tmdbid>
+    <imdbid>nm0000680</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Blair</name>
+    <role>Zapan's Cronie #1</role>
+    <type>Actor</type>
+    <tmdbid>968889</tmdbid>
+    <imdbid>nm3046228</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Landau</name>
+    <role>Zapan's Cronie #2</role>
+    <type>Actor</type>
+    <tmdbid>2144852</tmdbid>
+  </actor>
+  <actor>
+    <name>Dimitrius Pulido</name>
+    <role>Cyborg Jacking Victim</role>
+    <type>Actor</type>
+    <tmdbid>1094233</tmdbid>
+    <imdbid>nm3606871</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Gathron</name>
+    <role>Antioch</role>
+    <type>Actor</type>
+    <tmdbid>2242307</tmdbid>
+    <imdbid>nm4549873</imdbid>
+  </actor>
+  <actor>
+    <name>Elle LaMont</name>
+    <role>Screwhead</role>
+    <type>Actor</type>
+    <tmdbid>1042667</tmdbid>
+    <imdbid>nm3156758</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Livinalli</name>
+    <role>Blue Wingman</role>
+    <type>Actor</type>
+    <tmdbid>992386</tmdbid>
+    <imdbid>nm3129928</imdbid>
+  </actor>
+  <actor>
+    <name>Neal Kodinsky</name>
+    <role>Red Wingman</role>
+    <type>Actor</type>
+    <tmdbid>1240767</tmdbid>
+    <imdbid>nm3237897</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Bandmann</name>
+    <role>Mace</role>
+    <type>Actor</type>
+    <tmdbid>2242309</tmdbid>
+    <imdbid>nm10457358</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Nguyen</name>
+    <role>Kumaza</role>
+    <type>Actor</type>
+    <tmdbid>1422210</tmdbid>
+    <imdbid>nm7852347</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Medina</name>
+    <role>Stinger</role>
+    <type>Actor</type>
+    <tmdbid>1044954</tmdbid>
+    <imdbid>nm2795989</imdbid>
+  </actor>
+  <actor>
+    <name>Tod Junker</name>
+    <role>Exploder</role>
+    <type>Actor</type>
+    <tmdbid>2242312</tmdbid>
+    <imdbid>nm10457359</imdbid>
+  </actor>
+  <actor>
+    <name>John Wirt</name>
+    <role>Cyborg Factory Worker</role>
+    <type>Actor</type>
+    <tmdbid>1406693</tmdbid>
+    <imdbid>nm2734003</imdbid>
+  </actor>
+  <actor>
+    <name>Darcel Danielle</name>
+    <role>Young Factory Worker</role>
+    <type>Actor</type>
+    <tmdbid>1818946</tmdbid>
+    <imdbid>nm5028189</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Lindsey</name>
+    <role>Ido's Daughter</role>
+    <type>Actor</type>
+    <tmdbid>2242315</tmdbid>
+    <imdbid>nm10457360</imdbid>
+  </actor>
+  <actor>
+    <name>Garrett Warren</name>
+    <role>Barkeep</role>
+    <type>Actor</type>
+    <tmdbid>956198</tmdbid>
+    <imdbid>nm0912836</imdbid>
+  </actor>
+  <actor>
+    <name>Tony LaThanh</name>
+    <role>Hunter Warrior #1</role>
+    <type>Actor</type>
+    <tmdbid>1745565</tmdbid>
+    <imdbid>nm1081694</imdbid>
+  </actor>
+  <actor>
+    <name>Jorge A. Jimenez</name>
+    <role>Hunter Warrior #2</role>
+    <type>Actor</type>
+    <tmdbid>99508</tmdbid>
+    <imdbid>nm2784856</imdbid>
+  </actor>
+  <actor>
+    <name>Vincent Fuentes</name>
+    <role>Ed</role>
+    <type>Actor</type>
+    <tmdbid>1393520</tmdbid>
+    <imdbid>nm4527064</imdbid>
+  </actor>
+  <actor>
+    <name>Ibrahima Thiam</name>
+    <role>Guitarist</role>
+    <type>Actor</type>
+    <tmdbid>2242325</tmdbid>
+    <imdbid>nm4098244</imdbid>
+  </actor>
+  <actor>
+    <name>Paul de Sousa</name>
+    <role>Heckler</role>
+    <type>Actor</type>
+    <tmdbid>949591</tmdbid>
+    <imdbid>nm1503656</imdbid>
+  </actor>
+  <actor>
+    <name>Gregg Berger</name>
+    <role>Deckman</role>
+    <type>Actor</type>
+    <tmdbid>19547</tmdbid>
+    <imdbid>nm0074185</imdbid>
+  </actor>
+  <actor>
+    <name>David Sobolov</name>
+    <role>Centurion (voice)</role>
+    <type>Actor</type>
+    <tmdbid>164614</tmdbid>
+    <imdbid>nm0811875</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Bottoms</name>
+    <role>Motorball Announcer (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2242318</tmdbid>
+    <imdbid>nm0098731</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Rodriguez</name>
+    <role>Gelda (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>17647</tmdbid>
+    <imdbid>nm0735442</imdbid>
+  </actor>
+  <actor>
+    <name>Jai Courtney</name>
+    <role>Jashugan (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>224181</tmdbid>
+    <imdbid>nm2541974</imdbid>
+  </actor>
+  <actor>
+    <name>Edward Norton</name>
+    <role>Nova (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>819</tmdbid>
+    <imdbid>nm0001570</imdbid>
+  </actor>
+  <actor>
+    <name>Gene Cervenka</name>
+    <role>Bodyguard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2626177</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Gonzalez</name>
+    <role>Background Extra</role>
+    <type>Actor</type>
+    <tmdbid>2676545</tmdbid>
+  </actor>
+  <director tmdbid="2294" imdbid="nm0001675">Robert Rodriguez</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=w7pYhpJaJW8</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=U3D2vmWD88w</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=puKWa8hrvA8</trailer>
+  <rating>7.3</rating>
+  <year>2019</year>
+  <mpaa>HK-IIA</mpaa>
+  <imdbid>tt0437086</imdbid>
+  <tmdbid>399579</tmdbid>
+  <premiered>2019-01-31</premiered>
+  <releasedate>2019-01-31</releasedate>
+  <criticrating>61</criticrating>
+  <runtime>122</runtime>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>科幻</genre>
+  <genre>冒险</genre>
+  <studio>Troublemaker Studios</studio>
+  <studio>Lightstorm Entertainment</studio>
+  <studio>20th Century Fox</studio>
+  <studio>TSG Entertainment</studio>
+  <studio>Province of British Columbia Production Services Tax Credit</studio>
+  <studio>Madhouse</studio>
+  <studio>Stereo D</studio>
+  <uniqueid type="Tmdb">399579</uniqueid>
+  <uniqueid type="Imdb">tt0437086</uniqueid>
+  <id>tt0437086</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>33500131</bitrate>
+        <width>3840</width>
+        <height>1608</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>121</duration>
+        <durationinseconds>7317</durationinseconds>
+      </video>
+      <audio>
+        <codec>truehd</codec>
+        <micodec>truehd</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>grc</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>hin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>rom</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[逃生飞船收到第谷空间站指挥官约翰逊的消息，霍尔登决定前往第谷空间站，内奥米却坚决反对。米勒从寻获的线索中推测真相，他认为朱莉在寻找阿努比斯号上的某样神秘物品。Opa组织的人接近米勒，想要打探朱莉的消息。捕冰船摧毁一事在行星带上引发动乱，霍尔登被认为已经遇害。十一年前一群矿工劫持空间站，约翰逊无视他们的投降屠杀了所有人。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-07 19:42:34</dateadded>
+  <title>还至屠夫处</title>
+  <actor>
+    <name>Steven Strait</name>
+    <role>Jim Holden</role>
+    <type>Actor</type>
+    <tmdbid>54815</tmdbid>
+    <imdbid>nm1711829</imdbid>
+  </actor>
+  <actor>
+    <name>Cas Anvar</name>
+    <role>Alex Kamal</role>
+    <type>Actor</type>
+    <tmdbid>59214</tmdbid>
+    <imdbid>nm0031679</imdbid>
+  </actor>
+  <actor>
+    <name>Dominique Tipper</name>
+    <role>Naomi Nagata</role>
+    <type>Actor</type>
+    <tmdbid>1361876</tmdbid>
+    <imdbid>nm4625680</imdbid>
+  </actor>
+  <actor>
+    <name>Wes Chatham</name>
+    <role>Amos Burton</role>
+    <type>Actor</type>
+    <tmdbid>51682</tmdbid>
+    <imdbid>nm1434871</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Jane</name>
+    <role>Detective Josephus Miller</role>
+    <type>Actor</type>
+    <tmdbid>11155</tmdbid>
+    <imdbid>nm0005048</imdbid>
+  </actor>
+  <actor>
+    <name>Shohreh Aghdashloo</name>
+    <role>Chrisjen Avasarala</role>
+    <type>Actor</type>
+    <tmdbid>21041</tmdbid>
+    <imdbid>nm0013037</imdbid>
+  </actor>
+  <actor>
+    <name>Florence Faivre</name>
+    <role>Julie Mao</role>
+    <type>Actor</type>
+    <tmdbid>88794</tmdbid>
+    <imdbid>nm1552467</imdbid>
+  </actor>
+  <actor>
+    <name>Jay Hernandez</name>
+    <role>Dimitri Havelock</role>
+    <type>GuestStar</type>
+    <tmdbid>19487</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Spencer</name>
+    <role>Belter Commuter #1</role>
+    <type>GuestStar</type>
+    <tmdbid>1251968</tmdbid>
+  </actor>
+  <actor>
+    <name>Billy MacLellan</name>
+    <role>Marama Brown</role>
+    <type>GuestStar</type>
+    <tmdbid>63814</tmdbid>
+    <imdbid>nm0533832</imdbid>
+  </actor>
+  <actor>
+    <name>Duane Murray</name>
+    <role>Gero</role>
+    <type>GuestStar</type>
+    <tmdbid>113931</tmdbid>
+  </actor>
+  <actor>
+    <name>Felicia Simone</name>
+    <role>Thug #1 Lida</role>
+    <type>GuestStar</type>
+    <tmdbid>1752195</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Birman</name>
+    <role>Teen Belter</role>
+    <type>GuestStar</type>
+    <tmdbid>2431190</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamillah Ross</name>
+    <role>Belter Woman</role>
+    <type>GuestStar</type>
+    <tmdbid>1512137</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Murray</name>
+    <role>Detective Cobb</role>
+    <type>GuestStar</type>
+    <tmdbid>62679</tmdbid>
+  </actor>
+  <actor>
+    <name>Robin Kasyanov</name>
+    <role>Belter Man</role>
+    <type>GuestStar</type>
+    <tmdbid>222910</tmdbid>
+  </actor>
+  <actor>
+    <name>Ted Ludzik</name>
+    <role>Pock Mark</role>
+    <type>GuestStar</type>
+    <tmdbid>40386</tmdbid>
+  </actor>
+  <actor>
+    <name>Samantha Madely</name>
+    <role>Belter Commuter #2</role>
+    <type>GuestStar</type>
+    <tmdbid>1312969</tmdbid>
+  </actor>
+  <actor>
+    <name>Sara Mitich</name>
+    <role>Gia</role>
+    <type>GuestStar</type>
+    <tmdbid>1300649</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Stanley</name>
+    <role>Great Dane</role>
+    <type>GuestStar</type>
+    <tmdbid>2431204</tmdbid>
+  </actor>
+  <actor>
+    <name>Raven Stewart</name>
+    <role>Hinekiri Brown</role>
+    <type>GuestStar</type>
+    <tmdbid>1690505</tmdbid>
+  </actor>
+  <actor>
+    <name>Lola Glaudini</name>
+    <role>Captain Shaddid</role>
+    <type>GuestStar</type>
+    <tmdbid>34845</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Bryk</name>
+    <role>Lopez</role>
+    <type>GuestStar</type>
+    <tmdbid>231</tmdbid>
+  </actor>
+  <actor>
+    <name>Tig Fong</name>
+    <role>Thug #2 Kaipo</role>
+    <type>GuestStar</type>
+    <tmdbid>190917</tmdbid>
+  </actor>
+  <actor>
+    <name>Rossif Sutherland</name>
+    <role>Neville Bosch</role>
+    <type>GuestStar</type>
+    <tmdbid>58014</tmdbid>
+  </actor>
+  <actor>
+    <name>Athena Karkanis</name>
+    <role>Octavia Muss</role>
+    <type>GuestStar</type>
+    <tmdbid>51037</tmdbid>
+    <imdbid>nm1920701</imdbid>
+  </actor>
+  <actor>
+    <name>Jared Harris</name>
+    <role>Anderson Dawes</role>
+    <type>GuestStar</type>
+    <tmdbid>15440</tmdbid>
+    <imdbid>nm0364813</imdbid>
+  </actor>
+  <actor>
+    <name>Nile Seguin</name>
+    <role>Clerk</role>
+    <type>GuestStar</type>
+    <tmdbid>1702833</tmdbid>
+  </actor>
+  <actor>
+    <name>Chad L. Coleman</name>
+    <role>Frederick Lucius Johnson</role>
+    <type>GuestStar</type>
+    <tmdbid>124645</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Delfin</name>
+    <role>Heikki Sobong</role>
+    <type>GuestStar</type>
+    <tmdbid>1849328</tmdbid>
+  </actor>
+  <director>Rob Lieberman</director>
+  <rating>7.471</rating>
+  <year>2016</year>
+  <imdbid>tt3983242</imdbid>
+  <tvdbid>5280277</tvdbid>
+  <runtime>43</runtime>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <tvrageid>1065742157</tvrageid>
+  <uniqueid type="Imdb">tt3983242</uniqueid>
+  <uniqueid type="Tvdb">5280277</uniqueid>
+  <uniqueid type="TvRage">1065742157</uniqueid>
+  <episode>5</episode>
+  <season>1</season>
+  <aired>2016-01-05</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10885930</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>43</duration>
+        <durationinseconds>2585</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

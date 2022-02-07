@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[玛丽和谢尔顿的戏剧老师在万圣节为教堂筹款的计划上发生了冲突。乔吉爱上了谢尔顿辅导的叛逆少女。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-11 05:56:21</dateadded>
+  <title>七宗罪和一个小小的卡尔·萨根</title>
+  <actor>
+    <name>Iain Armitage</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1684536</tmdbid>
+    <imdbid>nm8071137</imdbid>
+  </actor>
+  <actor>
+    <name>Zoe Perry</name>
+    <role>Mary Cooper</role>
+    <type>Actor</type>
+    <tmdbid>133450</tmdbid>
+    <imdbid>nm1409365</imdbid>
+  </actor>
+  <actor>
+    <name>Lance Barber</name>
+    <role>George Cooper Sr.</role>
+    <type>Actor</type>
+    <tmdbid>1212111</tmdbid>
+    <imdbid>nm1115741</imdbid>
+  </actor>
+  <actor>
+    <name>Montana Jordan</name>
+    <role>Georgie Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1817307</tmdbid>
+    <imdbid>nm7718664</imdbid>
+  </actor>
+  <actor>
+    <name>Raegan Revord</name>
+    <role>Missy Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1575317</tmdbid>
+    <imdbid>nm6862942</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Potts</name>
+    <role>Connie Tucker</role>
+    <type>Actor</type>
+    <tmdbid>8873</tmdbid>
+    <imdbid>nm0001633</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Hobby</name>
+    <role>Jeff Difford</role>
+    <type>GuestStar</type>
+    <tmdbid>1536526</tmdbid>
+  </actor>
+  <actor>
+    <name>Sara Sanderson</name>
+    <role>Leslie</role>
+    <type>GuestStar</type>
+    <tmdbid>1190818</tmdbid>
+    <imdbid>nm1675919</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Kulbersh</name>
+    <role>Fred Murphy</role>
+    <type>GuestStar</type>
+    <tmdbid>169257</tmdbid>
+    <imdbid>nm1371179</imdbid>
+  </actor>
+  <actor>
+    <name>Hilda Boulware</name>
+    <role>Judy</role>
+    <type>GuestStar</type>
+    <tmdbid>1444817</tmdbid>
+  </actor>
+  <actor>
+    <name>Dale Raoul</name>
+    <role>Melissa</role>
+    <type>GuestStar</type>
+    <tmdbid>174600</tmdbid>
+    <imdbid>nm0710632</imdbid>
+  </actor>
+  <actor>
+    <name>Isabel May</name>
+    <role>Veronica Duncan</role>
+    <type>GuestStar</type>
+    <tmdbid>1972974</tmdbid>
+    <imdbid>nm8908475</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Alexander</name>
+    <role>Gene Lundy</role>
+    <type>GuestStar</type>
+    <tmdbid>1206</tmdbid>
+    <imdbid>nm0004517</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Phuong</name>
+    <role>Tam Nguyen</role>
+    <type>GuestStar</type>
+    <tmdbid>2181372</tmdbid>
+    <imdbid>nm7910690</imdbid>
+  </actor>
+  <actor>
+    <name>Wyatt McClure</name>
+    <role>Billy Sparks</role>
+    <type>GuestStar</type>
+    <tmdbid>2162097</tmdbid>
+    <imdbid>nm5976411</imdbid>
+  </actor>
+  <actor>
+    <name>Nancy Linehan Charles</name>
+    <role>Peg</role>
+    <type>GuestStar</type>
+    <tmdbid>110928</tmdbid>
+    <imdbid>nm0153108</imdbid>
+  </actor>
+  <actor>
+    <name>Katherine Von Till</name>
+    <role>Kimberly</role>
+    <type>GuestStar</type>
+    <tmdbid>983368</tmdbid>
+  </actor>
+  <rating>5.8</rating>
+  <year>2018</year>
+  <imdbid>tt9085372</imdbid>
+  <tvdbid>6851731</tvdbid>
+  <runtime>19</runtime>
+  <genre>Comedy</genre>
+  <uniqueid type="Imdb">tt9085372</uniqueid>
+  <uniqueid type="Tvdb">6851731</uniqueid>
+  <episode>6</episode>
+  <season>2</season>
+  <aired>2018-10-25</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3797604</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1168</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

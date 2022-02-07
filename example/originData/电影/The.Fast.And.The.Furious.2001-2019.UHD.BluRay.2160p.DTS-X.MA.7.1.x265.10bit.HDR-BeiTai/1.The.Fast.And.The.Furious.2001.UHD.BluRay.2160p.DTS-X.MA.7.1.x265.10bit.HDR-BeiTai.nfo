@@ -1,0 +1,245 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[周末的洛杉矶街头，一场亡命飞车大战又将拉开序幕。许多年轻人带来了精心改装的赛车，期望在街头一战成名，赢得荣誉和财富：一轮赛车的赌注高达2000美金。这时，新扎师兄布莱恩登场了。他的任务是借飞车打入活跃在非法赛车活动中的帮派，充当卧底，为警察局和FBI收集证据，查清究竟是哪个帮派经常抢劫运送贵重电子货品的卡车。很快，布莱恩凭借出色的车技赢得了帮派老大多米尼克的欣赏和信任，同时也赢得了多米尼克的妹妹米娅的芳心。但是多米尼克的助手文斯却不喜欢布莱恩，也不信任他。尤其是在布莱恩和米娅相爱后，文斯更是由嫉妒转为仇视。更让布莱恩为难的是，通过与多米尼克的接触，他和这个帮派老大逐渐建立了友谊，两人成了互相尊重、互相信任的好朋友。他开始担心，如果自己真的收集到不利于多米尼克的证据，会毁了两人的兄弟情谊，何况，还有他倾心相爱的米娅，他怎么忍心伤害她呢？受到友情和爱情的双重羁绊，布莱恩陷入了困境……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-04 01:14:48</dateadded>
+  <title>速度与激情</title>
+  <originaltitle>The Fast and the Furious</originaltitle>
+  <actor>
+    <name>Paul Walker</name>
+    <role>Brian O'Conner</role>
+    <type>Actor</type>
+    <tmdbid>8167</tmdbid>
+  </actor>
+  <actor>
+    <name>Vin Diesel</name>
+    <role>Dominic Toretto</role>
+    <type>Actor</type>
+    <tmdbid>12835</tmdbid>
+    <imdbid>nm0004874</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Rodriguez</name>
+    <role>Letty Ortiz</role>
+    <type>Actor</type>
+    <tmdbid>17647</tmdbid>
+    <imdbid>nm0735442</imdbid>
+  </actor>
+  <actor>
+    <name>Jordana Brewster</name>
+    <role>Mia Toretto</role>
+    <type>Actor</type>
+    <tmdbid>22123</tmdbid>
+    <imdbid>nm0108287</imdbid>
+  </actor>
+  <actor>
+    <name>Rick Yune</name>
+    <role>Johnny Tran</role>
+    <type>Actor</type>
+    <tmdbid>10883</tmdbid>
+    <imdbid>nm0950935</imdbid>
+  </actor>
+  <actor>
+    <name>Chad Lindberg</name>
+    <role>Jesse</role>
+    <type>Actor</type>
+    <tmdbid>9186</tmdbid>
+  </actor>
+  <actor>
+    <name>Johnny Strong</name>
+    <role>Leon</role>
+    <type>Actor</type>
+    <tmdbid>12796</tmdbid>
+  </actor>
+  <actor>
+    <name>Ted Levine</name>
+    <role>Sgt. Tanner</role>
+    <type>Actor</type>
+    <tmdbid>15854</tmdbid>
+    <imdbid>nm0505971</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Schulze</name>
+    <role>Vince</role>
+    <type>Actor</type>
+    <tmdbid>31841</tmdbid>
+  </actor>
+  <actor>
+    <name>Thom Barry</name>
+    <role>Agent Bilkins</role>
+    <type>Actor</type>
+    <tmdbid>8175</tmdbid>
+  </actor>
+  <actor>
+    <name>Ja Rule</name>
+    <role>Edwin</role>
+    <type>Actor</type>
+    <tmdbid>61658</tmdbid>
+  </actor>
+  <actor>
+    <name>Vyto Ruginis</name>
+    <role>Harry</role>
+    <type>Actor</type>
+    <tmdbid>61216</tmdbid>
+    <imdbid>nm0749490</imdbid>
+  </actor>
+  <actor>
+    <name>Stanton Rutledge</name>
+    <role>Muse</role>
+    <type>Actor</type>
+    <tmdbid>1479424</tmdbid>
+  </actor>
+  <actor>
+    <name>Noel Gugliemi</name>
+    <role>Hector</role>
+    <type>Actor</type>
+    <tmdbid>53252</tmdbid>
+    <imdbid>nm0346595</imdbid>
+  </actor>
+  <actor>
+    <name>RJ de Vera</name>
+    <role>Danny Yamato</role>
+    <type>Actor</type>
+    <tmdbid>1479425</tmdbid>
+  </actor>
+  <actor>
+    <name>Beau Holden</name>
+    <role>Ted Gassner</role>
+    <type>Actor</type>
+    <tmdbid>1005339</tmdbid>
+  </actor>
+  <actor>
+    <name>Reggie Lee</name>
+    <role>Lance Nguyen</role>
+    <type>Actor</type>
+    <tmdbid>22075</tmdbid>
+  </actor>
+  <actor>
+    <name>David Douglas</name>
+    <role>Rasta Racer</role>
+    <type>Actor</type>
+    <tmdbid>100538</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Navy Tuiasosopo</name>
+    <role>Samoan Guard</role>
+    <type>Actor</type>
+    <tmdbid>84757</tmdbid>
+  </actor>
+  <actor>
+    <name>F. Valentino Morales</name>
+    <role>Dispatcher</role>
+    <type>Actor</type>
+    <tmdbid>84064</tmdbid>
+  </actor>
+  <actor>
+    <name>Neal H. Moritz</name>
+    <role>Ferrari Driver</role>
+    <type>Actor</type>
+    <tmdbid>11874</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Cohen</name>
+    <role>Pizza Hut Delivery Guy</role>
+    <type>Actor</type>
+    <tmdbid>18878</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Smith</name>
+    <role>Big Rig Driver</role>
+    <type>Actor</type>
+    <tmdbid>80406</tmdbid>
+  </actor>
+  <director tmdbid="18878">Rob Cohen</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZsJz2TJAPjw</trailer>
+  <rating>6.8</rating>
+  <year>2001</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt0232500</imdbid>
+  <tmdbid>9799</tmdbid>
+  <premiered>2001-06-22</premiered>
+  <releasedate>2001-06-22</releasedate>
+  <criticrating>54</criticrating>
+  <runtime>107</runtime>
+  <country>Germany</country>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>犯罪</genre>
+  <genre>惊悚</genre>
+  <studio>Ardustry Entertainment</studio>
+  <studio>Universal Pictures</studio>
+  <studio>Original Film</studio>
+  <studio>Mediastream Film GmbH &amp; Co. Productions KG</studio>
+  <set tmdbcolid="9485">
+    <name>速度与激情（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">9799</uniqueid>
+  <uniqueid type="Imdb">tt0232500</uniqueid>
+  <id>tt0232500</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>23772826</bitrate>
+        <width>3840</width>
+        <height>1634</height>
+        <aspect>1920:817</aspect>
+        <aspectratio>1920:817</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>106</duration>
+        <durationinseconds>6411</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

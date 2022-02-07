@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[年轻指挥家亚德里安（奎姆·古铁雷兹 Quim Gutiérrez 饰）的女友贝伦（克拉拉·拉戈 Clara Lago饰）失踪了，活不见人死不见尸，只留下一段视频讯息。郁闷的亚德里安不断被警察怀疑和调查，烦不胜烦之下到小酒馆浇愁，一不小心喝的大醉，受到女招待法比安娜（玛蒂娜·加西亚 Martina García）照顾，两人迅速陷入新的恋情。很快，法比安娜住进亚德里安的大宅，敏感的她时时感到房子里面不对劲，浴室里面好像总有奇怪的声音...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-06-03 15:24:07</dateadded>
+  <title>黑暗面</title>
+  <originaltitle>La cara oculta</originaltitle>
+  <actor>
+    <name>Quim Gutiérrez</name>
+    <role>Adrián</role>
+    <type>Actor</type>
+    <tmdbid>34018</tmdbid>
+    <imdbid>nm1273697</imdbid>
+  </actor>
+  <actor>
+    <name>Martina García</name>
+    <role>Fabiana</role>
+    <type>Actor</type>
+    <tmdbid>233278</tmdbid>
+    <imdbid>nm0306357</imdbid>
+  </actor>
+  <actor>
+    <name>Clara Lago</name>
+    <role>Belén</role>
+    <type>Actor</type>
+    <tmdbid>224731</tmdbid>
+    <imdbid>nm1242939</imdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Stewart</name>
+    <role>Emma</role>
+    <type>Actor</type>
+    <tmdbid>18765</tmdbid>
+    <imdbid>nm0829155</imdbid>
+  </actor>
+  <actor>
+    <name>María Soledad Rodríguez</name>
+    <role>Mesera</role>
+    <type>Actor</type>
+    <tmdbid>1311766</tmdbid>
+    <imdbid>nm3599039</imdbid>
+  </actor>
+  <actor>
+    <name>Marcela Mar</name>
+    <role>Veronica</role>
+    <type>Actor</type>
+    <tmdbid>51006</tmdbid>
+    <imdbid>nm0306622</imdbid>
+  </actor>
+  <actor>
+    <name>Humberto Dorado</name>
+    <role>Tito</role>
+    <type>Actor</type>
+    <tmdbid>61712</tmdbid>
+    <imdbid>nm0233336</imdbid>
+  </actor>
+  <actor>
+    <name>Julio Pachón</name>
+    <role>Buitrago</role>
+    <type>Actor</type>
+    <tmdbid>1311768</tmdbid>
+    <imdbid>nm1143521</imdbid>
+  </actor>
+  <actor>
+    <name>Marcela Benjumea</name>
+    <role>Forense</role>
+    <type>Actor</type>
+    <tmdbid>1251529</tmdbid>
+    <imdbid>nm0071386</imdbid>
+  </actor>
+  <actor>
+    <name>Mozad</name>
+    <role>Perro 'Hans'</role>
+    <type>Actor</type>
+    <tmdbid>1311770</tmdbid>
+    <imdbid>nm5415859</imdbid>
+  </actor>
+  <actor>
+    <name>Juan A. Baptista</name>
+    <role>Ramírez</role>
+    <type>Actor</type>
+    <tmdbid>1241666</tmdbid>
+    <imdbid>nm0052657</imdbid>
+  </actor>
+  <director tmdbid="444720" imdbid="nm1223381">Andrés Baiz</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FbdV5n-Ull0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hWq_1Pj0QDM</trailer>
+  <rating>7.4</rating>
+  <year>2011</year>
+  <imdbid>tt1772250</imdbid>
+  <tmdbid>80184</tmdbid>
+  <premiered>2011-09-16</premiered>
+  <releasedate>2011-09-16</releasedate>
+  <criticrating>80</criticrating>
+  <runtime>97</runtime>
+  <country>Colombia</country>
+  <country>Spain</country>
+  <genre>惊悚</genre>
+  <genre>悬疑</genre>
+  <studio>Avalon Studios</studio>
+  <studio>Dynamo</studio>
+  <studio>Fox International Productions</studio>
+  <uniqueid type="Tmdb">80184</uniqueid>
+  <uniqueid type="Imdb">tt1772250</uniqueid>
+  <id>tt1772250</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>12964429</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5791</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[安东尼·霍普金斯、奥利维娅·科尔曼将出演，根据法国小说家兼剧作家佛罗莱恩·泽勒的舞台剧《父亲》改编的新片。霍普金斯饰演的角色是一个淘气而又高度独立的男人，随着年龄的增长，他拒绝了女儿安妮(科尔曼饰)的一切帮助。然而，在安妮决定和她的伴侣搬去巴黎后，这种帮助变得至关重要。父亲面对不断变化的环境时，他开始怀疑他所爱的人，他自己的思想，甚至他的现实结构。
+ 泽勒将执导本片，并与奥斯卡获奖编剧克里斯托弗·汉普顿([危险方法])合写剧本。该片将于本月在英国开拍。影片的制片人有大卫·帕菲特([莎翁情史])、让-路易·利维([唇语惊魂])、菲利普·卡卡松([时尚先锋香奈儿])等。
+ 这部由泽勒编剧和执导的舞台剧于2012年首次在巴黎上映，赢得了莫里哀奖的最佳舞台剧奖。之后该剧在纽约百老汇和伦敦西区上演，又同时拿下了托尼奖和奥利维尔奖的最佳男演员奖。]]></plot>
+  <outline><![CDATA[爸爸可否不要老(港) / 父亲 / 老父]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-02 14:19:41</dateadded>
+  <title>困在时间里的父亲</title>
+  <originaltitle>The Father</originaltitle>
+  <actor>
+    <name>Anthony Hopkins</name>
+    <role>Anthony</role>
+    <type>Actor</type>
+    <tmdbid>4173</tmdbid>
+    <imdbid>nm0000164</imdbid>
+  </actor>
+  <actor>
+    <name>Olivia Colman</name>
+    <role>Anne</role>
+    <type>Actor</type>
+    <tmdbid>39187</tmdbid>
+    <imdbid>nm1469236</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Gatiss</name>
+    <role>The Man</role>
+    <type>Actor</type>
+    <tmdbid>34546</tmdbid>
+    <imdbid>nm0309693</imdbid>
+  </actor>
+  <actor>
+    <name>Olivia Williams</name>
+    <role>The Woman</role>
+    <type>Actor</type>
+    <tmdbid>11616</tmdbid>
+    <imdbid>nm0931404</imdbid>
+  </actor>
+  <actor>
+    <name>Imogen Poots</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>17606</tmdbid>
+    <imdbid>nm1782299</imdbid>
+  </actor>
+  <actor>
+    <name>Rufus Sewell</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>17328</tmdbid>
+    <imdbid>nm0001722</imdbid>
+  </actor>
+  <actor>
+    <name>Ayesha Dharker</name>
+    <role>Dr. Sarai</role>
+    <type>Actor</type>
+    <tmdbid>33191</tmdbid>
+    <imdbid>nm0223499</imdbid>
+  </actor>
+  <actor>
+    <name>Roman Zeller</name>
+    <role>Boy</role>
+    <type>Actor</type>
+    <tmdbid>3019221</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Mullins</name>
+    <role>Father</role>
+    <type>Actor</type>
+    <tmdbid>3019222</tmdbid>
+  </actor>
+  <actor>
+    <name>Evie Wray</name>
+    <role>Lucy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1264641</tmdbid>
+    <imdbid>nm3561505</imdbid>
+  </actor>
+  <director tmdbid="1150548" imdbid="nm1725469">Florian Zeller</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4TZb7YfK-JI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=OFnoRaLAclg</trailer>
+  <rating>8.3</rating>
+  <year>2020</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt10272386</imdbid>
+  <tmdbid>600354</tmdbid>
+  <premiered>2020-12-23</premiered>
+  <releasedate>2020-12-23</releasedate>
+  <criticrating>98</criticrating>
+  <runtime>97</runtime>
+  <tagline>爸爸可否不要老(港) / 父亲 / 老父</tagline>
+  <country>United Kingdom</country>
+  <country>France</country>
+  <genre>剧情</genre>
+  <studio>Trademark Films</studio>
+  <studio>F Comme Film</studio>
+  <studio>Ciné@</studio>
+  <studio>Embankment Films</studio>
+  <studio>Film4 Productions</studio>
+  <studio>Canal+</studio>
+  <studio>Ciné+</studio>
+  <studio>Orange Studio</studio>
+  <studio>Sony Pictures Classics</studio>
+  <uniqueid type="Tmdb">600354</uniqueid>
+  <uniqueid type="Imdb">tt10272386</uniqueid>
+  <id>tt10272386</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>15199618</bitrate>
+        <width>3840</width>
+        <height>1600</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5817</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chs&amp;eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,529 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[结婚五周年纪念日的早上，尼克·邓恩（本·阿弗莱克 Ben Affleck 饰）来到妹妹玛戈（凯莉·库恩 Carrie Coon 饰）的酒吧，咒骂抱怨那个曾经彼此恩爱缠绵的妻子艾米（罗莎蒙德·派克 Rosamund Pike 饰）以及全然看不见希望的婚姻。当他返回家中时， 却发现客厅留下了暴行的痕迹，而妻子竟不见了踪影。女探员朗达·邦妮（金·迪肯斯 Kim Dickens 饰）接到报案后赶来调查，而现场留下的种种蛛丝马迹似乎昭示着这并非是一件寻常的失踪案，其背后或许隐藏着裂变于夫妻之情的谋杀罪行。艾米的失踪通过媒体大肆渲染和妄加揣测很快闻名全国，品行不端的尼克被推上风口浪尖，至今不见踪影的爱人对他进行无情审判，你侬我侬的甜言蜜语早已化作以血洗血的复仇与折磨……本片根据吉莉安·弗琳（Gillian Flynn）的同名小说改编。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-02 09:08:50</dateadded>
+  <title>消失的爱人</title>
+  <originaltitle>Gone Girl</originaltitle>
+  <actor>
+    <name>Rosamund Pike</name>
+    <role>Amy Elliott Dunne</role>
+    <type>Actor</type>
+    <tmdbid>10882</tmdbid>
+    <imdbid>nm0683253</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Affleck</name>
+    <role>Nick Dunne</role>
+    <type>Actor</type>
+    <tmdbid>880</tmdbid>
+    <imdbid>nm0000255</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Dickens</name>
+    <role>Detective Rhonda Boney</role>
+    <type>Actor</type>
+    <tmdbid>21165</tmdbid>
+    <imdbid>nm0225332</imdbid>
+  </actor>
+  <actor>
+    <name>Tyler Perry</name>
+    <role>Tanner Bolt</role>
+    <type>Actor</type>
+    <tmdbid>80602</tmdbid>
+  </actor>
+  <actor>
+    <name>Neil Patrick Harris</name>
+    <role>Desi Collins</role>
+    <type>Actor</type>
+    <tmdbid>41686</tmdbid>
+  </actor>
+  <actor>
+    <name>Carrie Coon</name>
+    <role>Margo Dunne</role>
+    <type>Actor</type>
+    <tmdbid>1308445</tmdbid>
+    <imdbid>nm4689420</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Fugit</name>
+    <role>Detective Jim Gilpin</role>
+    <type>Actor</type>
+    <tmdbid>11663</tmdbid>
+  </actor>
+  <actor>
+    <name>Lola Kirke</name>
+    <role>Greta</role>
+    <type>Actor</type>
+    <tmdbid>1345418</tmdbid>
+  </actor>
+  <actor>
+    <name>Boyd Holbrook</name>
+    <role>Jeff</role>
+    <type>Actor</type>
+    <tmdbid>467645</tmdbid>
+  </actor>
+  <actor>
+    <name>Casey Wilson</name>
+    <role>Noelle Hawthorne</role>
+    <type>Actor</type>
+    <tmdbid>83872</tmdbid>
+  </actor>
+  <actor>
+    <name>David Clennon</name>
+    <role>Rand Elliott</role>
+    <type>Actor</type>
+    <tmdbid>15412</tmdbid>
+    <imdbid>nm0166359</imdbid>
+  </actor>
+  <actor>
+    <name>Lisa Banes</name>
+    <role>Marybeth Elliott</role>
+    <type>Actor</type>
+    <tmdbid>52878</tmdbid>
+  </actor>
+  <actor>
+    <name>Missi Pyle</name>
+    <role>Ellen Abbott</role>
+    <type>Actor</type>
+    <tmdbid>1294</tmdbid>
+    <imdbid>nm0701512</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Ratajkowski</name>
+    <role>Andie Fitzgerald</role>
+    <type>Actor</type>
+    <tmdbid>1186505</tmdbid>
+  </actor>
+  <actor>
+    <name>Scoot McNairy</name>
+    <role>Tommy O'Hara</role>
+    <type>Actor</type>
+    <tmdbid>59233</tmdbid>
+  </actor>
+  <actor>
+    <name>Sela Ward</name>
+    <role>Sharon Schieber</role>
+    <type>Actor</type>
+    <tmdbid>6068</tmdbid>
+    <imdbid>nm0000688</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Norris</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>166897</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamie McShane</name>
+    <role>Donnelly</role>
+    <type>Actor</type>
+    <tmdbid>79079</tmdbid>
+  </actor>
+  <actor>
+    <name>Leonard Kelly-Young</name>
+    <role>Bill Dunne</role>
+    <type>Actor</type>
+    <tmdbid>1438995</tmdbid>
+  </actor>
+  <actor>
+    <name>Kathleen Rose Perkins</name>
+    <role>Shawna Kelly</role>
+    <type>Actor</type>
+    <tmdbid>149334</tmdbid>
+  </actor>
+  <actor>
+    <name>Pete Housman</name>
+    <role>Walter</role>
+    <type>Actor</type>
+    <tmdbid>1439007</tmdbid>
+  </actor>
+  <actor>
+    <name>Lynn Adrianna</name>
+    <role>Kelly Capitono</role>
+    <type>Actor</type>
+    <tmdbid>549831</tmdbid>
+  </actor>
+  <actor>
+    <name>Cyd Strittmatter</name>
+    <role>Maureen Dunne</role>
+    <type>Actor</type>
+    <tmdbid>1367129</tmdbid>
+  </actor>
+  <actor>
+    <name>Ricky Wood</name>
+    <role>Jason</role>
+    <type>Actor</type>
+    <tmdbid>1439192</tmdbid>
+  </actor>
+  <actor>
+    <name>Donna Rusch</name>
+    <role>Lauren Nevens</role>
+    <type>Actor</type>
+    <tmdbid>1439207</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Atteberry</name>
+    <role>FBI</role>
+    <type>Actor</type>
+    <tmdbid>1192412</tmdbid>
+  </actor>
+  <actor>
+    <name>Darin Cooper</name>
+    <role>Mustached Man</role>
+    <type>Actor</type>
+    <tmdbid>1235973</tmdbid>
+    <imdbid>nm0177970</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Campbell</name>
+    <role>Above-It-All Journalist</role>
+    <type>Actor</type>
+    <tmdbid>1439089</tmdbid>
+  </actor>
+  <actor>
+    <name>Brett Leigh</name>
+    <role>Nervous Intern</role>
+    <type>Actor</type>
+    <tmdbid>1439098</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio St. James</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>1439105</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren Glazier</name>
+    <role>Fashionista</role>
+    <type>Actor</type>
+    <tmdbid>118592</tmdbid>
+  </actor>
+  <actor>
+    <name>Julia Prud'homme</name>
+    <role>Female Officer</role>
+    <type>Actor</type>
+    <tmdbid>1439112</tmdbid>
+  </actor>
+  <actor>
+    <name>Cooper Thornton</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>162828</tmdbid>
+  </actor>
+  <actor>
+    <name>Casey Ruggieri</name>
+    <role>Earnest Girl</role>
+    <type>Actor</type>
+    <tmdbid>1439125</tmdbid>
+  </actor>
+  <actor>
+    <name>Ashley Didion</name>
+    <role>Friend 1</role>
+    <type>Actor</type>
+    <tmdbid>1439141</tmdbid>
+  </actor>
+  <actor>
+    <name>Lexis Nutt</name>
+    <role>Friend 2</role>
+    <type>Actor</type>
+    <tmdbid>1439150</tmdbid>
+  </actor>
+  <actor>
+    <name>L.A. Williams</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>1439155</tmdbid>
+  </actor>
+  <actor>
+    <name>Blake Sheldon</name>
+    <role>Tweaker Teen 1</role>
+    <type>Actor</type>
+    <tmdbid>1439167</tmdbid>
+    <imdbid>nm4455312</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Guse</name>
+    <role>Tweaker Teen 2</role>
+    <type>Actor</type>
+    <tmdbid>1439180</tmdbid>
+  </actor>
+  <actor>
+    <name>Fred Cross</name>
+    <role>Airport Traveler</role>
+    <type>Actor</type>
+    <tmdbid>969294</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark T Anderson</name>
+    <role>Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1439213</tmdbid>
+  </actor>
+  <actor>
+    <name>Kathy Sweeney-Meadows</name>
+    <role>Reporter One</role>
+    <type>Actor</type>
+    <tmdbid>1439208</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Abbink</name>
+    <role>Casino Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1406682</tmdbid>
+  </actor>
+  <actor>
+    <name>Christina Alex</name>
+    <role>Airport Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1400270</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel Baca</name>
+    <role>Casino Customer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1502378</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Blair</name>
+    <role>Press Reporter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1048963</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas R. Baker</name>
+    <role>Limo Driver (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1436357</tmdbid>
+  </actor>
+  <actor>
+    <name>Gregoer Boru</name>
+    <role>Needs a Fix (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1564312</tmdbid>
+  </actor>
+  <actor>
+    <name>Will C.</name>
+    <role>Black Jack Dealer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>139191</tmdbid>
+  </actor>
+  <actor>
+    <name>Caroline Clements</name>
+    <role>Waitress (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1331193</tmdbid>
+  </actor>
+  <actor>
+    <name>Nancy DeMars</name>
+    <role>Flight Attendant (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1554512</tmdbid>
+  </actor>
+  <actor>
+    <name>Davina Joy</name>
+    <role>Reporter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>93242</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael James Kelly</name>
+    <role>CSI Photographer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1454084</tmdbid>
+  </actor>
+  <actor>
+    <name>Elester Latham</name>
+    <role>High Roll Dealer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1080064</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron Massey</name>
+    <role>Sharon's Assistant (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1283330</tmdbid>
+  </actor>
+  <actor>
+    <name>Orion McCabe</name>
+    <role>Coffee Cop (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1583389</tmdbid>
+  </actor>
+  <actor>
+    <name>Roz McHenry</name>
+    <role>Hostess (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1505171</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryan McKinley</name>
+    <role>Truck Stop Cook (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1583390</tmdbid>
+  </actor>
+  <actor>
+    <name>Teebone Mitchell</name>
+    <role>Dealer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1411659</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Nesbitt</name>
+    <role>Amish Musician (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1419130</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Parrish</name>
+    <role>Bartender (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>239758</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaclyn Rose</name>
+    <role>Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1439921</tmdbid>
+  </actor>
+  <actor>
+    <name>Sahlima</name>
+    <role>Gate Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1349942</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Shock</name>
+    <role>Bike Messenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>74510</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Tarpinian</name>
+    <role>Williamsburg Musician (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1302210</tmdbid>
+  </actor>
+  <actor>
+    <name>Tracy Weisert</name>
+    <role>Police Station Woman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1256257</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Winters</name>
+    <role>Makeup (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1590738</tmdbid>
+  </actor>
+  <actor>
+    <name>Tracy Brotherton</name>
+    <role>Press Reporter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1745193</tmdbid>
+  </actor>
+  <actor>
+    <name>Matilde Matteucci</name>
+    <role>Kissing Girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1661085</tmdbid>
+  </actor>
+  <actor>
+    <name>Dale Shane</name>
+    <role>Librarian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1709744</tmdbid>
+  </actor>
+  <actor>
+    <name>Leslie A. Hughes</name>
+    <role>Police Administrator (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1816403</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamie Eddy</name>
+    <role>Zoey</role>
+    <type>Actor</type>
+    <tmdbid>1375305</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Takeda</name>
+    <role>Producer</role>
+    <type>Producer</type>
+    <tmdbid>1439204</tmdbid>
+    <imdbid>nm1956106</imdbid>
+  </actor>
+  <director tmdbid="7467" imdbid="nm0000399">David Fincher</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2-_-1nJf8Vg</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=JU9PdgB3rsk</trailer>
+  <rating>8.1</rating>
+  <year>2014</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt2267998</imdbid>
+  <tmdbid>210577</tmdbid>
+  <premiered>2014-10-01</premiered>
+  <releasedate>2014-10-01</releasedate>
+  <criticrating>87</criticrating>
+  <runtime>149</runtime>
+  <country>United States of America</country>
+  <genre>悬疑</genre>
+  <genre>惊悚</genre>
+  <genre>剧情</genre>
+  <studio>Regency Enterprises</studio>
+  <studio>New Regency Pictures</studio>
+  <studio>Pacific Standard</studio>
+  <studio>TSG Entertainment</studio>
+  <studio>Artemple - Hollywood</studio>
+  <studio>20th Century Fox</studio>
+  <uniqueid type="Tmdb">210577</uniqueid>
+  <uniqueid type="Imdb">tt2267998</uniqueid>
+  <id>tt2267998</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11540274</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>149</duration>
+        <durationinseconds>8941</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

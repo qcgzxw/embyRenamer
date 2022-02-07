@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Young couple Beattie and Sam have finally managed to get onto the property ladder. But the only flat they can afford has a dark and sinister past, a past that demands to be heard.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-05-05 13:59:44</dateadded>
+  <title>死神莫骄狂</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Jenna Coleman</name>
+    <role>Beattie</role>
+    <type>GuestStar</type>
+    <tmdbid>1080542</tmdbid>
+    <imdbid>nm1982510</imdbid>
+  </actor>
+  <actor>
+    <name>Kadiff Kirwan</name>
+    <role>Sam</role>
+    <type>GuestStar</type>
+    <tmdbid>1411379</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Solemani</name>
+    <role>Emily</role>
+    <type>GuestStar</type>
+    <tmdbid>207384</tmdbid>
+    <imdbid>nm1683850</imdbid>
+  </actor>
+  <actor>
+    <name>David Bamber</name>
+    <role>Robin</role>
+    <type>GuestStar</type>
+    <tmdbid>26657</tmdbid>
+    <imdbid>nm0051394</imdbid>
+  </actor>
+  <director>Matt Lipsey</director>
+  <rating>7.5</rating>
+  <year>2020</year>
+  <imdbid>tt9827406</imdbid>
+  <tvdbid>7575161</tvdbid>
+  <runtime>29</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Horror</genre>
+  <uniqueid type="Imdb">tt9827406</uniqueid>
+  <uniqueid type="Tvdb">7575161</uniqueid>
+  <episode>2</episode>
+  <season>5</season>
+  <aired>2020-02-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9302403</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1748</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

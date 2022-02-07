@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[两名推销员因汽车报废而夜宿荒漠，不曾想却在月光下体验了一番梦幻历程。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-27 16:07:39</dateadded>
+  <title>古鱼复苏</title>
+  <actor>
+    <name>Kirk Thornton</name>
+    <role>Old Man (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>81382</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuri Lowenthal</name>
+    <role>Young Man (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>127387</tmdbid>
+  </actor>
+  <director>Damian Nenow</director>
+  <rating>6.1</rating>
+  <year>2019</year>
+  <imdbid>tt9788506</imdbid>
+  <tvdbid>7069836</tvdbid>
+  <runtime>10</runtime>
+  <genre>Animation</genre>
+  <genre>Short</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <genre>Horror</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt9788506</uniqueid>
+  <uniqueid type="Tvdb">7069836</uniqueid>
+  <episode>12</episode>
+  <season>1</season>
+  <aired>2019-03-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3692090</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>10</duration>
+        <durationinseconds>614</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>347738</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

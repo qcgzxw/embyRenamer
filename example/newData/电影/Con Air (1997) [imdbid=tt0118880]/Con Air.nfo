@@ -1,0 +1,647 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　空中监狱是美国运送全美最危险的罪犯而专设的飞机。卡麦伦（尼古拉斯•凯奇 Nicolas Cage 饰）坐上这趟飞机，不是因为他罪恶滔天，而是他为了赶在女儿生日那天，亲手给女儿一份礼物而申请的一次飞行。他在狱中表现良好，典狱官答应了他这个请求。然而，却有一个难题——在这趟飞机上，还押送着一帮杀人狂魔。警探非常留神随时可能出现的危险，但防不胜防的是，飞行过程中那帮暴徒还是挟持了飞机上全部的警察，卡麦伦也被迫帮他们完成逃脱任务。地面的联邦部队决定把飞机打下，把狂徒一网打尽，身陷险境的卡麦伦该逃出这个空中监狱？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-07-15 03:38:01</dateadded>
+  <title>空中监狱</title>
+  <originaltitle>Con Air</originaltitle>
+  <actor>
+    <name>Nicolas Cage</name>
+    <role>Cameron Poe</role>
+    <type>Actor</type>
+    <tmdbid>2963</tmdbid>
+    <imdbid>nm0000115</imdbid>
+  </actor>
+  <actor>
+    <name>John Malkovich</name>
+    <role>"Cyrus the Virus"</role>
+    <type>Actor</type>
+    <tmdbid>6949</tmdbid>
+    <imdbid>nm0000518</imdbid>
+  </actor>
+  <actor>
+    <name>John Cusack</name>
+    <role>Vince Larkin</role>
+    <type>Actor</type>
+    <tmdbid>3036</tmdbid>
+    <imdbid>nm0000131</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Buscemi</name>
+    <role>Garland Greene</role>
+    <type>Actor</type>
+    <tmdbid>884</tmdbid>
+    <imdbid>nm0000114</imdbid>
+  </actor>
+  <actor>
+    <name>Colm Meaney</name>
+    <role>Duncan Malloy</role>
+    <type>Actor</type>
+    <tmdbid>17782</tmdbid>
+    <imdbid>nm0000538</imdbid>
+  </actor>
+  <actor>
+    <name>Mykelti Williamson</name>
+    <role>"Baby-O"</role>
+    <type>Actor</type>
+    <tmdbid>34</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Chinlund</name>
+    <role>"Billy Bedlam"</role>
+    <type>Actor</type>
+    <tmdbid>18461</tmdbid>
+  </actor>
+  <actor>
+    <name>Renoly Santiago</name>
+    <role>"Sally-Can't Dance"</role>
+    <type>Actor</type>
+    <tmdbid>28863</tmdbid>
+  </actor>
+  <actor>
+    <name>Ving Rhames</name>
+    <role>"Diamond Dog"</role>
+    <type>Actor</type>
+    <tmdbid>10182</tmdbid>
+    <imdbid>nm0000609</imdbid>
+  </actor>
+  <actor>
+    <name>Dave Chappelle</name>
+    <role>"Pinball"</role>
+    <type>Actor</type>
+    <tmdbid>4169</tmdbid>
+    <imdbid>nm0152638</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel Ticotin</name>
+    <role>Guard Sally Bishop</role>
+    <type>Actor</type>
+    <tmdbid>10768</tmdbid>
+    <imdbid>nm0001797</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Eastin</name>
+    <role>Guard Falzon</role>
+    <type>Actor</type>
+    <tmdbid>9276</tmdbid>
+    <imdbid>nm0247611</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Trejo</name>
+    <role>"Johnny-23"</role>
+    <type>Actor</type>
+    <tmdbid>11160</tmdbid>
+    <imdbid>nm0001803</imdbid>
+  </actor>
+  <actor>
+    <name>M.C. Gainey</name>
+    <role>"Swamp Thing"</role>
+    <type>Actor</type>
+    <tmdbid>22132</tmdbid>
+    <imdbid>nm0301370</imdbid>
+  </actor>
+  <actor>
+    <name>Landry Allbright</name>
+    <role>Casey Poe</role>
+    <type>Actor</type>
+    <tmdbid>28864</tmdbid>
+    <imdbid>nm0020143</imdbid>
+  </actor>
+  <actor>
+    <name>Monica Potter</name>
+    <role>Tricia Poe</role>
+    <type>Actor</type>
+    <tmdbid>2140</tmdbid>
+    <imdbid>nm0005321</imdbid>
+  </actor>
+  <actor>
+    <name>Brendan Kelly</name>
+    <role>Conrad</role>
+    <type>Actor</type>
+    <tmdbid>166893</tmdbid>
+    <imdbid>nm0446220</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse Borrego</name>
+    <role>Francisco Cindino</role>
+    <type>Actor</type>
+    <tmdbid>58647</tmdbid>
+    <imdbid>nm0001963</imdbid>
+  </actor>
+  <actor>
+    <name>Carl Ciarfalio</name>
+    <role>Con #1</role>
+    <type>Actor</type>
+    <tmdbid>42824</tmdbid>
+    <imdbid>nm0161893</imdbid>
+  </actor>
+  <actor>
+    <name>Mongo Brownlee</name>
+    <role>Ajax</role>
+    <type>Actor</type>
+    <tmdbid>21802</tmdbid>
+    <imdbid>nm0115236</imdbid>
+  </actor>
+  <actor>
+    <name>José Zúñiga</name>
+    <role>Sims</role>
+    <type>Actor</type>
+    <tmdbid>10963</tmdbid>
+    <imdbid>nm0959242</imdbid>
+  </actor>
+  <actor>
+    <name>Ned Bellamy</name>
+    <role>Chopper Pilot</role>
+    <type>Actor</type>
+    <tmdbid>2141</tmdbid>
+    <imdbid>nm0068709</imdbid>
+  </actor>
+  <actor>
+    <name>John Marshall Jones</name>
+    <role>Gator</role>
+    <type>Actor</type>
+    <tmdbid>1194347</tmdbid>
+    <imdbid>nm0428426</imdbid>
+  </actor>
+  <actor>
+    <name>John Roselius</name>
+    <role>Devers</role>
+    <type>Actor</type>
+    <tmdbid>9285</tmdbid>
+    <imdbid>nm0741803</imdbid>
+  </actor>
+  <actor>
+    <name>Fredric Lehne</name>
+    <role>Pilot</role>
+    <type>Actor</type>
+    <tmdbid>9632</tmdbid>
+    <imdbid>nm0499791</imdbid>
+  </actor>
+  <actor>
+    <name>Martin McSorley</name>
+    <role>Co-Pilot</role>
+    <type>Actor</type>
+    <tmdbid>2209512</tmdbid>
+  </actor>
+  <actor>
+    <name>Dylan Haggerty</name>
+    <role>Starkey</role>
+    <type>Actor</type>
+    <tmdbid>156509</tmdbid>
+    <imdbid>nm0353631</imdbid>
+  </actor>
+  <actor>
+    <name>Dan Bell</name>
+    <role>Fuel Jockey</role>
+    <type>Actor</type>
+    <tmdbid>182210</tmdbid>
+    <imdbid>nm0068125</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Stephenson</name>
+    <role>Ted, the Pilot</role>
+    <type>Actor</type>
+    <tmdbid>17449</tmdbid>
+    <imdbid>nm0827307</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Ditty</name>
+    <role>Bus Guard</role>
+    <type>Actor</type>
+    <tmdbid>1772393</tmdbid>
+  </actor>
+  <actor>
+    <name>Tommy Bush</name>
+    <role>Sheriff</role>
+    <type>Actor</type>
+    <tmdbid>1786577</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren Pratt</name>
+    <role>Debbie (6 Yrs Old)</role>
+    <type>Actor</type>
+    <tmdbid>974794</tmdbid>
+    <imdbid>nm0695500</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Hulin</name>
+    <role>Ronnie</role>
+    <type>Actor</type>
+    <tmdbid>1027239</tmdbid>
+    <imdbid>nm0401380</imdbid>
+  </actor>
+  <actor>
+    <name>Don Charles McGovern</name>
+    <role>Smoke</role>
+    <type>Actor</type>
+    <tmdbid>77487</tmdbid>
+    <imdbid>nm0569560</imdbid>
+  </actor>
+  <actor>
+    <name>Angela Featherstone</name>
+    <role>Ginny</role>
+    <type>Actor</type>
+    <tmdbid>15276</tmdbid>
+    <imdbid>nm0004911</imdbid>
+  </actor>
+  <actor>
+    <name>Doug Hutchison</name>
+    <role>Donald</role>
+    <type>Actor</type>
+    <tmdbid>6806</tmdbid>
+    <imdbid>nm0006535</imdbid>
+  </actor>
+  <actor>
+    <name>Jeris Poindexter</name>
+    <role>Watts</role>
+    <type>Actor</type>
+    <tmdbid>17858</tmdbid>
+    <imdbid>nm0688432</imdbid>
+  </actor>
+  <actor>
+    <name>David Ramsey</name>
+    <role>Londell</role>
+    <type>Actor</type>
+    <tmdbid>116774</tmdbid>
+    <imdbid>nm0708981</imdbid>
+  </actor>
+  <actor>
+    <name>Conrad Goode</name>
+    <role>Viking</role>
+    <type>Actor</type>
+    <tmdbid>135353</tmdbid>
+    <imdbid>nm0328806</imdbid>
+  </actor>
+  <actor>
+    <name>Emilio Rivera</name>
+    <role>Carlos</role>
+    <type>Actor</type>
+    <tmdbid>53257</tmdbid>
+    <imdbid>nm0729256</imdbid>
+  </actor>
+  <actor>
+    <name>Mario Roberts</name>
+    <role>Mongoose (Stunt)</role>
+    <type>Actor</type>
+    <tmdbid>166543</tmdbid>
+    <imdbid>nm0731390</imdbid>
+  </actor>
+  <actor>
+    <name>Ty Granderson Jones</name>
+    <role>Blade</role>
+    <type>Actor</type>
+    <tmdbid>205150</tmdbid>
+    <imdbid>nm0429402</imdbid>
+  </actor>
+  <actor>
+    <name>Earl Billings</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>87119</tmdbid>
+    <imdbid>nm0082467</imdbid>
+  </actor>
+  <actor>
+    <name>Greg Collins</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>58950</tmdbid>
+    <imdbid>nm0172333</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Devlin</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>1838353</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Ginther</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>149731</tmdbid>
+    <imdbid>nm0320169</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Patrick Kelly</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>173886</tmdbid>
+    <imdbid>nm0446526</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Olson</name>
+    <role>Uncle Bob</role>
+    <type>Actor</type>
+    <tmdbid>2753091</tmdbid>
+  </actor>
+  <actor>
+    <name>Dawn Bluford</name>
+    <role>Female Baggage Handler</role>
+    <type>Actor</type>
+    <tmdbid>2909955</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Paddock</name>
+    <role>Transportation Officer #1</role>
+    <type>Actor</type>
+    <tmdbid>180648</tmdbid>
+    <imdbid>nm0655613</imdbid>
+  </actor>
+  <actor>
+    <name>Randee Barnes</name>
+    <role>Stickman</role>
+    <type>Actor</type>
+    <tmdbid>2909956</tmdbid>
+  </actor>
+  <actor>
+    <name>Don S. Davis</name>
+    <role>Man In Car</role>
+    <type>Actor</type>
+    <tmdbid>15863</tmdbid>
+    <imdbid>nm0204493</imdbid>
+  </actor>
+  <actor>
+    <name>Barbara Sharma</name>
+    <role>Woman In Car</role>
+    <type>Actor</type>
+    <tmdbid>1786383</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Rosales Jr.</name>
+    <role>Cindino Gunman (Stunts)</role>
+    <type>Actor</type>
+    <tmdbid>43010</tmdbid>
+    <imdbid>nm0740951</imdbid>
+  </actor>
+  <actor>
+    <name>Eddie Perez</name>
+    <role>Cindino Gunman (Stunts)</role>
+    <type>Actor</type>
+    <tmdbid>1031469</tmdbid>
+    <imdbid>nm0673472</imdbid>
+  </actor>
+  <actor>
+    <name>Scott McCoy</name>
+    <role>Cindino Gunman (Stunts)</role>
+    <type>Actor</type>
+    <tmdbid>2909960</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Hayes Currie</name>
+    <role>Cop In Vegas</role>
+    <type>Actor</type>
+    <tmdbid>1557939</tmdbid>
+  </actor>
+  <actor>
+    <name>Ashley Smock</name>
+    <role>Huey Pilot</role>
+    <type>Actor</type>
+    <tmdbid>2030060</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Lynn Frost</name>
+    <role>DEA Agent</role>
+    <type>Actor</type>
+    <tmdbid>2909961</tmdbid>
+  </actor>
+  <actor>
+    <name>Joey Miyashima</name>
+    <role>Tech Guy</role>
+    <type>Actor</type>
+    <tmdbid>56121</tmdbid>
+    <imdbid>nm0594458</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Burkholder</name>
+    <role>Air Traffic Controller</role>
+    <type>Actor</type>
+    <tmdbid>104503</tmdbid>
+    <imdbid>nm0122020</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Cooney</name>
+    <role>Judge</role>
+    <type>Actor</type>
+    <tmdbid>25711</tmdbid>
+    <imdbid>nm0004668</imdbid>
+  </actor>
+  <actor>
+    <name>Gérard L'Heureux</name>
+    <role>Guard Renfro</role>
+    <type>Actor</type>
+    <tmdbid>2088551</tmdbid>
+    <imdbid>nm0478311</imdbid>
+  </actor>
+  <actor>
+    <name>Pete Antico</name>
+    <role>Guard Garner</role>
+    <type>Actor</type>
+    <tmdbid>53593</tmdbid>
+    <imdbid>nm0031055</imdbid>
+  </actor>
+  <actor>
+    <name>John Robotham</name>
+    <role>Guard Ryan</role>
+    <type>Actor</type>
+    <tmdbid>142161</tmdbid>
+    <imdbid>nm0733421</imdbid>
+  </actor>
+  <actor>
+    <name>Gilbert Rosales</name>
+    <role>Ramirez (Stunt)</role>
+    <type>Actor</type>
+    <tmdbid>179887</tmdbid>
+    <imdbid>nm0740962</imdbid>
+  </actor>
+  <actor>
+    <name>Richard L. Duran</name>
+    <role>Warlock (Stunt)</role>
+    <type>Actor</type>
+    <tmdbid>238572</tmdbid>
+    <imdbid>nm0243734</imdbid>
+  </actor>
+  <actor>
+    <name>George Randall</name>
+    <role>Old Con on Plane</role>
+    <type>Actor</type>
+    <tmdbid>2124044</tmdbid>
+    <imdbid>nm0709595</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Bozian</name>
+    <role>Con</role>
+    <type>Actor</type>
+    <tmdbid>987082</tmdbid>
+    <imdbid>nm0102487</imdbid>
+  </actor>
+  <actor>
+    <name>Harley Zumbrum</name>
+    <role>Con</role>
+    <type>Actor</type>
+    <tmdbid>1873105</tmdbid>
+    <imdbid>nm0958638</imdbid>
+  </actor>
+  <actor>
+    <name>Doug Dearth</name>
+    <role>Con</role>
+    <type>Actor</type>
+    <tmdbid>68394</tmdbid>
+    <imdbid>nm0213191</imdbid>
+  </actor>
+  <actor>
+    <name>David Roberson</name>
+    <role>Supervisor</role>
+    <type>Actor</type>
+    <tmdbid>68223</tmdbid>
+    <imdbid>nm0730578</imdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Balahoutis</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>948015</tmdbid>
+    <imdbid>nm0049377</imdbid>
+  </actor>
+  <actor>
+    <name>Dick 'Skip' Evans</name>
+    <role>Airplane Pilot</role>
+    <type>Actor</type>
+    <tmdbid>2175158</tmdbid>
+  </actor>
+  <actor>
+    <name>Sheldon Worthington</name>
+    <role>Co-Pilot</role>
+    <type>Actor</type>
+    <tmdbid>2909965</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Taft</name>
+    <role>Soldier</role>
+    <type>Actor</type>
+    <tmdbid>2909967</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert White</name>
+    <role>Soldier</role>
+    <type>Actor</type>
+    <tmdbid>2909969</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Ellis</name>
+    <role>BOP Official Grant</role>
+    <type>Actor</type>
+    <tmdbid>8191</tmdbid>
+    <imdbid>nm0254760</imdbid>
+  </actor>
+  <actor>
+    <name>John Campbell</name>
+    <role>BOP Bus Driver</role>
+    <type>Actor</type>
+    <tmdbid>2571378</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Willems</name>
+    <role>Paramedic</role>
+    <type>Actor</type>
+    <tmdbid>1845305</tmdbid>
+    <imdbid>nm0929722</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Cusack</name>
+    <role>Paramedic</role>
+    <type>Actor</type>
+    <tmdbid>7143</tmdbid>
+    <imdbid>nm0193641</imdbid>
+  </actor>
+  <actor>
+    <name>Dabbs Greer</name>
+    <role>Old Man Under Truck</role>
+    <type>Actor</type>
+    <tmdbid>6805</tmdbid>
+    <imdbid>nm0339428</imdbid>
+  </actor>
+  <actor>
+    <name>Marco Kyris</name>
+    <role>Cindino's Pilot</role>
+    <type>Actor</type>
+    <tmdbid>1550818</tmdbid>
+  </actor>
+  <director tmdbid="12786">Simon West</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Olvpk5BXWCI</trailer>
+  <rating>6.9</rating>
+  <year>1997</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0118880</imdbid>
+  <tmdbid>1701</tmdbid>
+  <premiered>1997-06-05</premiered>
+  <releasedate>1997-06-05</releasedate>
+  <criticrating>56</criticrating>
+  <runtime>115</runtime>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>惊悚</genre>
+  <genre>犯罪</genre>
+  <studio>Touchstone Pictures</studio>
+  <studio>Jerry Bruckheimer Films</studio>
+  <uniqueid type="Tmdb">1701</uniqueid>
+  <uniqueid type="Imdb">tt0118880</uniqueid>
+  <id>tt0118880</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3227226</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6925</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

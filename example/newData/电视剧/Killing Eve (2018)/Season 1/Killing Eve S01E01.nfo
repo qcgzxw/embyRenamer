@@ -1,0 +1,207 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[When a Russian politician is murdered, a bored MI5 security officer is tasked with protecting the only witness and soon finds herself on a collision course with a violent and extraordinary assassin.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-06-24 12:02:08</dateadded>
+  <title>姣好面容</title>
+  <actor>
+    <name>Sandra Oh</name>
+    <role>Eve Polastri</role>
+    <type>Actor</type>
+    <tmdbid>25540</tmdbid>
+    <imdbid>nm0644897</imdbid>
+  </actor>
+  <actor>
+    <name>Jodie Comer</name>
+    <role>Villanelle</role>
+    <type>Actor</type>
+    <tmdbid>1388593</tmdbid>
+    <imdbid>nm3069650</imdbid>
+  </actor>
+  <actor>
+    <name>Fiona Shaw</name>
+    <role>Carolyn Martens</role>
+    <type>Actor</type>
+    <tmdbid>10981</tmdbid>
+    <imdbid>nm0789716</imdbid>
+  </actor>
+  <actor>
+    <name>Kirby Howell-Baptiste</name>
+    <role>Elena Felton</role>
+    <type>Actor</type>
+    <tmdbid>1532312</tmdbid>
+    <imdbid>nm4624730</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Bodnia</name>
+    <role>Konstantin</role>
+    <type>Actor</type>
+    <tmdbid>3398</tmdbid>
+    <imdbid>nm0091035</imdbid>
+  </actor>
+  <actor>
+    <name>Owen McDonnell</name>
+    <role>Niko Polastri</role>
+    <type>Actor</type>
+    <tmdbid>365333</tmdbid>
+    <imdbid>nm1711652</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Delaney</name>
+    <role>Kenny Stowton</role>
+    <type>Actor</type>
+    <tmdbid>2021417</tmdbid>
+    <imdbid>nm7780301</imdbid>
+  </actor>
+  <actor>
+    <name>Remo Girone</name>
+    <role>Cesare Greco</role>
+    <type>GuestStar</type>
+    <tmdbid>41527</tmdbid>
+  </actor>
+  <actor>
+    <name>Giulia Patrignani</name>
+    <role>Girl In Ice Cream Parlour</role>
+    <type>GuestStar</type>
+    <tmdbid>2107233</tmdbid>
+    <imdbid>nm9747247</imdbid>
+  </actor>
+  <actor>
+    <name>Paolo Roca Rey</name>
+    <role>Ice Cream Vendor</role>
+    <type>GuestStar</type>
+    <tmdbid>2107234</tmdbid>
+  </actor>
+  <actor>
+    <name>Edyta Budnik</name>
+    <role>Kasia Molkovska</role>
+    <type>GuestStar</type>
+    <tmdbid>1168076</tmdbid>
+    <imdbid>nm3217612</imdbid>
+  </actor>
+  <actor>
+    <name>Ania Marson</name>
+    <role>Ethel Rubynovitch</role>
+    <type>GuestStar</type>
+    <tmdbid>110322</tmdbid>
+    <imdbid>nm0551323</imdbid>
+  </actor>
+  <actor>
+    <name>Nicoló Ambrosio</name>
+    <role>Davide</role>
+    <type>GuestStar</type>
+    <tmdbid>2107238</tmdbid>
+  </actor>
+  <actor>
+    <name>Paolo D Bovani</name>
+    <role>Leoluca</role>
+    <type>GuestStar</type>
+    <tmdbid>2093488</tmdbid>
+  </actor>
+  <actor>
+    <name>Nadia Mayer</name>
+    <role>Cesare Greco's Wife</role>
+    <type>GuestStar</type>
+    <tmdbid>2107239</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlyne Francis</name>
+    <role>Reception Nurse</role>
+    <type>GuestStar</type>
+    <tmdbid>2107240</tmdbid>
+  </actor>
+  <actor>
+    <name>Sally Reeve</name>
+    <role>Nurse Watkins</role>
+    <type>GuestStar</type>
+    <tmdbid>1089519</tmdbid>
+    <imdbid>nm0716129</imdbid>
+  </actor>
+  <actor>
+    <name>David Haig</name>
+    <role>Bill Pargrave</role>
+    <type>GuestStar</type>
+    <tmdbid>26717</tmdbid>
+  </actor>
+  <actor>
+    <name>Darren Boyd</name>
+    <role>Frank Haleton</role>
+    <type>GuestStar</type>
+    <tmdbid>17123</tmdbid>
+  </actor>
+  <actor>
+    <name>Ken Nwosu</name>
+    <role>Max Sanford</role>
+    <type>GuestStar</type>
+    <tmdbid>2089960</tmdbid>
+    <imdbid>nm7646809</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Matthews</name>
+    <role>Dominik Wolanski</role>
+    <type>GuestStar</type>
+    <tmdbid>1335317</tmdbid>
+    <imdbid>nm4975478</imdbid>
+  </actor>
+  <actor>
+    <name>Sonia Elliman</name>
+    <role>Madame Tattevin</role>
+    <type>GuestStar</type>
+    <tmdbid>2107236</tmdbid>
+    <imdbid>nm2397882</imdbid>
+  </actor>
+  <director>Harry Bradbeer</director>
+  <rating>8.1</rating>
+  <year>2018</year>
+  <imdbid>tt7062890</imdbid>
+  <tvdbid>6499743</tvdbid>
+  <runtime>43</runtime>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt7062890</uniqueid>
+  <uniqueid type="Tvdb">6499743</uniqueid>
+  <episode>1</episode>
+  <season>1</season>
+  <aired>2018-04-08</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11018195</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>42</duration>
+        <durationinseconds>2551</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

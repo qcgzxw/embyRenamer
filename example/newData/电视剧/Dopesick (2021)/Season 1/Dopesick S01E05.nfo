@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[随着 OxyContin 滥用行为在全国蔓延，布里奇特将这场斗争带到了普渡大学，而瑞克和兰迪则试图在普渡大学内寻找一名告密者，将他们的案子联系在一起。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-12-20 02:03:27</dateadded>
+  <title>告密者</title>
+  <actor>
+    <name>Michael Keaton</name>
+    <role>Samuel Finnix</role>
+    <type>Actor</type>
+    <tmdbid>2232</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Sarsgaard</name>
+    <role>Rick Mountcastle</role>
+    <type>Actor</type>
+    <tmdbid>133</tmdbid>
+    <imdbid>nm0765597</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Stuhlbarg</name>
+    <role>Richard Sackler</role>
+    <type>Actor</type>
+    <tmdbid>72873</tmdbid>
+    <imdbid>nm0836121</imdbid>
+  </actor>
+  <actor>
+    <name>Will Poulter</name>
+    <role>Billy Cutler</role>
+    <type>Actor</type>
+    <tmdbid>93491</tmdbid>
+    <imdbid>nm2401020</imdbid>
+  </actor>
+  <actor>
+    <name>John Hoogenakker</name>
+    <role>Randy Ramseyer</role>
+    <type>Actor</type>
+    <tmdbid>1188193</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaitlyn Dever</name>
+    <role>Betsy Mallum</role>
+    <type>Actor</type>
+    <tmdbid>481337</tmdbid>
+    <imdbid>nm3239803</imdbid>
+  </actor>
+  <actor>
+    <name>Rosario Dawson</name>
+    <role>Bridget Meyer</role>
+    <type>Actor</type>
+    <tmdbid>5916</tmdbid>
+  </actor>
+  <actor>
+    <name>Jake McDorman</name>
+    <role>John Brownlee</role>
+    <type>Actor</type>
+    <tmdbid>94791</tmdbid>
+    <imdbid>nm1416330</imdbid>
+  </actor>
+  <actor>
+    <name>Will Chase</name>
+    <role>Michael Friedman</role>
+    <type>Actor</type>
+    <tmdbid>87927</tmdbid>
+  </actor>
+  <actor>
+    <name>Phillipa Soo</name>
+    <role>Amber</role>
+    <type>Actor</type>
+    <tmdbid>1631814</tmdbid>
+  </actor>
+  <actor>
+    <name>Arischa Conner</name>
+    <role>Leah Turner</role>
+    <type>Actor</type>
+    <tmdbid>2024290</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Unterman</name>
+    <role>Jonathan Sackler</role>
+    <type>Actor</type>
+    <tmdbid>1388926</tmdbid>
+  </actor>
+  <actor>
+    <name>Brendan Patrick Connor</name>
+    <role>Howard Udell</role>
+    <type>Actor</type>
+    <tmdbid>1217576</tmdbid>
+    <imdbid>nm1615964</imdbid>
+  </actor>
+  <actor>
+    <name>Andrea Frankle</name>
+    <role>Beth Sackler</role>
+    <type>Actor</type>
+    <tmdbid>946356</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Powell</name>
+    <role>Sharon Burnham</role>
+    <type>GuestStar</type>
+    <tmdbid>106949</tmdbid>
+  </actor>
+  <director>Patricia Riggen</director>
+  <rating>8</rating>
+  <year>2021</year>
+  <imdbid>tt12536088</imdbid>
+  <tvdbid>8679063</tvdbid>
+  <runtime>64</runtime>
+  <uniqueid type="Tvdb">8679063</uniqueid>
+  <uniqueid type="Imdb">tt12536088</uniqueid>
+  <episode>5</episode>
+  <season>1</season>
+  <aired>2021-10-27</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3191931</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>63</duration>
+        <durationinseconds>3828</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

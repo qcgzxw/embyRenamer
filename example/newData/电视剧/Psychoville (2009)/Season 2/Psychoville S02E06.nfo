@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-06 00:40:53</dateadded>
+  <title>安德鲁斯公司</title>
+  <actor>
+    <name>Dawn French</name>
+    <type>Actor</type>
+    <tmdbid>5539</tmdbid>
+    <imdbid>nm0294067</imdbid>
+  </actor>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Maureen Sowerbutts</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Biggins</name>
+    <type>Actor</type>
+    <tmdbid>133499</tmdbid>
+    <imdbid>nm0081811</imdbid>
+  </actor>
+  <actor>
+    <name>Debbie Chazen</name>
+    <type>Actor</type>
+    <tmdbid>1220030</tmdbid>
+    <imdbid>nm0154708</imdbid>
+  </actor>
+  <actor>
+    <name>Eileen Atkins</name>
+    <type>Actor</type>
+    <tmdbid>20300</tmdbid>
+    <imdbid>nm0040586</imdbid>
+  </actor>
+  <actor>
+    <name>Natalie Cassidy</name>
+    <type>Actor</type>
+    <tmdbid>1216087</tmdbid>
+    <imdbid>nm0144231</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Kaluuya</name>
+    <role>Tealeaf / Michael Fry</role>
+    <type>Actor</type>
+    <tmdbid>206919</tmdbid>
+    <imdbid>nm2257207</imdbid>
+  </actor>
+  <actor>
+    <name>Imelda Staunton</name>
+    <type>Actor</type>
+    <tmdbid>11356</tmdbid>
+    <imdbid>nm0001767</imdbid>
+  </actor>
+  <actor>
+    <name>Vilma Hollingbery</name>
+    <type>Actor</type>
+    <tmdbid>81031</tmdbid>
+    <imdbid>nm0391108</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>David Sowerbutts</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Bonnar</name>
+    <role>Detective Finney</role>
+    <type>Actor</type>
+    <tmdbid>1231402</tmdbid>
+    <imdbid>nm1326440</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Watkins</name>
+    <type>Actor</type>
+    <tmdbid>63608</tmdbid>
+    <imdbid>nm0914327</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Tompkins</name>
+    <role>Robert</role>
+    <type>Actor</type>
+    <tmdbid>1990805</tmdbid>
+  </actor>
+  <director>Matt Lipsey</director>
+  <rating>0</rating>
+  <year>2011</year>
+  <runtime>30</runtime>
+  <episode>6</episode>
+  <season>2</season>
+  <aired>2011-06-06</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4383267</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1797</durationinseconds>
+      </video>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>320000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

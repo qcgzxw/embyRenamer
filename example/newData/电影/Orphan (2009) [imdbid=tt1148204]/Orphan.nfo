@@ -1,0 +1,294 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[凯特和约翰本来有个幸福美满的家庭，但是，凯特的一次意外流产把这一切都毁了。这次意外让他们的婚姻出现了裂痕，凯特原本就很脆弱的灵魂也处在崩溃的边缘。为了能让自己的生活恢复正常，这对夫妻决定到附近的孤儿院领养一个孩子，以安慰他们愧疚的灵魂。来到孤儿院，夫妻俩都被一个名叫艾斯特的女孩给吸引了，很快，他们就决定将艾斯特带回家。 然而，自此以后，不可思议的事件接二连三的发生。表面看上去如天使般天真可爱的艾斯特实际上并不那么简单，凯特坚信，肯定是艾斯特中了什么邪。凯特多次警告约翰以及自己的其他孩子注意观察艾斯特的举动行为，但是却没人理会。 当他们察觉时，一切都已经太晚了……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-10-06 13:39:19</dateadded>
+  <title>孤儿怨</title>
+  <originaltitle>Orphan</originaltitle>
+  <actor>
+    <name>Vera Farmiga</name>
+    <role>Kate Coleman</role>
+    <type>Actor</type>
+    <tmdbid>21657</tmdbid>
+    <imdbid>nm0267812</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Sarsgaard</name>
+    <role>John Coleman</role>
+    <type>Actor</type>
+    <tmdbid>133</tmdbid>
+    <imdbid>nm0765597</imdbid>
+  </actor>
+  <actor>
+    <name>Isabelle Fuhrman</name>
+    <role>Esther</role>
+    <type>Actor</type>
+    <tmdbid>77517</tmdbid>
+    <imdbid>nm2265157</imdbid>
+  </actor>
+  <actor>
+    <name>CCH Pounder</name>
+    <role>Sister Abigail</role>
+    <type>Actor</type>
+    <tmdbid>30485</tmdbid>
+    <imdbid>nm0001634</imdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Bennett</name>
+    <role>Daniel Coleman</role>
+    <type>Actor</type>
+    <tmdbid>6860</tmdbid>
+    <imdbid>nm1497548</imdbid>
+  </actor>
+  <actor>
+    <name>Margo Martindale</name>
+    <role>Dr. Browning</role>
+    <type>Actor</type>
+    <tmdbid>452</tmdbid>
+    <imdbid>nm0553269</imdbid>
+  </actor>
+  <actor>
+    <name>Karel Roden</name>
+    <role>Dr. Värava</role>
+    <type>Actor</type>
+    <tmdbid>10841</tmdbid>
+    <imdbid>nm0734558</imdbid>
+  </actor>
+  <actor>
+    <name>Aryana Engineer</name>
+    <role>Max Coleman</role>
+    <type>Actor</type>
+    <tmdbid>90455</tmdbid>
+    <imdbid>nm2954597</imdbid>
+  </actor>
+  <actor>
+    <name>Rosemary Dunsmore</name>
+    <role>Grandma Barbara</role>
+    <type>Actor</type>
+    <tmdbid>44275</tmdbid>
+    <imdbid>nm0243024</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Young</name>
+    <role>Brenda</role>
+    <type>Actor</type>
+    <tmdbid>90456</tmdbid>
+    <imdbid>nm3520200</imdbid>
+  </actor>
+  <actor>
+    <name>Lorry Ayers</name>
+    <role>Joyce</role>
+    <type>Actor</type>
+    <tmdbid>90457</tmdbid>
+    <imdbid>nm0043794</imdbid>
+  </actor>
+  <actor>
+    <name>Brendan Wall</name>
+    <role>Detective</role>
+    <type>Actor</type>
+    <tmdbid>59602</tmdbid>
+    <imdbid>nm0908381</imdbid>
+  </actor>
+  <actor>
+    <name>Genelle Williams</name>
+    <role>Sister Judith</role>
+    <type>Actor</type>
+    <tmdbid>80969</tmdbid>
+    <imdbid>nm1482647</imdbid>
+  </actor>
+  <actor>
+    <name>Mustafa Abdelkarim</name>
+    <role>Daniel's Friend #1</role>
+    <type>Actor</type>
+    <tmdbid>90458</tmdbid>
+    <imdbid>nm2859938</imdbid>
+  </actor>
+  <actor>
+    <name>Landon Norris</name>
+    <role>Daniel's Friend #2</role>
+    <type>Actor</type>
+    <tmdbid>90459</tmdbid>
+    <imdbid>nm2185870</imdbid>
+  </actor>
+  <actor>
+    <name>Julien Elia</name>
+    <role>Hospital Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>90460</tmdbid>
+    <imdbid>nm2446424</imdbid>
+  </actor>
+  <actor>
+    <name>Leni Parker</name>
+    <role>Delivery Room Nurse</role>
+    <type>Actor</type>
+    <tmdbid>90461</tmdbid>
+    <imdbid>nm0662443</imdbid>
+  </actor>
+  <actor>
+    <name>Gemma James Smith</name>
+    <role>Teacher</role>
+    <type>Actor</type>
+    <tmdbid>90462</tmdbid>
+    <imdbid>nm3520199</imdbid>
+  </actor>
+  <actor>
+    <name>Pia Ajango</name>
+    <role>Saarne Institute Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>90463</tmdbid>
+    <imdbid>nm3520197</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Raudsepp</name>
+    <role>Saarne Institute Orderly</role>
+    <type>Actor</type>
+    <tmdbid>90464</tmdbid>
+    <imdbid>nm2650072</imdbid>
+  </actor>
+  <actor>
+    <name>Sugith Varughese</name>
+    <role>ICU Doctor</role>
+    <type>Actor</type>
+    <tmdbid>44191</tmdbid>
+    <imdbid>nm0890268</imdbid>
+  </actor>
+  <actor>
+    <name>Luis Olivia</name>
+    <role>ICU Nurse</role>
+    <type>Actor</type>
+    <tmdbid>90465</tmdbid>
+    <imdbid>nm3520198</imdbid>
+  </actor>
+  <actor>
+    <name>Ferelith Young</name>
+    <role>Waiting Room Nurse</role>
+    <type>Actor</type>
+    <tmdbid>90466</tmdbid>
+    <imdbid>nm2650041</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Shaver</name>
+    <role>Injection Doctor</role>
+    <type>Actor</type>
+    <tmdbid>90467</tmdbid>
+    <imdbid>nm2359380</imdbid>
+  </actor>
+  <director tmdbid="59521" imdbid="nm1429471">Jaume Collet-Serra</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2ywOPNNii9w</trailer>
+  <rating>7</rating>
+  <year>2009</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt1148204</imdbid>
+  <tmdbid>21208</tmdbid>
+  <premiered>2009-07-24</premiered>
+  <releasedate>2009-07-24</releasedate>
+  <criticrating>56</criticrating>
+  <runtime>123</runtime>
+  <country>Germany</country>
+  <country>France</country>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>恐怖</genre>
+  <genre>惊悚</genre>
+  <genre>悬疑</genre>
+  <studio>Dark Castle Entertainment</studio>
+  <studio>Don Carmody Productions</studio>
+  <studio>StudioCanal</studio>
+  <studio>Studio Babelsberg</studio>
+  <set tmdbcolid="760193">
+    <name>孤儿怨（系列）</name>
+  </set>
+  <uniqueid type="TmdbCollection">760193</uniqueid>
+  <tmdbcollectionid>760193</tmdbcollectionid>
+  <uniqueid type="Imdb">tt1148204</uniqueid>
+  <uniqueid type="Tmdb">21208</uniqueid>
+  <id>tt1148204</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>13092702</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>123</duration>
+        <durationinseconds>7385</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

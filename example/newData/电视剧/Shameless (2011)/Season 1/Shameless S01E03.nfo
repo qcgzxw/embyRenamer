@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[菲奥娜和史蒂夫分手并决定和街区的警官托尼牵手，毕竟两人青梅竹马，托尼从小就喜欢她。曼蒂被伊恩拒绝，盛怒下指控伊恩强奸她，她的不良少年哥哥米奇开始到便利店追杀伊恩。监察机构来人敲开了加拉格的家门，因为房主金杰姑妈一直领着老人津贴，但是他们调查却发现金杰姑妈12年来一直住在老人院。菲奥娜找到法兰克问到底是怎么一回事，法兰克说根本没有金杰姑妈这个人，这些年津贴全都让法兰克花了。加拉格一家为了应付检查从老人院“借”了老太太来，黛比非常喜欢有老人在的那种家庭温暖，但是无奈检查过后他们必须把老人还回去。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-10 17:24:21</dateadded>
+  <title>金杰姑妈</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Slade Wiggins</name>
+    <role>Karen Jackson</role>
+    <type>Actor</type>
+    <tmdbid>439253</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Chatwin</name>
+    <role>Steve Wilton/Jimmy Lishman</role>
+    <type>Actor</type>
+    <tmdbid>503</tmdbid>
+  </actor>
+  <actor>
+    <name>Noel Fisher</name>
+    <role>Mickey Milkovich</role>
+    <type>GuestStar</type>
+    <tmdbid>80352</tmdbid>
+    <imdbid>nm0279720</imdbid>
+  </actor>
+  <actor>
+    <name>Phil Abrams</name>
+    <role>Mr. Bancroft</role>
+    <type>GuestStar</type>
+    <tmdbid>167139</tmdbid>
+    <imdbid>nm0009223</imdbid>
+  </actor>
+  <actor>
+    <name>Pej Vahdat</name>
+    <role>Kash</role>
+    <type>GuestStar</type>
+    <tmdbid>64297</tmdbid>
+  </actor>
+  <actor>
+    <name>Jane Levy</name>
+    <role>Mandy Milkovich</role>
+    <type>GuestStar</type>
+    <tmdbid>530618</tmdbid>
+    <imdbid>nm3994408</imdbid>
+  </actor>
+  <actor>
+    <name>Tyler Jacob Moore</name>
+    <role>Tony Markovich</role>
+    <type>GuestStar</type>
+    <tmdbid>1225818</tmdbid>
+  </actor>
+  <actor>
+    <name>Joan Cusack</name>
+    <role>Sheila Jackson</role>
+    <type>GuestStar</type>
+    <tmdbid>3234</tmdbid>
+    <imdbid>nm0000349</imdbid>
+  </actor>
+  <director>Stephen Hopkins</director>
+  <rating>8.25</rating>
+  <year>2011</year>
+  <imdbid>tt1732475</imdbid>
+  <tvdbid>3444601</tvdbid>
+  <runtime>53</runtime>
+  <uniqueid type="Imdb">tt1732475</uniqueid>
+  <uniqueid type="Tvdb">3444601</uniqueid>
+  <episode>3</episode>
+  <season>1</season>
+  <aired>2011-01-23</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11912982</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>52</duration>
+        <durationinseconds>3154</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>1080p</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

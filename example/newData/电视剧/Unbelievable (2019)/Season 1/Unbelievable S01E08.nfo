@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[来自科罗拉多州的一通电话启动了一连串事件，玛丽的人生则将因此改变。与此同时，凯伦和格蕾丝准备在法庭上迎战关键的一天。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-09-28 04:20:31</dateadded>
+  <title>第 8 集</title>
+  <actor>
+    <name>Kaitlyn Dever</name>
+    <role>Marie Adler</role>
+    <type>Actor</type>
+    <tmdbid>481337</tmdbid>
+    <imdbid>nm3239803</imdbid>
+  </actor>
+  <actor>
+    <name>Toni Collette</name>
+    <role>Detective Grace Rasmussen</role>
+    <type>Actor</type>
+    <tmdbid>3051</tmdbid>
+    <imdbid>nm0001057</imdbid>
+  </actor>
+  <actor>
+    <name>Merritt Wever</name>
+    <role>Detective Karen Duvall</role>
+    <type>Actor</type>
+    <tmdbid>28044</tmdbid>
+    <imdbid>nm0923266</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Amandes</name>
+    <role>Bruce Bronstein</role>
+    <type>GuestStar</type>
+    <tmdbid>126471</tmdbid>
+  </actor>
+  <actor>
+    <name>John Billingsley</name>
+    <role>Judge Brent Gordon</role>
+    <type>GuestStar</type>
+    <tmdbid>21722</tmdbid>
+  </actor>
+  <actor>
+    <name>Max Arciniega</name>
+    <role>Jason Alvarez</role>
+    <type>GuestStar</type>
+    <tmdbid>1046460</tmdbid>
+  </actor>
+  <actor>
+    <name>Jayne Taini</name>
+    <role>Doris Laird</role>
+    <type>GuestStar</type>
+    <tmdbid>1695658</tmdbid>
+    <imdbid>nm0846834</imdbid>
+  </actor>
+  <actor>
+    <name>Austin Hébert</name>
+    <role>Max Duvall</role>
+    <type>GuestStar</type>
+    <tmdbid>1367847</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Lawrence</name>
+    <role>Special Agent Billy Taggart</role>
+    <type>GuestStar</type>
+    <tmdbid>42317</tmdbid>
+  </actor>
+  <actor>
+    <name>Danielle Macdonald</name>
+    <role>Amber Stevenson</role>
+    <type>GuestStar</type>
+    <tmdbid>1203789</tmdbid>
+    <imdbid>nm4359664</imdbid>
+  </actor>
+  <actor>
+    <name>Jun Hee Lee</name>
+    <role>Officer Geoffrey Morris</role>
+    <type>GuestStar</type>
+    <tmdbid>26997</tmdbid>
+    <imdbid>nm1750933</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Martin Gleason</name>
+    <role>Bennett</role>
+    <type>GuestStar</type>
+    <tmdbid>1694924</tmdbid>
+    <imdbid>nm4181366</imdbid>
+  </actor>
+  <actor>
+    <name>Dominic Goodman</name>
+    <role>Frat Bro 3</role>
+    <type>GuestStar</type>
+    <tmdbid>2368802</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Lange</name>
+    <role>Detective Robert Parker</role>
+    <type>GuestStar</type>
+    <tmdbid>116514</tmdbid>
+    <imdbid>nm1441925</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Fagerbakke</name>
+    <role>Detective Pruitt</role>
+    <type>GuestStar</type>
+    <tmdbid>34398</tmdbid>
+    <imdbid>nm0265067</imdbid>
+  </actor>
+  <actor>
+    <name>Connor Tillman</name>
+    <role>Officer Nick Selig</role>
+    <type>GuestStar</type>
+    <tmdbid>2013554</tmdbid>
+  </actor>
+  <actor>
+    <name>John Hartmann</name>
+    <role>Donald Hughes</role>
+    <type>GuestStar</type>
+    <tmdbid>167287</tmdbid>
+    <imdbid>nm0367087</imdbid>
+  </actor>
+  <actor>
+    <name>Jade Ramirez Warner</name>
+    <role>Patrice</role>
+    <type>GuestStar</type>
+    <tmdbid>1255692</tmdbid>
+    <imdbid>nm3030824</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Berry</name>
+    <role>Uniformed Lynnwood Cop (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>1025357</tmdbid>
+    <imdbid>nm1409996</imdbid>
+  </actor>
+  <actor>
+    <name>Janie Macklin</name>
+    <role>Shopper (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>2465165</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfredo Tavares</name>
+    <role>Detective (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>2317714</tmdbid>
+  </actor>
+  <actor>
+    <name>Annaleigh Ashford</name>
+    <role>Lilly Darrow</role>
+    <type>GuestStar</type>
+    <tmdbid>120831</tmdbid>
+  </actor>
+  <actor>
+    <name>Dale Dickey</name>
+    <role>RoseMarie</role>
+    <type>GuestStar</type>
+    <tmdbid>46814</tmdbid>
+    <imdbid>nm0225460</imdbid>
+  </actor>
+  <actor>
+    <name>Blake Ellis</name>
+    <role>Chris McCarthy</role>
+    <type>GuestStar</type>
+    <tmdbid>2341449</tmdbid>
+  </actor>
+  <actor>
+    <name>Omar Maskati</name>
+    <role>Elias</role>
+    <type>GuestStar</type>
+    <tmdbid>1300712</tmdbid>
+    <imdbid>nm5394949</imdbid>
+  </actor>
+  <actor>
+    <name>Kai Lennox</name>
+    <role>Steve Rasmussen</role>
+    <type>GuestStar</type>
+    <tmdbid>21633</tmdbid>
+  </actor>
+  <actor>
+    <name>Liza Lapira</name>
+    <role>Mia</role>
+    <type>GuestStar</type>
+    <tmdbid>51998</tmdbid>
+    <imdbid>nm0487594</imdbid>
+  </actor>
+  <actor>
+    <name>Keitrell Hamilton</name>
+    <role>DMV Passerby</role>
+    <type>GuestStar</type>
+    <tmdbid>2669066</tmdbid>
+  </actor>
+  <director>Susannah Grant</director>
+  <rating>7.9</rating>
+  <year>2019</year>
+  <imdbid>tt8614440</imdbid>
+  <tvdbid>7288543</tvdbid>
+  <runtime>45</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt8614440</uniqueid>
+  <uniqueid type="Tvdb">7288543</uniqueid>
+  <episode>8</episode>
+  <season>1</season>
+  <aired>2019-09-13</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>7619875</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>45</duration>
+        <durationinseconds>2709</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

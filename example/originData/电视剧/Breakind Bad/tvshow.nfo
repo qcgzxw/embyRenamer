@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[　　故事发生在新墨西哥州，高中化学老师 Walter 是一位平凡得不能再平凡的小人物。Walter 本是大学研究所化学高材生，并参与过诺贝尔化学奖的合作，但为了过平凡的生活而放弃成为化学家，在一所高中担任化学老师。但是他却被诊断出患了中晚期肺癌。面对突如其来的不幸，他首先想到的是家人未来的生计问题，因为他家中有一位40多岁怀有身孕的妻子和患有轻度脑瘫的儿子，而他是家里唯一的经济来源。]]></plot>
+  <outline><![CDATA[　　故事发生在新墨西哥州，高中化学老师 Walter 是一位平凡得不能再平凡的小人物。Walter 本是大学研究所化学高材生，并参与过诺贝尔化学奖的合作，但为了过平凡的生活而放弃成为化学家，在一所高中担任化学老师。但是他却被诊断出患了中晚期肺癌。面对突如其来的不幸，他首先想到的是家人未来的生计问题，因为他家中有一位40多岁怀有身孕的妻子和患有轻度脑瘫的儿子，而他是家里唯一的经济来源。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-21 09:05:51</dateadded>
+  <title>绝命毒师</title>
+  <originaltitle>Breaking Bad</originaltitle>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=zAjJYkUnTEs</trailer>
+  <trailer>http://www.youtube.com/watch?v=yp2G586zOEE</trailer>
+  <trailer>http://www.youtube.com/watch?v=9-eQU4kw4Q4</trailer>
+  <trailer>http://www.youtube.com/watch?v=ISw9x9WVihM</trailer>
+  <trailer>http://www.youtube.com/watch?v=TPZJHsQqT9I</trailer>
+  <trailer>http://www.youtube.com/watch?v=HhesaQXLuRY</trailer>
+  <trailer>http://www.youtube.com/watch?v=XZ8daibM3AE</trailer>
+  <rating>8.7</rating>
+  <year>2008</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt0903747</imdb_id>
+  <tmdbid>1396</tmdbid>
+  <premiered>2008-01-20</premiered>
+  <releasedate>2008-01-20</releasedate>
+  <enddate>2013-09-29</enddate>
+  <criticrating>96</criticrating>
+  <runtime>45</runtime>
+  <genre>剧情</genre>
+  <studio>AMC</studio>
+  <zap2itid>EP01009396</zap2itid>
+  <tvrageid>18164</tvrageid>
+  <uniqueid type="Imdb">tt0903747</uniqueid>
+  <uniqueid type="Tmdb">1396</uniqueid>
+  <uniqueid type="Zap2It">EP01009396</uniqueid>
+  <uniqueid type="Tvdb">81189</uniqueid>
+  <tvdbid>81189</tvdbid>
+  <uniqueid type="TvRage">18164</uniqueid>
+  <id>81189</id>
+  <episodeguide>
+    <url cache="81189.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/81189/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Ended</status>
+</tvshow>

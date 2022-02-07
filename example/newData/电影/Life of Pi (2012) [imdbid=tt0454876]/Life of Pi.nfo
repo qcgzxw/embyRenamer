@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[故事开始于蒙特娄，也结束于蒙特娄。一名在找寻灵感的作家（拉菲·斯波 Rafe Spall 饰）无意间得知派·帕帖尔（伊尔凡·可汗 Irrfan Khan 饰）的传奇故事。派的父亲（阿迪勒·侯赛因 Adil Hussain 饰）开了一家动物园。因这样特殊的生活环境，少年派（苏拉·沙玛 Suraj Sharma 饰 ）对信仰与人的本性自有一套看法。在派17岁那一年，他的父母决定举家移民加拿大以追求更好的生活，而他也必须离开他的初恋情人。在前往加拿大的船上，他们遇见一位残忍成性的法国厨师（杰拉尔·德帕迪约 Gérard Depardieu 饰）。当天深夜在茫茫大海中，原本令派感到刺激无比的暴风雨一瞬间就成了吞噬货船的大灾难。派却奇迹般地活了下来，搭着救生船在太平洋上漂流，而且有一名最令人意想不到的同伴——理查德·帕克，一只孟加拉老虎。神奇的冒险旅程就这样意外开始了……]]></plot>
+  <outline><![CDATA[不凡历程 不虚此生]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-03 22:52:22</dateadded>
+  <title>少年派的奇幻漂流</title>
+  <originaltitle>Life of Pi</originaltitle>
+  <actor>
+    <name>Suraj Sharma</name>
+    <role>Pi Patel</role>
+    <type>Actor</type>
+    <tmdbid>933160</tmdbid>
+    <imdbid>nm4139037</imdbid>
+  </actor>
+  <actor>
+    <name>Irrfan Khan</name>
+    <role>Adult Pi Patel</role>
+    <type>Actor</type>
+    <tmdbid>76793</tmdbid>
+  </actor>
+  <actor>
+    <name>Ayush Tandon</name>
+    <role>Pi Patel (11-12 Years)</role>
+    <type>Actor</type>
+    <tmdbid>935504</tmdbid>
+  </actor>
+  <actor>
+    <name>Gautam Belur</name>
+    <role>Pi Patel (5 Years)</role>
+    <type>Actor</type>
+    <tmdbid>1133846</tmdbid>
+  </actor>
+  <actor>
+    <name>Adil Hussain</name>
+    <role>Santosh Patel</role>
+    <type>Actor</type>
+    <tmdbid>227849</tmdbid>
+  </actor>
+  <actor>
+    <name>Tabu</name>
+    <role>Gita Patel</role>
+    <type>Actor</type>
+    <tmdbid>55062</tmdbid>
+  </actor>
+  <actor>
+    <name>Ayaan Khan</name>
+    <role>Ravi Patel (7 Years)</role>
+    <type>Actor</type>
+    <tmdbid>1377778</tmdbid>
+  </actor>
+  <actor>
+    <name>Mohd Abbas Khaleeli</name>
+    <role>Ravi Patel (13-14 Years)</role>
+    <type>Actor</type>
+    <tmdbid>1133848</tmdbid>
+  </actor>
+  <actor>
+    <name>Vibish Sivakumar</name>
+    <role>Ravi Patel (18-19 Years)</role>
+    <type>Actor</type>
+    <tmdbid>1133849</tmdbid>
+  </actor>
+  <actor>
+    <name>Gérard Depardieu</name>
+    <role>Cook</role>
+    <type>Actor</type>
+    <tmdbid>16927</tmdbid>
+  </actor>
+  <actor>
+    <name>James Saito</name>
+    <role>Older Insurance Investigator</role>
+    <type>Actor</type>
+    <tmdbid>77155</tmdbid>
+    <imdbid>nm0756839</imdbid>
+  </actor>
+  <actor>
+    <name>Jun Naito</name>
+    <role>Younger Insurance Investigator</role>
+    <type>Actor</type>
+    <tmdbid>121702</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Di Stefano</name>
+    <role>Priest</role>
+    <type>Actor</type>
+    <tmdbid>40541</tmdbid>
+  </actor>
+  <actor>
+    <name>Shravanthi Sainath</name>
+    <role>Anandi</role>
+    <type>Actor</type>
+    <tmdbid>1271647</tmdbid>
+  </actor>
+  <actor>
+    <name>Elie Alouf</name>
+    <role>Mamaji</role>
+    <type>Actor</type>
+    <tmdbid>1271648</tmdbid>
+  </actor>
+  <actor>
+    <name>T.M. Karthik</name>
+    <role>Science Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1271650</tmdbid>
+  </actor>
+  <actor>
+    <name>Amarendran Ramanan</name>
+    <role>Indian History Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1271651</tmdbid>
+  </actor>
+  <actor>
+    <name>Hari Mina Bala</name>
+    <role>Librarian</role>
+    <type>Actor</type>
+    <tmdbid>1271652</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Bo-Chieh</name>
+    <role>Buddhist Sailor</role>
+    <type>Actor</type>
+    <tmdbid>966327</tmdbid>
+  </actor>
+  <actor>
+    <name>Ko I-Chen</name>
+    <role>Tsimtsum Captain</role>
+    <type>Actor</type>
+    <tmdbid>1092245</tmdbid>
+  </actor>
+  <actor>
+    <name>Jag Huang</name>
+    <role>Sailor</role>
+    <type>Actor</type>
+    <tmdbid>581855</tmdbid>
+  </actor>
+  <actor>
+    <name>Ravi Natesan</name>
+    <role>Selvam</role>
+    <type>Actor</type>
+    <tmdbid>2842719</tmdbid>
+  </actor>
+  <actor>
+    <name>Adyant Balaji</name>
+    <role>Bully</role>
+    <type>Actor</type>
+    <tmdbid>2842720</tmdbid>
+  </actor>
+  <actor>
+    <name>Chirag Agarwal</name>
+    <role>Bully</role>
+    <type>Actor</type>
+    <tmdbid>2842721</tmdbid>
+  </actor>
+  <actor>
+    <name>Ahan André Kamath</name>
+    <role>Bully</role>
+    <type>Actor</type>
+    <tmdbid>2842722</tmdbid>
+  </actor>
+  <actor>
+    <name>Om Kamath</name>
+    <role>Bully</role>
+    <type>Actor</type>
+    <tmdbid>2842723</tmdbid>
+  </actor>
+  <actor>
+    <name>Srilekh Katta</name>
+    <role>Bully</role>
+    <type>Actor</type>
+    <tmdbid>2842724</tmdbid>
+  </actor>
+  <actor>
+    <name>Swati Van Rijswijk</name>
+    <role>Anandi's Friend #1</role>
+    <type>Actor</type>
+    <tmdbid>2842725</tmdbid>
+  </actor>
+  <actor>
+    <name>M. Keerthana</name>
+    <role>Anandi's Friend #2</role>
+    <type>Actor</type>
+    <tmdbid>2842726</tmdbid>
+  </actor>
+  <actor>
+    <name>Indumohan Poornima</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2842727</tmdbid>
+  </actor>
+  <actor>
+    <name>Josephine Nithya B.</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2842728</tmdbid>
+  </actor>
+  <actor>
+    <name>Samyuktha S.</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2842729</tmdbid>
+  </actor>
+  <actor>
+    <name>A. Deiva Sundari</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2842730</tmdbid>
+  </actor>
+  <actor>
+    <name>G. Vasantakumary</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2842731</tmdbid>
+  </actor>
+  <actor>
+    <name>A. Vithya</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2842732</tmdbid>
+  </actor>
+  <actor>
+    <name>Mythili Prakash</name>
+    <role>Pi's Wife</role>
+    <type>Actor</type>
+    <tmdbid>2842733</tmdbid>
+  </actor>
+  <actor>
+    <name>Raj Patel</name>
+    <role>Pi's Son</role>
+    <type>Actor</type>
+    <tmdbid>2842734</tmdbid>
+  </actor>
+  <actor>
+    <name>Hadiqa Hamid</name>
+    <role>Pi's Daughter</role>
+    <type>Actor</type>
+    <tmdbid>2842735</tmdbid>
+  </actor>
+  <actor>
+    <name>Iswar Srikumar</name>
+    <role>Muslim Worshipper</role>
+    <type>Actor</type>
+    <tmdbid>2842737</tmdbid>
+  </actor>
+  <actor>
+    <name>Padmini Ramachandran</name>
+    <role>Dance Master</role>
+    <type>Actor</type>
+    <tmdbid>1271649</tmdbid>
+  </actor>
+  <director tmdbid="1614" imdbid="nm0000487">Ang Lee</director>
+  <writer tmdbid="28847" imdbid="nm1245863">Rafe Spall</writer>
+  <credits tmdbid="28847" imdbid="nm1245863">Rafe Spall</credits>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=j9Hjrs6WQ8M</trailer>
+  <rating>7.9</rating>
+  <year>2012</year>
+  <mpaa>PG</mpaa>
+  <imdbid>tt0454876</imdbid>
+  <tmdbid>87827</tmdbid>
+  <premiered>2012-11-20</premiered>
+  <releasedate>2012-11-20</releasedate>
+  <criticrating>86</criticrating>
+  <runtime>127</runtime>
+  <tagline>不凡历程 不虚此生</tagline>
+  <country>Canada</country>
+  <country>Taiwan</country>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>冒险</genre>
+  <genre>剧情</genre>
+  <genre>动作</genre>
+  <studio>Fox 2000 Pictures</studio>
+  <studio>Dune Entertainment</studio>
+  <studio>Ingenious Media</studio>
+  <studio>Haishang Films</studio>
+  <studio>Big Screen Productions</studio>
+  <studio>Ingenious Film Partners</studio>
+  <studio>Netter Productions</studio>
+  <set>
+    <name>李安 Ang Lee</name>
+  </set>
+  <uniqueid type="Imdb">tt0454876</uniqueid>
+  <uniqueid type="Tmdb">87827</uniqueid>
+  <id>tt0454876</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6393990</bitrate>
+        <width>1920</width>
+        <height>1036</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>126</duration>
+        <durationinseconds>7619</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

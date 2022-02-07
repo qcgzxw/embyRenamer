@@ -1,0 +1,180 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Hank 对于 Jesse 知道自己的电话号码十分好奇，闯入了 Jesse 的家中，把 Jesse 一顿揍。没想到 Jesse 十分不抗揍，打两下脑袋就肿得像红烧猪头。Hank 因此被警方停薪留职。就在 Hank 离职当天，Tuco 的两个表兄弟也找到了他。不过，Hank 在表兄弟袭击他之前接到了一个匿名电话，通知他有人来暗杀他。因停职而被没收配枪的他在停车场大战两个表兄弟，一个双腿残疾，另外一个被 Hank 一枪爆头，但是 Hank 也身中四枪，生命垂危。Jesse 声称要报复 Hank，把他告上法庭，让他从此没有工作。Skyler 求 Walter 帮忙救 Hank。Walter 为了帮 Hank，决定弃用硕士 Gale，与 Jesse 继续和作。对这个提议，Jesse 并不在意，悲愤的他对 Walter 说：“自从和你在一起之后，我什么都没有了，离开的离开，死去的死去，我变成了孤家寡人。”不过，最后，Walter 和 Jesse 还是走到了一起。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 16:02:40</dateadded>
+  <title>一分钟</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Luis Moncada</name>
+    <role>Marco Salamanca</role>
+    <type>GuestStar</type>
+    <tmdbid>945491</tmdbid>
+    <imdbid>nm1616991</imdbid>
+  </actor>
+  <actor>
+    <name>Nate Mooney</name>
+    <role>Arms Dealer</role>
+    <type>GuestStar</type>
+    <tmdbid>74538</tmdbid>
+    <imdbid>nm1183102</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Showers</name>
+    <role>Union Rep</role>
+    <type>GuestStar</type>
+    <tmdbid>109787</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Sivertsen</name>
+    <role>ABQ Detective #1</role>
+    <type>GuestStar</type>
+    <tmdbid>156605</tmdbid>
+    <imdbid>nm0803390</imdbid>
+  </actor>
+  <actor>
+    <name>David Costabile</name>
+    <role>Gale Boetticher</role>
+    <type>GuestStar</type>
+    <tmdbid>82167</tmdbid>
+    <imdbid>nm0182345</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Shamus Wiles</name>
+    <role>ASAC George Merkert</role>
+    <type>GuestStar</type>
+    <tmdbid>9291</tmdbid>
+    <imdbid>nm0928795</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Margolis</name>
+    <role>Tio Salamanca</role>
+    <type>GuestStar</type>
+    <tmdbid>1173</tmdbid>
+    <imdbid>nm0546797</imdbid>
+  </actor>
+  <director>Michelle MacLaren</director>
+  <rating>8.801</rating>
+  <year>2010</year>
+  <imdbid>tt1615944</imdbid>
+  <tvdbid>2062381</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt1615944</uniqueid>
+  <uniqueid type="Tvdb">2062381</uniqueid>
+  <episode>7</episode>
+  <season>3</season>
+  <aired>2010-05-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9940101</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2833</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

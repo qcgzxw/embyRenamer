@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[《爱，死亡和机器人》是一部美国独立单元成人动画剧集，由乔舒亚·多南、大卫·芬奇、珍妮佛·米勒和蒂姆·米勒制作。影片涵盖多种类型和形式。短片每一集都是不同的导演，题材也不同，包含了幻想、科幻和恐怖等范围。]]></plot>
+  <outline><![CDATA[《爱，死亡和机器人》是一部美国独立单元成人动画剧集，由乔舒亚·多南、大卫·芬奇、珍妮佛·米勒和蒂姆·米勒制作。影片涵盖多种类型和形式。短片每一集都是不同的导演，题材也不同，包含了幻想、科幻和恐怖等范围。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2019-09-26 13:58:26</dateadded>
+  <title>爱，死亡和机器人</title>
+  <originaltitle>Love, Death &amp; Robots</originaltitle>
+  <actor>
+    <name>Scott Whyte</name>
+    <type>Actor</type>
+    <tmdbid>71520</tmdbid>
+  </actor>
+  <actor>
+    <name>Nolan North</name>
+    <type>Actor</type>
+    <tmdbid>19508</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Yang King</name>
+    <type>Actor</type>
+    <tmdbid>157067</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Cox</name>
+    <type>Actor</type>
+    <tmdbid>136930</tmdbid>
+  </actor>
+  <writer>Tim Miller</writer>
+  <credits>Tim Miller</credits>
+  <trailer>http://www.youtube.com/watch?v=Gj2iCJkp6Ko</trailer>
+  <trailer>http://www.youtube.com/watch?v=ghJkKclfpjY</trailer>
+  <trailer>http://www.youtube.com/watch?v=CZcq9iPbjLg</trailer>
+  <trailer>http://www.youtube.com/watch?v=HA16mcJylmI</trailer>
+  <trailer>http://www.youtube.com/watch?v=wUFwunMKa4E</trailer>
+  <rating>8.2</rating>
+  <year>2019</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt9561862</imdb_id>
+  <tmdbid>86831</tmdbid>
+  <premiered>2019-03-15</premiered>
+  <releasedate>2019-03-15</releasedate>
+  <runtime>15</runtime>
+  <genre>动画</genre>
+  <genre>Sci-Fi &amp; Fantasy</genre>
+  <studio>Netflix</studio>
+  <uniqueid type="Imdb">tt9561862</uniqueid>
+  <uniqueid type="Tmdb">86831</uniqueid>
+  <uniqueid type="Tvdb">357888</uniqueid>
+  <tvdbid>357888</tvdbid>
+  <id>357888</id>
+  <episodeguide>
+    <url cache="357888.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/357888/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

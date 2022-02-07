@@ -1,0 +1,540 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　年轻的联邦调查局官员克拉丽斯·斯达林接受了一项任务：帮助寻找一个失踪的妇女，而这个妇女正受到一个把受害者的皮剥下来的变态系列杀手的威胁。汉尼伯·莱克特以前是位受人尊敬的精神病医生，现在却成精神变态者。克拉丽斯想通过与汉尼伯谈话来了解心理变态杀手的扭曲的心灵。联邦调查局警官杰克·克劳福特认为汉尼伯非常聪明机智，通过与他谈话有助于发现案犯。克拉丽斯必须在汉尼伯透露任何情况之前努力赢得他的信任。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-29 00:07:48</dateadded>
+  <title>沉默的羔羊</title>
+  <originaltitle>The Silence of the Lambs</originaltitle>
+  <actor>
+    <name>Jodie Foster</name>
+    <role>Clarice M. Starling</role>
+    <type>Actor</type>
+    <tmdbid>1038</tmdbid>
+    <imdbid>nm0000149</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Hopkins</name>
+    <role>Dr. Hannibal Lecter</role>
+    <type>Actor</type>
+    <tmdbid>4173</tmdbid>
+    <imdbid>nm0000164</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Glenn</name>
+    <role>Jack Crawford</role>
+    <type>Actor</type>
+    <tmdbid>349</tmdbid>
+  </actor>
+  <actor>
+    <name>Ted Levine</name>
+    <role>Jame 'Buffalo Bill' Gumb</role>
+    <type>Actor</type>
+    <tmdbid>15854</tmdbid>
+    <imdbid>nm0505971</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Heald</name>
+    <role>Dr. Frederick Chilton</role>
+    <type>Actor</type>
+    <tmdbid>16293</tmdbid>
+  </actor>
+  <actor>
+    <name>Brooke Smith</name>
+    <role>Catherine Martin</role>
+    <type>Actor</type>
+    <tmdbid>31649</tmdbid>
+  </actor>
+  <actor>
+    <name>Diane Baker</name>
+    <role>Senator Ruth Martin</role>
+    <type>Actor</type>
+    <tmdbid>6930</tmdbid>
+  </actor>
+  <actor>
+    <name>Kasi Lemmons</name>
+    <role>Ardelia Mapp</role>
+    <type>Actor</type>
+    <tmdbid>51864</tmdbid>
+  </actor>
+  <actor>
+    <name>Frankie Faison</name>
+    <role>Barney Matthews</role>
+    <type>Actor</type>
+    <tmdbid>13936</tmdbid>
+  </actor>
+  <actor>
+    <name>Tracey Walter</name>
+    <role>Lamar</role>
+    <type>Actor</type>
+    <tmdbid>3801</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Napier</name>
+    <role>Lt. Boyle</role>
+    <type>Actor</type>
+    <tmdbid>16119</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Darst</name>
+    <role>Sgt. Tate</role>
+    <type>Actor</type>
+    <tmdbid>183640</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Coleman</name>
+    <role>Sgt. Jim Pembry</role>
+    <type>Actor</type>
+    <tmdbid>1280997</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Butler</name>
+    <role>Roden</role>
+    <type>Actor</type>
+    <tmdbid>76470</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Lazar</name>
+    <role>Pilcher</role>
+    <type>Actor</type>
+    <tmdbid>138988</tmdbid>
+  </actor>
+  <actor>
+    <name>Ron Vawter</name>
+    <role>Paul Krendler</role>
+    <type>Actor</type>
+    <tmdbid>32592</tmdbid>
+  </actor>
+  <actor>
+    <name>Roger Corman</name>
+    <role>FBI Director Hayden Burke</role>
+    <type>Actor</type>
+    <tmdbid>102429</tmdbid>
+  </actor>
+  <actor>
+    <name>Lawrence A. Bonney</name>
+    <role>FBI Instructor</role>
+    <type>Actor</type>
+    <tmdbid>1280985</tmdbid>
+  </actor>
+  <actor>
+    <name>Lawrence T. Wrentz</name>
+    <role>Agent Burroughs</role>
+    <type>Actor</type>
+    <tmdbid>192268</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Brockett</name>
+    <role>Friendly Psychopath</role>
+    <type>Actor</type>
+    <tmdbid>31118</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Seals Jr.</name>
+    <role>Brooding Psychopath</role>
+    <type>Actor</type>
+    <tmdbid>1280986</tmdbid>
+  </actor>
+  <actor>
+    <name>Stuart Rudin</name>
+    <role>Miggs</role>
+    <type>Actor</type>
+    <tmdbid>94435</tmdbid>
+  </actor>
+  <actor>
+    <name>Masha Skorobogatov</name>
+    <role>Young Clarice</role>
+    <type>Actor</type>
+    <tmdbid>1280987</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeffrie Lane</name>
+    <role>Clarice's Father</role>
+    <type>Actor</type>
+    <tmdbid>1280988</tmdbid>
+  </actor>
+  <actor>
+    <name>Leib Lensky</name>
+    <role>Mr. Lang</role>
+    <type>Actor</type>
+    <tmdbid>68927</tmdbid>
+  </actor>
+  <actor>
+    <name>George 'Red' Schwartz</name>
+    <role>Mr. Lang's Driver</role>
+    <type>Actor</type>
+    <tmdbid>68926</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Roche</name>
+    <role>TV Evangelist</role>
+    <type>Actor</type>
+    <tmdbid>1280989</tmdbid>
+  </actor>
+  <actor>
+    <name>James B. Howard</name>
+    <role>Boxing Instructor</role>
+    <type>Actor</type>
+    <tmdbid>1280990</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Miller</name>
+    <role>Mr. Brigham</role>
+    <type>Actor</type>
+    <tmdbid>174914</tmdbid>
+  </actor>
+  <actor>
+    <name>Chuck Aber</name>
+    <role>Agent Terry</role>
+    <type>Actor</type>
+    <tmdbid>102805</tmdbid>
+  </actor>
+  <actor>
+    <name>Gene Borkan</name>
+    <role>Oscar</role>
+    <type>Actor</type>
+    <tmdbid>152638</tmdbid>
+  </actor>
+  <actor>
+    <name>Pat McNamara</name>
+    <role>Sheriff Perkins</role>
+    <type>Actor</type>
+    <tmdbid>1174793</tmdbid>
+    <imdbid>nm0573715</imdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Utt</name>
+    <role>Dr. Akin</role>
+    <type>Actor</type>
+    <tmdbid>16298</tmdbid>
+  </actor>
+  <actor>
+    <name>Darla</name>
+    <role>"Precious" (as "Darla")</role>
+    <type>Actor</type>
+    <tmdbid>1280991</tmdbid>
+  </actor>
+  <actor>
+    <name>Adelle Lutz</name>
+    <role>TV Anchor Woman</role>
+    <type>Actor</type>
+    <tmdbid>1041787</tmdbid>
+  </actor>
+  <actor>
+    <name>Obba Babatundé</name>
+    <role>TV Anchor Man</role>
+    <type>Actor</type>
+    <tmdbid>52057</tmdbid>
+  </actor>
+  <actor>
+    <name>George Michael</name>
+    <role>TV Sportscaster</role>
+    <type>Actor</type>
+    <tmdbid>1280992</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Dratfield</name>
+    <role>Sen. Martin's Aide</role>
+    <type>Actor</type>
+    <tmdbid>175082</tmdbid>
+  </actor>
+  <actor>
+    <name>Stanton-Miranda</name>
+    <role>1st Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1280995</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Saxon</name>
+    <role>2nd Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1280996</tmdbid>
+  </actor>
+  <actor>
+    <name>Cynthia Ettinger</name>
+    <role>Officer Jacobs</role>
+    <type>Actor</type>
+    <tmdbid>1212913</tmdbid>
+  </actor>
+  <actor>
+    <name>Brent Hinkley</name>
+    <role>Officer Murray</role>
+    <type>Actor</type>
+    <tmdbid>7134</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Wyatt</name>
+    <role>Airport Flirt</role>
+    <type>Actor</type>
+    <tmdbid>1111682</tmdbid>
+  </actor>
+  <actor>
+    <name>David Early</name>
+    <role>Spooked Memphis Cop</role>
+    <type>Actor</type>
+    <tmdbid>15074</tmdbid>
+  </actor>
+  <actor>
+    <name>Andre B. Blake</name>
+    <role>Tall Memphis Cop</role>
+    <type>Actor</type>
+    <tmdbid>552526</tmdbid>
+    <imdbid>nm0086470</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Dalzell</name>
+    <role>Distraught Memphis Cop</role>
+    <type>Actor</type>
+    <tmdbid>1280998</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Isaak</name>
+    <role>SWAT Commander</role>
+    <type>Actor</type>
+    <tmdbid>6591</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel von Bargen</name>
+    <role>SWAT Communicator</role>
+    <type>Actor</type>
+    <tmdbid>1473</tmdbid>
+  </actor>
+  <actor>
+    <name>Tommy Lafitte</name>
+    <role>SWAT Shooter</role>
+    <type>Actor</type>
+    <tmdbid>1219514</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Broder</name>
+    <role>EMS Attendant</role>
+    <type>Actor</type>
+    <tmdbid>1280999</tmdbid>
+  </actor>
+  <actor>
+    <name>Buzz Kilman</name>
+    <role>EMS Driver</role>
+    <type>Actor</type>
+    <tmdbid>59329</tmdbid>
+  </actor>
+  <actor>
+    <name>Harry Northup</name>
+    <role>Mr. Bimmel</role>
+    <type>Actor</type>
+    <tmdbid>127738</tmdbid>
+    <imdbid>nm0636140</imdbid>
+  </actor>
+  <actor>
+    <name>Lauren Roselli</name>
+    <role>Stacy Hubka</role>
+    <type>Actor</type>
+    <tmdbid>1281000</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Skorobogatov</name>
+    <role>Young Clarice</role>
+    <type>Actor</type>
+    <tmdbid>1447788</tmdbid>
+  </actor>
+  <actor>
+    <name>Lamont Arnold</name>
+    <role>Flower Delivery Man</role>
+    <type>Actor</type>
+    <tmdbid>1281001</tmdbid>
+  </actor>
+  <actor>
+    <name>John Hall</name>
+    <role>State Trooper (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>102809</tmdbid>
+  </actor>
+  <actor>
+    <name>Ted Monte</name>
+    <role>FBI Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>97902</tmdbid>
+  </actor>
+  <actor>
+    <name>George A. Romero</name>
+    <role>FBI Agent in Memphis (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>14999</tmdbid>
+  </actor>
+  <actor>
+    <name>John W. Iwanonkiw</name>
+    <role>Orderly (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1098036</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert W. Castle</name>
+    <role>Priest on Chilton's Plane (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>552527</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris McGinn</name>
+    <role>Autopsy Victim (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1558881</tmdbid>
+  </actor>
+  <director tmdbid="16294">Jonathan Demme</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=W6Mm8Sbe__o</trailer>
+  <rating>8.6</rating>
+  <year>1991</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0102926</imdbid>
+  <tmdbid>274</tmdbid>
+  <premiered>1991-02-01</premiered>
+  <releasedate>1991-02-01</releasedate>
+  <criticrating>96</criticrating>
+  <runtime>119</runtime>
+  <country>United States of America</country>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <genre>恐怖</genre>
+  <studio>Orion Pictures</studio>
+  <studio>Strong Heart/Demme Production</studio>
+  <set tmdbcolid="9743">
+    <name>汉尼拔·莱克特（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">274</uniqueid>
+  <uniqueid type="Imdb">tt0102926</uniqueid>
+  <id>tt0102926</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>45654013</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>118</duration>
+        <durationinseconds>7127</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>1</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

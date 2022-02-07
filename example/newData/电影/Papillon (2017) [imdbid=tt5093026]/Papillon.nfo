@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[翻拍自1973年史蒂夫·麦奎因与达斯汀·霍夫曼主演的同名经典越狱电影，讲述一个“想飞之心，永远不死”的故事，汉纳姆饰演的硬汉Henri和马雷克饰演的知识分子Louis都是一所岛上监狱的囚犯，而认为自己被冤枉的Henri为了重获自由，多年来不懈越狱。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-11-08 07:27:31</dateadded>
+  <title>巴比龙</title>
+  <originaltitle>Papillon</originaltitle>
+  <actor>
+    <name>Charlie Hunnam</name>
+    <role>Henri 'Papillon' Charrière</role>
+    <type>Actor</type>
+    <tmdbid>56365</tmdbid>
+    <imdbid>nm0402271</imdbid>
+  </actor>
+  <actor>
+    <name>Rami Malek</name>
+    <role>Louis Dega</role>
+    <type>Actor</type>
+    <tmdbid>17838</tmdbid>
+    <imdbid>nm1785339</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Fairbank</name>
+    <role>Jean Castili</role>
+    <type>Actor</type>
+    <tmdbid>8399</tmdbid>
+  </actor>
+  <actor>
+    <name>Eve Hewson</name>
+    <role>Nennete</role>
+    <type>Actor</type>
+    <tmdbid>933271</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Socha</name>
+    <role>Julot</role>
+    <type>Actor</type>
+    <tmdbid>126171</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Vernel</name>
+    <role>Guittou</role>
+    <type>Actor</type>
+    <tmdbid>1446565</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Asbury</name>
+    <role>Commandant</role>
+    <type>Actor</type>
+    <tmdbid>1443861</tmdbid>
+  </actor>
+  <actor>
+    <name>Louisa Pili</name>
+    <role>Clara</role>
+    <type>Actor</type>
+    <tmdbid>79560</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio de la Cruz</name>
+    <role>Tribouillard</role>
+    <type>Actor</type>
+    <tmdbid>1470500</tmdbid>
+  </actor>
+  <actor>
+    <name>Andre Flynn</name>
+    <role>Galgani</role>
+    <type>Actor</type>
+    <tmdbid>1871889</tmdbid>
+  </actor>
+  <actor>
+    <name>Yorick van Wageningen</name>
+    <role>Warden Barrot</role>
+    <type>Actor</type>
+    <tmdbid>31387</tmdbid>
+    <imdbid>nm0905691</imdbid>
+  </actor>
+  <actor>
+    <name>Nikola Kent</name>
+    <role>Deputy Warden Brioulet</role>
+    <type>Actor</type>
+    <tmdbid>1831361</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Phelan</name>
+    <role>Sierra</role>
+    <type>Actor</type>
+    <tmdbid>149466</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Adams</name>
+    <role>Bartiloni</role>
+    <type>Actor</type>
+    <tmdbid>2399171</tmdbid>
+  </actor>
+  <actor>
+    <name>Roland Møller</name>
+    <role>Celier</role>
+    <type>Actor</type>
+    <tmdbid>141876</tmdbid>
+  </actor>
+  <actor>
+    <name>Slavko Sobin</name>
+    <role>El Caiman</role>
+    <type>Actor</type>
+    <tmdbid>1470511</tmdbid>
+  </actor>
+  <actor>
+    <name>Luka Peroš</name>
+    <role>Santini</role>
+    <type>Actor</type>
+    <tmdbid>1076809</tmdbid>
+    <imdbid>nm1524576</imdbid>
+  </actor>
+  <actor>
+    <name>Goran Navojec</name>
+    <role>Smuggler</role>
+    <type>Actor</type>
+    <tmdbid>124961</tmdbid>
+  </actor>
+  <actor>
+    <name>Dragan Mićanović</name>
+    <role>Doctor Guibert</role>
+    <type>Actor</type>
+    <tmdbid>31648</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Basman</name>
+    <role>Maturette</role>
+    <type>Actor</type>
+    <tmdbid>223477</tmdbid>
+  </actor>
+  <actor>
+    <name>Petar Ćirica</name>
+    <role>Abda</role>
+    <type>Actor</type>
+    <tmdbid>1894916</tmdbid>
+  </actor>
+  <actor>
+    <name>Nenad Heraković</name>
+    <role>Mouton</role>
+    <type>Actor</type>
+    <tmdbid>1050849</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Nickles</name>
+    <role>Manhunter #1</role>
+    <type>Actor</type>
+    <tmdbid>2399167</tmdbid>
+  </actor>
+  <actor>
+    <name>Cali Nelle</name>
+    <role>Manhunter #2</role>
+    <type>Actor</type>
+    <tmdbid>1797832</tmdbid>
+  </actor>
+  <actor>
+    <name>Eydel Francisco Balbuena</name>
+    <role>Manhunter #3</role>
+    <type>Actor</type>
+    <tmdbid>2399168</tmdbid>
+  </actor>
+  <actor>
+    <name>Reshad Strik</name>
+    <role>Prison Guard #4</role>
+    <type>Actor</type>
+    <tmdbid>127909</tmdbid>
+  </actor>
+  <actor>
+    <name>Tommy Flanagan</name>
+    <role>Masked Breton</role>
+    <type>Actor</type>
+    <tmdbid>2478</tmdbid>
+    <imdbid>nm0281107</imdbid>
+  </actor>
+  <actor>
+    <name>Lorena Andrea</name>
+    <role>Lali</role>
+    <type>Actor</type>
+    <tmdbid>1887484</tmdbid>
+  </actor>
+  <actor>
+    <name>Poppy Mahendra</name>
+    <role>Zoraima</role>
+    <type>Actor</type>
+    <tmdbid>2399169</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Leonardo Solari</name>
+    <role>Zori</role>
+    <type>Actor</type>
+    <tmdbid>2399170</tmdbid>
+  </actor>
+  <actor>
+    <name>Veronica Quilligan</name>
+    <role>Mother Superior</role>
+    <type>Actor</type>
+    <tmdbid>1144679</tmdbid>
+  </actor>
+  <actor>
+    <name>Mirjam Novak</name>
+    <role>Young Irish Nun</role>
+    <type>Actor</type>
+    <tmdbid>1759677</tmdbid>
+  </actor>
+  <actor>
+    <name>Demetri Goritsas</name>
+    <role>Jean-Pierre Castelnau</role>
+    <type>Actor</type>
+    <tmdbid>20471</tmdbid>
+    <imdbid>nm0330983</imdbid>
+  </actor>
+  <director tmdbid="141884">Michael Noer</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xqj7XOv9mC8</trailer>
+  <rating>7.2</rating>
+  <year>2017</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt5093026</imdbid>
+  <tmdbid>433498</tmdbid>
+  <premiered>2017-09-07</premiered>
+  <releasedate>2017-09-07</releasedate>
+  <criticrating>51</criticrating>
+  <runtime>133</runtime>
+  <country>Czech Republic</country>
+  <country>Malta</country>
+  <country>Serbia</country>
+  <country>Spain</country>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>历史</genre>
+  <genre>犯罪</genre>
+  <studio>Red Granite Pictures</studio>
+  <studio>Czech Anglo Productions</studio>
+  <studio>FishCorb Films</studio>
+  <uniqueid type="Tmdb">433498</uniqueid>
+  <uniqueid type="Imdb">tt5093026</uniqueid>
+  <id>tt5093026</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1998754</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>133</duration>
+        <durationinseconds>7994</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127918</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

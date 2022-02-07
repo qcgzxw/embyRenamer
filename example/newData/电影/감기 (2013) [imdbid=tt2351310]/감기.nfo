@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一群东南亚偷渡客历经艰险来到韩国，但是整个集装箱内的偷渡客几乎全部死亡，只有一人拖着羸弱的身体侥幸逃入闹市之中。殊不知此人身上携带致命猪流感病毒，短短一天时间，病毒迅速蔓延城市的各个角落。许多人在不知不觉间被感染，进而将死亡的阴影引向周围所有的人。美丽的女医生金仁海（秀爱 饰）是一位单身妈妈，她不久前遭遇一场车祸，幸被消防队救援人员姜智久（张赫 饰）救出，却因丢失重要论文资料而备受上司苛责。值此期间，韩国蛇头的弟弟因流感送入仁海的医院治疗，经诊断终于发现流感的起因，死尸横陈的集装箱无疑成为查找病源的关键。 未过多久，猪流感病毒成几何式爆发蔓延，坐享太平的民众面临前所未有的灾难。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-02 08:22:09</dateadded>
+  <title>流感</title>
+  <originaltitle>감기</originaltitle>
+  <actor>
+    <name>Jang Hyuk</name>
+    <role>Kang Ji-Koo</role>
+    <type>Actor</type>
+    <tmdbid>63438</tmdbid>
+  </actor>
+  <actor>
+    <name>Soo Ae</name>
+    <role>Kim In-Hae</role>
+    <type>Actor</type>
+    <tmdbid>1299358</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Min-ha</name>
+    <role>Kim Mi-Reu</role>
+    <type>Actor</type>
+    <tmdbid>1204991</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoo Hae-jin</name>
+    <role>Bae Kyung-Ub</role>
+    <type>Actor</type>
+    <tmdbid>84996</tmdbid>
+    <imdbid>nm1640313</imdbid>
+  </actor>
+  <actor>
+    <name>Ma Dong-seok</name>
+    <role>Jeon Kook-Hwan</role>
+    <type>Actor</type>
+    <tmdbid>1024395</tmdbid>
+    <imdbid>nm3011350</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Hee-jun</name>
+    <role>Byung-Ki</role>
+    <type>Actor</type>
+    <tmdbid>1046863</tmdbid>
+    <imdbid>nm3736232</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Sang-yeob</name>
+    <role>Byoung-Woo</role>
+    <type>Actor</type>
+    <tmdbid>1029156</tmdbid>
+  </actor>
+  <actor>
+    <name>Cha In-pyo</name>
+    <role>South Korean President</role>
+    <type>Actor</type>
+    <tmdbid>142425</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Ki-hyeon</name>
+    <role>Prime Minister</role>
+    <type>Actor</type>
+    <tmdbid>139523</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Hyo-joo</name>
+    <role>Teacher Jung</role>
+    <type>Actor</type>
+    <tmdbid>939135</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Jung-min</name>
+    <role>Chul-Gyo</role>
+    <type>Actor</type>
+    <tmdbid>571172</tmdbid>
+  </actor>
+  <actor>
+    <name>Choi Byung-mo </name>
+    <role>Choi Dong-Chi</role>
+    <type>Actor</type>
+    <tmdbid>1607301</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Moon-Soo</name>
+    <role>Doctor Yang</role>
+    <type>Actor</type>
+    <tmdbid>2272240</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Seung-joon</name>
+    <role>cop at scene of accident</role>
+    <type>Actor</type>
+    <tmdbid>1113060</tmdbid>
+  </actor>
+  <actor>
+    <name>Jang Kyoung-up</name>
+    <role>soldier</role>
+    <type>Actor</type>
+    <tmdbid>1678531</tmdbid>
+  </actor>
+  <actor>
+    <name>Na Ki-soo</name>
+    <role>Center for Disease Control Director</role>
+    <type>Actor</type>
+    <tmdbid>2211785</tmdbid>
+  </actor>
+  <actor>
+    <name>Nam Moon-chul</name>
+    <role>infection judge</role>
+    <type>Actor</type>
+    <tmdbid>1627313</tmdbid>
+    <imdbid>nm3738748</imdbid>
+  </actor>
+  <actor>
+    <name>Seon Uk-hyeon</name>
+    <role>pharmacist</role>
+    <type>Actor</type>
+    <tmdbid>2205137</tmdbid>
+  </actor>
+  <actor>
+    <name>Seol Chang-hee</name>
+    <role>emergency room intern</role>
+    <type>Actor</type>
+    <tmdbid>2159485</tmdbid>
+  </actor>
+  <actor>
+    <name>So Hee-jung</name>
+    <role>Teacher</role>
+    <type>Actor</type>
+    <tmdbid>2776202</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew William Brand</name>
+    <role>Dr. Beckman</role>
+    <type>Actor</type>
+    <tmdbid>2965850</tmdbid>
+  </actor>
+  <director tmdbid="17119">Kim Sung-soo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1BvKZMg2LjU</trailer>
+  <rating>6.6</rating>
+  <year>2013</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt2351310</imdbid>
+  <tmdbid>200085</tmdbid>
+  <premiered>2013-08-14</premiered>
+  <releasedate>2013-08-14</releasedate>
+  <criticrating>40</criticrating>
+  <runtime>122</runtime>
+  <country>South Korea</country>
+  <genre>动作</genre>
+  <genre>剧情</genre>
+  <studio>iLoveCinema</studio>
+  <studio>iFilm</studio>
+  <uniqueid type="Tmdb">200085</uniqueid>
+  <uniqueid type="Imdb">tt2351310</uniqueid>
+  <id>tt2351310</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>14415184</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>121</duration>
+        <durationinseconds>7308</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

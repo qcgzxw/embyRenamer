@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[嘉年华结束后，玛迪和内特被迫接受警方的调查。茱尔斯开始为自己在茹戒毒中扮演的角色感到压力。凯特没有理会困惑的伊桑，而是拥抱了自己的新生活方式。卡西试图与丹尼尔保持距离，专注于她与麦凯的关系。卡尔担心自己的行为对儿子的影响。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-31 20:11:49</dateadded>
+  <title>'03 Bonnie and Clyde</title>
+  <actor>
+    <name>Zendaya</name>
+    <role>Rue Bennett</role>
+    <type>Actor</type>
+    <tmdbid>505710</tmdbid>
+    <imdbid>nm3918035</imdbid>
+  </actor>
+  <actor>
+    <name>Hunter Schafer</name>
+    <role>Jules Vaughn</role>
+    <type>Actor</type>
+    <tmdbid>2340180</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Elordi</name>
+    <role>Nate Jacobs</role>
+    <type>Actor</type>
+    <tmdbid>2034418</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexa Demie</name>
+    <role>Maddy Perez</role>
+    <type>Actor</type>
+    <tmdbid>1497557</tmdbid>
+  </actor>
+  <actor>
+    <name>Barbie Ferreira</name>
+    <role>Kat Hernandez</role>
+    <type>Actor</type>
+    <tmdbid>2340185</tmdbid>
+  </actor>
+  <actor>
+    <name>Sydney Sweeney</name>
+    <role>Cassie Howard</role>
+    <type>Actor</type>
+    <tmdbid>115440</tmdbid>
+    <imdbid>nm2858875</imdbid>
+  </actor>
+  <actor>
+    <name>Angus Cloud</name>
+    <role>Fezco</role>
+    <type>Actor</type>
+    <tmdbid>2352372</tmdbid>
+  </actor>
+  <actor>
+    <name>Storm Reid</name>
+    <role>Gia Bennett</role>
+    <type>Actor</type>
+    <tmdbid>1344344</tmdbid>
+  </actor>
+  <actor>
+    <name>Algee Smith</name>
+    <role>Christopher McKay</role>
+    <type>Actor</type>
+    <tmdbid>1377458</tmdbid>
+  </actor>
+  <actor>
+    <name>Maude Apatow</name>
+    <role>Lexi Howard</role>
+    <type>Actor</type>
+    <tmdbid>41090</tmdbid>
+  </actor>
+  <actor>
+    <name>Nika King</name>
+    <role>Leslie Bennett</role>
+    <type>Actor</type>
+    <tmdbid>98415</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Dane</name>
+    <role>Cal Jacobs</role>
+    <type>Actor</type>
+    <tmdbid>58115</tmdbid>
+  </actor>
+  <actor>
+    <name>Keean Johnson</name>
+    <role>Daniel</role>
+    <type>GuestStar</type>
+    <tmdbid>1448516</tmdbid>
+    <imdbid>nm5277107</imdbid>
+  </actor>
+  <actor>
+    <name>Javon 'Wanna' Walton</name>
+    <role>Ashtray</role>
+    <type>GuestStar</type>
+    <tmdbid>2532098</tmdbid>
+  </actor>
+  <actor>
+    <name>Austin Abrams</name>
+    <role>Ethan Lewis</role>
+    <type>GuestStar</type>
+    <tmdbid>148992</tmdbid>
+  </actor>
+  <actor>
+    <name>Jojo Tua</name>
+    <role>Another Guy / Another Classmate</role>
+    <type>GuestStar</type>
+    <tmdbid>2491481</tmdbid>
+  </actor>
+  <actor>
+    <name>Aileen Burdock</name>
+    <role>Inspecteur Riley</role>
+    <type>GuestStar</type>
+    <tmdbid>1648880</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremiah Birkett</name>
+    <role>Principal Hayes</role>
+    <type>GuestStar</type>
+    <tmdbid>116526</tmdbid>
+    <imdbid>nm0083586</imdbid>
+  </actor>
+  <actor>
+    <name>Mercedes Colon</name>
+    <role>Kat's Mom</role>
+    <type>GuestStar</type>
+    <tmdbid>144975</tmdbid>
+  </actor>
+  <actor>
+    <name>Colman Domingo</name>
+    <role>Ali</role>
+    <type>GuestStar</type>
+    <tmdbid>91671</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophia Rose Wilson</name>
+    <role>BB</role>
+    <type>GuestStar</type>
+    <tmdbid>3386005</tmdbid>
+  </actor>
+  <director>Jennifer Morrison</director>
+  <rating>8.5</rating>
+  <year>2019</year>
+  <imdbid>tt8806268</imdbid>
+  <tvdbid>7194971</tvdbid>
+  <runtime>57</runtime>
+  <uniqueid type="Tvdb">7194971</uniqueid>
+  <uniqueid type="Imdb">tt8806268</uniqueid>
+  <episode>5</episode>
+  <season>1</season>
+  <aired>2019-07-14</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>1782638</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>57</duration>
+        <durationinseconds>3448</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

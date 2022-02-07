@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[薛尔登和李奥纳德的母亲终于相见了，而且还起了冲突。 贝妮黛要求霍华分担家务。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 18:01:25</dateadded>
+  <title>The Maternal Combustion</title>
+  <actor>
+    <name>Christine Baranski</name>
+    <type>GuestStar</type>
+    <tmdbid>11870</tmdbid>
+    <imdbid>nm0004724</imdbid>
+  </actor>
+  <actor>
+    <name>Laurie Metcalf</name>
+    <type>GuestStar</type>
+    <tmdbid>12133</tmdbid>
+    <imdbid>nm0582418</imdbid>
+  </actor>
+  <director>Anthony Rich</director>
+  <rating>7.6</rating>
+  <year>2015</year>
+  <imdbid>tt3862734</imdbid>
+  <tvdbid>5173431</tvdbid>
+  <runtime>19</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>1065794652</tvrageid>
+  <uniqueid type="Imdb">tt3862734</uniqueid>
+  <uniqueid type="Tvdb">5173431</uniqueid>
+  <uniqueid type="TvRage">1065794652</uniqueid>
+  <episode>23</episode>
+  <season>8</season>
+  <aired>2015-04-30</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1584681</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>18</duration>
+        <durationinseconds>1136</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

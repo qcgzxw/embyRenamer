@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[“树华农场”，创办于抗战那年，距重庆市三十多里，坐落在江边小山的半腰，是座常引渡客心驰神往的农场。农场运营三年，虽物产丰富，却在赔钱。而农场股东们对此也是睁一眼闭一眼，因为他们都领略过丁主任的种种好。  丁主任，擅长待人接物，更有令人信服的本事，是农场的实际负责人。丁主任上任的半年间，将有经验的工人换成自己的亲戚。对工人们的怠工、偷鸡摸狗的行为视若不见。农场也开始赔钱。为了整顿农场股东们招了新主任，新主任有知识能力，但严格和刻板的态度使工人们不满。最后在农场租客----一个自认是“全能”艺术家的秦妙斋的煽动和带动下，工人们齐力将新主任赶出农场。而后，秦妙斋也被丁主任交给了保长。  树华农场恢复了旧态，到了夏天，各种果树比往年多结了三倍的果实，那是尤大兴爱护的结果，然而，农场依然是赔钱的。  故事改编自著名作家老舍先生发表于1943年的同名短篇小说，是一部背景设定在战时重庆的三幕寓言黑白片，讲述的是中国抗日战争时期大后方的树华农场在主任丁务源的管理下走向衰败的故事。]]></plot>
+  <outline><![CDATA[根据老舍 1943 年同名小说改编]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2018-07-03 15:11:07</dateadded>
+  <title>不成问题的问题</title>
+  <originaltitle>不成问题的问题</originaltitle>
+  <actor>
+    <name>Fan Wei</name>
+    <role>Ding Wuyuan</role>
+    <type>Actor</type>
+    <tmdbid>134029</tmdbid>
+    <imdbid>nm1981215</imdbid>
+  </actor>
+  <actor>
+    <name>Yin Tao</name>
+    <role>Mrs.You</role>
+    <type>Actor</type>
+    <tmdbid>1562575</tmdbid>
+    <imdbid>nm5088245</imdbid>
+  </actor>
+  <actor>
+    <name>Zhang Chao</name>
+    <role>Qin Miaozhai</role>
+    <type>Actor</type>
+    <tmdbid>1390950</tmdbid>
+    <imdbid>nm4109690</imdbid>
+  </actor>
+  <director tmdbid="103605" imdbid="nm0271807">Mei Feng</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8TOblPase-c</trailer>
+  <rating>7.3</rating>
+  <year>2017</year>
+  <imdbid>tt6128782</imdbid>
+  <tmdbid>418383</tmdbid>
+  <premiered>2017-11-21</premiered>
+  <releasedate>2017-11-21</releasedate>
+  <runtime>144</runtime>
+  <tagline>根据老舍 1943 年同名小说改编</tagline>
+  <country>China</country>
+  <genre>剧情</genre>
+  <studio>China Movie Channel (CMC)</studio>
+  <studio>Youth Film Studio</studio>
+  <uniqueid type="Tmdb">418383</uniqueid>
+  <uniqueid type="Imdb">tt6128782</uniqueid>
+  <id>tt6128782</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2812978</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>143</duration>
+        <durationinseconds>8614</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>256000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[著名大学医学院教授林惜家（黄秋生饰），专门研究人类可以长时间不需睡眠的方法。一天，前女友丘梦熙（吴俐璇饰）突然现身求助，原来她的家人全部患上失眠症，病情去到末期，病人更会陷入失常状态、极具攻击性！为探究真相，林惜家开始连串恐怖实验：潜入停尸间偷取病人大脑，又把丘梦熙关在密室软禁，借此研究睡眠和大脑蛋白质之间的关系… 随着实验愈深入，蹊跷的事情不断在丘梦熙身上发生；就连林惜家也看似受感染，心底开始出现吃人肉的欲望… 原来一切牵涉到45年前，孪生姐妹侯文媛和侯文祯（卫诗雅分饰）的一宗伦常惨案有关！]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-09 18:55:55</dateadded>
+  <title>失眠</title>
+  <originaltitle>失眠</originaltitle>
+  <actor>
+    <name>Anthony Wong</name>
+    <role>Lam Sik-Ka/Lam Sing</role>
+    <type>Actor</type>
+    <tmdbid>66717</tmdbid>
+    <imdbid>nm0938893</imdbid>
+  </actor>
+  <actor>
+    <name>Gordon Lam</name>
+    <role>Chow Fook</role>
+    <type>Actor</type>
+    <tmdbid>83820</tmdbid>
+    <imdbid>nm0482628</imdbid>
+  </actor>
+  <actor>
+    <name>Jojo Goh</name>
+    <role>Monique</role>
+    <type>Actor</type>
+    <tmdbid>1281010</tmdbid>
+    <imdbid>nm4816642</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Wai</name>
+    <role>Man Ching / Man Woon</role>
+    <type>Actor</type>
+    <tmdbid>1005911</tmdbid>
+    <imdbid>nm3588483</imdbid>
+  </actor>
+  <actor>
+    <name>Pancy Chan</name>
+    <role>Fong Ching</role>
+    <type>Actor</type>
+    <tmdbid>1926681</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryant Mak</name>
+    <role>Draco</role>
+    <type>Actor</type>
+    <tmdbid>1413746</tmdbid>
+  </actor>
+  <actor>
+    <name>Ikki Funaki</name>
+    <role>Colonel Tanaka</role>
+    <type>Actor</type>
+    <tmdbid>1503161</tmdbid>
+    <imdbid>nm1967294</imdbid>
+  </actor>
+  <actor>
+    <name>Gai Yew Lan</name>
+    <role>Granny</role>
+    <type>Actor</type>
+    <tmdbid>1766897</tmdbid>
+  </actor>
+  <actor>
+    <name>Jayden Sow</name>
+    <role>Child Sik Ka</role>
+    <type>Actor</type>
+    <tmdbid>1926682</tmdbid>
+  </actor>
+  <actor>
+    <name>Pearlly Chua</name>
+    <role>Psychic</role>
+    <type>Actor</type>
+    <tmdbid>71396</tmdbid>
+    <imdbid>nm2376847</imdbid>
+  </actor>
+  <director tmdbid="92831" imdbid="nm0946875">Herman Yau</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tpjY1MlMFZE</trailer>
+  <rating>5.8</rating>
+  <year>2017</year>
+  <mpaa>HK-III</mpaa>
+  <imdbid>tt6754750</imdbid>
+  <tmdbid>447952</tmdbid>
+  <premiered>2017-04-17</premiered>
+  <releasedate>2017-04-17</releasedate>
+  <runtime>100</runtime>
+  <country>Hong Kong</country>
+  <genre>恐怖</genre>
+  <genre>惊悚</genre>
+  <studio>Stellar Megamedia</studio>
+  <studio>Emperor Motion Pictures</studio>
+  <uniqueid type="Tmdb">447952</uniqueid>
+  <uniqueid type="Imdb">tt6754750</uniqueid>
+  <id>tt6754750</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>17134856</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6011</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

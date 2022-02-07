@@ -1,0 +1,421 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[故事讲述一博主史蒂芬娜（安娜·肯德里克 饰）偶遇艾米丽（布蕾克·莱弗利 饰），两人迅速成为好友，而当史蒂芬娜请求艾米丽帮助她接孩子时，艾米丽却和儿子突然消失。一切似乎很不寻常。本片根据达塞·贝尔同名小说改编。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-12-30 09:48:54</dateadded>
+  <title>一个小忙</title>
+  <originaltitle>A Simple Favor</originaltitle>
+  <actor>
+    <name>Anna Kendrick</name>
+    <role>Stephanie Smothers</role>
+    <type>Actor</type>
+    <tmdbid>84223</tmdbid>
+  </actor>
+  <actor>
+    <name>Blake Lively</name>
+    <role>Emily Nelson</role>
+    <type>Actor</type>
+    <tmdbid>59175</tmdbid>
+    <imdbid>nm0515116</imdbid>
+  </actor>
+  <actor>
+    <name>Henry Golding</name>
+    <role>Sean Townsend</role>
+    <type>Actor</type>
+    <tmdbid>1807132</tmdbid>
+    <imdbid>nm8850080</imdbid>
+  </actor>
+  <actor>
+    <name>Rupert Friend</name>
+    <role>Dennis Nylon</role>
+    <type>Actor</type>
+    <tmdbid>36669</tmdbid>
+    <imdbid>nm1670029</imdbid>
+  </actor>
+  <actor>
+    <name>Linda Cardellini</name>
+    <role>Diana Hyland</role>
+    <type>Actor</type>
+    <tmdbid>1817</tmdbid>
+    <imdbid>nm0004802</imdbid>
+  </actor>
+  <actor>
+    <name>Bashir Salahuddin</name>
+    <role>Detective Summervile</role>
+    <type>Actor</type>
+    <tmdbid>1241330</tmdbid>
+    <imdbid>nm1506981</imdbid>
+  </actor>
+  <actor>
+    <name>Danielle Bourgon</name>
+    <role>Grace, Stephanie's Mom</role>
+    <type>Actor</type>
+    <tmdbid>1323876</tmdbid>
+    <imdbid>nm1692750</imdbid>
+  </actor>
+  <actor>
+    <name>Kelly McCormack</name>
+    <role>Stacy</role>
+    <type>Actor</type>
+    <tmdbid>1309781</tmdbid>
+    <imdbid>nm3080168</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Rannells</name>
+    <role>Darren</role>
+    <type>Actor</type>
+    <tmdbid>990369</tmdbid>
+    <imdbid>nm0710330</imdbid>
+  </actor>
+  <actor>
+    <name>Ian Ho</name>
+    <role>Nicky Nelson</role>
+    <type>Actor</type>
+    <tmdbid>2123596</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Satine</name>
+    <role>Miles Smothers</role>
+    <type>Actor</type>
+    <tmdbid>1914365</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Jurewicz</name>
+    <role>Bobby Chelkowsky</role>
+    <type>Actor</type>
+    <tmdbid>2123597</tmdbid>
+  </actor>
+  <actor>
+    <name>Roger Dunn</name>
+    <role>Bruce Hargrave</role>
+    <type>Actor</type>
+    <tmdbid>1351508</tmdbid>
+  </actor>
+  <actor>
+    <name>Dustin Milligan</name>
+    <role>Chris</role>
+    <type>Actor</type>
+    <tmdbid>53117</tmdbid>
+    <imdbid>nm1682420</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Johnson</name>
+    <role>Davis</role>
+    <type>Actor</type>
+    <tmdbid>33337</tmdbid>
+    <imdbid>nm0425053</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Oliveira</name>
+    <role>Diego</role>
+    <type>Actor</type>
+    <tmdbid>2196385</tmdbid>
+  </actor>
+  <actor>
+    <name>Patti Harrison</name>
+    <role>Kiko</role>
+    <type>Actor</type>
+    <tmdbid>2079729</tmdbid>
+    <imdbid>nm8773928</imdbid>
+  </actor>
+  <actor>
+    <name>Ava LaFramboise</name>
+    <role>Lulu</role>
+    <type>Actor</type>
+    <tmdbid>2196384</tmdbid>
+  </actor>
+  <actor>
+    <name>Jean Smart</name>
+    <role>Margaret McLanden</role>
+    <type>Actor</type>
+    <tmdbid>5376</tmdbid>
+    <imdbid>nm0005443</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Baker</name>
+    <role>Maryanne Chelkowsky</role>
+    <type>Actor</type>
+    <tmdbid>461542</tmdbid>
+    <imdbid>nm1807222</imdbid>
+  </actor>
+  <actor>
+    <name>Glenda Braganza</name>
+    <role>Mrs. Kerry</role>
+    <type>Actor</type>
+    <tmdbid>303734</tmdbid>
+  </actor>
+  <actor>
+    <name>Zach Smadu</name>
+    <role>Officer Blanco</role>
+    <type>Actor</type>
+    <tmdbid>1722080</tmdbid>
+    <imdbid>nm3664362</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Moodie</name>
+    <role>Sergeant Molloy</role>
+    <type>Actor</type>
+    <tmdbid>166522</tmdbid>
+    <imdbid>nm0600436</imdbid>
+  </actor>
+  <actor>
+    <name>Aparna Nancherla</name>
+    <role>Sona</role>
+    <type>Actor</type>
+    <tmdbid>1625231</tmdbid>
+    <imdbid>nm5478103</imdbid>
+  </actor>
+  <actor>
+    <name>Gia Sandhu</name>
+    <role>Valerie</role>
+    <type>Actor</type>
+    <tmdbid>1808387</tmdbid>
+    <imdbid>nm3983569</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa O'Neil</name>
+    <role>Beth</role>
+    <type>Actor</type>
+    <tmdbid>1234713</tmdbid>
+    <imdbid>nm2047780</imdbid>
+  </actor>
+  <actor>
+    <name>Jiah Mavji</name>
+    <role>Sona's Daughter</role>
+    <type>Actor</type>
+    <tmdbid>2520238</tmdbid>
+  </actor>
+  <actor>
+    <name>Lila Yee</name>
+    <role>Margaret</role>
+    <type>Actor</type>
+    <tmdbid>1793727</tmdbid>
+    <imdbid>nm1262254</imdbid>
+  </actor>
+  <actor>
+    <name>Sugenja Sri</name>
+    <role>Dennis Nylon Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>2520239</tmdbid>
+  </actor>
+  <actor>
+    <name>Noorin Gulamgaus</name>
+    <role>Dennis Nylon Intern</role>
+    <type>Actor</type>
+    <tmdbid>1739120</tmdbid>
+  </actor>
+  <actor>
+    <name>Katherine Cullen</name>
+    <role>Dennis Nylon Assistant</role>
+    <type>Actor</type>
+    <tmdbid>1287588</tmdbid>
+    <imdbid>nm6545330</imdbid>
+  </actor>
+  <actor>
+    <name>Howard Hoover</name>
+    <role>Priest</role>
+    <type>Actor</type>
+    <tmdbid>1239425</tmdbid>
+    <imdbid>nm0393888</imdbid>
+  </actor>
+  <actor>
+    <name>Ronnie Rowe</name>
+    <role>Police Officer #1</role>
+    <type>Actor</type>
+    <tmdbid>2095699</tmdbid>
+    <imdbid>nm1775597</imdbid>
+  </actor>
+  <actor>
+    <name>Melody Johnson</name>
+    <role>Police Officer #2</role>
+    <type>Actor</type>
+    <tmdbid>124350</tmdbid>
+    <imdbid>nm0425802</imdbid>
+  </actor>
+  <actor>
+    <name>Corinne Conley</name>
+    <role>Librarian</role>
+    <type>Actor</type>
+    <tmdbid>157319</tmdbid>
+    <imdbid>nm0174766</imdbid>
+  </actor>
+  <actor>
+    <name>Olivia Sandoval</name>
+    <role>Ms. Prager</role>
+    <type>Actor</type>
+    <tmdbid>1630578</tmdbid>
+    <imdbid>nm1371941</imdbid>
+  </actor>
+  <actor>
+    <name>Nicole Peters</name>
+    <role>Hope (16 Years Old)</role>
+    <type>Actor</type>
+    <tmdbid>2520253</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren Peters</name>
+    <role>Faith (16 Years Old)</role>
+    <type>Actor</type>
+    <tmdbid>2520255</tmdbid>
+  </actor>
+  <actor>
+    <name>Umed Amin</name>
+    <role>Drugged Out Older Guy</role>
+    <type>Actor</type>
+    <tmdbid>1927353</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamie Jones</name>
+    <role>Mr. McLanden</role>
+    <type>Actor</type>
+    <tmdbid>1412595</tmdbid>
+    <imdbid>nm0428307</imdbid>
+  </actor>
+  <actor>
+    <name>Lesleh Donaldson</name>
+    <role>Bus Tourist</role>
+    <type>Actor</type>
+    <tmdbid>563092</tmdbid>
+    <imdbid>nm0232129</imdbid>
+  </actor>
+  <actor>
+    <name>Tina Legris</name>
+    <role>Tattoo Artist</role>
+    <type>Actor</type>
+    <tmdbid>2520259</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Owens</name>
+    <role>Detective</role>
+    <type>Actor</type>
+    <tmdbid>158459</tmdbid>
+    <imdbid>nm0654334</imdbid>
+  </actor>
+  <actor>
+    <name>Geoffrey Antoine</name>
+    <role>Warfield Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>2303735</tmdbid>
+    <imdbid>nm0031146</imdbid>
+  </actor>
+  <actor>
+    <name>Rosanna Scotto</name>
+    <role>TV Reporter #1</role>
+    <type>Actor</type>
+    <tmdbid>1686558</tmdbid>
+    <imdbid>nm0780016</imdbid>
+  </actor>
+  <actor>
+    <name>Lorene Stokes</name>
+    <role>TV Reporter #2</role>
+    <type>Actor</type>
+    <tmdbid>2520261</tmdbid>
+  </actor>
+  <actor>
+    <name>Stacey Coke</name>
+    <role>Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>1918700</tmdbid>
+    <imdbid>nm1752091</imdbid>
+  </actor>
+  <actor>
+    <name>Jung-Yul Kim</name>
+    <role>SWAT Leader</role>
+    <type>Actor</type>
+    <tmdbid>1480855</tmdbid>
+    <imdbid>nm0453560</imdbid>
+  </actor>
+  <actor>
+    <name>Domenic Cina</name>
+    <role>Press #1</role>
+    <type>Actor</type>
+    <tmdbid>1518275</tmdbid>
+  </actor>
+  <actor>
+    <name>Julio Benitez Guardiola</name>
+    <role>Press #2</role>
+    <type>Actor</type>
+    <tmdbid>2520264</tmdbid>
+  </actor>
+  <actor>
+    <name>Debra Kaiser</name>
+    <role>Press #3</role>
+    <type>Actor</type>
+    <tmdbid>2520266</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmen Araiza</name>
+    <role>Press #4</role>
+    <type>Actor</type>
+    <tmdbid>2320799</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Park Ingram</name>
+    <role>Press #5</role>
+    <type>Actor</type>
+    <tmdbid>1581642</tmdbid>
+  </actor>
+  <actor>
+    <name>Glen Brough</name>
+    <role>Press #6</role>
+    <type>Actor</type>
+    <tmdbid>2520269</tmdbid>
+  </actor>
+  <director tmdbid="116805">Paul Feig</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rAqMlh0b2HU</trailer>
+  <rating>6.8</rating>
+  <year>2018</year>
+  <mpaa>HK-IIB</mpaa>
+  <imdbid>tt7040874</imdbid>
+  <tmdbid>484247</tmdbid>
+  <premiered>2018-08-29</premiered>
+  <releasedate>2018-08-29</releasedate>
+  <criticrating>84</criticrating>
+  <runtime>117</runtime>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>犯罪</genre>
+  <genre>惊悚</genre>
+  <studio>Feigco Entertainment</studio>
+  <studio>Bron Studios</studio>
+  <uniqueid type="Tmdb">484247</uniqueid>
+  <uniqueid type="Imdb">tt7040874</uniqueid>
+  <id>tt7040874</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4140333</bitrate>
+        <width>1280</width>
+        <height>696</height>
+        <aspect>160:87</aspect>
+        <aspectratio>160:87</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>7008</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

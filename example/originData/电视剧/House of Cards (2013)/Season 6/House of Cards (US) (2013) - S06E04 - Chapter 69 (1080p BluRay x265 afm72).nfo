@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[杜兰特的葬礼在教堂举行，正副总统以及主要政府官员悉数参加。克莱尔此刻的心情无法平静，马克不知从哪找到了梅耶的的尸体，克莱尔只能认输，将实际管理权交到他的手上。葬礼结束后，宾客们纷纷前往杜兰特的家中，举行追悼会。看似平静，却暗流涌动。宾客中最让人惊讶的可能就属俄罗斯总统佩特罗夫了。马克实在想不通，叙利亚谈判已经破裂，他是受谁的邀请前来。这事只有佩特罗夫和克莱尔心知肚明，却不对外公开。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-24 06:29:55</dateadded>
+  <title>第 4 集</title>
+  <actor>
+    <name>Robin Wright</name>
+    <role>Claire Underwood</role>
+    <type>Actor</type>
+    <tmdbid>32</tmdbid>
+    <imdbid>nm0000705</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Kelly</name>
+    <role>Doug Stamper</role>
+    <type>Actor</type>
+    <tmdbid>50217</tmdbid>
+    <imdbid>nm0446672</imdbid>
+  </actor>
+  <actor>
+    <name>Constance Zimmer</name>
+    <role>Janine Skorsky</role>
+    <type>Actor</type>
+    <tmdbid>156204</tmdbid>
+    <imdbid>nm0956603</imdbid>
+  </actor>
+  <actor>
+    <name>Patricia Clarkson</name>
+    <role>Jane Davis</role>
+    <type>Actor</type>
+    <tmdbid>1276</tmdbid>
+    <imdbid>nm0165101</imdbid>
+  </actor>
+  <actor>
+    <name>Derek Cecil</name>
+    <role>Seth Grayson</role>
+    <type>Actor</type>
+    <tmdbid>60117</tmdbid>
+    <imdbid>nm0147689</imdbid>
+  </actor>
+  <actor>
+    <name>Boris McGiver</name>
+    <role>Tom Hammerschmidt</role>
+    <type>Actor</type>
+    <tmdbid>151432</tmdbid>
+    <imdbid>nm0569409</imdbid>
+  </actor>
+  <actor>
+    <name>Lars Mikkelsen</name>
+    <role>Viktor Petrov</role>
+    <type>Actor</type>
+    <tmdbid>71158</tmdbid>
+    <imdbid>nm0586565</imdbid>
+  </actor>
+  <actor>
+    <name>Cody Fern</name>
+    <role>Duncan Shepherd</role>
+    <type>Actor</type>
+    <tmdbid>1197895</tmdbid>
+    <imdbid>nm3719144</imdbid>
+  </actor>
+  <actor>
+    <name>Diane Lane</name>
+    <role>Annette Shepherd</role>
+    <type>Actor</type>
+    <tmdbid>2882</tmdbid>
+    <imdbid>nm0000178</imdbid>
+  </actor>
+  <actor>
+    <name>Greg Kinnear</name>
+    <role>Bill Shepherd</role>
+    <type>Actor</type>
+    <tmdbid>17141</tmdbid>
+    <imdbid>nm0001427</imdbid>
+  </actor>
+  <actor>
+    <name>Campbell Scott</name>
+    <role>Mark Usher</role>
+    <type>Actor</type>
+    <tmdbid>55152</tmdbid>
+    <imdbid>nm0001714</imdbid>
+  </actor>
+  <actor>
+    <name>Jayne Atkinson</name>
+    <role>Catherine Durant</role>
+    <type>GuestStar</type>
+    <tmdbid>18261</tmdbid>
+    <imdbid>nm0040739</imdbid>
+  </actor>
+  <actor>
+    <name>Sakina Jaffrey</name>
+    <role>Linda Vasquez</role>
+    <type>GuestStar</type>
+    <tmdbid>34200</tmdbid>
+  </actor>
+  <actor>
+    <name>Boris Kodjoe</name>
+    <role>Brett Cole</role>
+    <type>GuestStar</type>
+    <tmdbid>80758</tmdbid>
+    <imdbid>nm0462673</imdbid>
+  </actor>
+  <actor>
+    <name>Linda Powell</name>
+    <role>Marcy Siegerson</role>
+    <type>GuestStar</type>
+    <tmdbid>143237</tmdbid>
+    <imdbid>nm0694212</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Holm</name>
+    <role>Nathan Green</role>
+    <type>GuestStar</type>
+    <tmdbid>1595506</tmdbid>
+    <imdbid>nm3124435</imdbid>
+  </actor>
+  <actor>
+    <name>Susan Pourfar</name>
+    <role>Nora Cafferty</role>
+    <type>GuestStar</type>
+    <tmdbid>205783</tmdbid>
+    <imdbid>nm1581522</imdbid>
+  </actor>
+  <rating>5.7</rating>
+  <year>2018</year>
+  <imdbid>tt7576196</imdbid>
+  <tvdbid>6564866</tvdbid>
+  <runtime>53</runtime>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt7576196</uniqueid>
+  <uniqueid type="Tvdb">6564866</uniqueid>
+  <episode>4</episode>
+  <season>6</season>
+  <aired>2018-11-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5070465</bitrate>
+        <width>1920</width>
+        <height>960</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>53</duration>
+        <durationinseconds>3191</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

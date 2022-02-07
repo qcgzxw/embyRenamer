@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[冲劲十足、富有野心的社会线记者小齐，在报导一则事故车还魂新闻时，意外发现9年前一宗肇事逃逸命案并不单纯，虽然提案不被长官邱哥重视，但相信直觉的小齐找上菜鸟警员阿纬帮忙，并说服女主管Maggie连手调查当年的真相。当小齐、Maggie 好不容易找到命案中唯一生还的受害者徐爱婷，并取得采访同意后 ，徐爱婷却无故失踪了…到底九年前被隐瞒的真相是什么？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-03-07 13:42:36</dateadded>
+  <title>目击者之追凶</title>
+  <originaltitle>目擊者</originaltitle>
+  <actor>
+    <name>Kaiser Chuang</name>
+    <role>Chi</role>
+    <type>Actor</type>
+    <tmdbid>1179172</tmdbid>
+    <imdbid>nm4752065</imdbid>
+  </actor>
+  <actor>
+    <name>Tiffany Hsu</name>
+    <role>Maggie</role>
+    <type>Actor</type>
+    <tmdbid>1245709</tmdbid>
+    <imdbid>nm3136967</imdbid>
+  </actor>
+  <actor>
+    <name>Ko Chia-yen</name>
+    <role>Hsu Ai-ting</role>
+    <type>Actor</type>
+    <tmdbid>1356718</tmdbid>
+    <imdbid>nm2429015</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Ming-Shun Lee</name>
+    <role>Chiu</role>
+    <type>Actor</type>
+    <tmdbid>112477</tmdbid>
+    <imdbid>nm1177124</imdbid>
+  </actor>
+  <actor>
+    <name>Mason Lee</name>
+    <role>Wei</role>
+    <type>Actor</type>
+    <tmdbid>543138</tmdbid>
+    <imdbid>nm0497853</imdbid>
+  </actor>
+  <actor>
+    <name>Pai Ming-Hua</name>
+    <type>Actor</type>
+    <tmdbid>1609485</tmdbid>
+  </actor>
+  <actor>
+    <name>Grace Chen Shu-Fang</name>
+    <role>Auntie</role>
+    <type>Actor</type>
+    <tmdbid>1609496</tmdbid>
+    <imdbid>nm0155371</imdbid>
+  </actor>
+  <actor>
+    <name>Tong Chih-Wei</name>
+    <role>Chung-Wen</role>
+    <type>Actor</type>
+    <tmdbid>586420</tmdbid>
+    <imdbid>nm2598275</imdbid>
+  </actor>
+  <actor>
+    <name>Mario Pu</name>
+    <role>Sergeant Wang</role>
+    <type>Actor</type>
+    <tmdbid>1240438</tmdbid>
+    <imdbid>nm3583761</imdbid>
+  </actor>
+  <director tmdbid="1576757" imdbid="nm7415410">Cheng Wei-Hao</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wfeCta84bs0</trailer>
+  <rating>7.1</rating>
+  <year>2017</year>
+  <imdbid>tt5576318</imdbid>
+  <tmdbid>448337</tmdbid>
+  <premiered>2017-03-30</premiered>
+  <releasedate>2017-03-30</releasedate>
+  <criticrating>50</criticrating>
+  <runtime>117</runtime>
+  <country>Taiwan</country>
+  <genre>悬疑</genre>
+  <genre>惊悚</genre>
+  <genre>犯罪</genre>
+  <studio>Rise Pictures</studio>
+  <uniqueid type="Tmdb">448337</uniqueid>
+  <uniqueid type="Imdb">tt5576318</uniqueid>
+  <id>tt5576318</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4137544</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7029</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[本是岭南大学学生的王佳芝因战争辗转到了香港读书，她在香港大学加入了爱国青年邝裕民组织的话剧组，他们主演的爱国话剧更激起了他们的爱国情操。当邝裕民得知汪伪政府的特务头子易先生正在香港的时候，他们便密谋要刺杀易先生。化名“麦太太”的王佳芝很快得到了易太太的信任与喜爱，同时美丽的“麦太太”也吸引了易先生的眼球，正当事情进行得如火如荼之际，易先生突然要回到上海去。此后王佳芝一直生活在上海，没想到重遇了邝裕民。当得知刺杀行动还没结束时，王佳芝再次成为了特务，再次以“麦太太”的身份出现在易先生的面前。重逢后的二人关系进一步发展，此时的易先生因爱上了王佳芝而对她毫无忌讳，王佳芝的内心也变得起伏不定。刺杀行动进行正顺利，但当易先生送给王佳芝璀璨钻戒表达爱意时，王佳芝做出了惊人的决定…]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-04 07:29:30</dateadded>
+  <title>色，戒</title>
+  <originaltitle>色‧戒</originaltitle>
+  <actor>
+    <name>Tony Leung Chiu-Wai</name>
+    <role>Mr. Yee</role>
+    <type>Actor</type>
+    <tmdbid>1337</tmdbid>
+    <imdbid>nm0504897</imdbid>
+  </actor>
+  <actor>
+    <name>Tang Wei</name>
+    <role>Wong Chia Chi</role>
+    <type>Actor</type>
+    <tmdbid>38280</tmdbid>
+  </actor>
+  <actor>
+    <name>Joan Chen</name>
+    <role>Mrs. Yee</role>
+    <type>Actor</type>
+    <tmdbid>6720</tmdbid>
+    <imdbid>nm0001040</imdbid>
+  </actor>
+  <actor>
+    <name>Leehom Wang</name>
+    <role>Kuang Yu Min</role>
+    <type>Actor</type>
+    <tmdbid>134184</tmdbid>
+    <imdbid>nm0910966</imdbid>
+  </actor>
+  <actor>
+    <name>Tou Chung-Hua</name>
+    <role>Lao Wu</role>
+    <type>Actor</type>
+    <tmdbid>1366128</tmdbid>
+    <imdbid>nm0849916</imdbid>
+  </actor>
+  <actor>
+    <name>Lawrence Ko</name>
+    <role>Liang Jun Sheng</role>
+    <type>Actor</type>
+    <tmdbid>150609</tmdbid>
+    <imdbid>nm0461940</imdbid>
+  </actor>
+  <actor>
+    <name>Jacqueline Zhu Zhi-Ying</name>
+    <role>Lai Shu Jin</role>
+    <type>Actor</type>
+    <tmdbid>38285</tmdbid>
+  </actor>
+  <actor>
+    <name>Ying-hsien Kao</name>
+    <role>Huang Lei</role>
+    <type>Actor</type>
+    <tmdbid>38286</tmdbid>
+  </actor>
+  <actor>
+    <name>He Saifei</name>
+    <type>Actor</type>
+    <tmdbid>64987</tmdbid>
+  </actor>
+  <actor>
+    <name>Anupam Kher</name>
+    <role>Khalid Saiduddin</role>
+    <type>Actor</type>
+    <tmdbid>6217</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophie Su Yan</name>
+    <role>Mrs Ma</role>
+    <type>Actor</type>
+    <tmdbid>2372996</tmdbid>
+  </actor>
+  <actor>
+    <name>Chin Ka-Lok</name>
+    <role>Cho</role>
+    <type>Actor</type>
+    <tmdbid>148884</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Hui-Ling</name>
+    <role>Liao Tai Tai</role>
+    <type>Actor</type>
+    <tmdbid>28642</tmdbid>
+  </actor>
+  <actor>
+    <name>Akiko Takeshita</name>
+    <type>Actor</type>
+    <tmdbid>1770</tmdbid>
+  </actor>
+  <actor>
+    <name>Hayato Fujiki</name>
+    <type>Actor</type>
+    <tmdbid>1473703</tmdbid>
+  </actor>
+  <actor>
+    <name>Lisa Lu</name>
+    <type>Actor</type>
+    <tmdbid>86633</tmdbid>
+    <imdbid>nm0523734</imdbid>
+  </actor>
+  <actor>
+    <name>Jacob J Ziacan</name>
+    <type>Actor</type>
+    <tmdbid>2145064</tmdbid>
+  </actor>
+  <director tmdbid="1614" imdbid="nm0000487">Ang Lee</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=CizN-DvGhrc</trailer>
+  <rating>7.1</rating>
+  <year>2007</year>
+  <mpaa>NC-17</mpaa>
+  <imdbid>tt0808357</imdbid>
+  <tmdbid>4588</tmdbid>
+  <premiered>2007-09-28</premiered>
+  <releasedate>2007-09-28</releasedate>
+  <criticrating>72</criticrating>
+  <country>China</country>
+  <country>United States of America</country>
+  <country>Taiwan</country>
+  <genre>动作</genre>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <genre>惊悚</genre>
+  <studio>River Road Entertainment</studio>
+  <studio>Haishang Films</studio>
+  <studio>Focus Features</studio>
+  <set>
+    <name>李安 Ang Lee</name>
+  </set>
+  <uniqueid type="Tmdb">4588</uniqueid>
+  <uniqueid type="Imdb">tt0808357</uniqueid>
+  <id>tt0808357</id>
+  <fileinfo>
+    <streamdetails />
+  </fileinfo>
+</movie>

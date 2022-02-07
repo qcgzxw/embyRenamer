@@ -1,0 +1,436 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[影片讲述生活在加州北部城市，萨克拉门托的女孩Christine高三时亲情，友情与爱情的故事。Christine为自己取名伯德小姐，一心想要离开加州去往东部读书。然而本不宽裕的家庭又逢父亲失业，更是雪上加霜。伯德小姐继承了母亲的强硬性格，和母亲在生活的各方面发生冲突，但两 人在内心深处却又紧密相连。升入高三的伯德小姐在参演学校音乐剧时对剧组的男主演暗生情愫……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-07-03 07:38:42</dateadded>
+  <title>伯德小姐</title>
+  <originaltitle>Lady Bird</originaltitle>
+  <actor>
+    <name>Saoirse Ronan</name>
+    <role>Christine "Lady Bird" McPherson</role>
+    <type>Actor</type>
+    <tmdbid>36592</tmdbid>
+    <imdbid>nm1519680</imdbid>
+  </actor>
+  <actor>
+    <name>Laurie Metcalf</name>
+    <role>Marion McPherson</role>
+    <type>Actor</type>
+    <tmdbid>12133</tmdbid>
+    <imdbid>nm0582418</imdbid>
+  </actor>
+  <actor>
+    <name>Tracy Letts</name>
+    <role>Larry McPherson</role>
+    <type>Actor</type>
+    <tmdbid>72638</tmdbid>
+    <imdbid>nm0504832</imdbid>
+  </actor>
+  <actor>
+    <name>Lucas Hedges</name>
+    <role>Danny O'Neill</role>
+    <type>Actor</type>
+    <tmdbid>1105079</tmdbid>
+    <imdbid>nm2348627</imdbid>
+  </actor>
+  <actor>
+    <name>Timothée Chalamet</name>
+    <role>Kyle Sheible</role>
+    <type>Actor</type>
+    <tmdbid>1190668</tmdbid>
+    <imdbid>nm3154303</imdbid>
+  </actor>
+  <actor>
+    <name>Beanie Feldstein</name>
+    <role>Julie Steffans</role>
+    <type>Actor</type>
+    <tmdbid>1496393</tmdbid>
+    <imdbid>nm2788156</imdbid>
+  </actor>
+  <actor>
+    <name>Lois Smith</name>
+    <role>Sister Sarah Joan</role>
+    <type>Actor</type>
+    <tmdbid>2207</tmdbid>
+    <imdbid>nm0809135</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Henderson</name>
+    <role>Father Leviatch</role>
+    <type>Actor</type>
+    <tmdbid>196179</tmdbid>
+    <imdbid>nm0376610</imdbid>
+  </actor>
+  <actor>
+    <name>Odeya Rush</name>
+    <role>Jenna Walton</role>
+    <type>Actor</type>
+    <tmdbid>1121786</tmdbid>
+    <imdbid>nm3843467</imdbid>
+  </actor>
+  <actor>
+    <name>Jordan Rodrigues</name>
+    <role>Miguel McPherson</role>
+    <type>Actor</type>
+    <tmdbid>1231115</tmdbid>
+    <imdbid>nm0735366</imdbid>
+  </actor>
+  <actor>
+    <name>Marielle Scott</name>
+    <role>Shelly Yuhan</role>
+    <type>Actor</type>
+    <tmdbid>1702762</tmdbid>
+    <imdbid>nm2900746</imdbid>
+  </actor>
+  <actor>
+    <name>John Karna</name>
+    <role>Greg Anrue</role>
+    <type>Actor</type>
+    <tmdbid>1061132</tmdbid>
+    <imdbid>nm4735495</imdbid>
+  </actor>
+  <actor>
+    <name>Jake McDorman</name>
+    <role>Mr. Bruno</role>
+    <type>Actor</type>
+    <tmdbid>94791</tmdbid>
+    <imdbid>nm1416330</imdbid>
+  </actor>
+  <actor>
+    <name>Bayne Gibby</name>
+    <role>Casey Kelly</role>
+    <type>Actor</type>
+    <tmdbid>1402319</tmdbid>
+    <imdbid>nm1708795</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Marano</name>
+    <role>Diana Greenway</role>
+    <type>Actor</type>
+    <tmdbid>54722</tmdbid>
+    <imdbid>nm1404824</imdbid>
+  </actor>
+  <actor>
+    <name>Marietta DePrima</name>
+    <role>Miss Patty</role>
+    <type>Actor</type>
+    <tmdbid>1239981</tmdbid>
+    <imdbid>nm0220157</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Zovatto</name>
+    <role>Jonah Ruiz</role>
+    <type>Actor</type>
+    <tmdbid>1172147</tmdbid>
+    <imdbid>nm4683167</imdbid>
+  </actor>
+  <actor>
+    <name>Kristen Cloke</name>
+    <role>Ms. Steffans</role>
+    <type>Actor</type>
+    <tmdbid>58392</tmdbid>
+    <imdbid>nm0167028</imdbid>
+  </actor>
+  <actor>
+    <name>Andy Buckley</name>
+    <role>Uncle Matthew</role>
+    <type>Actor</type>
+    <tmdbid>170635</tmdbid>
+    <imdbid>nm2952467</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Keller</name>
+    <role>Parish Priest</role>
+    <type>Actor</type>
+    <tmdbid>1949299</tmdbid>
+    <imdbid>nm8750717</imdbid>
+  </actor>
+  <actor>
+    <name>Kathryn Newton</name>
+    <role>Darlene Bell</role>
+    <type>Actor</type>
+    <tmdbid>221192</tmdbid>
+    <imdbid>nm1105980</imdbid>
+  </actor>
+  <actor>
+    <name>Myra Turley</name>
+    <role>Sister Gina</role>
+    <type>Actor</type>
+    <tmdbid>1219610</tmdbid>
+    <imdbid>nm0877252</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Stephenson</name>
+    <role>Father Walter</role>
+    <type>Actor</type>
+    <tmdbid>17449</tmdbid>
+    <imdbid>nm0827307</imdbid>
+  </actor>
+  <actor>
+    <name>Abhimanyu Katyal</name>
+    <role>Friendly Banker</role>
+    <type>Actor</type>
+    <tmdbid>1754698</tmdbid>
+    <imdbid>nm5094402</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Witaske</name>
+    <role>Business Jock</role>
+    <type>Actor</type>
+    <tmdbid>1573273</tmdbid>
+    <imdbid>nm6074326</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Konigsberg</name>
+    <role>David From College</role>
+    <type>Actor</type>
+    <tmdbid>1423490</tmdbid>
+    <imdbid>nm2107758</imdbid>
+  </actor>
+  <actor>
+    <name>Gurpreet Gill</name>
+    <role>Convenience Store Clerk</role>
+    <type>Actor</type>
+    <tmdbid>1949302</tmdbid>
+    <imdbid>nm4849921</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Jin Namkung</name>
+    <role>Cool Coffee Manager</role>
+    <type>Actor</type>
+    <tmdbid>1516998</tmdbid>
+    <imdbid>nm3456006</imdbid>
+  </actor>
+  <actor>
+    <name>Joan Patricia O'Neil</name>
+    <role>Danny's Grandmother</role>
+    <type>Actor</type>
+    <tmdbid>1949303</tmdbid>
+    <imdbid>nm9509156</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Figueroa</name>
+    <role>Cast Removal Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1949304</tmdbid>
+    <imdbid>nm9509157</imdbid>
+  </actor>
+  <actor>
+    <name>Carla Valentine</name>
+    <role>Guidance Counselor</role>
+    <type>Actor</type>
+    <tmdbid>1085515</tmdbid>
+    <imdbid>nm2297422</imdbid>
+  </actor>
+  <actor>
+    <name>Roman Arabia</name>
+    <role>Luis Cruz</role>
+    <type>Actor</type>
+    <tmdbid>51685</tmdbid>
+    <imdbid>nm1695381</imdbid>
+  </actor>
+  <actor>
+    <name>Monique Edwards</name>
+    <role>NYC Nurse</role>
+    <type>Actor</type>
+    <tmdbid>156339</tmdbid>
+    <imdbid>nm0006720</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Maher</name>
+    <role>NYC Man on Street</role>
+    <type>Actor</type>
+    <tmdbid>1232599</tmdbid>
+    <imdbid>nm0536866</imdbid>
+  </actor>
+  <actor>
+    <name>Anita Kalathara</name>
+    <role>Prom Chairwoman</role>
+    <type>Actor</type>
+    <tmdbid>1635166</tmdbid>
+    <imdbid>nm3520919</imdbid>
+  </actor>
+  <actor>
+    <name>Debra Miller</name>
+    <role>Saleswoman Joyce</role>
+    <type>Actor</type>
+    <tmdbid>1949305</tmdbid>
+    <imdbid>nm9509158</imdbid>
+  </actor>
+  <actor>
+    <name>Georgia Leva</name>
+    <role>Senior Class Candidate</role>
+    <type>Actor</type>
+    <tmdbid>1856643</tmdbid>
+    <imdbid>nm2196765</imdbid>
+  </actor>
+  <actor>
+    <name>Derek Butler</name>
+    <role>"Merrily We Roll Along" Performer</role>
+    <type>Actor</type>
+    <tmdbid>1713939</tmdbid>
+  </actor>
+  <actor>
+    <name>London Thor</name>
+    <role>"Merrily We Roll Along" Performer</role>
+    <type>Actor</type>
+    <tmdbid>1949306</tmdbid>
+    <imdbid>nm5674649</imdbid>
+  </actor>
+  <actor>
+    <name>Shaelan O'Connor</name>
+    <role>"Merrily We Roll Along" Performer</role>
+    <type>Actor</type>
+    <tmdbid>1828531</tmdbid>
+    <imdbid>nm5325620</imdbid>
+  </actor>
+  <actor>
+    <name>Christina Offley</name>
+    <role>"Merrily We Roll Along" Performer</role>
+    <type>Actor</type>
+    <tmdbid>1843370</tmdbid>
+    <imdbid>nm5144095</imdbid>
+  </actor>
+  <actor>
+    <name>Sabrina Schloss</name>
+    <role>"Merrily We Roll Along" Performer</role>
+    <type>Actor</type>
+    <tmdbid>1949308</tmdbid>
+    <imdbid>nm5151032</imdbid>
+  </actor>
+  <actor>
+    <name>Connor Mickiewicz</name>
+    <role>"Merrily We Roll Along" Performer</role>
+    <type>Actor</type>
+    <tmdbid>1789088</tmdbid>
+    <imdbid>nm5669344</imdbid>
+  </actor>
+  <actor>
+    <name>Erik Daniells</name>
+    <role>"Merrily We Roll Along" Performer</role>
+    <type>Actor</type>
+    <tmdbid>1949309</tmdbid>
+    <imdbid>nm9393910</imdbid>
+  </actor>
+  <actor>
+    <name>Cynthia Cales</name>
+    <role>Immaculate Heart of Mary Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1949310</tmdbid>
+    <imdbid>nm2747290</imdbid>
+  </actor>
+  <actor>
+    <name>Giselle Grams</name>
+    <role>Immaculate Heart of Mary Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1949311</tmdbid>
+    <imdbid>nm9509159</imdbid>
+  </actor>
+  <actor>
+    <name>Ithamar Enriquez</name>
+    <role>Driving Instructor</role>
+    <type>Actor</type>
+    <tmdbid>1039796</tmdbid>
+    <imdbid>nm2439800</imdbid>
+  </actor>
+  <actor>
+    <name>Luisa Lee</name>
+    <role>Young Lady</role>
+    <type>Actor</type>
+    <tmdbid>1857918</tmdbid>
+    <imdbid>nm5899272</imdbid>
+  </actor>
+  <actor>
+    <name>Danielle Macdonald</name>
+    <role>Another Young Lady</role>
+    <type>Actor</type>
+    <tmdbid>1203789</tmdbid>
+    <imdbid>nm4359664</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Brock</name>
+    <role>Band Lead Singer</role>
+    <type>Actor</type>
+    <tmdbid>1949312</tmdbid>
+    <imdbid>nm2523274</imdbid>
+  </actor>
+  <actor>
+    <name>Bonnie Jean Shelton</name>
+    <role>Fab 40s Realtor</role>
+    <type>Actor</type>
+    <tmdbid>1949314</tmdbid>
+    <imdbid>nm2361250</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Light</name>
+    <role>Mr. Bruno's Wife</role>
+    <type>Actor</type>
+    <tmdbid>585938</tmdbid>
+    <imdbid>nm2163511</imdbid>
+  </actor>
+  <actor>
+    <name>Janet Song</name>
+    <role>Administrator (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1392128</tmdbid>
+    <imdbid>nm1535531</imdbid>
+  </actor>
+  <director tmdbid="45400" imdbid="nm1950086">Greta Gerwig</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=cNi_HC839Wo</trailer>
+  <rating>7.4</rating>
+  <year>2017</year>
+  <mpaa>HK-IIB</mpaa>
+  <imdbid>tt4925292</imdbid>
+  <tmdbid>391713</tmdbid>
+  <premiered>2017-09-08</premiered>
+  <releasedate>2017-09-08</releasedate>
+  <criticrating>99</criticrating>
+  <runtime>94</runtime>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>喜剧</genre>
+  <studio>IAC Films</studio>
+  <studio>Scott Rudin Productions</studio>
+  <studio>Entertainment 360</studio>
+  <studio>Mission Films</studio>
+  <uniqueid type="Tmdb">391713</uniqueid>
+  <uniqueid type="Imdb">tt4925292</uniqueid>
+  <id>tt4925292</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4649044</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>94</duration>
+        <durationinseconds>5644</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[瑞克的汽车故障，他于是和莫蒂钻进电瓶里。莫蒂发现瑞克在电瓶内创造了迷你宇宙。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 07:51:58</dateadded>
+  <title>瑞克也疯狂</title>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Colbert</name>
+    <role>Zeep Xanflorp (Voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>58769</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathan Fielder</name>
+    <role>Kyle (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1212667</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Tudyk</name>
+    <role>Jeff (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>21088</tmdbid>
+    <imdbid>nm0876138</imdbid>
+  </actor>
+  <actor>
+    <name>Maurice LaMarche</name>
+    <role>Miniverse Mayor (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>34521</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael McCafferty</name>
+    <role>Microverse Mayor (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>182680</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Anthony Williams</name>
+    <role>Business Alien (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>54043</tmdbid>
+  </actor>
+  <actor>
+    <name>Kari Wahlgren</name>
+    <role>Rick's Computer (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>116315</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Jennings</name>
+    <role>Hunter (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1362871</tmdbid>
+  </actor>
+  <director>Dominic Polcino</director>
+  <rating>9.3</rating>
+  <year>2015</year>
+  <imdbid>tt4832268</imdbid>
+  <tvdbid>5292290</tvdbid>
+  <runtime>22</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <genre>Sci-Fi</genre>
+  <tvrageid>1065849492</tvrageid>
+  <uniqueid type="Tvdb">5292290</uniqueid>
+  <uniqueid type="Imdb">tt4832268</uniqueid>
+  <uniqueid type="TvRage">1065849492</uniqueid>
+  <episode>6</episode>
+  <season>2</season>
+  <aired>2015-08-30</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2492151</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+        <duration>22</duration>
+        <durationinseconds>1343</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

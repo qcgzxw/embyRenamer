@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[茹心情沮丧，一口气看了22集英国真人秀。茱尔斯去拜访一位老朋友。万圣节之夜过后，凯茜在寻求建议。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2022-01-31 20:40:11</dateadded>
+  <title>抑郁时想小便的种种考验和磨难</title>
+  <actor>
+    <name>Zendaya</name>
+    <role>Rue Bennett</role>
+    <type>Actor</type>
+    <tmdbid>505710</tmdbid>
+    <imdbid>nm3918035</imdbid>
+  </actor>
+  <actor>
+    <name>Hunter Schafer</name>
+    <role>Jules Vaughn</role>
+    <type>Actor</type>
+    <tmdbid>2340180</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Elordi</name>
+    <role>Nate Jacobs</role>
+    <type>Actor</type>
+    <tmdbid>2034418</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexa Demie</name>
+    <role>Maddy Perez</role>
+    <type>Actor</type>
+    <tmdbid>1497557</tmdbid>
+  </actor>
+  <actor>
+    <name>Barbie Ferreira</name>
+    <role>Kat Hernandez</role>
+    <type>Actor</type>
+    <tmdbid>2340185</tmdbid>
+  </actor>
+  <actor>
+    <name>Sydney Sweeney</name>
+    <role>Cassie Howard</role>
+    <type>Actor</type>
+    <tmdbid>115440</tmdbid>
+    <imdbid>nm2858875</imdbid>
+  </actor>
+  <actor>
+    <name>Angus Cloud</name>
+    <role>Fezco</role>
+    <type>Actor</type>
+    <tmdbid>2352372</tmdbid>
+  </actor>
+  <actor>
+    <name>Storm Reid</name>
+    <role>Gia Bennett</role>
+    <type>Actor</type>
+    <tmdbid>1344344</tmdbid>
+  </actor>
+  <actor>
+    <name>Algee Smith</name>
+    <role>Christopher McKay</role>
+    <type>Actor</type>
+    <tmdbid>1377458</tmdbid>
+  </actor>
+  <actor>
+    <name>Maude Apatow</name>
+    <role>Lexi Howard</role>
+    <type>Actor</type>
+    <tmdbid>41090</tmdbid>
+  </actor>
+  <actor>
+    <name>Nika King</name>
+    <role>Leslie Bennett</role>
+    <type>Actor</type>
+    <tmdbid>98415</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Dane</name>
+    <role>Cal Jacobs</role>
+    <type>Actor</type>
+    <tmdbid>58115</tmdbid>
+  </actor>
+  <actor>
+    <name>Bobbi Salvör Menuez</name>
+    <role>TC</role>
+    <type>GuestStar</type>
+    <tmdbid>1105441</tmdbid>
+  </actor>
+  <actor>
+    <name>Quintessa Swindell</name>
+    <role>Anna</role>
+    <type>GuestStar</type>
+    <tmdbid>2042690</tmdbid>
+  </actor>
+  <actor>
+    <name>Keean Johnson</name>
+    <role>Daniel</role>
+    <type>GuestStar</type>
+    <tmdbid>1448516</tmdbid>
+    <imdbid>nm5277107</imdbid>
+  </actor>
+  <actor>
+    <name>Lukas Gage</name>
+    <role>Tyler Clarkson</role>
+    <type>GuestStar</type>
+    <tmdbid>1371509</tmdbid>
+  </actor>
+  <actor>
+    <name>Javon 'Wanna' Walton</name>
+    <role>Ashtray</role>
+    <type>GuestStar</type>
+    <tmdbid>2532098</tmdbid>
+  </actor>
+  <actor>
+    <name>Alanna Ubach</name>
+    <role>Suze Howard</role>
+    <type>GuestStar</type>
+    <tmdbid>10402</tmdbid>
+    <imdbid>nm0005513</imdbid>
+  </actor>
+  <actor>
+    <name>Nat Faxon</name>
+    <role>Rick</role>
+    <type>GuestStar</type>
+    <tmdbid>105648</tmdbid>
+  </actor>
+  <director>Sam Levinson</director>
+  <rating>8.3</rating>
+  <year>2019</year>
+  <imdbid>tt8806270</imdbid>
+  <tvdbid>7298128</tvdbid>
+  <runtime>62</runtime>
+  <uniqueid type="Tvdb">7298128</uniqueid>
+  <uniqueid type="Imdb">tt8806270</uniqueid>
+  <episode>7</episode>
+  <season>1</season>
+  <aired>2019-07-28</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2205379</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>61</duration>
+        <durationinseconds>3701</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

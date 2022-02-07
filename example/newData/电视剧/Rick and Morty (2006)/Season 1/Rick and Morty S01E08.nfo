@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[瑞克觉得电视节目有够无聊，因此安装线路，好观赏来自其他次元的节目。另一方面，大家都戴上特殊护​​目镜，瞧瞧另一个自己究竟是什么模样。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 07:48:10</dateadded>
+  <title>无限电视</title>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Bergman</name>
+    <role>Insurance Salesman / David Letterman (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>179896</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Paulsen</name>
+    <role>Quick Mystery Judge / Regular Legs (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>43125</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Ray</name>
+    <role>Johnny / Wife Beater (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1637555</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Ridley</name>
+    <role>Trunkman / Bachelor (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1365425</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Anthony Williams</name>
+    <role>Quick Mystery Host / Last Will and Testimeow: Weekend at Dead Cat Lady's House II Announcer / Newscaster (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>54043</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Kenny</name>
+    <role>Jon Arbuckle (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>78798</tmdbid>
+  </actor>
+  <director>Bryan Newton</director>
+  <rating>8.8</rating>
+  <year>2014</year>
+  <imdbid>tt3333838</imdbid>
+  <tvdbid>4743889</tvdbid>
+  <runtime>22</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <uniqueid type="Tvdb">4743889</uniqueid>
+  <uniqueid type="Imdb">tt3333838</uniqueid>
+  <episode>8</episode>
+  <season>1</season>
+  <aired>2014-03-17</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>1911076</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1335</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

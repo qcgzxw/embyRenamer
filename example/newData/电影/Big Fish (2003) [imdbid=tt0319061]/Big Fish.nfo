@@ -1,0 +1,486 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一个美丽的亲情童话。父亲爱德华(亚伯特·芬尼 Albert Finney 饰)年轻时，很爱给年幼的儿子讲自己的传奇经历，他自称在阿拉巴马旅行推销员时，经历过很多光怪陆离，魔幻荒诞的事情。威尔(比利·克鲁德普 Billy Crudup 饰)并不相信，觉得是父亲在虚荣和浮夸，父子关系渐渐疏离。直到父亲得了癌症，不久于人世了，儿子决定回去见父亲最后一面。儿子面对病榻上的父亲时，父亲又开始说他早年的经历：他曾经为了离开小村庄去大城市闯荡，在途中遇到巫婆和巨人，还一起去了幽灵庄，再后来，认识了一个神奇的马戏团演员，一个亚洲艺人，一条怎么也抓不到的大鱼，还有怎样跟母亲一见钟情，定下终身……从父亲病弱的气息里，威尔仿佛领悟到以前从来没有过的感受，也许父亲的叙述有修饰的成分，但在他的心中，那些经历到生命的最后一刻仍是充满激情和想象，而父亲终于在儿子的理解和深爱下闭上眼睛。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-01-21 03:23:07</dateadded>
+  <title>大鱼</title>
+  <originaltitle>Big Fish</originaltitle>
+  <actor>
+    <name>Ewan McGregor</name>
+    <role>Younger Ed Bloom</role>
+    <type>Actor</type>
+    <tmdbid>3061</tmdbid>
+    <imdbid>nm0000191</imdbid>
+  </actor>
+  <actor>
+    <name>Albert Finney</name>
+    <role>Older Ed Bloom</role>
+    <type>Actor</type>
+    <tmdbid>3926</tmdbid>
+    <imdbid>nm0001215</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Crudup</name>
+    <role>Will Bloom</role>
+    <type>Actor</type>
+    <tmdbid>8289</tmdbid>
+    <imdbid>nm0001082</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Lange</name>
+    <role>Older Sandra Bloom</role>
+    <type>Actor</type>
+    <tmdbid>4431</tmdbid>
+    <imdbid>nm0001448</imdbid>
+  </actor>
+  <actor>
+    <name>Helena Bonham Carter</name>
+    <role>Younger &amp; Older Jenny/The Witch</role>
+    <type>Actor</type>
+    <tmdbid>1283</tmdbid>
+    <imdbid>nm0000307</imdbid>
+  </actor>
+  <actor>
+    <name>Alison Lohman</name>
+    <role>Younger Sandra Bloom</role>
+    <type>Actor</type>
+    <tmdbid>8291</tmdbid>
+    <imdbid>nm0517844</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Guillaume</name>
+    <role>Older Dr. Bennett</role>
+    <type>Actor</type>
+    <tmdbid>8294</tmdbid>
+    <imdbid>nm0347039</imdbid>
+  </actor>
+  <actor>
+    <name>Marion Cotillard</name>
+    <role>Josephine</role>
+    <type>Actor</type>
+    <tmdbid>8293</tmdbid>
+    <imdbid>nm0182839</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Buscemi</name>
+    <role>Norther Winslow</role>
+    <type>Actor</type>
+    <tmdbid>884</tmdbid>
+    <imdbid>nm0000114</imdbid>
+  </actor>
+  <actor>
+    <name>Danny DeVito</name>
+    <role>Amos Calloway</role>
+    <type>Actor</type>
+    <tmdbid>518</tmdbid>
+    <imdbid>nm0000362</imdbid>
+  </actor>
+  <actor>
+    <name>David Denman</name>
+    <role>Don Price - Age 18-22</role>
+    <type>Actor</type>
+    <tmdbid>62562</tmdbid>
+    <imdbid>nm0219292</imdbid>
+  </actor>
+  <actor>
+    <name>Missi Pyle</name>
+    <role>Mildred</role>
+    <type>Actor</type>
+    <tmdbid>1294</tmdbid>
+    <imdbid>nm0701512</imdbid>
+  </actor>
+  <actor>
+    <name>Loudon Wainwright III</name>
+    <role>Beamen</role>
+    <type>Actor</type>
+    <tmdbid>84848</tmdbid>
+    <imdbid>nm0906525</imdbid>
+  </actor>
+  <actor>
+    <name>Deep Roy</name>
+    <role>Mr. Soggybottom</role>
+    <type>Actor</type>
+    <tmdbid>1295</tmdbid>
+    <imdbid>nm0746989</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew McGrory</name>
+    <role>Karl the Giant</role>
+    <type>Actor</type>
+    <tmdbid>8295</tmdbid>
+    <imdbid>nm0570067</imdbid>
+  </actor>
+  <actor>
+    <name>Arlene Tai</name>
+    <role>Jing</role>
+    <type>Actor</type>
+    <tmdbid>1116140</tmdbid>
+    <imdbid>nm0846716</imdbid>
+  </actor>
+  <actor>
+    <name>Ada Tai</name>
+    <role>Ping</role>
+    <type>Actor</type>
+    <tmdbid>1116141</tmdbid>
+    <imdbid>nm0846715</imdbid>
+  </actor>
+  <actor>
+    <name>Perry Walston</name>
+    <role>Ed Bloom - Age 10</role>
+    <type>Actor</type>
+    <tmdbid>1571801</tmdbid>
+  </actor>
+  <actor>
+    <name>Hailey Anne Nelson</name>
+    <role>Jenny - Age 8</role>
+    <type>Actor</type>
+    <tmdbid>430</tmdbid>
+    <imdbid>nm1371564</imdbid>
+  </actor>
+  <actor>
+    <name>R. Keith Harris</name>
+    <role>Ed's Father</role>
+    <type>Actor</type>
+    <tmdbid>141191</tmdbid>
+    <imdbid>nm0364931</imdbid>
+  </actor>
+  <actor>
+    <name>Grayson Stone</name>
+    <role>Will Bloom - Age 6-8</role>
+    <type>Actor</type>
+    <tmdbid>1571804</tmdbid>
+  </actor>
+  <actor>
+    <name>Miley Cyrus</name>
+    <role>Ruthie - Age 8</role>
+    <type>Actor</type>
+    <tmdbid>76594</tmdbid>
+    <imdbid>nm1415323</imdbid>
+  </actor>
+  <actor>
+    <name>Karla Droege</name>
+    <role>Ed's Mother</role>
+    <type>Actor</type>
+    <tmdbid>225366</tmdbid>
+    <imdbid>nm1175356</imdbid>
+  </actor>
+  <actor>
+    <name>Zac Gardner</name>
+    <role>Zacky Price - Age 10</role>
+    <type>Actor</type>
+    <tmdbid>935572</tmdbid>
+    <imdbid>nm1486648</imdbid>
+  </actor>
+  <actor>
+    <name>John Lowell</name>
+    <role>Don Price - Age 12</role>
+    <type>Actor</type>
+    <tmdbid>88716</tmdbid>
+    <imdbid>nm0523097</imdbid>
+  </actor>
+  <actor>
+    <name>Frank Hoyt Taylor</name>
+    <role>Sharecropper</role>
+    <type>Actor</type>
+    <tmdbid>77522</tmdbid>
+    <imdbid>nm0852374</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Redden</name>
+    <role>Banjo man</role>
+    <type>Actor</type>
+    <tmdbid>1152299</tmdbid>
+    <imdbid>nm0714681</imdbid>
+  </actor>
+  <actor>
+    <name>James DeForest Parker</name>
+    <role>Shotgun Toter</role>
+    <type>Actor</type>
+    <tmdbid>1400931</tmdbid>
+    <imdbid>nm1505015</imdbid>
+  </actor>
+  <actor>
+    <name>Russell Hodgkinson</name>
+    <role>Some Farmer</role>
+    <type>Actor</type>
+    <tmdbid>115433</tmdbid>
+    <imdbid>nm1428690</imdbid>
+  </actor>
+  <actor>
+    <name>Sallie Hedrick</name>
+    <role>Pretty Girl</role>
+    <type>Actor</type>
+    <tmdbid>1473946</tmdbid>
+    <imdbid>nm1505418</imdbid>
+  </actor>
+  <actor>
+    <name>Charles McLawhorn</name>
+    <role>Mayor</role>
+    <type>Actor</type>
+    <tmdbid>1179700</tmdbid>
+    <imdbid>nm0572467</imdbid>
+  </actor>
+  <actor>
+    <name>Don Young</name>
+    <role>Shephard</role>
+    <type>Actor</type>
+    <tmdbid>1248873</tmdbid>
+    <imdbid>nm1134826</imdbid>
+  </actor>
+  <actor>
+    <name>David Ramsey</name>
+    <role>Townsperson</role>
+    <type>Actor</type>
+    <tmdbid>1831887</tmdbid>
+    <imdbid>nm1706655</imdbid>
+  </actor>
+  <actor>
+    <name>Greg Hohn</name>
+    <role>Townsperson</role>
+    <type>Actor</type>
+    <tmdbid>1096328</tmdbid>
+    <imdbid>nm0389858</imdbid>
+  </actor>
+  <actor>
+    <name>Zach Hanner</name>
+    <role>Cashier</role>
+    <type>Actor</type>
+    <tmdbid>1392671</tmdbid>
+    <imdbid>nm0360393</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Campbell</name>
+    <role>Jump Leader</role>
+    <type>Actor</type>
+    <tmdbid>179847</tmdbid>
+    <imdbid>nm0132557</imdbid>
+  </actor>
+  <actor>
+    <name>Bonnie Johnson</name>
+    <role>Teller Woman</role>
+    <type>Actor</type>
+    <tmdbid>218605</tmdbid>
+    <imdbid>nm0176922</imdbid>
+  </actor>
+  <actor>
+    <name>Joanne Pankow</name>
+    <role>Heavy Set Nurse</role>
+    <type>Actor</type>
+    <tmdbid>174254</tmdbid>
+    <imdbid>nm0659600</imdbid>
+  </actor>
+  <actor>
+    <name>Trevor Gagnon</name>
+    <role>Will's son</role>
+    <type>Actor</type>
+    <tmdbid>76098</tmdbid>
+    <imdbid>nm1481133</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Wallace</name>
+    <role>Econ Professor</role>
+    <type>Actor</type>
+    <tmdbid>8272</tmdbid>
+    <imdbid>nm1180620</imdbid>
+  </actor>
+  <actor>
+    <name>Jake Brake</name>
+    <role>Old Zacky</role>
+    <type>Actor</type>
+    <tmdbid>1391328</tmdbid>
+    <imdbid>nm0104111</imdbid>
+  </actor>
+  <actor>
+    <name>L.C. Holt</name>
+    <role>Spectre Citizen (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1140572</tmdbid>
+    <imdbid>nm1417657</imdbid>
+  </actor>
+  <actor>
+    <name>Will Thomas</name>
+    <role>Spectre Citizen (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1372150</tmdbid>
+    <imdbid>nm0859646</imdbid>
+  </actor>
+  <director tmdbid="510" imdbid="nm0000318">Tim Burton</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=M3YVTgTl-F0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=rX1Lwrt9Bj8</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=A67eVTHqYAE</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dF-Iy7vIOJA</trailer>
+  <rating>8</rating>
+  <year>2003</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt0319061</imdbid>
+  <tmdbid>587</tmdbid>
+  <premiered>2003-12-25</premiered>
+  <releasedate>2003-12-25</releasedate>
+  <criticrating>75</criticrating>
+  <runtime>125</runtime>
+  <country>United States of America</country>
+  <genre>冒险</genre>
+  <genre>奇幻</genre>
+  <genre>剧情</genre>
+  <studio>Columbia Pictures</studio>
+  <studio>The Zanuck Company</studio>
+  <studio>Jinks/Cohen Company</studio>
+  <studio>Tim Burton Productions</studio>
+  <studio>Sony Pictures</studio>
+  <uniqueid type="Tmdb">587</uniqueid>
+  <uniqueid type="Imdb">tt0319061</uniqueid>
+  <id>tt0319061</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>mpeg2video</codec>
+        <micodec>mpeg2video</micodec>
+        <bitrate>30403167</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>125</duration>
+        <durationinseconds>7509</durationinseconds>
+      </video>
+      <audio>
+        <codec>pcm_s16le</codec>
+        <micodec>pcm_s16le</micodec>
+        <bitrate>4608000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

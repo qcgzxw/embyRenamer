@@ -1,0 +1,448 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一个被错误指控谋杀的精神病父亲和他可爱的六岁女儿之间的温情故事。改编自2013年韩国电影《7号房的礼物》。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-30 11:03:59</dateadded>
+  <title>七号房的礼物</title>
+  <originaltitle>7. Koğuştaki Mucize</originaltitle>
+  <actor>
+    <name>Aras Bulut Iynemli</name>
+    <role>Memo</role>
+    <type>Actor</type>
+    <tmdbid>1163030</tmdbid>
+    <imdbid>nm4199420</imdbid>
+  </actor>
+  <actor>
+    <name>Nisa Sofiya Aksongur</name>
+    <role>Ova</role>
+    <type>Actor</type>
+    <tmdbid>1985311</tmdbid>
+  </actor>
+  <actor>
+    <name>İlker Aksum</name>
+    <role>Askorozlu</role>
+    <type>Actor</type>
+    <tmdbid>556113</tmdbid>
+  </actor>
+  <actor>
+    <name>Mesut Akusta</name>
+    <role>Yusuf</role>
+    <type>Actor</type>
+    <tmdbid>935344</tmdbid>
+    <imdbid>nm1698609</imdbid>
+  </actor>
+  <actor>
+    <name>Yıldıray Şahinler</name>
+    <role>Hafız</role>
+    <type>Actor</type>
+    <tmdbid>1948853</tmdbid>
+  </actor>
+  <actor>
+    <name>Yurdaer Okur</name>
+    <role>Yarbay Aydın</role>
+    <type>Actor</type>
+    <tmdbid>1258255</tmdbid>
+    <imdbid>nm1938148</imdbid>
+  </actor>
+  <actor>
+    <name>Sarp Akkaya</name>
+    <role>Müdür Nail</role>
+    <type>Actor</type>
+    <tmdbid>1251887</tmdbid>
+    <imdbid>nm3665668</imdbid>
+  </actor>
+  <actor>
+    <name>Deniz Baysal</name>
+    <role>Öğretmen Mine</role>
+    <type>Actor</type>
+    <tmdbid>1619852</tmdbid>
+  </actor>
+  <actor>
+    <name>Deniz Celiloğlu</name>
+    <role>Yüzbaşı Faruk</role>
+    <type>Actor</type>
+    <tmdbid>1300135</tmdbid>
+  </actor>
+  <actor>
+    <name>Ferit Kaya</name>
+    <role>Ali</role>
+    <type>Actor</type>
+    <tmdbid>1053819</tmdbid>
+    <imdbid>nm2414682</imdbid>
+  </actor>
+  <actor>
+    <name>Doğukan Polat</name>
+    <role>Tevfik</role>
+    <type>Actor</type>
+    <tmdbid>2139428</tmdbid>
+  </actor>
+  <actor>
+    <name>Emre Yetim</name>
+    <role>Ayna</role>
+    <type>Actor</type>
+    <tmdbid>108009</tmdbid>
+    <imdbid>nm3670181</imdbid>
+  </actor>
+  <actor>
+    <name>Serhan Onat</name>
+    <role>Meydancı Selim</role>
+    <type>Actor</type>
+    <tmdbid>1987801</tmdbid>
+  </actor>
+  <actor>
+    <name>Gülçin Kültür Şahin</name>
+    <role>Hatice</role>
+    <type>Actor</type>
+    <tmdbid>2443401</tmdbid>
+    <imdbid>nm9473365</imdbid>
+  </actor>
+  <actor>
+    <name>Serdar Akülker</name>
+    <role>Cengiz</role>
+    <type>Actor</type>
+    <tmdbid>3046751</tmdbid>
+  </actor>
+  <actor>
+    <name>Hayal Köseoğlu</name>
+    <role>Ova</role>
+    <type>Actor</type>
+    <tmdbid>1948855</tmdbid>
+  </actor>
+  <actor>
+    <name>Nadi Güler</name>
+    <role>Baş Gardiyan Şeref</role>
+    <type>Actor</type>
+    <tmdbid>2482439</tmdbid>
+  </actor>
+  <actor>
+    <name>Özgür Dereli</name>
+    <role>Gardiyan Ahmet</role>
+    <type>Actor</type>
+    <tmdbid>2852272</tmdbid>
+  </actor>
+  <actor>
+    <name>Cankat Aydos</name>
+    <role>Kaçak Asker</role>
+    <type>Actor</type>
+    <tmdbid>2068347</tmdbid>
+  </actor>
+  <actor>
+    <name>Serhat Üstündağ</name>
+    <role>Kösük</role>
+    <type>Actor</type>
+    <tmdbid>3046776</tmdbid>
+  </actor>
+  <actor>
+    <name>Basri Albayrak</name>
+    <role>Erol</role>
+    <type>Actor</type>
+    <tmdbid>1380279</tmdbid>
+  </actor>
+  <actor>
+    <name>Özgür Avşar</name>
+    <role>Sefer</role>
+    <type>Actor</type>
+    <tmdbid>3046784</tmdbid>
+  </actor>
+  <actor>
+    <name>Mert Zaim</name>
+    <role>Ilyas</role>
+    <type>Actor</type>
+    <tmdbid>3046786</tmdbid>
+  </actor>
+  <actor>
+    <name>Celile Toyon Uysal</name>
+    <role>Fatma</role>
+    <type>Actor</type>
+    <tmdbid>1914127</tmdbid>
+    <imdbid>nm0870319</imdbid>
+  </actor>
+  <actor>
+    <name>Mustafa Dok</name>
+    <role>Metin</role>
+    <type>Actor</type>
+    <tmdbid>2452163</tmdbid>
+  </actor>
+  <director tmdbid="230767" imdbid="nm3133017">Mehmet Ada Öztekin</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bDAkHkR6fwA</trailer>
+  <rating>8.2</rating>
+  <year>2019</year>
+  <imdbid>tt10431500</imdbid>
+  <tmdbid>637920</tmdbid>
+  <premiered>2019-10-10</premiered>
+  <releasedate>2019-10-10</releasedate>
+  <runtime>132</runtime>
+  <country>Turkey</country>
+  <genre>剧情</genre>
+  <genre>喜剧</genre>
+  <genre>家庭</genre>
+  <studio>Lanistar Media</studio>
+  <studio>Motion Content Group</studio>
+  <studio>CJ Entertainment Turkey</studio>
+  <uniqueid type="Tmdb">637920</uniqueid>
+  <uniqueid type="Imdb">tt10431500</uniqueid>
+  <id>tt10431500</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5120057</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.98</framerate>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>132</duration>
+        <durationinseconds>7925</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

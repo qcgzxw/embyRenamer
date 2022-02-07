@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[弗兰克帮助艾丽卡。黛比提高了她的比赛成绩。利普试图保护海伦免受阿曼达披露的影响，但她不再与他交谈或见面。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-17 16:10:55</dateadded>
+  <title>难民</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Reilly Burke</name>
+    <role>Theo Wallace</role>
+    <type>GuestStar</type>
+    <tmdbid>108774</tmdbid>
+    <imdbid>nm0121805</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Metz</name>
+    <role>Melinda</role>
+    <type>GuestStar</type>
+    <tmdbid>1449121</tmdbid>
+  </actor>
+  <actor>
+    <name>Peyton Elizabeth Lee</name>
+    <role>Girl Soldier</role>
+    <type>GuestStar</type>
+    <tmdbid>1768964</tmdbid>
+  </actor>
+  <actor>
+    <name>Sasha Alexander</name>
+    <role>Helene Runyon</role>
+    <type>GuestStar</type>
+    <tmdbid>64154</tmdbid>
+  </actor>
+  <director>Wendey Stanzler</director>
+  <rating>8.3</rating>
+  <year>2016</year>
+  <imdbid>tt5037490</imdbid>
+  <tvdbid>5457926</tvdbid>
+  <runtime>56</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <tvrageid>1065885649</tvrageid>
+  <uniqueid type="Imdb">tt5037490</uniqueid>
+  <uniqueid type="Tvdb">5457926</uniqueid>
+  <uniqueid type="TvRage">1065885649</uniqueid>
+  <episode>5</episode>
+  <season>6</season>
+  <aired>2016-02-07</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10210418</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>55</duration>
+        <durationinseconds>3340</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

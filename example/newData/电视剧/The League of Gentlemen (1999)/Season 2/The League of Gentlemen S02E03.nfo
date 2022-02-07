@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Charlie and Stella baby-sit their niece Jade but frighten her with their arguing. Gary and Lynne rent a room from Pop. Edward and Tubbs decide that David should marry in order to keep the ...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-15 23:19:07</dateadded>
+  <title>第 3 集</title>
+  <actor>
+    <name>Mark Gatiss</name>
+    <type>Actor</type>
+    <tmdbid>34546</tmdbid>
+    <imdbid>nm0309693</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Hays-Marshall</name>
+    <type>Actor</type>
+    <tmdbid>1231013</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Dyson</name>
+    <type>Actor</type>
+    <tmdbid>1227405</tmdbid>
+  </actor>
+  <actor>
+    <name>Johnny Leeze</name>
+    <role>Inspector Cox</role>
+    <type>Actor</type>
+    <tmdbid>1820221</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Lin</name>
+    <type>GuestStar</type>
+    <tmdbid>1234123</tmdbid>
+  </actor>
+  <director>Steve Bendelack</director>
+  <rating>0</rating>
+  <year>2000</year>
+  <imdbid>tt0630117</imdbid>
+  <tvdbid>87705</tvdbid>
+  <runtime>29</runtime>
+  <genre>Comedy</genre>
+  <genre>Horror</genre>
+  <tvrageid>193853</tvrageid>
+  <uniqueid type="Imdb">tt0630117</uniqueid>
+  <uniqueid type="Tvdb">87705</uniqueid>
+  <uniqueid type="TvRage">193853</uniqueid>
+  <episode>3</episode>
+  <season>2</season>
+  <aired>2000-01-28</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1264683</bitrate>
+        <width>716</width>
+        <height>570</height>
+        <aspect>80908:44175</aspect>
+        <aspectratio>80908:44175</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1766</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

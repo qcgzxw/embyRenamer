@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[薛尔登和潘妮试了一个应该要让人恋爱的实验，其他人整晚都在玩密室逃脱游戏。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 17:57:55</dateadded>
+  <title>The Intimacy Acceleration</title>
+  <actor>
+    <name>Laura Spencer</name>
+    <type>GuestStar</type>
+    <tmdbid>591519</tmdbid>
+    <imdbid>nm3189010</imdbid>
+  </actor>
+  <actor>
+    <name>Max Adler</name>
+    <type>GuestStar</type>
+    <tmdbid>205335</tmdbid>
+    <imdbid>nm2301438</imdbid>
+  </actor>
+  <actor>
+    <name>Molly Morgan</name>
+    <type>GuestStar</type>
+    <tmdbid>153934</tmdbid>
+    <imdbid>nm0604919</imdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Escajeda</name>
+    <type>GuestStar</type>
+    <tmdbid>1250378</tmdbid>
+    <imdbid>nm1911983</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.9</rating>
+  <year>2015</year>
+  <imdbid>tt3862714</imdbid>
+  <tvdbid>5110663</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>1065745009</tvrageid>
+  <uniqueid type="Imdb">tt3862714</uniqueid>
+  <uniqueid type="Tvdb">5110663</uniqueid>
+  <uniqueid type="TvRage">1065745009</uniqueid>
+  <episode>16</episode>
+  <season>8</season>
+  <aired>2015-02-26</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1585334</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>20</duration>
+        <durationinseconds>1211</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

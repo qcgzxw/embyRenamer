@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[温柔的妻子菜奈和天真浪漫的丈夫翔太，是一对有年差的姐弟恋夫妇，他们刚搬到东京都内的高级公寓，却在家中意外地被卷入了连续杀人事件，原本抱着有趣的心态，公寓内的住户正在玩交换杀人的游戏，结果弄假成真，真的出现了杀人事件……]]></plot>
+  <outline><![CDATA[温柔的妻子菜奈和天真浪漫的丈夫翔太，是一对有年差的姐弟恋夫妇，他们刚搬到东京都内的高级公寓，却在家中意外地被卷入了连续杀人事件，原本抱着有趣的心态，公寓内的住户正在玩交换杀人的游戏，结果弄假成真，真的出现了杀人事件……]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-15 04:19:28</dateadded>
+  <title>轮到你了</title>
+  <originaltitle>あなたの番です</originaltitle>
+  <actor>
+    <name>Tomoyo Harada</name>
+    <role>Nana Tezuka</role>
+    <type>Actor</type>
+    <tmdbid>148287</tmdbid>
+    <imdbid>nm0361753</imdbid>
+  </actor>
+  <actor>
+    <name>Tanaka Kei</name>
+    <role>Shota Tezuka</role>
+    <type>Actor</type>
+    <tmdbid>130656</tmdbid>
+    <imdbid>nm1851637</imdbid>
+  </actor>
+  <actor>
+    <name>Nanase Nishino</name>
+    <role>Sawa Kuroshima</role>
+    <type>Actor</type>
+    <tmdbid>1741323</tmdbid>
+  </actor>
+  <actor>
+    <name>Tae Kimura</name>
+    <role>Sanae Enomoto</role>
+    <type>Actor</type>
+    <tmdbid>144418</tmdbid>
+    <imdbid>nm0454117</imdbid>
+  </actor>
+  <actor>
+    <name>Katsuhisa Namase</name>
+    <role>Junichiro Tamiya</role>
+    <type>Actor</type>
+    <tmdbid>91873</tmdbid>
+    <imdbid>nm0620617</imdbid>
+  </actor>
+  <actor>
+    <name>Naoto Takenaka</name>
+    <role>Hiroshi Tokoshima</role>
+    <type>Actor</type>
+    <tmdbid>68704</tmdbid>
+  </actor>
+  <actor>
+    <name>Maho Yamada</name>
+    <role>Akane Kinoshita</role>
+    <type>Actor</type>
+    <tmdbid>1063266</tmdbid>
+  </actor>
+  <actor>
+    <name>Nao</name>
+    <role>Ono Mikiha</role>
+    <type>Actor</type>
+    <tmdbid>2301723</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoshihiko Hakamada</name>
+    <role>Yoshihiko Hakamada/Yuzuru Kuzumi</role>
+    <type>Actor</type>
+    <tmdbid>96569</tmdbid>
+  </actor>
+  <actor>
+    <name>Miho Kanazawa</name>
+    <role>Xinye Lin</role>
+    <type>Actor</type>
+    <tmdbid>127894</tmdbid>
+  </actor>
+  <actor>
+    <name>Kana Mikura</name>
+    <role>Yoko Ishizaki</role>
+    <type>Actor</type>
+    <tmdbid>1154253</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoji Tanaka</name>
+    <role>Keisuke Ukita</role>
+    <type>Actor</type>
+    <tmdbid>115659</tmdbid>
+  </actor>
+  <actor>
+    <name>Masanobu Sakata</name>
+    <role>Masashi Enomoto</role>
+    <type>Actor</type>
+    <tmdbid>1257046</tmdbid>
+  </actor>
+  <actor>
+    <name>Towa Araki</name>
+    <role>Soichi Enomoto</role>
+    <type>Actor</type>
+    <tmdbid>1781079</tmdbid>
+  </actor>
+  <actor>
+    <name>Jin Katagiri</name>
+    <role>Atsushi Fujii</role>
+    <type>Actor</type>
+    <tmdbid>1060297</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryosuke Koike</name>
+    <role>Yuki Eto</role>
+    <type>Actor</type>
+    <tmdbid>2087227</tmdbid>
+  </actor>
+  <actor>
+    <name>Masanobu Ando</name>
+    <role>Go Sano</role>
+    <type>Actor</type>
+    <tmdbid>74862</tmdbid>
+  </actor>
+  <actor>
+    <name>Rie Minemura</name>
+    <role>Misato Akaike</role>
+    <type>Actor</type>
+    <tmdbid>1178881</tmdbid>
+  </actor>
+  <actor>
+    <name>Hisako Ookata</name>
+    <role>Sachiko Akaike</role>
+    <type>Actor</type>
+    <tmdbid>551825</tmdbid>
+  </actor>
+  <actor>
+    <name>Kodai Asaka</name>
+    <role>Masato Kamiya</role>
+    <type>Actor</type>
+    <tmdbid>1343678</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarutoki Minagawa</name>
+    <role>Yoji Mizuki</role>
+    <type>Actor</type>
+    <tmdbid>1180452</tmdbid>
+  </actor>
+  <actor>
+    <name>Miwako Kakei</name>
+    <role>Luli Sakuragi</role>
+    <type>Actor</type>
+    <tmdbid>1566806</tmdbid>
+  </actor>
+  <rating>8.3</rating>
+  <year>2019</year>
+  <imdb_id>tt9679644</imdb_id>
+  <tmdbid>88570</tmdbid>
+  <premiered>2019-04-14</premiered>
+  <releasedate>2019-04-14</releasedate>
+  <enddate>2019-09-08</enddate>
+  <runtime>46</runtime>
+  <genre>悬疑</genre>
+  <genre>剧情</genre>
+  <studio>NTV</studio>
+  <uniqueid type="Imdb">tt9679644</uniqueid>
+  <uniqueid type="Tmdb">88570</uniqueid>
+  <uniqueid type="Tvdb">361968</uniqueid>
+  <tvdbid>361968</tvdbid>
+  <id>361968</id>
+  <episodeguide>
+    <url cache="361968.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/361968/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Ended</status>
+</tvshow>

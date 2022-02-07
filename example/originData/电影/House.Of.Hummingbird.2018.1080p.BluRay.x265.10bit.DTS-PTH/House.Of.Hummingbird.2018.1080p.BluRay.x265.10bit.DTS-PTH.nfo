@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[圣水大桥坍塌的1994年，中学生恩熙和父母、姐姐、哥哥一起生活。全家在各自的问题上争吵，此时的恩熙寻觅未至的爱情，像岛一样漂浮。恩熙的生活里，唯一能给予理解的她出现了。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-02 05:44:54</dateadded>
+  <title>蜂鸟</title>
+  <originaltitle>벌새</originaltitle>
+  <actor>
+    <name>Park Ji-hu</name>
+    <role>Eun-hee</role>
+    <type>Actor</type>
+    <tmdbid>2125084</tmdbid>
+    <imdbid>nm10098943</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Sae-byuk</name>
+    <role>Young-ji</role>
+    <type>Actor</type>
+    <tmdbid>1374555</tmdbid>
+  </actor>
+  <actor>
+    <name>Jung In-gi</name>
+    <role>Father</role>
+    <type>Actor</type>
+    <tmdbid>240082</tmdbid>
+    <imdbid>nm1559446</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Seung-yeon</name>
+    <role>Mother</role>
+    <type>Actor</type>
+    <tmdbid>1552971</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Soo-yeon</name>
+    <role>Su-hee</role>
+    <type>Actor</type>
+    <tmdbid>2305038</tmdbid>
+  </actor>
+  <actor>
+    <name>Son Sang-yeon</name>
+    <role>Dae-hoon</role>
+    <type>Actor</type>
+    <tmdbid>2396991</tmdbid>
+  </actor>
+  <actor>
+    <name>Seol Hye-in</name>
+    <role>Yu-ri</role>
+    <type>Actor</type>
+    <tmdbid>1583322</tmdbid>
+  </actor>
+  <actor>
+    <name>Kil Hae-yeon</name>
+    <role>Young-ji's mother</role>
+    <type>Actor</type>
+    <tmdbid>1191711</tmdbid>
+    <imdbid>nm4725068</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Mi-hyang</name>
+    <role>Head of an academy</role>
+    <type>Actor</type>
+    <tmdbid>94106</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Sun-ju</name>
+    <role>Ji-wan's mother</role>
+    <type>Actor</type>
+    <tmdbid>1607571</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Seo-yoon</name>
+    <role>Ji-sook</role>
+    <type>Actor</type>
+    <tmdbid>2402776</tmdbid>
+  </actor>
+  <director tmdbid="2166752">Kim Bora</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=66PCXNziOTs</trailer>
+  <rating>7.4</rating>
+  <year>2019</year>
+  <imdbid>tt8951086</imdbid>
+  <tmdbid>547404</tmdbid>
+  <premiered>2019-08-29</premiered>
+  <releasedate>2019-08-29</releasedate>
+  <runtime>139</runtime>
+  <country>South Korea</country>
+  <genre>剧情</genre>
+  <studio>Contents Panda</studio>
+  <studio>Mass Ornament Films</studio>
+  <studio>Epiphany Film</studio>
+  <uniqueid type="Tmdb">547404</uniqueid>
+  <uniqueid type="Imdb">tt8951086</uniqueid>
+  <id>tt8951086</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6997384</bitrate>
+        <width>1920</width>
+        <height>1036</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>139</duration>
+        <durationinseconds>8340</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

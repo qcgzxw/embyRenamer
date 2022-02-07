@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[东京的都市丛林中央，残存着一栋古旧寒酸的老房子，这里局促地生活着柴田一家五口人。在工地当临时工的男人阿治（Lily Franky 饰）经常带着儿子祥太（城桧吏 饰）到超市盗窃生活用品，这一天，他们回家路上遇到了独自待在户外的四岁女孩由里（佐佐木美结 饰）。妻子信代（安藤樱 饰）起初极力主张将女孩送回父母身边，但当看到女孩原生家庭的状况时又心生恻隐。原本柴田家就靠着老奶奶初枝（树木希林 饰）的养老金度日，而今多了一口人，自然更艰辛了几分。包括信代的妹妹亚纪（松冈茉优 饰）在内，虽然一家人游走在贫困和违法的边缘，但笃深的羁绊将他们紧紧联系在一起，使他们的心不会随着冰冷的都市而寒冷下去……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-02-17 09:49:08</dateadded>
+  <title>小偷家族</title>
+  <originaltitle>万引き家族</originaltitle>
+  <actor>
+    <name>Lily Franky</name>
+    <role>Osamu Shibata</role>
+    <type>Actor</type>
+    <tmdbid>123739</tmdbid>
+    <imdbid>nm1410940</imdbid>
+  </actor>
+  <actor>
+    <name>Sakura Andō</name>
+    <role>Nobuyo Shibata</role>
+    <type>Actor</type>
+    <tmdbid>100766</tmdbid>
+    <imdbid>nm2747232</imdbid>
+  </actor>
+  <actor>
+    <name>Mayu Matsuoka</name>
+    <role>Aki Shibata</role>
+    <type>Actor</type>
+    <tmdbid>1130611</tmdbid>
+    <imdbid>nm3640154</imdbid>
+  </actor>
+  <actor>
+    <name>Kairi Jyo</name>
+    <role>Shota Shibata</role>
+    <type>Actor</type>
+    <tmdbid>1977956</tmdbid>
+  </actor>
+  <actor>
+    <name>Miyu Sasaki</name>
+    <role>Yuri</role>
+    <type>Actor</type>
+    <tmdbid>1980043</tmdbid>
+    <imdbid>nm9437164</imdbid>
+  </actor>
+  <actor>
+    <name>Kirin Kiki</name>
+    <role>Hatsue Shibata</role>
+    <type>Actor</type>
+    <tmdbid>43663</tmdbid>
+    <imdbid>nm0452817</imdbid>
+  </actor>
+  <actor>
+    <name>Sosuke Ikematsu</name>
+    <role>4 ban-san</role>
+    <type>Actor</type>
+    <tmdbid>1116510</tmdbid>
+    <imdbid>nm1257423</imdbid>
+  </actor>
+  <actor>
+    <name>Naoto Ogata</name>
+    <role>Yuzuru Shibata</role>
+    <type>Actor</type>
+    <tmdbid>553939</tmdbid>
+    <imdbid>nm0644529</imdbid>
+  </actor>
+  <actor>
+    <name>Yôko Moriguchi</name>
+    <role>Yoko Shibata</role>
+    <type>Actor</type>
+    <tmdbid>932012</tmdbid>
+    <imdbid>nm1071709</imdbid>
+  </actor>
+  <actor>
+    <name>Yuki Yamada</name>
+    <role>Yasu Hojo</role>
+    <type>Actor</type>
+    <tmdbid>1161474</tmdbid>
+    <imdbid>nm4290253</imdbid>
+  </actor>
+  <actor>
+    <name>Moemi Katayama</name>
+    <role>Nozomi Hojo</role>
+    <type>Actor</type>
+    <tmdbid>1831272</tmdbid>
+    <imdbid>nm7131255</imdbid>
+  </actor>
+  <actor>
+    <name>Kengo Kora</name>
+    <role>Takumi Maezono</role>
+    <type>Actor</type>
+    <tmdbid>120690</tmdbid>
+    <imdbid>nm2246282</imdbid>
+  </actor>
+  <actor>
+    <name>Chizuru Ikewaki</name>
+    <role>Kie Miyabe</role>
+    <type>Actor</type>
+    <tmdbid>118651</tmdbid>
+    <imdbid>nm0407514</imdbid>
+  </actor>
+  <actor>
+    <name>Akira Emoto</name>
+    <role>Yoritsugu Kawado</role>
+    <type>Actor</type>
+    <tmdbid>13283</tmdbid>
+    <imdbid>nm0256628</imdbid>
+  </actor>
+  <actor>
+    <name>Aju Makita</name>
+    <type>Actor</type>
+    <tmdbid>1669110</tmdbid>
+  </actor>
+  <actor>
+    <name>Hajime Inoue</name>
+    <type>Actor</type>
+    <tmdbid>135202</tmdbid>
+    <imdbid>nm2200825</imdbid>
+  </actor>
+  <actor>
+    <name>Haruna Hori</name>
+    <type>Actor</type>
+    <tmdbid>2007897</tmdbid>
+  </actor>
+  <actor>
+    <name>Nana Mizoguchi</name>
+    <role>Ayu</role>
+    <type>Actor</type>
+    <tmdbid>2431667</tmdbid>
+  </actor>
+  <director tmdbid="25645" imdbid="nm0466153">Hirokazu Kore-eda</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9382rwoMiRc</trailer>
+  <rating>7.9</rating>
+  <year>2018</year>
+  <mpaa>HK-IIB</mpaa>
+  <imdbid>tt8075192</imdbid>
+  <tmdbid>505192</tmdbid>
+  <premiered>2018-06-02</premiered>
+  <releasedate>2018-06-02</releasedate>
+  <criticrating>99</criticrating>
+  <runtime>121</runtime>
+  <country>Japan</country>
+  <genre>剧情</genre>
+  <genre>犯罪</genre>
+  <studio>Gaga Corporation</studio>
+  <studio>Fuji Television Network</studio>
+  <studio>AOI Promotion</studio>
+  <studio>Bunbuku</studio>
+  <uniqueid type="Tmdb">505192</uniqueid>
+  <uniqueid type="Imdb">tt8075192</uniqueid>
+  <id>tt8075192</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9114514</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>3060:1651</aspect>
+        <aspectratio>3060:1651</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>120</duration>
+        <durationinseconds>7249</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

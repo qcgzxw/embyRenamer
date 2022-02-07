@@ -1,0 +1,290 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　最近出现了一起凶徒连环杀人案，最令人恶心的是，凶徒每次作案后都将被害者的喉咙割走。FBI探员威尔（爱德华•诺顿 Edward Norton 饰）负责此案的侦察，经过详细调查，威尔分析此人每次都是将被害者的喉咙割走吃掉，然而却没有找到任何凶徒的蛛丝马迹。威尔向患有精神病的犯罪心理学家汉尼拔（安东尼•霍普金斯 Anthony Hopkins 饰）求助，希望汉尼拔能刻画出凶徒的犯罪心理以助破案。不料汉尼拔精神病发，意图伤害威尔，最后被关进了精神病监狱，此案也就不了了之。多年后，威尔又遇到了一起相同的谋杀案。虽确定了犯罪嫌疑人，但若想清楚推敲出此人的犯罪心理，以将其乘之于法，威尔只好再次找到了汉尼拔。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-04 07:10:46</dateadded>
+  <title>红龙</title>
+  <originaltitle>Red Dragon</originaltitle>
+  <actor>
+    <name>Anthony Hopkins</name>
+    <role>Hannibal Lecter</role>
+    <type>Actor</type>
+    <tmdbid>4173</tmdbid>
+    <imdbid>nm0000164</imdbid>
+  </actor>
+  <actor>
+    <name>Edward Norton</name>
+    <role>Will Graham</role>
+    <type>Actor</type>
+    <tmdbid>819</tmdbid>
+    <imdbid>nm0001570</imdbid>
+  </actor>
+  <actor>
+    <name>Ralph Fiennes</name>
+    <role>Francis Dolarhyde</role>
+    <type>Actor</type>
+    <tmdbid>5469</tmdbid>
+  </actor>
+  <actor>
+    <name>Harvey Keitel</name>
+    <role>Jack Crawford</role>
+    <type>Actor</type>
+    <tmdbid>1037</tmdbid>
+    <imdbid>nm0000172</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Watson</name>
+    <role>Reba McClane</role>
+    <type>Actor</type>
+    <tmdbid>1639</tmdbid>
+    <imdbid>nm0001833</imdbid>
+  </actor>
+  <actor>
+    <name>Mary-Louise Parker</name>
+    <role>Molly Graham</role>
+    <type>Actor</type>
+    <tmdbid>18248</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Seymour Hoffman</name>
+    <role>Freddy Lounds</role>
+    <type>Actor</type>
+    <tmdbid>1233</tmdbid>
+    <imdbid>nm0000450</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Heald</name>
+    <role>Dr. Frederick Chilton</role>
+    <type>Actor</type>
+    <tmdbid>16293</tmdbid>
+  </actor>
+  <actor>
+    <name>Ken Leung</name>
+    <role>Lloyd Bowman</role>
+    <type>Actor</type>
+    <tmdbid>2131</tmdbid>
+  </actor>
+  <actor>
+    <name>Frankie Faison</name>
+    <role>Barney Matthews</role>
+    <type>Actor</type>
+    <tmdbid>13936</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyler Patrick Jones</name>
+    <role>Josh Graham</role>
+    <type>Actor</type>
+    <tmdbid>62821</tmdbid>
+  </actor>
+  <actor>
+    <name>Lalo Schifrin</name>
+    <role>Conductor</role>
+    <type>Actor</type>
+    <tmdbid>9217</tmdbid>
+  </actor>
+  <actor>
+    <name>John Rubinstein</name>
+    <role>Dinner Guest</role>
+    <type>Actor</type>
+    <tmdbid>44261</tmdbid>
+  </actor>
+  <actor>
+    <name>David Doty</name>
+    <role>Dinner Guest</role>
+    <type>Actor</type>
+    <tmdbid>124086</tmdbid>
+  </actor>
+  <actor>
+    <name>Brenda Strong</name>
+    <role>Dinner Guest</role>
+    <type>Actor</type>
+    <tmdbid>101396</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Curtis Brown</name>
+    <role>Dinner Guest</role>
+    <type>Actor</type>
+    <tmdbid>233298</tmdbid>
+  </actor>
+  <actor>
+    <name>Mary Anne McGarry</name>
+    <role>Dinner Guest</role>
+    <type>Actor</type>
+    <tmdbid>167115</tmdbid>
+    <imdbid>nm0566911</imdbid>
+  </actor>
+  <actor>
+    <name>Marc Abraham</name>
+    <role>Dinner Guest</role>
+    <type>Actor</type>
+    <tmdbid>15219</tmdbid>
+  </actor>
+  <actor>
+    <name>Veronica De Laurentiis</name>
+    <role>Dinner Guest</role>
+    <type>Actor</type>
+    <tmdbid>1325285</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Cavanaugh</name>
+    <role>Forensic Dentist</role>
+    <type>Actor</type>
+    <tmdbid>101172</tmdbid>
+  </actor>
+  <actor>
+    <name>Madison Mason</name>
+    <role>Police Commissioner</role>
+    <type>Actor</type>
+    <tmdbid>118756</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Duke</name>
+    <role>Police Chief</role>
+    <type>Actor</type>
+    <tmdbid>1103</tmdbid>
+  </actor>
+  <actor>
+    <name>Azura Skye</name>
+    <role>Bookseller</role>
+    <type>Actor</type>
+    <tmdbid>31715</tmdbid>
+  </actor>
+  <actor>
+    <name>Stanley Anderson</name>
+    <role>Jimmy Price</role>
+    <type>Actor</type>
+    <tmdbid>15253</tmdbid>
+    <imdbid>nm0027454</imdbid>
+  </actor>
+  <actor>
+    <name>Jeanine Jackson</name>
+    <role>Dr. Hassler</role>
+    <type>Actor</type>
+    <tmdbid>152355</tmdbid>
+  </actor>
+  <actor>
+    <name>Ellen Burstyn</name>
+    <role>Grandma Dolarhyde (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>9560</tmdbid>
+    <imdbid>nm0000995</imdbid>
+  </actor>
+  <actor>
+    <name>Mary Beth Hurt</name>
+    <role>Museum Curator (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>54782</tmdbid>
+  </actor>
+  <actor>
+    <name>James Pickens Jr.</name>
+    <role>Male Zoo Doctor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>25544</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Whaley</name>
+    <role>Ralph Mandy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>11805</tmdbid>
+    <imdbid>nm0001844</imdbid>
+  </actor>
+  <actor>
+    <name>Tanya Newbould</name>
+    <role>Chromalux Secretary</role>
+    <type>Actor</type>
+    <tmdbid>128631</tmdbid>
+  </actor>
+  <actor>
+    <name>Katie Rich</name>
+    <role>Woman Detective</role>
+    <type>Actor</type>
+    <tmdbid>132301</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Berliner</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>2662588</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Verica</name>
+    <role>Charles Leeds</role>
+    <type>Actor</type>
+    <tmdbid>155423</tmdbid>
+  </actor>
+  <actor>
+    <name>Marguerite MacIntyre</name>
+    <role>Valerie Leeds</role>
+    <type>Actor</type>
+    <tmdbid>166566</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Dennehy</name>
+    <role>Beverly</role>
+    <type>Actor</type>
+    <tmdbid>154954</tmdbid>
+    <imdbid>nm0219324</imdbid>
+  </actor>
+  <actor>
+    <name>William Lucking</name>
+    <role>Byron Metcalf</role>
+    <type>Actor</type>
+    <tmdbid>131725</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Simmons</name>
+    <role>Janitor</role>
+    <type>Actor</type>
+    <tmdbid>103899</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Moses</name>
+    <role>Father in Video</role>
+    <type>Actor</type>
+    <tmdbid>11889</tmdbid>
+  </actor>
+  <actor>
+    <name>Lisa Haley</name>
+    <role>Musician</role>
+    <type>Actor</type>
+    <tmdbid>1841343</tmdbid>
+  </actor>
+  <actor>
+    <name>Lisa Thornhill</name>
+    <role>Mrs. Sherman</role>
+    <type>Actor</type>
+    <tmdbid>47058</tmdbid>
+  </actor>
+  <director tmdbid="11091">Brett Ratner</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VQvuC7_qgTE</trailer>
+  <rating>7.2</rating>
+  <year>2002</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0289765</imdbid>
+  <tmdbid>9533</tmdbid>
+  <premiered>2002-09-29</premiered>
+  <releasedate>2002-09-29</releasedate>
+  <criticrating>68</criticrating>
+  <country>Germany</country>
+  <country>United States of America</country>
+  <genre>犯罪</genre>
+  <genre>惊悚</genre>
+  <genre>悬疑</genre>
+  <genre>恐怖</genre>
+  <studio>Universal Pictures</studio>
+  <studio>Metro-Goldwyn-Mayer</studio>
+  <studio>Dino De Laurentiis Company</studio>
+  <studio>Mikona Productions GmbH &amp; Co. KG</studio>
+  <studio>Pan Productions</studio>
+  <studio>Scott Free Productions</studio>
+  <set tmdbcolid="9743">
+    <name>汉尼拔·莱克特（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">9533</uniqueid>
+  <uniqueid type="Imdb">tt0289765</uniqueid>
+  <id>tt0289765</id>
+  <fileinfo>
+    <streamdetails />
+  </fileinfo>
+</movie>

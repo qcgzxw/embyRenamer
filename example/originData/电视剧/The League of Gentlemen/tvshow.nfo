@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[BBC经典喜剧《绅士联盟》]]></plot>
+  <outline><![CDATA[BBC经典喜剧《绅士联盟》]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-30 15:36:55</dateadded>
+  <title>绅士联盟</title>
+  <originaltitle>The League of Gentlemen</originaltitle>
+  <actor>
+    <name>Mark Gatiss</name>
+    <type>Actor</type>
+    <tmdbid>34546</tmdbid>
+    <imdbid>nm0309693</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=U1sFYAI8nC4</trailer>
+  <trailer>http://www.youtube.com/watch?v=YOtpgz4L5d8</trailer>
+  <rating>7.4</rating>
+  <year>1999</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt0184135</imdb_id>
+  <tmdbid>2349</tmdbid>
+  <premiered>1999-01-11</premiered>
+  <releasedate>1999-01-11</releasedate>
+  <enddate>2017-12-20</enddate>
+  <runtime>30</runtime>
+  <genre>喜剧</genre>
+  <studio>BBC Two</studio>
+  <tvrageid>5918</tvrageid>
+  <uniqueid type="Tvdb">72492</uniqueid>
+  <tvdbid>72492</tvdbid>
+  <uniqueid type="Imdb">tt0184135</uniqueid>
+  <uniqueid type="Tmdb">2349</uniqueid>
+  <uniqueid type="TvRage">5918</uniqueid>
+  <id>72492</id>
+  <episodeguide>
+    <url cache="72492.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/72492/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Ended</status>
+</tvshow>

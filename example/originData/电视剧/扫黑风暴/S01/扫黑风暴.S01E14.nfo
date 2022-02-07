@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[赵立根认为，薛梅失踪，马帅死亡等等案件的背后，绿藤市这潭水背后，一定有一个可以谈之色变的巨大龙头。而比黑恶势力更难查的，就是他们背后的那把保护伞。
+
+何勇刚要去龙尾山找线索，就无意中发现了薛梅的尸体，如果不是以这样的方式被发现，薛梅的尸体是不是又要被转移了。
+
+法律不是想当然，一定要把这个案子办成铁案，绝对不能翻案，确保将来诉得出去、判得下来。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-04 13:07:41</dateadded>
+  <title>尸体</title>
+  <actor>
+    <name>Sun Honglei</name>
+    <role>李成阳</role>
+    <type>Actor</type>
+    <tmdbid>73774</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Yixing</name>
+    <role>林浩</role>
+    <type>Actor</type>
+    <tmdbid>1532511</tmdbid>
+    <imdbid>nm7344694</imdbid>
+  </actor>
+  <actor>
+    <name>Liu Yijun</name>
+    <role>何勇</role>
+    <type>Actor</type>
+    <tmdbid>1971602</tmdbid>
+  </actor>
+  <actor>
+    <name>Wu Yue</name>
+    <role>贺芸</role>
+    <type>Actor</type>
+    <tmdbid>113791</tmdbid>
+  </actor>
+  <actor>
+    <name>Maggie Jiang</name>
+    <role>黄希</role>
+    <type>Actor</type>
+    <tmdbid>1590275</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Zhifei</name>
+    <role>高明远</role>
+    <type>Actor</type>
+    <tmdbid>1291458</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Zhibing</name>
+    <role>骆山河</role>
+    <type>Actor</type>
+    <tmdbid>1418366</tmdbid>
+  </actor>
+  <actor>
+    <name>Wu Xiaoliang</name>
+    <role>孙兴</role>
+    <type>Actor</type>
+    <tmdbid>1381455</tmdbid>
+  </actor>
+  <actor>
+    <name>Ning Li</name>
+    <role>马帅</role>
+    <type>Actor</type>
+    <tmdbid>987205</tmdbid>
+    <imdbid>nm1280632</imdbid>
+  </actor>
+  <actor>
+    <name>Che Xiao</name>
+    <role>李丽涓</role>
+    <type>Actor</type>
+    <tmdbid>143845</tmdbid>
+  </actor>
+  <actor>
+    <name>Tan Kai</name>
+    <role>董耀</role>
+    <type>Actor</type>
+    <tmdbid>1183237</tmdbid>
+  </actor>
+  <actor>
+    <name>Hou Chang-Rong</name>
+    <role>赵立根</role>
+    <type>Actor</type>
+    <tmdbid>1721000</tmdbid>
+  </actor>
+  <actor>
+    <name>Sun Hao</name>
+    <role>胡笑伟</role>
+    <type>Actor</type>
+    <tmdbid>1712882</tmdbid>
+  </actor>
+  <actor>
+    <name>Xiaoou Zhou</name>
+    <role>陈建波</role>
+    <type>Actor</type>
+    <tmdbid>237822</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhao Xiaorui</name>
+    <role>曹鹏</role>
+    <type>Actor</type>
+    <tmdbid>1418469</tmdbid>
+  </actor>
+  <actor>
+    <name>Ruijia Jiang</name>
+    <role>麦佳</role>
+    <type>Actor</type>
+    <tmdbid>1180915</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Yang</name>
+    <role>刘铭</role>
+    <type>Actor</type>
+    <tmdbid>2450488</tmdbid>
+  </actor>
+  <rating>0</rating>
+  <year>2021</year>
+  <tvdbid>8605720</tvdbid>
+  <runtime>44</runtime>
+  <genre>中国大陆</genre>
+  <uniqueid type="Tvdb">8605720</uniqueid>
+  <episode>14</episode>
+  <season>1</season>
+  <aired>2021-08-19</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5342566</bitrate>
+        <width>1920</width>
+        <height>958</height>
+        <aspect>960:479</aspect>
+        <aspectratio>960:479</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>44</duration>
+        <durationinseconds>2646</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>62681</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1999</width>
+        <height>931</height>
+        <aspect>1999:931</aspect>
+        <aspectratio>1999:931</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[墨西哥大使造访基列时询问了奥芙佛瑞德 (Offred) 作为使女的生活；主教夫人思考自己的婚姻以及其为建立基列政权所做出的贡献。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-07-03 18:42:39</dateadded>
+  <title>女性的地位</title>
+  <actor>
+    <name>Elisabeth Moss</name>
+    <role>June Osborne / Offred / Ofjoseph</role>
+    <type>Actor</type>
+    <tmdbid>32798</tmdbid>
+  </actor>
+  <actor>
+    <name>Yvonne Strahovski</name>
+    <role>Serena Joy Waterford</role>
+    <type>Actor</type>
+    <tmdbid>63312</tmdbid>
+    <imdbid>nm2088803</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Fiennes</name>
+    <role>Commander Fred Waterford</role>
+    <type>Actor</type>
+    <tmdbid>12763</tmdbid>
+    <imdbid>nm0001212</imdbid>
+  </actor>
+  <actor>
+    <name>Ann Dowd</name>
+    <role>Aunt Lydia / Miss Clements</role>
+    <type>Actor</type>
+    <tmdbid>43366</tmdbid>
+    <imdbid>nm0235652</imdbid>
+  </actor>
+  <actor>
+    <name>Madeline Brewer</name>
+    <role>Janine Lindo / Ofwarren / Ofdaniel / Ofhoward</role>
+    <type>Actor</type>
+    <tmdbid>1443712</tmdbid>
+    <imdbid>nm5483400</imdbid>
+  </actor>
+  <actor>
+    <name>Max Minghella</name>
+    <role>Nick Blaine</role>
+    <type>Actor</type>
+    <tmdbid>2978</tmdbid>
+    <imdbid>nm1540404</imdbid>
+  </actor>
+  <actor>
+    <name>O.T. Fagbenle</name>
+    <role>Lucas 'Luke' Bankole</role>
+    <type>Actor</type>
+    <tmdbid>113970</tmdbid>
+  </actor>
+  <actor>
+    <name>Samira Wiley</name>
+    <role>Moira</role>
+    <type>Actor</type>
+    <tmdbid>1034197</tmdbid>
+    <imdbid>nm4148126</imdbid>
+  </actor>
+  <actor>
+    <name>Amanda Brugel</name>
+    <role>Rita Blue</role>
+    <type>GuestStar</type>
+    <tmdbid>1232769</tmdbid>
+    <imdbid>nm0115760</imdbid>
+  </actor>
+  <actor>
+    <name>Jenessa Grant</name>
+    <role>Ofsamuel</role>
+    <type>GuestStar</type>
+    <tmdbid>1256820</tmdbid>
+  </actor>
+  <actor>
+    <name>Ever Carradine</name>
+    <role>Putnam Naomi</role>
+    <type>GuestStar</type>
+    <tmdbid>41557</tmdbid>
+  </actor>
+  <actor>
+    <name>Tattiawna Jones</name>
+    <role>Ofglen #2</role>
+    <type>GuestStar</type>
+    <tmdbid>110911</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Barillas</name>
+    <role>Mr. Flores</role>
+    <type>GuestStar</type>
+    <tmdbid>1055520</tmdbid>
+    <imdbid>nm273820</imdbid>
+  </actor>
+  <actor>
+    <name>Zabryna Guevara</name>
+    <role>Mrs. Castillo</role>
+    <type>GuestStar</type>
+    <tmdbid>171955</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Kunken</name>
+    <role>Commander Putnam</role>
+    <type>GuestStar</type>
+    <tmdbid>79991</tmdbid>
+  </actor>
+  <actor>
+    <name>Todd Thomas Dark</name>
+    <role>Commander Derek Chambers</role>
+    <type>GuestStar</type>
+    <tmdbid>1126805</tmdbid>
+  </actor>
+  <actor>
+    <name>Edie Inksetter</name>
+    <role>Aunt Elizabeth</role>
+    <type>GuestStar</type>
+    <tmdbid>1590230</tmdbid>
+  </actor>
+  <actor>
+    <name>Nina Kiri</name>
+    <role>Alma</role>
+    <type>GuestStar</type>
+    <tmdbid>1603514</tmdbid>
+  </actor>
+  <director>Floria Sigismondi</director>
+  <rating>7.939</rating>
+  <year>2017</year>
+  <imdbid>tt5943926</imdbid>
+  <tvdbid>6051450</tvdbid>
+  <runtime>55</runtime>
+  <genre>Drama</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt5943926</uniqueid>
+  <uniqueid type="Tvdb">6051450</uniqueid>
+  <episode>6</episode>
+  <season>1</season>
+  <aired>2017-05-17</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>15034040</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>54</duration>
+        <durationinseconds>3289</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

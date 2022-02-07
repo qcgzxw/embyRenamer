@@ -1,0 +1,613 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[背负着家族厄运的罗根兄弟（查宁·塔图姆、亚当·德赖弗）决心摆脱屌丝命运，他们招募精英搞怪团队，与爆破专家乔·邦（丹尼尔·克雷格）一起，在纳斯卡车赛现场盗窃金库，并成功逃脱FBI的追查。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2017-11-30 13:51:37</dateadded>
+  <title>神偷联盟</title>
+  <originaltitle>Logan Lucky</originaltitle>
+  <actor>
+    <name>Channing Tatum</name>
+    <role>Jimmy Logan</role>
+    <type>Actor</type>
+    <tmdbid>38673</tmdbid>
+    <imdbid>nm1475594</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Driver</name>
+    <role>Clyde Logan</role>
+    <type>Actor</type>
+    <tmdbid>1023139</tmdbid>
+    <imdbid>nm3485845</imdbid>
+  </actor>
+  <actor>
+    <name>Riley Keough</name>
+    <role>Mellie Logan</role>
+    <type>Actor</type>
+    <tmdbid>98522</tmdbid>
+    <imdbid>nm2142336</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Craig</name>
+    <role>Joe Bang</role>
+    <type>Actor</type>
+    <tmdbid>8784</tmdbid>
+    <imdbid>nm0185819</imdbid>
+  </actor>
+  <actor>
+    <name>Katie Holmes</name>
+    <role>Bobbie Jo Chapman</role>
+    <type>Actor</type>
+    <tmdbid>3897</tmdbid>
+    <imdbid>nm0005017</imdbid>
+  </actor>
+  <actor>
+    <name>Katherine Waterston</name>
+    <role>Sylvia Harrison</role>
+    <type>Actor</type>
+    <tmdbid>77795</tmdbid>
+    <imdbid>nm2239702</imdbid>
+  </actor>
+  <actor>
+    <name>Seth MacFarlane</name>
+    <role>Max Chilblain</role>
+    <type>Actor</type>
+    <tmdbid>52139</tmdbid>
+    <imdbid>nm0532235</imdbid>
+  </actor>
+  <actor>
+    <name>Dwight Yoakam</name>
+    <role>Warden Burns</role>
+    <type>Actor</type>
+    <tmdbid>20309</tmdbid>
+    <imdbid>nm0948267</imdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Stan</name>
+    <role>Dayton White</role>
+    <type>Actor</type>
+    <tmdbid>60898</tmdbid>
+    <imdbid>nm1659221</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Gleeson</name>
+    <role>Sam Bang</role>
+    <type>Actor</type>
+    <tmdbid>63364</tmdbid>
+    <imdbid>nm2244852</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Quaid</name>
+    <role>Fish Bang</role>
+    <type>Actor</type>
+    <tmdbid>1030513</tmdbid>
+    <imdbid>nm4425051</imdbid>
+  </actor>
+  <actor>
+    <name>David Denman</name>
+    <role>Moody Chapman</role>
+    <type>Actor</type>
+    <tmdbid>62562</tmdbid>
+    <imdbid>nm0219292</imdbid>
+  </actor>
+  <actor>
+    <name>Hilary Swank</name>
+    <role>Special Agent Sarah Grayson</role>
+    <type>Actor</type>
+    <tmdbid>448</tmdbid>
+  </actor>
+  <actor>
+    <name>Macon Blair</name>
+    <role>Special Agent Brad Noonan</role>
+    <type>Actor</type>
+    <tmdbid>209513</tmdbid>
+    <imdbid>nm0086301</imdbid>
+  </actor>
+  <actor>
+    <name>Farrah Mackenzie</name>
+    <role>Sadie Logan</role>
+    <type>Actor</type>
+    <tmdbid>1548301</tmdbid>
+    <imdbid>nm5008863</imdbid>
+  </actor>
+  <actor>
+    <name>Jim O'Heir</name>
+    <role>Cal</role>
+    <type>Actor</type>
+    <tmdbid>1219597</tmdbid>
+    <imdbid>nm0641389</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Koon</name>
+    <role>Purple Lady</role>
+    <type>Actor</type>
+    <tmdbid>174133</tmdbid>
+    <imdbid>nm0465572</imdbid>
+  </actor>
+  <actor>
+    <name>Boden Johnston</name>
+    <role>Dylan Chapman</role>
+    <type>Actor</type>
+    <tmdbid>1825498</tmdbid>
+  </actor>
+  <actor>
+    <name>Sutton Johnston</name>
+    <role>Levi Chapman</role>
+    <type>Actor</type>
+    <tmdbid>1825497</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles Halford</name>
+    <role>Earl</role>
+    <type>Actor</type>
+    <tmdbid>134424</tmdbid>
+    <imdbid>nm0355155</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Ross</name>
+    <role>Max's Non-Tourage #1</role>
+    <type>Actor</type>
+    <tmdbid>141255</tmdbid>
+    <imdbid>nm6464801</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Archdeacon</name>
+    <role>Max's Non-Tourage #2</role>
+    <type>Actor</type>
+    <tmdbid>931939</tmdbid>
+    <imdbid>nm1794323</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Perez</name>
+    <role>Construction Worker</role>
+    <type>Actor</type>
+    <tmdbid>1366037</tmdbid>
+    <imdbid>nm2355152</imdbid>
+  </actor>
+  <actor>
+    <name>William Mark McCullough</name>
+    <role>Bobo</role>
+    <type>Actor</type>
+    <tmdbid>1498700</tmdbid>
+    <imdbid>nm1151972</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Jones</name>
+    <role>Judge</role>
+    <type>Actor</type>
+    <tmdbid>1734709</tmdbid>
+    <imdbid>nm3205717</imdbid>
+  </actor>
+  <actor>
+    <name>Joshua Hoover</name>
+    <role>Deputy #1</role>
+    <type>Actor</type>
+    <tmdbid>1647136</tmdbid>
+    <imdbid>nm4768032</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Allen</name>
+    <role>Deputy #2</role>
+    <type>Actor</type>
+    <tmdbid>1344684</tmdbid>
+    <imdbid>nm0020327</imdbid>
+  </actor>
+  <actor>
+    <name>Lauren Revard</name>
+    <role>Sylvia's Colleague</role>
+    <type>Actor</type>
+    <tmdbid>1561639</tmdbid>
+    <imdbid>nm4182692</imdbid>
+  </actor>
+  <actor>
+    <name>Ann Mahoney</name>
+    <role>Gleema Purdue</role>
+    <type>Actor</type>
+    <tmdbid>29932</tmdbid>
+    <imdbid>nm1736710</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Blaney</name>
+    <role>Delivery Man</role>
+    <type>Actor</type>
+    <tmdbid>1834693</tmdbid>
+  </actor>
+  <actor>
+    <name>LA Winters</name>
+    <role>CMS Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>1779464</tmdbid>
+    <imdbid>nm0675195</imdbid>
+  </actor>
+  <actor>
+    <name>Whitney Graham</name>
+    <role>CMS Office Worker</role>
+    <type>Actor</type>
+    <tmdbid>2253131</tmdbid>
+  </actor>
+  <actor>
+    <name>Brad Keselowski</name>
+    <role>CMS Security Guard #1</role>
+    <type>Actor</type>
+    <tmdbid>1874585</tmdbid>
+  </actor>
+  <actor>
+    <name>Joey Logano</name>
+    <role>CMS Security Guard #2</role>
+    <type>Actor</type>
+    <tmdbid>1874587</tmdbid>
+  </actor>
+  <actor>
+    <name>Jon Eyez</name>
+    <role>Naaman</role>
+    <type>Actor</type>
+    <tmdbid>231857</tmdbid>
+    <imdbid>nm1208510</imdbid>
+  </actor>
+  <actor>
+    <name>Edward Gelhaus</name>
+    <role>Skinhead</role>
+    <type>Actor</type>
+    <tmdbid>1483016</tmdbid>
+  </actor>
+  <actor>
+    <name>PJ McDonnell</name>
+    <role>Inmate #1</role>
+    <type>Actor</type>
+    <tmdbid>2253135</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Fortner</name>
+    <role>Inmate #2</role>
+    <type>Actor</type>
+    <tmdbid>2253137</tmdbid>
+  </actor>
+  <actor>
+    <name>Keith Hudson</name>
+    <role>Prison Guard #1</role>
+    <type>Actor</type>
+    <tmdbid>76540</tmdbid>
+    <imdbid>nm0399888</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Tourek</name>
+    <role>Prison Guard #2</role>
+    <type>Actor</type>
+    <tmdbid>1649059</tmdbid>
+    <imdbid>nm0869627</imdbid>
+  </actor>
+  <actor>
+    <name>Jesco White</name>
+    <role>Jesco</role>
+    <type>Actor</type>
+    <tmdbid>89882</tmdbid>
+    <imdbid>nm0924962</imdbid>
+  </actor>
+  <actor>
+    <name>Deneen Tyler</name>
+    <role>Prison Nurse</role>
+    <type>Actor</type>
+    <tmdbid>29933</tmdbid>
+    <imdbid>nm0878807</imdbid>
+  </actor>
+  <actor>
+    <name>C.C. Taylor</name>
+    <role>Inmate #3</role>
+    <type>Actor</type>
+    <tmdbid>1590533</tmdbid>
+  </actor>
+  <actor>
+    <name>Shaun Michael Lynch</name>
+    <role>Prison Guard #3</role>
+    <type>Actor</type>
+    <tmdbid>1694509</tmdbid>
+  </actor>
+  <actor>
+    <name>Timothy J. Richardson</name>
+    <role>Prison Guard #4</role>
+    <type>Actor</type>
+    <tmdbid>1818125</tmdbid>
+  </actor>
+  <actor>
+    <name>William Mahnken</name>
+    <role>Prison Guard #5</role>
+    <type>Actor</type>
+    <tmdbid>1945260</tmdbid>
+    <imdbid>nm3963499</imdbid>
+  </actor>
+  <actor>
+    <name>Alvin Thomas</name>
+    <role>Prison Guard #6</role>
+    <type>Actor</type>
+    <tmdbid>2253157</tmdbid>
+  </actor>
+  <actor>
+    <name>Caleb Emery</name>
+    <role>CMS Cashier</role>
+    <type>Actor</type>
+    <tmdbid>1523924</tmdbid>
+    <imdbid>nm5133511</imdbid>
+  </actor>
+  <actor>
+    <name>Kara Cantrell</name>
+    <role>Concession Manager</role>
+    <type>Actor</type>
+    <tmdbid>2253159</tmdbid>
+  </actor>
+  <actor>
+    <name>Carl Edwards</name>
+    <role>West Virginia State Trooper #1</role>
+    <type>Actor</type>
+    <tmdbid>215488</tmdbid>
+    <imdbid>nm0249862</imdbid>
+  </actor>
+  <actor>
+    <name>Kyle Busch</name>
+    <role>West Virginia State Trooper #2</role>
+    <type>Actor</type>
+    <tmdbid>1874583</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Joy</name>
+    <role>As Himself</role>
+    <type>Actor</type>
+    <tmdbid>590091</tmdbid>
+  </actor>
+  <actor>
+    <name>Darrell Waltrip</name>
+    <role>As Himself</role>
+    <type>Actor</type>
+    <tmdbid>942993</tmdbid>
+    <imdbid>nm1267353</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Gordon</name>
+    <role>As Himself</role>
+    <type>Actor</type>
+    <tmdbid>932719</tmdbid>
+    <imdbid>nm0330298</imdbid>
+  </actor>
+  <actor>
+    <name>Ron Clinton Smith</name>
+    <role>Crew Chief</role>
+    <type>Actor</type>
+    <tmdbid>168745</tmdbid>
+    <imdbid>nm0809806</imdbid>
+  </actor>
+  <actor>
+    <name>Randy Havens</name>
+    <role>CMS Cashier Manager</role>
+    <type>Actor</type>
+    <tmdbid>1381393</tmdbid>
+    <imdbid>nm1670129</imdbid>
+  </actor>
+  <actor>
+    <name>Alex ter Avest</name>
+    <role>Pre-Show Publicist</role>
+    <type>Actor</type>
+    <tmdbid>1053423</tmdbid>
+    <imdbid>nm3240097</imdbid>
+  </actor>
+  <actor>
+    <name>Vince Welch</name>
+    <role>Pre-Show Interviewer</role>
+    <type>Actor</type>
+    <tmdbid>2253165</tmdbid>
+  </actor>
+  <actor>
+    <name>Autumn Dial</name>
+    <role>Beer Girl</role>
+    <type>Actor</type>
+    <tmdbid>997303</tmdbid>
+    <imdbid>nm3860085</imdbid>
+  </actor>
+  <actor>
+    <name>LeAnn Rimes</name>
+    <role>As Herself</role>
+    <type>Actor</type>
+    <tmdbid>87765</tmdbid>
+    <imdbid>nm0005361</imdbid>
+  </actor>
+  <actor>
+    <name>Ellie Decker</name>
+    <role>CMS Concession Worker #1</role>
+    <type>Actor</type>
+    <tmdbid>1496079</tmdbid>
+    <imdbid>nm5779382</imdbid>
+  </actor>
+  <actor>
+    <name>Terence Rosemore</name>
+    <role>CMS Concession Worker #2</role>
+    <type>Actor</type>
+    <tmdbid>1411625</tmdbid>
+    <imdbid>nm0741893</imdbid>
+  </actor>
+  <actor>
+    <name>Helen Abell</name>
+    <role>CMS Security Worker</role>
+    <type>Actor</type>
+    <tmdbid>1372293</tmdbid>
+    <imdbid>nm2435684</imdbid>
+  </actor>
+  <actor>
+    <name>Hank Quillen</name>
+    <role>CMS Security Manager</role>
+    <type>Actor</type>
+    <tmdbid>1814193</tmdbid>
+    <imdbid>nm3258284</imdbid>
+  </actor>
+  <actor>
+    <name>Jerald Savage</name>
+    <role>CMS Police Officer #1</role>
+    <type>Actor</type>
+    <tmdbid>2253172</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Cardarople</name>
+    <role>CMS Police Officer #2</role>
+    <type>Actor</type>
+    <tmdbid>979412</tmdbid>
+    <imdbid>nm1781213</imdbid>
+  </actor>
+  <actor>
+    <name>Jerri Tubbs</name>
+    <role>Fire Department Dispatch</role>
+    <type>Actor</type>
+    <tmdbid>1502198</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Brady</name>
+    <role>Fireman #1</role>
+    <type>Actor</type>
+    <tmdbid>1181566</tmdbid>
+    <imdbid>nm1025955</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Parks</name>
+    <role>Fireman #2</role>
+    <type>Actor</type>
+    <tmdbid>1203743</tmdbid>
+    <imdbid>nm2679713</imdbid>
+  </actor>
+  <actor>
+    <name>Lesa Wilson</name>
+    <role>Pageant Coordinator</role>
+    <type>Actor</type>
+    <tmdbid>2253175</tmdbid>
+    <imdbid>nm2256974</imdbid>
+  </actor>
+  <actor>
+    <name>Danielle Trotta</name>
+    <role>As Herself</role>
+    <type>Actor</type>
+    <tmdbid>2253176</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Alexander</name>
+    <role>As Himself</role>
+    <type>Actor</type>
+    <tmdbid>2253177</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Langston</name>
+    <role>Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1880151</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Pearson</name>
+    <role>Police Spokesperson</role>
+    <type>Actor</type>
+    <tmdbid>1668687</tmdbid>
+    <imdbid>nm0669287</imdbid>
+  </actor>
+  <actor>
+    <name>Karen Wheeling Reynolds</name>
+    <role>Salon Customer #1</role>
+    <type>Actor</type>
+    <tmdbid>1546539</tmdbid>
+    <imdbid>nm3725442</imdbid>
+  </actor>
+  <actor>
+    <name>Suzanne Jordan Roush</name>
+    <role>Salon Customer #2</role>
+    <type>Actor</type>
+    <tmdbid>2253179</tmdbid>
+  </actor>
+  <actor>
+    <name>Neva Howell</name>
+    <role>Woman on the News #1</role>
+    <type>Actor</type>
+    <tmdbid>1717236</tmdbid>
+    <imdbid>nm0398027</imdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Albanese</name>
+    <role>Woman on the News #2</role>
+    <type>Actor</type>
+    <tmdbid>1345139</tmdbid>
+  </actor>
+  <actor>
+    <name>Ito Aghayere</name>
+    <role>Female FBI Agent</role>
+    <type>Actor</type>
+    <tmdbid>1648764</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Ray Olive</name>
+    <role>CMS General Manager</role>
+    <type>Actor</type>
+    <tmdbid>1470874</tmdbid>
+    <imdbid>nm1863658</imdbid>
+  </actor>
+  <actor>
+    <name>Kyle Larson</name>
+    <role>Limo driver</role>
+    <type>Actor</type>
+    <tmdbid>1874588</tmdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Kustes</name>
+    <role>Cellie (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1578671</tmdbid>
+    <imdbid>nm7741680</imdbid>
+  </actor>
+  <director tmdbid="1884" imdbid="nm0001752">Steven Soderbergh</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aPzvKH8AVf0</trailer>
+  <rating>7</rating>
+  <year>2017</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt5439796</imdbid>
+  <tmdbid>399170</tmdbid>
+  <premiered>2017-08-17</premiered>
+  <releasedate>2017-08-17</releasedate>
+  <criticrating>92</criticrating>
+  <runtime>119</runtime>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>喜剧</genre>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <studio>Free Association</studio>
+  <studio>Trans-Radial Pictures</studio>
+  <uniqueid type="Tmdb">399170</uniqueid>
+  <uniqueid type="Imdb">tt5439796</uniqueid>
+  <id>tt5439796</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4142427</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>119</duration>
+        <durationinseconds>7143</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

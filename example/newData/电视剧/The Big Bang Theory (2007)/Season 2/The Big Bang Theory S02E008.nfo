@@ -1,0 +1,124 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[莱纳德抢走了霍华德的潜在女友。谢尔顿在经典游戏剪刀石头布中加进了蜥蜴和斯波克。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-19 04:24:51</dateadded>
+  <title>蜥蜴-斯波克拓展</title>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Leonard Hofstadter</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>Howard Wolowitz</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Nayyar</name>
+    <role>Rajesh Koothrappali</role>
+    <type>Actor</type>
+    <tmdbid>208099</tmdbid>
+    <imdbid>nm2471798</imdbid>
+  </actor>
+  <actor>
+    <name>Sara Gilbert</name>
+    <role>Leslie Winkle</role>
+    <type>Actor</type>
+    <tmdbid>3282</tmdbid>
+    <imdbid>nm0004960</imdbid>
+  </actor>
+  <actor>
+    <name>Carol Ann Susi</name>
+    <role>Debbie Wolowitz (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1212530</tmdbid>
+    <imdbid>nm0839836</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Clotworthy</name>
+    <role>Announcer (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>35172</tmdbid>
+    <imdbid>nm0167139</imdbid>
+  </actor>
+  <actor>
+    <name>Sara Rue</name>
+    <role>Stephanie Barnett</role>
+    <type>GuestStar</type>
+    <tmdbid>10131</tmdbid>
+    <imdbid>nm0749081</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Hale</name>
+    <role>News Announcer (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>81667</tmdbid>
+    <imdbid>nm0354937</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>6.9</rating>
+  <year>2008</year>
+  <imdbid>tt1256039</imdbid>
+  <tvdbid>405395</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>734185</tvrageid>
+  <uniqueid type="Imdb">tt1256039</uniqueid>
+  <uniqueid type="Tvdb">405395</uniqueid>
+  <uniqueid type="TvRage">734185</uniqueid>
+  <episode>8</episode>
+  <season>2</season>
+  <aired>2008-11-17</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1597155</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>20</duration>
+        <durationinseconds>1212</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

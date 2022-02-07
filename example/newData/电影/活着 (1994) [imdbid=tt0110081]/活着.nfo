@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[富少福贵（葛优）嗜赌成性，妻子家珍（巩俐）屡劝无果后带着女儿凤霞离开了他，当夜，福贵输光所有家产气死父亲，被迫靠变卖母亲首饰租间破屋过活。一年后，家珍手拉凤霞怀抱刚出世的儿子有庆回到家中，福贵痛改前非，开始靠演皮影戏过起安份守己的日子。但好景不常，内战时期，福贵被国民党抓去当劳工...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-03 18:07:05</dateadded>
+  <title>活着</title>
+  <originaltitle>活着</originaltitle>
+  <actor>
+    <name>Ge You</name>
+    <role>Xu Fugui</role>
+    <type>Actor</type>
+    <tmdbid>76913</tmdbid>
+  </actor>
+  <actor>
+    <name>Gong Li</name>
+    <role>Jiazhen</role>
+    <type>Actor</type>
+    <tmdbid>643</tmdbid>
+    <imdbid>nm0000084</imdbid>
+  </actor>
+  <actor>
+    <name>Niu Ben</name>
+    <role>Town Chief</role>
+    <type>Actor</type>
+    <tmdbid>146044</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiang Wu</name>
+    <role>Wan Erxi</role>
+    <type>Actor</type>
+    <tmdbid>15170</tmdbid>
+    <imdbid>nm0422640</imdbid>
+  </actor>
+  <actor>
+    <name>Huang Zong Luo</name>
+    <role>Fugui's father</role>
+    <type>Actor</type>
+    <tmdbid>1417404</tmdbid>
+  </actor>
+  <actor>
+    <name>Guo Tao</name>
+    <role>Chunsheng</role>
+    <type>Actor</type>
+    <tmdbid>548608</tmdbid>
+    <imdbid>nm0849919</imdbid>
+  </actor>
+  <actor>
+    <name>Dahong Ni</name>
+    <role>Long'er</role>
+    <type>Actor</type>
+    <tmdbid>17382</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Tianchi</name>
+    <role>Xu Fengxia (adult)</role>
+    <type>Actor</type>
+    <tmdbid>1789263</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Lu</name>
+    <role>Xu Fengxia (child)</role>
+    <type>Actor</type>
+    <tmdbid>1789265</tmdbid>
+  </actor>
+  <actor>
+    <name>Xiao Cong</name>
+    <role>Xu Fengxia (youth)</role>
+    <type>Actor</type>
+    <tmdbid>1789267</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Fei</name>
+    <role>Xu Youqing</role>
+    <type>Actor</type>
+    <tmdbid>1789268</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Yanjin</name>
+    <role>Fugui's mother</role>
+    <type>Actor</type>
+    <tmdbid>1789269</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Lianyi</name>
+    <role>Lao Quan</role>
+    <type>Actor</type>
+    <tmdbid>1789270</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Kang</name>
+    <role>Mantou</role>
+    <type>Actor</type>
+    <tmdbid>1789274</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhao Yuxiu</name>
+    <role>Physician Wang</role>
+    <type>Actor</type>
+    <tmdbid>1789285</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophie Su Yan</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>2372996</tmdbid>
+  </actor>
+  <director tmdbid="607">Zhang Yimou</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GAZUbjttUPc</trailer>
+  <rating>8.3</rating>
+  <year>1994</year>
+  <imdbid>tt0110081</imdbid>
+  <tmdbid>31439</tmdbid>
+  <premiered>1994-05-26</premiered>
+  <releasedate>1994-05-26</releasedate>
+  <criticrating>86</criticrating>
+  <runtime>132</runtime>
+  <country>China</country>
+  <country>Hong Kong</country>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <genre>战争</genre>
+  <studio>Shanghai Film Studio</studio>
+  <studio>Era International Ltd</studio>
+  <uniqueid type="Tmdb">31439</uniqueid>
+  <uniqueid type="Imdb">tt0110081</uniqueid>
+  <id>tt0110081</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>14363758</bitrate>
+        <width>1920</width>
+        <height>1038</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>132</duration>
+        <durationinseconds>7943</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[尚亚瑟（约翰屈伏塔饰）是FBI的高级探员，二十多年的警探生涯办过无数大案子，可是他终其一生都在追捕奸诈狡猾的恐怖份子凯斯特洛伊（尼古拉斯·凯奇饰），无恶不作的凯斯特洛伊，也正是杀害尚亚瑟独生子的凶手，让尚亚瑟发誓要亲自抓他到案入网。终于在多次线人的密告之下，尚亚瑟终于有机会亲自逮捕他到案，趁著凯斯特洛伊与他弟弟搭机逃亡之前，将他们绳之以法，在一阵枪战之后，凯斯特洛伊因负伤过重而昏迷不醒，尚亚瑟原本以为一切都结束了，没想到却从凯斯特弟弟的口中得知，凯斯特洛伊在被捕之前，已经将威力强大的炸弹放置在某个人潮众多的公共场合，无论警方如何逼问，凯斯特的弟弟宁死都不愿说出炸弹地点。就在束手无索之际，尚亚瑟的长官提出 ″变脸″计划，亦即透过高科技的整容手术，将尚亚瑟与凯斯特洛伊的容貌对换，再让假扮成凯斯特洛伊的尚亚瑟进监狱中，让凯斯特的弟弟以为哥哥复活，并说出炸弹地点。多年来尚亚瑟与凯斯特洛伊的对立，已使得亚瑟警官的妻子与女儿生活在恐怖之中，从事医生一职的亚瑟太太（琼艾伦饰）虽不知尚亚瑟的新任务为何，但仍不得不同意。这项″变脸″计划为FBI的高度机密，只有主事的医师与三位FBI长官知情，刚开始一切都顺利进行，假扮的凯斯特洛伊（尚亚瑟）混入监狱之中，但令人没想到的是，原本昏迷中的凯斯特洛伊（已换成尚亚瑟脸孔）却清醒过来，狡猾的他决定将计就计，第一步先将杀掉唯一能从事此项技术的医师与知情的FBI探员，假冒FBI高级探员的身份回到工作岗任，滥用职权释放其弟，现身在凯斯特洛伊（真正的尚亚瑟）的面前，最令人害怕的是，他光明正大的回到尚亚瑟家中，与不知情的亚瑟太太过著正常夫妻生活，就这样一代枭雄变英雄，好人变坏人…。顶著斯特洛伊脸孔的尚亚瑟在走投无路之际，只能选择逃狱，知情的高阶警官已不在人世，以前的属下见到他要杀他，女儿不认他，连亲密的太太都不确定究竟谁才是坏人，谁才是真正的丈夫，唯一接受他的是凯斯特洛伊的女友及兄长，绝望的尚亚瑟要如何才能向世人证明他才是真正的尚亚瑟呢？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-07-04 08:23:16</dateadded>
+  <title>变脸</title>
+  <originaltitle>Face/Off</originaltitle>
+  <actor>
+    <name>John Travolta</name>
+    <role>Sean Archer / Castor Troy</role>
+    <type>Actor</type>
+    <tmdbid>8891</tmdbid>
+    <imdbid>nm0000237</imdbid>
+  </actor>
+  <actor>
+    <name>Nicolas Cage</name>
+    <role>Castor Troy / Sean Archer</role>
+    <type>Actor</type>
+    <tmdbid>2963</tmdbid>
+    <imdbid>nm0000115</imdbid>
+  </actor>
+  <actor>
+    <name>Joan Allen</name>
+    <role>Eve Archer</role>
+    <type>Actor</type>
+    <tmdbid>11148</tmdbid>
+    <imdbid>nm0000260</imdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Nivola</name>
+    <role>Pollux Troy</role>
+    <type>Actor</type>
+    <tmdbid>4941</tmdbid>
+    <imdbid>nm0005273</imdbid>
+  </actor>
+  <actor>
+    <name>Gina Gershon</name>
+    <role>Sasha Hassler</role>
+    <type>Actor</type>
+    <tmdbid>11150</tmdbid>
+    <imdbid>nm0000153</imdbid>
+  </actor>
+  <actor>
+    <name>Dominique Swain</name>
+    <role>Jamie Archer</role>
+    <type>Actor</type>
+    <tmdbid>11149</tmdbid>
+    <imdbid>nm0000663</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Cassavetes</name>
+    <role>Dietrich Hassler</role>
+    <type>Actor</type>
+    <tmdbid>11151</tmdbid>
+    <imdbid>nm0001024</imdbid>
+  </actor>
+  <actor>
+    <name>Harve Presnell</name>
+    <role>Victor Lazarro</role>
+    <type>Actor</type>
+    <tmdbid>3907</tmdbid>
+    <imdbid>nm0696193</imdbid>
+  </actor>
+  <actor>
+    <name>Colm Feore</name>
+    <role>Dr. Malcolm Walsh</role>
+    <type>Actor</type>
+    <tmdbid>10132</tmdbid>
+    <imdbid>nm0272173</imdbid>
+  </actor>
+  <actor>
+    <name>John Carroll Lynch</name>
+    <role>Walt</role>
+    <type>Actor</type>
+    <tmdbid>3911</tmdbid>
+    <imdbid>nm0002253</imdbid>
+  </actor>
+  <actor>
+    <name>CCH Pounder</name>
+    <role>Hollis Miller</role>
+    <type>Actor</type>
+    <tmdbid>30485</tmdbid>
+    <imdbid>nm0001634</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Wisdom</name>
+    <role>Tito Biondi</role>
+    <type>Actor</type>
+    <tmdbid>21505</tmdbid>
+    <imdbid>nm0936298</imdbid>
+  </actor>
+  <actor>
+    <name>Margaret Cho</name>
+    <role>Wanda</role>
+    <type>Actor</type>
+    <tmdbid>11152</tmdbid>
+    <imdbid>nm0158632</imdbid>
+  </actor>
+  <actor>
+    <name>James Denton</name>
+    <role>Buzz</role>
+    <type>Actor</type>
+    <tmdbid>11153</tmdbid>
+    <imdbid>nm0219835</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Ross</name>
+    <role>Loomis</role>
+    <type>Actor</type>
+    <tmdbid>11154</tmdbid>
+    <imdbid>nm0743671</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Bauer</name>
+    <role>Ivan Dubov</role>
+    <type>Actor</type>
+    <tmdbid>4445</tmdbid>
+    <imdbid>nm0061777</imdbid>
+  </actor>
+  <actor>
+    <name>Myles Jeffrey</name>
+    <role>Michael Archer</role>
+    <type>Actor</type>
+    <tmdbid>11157</tmdbid>
+    <imdbid>nm0420308</imdbid>
+  </actor>
+  <actor>
+    <name>David McCurley</name>
+    <role>Adam Hassler</role>
+    <type>Actor</type>
+    <tmdbid>11156</tmdbid>
+    <imdbid>nm0567306</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Jane</name>
+    <role>Burke Hicks</role>
+    <type>Actor</type>
+    <tmdbid>11155</tmdbid>
+    <imdbid>nm0005048</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Masterson</name>
+    <role>Karl</role>
+    <type>Actor</type>
+    <tmdbid>18972</tmdbid>
+    <imdbid>nm0005194</imdbid>
+  </actor>
+  <actor>
+    <name>Lisa Boyle</name>
+    <role>Cindee</role>
+    <type>Actor</type>
+    <tmdbid>9313</tmdbid>
+    <imdbid>nm0102288</imdbid>
+  </actor>
+  <actor>
+    <name>Linda Hoffman</name>
+    <role>Livia</role>
+    <type>Actor</type>
+    <tmdbid>58042</tmdbid>
+    <imdbid>nm0389005</imdbid>
+  </actor>
+  <actor>
+    <name>Tommy Flanagan</name>
+    <role>Leo</role>
+    <type>Actor</type>
+    <tmdbid>2478</tmdbid>
+    <imdbid>nm0281107</imdbid>
+  </actor>
+  <actor>
+    <name>Romy Windsor</name>
+    <role>Kimberly</role>
+    <type>Actor</type>
+    <tmdbid>82344</tmdbid>
+    <imdbid>nm0934806</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Hipp</name>
+    <role>Fitch</role>
+    <type>Actor</type>
+    <tmdbid>54041</tmdbid>
+    <imdbid>nm0004272</imdbid>
+  </actor>
+  <actor>
+    <name>Kirk Baltz</name>
+    <role>Aldo</role>
+    <type>Actor</type>
+    <tmdbid>3206</tmdbid>
+    <imdbid>nm0051257</imdbid>
+  </actor>
+  <actor>
+    <name>Lauren Sinclair</name>
+    <role>Agent Winters</role>
+    <type>Actor</type>
+    <tmdbid>174967</tmdbid>
+    <imdbid>nm0801664</imdbid>
+  </actor>
+  <actor>
+    <name>Khristian Lupo</name>
+    <role>Dietrich's Henchman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1191452</tmdbid>
+    <imdbid>nm0526970</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Rosales Jr.</name>
+    <role>Prisoner (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>43010</tmdbid>
+    <imdbid>nm0740951</imdbid>
+  </actor>
+  <actor>
+    <name>John Bloom</name>
+    <role>Prison Medical Technician</role>
+    <type>Actor</type>
+    <tmdbid>99906</tmdbid>
+  </actor>
+  <director tmdbid="11401">John Woo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3zebJ_NoduE</trailer>
+  <rating>7.2</rating>
+  <year>1997</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0119094</imdbid>
+  <tmdbid>754</tmdbid>
+  <premiered>1997-06-27</premiered>
+  <releasedate>1997-06-27</releasedate>
+  <criticrating>92</criticrating>
+  <runtime>139</runtime>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>犯罪</genre>
+  <genre>科幻</genre>
+  <genre>惊悚</genre>
+  <studio>Krane Entertainment</studio>
+  <studio>Paramount</studio>
+  <studio>Permut Presentations</studio>
+  <studio>WCG Entertainment Productions</studio>
+  <studio>Touchstone Pictures</studio>
+  <studio>Douglas/Reuther Productions</studio>
+  <uniqueid type="Tmdb">754</uniqueid>
+  <uniqueid type="Imdb">tt0119094</uniqueid>
+  <id>tt0119094</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3191707</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976042</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>138</duration>
+        <durationinseconds>8336</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

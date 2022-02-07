@@ -1,0 +1,431 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[因和Tiffany打架而被关禁闭的piper在未被告知去哪的情况下运去作证等候庭审，大毒枭库巴被引渡了。在转到芝加哥大都市拘留中心之后误踩死了新室友用来运送香烟的蟑螂，被要求找到可以每周运送400只香烟的新蟑螂。 在芝加哥遇到了同样等候庭审的alex，她与alex冰释前嫌，alex让piper 说从不认识库巴，因为库巴是个很可怕的人举证他会遭到疯狂报复。而piper 认为要说实话才行，结果到庭审的时候两个人阴差阳错说了与计划完全相反的话，出现了戏剧性的一幕，Alex因为举证库巴而被释放，而piper听了Alex的话说不记得认识库巴而被带回lichfield监狱。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-09-17 13:00:49</dateadded>
+  <title>庭审</title>
+  <actor>
+    <name>Taylor Schilling</name>
+    <role>Piper Chapman</role>
+    <type>Actor</type>
+    <tmdbid>221809</tmdbid>
+    <imdbid>nm2279940</imdbid>
+  </actor>
+  <actor>
+    <name>Natasha Lyonne</name>
+    <role>Nicky Nichols</role>
+    <type>Actor</type>
+    <tmdbid>10871</tmdbid>
+    <imdbid>nm0005169</imdbid>
+  </actor>
+  <actor>
+    <name>Uzo Aduba</name>
+    <role>Suzanne 'Crazy Eyes' Warren</role>
+    <type>Actor</type>
+    <tmdbid>1332680</tmdbid>
+    <imdbid>nm2499064</imdbid>
+  </actor>
+  <actor>
+    <name>Danielle Brooks</name>
+    <role>Tasha 'Taystee' Jefferson</role>
+    <type>Actor</type>
+    <tmdbid>1075037</tmdbid>
+    <imdbid>nm5335029</imdbid>
+  </actor>
+  <actor>
+    <name>Taryn Manning</name>
+    <role>Tiffany 'Pennsatucky' Doggett</role>
+    <type>Actor</type>
+    <tmdbid>343</tmdbid>
+    <imdbid>nm0543383</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Mulgrew</name>
+    <role>Galina 'Red' Reznikov</role>
+    <type>Actor</type>
+    <tmdbid>35317</tmdbid>
+    <imdbid>nm0000550</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Harney</name>
+    <role>Sam Healy</role>
+    <type>Actor</type>
+    <tmdbid>1214447</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Biggs</name>
+    <role>Larry Bloom</role>
+    <type>Actor</type>
+    <tmdbid>21593</tmdbid>
+    <imdbid>nm0004755</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Prepon</name>
+    <role>Alex Vause</role>
+    <type>GuestStar</type>
+    <tmdbid>18974</tmdbid>
+    <imdbid>nm0696059</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Drysdale</name>
+    <role>Mazall</role>
+    <type>GuestStar</type>
+    <tmdbid>1474448</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Haley</name>
+    <role>US Marshal Anderson</role>
+    <type>GuestStar</type>
+    <tmdbid>10138</tmdbid>
+  </actor>
+  <actor>
+    <name>Ito Aghayere</name>
+    <role>Scowly Inmate</role>
+    <type>GuestStar</type>
+    <tmdbid>1648764</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Albrink</name>
+    <role>Mountain Inmate</role>
+    <type>GuestStar</type>
+    <tmdbid>1900650</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Barrish</name>
+    <role>Jessica</role>
+    <type>GuestStar</type>
+    <tmdbid>3062490</tmdbid>
+  </actor>
+  <actor>
+    <name>Warren Bub</name>
+    <role>US Marshal Carhart</role>
+    <type>GuestStar</type>
+    <tmdbid>1880605</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Castro</name>
+    <role>Spongie</role>
+    <type>GuestStar</type>
+    <tmdbid>1456911</tmdbid>
+  </actor>
+  <actor>
+    <name>John Thomas Cramer</name>
+    <role>CO Feld</role>
+    <type>GuestStar</type>
+    <tmdbid>1897388</tmdbid>
+  </actor>
+  <actor>
+    <name>Samantha Blaire Cutler</name>
+    <role>Sara</role>
+    <type>GuestStar</type>
+    <tmdbid>3062493</tmdbid>
+  </actor>
+  <actor>
+    <name>Rogelio Douglas Jr.</name>
+    <role>Darius McRae</role>
+    <type>GuestStar</type>
+    <tmdbid>1503721</tmdbid>
+  </actor>
+  <actor>
+    <name>Judy Del Giudice</name>
+    <role>Felicia</role>
+    <type>GuestStar</type>
+    <tmdbid>1218215</tmdbid>
+  </actor>
+  <actor>
+    <name>Darlene Dues</name>
+    <role>Joyce</role>
+    <type>GuestStar</type>
+    <tmdbid>2727082</tmdbid>
+  </actor>
+  <actor>
+    <name>Solly Duran</name>
+    <role>Araceli</role>
+    <type>GuestStar</type>
+    <tmdbid>1313830</tmdbid>
+  </actor>
+  <actor>
+    <name>Clare Foley</name>
+    <role>Young Piper</role>
+    <type>GuestStar</type>
+    <tmdbid>928905</tmdbid>
+  </actor>
+  <actor>
+    <name>Amelia Fowler</name>
+    <role>Imposing Inmate</role>
+    <type>GuestStar</type>
+    <tmdbid>1137380</tmdbid>
+  </actor>
+  <actor>
+    <name>Tara Gadomski</name>
+    <role>Escort CO</role>
+    <type>GuestStar</type>
+    <tmdbid>1597481</tmdbid>
+  </actor>
+  <actor>
+    <name>Norm Golden</name>
+    <role>Judge</role>
+    <type>GuestStar</type>
+    <tmdbid>1675376</tmdbid>
+  </actor>
+  <actor>
+    <name>Trae Harris</name>
+    <role>Spitty Inmate</role>
+    <type>GuestStar</type>
+    <tmdbid>1140232</tmdbid>
+  </actor>
+  <actor>
+    <name>Roy Jackson</name>
+    <role>CO Mango</role>
+    <type>GuestStar</type>
+    <tmdbid>963996</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert C. Kirk</name>
+    <role>Federal Bus Driver</role>
+    <type>GuestStar</type>
+    <tmdbid>150932</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Lawler</name>
+    <role>US Marshall Front</role>
+    <type>GuestStar</type>
+    <tmdbid>118648</tmdbid>
+  </actor>
+  <actor>
+    <name>Neal Lerner</name>
+    <role>Prosecutor</role>
+    <type>GuestStar</type>
+    <tmdbid>1363197</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Maizus</name>
+    <role>Older Teen</role>
+    <type>GuestStar</type>
+    <tmdbid>1178777</tmdbid>
+  </actor>
+  <actor>
+    <name>Melissa McMeekin</name>
+    <role>Corrine</role>
+    <type>GuestStar</type>
+    <tmdbid>1371551</tmdbid>
+  </actor>
+  <actor>
+    <name>Pamela Monroe</name>
+    <role>CO Gaines</role>
+    <type>GuestStar</type>
+    <tmdbid>2155985</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Morck</name>
+    <role>Van Driver</role>
+    <type>GuestStar</type>
+    <tmdbid>1220414</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Nagle</name>
+    <role>School Bus Driver</role>
+    <type>GuestStar</type>
+    <tmdbid>1456755</tmdbid>
+  </actor>
+  <actor>
+    <name>Deborah Offner</name>
+    <role>Cracked Out Inmate</role>
+    <type>GuestStar</type>
+    <tmdbid>11872</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Pagdon</name>
+    <role>US Marshal Otis</role>
+    <type>GuestStar</type>
+    <tmdbid>2770623</tmdbid>
+  </actor>
+  <actor>
+    <name>Angel Rosa</name>
+    <role>US Marshal Bream</role>
+    <type>GuestStar</type>
+    <tmdbid>1474510</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Siegel</name>
+    <role>Menacing CO</role>
+    <type>GuestStar</type>
+    <tmdbid>2171548</tmdbid>
+  </actor>
+  <actor>
+    <name>Theo van Golen</name>
+    <role>Young Cal</role>
+    <type>GuestStar</type>
+    <tmdbid>1503820</tmdbid>
+  </actor>
+  <actor>
+    <name>Assibey Blake</name>
+    <role>Marshal (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>2732472</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Clemente</name>
+    <role>Inmate (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>1790812</tmdbid>
+  </actor>
+  <actor>
+    <name>Regina Hardy</name>
+    <role>Inmate (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>1536185</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Holley</name>
+    <role>US Marshal (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>1560252</tmdbid>
+  </actor>
+  <actor>
+    <name>Dolores Winn</name>
+    <role>Chicago Inmate (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>1645155</tmdbid>
+  </actor>
+  <actor>
+    <name>Todd Susman</name>
+    <role>Howard Bloom</role>
+    <type>GuestStar</type>
+    <tmdbid>148635</tmdbid>
+  </actor>
+  <actor>
+    <name>Raymond Mamrak</name>
+    <role>Corrections Officer (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>1106629</tmdbid>
+  </actor>
+  <actor>
+    <name>Mary Looram</name>
+    <role>Celeste Chapman</role>
+    <type>GuestStar</type>
+    <tmdbid>1683277</tmdbid>
+  </actor>
+  <actor>
+    <name>Shaleeni Ranchhod</name>
+    <role>Inmate</role>
+    <type>GuestStar</type>
+    <tmdbid>2510670</tmdbid>
+  </actor>
+  <actor>
+    <name>Sebastian La Cause</name>
+    <role>Fahri</role>
+    <type>GuestStar</type>
+    <tmdbid>1748183</tmdbid>
+  </actor>
+  <actor>
+    <name>Eyas Younis</name>
+    <role>Kubra</role>
+    <type>GuestStar</type>
+    <tmdbid>1267339</tmdbid>
+  </actor>
+  <actor>
+    <name>Lolita Foster</name>
+    <role>Eliqua Maxwell</role>
+    <type>GuestStar</type>
+    <tmdbid>1375175</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric J Carlson</name>
+    <role>Corrections Officer (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>1633485</tmdbid>
+  </actor>
+  <actor>
+    <name>Angela Palmer-Haibach</name>
+    <role>Inmate (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>1910796</tmdbid>
+  </actor>
+  <actor>
+    <name>Deborah Rush</name>
+    <role>Carol Chapman</role>
+    <type>GuestStar</type>
+    <tmdbid>44830</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia Luccardi</name>
+    <role>Jennifer Digori</role>
+    <type>GuestStar</type>
+    <tmdbid>1210610</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Hoag</name>
+    <role>Bill Chapman</role>
+    <type>GuestStar</type>
+    <tmdbid>164177</tmdbid>
+  </actor>
+  <actor>
+    <name>Lori Petty</name>
+    <role>Lolly Whitehill</role>
+    <type>GuestStar</type>
+    <tmdbid>15309</tmdbid>
+  </actor>
+  <director tmdbid="1038" imdbid="nm0000149">Jodie Foster</director>
+  <rating>8.55</rating>
+  <year>2014</year>
+  <imdbid>tt3015084</imdbid>
+  <tvdbid>4686305</tvdbid>
+  <runtime>56</runtime>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt3015084</uniqueid>
+  <uniqueid type="Tvdb">4686305</uniqueid>
+  <episode>1</episode>
+  <season>2</season>
+  <aired>2014-06-06</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10107696</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>56</duration>
+        <durationinseconds>3371</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

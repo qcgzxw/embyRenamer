@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[为了躲避无意目睹的血案凶手，女子在光怪陆离的街巷间开始了逃命之旅。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-27 15:44:44</dateadded>
+  <title>证人</title>
+  <actor>
+    <name>Emily O'Brien</name>
+    <role>The Woman (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1480477</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Sullivan</name>
+    <role>The Man (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1756897</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Yang King</name>
+    <role>Host (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>157067</tmdbid>
+  </actor>
+  <actor>
+    <name>Nolan North</name>
+    <role>Vladimir (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>19508</tmdbid>
+  </actor>
+  <actor>
+    <name>Anastasia Foster</name>
+    <role>Police Office (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>2267556</tmdbid>
+  </actor>
+  <director>Alberto Mielgo</director>
+  <rating>7.3</rating>
+  <year>2019</year>
+  <imdbid>tt9788486</imdbid>
+  <tvdbid>6983262</tvdbid>
+  <runtime>12</runtime>
+  <genre>Animation</genre>
+  <genre>Short</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <genre>Horror</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt9788486</uniqueid>
+  <uniqueid type="Tvdb">6983262</uniqueid>
+  <episode>3</episode>
+  <season>1</season>
+  <aired>2019-03-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5166908</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>12</duration>
+        <durationinseconds>726</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>366722</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

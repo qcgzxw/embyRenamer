@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[在充满狂乱且略带忧伤的夜晚，一对夫妇痛失可爱的幼子尼克。这件事给他们以莫大的打击，也让这段原本便矛盾暗生的婚姻走向崩溃边缘。妻子（夏洛特•甘斯布 Charlotte Gainsbourg 饰）久久沉浸悲痛中无法自拔，身为心理咨询师丈夫（威廉•达福 Willem Dafoe 饰）一方面希望弥合破裂的婚姻，另一方面试图通过心理疏导让妻子忘记过去。最终，他们决定前往位于伊登（Eden）森林的小木屋中缓释心情。此前一年，女人曾带着尼克在此撰写一篇关于基督和反女性的论文，过往的回忆让重蹈此地的她紧张慌乱。心理治疗在焦灼烦躁的情绪中进行，夫妻俩没有找到渴望已久的光明，反而堕入更加无边的黑暗之中……
+ 　　本片荣获2009年戛纳电影节最佳女主角奖（Charlotte Gainsbourg）。 ©豆瓣]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-02-24 11:42:38</dateadded>
+  <title>反基督者</title>
+  <originaltitle>Antichrist</originaltitle>
+  <actor>
+    <name>Willem Dafoe</name>
+    <role>He</role>
+    <type>Actor</type>
+    <tmdbid>5293</tmdbid>
+    <imdbid>nm0000353</imdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Gainsbourg</name>
+    <role>She</role>
+    <type>Actor</type>
+    <tmdbid>4273</tmdbid>
+    <imdbid>nm0001250</imdbid>
+  </actor>
+  <actor>
+    <name>Storm Acheche Sahlstrøm</name>
+    <role>Nic</role>
+    <type>Actor</type>
+    <tmdbid>570509</tmdbid>
+    <imdbid>nm3527143</imdbid>
+  </actor>
+  <director tmdbid="42" imdbid="nm0001885">Lars von Trier</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BO_wu_M2xjc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ftsx69_jrwk</trailer>
+  <rating>6.6</rating>
+  <year>2009</year>
+  <mpaa>NR</mpaa>
+  <imdbid>tt0870984</imdbid>
+  <tmdbid>17609</tmdbid>
+  <premiered>2009-05-18</premiered>
+  <releasedate>2009-05-18</releasedate>
+  <criticrating>53</criticrating>
+  <runtime>109</runtime>
+  <country>Denmark</country>
+  <country>France</country>
+  <country>Germany</country>
+  <country>Italy</country>
+  <country>Sweden</country>
+  <genre>剧情</genre>
+  <genre>恐怖</genre>
+  <genre>惊悚</genre>
+  <studio>Zentropa Entertainments</studio>
+  <studio>Danmarks Radio (DR)</studio>
+  <studio>Trollhättan Film</studio>
+  <studio>Memfis Film</studio>
+  <studio>Lucky Red</studio>
+  <studio>ZDF</studio>
+  <studio>Slot Machine</studio>
+  <studio>Zentropa International Köln</studio>
+  <studio>Zentropa International Poland</studio>
+  <studio>ZDF/Arte</studio>
+  <studio>Liberator Productions</studio>
+  <studio>PISF</studio>
+  <studio>Svenska Filminstitutet</studio>
+  <studio>Canal+</studio>
+  <studio>ARTE France Cinéma</studio>
+  <studio>SVT</studio>
+  <studio>ARTE</studio>
+  <studio>Film i Väst</studio>
+  <studio>Deutscher Filmförderfonds</studio>
+  <studio>CNC</studio>
+  <uniqueid type="Tmdb">17609</uniqueid>
+  <uniqueid type="Imdb">tt0870984</uniqueid>
+  <id>tt0870984</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11406119</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>108</duration>
+        <durationinseconds>6530</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

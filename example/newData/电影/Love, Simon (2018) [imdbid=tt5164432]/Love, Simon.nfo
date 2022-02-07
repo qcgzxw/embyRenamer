@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[每个人都值得拥有一个伟大的爱情故事。但是对一个17岁的高中生「赛门」来说这一切却是件超複杂的事：第一、没有人知道他是同性恋；第二、他也搞不清楚自己爱上跟他一样有同样困扰的不具名网友到底是何方神圣？？？为了解决这两个大麻烦，赛门展开一段爆笑又吓人的解答过程，但他没料到的是，最后得到的答案却从此改变了自己的人生]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-06-13 11:29:03</dateadded>
+  <title>爱你，西蒙</title>
+  <originaltitle>Love, Simon</originaltitle>
+  <actor>
+    <name>Nick Robinson</name>
+    <role>Simon Spier</role>
+    <type>Actor</type>
+    <tmdbid>1108907</tmdbid>
+    <imdbid>nm3538718</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Garner</name>
+    <role>Emily Spier</role>
+    <type>Actor</type>
+    <tmdbid>9278</tmdbid>
+    <imdbid>nm0004950</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Duhamel</name>
+    <role>Jack Spier</role>
+    <type>Actor</type>
+    <tmdbid>19536</tmdbid>
+    <imdbid>nm0241049</imdbid>
+  </actor>
+  <actor>
+    <name>Katherine Langford</name>
+    <role>Leah Burke</role>
+    <type>Actor</type>
+    <tmdbid>1636738</tmdbid>
+    <imdbid>nm7692698</imdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Shipp</name>
+    <role>Abby Suso</role>
+    <type>Actor</type>
+    <tmdbid>1253199</tmdbid>
+    <imdbid>nm3381295</imdbid>
+  </actor>
+  <actor>
+    <name>Logan Miller</name>
+    <role>Martin Addison</role>
+    <type>Actor</type>
+    <tmdbid>116088</tmdbid>
+    <imdbid>nm2383250</imdbid>
+  </actor>
+  <actor>
+    <name>Keiynan Lonsdale</name>
+    <role>Abraham "Bram" Greenfeld</role>
+    <type>Actor</type>
+    <tmdbid>1251875</tmdbid>
+    <imdbid>nm2920533</imdbid>
+  </actor>
+  <actor>
+    <name>Jorge Lendeborg Jr.</name>
+    <role>Nick Eisner</role>
+    <type>Actor</type>
+    <tmdbid>1563266</tmdbid>
+    <imdbid>nm7449863</imdbid>
+  </actor>
+  <actor>
+    <name>Talitha Bateman</name>
+    <role>Nora Spier</role>
+    <type>Actor</type>
+    <tmdbid>1379123</tmdbid>
+    <imdbid>nm5145057</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Hale</name>
+    <role>Mr. Worth</role>
+    <type>Actor</type>
+    <tmdbid>25147</tmdbid>
+    <imdbid>nm0355024</imdbid>
+  </actor>
+  <actor>
+    <name>Natasha Rothwell</name>
+    <role>Ms. Albright</role>
+    <type>Actor</type>
+    <tmdbid>1546282</tmdbid>
+    <imdbid>nm5625020</imdbid>
+  </actor>
+  <actor>
+    <name>Miles Heizer</name>
+    <role>Cal Price</role>
+    <type>Actor</type>
+    <tmdbid>148096</tmdbid>
+    <imdbid>nm1851028</imdbid>
+  </actor>
+  <actor>
+    <name>Joey Pollari</name>
+    <role>Lyle</role>
+    <type>Actor</type>
+    <tmdbid>103388</tmdbid>
+    <imdbid>nm2263335</imdbid>
+  </actor>
+  <actor>
+    <name>Clark Moore</name>
+    <role>Ethan</role>
+    <type>Actor</type>
+    <tmdbid>1784405</tmdbid>
+    <imdbid>nm5045626</imdbid>
+  </actor>
+  <actor>
+    <name>Drew Starkey</name>
+    <role>Garrett Laughlin</role>
+    <type>Actor</type>
+    <tmdbid>1939676</tmdbid>
+    <imdbid>nm6481846</imdbid>
+  </actor>
+  <actor>
+    <name>Mackenzie Lintz</name>
+    <role>Taylor</role>
+    <type>Actor</type>
+    <tmdbid>1286617</tmdbid>
+    <imdbid>nm4435720</imdbid>
+  </actor>
+  <actor>
+    <name>Cassady McClincy</name>
+    <role>Jackie</role>
+    <type>Actor</type>
+    <tmdbid>1792414</tmdbid>
+    <imdbid>nm4198889</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Sgambati</name>
+    <role>Claire</role>
+    <type>Actor</type>
+    <tmdbid>1691282</tmdbid>
+    <imdbid>nm3285199</imdbid>
+  </actor>
+  <actor>
+    <name>Jamila Thompson</name>
+    <role>Additional Posse Girl</role>
+    <type>Actor</type>
+    <tmdbid>2134803</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Jordan</name>
+    <role>Creekwood Girl</role>
+    <type>Actor</type>
+    <tmdbid>1507474</tmdbid>
+    <imdbid>nm1790431</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Donohue</name>
+    <role>Math Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1784409</tmdbid>
+  </actor>
+  <actor>
+    <name>Terayle Hill</name>
+    <role>Spencer</role>
+    <type>Actor</type>
+    <tmdbid>1683093</tmdbid>
+    <imdbid>nm7570216</imdbid>
+  </actor>
+  <actor>
+    <name>Tyler Chase</name>
+    <role>Aaron</role>
+    <type>Actor</type>
+    <tmdbid>1223876</tmdbid>
+    <imdbid>nm2335968</imdbid>
+  </actor>
+  <actor>
+    <name>Haroon Khan</name>
+    <role>Suraj</role>
+    <type>Actor</type>
+    <tmdbid>1792415</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Mikel</name>
+    <role>Ride Operator</role>
+    <type>Actor</type>
+    <tmdbid>1046665</tmdbid>
+    <imdbid>nm2282254</imdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Stargel</name>
+    <role>Fantasy Teen</role>
+    <type>Actor</type>
+    <tmdbid>991958</tmdbid>
+    <imdbid>nm2677066</imdbid>
+  </actor>
+  <actor>
+    <name>Nancy De Mayo</name>
+    <role>Mrs. Eisner</role>
+    <type>Actor</type>
+    <tmdbid>1514927</tmdbid>
+    <imdbid>nm1125705</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Ojore Mayfield</name>
+    <role>Mr. Eisner</role>
+    <type>Actor</type>
+    <tmdbid>1445688</tmdbid>
+    <imdbid>nm2203173</imdbid>
+  </actor>
+  <actor>
+    <name>Chantell D. Christopher</name>
+    <role>Mrs. Suso</role>
+    <type>Actor</type>
+    <tmdbid>1735583</tmdbid>
+  </actor>
+  <actor>
+    <name>Mandy Fason</name>
+    <role>Mrs. Burke</role>
+    <type>Actor</type>
+    <tmdbid>1319804</tmdbid>
+    <imdbid>nm1827670</imdbid>
+  </actor>
+  <actor>
+    <name>Philip Covin</name>
+    <role>Mr. Burke</role>
+    <type>Actor</type>
+    <tmdbid>2134807</tmdbid>
+  </actor>
+  <actor>
+    <name>Campbell Godfrey</name>
+    <role>Little Man</role>
+    <type>Actor</type>
+    <tmdbid>2669575</tmdbid>
+  </actor>
+  <actor>
+    <name>Robbie Rogers</name>
+    <role>The Coach</role>
+    <type>Actor</type>
+    <tmdbid>1613009</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher L. Plunkett</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2669577</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessi Peralta</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2669576</tmdbid>
+  </actor>
+  <actor>
+    <name>Carsen Rowe</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2669591</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Fritschi</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1290604</tmdbid>
+    <imdbid>nm4973032</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Laraway</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1290642</tmdbid>
+    <imdbid>nm4972404</imdbid>
+  </actor>
+  <actor>
+    <name>Dylan Cheek</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1347328</tmdbid>
+    <imdbid>nm4724842</imdbid>
+  </actor>
+  <actor>
+    <name>Jaidi Ventura</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2669594</tmdbid>
+  </actor>
+  <actor>
+    <name>Danni Heverin</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1757732</tmdbid>
+  </actor>
+  <actor>
+    <name>David Copeland Brown Jr.</name>
+    <role>Tyler  (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1784410</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryson Pitts</name>
+    <role>10-Year-Old Simon Spier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1591186</tmdbid>
+    <imdbid>nm5820937</imdbid>
+  </actor>
+  <actor>
+    <name>Nye Reynolds</name>
+    <role>5-Year-Old Simon Spier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2008214</tmdbid>
+    <imdbid>nm8470501</imdbid>
+  </actor>
+  <actor>
+    <name>Skye Mowbray</name>
+    <role>6-Year-Old Nora Spier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2008215</tmdbid>
+  </actor>
+  <actor>
+    <name>Samantha Bulka</name>
+    <role>Ethan's Posse (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1784404</tmdbid>
+  </actor>
+  <actor>
+    <name>Baz Ma</name>
+    <role>Ethan's Posse (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1784408</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalia Tureta</name>
+    <role>Ethan's Posse (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1784415</tmdbid>
+  </actor>
+  <actor>
+    <name>Briana Estevez</name>
+    <role>Cheerleader (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1784407</tmdbid>
+  </actor>
+  <actor>
+    <name>Jönah-Blainé Bowling</name>
+    <role>Trendy Jock (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1784400</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean O'Donnell</name>
+    <role>High School Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1394423</tmdbid>
+    <imdbid>nm5761975</imdbid>
+  </actor>
+  <actor>
+    <name>Collin McHugh</name>
+    <role>High School Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1784412</tmdbid>
+  </actor>
+  <actor>
+    <name>Abigail Houck</name>
+    <role>High School Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1784413</tmdbid>
+  </actor>
+  <actor>
+    <name>Jodi Houck</name>
+    <role>Parent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1784416</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Royston</name>
+    <role>Parent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1784411</tmdbid>
+  </actor>
+  <actor>
+    <name>James Sterling</name>
+    <role>Parent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1784406</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyson Love</name>
+    <role>Football Parent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1784403</tmdbid>
+  </actor>
+  <director tmdbid="88967" imdbid="nm0075528">Greg Berlanti</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ykHeGtN4m94</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=E0cbWdlQg_8</trailer>
+  <rating>7.6</rating>
+  <year>2018</year>
+  <mpaa>HK-IIA</mpaa>
+  <imdbid>tt5164432</imdbid>
+  <tmdbid>449176</tmdbid>
+  <premiered>2018-02-16</premiered>
+  <releasedate>2018-02-16</releasedate>
+  <criticrating>91</criticrating>
+  <runtime>110</runtime>
+  <country>United States of America</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <studio>Temple Hill Entertainment</studio>
+  <studio>Fox 2000 Pictures</studio>
+  <studio>New Leaf Literary &amp; Media</studio>
+  <studio>20th Century Fox</studio>
+  <studio>Twisted Media</studio>
+  <uniqueid type="Tmdb">449176</uniqueid>
+  <uniqueid type="Imdb">tt5164432</uniqueid>
+  <id>tt5164432</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11396741</bitrate>
+        <width>1920</width>
+        <height>808</height>
+        <aspect>240:101</aspect>
+        <aspectratio>240:101</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>109</duration>
+        <durationinseconds>6582</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Kim and Jimmy face off with an adversary. Jimmy looks to Chuck's past to secure his future. Jimmy loses an ally and gains another.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-07-28 01:09:53</dateadded>
+  <title>狡辩</title>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Jimmy McGill</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Rhea Seehorn</name>
+    <role>Kim Wexler</role>
+    <type>Actor</type>
+    <tmdbid>62765</tmdbid>
+    <imdbid>nm0781533</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Fabian</name>
+    <role>Howard Hamlin</role>
+    <type>Actor</type>
+    <tmdbid>58791</tmdbid>
+    <imdbid>nm0264579</imdbid>
+  </actor>
+  <actor>
+    <name>Michael McKean</name>
+    <role>Chuck McGill</role>
+    <type>Actor</type>
+    <tmdbid>21731</tmdbid>
+  </actor>
+  <actor>
+    <name>John Getz</name>
+    <role>Chairman</role>
+    <type>GuestStar</type>
+    <tmdbid>20211</tmdbid>
+    <imdbid>nm0315288</imdbid>
+  </actor>
+  <actor>
+    <name>Ann Cusack</name>
+    <role>Rebecca McGill</role>
+    <type>GuestStar</type>
+    <tmdbid>59260</tmdbid>
+    <imdbid>nm0193639</imdbid>
+  </actor>
+  <actor>
+    <name>Tina Parker</name>
+    <role>Francesca Liddy</role>
+    <type>GuestStar</type>
+    <tmdbid>147085</tmdbid>
+    <imdbid>nm0662669</imdbid>
+  </actor>
+  <actor>
+    <name>Jalene Mack</name>
+    <role>Female Committee Member</role>
+    <type>GuestStar</type>
+    <tmdbid>1147413</tmdbid>
+  </actor>
+  <actor>
+    <name>Cornell Womack</name>
+    <role>Male Committee Member</role>
+    <type>GuestStar</type>
+    <tmdbid>164494</tmdbid>
+  </actor>
+  <actor>
+    <name>Lavell Crawford</name>
+    <role>Huell Babineaux</role>
+    <type>GuestStar</type>
+    <tmdbid>564348</tmdbid>
+    <imdbid>nm1089417</imdbid>
+  </actor>
+  <director>Daniel Sackheim</director>
+  <rating>9.441</rating>
+  <year>2017</year>
+  <imdbid>tt5719536</imdbid>
+  <tvdbid>6023992</tvdbid>
+  <runtime>50</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt5719536</uniqueid>
+  <uniqueid type="Tvdb">6023992</uniqueid>
+  <episode>5</episode>
+  <season>3</season>
+  <aired>2017-05-08</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>31743974</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>49</duration>
+        <durationinseconds>2971</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

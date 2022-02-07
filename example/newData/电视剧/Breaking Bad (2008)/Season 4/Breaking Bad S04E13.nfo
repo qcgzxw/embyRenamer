@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Walter 带着炸弹来到医院，问 Jesse 有没有想到其他的地方能够奇袭 Gus，Jesse 却被警方带走，询问他怎么知道 Brock 中毒的。Walter 去找 Saul，却被女秘书敲竹杠。回家取钱发现有陌生人来，后从地下室里拿钱逃走。Saul 去警局保出 Jesse。Jesse 告诉 Walter 想到一个地方，Gus 找过 Tio，而且 Gus 前来探望是为了折磨他。Walter 来到养老院，希望和 Tio 合作，Tio 找到 DEA，但没有告密，反而羞辱了一番离开，此番是为了引起 Gus 的注意。不知情的 Tyrus 把此事报告给了 Gus，Walter 把炸弹安装在 Tio 的氧气罐上。医院确认 Brock 中的不是蓖麻毒素，放了 Jesse，Jesse 被抓去实验室。Gus 决定亲自去养老院结果 Tio，随着 Tio 铃铛响起，Gus 等三人同归于尽。得知新闻的 Walter 来到实验室，救出了 Jesse，他俩一把火烧了实验室。Jesse 告诉 Walter，Brock 情况已有所好转，他中的不是蓖麻毒素，铃兰花果实的毒。两人感慨一路走来的艰辛，双手紧握在一起。Walter 打电话给 Skyler 告诉她一切都过去了，他在这场生死对决中胜出了。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 15:59:05</dateadded>
+  <title>当面对峙</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Myra Turley</name>
+    <role>Caregiver</role>
+    <type>GuestStar</type>
+    <tmdbid>1219610</tmdbid>
+    <imdbid>nm0877252</imdbid>
+  </actor>
+  <actor>
+    <name>Ray Campbell</name>
+    <role>Tyrus Kitt</role>
+    <type>GuestStar</type>
+    <tmdbid>159334</tmdbid>
+    <imdbid>nm1530474</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Wiggins</name>
+    <role>Gus' Operative</role>
+    <type>GuestStar</type>
+    <tmdbid>1240490</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Shamus Wiles</name>
+    <role>ASAC George Merkert</role>
+    <type>GuestStar</type>
+    <tmdbid>9291</tmdbid>
+    <imdbid>nm0928795</imdbid>
+  </actor>
+  <actor>
+    <name>Gonzalo Menendez</name>
+    <role>Detective Kalanchoe</role>
+    <type>GuestStar</type>
+    <tmdbid>84754</tmdbid>
+    <imdbid>nm0579460</imdbid>
+  </actor>
+  <actor>
+    <name>Tina Parker</name>
+    <role>Francesca</role>
+    <type>GuestStar</type>
+    <tmdbid>147085</tmdbid>
+    <imdbid>nm0662669</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Douglas</name>
+    <role>Detective Munn</role>
+    <type>GuestStar</type>
+    <tmdbid>20496</tmdbid>
+    <imdbid>nm0235103</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Margolis</name>
+    <role>Tio Salamanca</role>
+    <type>GuestStar</type>
+    <tmdbid>1173</tmdbid>
+    <imdbid>nm0546797</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Michael Quezada</name>
+    <role>Steven Gomez</role>
+    <type>GuestStar</type>
+    <tmdbid>61535</tmdbid>
+    <imdbid>nm2366374</imdbid>
+  </actor>
+  <director>Vince Gilligan</director>
+  <rating>9.399</rating>
+  <year>2011</year>
+  <imdbid>tt1683088</imdbid>
+  <tvdbid>4164050</tvdbid>
+  <runtime>50</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt1683088</uniqueid>
+  <uniqueid type="Tvdb">4164050</uniqueid>
+  <episode>13</episode>
+  <season>4</season>
+  <aired>2011-10-09</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11261521</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>50</duration>
+        <durationinseconds>3026</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

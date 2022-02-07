@@ -1,0 +1,443 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　在人们的脑海里，活泼可爱的花栗鼠原本属于浓密茂盛的树林。那里才是他们生活、嬉戏的世界。但在无奇不有、无所不能的大银幕上，三只活蹦乱跳的花栗鼠则成为能说擅唱的活宝级人物（动物似乎更确切一点）：穿红色帽衫的艾尔文（贾斯汀·朗饰）可以说是花栗鼠三人组的头儿，性格张扬爱搞恶作剧；穿蓝色帽衫的高个子西蒙（马修·格雷·库伯勒饰）则是个爱安静且脑子充满智慧的家伙，鼻子上的黑边眼镜就能说明这一点；身形略显富态的西奥多（杰西·麦卡尼饰）喜欢穿绿色帽衫，是个活泼、可爱好吃懒动的家伙。 　　这不三只穿着时髦的小可爱闯入了人类的世界，游荡到了一个穷困料到、事业失败的作曲家大卫·塞维尔（杰森·李饰）的门下。小家伙们二话不说就霸占了大卫的房子，为了说服大卫收留它们，三只花栗鼠也展露天分，原来它们不仅会说话，还很会唱歌。于是，在倒霉音乐人的建议下，一支花栗鼠合唱组应运而生。身兼合唱组经纪人及歌曲作者的大卫，在三只小可爱的帮助下，很快在竞争激烈的流行音乐圈名声大振。三只花栗鼠也在转瞬间成了家喻户晓的知名“人士”。不过，调皮捣蛋的小花栗鼠可不是可塑性很强的人类歌手，要管住它们可花费了大卫不少的心思和力气。大卫·塞维尔穷困寂静的生活也在三只小动物的“帮助”下，热闹、混乱、一团糟……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-01-19 11:01:58</dateadded>
+  <title>鼠来宝</title>
+  <originaltitle>Alvin and the Chipmunks</originaltitle>
+  <actor>
+    <name>Jason Lee</name>
+    <role>Dave</role>
+    <type>Actor</type>
+    <tmdbid>11662</tmdbid>
+    <imdbid>nm0005134</imdbid>
+  </actor>
+  <actor>
+    <name>David Cross</name>
+    <role>Ian</role>
+    <type>Actor</type>
+    <tmdbid>212</tmdbid>
+    <imdbid>nm0189144</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Richardson</name>
+    <role>Claire</role>
+    <type>Actor</type>
+    <tmdbid>49914</tmdbid>
+    <imdbid>nm0724460</imdbid>
+  </actor>
+  <actor>
+    <name>Jane Lynch</name>
+    <role>Gail</role>
+    <type>Actor</type>
+    <tmdbid>43775</tmdbid>
+    <imdbid>nm0528331</imdbid>
+  </actor>
+  <actor>
+    <name>Justin Long</name>
+    <role>Alvin (voice)</role>
+    <type>Actor</type>
+    <tmdbid>15033</tmdbid>
+    <imdbid>nm0519043</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Gray Gubler</name>
+    <role>Simon (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5661</tmdbid>
+    <imdbid>nm1131557</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse McCartney</name>
+    <role>Theodore (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49915</tmdbid>
+    <imdbid>nm0565366</imdbid>
+  </actor>
+  <actor>
+    <name>Veronica Alicino</name>
+    <role>Amy</role>
+    <type>Actor</type>
+    <tmdbid>49916</tmdbid>
+    <imdbid>nm0019585</imdbid>
+  </actor>
+  <actor>
+    <name>Allison Karman</name>
+    <role>Female Intern #1</role>
+    <type>Actor</type>
+    <tmdbid>1080067</tmdbid>
+    <imdbid>nm2621044</imdbid>
+  </actor>
+  <actor>
+    <name>Tiara Parker</name>
+    <role>Female Intern #2</role>
+    <type>Actor</type>
+    <tmdbid>208332</tmdbid>
+    <imdbid>nm2047090</imdbid>
+  </actor>
+  <actor>
+    <name>Kira Verrastro</name>
+    <role>Female Intern #3</role>
+    <type>Actor</type>
+    <tmdbid>1080068</tmdbid>
+    <imdbid>nm1576958</imdbid>
+  </actor>
+  <actor>
+    <name>Beth Riesgraf</name>
+    <role>Mother in Store</role>
+    <type>Actor</type>
+    <tmdbid>46928</tmdbid>
+    <imdbid>nm0726360</imdbid>
+  </actor>
+  <actor>
+    <name>Adriane Lenox</name>
+    <role>Vet</role>
+    <type>Actor</type>
+    <tmdbid>53260</tmdbid>
+    <imdbid>nm0502180</imdbid>
+  </actor>
+  <actor>
+    <name>Don Tiffany</name>
+    <role>Engineer</role>
+    <type>Actor</type>
+    <tmdbid>159398</tmdbid>
+    <imdbid>nm1484301</imdbid>
+  </actor>
+  <actor>
+    <name>Frank Maharajh</name>
+    <role>Barry</role>
+    <type>Actor</type>
+    <tmdbid>120723</tmdbid>
+    <imdbid>nm2348807</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Symons</name>
+    <role>Ted</role>
+    <type>Actor</type>
+    <tmdbid>1228919</tmdbid>
+    <imdbid>nm0843388</imdbid>
+  </actor>
+  <actor>
+    <name>Jayden Lund</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>154932</tmdbid>
+    <imdbid>nm0526182</imdbid>
+  </actor>
+  <actor>
+    <name>Alexis Boyd</name>
+    <role>Dancer (as Alexis A. Boyd)</role>
+    <type>Actor</type>
+    <tmdbid>2055281</tmdbid>
+  </actor>
+  <actor>
+    <name>Kyndra Reevey</name>
+    <role>Dancer (as Kyndra 'Binkie' Reevey)</role>
+    <type>Actor</type>
+    <tmdbid>1542898</tmdbid>
+    <imdbid>nm1801177</imdbid>
+  </actor>
+  <actor>
+    <name>Jay Bird</name>
+    <role>Concert Guest 'Cowboy'</role>
+    <type>Actor</type>
+    <tmdbid>2076813</tmdbid>
+  </actor>
+  <actor>
+    <name>Natalie Cohen</name>
+    <role>Poolside Girl</role>
+    <type>Actor</type>
+    <tmdbid>221942</tmdbid>
+    <imdbid>nm3545397</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Fung</name>
+    <role>Boy at the Grocery Store</role>
+    <type>Actor</type>
+    <tmdbid>1781328</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Fisher</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2087078</tmdbid>
+    <imdbid>nm2294574</imdbid>
+  </actor>
+  <actor>
+    <name>Jillian Barberie</name>
+    <role>Herself</role>
+    <type>Actor</type>
+    <tmdbid>1214308</tmdbid>
+    <imdbid>nm0053516</imdbid>
+  </actor>
+  <actor>
+    <name>Greg 'G-Spot' Siebel</name>
+    <role>Photographer</role>
+    <type>Actor</type>
+    <tmdbid>2827678</tmdbid>
+  </actor>
+  <actor>
+    <name>Oliver Muirhead</name>
+    <role>Butler</role>
+    <type>Actor</type>
+    <tmdbid>93035</tmdbid>
+    <imdbid>nm0611407</imdbid>
+  </actor>
+  <actor>
+    <name>Erin Chambers</name>
+    <role>Press Coordinator</role>
+    <type>Actor</type>
+    <tmdbid>112376</tmdbid>
+    <imdbid>nm0150326</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Classic</name>
+    <role>DJ</role>
+    <type>Actor</type>
+    <tmdbid>2827679</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Riancho</name>
+    <role>French Doll (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2827680</tmdbid>
+  </actor>
+  <actor>
+    <name>Axel Alba</name>
+    <role>Spanish Doll (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2827681</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosero McCoy</name>
+    <role>Choreographer</role>
+    <type>Actor</type>
+    <tmdbid>2012804</tmdbid>
+  </actor>
+  <actor>
+    <name>Criscilla Anderson</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>2827682</tmdbid>
+  </actor>
+  <actor>
+    <name>Tucker Barkley</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1290630</tmdbid>
+    <imdbid>nm2998431</imdbid>
+  </actor>
+  <actor>
+    <name>Celestina Aladekoba</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>932097</tmdbid>
+    <imdbid>nm1872458</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Edwards</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1290636</tmdbid>
+    <imdbid>nm2492660</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Scott</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1341649</tmdbid>
+    <imdbid>nm2878801</imdbid>
+  </actor>
+  <actor>
+    <name>Miss Prissy</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>23593</tmdbid>
+    <imdbid>nm1966031</imdbid>
+  </actor>
+  <actor>
+    <name>Bryan Gaw</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1600203</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Maniscalco</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>559770</tmdbid>
+    <imdbid>nm2173584</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Drago</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>188541</tmdbid>
+  </actor>
+  <actor>
+    <name>Melanie Lewis</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>59544</tmdbid>
+    <imdbid>nm1247524</imdbid>
+  </actor>
+  <actor>
+    <name>Ross Bagdasarian, Jr.</name>
+    <role>Alvin (singing voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>30694</tmdbid>
+    <imdbid>nm0046559</imdbid>
+  </actor>
+  <actor>
+    <name>Janice Karman</name>
+    <role>Theodore (singing voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>30696</tmdbid>
+    <imdbid>nm0439739</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Vining</name>
+    <role>Simon (singing voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2827683</tmdbid>
+  </actor>
+  <actor>
+    <name>Colette Claire</name>
+    <role>Bass Player (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1052593</tmdbid>
+    <imdbid>nm2532441</imdbid>
+  </actor>
+  <actor>
+    <name>Sommer Fehmel</name>
+    <role>Fan (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1634498</tmdbid>
+  </actor>
+  <actor>
+    <name>Lisa Mason Lee</name>
+    <role>Band Member (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2316184</tmdbid>
+  </actor>
+  <actor>
+    <name>Rae Sunshine Lee</name>
+    <role>Concert Attendee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1620178</tmdbid>
+  </actor>
+  <actor>
+    <name>Eddie Mariano</name>
+    <role>Concert Fan (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2411549</tmdbid>
+  </actor>
+  <actor>
+    <name>Meghan Noone</name>
+    <role>Alvin's Fan (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2080052</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Rossi</name>
+    <role>Dancer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>227480</tmdbid>
+    <imdbid>nm2684234</imdbid>
+  </actor>
+  <actor>
+    <name>Jameel Saleem</name>
+    <role>Band Roadie (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2320620</tmdbid>
+    <imdbid>nm2547384</imdbid>
+  </actor>
+  <actor>
+    <name>Melanie Stephens</name>
+    <role>Dancing DJ (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2775629</tmdbid>
+  </actor>
+  <actor>
+    <name>Brianna Womick</name>
+    <role>Girl Hit by Stuffed Chipmunk (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1278521</tmdbid>
+    <imdbid>nm2674969</imdbid>
+  </actor>
+  <actor>
+    <name>Maria Zambrana</name>
+    <role>Afterparty Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2756371</tmdbid>
+  </actor>
+  <director tmdbid="2827675">Lorne Green</director>
+  <director tmdbid="49903" imdbid="nm0384722">Tim Hill</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xA6cOSEZhzM</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Jb0hEE9yAbU</trailer>
+  <rating>5.2</rating>
+  <year>2007</year>
+  <mpaa>PG</mpaa>
+  <imdbid>tt0952640</imdbid>
+  <tmdbid>6477</tmdbid>
+  <premiered>2007-12-13</premiered>
+  <releasedate>2007-12-13</releasedate>
+  <criticrating>28</criticrating>
+  <runtime>91</runtime>
+  <country>United States of America</country>
+  <genre>喜剧</genre>
+  <genre>家庭</genre>
+  <genre>奇幻</genre>
+  <genre>动画</genre>
+  <studio>Fox 2000 Pictures</studio>
+  <studio>Regency Enterprises</studio>
+  <studio>Bagdasarian Productions</studio>
+  <studio>Dune Entertainment</studio>
+  <studio>20th Century Fox</studio>
+  <set tmdbcolid="167613">
+    <name>鼠来宝（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">6477</uniqueid>
+  <uniqueid type="Imdb">tt0952640</uniqueid>
+  <id>tt0952640</id>
+  <fileinfo>
+    <streamdetails>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>12469993</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>3060:1651</aspect>
+        <aspectratio>3060:1651</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5473</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[里诺和斯特凡诺妹妹皮诺西亚举行了婚礼，因为皮诺西亚之前单独的邀请，埃琳娜只是一个人过来参加婚礼，看着莱拉与马尔切诺等人愉快地交谈，埃琳娜不知道她是故意而为，还是恨意全消。有人带着怀孕的儿媳来跟斯特凡诺的妈妈聊天，还在莱拉面前说起了怀孕的事情，莱拉直接将酒泼到了那人的身上，然后愤然离席，埃琳娜从旁边人们的议论中才得知，莱拉被斯特凡诺和母亲带到医院去检查，医生说她没有什么毛病，只需要让身体变得更强壮。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-11-02 00:16:37</dateadded>
+  <title>吻</title>
+  <actor>
+    <name>Gaia Girace</name>
+    <role>Lila (Teenager)</role>
+    <type>Actor</type>
+    <tmdbid>2165956</tmdbid>
+    <imdbid>nm10135221</imdbid>
+  </actor>
+  <actor>
+    <name>Margherita Mazzucco</name>
+    <role>Elena (Teenager)</role>
+    <type>Actor</type>
+    <tmdbid>2165955</tmdbid>
+  </actor>
+  <actor>
+    <name>Ludovica Nasti</name>
+    <role>Lila (Younger)</role>
+    <type>Actor</type>
+    <tmdbid>2165954</tmdbid>
+  </actor>
+  <actor>
+    <name>Elisa del Genio</name>
+    <role>Elena (Younger)</role>
+    <type>Actor</type>
+    <tmdbid>2165953</tmdbid>
+  </actor>
+  <actor>
+    <name>Dora Romano</name>
+    <role>Miss Oliviero</role>
+    <type>Actor</type>
+    <tmdbid>1510167</tmdbid>
+    <imdbid>nm0738873</imdbid>
+  </actor>
+  <director tmdbid="931211" imdbid="nm3114621">Alice Rohrwacher</director>
+  <rating>4.333</rating>
+  <year>2020</year>
+  <imdbid>tt9413916</imdbid>
+  <tvdbid>7550352</tvdbid>
+  <runtime>61</runtime>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt9413916</uniqueid>
+  <uniqueid type="Tvdb">7550352</uniqueid>
+  <episode>4</episode>
+  <season>2</season>
+  <aired>2020-02-17</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10299969</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>61</duration>
+        <durationinseconds>3685</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

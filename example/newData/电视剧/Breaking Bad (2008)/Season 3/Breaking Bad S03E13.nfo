@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Jesse 的举动让 Gus 的忍耐到了极限，他想要除掉他，但 Walter 谎称不知道 Jesse 的下落，Walter 向 Gus 保证，只要他肯放过 Jesse，自己愿意一直为他制毒。Gus 为 Walter 选了一名新助手，Gale 又回到 Lab。Walter 同时也明白，只要有一天 Gale 掌握了制毒的技术，自己将性命不保。Gus 在得知 Gale 即将可以独立制毒后，派 Mike 和 Victor 去杀掉 Walter，Walter 电话通知 Jesse，让他去杀死 Gale，以此来保自己的性命。Jesse 万般无奈，枪杀了Gale。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 17:02:28</dateadded>
+  <title> 除尽后患</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Louis Herthum</name>
+    <role>Realtor</role>
+    <type>GuestStar</type>
+    <tmdbid>93228</tmdbid>
+    <imdbid>nm0381043</imdbid>
+  </actor>
+  <actor>
+    <name>Tiley Chao</name>
+    <role>Peng</role>
+    <type>GuestStar</type>
+    <tmdbid>201975</tmdbid>
+  </actor>
+  <actor>
+    <name>Eddie J. Fernandez</name>
+    <role>Cartel Gunman #1</role>
+    <type>GuestStar</type>
+    <tmdbid>18300</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Hernandez Bray</name>
+    <role>Cartel Gunman #2</role>
+    <type>GuestStar</type>
+    <tmdbid>59674</tmdbid>
+  </actor>
+  <actor>
+    <name>Toby Holguin</name>
+    <role>Cartel Gunman #3</role>
+    <type>GuestStar</type>
+    <tmdbid>179882</tmdbid>
+  </actor>
+  <actor>
+    <name>Eddie Perez</name>
+    <role>Cartel Gunman #4</role>
+    <type>GuestStar</type>
+    <tmdbid>1031469</tmdbid>
+    <imdbid>nm0673472</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremiah Bitsui</name>
+    <role>Victor</role>
+    <type>GuestStar</type>
+    <tmdbid>582668</tmdbid>
+    <imdbid>nm0084497</imdbid>
+  </actor>
+  <actor>
+    <name>David Costabile</name>
+    <role>Gale Boetticher</role>
+    <type>GuestStar</type>
+    <tmdbid>82167</tmdbid>
+    <imdbid>nm0182345</imdbid>
+  </actor>
+  <director>Vince Gilligan</director>
+  <rating>9.299</rating>
+  <year>2010</year>
+  <imdbid>tt1615553</imdbid>
+  <tvdbid>2106601</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt1615553</uniqueid>
+  <uniqueid type="Tvdb">2106601</uniqueid>
+  <episode>13</episode>
+  <season>3</season>
+  <aired>2010-06-13</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9936390</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2834</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

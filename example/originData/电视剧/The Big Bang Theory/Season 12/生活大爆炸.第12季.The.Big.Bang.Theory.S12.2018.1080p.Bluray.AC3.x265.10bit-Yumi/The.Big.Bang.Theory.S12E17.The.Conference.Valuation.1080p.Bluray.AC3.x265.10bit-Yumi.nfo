@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[与沃洛维茨家的孩子相处后，莱纳德和谢尔顿有所顿悟。佩妮在药品展会上考虑一个诱人的邀约。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 00:17:29</dateadded>
+  <title>会议估值</title>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Leonard Hofstadter</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>Howard Wolowitz</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Nayyar</name>
+    <role>Rajesh Koothrappali</role>
+    <type>Actor</type>
+    <tmdbid>208099</tmdbid>
+    <imdbid>nm2471798</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa Rauch</name>
+    <role>Bernadette Rostenkowski</role>
+    <type>Actor</type>
+    <tmdbid>1221716</tmdbid>
+    <imdbid>nm1851981</imdbid>
+  </actor>
+  <actor>
+    <name>Mayim Bialik</name>
+    <role>Amy Farrah Fowler</role>
+    <type>Actor</type>
+    <tmdbid>167640</tmdbid>
+    <imdbid>nm0080524</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Sussman</name>
+    <role>Stuart Bloom</role>
+    <type>Actor</type>
+    <tmdbid>60633</tmdbid>
+    <imdbid>nm0839934</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Kravits</name>
+    <role>Danny</role>
+    <type>GuestStar</type>
+    <tmdbid>19978</tmdbid>
+    <imdbid>nm0006463</imdbid>
+  </actor>
+  <actor>
+    <name>Chasty Ballesteros</name>
+    <role>Karen</role>
+    <type>GuestStar</type>
+    <tmdbid>1158832</tmdbid>
+    <imdbid>nm3276414</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Rauch</name>
+    <role>Darren</role>
+    <type>GuestStar</type>
+    <tmdbid>181398</tmdbid>
+  </actor>
+  <actor>
+    <name>Pamela Adlon</name>
+    <role>Halley Wolowitz (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>21063</tmdbid>
+    <imdbid>nm0781899</imdbid>
+  </actor>
+  <actor>
+    <name>Christine Baranski</name>
+    <role>Beverly Hofstadter</role>
+    <type>GuestStar</type>
+    <tmdbid>11870</tmdbid>
+    <imdbid>nm0004724</imdbid>
+  </actor>
+  <actor>
+    <name>Andre Boyer</name>
+    <role>Kwame</role>
+    <type>GuestStar</type>
+    <tmdbid>1259765</tmdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>5.9</rating>
+  <year>2019</year>
+  <imdbid>tt6674726</imdbid>
+  <tvdbid>7048797</tvdbid>
+  <runtime>20</runtime>
+  <uniqueid type="Tvdb">7048797</uniqueid>
+  <uniqueid type="Imdb">tt6674726</uniqueid>
+  <episode>17</episode>
+  <season>12</season>
+  <aired>2019-03-07</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5792378</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1177</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

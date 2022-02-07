@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[本片包含的四个故事是道德力量与死刑这两个关键主题的变奏曲。这就提出了一个问题：在专制政权及其看似不可避免的威胁下，个人自由能在多大程度上得到表达？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-10 11:37:02</dateadded>
+  <title>无邪</title>
+  <originaltitle>شیطان وجود ندارد</originaltitle>
+  <actor>
+    <name>Mahtab Servati</name>
+    <role>Nana</role>
+    <type>Actor</type>
+    <tmdbid>2397465</tmdbid>
+  </actor>
+  <actor>
+    <name>Shaghayegh Shourian</name>
+    <role>Razieh</role>
+    <type>Actor</type>
+    <tmdbid>2537729</tmdbid>
+  </actor>
+  <actor>
+    <name>Baran Rasoulof</name>
+    <role>Darya</role>
+    <type>Actor</type>
+    <tmdbid>2567752</tmdbid>
+  </actor>
+  <actor>
+    <name>Darya Moghbeli</name>
+    <role>Tahmineh</role>
+    <type>Actor</type>
+    <tmdbid>2567753</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaveh Ahangar</name>
+    <role>Pouya</role>
+    <type>Actor</type>
+    <tmdbid>2567754</tmdbid>
+  </actor>
+  <actor>
+    <name>Jila Shahi</name>
+    <role>Zaman</role>
+    <type>Actor</type>
+    <tmdbid>2567755</tmdbid>
+  </actor>
+  <actor>
+    <name>Ehsan Mirhosseini</name>
+    <role>Heshmat</role>
+    <type>Actor</type>
+    <tmdbid>2567756</tmdbid>
+  </actor>
+  <actor>
+    <name>Mohammad Valizadegan</name>
+    <role>Javad</role>
+    <type>Actor</type>
+    <tmdbid>2567757</tmdbid>
+  </actor>
+  <actor>
+    <name>Alireza Zareparast</name>
+    <role>Hasan</role>
+    <type>Actor</type>
+    <tmdbid>2567758</tmdbid>
+  </actor>
+  <actor>
+    <name>Mohammad Seddighimehr</name>
+    <role>Bahram</role>
+    <type>Actor</type>
+    <tmdbid>2567759</tmdbid>
+  </actor>
+  <actor>
+    <name>Pouya Mehri</name>
+    <role>Ali</role>
+    <type>Actor</type>
+    <tmdbid>2567760</tmdbid>
+  </actor>
+  <actor>
+    <name>Salar Khamseh</name>
+    <role>Salar</role>
+    <type>Actor</type>
+    <tmdbid>2567761</tmdbid>
+  </actor>
+  <actor>
+    <name>Reza Bahrami</name>
+    <role>Shahram</role>
+    <type>Actor</type>
+    <tmdbid>2567762</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaveh Ebrahimpour</name>
+    <role>Amir</role>
+    <type>Actor</type>
+    <tmdbid>2051925</tmdbid>
+  </actor>
+  <director tmdbid="935123">Mohammad Rasoulof</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tu-WUq_emxU</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uiKtTJDo6eM</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HgyisKVoFzY</trailer>
+  <rating>7.5</rating>
+  <year>2020</year>
+  <imdbid>tt11697844</imdbid>
+  <tmdbid>667935</tmdbid>
+  <premiered>2020-10-22</premiered>
+  <releasedate>2020-10-22</releasedate>
+  <runtime>151</runtime>
+  <country>Germany</country>
+  <country>Iran</country>
+  <country>Czech Republic</country>
+  <genre>剧情</genre>
+  <studio>Cosmopol-Film GmbH</studio>
+  <studio>Europe Media Nest</studio>
+  <studio>Filminiran</studio>
+  <uniqueid type="Tmdb">667935</uniqueid>
+  <uniqueid type="Imdb">tt11697844</uniqueid>
+  <id>tt11697844</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>844037</bitrate>
+        <width>960</width>
+        <height>402</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>150</duration>
+        <durationinseconds>9048</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>253000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

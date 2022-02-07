@@ -1,0 +1,363 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　1973年美国康涅狄格州，感恩节快要到来，一场冰风暴也即将到来。平凡乏味的家庭生活使中年夫妻厌倦，丈夫本•胡德（凯文•克莱恩饰）一直在引诱邻居珍妮特•哈珀，而妻子（琼•艾伦饰）对丈夫的谎言也早已不耐烦了。儿子保罗（托比•马奎尔饰）迷恋着学校里最有人缘的那位女生。女儿温迪（克里斯蒂娜•里奇）兴趣于电视里的水门事件听证会。  　　冰风暴的夜晚，夫妻两个去朋友家参加一个鸡尾酒会，鸡尾酒会的一个重要内容是进行换房间钥匙的游戏。在酒会结束后，每个妻子都可以和别家男人结成新欢。而他们儿子则赶去面对一场诱惑与考验，女儿正陶醉在同邻家男孩子的性游戏中……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-03 21:10:21</dateadded>
+  <title>冰风暴</title>
+  <originaltitle>The Ice Storm</originaltitle>
+  <actor>
+    <name>Kevin Kline</name>
+    <role>Ben Hood</role>
+    <type>Actor</type>
+    <tmdbid>8945</tmdbid>
+  </actor>
+  <actor>
+    <name>Joan Allen</name>
+    <role>Elena Hood</role>
+    <type>Actor</type>
+    <tmdbid>11148</tmdbid>
+    <imdbid>nm0000260</imdbid>
+  </actor>
+  <actor>
+    <name>Sigourney Weaver</name>
+    <role>Janey Carver</role>
+    <type>Actor</type>
+    <tmdbid>10205</tmdbid>
+  </actor>
+  <actor>
+    <name>Henry Czerny</name>
+    <role>George Clair</role>
+    <type>Actor</type>
+    <tmdbid>15319</tmdbid>
+  </actor>
+  <actor>
+    <name>Tobey Maguire</name>
+    <role>Paul Hood</role>
+    <type>Actor</type>
+    <tmdbid>2219</tmdbid>
+  </actor>
+  <actor>
+    <name>Christina Ricci</name>
+    <role>Wendy Hood</role>
+    <type>Actor</type>
+    <tmdbid>6886</tmdbid>
+  </actor>
+  <actor>
+    <name>Elijah Wood</name>
+    <role>Mikey Carver</role>
+    <type>Actor</type>
+    <tmdbid>109</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Hann-Byrd</name>
+    <role>Sandy Carver</role>
+    <type>Actor</type>
+    <tmdbid>46530</tmdbid>
+  </actor>
+  <actor>
+    <name>David Krumholtz</name>
+    <role>Francis Davenport</role>
+    <type>Actor</type>
+    <tmdbid>38582</tmdbid>
+    <imdbid>nm0472710</imdbid>
+  </actor>
+  <actor>
+    <name>Jamey Sheridan</name>
+    <role>Jim Carver</role>
+    <type>Actor</type>
+    <tmdbid>2977</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Burton</name>
+    <role>Dorothy Franklin</role>
+    <type>Actor</type>
+    <tmdbid>20879</tmdbid>
+    <imdbid>nm0123632</imdbid>
+  </actor>
+  <actor>
+    <name>William Cain</name>
+    <role>Ted Shackley</role>
+    <type>Actor</type>
+    <tmdbid>170060</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Cumpsty</name>
+    <role>Philip Edwards</role>
+    <type>Actor</type>
+    <tmdbid>171652</tmdbid>
+  </actor>
+  <actor>
+    <name>Maia Danziger</name>
+    <role>Mrs. Gadd</role>
+    <type>Actor</type>
+    <tmdbid>107462</tmdbid>
+  </actor>
+  <actor>
+    <name>Katie Holmes</name>
+    <role>Libbets Casey</role>
+    <type>Actor</type>
+    <tmdbid>3897</tmdbid>
+    <imdbid>nm0005017</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Egerman</name>
+    <role>Pharmacist</role>
+    <type>Actor</type>
+    <tmdbid>2870305</tmdbid>
+  </actor>
+  <actor>
+    <name>Christine Farrell</name>
+    <role>Marie Earle</role>
+    <type>Actor</type>
+    <tmdbid>2159971</tmdbid>
+  </actor>
+  <actor>
+    <name>Glenn Fitzgerald</name>
+    <role>Neil Conrad</role>
+    <type>Actor</type>
+    <tmdbid>10694</tmdbid>
+  </actor>
+  <actor>
+    <name>Allison Janney</name>
+    <role>Dot Halford</role>
+    <type>Actor</type>
+    <tmdbid>19</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Freeman</name>
+    <role>Ted Franklin</role>
+    <type>Actor</type>
+    <tmdbid>15830</tmdbid>
+  </actor>
+  <actor>
+    <name>Barbara Garrick</name>
+    <role>Weather Reporter</role>
+    <type>Actor</type>
+    <tmdbid>12932</tmdbid>
+  </actor>
+  <actor>
+    <name>Dennis Gagomiros</name>
+    <role>Stephen Earle</role>
+    <type>Actor</type>
+    <tmdbid>1513199</tmdbid>
+  </actor>
+  <actor>
+    <name>John Benjamin Hickey</name>
+    <role>Mark Boland</role>
+    <type>Actor</type>
+    <tmdbid>21179</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Flagg</name>
+    <role>Train Conductor</role>
+    <type>Actor</type>
+    <tmdbid>1838670</tmdbid>
+  </actor>
+  <actor>
+    <name>Byron Jennings</name>
+    <role>Pierce Sawyer</role>
+    <type>Actor</type>
+    <tmdbid>941524</tmdbid>
+    <imdbid>nm0421120</imdbid>
+  </actor>
+  <actor>
+    <name>Miles Marek</name>
+    <role>Mr. Gadd</role>
+    <type>Actor</type>
+    <tmdbid>2810047</tmdbid>
+  </actor>
+  <actor>
+    <name>Colette Kilroy</name>
+    <role>Sari Steele</role>
+    <type>Actor</type>
+    <tmdbid>53892</tmdbid>
+  </actor>
+  <actor>
+    <name>Ivan Kronenfeld</name>
+    <role>Jack Moellering</role>
+    <type>Actor</type>
+    <tmdbid>2611815</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel McDonald</name>
+    <role>Weatherman</role>
+    <type>Actor</type>
+    <tmdbid>151311</tmdbid>
+  </actor>
+  <actor>
+    <name>Donna Mitchell</name>
+    <role>Maria Conrad</role>
+    <type>Actor</type>
+    <tmdbid>56694</tmdbid>
+  </actor>
+  <actor>
+    <name>Barbara Neal</name>
+    <role>Helen Wentworth</role>
+    <type>Actor</type>
+    <tmdbid>2870311</tmdbid>
+  </actor>
+  <actor>
+    <name>Nancy Opel</name>
+    <role>Claudia White</role>
+    <type>Actor</type>
+    <tmdbid>1218261</tmdbid>
+  </actor>
+  <actor>
+    <name>Larry Pine</name>
+    <role>Dave Gorman</role>
+    <type>Actor</type>
+    <tmdbid>19511</tmdbid>
+  </actor>
+  <actor>
+    <name>Wendy Scott</name>
+    <role>Pharmacy Attendant</role>
+    <type>Actor</type>
+    <tmdbid>2870318</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcell Rosenblatt</name>
+    <role>Mikey's Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1388506</tmdbid>
+  </actor>
+  <actor>
+    <name>Evelyn Solann</name>
+    <role>Woman in Pharmacy</role>
+    <type>Actor</type>
+    <tmdbid>2064116</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Stone</name>
+    <role>Marge</role>
+    <type>Actor</type>
+    <tmdbid>1474984</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Thompson</name>
+    <role>Beth</role>
+    <type>Actor</type>
+    <tmdbid>43427</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Wentworth</name>
+    <role>Paul's Teacher</role>
+    <type>Actor</type>
+    <tmdbid>81099</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Westenberg</name>
+    <role>Rob Halford</role>
+    <type>Actor</type>
+    <tmdbid>1232525</tmdbid>
+  </actor>
+  <actor>
+    <name>Colleen Camp</name>
+    <role>Dr. Pasmier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>13023</tmdbid>
+    <imdbid>nm0131974</imdbid>
+  </actor>
+  <actor>
+    <name>Bill McIntyre</name>
+    <role>Libbet's Doorman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2785752</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe O'Connor</name>
+    <role>Marty (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1213529</tmdbid>
+  </actor>
+  <actor>
+    <name>Courtney Peldon</name>
+    <role>Billie (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>76461</tmdbid>
+    <imdbid>nm0670780</imdbid>
+  </actor>
+  <actor>
+    <name>Bettina Skye</name>
+    <role>Drug Store Clerk (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1556323</tmdbid>
+  </actor>
+  <director tmdbid="1614" imdbid="nm0000487">Ang Lee</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bNRJsanqOCE</trailer>
+  <rating>7.4</rating>
+  <year>1997</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0119349</imdbid>
+  <tmdbid>68924</tmdbid>
+  <premiered>1997-02-05</premiered>
+  <releasedate>1997-02-05</releasedate>
+  <criticrating>85</criticrating>
+  <runtime>113</runtime>
+  <country>France</country>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <studio>Canal+ Droits Audiovisuels</studio>
+  <studio>Fox Searchlight Pictures</studio>
+  <studio>Good Machine</studio>
+  <set>
+    <name>李安 Ang Lee</name>
+  </set>
+  <uniqueid type="Imdb">tt0119349</uniqueid>
+  <uniqueid type="Tmdb">68924</uniqueid>
+  <id>tt0119349</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4211765</bitrate>
+        <width>1920</width>
+        <height>1036</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>113</duration>
+        <durationinseconds>6805</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>320000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

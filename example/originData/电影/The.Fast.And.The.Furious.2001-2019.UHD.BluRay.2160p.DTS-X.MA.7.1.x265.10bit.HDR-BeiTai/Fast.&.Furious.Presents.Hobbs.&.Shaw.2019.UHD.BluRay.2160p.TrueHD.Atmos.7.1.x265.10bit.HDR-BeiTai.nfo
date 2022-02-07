@@ -1,0 +1,829 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　一个是美国外交安全局的忠诚特工、身材魁梧的执法者霍布斯，一个是前英国军事特工精英、无法无天的恶棍肖。在2015年的《速度与激情7》中首次对峙之后，两人不论言语还是肢体都冲突不断，一直试图打倒对方。然而，通过高科技进行了基因增强的无政府主义者布里克斯顿控制了一种可能永远改变人类命运的不为人知的生化武器，并且还打败了一位大胆优秀又特立独行的军情六处特工——她恰好是肖的妹妹，为了扳倒这个世界上唯一可能比他们更厉害的敌人，这两个不共戴天的宿敌不得不联手。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-04 02:50:40</dateadded>
+  <title>速度与激情：特别行动</title>
+  <originaltitle>Fast &amp; Furious Presents: Hobbs &amp; Shaw</originaltitle>
+  <actor>
+    <name>Dwayne Johnson</name>
+    <role>Luke Hobbs</role>
+    <type>Actor</type>
+    <tmdbid>18918</tmdbid>
+    <imdbid>nm0425005</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Statham</name>
+    <role>Deckard Shaw</role>
+    <type>Actor</type>
+    <tmdbid>976</tmdbid>
+    <imdbid>nm0005458</imdbid>
+  </actor>
+  <actor>
+    <name>Idris Elba</name>
+    <role>Brixton</role>
+    <type>Actor</type>
+    <tmdbid>17605</tmdbid>
+    <imdbid>nm0252961</imdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Kirby</name>
+    <role>Hattie Shaw</role>
+    <type>Actor</type>
+    <tmdbid>556356</tmdbid>
+    <imdbid>nm3948952</imdbid>
+  </actor>
+  <actor>
+    <name>Helen Mirren</name>
+    <role>Queenie Shaw</role>
+    <type>Actor</type>
+    <tmdbid>15735</tmdbid>
+  </actor>
+  <actor>
+    <name>Eiza González</name>
+    <role>Madame M</role>
+    <type>Actor</type>
+    <tmdbid>1222992</tmdbid>
+    <imdbid>nm2555462</imdbid>
+  </actor>
+  <actor>
+    <name>Eddie Marsan</name>
+    <role>Professor Andreiko</role>
+    <type>Actor</type>
+    <tmdbid>1665</tmdbid>
+    <imdbid>nm0550371</imdbid>
+  </actor>
+  <actor>
+    <name>Eliana Su'a</name>
+    <role>Sam Hobbs</role>
+    <type>Actor</type>
+    <tmdbid>2376517</tmdbid>
+  </actor>
+  <actor>
+    <name>Cliff Curtis</name>
+    <role>Jonah Hobbs</role>
+    <type>Actor</type>
+    <tmdbid>7248</tmdbid>
+    <imdbid>nm0193295</imdbid>
+  </actor>
+  <actor>
+    <name>Lori Pelenise Tuisano</name>
+    <role>Sefina</role>
+    <type>Actor</type>
+    <tmdbid>1922821</tmdbid>
+  </actor>
+  <actor>
+    <name>John Tui</name>
+    <role>Kal</role>
+    <type>Actor</type>
+    <tmdbid>205406</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Mauga</name>
+    <role>Timo</role>
+    <type>Actor</type>
+    <tmdbid>2441410</tmdbid>
+  </actor>
+  <actor>
+    <name>Leati Joseph Anoa'i</name>
+    <role>Mateo</role>
+    <type>Actor</type>
+    <tmdbid>1170011</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Delaney</name>
+    <role>Agent Loeb</role>
+    <type>Actor</type>
+    <tmdbid>1091324</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex King</name>
+    <role>Lt. Grapefruit</role>
+    <type>Actor</type>
+    <tmdbid>2132767</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Wu</name>
+    <role>Tsoi</role>
+    <type>Actor</type>
+    <tmdbid>67212</tmdbid>
+    <imdbid>nm0943179</imdbid>
+  </actor>
+  <actor>
+    <name>John Macdonald</name>
+    <role>Lermotov</role>
+    <type>Actor</type>
+    <tmdbid>1760023</tmdbid>
+  </actor>
+  <actor>
+    <name>Georgia Meacham</name>
+    <role>Party Model #1</role>
+    <type>Actor</type>
+    <tmdbid>2441417</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Porta</name>
+    <role>Party Model #2</role>
+    <type>Actor</type>
+    <tmdbid>2441418</tmdbid>
+  </actor>
+  <actor>
+    <name>Ima Caryl</name>
+    <role>Tattoo Assistant</role>
+    <type>Actor</type>
+    <tmdbid>2426970</tmdbid>
+  </actor>
+  <actor>
+    <name>Shiloh Coke</name>
+    <role>Prison Guard</role>
+    <type>Actor</type>
+    <tmdbid>1851643</tmdbid>
+  </actor>
+  <actor>
+    <name>Joshua Coombes</name>
+    <role>Young Deckard</role>
+    <type>Actor</type>
+    <tmdbid>2441420</tmdbid>
+  </actor>
+  <actor>
+    <name>Meesha Garbett</name>
+    <role>Young Hattie</role>
+    <type>Actor</type>
+    <tmdbid>2441421</tmdbid>
+  </actor>
+  <actor>
+    <name>Harry Hickles</name>
+    <role>Young Owen</role>
+    <type>Actor</type>
+    <tmdbid>1227749</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucy McCormick</name>
+    <role>L.A. Waitress</role>
+    <type>Actor</type>
+    <tmdbid>2441422</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Mitchell</name>
+    <role>CIA Handler #1</role>
+    <type>Actor</type>
+    <tmdbid>2409474</tmdbid>
+  </actor>
+  <actor>
+    <name>Akie Kotabe</name>
+    <role>CIA Handler #2</role>
+    <type>Actor</type>
+    <tmdbid>1322309</tmdbid>
+  </actor>
+  <actor>
+    <name>Felicity Dean</name>
+    <role>Savoy Check-in Guest</role>
+    <type>Actor</type>
+    <tmdbid>42645</tmdbid>
+  </actor>
+  <actor>
+    <name>Pete White</name>
+    <role>London Cabbie</role>
+    <type>Actor</type>
+    <tmdbid>2441423</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Basham</name>
+    <role>Agent at Hattie's #1</role>
+    <type>Actor</type>
+    <tmdbid>1168075</tmdbid>
+  </actor>
+  <actor>
+    <name>Noah Maxwell Clarke</name>
+    <role>Agent at Hattie's #2</role>
+    <type>Actor</type>
+    <tmdbid>1741176</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel MacCormack</name>
+    <role>CIA Mapping Agent</role>
+    <type>Actor</type>
+    <tmdbid>1981093</tmdbid>
+  </actor>
+  <actor>
+    <name>Vineeta Rishi</name>
+    <role>Eteon Assistant</role>
+    <type>Actor</type>
+    <tmdbid>1229345</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Reynolds</name>
+    <role>Locke / Eteon Director (voice)</role>
+    <type>Actor</type>
+    <tmdbid>10859</tmdbid>
+    <imdbid>nm0005351</imdbid>
+  </actor>
+  <actor>
+    <name>David Mumeni</name>
+    <role>Eteon Computer Tech</role>
+    <type>Actor</type>
+    <tmdbid>1619648</tmdbid>
+  </actor>
+  <actor>
+    <name>Gavin Esler</name>
+    <role>U.K. Newsreader #1</role>
+    <type>Actor</type>
+    <tmdbid>2441427</tmdbid>
+  </actor>
+  <actor>
+    <name>Ansu Kabia</name>
+    <role>U.K. Newsreader #2</role>
+    <type>Actor</type>
+    <tmdbid>1264601</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Vogt</name>
+    <role>U.S. Newsreader</role>
+    <type>Actor</type>
+    <tmdbid>183048</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Li</name>
+    <role>Chinese Newsreader</role>
+    <type>Actor</type>
+    <tmdbid>1766052</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Ganne</name>
+    <role>German Newsreader</role>
+    <type>Actor</type>
+    <tmdbid>1430505</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Mancino</name>
+    <role>Italian Newsreader</role>
+    <type>Actor</type>
+    <tmdbid>1102365</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan H. McCormick</name>
+    <role>Paper Boy</role>
+    <type>Actor</type>
+    <tmdbid>2441431</tmdbid>
+  </actor>
+  <actor>
+    <name>Thalissa Teixeira</name>
+    <role>Rosie's Nanny</role>
+    <type>Actor</type>
+    <tmdbid>2031926</tmdbid>
+  </actor>
+  <actor>
+    <name>James Dryden</name>
+    <role>British Custom Officer</role>
+    <type>Actor</type>
+    <tmdbid>1587576</tmdbid>
+  </actor>
+  <actor>
+    <name>Katia Elizarova</name>
+    <role>Flight Attendant</role>
+    <type>Actor</type>
+    <tmdbid>1620249</tmdbid>
+  </actor>
+  <actor>
+    <name>Ella-Rae Smith</name>
+    <role>Madame M's Crew #1</role>
+    <type>Actor</type>
+    <tmdbid>1770528</tmdbid>
+  </actor>
+  <actor>
+    <name>Rain Chan</name>
+    <role>Madame M's Crew #2</role>
+    <type>Actor</type>
+    <tmdbid>2426973</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Anne Nyagodzi</name>
+    <role>Madame M's Crew #3</role>
+    <type>Actor</type>
+    <tmdbid>2426974</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Sergejeva</name>
+    <role>Madame M's Crew #4</role>
+    <type>Actor</type>
+    <tmdbid>2426975</tmdbid>
+  </actor>
+  <actor>
+    <name>Mackenzie Proll</name>
+    <role>Young Bully #1</role>
+    <type>Actor</type>
+    <tmdbid>2441433</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Kane</name>
+    <role>Young Bully #2</role>
+    <type>Actor</type>
+    <tmdbid>2337312</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathan Jones</name>
+    <role>Russian Fighter Pilot</role>
+    <type>Actor</type>
+    <tmdbid>24898</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Wilding</name>
+    <role>Eteon's Uber Merc</role>
+    <type>Actor</type>
+    <tmdbid>25451</tmdbid>
+  </actor>
+  <actor>
+    <name>Axel Nu</name>
+    <role>Eteon Medical Tech</role>
+    <type>Actor</type>
+    <tmdbid>2152103</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Dunlevy</name>
+    <role>Eteon Merc #1</role>
+    <type>Actor</type>
+    <tmdbid>1492293</tmdbid>
+  </actor>
+  <actor>
+    <name>Timothy Connolly</name>
+    <role>Eteon Merc #2</role>
+    <type>Actor</type>
+    <tmdbid>2441434</tmdbid>
+  </actor>
+  <actor>
+    <name>David Leitch</name>
+    <role>Eteon Helicopter Pilot</role>
+    <type>Actor</type>
+    <tmdbid>40684</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Wildman</name>
+    <role>U.K. Police Leader</role>
+    <type>Actor</type>
+    <tmdbid>30085</tmdbid>
+  </actor>
+  <actor>
+    <name>Jobe Allen</name>
+    <role>Samoan Local (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2545306</tmdbid>
+  </actor>
+  <actor>
+    <name>Manoj Anand</name>
+    <role>Airport Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1945750</tmdbid>
+  </actor>
+  <actor>
+    <name>Lasco Atkins</name>
+    <role>Construction Worker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2544960</tmdbid>
+  </actor>
+  <actor>
+    <name>Pualani Avaeoru</name>
+    <role>Spouse (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2545307</tmdbid>
+  </actor>
+  <actor>
+    <name>Leo Ayres</name>
+    <role>Gang Member (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2326722</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip John Bailey</name>
+    <role>Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2022296</tmdbid>
+  </actor>
+  <actor>
+    <name>Lyon Beckwith</name>
+    <role>Hobb's Cousin (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1432244</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Bernhardt</name>
+    <role>Henchman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>9452</tmdbid>
+    <imdbid>nm0076780</imdbid>
+  </actor>
+  <actor>
+    <name>Kishore Bhatt</name>
+    <role>Airport Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1678462</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Bratanov</name>
+    <role>Kitchen Porter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2100852</tmdbid>
+  </actor>
+  <actor>
+    <name>Sergio Briones</name>
+    <role>Mercenary (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1923571</tmdbid>
+  </actor>
+  <actor>
+    <name>Jill Buchanan</name>
+    <role>Prison Visitor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1366885</tmdbid>
+  </actor>
+  <actor>
+    <name>Abbey Butler</name>
+    <role>Airport Steward (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2385593</tmdbid>
+  </actor>
+  <actor>
+    <name>Conlan Casal</name>
+    <role>Mercenary (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2545317</tmdbid>
+    <imdbid>nm9176519</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Connolly</name>
+    <role>Cocky Merc (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1089920</tmdbid>
+  </actor>
+  <actor>
+    <name>Samantha Corcoran</name>
+    <role>Background Security (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2545323</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Curtis</name>
+    <role>Bicycle Courier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>7018</tmdbid>
+  </actor>
+  <actor>
+    <name>James 'JD Knight' Dunn</name>
+    <role>Infantry Henchman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2545324</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Eghan</name>
+    <role>Diner (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1588173</tmdbid>
+  </actor>
+  <actor>
+    <name>Viktorija Faith</name>
+    <role>Russian Plane Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2112443</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesca Fraser</name>
+    <role>Wife Diner (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2328909</tmdbid>
+  </actor>
+  <actor>
+    <name>Vickrem Gill</name>
+    <role>Airport Steward (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2447844</tmdbid>
+  </actor>
+  <actor>
+    <name>Michel Alexandre Gonzalez</name>
+    <role>Hairdresser (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2326717</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Gooden</name>
+    <role>Mechanic (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2545332</tmdbid>
+  </actor>
+  <actor>
+    <name>Sonia Goswami</name>
+    <role>City Woman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2171786</tmdbid>
+  </actor>
+  <actor>
+    <name>Layne Hannemann</name>
+    <role>Hobbs' Cousin (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1955419</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Hart</name>
+    <role>Air Marshall Dinkley (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>55638</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Holly</name>
+    <role>Passerby (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2355260</tmdbid>
+  </actor>
+  <actor>
+    <name>Ruth Horrocks</name>
+    <role>City Woman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2219124</tmdbid>
+  </actor>
+  <actor>
+    <name>Kalanikauleleiaiwi Jardine</name>
+    <role>Auto Shop Worker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2545349</tmdbid>
+  </actor>
+  <actor>
+    <name>Lampros Kalfuntzos</name>
+    <role>Russian Plane Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1752964</tmdbid>
+  </actor>
+  <actor>
+    <name>Kyle Leatherberry</name>
+    <role>Mercenary (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>144208</tmdbid>
+  </actor>
+  <actor>
+    <name>Westley LeClay</name>
+    <role>Hobbs' Cousin (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2545351</tmdbid>
+  </actor>
+  <actor>
+    <name>Steven Lewington</name>
+    <role>Black Infantry Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1246143</tmdbid>
+  </actor>
+  <actor>
+    <name>Marian Lorencik</name>
+    <role>Russian Plane Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2545141</tmdbid>
+  </actor>
+  <actor>
+    <name>Teresa Mahoney</name>
+    <role>Lady in Rain (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1744085</tmdbid>
+  </actor>
+  <actor>
+    <name>Clay Mason</name>
+    <role>Mercenary (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2545358</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen McGowan</name>
+    <role>Bio-Hazard Scientist (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2545359</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Parker Mensah</name>
+    <role>Black Infantry Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2069405</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelemete Misipeka</name>
+    <role>Samoan War Dancer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1719003</tmdbid>
+  </actor>
+  <actor>
+    <name>Pingi Moli</name>
+    <role>Hobbs' Cousin (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2545360</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard James Montgomery</name>
+    <role>Mercenary / Talos Suit (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2545364</tmdbid>
+  </actor>
+  <actor>
+    <name>Sascha Panknin</name>
+    <role>Airport Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1961934</tmdbid>
+  </actor>
+  <actor>
+    <name>Hio Pelesasa</name>
+    <role>Hobbs Cousin (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1827435</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Price</name>
+    <role>Passerby (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2989</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Rooney</name>
+    <role>Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2545365</tmdbid>
+  </actor>
+  <actor>
+    <name>Israel Ruiz</name>
+    <role>London City Worker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480577</tmdbid>
+    <imdbid>nm1187050</imdbid>
+  </actor>
+  <actor>
+    <name>Rubens Saboia</name>
+    <role>Black Infantry Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2545366</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Santos</name>
+    <role>Warehouse Engineer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2545367</tmdbid>
+  </actor>
+  <actor>
+    <name>Bernardo Santos</name>
+    <role>Scientist (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1655621</tmdbid>
+    <imdbid>nm7441016</imdbid>
+  </actor>
+  <actor>
+    <name>Dave Simon</name>
+    <role>Security (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1809625</tmdbid>
+    <imdbid>nm6078944</imdbid>
+  </actor>
+  <actor>
+    <name>David Sturgeon</name>
+    <role>Mercenary (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2545368</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Symonds</name>
+    <role>Black infantry (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2545369</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Townsend</name>
+    <role>City Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1635843</tmdbid>
+  </actor>
+  <actor>
+    <name>Rutvig Vaid</name>
+    <role>International Tourist (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2545370</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Waddell</name>
+    <role>Street Racer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2545371</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Walker</name>
+    <role>Mercenary (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1243341</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Bailey</name>
+    <role>Hector</role>
+    <type>Actor</type>
+    <tmdbid>1662065</tmdbid>
+  </actor>
+  <director tmdbid="40684">David Leitch</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9SA7FaKxZVI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=HZ7PAyCDwEg</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=b736ZM_KfEk</trailer>
+  <rating>6.4</rating>
+  <year>2019</year>
+  <mpaa>HK-IIB</mpaa>
+  <imdbid>tt6806448</imdbid>
+  <tmdbid>384018</tmdbid>
+  <premiered>2019-08-01</premiered>
+  <releasedate>2019-08-01</releasedate>
+  <criticrating>67</criticrating>
+  <runtime>136</runtime>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>冒险</genre>
+  <genre>喜剧</genre>
+  <studio>Chris Morgan Productions</studio>
+  <studio>Seven Bucks Productions</studio>
+  <studio>Universal Pictures</studio>
+  <set tmdbcolid="688042">
+    <name>速度与激情：特别行动（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">384018</uniqueid>
+  <uniqueid type="Imdb">tt6806448</uniqueid>
+  <id>tt6806448</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>16705004</bitrate>
+        <width>3840</width>
+        <height>1606</height>
+        <aspect>1920:803</aspect>
+        <aspectratio>1920:803</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>135</duration>
+        <durationinseconds>8157</durationinseconds>
+      </video>
+      <audio>
+        <codec>truehd</codec>
+        <micodec>truehd</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

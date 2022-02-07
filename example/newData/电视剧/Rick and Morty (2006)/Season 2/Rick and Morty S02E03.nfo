@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[瑞克、莫蒂和桑美巧遇群体意识化身的「同一体」，她也是瑞克的前女友。桑美反对「同一体」控制一座外星星球的民众。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 07:51:50</dateadded>
+  <title>同化爱人自动化</title>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <actor>
+    <name>Christina Hendricks</name>
+    <role>Unity (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>110014</tmdbid>
+  </actor>
+  <actor>
+    <name>Patton Oswalt</name>
+    <role>Beta 7 (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>10872</tmdbid>
+    <imdbid>nm0652663</imdbid>
+  </actor>
+  <actor>
+    <name>John Kassir</name>
+    <role>Blim Blam (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>31365</tmdbid>
+  </actor>
+  <actor>
+    <name>Dawnn Lewis</name>
+    <role>Assimilated Alien 1 (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>87819</tmdbid>
+  </actor>
+  <actor>
+    <name>Nolan North</name>
+    <role>Assimilated Alien 2 (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>19508</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Paulsen</name>
+    <role>Assimilated Alien 3 (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>43125</tmdbid>
+  </actor>
+  <actor>
+    <name>Kari Wahlgren</name>
+    <role>Assimilated Alien 4 (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>116315</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Anthony Williams</name>
+    <role>Assimilated Alien 5 (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>54043</tmdbid>
+  </actor>
+  <director>Bryan Newton</director>
+  <rating>8.6</rating>
+  <year>2015</year>
+  <imdbid>tt4832260</imdbid>
+  <tvdbid>5290447</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <genre>Sci-Fi</genre>
+  <tvrageid>1065849489</tvrageid>
+  <uniqueid type="Tvdb">5290447</uniqueid>
+  <uniqueid type="TvRage">1065849489</uniqueid>
+  <uniqueid type="Imdb">tt4832260</uniqueid>
+  <episode>3</episode>
+  <season>2</season>
+  <aired>2015-08-09</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2377619</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+        <duration>22</duration>
+        <durationinseconds>1378</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

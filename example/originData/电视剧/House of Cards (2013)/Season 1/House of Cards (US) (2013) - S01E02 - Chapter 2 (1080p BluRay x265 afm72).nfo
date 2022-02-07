@@ -1,0 +1,198 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[　　媒体报导新闻后引起了全民震惊。弗兰西斯与桑科工业承诺了互相扶助的关系。利用精明的算计，唐纳德妥协其担任国务卿与之交换职务的协定。佐伊发表的文章再次挫败科恩，令弗兰西斯人气暴增，弗兰西斯很快联系罗素尽快买通有关人士。克莱尔也在公司正式宣布裁员决定。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-23 00:15:11</dateadded>
+  <title>第 2 集</title>
+  <actor>
+    <name>Kevin Spacey</name>
+    <role>Frank Underwood</role>
+    <type>Actor</type>
+    <tmdbid>1979</tmdbid>
+    <imdbid>nm0000228</imdbid>
+  </actor>
+  <actor>
+    <name>Robin Wright</name>
+    <role>Claire Underwood</role>
+    <type>Actor</type>
+    <tmdbid>32</tmdbid>
+    <imdbid>nm0000705</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Kelly</name>
+    <role>Doug Stamper</role>
+    <type>Actor</type>
+    <tmdbid>50217</tmdbid>
+    <imdbid>nm0446672</imdbid>
+  </actor>
+  <actor>
+    <name>Kristen Connolly</name>
+    <role>Christina Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>210824</tmdbid>
+    <imdbid>nm1393354</imdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Arcelus</name>
+    <role>Lucas Goodwin</role>
+    <type>Actor</type>
+    <tmdbid>103545</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathan Darrow</name>
+    <role>Edward Meechum</role>
+    <type>Actor</type>
+    <tmdbid>1224255</tmdbid>
+    <imdbid>nm2080557</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Mara</name>
+    <role>Zoe Barnes</role>
+    <type>Actor</type>
+    <tmdbid>51072</tmdbid>
+  </actor>
+  <actor>
+    <name>Constance Zimmer</name>
+    <role>Janine Skorsky</role>
+    <type>Actor</type>
+    <tmdbid>156204</tmdbid>
+    <imdbid>nm0956603</imdbid>
+  </actor>
+  <actor>
+    <name>Sakina Jaffrey</name>
+    <role>Linda Vasquez</role>
+    <type>Actor</type>
+    <tmdbid>34200</tmdbid>
+  </actor>
+  <actor>
+    <name>Michel Gill</name>
+    <role>Garrett Walker</role>
+    <type>Actor</type>
+    <tmdbid>1224256</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Brosnahan</name>
+    <role>Rachel Posner</role>
+    <type>Actor</type>
+    <tmdbid>993774</tmdbid>
+    <imdbid>nm3014031</imdbid>
+  </actor>
+  <actor>
+    <name>Boris McGiver</name>
+    <role>Tom Hammerschmidt</role>
+    <type>Actor</type>
+    <tmdbid>151432</tmdbid>
+    <imdbid>nm0569409</imdbid>
+  </actor>
+  <actor>
+    <name>Corey Stoll</name>
+    <role>Peter Russo</role>
+    <type>Actor</type>
+    <tmdbid>74541</tmdbid>
+  </actor>
+  <actor>
+    <name>Mahershala Ali</name>
+    <role>Remy Danton</role>
+    <type>Actor</type>
+    <tmdbid>932967</tmdbid>
+    <imdbid>nm0991810</imdbid>
+  </actor>
+  <actor>
+    <name>Chance Kelly</name>
+    <role>Steve</role>
+    <type>Actor</type>
+    <tmdbid>17194</tmdbid>
+    <imdbid>nm0446257</imdbid>
+  </actor>
+  <actor>
+    <name>Jayne Atkinson</name>
+    <role>Catherine Durant</role>
+    <type>GuestStar</type>
+    <tmdbid>18261</tmdbid>
+    <imdbid>nm0040739</imdbid>
+  </actor>
+  <actor>
+    <name>Reg E. Cathey</name>
+    <role>Freddy</role>
+    <type>GuestStar</type>
+    <tmdbid>38951</tmdbid>
+    <imdbid>nm0146146</imdbid>
+  </actor>
+  <actor>
+    <name>Reed Birney</name>
+    <role>Donald Blythe</role>
+    <type>GuestStar</type>
+    <tmdbid>163774</tmdbid>
+  </actor>
+  <actor>
+    <name>Larry Pine</name>
+    <role>Bob Birch</role>
+    <type>GuestStar</type>
+    <tmdbid>19511</tmdbid>
+  </actor>
+  <director tmdbid="7467" imdbid="nm0000399">David Fincher</director>
+  <rating>8.1</rating>
+  <year>2013</year>
+  <imdbid>tt2250466</imdbid>
+  <tvdbid>4481708</tvdbid>
+  <runtime>50</runtime>
+  <genre>Drama</genre>
+  <tvrageid>1065274658</tvrageid>
+  <uniqueid type="Imdb">tt2250466</uniqueid>
+  <uniqueid type="Tvdb">4481708</uniqueid>
+  <uniqueid type="TvRage">1065274658</uniqueid>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2013-02-01</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3611880</bitrate>
+        <width>1920</width>
+        <height>962</height>
+        <aspect>960:481</aspect>
+        <aspectratio>960:481</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>50</duration>
+        <durationinseconds>3008</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

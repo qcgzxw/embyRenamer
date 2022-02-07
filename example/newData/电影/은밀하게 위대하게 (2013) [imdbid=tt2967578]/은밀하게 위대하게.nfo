@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[朝鲜的南派特殊工作5446部队精英荟萃，选拔率精确到20000:1，其中包括最出色的精英要员袁柳焕、共和国顶层干部的儿子李海浪，以及共和国史上最年轻的南派间谍李海镇。三个人被称作是5446部队的传奇人物。
+ 　　三个人秉承着“祖国统一”的伟大任务来到韩国，一个伪装成贫民区的傻瓜，一个变身立志当歌手的青年，一个成了高中生。在没有任务下达的时间里，他们亲身经历了最下层的苦难生活，感慨良多。然而，他们究竟会迎来怎样的命运呢？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-03-09 08:26:24</dateadded>
+  <title>隐秘而伟大</title>
+  <originaltitle>은밀하게 위대하게</originaltitle>
+  <actor>
+    <name>Kim Soo-hyun</name>
+    <role>Won Ryu-hwan</role>
+    <type>Actor</type>
+    <tmdbid>1251581</tmdbid>
+    <imdbid>nm4633543</imdbid>
+  </actor>
+  <actor>
+    <name>Park Ki-woong</name>
+    <role>Lee Hae-rang</role>
+    <type>Actor</type>
+    <tmdbid>117505</tmdbid>
+    <imdbid>nm2973941</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Hyun-woo</name>
+    <role>Lee Hae-jin</role>
+    <type>Actor</type>
+    <tmdbid>1299252</tmdbid>
+    <imdbid>nm3674008</imdbid>
+  </actor>
+  <actor>
+    <name>Son Hyun-joo</name>
+    <role>Kim Tae-won</role>
+    <type>Actor</type>
+    <tmdbid>1015873</tmdbid>
+    <imdbid>nm3152796</imdbid>
+  </actor>
+  <actor>
+    <name>Ko Chang-seok</name>
+    <role>Seo Sang-gu</role>
+    <type>Actor</type>
+    <tmdbid>150697</tmdbid>
+    <imdbid>nm2944077</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Sung-kyun</name>
+    <role>Seo Soo-hyuk</role>
+    <type>Actor</type>
+    <tmdbid>1024396</tmdbid>
+    <imdbid>nm5470717</imdbid>
+  </actor>
+  <actor>
+    <name>Jang Gwang</name>
+    <role>Go Hwi-sun</role>
+    <type>Actor</type>
+    <tmdbid>1096793</tmdbid>
+    <imdbid>nm5357038</imdbid>
+  </actor>
+  <actor>
+    <name>Shin Jung-geun</name>
+    <role>Mr. Park</role>
+    <type>Actor</type>
+    <tmdbid>578838</tmdbid>
+    <imdbid>nm3083982</imdbid>
+  </actor>
+  <actor>
+    <name>Hong Kyung-in</name>
+    <role>Jo Doo-seok</role>
+    <type>Actor</type>
+    <tmdbid>552156</tmdbid>
+    <imdbid>nm0393239</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Chae-young</name>
+    <role>Ran</role>
+    <type>Actor</type>
+    <tmdbid>139506</tmdbid>
+    <imdbid>nm3246679</imdbid>
+  </actor>
+  <actor>
+    <name>Park Eun-bin</name>
+    <role>Yoon Yoo-ran</role>
+    <type>Actor</type>
+    <tmdbid>1134684</tmdbid>
+    <imdbid>nm3738785</imdbid>
+  </actor>
+  <actor>
+    <name>Choi Woo-shik</name>
+    <role>Yoon Yoo-joon</role>
+    <type>Actor</type>
+    <tmdbid>1255881</tmdbid>
+    <imdbid>nm6079248</imdbid>
+  </actor>
+  <actor>
+    <name>Goo Seung-hyun</name>
+    <role>Hwang Chi-woong</role>
+    <type>Actor</type>
+    <tmdbid>1556940</tmdbid>
+    <imdbid>nm4403477</imdbid>
+  </actor>
+  <actor>
+    <name>Um Tae-goo</name>
+    <role>Hwang Jae-oh</role>
+    <type>Actor</type>
+    <tmdbid>1436248</tmdbid>
+    <imdbid>nm3725226</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Pub-lae</name>
+    <role>NIS General Manager</role>
+    <type>Actor</type>
+    <tmdbid>1489972</tmdbid>
+    <imdbid>nm7403134</imdbid>
+  </actor>
+  <director tmdbid="548666">Jang Cheol-soo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=8yOHaNWBlIA</trailer>
+  <rating>6.9</rating>
+  <year>2013</year>
+  <imdbid>tt2967578</imdbid>
+  <tmdbid>199584</tmdbid>
+  <premiered>2013-06-05</premiered>
+  <releasedate>2013-06-05</releasedate>
+  <criticrating>72</criticrating>
+  <runtime>134</runtime>
+  <country>South Korea</country>
+  <genre>动作</genre>
+  <genre>剧情</genre>
+  <genre>喜剧</genre>
+  <studio>MCMC</studio>
+  <studio>KEYEAST</studio>
+  <studio>Showbox</studio>
+  <studio>Michigan Venture Capital</studio>
+  <studio>Daemyung Culture Factory</studio>
+  <uniqueid type="Tmdb">199584</uniqueid>
+  <uniqueid type="Imdb">tt2967578</uniqueid>
+  <id>tt2967578</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3862054</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>133</duration>
+        <durationinseconds>8016</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

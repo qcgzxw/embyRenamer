@@ -91,12 +91,26 @@ type EpisodeDetailsInfo struct {
 	Aired     string   `xml:"aired,omitempty"`
 }
 
-var config = map[string]string{
-	"movieDirPath":       "example/data/Movie/",
-	"movieDirFormat":     "{originaltitle} ({year}) [imdbid={imdbid}]",
-	"movieTitleFormat":   "{originaltitle}",
-	"tvDirPath":          "example/data/TV/",
-	"tvDirFormat":        "{originaltitle} ({year})",
-	"episodeDirFormat":   "Season {season}",
-	"episodeTitleFormat": "{originaltitle} S{SEASON}E{EPISODE}",
+type Config struct {
+	MovieDirPath       string `json:"movieDirPath"`
+	MovieRootPath      string `json:"movieRootPath"`
+	MovieDirFormat     string `json:"movieDirFormat"`
+	MovieTitleFormat   string `json:"movieTitleFormat"`
+	TvDirPath          string `json:"tvDirPath"`
+	TvRootPath         string `json:"tvRootPath"`
+	TvDirFormat        string `json:"tvDirFormat"`
+	EpisodeDirFormat   string `json:"episodeDirFormat"`
+	EpisodeTitleFormat string `json:"episodeTitleFormat"`
+}
+
+var defaultConfig = Config{
+	MovieDirPath:       "example/originData/电影/",
+	MovieRootPath:      "example/newData/电影/",
+	TvDirPath:          "example/originData/电视剧/",
+	TvRootPath:         "example/newData/电视剧/",
+	MovieDirFormat:     "{originaltitle} ({year}) [imdbid={imdbid}]",
+	MovieTitleFormat:   "{originaltitle}",
+	TvDirFormat:        "{originaltitle} ({year})",
+	EpisodeDirFormat:   "Season {season}",
+	EpisodeTitleFormat: "{originaltitle} S{SEASON}E{EPISODE}",
 }

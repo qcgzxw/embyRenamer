@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[40岁的Erika Kohut（伊莎贝尔·于佩尔 Isabelle Huppert 饰）表面上是一个优雅的钢琴老师，外形独特、气质出众，但对学生却无比严厉。一切都是她面对自己的母亲无休止的折磨——专制又无理，令Erika的各种欲望都无法发泄。Erika每每躲在厕所用剃刀伤害自己以求快感，嗅着内裤上的味道以发泄欲望，还去租看色情录像带。于是当18岁英俊冲动的Walter（伯努瓦·马吉梅 Benoît Magimel 饰）闯进她的生活时，一切都改变了。他们互相需索互相慰藉，Erika以为她终于找到了自己的幸福，然而年少的Walter有一日厌倦了这种关系......]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-11-12 11:23:11</dateadded>
+  <title>钢琴教师</title>
+  <originaltitle>La Pianiste</originaltitle>
+  <actor>
+    <name>Isabelle Huppert</name>
+    <role>Erika Kohut</role>
+    <type>Actor</type>
+    <tmdbid>17882</tmdbid>
+    <imdbid>nm0001376</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Girardot</name>
+    <role>The Mother</role>
+    <type>Actor</type>
+    <tmdbid>6014</tmdbid>
+    <imdbid>nm0320760</imdbid>
+  </actor>
+  <actor>
+    <name>Benoît Magimel</name>
+    <role>Walter Klemmer</role>
+    <type>Actor</type>
+    <tmdbid>5442</tmdbid>
+    <imdbid>nm0536095</imdbid>
+  </actor>
+  <actor>
+    <name>Susanne Lothar</name>
+    <role>Mrs. Schober</role>
+    <type>Actor</type>
+    <tmdbid>19123</tmdbid>
+    <imdbid>nm0521443</imdbid>
+  </actor>
+  <actor>
+    <name>Udo Samel</name>
+    <role>Dr. George Blonskij</role>
+    <type>Actor</type>
+    <tmdbid>6264</tmdbid>
+    <imdbid>nm0759797</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Sigalevitch</name>
+    <role>Anna Schober</role>
+    <type>Actor</type>
+    <tmdbid>19122</tmdbid>
+    <imdbid>nm0973796</imdbid>
+  </actor>
+  <actor>
+    <name>Cornelia Köndgen</name>
+    <role>Mme Gerda Blonskij</role>
+    <type>Actor</type>
+    <tmdbid>19124</tmdbid>
+    <imdbid>nm0477868</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Weinhappel</name>
+    <role>Baritone</role>
+    <type>Actor</type>
+    <tmdbid>1324138</tmdbid>
+    <imdbid>nm1070601</imdbid>
+  </actor>
+  <actor>
+    <name>Georg Friedrich</name>
+    <role>Man in drive-in</role>
+    <type>Actor</type>
+    <tmdbid>40526</tmdbid>
+    <imdbid>nm0295429</imdbid>
+  </actor>
+  <actor>
+    <name>Philipp Heiss</name>
+    <role>Naprawnik</role>
+    <type>Actor</type>
+    <tmdbid>1324139</tmdbid>
+    <imdbid>nm1071274</imdbid>
+  </actor>
+  <actor>
+    <name>William Mang</name>
+    <role>Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1103919</tmdbid>
+    <imdbid>nm0542090</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Schottenberg</name>
+    <role>Teacher</role>
+    <type>Actor</type>
+    <tmdbid>48103</tmdbid>
+    <imdbid>nm0774960</imdbid>
+  </actor>
+  <actor>
+    <name>Gabriele Schuchter</name>
+    <role>Margot</role>
+    <type>Actor</type>
+    <tmdbid>1324141</tmdbid>
+    <imdbid>nm1070256</imdbid>
+  </actor>
+  <actor>
+    <name>Dieter Berner</name>
+    <role>Singing teacher</role>
+    <type>Actor</type>
+    <tmdbid>141388</tmdbid>
+    <imdbid>nm0076679</imdbid>
+  </actor>
+  <actor>
+    <name>Volker Waldegg</name>
+    <role>Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1972852</tmdbid>
+    <imdbid>nm1070583</imdbid>
+  </actor>
+  <actor>
+    <name>Martina Resetarits</name>
+    <role>Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1972853</tmdbid>
+    <imdbid>nm0720243</imdbid>
+  </actor>
+  <actor>
+    <name>Annemarie Schleinzer</name>
+    <role>Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1972854</tmdbid>
+    <imdbid>nm1070248</imdbid>
+  </actor>
+  <actor>
+    <name>Karoline Zeisler</name>
+    <role>Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1434515</tmdbid>
+    <imdbid>nm1070692</imdbid>
+  </actor>
+  <actor>
+    <name>Liliana Nelska</name>
+    <role>Secretary</role>
+    <type>Actor</type>
+    <tmdbid>146810</tmdbid>
+    <imdbid>nm0625118</imdbid>
+  </actor>
+  <actor>
+    <name>Luz Leskowitz</name>
+    <role>Violinist</role>
+    <type>Actor</type>
+    <tmdbid>1972855</tmdbid>
+    <imdbid>nm1069667</imdbid>
+  </actor>
+  <actor>
+    <name>Viktor Teuflmayr</name>
+    <role>Pianist</role>
+    <type>Actor</type>
+    <tmdbid>1972856</tmdbid>
+    <imdbid>nm1070442</imdbid>
+  </actor>
+  <actor>
+    <name>Vivian Bartsch</name>
+    <role>Woman in drive-in</role>
+    <type>Actor</type>
+    <tmdbid>1139019</tmdbid>
+    <imdbid>nm0124017</imdbid>
+  </actor>
+  <actor>
+    <name>Florian Koban</name>
+    <role>Pupil</role>
+    <type>Actor</type>
+    <tmdbid>1972857</tmdbid>
+    <imdbid>nm1071309</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Auner</name>
+    <role>Haydn pianist</role>
+    <type>Actor</type>
+    <tmdbid>1972858</tmdbid>
+    <imdbid>nm1071120</imdbid>
+  </actor>
+  <actor>
+    <name>Andreas Donat</name>
+    <role>Chopin Pianist</role>
+    <type>Actor</type>
+    <tmdbid>1972859</tmdbid>
+    <imdbid>nm3469072</imdbid>
+  </actor>
+  <actor>
+    <name>Gerti Drassl</name>
+    <type>Actor</type>
+    <tmdbid>45151</tmdbid>
+    <imdbid>nm1096341</imdbid>
+  </actor>
+  <actor>
+    <name>Klaus Händl</name>
+    <type>Actor</type>
+    <tmdbid>134492</tmdbid>
+    <imdbid>nm0405551</imdbid>
+  </actor>
+  <actor>
+    <name>Erika Kollmann-Till</name>
+    <type>Actor</type>
+    <tmdbid>1164121</tmdbid>
+    <imdbid>nm2607678</imdbid>
+  </actor>
+  <actor>
+    <name>Nina Kripas</name>
+    <type>Actor</type>
+    <tmdbid>1972860</tmdbid>
+    <imdbid>nm3438740</imdbid>
+  </actor>
+  <actor>
+    <name>Esther Pils</name>
+    <type>Actor</type>
+    <tmdbid>1972861</tmdbid>
+    <imdbid>nm2617625</imdbid>
+  </actor>
+  <actor>
+    <name>Petra Reichel</name>
+    <type>Actor</type>
+    <tmdbid>1972862</tmdbid>
+    <imdbid>nm5440327</imdbid>
+  </actor>
+  <actor>
+    <name>Arbesi Sufi</name>
+    <type>Actor</type>
+    <tmdbid>1972863</tmdbid>
+    <imdbid>nm5440207</imdbid>
+  </actor>
+  <actor>
+    <name>Marcus Zeuner</name>
+    <type>Actor</type>
+    <tmdbid>1972864</tmdbid>
+    <imdbid>nm5440296</imdbid>
+  </actor>
+  <actor>
+    <name>Eva Green</name>
+    <role>La Petite amie de Walter</role>
+    <type>Actor</type>
+    <tmdbid>10912</tmdbid>
+    <imdbid>nm1200692</imdbid>
+  </actor>
+  <director tmdbid="1324140" imdbid="nm0577722">Rudolf Melichar</director>
+  <director tmdbid="6011" imdbid="nm0359734">Michael Haneke</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=XNCBd2DaSpc</trailer>
+  <rating>7.5</rating>
+  <year>2001</year>
+  <mpaa>HK-III</mpaa>
+  <imdbid>tt0254686</imdbid>
+  <tmdbid>1791</tmdbid>
+  <premiered>2001-07-21</premiered>
+  <releasedate>2001-07-21</releasedate>
+  <criticrating>73</criticrating>
+  <runtime>131</runtime>
+  <country>Germany</country>
+  <country>Austria</country>
+  <country>France</country>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <studio>ARTE</studio>
+  <studio>Bavaria Film International</studio>
+  <studio>CNC</studio>
+  <studio>Canal+</studio>
+  <studio>ARTE France Cinéma</studio>
+  <studio>Bayerischer Rundfunk</studio>
+  <uniqueid type="Tmdb">1791</uniqueid>
+  <uniqueid type="Imdb">tt0254686</uniqueid>
+  <id>tt0254686</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>7183753</bitrate>
+        <width>1280</width>
+        <height>688</height>
+        <aspect>80:43</aspect>
+        <aspectratio>80:43</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>130</duration>
+        <durationinseconds>7841</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

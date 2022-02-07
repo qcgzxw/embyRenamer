@@ -1,0 +1,584 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[蜘蛛侠不止一个！漫威超英动画巨制《蜘蛛侠：平行宇宙》将经典漫画与CGI技术完美呈现，讲述了普通高中生迈尔斯·莫拉斯如何师从蜘蛛侠彼得·帕克，成长为新一代超级英雄的故事。影片中迈尔斯和从其它平行宇宙中穿越而来的彼得、女蜘蛛侠格温、暗影蜘蛛侠、潘妮·帕克和蜘猪侠集结成团，六位蜘蛛侠首次同框大银幕，对抗蜘蛛侠宇宙最强反派。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-02-22 12:39:31</dateadded>
+  <title>蜘蛛侠：平行宇宙</title>
+  <originaltitle>Spider-Man: Into the Spider-Verse</originaltitle>
+  <actor>
+    <name>Shameik Moore</name>
+    <role>Miles Morales / Spider-Man (voice)</role>
+    <type>Actor</type>
+    <tmdbid>587506</tmdbid>
+    <imdbid>nm4271336</imdbid>
+  </actor>
+  <actor>
+    <name>Jake Johnson</name>
+    <role>Peter B. Parker / Spider-Man (voice)</role>
+    <type>Actor</type>
+    <tmdbid>543505</tmdbid>
+    <imdbid>nm2159926</imdbid>
+  </actor>
+  <actor>
+    <name>Hailee Steinfeld</name>
+    <role>Gwen Stacy / Spider-Woman (voice)</role>
+    <type>Actor</type>
+    <tmdbid>130640</tmdbid>
+    <imdbid>nm2794962</imdbid>
+  </actor>
+  <actor>
+    <name>Mahershala Ali</name>
+    <role>Uncle Aaron / Prowler (voice)</role>
+    <type>Actor</type>
+    <tmdbid>932967</tmdbid>
+    <imdbid>nm0991810</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Tyree Henry</name>
+    <role>Jefferson Davis (voice)</role>
+    <type>Actor</type>
+    <tmdbid>226366</tmdbid>
+    <imdbid>nm3109964</imdbid>
+  </actor>
+  <actor>
+    <name>Lily Tomlin</name>
+    <role>Aunt May (voice)</role>
+    <type>Actor</type>
+    <tmdbid>10437</tmdbid>
+    <imdbid>nm0005499</imdbid>
+  </actor>
+  <actor>
+    <name>Lauren Vélez</name>
+    <role>Rio Morales (voice)</role>
+    <type>Actor</type>
+    <tmdbid>141610</tmdbid>
+    <imdbid>nm0904967</imdbid>
+  </actor>
+  <actor>
+    <name>Zoë Kravitz</name>
+    <role>Mary Jane (voice)</role>
+    <type>Actor</type>
+    <tmdbid>37153</tmdbid>
+    <imdbid>nm2368789</imdbid>
+  </actor>
+  <actor>
+    <name>John Mulaney</name>
+    <role>Peter Porker / Spider-Ham (voice)</role>
+    <type>Actor</type>
+    <tmdbid>933558</tmdbid>
+    <imdbid>nm1825214</imdbid>
+  </actor>
+  <actor>
+    <name>Kimiko Glenn</name>
+    <role>Peni Parker (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1443708</tmdbid>
+    <imdbid>nm4733752</imdbid>
+  </actor>
+  <actor>
+    <name>Nicolas Cage</name>
+    <role>Peter Parker / Spider-Man Noir (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2963</tmdbid>
+    <imdbid>nm0000115</imdbid>
+  </actor>
+  <actor>
+    <name>Kathryn Hahn</name>
+    <role>Olivia 'Liv' Octavius / Doc Ock (voice)</role>
+    <type>Actor</type>
+    <tmdbid>17696</tmdbid>
+    <imdbid>nm1063517</imdbid>
+  </actor>
+  <actor>
+    <name>Liev Schreiber</name>
+    <role>Wilson Fisk / Kingpin (voice)</role>
+    <type>Actor</type>
+    <tmdbid>23626</tmdbid>
+    <imdbid>nm0000630</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Pine</name>
+    <role>Peter Parker / Spider-Man (voice)</role>
+    <type>Actor</type>
+    <tmdbid>62064</tmdbid>
+    <imdbid>nm1517976</imdbid>
+  </actor>
+  <actor>
+    <name>Natalie Morales</name>
+    <role>Miss Calleros (voice)</role>
+    <type>Actor</type>
+    <tmdbid>118752</tmdbid>
+    <imdbid>nm2295540</imdbid>
+  </actor>
+  <actor>
+    <name>Edwin H. Bravo</name>
+    <role>Brooklyn Visions Security Guard (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1746631</tmdbid>
+    <imdbid>nm2430511</imdbid>
+  </actor>
+  <actor>
+    <name>Oscar Isaac</name>
+    <role>Interesting Person #1 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>25072</tmdbid>
+    <imdbid>nm1209966</imdbid>
+  </actor>
+  <actor>
+    <name>Greta Lee</name>
+    <role>Interesting Person #2 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1260481</tmdbid>
+    <imdbid>nm2336966</imdbid>
+  </actor>
+  <actor>
+    <name>Stan Lee</name>
+    <role>Stan (voice)</role>
+    <type>Actor</type>
+    <tmdbid>7624</tmdbid>
+    <imdbid>nm0498278</imdbid>
+  </actor>
+  <actor>
+    <name>Jorma Taccone</name>
+    <role>Green Goblin / Last Dude (voice)</role>
+    <type>Actor</type>
+    <tmdbid>62863</tmdbid>
+    <imdbid>nm1672246</imdbid>
+  </actor>
+  <actor>
+    <name>Joaquín Cosío</name>
+    <role>Scorpion (voice)</role>
+    <type>Actor</type>
+    <tmdbid>76857</tmdbid>
+    <imdbid>nm1370408</imdbid>
+  </actor>
+  <actor>
+    <name>Marvin 'Krondon' Jones III</name>
+    <role>Tombstone (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1962692</tmdbid>
+    <imdbid>nm5429964</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Yarbrough</name>
+    <role>Scientist In Cafeteria (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1252472</tmdbid>
+    <imdbid>nm3187683</imdbid>
+  </actor>
+  <actor>
+    <name>Lake Bell</name>
+    <role>Vanessa Fisk (voice)</role>
+    <type>Actor</type>
+    <tmdbid>25703</tmdbid>
+    <imdbid>nm1128572</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Mikayla Adams</name>
+    <role>Brooklyn Friend (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1716590</tmdbid>
+  </actor>
+  <actor>
+    <name>Gredel Berrios Calladine</name>
+    <role>Brooklyn Friend (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2014785</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah D. Cole</name>
+    <role>Brooklyn Friend (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2358524</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelby Joseph</name>
+    <role>Brooklyn Friend (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2596977</tmdbid>
+    <imdbid>nm5354002</imdbid>
+  </actor>
+  <actor>
+    <name>Mimi Davila</name>
+    <role>Brooklyn Visions Student (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1792851</tmdbid>
+  </actor>
+  <actor>
+    <name>Claudia Choi</name>
+    <role>Brooklyn Visions Teacher (voice)</role>
+    <type>Actor</type>
+    <tmdbid>19281</tmdbid>
+    <imdbid>nm1695726</imdbid>
+  </actor>
+  <actor>
+    <name>Melanie Haynes</name>
+    <role>Brooklyn Visions Teacher (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1476863</tmdbid>
+    <imdbid>nm0371505</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Izzo</name>
+    <role>Brooklyn Visions Teacher (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1453790</tmdbid>
+    <imdbid>nm1660488</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Jaine</name>
+    <role>Brooklyn Visions Teacher (voice)</role>
+    <type>Actor</type>
+    <tmdbid>159468</tmdbid>
+    <imdbid>nm0415846</imdbid>
+  </actor>
+  <actor>
+    <name>Muneeb Rehman</name>
+    <role>Brooklyn Visions Teacher (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2060803</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Zaragoza</name>
+    <role>Brooklyn Visions Teacher (voice)</role>
+    <type>Actor</type>
+    <tmdbid>928419</tmdbid>
+    <imdbid>nm1078351</imdbid>
+  </actor>
+  <actor>
+    <name>Post Malone</name>
+    <role>Brooklyn Bystander (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1821863</tmdbid>
+    <imdbid>nm8203589</imdbid>
+  </actor>
+  <actor>
+    <name>David Applebee</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2596994</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Carlos Arvelo</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1613899</tmdbid>
+    <imdbid>nm3110179</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Brown</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2109575</tmdbid>
+    <imdbid>nm5000758</imdbid>
+  </actor>
+  <actor>
+    <name>Jon Bruno</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1393539</tmdbid>
+    <imdbid>nm0116498</imdbid>
+  </actor>
+  <actor>
+    <name>Darcy Rose Byrnes</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>206926</tmdbid>
+    <imdbid>nm1393246</imdbid>
+  </actor>
+  <actor>
+    <name>Oscar Camacho</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1036171</tmdbid>
+    <imdbid>nm3924932</imdbid>
+  </actor>
+  <actor>
+    <name>June Christopher</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>172696</tmdbid>
+    <imdbid>nm0160590</imdbid>
+  </actor>
+  <actor>
+    <name>Alycia Cooper</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2306593</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Jubilee Gonzalez</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1734564</tmdbid>
+    <imdbid>nm3185337</imdbid>
+  </actor>
+  <actor>
+    <name>Terrence Hardy Jr.</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>61305</tmdbid>
+    <imdbid>nm1782585</imdbid>
+  </actor>
+  <actor>
+    <name>Bridget Hoffman</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>173428</tmdbid>
+    <imdbid>nm0033977</imdbid>
+  </actor>
+  <actor>
+    <name>Rif Hutton</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>15373</tmdbid>
+    <imdbid>nm0404663</imdbid>
+  </actor>
+  <actor>
+    <name>Miguel Jiron</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1703174</tmdbid>
+    <imdbid>nm1638836</imdbid>
+  </actor>
+  <actor>
+    <name>Harrison Knight</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>978963</tmdbid>
+    <imdbid>nm2109725</imdbid>
+  </actor>
+  <actor>
+    <name>Lex Lang</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>571309</tmdbid>
+    <imdbid>nm0485670</imdbid>
+  </actor>
+  <actor>
+    <name>Donna Lynn Leavy</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1709782</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Leviton</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2597017</tmdbid>
+  </actor>
+  <actor>
+    <name>Caitlin McKenna-Wilkinson</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>59055</tmdbid>
+    <imdbid>nm0571443</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Menville</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>113916</tmdbid>
+    <imdbid>nm0579914</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Miller</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>155267</tmdbid>
+    <imdbid>nm0588087</imdbid>
+  </actor>
+  <actor>
+    <name>Arthur Ortiz</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1999054</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Pacheco</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1363155</tmdbid>
+    <imdbid>nm8183723</imdbid>
+  </actor>
+  <actor>
+    <name>Devika Parikh</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>582209</tmdbid>
+    <imdbid>nm0661490</imdbid>
+  </actor>
+  <actor>
+    <name>Shakira Ja'nai Paye</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2104889</tmdbid>
+    <imdbid>nm3887139</imdbid>
+  </actor>
+  <actor>
+    <name>Courtney Peldon</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>76461</tmdbid>
+    <imdbid>nm0670780</imdbid>
+  </actor>
+  <actor>
+    <name>Chrystee Pharris</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>87363</tmdbid>
+    <imdbid>nm0679690</imdbid>
+  </actor>
+  <actor>
+    <name>Jacqueline Pinol</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>146392</tmdbid>
+    <imdbid>nm0034791</imdbid>
+  </actor>
+  <actor>
+    <name>Juan Pope</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1735014</tmdbid>
+    <imdbid>nm0691129</imdbid>
+  </actor>
+  <actor>
+    <name>Al Rodrigo</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1214171</tmdbid>
+    <imdbid>nm0734989</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Sanfelippo</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2204531</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Shenkarow</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>167638</tmdbid>
+    <imdbid>nm0791561</imdbid>
+  </actor>
+  <actor>
+    <name>Dennis Singletary</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2204259</tmdbid>
+  </actor>
+  <actor>
+    <name>Warren Sroka</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2068548</tmdbid>
+  </actor>
+  <actor>
+    <name>Melissa Sturm</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>587697</tmdbid>
+    <imdbid>nm3596979</imdbid>
+  </actor>
+  <actor>
+    <name>Holly Walker</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1196533</tmdbid>
+    <imdbid>nm2021857</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Linere-White</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2597021</tmdbid>
+  </actor>
+  <actor>
+    <name>Ruby Zalduondo</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2779042</tmdbid>
+    <imdbid>nm7505816</imdbid>
+  </actor>
+  <actor>
+    <name>Ruth Zalduondo</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1445768</tmdbid>
+    <imdbid>nm0952399</imdbid>
+  </actor>
+  <actor>
+    <name>Cliff Robertson</name>
+    <role>Uncle Ben (archival recording) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>19153</tmdbid>
+    <imdbid>nm0731772</imdbid>
+  </actor>
+  <director tmdbid="59918" imdbid="nm0745247">Rodney Rothman</director>
+  <director tmdbid="151007" imdbid="nm0709056">Peter Ramsey</director>
+  <director tmdbid="936670" imdbid="nm2130108">Bob Persichetti</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tg52up16eq0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=g4Hbz2jLxvQ</trailer>
+  <rating>8.4</rating>
+  <year>2018</year>
+  <mpaa>PG</mpaa>
+  <imdbid>tt4633694</imdbid>
+  <tmdbid>324857</tmdbid>
+  <premiered>2018-12-06</premiered>
+  <releasedate>2018-12-06</releasedate>
+  <criticrating>97</criticrating>
+  <runtime>117</runtime>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>冒险</genre>
+  <genre>动画</genre>
+  <genre>科幻</genre>
+  <genre>喜剧</genre>
+  <studio>Sony Pictures</studio>
+  <studio>Columbia Pictures</studio>
+  <studio>Marvel Entertainment</studio>
+  <studio>Avi Arad Productions</studio>
+  <studio>Lord Miller Productions</studio>
+  <studio>Pascal Pictures</studio>
+  <studio>Sony Pictures Animation</studio>
+  <set tmdbcolid="573436">
+    <name>蜘蛛侠：平行宇宙（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">324857</uniqueid>
+  <uniqueid type="Imdb">tt4633694</uniqueid>
+  <id>tt4633694</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4396037</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>7008</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>370890</bitrate>
+        <language>man</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

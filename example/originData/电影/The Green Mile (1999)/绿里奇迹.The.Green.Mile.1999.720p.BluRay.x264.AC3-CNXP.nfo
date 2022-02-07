@@ -1,0 +1,380 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[1935年。美国南部惨淡肃杀的冷山监狱。这里有片一英里长的绿地，人们叫它“绿里”。不过，它的居民皆为死囚，在绿地的另一头，便是行刑用的电椅。保罗·艾治科姆（汤姆·汉 克斯饰）是这里的狱监，对于走过“绿里”、继而在电椅上惨叫毙命的死囚行刑程序，他俨然已无动于衷。除了保罗及其爱妻简外，“绿里”上还有凶残的副狱监豪威尔，有施虐倾向 的狱吏佩西，良心未泯的看守海尔和他身患绝症的妻子美琳达，喜用宠物鼠逗狱吏和诸“难友”取乐的德拉克，连环杀人狂威廉，负疚深重的犯人彼特等一干形形色色的人们。他们之 间充满了敌意和不屑。但神秘的约翰·考夫利的到来改变了一切。考夫利因谋杀两名幼女被 判死罪，他相貌恐怖，体形硕大，却出奇地平和、敏感而缄默，天真时甚至像个孩子，同时， 他似乎还具有一种不可名状的神秘力量，令人不由自主地对其产生信任感，这不禁让艾治科姆对其罪行是否属实深怀疑问。 真情无法取代程式，考夫利终要走过“绿里”。在这个貌似粗鲁的男人即将赴死的刹那，“绿里”上的人们以不同以往的形式实现了各自生命的重要跨越。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-10-30 02:23:06</dateadded>
+  <title>绿里奇迹</title>
+  <originaltitle>The Green Mile</originaltitle>
+  <actor>
+    <name>Tom Hanks</name>
+    <role>Paul Edgecomb</role>
+    <type>Actor</type>
+    <tmdbid>31</tmdbid>
+    <imdbid>nm0000158</imdbid>
+  </actor>
+  <actor>
+    <name>David Morse</name>
+    <role>Brutus "Brutal" Howell</role>
+    <type>Actor</type>
+    <tmdbid>52</tmdbid>
+    <imdbid>nm0001556</imdbid>
+  </actor>
+  <actor>
+    <name>Bonnie Hunt</name>
+    <role>Jan Edgecomb</role>
+    <type>Actor</type>
+    <tmdbid>5149</tmdbid>
+    <imdbid>nm0001372</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Clarke Duncan</name>
+    <role>John Coffey</role>
+    <type>Actor</type>
+    <tmdbid>61981</tmdbid>
+    <imdbid>nm0003817</imdbid>
+  </actor>
+  <actor>
+    <name>James Cromwell</name>
+    <role>Warden Hal Moores</role>
+    <type>Actor</type>
+    <tmdbid>2505</tmdbid>
+    <imdbid>nm0000342</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Jeter</name>
+    <role>Eduard Delacroix</role>
+    <type>Actor</type>
+    <tmdbid>2169</tmdbid>
+    <imdbid>nm0005052</imdbid>
+  </actor>
+  <actor>
+    <name>Graham Greene</name>
+    <role>Arlen Bitterbuck</role>
+    <type>Actor</type>
+    <tmdbid>6804</tmdbid>
+    <imdbid>nm0001295</imdbid>
+  </actor>
+  <actor>
+    <name>Doug Hutchison</name>
+    <role>Percy Wetmore</role>
+    <type>Actor</type>
+    <tmdbid>6806</tmdbid>
+    <imdbid>nm0006535</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Rockwell</name>
+    <role>'Wild Bill' Wharton</role>
+    <type>Actor</type>
+    <tmdbid>6807</tmdbid>
+    <imdbid>nm0005377</imdbid>
+  </actor>
+  <actor>
+    <name>Barry Pepper</name>
+    <role>Dean Stanton</role>
+    <type>Actor</type>
+    <tmdbid>12834</tmdbid>
+    <imdbid>nm0001608</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey DeMunn</name>
+    <role>Harry Terwilliger</role>
+    <type>Actor</type>
+    <tmdbid>12645</tmdbid>
+    <imdbid>nm0218810</imdbid>
+  </actor>
+  <actor>
+    <name>Patricia Clarkson</name>
+    <role>Melinda Moores</role>
+    <type>Actor</type>
+    <tmdbid>1276</tmdbid>
+    <imdbid>nm0165101</imdbid>
+  </actor>
+  <actor>
+    <name>Harry Dean Stanton</name>
+    <role>Toot-Toot</role>
+    <type>Actor</type>
+    <tmdbid>5048</tmdbid>
+    <imdbid>nm0001765</imdbid>
+  </actor>
+  <actor>
+    <name>Dabbs Greer</name>
+    <role>Old Paul Edgecomb</role>
+    <type>Actor</type>
+    <tmdbid>6805</tmdbid>
+    <imdbid>nm0339428</imdbid>
+  </actor>
+  <actor>
+    <name>Eve Brent</name>
+    <role>Elaine Connelly</role>
+    <type>Actor</type>
+    <tmdbid>128201</tmdbid>
+    <imdbid>nm0107573</imdbid>
+  </actor>
+  <actor>
+    <name>William Sadler</name>
+    <role>Klaus Detterick</role>
+    <type>Actor</type>
+    <tmdbid>6573</tmdbid>
+    <imdbid>nm0006669</imdbid>
+  </actor>
+  <actor>
+    <name>Mack Miles</name>
+    <role>Orderly Hector</role>
+    <type>Actor</type>
+    <tmdbid>139992</tmdbid>
+    <imdbid>nm0587183</imdbid>
+  </actor>
+  <actor>
+    <name>Rai Tasco</name>
+    <role>Man in Nursing Home</role>
+    <type>Actor</type>
+    <tmdbid>1502939</tmdbid>
+    <imdbid>nm0850847</imdbid>
+  </actor>
+  <actor>
+    <name>Paula Malcomson</name>
+    <role>Marjorie Detterick</role>
+    <type>Actor</type>
+    <tmdbid>47533</tmdbid>
+    <imdbid>nm0539155</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Joel Ives</name>
+    <role>Howie Detterick</role>
+    <type>Actor</type>
+    <tmdbid>2765391</tmdbid>
+  </actor>
+  <actor>
+    <name>Evanne Drucker</name>
+    <role>Kathe Detterick</role>
+    <type>Actor</type>
+    <tmdbid>2765393</tmdbid>
+  </actor>
+  <actor>
+    <name>Bailey Drucker</name>
+    <role>Cora Detterick</role>
+    <type>Actor</type>
+    <tmdbid>2765394</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Libby</name>
+    <role>Sheriff McGee</role>
+    <type>Actor</type>
+    <tmdbid>6580</tmdbid>
+    <imdbid>nm0508742</imdbid>
+  </actor>
+  <actor>
+    <name>Brent Briscoe</name>
+    <role>Bill Dodge</role>
+    <type>Actor</type>
+    <tmdbid>15011</tmdbid>
+    <imdbid>nm0109785</imdbid>
+  </actor>
+  <actor>
+    <name>Bill McKinney</name>
+    <role>Jack Van Hay</role>
+    <type>Actor</type>
+    <tmdbid>16555</tmdbid>
+    <imdbid>nm0571853</imdbid>
+  </actor>
+  <actor>
+    <name>Gary Sinise</name>
+    <role>Lawyer Burt Hammersmith</role>
+    <type>Actor</type>
+    <tmdbid>33</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Singer</name>
+    <role>Cynthia Hammersmith</role>
+    <type>Actor</type>
+    <tmdbid>7473</tmdbid>
+    <imdbid>nm0802019</imdbid>
+  </actor>
+  <actor>
+    <name>Scotty Leavenworth</name>
+    <role>Hammersmith's Son</role>
+    <type>Actor</type>
+    <tmdbid>20093</tmdbid>
+    <imdbid>nm0495358</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Gratton</name>
+    <role>Earl the Plumber</role>
+    <type>Actor</type>
+    <tmdbid>156052</tmdbid>
+    <imdbid>nm0336029</imdbid>
+  </actor>
+  <actor>
+    <name>Dee Croxton</name>
+    <role>Woman at Del's Execution</role>
+    <type>Actor</type>
+    <tmdbid>1371842</tmdbid>
+    <imdbid>nm0189860</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Klingler</name>
+    <role>Wife at Del's Execution</role>
+    <type>Actor</type>
+    <tmdbid>944614</tmdbid>
+    <imdbid>nm0459799</imdbid>
+  </actor>
+  <actor>
+    <name>Gary Imhoff</name>
+    <role>Husband at Del's Execution</role>
+    <type>Actor</type>
+    <tmdbid>148116</tmdbid>
+    <imdbid>nm0408189</imdbid>
+  </actor>
+  <actor>
+    <name>Van Epperson</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>158782</tmdbid>
+    <imdbid>nm0258371</imdbid>
+  </actor>
+  <actor>
+    <name>David E. Browning</name>
+    <role>Reverend at Funeral</role>
+    <type>Actor</type>
+    <tmdbid>2765407</tmdbid>
+  </actor>
+  <actor>
+    <name>Tommy Barnes</name>
+    <role>Tower Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1609082</tmdbid>
+  </actor>
+  <actor>
+    <name>Wes Hall</name>
+    <role>Prisoner (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2406144</tmdbid>
+  </actor>
+  <actor>
+    <name>Phil Hawn</name>
+    <role>Police Photographer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>94561</tmdbid>
+    <imdbid>nm0370361</imdbid>
+  </actor>
+  <actor>
+    <name>Judy Herrera</name>
+    <role>Bitterbuck's Daughter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>102314</tmdbid>
+    <imdbid>nm0004264</imdbid>
+  </actor>
+  <actor>
+    <name>Ted Hollis</name>
+    <role>Coffee Execution Witness (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>74519</tmdbid>
+    <imdbid>nm1851404</imdbid>
+  </actor>
+  <actor>
+    <name>Gower Mills</name>
+    <role>Inmate (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2747590</tmdbid>
+  </actor>
+  <actor>
+    <name>Garth Shaw</name>
+    <role>Inmate (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1609086</tmdbid>
+  </actor>
+  <actor>
+    <name>Jared Stovall</name>
+    <role>Inmate (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1742176</tmdbid>
+  </actor>
+  <actor>
+    <name>Todd Thompson</name>
+    <role>Prison Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1808962</tmdbid>
+  </actor>
+  <director tmdbid="4027" imdbid="nm0001104">Frank Darabont</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ctRK-4Vt7dA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qJRxRPrTGVY</trailer>
+  <rating>8.6</rating>
+  <year>1999</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0120689</imdbid>
+  <tmdbid>497</tmdbid>
+  <premiered>1999-12-10</premiered>
+  <releasedate>1999-12-10</releasedate>
+  <criticrating>78</criticrating>
+  <runtime>189</runtime>
+  <country>United States of America</country>
+  <genre>奇幻</genre>
+  <genre>剧情</genre>
+  <genre>犯罪</genre>
+  <studio>Castle Rock Entertainment</studio>
+  <studio>Darkwoods Productions</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>Universal Pictures</studio>
+  <uniqueid type="Tmdb">497</uniqueid>
+  <uniqueid type="Imdb">tt0120689</uniqueid>
+  <id>tt0120689</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3640579</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976042</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>188</duration>
+        <durationinseconds>11317</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

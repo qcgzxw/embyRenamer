@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[深夜，小学生小文（周美君 饰）和同学被一个中年男人带至酒店，这一切被在酒店打黑工的未成年少女小米（文淇 饰）拍下。事件逐渐演化成一个全城议论的性侵女童案，权力在握的犯罪嫌疑人浮出水面，受害者家中也风暴渐起。  女律师郝洁（史可 饰）对案件展开调查，逐渐发现突破点在小米身上 。而掌握关键证据的小米，却将它作为在这个海滨城市生存下来的救命稻草。等待她的，是她意想不到的黑暗。  女律师的努力最终让小米做出了新的选择，也获得了警方的初步认可。但在真相即将大白、正义即将伸张的的时刻，嫌疑人却继续展现他超乎寻常的能量，案件再生波折。小文和小米，是否还可以继续拥有她们的嘉年华？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2017-12-22 11:04:38</dateadded>
+  <title>嘉年华</title>
+  <originaltitle>嘉年华</originaltitle>
+  <actor>
+    <name>Vicky Chen</name>
+    <role>Mia</role>
+    <type>Actor</type>
+    <tmdbid>1937250</tmdbid>
+    <imdbid>nm8847811</imdbid>
+  </actor>
+  <actor>
+    <name>Zhou Meijun</name>
+    <role>Wen</role>
+    <type>Actor</type>
+    <tmdbid>1858826</tmdbid>
+  </actor>
+  <actor>
+    <name>Shi Ke</name>
+    <role>Attorney Hao</role>
+    <type>Actor</type>
+    <tmdbid>1029704</tmdbid>
+    <imdbid>nm0443752</imdbid>
+  </actor>
+  <actor>
+    <name>Geng Le</name>
+    <role>Meng Tao</role>
+    <type>Actor</type>
+    <tmdbid>1170661</tmdbid>
+    <imdbid>nm0312822</imdbid>
+  </actor>
+  <actor>
+    <name>Liu Weiwei</name>
+    <role>Wen's Mother</role>
+    <type>Actor</type>
+    <tmdbid>107774</tmdbid>
+    <imdbid>nm3211183</imdbid>
+  </actor>
+  <actor>
+    <name>Peng Jing</name>
+    <role>Lily</role>
+    <type>Actor</type>
+    <tmdbid>2102059</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Yuexin</name>
+    <role>Jian</role>
+    <type>Actor</type>
+    <tmdbid>1621704</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Mengnan</name>
+    <role>Lieutenant Wang</role>
+    <type>Actor</type>
+    <tmdbid>1674370</tmdbid>
+  </actor>
+  <actor>
+    <name>Bamboo Chen</name>
+    <role>Motel Manager</role>
+    <type>Actor</type>
+    <tmdbid>1743150</tmdbid>
+    <imdbid>nm3818786</imdbid>
+  </actor>
+  <actor>
+    <name>Jiang Xinyu</name>
+    <role>Xin</role>
+    <type>Actor</type>
+    <tmdbid>2102074</tmdbid>
+  </actor>
+  <director tmdbid="1202202" imdbid="nm2735954">Vivian Qu</director>
+  <rating>7.2</rating>
+  <year>2017</year>
+  <mpaa>HK-IIA</mpaa>
+  <imdbid>tt7205208</imdbid>
+  <tmdbid>468208</tmdbid>
+  <premiered>2017-12-24</premiered>
+  <releasedate>2017-12-24</releasedate>
+  <criticrating>94</criticrating>
+  <runtime>108</runtime>
+  <country>China</country>
+  <genre>剧情</genre>
+  <studio>22 Hours Films</studio>
+  <studio>Hangzhou Puhua Chuansheng Cultural Investment Partner</studio>
+  <studio>Kashgar J.Q. Media &amp; Culture</studio>
+  <uniqueid type="Tmdb">468208</uniqueid>
+  <uniqueid type="Imdb">tt7205208</uniqueid>
+  <id>tt7205208</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1453726</bitrate>
+        <width>1920</width>
+        <height>1038</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>24.99244</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>108</duration>
+        <durationinseconds>6480</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127717</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

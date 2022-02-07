@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[屁股长在脸上的少女，没有眼睛的妓女，脸部畸形的妇人，想变成美人鱼的男孩，侏儒女想要孩子，他们因为外貌的丑陋，而活在自卑痛苦之中。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2017-12-25 05:49:12</dateadded>
+  <title>肌肤</title>
+  <originaltitle>Pieles</originaltitle>
+  <actor>
+    <name>Jon Kortajarena</name>
+    <role>Guille</role>
+    <type>Actor</type>
+    <tmdbid>1316023</tmdbid>
+    <imdbid>nm2392852</imdbid>
+  </actor>
+  <actor>
+    <name>Candela Peña</name>
+    <role>Ana</role>
+    <type>Actor</type>
+    <tmdbid>958</tmdbid>
+    <imdbid>nm0679150</imdbid>
+  </actor>
+  <actor>
+    <name>Ana Polvorosa</name>
+    <role>Samantha</role>
+    <type>Actor</type>
+    <tmdbid>138716</tmdbid>
+    <imdbid>nm1308063</imdbid>
+  </actor>
+  <actor>
+    <name>Macarena Gómez</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>67052</tmdbid>
+    <imdbid>nm1296762</imdbid>
+  </actor>
+  <actor>
+    <name>Secun de la Rosa</name>
+    <role>Ernesto</role>
+    <type>Actor</type>
+    <tmdbid>234532</tmdbid>
+    <imdbid>nm0209397</imdbid>
+  </actor>
+  <actor>
+    <name>Carmen Machi</name>
+    <role>Claudia</role>
+    <type>Actor</type>
+    <tmdbid>102222</tmdbid>
+    <imdbid>nm1197737</imdbid>
+  </actor>
+  <actor>
+    <name>Joaquín Climent</name>
+    <role>Alexis</role>
+    <type>Actor</type>
+    <tmdbid>272018</tmdbid>
+    <imdbid>nm0166795</imdbid>
+  </actor>
+  <actor>
+    <name>Antonio 'Morris' Durán</name>
+    <role>Simon</role>
+    <type>Actor</type>
+    <tmdbid>15599</tmdbid>
+    <imdbid>nm0244460</imdbid>
+  </actor>
+  <actor>
+    <name>Itziar Castro</name>
+    <role>Itziar</role>
+    <type>Actor</type>
+    <tmdbid>1464946</tmdbid>
+  </actor>
+  <actor>
+    <name>Eloi Costa</name>
+    <role>Cristian</role>
+    <type>Actor</type>
+    <tmdbid>1825503</tmdbid>
+  </actor>
+  <actor>
+    <name>Ana María Ayala</name>
+    <role>Vanessa</role>
+    <type>Actor</type>
+    <tmdbid>1825504</tmdbid>
+  </actor>
+  <actor>
+    <name>Carolina Bang</name>
+    <role>Psychiatrist</role>
+    <type>Actor</type>
+    <tmdbid>512958</tmdbid>
+    <imdbid>nm3016653</imdbid>
+  </actor>
+  <actor>
+    <name>Carme Juan</name>
+    <role>Girl's mother</role>
+    <type>Actor</type>
+    <tmdbid>1981916</tmdbid>
+  </actor>
+  <actor>
+    <name>Lle Godoy</name>
+    <role>Mikel</role>
+    <type>Actor</type>
+    <tmdbid>2990280</tmdbid>
+  </actor>
+  <director tmdbid="931271" imdbid="nm1816428">Eduardo Casanova</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=3xzPE6J2hIU</trailer>
+  <rating>6.2</rating>
+  <year>2017</year>
+  <imdbid>tt5808778</imdbid>
+  <tmdbid>435707</tmdbid>
+  <premiered>2017-04-15</premiered>
+  <releasedate>2017-04-15</releasedate>
+  <runtime>77</runtime>
+  <country>Spain</country>
+  <genre>剧情</genre>
+  <genre>喜剧</genre>
+  <studio>Pokeepsie Films</studio>
+  <studio>Nadie es Perfecto</studio>
+  <studio>The Other Side Films</studio>
+  <uniqueid type="Imdb">tt5808778</uniqueid>
+  <uniqueid type="Tmdb">435707</uniqueid>
+  <id>tt5808778</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3894985</bitrate>
+        <width>1280</width>
+        <height>718</height>
+        <aspect>640:359</aspect>
+        <aspectratio>640:359</aspectratio>
+        <framerate>29.970032</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>77</duration>
+        <durationinseconds>4646</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>True</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>200</width>
+        <height>286</height>
+        <aspect>100:143</aspect>
+        <aspectratio>100:143</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

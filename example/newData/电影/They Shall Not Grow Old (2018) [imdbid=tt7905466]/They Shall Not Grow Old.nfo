@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[《他们已不再变老》是由华纳兄弟影业出品，奥斯卡金像奖获奖导演彼得·杰克逊（《指环王》三部曲，《霍比特人》三部曲）执导的战争纪录片。电影聚焦于1914年—1918年一战士兵的日常生活。片中大部分史料均为首次公开，制作团队应用最顶尖修复、上色及3D 技术，将百年前影像进行全彩修复并重新加入声效，以英国老兵口述史为旁白还原一战士兵遭遇和感受，为观众呈现身临其境、极度真实的沉浸式战争体验。影片将于2019年11月11日（一战结束一百零一周年纪念日）全国艺联专线上映。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-02-28 15:24:58</dateadded>
+  <title>他们已不再变老</title>
+  <originaltitle>They Shall Not Grow Old</originaltitle>
+  <actor>
+    <name>Thomas Adlam</name>
+    <role>Self - Bedfordshire Regiment (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3065660</tmdbid>
+  </actor>
+  <actor>
+    <name>William Argent</name>
+    <role>Self - Royal Naval Air Service (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3065661</tmdbid>
+  </actor>
+  <actor>
+    <name>John Ashby</name>
+    <role>Self - The Duke of Cambridge's Own (Middlesex Regiment) (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3065662</tmdbid>
+  </actor>
+  <director tmdbid="108" imdbid="nm0001392">Peter Jackson</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=D6Do1p1CWyc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IrabKK9Bhds</trailer>
+  <rating>8.3</rating>
+  <year>2018</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt7905466</imdbid>
+  <tmdbid>543580</tmdbid>
+  <premiered>2018-11-11</premiered>
+  <releasedate>2018-11-11</releasedate>
+  <criticrating>99</criticrating>
+  <runtime>99</runtime>
+  <country>New Zealand</country>
+  <country>United Kingdom</country>
+  <genre>纪录</genre>
+  <genre>历史</genre>
+  <genre>战争</genre>
+  <studio>Imperial War Museums</studio>
+  <studio>WingNut Films</studio>
+  <studio>14-18 NOW</studio>
+  <studio>House Productions</studio>
+  <uniqueid type="Tmdb">543580</uniqueid>
+  <uniqueid type="Imdb">tt7905466</uniqueid>
+  <id>tt7905466</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11027167</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5958</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

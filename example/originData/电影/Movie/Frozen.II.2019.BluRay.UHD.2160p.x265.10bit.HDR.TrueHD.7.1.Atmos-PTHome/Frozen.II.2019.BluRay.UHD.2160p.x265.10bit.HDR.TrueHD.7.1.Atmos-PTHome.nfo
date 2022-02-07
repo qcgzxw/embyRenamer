@@ -1,0 +1,514 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[在前作中，阿伦黛尔王国的公主艾莎因为拥有难以控制的强大魔力而选择封闭心扉，远离家园。在妹妹安娜等的帮助鼓舞下，艾莎终于鼓起勇气拥抱真我获得真正的力量。正当艾莎与安娜终于获得了曾经梦寐以求的生活，艾莎却听到了一个神秘声音的呼唤——这声音许诺将揭示她为何拥有冰雪魔法的真相，而这个神秘的真相也威胁着她的王国。艾莎与安娜不得不再次踏上非凡的旅程，前往未知的魔法森林和暗海。在艰险加倍的旅程中，艾莎和安娜的姐妹深情，也更加熠熠生辉，令人动容。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-20 05:40:34</dateadded>
+  <title>冰雪奇缘2</title>
+  <originaltitle>Frozen II</originaltitle>
+  <actor>
+    <name>Kristen Bell</name>
+    <role>Anna (voice)</role>
+    <type>Actor</type>
+    <tmdbid>40462</tmdbid>
+  </actor>
+  <actor>
+    <name>Idina Menzel</name>
+    <role>Elsa (voice)</role>
+    <type>Actor</type>
+    <tmdbid>19394</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Gad</name>
+    <role>Olaf (voice)</role>
+    <type>Actor</type>
+    <tmdbid>54415</tmdbid>
+    <imdbid>nm1265802</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Groff</name>
+    <role>Kristoff (voice)</role>
+    <type>Actor</type>
+    <tmdbid>221611</tmdbid>
+    <imdbid>nm2676147</imdbid>
+  </actor>
+  <actor>
+    <name>Sterling K. Brown</name>
+    <role>Mattias (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1225953</tmdbid>
+    <imdbid>nm1250791</imdbid>
+  </actor>
+  <actor>
+    <name>Evan Rachel Wood</name>
+    <role>Iduna (voice)</role>
+    <type>Actor</type>
+    <tmdbid>38940</tmdbid>
+    <imdbid>nm0939697</imdbid>
+  </actor>
+  <actor>
+    <name>Alfred Molina</name>
+    <role>Agnarr (voice)</role>
+    <type>Actor</type>
+    <tmdbid>658</tmdbid>
+    <imdbid>nm0000547</imdbid>
+  </actor>
+  <actor>
+    <name>Martha Plimpton</name>
+    <role>Yelena (voice)</role>
+    <type>Actor</type>
+    <tmdbid>17495</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Ritter</name>
+    <role>Ryder (voice)</role>
+    <type>Actor</type>
+    <tmdbid>50095</tmdbid>
+    <imdbid>nm0728762</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel Matthews</name>
+    <role>Honeymaren (voice)</role>
+    <type>Actor</type>
+    <tmdbid>104853</tmdbid>
+    <imdbid>nm7847287</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Sisto</name>
+    <role>King Runeard (voice)</role>
+    <type>Actor</type>
+    <tmdbid>23958</tmdbid>
+  </actor>
+  <actor>
+    <name>Ciarán Hinds</name>
+    <role>Pabbie (voice)</role>
+    <type>Actor</type>
+    <tmdbid>8785</tmdbid>
+    <imdbid>nm0001354</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Tudyk</name>
+    <role>Guard / Northuldra Leader / Arendellian Soldier (voice)</role>
+    <type>Actor</type>
+    <tmdbid>21088</tmdbid>
+    <imdbid>nm0876138</imdbid>
+  </actor>
+  <actor>
+    <name>Hadley Gannaway</name>
+    <role>Young Anna (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2577418</tmdbid>
+  </actor>
+  <actor>
+    <name>Mattea Conforti</name>
+    <role>Young Elsa (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1790376</tmdbid>
+  </actor>
+  <actor>
+    <name>Aurora Aksnes</name>
+    <role>The Voice (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1682648</tmdbid>
+  </actor>
+  <actor>
+    <name>Santino Fontana</name>
+    <role>Hans (Ahtohallan Voice) (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1188241</tmdbid>
+  </actor>
+  <actor>
+    <name>Livvy Stubenrauch</name>
+    <role>Young Anna (Ahtohallan Voice) (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1207489</tmdbid>
+  </actor>
+  <actor>
+    <name>Eva Bella</name>
+    <role>Young Elsa (Ahtohallan Voice) (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1207488</tmdbid>
+  </actor>
+  <actor>
+    <name>Maia Wilson</name>
+    <role>Bulda (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1297610</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen J. Anderson</name>
+    <role>Kai (voice)</role>
+    <type>Actor</type>
+    <tmdbid>16842</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Briggs</name>
+    <role>Marshmallow (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1340669</tmdbid>
+  </actor>
+  <actor>
+    <name>Jackson Stein</name>
+    <role>Young Agnarr (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1995233</tmdbid>
+  </actor>
+  <actor>
+    <name>Delaney Rose Stein</name>
+    <role>Young Iduna (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1273208</tmdbid>
+  </actor>
+  <actor>
+    <name>Halima V. Hudson</name>
+    <role>Halima (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2577422</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabella Acres</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>210877</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Apostolina</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1340665</tmdbid>
+  </actor>
+  <actor>
+    <name>Kimberly Bailey</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2577426</tmdbid>
+  </actor>
+  <actor>
+    <name>David Boat</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>87176</tmdbid>
+  </actor>
+  <actor>
+    <name>June Christopher</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>172696</tmdbid>
+    <imdbid>nm0160590</imdbid>
+  </actor>
+  <actor>
+    <name>Antonio Raul Corbo</name>
+    <role>Additional Voice (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1710790</tmdbid>
+  </actor>
+  <actor>
+    <name>David Cowgill</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>60232</tmdbid>
+  </actor>
+  <actor>
+    <name>Wendy Cutler</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1340674</tmdbid>
+    <imdbid>nm0193961</imdbid>
+  </actor>
+  <actor>
+    <name>Hudson D'Andrea</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2577467</tmdbid>
+  </actor>
+  <actor>
+    <name>Grey DeLisle</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>15761</tmdbid>
+    <imdbid>nm0217221</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica DiCicco</name>
+    <role>Additional Voice (voice)</role>
+    <type>Actor</type>
+    <tmdbid>94820</tmdbid>
+  </actor>
+  <actor>
+    <name>Terri Douglas</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>186605</tmdbid>
+  </actor>
+  <actor>
+    <name>Robin Atkin Downes</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>130081</tmdbid>
+    <imdbid>nm0235960</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Fisher</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2246704</tmdbid>
+  </actor>
+  <actor>
+    <name>Jackie Gonneau</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>950773</tmdbid>
+  </actor>
+  <actor>
+    <name>Franck Gourlat</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>550246</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Kaz</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1340676</tmdbid>
+  </actor>
+  <actor>
+    <name>Phil LaMarr</name>
+    <role>Additional Voice (voice)</role>
+    <type>Actor</type>
+    <tmdbid>31549</tmdbid>
+    <imdbid>nm0482851</imdbid>
+  </actor>
+  <actor>
+    <name>Arnaud Léonard</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1619513</tmdbid>
+  </actor>
+  <actor>
+    <name>Mimi Maynard</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1219797</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Menville</name>
+    <role>Additional Voice (voice)</role>
+    <type>Actor</type>
+    <tmdbid>113916</tmdbid>
+    <imdbid>nm0579914</imdbid>
+  </actor>
+  <actor>
+    <name>Melanie Minichino</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1544176</tmdbid>
+  </actor>
+  <actor>
+    <name>Max Mittelman</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1379386</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Nolan</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>159720</tmdbid>
+  </actor>
+  <actor>
+    <name>Capri Oliver</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2500427</tmdbid>
+  </actor>
+  <actor>
+    <name>Arthur Ortiz</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1999054</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Pape</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>174563</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Ralph</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>138897</tmdbid>
+  </actor>
+  <actor>
+    <name>Akai Robinson</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2577429</tmdbid>
+  </actor>
+  <actor>
+    <name>Lynwood Robinson</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1296646</tmdbid>
+  </actor>
+  <actor>
+    <name>Maddix Robinson</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2009807</tmdbid>
+  </actor>
+  <actor>
+    <name>Kaitlyn Robrock</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1382187</tmdbid>
+  </actor>
+  <actor>
+    <name>Violet Grace Schaffer</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2577451</tmdbid>
+  </actor>
+  <actor>
+    <name>Pepper Sweeney</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>131365</tmdbid>
+  </actor>
+  <actor>
+    <name>Fred Tatasciore</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>60279</tmdbid>
+    <imdbid>nm0851317</imdbid>
+  </actor>
+  <actor>
+    <name>Jean-Alain Velardo</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2178097</tmdbid>
+  </actor>
+  <actor>
+    <name>Kari Wahlgren</name>
+    <role>Additional Voice (voice)</role>
+    <type>Actor</type>
+    <tmdbid>116315</tmdbid>
+    <imdbid>nm1312566</imdbid>
+    <javscraper-actressid>https://xslist.org/zh/model/152.html</javscraper-actressid>
+    <javscraper-actress-jsonid>{"Provider":"JavScraper.Xslist","Name":"Yukari Miyazawa - 宮沢ゆかり","Cover":"https://raw.githubusercontent.com/xinxin8816/gfriends/master/Content/5-Premium/宮沢ゆかり.jpg","Url":"https://xslist.org/zh/model/152.html","ImageType":"Backdrop","Samples":["https://xslist.org/kojav/model2/0/152.jpg","https://m1.xslist.org/gallery/0/152/1593394093.jpg","https://m1.xslist.org/gallery/0/152/1584249306.jpg","https://m1.xslist.org/gallery/0/152/1577696504.jpg","https://m1.xslist.org/gallery/0/152/1577693402.jpg","https://m1.xslist.org/gallery/0/152/1577691528.jpg","https://m1.xslist.org/gallery/0/152/1577690260.jpg","https://m1.xslist.org/gallery/0/152/1577687766.jpg","https://m1.xslist.org/gallery/0/152/1577687346.jpg","https://m1.xslist.org/gallery/0/152/1577687164.jpg","https://m1.xslist.org/gallery/0/152/1577686386.jpg","https://m1.xslist.org/gallery/0/152/1572356905.jpg","https://m1.xslist.org/gallery/0/152/1572353978.jpg","https://m1.xslist.org/gallery/0/152/1572324760.jpg","https://m1.xslist.org/gallery/0/152/1568441198.jpg","https://m1.xslist.org/gallery/0/152/1568439454.jpg","https://xslist.org/zh/gallery/152"]}</javscraper-actress-jsonid>
+    <javscraper-actress-urlid>https://xslist.org/zh/model/152.html</javscraper-actress-urlid>
+  </actor>
+  <actor>
+    <name>Matthew Wood</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>71536</tmdbid>
+  </actor>
+  <director tmdbid="15774">Chris Buck</director>
+  <director tmdbid="1120694">Jennifer Lee</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Zi4LMpSDccc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bwzLiQZDw2I</trailer>
+  <rating>6.8</rating>
+  <year>2019</year>
+  <mpaa>PG</mpaa>
+  <imdbid>tt4520988</imdbid>
+  <tmdbid>330457</tmdbid>
+  <premiered>2019-11-20</premiered>
+  <releasedate>2019-11-20</releasedate>
+  <criticrating>77</criticrating>
+  <runtime>103</runtime>
+  <country>United States of America</country>
+  <genre>家庭</genre>
+  <genre>动画</genre>
+  <genre>冒险</genre>
+  <genre>喜剧</genre>
+  <genre>奇幻</genre>
+  <genre>音乐</genre>
+  <studio>Walt Disney Pictures</studio>
+  <studio>Walt Disney Animation Studios</studio>
+  <set tmdbcolid="386382">
+    <name>冰雪奇缘（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">330457</uniqueid>
+  <uniqueid type="Imdb">tt4520988</uniqueid>
+  <id>tt4520988</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>19898472</bitrate>
+        <width>3840</width>
+        <height>1608</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6193</durationinseconds>
+      </video>
+      <audio>
+        <codec>truehd</codec>
+        <micodec>truehd</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>667</width>
+        <height>1000</height>
+        <aspect>667:1000</aspect>
+        <aspectratio>667:1000</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

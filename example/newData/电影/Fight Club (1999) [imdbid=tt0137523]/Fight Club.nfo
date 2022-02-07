@@ -1,0 +1,615 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[杰克( 爱德华·诺顿 Edward Norton 饰)是一个充满中年危机意识的人，他非常憎恨自己的生活及一切，再加上他患有严重的失眠症，所以他常常参加各种团体谘询会，只为了能接触人群。在某一个团体谘询会上，杰克遇上了一个跟他同样理由来参加的女烟枪，玛拉(海伦娜·邦汉·卡特 Helena Bonham Carter  饰)，在莫名激素的影响下，杰克和玛拉一起逃离了谘询会，两人的情愫因而滋生… 一个偶然的机会，杰克遇到了卖肥皂的商人泰勒(布拉德·皮特 Brad Pitt 饰)，一个浑身充满叛逆、残酷和暴烈的痞子英雄，并因为自己公寓失火而住进了泰勒破旧不堪的家中。两人因缘际会地成为了好朋友，并创立了“搏击俱乐部”：一个让人们不戴护具而徒手搏击，宗旨在于发泄情绪的地下组织。]]></plot>
+  <outline><![CDATA[搏击俱乐部]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2019-01-14 03:13:44</dateadded>
+  <title>搏击俱乐部</title>
+  <originaltitle>Fight Club</originaltitle>
+  <actor>
+    <name>Edward Norton</name>
+    <role>The Narrator</role>
+    <type>Actor</type>
+    <tmdbid>819</tmdbid>
+    <imdbid>nm0001570</imdbid>
+  </actor>
+  <actor>
+    <name>Brad Pitt</name>
+    <role>Tyler Durden</role>
+    <type>Actor</type>
+    <tmdbid>287</tmdbid>
+    <imdbid>nm0000093</imdbid>
+  </actor>
+  <actor>
+    <name>Helena Bonham Carter</name>
+    <role>Marla Singer</role>
+    <type>Actor</type>
+    <tmdbid>1283</tmdbid>
+    <imdbid>nm0000307</imdbid>
+  </actor>
+  <actor>
+    <name>Meat Loaf</name>
+    <role>Robert "Bob" Paulson</role>
+    <type>Actor</type>
+    <tmdbid>7470</tmdbid>
+    <imdbid>nm0001533</imdbid>
+  </actor>
+  <actor>
+    <name>Jared Leto</name>
+    <role>Angel Face</role>
+    <type>Actor</type>
+    <tmdbid>7499</tmdbid>
+    <imdbid>nm0001467</imdbid>
+  </actor>
+  <actor>
+    <name>Zach Grenier</name>
+    <role>Richard Chesler</role>
+    <type>Actor</type>
+    <tmdbid>7471</tmdbid>
+    <imdbid>nm0340260</imdbid>
+  </actor>
+  <actor>
+    <name>Holt McCallany</name>
+    <role>The Mechanic</role>
+    <type>Actor</type>
+    <tmdbid>7497</tmdbid>
+    <imdbid>nm0564697</imdbid>
+  </actor>
+  <actor>
+    <name>Eion Bailey</name>
+    <role>Ricky</role>
+    <type>Actor</type>
+    <tmdbid>7498</tmdbid>
+    <imdbid>nm0047248</imdbid>
+  </actor>
+  <actor>
+    <name>Richmond Arquette</name>
+    <role>Intern</role>
+    <type>Actor</type>
+    <tmdbid>7472</tmdbid>
+    <imdbid>nm0037118</imdbid>
+  </actor>
+  <actor>
+    <name>David Andrews</name>
+    <role>Thomas</role>
+    <type>Actor</type>
+    <tmdbid>7219</tmdbid>
+    <imdbid>nm0028625</imdbid>
+  </actor>
+  <actor>
+    <name>Christina Cabot</name>
+    <role>Group Leader</role>
+    <type>Actor</type>
+    <tmdbid>68277</tmdbid>
+    <imdbid>nm0127680</imdbid>
+  </actor>
+  <actor>
+    <name>Tim DeZarn</name>
+    <role>Inspector Bird</role>
+    <type>Actor</type>
+    <tmdbid>956719</tmdbid>
+    <imdbid>nm0212498</imdbid>
+  </actor>
+  <actor>
+    <name>Ezra Buzzington</name>
+    <role>Inspector Dent</role>
+    <type>Actor</type>
+    <tmdbid>59285</tmdbid>
+    <imdbid>nm0125653</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Stephenson</name>
+    <role>Airport Security Officer</role>
+    <type>Actor</type>
+    <tmdbid>17449</tmdbid>
+    <imdbid>nm0827307</imdbid>
+  </actor>
+  <actor>
+    <name>David Lee Smith</name>
+    <role>Walter</role>
+    <type>Actor</type>
+    <tmdbid>56112</tmdbid>
+    <imdbid>nm0807900</imdbid>
+  </actor>
+  <actor>
+    <name>Carl Ciarfalio</name>
+    <role>Lou's Body Guard</role>
+    <type>Actor</type>
+    <tmdbid>42824</tmdbid>
+    <imdbid>nm0161893</imdbid>
+  </actor>
+  <actor>
+    <name>Stuart Blumberg</name>
+    <role>Car Salesman</role>
+    <type>Actor</type>
+    <tmdbid>40277</tmdbid>
+    <imdbid>nm0089742</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Fite</name>
+    <role>Second Man at Auto Shop</role>
+    <type>Actor</type>
+    <tmdbid>122805</tmdbid>
+    <imdbid>nm0280051</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Winston</name>
+    <role>Seminary Student</role>
+    <type>Actor</type>
+    <tmdbid>35521</tmdbid>
+    <imdbid>nm0935616</imdbid>
+  </actor>
+  <actor>
+    <name>Lauren Sánchez</name>
+    <role>Channel 4 Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1224996</tmdbid>
+    <imdbid>nm0761078</imdbid>
+  </actor>
+  <actor>
+    <name>Thom Gossom Jr.</name>
+    <role>Detective Stern</role>
+    <type>Actor</type>
+    <tmdbid>1219497</tmdbid>
+    <imdbid>nm0331699</imdbid>
+  </actor>
+  <actor>
+    <name>Markus Redmond</name>
+    <role>Detective Kevin</role>
+    <type>Actor</type>
+    <tmdbid>1226835</tmdbid>
+    <imdbid>nm0715076</imdbid>
+  </actor>
+  <actor>
+    <name>Van Quattro</name>
+    <role>Detective Andrew</role>
+    <type>Actor</type>
+    <tmdbid>41352</tmdbid>
+    <imdbid>nm0703013</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Girardin</name>
+    <role>Detective Walker</role>
+    <type>Actor</type>
+    <tmdbid>177175</tmdbid>
+    <imdbid>nm0320752</imdbid>
+  </actor>
+  <actor>
+    <name>David Jean Thomas</name>
+    <role>Policeman</role>
+    <type>Actor</type>
+    <tmdbid>109100</tmdbid>
+    <imdbid>nm0858710</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Carafotes</name>
+    <role>Salvator - Winking Bartender</role>
+    <type>Actor</type>
+    <tmdbid>1221838</tmdbid>
+    <imdbid>nm0135899</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher John Fields</name>
+    <role>Proprietor of Dry Cleaners</role>
+    <type>Actor</type>
+    <tmdbid>145531</tmdbid>
+    <imdbid>nm0276211</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Shamus Wiles</name>
+    <role>Bartender in Halo</role>
+    <type>Actor</type>
+    <tmdbid>9291</tmdbid>
+    <imdbid>nm0928795</imdbid>
+  </actor>
+  <actor>
+    <name>George Maguire</name>
+    <role>Group Leader</role>
+    <type>Actor</type>
+    <tmdbid>1129738</tmdbid>
+    <imdbid>nm0536574</imdbid>
+  </actor>
+  <actor>
+    <name>Eugenie Bondurant</name>
+    <role>Weeping Woman</role>
+    <type>Actor</type>
+    <tmdbid>1317693</tmdbid>
+    <imdbid>nm0094163</imdbid>
+  </actor>
+  <actor>
+    <name>Sydney "Big Dawg" Colston</name>
+    <role>Speaker</role>
+    <type>Actor</type>
+    <tmdbid>202080</tmdbid>
+    <imdbid>nm0173257</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel Singer</name>
+    <role>Chloe</role>
+    <type>Actor</type>
+    <tmdbid>7473</tmdbid>
+    <imdbid>nm0802019</imdbid>
+  </actor>
+  <actor>
+    <name>Christie Cronenweth</name>
+    <role>Airline Attendant</role>
+    <type>Actor</type>
+    <tmdbid>1172435</tmdbid>
+    <imdbid>nm0188728</imdbid>
+  </actor>
+  <actor>
+    <name>Dierdre Downing-Jackson</name>
+    <role>Businesswoman on Plane</role>
+    <type>Actor</type>
+    <tmdbid>1705289</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie Dell</name>
+    <role>Doorman</role>
+    <type>Actor</type>
+    <tmdbid>62846</tmdbid>
+    <imdbid>nm0217301</imdbid>
+  </actor>
+  <actor>
+    <name>Rob Lanza</name>
+    <role>Man in Suit</role>
+    <type>Actor</type>
+    <tmdbid>530040</tmdbid>
+    <imdbid>nm0487300</imdbid>
+  </actor>
+  <actor>
+    <name>Joel Bissonnette</name>
+    <role>Food Court Maître D'</role>
+    <type>Actor</type>
+    <tmdbid>137425</tmdbid>
+    <imdbid>nm0084385</imdbid>
+  </actor>
+  <actor>
+    <name>Evan Mirand</name>
+    <role>Steph</role>
+    <type>Actor</type>
+    <tmdbid>175120</tmdbid>
+    <imdbid>nm0592030</imdbid>
+  </actor>
+  <actor>
+    <name>Robby Robinson</name>
+    <role>Next Month's Opponent</role>
+    <type>Actor</type>
+    <tmdbid>1744132</tmdbid>
+    <imdbid>nm0733025</imdbid>
+  </actor>
+  <actor>
+    <name>Lou Beatty Jr.</name>
+    <role>Cop at Marla's Building</role>
+    <type>Actor</type>
+    <tmdbid>168924</tmdbid>
+    <imdbid>nm0064187</imdbid>
+  </actor>
+  <actor>
+    <name>Valerie Bickford</name>
+    <role>Susan - Comsetics Buyer</role>
+    <type>Actor</type>
+    <tmdbid>157938</tmdbid>
+    <imdbid>nm0081050</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Iacangelo</name>
+    <role>Lou</role>
+    <type>Actor</type>
+    <tmdbid>7500</tmdbid>
+    <imdbid>nm0406203</imdbid>
+  </actor>
+  <actor>
+    <name>Todd Peirce</name>
+    <role>First Man at Auto Shop</role>
+    <type>Actor</type>
+    <tmdbid>1744135</tmdbid>
+  </actor>
+  <actor>
+    <name>Joon Kim</name>
+    <role>Raymond K. Hessel</role>
+    <type>Actor</type>
+    <tmdbid>1744137</tmdbid>
+    <imdbid>nm0453538</imdbid>
+  </actor>
+  <actor>
+    <name>Bennie Moore</name>
+    <role>Bus Driver with Broken Nose</role>
+    <type>Actor</type>
+    <tmdbid>1636371</tmdbid>
+    <imdbid>nm0600934</imdbid>
+  </actor>
+  <actor>
+    <name>Pat McNamara</name>
+    <role>Commissioner Jacobs</role>
+    <type>Actor</type>
+    <tmdbid>1174793</tmdbid>
+    <imdbid>nm0573715</imdbid>
+  </actor>
+  <actor>
+    <name>Tyrone R. Livingston</name>
+    <role>Banquet Speaker</role>
+    <type>Actor</type>
+    <tmdbid>1744138</tmdbid>
+    <imdbid>nm0515307</imdbid>
+  </actor>
+  <actor>
+    <name>Owen Masterson</name>
+    <role>Airport Valet</role>
+    <type>Actor</type>
+    <tmdbid>1744139</tmdbid>
+    <imdbid>nm0557749</imdbid>
+  </actor>
+  <actor>
+    <name>Anderson Bourell</name>
+    <role>Bruised Bar Patron #1</role>
+    <type>Actor</type>
+    <tmdbid>1744140</tmdbid>
+    <imdbid>nm0099852</imdbid>
+  </actor>
+  <actor>
+    <name>Scotch Ellis Loring</name>
+    <role>Bruised Bar Patron #2</role>
+    <type>Actor</type>
+    <tmdbid>63537</tmdbid>
+    <imdbid>nm0521025</imdbid>
+  </actor>
+  <actor>
+    <name>Andi Carnick</name>
+    <role>Hotel Desk Clerk</role>
+    <type>Actor</type>
+    <tmdbid>170315</tmdbid>
+    <imdbid>nm0138864</imdbid>
+  </actor>
+  <actor>
+    <name>Edward Kowalczyk</name>
+    <role>Waiter at Clifton's</role>
+    <type>Actor</type>
+    <tmdbid>1707776</tmdbid>
+    <imdbid>nm0468567</imdbid>
+  </actor>
+  <actor>
+    <name>Leonard Termo</name>
+    <role>Desk Sergeant</role>
+    <type>Actor</type>
+    <tmdbid>7140</tmdbid>
+    <imdbid>nm0855657</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Arturo</name>
+    <role>BMW Salesman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>74507</tmdbid>
+    <imdbid>nm1438283</imdbid>
+  </actor>
+  <actor>
+    <name>Greg Bronson</name>
+    <role>Fight Spectator (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1383838</tmdbid>
+    <imdbid>nm3425823</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Cinquanta</name>
+    <role>Fighter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1194120</tmdbid>
+    <imdbid>nm1892728</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Dillon</name>
+    <role>Irvin (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>13925</tmdbid>
+    <imdbid>nm0227051</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Falzone</name>
+    <role>Vomiting Fight Spectator (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1744142</tmdbid>
+    <imdbid>nm2246074</imdbid>
+  </actor>
+  <actor>
+    <name>Eddie Hargitay</name>
+    <role>Chanting Fighter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>552271</tmdbid>
+    <imdbid>nm2263449</imdbid>
+  </actor>
+  <actor>
+    <name>Phil Hawn</name>
+    <role>Banquet Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>94561</tmdbid>
+    <imdbid>nm0370361</imdbid>
+  </actor>
+  <actor>
+    <name>Bruce Holman</name>
+    <role>Waiter in Bridgeworth Suites Corporate Video (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1223916</tmdbid>
+    <imdbid>nm0391595</imdbid>
+  </actor>
+  <actor>
+    <name>Jawara</name>
+    <role>Fight Patron Saying 'I don't know. What's going on?' (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1744143</tmdbid>
+    <imdbid>nm1929539</imdbid>
+  </actor>
+  <actor>
+    <name>Baron Jay</name>
+    <role>Waiter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1525014</tmdbid>
+    <imdbid>nm1767162</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Jenkins</name>
+    <role>Restaurant Maitre D' (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1577360</tmdbid>
+    <imdbid>nm0420875</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Scott Mack</name>
+    <role>Passenger Clutching Armrest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1403525</tmdbid>
+    <imdbid>nm0533034</imdbid>
+  </actor>
+  <actor>
+    <name>Trey Ore</name>
+    <role>Fight Club Patron / Guy #2 in Video Store (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1744144</tmdbid>
+    <imdbid>nm0649596</imdbid>
+  </actor>
+  <actor>
+    <name>Louis Ortiz</name>
+    <role>Fight Spectator (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1744145</tmdbid>
+    <imdbid>nm0651188</imdbid>
+  </actor>
+  <actor>
+    <name>Hugh Peddy</name>
+    <role>Fight Club Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1386468</tmdbid>
+    <imdbid>nm1717092</imdbid>
+  </actor>
+  <actor>
+    <name>J.T. Pontino</name>
+    <role>Fight Club Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1744146</tmdbid>
+    <imdbid>nm0690682</imdbid>
+  </actor>
+  <actor>
+    <name>Chad Randau</name>
+    <role>Waiter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1744147</tmdbid>
+    <imdbid>nm0709725</imdbid>
+  </actor>
+  <actor>
+    <name>Marcio Rosario</name>
+    <role>Fighter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>133153</tmdbid>
+    <imdbid>nm0741048</imdbid>
+  </actor>
+  <actor>
+    <name>Gregory Silva</name>
+    <role>Riley Wilde - Fighter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1744148</tmdbid>
+    <imdbid>nm0798325</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Tochi</name>
+    <role>Fight Bully (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>16060</tmdbid>
+    <imdbid>nm0865058</imdbid>
+  </actor>
+  <actor>
+    <name>Alekxia Valdez</name>
+    <role>Bar Worker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1744149</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Zagst</name>
+    <role>Support Group Member (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1744150</tmdbid>
+    <imdbid>nm5408864</imdbid>
+  </actor>
+  <actor>
+    <name>Gökhan Öncel</name>
+    <role>Man at the Club (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1744151</tmdbid>
+    <imdbid>nm6123708</imdbid>
+  </actor>
+  <actor>
+    <name>Philip Centanni</name>
+    <role>Space Monkey (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2021961</tmdbid>
+    <imdbid>nm2836280</imdbid>
+  </actor>
+  <actor>
+    <name>Marc Cinquanta</name>
+    <role>Space Monkey (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1152377</tmdbid>
+    <imdbid>nm0162480</imdbid>
+  </actor>
+  <actor>
+    <name>Summer Moore</name>
+    <role>Marla's Neighbor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1657018</tmdbid>
+    <imdbid>nm1628057</imdbid>
+  </actor>
+  <director tmdbid="7467" imdbid="nm0000399">David Fincher</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BdJKm16Co6M</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6JnN1DmbqoU</trailer>
+  <rating>8.8</rating>
+  <year>1999</year>
+  <mpaa>HK-IIB</mpaa>
+  <imdbid>tt0137523</imdbid>
+  <tmdbid>550</tmdbid>
+  <premiered>1999-10-15</premiered>
+  <releasedate>1999-10-15</releasedate>
+  <criticrating>79</criticrating>
+  <runtime>139</runtime>
+  <tagline>搏击俱乐部</tagline>
+  <country>Germany</country>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <studio>Regency Enterprises</studio>
+  <studio>Fox 2000 Pictures</studio>
+  <studio>Taurus Film</studio>
+  <studio>Atman Entertainment</studio>
+  <studio>Knickerbocker Films</studio>
+  <studio>20th Century Fox</studio>
+  <studio>The Linson Company</studio>
+  <uniqueid type="Tmdb">550</uniqueid>
+  <uniqueid type="Imdb">tt0137523</uniqueid>
+  <id>tt0137523</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6742992</bitrate>
+        <width>1280</width>
+        <height>534</height>
+        <aspect>640:267</aspect>
+        <aspectratio>640:267</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>139</duration>
+        <durationinseconds>8348</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

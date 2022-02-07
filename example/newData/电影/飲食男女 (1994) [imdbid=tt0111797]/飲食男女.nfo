@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[老朱(郎雄)虽是台北最了不起的名厨，但妻子去世后便要肩负起抚养三个女儿的责任，惟她们性情各异，充满叛逆个性，有着自身的问题。女儿们都逐渐长大了，老父亲也渐渐力不从心，不过他那一手炉火纯青的厨艺却依旧维系着全家的和睦。吃晚饭也就成为全家团聚沟通的唯一时刻。这样的时刻理应是其乐融融的，但是因为三个女儿和老父亲各自的“宣布”，令每顿晚饭都充满了意外：闪电结婚，投资失败，未婚先孕，叙弦娶妻。不仅令剧中人惊讶不已，更使觀众原本平静的心情频起波澜。家家都有一本难念的经，这期间有人怀孕，有人被抛弃，有人找到真爱，也有人死去。直到有一天，一向最乖巧、不露声色的三女儿宣布自己已经怀孕，还没等父亲和两位姐姐回过味来，就跳上男友的摩托车飞奔而去，然后是大姐也结婚。最想搬出去的二女儿反而一个人留在旧居，原来一个完整的家，肥皂泡一样破碎了。 同时，朱家隔壁搬来了一位聒噪的寡妇，她终日痴缠着老朱，老朱周旋于她们之间，最终，即将破裂的大家庭再度团聚。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-04 01:10:38</dateadded>
+  <title>饮食男女</title>
+  <originaltitle>飲食男女</originaltitle>
+  <actor>
+    <name>Sihung Lung</name>
+    <role>Chu</role>
+    <type>Actor</type>
+    <tmdbid>1623</tmdbid>
+    <imdbid>nm0485950</imdbid>
+  </actor>
+  <actor>
+    <name>Yang Kuei-Mei</name>
+    <role>Jia-Jen</role>
+    <type>Actor</type>
+    <tmdbid>65354</tmdbid>
+  </actor>
+  <actor>
+    <name>Wu Chien-Lien</name>
+    <role>Jia-Chien</role>
+    <type>Actor</type>
+    <tmdbid>65353</tmdbid>
+  </actor>
+  <actor>
+    <name>Yu-Wen Wang</name>
+    <role>Jia-Ning</role>
+    <type>Actor</type>
+    <tmdbid>65352</tmdbid>
+  </actor>
+  <actor>
+    <name>Winston Chao</name>
+    <role>Li Kai</role>
+    <type>Actor</type>
+    <tmdbid>57054</tmdbid>
+  </actor>
+  <actor>
+    <name>Sylvia Chang</name>
+    <role>Jin-Rong</role>
+    <type>Actor</type>
+    <tmdbid>26739</tmdbid>
+  </actor>
+  <actor>
+    <name>Chen Chao-jung</name>
+    <role>Guo Lun</role>
+    <type>Actor</type>
+    <tmdbid>71172</tmdbid>
+  </actor>
+  <actor>
+    <name>Lester Chan</name>
+    <role>Raymond</role>
+    <type>Actor</type>
+    <tmdbid>565145</tmdbid>
+  </actor>
+  <actor>
+    <name>Yu Chen</name>
+    <role>Rachel</role>
+    <type>Actor</type>
+    <tmdbid>2950048</tmdbid>
+  </actor>
+  <actor>
+    <name>Gua Ah-leh</name>
+    <role>Madame Liang</role>
+    <type>Actor</type>
+    <tmdbid>57057</tmdbid>
+  </actor>
+  <actor>
+    <name>Chi-Der Hong</name>
+    <role>Class Leader</role>
+    <type>Actor</type>
+    <tmdbid>1888248</tmdbid>
+  </actor>
+  <actor>
+    <name>Gin-Ming Hsu</name>
+    <role>Coach Chai</role>
+    <type>Actor</type>
+    <tmdbid>1888249</tmdbid>
+  </actor>
+  <actor>
+    <name>Huel-Yi Lin</name>
+    <role>Sister Chang</role>
+    <type>Actor</type>
+    <tmdbid>1888250</tmdbid>
+  </actor>
+  <actor>
+    <name>Shih-Jay Lin</name>
+    <role>Chief's Son</role>
+    <type>Actor</type>
+    <tmdbid>1888251</tmdbid>
+  </actor>
+  <actor>
+    <name>Chin-Cheng Lu</name>
+    <role>Ming-Dao</role>
+    <type>Actor</type>
+    <tmdbid>1888252</tmdbid>
+  </actor>
+  <director tmdbid="1614" imdbid="nm0000487">Ang Lee</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=l7pKpO8NErU</trailer>
+  <rating>7.8</rating>
+  <year>1994</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt0111797</imdbid>
+  <tmdbid>10451</tmdbid>
+  <premiered>1994-01-28</premiered>
+  <releasedate>1994-01-28</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>124</runtime>
+  <country>Taiwan</country>
+  <country>United States of America</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <studio>Good Machine</studio>
+  <studio>Ang Lee Productions</studio>
+  <studio>Central Motion Picture Corporation</studio>
+  <set>
+    <name>李安 Ang Lee</name>
+  </set>
+  <uniqueid type="Tmdb">10451</uniqueid>
+  <uniqueid type="Imdb">tt0111797</uniqueid>
+  <id>tt0111797</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5501010</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>123</duration>
+        <durationinseconds>7430</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>320000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

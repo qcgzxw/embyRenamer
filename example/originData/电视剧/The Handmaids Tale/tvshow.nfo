@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[故事讲述未来世界遭遇严重污染，人口出生率骤降，美国部分地区经历血腥革命后建立了男性极权社会Gilead，当权者实行一夫多妻制，女性被当做国有财产，有生育能力的女性称为“女仆”，被迫作为统治阶级的生育工具，女主角Offred就是其中之一，她周旋于统治者、统治者凶残的“妻子”、为统治者打理家务的年长女人“Martha”之间，想在活下去的同时找到自己被夺走的女儿。]]></plot>
+  <outline><![CDATA[故事讲述未来世界遭遇严重污染，人口出生率骤降，美国部分地区经历血腥革命后建立了男性极权社会Gilead，当权者实行一夫多妻制，女性被当做国有财产，有生育能力的女性称为“女仆”，被迫作为统治阶级的生育工具，女主角Offred就是其中之一，她周旋于统治者、统治者凶残的“妻子”、为统治者打理家务的年长女人“Martha”之间，想在活下去的同时找到自己被夺走的女儿。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2019-09-26 15:13:08</dateadded>
+  <title>使女的故事</title>
+  <originaltitle>The Handmaid's Tale</originaltitle>
+  <actor>
+    <name>Elisabeth Moss</name>
+    <role>June Osborne / Offred / Ofjoseph</role>
+    <type>Actor</type>
+    <tmdbid>32798</tmdbid>
+  </actor>
+  <actor>
+    <name>Yvonne Strahovski</name>
+    <role>Serena Joy Waterford</role>
+    <type>Actor</type>
+    <tmdbid>63312</tmdbid>
+    <imdbid>nm2088803</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Fiennes</name>
+    <role>Commander Fred Waterford</role>
+    <type>Actor</type>
+    <tmdbid>12763</tmdbid>
+    <imdbid>nm0001212</imdbid>
+  </actor>
+  <actor>
+    <name>Ann Dowd</name>
+    <role>Aunt Lydia / Miss Clements</role>
+    <type>Actor</type>
+    <tmdbid>43366</tmdbid>
+    <imdbid>nm0235652</imdbid>
+  </actor>
+  <actor>
+    <name>Madeline Brewer</name>
+    <role>Janine Lindo / Ofwarren / Ofdaniel / Ofhoward</role>
+    <type>Actor</type>
+    <tmdbid>1443712</tmdbid>
+    <imdbid>nm5483400</imdbid>
+  </actor>
+  <actor>
+    <name>Max Minghella</name>
+    <role>Nick Blaine</role>
+    <type>Actor</type>
+    <tmdbid>2978</tmdbid>
+    <imdbid>nm1540404</imdbid>
+  </actor>
+  <actor>
+    <name>O.T. Fagbenle</name>
+    <role>Lucas 'Luke' Bankole</role>
+    <type>Actor</type>
+    <tmdbid>113970</tmdbid>
+  </actor>
+  <actor>
+    <name>Samira Wiley</name>
+    <role>Moira</role>
+    <type>Actor</type>
+    <tmdbid>1034197</tmdbid>
+    <imdbid>nm4148126</imdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=81PyH5TH-NQ</trailer>
+  <rating>8.2</rating>
+  <year>2017</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt5834204</imdb_id>
+  <tmdbid>69478</tmdbid>
+  <premiered>2017-04-26</premiered>
+  <releasedate>2017-04-26</releasedate>
+  <runtime>50</runtime>
+  <genre>Sci-Fi &amp; Fantasy</genre>
+  <genre>剧情</genre>
+  <studio>Hulu</studio>
+  <zap2itid>SH02585722</zap2itid>
+  <uniqueid type="Imdb">tt5834204</uniqueid>
+  <uniqueid type="Tmdb">69478</uniqueid>
+  <uniqueid type="Zap2It">SH02585722</uniqueid>
+  <uniqueid type="Tvdb">321239</uniqueid>
+  <tvdbid>321239</tvdbid>
+  <id>321239</id>
+  <episodeguide>
+    <url cache="321239.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/321239/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

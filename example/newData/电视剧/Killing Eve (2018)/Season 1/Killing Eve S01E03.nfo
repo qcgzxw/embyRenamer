@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[After a killing in Berlin, Eve and Bill travel there to investigate, unaware of how close they are to Villanelle.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-06-24 16:57:16</dateadded>
+  <title>我见过你吧？</title>
+  <actor>
+    <name>Sandra Oh</name>
+    <role>Eve Polastri</role>
+    <type>Actor</type>
+    <tmdbid>25540</tmdbid>
+    <imdbid>nm0644897</imdbid>
+  </actor>
+  <actor>
+    <name>Jodie Comer</name>
+    <role>Villanelle</role>
+    <type>Actor</type>
+    <tmdbid>1388593</tmdbid>
+    <imdbid>nm3069650</imdbid>
+  </actor>
+  <actor>
+    <name>Fiona Shaw</name>
+    <role>Carolyn Martens</role>
+    <type>Actor</type>
+    <tmdbid>10981</tmdbid>
+    <imdbid>nm0789716</imdbid>
+  </actor>
+  <actor>
+    <name>Kirby Howell-Baptiste</name>
+    <role>Elena Felton</role>
+    <type>Actor</type>
+    <tmdbid>1532312</tmdbid>
+    <imdbid>nm4624730</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Bodnia</name>
+    <role>Konstantin</role>
+    <type>Actor</type>
+    <tmdbid>3398</tmdbid>
+    <imdbid>nm0091035</imdbid>
+  </actor>
+  <actor>
+    <name>Owen McDonnell</name>
+    <role>Niko Polastri</role>
+    <type>Actor</type>
+    <tmdbid>365333</tmdbid>
+    <imdbid>nm1711652</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Delaney</name>
+    <role>Kenny Stowton</role>
+    <type>Actor</type>
+    <tmdbid>2021417</tmdbid>
+    <imdbid>nm7780301</imdbid>
+  </actor>
+  <actor>
+    <name>David Haig</name>
+    <role>Bill Pargrave</role>
+    <type>GuestStar</type>
+    <tmdbid>26717</tmdbid>
+  </actor>
+  <actor>
+    <name>Topher Collins</name>
+    <role>Police Officer</role>
+    <type>GuestStar</type>
+    <tmdbid>2107246</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon Chin</name>
+    <role>Zhang Wu</role>
+    <type>GuestStar</type>
+    <tmdbid>1259515</tmdbid>
+    <imdbid>nm1777809</imdbid>
+  </actor>
+  <actor>
+    <name>Barbara Sotelsek</name>
+    <role>Hot Medica Receptionist</role>
+    <type>GuestStar</type>
+    <tmdbid>1467606</tmdbid>
+  </actor>
+  <actor>
+    <name>Julian Michael Deuster</name>
+    <role>Man in Hot Medica Reception</role>
+    <type>GuestStar</type>
+    <tmdbid>1529408</tmdbid>
+    <imdbid>nm6111803</imdbid>
+  </actor>
+  <actor>
+    <name>Susie Trayling</name>
+    <role>Pamela</role>
+    <type>GuestStar</type>
+    <tmdbid>1417041</tmdbid>
+    <imdbid>nm1461298</imdbid>
+  </actor>
+  <actor>
+    <name>Anatole Taubman</name>
+    <role>Weber</role>
+    <type>GuestStar</type>
+    <tmdbid>62892</tmdbid>
+    <imdbid>nm0851458</imdbid>
+  </actor>
+  <actor>
+    <name>Lobo Chan</name>
+    <role>Jin Yeong</role>
+    <type>GuestStar</type>
+    <tmdbid>3494</tmdbid>
+    <imdbid>nm0150999</imdbid>
+  </actor>
+  <actor>
+    <name>Coline Atterbury</name>
+    <role>Berlin Shop Assistant</role>
+    <type>GuestStar</type>
+    <tmdbid>1912011</tmdbid>
+  </actor>
+  <director>Jon East</director>
+  <rating>8</rating>
+  <year>2018</year>
+  <imdbid>tt7062900</imdbid>
+  <tvdbid>6589248</tvdbid>
+  <runtime>42</runtime>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt7062900</uniqueid>
+  <uniqueid type="Tvdb">6589248</uniqueid>
+  <episode>3</episode>
+  <season>1</season>
+  <aired>2018-04-22</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11113807</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>42</duration>
+        <durationinseconds>2529</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

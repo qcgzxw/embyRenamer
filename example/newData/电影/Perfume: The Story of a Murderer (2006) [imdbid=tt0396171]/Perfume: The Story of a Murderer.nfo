@@ -1,0 +1,521 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[十八世纪，让-马普蒂斯特•格雷诺耶出生在巴黎最肮脏、最恶臭不堪的地方——鱼市场上。格雷诺耶天生对气味有着惊人的天赋：无论恶臭还芳香，他都一一记住，并能轻易分辨各种气味。当他在孤儿院长到13岁的时候，被院长卖给了制皮匠。格雷诺耶在制皮铺过着犬马不如的生活。机缘巧合，格雷诺耶在香水巴尔蒂尼面前展露了其过人的天赋，进入了香水铺工作。但格雷诺耶并不仅仅满足于制作出世界上最芳香的香水，他梦想学得如何保存万物气味的方法。巴尔蒂尼告诉格雷诺耶香水的起源地在格拉斯，那里的人知道保存气味的方法。格雷诺耶拿着巴尔蒂尼的推荐信来到了格拉斯。 格雷诺耶爱上了青春少女的体香，为了把这种香味保存下来，格雷诺耶最终走上了杀手的道路。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2017-12-17 12:01:05</dateadded>
+  <title>香水</title>
+  <originaltitle>Perfume: The Story of a Murderer</originaltitle>
+  <actor>
+    <name>Ben Whishaw</name>
+    <role>Jean-Baptiste Grenouille</role>
+    <type>Actor</type>
+    <tmdbid>17064</tmdbid>
+    <imdbid>nm0924210</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Rickman</name>
+    <role>Richis</role>
+    <type>Actor</type>
+    <tmdbid>4566</tmdbid>
+    <imdbid>nm0000614</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel Hurd-Wood</name>
+    <role>Laura</role>
+    <type>Actor</type>
+    <tmdbid>129050</tmdbid>
+    <imdbid>nm1248393</imdbid>
+  </actor>
+  <actor>
+    <name>Dustin Hoffman</name>
+    <role>Giuseppe Baldini</role>
+    <type>Actor</type>
+    <tmdbid>4483</tmdbid>
+    <imdbid>nm0000163</imdbid>
+  </actor>
+  <actor>
+    <name>John Hurt</name>
+    <role>Narrator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5049</tmdbid>
+    <imdbid>nm0000457</imdbid>
+  </actor>
+  <actor>
+    <name>Karoline Herfurth</name>
+    <role>The Plum Girl</role>
+    <type>Actor</type>
+    <tmdbid>17067</tmdbid>
+    <imdbid>nm0378932</imdbid>
+  </actor>
+  <actor>
+    <name>David Calder</name>
+    <role>Bishop of Grasse</role>
+    <type>Actor</type>
+    <tmdbid>10779</tmdbid>
+    <imdbid>nm0129464</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Chandler</name>
+    <role>Mayor of Grasse</role>
+    <type>Actor</type>
+    <tmdbid>16273</tmdbid>
+    <imdbid>nm0151463</imdbid>
+  </actor>
+  <actor>
+    <name>Sian Thomas</name>
+    <role>Madame Gaillard</role>
+    <type>Actor</type>
+    <tmdbid>17069</tmdbid>
+    <imdbid>nm0859525</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Schwarz</name>
+    <role>Natalie</role>
+    <type>Actor</type>
+    <tmdbid>17068</tmdbid>
+    <imdbid>nm0777594</imdbid>
+  </actor>
+  <actor>
+    <name>Corinna Harfouch</name>
+    <role>Madame Arnulfi</role>
+    <type>Actor</type>
+    <tmdbid>680</tmdbid>
+    <imdbid>nm0362896</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Berrondo</name>
+    <role>Dominique Drouot</role>
+    <type>Actor</type>
+    <tmdbid>17070</tmdbid>
+    <imdbid>nm0077437</imdbid>
+  </actor>
+  <actor>
+    <name>Timothy Davies</name>
+    <role>Chenier</role>
+    <type>Actor</type>
+    <tmdbid>17071</tmdbid>
+    <imdbid>nm0203997</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Douglas</name>
+    <role>Grimal</role>
+    <type>Actor</type>
+    <tmdbid>17072</tmdbid>
+    <imdbid>nm0002243</imdbid>
+  </actor>
+  <actor>
+    <name>Harris Gordon</name>
+    <role>Marquis de Montesquieu</role>
+    <type>Actor</type>
+    <tmdbid>17073</tmdbid>
+    <imdbid>nm2226757</imdbid>
+  </actor>
+  <actor>
+    <name>Sara Forestier</name>
+    <role>Jeanne</role>
+    <type>Actor</type>
+    <tmdbid>17074</tmdbid>
+    <imdbid>nm1271759</imdbid>
+  </actor>
+  <actor>
+    <name>Joanna Griffiths</name>
+    <role>Marianne</role>
+    <type>Actor</type>
+    <tmdbid>17075</tmdbid>
+    <imdbid>nm0341698</imdbid>
+  </actor>
+  <actor>
+    <name>Birgit Minichmayr</name>
+    <role>Grenouille's Mother</role>
+    <type>Actor</type>
+    <tmdbid>8800</tmdbid>
+    <imdbid>nm0591352</imdbid>
+  </actor>
+  <actor>
+    <name>Alvaro Roque</name>
+    <role>Grenouille 5 Years</role>
+    <type>Actor</type>
+    <tmdbid>17076</tmdbid>
+    <imdbid>nm2348496</imdbid>
+  </actor>
+  <actor>
+    <name>Franck Lefeuvre</name>
+    <role>Grenouille 12 Years</role>
+    <type>Actor</type>
+    <tmdbid>17077</tmdbid>
+    <imdbid>nm2363675</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Smiley</name>
+    <role>Porter</role>
+    <type>Actor</type>
+    <tmdbid>17078</tmdbid>
+    <imdbid>nm0806968</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Felix</name>
+    <role>Chief Magistrate</role>
+    <type>Actor</type>
+    <tmdbid>17079</tmdbid>
+    <imdbid>nm2365091</imdbid>
+  </actor>
+  <actor>
+    <name>Francesc Albiol</name>
+    <role>Court Official</role>
+    <type>Actor</type>
+    <tmdbid>568274</tmdbid>
+    <imdbid>nm0016852</imdbid>
+  </actor>
+  <actor>
+    <name>Gonzalo Cunill</name>
+    <role>Guard 1 Dungeon</role>
+    <type>Actor</type>
+    <tmdbid>28510</tmdbid>
+    <imdbid>nm0192173</imdbid>
+  </actor>
+  <actor>
+    <name>Roger Salvany</name>
+    <role>Guard 2 Dungeon</role>
+    <type>Actor</type>
+    <tmdbid>2692825</tmdbid>
+  </actor>
+  <actor>
+    <name>Reg Wilson</name>
+    <role>Customer Fishmarket</role>
+    <type>Actor</type>
+    <tmdbid>1672</tmdbid>
+    <imdbid>nm1368769</imdbid>
+  </actor>
+  <actor>
+    <name>Catherine Boisgontier</name>
+    <role>Woman Fishmarket</role>
+    <type>Actor</type>
+    <tmdbid>1333079</tmdbid>
+    <imdbid>nm0092317</imdbid>
+  </actor>
+  <actor>
+    <name>Núria Casas</name>
+    <role>Woman 2 Fishmarket</role>
+    <type>Actor</type>
+    <tmdbid>1062630</tmdbid>
+    <imdbid>nm2392048</imdbid>
+  </actor>
+  <actor>
+    <name>Carlos Gramaje</name>
+    <role>Police Lieutenant Fishmarket</role>
+    <type>Actor</type>
+    <tmdbid>2692827</tmdbid>
+  </actor>
+  <actor>
+    <name>Walter Cots</name>
+    <role>Driver</role>
+    <type>Actor</type>
+    <tmdbid>1329361</tmdbid>
+    <imdbid>nm1877418</imdbid>
+  </actor>
+  <actor>
+    <name>Perry Millward</name>
+    <role>Marcel</role>
+    <type>Actor</type>
+    <tmdbid>1222373</tmdbid>
+    <imdbid>nm1599985</imdbid>
+  </actor>
+  <actor>
+    <name>Jan Cortes</name>
+    <role>Boy Boarding House</role>
+    <type>Actor</type>
+    <tmdbid>2692831</tmdbid>
+  </actor>
+  <actor>
+    <name>Berta Ros</name>
+    <role>Girl Boarding House</role>
+    <type>Actor</type>
+    <tmdbid>1113121</tmdbid>
+    <imdbid>nm2474018</imdbid>
+  </actor>
+  <actor>
+    <name>Joan Serrats</name>
+    <role>Upholsterer</role>
+    <type>Actor</type>
+    <tmdbid>1726247</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaume Montané</name>
+    <role>Pelissier</role>
+    <type>Actor</type>
+    <tmdbid>986521</tmdbid>
+    <imdbid>nm1616996</imdbid>
+  </actor>
+  <actor>
+    <name>Bridget McConnell</name>
+    <role>Aunt</role>
+    <type>Actor</type>
+    <tmdbid>1800611</tmdbid>
+  </actor>
+  <actor>
+    <name>Duna Jové</name>
+    <role>Young Woman</role>
+    <type>Actor</type>
+    <tmdbid>1396786</tmdbid>
+    <imdbid>nm0431372</imdbid>
+  </actor>
+  <actor>
+    <name>Dora Romano</name>
+    <role>Baldini's Wife</role>
+    <type>Actor</type>
+    <tmdbid>1510167</tmdbid>
+    <imdbid>nm0738873</imdbid>
+  </actor>
+  <actor>
+    <name>Carolina Vera</name>
+    <role>Neapolitan Girl</role>
+    <type>Actor</type>
+    <tmdbid>31847</tmdbid>
+    <imdbid>nm0820048</imdbid>
+  </actor>
+  <actor>
+    <name>Ramón Pujol</name>
+    <role>Lucien</role>
+    <type>Actor</type>
+    <tmdbid>1456067</tmdbid>
+    <imdbid>nm2259074</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gelman</name>
+    <role>Albine</role>
+    <type>Actor</type>
+    <tmdbid>2692838</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Gelman</name>
+    <role>Françoise</role>
+    <type>Actor</type>
+    <tmdbid>2692839</tmdbid>
+  </actor>
+  <actor>
+    <name>Guillermo Ayesa</name>
+    <role>Tallien</role>
+    <type>Actor</type>
+    <tmdbid>31394</tmdbid>
+    <imdbid>nm1422361</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Diogene</name>
+    <role>Tallien's Wife</role>
+    <type>Actor</type>
+    <tmdbid>2692840</tmdbid>
+  </actor>
+  <actor>
+    <name>Montserrat Maso</name>
+    <role>Housekeeper</role>
+    <type>Actor</type>
+    <tmdbid>2692841</tmdbid>
+  </actor>
+  <actor>
+    <name>Toby Harper</name>
+    <role>Police Lieutenant</role>
+    <type>Actor</type>
+    <tmdbid>1857923</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerome Willis</name>
+    <role>Councillor 1</role>
+    <type>Actor</type>
+    <tmdbid>1220033</tmdbid>
+    <imdbid>nm0932361</imdbid>
+  </actor>
+  <actor>
+    <name>Fermí Reixach</name>
+    <role>Councillor 2</role>
+    <type>Actor</type>
+    <tmdbid>123212</tmdbid>
+    <imdbid>nm0718704</imdbid>
+  </actor>
+  <actor>
+    <name>Derek Smee</name>
+    <role>Councillor 3</role>
+    <type>Actor</type>
+    <tmdbid>1404136</tmdbid>
+    <imdbid>nm0806773</imdbid>
+  </actor>
+  <actor>
+    <name>Albert Pérez</name>
+    <role>Councillor 4</role>
+    <type>Actor</type>
+    <tmdbid>1062016</tmdbid>
+    <imdbid>nm0992703</imdbid>
+  </actor>
+  <actor>
+    <name>Artur Sala</name>
+    <role>Gatekeeper</role>
+    <type>Actor</type>
+    <tmdbid>2692842</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Lenox</name>
+    <role>Messenger</role>
+    <type>Actor</type>
+    <tmdbid>2692844</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Collins-Moore</name>
+    <role>Innkeeper</role>
+    <type>Actor</type>
+    <tmdbid>1709745</tmdbid>
+    <imdbid>nm1141082</imdbid>
+  </actor>
+  <actor>
+    <name>Francesca Piñón</name>
+    <role>Innkeeper's Wife</role>
+    <type>Actor</type>
+    <tmdbid>1154734</tmdbid>
+    <imdbid>nm1412926</imdbid>
+  </actor>
+  <actor>
+    <name>Nico Baixas</name>
+    <role>Guard Torture Chamber</role>
+    <type>Actor</type>
+    <tmdbid>1011347</tmdbid>
+    <imdbid>nm0047978</imdbid>
+  </actor>
+  <actor>
+    <name>Enric Arquimbau</name>
+    <role>Executioner</role>
+    <type>Actor</type>
+    <tmdbid>17066</tmdbid>
+    <imdbid>nm1212412</imdbid>
+  </actor>
+  <actor>
+    <name>Oriol Tramvia</name>
+    <role>Land Priest</role>
+    <type>Actor</type>
+    <tmdbid>1766735</tmdbid>
+  </actor>
+  <actor>
+    <name>Cristina Solà</name>
+    <role>Woman with Bishop</role>
+    <type>Actor</type>
+    <tmdbid>1067236</tmdbid>
+    <imdbid>nm1413560</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Vidal Traver</name>
+    <role>Hangover Girl</role>
+    <type>Actor</type>
+    <tmdbid>2692848</tmdbid>
+  </actor>
+  <actor>
+    <name>Ariadna Cabrol</name>
+    <role>Beggar Woman 1</role>
+    <type>Actor</type>
+    <tmdbid>30352</tmdbid>
+    <imdbid>nm1779186</imdbid>
+  </actor>
+  <actor>
+    <name>Maia Jenkinson</name>
+    <role>Beggar Woman 2</role>
+    <type>Actor</type>
+    <tmdbid>1275320</tmdbid>
+    <imdbid>nm2473993</imdbid>
+  </actor>
+  <actor>
+    <name>Andrés Herrera</name>
+    <role>Door Guard</role>
+    <type>Actor</type>
+    <tmdbid>119973</tmdbid>
+    <imdbid>nm0380359</imdbid>
+  </actor>
+  <director tmdbid="1071" imdbid="nm0878756">Tom Tykwer</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zutiIw_2e2g</trailer>
+  <rating>7.5</rating>
+  <year>2006</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0396171</imdbid>
+  <tmdbid>1427</tmdbid>
+  <premiered>2006-09-13</premiered>
+  <releasedate>2006-09-13</releasedate>
+  <criticrating>59</criticrating>
+  <runtime>147</runtime>
+  <country>Spain</country>
+  <country>Germany</country>
+  <country>France</country>
+  <genre>犯罪</genre>
+  <genre>奇幻</genre>
+  <genre>剧情</genre>
+  <studio>Rising Star</studio>
+  <studio>Constantin Film</studio>
+  <studio>VIP Medienfonds 4</studio>
+  <studio>Nouvelles Éditions de Films (NEF)</studio>
+  <studio>Castelao Productions</studio>
+  <studio>Davis Films</studio>
+  <studio>Ikiru Films</studio>
+  <uniqueid type="Tmdb">1427</uniqueid>
+  <uniqueid type="Imdb">tt0396171</uniqueid>
+  <id>tt0396171</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2716123</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976042</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>147</duration>
+        <durationinseconds>8844</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

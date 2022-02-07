@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[唐老大多姆·托莱多与莱蒂和他的儿子小布莱恩，过上了远离纷扰的平静生活。然而他们也知道，安宁之下总潜藏着危机。这一次，为了保护他所爱的人，唐老大不得不直面过去。他和伙伴们面临的是一场足以引起世界动荡的阴谋，以及一个前所未遇的一流杀手和高能车手。而这个名叫雅各布的人，恰巧是多姆遗落在外的亲弟弟。]]></plot>
+  <outline><![CDATA[正义将至]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-20 01:18:41</dateadded>
+  <title>速度与激情9</title>
+  <originaltitle>F9</originaltitle>
+  <actor>
+    <name>Vin Diesel</name>
+    <role>Dominic Toretto</role>
+    <type>Actor</type>
+    <tmdbid>12835</tmdbid>
+    <imdbid>nm0004874</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Rodriguez</name>
+    <role>Letty Ortiz</role>
+    <type>Actor</type>
+    <tmdbid>17647</tmdbid>
+    <imdbid>nm0735442</imdbid>
+  </actor>
+  <actor>
+    <name>Tyrese Gibson</name>
+    <role>Roman Pearce</role>
+    <type>Actor</type>
+    <tmdbid>8169</tmdbid>
+  </actor>
+  <actor>
+    <name>Ludacris</name>
+    <role>Tej Parker</role>
+    <type>Actor</type>
+    <tmdbid>8171</tmdbid>
+  </actor>
+  <actor>
+    <name>John Cena</name>
+    <role>Jakob Toretto</role>
+    <type>Actor</type>
+    <tmdbid>56446</tmdbid>
+    <imdbid>nm1078479</imdbid>
+  </actor>
+  <actor>
+    <name>Nathalie Emmanuel</name>
+    <role>Ramsey</role>
+    <type>Actor</type>
+    <tmdbid>1251069</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordana Brewster</name>
+    <role>Mia Toretto</role>
+    <type>Actor</type>
+    <tmdbid>22123</tmdbid>
+    <imdbid>nm0108287</imdbid>
+  </actor>
+  <actor>
+    <name>Sung Kang</name>
+    <role>Han Lue</role>
+    <type>Actor</type>
+    <tmdbid>61697</tmdbid>
+    <imdbid>nm0437646</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Rooker</name>
+    <role>Buddy</role>
+    <type>Actor</type>
+    <tmdbid>12132</tmdbid>
+  </actor>
+  <actor>
+    <name>Helen Mirren</name>
+    <role>Magdalene 'Queenie' Shaw</role>
+    <type>Actor</type>
+    <tmdbid>15735</tmdbid>
+  </actor>
+  <actor>
+    <name>Kurt Russell</name>
+    <role>Mr. Nobody</role>
+    <type>Actor</type>
+    <tmdbid>6856</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlize Theron</name>
+    <role>Cipher</role>
+    <type>Actor</type>
+    <tmdbid>6885</tmdbid>
+    <imdbid>nm0000234</imdbid>
+  </actor>
+  <actor>
+    <name>Cardi B</name>
+    <role>Leysa</role>
+    <type>Actor</type>
+    <tmdbid>1562344</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Sawai</name>
+    <role>Elle</role>
+    <type>Actor</type>
+    <tmdbid>1434487</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucas Black</name>
+    <role>Sean Boswell</role>
+    <type>Actor</type>
+    <tmdbid>155</tmdbid>
+  </actor>
+  <actor>
+    <name>Shad Moss</name>
+    <role>Twinkie</role>
+    <type>Actor</type>
+    <tmdbid>58197</tmdbid>
+    <imdbid>nm0510168</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Tobin</name>
+    <role>Earl Hu</role>
+    <type>Actor</type>
+    <tmdbid>162367</tmdbid>
+    <imdbid>nm0864937</imdbid>
+  </actor>
+  <actor>
+    <name>Thue Ersted Rasmussen</name>
+    <role>Otto</role>
+    <type>Actor</type>
+    <tmdbid>1476901</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Omar</name>
+    <role>Rico Santos</role>
+    <type>Actor</type>
+    <tmdbid>90634</tmdbid>
+  </actor>
+  <actor>
+    <name>Shea Whigham</name>
+    <role>Agent Stasiak</role>
+    <type>Actor</type>
+    <tmdbid>74242</tmdbid>
+    <imdbid>nm0924154</imdbid>
+  </actor>
+  <actor>
+    <name>Vincent Sinclair Diesel</name>
+    <role>Younger Dom</role>
+    <type>Actor</type>
+    <tmdbid>3120149</tmdbid>
+  </actor>
+  <actor>
+    <name>Finn Cole</name>
+    <role>Young Jakob</role>
+    <type>Actor</type>
+    <tmdbid>1508313</tmdbid>
+    <imdbid>nm6806440</imdbid>
+  </actor>
+  <actor>
+    <name>Vinnie Bennett</name>
+    <role>Young Dom</role>
+    <type>Actor</type>
+    <tmdbid>1193055</tmdbid>
+  </actor>
+  <actor>
+    <name>J. D. Pardo</name>
+    <role>Jack Toretto</role>
+    <type>Actor</type>
+    <tmdbid>81391</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Parrack</name>
+    <role>Kenny Linder</role>
+    <type>Actor</type>
+    <tmdbid>83968</tmdbid>
+  </actor>
+  <actor>
+    <name>Lex Elle</name>
+    <role>Sergeant Reyes</role>
+    <type>Actor</type>
+    <tmdbid>2347244</tmdbid>
+  </actor>
+  <actor>
+    <name>Krzysztof  Mardula</name>
+    <role>Thug</role>
+    <type>Actor</type>
+    <tmdbid>2347245</tmdbid>
+  </actor>
+  <actor>
+    <name>Amber Sienna</name>
+    <role>Interpol</role>
+    <type>Actor</type>
+    <tmdbid>2157784</tmdbid>
+  </actor>
+  <actor>
+    <name>Martyn Ford</name>
+    <role>Lieutenant Sue</role>
+    <type>Actor</type>
+    <tmdbid>1510237</tmdbid>
+  </actor>
+  <actor>
+    <name>Albert Giannitelli</name>
+    <role>Technician</role>
+    <type>Actor</type>
+    <tmdbid>2613103</tmdbid>
+  </actor>
+  <actor>
+    <name>Ozuna</name>
+    <role>Young Santos</role>
+    <type>Actor</type>
+    <tmdbid>2228673</tmdbid>
+  </actor>
+  <actor>
+    <name>Méghane De Croock</name>
+    <role>Otto's Entourage</role>
+    <type>Actor</type>
+    <tmdbid>2994586</tmdbid>
+  </actor>
+  <actor>
+    <name>Bad Bunny</name>
+    <role>Lookout</role>
+    <type>Actor</type>
+    <tmdbid>2550161</tmdbid>
+  </actor>
+  <actor>
+    <name>Siena Agudong</name>
+    <role>Young Mia</role>
+    <type>Actor</type>
+    <tmdbid>1537084</tmdbid>
+  </actor>
+  <actor>
+    <name>Isaac Holtane</name>
+    <role>Little Brian</role>
+    <type>Actor</type>
+    <tmdbid>3120140</tmdbid>
+  </actor>
+  <actor>
+    <name>Immanuel Holtane</name>
+    <role>Little Brian</role>
+    <type>Actor</type>
+    <tmdbid>3120141</tmdbid>
+  </actor>
+  <actor>
+    <name>Azia Dinea Hale</name>
+    <role>Young Letty</role>
+    <type>Actor</type>
+    <tmdbid>3120142</tmdbid>
+  </actor>
+  <actor>
+    <name>Juju Zhang</name>
+    <role>Young Elle</role>
+    <type>Actor</type>
+    <tmdbid>2604969</tmdbid>
+  </actor>
+  <actor>
+    <name>Karson Kern</name>
+    <role>Young Vince</role>
+    <type>Actor</type>
+    <tmdbid>1916439</tmdbid>
+  </actor>
+  <actor>
+    <name>Igby Rigney</name>
+    <role>Young Jesse</role>
+    <type>Actor</type>
+    <tmdbid>2982416</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophia Tatum</name>
+    <role>Racer Chick</role>
+    <type>Actor</type>
+    <tmdbid>3120144</tmdbid>
+  </actor>
+  <actor>
+    <name>Francis Ngannou</name>
+    <role>Ferocious Professional</role>
+    <type>Actor</type>
+    <tmdbid>1603313</tmdbid>
+  </actor>
+  <actor>
+    <name>Cered</name>
+    <role>Young Leo</role>
+    <type>Actor</type>
+    <tmdbid>3120146</tmdbid>
+  </actor>
+  <actor>
+    <name>Oqwe Lin</name>
+    <role>'Hey' Kid</role>
+    <type>Actor</type>
+    <tmdbid>3120147</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Simmons</name>
+    <role>Linder Pit Crew</role>
+    <type>Actor</type>
+    <tmdbid>3120148</tmdbid>
+  </actor>
+  <actor>
+    <name>Luka Hays</name>
+    <role>Deputy</role>
+    <type>Actor</type>
+    <tmdbid>3120150</tmdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Lin</name>
+    <role>Lookout</role>
+    <type>Actor</type>
+    <tmdbid>3120145</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Statham</name>
+    <role>Deckard Shaw (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>976</tmdbid>
+    <imdbid>nm0005458</imdbid>
+  </actor>
+  <director tmdbid="58189">Justin Lin</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=aSiDu3Ywi8E</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=fEE4RO-_jug</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5eblKqTZ-0Q</trailer>
+  <rating>5.2</rating>
+  <year>2021</year>
+  <mpaa>HK-IIB</mpaa>
+  <imdbid>tt5433138</imdbid>
+  <tmdbid>385128</tmdbid>
+  <premiered>2021-05-19</premiered>
+  <releasedate>2021-05-19</releasedate>
+  <criticrating>59</criticrating>
+  <runtime>143</runtime>
+  <tagline>正义将至</tagline>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>犯罪</genre>
+  <genre>惊悚</genre>
+  <studio>Original Film</studio>
+  <studio>One Race</studio>
+  <studio>Perfect Storm Entertainment</studio>
+  <studio>ZXY MOVIES</studio>
+  <set tmdbcolid="9485">
+    <name>速度与激情（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">385128</uniqueid>
+  <uniqueid type="Imdb">tt5433138</uniqueid>
+  <id>tt5433138</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>14412700</bitrate>
+        <width>3836</width>
+        <height>1600</height>
+        <aspect>959:400</aspect>
+        <aspectratio>959:400</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>142</duration>
+        <durationinseconds>8571</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <bitrate>768000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>mov_text</codec>
+        <micodec>mov_text</micodec>
+        <bitrate>50</bitrate>
+        <width>3840</width>
+        <height>60</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>mov_text</codec>
+        <micodec>mov_text</micodec>
+        <bitrate>63</bitrate>
+        <width>3840</width>
+        <height>60</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>mov_text</codec>
+        <micodec>mov_text</micodec>
+        <bitrate>43</bitrate>
+        <width>3840</width>
+        <height>60</height>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>mov_text</codec>
+        <micodec>mov_text</micodec>
+        <bitrate>44</bitrate>
+        <width>3840</width>
+        <height>60</height>
+        <language>fra</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

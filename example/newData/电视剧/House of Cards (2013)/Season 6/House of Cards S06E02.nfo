@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[贝尔波特城外的精炼厂发生爆炸泄露事故，造成两名工人死亡。国民警卫队、紧急事故管理署和环保署随时待命，州长奥姆斯泰德却认为风向有利于吹散空气中的污染物，要求附近居民撤离有些小题大做。但是在克莱尔的压力下，州长被迫宣布进入紧急状态，居民开始疏散。克莱尔此举的目的并非完全考虑到居民的身体健康，而是利用这次紧急状态再次拖延签署《未来法案》。她乘坐“空军一号”抵达事故现场，安抚民众。安奈特也在收容居民的当地学校举办慈善活动，因为发生事故的精炼厂正是谢泼德集团的下属企业。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-24 05:54:34</dateadded>
+  <title>第 2 集</title>
+  <actor>
+    <name>Robin Wright</name>
+    <role>Claire Underwood</role>
+    <type>Actor</type>
+    <tmdbid>32</tmdbid>
+    <imdbid>nm0000705</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Kelly</name>
+    <role>Doug Stamper</role>
+    <type>Actor</type>
+    <tmdbid>50217</tmdbid>
+    <imdbid>nm0446672</imdbid>
+  </actor>
+  <actor>
+    <name>Constance Zimmer</name>
+    <role>Janine Skorsky</role>
+    <type>Actor</type>
+    <tmdbid>156204</tmdbid>
+    <imdbid>nm0956603</imdbid>
+  </actor>
+  <actor>
+    <name>Patricia Clarkson</name>
+    <role>Jane Davis</role>
+    <type>Actor</type>
+    <tmdbid>1276</tmdbid>
+    <imdbid>nm0165101</imdbid>
+  </actor>
+  <actor>
+    <name>Derek Cecil</name>
+    <role>Seth Grayson</role>
+    <type>Actor</type>
+    <tmdbid>60117</tmdbid>
+    <imdbid>nm0147689</imdbid>
+  </actor>
+  <actor>
+    <name>Boris McGiver</name>
+    <role>Tom Hammerschmidt</role>
+    <type>Actor</type>
+    <tmdbid>151432</tmdbid>
+    <imdbid>nm0569409</imdbid>
+  </actor>
+  <actor>
+    <name>Lars Mikkelsen</name>
+    <role>Viktor Petrov</role>
+    <type>Actor</type>
+    <tmdbid>71158</tmdbid>
+    <imdbid>nm0586565</imdbid>
+  </actor>
+  <actor>
+    <name>Greg Kinnear</name>
+    <role>Bill Shepherd</role>
+    <type>Actor</type>
+    <tmdbid>17141</tmdbid>
+    <imdbid>nm0001427</imdbid>
+  </actor>
+  <actor>
+    <name>Diane Lane</name>
+    <role>Annette Shepherd</role>
+    <type>Actor</type>
+    <tmdbid>2882</tmdbid>
+    <imdbid>nm0000178</imdbid>
+  </actor>
+  <actor>
+    <name>Cody Fern</name>
+    <role>Duncan Shepherd</role>
+    <type>Actor</type>
+    <tmdbid>1197895</tmdbid>
+    <imdbid>nm3719144</imdbid>
+  </actor>
+  <actor>
+    <name>Campbell Scott</name>
+    <role>Mark Usher</role>
+    <type>Actor</type>
+    <tmdbid>55152</tmdbid>
+    <imdbid>nm0001714</imdbid>
+  </actor>
+  <actor>
+    <name>Lora Lee Gayer</name>
+    <role>Press 2</role>
+    <type>GuestStar</type>
+    <tmdbid>1569760</tmdbid>
+  </actor>
+  <actor>
+    <name>Sharrie McCain</name>
+    <role>Soilder</role>
+    <type>GuestStar</type>
+    <tmdbid>2127356</tmdbid>
+  </actor>
+  <actor>
+    <name>Kristen Sieh</name>
+    <role>Kelsey Stewart</role>
+    <type>GuestStar</type>
+    <tmdbid>2296776</tmdbid>
+  </actor>
+  <actor>
+    <name>Chip Zien</name>
+    <role>Dr. Charles Rosen</role>
+    <type>GuestStar</type>
+    <tmdbid>90039</tmdbid>
+    <imdbid>nm0956268</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Holm</name>
+    <role>Nathan Green</role>
+    <type>GuestStar</type>
+    <tmdbid>1595506</tmdbid>
+    <imdbid>nm3124435</imdbid>
+  </actor>
+  <actor>
+    <name>Susan Pourfar</name>
+    <role>Nora Cafferty</role>
+    <type>GuestStar</type>
+    <tmdbid>205783</tmdbid>
+    <imdbid>nm1581522</imdbid>
+  </actor>
+  <actor>
+    <name>Ann Charles Sutton</name>
+    <role>Young Claire</role>
+    <type>GuestStar</type>
+    <tmdbid>2297951</tmdbid>
+  </actor>
+  <rating>5.3</rating>
+  <year>2018</year>
+  <imdbid>tt7576192</imdbid>
+  <tvdbid>6564863</tvdbid>
+  <runtime>53</runtime>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt7576192</uniqueid>
+  <uniqueid type="Tvdb">6564863</uniqueid>
+  <episode>2</episode>
+  <season>6</season>
+  <aired>2018-11-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5010765</bitrate>
+        <width>1920</width>
+        <height>960</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>53</duration>
+        <durationinseconds>3192</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

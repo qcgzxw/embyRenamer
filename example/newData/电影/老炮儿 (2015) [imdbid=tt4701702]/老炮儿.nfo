@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[老炮儿在北京话中，专指提笼遛鸟，无所事事的老混混儿。六爷（冯小刚 饰）就曾是”横行“老北京的老炮儿之一，如今过着悠闲自得的日子，却不想自己的儿子晓波（李易峰 饰）被卷入了与“小爷”小飞（吴亦凡 饰）的纠纷中。六爷试图出面摆平这起纠纷，并找来了昔日老友闷三儿（张涵予 饰）、话匣子（许晴 饰）、灯罩儿（刘桦 饰）帮忙，却发现这个时代已经有了一群新的“话事人”，自己这个顽主的江湖地位已经动摇，并且以往固守的生活方式已经渐渐被时代所抛弃，廉颇老矣尚能饭否？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-03 22:45:41</dateadded>
+  <title>老炮儿</title>
+  <originaltitle>老炮儿</originaltitle>
+  <actor>
+    <name>Feng Xiaogang</name>
+    <role>Liu Ye (Lao Pao Er)</role>
+    <type>Actor</type>
+    <tmdbid>1287732</tmdbid>
+    <imdbid>nm0271815</imdbid>
+  </actor>
+  <actor>
+    <name>Zhang Hanyu</name>
+    <role>Men San Er</role>
+    <type>Actor</type>
+    <tmdbid>99687</tmdbid>
+  </actor>
+  <actor>
+    <name>Xu Qing</name>
+    <role>Hua Xia Zi</role>
+    <type>Actor</type>
+    <tmdbid>78879</tmdbid>
+    <imdbid>nm0944647</imdbid>
+  </actor>
+  <actor>
+    <name>Kris Wu</name>
+    <role>Xiao Fei</role>
+    <type>Actor</type>
+    <tmdbid>1390948</tmdbid>
+    <imdbid>nm6806246</imdbid>
+  </actor>
+  <actor>
+    <name>Li Yifeng</name>
+    <role>Xiao Bo</role>
+    <type>Actor</type>
+    <tmdbid>1377674</tmdbid>
+  </actor>
+  <actor>
+    <name>Bai Ju-Gang</name>
+    <role>Xiao Fei's friend</role>
+    <type>Actor</type>
+    <tmdbid>1882288</tmdbid>
+  </actor>
+  <actor>
+    <name>Du Jun Ze</name>
+    <role>Twelve Master</role>
+    <type>Actor</type>
+    <tmdbid>2184052</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiang Shan</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1072015</tmdbid>
+  </actor>
+  <actor>
+    <name>Lian Yiming</name>
+    <role>Yang Huo'er</role>
+    <type>Actor</type>
+    <tmdbid>1882289</tmdbid>
+  </actor>
+  <actor>
+    <name>Liang Jing</name>
+    <role>Deng Zhao'er's wife</role>
+    <type>Actor</type>
+    <tmdbid>130866</tmdbid>
+    <imdbid>nm1981463</imdbid>
+  </actor>
+  <actor>
+    <name>Luis Nuo</name>
+    <role>Xiao Fei's friend</role>
+    <type>Actor</type>
+    <tmdbid>1914491</tmdbid>
+  </actor>
+  <actor>
+    <name>Ning Hao</name>
+    <role>Real Estate Agent</role>
+    <type>Actor</type>
+    <tmdbid>17295</tmdbid>
+    <imdbid>nm1928500</imdbid>
+  </actor>
+  <actor>
+    <name>Shang Yuxian</name>
+    <role>Xiao Fei's Girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>1982750</tmdbid>
+  </actor>
+  <actor>
+    <name>Tao Zeru</name>
+    <role>Liu Ye's old friend</role>
+    <type>Actor</type>
+    <tmdbid>1184600</tmdbid>
+  </actor>
+  <actor>
+    <name>Yu Hewei</name>
+    <role>Xiao Fei's guard</role>
+    <type>Actor</type>
+    <tmdbid>1344903</tmdbid>
+    <imdbid>nm3388842</imdbid>
+  </actor>
+  <actor>
+    <name>Zhang Yi</name>
+    <role>Lead Police on street</role>
+    <type>Actor</type>
+    <tmdbid>146098</tmdbid>
+    <imdbid>nm3589263</imdbid>
+  </actor>
+  <actor>
+    <name>Zhang Yishan</name>
+    <role>Xiao Bo's roommate</role>
+    <type>Actor</type>
+    <tmdbid>1191743</tmdbid>
+  </actor>
+  <actor>
+    <name>Yansong Zhao</name>
+    <role>Policeman</role>
+    <type>Actor</type>
+    <tmdbid>2272544</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Hua</name>
+    <role>灯罩儿</role>
+    <type>Actor</type>
+    <tmdbid>929120</tmdbid>
+    <imdbid>nm2348837</imdbid>
+  </actor>
+  <director tmdbid="131301" imdbid="nm1299690">Guan Hu</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=M5mo87QHVg0</trailer>
+  <rating>6.9</rating>
+  <year>2015</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt4701702</imdbid>
+  <tmdbid>357940</tmdbid>
+  <premiered>2015-09-16</premiered>
+  <releasedate>2015-09-16</releasedate>
+  <criticrating>83</criticrating>
+  <runtime>137</runtime>
+  <country>China</country>
+  <genre>犯罪</genre>
+  <genre>动作</genre>
+  <genre>剧情</genre>
+  <studio>Huayi Brothers Pictures</studio>
+  <uniqueid type="Tmdb">357940</uniqueid>
+  <uniqueid type="Imdb">tt4701702</uniqueid>
+  <id>tt4701702</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>12510870</bitrate>
+        <width>1920</width>
+        <height>720</height>
+        <aspect>8:3</aspect>
+        <aspectratio>8:3</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>136</duration>
+        <durationinseconds>8200</durationinseconds>
+      </video>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,501 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[1947年，小有成就的青年银行家安迪因涉嫌杀害妻子及她的情人而锒铛入狱。在这座名为肖申克的监狱内，希望似乎虚无缥缈，终身监禁的惩罚无疑注定了安迪接下来灰暗绝望的人生。未过多久，安迪尝试接近囚犯中颇有声望的瑞德，请求对方帮自己搞来小锤子。以此为契机，二人逐渐熟络，安迪也仿佛在鱼龙混杂、罪恶横生、黑白混淆的牢狱中找到属于自己的求生之道。他利用自身的专业知识，帮助监狱管理层逃税、洗黑钱，同时凭借与瑞德的交往在犯人中间也渐渐受到礼遇。表面看来，他已如瑞德那样对那堵高墙从憎恨转变为处之泰然，但是对自由的渴望仍促使他朝着心中的希望和目标前进。而关于其罪行的真相，似乎更使这一切朝前推进了一步……]]></plot>
+  <outline><![CDATA[恐惧会囚禁灵魂，而希望能让你自由]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-01-18 09:10:56</dateadded>
+  <title>肖申克的救赎</title>
+  <originaltitle>The Shawshank Redemption</originaltitle>
+  <actor>
+    <name>Tim Robbins</name>
+    <role>Andy Dufresne</role>
+    <type>Actor</type>
+    <tmdbid>504</tmdbid>
+    <imdbid>nm0000209</imdbid>
+  </actor>
+  <actor>
+    <name>Morgan Freeman</name>
+    <role>Ellis Boyd "Red" Redding</role>
+    <type>Actor</type>
+    <tmdbid>192</tmdbid>
+    <imdbid>nm0000151</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Gunton</name>
+    <role>Warden Samuel Norton</role>
+    <type>Actor</type>
+    <tmdbid>4029</tmdbid>
+    <imdbid>nm0348409</imdbid>
+  </actor>
+  <actor>
+    <name>William Sadler</name>
+    <role>Heywood</role>
+    <type>Actor</type>
+    <tmdbid>6573</tmdbid>
+    <imdbid>nm0006669</imdbid>
+  </actor>
+  <actor>
+    <name>Clancy Brown</name>
+    <role>Captain Byron T. Hadley</role>
+    <type>Actor</type>
+    <tmdbid>6574</tmdbid>
+    <imdbid>nm0000317</imdbid>
+  </actor>
+  <actor>
+    <name>Gil Bellows</name>
+    <role>Tommy</role>
+    <type>Actor</type>
+    <tmdbid>6575</tmdbid>
+    <imdbid>nm0004743</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Rolston</name>
+    <role>Bogs Diamond</role>
+    <type>Actor</type>
+    <tmdbid>6576</tmdbid>
+    <imdbid>nm0001679</imdbid>
+  </actor>
+  <actor>
+    <name>James Whitmore</name>
+    <role>Brooks Hatlen</role>
+    <type>Actor</type>
+    <tmdbid>6577</tmdbid>
+    <imdbid>nm0926235</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey DeMunn</name>
+    <role>1946 D.A.</role>
+    <type>Actor</type>
+    <tmdbid>12645</tmdbid>
+    <imdbid>nm0218810</imdbid>
+  </actor>
+  <actor>
+    <name>Larry Brandenburg</name>
+    <role>Skeet</role>
+    <type>Actor</type>
+    <tmdbid>92119</tmdbid>
+    <imdbid>nm0104594</imdbid>
+  </actor>
+  <actor>
+    <name>Neil Giuntoli</name>
+    <role>Jigger</role>
+    <type>Actor</type>
+    <tmdbid>168323</tmdbid>
+    <imdbid>nm0321358</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Libby</name>
+    <role>Floyd</role>
+    <type>Actor</type>
+    <tmdbid>6580</tmdbid>
+    <imdbid>nm0508742</imdbid>
+  </actor>
+  <actor>
+    <name>David Proval</name>
+    <role>Snooze</role>
+    <type>Actor</type>
+    <tmdbid>2555</tmdbid>
+    <imdbid>nm0698998</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Ragno</name>
+    <role>Ernie</role>
+    <type>Actor</type>
+    <tmdbid>5063</tmdbid>
+    <imdbid>nm0706554</imdbid>
+  </actor>
+  <actor>
+    <name>Jude Ciccolella</name>
+    <role>Guard Mert</role>
+    <type>Actor</type>
+    <tmdbid>8693</tmdbid>
+    <imdbid>nm0161980</imdbid>
+  </actor>
+  <actor>
+    <name>Paul McCrane</name>
+    <role>Guard Trout</role>
+    <type>Actor</type>
+    <tmdbid>32393</tmdbid>
+    <imdbid>nm0005204</imdbid>
+  </actor>
+  <actor>
+    <name>Renee Blaine</name>
+    <role>Andy Dufresne's Wife</role>
+    <type>Actor</type>
+    <tmdbid>6578</tmdbid>
+    <imdbid>nm0086169</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Mann</name>
+    <role>Glenn Quentin</role>
+    <type>Actor</type>
+    <tmdbid>1624179</tmdbid>
+    <imdbid>nm0542957</imdbid>
+  </actor>
+  <actor>
+    <name>John Horton</name>
+    <role>1946 Judge</role>
+    <type>Actor</type>
+    <tmdbid>163979</tmdbid>
+    <imdbid>nm0395612</imdbid>
+  </actor>
+  <actor>
+    <name>Gordon Greene</name>
+    <role>1947 Parole Hearings Man</role>
+    <type>Actor</type>
+    <tmdbid>194459</tmdbid>
+    <imdbid>nm2939075</imdbid>
+  </actor>
+  <actor>
+    <name>Alfonso Freeman</name>
+    <role>Fresh Fish Con</role>
+    <type>Actor</type>
+    <tmdbid>52603</tmdbid>
+    <imdbid>nm0293285</imdbid>
+  </actor>
+  <actor>
+    <name>V.J. Foster</name>
+    <role>Hungry Fish Con</role>
+    <type>Actor</type>
+    <tmdbid>122596</tmdbid>
+    <imdbid>nm0288106</imdbid>
+  </actor>
+  <actor>
+    <name>John E. Summers</name>
+    <role>New Fish Guard</role>
+    <type>Actor</type>
+    <tmdbid>2772979</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Medrano</name>
+    <role>Fat Ass</role>
+    <type>Actor</type>
+    <tmdbid>1216752</tmdbid>
+    <imdbid>nm0535084</imdbid>
+  </actor>
+  <actor>
+    <name>Mack Miles</name>
+    <role>Tyrell</role>
+    <type>Actor</type>
+    <tmdbid>139992</tmdbid>
+    <imdbid>nm0587183</imdbid>
+  </actor>
+  <actor>
+    <name>Alan R. Kessler</name>
+    <role>Laundry Bob</role>
+    <type>Actor</type>
+    <tmdbid>2772983</tmdbid>
+  </actor>
+  <actor>
+    <name>Morgan Lund</name>
+    <role>Laundry Truck Driver</role>
+    <type>Actor</type>
+    <tmdbid>1853997</tmdbid>
+    <imdbid>nm0526218</imdbid>
+  </actor>
+  <actor>
+    <name>Cornell Wallace</name>
+    <role>Laundry Leonard</role>
+    <type>Actor</type>
+    <tmdbid>2772985</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Lee Davis</name>
+    <role>Rooster</role>
+    <type>Actor</type>
+    <tmdbid>32656</tmdbid>
+    <imdbid>nm0204632</imdbid>
+  </actor>
+  <actor>
+    <name>Neil Summers</name>
+    <role>Pete</role>
+    <type>Actor</type>
+    <tmdbid>179188</tmdbid>
+    <imdbid>nm0838612</imdbid>
+  </actor>
+  <actor>
+    <name>Ned Bellamy</name>
+    <role>Guard Youngblood</role>
+    <type>Actor</type>
+    <tmdbid>2141</tmdbid>
+    <imdbid>nm0068709</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Pecoraro</name>
+    <role>Projectionist</role>
+    <type>Actor</type>
+    <tmdbid>2772989</tmdbid>
+  </actor>
+  <actor>
+    <name>Harold E. Cope Jr.</name>
+    <role>Hole Guard</role>
+    <type>Actor</type>
+    <tmdbid>2772990</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Delate</name>
+    <role>Guard Dekins</role>
+    <type>Actor</type>
+    <tmdbid>6579</tmdbid>
+    <imdbid>nm0216507</imdbid>
+  </actor>
+  <actor>
+    <name>Don McManus</name>
+    <role>Guard Wiley</role>
+    <type>Actor</type>
+    <tmdbid>79025</tmdbid>
+    <imdbid>nm0573134</imdbid>
+  </actor>
+  <actor>
+    <name>Donald Zinn</name>
+    <role>Moresby Batter</role>
+    <type>Actor</type>
+    <tmdbid>2574896</tmdbid>
+  </actor>
+  <actor>
+    <name>Dorothy Silver</name>
+    <role>1954 Landlady</role>
+    <type>Actor</type>
+    <tmdbid>1422439</tmdbid>
+    <imdbid>nm0798685</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Haley</name>
+    <role>1954 Food-Way Manager</role>
+    <type>Actor</type>
+    <tmdbid>123302</tmdbid>
+    <imdbid>nm0355121</imdbid>
+  </actor>
+  <actor>
+    <name>Dana Snyder</name>
+    <role>1954 Food-Way Woman</role>
+    <type>Actor</type>
+    <tmdbid>2772991</tmdbid>
+  </actor>
+  <actor>
+    <name>John D. Craig</name>
+    <role>1957 Parole Hearings Man</role>
+    <type>Actor</type>
+    <tmdbid>2294531</tmdbid>
+  </actor>
+  <actor>
+    <name>Ken Magee</name>
+    <role>Ned Grimes</role>
+    <type>Actor</type>
+    <tmdbid>1537819</tmdbid>
+    <imdbid>nm0535850</imdbid>
+  </actor>
+  <actor>
+    <name>Eugene C. DePasquale</name>
+    <role>Mail Caller</role>
+    <type>Actor</type>
+    <tmdbid>2772995</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Bolender</name>
+    <role>Elmo Blatch</role>
+    <type>Actor</type>
+    <tmdbid>105649</tmdbid>
+    <imdbid>nm0092877</imdbid>
+  </actor>
+  <actor>
+    <name>Ron Newell</name>
+    <role>Elderly Hole Guard</role>
+    <type>Actor</type>
+    <tmdbid>2779347</tmdbid>
+  </actor>
+  <actor>
+    <name>John R. Woodward</name>
+    <role>Bullhorn Tower Guard</role>
+    <type>Actor</type>
+    <tmdbid>1123794</tmdbid>
+    <imdbid>nm0003440</imdbid>
+  </actor>
+  <actor>
+    <name>Chuck Brauchler</name>
+    <role>Man Missing Guard</role>
+    <type>Actor</type>
+    <tmdbid>2774986</tmdbid>
+  </actor>
+  <actor>
+    <name>Dion Anderson</name>
+    <role>Head Bull Haig</role>
+    <type>Actor</type>
+    <tmdbid>91420</tmdbid>
+    <imdbid>nm0026627</imdbid>
+  </actor>
+  <actor>
+    <name>Claire Slemmer</name>
+    <role>Bank Teller</role>
+    <type>Actor</type>
+    <tmdbid>2231406</tmdbid>
+  </actor>
+  <actor>
+    <name>James Kisicki</name>
+    <role>Bank Manager</role>
+    <type>Actor</type>
+    <tmdbid>1634770</tmdbid>
+  </actor>
+  <actor>
+    <name>Rohn Thomas</name>
+    <role>Bugle Editor</role>
+    <type>Actor</type>
+    <tmdbid>27690</tmdbid>
+    <imdbid>nm0859459</imdbid>
+  </actor>
+  <actor>
+    <name>Charlie Kearns</name>
+    <role>1966 D.A.</role>
+    <type>Actor</type>
+    <tmdbid>2774993</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Reider</name>
+    <role>Duty Guard</role>
+    <type>Actor</type>
+    <tmdbid>2774995</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Brophy</name>
+    <role>1967 Parole Hearings Man</role>
+    <type>Actor</type>
+    <tmdbid>48587</tmdbid>
+    <imdbid>nm0112393</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Kennedy</name>
+    <role>1967 Food-Way Manager</role>
+    <type>Actor</type>
+    <tmdbid>2775011</tmdbid>
+  </actor>
+  <actor>
+    <name>James Babson</name>
+    <role>Con (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>25659</tmdbid>
+    <imdbid>nm1186736</imdbid>
+  </actor>
+  <actor>
+    <name>Dennis Baker</name>
+    <role>Old Man on Bus (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1771867</tmdbid>
+    <imdbid>nm1042077</imdbid>
+  </actor>
+  <actor>
+    <name>Fred Culbertson</name>
+    <role>Police Officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1185588</tmdbid>
+    <imdbid>nm0191355</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Doone</name>
+    <role>Con (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1545526</tmdbid>
+    <imdbid>nm1152611</imdbid>
+  </actor>
+  <actor>
+    <name>Alonzo F. Jones</name>
+    <role>Inmate (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>92647</tmdbid>
+    <imdbid>nm1115889</imdbid>
+  </actor>
+  <actor>
+    <name>Sergio Kato</name>
+    <role>Inmate II (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1337623</tmdbid>
+    <imdbid>nm1415992</imdbid>
+  </actor>
+  <actor>
+    <name>Gary A. Jones</name>
+    <role>Convict (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1636797</tmdbid>
+    <imdbid>nm4688815</imdbid>
+  </actor>
+  <director tmdbid="4027" imdbid="nm0001104">Frank Darabont</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=K_tLp7T6U1c</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uMwECVb1q54</trailer>
+  <rating>9.3</rating>
+  <year>1994</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0111161</imdbid>
+  <tmdbid>278</tmdbid>
+  <premiered>1994-09-23</premiered>
+  <releasedate>1994-09-23</releasedate>
+  <criticrating>91</criticrating>
+  <runtime>143</runtime>
+  <tagline>恐惧会囚禁灵魂，而希望能让你自由</tagline>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>犯罪</genre>
+  <studio>Castle Rock Entertainment</studio>
+  <uniqueid type="Tmdb">278</uniqueid>
+  <uniqueid type="Imdb">tt0111161</uniqueid>
+  <id>tt0111161</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>12455214</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>142</duration>
+        <durationinseconds>8553</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>DVDSUB</codec>
+        <micodec>DVDSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>DVDSUB</codec>
+        <micodec>DVDSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>DVDSUB</codec>
+        <micodec>DVDSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

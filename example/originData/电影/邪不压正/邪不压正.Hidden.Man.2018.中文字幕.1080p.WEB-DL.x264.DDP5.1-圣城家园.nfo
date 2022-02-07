@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　北洋年间，北京以北。  习武少年李天然目睹师兄朱潜龙勾结日本特务根本一郎，杀害师父全家。李天然侥幸从枪下逃脱，被美国医生亨德勒救下。  李天然伤愈后，赴美学医多年，并同时接受特工训练。  1937年初，李天然突然受命回国。  “七七事变”前夜，北平，这座国际间谍之城，华洋混杂，山头林立。  每时每刻充满诱惑与杀机。  一心复仇的李天然，并不知道自己被卷入了一场阴谋，亦搅乱了一盘棋局。彼时彼刻，如同李小龙闯进了谍都卡萨布兰卡。  前朝武人蓝青峰，神秘莫测，与朱潜龙、根本一郎关系紧密，更与亨德勒情同手足。是敌是友？面目不清。  随着中日危机不断升级，各方博弈愈演愈烈。  多次为谎言蛊惑、错失时机的李天然，终于下定决心，在红颜帮助下开启复仇行动。  且看负有国恨家仇且智勇双全之李天然，如何荡涤这摊污泥浊水！]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-01-21 01:50:20</dateadded>
+  <title>邪不压正</title>
+  <originaltitle>邪不压正</originaltitle>
+  <actor>
+    <name>Jiang Wen</name>
+    <role>Lan Qingfeng</role>
+    <type>Actor</type>
+    <tmdbid>77301</tmdbid>
+    <imdbid>nm0422638</imdbid>
+  </actor>
+  <actor>
+    <name>Eddie Peng</name>
+    <role>Li Tianran</role>
+    <type>Actor</type>
+    <tmdbid>126778</tmdbid>
+  </actor>
+  <actor>
+    <name>Liao Fan</name>
+    <role>Zhu Qianlong</role>
+    <type>Actor</type>
+    <tmdbid>99692</tmdbid>
+    <imdbid>nm1233224</imdbid>
+  </actor>
+  <actor>
+    <name>Zhou Yun</name>
+    <role>Guan Qiaohong</role>
+    <type>Actor</type>
+    <tmdbid>144813</tmdbid>
+    <imdbid>nm1497874</imdbid>
+  </actor>
+  <actor>
+    <name>Xu Qing</name>
+    <role>Tang Fengyi</role>
+    <type>Actor</type>
+    <tmdbid>78879</tmdbid>
+    <imdbid>nm0944647</imdbid>
+  </actor>
+  <actor>
+    <name>Ding Jiali</name>
+    <role>Master's wife</role>
+    <type>Actor</type>
+    <tmdbid>1293226</tmdbid>
+    <imdbid>nm0227621</imdbid>
+  </actor>
+  <actor>
+    <name>Andy Friend</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1552500</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Meng</name>
+    <role>Lan's daughter</role>
+    <type>Actor</type>
+    <tmdbid>1174686</tmdbid>
+    <imdbid>nm4083288</imdbid>
+  </actor>
+  <actor>
+    <name>Hang Shi</name>
+    <role>Pan Yueran</role>
+    <type>Actor</type>
+    <tmdbid>2145822</tmdbid>
+  </actor>
+  <actor>
+    <name>Junichi Kajioka</name>
+    <type>Actor</type>
+    <tmdbid>1168129</tmdbid>
+    <imdbid>nm2554701</imdbid>
+  </actor>
+  <actor>
+    <name>Kenya Sawada</name>
+    <type>Actor</type>
+    <tmdbid>1186988</tmdbid>
+    <imdbid>nm0767986</imdbid>
+  </actor>
+  <director tmdbid="77301" imdbid="nm0422638">Jiang Wen</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=moUJBesANoY</trailer>
+  <rating>6.3</rating>
+  <year>2018</year>
+  <imdbid>tt8434380</imdbid>
+  <tmdbid>503235</tmdbid>
+  <premiered>2018-07-13</premiered>
+  <releasedate>2018-07-13</releasedate>
+  <criticrating>67</criticrating>
+  <runtime>137</runtime>
+  <country>China</country>
+  <genre>冒险</genre>
+  <genre>动作</genre>
+  <genre>爱情</genre>
+  <studio>Gravity Pictures</studio>
+  <uniqueid type="Tmdb">503235</uniqueid>
+  <uniqueid type="Imdb">tt8434380</uniqueid>
+  <id>tt8434380</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3382627</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>137</duration>
+        <durationinseconds>8228</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

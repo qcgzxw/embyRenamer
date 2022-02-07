@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[全家人奋力对抗一只把捏造的记忆植入他们脑海的寄生虫，这也让大家思索便便洞先生这个朋友，究竟是不是真有其人。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 07:51:03</dateadded>
+  <title>拦截记忆码</title>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>Keith David</name>
+    <role>Reverse Giraffe (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>65827</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Walsh</name>
+    <role>Sleepy Gary (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>59841</tmdbid>
+    <imdbid>nm0909768</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Barbieri</name>
+    <role>Uncle Steve / Mr. Beauregard (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1225018</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Kenny</name>
+    <role>Nazi / Pencilvester (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>78798</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Michael Richardson</name>
+    <role>Frankenstein / Hamurai / Mrs. Refrigerator (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>24362</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Ridley</name>
+    <role>Cousin Nicky (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1365425</tmdbid>
+  </actor>
+  <actor>
+    <name>Jevin Smith</name>
+    <role>Rapper (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>2599890</tmdbid>
+  </actor>
+  <actor>
+    <name>Tara Strong</name>
+    <role>Tinkles / Doctor (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>15762</tmdbid>
+  </actor>
+  <director>Juan Jose Meza-Leon</director>
+  <rating>9.6</rating>
+  <year>2015</year>
+  <imdbid>tt4832262</imdbid>
+  <tvdbid>5292288</tvdbid>
+  <runtime>22</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <genre>Sci-Fi</genre>
+  <tvrageid>1065849490</tvrageid>
+  <uniqueid type="Tvdb">5292288</uniqueid>
+  <uniqueid type="Imdb">tt4832262</uniqueid>
+  <uniqueid type="TvRage">1065849490</uniqueid>
+  <episode>4</episode>
+  <season>2</season>
+  <aired>2015-08-16</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2561690</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+        <duration>21</duration>
+        <durationinseconds>1316</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

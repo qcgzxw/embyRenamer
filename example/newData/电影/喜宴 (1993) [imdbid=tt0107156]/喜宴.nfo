@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[伟同（赵文瑄）是事业有成的男同志，与男友赛门（Mitchell Lichtenstein）在美国过着幸福的同居日子，烦恼来自要用各种招数应对远在台北的父（郎雄）母（归亚蕾）的一次次逼婚。伟同被逼以“乖乖仔”形象修书一封声称会在美国结婚，没料父母想亲眼见证。无奈，他只得拉上来自上海的不得志的女艺术家葳葳（金素梅）“假婚”，想逃过一劫。
+ 　　父母对葳葳相当满意，却对伟同的草率态度不满，为让父母满意尽快返回台北，伟同犹如“拼命三郎”使出了浑身解数。但人算不如天算，不断的波折使得父母的返台日期一次次推迟，令他和赛门的感情亮起“红灯”，而葳葳又意外怀上了他的孩子。似乎，伟同在强大的父母（传统）面前，只能选择去做一个 “表面正常”的男人。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-03 22:21:31</dateadded>
+  <title>喜宴</title>
+  <originaltitle>喜宴</originaltitle>
+  <actor>
+    <name>Gua Ah-leh</name>
+    <role>Mrs. Gao</role>
+    <type>Actor</type>
+    <tmdbid>57057</tmdbid>
+  </actor>
+  <actor>
+    <name>Sihung Lung</name>
+    <role>Mr. Gao</role>
+    <type>Actor</type>
+    <tmdbid>1623</tmdbid>
+    <imdbid>nm0485950</imdbid>
+  </actor>
+  <actor>
+    <name>May Chin</name>
+    <role>Wei-Wei</role>
+    <type>Actor</type>
+    <tmdbid>57056</tmdbid>
+  </actor>
+  <actor>
+    <name>Winston Chao</name>
+    <role>Wai-Tung Gao</role>
+    <type>Actor</type>
+    <tmdbid>57054</tmdbid>
+  </actor>
+  <actor>
+    <name>Mitchell Lichtenstein</name>
+    <role>Simon</role>
+    <type>Actor</type>
+    <tmdbid>57055</tmdbid>
+  </actor>
+  <actor>
+    <name>Neal Huff</name>
+    <role>Steve</role>
+    <type>Actor</type>
+    <tmdbid>58544</tmdbid>
+    <imdbid>nm0400223</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Gaston</name>
+    <role>Justice of the Peace</role>
+    <type>Actor</type>
+    <tmdbid>33241</tmdbid>
+  </actor>
+  <actor>
+    <name>Ang Lee</name>
+    <role>Guest</role>
+    <type>Actor</type>
+    <tmdbid>1614</tmdbid>
+    <imdbid>nm0000487</imdbid>
+  </actor>
+  <actor>
+    <name>Mason Lee</name>
+    <role>Baby</role>
+    <type>Actor</type>
+    <tmdbid>543138</tmdbid>
+    <imdbid>nm0497853</imdbid>
+  </actor>
+  <actor>
+    <name>Dion Birney</name>
+    <role>Andrew</role>
+    <type>Actor</type>
+    <tmdbid>1702819</tmdbid>
+  </actor>
+  <director tmdbid="1614" imdbid="nm0000487">Ang Lee</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=nlBQrLjzefQ</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=5kVkRhXt3S4</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iqM6_lKD7TY</trailer>
+  <rating>7.6</rating>
+  <year>1993</year>
+  <imdbid>tt0107156</imdbid>
+  <tmdbid>9261</tmdbid>
+  <premiered>1993-08-04</premiered>
+  <releasedate>1993-08-04</releasedate>
+  <criticrating>96</criticrating>
+  <runtime>108</runtime>
+  <country>Taiwan</country>
+  <country>United States of America</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <studio>Ang Lee Productions</studio>
+  <studio>Good Machine</studio>
+  <set>
+    <name>李安 Ang Lee</name>
+  </set>
+  <uniqueid type="Tmdb">9261</uniqueid>
+  <uniqueid type="Imdb">tt0107156</uniqueid>
+  <id>tt0107156</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5606189</bitrate>
+        <width>1920</width>
+        <height>1036</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>107</duration>
+        <durationinseconds>6462</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>320000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

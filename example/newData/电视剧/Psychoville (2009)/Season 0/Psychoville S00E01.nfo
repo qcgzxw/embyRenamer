@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot />
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-06 00:40:23</dateadded>
+  <title>万圣节特别篇</title>
+  <actor>
+    <name>Dawn French</name>
+    <type>Actor</type>
+    <tmdbid>5539</tmdbid>
+    <imdbid>nm0294067</imdbid>
+  </actor>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Maureen Sowerbutts</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Biggins</name>
+    <type>Actor</type>
+    <tmdbid>133499</tmdbid>
+    <imdbid>nm0081811</imdbid>
+  </actor>
+  <actor>
+    <name>Debbie Chazen</name>
+    <type>Actor</type>
+    <tmdbid>1220030</tmdbid>
+    <imdbid>nm0154708</imdbid>
+  </actor>
+  <actor>
+    <name>Eileen Atkins</name>
+    <type>Actor</type>
+    <tmdbid>20300</tmdbid>
+    <imdbid>nm0040586</imdbid>
+  </actor>
+  <actor>
+    <name>Natalie Cassidy</name>
+    <type>Actor</type>
+    <tmdbid>1216087</tmdbid>
+    <imdbid>nm0144231</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Kaluuya</name>
+    <role>Tealeaf / Michael Fry</role>
+    <type>Actor</type>
+    <tmdbid>206919</tmdbid>
+    <imdbid>nm2257207</imdbid>
+  </actor>
+  <actor>
+    <name>Imelda Staunton</name>
+    <type>Actor</type>
+    <tmdbid>11356</tmdbid>
+    <imdbid>nm0001767</imdbid>
+  </actor>
+  <actor>
+    <name>Vilma Hollingbery</name>
+    <type>Actor</type>
+    <tmdbid>81031</tmdbid>
+    <imdbid>nm0391108</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>David Sowerbutts</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Fenton</name>
+    <type>GuestStar</type>
+    <tmdbid>53365</tmdbid>
+    <imdbid>nm2762577</imdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Sidi</name>
+    <type>GuestStar</type>
+    <tmdbid>84928</tmdbid>
+    <imdbid>nm0796594</imdbid>
+  </actor>
+  <rating>0</rating>
+  <year>2010</year>
+  <runtime>59</runtime>
+  <episode>1</episode>
+  <season>0</season>
+  <aired>2010-10-31</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4478868</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>58</duration>
+        <durationinseconds>3536</durationinseconds>
+      </video>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

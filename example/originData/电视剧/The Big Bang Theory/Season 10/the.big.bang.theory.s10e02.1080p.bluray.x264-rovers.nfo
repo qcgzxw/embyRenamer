@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[空军上校威廉斯为了量子陀螺仪来见霍华。 贝妮黛对于同事大谈自己的近况，感到大为光火。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-16 16:51:43</dateadded>
+  <title>The Military Miniaturization</title>
+  <actor>
+    <name>Dean Norris</name>
+    <type>GuestStar</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Zuckerman</name>
+    <type>GuestStar</type>
+    <tmdbid>62816</tmdbid>
+    <imdbid>nm0958430</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.4</rating>
+  <year>2016</year>
+  <imdbid>tt5973910</imdbid>
+  <tvdbid>5714255</tvdbid>
+  <runtime>19</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <uniqueid type="Imdb">tt5973910</uniqueid>
+  <uniqueid type="Tvdb">5714255</uniqueid>
+  <episode>2</episode>
+  <season>10</season>
+  <aired>2016-09-26</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11033810</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>18</duration>
+        <durationinseconds>1131</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

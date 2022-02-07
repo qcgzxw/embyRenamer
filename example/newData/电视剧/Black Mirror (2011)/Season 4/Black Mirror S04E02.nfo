@@ -1,0 +1,197 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[《大天使》：马莉（罗丝玛丽·德薇特 Rosemarie DeWitt 饰）为了保护自己的女儿不受伤害而加入了“大天使”计划。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-07 10:27:01</dateadded>
+  <title>方舟天使</title>
+  <actor>
+    <name>Rosemarie DeWitt</name>
+    <role>Marie</role>
+    <type>GuestStar</type>
+    <tmdbid>14892</tmdbid>
+    <imdbid>nm1679669</imdbid>
+  </actor>
+  <actor>
+    <name>Brenna Harding</name>
+    <role>Sara</role>
+    <type>GuestStar</type>
+    <tmdbid>1256514</tmdbid>
+    <imdbid>nm3732586</imdbid>
+  </actor>
+  <actor>
+    <name>Owen Teague</name>
+    <role>Trick</role>
+    <type>GuestStar</type>
+    <tmdbid>1586047</tmdbid>
+    <imdbid>nm4977122</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Abbott</name>
+    <role>Sara (age 9)</role>
+    <type>GuestStar</type>
+    <tmdbid>1516081</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Baram</name>
+    <role>Dr. Usborne</role>
+    <type>GuestStar</type>
+    <tmdbid>1727020</tmdbid>
+  </actor>
+  <actor>
+    <name>Dempsey Bryk</name>
+    <role>Cal</role>
+    <type>GuestStar</type>
+    <tmdbid>1844055</tmdbid>
+  </actor>
+  <actor>
+    <name>Aniya Hodge</name>
+    <role>Sara (age 3)</role>
+    <type>GuestStar</type>
+    <tmdbid>1929455</tmdbid>
+  </actor>
+  <actor>
+    <name>Abby Quinn</name>
+    <role>Meryl</role>
+    <type>GuestStar</type>
+    <tmdbid>1473432</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenny Raven</name>
+    <role>Jasmine</role>
+    <type>GuestStar</type>
+    <tmdbid>1470403</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicky Torchia</name>
+    <role>Trick (age 12)</role>
+    <type>GuestStar</type>
+    <tmdbid>1929457</tmdbid>
+  </actor>
+  <actor>
+    <name>Mckayla Twiggs</name>
+    <role>Meryl (age 9)</role>
+    <type>GuestStar</type>
+    <tmdbid>1698873</tmdbid>
+  </actor>
+  <actor>
+    <name>Angela Vint</name>
+    <role>Anaesthetist</role>
+    <type>GuestStar</type>
+    <tmdbid>166481</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Weinberg</name>
+    <role>Surgeon</role>
+    <type>GuestStar</type>
+    <tmdbid>1039383</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Campbell</name>
+    <role>Russ</role>
+    <type>GuestStar</type>
+    <tmdbid>14902</tmdbid>
+  </actor>
+  <actor>
+    <name>Sabryn Rock</name>
+    <role>Pippa</role>
+    <type>GuestStar</type>
+    <tmdbid>1591244</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Braunstein</name>
+    <role>Anthony</role>
+    <type>GuestStar</type>
+    <tmdbid>948533</tmdbid>
+    <imdbid>nm0105951</imdbid>
+  </actor>
+  <director tmdbid="1038" imdbid="nm0000149">Jodie Foster</director>
+  <rating>6.976</rating>
+  <year>2017</year>
+  <imdbid>tt5709250</imdbid>
+  <tvdbid>6113561</tvdbid>
+  <runtime>52</runtime>
+  <uniqueid type="Tvdb">6113561</uniqueid>
+  <uniqueid type="Imdb">tt5709250</uniqueid>
+  <episode>2</episode>
+  <season>4</season>
+  <aired>2017-12-29</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3426739</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>52</duration>
+        <durationinseconds>3126</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

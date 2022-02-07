@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　丹尼•达可（杰克•盖伦霍尔 饰）患有精神疾病，某天晚 上他受到莫名的召唤，梦游，也因此逃避了一架飞机坠落在他房间天花板上，这样匪夷所思的事故。 　　自此以后，他的生活就发生了变化，频频出现幻觉，他时常看见一个兔人弗兰克，后者告诉他世界将在28天6小时48分12秒以后毁灭；他得到了一本书，《时空旅行奥义书》，对书中提到的时空旅行、离线宇宙产生了强烈的好奇。 　　随着世界末日的临近，杰克的生活越来约诡异，他新认识的女朋友和家人也被卷了进去。看来，杰克想实现拯救世界的愿望，需要付出更多的代价。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-03-30 09:54:44</dateadded>
+  <title>死亡幻觉</title>
+  <originaltitle>Donnie Darko</originaltitle>
+  <actor>
+    <name>Jake Gyllenhaal</name>
+    <role>Donnie Darko</role>
+    <type>Actor</type>
+    <tmdbid>131</tmdbid>
+    <imdbid>nm0350453</imdbid>
+  </actor>
+  <actor>
+    <name>Jena Malone</name>
+    <role>Gretchen Ross</role>
+    <type>Actor</type>
+    <tmdbid>20089</tmdbid>
+    <imdbid>nm0540441</imdbid>
+  </actor>
+  <actor>
+    <name>Drew Barrymore</name>
+    <role>Karen Pomeroy</role>
+    <type>Actor</type>
+    <tmdbid>69597</tmdbid>
+    <imdbid>nm0000106</imdbid>
+  </actor>
+  <actor>
+    <name>James Duval</name>
+    <role>Frank</role>
+    <type>Actor</type>
+    <tmdbid>1582</tmdbid>
+    <imdbid>nm0001166</imdbid>
+  </actor>
+  <actor>
+    <name>Beth Grant</name>
+    <role>Kitty Farmer</role>
+    <type>Actor</type>
+    <tmdbid>5151</tmdbid>
+    <imdbid>nm0335275</imdbid>
+  </actor>
+  <actor>
+    <name>Maggie Gyllenhaal</name>
+    <role>Elizabeth Darko</role>
+    <type>Actor</type>
+    <tmdbid>1579</tmdbid>
+    <imdbid>nm0350454</imdbid>
+  </actor>
+  <actor>
+    <name>Mary McDonnell</name>
+    <role>Mrs. Rose Darko</role>
+    <type>Actor</type>
+    <tmdbid>1581</tmdbid>
+    <imdbid>nm0001521</imdbid>
+  </actor>
+  <actor>
+    <name>Holmes Osborne</name>
+    <role>Eddie Darko</role>
+    <type>Actor</type>
+    <tmdbid>1578</tmdbid>
+    <imdbid>nm0651660</imdbid>
+  </actor>
+  <actor>
+    <name>Katharine Ross</name>
+    <role>Dr. Lilian Thurman</role>
+    <type>Actor</type>
+    <tmdbid>9594</tmdbid>
+    <imdbid>nm0001684</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Swayze</name>
+    <role>Jim Cunningham</role>
+    <type>Actor</type>
+    <tmdbid>723</tmdbid>
+    <imdbid>nm0000664</imdbid>
+  </actor>
+  <actor>
+    <name>Noah Wyle</name>
+    <role>Prof. Kenneth Monnitoff</role>
+    <type>Actor</type>
+    <tmdbid>13526</tmdbid>
+    <imdbid>nm0001864</imdbid>
+  </actor>
+  <actor>
+    <name>Daveigh Chase</name>
+    <role>Samantha Darko</role>
+    <type>Actor</type>
+    <tmdbid>1580</tmdbid>
+    <imdbid>nm0153738</imdbid>
+  </actor>
+  <actor>
+    <name>Arthur Taxier</name>
+    <role>Dr. Fisher</role>
+    <type>Actor</type>
+    <tmdbid>1583</tmdbid>
+    <imdbid>nm0851833</imdbid>
+  </actor>
+  <actor>
+    <name>David St. James</name>
+    <role>Bob Garland</role>
+    <type>Actor</type>
+    <tmdbid>1598</tmdbid>
+    <imdbid>nm0820574</imdbid>
+  </actor>
+  <actor>
+    <name>Patience Cleveland</name>
+    <role>Roberta Sparrow / Grandma Death</role>
+    <type>Actor</type>
+    <tmdbid>1585</tmdbid>
+    <imdbid>nm0166495</imdbid>
+  </actor>
+  <actor>
+    <name>Jazzie Mahannah</name>
+    <role>Joanie James</role>
+    <type>Actor</type>
+    <tmdbid>1599</tmdbid>
+    <imdbid>nm1065939</imdbid>
+  </actor>
+  <actor>
+    <name>Jolene Purdy</name>
+    <role>Cherita Chen</role>
+    <type>Actor</type>
+    <tmdbid>20088</tmdbid>
+    <imdbid>nm1066346</imdbid>
+  </actor>
+  <actor>
+    <name>David Moreland</name>
+    <role>Principal Cole</role>
+    <type>Actor</type>
+    <tmdbid>20090</tmdbid>
+    <imdbid>nm0603655</imdbid>
+  </actor>
+  <actor>
+    <name>Kristina Malota</name>
+    <role>Susie Bates</role>
+    <type>Actor</type>
+    <tmdbid>20091</tmdbid>
+    <imdbid>nm0540635</imdbid>
+  </actor>
+  <actor>
+    <name>Marina Malota</name>
+    <role>Emily Bates</role>
+    <type>Actor</type>
+    <tmdbid>20092</tmdbid>
+    <imdbid>nm0540637</imdbid>
+  </actor>
+  <actor>
+    <name>Scotty Leavenworth</name>
+    <role>David</role>
+    <type>Actor</type>
+    <tmdbid>20093</tmdbid>
+    <imdbid>nm0495358</imdbid>
+  </actor>
+  <actor>
+    <name>Phyllis Lyons</name>
+    <role>Anne Fisher</role>
+    <type>Actor</type>
+    <tmdbid>10383</tmdbid>
+    <imdbid>nm0529137</imdbid>
+  </actor>
+  <actor>
+    <name>Gary Lundy</name>
+    <role>Sean Smith</role>
+    <type>Actor</type>
+    <tmdbid>20094</tmdbid>
+    <imdbid>nm0973446</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Greenwald</name>
+    <role>Seth Devlin</role>
+    <type>Actor</type>
+    <tmdbid>20095</tmdbid>
+    <imdbid>nm0339233</imdbid>
+  </actor>
+  <actor>
+    <name>Stuart Stone</name>
+    <role>Ronald Fisher</role>
+    <type>Actor</type>
+    <tmdbid>156011</tmdbid>
+    <imdbid>nm0832187</imdbid>
+  </actor>
+  <actor>
+    <name>Joan Blair</name>
+    <role>Mystery Woman</role>
+    <type>Actor</type>
+    <tmdbid>85097</tmdbid>
+    <imdbid>nm0086276</imdbid>
+  </actor>
+  <actor>
+    <name>Seth Rogen</name>
+    <role>Ricky Danforth</role>
+    <type>Actor</type>
+    <tmdbid>19274</tmdbid>
+    <imdbid>nm0736622</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Hoffman</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>1584</tmdbid>
+    <imdbid>nm0389015</imdbid>
+  </actor>
+  <actor>
+    <name>Jerry Trainor</name>
+    <role>Lanky Kid</role>
+    <type>Actor</type>
+    <tmdbid>111512</tmdbid>
+    <imdbid>nm0999117</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Tangen</name>
+    <role>Man in Red Jogging Suit</role>
+    <type>Actor</type>
+    <tmdbid>553735</tmdbid>
+    <imdbid>nm0004159</imdbid>
+  </actor>
+  <actor>
+    <name>Carly Naples</name>
+    <role>Suzy Bailey</role>
+    <type>Actor</type>
+    <tmdbid>1946191</tmdbid>
+    <imdbid>nm1066128</imdbid>
+  </actor>
+  <actor>
+    <name>Lisa K. Wyatt</name>
+    <role>Linda Connie</role>
+    <type>Actor</type>
+    <tmdbid>39127</tmdbid>
+    <imdbid>nm0943566</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel Winfree</name>
+    <role>Shanda Riesman</role>
+    <type>Actor</type>
+    <tmdbid>155983</tmdbid>
+    <imdbid>nm0934910</imdbid>
+  </actor>
+  <actor>
+    <name>Ashley Tisdale</name>
+    <role>Kim</role>
+    <type>Actor</type>
+    <tmdbid>67600</tmdbid>
+    <imdbid>nm864308</imdbid>
+  </actor>
+  <actor>
+    <name>Tiler Peck</name>
+    <role>Beth Farmer</role>
+    <type>Actor</type>
+    <tmdbid>1934389</tmdbid>
+    <imdbid>nm0669732</imdbid>
+  </actor>
+  <actor>
+    <name>Fran Kranz</name>
+    <role>Passanger</role>
+    <type>Actor</type>
+    <tmdbid>51533</tmdbid>
+    <imdbid>nm0469823</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Hudson</name>
+    <role>Friend</role>
+    <type>Actor</type>
+    <tmdbid>1226416</tmdbid>
+    <imdbid>nm2441479</imdbid>
+  </actor>
+  <actor>
+    <name>Alison Jones</name>
+    <role>Dorky Half-Sister</role>
+    <type>Actor</type>
+    <tmdbid>150086</tmdbid>
+    <imdbid>nm0427448</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Weaver</name>
+    <role>Leroy</role>
+    <type>Actor</type>
+    <tmdbid>1481</tmdbid>
+    <imdbid>nm0915901</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Salvatore, Jr.</name>
+    <role>Larry Riesman</role>
+    <type>Actor</type>
+    <tmdbid>1212438</tmdbid>
+    <imdbid>nm0759345</imdbid>
+  </actor>
+  <director tmdbid="1577" imdbid="nm0446819">Richard Kelly</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=bzLn8sYeM9o</trailer>
+  <rating>8</rating>
+  <year>2001</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0246578</imdbid>
+  <tmdbid>141</tmdbid>
+  <premiered>2001-10-26</premiered>
+  <releasedate>2001-10-26</releasedate>
+  <criticrating>86</criticrating>
+  <runtime>134</runtime>
+  <country>United States of America</country>
+  <genre>奇幻</genre>
+  <genre>剧情</genre>
+  <genre>悬疑</genre>
+  <studio>Flower Films</studio>
+  <studio>Gaylord Films</studio>
+  <studio>Adam Fields Productions</studio>
+  <studio>Pandora Cinema</studio>
+  <set tmdbcolid="178106">
+    <name>死亡幻觉（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">141</uniqueid>
+  <uniqueid type="Imdb">tt0246578</uniqueid>
+  <id>tt0246578</id>
+  <fileinfo>
+    <streamdetails>
+      <audio>
+        <codec>cook</codec>
+        <micodec>cook</micodec>
+        <bitrate>96468</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>rv40</codec>
+        <micodec>rv40</micodec>
+        <bitrate>1597224</bitrate>
+        <width>1280</width>
+        <height>696</height>
+        <aspect>160:87</aspect>
+        <aspectratio>160:87</aspectratio>
+        <framerate>23.976044</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>133</duration>
+        <durationinseconds>8032</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+</movie>

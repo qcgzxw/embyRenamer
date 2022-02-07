@@ -1,0 +1,321 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Alan（扎克·加利凡纳基斯 Zach Galifianakis 饰）已经42岁了，却还和老爸老妈住在一块，有一天他的老爸“终于”被他气死了。Alan的几个死党Phil（布莱德利·库珀 Bradley Cooper 饰）、Stu（艾德·赫尔姆斯 Ed Helms 饰）和Doug（贾斯汀·巴萨 Justin Bartha 饰）决定带着Alan去亚利桑那的一个地方给他心理治疗。四个人在路上意外被一个叫Marshall的人给劫持了。原来这一切都是Leslie Chow（郑肯 Ken Jeong 饰）惹的祸。Chow从曼谷的监狱里逃出，并且劫走了Marshall的价值四千两百万的黄金中的一半。Marshall为了找出Chow，留下了Doug，让其余三人去把Chow带回来。Alan一直和Chow有联系，三人很快和Chow见了面，为了救回Doug，Chow决定带他们三人回原来自己的家中，取回那两千一百万黄金。眼看四人历经艰辛终于把黄金拿到了手，Chow却把他们三人锁在地下室，自己一个人带着黄金扬长而去。他们是否能救回Doug，这四个人又将经历怎样一段冒险旅程？ ©豆瓣]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-06-24 06:57:32</dateadded>
+  <title>宿醉3</title>
+  <originaltitle>The Hangover Part III</originaltitle>
+  <actor>
+    <name>Bradley Cooper</name>
+    <role>Phil Wenneck</role>
+    <type>Actor</type>
+    <tmdbid>51329</tmdbid>
+    <imdbid>nm0177896</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Helms</name>
+    <role>Stu Price</role>
+    <type>Actor</type>
+    <tmdbid>27105</tmdbid>
+    <imdbid>nm1159180</imdbid>
+  </actor>
+  <actor>
+    <name>Zach Galifianakis</name>
+    <role>Alan Garner</role>
+    <type>Actor</type>
+    <tmdbid>58225</tmdbid>
+    <imdbid>nm0302108</imdbid>
+  </actor>
+  <actor>
+    <name>Justin Bartha</name>
+    <role>Doug Billings</role>
+    <type>Actor</type>
+    <tmdbid>21180</tmdbid>
+    <imdbid>nm0058581</imdbid>
+  </actor>
+  <actor>
+    <name>Ken Jeong</name>
+    <role>Mr. Chow</role>
+    <type>Actor</type>
+    <tmdbid>83586</tmdbid>
+    <imdbid>nm0421822</imdbid>
+  </actor>
+  <actor>
+    <name>John Goodman</name>
+    <role>Marshall</role>
+    <type>Actor</type>
+    <tmdbid>1230</tmdbid>
+    <imdbid>nm0000422</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Epps</name>
+    <role>Black Doug</role>
+    <type>Actor</type>
+    <tmdbid>51944</tmdbid>
+    <imdbid>nm0258402</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Tambor</name>
+    <role>Sid Garner</role>
+    <type>Actor</type>
+    <tmdbid>4175</tmdbid>
+    <imdbid>nm0001787</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa McCarthy</name>
+    <role>Cassie</role>
+    <type>Actor</type>
+    <tmdbid>55536</tmdbid>
+    <imdbid>nm0565250</imdbid>
+  </actor>
+  <actor>
+    <name>Heather Graham</name>
+    <role>Jade</role>
+    <type>Actor</type>
+    <tmdbid>69122</tmdbid>
+    <imdbid>nm0001287</imdbid>
+  </actor>
+  <actor>
+    <name>Sasha Barrese</name>
+    <role>Tracy Garner</role>
+    <type>Actor</type>
+    <tmdbid>83585</tmdbid>
+    <imdbid>nm0056936</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Chung</name>
+    <role>Lauren</role>
+    <type>Actor</type>
+    <tmdbid>78324</tmdbid>
+    <imdbid>nm1512166</imdbid>
+  </actor>
+  <actor>
+    <name>Sondra Currie</name>
+    <role>Linda</role>
+    <type>Actor</type>
+    <tmdbid>153621</tmdbid>
+    <imdbid>nm0192997</imdbid>
+  </actor>
+  <actor>
+    <name>Gillian Vigman</name>
+    <role>Stephanie</role>
+    <type>Actor</type>
+    <tmdbid>61182</tmdbid>
+    <imdbid>nm0897005</imdbid>
+  </actor>
+  <actor>
+    <name>Oliver Cooper</name>
+    <role>Pharmacy Assistant</role>
+    <type>Actor</type>
+    <tmdbid>225694</tmdbid>
+    <imdbid>nm3967796</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Vallely</name>
+    <role>Nico</role>
+    <type>Actor</type>
+    <tmdbid>558036</tmdbid>
+    <imdbid>nm0885018</imdbid>
+  </actor>
+  <actor>
+    <name>Grant Holmquist</name>
+    <role>Tyler</role>
+    <type>Actor</type>
+    <tmdbid>1208438</tmdbid>
+    <imdbid>nm5653204</imdbid>
+  </actor>
+  <actor>
+    <name>Oscar Torre</name>
+    <role>Officer Vasquez</role>
+    <type>Actor</type>
+    <tmdbid>145219</tmdbid>
+    <imdbid>nm0868782</imdbid>
+  </actor>
+  <actor>
+    <name>Jonny Coyne</name>
+    <role>Hector</role>
+    <type>Actor</type>
+    <tmdbid>1323612</tmdbid>
+    <imdbid>nm0185431</imdbid>
+  </actor>
+  <actor>
+    <name>Silvia Curiel</name>
+    <role>House Keeper</role>
+    <type>Actor</type>
+    <tmdbid>945426</tmdbid>
+    <imdbid>nm1581028</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Lau</name>
+    <role>Chief Prison Guard</role>
+    <type>Actor</type>
+    <tmdbid>165827</tmdbid>
+    <imdbid>nm0490560</imdbid>
+  </actor>
+  <actor>
+    <name>Lela Loren</name>
+    <role>Female Officer</role>
+    <type>Actor</type>
+    <tmdbid>203781</tmdbid>
+    <imdbid>nm2187457</imdbid>
+  </actor>
+  <actor>
+    <name>Harrison Forsyth</name>
+    <role>Timothy</role>
+    <type>Actor</type>
+    <tmdbid>1573585</tmdbid>
+    <imdbid>nm3596836</imdbid>
+  </actor>
+  <actor>
+    <name>Roger Schueller</name>
+    <role>Priest at Funeral</role>
+    <type>Actor</type>
+    <tmdbid>1573587</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenny Ladner</name>
+    <role>Party Girl</role>
+    <type>Actor</type>
+    <tmdbid>1573586</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Anthony Leet</name>
+    <role>Henchman #1</role>
+    <type>Actor</type>
+    <tmdbid>108699</tmdbid>
+    <imdbid>nm0498782</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Sitarz</name>
+    <role>Henchman #2</role>
+    <type>Actor</type>
+    <tmdbid>37010</tmdbid>
+    <imdbid>nm0803192</imdbid>
+  </actor>
+  <actor>
+    <name>Betty Murphy</name>
+    <role>Cassie's Mom</role>
+    <type>Actor</type>
+    <tmdbid>571249</tmdbid>
+    <imdbid>nm0614104</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Le Boyer</name>
+    <role>Henchman #5 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1310385</tmdbid>
+    <imdbid>nm1035135</imdbid>
+  </actor>
+  <actor>
+    <name>Damion Poitier</name>
+    <role>Henchman #6 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>150194</tmdbid>
+    <imdbid>nm1364280</imdbid>
+  </actor>
+  <actor>
+    <name>Lewis Tan</name>
+    <role>Prison Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1610940</tmdbid>
+    <imdbid>nm1167985</imdbid>
+  </actor>
+  <actor>
+    <name>Tiffany Tynes</name>
+    <role>Casino Hottie (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1368206</tmdbid>
+    <imdbid>nm3363373</imdbid>
+  </actor>
+  <actor>
+    <name>Todd Phillips</name>
+    <role>Mr. Creepy</role>
+    <type>Actor</type>
+    <tmdbid>57130</tmdbid>
+    <imdbid>nm0680846</imdbid>
+  </actor>
+  <director tmdbid="57130" imdbid="nm0680846">Todd Phillips</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KuiSuF_5GrE</trailer>
+  <rating>5.8</rating>
+  <year>2013</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt1951261</imdbid>
+  <tmdbid>109439</tmdbid>
+  <premiered>2013-05-23</premiered>
+  <releasedate>2013-05-23</releasedate>
+  <criticrating>20</criticrating>
+  <runtime>100</runtime>
+  <country>United States of America</country>
+  <genre>喜剧</genre>
+  <studio>Green Hat Films</studio>
+  <studio>Legendary Pictures</studio>
+  <studio>BenderSpink</studio>
+  <set tmdbcolid="86119">
+    <name>宿醉（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">109439</uniqueid>
+  <uniqueid type="Imdb">tt1951261</uniqueid>
+  <id>tt1951261</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3963573</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>100</duration>
+        <durationinseconds>6009</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

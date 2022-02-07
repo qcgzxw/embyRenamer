@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[述一个60多岁的女人在经济大萧条中失去了一切，她作为一个居住在货车里的现代游牧民，开始了穿越美国西部的旅程。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-09 05:55:19</dateadded>
+  <title>无依之地</title>
+  <originaltitle>Nomadland</originaltitle>
+  <actor>
+    <name>Frances McDormand</name>
+    <role>Fern</role>
+    <type>Actor</type>
+    <tmdbid>3910</tmdbid>
+    <imdbid>nm0000531</imdbid>
+  </actor>
+  <actor>
+    <name>David Strathairn</name>
+    <role>Dave</role>
+    <type>Actor</type>
+    <tmdbid>11064</tmdbid>
+    <imdbid>nm0000657</imdbid>
+  </actor>
+  <actor>
+    <name>Linda May</name>
+    <role>Linda</role>
+    <type>Actor</type>
+    <tmdbid>2241214</tmdbid>
+  </actor>
+  <actor>
+    <name>Swankie</name>
+    <role>Swankie</role>
+    <type>Actor</type>
+    <tmdbid>2776341</tmdbid>
+  </actor>
+  <actor>
+    <name>Gay DeForest</name>
+    <role>Gay</role>
+    <type>Actor</type>
+    <tmdbid>2786070</tmdbid>
+  </actor>
+  <actor>
+    <name>Patricia Grier</name>
+    <role>Patty</role>
+    <type>Actor</type>
+    <tmdbid>2786072</tmdbid>
+  </actor>
+  <actor>
+    <name>Angela Reyes</name>
+    <role>Angela</role>
+    <type>Actor</type>
+    <tmdbid>2786074</tmdbid>
+  </actor>
+  <actor>
+    <name>Carl R. Hughes</name>
+    <role>Carl</role>
+    <type>Actor</type>
+    <tmdbid>2786076</tmdbid>
+  </actor>
+  <actor>
+    <name>Douglas G. Soul</name>
+    <role>Doug</role>
+    <type>Actor</type>
+    <tmdbid>2786077</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Aquino</name>
+    <role>Ryan</role>
+    <type>Actor</type>
+    <tmdbid>2786078</tmdbid>
+  </actor>
+  <actor>
+    <name>Teresa Buchanan</name>
+    <role>Teresa</role>
+    <type>Actor</type>
+    <tmdbid>2786080</tmdbid>
+  </actor>
+  <actor>
+    <name>Karie Lynn McDermott Wilder</name>
+    <role>Karie</role>
+    <type>Actor</type>
+    <tmdbid>2786081</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandy Wilber</name>
+    <role>Brandy</role>
+    <type>Actor</type>
+    <tmdbid>2786082</tmdbid>
+  </actor>
+  <actor>
+    <name>Makenzie Etcheverry</name>
+    <role>Makenzie</role>
+    <type>Actor</type>
+    <tmdbid>2786084</tmdbid>
+  </actor>
+  <actor>
+    <name>Bob Wells</name>
+    <role>Bob</role>
+    <type>Actor</type>
+    <tmdbid>2724256</tmdbid>
+  </actor>
+  <actor>
+    <name>Annette Webb</name>
+    <role>Annette</role>
+    <type>Actor</type>
+    <tmdbid>2786086</tmdbid>
+    <imdbid>nm11922485</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel Bannon</name>
+    <role>Rachel</role>
+    <type>Actor</type>
+    <tmdbid>2786087</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryce Bedsworth</name>
+    <role>Bryce</role>
+    <type>Actor</type>
+    <tmdbid>2922241</tmdbid>
+  </actor>
+  <actor>
+    <name>Sherita Deni Coker</name>
+    <role>Deni</role>
+    <type>Actor</type>
+    <tmdbid>2922242</tmdbid>
+  </actor>
+  <actor>
+    <name>Merle Redwing</name>
+    <role>Merle</role>
+    <type>Actor</type>
+    <tmdbid>2922243</tmdbid>
+  </actor>
+  <actor>
+    <name>Forrest Bault</name>
+    <role>Forrest</role>
+    <type>Actor</type>
+    <tmdbid>2922244</tmdbid>
+  </actor>
+  <actor>
+    <name>Suanne Carlson</name>
+    <role>Suanne</role>
+    <type>Actor</type>
+    <tmdbid>2922249</tmdbid>
+  </actor>
+  <actor>
+    <name>Donnie Miller</name>
+    <role>Donnie</role>
+    <type>Actor</type>
+    <tmdbid>2922250</tmdbid>
+  </actor>
+  <actor>
+    <name>Roxanne Bay</name>
+    <role>Roxy</role>
+    <type>Actor</type>
+    <tmdbid>2922251</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Sfaelos</name>
+    <role>Noodle</role>
+    <type>Actor</type>
+    <tmdbid>2922252</tmdbid>
+  </actor>
+  <actor>
+    <name>Ronald O. Zimmerman</name>
+    <role>Ron</role>
+    <type>Actor</type>
+    <tmdbid>2922253</tmdbid>
+  </actor>
+  <actor>
+    <name>Derek Endres</name>
+    <role>Derek</role>
+    <type>Actor</type>
+    <tmdbid>2776344</tmdbid>
+  </actor>
+  <actor>
+    <name>Paige Dean</name>
+    <role>Paige</role>
+    <type>Actor</type>
+    <tmdbid>2922254</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Winer</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>2922255</tmdbid>
+  </actor>
+  <actor>
+    <name>Derrick Janis</name>
+    <role>Victor</role>
+    <type>Actor</type>
+    <tmdbid>1800467</tmdbid>
+    <imdbid>nm6324458</imdbid>
+  </actor>
+  <actor>
+    <name>Greg Barber</name>
+    <role>Greg</role>
+    <type>Actor</type>
+    <tmdbid>2100873</tmdbid>
+    <imdbid>nm9759910</imdbid>
+  </actor>
+  <actor>
+    <name>Carol Anne Hodge</name>
+    <role>Carol</role>
+    <type>Actor</type>
+    <tmdbid>2922256</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Stinson</name>
+    <role>Nurse Matt</role>
+    <type>Actor</type>
+    <tmdbid>2922257</tmdbid>
+  </actor>
+  <actor>
+    <name>Terry Phillip</name>
+    <role>Terry</role>
+    <type>Actor</type>
+    <tmdbid>2922258</tmdbid>
+  </actor>
+  <actor>
+    <name>Bradford Lee Riza</name>
+    <role>Brad</role>
+    <type>Actor</type>
+    <tmdbid>2922259</tmdbid>
+  </actor>
+  <actor>
+    <name>Tay Strathairn</name>
+    <role>James</role>
+    <type>Actor</type>
+    <tmdbid>2294533</tmdbid>
+  </actor>
+  <actor>
+    <name>Cat Clifford</name>
+    <role>Cat</role>
+    <type>Actor</type>
+    <tmdbid>1800460</tmdbid>
+    <imdbid>nm6324453</imdbid>
+  </actor>
+  <actor>
+    <name>James R. Taylor, Jr.</name>
+    <role>James</role>
+    <type>Actor</type>
+    <tmdbid>2922260</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Greenman</name>
+    <role>Jeremy</role>
+    <type>Actor</type>
+    <tmdbid>2922261</tmdbid>
+  </actor>
+  <actor>
+    <name>Ken Greenman</name>
+    <role>Ken</role>
+    <type>Actor</type>
+    <tmdbid>2922262</tmdbid>
+  </actor>
+  <actor>
+    <name>Melissa Smith</name>
+    <role>Dolly</role>
+    <type>Actor</type>
+    <tmdbid>2922263</tmdbid>
+  </actor>
+  <actor>
+    <name>Warren Keith</name>
+    <role>George</role>
+    <type>Actor</type>
+    <tmdbid>2922264</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Andrews</name>
+    <role>Jeff</role>
+    <type>Actor</type>
+    <tmdbid>2922265</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Cunningham</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>2922266</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Foley</name>
+    <role>Emily</role>
+    <type>Actor</type>
+    <tmdbid>1950611</tmdbid>
+    <imdbid>nm3239083</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Sells</name>
+    <role>Mike</role>
+    <type>Actor</type>
+    <tmdbid>2922267</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Spears</name>
+    <role>Peter</role>
+    <type>Actor</type>
+    <tmdbid>156483</tmdbid>
+    <imdbid>nm0817379</imdbid>
+  </actor>
+  <actor>
+    <name>Cheryl Davis</name>
+    <role>Cheri</role>
+    <type>Actor</type>
+    <tmdbid>586183</tmdbid>
+    <imdbid>nm3188648</imdbid>
+  </actor>
+  <director tmdbid="1395183" imdbid="nm2125482">Chloé Zhao</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6sxCFZ8_d84</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=9lOUpRgKp5U</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KB8Ab-Qq7ww</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BZ4o4jwSaHk</trailer>
+  <rating>7.4</rating>
+  <year>2021</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt9770150</imdbid>
+  <tmdbid>581734</tmdbid>
+  <premiered>2021-01-29</premiered>
+  <releasedate>2021-01-29</releasedate>
+  <criticrating>94</criticrating>
+  <runtime>107</runtime>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <studio>Cor Cordium Productions</studio>
+  <studio>Hear/Say Productions</studio>
+  <studio>Highwayman Films</studio>
+  <uniqueid type="Tmdb">581734</uniqueid>
+  <uniqueid type="Imdb">tt9770150</uniqueid>
+  <id>tt9770150</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3345664</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>30</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>107</duration>
+        <durationinseconds>6435</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

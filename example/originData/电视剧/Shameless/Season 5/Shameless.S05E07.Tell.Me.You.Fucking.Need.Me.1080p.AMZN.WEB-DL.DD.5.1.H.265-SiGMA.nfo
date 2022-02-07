@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[伊恩开始恢复一些意识，却发现自己被强制拘留在精神病区。与此同时，萨米被迫采取严厉措施，给弗兰克上了一课。此外，菲奥娜决定了和谁共度未来，利普得知他的学费还不够12000美元，卡尔抓住机会让查基做他的奴隶，V搬出去后，斯维特拉娜搬到了凯夫那里，以换取他履行一些奇怪的“妻子职责”。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-16 18:15:05</dateadded>
+  <title>告诉我你是真的需要我</title>
+  <actor>
+    <name>William H. Macy</name>
+    <role>Frank Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>3905</tmdbid>
+    <imdbid>nm0000513</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Allen White</name>
+    <role>Lip Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>206905</tmdbid>
+    <imdbid>nm2087739</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Monaghan</name>
+    <role>Ian Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>37089</tmdbid>
+    <imdbid>nm1185747</imdbid>
+  </actor>
+  <actor>
+    <name>Noel Fisher</name>
+    <role>Mickey Milkovich</role>
+    <type>Actor</type>
+    <tmdbid>80352</tmdbid>
+    <imdbid>nm0279720</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Kenney</name>
+    <role>Debbie Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>1252801</tmdbid>
+    <imdbid>nm3160752</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Cutkosky</name>
+    <role>Carl Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>132213</tmdbid>
+    <imdbid>nm3103119</imdbid>
+  </actor>
+  <actor>
+    <name>Emmy Rossum</name>
+    <role>Fiona Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>4730</tmdbid>
+  </actor>
+  <actor>
+    <name>Shanola Hampton</name>
+    <role>Veronica Fisher</role>
+    <type>Actor</type>
+    <tmdbid>110531</tmdbid>
+    <imdbid>nm1342513</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Howey</name>
+    <role>Kevin Ball</role>
+    <type>Actor</type>
+    <tmdbid>81388</tmdbid>
+    <imdbid>nm0992538</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Bergl</name>
+    <role>Sammi Slott</role>
+    <type>Actor</type>
+    <tmdbid>51390</tmdbid>
+    <imdbid>nm0004749</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer DeFilippo</name>
+    <role>Teacher</role>
+    <type>GuestStar</type>
+    <tmdbid>1645239</tmdbid>
+  </actor>
+  <actor>
+    <name>Ellen Etten</name>
+    <role>Nurse</role>
+    <type>GuestStar</type>
+    <tmdbid>1270016</tmdbid>
+  </actor>
+  <actor>
+    <name>Wayne Federman</name>
+    <role>Norman</role>
+    <type>GuestStar</type>
+    <tmdbid>170759</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Peine</name>
+    <role>Lenny</role>
+    <type>GuestStar</type>
+    <tmdbid>1647426</tmdbid>
+  </actor>
+  <actor>
+    <name>Conor Woods</name>
+    <role>Bobby</role>
+    <type>GuestStar</type>
+    <tmdbid>1648635</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael B. Silver</name>
+    <role>Lorenzo</role>
+    <type>GuestStar</type>
+    <tmdbid>12226</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Metz</name>
+    <role>Melinda</role>
+    <type>GuestStar</type>
+    <tmdbid>1449121</tmdbid>
+  </actor>
+  <actor>
+    <name>Dichen Lachman</name>
+    <role>Angela</role>
+    <type>GuestStar</type>
+    <tmdbid>94797</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Chatwin</name>
+    <role>Steve Wilton/Jimmy Lishman</role>
+    <type>GuestStar</type>
+    <tmdbid>503</tmdbid>
+  </actor>
+  <actor>
+    <name>Danika Yarosh</name>
+    <role>Holly Herkimer</role>
+    <type>GuestStar</type>
+    <tmdbid>1466613</tmdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Bell Calloway</name>
+    <role>Carol Fisher</role>
+    <type>GuestStar</type>
+    <tmdbid>100653</tmdbid>
+  </actor>
+  <actor>
+    <name>Luca Oriel</name>
+    <role>Derek Delgado</role>
+    <type>GuestStar</type>
+    <tmdbid>1148219</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Patrick McGill</name>
+    <role>Tommy</role>
+    <type>GuestStar</type>
+    <tmdbid>154816</tmdbid>
+    <imdbid>nm1042946</imdbid>
+  </actor>
+  <actor>
+    <name>Kellen Michael</name>
+    <role>Chuckie Slott</role>
+    <type>GuestStar</type>
+    <tmdbid>1809024</tmdbid>
+  </actor>
+  <actor>
+    <name>Isidora Goreshter</name>
+    <role>Svetlana Yevgenivna</role>
+    <type>GuestStar</type>
+    <tmdbid>1677397</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Kazee</name>
+    <role>Gus Pfender</role>
+    <type>GuestStar</type>
+    <tmdbid>207062</tmdbid>
+  </actor>
+  <director tmdbid="3905" imdbid="nm0000513">William H. Macy</director>
+  <rating>8.2</rating>
+  <year>2015</year>
+  <imdbid>tt3979142</imdbid>
+  <tvdbid>5006638</tvdbid>
+  <runtime>51</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt3979142</uniqueid>
+  <uniqueid type="Tvdb">5006638</uniqueid>
+  <episode>7</episode>
+  <season>5</season>
+  <aired>2015-03-01</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>9307322</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>50</duration>
+        <durationinseconds>3034</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>265-SiGMA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

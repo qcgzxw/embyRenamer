@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[瑞克在新实习生——外星人格鲁提（Glootie）头上纹了显眼的警示标志，不要让他开发手机应用。杰瑞在瑞克离开家去自己的私人厕所如厕时，无视了瑞克的警示，让格鲁提开发了一款名叫“寻爱者”（Lovefinderrz）的相亲配对应用。包括桑美在内的用户都冲动地换对象，而贝丝以未成年为由尝试阻止她。莫蒂强迫格鲁提将自己和杰瑞带到格鲁提的母舰上，发现曼诺格族谋划着想要入侵地球夺取水源，使用应用分散人们注意力。杰瑞说服格鲁提帮助自己将应用下线，因为这款应用显示他们无法与任何人匹配，惺惺相惜。格鲁提通过为应用增加广告墙，把应用毁了。与此同时，瑞克发现有人偷偷使用了他的私人厕所，并追踪到了外星商人托尼。托尼承认了自己的行为，但是他指出他们两人都是马桶控，因为如厕是他们唯一感到不受宇宙控制的时候。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 07:47:15</dateadded>
+  <title>老人与坐便器</title>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <actor>
+    <name>Taika Waititi</name>
+    <role>Glootie (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>55934</tmdbid>
+    <imdbid>nm0169806</imdbid>
+  </actor>
+  <actor>
+    <name>Dustin Ybarra</name>
+    <role>Danny Publitz (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>523952</tmdbid>
+    <imdbid>nm3655435</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Wright</name>
+    <role>Tony (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>2954</tmdbid>
+    <imdbid>nm0942482</imdbid>
+  </actor>
+  <actor>
+    <name>Pamela Adlon</name>
+    <role>Vermigurber's Child (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>21063</tmdbid>
+    <imdbid>nm0781899</imdbid>
+  </actor>
+  <actor>
+    <name>Kathleen Turner</name>
+    <role>Monogatron Queen (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>3391</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Neill</name>
+    <role>Monogatron Leader (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>4783</tmdbid>
+    <imdbid>nm0000554</imdbid>
+  </actor>
+  <actor>
+    <name>Sherri Shepherd</name>
+    <role>Tony's Wife (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>109561</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Bonjour</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>86322</tmdbid>
+  </actor>
+  <actor>
+    <name>Echo Kellum</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1255907</tmdbid>
+  </actor>
+  <actor>
+    <name>Nolan North</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>19508</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Harmon</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>57194</tmdbid>
+  </actor>
+  <actor>
+    <name>Maurice LaMarche</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>34521</tmdbid>
+  </actor>
+  <director>Jacob Hair</director>
+  <rating>8.3</rating>
+  <year>2019</year>
+  <imdbid>tt10655676</imdbid>
+  <tvdbid>7392964</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <uniqueid type="Tvdb">7392964</uniqueid>
+  <uniqueid type="Imdb">tt10655676</uniqueid>
+  <episode>2</episode>
+  <season>4</season>
+  <aired>2019-11-17</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>1575724</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1367</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

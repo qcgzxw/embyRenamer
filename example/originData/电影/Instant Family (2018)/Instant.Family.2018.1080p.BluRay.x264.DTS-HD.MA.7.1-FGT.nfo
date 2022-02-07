@@ -1,0 +1,515 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[故事从皮特和埃莉决定组建一个家庭开始，他们希望收养一个小孩，但当他们遇到三个兄弟姐妹时，他们发现自己孩子的数量一夜之间从零到三。故事将聚焦在一对夫妇和他们三个领养的孩子间展开。悲催的是，这三个刚被领养的孩子好像对自己的新父母，并不感兴趣。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-13 15:12:11</dateadded>
+  <title>速成家庭</title>
+  <originaltitle>Instant Family</originaltitle>
+  <actor>
+    <name>Mark Wahlberg</name>
+    <role>Pete Wagner</role>
+    <type>Actor</type>
+    <tmdbid>13240</tmdbid>
+    <imdbid>nm0000242</imdbid>
+  </actor>
+  <actor>
+    <name>Rose Byrne</name>
+    <role>Ellie Wagner</role>
+    <type>Actor</type>
+    <tmdbid>9827</tmdbid>
+    <imdbid>nm0126284</imdbid>
+  </actor>
+  <actor>
+    <name>Allyn Rachel</name>
+    <role>Kim</role>
+    <type>Actor</type>
+    <tmdbid>1303090</tmdbid>
+    <imdbid>nm2085100</imdbid>
+  </actor>
+  <actor>
+    <name>Isabela Merced</name>
+    <role>Lizzy</role>
+    <type>Actor</type>
+    <tmdbid>1428070</tmdbid>
+    <imdbid>nm5097044</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Hagerty</name>
+    <role>Jan</role>
+    <type>Actor</type>
+    <tmdbid>14415</tmdbid>
+    <imdbid>nm0353546</imdbid>
+  </actor>
+  <actor>
+    <name>Tig Notaro</name>
+    <role>Sharon</role>
+    <type>Actor</type>
+    <tmdbid>220088</tmdbid>
+    <imdbid>nm0449299</imdbid>
+  </actor>
+  <actor>
+    <name>Octavia Spencer</name>
+    <role>Karen</role>
+    <type>Actor</type>
+    <tmdbid>6944</tmdbid>
+    <imdbid>nm0818055</imdbid>
+  </actor>
+  <actor>
+    <name>Gustavo Quiroz Jr.</name>
+    <role>Juan</role>
+    <type>Actor</type>
+    <tmdbid>1172381</tmdbid>
+    <imdbid>nm4851894</imdbid>
+  </actor>
+  <actor>
+    <name>Margo Martindale</name>
+    <role>Sandy  Wagner</role>
+    <type>Actor</type>
+    <tmdbid>452</tmdbid>
+    <imdbid>nm0553269</imdbid>
+  </actor>
+  <actor>
+    <name>Julianna Gamiz</name>
+    <role>Lita</role>
+    <type>Actor</type>
+    <tmdbid>2000657</tmdbid>
+    <imdbid>nm6423395</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Segura</name>
+    <role>Russ</role>
+    <type>Actor</type>
+    <tmdbid>1238012</tmdbid>
+    <imdbid>nm2660044</imdbid>
+  </actor>
+  <actor>
+    <name>Michael O'Keefe</name>
+    <role>Jerry</role>
+    <type>Actor</type>
+    <tmdbid>38085</tmdbid>
+    <imdbid>nm0001574</imdbid>
+  </actor>
+  <actor>
+    <name>Britt Rentschler</name>
+    <role>Linda</role>
+    <type>Actor</type>
+    <tmdbid>1334569</tmdbid>
+    <imdbid>nm1823053</imdbid>
+  </actor>
+  <actor>
+    <name>Jody Thompson</name>
+    <role>Jim</role>
+    <type>Actor</type>
+    <tmdbid>1024312</tmdbid>
+    <imdbid>nm0860310</imdbid>
+  </actor>
+  <actor>
+    <name>Iliza Shlesinger</name>
+    <role>October</role>
+    <type>Actor</type>
+    <tmdbid>96316</tmdbid>
+    <imdbid>nm2955597</imdbid>
+  </actor>
+  <actor>
+    <name>Gary Weeks</name>
+    <role>Dirk</role>
+    <type>Actor</type>
+    <tmdbid>168875</tmdbid>
+    <imdbid>nm0917314</imdbid>
+  </actor>
+  <actor>
+    <name>Joy Jacobson</name>
+    <role>Dana</role>
+    <type>Actor</type>
+    <tmdbid>1944275</tmdbid>
+  </actor>
+  <actor>
+    <name>Hampton Fluker</name>
+    <role>Kit</role>
+    <type>Actor</type>
+    <tmdbid>1758632</tmdbid>
+  </actor>
+  <actor>
+    <name>Randy Havens</name>
+    <role>Michael</role>
+    <type>Actor</type>
+    <tmdbid>1381393</tmdbid>
+    <imdbid>nm1670129</imdbid>
+  </actor>
+  <actor>
+    <name>Andrea Anders</name>
+    <role>Jessie</role>
+    <type>Actor</type>
+    <tmdbid>1216355</tmdbid>
+    <imdbid>nm1627969</imdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Israel</name>
+    <role>David</role>
+    <type>Actor</type>
+    <tmdbid>1737299</tmdbid>
+    <imdbid>nm5199565</imdbid>
+  </actor>
+  <actor>
+    <name>Joan Cusack</name>
+    <role>Mrs. Howard</role>
+    <type>Actor</type>
+    <tmdbid>3234</tmdbid>
+    <imdbid>nm0000349</imdbid>
+  </actor>
+  <actor>
+    <name>Valente Rodriguez</name>
+    <role>Judge Rivas</role>
+    <type>Actor</type>
+    <tmdbid>6321</tmdbid>
+    <imdbid>nm0735538</imdbid>
+  </actor>
+  <actor>
+    <name>Carson Holmes</name>
+    <role>Charlie</role>
+    <type>Actor</type>
+    <tmdbid>1856992</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaiden Byrd</name>
+    <role>Young Brian</role>
+    <type>Actor</type>
+    <tmdbid>2247343</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Logan</name>
+    <role>Young Pete</role>
+    <type>Actor</type>
+    <tmdbid>2247340</tmdbid>
+  </actor>
+  <actor>
+    <name>James Arthur Sims</name>
+    <role>Brian's Dad</role>
+    <type>Actor</type>
+    <tmdbid>2247344</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosemary Dominguez</name>
+    <role>Mrs. Fernandez</role>
+    <type>Actor</type>
+    <tmdbid>2091802</tmdbid>
+    <imdbid>nm1138507</imdbid>
+  </actor>
+  <actor>
+    <name>Javier Ronceros</name>
+    <role>Mr. Fernández</role>
+    <type>Actor</type>
+    <tmdbid>1248320</tmdbid>
+    <imdbid>nm1242146</imdbid>
+  </actor>
+  <actor>
+    <name>Eve Harlow</name>
+    <role>Brenda Fernandez</role>
+    <type>Actor</type>
+    <tmdbid>209723</tmdbid>
+    <imdbid>nm2602672</imdbid>
+  </actor>
+  <actor>
+    <name>Connor Jones</name>
+    <role>Jacob</role>
+    <type>Actor</type>
+    <tmdbid>1968891</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlie McDermott</name>
+    <role>Stewart</role>
+    <type>Actor</type>
+    <tmdbid>64135</tmdbid>
+    <imdbid>nm1668208</imdbid>
+  </actor>
+  <actor>
+    <name>Joselin Reyes</name>
+    <role>Carla</role>
+    <type>Actor</type>
+    <tmdbid>203397</tmdbid>
+    <imdbid>nm1242120</imdbid>
+  </actor>
+  <actor>
+    <name>Erika Bierman</name>
+    <role>Kylie</role>
+    <type>Actor</type>
+    <tmdbid>1383509</tmdbid>
+    <imdbid>nm4794787</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Kirkpatrick</name>
+    <role>Kimberly</role>
+    <type>Actor</type>
+    <tmdbid>2247345</tmdbid>
+  </actor>
+  <actor>
+    <name>John McConnell</name>
+    <role>Mr. Muskie</role>
+    <type>Actor</type>
+    <tmdbid>16459</tmdbid>
+    <imdbid>nm0566279</imdbid>
+  </actor>
+  <actor>
+    <name>Maureen Brennan</name>
+    <role>Mrs. Muskie</role>
+    <type>Actor</type>
+    <tmdbid>1609622</tmdbid>
+    <imdbid>nm2163847</imdbid>
+  </actor>
+  <actor>
+    <name>Kelly Tippens</name>
+    <role>Miss Peppers</role>
+    <type>Actor</type>
+    <tmdbid>1654872</tmdbid>
+  </actor>
+  <actor>
+    <name>Layla Felder</name>
+    <role>Savannah</role>
+    <type>Actor</type>
+    <tmdbid>2247348</tmdbid>
+  </actor>
+  <actor>
+    <name>Allen Zwolle</name>
+    <role>Principal</role>
+    <type>Actor</type>
+    <tmdbid>1952353</tmdbid>
+    <imdbid>nm1889772</imdbid>
+  </actor>
+  <actor>
+    <name>Stella Doyle</name>
+    <role>Ms. Franks</role>
+    <type>Actor</type>
+    <tmdbid>1945637</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrene Ward-Hammond</name>
+    <role>Sue</role>
+    <type>Actor</type>
+    <tmdbid>1650191</tmdbid>
+    <imdbid>nm6292935</imdbid>
+  </actor>
+  <actor>
+    <name>Denitra Isler</name>
+    <role>Bailiff</role>
+    <type>Actor</type>
+    <tmdbid>1985574</tmdbid>
+    <imdbid>nm0411301</imdbid>
+  </actor>
+  <actor>
+    <name>Remy Ortiz</name>
+    <role>Random Dad</role>
+    <type>Actor</type>
+    <tmdbid>2247361</tmdbid>
+  </actor>
+  <actor>
+    <name>William J. Simmons</name>
+    <role>Lita's Classmate</role>
+    <type>Actor</type>
+    <tmdbid>2247362</tmdbid>
+  </actor>
+  <actor>
+    <name>Anthony 'Ace' Thomas</name>
+    <role>Cop</role>
+    <type>Actor</type>
+    <tmdbid>2559012</tmdbid>
+    <imdbid>nm2142910</imdbid>
+  </actor>
+  <actor>
+    <name>Candice Daniels</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>2441811</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexis Lord</name>
+    <role>Soccer Girl</role>
+    <type>Actor</type>
+    <tmdbid>2969680</tmdbid>
+  </actor>
+  <actor>
+    <name>Perry Westberry</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>2969681</tmdbid>
+  </actor>
+  <actor>
+    <name>Maegan McCarthy</name>
+    <role>Kindergarten Teacher</role>
+    <type>Actor</type>
+    <tmdbid>2969683</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerry T. Richerson</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>2969684</tmdbid>
+  </actor>
+  <actor>
+    <name>Caleb Pratt</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>2969685</tmdbid>
+  </actor>
+  <actor>
+    <name>Cruze Lynnox Keith</name>
+    <role>Lita's Classmate</role>
+    <type>Actor</type>
+    <tmdbid>2969686</tmdbid>
+  </actor>
+  <actor>
+    <name>Billie Wilemon</name>
+    <role>Emergency Room Nurse</role>
+    <type>Actor</type>
+    <tmdbid>2969688</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Kobs</name>
+    <role>Roberto C. Fishman Pratt</role>
+    <type>Actor</type>
+    <tmdbid>2193914</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Wilson</name>
+    <role>Social Worker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1602573</tmdbid>
+  </actor>
+  <director tmdbid="74619" imdbid="nm1890845">Sean Anders</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IUfZq3DUd3Y</trailer>
+  <rating>7.3</rating>
+  <year>2018</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt7401588</imdbid>
+  <tmdbid>491418</tmdbid>
+  <premiered>2018-11-13</premiered>
+  <releasedate>2018-11-13</releasedate>
+  <criticrating>81</criticrating>
+  <runtime>118</runtime>
+  <country>United States of America</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <studio>Closest to the Hole Productions</studio>
+  <studio>Leverage Entertainment</studio>
+  <uniqueid type="Tmdb">491418</uniqueid>
+  <uniqueid type="Imdb">tt7401588</uniqueid>
+  <id>tt7401588</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>13195573</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>118</duration>
+        <durationinseconds>7085</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

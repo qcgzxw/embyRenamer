@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[While Mike attempts to track down Pryce's stolen baseball cards, Jimmy must defend him when the police call him in for further questioning.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-07-28 16:45:28</dateadded>
+  <title>水果派</title>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Jimmy McGill</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Rhea Seehorn</name>
+    <role>Kim Wexler</role>
+    <type>Actor</type>
+    <tmdbid>62765</tmdbid>
+    <imdbid>nm0781533</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Fabian</name>
+    <role>Howard Hamlin</role>
+    <type>Actor</type>
+    <tmdbid>58791</tmdbid>
+    <imdbid>nm0264579</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Mando</name>
+    <role>Nacho Varga</role>
+    <type>Actor</type>
+    <tmdbid>829372</tmdbid>
+    <imdbid>nm3103126</imdbid>
+  </actor>
+  <actor>
+    <name>Michael McKean</name>
+    <role>Chuck McGill</role>
+    <type>Actor</type>
+    <tmdbid>21731</tmdbid>
+  </actor>
+  <actor>
+    <name>Eileen Fogarty</name>
+    <role>Mrs. Nguyen</role>
+    <type>GuestStar</type>
+    <tmdbid>1411168</tmdbid>
+    <imdbid>nm1658328</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Proksch</name>
+    <role>Daniel 'Pryce' Wormald</role>
+    <type>GuestStar</type>
+    <tmdbid>1198148</tmdbid>
+    <imdbid>nm1515989</imdbid>
+  </actor>
+  <actor>
+    <name>Brandon K. Hampton</name>
+    <role>Ernesto</role>
+    <type>GuestStar</type>
+    <tmdbid>1574846</tmdbid>
+    <imdbid>nm3346272</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Begley Jr.</name>
+    <role>Clifford Main</role>
+    <type>GuestStar</type>
+    <tmdbid>42157</tmdbid>
+    <imdbid>nm0000893</imdbid>
+  </actor>
+  <actor>
+    <name>Juan Carlos Cantu</name>
+    <role>Manuel Varga</role>
+    <type>GuestStar</type>
+    <tmdbid>168147</tmdbid>
+    <imdbid>nm1091922</imdbid>
+  </actor>
+  <director>Terry McDonough</director>
+  <rating>7.977</rating>
+  <year>2016</year>
+  <imdbid>tt4462674</imdbid>
+  <tvdbid>5506131</tvdbid>
+  <runtime>48</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <tvrageid>1065890431</tvrageid>
+  <uniqueid type="Imdb">tt4462674</uniqueid>
+  <uniqueid type="Tvdb">5506131</uniqueid>
+  <uniqueid type="TvRage">1065890431</uniqueid>
+  <episode>2</episode>
+  <season>2</season>
+  <aired>2016-02-22</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>22798453</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2852</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

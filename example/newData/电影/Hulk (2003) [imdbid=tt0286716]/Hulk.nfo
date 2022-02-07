@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　从小孤苦无依的布鲁斯·班纳(艾瑞克·巴纳 饰)长大后成为了美国伯克利军方的科学家，专职从事新型高能炸弹的研究工作，他与罗斯将军的女儿贝蒂·罗斯(詹妮弗·康纳利 饰)相恋。事业与感情一帆风顺的布鲁斯似乎已经摆脱了幼年孤独的阴影，走上了一条让人艳羡的成功之路。然而好景不长，在一次试验中，为了保护一名同事，布鲁斯暴露在致命的伽马射线之下，布鲁斯体内的神秘力量被意外唤醒。从此之后，每当情绪激动时，布鲁斯就会失去自我意识，变身成为绿巨人，并且同时具有超强的破坏力和抗拒意志。但布鲁斯并不知道也不想知道自己异于常人的变身能力。对他来说，自己只是一名没有过去、充满困惑的孤独科学家，丝毫不能理解为何会突然招致军方的围捕。面对一系列措手不及的突发事件，布鲁斯的女友贝蒂·罗斯同样感到迷茫无助。她希望帮助布鲁斯，但却遭到负责围捕绿巨人的父亲的阻止。而此时，自称是布鲁斯父亲的神秘人物大卫(尼克·诺尔蒂 饰)出现在罗斯将军身边，他告诫贝蒂不要接近自己的儿子，令贝蒂更感困惑。就在贝蒂思念班纳的同时，罗斯将军所带领的特种军队非但不会同情绿巨人的遭遇，反而早已洒下天罗地网并派出最强大的战士，意欲抓获绿巨人以获知其中的秘密。为了对抗绿巨人的超能力，罗斯将军也有自己的秘密武器，那就是神秘的超能力怪物　“吸收人”(Crusher Creel)。“吸收人”可以变身成为任何自己接触到的物体，与绿巨人势均力敌。而更为惊人的是，“吸收人”其实就是布鲁斯的生身父亲大卫·班纳。由此，布鲁斯的神秘身世开始逐渐清晰起来……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-04 00:30:21</dateadded>
+  <title>绿巨人浩克</title>
+  <originaltitle>Hulk</originaltitle>
+  <actor>
+    <name>Eric Bana</name>
+    <role>Bruce Banner / Hulk</role>
+    <type>Actor</type>
+    <tmdbid>8783</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Connelly</name>
+    <role>Betty Ross</role>
+    <type>Actor</type>
+    <tmdbid>6161</tmdbid>
+    <imdbid>nm0000124</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Elliott</name>
+    <role>Thaddeus E. "Thunderbolt" Ross</role>
+    <type>Actor</type>
+    <tmdbid>16431</tmdbid>
+    <imdbid>nm0000385</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Lucas</name>
+    <role>Glenn Talbot</role>
+    <type>Actor</type>
+    <tmdbid>6164</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Nolte</name>
+    <role>The Father</role>
+    <type>Actor</type>
+    <tmdbid>1733</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Kersey</name>
+    <role>Young David Banner</role>
+    <type>Actor</type>
+    <tmdbid>20048</tmdbid>
+  </actor>
+  <actor>
+    <name>Cara Buono</name>
+    <role>Edith Banner</role>
+    <type>Actor</type>
+    <tmdbid>20047</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Rankin</name>
+    <role>Harper</role>
+    <type>Actor</type>
+    <tmdbid>114000</tmdbid>
+    <imdbid>nm0710271</imdbid>
+  </actor>
+  <actor>
+    <name>Todd Tesen</name>
+    <role>Young Ross</role>
+    <type>Actor</type>
+    <tmdbid>155873</tmdbid>
+  </actor>
+  <actor>
+    <name>Celia Weston</name>
+    <role>Mrs. Krensler</role>
+    <type>Actor</type>
+    <tmdbid>1989</tmdbid>
+    <imdbid>nm0922927</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Erwin</name>
+    <role>Teenage Bruce Banner</role>
+    <type>Actor</type>
+    <tmdbid>164618</tmdbid>
+  </actor>
+  <actor>
+    <name>Lou Ferrigno</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>19137</tmdbid>
+  </actor>
+  <actor>
+    <name>Stan Lee</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>7624</tmdbid>
+    <imdbid>nm0498278</imdbid>
+  </actor>
+  <actor>
+    <name>Regi Davis</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>169615</tmdbid>
+  </actor>
+  <actor>
+    <name>Craig Damon</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>177018</tmdbid>
+  </actor>
+  <actor>
+    <name>Geoffrey Scott</name>
+    <role>President</role>
+    <type>Actor</type>
+    <tmdbid>157485</tmdbid>
+  </actor>
+  <actor>
+    <name>Regina McKee Redwing</name>
+    <role>National Security Advisor</role>
+    <type>Actor</type>
+    <tmdbid>1503378</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Dae Kim</name>
+    <role>Aide</role>
+    <type>Actor</type>
+    <tmdbid>18307</tmdbid>
+    <imdbid>nm0196654</imdbid>
+  </actor>
+  <actor>
+    <name>Daniella Kuhn</name>
+    <role>Edith's Friend</role>
+    <type>Actor</type>
+    <tmdbid>198772</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Kronenberg</name>
+    <role>Bruce Banner as Child</role>
+    <type>Actor</type>
+    <tmdbid>2084675</tmdbid>
+  </actor>
+  <actor>
+    <name>David Kronenberg</name>
+    <role>Bruce Banner as Child</role>
+    <type>Actor</type>
+    <tmdbid>1544554</tmdbid>
+  </actor>
+  <actor>
+    <name>Rhiannon Leigh Wryn</name>
+    <role>Betty Ross as Child</role>
+    <type>Actor</type>
+    <tmdbid>23418</tmdbid>
+  </actor>
+  <actor>
+    <name>Lou Richards</name>
+    <role>Pediatrician</role>
+    <type>Actor</type>
+    <tmdbid>154867</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Gotzon</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>937949</tmdbid>
+  </actor>
+  <actor>
+    <name>Louanne Kelley</name>
+    <role>Delivery Doctor</role>
+    <type>Actor</type>
+    <tmdbid>1820346</tmdbid>
+  </actor>
+  <actor>
+    <name>Toni Kallen</name>
+    <role>Delivery Nurse</role>
+    <type>Actor</type>
+    <tmdbid>1896516</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Hansen Kim</name>
+    <role>Officer</role>
+    <type>Actor</type>
+    <tmdbid>63469</tmdbid>
+  </actor>
+  <actor>
+    <name>John Littlefield</name>
+    <role>Security NCO</role>
+    <type>Actor</type>
+    <tmdbid>181778</tmdbid>
+  </actor>
+  <actor>
+    <name>Lorenzo Callender</name>
+    <role>Soldier</role>
+    <type>Actor</type>
+    <tmdbid>2084676</tmdbid>
+  </actor>
+  <actor>
+    <name>Todd Lee Coralli</name>
+    <role>Soldier</role>
+    <type>Actor</type>
+    <tmdbid>2084677</tmdbid>
+  </actor>
+  <actor>
+    <name>Johnny Kastl</name>
+    <role>Soldier</role>
+    <type>Actor</type>
+    <tmdbid>128155</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Ware</name>
+    <role>Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1786357</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesse Corti</name>
+    <role>Colonel</role>
+    <type>Actor</type>
+    <tmdbid>75599</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Swanson</name>
+    <role>Colonel</role>
+    <type>Actor</type>
+    <tmdbid>2084678</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Atteberry</name>
+    <role>Technician</role>
+    <type>Actor</type>
+    <tmdbid>1192412</tmdbid>
+  </actor>
+  <actor>
+    <name>Eva Burkley</name>
+    <role>Technician</role>
+    <type>Actor</type>
+    <tmdbid>2084679</tmdbid>
+  </actor>
+  <actor>
+    <name>Rondda Holeman</name>
+    <role>Technician</role>
+    <type>Actor</type>
+    <tmdbid>2084680</tmdbid>
+  </actor>
+  <actor>
+    <name>John A. Maraffi</name>
+    <role>Technician</role>
+    <type>Actor</type>
+    <tmdbid>2084681</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Papajohn</name>
+    <role>Technician</role>
+    <type>Actor</type>
+    <tmdbid>20582</tmdbid>
+    <imdbid>nm0660244</imdbid>
+  </actor>
+  <actor>
+    <name>David St. Pierre</name>
+    <role>Technician</role>
+    <type>Actor</type>
+    <tmdbid>2007764</tmdbid>
+  </actor>
+  <actor>
+    <name>Boni Yanagisawa</name>
+    <role>Technician</role>
+    <type>Actor</type>
+    <tmdbid>1484694</tmdbid>
+  </actor>
+  <actor>
+    <name>David Sutherland</name>
+    <role>Tank Commander</role>
+    <type>Actor</type>
+    <tmdbid>2084682</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Mahon</name>
+    <role>Comanche Pilot</role>
+    <type>Actor</type>
+    <tmdbid>117165</tmdbid>
+  </actor>
+  <actor>
+    <name>Brett Thacher</name>
+    <role>Comanche Pilot</role>
+    <type>Actor</type>
+    <tmdbid>2084683</tmdbid>
+  </actor>
+  <actor>
+    <name>Kirk B.R. Woller</name>
+    <role>Comanche Pilot</role>
+    <type>Actor</type>
+    <tmdbid>6864</tmdbid>
+  </actor>
+  <actor>
+    <name>Randy Neville</name>
+    <role>F-22 Pilot</role>
+    <type>Actor</type>
+    <tmdbid>2084684</tmdbid>
+  </actor>
+  <actor>
+    <name>John Prosky</name>
+    <role>Atheon Technician</role>
+    <type>Actor</type>
+    <tmdbid>42724</tmdbid>
+  </actor>
+  <actor>
+    <name>Amir Faraj</name>
+    <role>Boy</role>
+    <type>Actor</type>
+    <tmdbid>2084685</tmdbid>
+  </actor>
+  <actor>
+    <name>Ricardo Aguilar</name>
+    <role>Boy's Father</role>
+    <type>Actor</type>
+    <tmdbid>2084686</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor Rivers</name>
+    <role>Paramilitary</role>
+    <type>Actor</type>
+    <tmdbid>58648</tmdbid>
+  </actor>
+  <actor>
+    <name>Lyndon Karp</name>
+    <role>Davey</role>
+    <type>Actor</type>
+    <tmdbid>2084687</tmdbid>
+  </actor>
+  <director tmdbid="1614" imdbid="nm0000487">Ang Lee</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hNw5I-SPPS0</trailer>
+  <rating>5.6</rating>
+  <year>2003</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt0286716</imdbid>
+  <tmdbid>1927</tmdbid>
+  <premiered>2003-06-19</premiered>
+  <releasedate>2003-06-19</releasedate>
+  <criticrating>62</criticrating>
+  <runtime>138</runtime>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>科幻</genre>
+  <studio>Marvel Enterprises</studio>
+  <studio>Universal Pictures</studio>
+  <studio>Good Machine</studio>
+  <studio>Valhalla Motion Pictures</studio>
+  <set>
+    <name>李安 Ang Lee</name>
+  </set>
+  <uniqueid type="Imdb">tt0286716</uniqueid>
+  <uniqueid type="Tmdb">1927</uniqueid>
+  <id>tt0286716</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6207980</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>138</duration>
+        <durationinseconds>8293</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>5</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

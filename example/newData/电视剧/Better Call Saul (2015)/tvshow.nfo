@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[本剧为《绝命毒师》的前传，讲述了律师 Saul Goodman 转变为 Saul Goodman 的全过程。本剧采用非线性叙事。Saul Goodman 初次登场时并不叫 Saul Goodman，他的名字叫 Jimmy McGill，当时只是一个小律师与调查员 Mike 在一起工作，过着养家糊口的日子。]]></plot>
+  <outline><![CDATA[本剧为《绝命毒师》的前传，讲述了律师 Saul Goodman 转变为 Saul Goodman 的全过程。本剧采用非线性叙事。Saul Goodman 初次登场时并不叫 Saul Goodman，他的名字叫 Jimmy McGill，当时只是一个小律师与调查员 Mike 在一起工作，过着养家糊口的日子。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-10-08 06:16:02</dateadded>
+  <title>风骚律师</title>
+  <originaltitle>Better Call Saul</originaltitle>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Jimmy McGill</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Rhea Seehorn</name>
+    <role>Kim Wexler</role>
+    <type>Actor</type>
+    <tmdbid>62765</tmdbid>
+    <imdbid>nm0781533</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Fabian</name>
+    <role>Howard Hamlin</role>
+    <type>Actor</type>
+    <tmdbid>58791</tmdbid>
+    <imdbid>nm0264579</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Mando</name>
+    <role>Nacho Varga</role>
+    <type>Actor</type>
+    <tmdbid>829372</tmdbid>
+    <imdbid>nm3103126</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Dalton</name>
+    <role>Lalo Salamanca</role>
+    <type>Actor</type>
+    <tmdbid>76855</tmdbid>
+    <imdbid>nm0198366</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=HN4oydykJFc</trailer>
+  <trailer>http://www.youtube.com/watch?v=9q4qzYrHVmI</trailer>
+  <trailer>http://www.youtube.com/watch?v=l1xIGfVFb-U</trailer>
+  <rating>8.4</rating>
+  <year>2015</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt3032476</imdb_id>
+  <tmdbid>60059</tmdbid>
+  <premiered>2015-02-08</premiered>
+  <releasedate>2015-02-08</releasedate>
+  <runtime>45</runtime>
+  <genre>喜剧</genre>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <studio>AMC</studio>
+  <zap2itid>EP01863210</zap2itid>
+  <tvrageid>37780</tvrageid>
+  <uniqueid type="Imdb">tt3032476</uniqueid>
+  <uniqueid type="Tmdb">60059</uniqueid>
+  <uniqueid type="Zap2It">EP01863210</uniqueid>
+  <uniqueid type="Tvdb">273181</uniqueid>
+  <tvdbid>273181</tvdbid>
+  <uniqueid type="TvRage">37780</uniqueid>
+  <id>273181</id>
+  <episodeguide>
+    <url cache="273181.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/273181/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

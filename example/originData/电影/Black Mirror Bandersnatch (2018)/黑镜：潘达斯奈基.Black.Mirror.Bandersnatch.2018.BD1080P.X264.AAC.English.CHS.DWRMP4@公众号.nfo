@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一位年轻的程序员，他将一部奇幻小说改编为游戏。然而很快现实和虚拟世界混合在一起，开始造成混乱。影片充满大量的暴力元素。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-12-30 15:39:53</dateadded>
+  <title>黑镜：潘达斯奈基</title>
+  <originaltitle>Black Mirror: Bandersnatch</originaltitle>
+  <actor>
+    <name>Fionn Whitehead</name>
+    <role>Stefan Butler</role>
+    <type>Actor</type>
+    <tmdbid>1687041</tmdbid>
+  </actor>
+  <actor>
+    <name>Craig Parkinson</name>
+    <role>Peter Butler</role>
+    <type>Actor</type>
+    <tmdbid>45050</tmdbid>
+  </actor>
+  <actor>
+    <name>Alice Lowe</name>
+    <role>Dr. Haynes</role>
+    <type>Actor</type>
+    <tmdbid>182327</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Poulter</name>
+    <role>Colin Ritman</role>
+    <type>Actor</type>
+    <tmdbid>93491</tmdbid>
+    <imdbid>nm2401020</imdbid>
+  </actor>
+  <actor>
+    <name>Asim Chaudhry</name>
+    <role>Mohan Tucker</role>
+    <type>Actor</type>
+    <tmdbid>1502438</tmdbid>
+  </actor>
+  <actor>
+    <name>Tallulah Haddon</name>
+    <role>Kitty</role>
+    <type>Actor</type>
+    <tmdbid>1510974</tmdbid>
+    <imdbid>nm7552807</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Asaad</name>
+    <role>Satpal</role>
+    <type>Actor</type>
+    <tmdbid>2203381</tmdbid>
+  </actor>
+  <actor>
+    <name>Catriona Knox</name>
+    <role>Leslie</role>
+    <type>Actor</type>
+    <tmdbid>2203371</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Bradley</name>
+    <role>Robin</role>
+    <type>Actor</type>
+    <tmdbid>2203378</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Aris</name>
+    <role>Crispin</role>
+    <type>Actor</type>
+    <tmdbid>28477</tmdbid>
+    <imdbid>nm0034877</imdbid>
+  </actor>
+  <actor>
+    <name>A.J. Houghton</name>
+    <role>Young Stefan Butler</role>
+    <type>Actor</type>
+    <tmdbid>2203379</tmdbid>
+  </actor>
+  <actor>
+    <name>Fleur Keith</name>
+    <role>Mum</role>
+    <type>Actor</type>
+    <tmdbid>2203380</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Evelyn</name>
+    <role>Pearl Ritman</role>
+    <type>Actor</type>
+    <tmdbid>1533579</tmdbid>
+    <imdbid>nm3375181</imdbid>
+  </actor>
+  <actor>
+    <name>Suzanne Burden</name>
+    <role>Judith Mulligan</role>
+    <type>Actor</type>
+    <tmdbid>1220058</tmdbid>
+    <imdbid>nm0120936</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Minter</name>
+    <role>Jerome F. Davies</role>
+    <type>Actor</type>
+    <tmdbid>2203382</tmdbid>
+  </actor>
+  <actor>
+    <name>Rochenda Sandall</name>
+    <role>Pippa 1st AD</role>
+    <type>Actor</type>
+    <tmdbid>1903700</tmdbid>
+    <imdbid>nm5878360</imdbid>
+  </actor>
+  <director tmdbid="27571">David Slade</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wgvLiKl8nY4</trailer>
+  <rating>7.2</rating>
+  <year>2018</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt9495224</imdbid>
+  <tmdbid>569547</tmdbid>
+  <premiered>2018-12-28</premiered>
+  <releasedate>2018-12-28</releasedate>
+  <runtime>312</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>科幻</genre>
+  <genre>悬疑</genre>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <genre>电视电影</genre>
+  <studio>House of Tomorrow</studio>
+  <uniqueid type="Tmdb">569547</uniqueid>
+  <uniqueid type="Imdb">tt9495224</uniqueid>
+  <id>tt9495224</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4978660</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>312</duration>
+        <durationinseconds>18734</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,164 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[沃尔多是一只虚拟的蓝熊，出现在深夜的喜剧节目中，而站在它背后的，是配音演员杰米（丹尼尔·里格比 Daniel Rigby 饰）。沃尔多极高的人气让节目组产生了以它的形象参加国会竞选，而杰米发现自己逐渐变成了被操控的傀儡。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-06-08 16:48:47</dateadded>
+  <title>沃尔多一刻</title>
+  <actor>
+    <name>Tobias Menzies</name>
+    <role>Liam Monroe</role>
+    <type>GuestStar</type>
+    <tmdbid>10920</tmdbid>
+    <imdbid>nm0580014</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Rigby</name>
+    <role>Jamie Salter</role>
+    <type>GuestStar</type>
+    <tmdbid>211368</tmdbid>
+    <imdbid>nm2288047</imdbid>
+  </actor>
+  <actor>
+    <name>Chloe Pirrie</name>
+    <role>Gwendolyn Harris</role>
+    <type>GuestStar</type>
+    <tmdbid>1125581</tmdbid>
+    <imdbid>nm4006608</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Flemyng</name>
+    <role>Jack Napier</role>
+    <type>GuestStar</type>
+    <tmdbid>973</tmdbid>
+    <imdbid>nm0002076</imdbid>
+  </actor>
+  <actor>
+    <name>Christina Chong</name>
+    <role>Tamsin</role>
+    <type>GuestStar</type>
+    <tmdbid>472632</tmdbid>
+  </actor>
+  <actor>
+    <name>James Lance</name>
+    <role>Conor Simpson</role>
+    <type>GuestStar</type>
+    <tmdbid>19775</tmdbid>
+  </actor>
+  <actor>
+    <name>Ed Gaughan</name>
+    <role>Shaun</role>
+    <type>GuestStar</type>
+    <tmdbid>147797</tmdbid>
+    <imdbid>nm2755953</imdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Collard</name>
+    <role>Jim</role>
+    <type>GuestStar</type>
+    <tmdbid>997569</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Shaeffer</name>
+    <role>Roy</role>
+    <type>GuestStar</type>
+    <tmdbid>1563431</tmdbid>
+  </actor>
+  <actor>
+    <name>Pip Torrens</name>
+    <role>Philip Crane</role>
+    <type>GuestStar</type>
+    <tmdbid>36666</tmdbid>
+  </actor>
+  <actor>
+    <name>David Ajala</name>
+    <role>Jeff Carter</role>
+    <type>GuestStar</type>
+    <tmdbid>971049</tmdbid>
+  </actor>
+  <actor>
+    <name>Louis Waymouth</name>
+    <role>Simon Finch</role>
+    <type>GuestStar</type>
+    <tmdbid>1938285</tmdbid>
+  </actor>
+  <actor>
+    <name>Amber Anderson</name>
+    <role>Sara</role>
+    <type>GuestStar</type>
+    <tmdbid>1121198</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Hoare</name>
+    <role>Woman with Pushchair</role>
+    <type>GuestStar</type>
+    <tmdbid>1211740</tmdbid>
+  </actor>
+  <actor>
+    <name>Abigail Thaw</name>
+    <role>MP Selection Committee 2</role>
+    <type>GuestStar</type>
+    <tmdbid>1240393</tmdbid>
+  </actor>
+  <director>Bryn Higgins</director>
+  <rating>6.616</rating>
+  <year>2013</year>
+  <imdbid>tt2386296</imdbid>
+  <tvdbid>4418486</tvdbid>
+  <runtime>44</runtime>
+  <genre>Drama</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt2386296</uniqueid>
+  <uniqueid type="Tvdb">4418486</uniqueid>
+  <episode>3</episode>
+  <season>2</season>
+  <aired>2013-02-25</aired>
+  <fileinfo>
+    <streamdetails>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5343940</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>44</duration>
+        <durationinseconds>2646</durationinseconds>
+      </video>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

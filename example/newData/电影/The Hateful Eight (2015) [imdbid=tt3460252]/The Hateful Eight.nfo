@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[寒冷的怀俄明州山谷中，一辆马车载着赏金猎人“绞刑者”约翰·鲁斯（库尔特·拉塞尔 Kurt Russell 饰）及其价值一万美元的猎物黛西·多摩格（詹妮弗·杰森·李 Jennifer Jason Leigh 饰）踏雪而行。途中，黑人赏金猎人马奎斯·沃伦少校（塞缪尔·杰克逊 Samuel L. Jackson 饰）和新人警长克里斯·马尼克斯（沃尔顿·戈金斯 Walton Goggins 饰）相继登上马车，红石镇是他们共同的目标。由于风雪太大，马车停在了米妮男装店，然而熟悉的店主人不知去向，却另有四名不速之客百无聊赖地待在店里。约翰时刻担心他人抢走猎物，马奎斯警惕地扫视面前的陌生人们，多嘴多舌的克里斯不时为紧张的气氛中加油添醋，黛西则似乎等待更大的风暴到来。 仿佛与世隔绝的小店内，即将刮起一场更为猛烈的风暴……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-01-14 03:22:18</dateadded>
+  <title>八恶人</title>
+  <originaltitle>The Hateful Eight</originaltitle>
+  <actor>
+    <name>Samuel L. Jackson</name>
+    <role>Major Marquis Warren</role>
+    <type>Actor</type>
+    <tmdbid>2231</tmdbid>
+    <imdbid>nm0000168</imdbid>
+  </actor>
+  <actor>
+    <name>Kurt Russell</name>
+    <role>John 'The Hangman' Ruth</role>
+    <type>Actor</type>
+    <tmdbid>6856</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Jason Leigh</name>
+    <role>Daisy Domergue</role>
+    <type>Actor</type>
+    <tmdbid>10431</tmdbid>
+  </actor>
+  <actor>
+    <name>Walton Goggins</name>
+    <role>Sheriff Chris Mannix</role>
+    <type>Actor</type>
+    <tmdbid>27740</tmdbid>
+  </actor>
+  <actor>
+    <name>Demián Bichir</name>
+    <role>Bob</role>
+    <type>Actor</type>
+    <tmdbid>76961</tmdbid>
+    <imdbid>nm0065007</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Roth</name>
+    <role>Oswaldo Mobray</role>
+    <type>Actor</type>
+    <tmdbid>3129</tmdbid>
+    <imdbid>nm0000619</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Madsen</name>
+    <role>Joe Gage</role>
+    <type>Actor</type>
+    <tmdbid>147</tmdbid>
+    <imdbid>nm0000514</imdbid>
+  </actor>
+  <actor>
+    <name>Bruce Dern</name>
+    <role>General Sandy Smithers</role>
+    <type>Actor</type>
+    <tmdbid>6905</tmdbid>
+    <imdbid>nm0001136</imdbid>
+  </actor>
+  <actor>
+    <name>James Parks</name>
+    <role>O. B. Jackson</role>
+    <type>Actor</type>
+    <tmdbid>87312</tmdbid>
+    <imdbid>nm0662960</imdbid>
+  </actor>
+  <actor>
+    <name>Dana Gourrier</name>
+    <role>Minnie</role>
+    <type>Actor</type>
+    <tmdbid>1133063</tmdbid>
+    <imdbid>nm4158239</imdbid>
+  </actor>
+  <actor>
+    <name>Zoë Bell</name>
+    <role>'Six-Horse' Judy</role>
+    <type>Actor</type>
+    <tmdbid>20494</tmdbid>
+    <imdbid>nm1057928</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Horsley</name>
+    <role>Ed</role>
+    <type>Actor</type>
+    <tmdbid>47859</tmdbid>
+    <imdbid>nm0395448</imdbid>
+  </actor>
+  <actor>
+    <name>Gene Jones</name>
+    <role>Sweet Dave</role>
+    <type>Actor</type>
+    <tmdbid>1194944</tmdbid>
+    <imdbid>nm0428122</imdbid>
+  </actor>
+  <actor>
+    <name>Keith Jefferson</name>
+    <role>Charly</role>
+    <type>Actor</type>
+    <tmdbid>1198202</tmdbid>
+    <imdbid>nm0420201</imdbid>
+  </actor>
+  <actor>
+    <name>Craig Stark</name>
+    <role>Chester Charles Smithers</role>
+    <type>Actor</type>
+    <tmdbid>183519</tmdbid>
+    <imdbid>nm0823149</imdbid>
+  </actor>
+  <actor>
+    <name>Belinda Owino</name>
+    <role>Gemma</role>
+    <type>Actor</type>
+    <tmdbid>1485552</tmdbid>
+    <imdbid>nm4477795</imdbid>
+  </actor>
+  <actor>
+    <name>Channing Tatum</name>
+    <role>Jody</role>
+    <type>Actor</type>
+    <tmdbid>38673</tmdbid>
+    <imdbid>nm1475594</imdbid>
+  </actor>
+  <actor>
+    <name>Quentin Tarantino</name>
+    <role>Narrator (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>138</tmdbid>
+    <imdbid>nm0000233</imdbid>
+  </actor>
+  <director tmdbid="138" imdbid="nm0000233">Quentin Tarantino</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IMGwqSA9rww</trailer>
+  <rating>7.8</rating>
+  <year>2015</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt3460252</imdbid>
+  <tmdbid>273248</tmdbid>
+  <premiered>2015-12-25</premiered>
+  <releasedate>2015-12-25</releasedate>
+  <criticrating>74</criticrating>
+  <runtime>168</runtime>
+  <country>United States of America</country>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <genre>悬疑</genre>
+  <genre>西部</genre>
+  <studio>The Weinstein Company</studio>
+  <studio>Double Feature Films</studio>
+  <studio>FilmColony</studio>
+  <uniqueid type="Tmdb">273248</uniqueid>
+  <uniqueid type="Imdb">tt3460252</uniqueid>
+  <id>tt3460252</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6796991</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>167</duration>
+        <durationinseconds>10064</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>382547</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

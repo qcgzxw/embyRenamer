@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[一位教授过世了，这让莱昂纳德、霍华德、霍华德、雷杰反思自己的研究。 伯贝妮黛发现同事对自己的真实感受。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 17:54:06</dateadded>
+  <title>The Champagne Reflection</title>
+  <actor>
+    <name>LeVar Burton</name>
+    <type>GuestStar</type>
+    <tmdbid>2390</tmdbid>
+    <imdbid>nm0000996</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Wilson</name>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Stephen Root</name>
+    <type>GuestStar</type>
+    <tmdbid>17401</tmdbid>
+    <imdbid>nm0740535</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7</rating>
+  <year>2014</year>
+  <imdbid>tt3823250</imdbid>
+  <tvdbid>5039499</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>1065707704</tvrageid>
+  <uniqueid type="Imdb">tt3823250</uniqueid>
+  <uniqueid type="Tvdb">5039499</uniqueid>
+  <uniqueid type="TvRage">1065707704</uniqueid>
+  <episode>10</episode>
+  <season>8</season>
+  <aired>2014-11-20</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1580036</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1170</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

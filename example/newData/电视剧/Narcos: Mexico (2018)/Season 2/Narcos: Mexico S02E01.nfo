@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[在庆祝自己 40 岁生日时，费利斯担心同伙不忠，并当面质问帕乔。沃尔特和同伙计划实施报复性绑架。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-16 22:42:58</dateadded>
+  <title>营救猛虎</title>
+  <actor>
+    <name>Scoot McNairy</name>
+    <role>Walt Breslin / Narrator</role>
+    <type>Actor</type>
+    <tmdbid>59233</tmdbid>
+  </actor>
+  <actor>
+    <name>Diego Luna</name>
+    <role>Miguel Ángel Félix Gallardo</role>
+    <type>Actor</type>
+    <tmdbid>8688</tmdbid>
+  </actor>
+  <actor>
+    <name>José María Yázpik</name>
+    <role>Amado Carrillo Fuentes</role>
+    <type>Actor</type>
+    <tmdbid>72128</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernanda Urrejola</name>
+    <role>María Elvira</role>
+    <type>Actor</type>
+    <tmdbid>955954</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfonso Dosal</name>
+    <role>Benjamín Arellano Félix</role>
+    <type>Actor</type>
+    <tmdbid>1149129</tmdbid>
+  </actor>
+  <actor>
+    <name>Julio Cedillo</name>
+    <role>Guillermo González Calderoni</role>
+    <type>Actor</type>
+    <tmdbid>36634</tmdbid>
+    <imdbid>nm0147814</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Ransom</name>
+    <role>Dunn</role>
+    <type>Actor</type>
+    <tmdbid>1174218</tmdbid>
+    <imdbid>nm0710417</imdbid>
+  </actor>
+  <actor>
+    <name>Mayra Hermosillo</name>
+    <role>Enedina Arellano Félix</role>
+    <type>Actor</type>
+    <tmdbid>1526350</tmdbid>
+  </actor>
+  <actor>
+    <name>Alejandro Edda</name>
+    <role>Joaquín 'El Chapo' Guzmán</role>
+    <type>Actor</type>
+    <tmdbid>1809025</tmdbid>
+  </actor>
+  <actor>
+    <name>Miguel Rodarte</name>
+    <role>Danilo Garza</role>
+    <type>Actor</type>
+    <tmdbid>133762</tmdbid>
+  </actor>
+  <actor>
+    <name>Gorka Lasaosa</name>
+    <role>Héctor Luis Palma Salazar</role>
+    <type>Actor</type>
+    <tmdbid>82698</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Knight</name>
+    <role>Kenny</role>
+    <type>Actor</type>
+    <tmdbid>307885</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesse Garcia</name>
+    <role>Sal Orozco</role>
+    <type>Actor</type>
+    <tmdbid>66525</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Biedel</name>
+    <role>Daryl Petsky</role>
+    <type>Actor</type>
+    <tmdbid>588335</tmdbid>
+  </actor>
+  <actor>
+    <name>Jero Medina</name>
+    <role>Ossie Mejía</role>
+    <type>Actor</type>
+    <tmdbid>2558356</tmdbid>
+  </actor>
+  <actor>
+    <name>Alberto Zeni</name>
+    <role>Amat Palacios</role>
+    <type>Actor</type>
+    <tmdbid>1907493</tmdbid>
+  </actor>
+  <actor>
+    <name>Andres Londono</name>
+    <role>Enrique Clavel</role>
+    <type>Actor</type>
+    <tmdbid>1018723</tmdbid>
+  </actor>
+  <actor>
+    <name>Flavio Medina</name>
+    <role>Juan García Abrego</role>
+    <type>Actor</type>
+    <tmdbid>1048704</tmdbid>
+  </actor>
+  <actor>
+    <name>Manuel Masalva</name>
+    <role>Ramón Arellano Félix</role>
+    <type>GuestStar</type>
+    <tmdbid>2229075</tmdbid>
+  </actor>
+  <actor>
+    <name>Teresa Ruiz</name>
+    <role>Isabella Bautista</role>
+    <type>GuestStar</type>
+    <tmdbid>589722</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Sebastián Calero</name>
+    <role>Navegante</role>
+    <type>GuestStar</type>
+    <tmdbid>1489765</tmdbid>
+  </actor>
+  <actor>
+    <name>Fermín Martínez</name>
+    <role>El Azul</role>
+    <type>GuestStar</type>
+    <tmdbid>234069</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrés Almeida</name>
+    <role>Cochiloco</role>
+    <type>GuestStar</type>
+    <tmdbid>947768</tmdbid>
+  </actor>
+  <actor>
+    <name>Milton Cortés</name>
+    <role>Rubén Zuno Arce</role>
+    <type>GuestStar</type>
+    <tmdbid>236688</tmdbid>
+  </actor>
+  <actor>
+    <name>Emilio Guerrero</name>
+    <role>Doctor Delgado</role>
+    <type>GuestStar</type>
+    <tmdbid>944578</tmdbid>
+  </actor>
+  <actor>
+    <name>Vladimir Cruz</name>
+    <role>Juan Matta Ballesteros</role>
+    <type>GuestStar</type>
+    <tmdbid>72642</tmdbid>
+  </actor>
+  <actor>
+    <name>Pedro Giunti</name>
+    <role>Sergio Verdín</role>
+    <type>GuestStar</type>
+    <tmdbid>2431452</tmdbid>
+  </actor>
+  <actor>
+    <name>Clark Freeman</name>
+    <role>Ed Heath</role>
+    <type>GuestStar</type>
+    <tmdbid>138771</tmdbid>
+  </actor>
+  <actor>
+    <name>Julián Arango</name>
+    <role>Orlando Henao</role>
+    <type>GuestStar</type>
+    <tmdbid>1431703</tmdbid>
+  </actor>
+  <actor>
+    <name>Viviana Serna</name>
+    <role>Guadalupe</role>
+    <type>GuestStar</type>
+    <tmdbid>1563565</tmdbid>
+  </actor>
+  <actor>
+    <name>Alejandra Guilmant</name>
+    <role>Daniela</role>
+    <type>GuestStar</type>
+    <tmdbid>1804581</tmdbid>
+  </actor>
+  <actor>
+    <name>Alberto Ammann</name>
+    <role>Pacho Herrera</role>
+    <type>GuestStar</type>
+    <tmdbid>110424</tmdbid>
+  </actor>
+  <actor>
+    <name>Girolly Gutierrez</name>
+    <role>Wilber Varela</role>
+    <type>GuestStar</type>
+    <tmdbid>2667766</tmdbid>
+  </actor>
+  <actor>
+    <name>Alejandro Márquez</name>
+    <role>LTD Driver</role>
+    <type>GuestStar</type>
+    <tmdbid>2667767</tmdbid>
+  </actor>
+  <actor>
+    <name>Omar Ayala</name>
+    <role>Verdín's Driver</role>
+    <type>GuestStar</type>
+    <tmdbid>973407</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Oblak</name>
+    <role>US Marshal</role>
+    <type>GuestStar</type>
+    <tmdbid>1578278</tmdbid>
+  </actor>
+  <actor>
+    <name>Tamara Guzman</name>
+    <role>Chapo's Mom</role>
+    <type>GuestStar</type>
+    <tmdbid>1508217</tmdbid>
+  </actor>
+  <actor>
+    <name>Ricardo Velderrain</name>
+    <role>Sergio</role>
+    <type>GuestStar</type>
+    <tmdbid>2258349</tmdbid>
+  </actor>
+  <actor>
+    <name>Ricky Gut Mad</name>
+    <role>Embassy Clerk</role>
+    <type>GuestStar</type>
+    <tmdbid>2667768</tmdbid>
+  </actor>
+  <actor>
+    <name>Danae Garcia</name>
+    <role>Young Mother</role>
+    <type>GuestStar</type>
+    <tmdbid>2667769</tmdbid>
+  </actor>
+  <actor>
+    <name>Mauricio Núñez Nava</name>
+    <role>Néstor</role>
+    <type>GuestStar</type>
+    <tmdbid>2667770</tmdbid>
+  </actor>
+  <actor>
+    <name>Emmanuel Aguilar</name>
+    <role>Shoeshine Man</role>
+    <type>GuestStar</type>
+    <tmdbid>2667771</tmdbid>
+  </actor>
+  <actor>
+    <name>Izcaret de la Parra</name>
+    <role>Recepcionist</role>
+    <type>GuestStar</type>
+    <tmdbid>2667772</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Avishay</name>
+    <role>American Soldier</role>
+    <type>GuestStar</type>
+    <tmdbid>2667773</tmdbid>
+  </actor>
+  <actor>
+    <name>Francisco Calvillo</name>
+    <role>Roberto Mayén</role>
+    <type>GuestStar</type>
+    <tmdbid>2667774</tmdbid>
+  </actor>
+  <actor>
+    <name>Ethan Korver</name>
+    <role>Carlos Muñoz</role>
+    <type>GuestStar</type>
+    <tmdbid>2439929</tmdbid>
+  </actor>
+  <director tmdbid="444720" imdbid="nm1223381">Andrés Baiz</director>
+  <rating>7.1</rating>
+  <year>2020</year>
+  <imdbid>tt9393762</imdbid>
+  <tvdbid>7499240</tvdbid>
+  <runtime>66</runtime>
+  <uniqueid type="Tvdb">7499240</uniqueid>
+  <uniqueid type="Imdb">tt9393762</uniqueid>
+  <episode>1</episode>
+  <season>2</season>
+  <aired>2020-02-13</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3828285</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>65</duration>
+        <durationinseconds>3944</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

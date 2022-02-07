@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[为了逮捕涉及4万亿韩元、造成3万名受害者的稀世大骗子，诈骗犯（玄彬饰）和检察官展开较量的诈骗犯罪。玄彬将在片中饰演设下完美骗局的诈骗犯黄智成，是一位专挑诈骗犯行骗的天才诈骗犯；刘智泰在片中饰演劣性检察官朴熙洙，为抓住稀世大骗子而制定计划招揽黄智成，表面正义内里却是对权力有无尽欲望的人。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2017-12-22 09:52:34</dateadded>
+  <title>骗子</title>
+  <originaltitle>꾼</originaltitle>
+  <actor>
+    <name>Hyun Bin</name>
+    <role>Hwang Ji-sung</role>
+    <type>Actor</type>
+    <tmdbid>544107</tmdbid>
+    <imdbid>nm1593460</imdbid>
+  </actor>
+  <actor>
+    <name>Yoo Ji-tae</name>
+    <role>Park Hee-su</role>
+    <type>Actor</type>
+    <tmdbid>10112</tmdbid>
+    <imdbid>nm0949167</imdbid>
+  </actor>
+  <actor>
+    <name>Bae Sung-woo</name>
+    <role>Ko Suk-dong</role>
+    <type>Actor</type>
+    <tmdbid>573794</tmdbid>
+    <imdbid>nm3755026</imdbid>
+  </actor>
+  <actor>
+    <name>Park Sung-woong</name>
+    <role>Kwak Seung-gun</role>
+    <type>Actor</type>
+    <tmdbid>139493</tmdbid>
+    <imdbid>nm3663864</imdbid>
+  </actor>
+  <actor>
+    <name>Nana</name>
+    <role>Choon-ja</role>
+    <type>Actor</type>
+    <tmdbid>1523043</tmdbid>
+    <imdbid>nm6847945</imdbid>
+  </actor>
+  <actor>
+    <name>Ahn Se-ha</name>
+    <role>Manager Kim</role>
+    <type>Actor</type>
+    <tmdbid>1676565</tmdbid>
+    <imdbid>nm7609313</imdbid>
+  </actor>
+  <actor>
+    <name>Choi Deok-moon</name>
+    <role>Lee Kang-suk</role>
+    <type>Actor</type>
+    <tmdbid>141857</tmdbid>
+    <imdbid>nm1117728</imdbid>
+  </actor>
+  <actor>
+    <name>Choi Il-hwa</name>
+    <role>Lawmaker Sung</role>
+    <type>Actor</type>
+    <tmdbid>564862</tmdbid>
+    <imdbid>nm1135644</imdbid>
+  </actor>
+  <actor>
+    <name>Heo Sung-tae</name>
+    <role>Jang Du-chil</role>
+    <type>Actor</type>
+    <tmdbid>1918350</tmdbid>
+    <imdbid>nm6757627</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Tae-hun</name>
+    <role>Attorney general</role>
+    <type>Actor</type>
+    <tmdbid>552067</tmdbid>
+    <imdbid>nm3702737</imdbid>
+  </actor>
+  <actor>
+    <name>Jung Jin-young</name>
+    <role>Hwang Yoo-suk</role>
+    <type>Actor</type>
+    <tmdbid>96484</tmdbid>
+    <imdbid>nm1045685</imdbid>
+  </actor>
+  <actor>
+    <name>Oh Tae-kyung</name>
+    <role>Tae-dong</role>
+    <type>Actor</type>
+    <tmdbid>77183</tmdbid>
+    <imdbid>nm0644905</imdbid>
+  </actor>
+  <actor>
+    <name>Jin Sun-kyu</name>
+    <role>Older cousin</role>
+    <type>Actor</type>
+    <tmdbid>1989290</tmdbid>
+    <imdbid>nm5887272</imdbid>
+  </actor>
+  <actor>
+    <name>Jo Eun-joo</name>
+    <role>Reporter 1</role>
+    <type>Actor</type>
+    <tmdbid>2648857</tmdbid>
+  </actor>
+  <actor>
+    <name>Ju Seok-tae</name>
+    <type>Actor</type>
+    <tmdbid>2159393</tmdbid>
+    <imdbid>nm3754545</imdbid>
+  </actor>
+  <director tmdbid="1895319" imdbid="nm3100247">Jang Chang-won</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uarm88E9pmg</trailer>
+  <rating>6.6</rating>
+  <year>2017</year>
+  <imdbid>tt7243686</imdbid>
+  <tmdbid>478187</tmdbid>
+  <premiered>2017-11-22</premiered>
+  <releasedate>2017-11-22</releasedate>
+  <criticrating>40</criticrating>
+  <runtime>117</runtime>
+  <country>South Korea</country>
+  <genre>犯罪</genre>
+  <genre>动作</genre>
+  <studio>Showbox</studio>
+  <studio>Doodoong Pictures</studio>
+  <uniqueid type="Imdb">tt7243686</uniqueid>
+  <uniqueid type="Tmdb">478187</uniqueid>
+  <id>tt7243686</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>mpeg4</codec>
+        <micodec>mpeg4</micodec>
+        <bitrate>2683240</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>29.97003</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>117</duration>
+        <durationinseconds>7027</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,353 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[德洛莉丝（Dolores）开始寻找罗波安的设计者； 伯纳德试图阻止； 前士兵凯勒（Caleb）尝试在新洛杉矶找回自己真正的人生...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-05-21 08:19:29</dateadded>
+  <title>求主顾惜</title>
+  <actor>
+    <name>Evan Rachel Wood</name>
+    <role>Dolores Abernathy</role>
+    <type>Actor</type>
+    <tmdbid>38940</tmdbid>
+    <imdbid>nm0939697</imdbid>
+  </actor>
+  <actor>
+    <name>Thandie Newton</name>
+    <role>Maeve Millay</role>
+    <type>Actor</type>
+    <tmdbid>9030</tmdbid>
+    <imdbid>nm0628601</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Wright</name>
+    <role>Bernard Lowe</role>
+    <type>Actor</type>
+    <tmdbid>2954</tmdbid>
+    <imdbid>nm0942482</imdbid>
+  </actor>
+  <actor>
+    <name>Tessa Thompson</name>
+    <role>Charlotte Hale</role>
+    <type>Actor</type>
+    <tmdbid>62561</tmdbid>
+    <imdbid>nm1935086</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Harris</name>
+    <role>Man in Black</role>
+    <type>Actor</type>
+    <tmdbid>228</tmdbid>
+    <imdbid>nm0000438</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Caleb</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Vincent Cassel</name>
+    <role>Serac</role>
+    <type>Actor</type>
+    <tmdbid>1925</tmdbid>
+    <imdbid>nm0001993</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Kretschmann</name>
+    <role>Gerald</role>
+    <type>GuestStar</type>
+    <tmdbid>3491</tmdbid>
+    <imdbid>nm0470981</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Filipowich</name>
+    <role>Joe</role>
+    <type>GuestStar</type>
+    <tmdbid>105902</tmdbid>
+    <imdbid>nm0277071</imdbid>
+  </actor>
+  <actor>
+    <name>Kristy Munden</name>
+    <role>Caleb's Mother</role>
+    <type>GuestStar</type>
+    <tmdbid>2568098</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob DeMonte-Finn</name>
+    <role>Bellowing Man</role>
+    <type>GuestStar</type>
+    <tmdbid>1681685</tmdbid>
+  </actor>
+  <actor>
+    <name>Kimberly Connolly</name>
+    <role>Woman</role>
+    <type>GuestStar</type>
+    <tmdbid>2568099</tmdbid>
+  </actor>
+  <actor>
+    <name>Ying Sayun</name>
+    <role>Eunice</role>
+    <type>GuestStar</type>
+    <tmdbid>2568101</tmdbid>
+  </actor>
+  <actor>
+    <name>Emmie Nagata</name>
+    <role>Wife</role>
+    <type>GuestStar</type>
+    <tmdbid>2568103</tmdbid>
+  </actor>
+  <actor>
+    <name>Koji Niiya</name>
+    <role>Man</role>
+    <type>GuestStar</type>
+    <tmdbid>1583789</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Connors</name>
+    <role>Bodyguard</role>
+    <type>GuestStar</type>
+    <tmdbid>1456325</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenson Cheng</name>
+    <role>Liang</role>
+    <type>GuestStar</type>
+    <tmdbid>1746630</tmdbid>
+    <imdbid>nm4766811</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Morgan</name>
+    <role>Buchan</role>
+    <type>GuestStar</type>
+    <tmdbid>75264</tmdbid>
+  </actor>
+  <actor>
+    <name>John Trejo</name>
+    <role>Second Bodyguard</role>
+    <type>GuestStar</type>
+    <tmdbid>1488513</tmdbid>
+    <imdbid>nm2823321</imdbid>
+  </actor>
+  <actor>
+    <name>Andrea Martina</name>
+    <role>German Singer</role>
+    <type>GuestStar</type>
+    <tmdbid>2568106</tmdbid>
+  </actor>
+  <actor>
+    <name>Tuen Wai Meng</name>
+    <role>Fisherman</role>
+    <type>GuestStar</type>
+    <tmdbid>2568107</tmdbid>
+  </actor>
+  <actor>
+    <name>Nico Conde</name>
+    <role>Captive</role>
+    <type>GuestStar</type>
+    <tmdbid>2568108</tmdbid>
+  </actor>
+  <actor>
+    <name>Alena Savostikova</name>
+    <role>Rico Model</role>
+    <type>GuestStar</type>
+    <tmdbid>1064041</tmdbid>
+  </actor>
+  <actor>
+    <name>Cassandra Blair</name>
+    <role>Administrator</role>
+    <type>GuestStar</type>
+    <tmdbid>2261466</tmdbid>
+  </actor>
+  <actor>
+    <name>Dorian Kingi</name>
+    <role>George</role>
+    <type>GuestStar</type>
+    <tmdbid>62735</tmdbid>
+  </actor>
+  <actor>
+    <name>Cheryl Chitty Tan</name>
+    <role>Backpack Woman</role>
+    <type>GuestStar</type>
+    <tmdbid>2568112</tmdbid>
+  </actor>
+  <actor>
+    <name>Bo Zhang</name>
+    <role>Farm Worker 1</role>
+    <type>GuestStar</type>
+    <tmdbid>1443378</tmdbid>
+  </actor>
+  <actor>
+    <name>Xiaodong Yang</name>
+    <role>Farm Worker 2</role>
+    <type>GuestStar</type>
+    <tmdbid>2568114</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Hertle</name>
+    <role>Flirting Man</role>
+    <type>GuestStar</type>
+    <tmdbid>2568115</tmdbid>
+  </actor>
+  <actor>
+    <name>Alain Ali Washnevsky</name>
+    <role>Broker</role>
+    <type>GuestStar</type>
+    <tmdbid>1393236</tmdbid>
+  </actor>
+  <actor>
+    <name>Isaac Gonzalez Rossi</name>
+    <role>Estefan</role>
+    <type>GuestStar</type>
+    <tmdbid>2568097</tmdbid>
+  </actor>
+  <actor>
+    <name>Rafi Gavron</name>
+    <role>Roderick</role>
+    <type>GuestStar</type>
+    <tmdbid>21660</tmdbid>
+    <imdbid>nm1969169</imdbid>
+  </actor>
+  <actor>
+    <name>Phoebe Tonkin</name>
+    <role>Penny</role>
+    <type>GuestStar</type>
+    <tmdbid>145247</tmdbid>
+    <imdbid>nm2100081</imdbid>
+  </actor>
+  <actor>
+    <name>Tommy Flanagan</name>
+    <role>Martin Connells</role>
+    <type>GuestStar</type>
+    <tmdbid>2478</tmdbid>
+    <imdbid>nm0281107</imdbid>
+  </actor>
+  <actor>
+    <name>John Gallagher Jr.</name>
+    <role>Liam Dempsey</role>
+    <type>GuestStar</type>
+    <tmdbid>17487</tmdbid>
+    <imdbid>nm0302330</imdbid>
+  </actor>
+  <actor>
+    <name>Kid Cudi</name>
+    <role>Francis</role>
+    <type>GuestStar</type>
+    <tmdbid>484359</tmdbid>
+    <imdbid>nm3264596</imdbid>
+  </actor>
+  <actor>
+    <name>Payman Maadi</name>
+    <role>Elliot</role>
+    <type>GuestStar</type>
+    <tmdbid>559566</tmdbid>
+  </actor>
+  <actor>
+    <name>Charmin Lee</name>
+    <role>Joanna</role>
+    <type>GuestStar</type>
+    <tmdbid>1628087</tmdbid>
+    <imdbid>nm0496980</imdbid>
+  </actor>
+  <actor>
+    <name>Russell Wong</name>
+    <role>Brompton</role>
+    <type>GuestStar</type>
+    <tmdbid>21354</tmdbid>
+    <imdbid>nm0005568</imdbid>
+  </actor>
+  <actor>
+    <name>Gregory Zarian</name>
+    <role>Reed Phillips</role>
+    <type>GuestStar</type>
+    <tmdbid>1415722</tmdbid>
+  </actor>
+  <actor>
+    <name>Wayne Pére</name>
+    <role>Therapist</role>
+    <type>GuestStar</type>
+    <tmdbid>31528</tmdbid>
+    <imdbid>nm0701818</imdbid>
+  </actor>
+  <actor>
+    <name>Lena Waithe</name>
+    <role>Ash</role>
+    <type>GuestStar</type>
+    <tmdbid>1059572</tmdbid>
+    <imdbid>nm2913119</imdbid>
+  </actor>
+  <actor>
+    <name>Marshawn Lynch</name>
+    <role>Giggles</role>
+    <type>GuestStar</type>
+    <tmdbid>1420679</tmdbid>
+    <imdbid>nm2834234</imdbid>
+  </actor>
+  <actor>
+    <name>Pom Klementieff</name>
+    <role>Martel</role>
+    <type>GuestStar</type>
+    <tmdbid>139820</tmdbid>
+    <imdbid>nm2962353</imdbid>
+  </actor>
+  <director>Jonathan Nolan</director>
+  <rating>7.645</rating>
+  <year>2020</year>
+  <imdbid>tt8358332</imdbid>
+  <tvdbid>7537283</tvdbid>
+  <runtime>72</runtime>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt8358332</uniqueid>
+  <uniqueid type="Tvdb">7537283</uniqueid>
+  <episode>1</episode>
+  <season>3</season>
+  <aired>2020-03-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9649638</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>71</duration>
+        <durationinseconds>4306</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

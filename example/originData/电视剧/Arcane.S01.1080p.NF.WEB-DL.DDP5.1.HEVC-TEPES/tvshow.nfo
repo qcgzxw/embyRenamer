@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[英雄联盟官方动画剧集，讲述的是在充满蒸汽朋克气息的乌托邦-皮尔特沃夫和由化学品驱动的地下城-祖安中，蔚和金克丝两姐妹，她们在一场激烈的冲突后发现两个人站在了彼此的对立面。她们从此分开，走上不同的道路，朝着不同的命运终点走去，但心中的羁绊又无时不刻地让姐妹二人想要破镜重圆。]]></plot>
+  <outline><![CDATA[英雄联盟官方动画剧集，讲述的是在充满蒸汽朋克气息的乌托邦-皮尔特沃夫和由化学品驱动的地下城-祖安中，蔚和金克丝两姐妹，她们在一场激烈的冲突后发现两个人站在了彼此的对立面。她们从此分开，走上不同的道路，朝着不同的命运终点走去，但心中的羁绊又无时不刻地让姐妹二人想要破镜重圆。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-26 01:04:44</dateadded>
+  <title>英雄联盟：双城之战</title>
+  <originaltitle>Arcane</originaltitle>
+  <actor>
+    <name>Hailee Steinfeld</name>
+    <role>Vi (voice)</role>
+    <type>Actor</type>
+    <tmdbid>130640</tmdbid>
+    <imdbid>nm2794962</imdbid>
+  </actor>
+  <actor>
+    <name>Ella Purnell</name>
+    <role>Jinx (voice)</role>
+    <type>Actor</type>
+    <tmdbid>989325</tmdbid>
+  </actor>
+  <actor>
+    <name>Katie Leung</name>
+    <role>Caitlyn (voice)</role>
+    <type>Actor</type>
+    <tmdbid>234933</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Alejandro</name>
+    <role>Jayce (voice)</role>
+    <type>Actor</type>
+    <tmdbid>116474</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Spisak</name>
+    <role>Silco (voice)</role>
+    <type>Actor</type>
+    <tmdbid>216973</tmdbid>
+  </actor>
+  <actor>
+    <name>Toks Olagundoye</name>
+    <role>Mel (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1256258</tmdbid>
+    <imdbid>nm1252685</imdbid>
+  </actor>
+  <actor>
+    <name>Harry Lloyd</name>
+    <role>Viktor (voice)</role>
+    <type>Actor</type>
+    <tmdbid>205258</tmdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=3Svs_hl897c</trailer>
+  <trailer>http://www.youtube.com/watch?v=fXmAurh012s</trailer>
+  <rating>9.2</rating>
+  <year>2021</year>
+  <mpaa>TV-14</mpaa>
+  <imdb_id>tt11126994</imdb_id>
+  <tmdbid>94605</tmdbid>
+  <premiered>2021-11-06</premiered>
+  <releasedate>2021-11-06</releasedate>
+  <runtime>42</runtime>
+  <genre>动画</genre>
+  <genre>Sci-Fi &amp; Fantasy</genre>
+  <genre>动作冒险</genre>
+  <genre>剧情</genre>
+  <studio>Netflix</studio>
+  <studio>Tencent Video</studio>
+  <uniqueid type="Tmdb">94605</uniqueid>
+  <uniqueid type="Imdb">tt11126994</uniqueid>
+  <uniqueid type="Tvdb">371028</uniqueid>
+  <tvdbid>371028</tvdbid>
+  <id>371028</id>
+  <episodeguide>
+    <url cache="371028.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/371028/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　14年前，发生了一起恶性的杀人事件，死者分别是少男有汉的父亲和少女美皓的母亲。其实凶手正是这对青涩的少年。生活窘迫的母亲一直威逼年少的美皓卖淫，对象正是有汉的父亲。有汉目睹了父亲的暴行，忍无可忍下亲手杀死了兽性的父亲，而美皓为了庇护有汉亦将知晓内情的母亲杀死。法律对案子追查期是15年。为了逃避法律制裁，两个孩子决定在此后的15年内像陌生人一样生活，直到有一天两个人可以手牵着手，在阳光下一同散步。然而，就在他们各自平静的生活了几年之后，他们发现居然还有人在追查这个案子……而此时，美皓已出落成完美的成熟女郎，身份是某财阀的未婚妻，她和有汉的神秘往来，也引起了采伐秘书诗贞的怀疑。有汉和美皓这对苦命鸳鸯的将会迎来怎样的命运？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-10-01 01:17:34</dateadded>
+  <title>白夜行</title>
+  <originaltitle>백야행: 하얀 어둠 속을 걷다</originaltitle>
+  <actor>
+    <name>Son Ye-jin</name>
+    <role>Yoo Mi-ho / Lee Ji-ah</role>
+    <type>Actor</type>
+    <tmdbid>86889</tmdbid>
+  </actor>
+  <actor>
+    <name>Han Suk-kyu</name>
+    <role>Han Dong-soo</role>
+    <type>Actor</type>
+    <tmdbid>80457</tmdbid>
+  </actor>
+  <actor>
+    <name>Go Soo</name>
+    <role>Kim Yo-han</role>
+    <type>Actor</type>
+    <tmdbid>85173</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Min-jung</name>
+    <role>Lee Si-yeong</role>
+    <type>Actor</type>
+    <tmdbid>150242</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Sung-woong</name>
+    <role>Cha Seung-jo</role>
+    <type>Actor</type>
+    <tmdbid>139493</tmdbid>
+    <imdbid>nm3663864</imdbid>
+  </actor>
+  <actor>
+    <name>Cha Hwa-yeon</name>
+    <role>Seo Hae-yeong</role>
+    <type>Actor</type>
+    <tmdbid>1487437</tmdbid>
+  </actor>
+  <actor>
+    <name>Jung Jin</name>
+    <role>Park Tae-ho</role>
+    <type>Actor</type>
+    <tmdbid>1485087</tmdbid>
+  </actor>
+  <actor>
+    <name>Im Ji-gyu</name>
+    <role>Yak-tong</role>
+    <type>Actor</type>
+    <tmdbid>123339</tmdbid>
+  </actor>
+  <actor>
+    <name>Bang Joong-Hyun</name>
+    <role>Jo Min-woo</role>
+    <type>Actor</type>
+    <tmdbid>1887010</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoon Da-kyung</name>
+    <role>Park Mi-yeon</role>
+    <type>Actor</type>
+    <tmdbid>140319</tmdbid>
+  </actor>
+  <actor>
+    <name>Joo Da-young</name>
+    <role>Lee Ji-ah (young)</role>
+    <type>Actor</type>
+    <tmdbid>1559863</tmdbid>
+  </actor>
+  <actor>
+    <name>Ye Soo-jung</name>
+    <role>Aunt</role>
+    <type>Actor</type>
+    <tmdbid>1351055</tmdbid>
+  </actor>
+  <actor>
+    <name>Han Ye-won</name>
+    <role>Na-hyeon</role>
+    <type>Actor</type>
+    <tmdbid>571167</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Ji-hyeon</name>
+    <role>Hong Yun-mi (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>588068</tmdbid>
+  </actor>
+  <actor>
+    <name>Jo Kyung-sook</name>
+    <role>Yang Mi-sook (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2010635</tmdbid>
+  </actor>
+  <actor>
+    <name>Choi Jin-ho</name>
+    <role>Kim Si-hoo (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>127848</tmdbid>
+  </actor>
+  <actor>
+    <name>Jung In-gi</name>
+    <role>Kang Jae-doo (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>240082</tmdbid>
+    <imdbid>nm1559446</imdbid>
+  </actor>
+  <actor>
+    <name>Seo Dong-soo</name>
+    <role>Crime lab investigation team leader (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1128087</tmdbid>
+  </actor>
+  <director tmdbid="144052">Park Shin-woo</director>
+  <rating>6.3</rating>
+  <year>2009</year>
+  <imdbid>tt1533114</imdbid>
+  <tmdbid>51393</tmdbid>
+  <premiered>2009-11-19</premiered>
+  <releasedate>2009-11-19</releasedate>
+  <runtime>136</runtime>
+  <country>South Korea</country>
+  <genre>悬疑</genre>
+  <genre>爱情</genre>
+  <studio>Cinema Service</studio>
+  <studio>Pollux Barunson</studio>
+  <uniqueid type="Tmdb">51393</uniqueid>
+  <uniqueid type="Imdb">tt1533114</uniqueid>
+  <id>tt1533114</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>7655554</bitrate>
+        <width>1916</width>
+        <height>816</height>
+        <aspect>479:204</aspect>
+        <aspectratio>479:204</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>136</duration>
+        <durationinseconds>8160</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

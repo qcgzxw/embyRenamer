@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[格雷（罗根·马歇尔-格林 Logan Marshall-Green 饰）和女友艾莎（梅拉里·沃列何 Melanie Vallejo 饰）相恋多年，两人之间感情非常要好。一天，格雷带着艾莎去拜访一位名叫艾伦（哈里森·吉尔伯特森 Harrison Gilbertson 饰）的科学家，艾伦设计了人工智能芯片STEM，令艾莎叹为观止。在回去的路上，格雷和艾莎所乘坐的无人驾驶汽车发生了故障，将两人带往了一处暴徒聚集的贫民窟，在那里，两人遭到了袭击，艾莎不幸丧生，而格雷身受重伤下半身瘫痪。心中充满了痛苦和绝望的格雷想为恋人报仇，于是找到了艾伦，将STEM芯片植入了大脑，在STEM的操纵下，格雷重新站了起来。让格雷没有想到的是，STEM的智慧远远超乎他的想象，而他亦被卷入了一个巨大的阴谋之中。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-09-07 09:58:13</dateadded>
+  <title>升级</title>
+  <originaltitle>Upgrade</originaltitle>
+  <actor>
+    <name>Logan Marshall-Green</name>
+    <role>Grey Trace</role>
+    <type>Actor</type>
+    <tmdbid>130253</tmdbid>
+  </actor>
+  <actor>
+    <name>Betty Gabriel</name>
+    <role>Detective Cortez</role>
+    <type>Actor</type>
+    <tmdbid>1660452</tmdbid>
+    <imdbid>nm3340597</imdbid>
+  </actor>
+  <actor>
+    <name>Harrison Gilbertson</name>
+    <role>Eron Keen</role>
+    <type>Actor</type>
+    <tmdbid>127281</tmdbid>
+  </actor>
+  <actor>
+    <name>Melanie Vallejo</name>
+    <role>Asha Trace</role>
+    <type>Actor</type>
+    <tmdbid>82606</tmdbid>
+  </actor>
+  <actor>
+    <name>Benedict Hardie</name>
+    <role>Fisk</role>
+    <type>Actor</type>
+    <tmdbid>1275904</tmdbid>
+  </actor>
+  <actor>
+    <name>Linda Cropper</name>
+    <role>Pamela</role>
+    <type>Actor</type>
+    <tmdbid>61635</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon Maiden</name>
+    <role>Stem (voice)</role>
+    <type>Actor</type>
+    <tmdbid>75745</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Danielsen</name>
+    <role>Jeff Handley</role>
+    <type>Actor</type>
+    <tmdbid>2108336</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Cawthorne</name>
+    <role>Serk</role>
+    <type>Actor</type>
+    <tmdbid>1255064</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Kirby</name>
+    <role>Tolan</role>
+    <type>Actor</type>
+    <tmdbid>75175</tmdbid>
+  </actor>
+  <actor>
+    <name>Abby Craden</name>
+    <role>Kara (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1742313</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Anastasios</name>
+    <role>Wan</role>
+    <type>Actor</type>
+    <tmdbid>1208321</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenny Low</name>
+    <role>Police Driver</role>
+    <type>Actor</type>
+    <tmdbid>1466396</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Havea</name>
+    <role>Nurse Henderson</role>
+    <type>Actor</type>
+    <tmdbid>2634981</tmdbid>
+  </actor>
+  <actor>
+    <name>Ming-Zhu Hii</name>
+    <role>Dr Diana Gordon</role>
+    <type>Actor</type>
+    <tmdbid>1525897</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Demkiw</name>
+    <role>Technician</role>
+    <type>Actor</type>
+    <tmdbid>2872776</tmdbid>
+  </actor>
+  <actor>
+    <name>Manjot Jassal</name>
+    <role>Technician</role>
+    <type>Actor</type>
+    <tmdbid>2872777</tmdbid>
+  </actor>
+  <actor>
+    <name>Esther Joseph</name>
+    <role>Technician</role>
+    <type>Actor</type>
+    <tmdbid>2872778</tmdbid>
+  </actor>
+  <actor>
+    <name>Sachin Joab</name>
+    <role>Dr Bhatia</role>
+    <type>Actor</type>
+    <tmdbid>1094512</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Davis</name>
+    <role>Homeless Man</role>
+    <type>Actor</type>
+    <tmdbid>2872779</tmdbid>
+  </actor>
+  <actor>
+    <name>Clayton Jacobson</name>
+    <role>Manny</role>
+    <type>Actor</type>
+    <tmdbid>441784</tmdbid>
+  </actor>
+  <actor>
+    <name>Arthur Angel</name>
+    <role>Old Bones Patron</role>
+    <type>Actor</type>
+    <tmdbid>107474</tmdbid>
+  </actor>
+  <actor>
+    <name>Puven Pather</name>
+    <role>Old Bones Heavy</role>
+    <type>Actor</type>
+    <tmdbid>2455329</tmdbid>
+  </actor>
+  <actor>
+    <name>Ri-Jie Kwok</name>
+    <role>Old Bones Heavy</role>
+    <type>Actor</type>
+    <tmdbid>75167</tmdbid>
+  </actor>
+  <actor>
+    <name>Dave Mondon</name>
+    <role>Old Bones Heavy</role>
+    <type>Actor</type>
+    <tmdbid>2872780</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosco Campbell</name>
+    <role>VR Guy</role>
+    <type>Actor</type>
+    <tmdbid>1976096</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael M. Foster</name>
+    <role>Vessel Guard</role>
+    <type>Actor</type>
+    <tmdbid>1635549</tmdbid>
+  </actor>
+  <actor>
+    <name>Zia Kelly</name>
+    <role>Vessel Guard</role>
+    <type>Actor</type>
+    <tmdbid>2872781</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Doggett</name>
+    <role>Business Man</role>
+    <type>Actor</type>
+    <tmdbid>2872782</tmdbid>
+  </actor>
+  <director tmdbid="2128" imdbid="nm1191481">Leigh Whannell</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1hTLGlgZ4Z8</trailer>
+  <rating>7.5</rating>
+  <year>2018</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt6499752</imdbid>
+  <tmdbid>500664</tmdbid>
+  <premiered>2018-06-01</premiered>
+  <releasedate>2018-06-01</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>100</runtime>
+  <country>Australia</country>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>惊悚</genre>
+  <genre>科幻</genre>
+  <studio>Goalpost Pictures</studio>
+  <studio>Automatik Entertainment</studio>
+  <studio>Blumhouse Productions</studio>
+  <studio>Nervous Tick</studio>
+  <studio>Film Victoria</studio>
+  <uniqueid type="Tmdb">500664</uniqueid>
+  <uniqueid type="Imdb">tt6499752</uniqueid>
+  <id>tt6499752</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4143089</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5994</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

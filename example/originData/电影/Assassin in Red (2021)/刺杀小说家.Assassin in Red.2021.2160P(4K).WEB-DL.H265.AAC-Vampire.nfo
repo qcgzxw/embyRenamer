@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[异世界皇都，天神赤发鬼残暴统治，滥杀无辜。少年空文因被赤发鬼追杀，决定奋起反击。在黑甲（郭京飞 饰）的指引下，踏上了凡人弑神之路。这是小说家路空文（董子健 饰）笔下的奇幻世界。没想到小说的进程，竟然影响着现实世界。这时一名男子（雷佳音 饰）接下了刺杀他的任务……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-09 12:51:30</dateadded>
+  <title>刺杀小说家</title>
+  <originaltitle>刺杀小说家</originaltitle>
+  <actor>
+    <name>Lei Jiayin</name>
+    <role>Guan Ning</role>
+    <type>Actor</type>
+    <tmdbid>1724403</tmdbid>
+    <imdbid>nm5042060</imdbid>
+  </actor>
+  <actor>
+    <name>Yang Mi</name>
+    <role>Tu Ling</role>
+    <type>Actor</type>
+    <tmdbid>572043</tmdbid>
+    <imdbid>nm2468729</imdbid>
+  </actor>
+  <actor>
+    <name>Dong Zijian</name>
+    <role>Lu Kong Wen</role>
+    <type>Actor</type>
+    <tmdbid>1353695</tmdbid>
+    <imdbid>nm6039993</imdbid>
+  </actor>
+  <actor>
+    <name>Yu Hewei</name>
+    <role>Li Mo</role>
+    <type>Actor</type>
+    <tmdbid>1344903</tmdbid>
+    <imdbid>nm3388842</imdbid>
+  </actor>
+  <actor>
+    <name>Tong Liya</name>
+    <role>Prajna</role>
+    <type>Actor</type>
+    <tmdbid>1173214</tmdbid>
+    <imdbid>nm4405625</imdbid>
+  </actor>
+  <actor>
+    <name>Guo Jingfei</name>
+    <role>Hei Jia</role>
+    <type>Actor</type>
+    <tmdbid>1353688</tmdbid>
+    <imdbid>nm3530937</imdbid>
+  </actor>
+  <actor>
+    <name>Dong Jie</name>
+    <role>Xiao Yu</role>
+    <type>Actor</type>
+    <tmdbid>12676</tmdbid>
+    <imdbid>nm1089540</imdbid>
+  </actor>
+  <director tmdbid="1362555" imdbid="nm4772813">Lu Yang</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xs7DJeJgc1s</trailer>
+  <rating>6.3</rating>
+  <year>2021</year>
+  <imdbid>tt9685342</imdbid>
+  <tmdbid>611698</tmdbid>
+  <premiered>2021-02-12</premiered>
+  <releasedate>2021-02-12</releasedate>
+  <criticrating>92</criticrating>
+  <runtime>130</runtime>
+  <country>China</country>
+  <genre>剧情</genre>
+  <genre>动作</genre>
+  <genre>奇幻</genre>
+  <studio>United Entertainment Partners</studio>
+  <studio>华策影业（上海）有限公司</studio>
+  <uniqueid type="Tmdb">611698</uniqueid>
+  <uniqueid type="Imdb">tt9685342</uniqueid>
+  <id>tt9685342</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4849226</bitrate>
+        <width>3840</width>
+        <height>2080</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>24</framerate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>129</duration>
+        <durationinseconds>7792</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1080</width>
+        <height>810</height>
+        <aspect>4:3</aspect>
+        <aspectratio>4:3</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

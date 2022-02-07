@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　历经千辛万苦，唐僧（吴亦凡 饰）、孙悟空（林更新 饰）、猪八戒（杨一威 饰）、沙僧（巴特尔 饰）这支取经团队朝着最终的目标持续前进，然而这一过程中他们不仅忍饥挨饿，还矛盾频生，似乎随时都有分裂的危险。尤其法师念念不忘死去的段小姐（舒淇 饰），而这件事也成为他和悟空之间矛盾和争吵的根源。在摆脱了蜘蛛精的纠缠后，师徒四人来至充满童趣的比丘国。比丘国王（包贝尔 饰）精神错乱，如同孩子般喜怒无常。国师九宫真人（姚晨 饰）将师徒迎进王宫，虽百般叮咛，却仍引出不少的乱子，甚至还揪出了藏在宫中的狡猾妖怪。 冒险仍在继续，师徒间的危机一触即发……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-04 14:19:46</dateadded>
+  <title>西游·伏妖篇</title>
+  <originaltitle>西游·伏妖篇</originaltitle>
+  <actor>
+    <name>Kris Wu</name>
+    <role>Tang Sanzang</role>
+    <type>Actor</type>
+    <tmdbid>1390948</tmdbid>
+    <imdbid>nm6806246</imdbid>
+  </actor>
+  <actor>
+    <name>Lin Gengxin</name>
+    <role>Sun Wukong</role>
+    <type>Actor</type>
+    <tmdbid>1254211</tmdbid>
+    <imdbid>nm5341380</imdbid>
+  </actor>
+  <actor>
+    <name>Yao Chen</name>
+    <role>Jiu Gong/Immortal Golden Vulture</role>
+    <type>Actor</type>
+    <tmdbid>482101</tmdbid>
+    <imdbid>nm3209720</imdbid>
+  </actor>
+  <actor>
+    <name>Lin Yun</name>
+    <role>White Bone Spirit</role>
+    <type>Actor</type>
+    <tmdbid>1574909</tmdbid>
+    <imdbid>nm7467125</imdbid>
+  </actor>
+  <actor>
+    <name>Yang Yiwei</name>
+    <role>Zhu Bajie</role>
+    <type>Actor</type>
+    <tmdbid>1892421</tmdbid>
+  </actor>
+  <actor>
+    <name>Mengke Bateer</name>
+    <role>Sha Wujing</role>
+    <type>Actor</type>
+    <tmdbid>1618635</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Likun</name>
+    <role>Spider Demon</role>
+    <type>Actor</type>
+    <tmdbid>1251113</tmdbid>
+    <imdbid>nm5387033</imdbid>
+  </actor>
+  <actor>
+    <name>Bao Bei Er</name>
+    <role>King</role>
+    <type>Actor</type>
+    <tmdbid>1303558</tmdbid>
+    <imdbid>nm4454642</imdbid>
+  </actor>
+  <actor>
+    <name>Wang Duo</name>
+    <role>Handsome Zhu Bajie</role>
+    <type>Actor</type>
+    <tmdbid>1892422</tmdbid>
+  </actor>
+  <actor>
+    <name>Dong Chengpeng</name>
+    <role>Taoist Priest</role>
+    <type>Actor</type>
+    <tmdbid>1292116</tmdbid>
+    <imdbid>nm3934959</imdbid>
+  </actor>
+  <actor>
+    <name>Cheng Si-Han</name>
+    <role>Tang Sanzang's teacher</role>
+    <type>Actor</type>
+    <tmdbid>1427525</tmdbid>
+  </actor>
+  <actor>
+    <name>Shu Qi</name>
+    <role>Duan Xiaojie</role>
+    <type>Actor</type>
+    <tmdbid>21911</tmdbid>
+    <imdbid>nm0795517</imdbid>
+  </actor>
+  <director tmdbid="26760" imdbid="nm0007139">Tsui Hark</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Nzb4JjCUdj0</trailer>
+  <rating>5.4</rating>
+  <year>2017</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt5273624</imdbid>
+  <tmdbid>435800</tmdbid>
+  <premiered>2017-01-28</premiered>
+  <releasedate>2017-01-28</releasedate>
+  <criticrating>58</criticrating>
+  <runtime>108</runtime>
+  <country>China</country>
+  <genre>冒险</genre>
+  <genre>奇幻</genre>
+  <genre>动作</genre>
+  <studio>Star Overseas</studio>
+  <set tmdbcolid="456576">
+    <name>西游（系列）</name>
+  </set>
+  <uniqueid type="TmdbCollection">456576</uniqueid>
+  <tmdbcollectionid>456576</tmdbcollectionid>
+  <uniqueid type="Imdb">tt5273624</uniqueid>
+  <uniqueid type="Tmdb">435800</uniqueid>
+  <id>tt5273624</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>16036774</bitrate>
+        <width>1920</width>
+        <height>1038</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>108</duration>
+        <durationinseconds>6508</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

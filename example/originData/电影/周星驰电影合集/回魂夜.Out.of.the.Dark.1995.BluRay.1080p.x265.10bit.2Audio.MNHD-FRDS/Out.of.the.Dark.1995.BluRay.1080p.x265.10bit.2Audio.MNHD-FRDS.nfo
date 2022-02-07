@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　新区李老妇神秘死亡，回魂夜，李老妇鬼魂出现，搞得区中保安队长等人天翻地覆，幸得捉鬼大师周相助，收服李老妇鬼魂并其口中得知，李老妇之子及媳妇乃杀人真凶，为了掩饰罪行，两夫妇施毒手，但李夫不幸失足坠楼，李妻更是许下誓言，回魂之夜找他们报仇。回魂夜，周为消灭两夫妇鬼魂，只好教众人捉鬼心得，可是众人胆小，练功不成，决战期限已到，两夫妇怒气极重，虽周使出万般法宝却也遭李夫附身，强用意志力将李夫的鬼压在体内并要莫将自己杀死阻止李夫害人，莫为了救众人终于杀了周。最后，幸存的人被当作精神病带进精神病院，周到头七之日，周回到精神病院找到了莫，二人相视而笑……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-04 23:22:02</dateadded>
+  <title>回魂夜</title>
+  <originaltitle>回魂夜</originaltitle>
+  <actor>
+    <name>Stephen Chow</name>
+    <role>Leon</role>
+    <type>Actor</type>
+    <tmdbid>57607</tmdbid>
+    <imdbid>nm0159507</imdbid>
+  </actor>
+  <actor>
+    <name>Karen Mok</name>
+    <role>Kwan</role>
+    <type>Actor</type>
+    <tmdbid>57831</tmdbid>
+    <imdbid>nm0596297</imdbid>
+  </actor>
+  <actor>
+    <name>Leung Kar-Yan</name>
+    <role>Mr Wu</role>
+    <type>Actor</type>
+    <tmdbid>227782</tmdbid>
+    <imdbid>nm0415777</imdbid>
+  </actor>
+  <actor>
+    <name>Wong Yat-fei</name>
+    <role>Tieh Dan</role>
+    <type>Actor</type>
+    <tmdbid>956575</tmdbid>
+    <imdbid>nm0939431</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Lik-Chi</name>
+    <role>Security guard</role>
+    <type>Actor</type>
+    <tmdbid>118355</tmdbid>
+    <imdbid>nm0497758</imdbid>
+  </actor>
+  <actor>
+    <name>Lo Hung</name>
+    <role>Captain Lu</role>
+    <type>Actor</type>
+    <tmdbid>1416970</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Wong</name>
+    <role>Jiang</role>
+    <type>Actor</type>
+    <tmdbid>1192984</tmdbid>
+    <imdbid>nm2346030</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Kin-Yan</name>
+    <role>Fat Cat</role>
+    <type>Actor</type>
+    <tmdbid>237235</tmdbid>
+  </actor>
+  <actor>
+    <name>Heung Dip</name>
+    <role>Chang / Beard</role>
+    <type>Actor</type>
+    <tmdbid>1427539</tmdbid>
+  </actor>
+  <actor>
+    <name>Chow Chi-Fai</name>
+    <role>Mr Li</role>
+    <type>Actor</type>
+    <tmdbid>1414273</tmdbid>
+  </actor>
+  <actor>
+    <name>Carol Tam Suk-Mui</name>
+    <role>Mrs Li</role>
+    <type>Actor</type>
+    <tmdbid>1427540</tmdbid>
+  </actor>
+  <actor>
+    <name>Hau Woon-Ling</name>
+    <role>Mr Li's dead mother</role>
+    <type>Actor</type>
+    <tmdbid>112984</tmdbid>
+    <imdbid>nm2751997</imdbid>
+  </actor>
+  <director tmdbid="57617" imdbid="nm0311508">Jeffrey Lau</director>
+  <rating>6.9</rating>
+  <year>1995</year>
+  <mpaa>HK-II</mpaa>
+  <imdbid>tt0113356</imdbid>
+  <tmdbid>45452</tmdbid>
+  <premiered>1995-07-06</premiered>
+  <releasedate>1995-07-06</releasedate>
+  <criticrating>68</criticrating>
+  <runtime>83</runtime>
+  <country>Hong Kong</country>
+  <genre>喜剧</genre>
+  <genre>恐怖</genre>
+  <genre>奇幻</genre>
+  <studio>Cosmopolitan Film Productions Co., Ltd.</studio>
+  <uniqueid type="Imdb">tt0113356</uniqueid>
+  <uniqueid type="Tmdb">45452</uniqueid>
+  <id>tt0113356</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>7258035</bitrate>
+        <width>1920</width>
+        <height>1024</height>
+        <aspect>15:8</aspect>
+        <aspectratio>15:8</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>82</duration>
+        <durationinseconds>4966</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>320000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>320000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

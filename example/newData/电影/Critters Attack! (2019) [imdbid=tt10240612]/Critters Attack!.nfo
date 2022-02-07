@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[20岁的德蕾娅，她在自己梦想去的大学的一位教授家里做了份保姆的工作，为了跟教授的两个孩子——特里西和杰克打成一片，她带上自己的弟弟菲利普，和两个孩子去徒步旅行，却不知道有神秘的外星生物已经降临地球，并开始威胁到他们的安危....]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-03 15:41:12</dateadded>
+  <title>魔精攻击</title>
+  <originaltitle>Critters Attack!</originaltitle>
+  <actor>
+    <name>Tashiana Washington</name>
+    <role>Drea</role>
+    <type>Actor</type>
+    <tmdbid>977993</tmdbid>
+  </actor>
+  <actor>
+    <name>Dee Wallace</name>
+    <role>Aunt Dee</role>
+    <type>Actor</type>
+    <tmdbid>62001</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaeden Noel</name>
+    <role>Phillip</role>
+    <type>Actor</type>
+    <tmdbid>1663890</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Fulton</name>
+    <role>Jake</role>
+    <type>Actor</type>
+    <tmdbid>1260011</tmdbid>
+  </actor>
+  <actor>
+    <name>Ava Preston</name>
+    <role>Trissy</role>
+    <type>Actor</type>
+    <tmdbid>1723918</tmdbid>
+    <imdbid>nm4159350</imdbid>
+  </actor>
+  <actor>
+    <name>Leon Clingman</name>
+    <role>Ranger Bob</role>
+    <type>Actor</type>
+    <tmdbid>564774</tmdbid>
+  </actor>
+  <actor>
+    <name>Vash Singh</name>
+    <role>Kevin Loong</role>
+    <type>Actor</type>
+    <tmdbid>2337401</tmdbid>
+  </actor>
+  <actor>
+    <name>Keith Arbuthnot</name>
+    <role>Critter Puppeteer</role>
+    <type>Actor</type>
+    <tmdbid>2369399</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Blum</name>
+    <role>Critters</role>
+    <type>Actor</type>
+    <tmdbid>571562</tmdbid>
+    <imdbid>nm0089710</imdbid>
+  </actor>
+  <actor>
+    <name>Ho Chow</name>
+    <role>Chef Loong</role>
+    <type>Actor</type>
+    <tmdbid>168771</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Jeaven</name>
+    <role>Mandy</role>
+    <type>Actor</type>
+    <tmdbid>2369400</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathan Lynn</name>
+    <role>Shaun</role>
+    <type>Actor</type>
+    <tmdbid>1758078</tmdbid>
+  </actor>
+  <actor>
+    <name>Sven Ruygrok</name>
+    <role>Dean</role>
+    <type>Actor</type>
+    <tmdbid>1003249</tmdbid>
+  </actor>
+  <actor>
+    <name>Tristan de Beer</name>
+    <role>Gregory Sax</role>
+    <type>Actor</type>
+    <tmdbid>2527924</tmdbid>
+  </actor>
+  <director tmdbid="1210938">Bobby Miller</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=kuIc4yd7ZpU</trailer>
+  <rating>3.7</rating>
+  <year>2019</year>
+  <imdbid>tt10240612</imdbid>
+  <tmdbid>597856</tmdbid>
+  <premiered>2019-07-13</premiered>
+  <releasedate>2019-07-13</releasedate>
+  <criticrating>44</criticrating>
+  <runtime>89</runtime>
+  <country>United States of America</country>
+  <genre>恐怖</genre>
+  <genre>科幻</genre>
+  <genre>喜剧</genre>
+  <genre>电视电影</genre>
+  <studio>Blue Ribbon Content</studio>
+  <set tmdbcolid="10893">
+    <name>魔精（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">597856</uniqueid>
+  <uniqueid type="Imdb">tt10240612</uniqueid>
+  <id>tt10240612</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>7601689</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>89</duration>
+        <durationinseconds>5357</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

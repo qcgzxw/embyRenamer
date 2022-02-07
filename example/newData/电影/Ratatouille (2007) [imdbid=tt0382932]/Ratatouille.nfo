@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[即使是再微不足道的小人物，也有怀揣梦想的权力，哪怕他只是一只生活在阴沟里的老鼠呢……别看人家是老鼠，可也有一个好听的名字--雷米，而他的梦想，是成为法国五星级饭店厨房的掌勺。也许作为人类的你，可能不会觉得这个想法有多么地惊世骇俗，但雷米是一只老鼠，除了蟑螂之外，你在厨房里最没办法接受的啮齿类动物。  由于在嗅觉方面有着无与伦比的天赋，雷米的一生都浸透在“厨师” 的光辉理想之中，并且努力地在朝这个方向艰难地迈进，丝毫不去理会摆在自己面前的事实：厨师是这个世界上对老鼠最怀有病态恐惧的职业。不要以为所有的老鼠都像雷米这样“不切实际”，至少他的家人都还算正常，而且对于雷米的异想天开皆嗤之以鼻，快乐而满足地过着老鼠都在过的与丢弃不要的东西堆为伴的生活。这个时候的雷米已经有点走火入魔了，凡是看到能吃的东西，他都会情不自禁地想象：到底是火烧、还是嫩煎好呢……  你还别不信，有的时候梦想和现实，真的只有一步之遥。雷米在一个偶然的机会里，竟然搬到一家法国餐馆的下水道里安家。这还不算什么，最神的是，这家餐馆的创始人，恰恰就是雷米毕生的偶像--法国名厨奥古斯汀·古斯特，他曾说过的那句“人人都能当厨师”早就被雷米奉为金玉良言。可是雷米也有自己的麻烦，因为他不能让自己在厨房中被发现，否则就会引起惊天动地的可怕混乱，他很苦恼：为什么自己只是多长了几根胡子和一条尾巴，就要受到这种不公正的待遇呢？  就在雷米饱受折磨准备放弃的时候，却发现餐馆厨房里有一个倒霉的学徒林奎尼，因为生性害羞而遭排斥的他，在厨艺上更是没什么天赋，即将面对被解雇的命运。于是乎，同被逼上绝境的一人一鼠，竟然结成了一个不可思议的同盟：林奎尼以人的身份在前台“表演”，雷米则奉献了他那有创造力的大脑，在幕后进行操纵--没想到，他们竟然共同获得了不可思议的成功。林奎尼在雷米的帮助下，成为了整个法国饮食业的“天才厨师”，他们撼动的，可不仅仅是巴黎，还包括整个世界的价值观。]]></plot>
+  <outline><![CDATA[料理鼠王]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-01-20 08:42:35</dateadded>
+  <title>料理鼠王</title>
+  <originaltitle>Ratatouille</originaltitle>
+  <actor>
+    <name>Patton Oswalt</name>
+    <role>Remy (voice)</role>
+    <type>Actor</type>
+    <tmdbid>10872</tmdbid>
+    <imdbid>nm0652663</imdbid>
+  </actor>
+  <actor>
+    <name>Ian Holm</name>
+    <role>Skinner (voice)</role>
+    <type>Actor</type>
+    <tmdbid>65</tmdbid>
+    <imdbid>nm0000453</imdbid>
+  </actor>
+  <actor>
+    <name>Lou Romano</name>
+    <role>Linguini (voice)</role>
+    <type>Actor</type>
+    <tmdbid>7962</tmdbid>
+    <imdbid>nm0738918</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Dennehy</name>
+    <role>Django (voice)</role>
+    <type>Actor</type>
+    <tmdbid>6197</tmdbid>
+    <imdbid>nm0001133</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Sohn</name>
+    <role>Emile (voice)</role>
+    <type>Actor</type>
+    <tmdbid>21198</tmdbid>
+    <imdbid>nm0812307</imdbid>
+  </actor>
+  <actor>
+    <name>Peter O'Toole</name>
+    <role>Anton Ego (voice)</role>
+    <type>Actor</type>
+    <tmdbid>11390</tmdbid>
+    <imdbid>nm0000564</imdbid>
+  </actor>
+  <actor>
+    <name>Brad Garrett</name>
+    <role>Auguste Gusteau (voice)</role>
+    <type>Actor</type>
+    <tmdbid>18</tmdbid>
+    <imdbid>nm0004951</imdbid>
+  </actor>
+  <actor>
+    <name>Janeane Garofalo</name>
+    <role>Colette (voice)</role>
+    <type>Actor</type>
+    <tmdbid>21197</tmdbid>
+    <imdbid>nm0000413</imdbid>
+  </actor>
+  <actor>
+    <name>Will Arnett</name>
+    <role>Horst (voice)</role>
+    <type>Actor</type>
+    <tmdbid>21200</tmdbid>
+    <imdbid>nm0004715</imdbid>
+  </actor>
+  <actor>
+    <name>Julius Callahan</name>
+    <role>Lalo / Francois (voice)</role>
+    <type>Actor</type>
+    <tmdbid>32536</tmdbid>
+    <imdbid>nm2029107</imdbid>
+  </actor>
+  <actor>
+    <name>James Remar</name>
+    <role>Larousse (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1736</tmdbid>
+    <imdbid>nm0001664</imdbid>
+  </actor>
+  <actor>
+    <name>John Ratzenberger</name>
+    <role>Mustafa (voice)</role>
+    <type>Actor</type>
+    <tmdbid>7907</tmdbid>
+    <imdbid>nm0001652</imdbid>
+  </actor>
+  <actor>
+    <name>Teddy Newton</name>
+    <role>Lawyer (Talon Labarthe) (voice)</role>
+    <type>Actor</type>
+    <tmdbid>59357</tmdbid>
+    <imdbid>nm0628599</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Fucile</name>
+    <role>Pompidou / Health Inspector (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1260745</tmdbid>
+    <imdbid>nm0297306</imdbid>
+  </actor>
+  <actor>
+    <name>Jake Steinfeld</name>
+    <role>Git (Lab Rat) (voice)</role>
+    <type>Actor</type>
+    <tmdbid>21199</tmdbid>
+    <imdbid>nm0826039</imdbid>
+  </actor>
+  <actor>
+    <name>Brad Bird</name>
+    <role>Ambrister Minion (voice)</role>
+    <type>Actor</type>
+    <tmdbid>7087</tmdbid>
+    <imdbid>nm0083348</imdbid>
+  </actor>
+  <actor>
+    <name>Stéphane Roux</name>
+    <role>Narrator (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1160045</tmdbid>
+    <imdbid>nm1102177</imdbid>
+  </actor>
+  <actor>
+    <name>Andrea Boerries</name>
+    <role>Street Woman (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1443329</tmdbid>
+    <imdbid>nm2589446</imdbid>
+  </actor>
+  <actor>
+    <name>Marco Boerries</name>
+    <role>Food Snob #3 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1443330</tmdbid>
+    <imdbid>nm2588621</imdbid>
+  </actor>
+  <actor>
+    <name>Lindsey Collins</name>
+    <role>Abusive Girlfriend (voice)</role>
+    <type>Actor</type>
+    <tmdbid>72753</tmdbid>
+    <imdbid>nm0172491</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Keller</name>
+    <role>Food Snob #1 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1266046</tmdbid>
+    <imdbid>nm1899576</imdbid>
+  </actor>
+  <actor>
+    <name>Brad Lewis</name>
+    <role>Abusive Boyfriend (voice)</role>
+    <type>Actor</type>
+    <tmdbid>32532</tmdbid>
+    <imdbid>nm0506977</imdbid>
+  </actor>
+  <actor>
+    <name>Lori Richardson</name>
+    <role>Food Snob #2 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>225986</tmdbid>
+    <imdbid>nm1751461</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Bird</name>
+    <role>Teen Rat (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2000522</tmdbid>
+    <imdbid>nm2831082</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Oliver</name>
+    <role>The Health Inspector (UK voice)</role>
+    <type>Actor</type>
+    <tmdbid>216270</tmdbid>
+    <imdbid>nm0646871</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Farmer</name>
+    <role>Paris Citizens (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>84213</tmdbid>
+    <imdbid>nm0267724</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Giacchino</name>
+    <role>Reporter (voice) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>15347</tmdbid>
+  </actor>
+  <director tmdbid="7087" imdbid="nm0083348">Brad Bird</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jOGDozdW9Yo</trailer>
+  <rating>8</rating>
+  <year>2007</year>
+  <mpaa>G</mpaa>
+  <imdbid>tt0382932</imdbid>
+  <tmdbid>2062</tmdbid>
+  <premiered>2007-06-28</premiered>
+  <releasedate>2007-06-28</releasedate>
+  <criticrating>96</criticrating>
+  <runtime>111</runtime>
+  <tagline>料理鼠王</tagline>
+  <country>United States of America</country>
+  <genre>动画</genre>
+  <genre>喜剧</genre>
+  <genre>家庭</genre>
+  <genre>奇幻</genre>
+  <studio>Pixar</studio>
+  <studio>Walt Disney Pictures</studio>
+  <uniqueid type="Tmdb">2062</uniqueid>
+  <uniqueid type="Imdb">tt0382932</uniqueid>
+  <id>tt0382932</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>16663375</bitrate>
+        <width>1920</width>
+        <height>802</height>
+        <aspect>960:401</aspect>
+        <aspectratio>960:401</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>111</duration>
+        <durationinseconds>6665</durationinseconds>
+      </video>
+      <audio>
+        <codec>truehd</codec>
+        <micodec>truehd</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

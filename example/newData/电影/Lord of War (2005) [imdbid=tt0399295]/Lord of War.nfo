@@ -1,0 +1,366 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[根据真实故事改编，一部关于战争、金钱和个人良知的动作大片。主人公自欺欺人的相信：军火和其他商品没有什么区别，而忽略了军火背后战争的原罪性，因而最终家破人亡，备受良心的折磨。主人公尤瑞在少年时跟随家人从欧洲移居美国。18岁那年，他加入联合国维和部队，作为一名翻译被派往非洲。由于厌恶战争，他对自己所从事的工作毫无兴趣。一个偶然的机会，他把枪支转手倒卖给民间武装军队。并在此期间，遇到了一见钟情的女人—埃娃。回到美国后，尤瑞劝说弟弟维塔利加入了他的军火生意，两人开始靠倒卖地下军火赚钱。但是两大威胁像幽灵一样困扰着尤瑞：他生意上的死对头和杰克—一个对他紧追不放的国际警察……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-20 16:12:23</dateadded>
+  <title>战争之王</title>
+  <originaltitle>Lord of War</originaltitle>
+  <actor>
+    <name>Nicolas Cage</name>
+    <role>Yuri Orlov</role>
+    <type>Actor</type>
+    <tmdbid>2963</tmdbid>
+    <imdbid>nm0000115</imdbid>
+  </actor>
+  <actor>
+    <name>Bridget Moynahan</name>
+    <role>Ava Fontaine Orlov</role>
+    <type>Actor</type>
+    <tmdbid>18354</tmdbid>
+    <imdbid>nm0005256</imdbid>
+  </actor>
+  <actor>
+    <name>Jared Leto</name>
+    <role>Vitaly Orlov</role>
+    <type>Actor</type>
+    <tmdbid>7499</tmdbid>
+    <imdbid>nm0001467</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Hawke</name>
+    <role>Jack Valentine</role>
+    <type>Actor</type>
+    <tmdbid>569</tmdbid>
+    <imdbid>nm0000160</imdbid>
+  </actor>
+  <actor>
+    <name>Eamonn Walker</name>
+    <role>Andre Baptiste Sr.</role>
+    <type>Actor</type>
+    <tmdbid>19299</tmdbid>
+    <imdbid>nm0907708</imdbid>
+  </actor>
+  <actor>
+    <name>Ian Holm</name>
+    <role>Simeon Weisz</role>
+    <type>Actor</type>
+    <tmdbid>65</tmdbid>
+    <imdbid>nm0000453</imdbid>
+  </actor>
+  <actor>
+    <name>Sammi Rotibi</name>
+    <role>Andre Baptiste Jr.</role>
+    <type>Actor</type>
+    <tmdbid>19300</tmdbid>
+    <imdbid>nm0745353</imdbid>
+  </actor>
+  <actor>
+    <name>Tanit Phoenix</name>
+    <role>Candy</role>
+    <type>Actor</type>
+    <tmdbid>37769</tmdbid>
+    <imdbid>nm1801063</imdbid>
+  </actor>
+  <actor>
+    <name>Shake Tukhmanyan</name>
+    <role>Irina Orlov</role>
+    <type>Actor</type>
+    <tmdbid>1127469</tmdbid>
+    <imdbid>nm1356769</imdbid>
+  </actor>
+  <actor>
+    <name>Jared Burke</name>
+    <role>Ukrainian Mobster</role>
+    <type>Actor</type>
+    <tmdbid>1329527</tmdbid>
+    <imdbid>nm1545942</imdbid>
+  </actor>
+  <actor>
+    <name>David Shumbris</name>
+    <role>Ukrainian Mobster</role>
+    <type>Actor</type>
+    <tmdbid>34541</tmdbid>
+    <imdbid>nm0795856</imdbid>
+  </actor>
+  <actor>
+    <name>Weston Cage</name>
+    <role>Vladimir</role>
+    <type>Actor</type>
+    <tmdbid>1315801</tmdbid>
+    <imdbid>nm2000606</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Crutchley</name>
+    <role>Arms Fair Salesman</role>
+    <type>Actor</type>
+    <tmdbid>20304</tmdbid>
+    <imdbid>nm0190190</imdbid>
+  </actor>
+  <actor>
+    <name>Jean-Pierre Nshanian</name>
+    <role>Anatoly Orlov</role>
+    <type>Actor</type>
+    <tmdbid>1329526</tmdbid>
+    <imdbid>nm1099079</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Uys</name>
+    <role>Ukrainian Mobster</role>
+    <type>Actor</type>
+    <tmdbid>1329528</tmdbid>
+    <imdbid>nm2001258</imdbid>
+  </actor>
+  <actor>
+    <name>Stewart Morgan</name>
+    <role>Ukrainian Mobster</role>
+    <type>Actor</type>
+    <tmdbid>1329531</tmdbid>
+    <imdbid>nm2003521</imdbid>
+  </actor>
+  <actor>
+    <name>Jasper Lenz</name>
+    <role>Gregor</role>
+    <type>Actor</type>
+    <tmdbid>1329532</tmdbid>
+    <imdbid>nm1999818</imdbid>
+  </actor>
+  <actor>
+    <name>Kobus Marx</name>
+    <role>Boris</role>
+    <type>Actor</type>
+    <tmdbid>1329534</tmdbid>
+    <imdbid>nm1997983</imdbid>
+  </actor>
+  <actor>
+    <name>Stephan De Abreu</name>
+    <role>Liev</role>
+    <type>Actor</type>
+    <tmdbid>1329536</tmdbid>
+    <imdbid>nm2001606</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Gregor</name>
+    <role>Eli Kurtzman</role>
+    <type>Actor</type>
+    <tmdbid>2870373</tmdbid>
+    <imdbid>nm2474687</imdbid>
+  </actor>
+  <actor>
+    <name>Tanya Finch</name>
+    <role>Ingrid</role>
+    <type>Actor</type>
+    <tmdbid>2870374</tmdbid>
+    <imdbid>nm2001850</imdbid>
+  </actor>
+  <actor>
+    <name>Lize Jooste</name>
+    <role>Natasha</role>
+    <type>Actor</type>
+    <tmdbid>2870375</tmdbid>
+    <imdbid>nm2001261</imdbid>
+  </actor>
+  <actor>
+    <name>Yaseen Abdullah</name>
+    <role>Lebanese Customer</role>
+    <type>Actor</type>
+    <tmdbid>2870376</tmdbid>
+    <imdbid>nm2001505</imdbid>
+  </actor>
+  <actor>
+    <name>Donald Sutherland</name>
+    <role>Colonel Oliver Southern (voice)</role>
+    <type>Actor</type>
+    <tmdbid>55636</tmdbid>
+    <imdbid>nm0000661</imdbid>
+  </actor>
+  <actor>
+    <name>David Harman</name>
+    <role>Colonel Oliver Southern</role>
+    <type>Actor</type>
+    <tmdbid>2870377</tmdbid>
+    <imdbid>nm0363403</imdbid>
+  </actor>
+  <actor>
+    <name>Neil Tweddle</name>
+    <role>Colonel Oliver Southern</role>
+    <type>Actor</type>
+    <tmdbid>2870378</tmdbid>
+    <imdbid>nm1997404</imdbid>
+  </actor>
+  <actor>
+    <name>Sajad Khan</name>
+    <role>Mujahadeen Leader</role>
+    <type>Actor</type>
+    <tmdbid>2870380</tmdbid>
+    <imdbid>nm2001807</imdbid>
+  </actor>
+  <actor>
+    <name>Chi Zhang Yi</name>
+    <role>Borneo Officer</role>
+    <type>Actor</type>
+    <tmdbid>2870381</tmdbid>
+    <imdbid>nm1997855</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Caprari</name>
+    <role>Raoul</role>
+    <type>Actor</type>
+    <tmdbid>120084</tmdbid>
+    <imdbid>nm0135610</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Niccol</name>
+    <role>Young Nicolai</role>
+    <type>Actor</type>
+    <tmdbid>2870382</tmdbid>
+    <imdbid>nm2001332</imdbid>
+  </actor>
+  <actor>
+    <name>John Sferopoulos</name>
+    <role>Freighter Captain</role>
+    <type>Actor</type>
+    <tmdbid>2870383</tmdbid>
+    <imdbid>nm2002763</imdbid>
+  </actor>
+  <actor>
+    <name>Stanislav Majer</name>
+    <role>Ukrainian Guard</role>
+    <type>Actor</type>
+    <tmdbid>1179809</tmdbid>
+    <imdbid>nm2001941</imdbid>
+  </actor>
+  <actor>
+    <name>Evgeniy Lazarev</name>
+    <role>General Dmitri</role>
+    <type>Actor</type>
+    <tmdbid>1079976</tmdbid>
+  </actor>
+  <actor>
+    <name>Larissa Bond</name>
+    <role>Alena</role>
+    <type>Actor</type>
+    <tmdbid>2870384</tmdbid>
+    <imdbid>nm1998942</imdbid>
+  </actor>
+  <actor>
+    <name>Annelene Terblanche</name>
+    <role>Angel</role>
+    <type>Actor</type>
+    <tmdbid>2870385</tmdbid>
+    <imdbid>nm2000339</imdbid>
+  </actor>
+  <actor>
+    <name>Gugulethu 'Gugu' Zulu</name>
+    <role>Andre's Driver</role>
+    <type>Actor</type>
+    <tmdbid>2870386</tmdbid>
+    <imdbid>nm2002726</imdbid>
+  </actor>
+  <actor>
+    <name>Mirriam Ngomani</name>
+    <role>Cheerleader Asura</role>
+    <type>Actor</type>
+    <tmdbid>2616</tmdbid>
+    <imdbid>nm1800864</imdbid>
+  </actor>
+  <director tmdbid="8685" imdbid="nm0629272">Andrew Niccol</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AXgyoER0aRc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AL8jpJkKUnM</trailer>
+  <rating>7.6</rating>
+  <year>2005</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0399295</imdbid>
+  <tmdbid>1830</tmdbid>
+  <premiered>2005-09-16</premiered>
+  <releasedate>2005-09-16</releasedate>
+  <criticrating>61</criticrating>
+  <runtime>122</runtime>
+  <country>France</country>
+  <country>United States of America</country>
+  <country>Germany</country>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <studio>Endgame Entertainment</studio>
+  <studio>Entertainment Manufacturing Company</studio>
+  <studio>Ascendant Pictures</studio>
+  <studio>Saturn Films</studio>
+  <studio>Rising Star</studio>
+  <studio>Copag V</studio>
+  <studio>VIP Medienfonds 3</studio>
+  <studio>Majority Entertainment</studio>
+  <studio>Metro-Goldwyn-Mayer</studio>
+  <uniqueid type="Tmdb">1830</uniqueid>
+  <uniqueid type="Imdb">tt0399295</uniqueid>
+  <id>tt0399295</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>15695530</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>121</duration>
+        <durationinseconds>7318</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

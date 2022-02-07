@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[当姥姥拒绝开车送谢尔顿去听林克莱特博士的讲座时，谢尔顿决定自己动手。同时，乔治试图用他的新商业冒险打动维罗尼卡。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-11 23:30:37</dateadded>
+  <title>一个企业家和一个底层的重击者</title>
+  <actor>
+    <name>Iain Armitage</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1684536</tmdbid>
+    <imdbid>nm8071137</imdbid>
+  </actor>
+  <actor>
+    <name>Zoe Perry</name>
+    <role>Mary Cooper</role>
+    <type>Actor</type>
+    <tmdbid>133450</tmdbid>
+    <imdbid>nm1409365</imdbid>
+  </actor>
+  <actor>
+    <name>Lance Barber</name>
+    <role>George Cooper Sr.</role>
+    <type>Actor</type>
+    <tmdbid>1212111</tmdbid>
+    <imdbid>nm1115741</imdbid>
+  </actor>
+  <actor>
+    <name>Montana Jordan</name>
+    <role>Georgie Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1817307</tmdbid>
+    <imdbid>nm7718664</imdbid>
+  </actor>
+  <actor>
+    <name>Raegan Revord</name>
+    <role>Missy Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1575317</tmdbid>
+    <imdbid>nm6862942</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Potts</name>
+    <role>Connie Tucker</role>
+    <type>Actor</type>
+    <tmdbid>8873</tmdbid>
+    <imdbid>nm0001633</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Hobby</name>
+    <role>Jeff Difford</role>
+    <type>Actor</type>
+    <tmdbid>1536526</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Patricia Belcher</name>
+    <role>Clara</role>
+    <type>GuestStar</type>
+    <tmdbid>56358</tmdbid>
+    <imdbid>nm0006970</imdbid>
+  </actor>
+  <actor>
+    <name>Deb Hiett</name>
+    <role>Susan</role>
+    <type>GuestStar</type>
+    <tmdbid>1571604</tmdbid>
+  </actor>
+  <actor>
+    <name>Kurt Scholler</name>
+    <role>Stan</role>
+    <type>GuestStar</type>
+    <tmdbid>202871</tmdbid>
+    <imdbid>nm1461039</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Alvarez</name>
+    <role>Derek</role>
+    <type>GuestStar</type>
+    <tmdbid>2356483</tmdbid>
+    <imdbid>nm6225953</imdbid>
+  </actor>
+  <actor>
+    <name>Isabel May</name>
+    <role>Veronica Duncan</role>
+    <type>GuestStar</type>
+    <tmdbid>1972974</tmdbid>
+    <imdbid>nm8908475</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Begley Jr.</name>
+    <role>Grant Linkletter</role>
+    <type>GuestStar</type>
+    <tmdbid>42157</tmdbid>
+    <imdbid>nm0000893</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Phuong</name>
+    <role>Tam Nguyen</role>
+    <type>GuestStar</type>
+    <tmdbid>2181372</tmdbid>
+    <imdbid>nm7910690</imdbid>
+  </actor>
+  <rating>5.4</rating>
+  <year>2019</year>
+  <imdbid>tt10932420</imdbid>
+  <tvdbid>7374309</tvdbid>
+  <runtime>19</runtime>
+  <genre>Comedy</genre>
+  <uniqueid type="Imdb">tt10932420</uniqueid>
+  <uniqueid type="Tvdb">7374309</uniqueid>
+  <episode>3</episode>
+  <season>3</season>
+  <aired>2019-10-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>16615889</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1151</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

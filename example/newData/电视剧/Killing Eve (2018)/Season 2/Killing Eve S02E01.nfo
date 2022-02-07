@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Eve is reeling from her act of violence against Villanelle and doesn't know whether she is alive or dead. A paranoid and severely injured Villanelle manages to get herself to the hospital ...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-06-24 15:35:48</dateadded>
+  <title>你知道怎么毁尸灭迹吗？</title>
+  <actor>
+    <name>Sandra Oh</name>
+    <role>Eve Polastri</role>
+    <type>Actor</type>
+    <tmdbid>25540</tmdbid>
+    <imdbid>nm0644897</imdbid>
+  </actor>
+  <actor>
+    <name>Jodie Comer</name>
+    <role>Villanelle</role>
+    <type>Actor</type>
+    <tmdbid>1388593</tmdbid>
+    <imdbid>nm3069650</imdbid>
+  </actor>
+  <actor>
+    <name>Fiona Shaw</name>
+    <role>Carolyn Martens</role>
+    <type>Actor</type>
+    <tmdbid>10981</tmdbid>
+    <imdbid>nm0789716</imdbid>
+  </actor>
+  <actor>
+    <name>Nina Sosanya</name>
+    <role>Jess</role>
+    <type>Actor</type>
+    <tmdbid>7063</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Bodnia</name>
+    <role>Konstantin</role>
+    <type>Actor</type>
+    <tmdbid>3398</tmdbid>
+    <imdbid>nm0091035</imdbid>
+  </actor>
+  <actor>
+    <name>Edward Bluemel</name>
+    <role>Hugo</role>
+    <type>Actor</type>
+    <tmdbid>1731315</tmdbid>
+  </actor>
+  <actor>
+    <name>Owen McDonnell</name>
+    <role>Niko Polastri</role>
+    <type>Actor</type>
+    <tmdbid>365333</tmdbid>
+    <imdbid>nm1711652</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Delaney</name>
+    <role>Kenny Stowton</role>
+    <type>Actor</type>
+    <tmdbid>2021417</tmdbid>
+    <imdbid>nm7780301</imdbid>
+  </actor>
+  <actor>
+    <name>Irina Lytiak</name>
+    <role>Paramedic</role>
+    <type>GuestStar</type>
+    <tmdbid>2297428</tmdbid>
+    <imdbid>nm9987113</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Jeand'heur</name>
+    <role>TCA Officer</role>
+    <type>GuestStar</type>
+    <tmdbid>2297429</tmdbid>
+    <imdbid>nm5036280</imdbid>
+  </actor>
+  <actor>
+    <name>Mohamed Badissy</name>
+    <role>Taxi Driver</role>
+    <type>GuestStar</type>
+    <tmdbid>1883775</tmdbid>
+    <imdbid>nm5279898</imdbid>
+  </actor>
+  <actor>
+    <name>Terrence Amadi</name>
+    <role>Security Guard</role>
+    <type>GuestStar</type>
+    <tmdbid>2297430</tmdbid>
+  </actor>
+  <actor>
+    <name>Luke de Woolfson</name>
+    <role>British Dad</role>
+    <type>GuestStar</type>
+    <tmdbid>82636</tmdbid>
+    <imdbid>nm0212472</imdbid>
+  </actor>
+  <actor>
+    <name>André Refig</name>
+    <role>Paris Doctor</role>
+    <type>GuestStar</type>
+    <tmdbid>2297431</tmdbid>
+    <imdbid>nm4153841</imdbid>
+  </actor>
+  <actor>
+    <name>Barbara Flynn</name>
+    <role>Julia</role>
+    <type>GuestStar</type>
+    <tmdbid>183201</tmdbid>
+    <imdbid>nm0283409</imdbid>
+  </actor>
+  <actor>
+    <name>Pierre Atri</name>
+    <role>Gabriel</role>
+    <type>GuestStar</type>
+    <tmdbid>2297432</tmdbid>
+    <imdbid>nm10603118</imdbid>
+  </actor>
+  <actor>
+    <name>Elena Saurel</name>
+    <role>Woman at Train Station</role>
+    <type>GuestStar</type>
+    <tmdbid>2218975</tmdbid>
+    <imdbid>nm3008059</imdbid>
+  </actor>
+  <actor>
+    <name>Sonia Elliman</name>
+    <role>Madame Tattevin</role>
+    <type>GuestStar</type>
+    <tmdbid>2107236</tmdbid>
+    <imdbid>nm2397882</imdbid>
+  </actor>
+  <actor>
+    <name>Caroline Crier</name>
+    <role>Madame Dubois</role>
+    <type>GuestStar</type>
+    <tmdbid>2297433</tmdbid>
+    <imdbid>nm1404391</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Moore</name>
+    <role>Oliver</role>
+    <type>GuestStar</type>
+    <tmdbid>2297434</tmdbid>
+    <imdbid>nm10603119</imdbid>
+  </actor>
+  <director>Damon Thomas</director>
+  <rating>8.5</rating>
+  <year>2019</year>
+  <imdbid>tt8241576</imdbid>
+  <tvdbid>6975016</tvdbid>
+  <runtime>44</runtime>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt8241576</uniqueid>
+  <uniqueid type="Tvdb">6975016</uniqueid>
+  <episode>1</episode>
+  <season>2</season>
+  <aired>2019-04-07</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10734830</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>43</duration>
+        <durationinseconds>2621</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

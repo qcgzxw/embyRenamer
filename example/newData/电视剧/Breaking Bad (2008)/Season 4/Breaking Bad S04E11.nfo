@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Gus 和 Mike 经过治疗脱离了生命危险，Gus 和 Jesse 一起回去，Jesse 求 Gus 放过 Walter。Ted 找到 Skyler，愿意把钱还给她，Skyler 要求他还给税务局，Ted 坚持不想用赌博赢来的钱还债。Gus 和 Jesse 又来到养老院，Gus 向 Tio 炫耀墨西哥大佬也死了，Jesse 才知道原来他俩是仇人。Hank 又查到 Gus 的洗衣场可能是制毒地点，要求 Walter 陪同，情急之下，Walter 装上了迎面的车子，Hank 受轻伤，Walter 又逃过一劫。Skyler 要 Saul 帮忙解决 Ted 的事，Saul 的 2 个手下到 Ted 家威胁他开了支票给税务局，Ted 在逃跑时摔到头部，生死未卜。Walter 发现有人在他不在的时候制过毒，找到 Jesse 家，发现 Andrea 母子，Walter 担心自己被取代了，Jesse 不予理睬。Walter 被 Tyrus 带到了郊外，Gus 告诉 Walter 他被解雇了不准继续制毒，也不准再和 Jesse 联系，Walter 反抗，Gus 以 Walter 家人的生命为要挟。Walter 找 Saul 要他提供神秘人跑路，并叫他联系 DEA 保护 Hank，回到家的 Walter 却发现地下室的钱基本都没了，怒问 Skyler 钱哪儿去了，Skyler 不得已告诉 Walter 她把钱给了 Ted。Walter 深受刺激，极近癫狂的苦笑，感叹命运弄人，躺在地下室的 Walter 等待着死神的到来。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-20 17:10:52</dateadded>
+  <title>窄小空间</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Ray Campbell</name>
+    <role>Tyrus Kitt</role>
+    <type>GuestStar</type>
+    <tmdbid>159334</tmdbid>
+    <imdbid>nm1530474</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Cousins</name>
+    <role>Ted Beneke</role>
+    <type>GuestStar</type>
+    <tmdbid>20379</tmdbid>
+    <imdbid>nm0184086</imdbid>
+  </actor>
+  <actor>
+    <name>J. B. Blanc</name>
+    <role>Dr. Barry Goodman</role>
+    <type>GuestStar</type>
+    <tmdbid>136152</tmdbid>
+  </actor>
+  <actor>
+    <name>Tina Parker</name>
+    <role>Francesca</role>
+    <type>GuestStar</type>
+    <tmdbid>147085</tmdbid>
+    <imdbid>nm0662669</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Burr</name>
+    <role>Kuby</role>
+    <type>GuestStar</type>
+    <tmdbid>109708</tmdbid>
+    <imdbid>nm0122987</imdbid>
+  </actor>
+  <actor>
+    <name>Lavell Crawford</name>
+    <role>Huell</role>
+    <type>GuestStar</type>
+    <tmdbid>564348</tmdbid>
+    <imdbid>nm1089417</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Rios</name>
+    <role>Andrea Cantillo</role>
+    <type>GuestStar</type>
+    <tmdbid>211474</tmdbid>
+    <imdbid>nm1986960</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Margolis</name>
+    <role>Tio Salamanca</role>
+    <type>GuestStar</type>
+    <tmdbid>1173</tmdbid>
+    <imdbid>nm0546797</imdbid>
+  </actor>
+  <director>Scott Winant</director>
+  <rating>9.264</rating>
+  <year>2011</year>
+  <imdbid>tt1683086</imdbid>
+  <tvdbid>4159118</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt1683086</uniqueid>
+  <uniqueid type="Tvdb">4159118</uniqueid>
+  <episode>11</episode>
+  <season>4</season>
+  <aired>2011-09-25</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9990896</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>46</duration>
+        <durationinseconds>2817</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

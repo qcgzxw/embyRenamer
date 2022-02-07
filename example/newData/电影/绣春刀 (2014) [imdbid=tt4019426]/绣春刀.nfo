@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[明崇祯皇帝登基，大太监魏忠贤（金世杰 饰）及其“阉党”被锦衣卫倾巢覆灭。锦衣卫中以卢剑星（王千源 饰）、沈炼（张震 饰）和靳一川（李东学 饰）三结拜兄弟最为勇猛正直。老大卢剑星为了升官百户，沈炼为替教坊司妓女周妙彤（刘诗诗 饰）赎身，三弟靳一川为摆脱浪人丁修（周一围 饰）的纠缠，三兄弟决定接受东厂都督赵靖忠（聂远 饰）追杀魏忠贤的秘密行动。行动中三人遭到魏忠贤义女魏廷（朱丹 饰）带队阻拦，一场腥风血雨后魏忠贤尸首被带回，卢剑星如愿以偿升官百户，本以为三人夙愿皆能实现，但没想到沈炼竟然隐瞒了一个天大的秘密，并且引起了大臣韩旷（赵立新 饰）的怀疑。此后三兄弟都面临着生命危险，沈炼终于说出真相但为时已晚，与一川相好的医馆女子（叶青 饰）和周妙彤都被牵连其中。面对危机，沈炼决意带着兄弟、爱人离开京城，朝廷腐朽混乱，小人物的命运将何去何从？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-28 16:11:16</dateadded>
+  <title>绣春刀</title>
+  <originaltitle>绣春刀</originaltitle>
+  <actor>
+    <name>Chang Chen</name>
+    <role>Shen Lian</role>
+    <type>Actor</type>
+    <tmdbid>1622</tmdbid>
+    <imdbid>nm0151654</imdbid>
+  </actor>
+  <actor>
+    <name>Wang Qian-Yuan</name>
+    <role>Lu Jian Xing</role>
+    <type>Actor</type>
+    <tmdbid>565378</tmdbid>
+    <imdbid>nm3511805</imdbid>
+  </actor>
+  <actor>
+    <name>Liu Shishi</name>
+    <role>Zhou Miao Tong</role>
+    <type>Actor</type>
+    <tmdbid>1185786</tmdbid>
+    <imdbid>nm3014806</imdbid>
+  </actor>
+  <actor>
+    <name>Li Dongxue</name>
+    <role>Jin Yi Chuan</role>
+    <type>Actor</type>
+    <tmdbid>1069645</tmdbid>
+    <imdbid>nm4675287</imdbid>
+  </actor>
+  <actor>
+    <name>Chin Shih-Chieh</name>
+    <role>Wei Zhong Xian</role>
+    <type>Actor</type>
+    <tmdbid>582557</tmdbid>
+    <imdbid>nm0423084</imdbid>
+  </actor>
+  <actor>
+    <name>Nie Yuan</name>
+    <role>Zhao Jing Zhong</role>
+    <type>Actor</type>
+    <tmdbid>1251627</tmdbid>
+    <imdbid>nm1983064</imdbid>
+  </actor>
+  <actor>
+    <name>Zhou Yiwei</name>
+    <role>Ding Xiu</role>
+    <type>Actor</type>
+    <tmdbid>1174685</tmdbid>
+    <imdbid>nm2489423</imdbid>
+  </actor>
+  <actor>
+    <name>Zhu Dan</name>
+    <role>Wei Ting</role>
+    <type>Actor</type>
+    <tmdbid>1362558</tmdbid>
+    <imdbid>nm3885908</imdbid>
+  </actor>
+  <actor>
+    <name>Ye Qing</name>
+    <role>Zhang Yan</role>
+    <type>Actor</type>
+    <tmdbid>1210413</tmdbid>
+    <imdbid>nm5328316</imdbid>
+  </actor>
+  <director tmdbid="1362555" imdbid="nm4772813">Lu Yang</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dQTfGVorWMo</trailer>
+  <rating>6.6</rating>
+  <year>2014</year>
+  <imdbid>tt4019426</imdbid>
+  <tmdbid>291692</tmdbid>
+  <premiered>2014-08-07</premiered>
+  <releasedate>2014-08-07</releasedate>
+  <criticrating>58</criticrating>
+  <runtime>112</runtime>
+  <country>China</country>
+  <genre>爱情</genre>
+  <genre>动作</genre>
+  <genre>剧情</genre>
+  <studio>Beijing Dachu Changge Film And TV Culture Co.</studio>
+  <studio>China Film Co-Production Corporation</studio>
+  <studio>Central Newsreel and Documentary Film Studio</studio>
+  <studio>Combo Drive Pictures Co.</studio>
+  <set tmdbcolid="486044">
+    <name>绣春刀（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">291692</uniqueid>
+  <uniqueid type="Imdb">tt4019426</uniqueid>
+  <id>tt4019426</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>15353538</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>111</duration>
+        <durationinseconds>6707</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

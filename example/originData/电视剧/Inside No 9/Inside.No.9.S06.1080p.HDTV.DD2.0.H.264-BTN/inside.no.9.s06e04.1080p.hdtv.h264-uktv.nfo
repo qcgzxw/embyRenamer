@@ -1,0 +1,97 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[演员詹姆斯正在一个静态的大篷车中等待他在 ITV 新犯罪剧中的重要时刻，这个大篷车由一个显然有什么隐瞒的奇怪家庭拥有。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-17 14:13:24</dateadded>
+  <title>快开始 先等等</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>GuestStar</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>GuestStar</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Bhavna Limbachia</name>
+    <role>Jo</role>
+    <type>GuestStar</type>
+    <tmdbid>1396198</tmdbid>
+  </actor>
+  <actor>
+    <name>Donna Preston</name>
+    <role>Bev</role>
+    <type>GuestStar</type>
+    <tmdbid>1812532</tmdbid>
+    <imdbid>nm3196432</imdbid>
+  </actor>
+  <actor>
+    <name>Pauline McLynn</name>
+    <role>Oona</role>
+    <type>GuestStar</type>
+    <tmdbid>69465</tmdbid>
+    <imdbid>nm0572965</imdbid>
+  </actor>
+  <actor>
+    <name>Adrian Dunbar</name>
+    <role>Adrian</role>
+    <type>GuestStar</type>
+    <tmdbid>42566</tmdbid>
+  </actor>
+  <director>Matt Lipsey</director>
+  <rating>9</rating>
+  <year>2021</year>
+  <imdbid>tt14543426</imdbid>
+  <tvdbid>8417825</tvdbid>
+  <runtime>29</runtime>
+  <uniqueid type="Tvdb">8417825</uniqueid>
+  <uniqueid type="Imdb">tt14543426</uniqueid>
+  <episode>4</episode>
+  <season>6</season>
+  <aired>2021-05-31</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2954310</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1751</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

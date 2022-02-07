@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[上世纪三十年代，四位曾在苏联接受特训的共产党特工组成任务小队，回国执行代号为“乌特拉”的秘密行动。由于叛徒的出卖，他们从跳伞降落的第一刻起， 就已置身于敌人布下的罗网之中。同志能否脱身，任务能否完成，雪一直下，立于“悬崖之上”的行动小组面临严峻考验。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-25 16:21:42</dateadded>
+  <title>悬崖之上</title>
+  <originaltitle>悬崖之上</originaltitle>
+  <actor>
+    <name>Zhang Yi</name>
+    <role>Zhang Xian Chen</role>
+    <type>Actor</type>
+    <tmdbid>146098</tmdbid>
+    <imdbid>nm3589263</imdbid>
+  </actor>
+  <actor>
+    <name>Yu Hewei</name>
+    <role>Zhou Yi</role>
+    <type>Actor</type>
+    <tmdbid>1344903</tmdbid>
+    <imdbid>nm3388842</imdbid>
+  </actor>
+  <actor>
+    <name>Haocun Liu</name>
+    <role>Xiao Lan</role>
+    <type>Actor</type>
+    <tmdbid>2682877</tmdbid>
+    <imdbid>nm11654704</imdbid>
+  </actor>
+  <actor>
+    <name>Qin Hailu</name>
+    <role>Wang Yu</role>
+    <type>Actor</type>
+    <tmdbid>124992</tmdbid>
+  </actor>
+  <actor>
+    <name>Dahong Ni</name>
+    <role>Gao Bin</role>
+    <type>Actor</type>
+    <tmdbid>17382</tmdbid>
+  </actor>
+  <actor>
+    <name>Yawen Zhu</name>
+    <role>Chu Liang</role>
+    <type>Actor</type>
+    <tmdbid>1376105</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Naiwen</name>
+    <role>Lu Ming</role>
+    <type>Actor</type>
+    <tmdbid>124995</tmdbid>
+  </actor>
+  <actor>
+    <name>Yu Ailei</name>
+    <role>Jin Zhide</role>
+    <type>Actor</type>
+    <tmdbid>1387956</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhou Xiaofan</name>
+    <role>Xiao Meng</role>
+    <type>Actor</type>
+    <tmdbid>3131346</tmdbid>
+  </actor>
+  <actor>
+    <name>Lei Jiayin</name>
+    <role>Xie Zirong</role>
+    <type>Actor</type>
+    <tmdbid>1724403</tmdbid>
+    <imdbid>nm5042060</imdbid>
+  </actor>
+  <director tmdbid="607">Zhang Yimou</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=qRoX2fVFySQ</trailer>
+  <rating>7</rating>
+  <year>2021</year>
+  <imdbid>tt11448076</imdbid>
+  <tmdbid>639557</tmdbid>
+  <premiered>2021-04-30</premiered>
+  <releasedate>2021-04-30</releasedate>
+  <runtime>120</runtime>
+  <country>China</country>
+  <genre>剧情</genre>
+  <genre>历史</genre>
+  <genre>惊悚</genre>
+  <genre>犯罪</genre>
+  <uniqueid type="Tmdb">639557</uniqueid>
+  <uniqueid type="Imdb">tt11448076</uniqueid>
+  <id>tt11448076</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>15470402</bitrate>
+        <width>4096</width>
+        <height>1740</height>
+        <aspect>1024:435</aspect>
+        <aspectratio>1024:435</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>120</duration>
+        <durationinseconds>7219</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

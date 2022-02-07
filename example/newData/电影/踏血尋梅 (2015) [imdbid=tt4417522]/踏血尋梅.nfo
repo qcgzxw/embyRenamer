@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[从湖南到东莞石门的王佳梅（春夏 饰）及王佳莉（蔡洁 饰）最终与妈妈（金燕铃 饰）来港，但王佳梅在学校生活不愉快，而家庭亦出现磨擦。一年过后，王佳梅遇害。老差骨阿臧（郭富城 饰）联同拍档烟铲（谭耀文 饰）调查案件，发现梅已当上援交少女，而最终案件矛头指向脾气不佳的货车司机丁子聪（白只 饰）。其后，聪自首，并供出案情。惟阿臧认为还有案情，於是从梅与聪的身边人物调查，渐渐发现内情。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-08-27 14:11:59</dateadded>
+  <title>踏血寻梅</title>
+  <originaltitle>踏血尋梅</originaltitle>
+  <actor>
+    <name>Aaron Kwok</name>
+    <role>Detective Chong</role>
+    <type>Actor</type>
+    <tmdbid>21908</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessie Li</name>
+    <role>Wang Jiamei</role>
+    <type>Actor</type>
+    <tmdbid>1450372</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Tam</name>
+    <role>Smoky</role>
+    <type>Actor</type>
+    <tmdbid>80374</tmdbid>
+  </actor>
+  <actor>
+    <name>Elaine Jin</name>
+    <role>May</role>
+    <type>Actor</type>
+    <tmdbid>103598</tmdbid>
+    <imdbid>nm0157805</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Ning</name>
+    <role>Ting Tsz-chung</role>
+    <type>Actor</type>
+    <tmdbid>1450373</tmdbid>
+  </actor>
+  <actor>
+    <name>Maggie Shiu</name>
+    <role>Madam Law</role>
+    <type>Actor</type>
+    <tmdbid>1173600</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Li</name>
+    <type>Actor</type>
+    <tmdbid>1218825</tmdbid>
+  </actor>
+  <actor>
+    <name>Harriet Yeung</name>
+    <role>Flora</role>
+    <type>Actor</type>
+    <tmdbid>1549891</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacky Cai</name>
+    <role>Mo-yung</role>
+    <type>Actor</type>
+    <tmdbid>1450374</tmdbid>
+  </actor>
+  <actor>
+    <name>Eddie Chen</name>
+    <role>Policeman</role>
+    <type>Actor</type>
+    <tmdbid>648609</tmdbid>
+  </actor>
+  <actor>
+    <name>Ronny Yuen</name>
+    <role>Hoi</role>
+    <type>Actor</type>
+    <tmdbid>1617527</tmdbid>
+  </actor>
+  <actor>
+    <name>Kin Long Chan</name>
+    <type>Actor</type>
+    <tmdbid>1537551</tmdbid>
+  </actor>
+  <director tmdbid="1194706">Philip Yung</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=VeZkE31VUmA</trailer>
+  <rating>6.7</rating>
+  <year>2015</year>
+  <mpaa>HK-III</mpaa>
+  <imdbid>tt4417522</imdbid>
+  <tmdbid>334557</tmdbid>
+  <premiered>2015-11-13</premiered>
+  <releasedate>2015-11-13</releasedate>
+  <criticrating>100</criticrating>
+  <runtime>121</runtime>
+  <country>Hong Kong</country>
+  <genre>犯罪</genre>
+  <genre>惊悚</genre>
+  <genre>悬疑</genre>
+  <studio>Mei Ah Films Production Co. Ltd.</studio>
+  <uniqueid type="Tmdb">334557</uniqueid>
+  <uniqueid type="Imdb">tt4417522</uniqueid>
+  <id>tt4417522</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3778561</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>120</duration>
+        <durationinseconds>7259</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

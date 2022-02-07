@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Skyler 去 Marie 家帮忙，Walter 挥别家人，独自坐在家中游泳池旁，心灰意冷的 Walter 转着枪，前 2 次都指向他，最后指向了家中的铃兰。Hank 让 Steven 替他调查洗衣厂，Steven 没有发现毒品，同时拍了一些照片。Saul 连续呼叫 Jesse，Jesse 到了律师事务所却被 Saul 告知 Jesse 他也要跑路了。Jesse 回到家，接到医院的电话，告知他 Brock 身患流感，而且情况越来越糟，Jesse 发现自己的蓖麻毒素不见了，意识到可能 Brock 中了此毒，告诉了 Andrea 后自己飞奔去了 Walter 家。到了 Walter 家，Jesse 失去理智地拔枪质问 Walter 是不是下毒报复他，Walter 则说这一切都是 Gus 的阴谋，Jesse 最终相信了 Walter 并同意帮助 Walter 除了 Gus。Tyrus 叫 Jesse 回去制毒，Jesse 坚持要 Gus 亲自出面，另一边，Walter 自己制造了小型炸弹，安置在 Gus 的车底下，Gus 来到医院，知道了 Jesse 担心 Brock 不肯回去制毒，只能依靠 Jesse 制毒的他被迫同意 Jesse 暂时留在医院。Gus 走到了停车场，心生警觉，最后没有上车，Walter 看到 Gus 没有上车，几近绝望。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-20 18:11:18</dateadded>
+  <title>终结之时</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Virginia Montero</name>
+    <role>Grandma</role>
+    <type>GuestStar</type>
+    <tmdbid>927801</tmdbid>
+  </actor>
+  <actor>
+    <name>T.C. Warner</name>
+    <role>Pediatric Nurse</role>
+    <type>GuestStar</type>
+    <tmdbid>178654</tmdbid>
+  </actor>
+  <actor>
+    <name>Ray Campbell</name>
+    <role>Tyrus Kitt</role>
+    <type>GuestStar</type>
+    <tmdbid>159334</tmdbid>
+    <imdbid>nm1530474</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Batayeh</name>
+    <role>Dennis Markowski</role>
+    <type>GuestStar</type>
+    <tmdbid>109687</tmdbid>
+    <imdbid>nm2099399</imdbid>
+  </actor>
+  <actor>
+    <name>Tina Parker</name>
+    <role>Francesca</role>
+    <type>GuestStar</type>
+    <tmdbid>147085</tmdbid>
+    <imdbid>nm0662669</imdbid>
+  </actor>
+  <actor>
+    <name>Lavell Crawford</name>
+    <role>Huell</role>
+    <type>GuestStar</type>
+    <tmdbid>564348</tmdbid>
+    <imdbid>nm1089417</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Rios</name>
+    <role>Andrea Cantillo</role>
+    <type>GuestStar</type>
+    <tmdbid>211474</tmdbid>
+    <imdbid>nm1986960</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Michael Quezada</name>
+    <role>Steven Gomez</role>
+    <type>GuestStar</type>
+    <tmdbid>61535</tmdbid>
+    <imdbid>nm2366374</imdbid>
+  </actor>
+  <director>Vince Gilligan</director>
+  <rating>8.613</rating>
+  <year>2011</year>
+  <imdbid>tt1683087</imdbid>
+  <tvdbid>4164049</tvdbid>
+  <runtime>46</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt1683087</uniqueid>
+  <uniqueid type="Tvdb">4164049</uniqueid>
+  <episode>12</episode>
+  <season>4</season>
+  <aired>2011-10-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10202525</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>45</duration>
+        <durationinseconds>2758</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

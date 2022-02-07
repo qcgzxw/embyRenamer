@@ -1,0 +1,201 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Frank参加某个大学的竞选活动，演讲完正在跟外面学生握手打招呼，怎料遭到了人群中杀手的暗杀，他腹部中枪倒地。Frank陷入昏迷，毫无意识，致使白宫大乱。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-24 02:32:28</dateadded>
+  <title>第 4 集</title>
+  <actor>
+    <name>Kevin Spacey</name>
+    <role>Frank Underwood</role>
+    <type>Actor</type>
+    <tmdbid>1979</tmdbid>
+    <imdbid>nm0000228</imdbid>
+  </actor>
+  <actor>
+    <name>Robin Wright</name>
+    <role>Claire Underwood</role>
+    <type>Actor</type>
+    <tmdbid>32</tmdbid>
+    <imdbid>nm0000705</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Kelly</name>
+    <role>Doug Stamper</role>
+    <type>Actor</type>
+    <tmdbid>50217</tmdbid>
+    <imdbid>nm0446672</imdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Arcelus</name>
+    <role>Lucas Goodwin</role>
+    <type>Actor</type>
+    <tmdbid>103545</tmdbid>
+  </actor>
+  <actor>
+    <name>Neve Campbell</name>
+    <role>LeAnn Harvey</role>
+    <type>Actor</type>
+    <tmdbid>9206</tmdbid>
+  </actor>
+  <actor>
+    <name>Jayne Atkinson</name>
+    <role>Catherine Durant</role>
+    <type>Actor</type>
+    <tmdbid>18261</tmdbid>
+    <imdbid>nm0040739</imdbid>
+  </actor>
+  <actor>
+    <name>Derek Cecil</name>
+    <role>Seth Grayson</role>
+    <type>Actor</type>
+    <tmdbid>60117</tmdbid>
+    <imdbid>nm0147689</imdbid>
+  </actor>
+  <actor>
+    <name>Boris McGiver</name>
+    <role>Tom Hammerschmidt</role>
+    <type>Actor</type>
+    <tmdbid>151432</tmdbid>
+    <imdbid>nm0569409</imdbid>
+  </actor>
+  <actor>
+    <name>Mahershala Ali</name>
+    <role>Remy Danton</role>
+    <type>Actor</type>
+    <tmdbid>932967</tmdbid>
+    <imdbid>nm0991810</imdbid>
+  </actor>
+  <actor>
+    <name>Joel Kinnaman</name>
+    <role>Will Conway</role>
+    <type>Actor</type>
+    <tmdbid>92404</tmdbid>
+  </actor>
+  <actor>
+    <name>Molly Parker</name>
+    <role>Jackie Sharp</role>
+    <type>Actor</type>
+    <tmdbid>27125</tmdbid>
+    <imdbid>nm0662504</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Marvel</name>
+    <role>Heather Dunbar</role>
+    <type>Actor</type>
+    <tmdbid>126713</tmdbid>
+    <imdbid>nm0555500</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Sparks</name>
+    <role>Thomas Yates</role>
+    <type>Actor</type>
+    <tmdbid>167564</tmdbid>
+    <imdbid>nm0817027</imdbid>
+  </actor>
+  <actor>
+    <name>Ellen Burstyn</name>
+    <role>Elizabeth Hale</role>
+    <type>GuestStar</type>
+    <tmdbid>9560</tmdbid>
+    <imdbid>nm0000995</imdbid>
+  </actor>
+  <actor>
+    <name>Ellen Harvey</name>
+    <role>Martha Wilson</role>
+    <type>GuestStar</type>
+    <tmdbid>1927948</tmdbid>
+    <imdbid>nm0367506</imdbid>
+  </actor>
+  <actor>
+    <name>Leonid Citer</name>
+    <role>Igor Milkin</role>
+    <type>GuestStar</type>
+    <tmdbid>55434</tmdbid>
+    <imdbid>nm0162904</imdbid>
+  </actor>
+  <actor>
+    <name>Reed Birney</name>
+    <role>Donald Blythe</role>
+    <type>GuestStar</type>
+    <tmdbid>163774</tmdbid>
+  </actor>
+  <actor>
+    <name>Eisa Davis</name>
+    <role>Cynthia Driscoll</role>
+    <type>GuestStar</type>
+    <tmdbid>91670</tmdbid>
+    <imdbid>nm0204555</imdbid>
+  </actor>
+  <actor>
+    <name>David Pittu</name>
+    <role>Dr. Saxon</role>
+    <type>GuestStar</type>
+    <tmdbid>3541</tmdbid>
+    <imdbid>nm0686042</imdbid>
+  </actor>
+  <director tmdbid="32" imdbid="nm0000705">Robin Wright</director>
+  <rating>8.6</rating>
+  <year>2016</year>
+  <imdbid>tt4817670</imdbid>
+  <tvdbid>5440804</tvdbid>
+  <runtime>43</runtime>
+  <genre>Drama</genre>
+  <tvrageid>1065900281</tvrageid>
+  <uniqueid type="Imdb">tt4817670</uniqueid>
+  <uniqueid type="Tvdb">5440804</uniqueid>
+  <uniqueid type="TvRage">1065900281</uniqueid>
+  <episode>4</episode>
+  <season>4</season>
+  <aired>2016-03-04</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3561097</bitrate>
+        <width>1920</width>
+        <height>960</height>
+        <aspect>2:1</aspect>
+        <aspectratio>2:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>43</duration>
+        <durationinseconds>2608</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

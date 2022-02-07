@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[为了安抚忧心忡忡的母亲，谢尔顿采用了一本自助书中的技巧，试图结交朋友。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-08-04 09:28:46</dateadded>
+  <title>火箭，共产主义者，杜威十进制</title>
+  <actor>
+    <name>Iain Armitage</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1684536</tmdbid>
+    <imdbid>nm8071137</imdbid>
+  </actor>
+  <actor>
+    <name>Zoe Perry</name>
+    <role>Mary Cooper</role>
+    <type>Actor</type>
+    <tmdbid>133450</tmdbid>
+    <imdbid>nm1409365</imdbid>
+  </actor>
+  <actor>
+    <name>Lance Barber</name>
+    <role>George Cooper Sr.</role>
+    <type>Actor</type>
+    <tmdbid>1212111</tmdbid>
+    <imdbid>nm1115741</imdbid>
+  </actor>
+  <actor>
+    <name>Montana Jordan</name>
+    <role>Georgie Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1817307</tmdbid>
+    <imdbid>nm7718664</imdbid>
+  </actor>
+  <actor>
+    <name>Raegan Revord</name>
+    <role>Missy Cooper</role>
+    <type>Actor</type>
+    <tmdbid>1575317</tmdbid>
+    <imdbid>nm6862942</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Potts</name>
+    <role>Connie Tucker</role>
+    <type>Actor</type>
+    <tmdbid>8873</tmdbid>
+    <imdbid>nm0001633</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper (voice)</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Murray Wyatt Rundus</name>
+    <role>Clint</role>
+    <type>GuestStar</type>
+    <tmdbid>1653232</tmdbid>
+  </actor>
+  <actor>
+    <name>Tate Berney</name>
+    <role>Dexter</role>
+    <type>GuestStar</type>
+    <tmdbid>1465699</tmdbid>
+    <imdbid>nm3131124</imdbid>
+  </actor>
+  <actor>
+    <name>Cait Pool</name>
+    <role>Lisa May</role>
+    <type>GuestStar</type>
+    <tmdbid>1763915</tmdbid>
+  </actor>
+  <actor>
+    <name>Valerie Mahaffey</name>
+    <role>Victoria MacElroy</role>
+    <type>GuestStar</type>
+    <tmdbid>99351</tmdbid>
+    <imdbid>nm0536723</imdbid>
+  </actor>
+  <actor>
+    <name>Danielle Pinnock</name>
+    <role>Evelyn Ingram</role>
+    <type>GuestStar</type>
+    <tmdbid>2000332</tmdbid>
+    <imdbid>nm8492984</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Baker</name>
+    <role>Sheryl Hutchins</role>
+    <type>GuestStar</type>
+    <tmdbid>461542</tmdbid>
+    <imdbid>nm1807222</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Phuong</name>
+    <role>Tam Nguyen</role>
+    <type>GuestStar</type>
+    <tmdbid>2181372</tmdbid>
+    <imdbid>nm7910690</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Stepanek</name>
+    <role>Hubert Givens</role>
+    <type>GuestStar</type>
+    <tmdbid>146391</tmdbid>
+    <imdbid>nm0826745</imdbid>
+  </actor>
+  <actor>
+    <name>Wyatt McClure</name>
+    <role>Billy Sparks</role>
+    <type>GuestStar</type>
+    <tmdbid>2162097</tmdbid>
+    <imdbid>nm5976411</imdbid>
+  </actor>
+  <director>Michael Zinberg</director>
+  <rating>6.2</rating>
+  <year>2017</year>
+  <imdbid>tt6914022</imdbid>
+  <tvdbid>6299665</tvdbid>
+  <runtime>18</runtime>
+  <genre>Comedy</genre>
+  <uniqueid type="Imdb">tt6914022</uniqueid>
+  <uniqueid type="Tvdb">6299665</uniqueid>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2017-11-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11372551</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>18</duration>
+        <durationinseconds>1097</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

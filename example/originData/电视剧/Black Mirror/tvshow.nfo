@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[《黑镜》（英语：Black Mirror）是一部由查理·布鲁克创作的英国独立单元剧，该剧由布鲁克和安娜贝尔·琼斯担任节目统筹。该剧展现现代社会发展，特别是对新技术利用的副作用，其中的每一集是独立的，背景通常设置在架空的现实或不久的将来，并以黑暗和讽刺的语气和或轻或重的实验感来表现剧情。《黑镜》的灵感源于像《迷离时空》这样能够很好处理争议性的当代话题又不用担心审查的老独立单元剧，布鲁克开创《黑镜》，以突出与人类与技术关系相关的主题，创造以“我们现在的生活方式——以及如果我们愚笨之时在10分钟内可能的生活方式”的故事。该剧集的前两季分别于2011年12月和2013年2月在英国电视频道第四台首播。在2014年12月网飞添加本剧至其片库后，其于2015年9月买下该剧。]]></plot>
+  <outline><![CDATA[《黑镜》（英语：Black Mirror）是一部由查理·布鲁克创作的英国独立单元剧，该剧由布鲁克和安娜贝尔·琼斯担任节目统筹。该剧展现现代社会发展，特别是对新技术利用的副作用，其中的每一集是独立的，背景通常设置在架空的现实或不久的将来，并以黑暗和讽刺的语气和或轻或重的实验感来表现剧情。《黑镜》的灵感源于像《迷离时空》这样能够很好处理争议性的当代话题又不用担心审查的老独立单元剧，布鲁克开创《黑镜》，以突出与人类与技术关系相关的主题，创造以“我们现在的生活方式——以及如果我们愚笨之时在10分钟内可能的生活方式”的故事。该剧集的前两季分别于2011年12月和2013年2月在英国电视频道第四台首播。在2014年12月网飞添加本剧至其片库后，其于2015年9月买下该剧。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2019-09-26 13:15:02</dateadded>
+  <title>黑镜</title>
+  <originaltitle>Black Mirror</originaltitle>
+  <actor>
+    <name>Daniel Lapaine</name>
+    <type>Actor</type>
+    <tmdbid>3072</tmdbid>
+  </actor>
+  <actor>
+    <name>Hannah John-Kamen</name>
+    <type>Actor</type>
+    <tmdbid>1408809</tmdbid>
+    <imdbid>nm4789912</imdbid>
+  </actor>
+  <actor>
+    <name>Michaela Coel</name>
+    <type>Actor</type>
+    <tmdbid>1368012</tmdbid>
+  </actor>
+  <actor>
+    <name>Beatrice Robertson-Jones</name>
+    <type>Actor</type>
+  </actor>
+  <writer>Charlie Brooker</writer>
+  <credits>Charlie Brooker</credits>
+  <trailer>http://www.youtube.com/watch?v=di6emt8_ie8</trailer>
+  <trailer>http://www.youtube.com/watch?v=jDiYGjp5iFg</trailer>
+  <rating>8.3</rating>
+  <year>2011</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt2085059</imdb_id>
+  <tmdbid>42009</tmdbid>
+  <premiered>2011-12-04</premiered>
+  <releasedate>2011-12-04</releasedate>
+  <runtime>60</runtime>
+  <genre>Sci-Fi &amp; Fantasy</genre>
+  <genre>剧情</genre>
+  <studio>Channel 4</studio>
+  <studio>Netflix</studio>
+  <zap2itid>SH01683675</zap2itid>
+  <tvrageid>30348</tvrageid>
+  <uniqueid type="Imdb">tt2085059</uniqueid>
+  <uniqueid type="Tmdb">42009</uniqueid>
+  <uniqueid type="Zap2It">SH01683675</uniqueid>
+  <uniqueid type="Tvdb">253463</uniqueid>
+  <tvdbid>253463</tvdbid>
+  <uniqueid type="TvRage">30348</uniqueid>
+  <id>253463</id>
+  <episodeguide>
+    <url cache="253463.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/253463/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

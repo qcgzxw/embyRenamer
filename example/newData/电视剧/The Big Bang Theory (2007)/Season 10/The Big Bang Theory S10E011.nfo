@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[贝妮黛分娩，打乱了艾美的生日仪式。 除了雷杰之外，这群朋友回想这一路，他们的生活改变了多少。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-16 16:57:39</dateadded>
+  <title>The Birthday Synchronicity</title>
+  <actor>
+    <name>Pamela Adlon</name>
+    <type>GuestStar</type>
+    <tmdbid>21063</tmdbid>
+    <imdbid>nm0781899</imdbid>
+  </actor>
+  <actor>
+    <name>Vernee Watson</name>
+    <type>GuestStar</type>
+  </actor>
+  <director>Nicole Lorre</director>
+  <rating>7.6</rating>
+  <year>2016</year>
+  <imdbid>tt6255770</imdbid>
+  <tvdbid>5852363</tvdbid>
+  <runtime>21</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <uniqueid type="Imdb">tt6255770</uniqueid>
+  <uniqueid type="Tvdb">5852363</uniqueid>
+  <episode>11</episode>
+  <season>10</season>
+  <aired>2016-12-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10143162</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>20</duration>
+        <durationinseconds>1230</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

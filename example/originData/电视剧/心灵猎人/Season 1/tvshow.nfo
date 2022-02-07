@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[20 世纪 70 年代末，两名联邦调查局特工深入调查谋杀凶手心理，与名副其实的杀人狂魔面对面，取得了犯罪科学的新进展。
+
+根据1996年前FBI探员约翰·道格拉斯（JohnDouglas）和马克·欧夏克（Mark Olshaker）的著作《心理神探：美国联邦调查局系列犯罪破案揭秘》（MindHunter: Inside the FBI's Elite Serial Crime Unit）改编。]]></plot>
+  <outline><![CDATA[20 世纪 70 年代末，两名联邦调查局特工深入调查谋杀凶手心理，与名副其实的杀人狂魔面对面，取得了犯罪科学的新进展。
+
+根据1996年前FBI探员约翰·道格拉斯（JohnDouglas）和马克·欧夏克（Mark Olshaker）的著作《心理神探：美国联邦调查局系列犯罪破案揭秘》（MindHunter: Inside the FBI's Elite Serial Crime Unit）改编。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-06 16:02:49</dateadded>
+  <title>破案神探</title>
+  <originaltitle>Mindhunter</originaltitle>
+  <trailer>http://www.youtube.com/watch?v=xn7vYEn0hF0</trailer>
+  <trailer>http://www.youtube.com/watch?v=evdxH50J3rs</trailer>
+  <rating>8.6</rating>
+  <year>2017</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt5290382</imdb_id>
+  <tmdbid>67744</tmdbid>
+  <premiered>2017-10-13</premiered>
+  <releasedate>2017-10-13</releasedate>
+  <enddate>2019-08-16</enddate>
+  <runtime>53</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <studio>Netflix</studio>
+  <tvdbid>328708</tvdbid>
+  <actor>
+    <name>Joe Tuttle</name>
+    <role>Greg Smith</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Jonathan Groff</name>
+    <role>Holden Ford</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Hannah Gross</name>
+    <role>Debbie Mitford</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Jack Erdie</name>
+    <role>Richard Speck</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Holt McCallany</name>
+    <role>Bill Tench</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Cameron Britton</name>
+    <role>Edmund Kemper</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Sam Strike</name>
+    <role>Monte Rissell</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Anna Torv</name>
+    <role>Wendy Carr</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Happy Anderson</name>
+    <role>Jerome Brudos</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Albert Jones</name>
+    <role>Jim Barney</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Cotter Smith</name>
+    <role>Shepard</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Stacey Roca</name>
+    <role>Nancy Tench</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Sonny Valicenti</name>
+    <role>Dennis Rader</role>
+    <type>Actor</type>
+  </actor>
+  <id>328708</id>
+  <episodeguide>
+    <url cache="328708.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/328708/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Ended</status>
+</tvshow>

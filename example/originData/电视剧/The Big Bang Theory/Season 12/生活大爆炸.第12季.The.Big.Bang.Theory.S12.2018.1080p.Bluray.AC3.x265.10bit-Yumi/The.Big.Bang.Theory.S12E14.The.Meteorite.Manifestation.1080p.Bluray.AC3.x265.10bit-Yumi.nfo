@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[谢尔顿帮助霍华德和伯纳黛特找到应对邻居扰民翻修的法律手段。拉杰什开始新项目后，莱纳德自觉遭到冷落。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 00:17:27</dateadded>
+  <title>陨石现身</title>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Leonard Hofstadter</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>Howard Wolowitz</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Nayyar</name>
+    <role>Rajesh Koothrappali</role>
+    <type>Actor</type>
+    <tmdbid>208099</tmdbid>
+    <imdbid>nm2471798</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa Rauch</name>
+    <role>Bernadette Rostenkowski</role>
+    <type>Actor</type>
+    <tmdbid>1221716</tmdbid>
+    <imdbid>nm1851981</imdbid>
+  </actor>
+  <actor>
+    <name>Mayim Bialik</name>
+    <role>Amy Farrah Fowler</role>
+    <type>Actor</type>
+    <tmdbid>167640</tmdbid>
+    <imdbid>nm0080524</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Sussman</name>
+    <role>Stuart Bloom</role>
+    <type>Actor</type>
+    <tmdbid>60633</tmdbid>
+    <imdbid>nm0839934</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Daly</name>
+    <role>Nathan</role>
+    <type>GuestStar</type>
+    <tmdbid>95875</tmdbid>
+    <imdbid>nm0198408</imdbid>
+  </actor>
+  <actor>
+    <name>Joel McCrary</name>
+    <role>Andy (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>12223</tmdbid>
+    <imdbid>nm0566906</imdbid>
+  </actor>
+  <actor>
+    <name>Lauren Lapkus</name>
+    <role>Denise</role>
+    <type>GuestStar</type>
+    <tmdbid>591834</tmdbid>
+    <imdbid>nm1944055</imdbid>
+  </actor>
+  <actor>
+    <name>Minerva García</name>
+    <role>Linda (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1581463</tmdbid>
+  </actor>
+  <actor>
+    <name>Hilda Boulware</name>
+    <role>Woman</role>
+    <type>GuestStar</type>
+    <tmdbid>1444817</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Posehn</name>
+    <role>Bert Kibbler</role>
+    <type>GuestStar</type>
+    <tmdbid>20405</tmdbid>
+    <imdbid>nm0692634</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>6.2</rating>
+  <year>2019</year>
+  <imdbid>tt6674712</imdbid>
+  <tvdbid>7009000</tvdbid>
+  <runtime>20</runtime>
+  <uniqueid type="Tvdb">7009000</uniqueid>
+  <uniqueid type="Imdb">tt6674712</uniqueid>
+  <episode>14</episode>
+  <season>12</season>
+  <aired>2019-01-31</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4740735</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1171</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

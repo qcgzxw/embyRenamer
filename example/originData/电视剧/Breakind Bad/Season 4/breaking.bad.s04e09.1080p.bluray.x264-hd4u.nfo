@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Hank 回收跟踪器，失望地发现 Gus 一周规律的两点一线生活。Walter 试探 Jesse 的回话，Jesse 表示他会杀了 Gus 的。Skyler 告诉 Walter 洗车行快要开始盈利了，劝 Walter 考虑金盆洗手。Hank 发现了 Gus 的养鸡场，想让 Walter 载他去，Walter 称身体不适让 Hank 改日再去，自己联系了 Mike，告诉他尽快收做好准备。Ted 去洗车行找到 Skyler，告诉她自己被税务局盯上了，希望 Skyler 想办法帮忙。Jesse 在清洗养鸡场时，他们遭到墨西哥集团狙击手的攻击，Gus 义无反顾冲上前，考虑再三，他无奈答应了墨西哥集团的条件。Skyler 假装是个业余的财务，利用法律的漏洞帮 Ted 取得了弥补的机会，Ted 表示自己已经破产支付不出 60 多万的金额。Jesse 被邀请去 Gus 家共进晚餐，Gus 问他能否独立制毒了，想派他去墨西哥，Jesse 为了保护 Walter 否认此事。Walter 也在 Jesse 的车上装了跟踪器，发现了 Jesse 去过 Gus 家，Jesse 因为去墨西哥的事找到 Walter，Walter 忍不住质问他为什么不趁此杀了 Gus，并怒斥希望 Jesse 客死他乡，知道自己被跟踪的 Jesse 愤怒地和 Walter 大打出手，两人就此反目。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-20 17:32:59</dateadded>
+  <title>窃听</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Rob Brownstein</name>
+    <role>CID Special Agent</role>
+    <type>GuestStar</type>
+    <tmdbid>62146</tmdbid>
+    <imdbid>nm0115282</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Sharot</name>
+    <role>Car Wash Customer</role>
+    <type>GuestStar</type>
+    <tmdbid>1140569</tmdbid>
+  </actor>
+  <actor>
+    <name>Maurice Compte</name>
+    <role>Gaff</role>
+    <type>GuestStar</type>
+    <tmdbid>48530</tmdbid>
+    <imdbid>nm0173997</imdbid>
+  </actor>
+  <actor>
+    <name>Ray Campbell</name>
+    <role>Tyrus Kitt</role>
+    <type>GuestStar</type>
+    <tmdbid>159334</tmdbid>
+    <imdbid>nm1530474</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Cousins</name>
+    <role>Ted Beneke</role>
+    <type>GuestStar</type>
+    <tmdbid>20379</tmdbid>
+    <imdbid>nm0184086</imdbid>
+  </actor>
+  <director>Terry McDonough</director>
+  <rating>8.373</rating>
+  <year>2011</year>
+  <imdbid>tt1683096</imdbid>
+  <tvdbid>4145291</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt1683096</uniqueid>
+  <uniqueid type="Tvdb">4145291</uniqueid>
+  <episode>9</episode>
+  <season>4</season>
+  <aired>2011-09-11</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9938295</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2832</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

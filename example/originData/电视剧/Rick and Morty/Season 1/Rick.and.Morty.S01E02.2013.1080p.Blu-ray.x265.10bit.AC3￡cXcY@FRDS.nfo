@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[瑞克发明出让宠物狗鼻鼻变聪明的装置，但却让整件事情变得糟透了。瑞克和莫蒂闯进数学老师的梦里。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 07:41:35</dateadded>
+  <title>智慧狗狗</title>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Paulsen</name>
+    <role>Snuffles / Centaur / Dog Soldier 1 (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>43125</tmdbid>
+  </actor>
+  <actor>
+    <name>Jess Harnell</name>
+    <role>Scary Terry / Dog Soldier 2  (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>84495</tmdbid>
+  </actor>
+  <actor>
+    <name>Melique Berger</name>
+    <role>Mrs. Pancakes / Scary Melissa / Anchorwoman  (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1423227</tmdbid>
+  </actor>
+  <actor>
+    <name>Maurice LaMarche</name>
+    <role>Scary Teacher / Dog Accountant  (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>34521</tmdbid>
+  </actor>
+  <actor>
+    <name>Phil Hendrie</name>
+    <role>Scary Glenn (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>181234</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon Johnson</name>
+    <role>Mr. Goldenfold / Handsome Black Man (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>167411</tmdbid>
+  </actor>
+  <actor>
+    <name>A. Smith Harrison</name>
+    <role>Narrator (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1647311</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesse Mendel</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>2599730</tmdbid>
+  </actor>
+  <director>John Rice</director>
+  <rating>8.8</rating>
+  <year>2013</year>
+  <imdbid>tt3333824</imdbid>
+  <tvdbid>4725805</tvdbid>
+  <runtime>22</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <uniqueid type="Tvdb">4725805</uniqueid>
+  <uniqueid type="Imdb">tt3333824</uniqueid>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2013-12-09</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2369151</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1318</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

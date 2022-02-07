@@ -1,0 +1,228 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[老庄园主去世后，可怜的母女四人被长子逐出了庄园。靠着亲戚的帮助，她们在一处小小的农舍安顿下来。势力眼的长嫂未曾想到的是，她的弟弟爱德华（休·格兰特 饰）爱上了三姐妹中的大姐埃莉诺（艾玛·汤普森 饰）。理智的埃莉诺尽管也倾心于爱德华，却顾及两人地位的悬殊而努力克制着自己的感情。
+ 与此同时，妹妹玛丽安娜（凯特·温丝莱特 饰）和英俊的军官威罗比（格雷·怀斯 饰）陷入热恋。情感外露的玛丽安娜热情奔放的释放着自己对威罗比的爱慕，甚至不顾及伤害追求者布兰登（艾伦·瑞克曼 饰）上校的感情。未曾想，威罗比为人不正，根本没有把玛丽安娜的感情真正放在心上。两个姐妹的感情相继陷入了危机。
+ 性格迥异的两姐妹谁能得到真正的爱情，如愿以偿呢？母女四人又该如何走出生活的困境呢？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-04 00:06:00</dateadded>
+  <title>理智与情感</title>
+  <originaltitle>Sense and Sensibility</originaltitle>
+  <actor>
+    <name>Emma Thompson</name>
+    <role>Elinor Dashwood</role>
+    <type>Actor</type>
+    <tmdbid>7056</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Rickman</name>
+    <role>Colonel Christopher Brandon</role>
+    <type>Actor</type>
+    <tmdbid>4566</tmdbid>
+    <imdbid>nm0000614</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Winslet</name>
+    <role>Marianne Dashwood</role>
+    <type>Actor</type>
+    <tmdbid>204</tmdbid>
+    <imdbid>nm0000701</imdbid>
+  </actor>
+  <actor>
+    <name>Hugh Grant</name>
+    <role>Edward Ferrars</role>
+    <type>Actor</type>
+    <tmdbid>3291</tmdbid>
+    <imdbid>nm0000424</imdbid>
+  </actor>
+  <actor>
+    <name>James Fleet</name>
+    <role>John Dashwood</role>
+    <type>Actor</type>
+    <tmdbid>10726</tmdbid>
+  </actor>
+  <actor>
+    <name>Harriet Walter</name>
+    <role>Fanny Ferrars Dashwood</role>
+    <type>Actor</type>
+    <tmdbid>17477</tmdbid>
+  </actor>
+  <actor>
+    <name>Gemma Jones</name>
+    <role>Mrs. Dashwood</role>
+    <type>Actor</type>
+    <tmdbid>9138</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Spriggs</name>
+    <role>Mrs. Jennings</role>
+    <type>Actor</type>
+    <tmdbid>1220119</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Hardy</name>
+    <role>Sir John Middleton</role>
+    <type>Actor</type>
+    <tmdbid>23076</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Wise</name>
+    <role>John Willoughby</role>
+    <type>Actor</type>
+    <tmdbid>16700</tmdbid>
+  </actor>
+  <actor>
+    <name>Imelda Staunton</name>
+    <role>Charlotte Jennings Palmer</role>
+    <type>Actor</type>
+    <tmdbid>11356</tmdbid>
+    <imdbid>nm0001767</imdbid>
+  </actor>
+  <actor>
+    <name>Imogen Stubbs</name>
+    <role>Lucy Steele</role>
+    <type>Actor</type>
+    <tmdbid>20769</tmdbid>
+  </actor>
+  <actor>
+    <name>Hugh Laurie</name>
+    <role>Mr. Palmer</role>
+    <type>Actor</type>
+    <tmdbid>41419</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Wilkinson</name>
+    <role>Mr. Dashwood</role>
+    <type>Actor</type>
+    <tmdbid>207</tmdbid>
+  </actor>
+  <actor>
+    <name>Emilie François</name>
+    <role>Margaret Dashwood</role>
+    <type>Actor</type>
+    <tmdbid>937907</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Brimble</name>
+    <role>Thomas</role>
+    <type>Actor</type>
+    <tmdbid>133033</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabelle Amyes</name>
+    <role>Betsy</role>
+    <type>Actor</type>
+    <tmdbid>1232865</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander John</name>
+    <role>Curate</role>
+    <type>Actor</type>
+    <tmdbid>1845034</tmdbid>
+  </actor>
+  <actor>
+    <name>Allan Mitchell</name>
+    <role>Pigeon</role>
+    <type>Actor</type>
+    <tmdbid>1404134</tmdbid>
+  </actor>
+  <actor>
+    <name>Josephine Gradwell</name>
+    <role>Maid to Mrs. Jennings</role>
+    <type>Actor</type>
+    <tmdbid>2914108</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Lumsden</name>
+    <role>Robert Ferrars</role>
+    <type>Actor</type>
+    <tmdbid>141551</tmdbid>
+  </actor>
+  <actor>
+    <name>Lone Madsen</name>
+    <role>Miss Grey</role>
+    <type>Actor</type>
+    <tmdbid>1127449</tmdbid>
+  </actor>
+  <actor>
+    <name>Oliver Ford Davies</name>
+    <role>Doctor Harris</role>
+    <type>Actor</type>
+    <tmdbid>31923</tmdbid>
+  </actor>
+  <actor>
+    <name>Eleanor McCready</name>
+    <role>Mrs. Bunting</role>
+    <type>Actor</type>
+    <tmdbid>2644365</tmdbid>
+  </actor>
+  <director tmdbid="1614" imdbid="nm0000487">Ang Lee</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=G0XvqB1ENzs</trailer>
+  <rating>7.7</rating>
+  <year>1995</year>
+  <mpaa>PG</mpaa>
+  <imdbid>tt0114388</imdbid>
+  <tmdbid>4584</tmdbid>
+  <premiered>1995-12-13</premiered>
+  <releasedate>1995-12-13</releasedate>
+  <criticrating>97</criticrating>
+  <runtime>136</runtime>
+  <country>United Kingdom</country>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <studio>Mirage Enterprises</studio>
+  <studio>Columbia Pictures</studio>
+  <set>
+    <name>李安 Ang Lee</name>
+  </set>
+  <uniqueid type="Imdb">tt0114388</uniqueid>
+  <uniqueid type="Tmdb">4584</uniqueid>
+  <id>tt0114388</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6952751</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>136</duration>
+        <durationinseconds>8177</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>5</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

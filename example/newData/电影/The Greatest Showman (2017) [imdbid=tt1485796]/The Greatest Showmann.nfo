@@ -1,0 +1,574 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[《马戏之王》是一个关于P.T. ·巴纳姆（由休·杰克曼饰演）的传奇故事。 他作为马戏团老板，极富远见地创造了马戏团中著名的三场马戏团的模式，从创造之日起至今，为无数的观众带来了惊心动魄，激发无数想象力的表演。类似于电影《生活多美妙》的故事，这部影片《马戏之王》从巴纳姆底层生活开始，讲述了他如何建立起一个充满魔术和奇观的马戏世界的故事。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-03-24 05:06:51</dateadded>
+  <title>马戏之王</title>
+  <originaltitle>The Greatest Showman</originaltitle>
+  <actor>
+    <name>Hugh Jackman</name>
+    <role>P. T. Barnum</role>
+    <type>Actor</type>
+    <tmdbid>6968</tmdbid>
+    <imdbid>nm0413168</imdbid>
+  </actor>
+  <actor>
+    <name>Zac Efron</name>
+    <role>Phillip Carlyle</role>
+    <type>Actor</type>
+    <tmdbid>29222</tmdbid>
+    <imdbid>nm1374980</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Williams</name>
+    <role>Charity Barnum</role>
+    <type>Actor</type>
+    <tmdbid>1812</tmdbid>
+    <imdbid>nm0931329</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Ferguson</name>
+    <role>Jenny Lind</role>
+    <type>Actor</type>
+    <tmdbid>933238</tmdbid>
+    <imdbid>nm0272581</imdbid>
+  </actor>
+  <actor>
+    <name>Zendaya</name>
+    <role>Anne Wheeler</role>
+    <type>Actor</type>
+    <tmdbid>505710</tmdbid>
+    <imdbid>nm3918035</imdbid>
+  </actor>
+  <actor>
+    <name>Keala Settle</name>
+    <role>Lettie Lutz</role>
+    <type>Actor</type>
+    <tmdbid>1716724</tmdbid>
+    <imdbid>nm4745222</imdbid>
+  </actor>
+  <actor>
+    <name>Yahya Abdul-Mateen II</name>
+    <role>W. D. Wheeler</role>
+    <type>Actor</type>
+    <tmdbid>1639847</tmdbid>
+    <imdbid>nm5584344</imdbid>
+  </actor>
+  <actor>
+    <name>Natasha Liu Bordizzo</name>
+    <role>Deng Yan</role>
+    <type>Actor</type>
+    <tmdbid>1583307</tmdbid>
+    <imdbid>nm6812060</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Sparks</name>
+    <role>James Gordon Bennett</role>
+    <type>Actor</type>
+    <tmdbid>167564</tmdbid>
+    <imdbid>nm0817027</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Humphrey</name>
+    <role>Charles Stratton</role>
+    <type>Actor</type>
+    <tmdbid>1952743</tmdbid>
+  </actor>
+  <actor>
+    <name>Austyn Johnson</name>
+    <role>Caroline Barnum</role>
+    <type>Actor</type>
+    <tmdbid>1919707</tmdbid>
+    <imdbid>nm8874655</imdbid>
+  </actor>
+  <actor>
+    <name>Cameron Seely</name>
+    <role>Helen Barnum</role>
+    <type>Actor</type>
+    <tmdbid>1952744</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Anderson</name>
+    <role>Mr. O'Malley</role>
+    <type>Actor</type>
+    <tmdbid>3058666</tmdbid>
+    <imdbid>nm1933868</imdbid>
+  </actor>
+  <actor>
+    <name>Ellis Rubin</name>
+    <role>Young P. T. Barnum</role>
+    <type>Actor</type>
+    <tmdbid>1952745</tmdbid>
+    <imdbid>nm8856489</imdbid>
+  </actor>
+  <actor>
+    <name>Skylar Dunn</name>
+    <role>Young Charity Hallett</role>
+    <type>Actor</type>
+    <tmdbid>1614421</tmdbid>
+    <imdbid>nm6130873</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Everidge</name>
+    <role>Lord of Leeds</role>
+    <type>Actor</type>
+    <tmdbid>1953387</tmdbid>
+  </actor>
+  <actor>
+    <name>Radu Spinghel</name>
+    <role>O'Clancy</role>
+    <type>Actor</type>
+    <tmdbid>1833998</tmdbid>
+  </actor>
+  <actor>
+    <name>Yusaku Komori</name>
+    <role>Chang Bunker</role>
+    <type>Actor</type>
+    <tmdbid>2016877</tmdbid>
+  </actor>
+  <actor>
+    <name>Danial Son</name>
+    <role>Eng Bunker</role>
+    <type>Actor</type>
+    <tmdbid>2016878</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Swenson</name>
+    <role>Philo Barnum</role>
+    <type>Actor</type>
+    <tmdbid>1022885</tmdbid>
+    <imdbid>nm0842451</imdbid>
+  </actor>
+  <actor>
+    <name>Linda Marie Larson</name>
+    <role>Mrs. Stratton</role>
+    <type>Actor</type>
+    <tmdbid>2016880</tmdbid>
+  </actor>
+  <actor>
+    <name>Byron Jennings</name>
+    <role>Mr. Carlyle</role>
+    <type>Actor</type>
+    <tmdbid>941524</tmdbid>
+    <imdbid>nm0421120</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Aidem</name>
+    <role>Mrs. Carlyle</role>
+    <type>Actor</type>
+    <tmdbid>133047</tmdbid>
+    <imdbid>nm0014483</imdbid>
+  </actor>
+  <actor>
+    <name>Damian Young</name>
+    <role>Mr. Winthrop</role>
+    <type>Actor</type>
+    <tmdbid>109144</tmdbid>
+    <imdbid>nm0949433</imdbid>
+  </actor>
+  <actor>
+    <name>Tina Benko</name>
+    <role>Mrs. Winthrop</role>
+    <type>Actor</type>
+    <tmdbid>60120</tmdbid>
+    <imdbid>nm0071416</imdbid>
+  </actor>
+  <actor>
+    <name>Fredric Lehne</name>
+    <role>Benjamin Hallett</role>
+    <type>Actor</type>
+    <tmdbid>9632</tmdbid>
+    <imdbid>nm0499791</imdbid>
+  </actor>
+  <actor>
+    <name>Kathryn Meisle</name>
+    <role>Hannah Hallett</role>
+    <type>Actor</type>
+    <tmdbid>99035</tmdbid>
+    <imdbid>nm0577060</imdbid>
+  </actor>
+  <actor>
+    <name>Timothy Hughes</name>
+    <role>Strong Man</role>
+    <type>Actor</type>
+    <tmdbid>1223368</tmdbid>
+    <imdbid>nm0400965</imdbid>
+  </actor>
+  <actor>
+    <name>Gayle Rankin</name>
+    <role>Queen Victoria</role>
+    <type>Actor</type>
+    <tmdbid>1782144</tmdbid>
+    <imdbid>nm4587360</imdbid>
+  </actor>
+  <actor>
+    <name>Arnie Burton</name>
+    <role>Court Herald</role>
+    <type>Actor</type>
+    <tmdbid>1454061</tmdbid>
+  </actor>
+  <actor>
+    <name>Carly Adams</name>
+    <role>Ballerina #1</role>
+    <type>Actor</type>
+    <tmdbid>1587566</tmdbid>
+    <imdbid>nm7182217</imdbid>
+  </actor>
+  <actor>
+    <name>Sawyer Niehaus</name>
+    <role>Ballerina #2</role>
+    <type>Actor</type>
+    <tmdbid>3103588</tmdbid>
+  </actor>
+  <actor>
+    <name>Shuler Hensley</name>
+    <role>Lead Protestor</role>
+    <type>Actor</type>
+    <tmdbid>96892</tmdbid>
+  </actor>
+  <actor>
+    <name>Will Erat</name>
+    <role>Policeman</role>
+    <type>Actor</type>
+    <tmdbid>3103592</tmdbid>
+  </actor>
+  <actor>
+    <name>James Andrew O'Connor</name>
+    <role>Fireman</role>
+    <type>Actor</type>
+    <tmdbid>176692</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamie Jackson</name>
+    <role>Boss</role>
+    <type>Actor</type>
+    <tmdbid>1311390</tmdbid>
+  </actor>
+  <actor>
+    <name>Morgan Weed</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>2051629</tmdbid>
+  </actor>
+  <actor>
+    <name>Henry Stram</name>
+    <role>Ticket Taker</role>
+    <type>Actor</type>
+    <tmdbid>1455797</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Barra</name>
+    <role>Stage Manager</role>
+    <type>Actor</type>
+    <tmdbid>1338023</tmdbid>
+  </actor>
+  <actor>
+    <name>Luciano Acuna Jr.</name>
+    <role>Dog Boy</role>
+    <type>Actor</type>
+    <tmdbid>1400512</tmdbid>
+    <imdbid>nm5729373</imdbid>
+  </actor>
+  <actor>
+    <name>Shannon Freyer</name>
+    <role>Jenny Lind Admirer #1</role>
+    <type>Actor</type>
+    <tmdbid>1568613</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Dwane</name>
+    <role>Jenny Lind Admirer #2</role>
+    <type>Actor</type>
+    <tmdbid>2087879</tmdbid>
+  </actor>
+  <actor>
+    <name>Sandi DeGeorge</name>
+    <role>Jenny Lind Admirer #3</role>
+    <type>Actor</type>
+    <tmdbid>3103600</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Neil Butler</name>
+    <role>Royal Escort</role>
+    <type>Actor</type>
+    <tmdbid>2413084</tmdbid>
+  </actor>
+  <actor>
+    <name>Frances Emily Schramm</name>
+    <role>Laundry Woman</role>
+    <type>Actor</type>
+    <tmdbid>3103603</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Wong Chan</name>
+    <role>Human Cannonball</role>
+    <type>Actor</type>
+    <tmdbid>2783524</tmdbid>
+  </actor>
+  <actor>
+    <name>Stacey Alyse Cohen</name>
+    <role>Theatre Goer #1</role>
+    <type>Actor</type>
+    <tmdbid>1915874</tmdbid>
+    <imdbid>nm9176579</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Wilson</name>
+    <role>Theatre Goer #2</role>
+    <type>Actor</type>
+    <tmdbid>1651993</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathon Culver</name>
+    <role>Theatre Goer #3</role>
+    <type>Actor</type>
+    <tmdbid>3103609</tmdbid>
+  </actor>
+  <actor>
+    <name>Jillian Braithwaite</name>
+    <role>Panhandler</role>
+    <type>Actor</type>
+    <tmdbid>3103613</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Haas Hunter</name>
+    <role>Protester</role>
+    <type>Actor</type>
+    <tmdbid>3103617</tmdbid>
+  </actor>
+  <actor>
+    <name>Bob Rumnock</name>
+    <role>Bank Manager</role>
+    <type>Actor</type>
+    <tmdbid>104915</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Reed</name>
+    <role>Mill Worker</role>
+    <type>Actor</type>
+    <tmdbid>163139</tmdbid>
+  </actor>
+  <actor>
+    <name>Martha Nichols</name>
+    <role>Woman in Gold</role>
+    <type>Actor</type>
+    <tmdbid>557787</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Redavid</name>
+    <role>Dancer Oddity #1</role>
+    <type>Actor</type>
+    <tmdbid>2016883</tmdbid>
+  </actor>
+  <actor>
+    <name>Shannon Holtzapffel</name>
+    <role>Dancer Oddity #2</role>
+    <type>Actor</type>
+    <tmdbid>557777</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Hudson</name>
+    <role>Dancer Oddity #3</role>
+    <type>Actor</type>
+    <tmdbid>1290608</tmdbid>
+    <imdbid>nm3432412</imdbid>
+  </actor>
+  <actor>
+    <name>Taylor James</name>
+    <role>Dancer Oddity #4</role>
+    <type>Actor</type>
+    <tmdbid>2016887</tmdbid>
+  </actor>
+  <actor>
+    <name>Chelsea Caso</name>
+    <role>Dancer Oddity #5</role>
+    <type>Actor</type>
+    <tmdbid>2016888</tmdbid>
+  </actor>
+  <actor>
+    <name>Caoife Coleman</name>
+    <role>Dancer Oddity #6</role>
+    <type>Actor</type>
+    <tmdbid>2016889</tmdbid>
+    <imdbid>nm3190058</imdbid>
+  </actor>
+  <actor>
+    <name>Mishay Petronelli</name>
+    <role>Dancer Oddity #7</role>
+    <type>Actor</type>
+    <tmdbid>2016890</tmdbid>
+  </actor>
+  <actor>
+    <name>Khasan Brailsford</name>
+    <role>Ensemble Dancer #1</role>
+    <type>Actor</type>
+    <tmdbid>557784</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Wong</name>
+    <role>Ensemble Dancer #2</role>
+    <type>Actor</type>
+    <tmdbid>1914336</tmdbid>
+  </actor>
+  <actor>
+    <name>Julius Anthony Rubio</name>
+    <role>Ensemble Dancer #3</role>
+    <type>Actor</type>
+    <tmdbid>2531143</tmdbid>
+  </actor>
+  <actor>
+    <name>Vincent-Olivier Noiseux</name>
+    <role>Ensemble Dancer #4</role>
+    <type>Actor</type>
+    <tmdbid>1707242</tmdbid>
+  </actor>
+  <actor>
+    <name>DeAnna Walters</name>
+    <role>Ensemble Dancer #5</role>
+    <type>Actor</type>
+    <tmdbid>2507462</tmdbid>
+  </actor>
+  <actor>
+    <name>Jessica Castro</name>
+    <role>Ensemble Dancer #6</role>
+    <type>Actor</type>
+    <tmdbid>3103665</tmdbid>
+  </actor>
+  <actor>
+    <name>Najla Gilliam</name>
+    <role>Ensemble Dancer #7</role>
+    <type>Actor</type>
+    <tmdbid>2675023</tmdbid>
+  </actor>
+  <actor>
+    <name>Christina Glur</name>
+    <role>Ensemble Dancer #8</role>
+    <type>Actor</type>
+    <tmdbid>1290637</tmdbid>
+  </actor>
+  <actor>
+    <name>Emerson Tate Alexander</name>
+    <role>Pointe Ballerina #1</role>
+    <type>Actor</type>
+    <tmdbid>3103666</tmdbid>
+  </actor>
+  <actor>
+    <name>Victoria Llodra</name>
+    <role>Pointe Ballerina #2</role>
+    <type>Actor</type>
+    <tmdbid>3103667</tmdbid>
+  </actor>
+  <actor>
+    <name>Louise Hindsbo</name>
+    <role>Pointe Ballerina #3</role>
+    <type>Actor</type>
+    <tmdbid>3103669</tmdbid>
+  </actor>
+  <actor>
+    <name>Laci Justice</name>
+    <role>Pointe Ballerina #4</role>
+    <type>Actor</type>
+    <tmdbid>3103671</tmdbid>
+  </actor>
+  <actor>
+    <name>GiaNina Paolantonio</name>
+    <role>Pointe Ballerina #5</role>
+    <type>Actor</type>
+    <tmdbid>2344015</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Quiner</name>
+    <role>Pointe Ballerina #6</role>
+    <type>Actor</type>
+    <tmdbid>3103686</tmdbid>
+  </actor>
+  <actor>
+    <name>Madison Smith</name>
+    <role>Pointe Ballerina #7</role>
+    <type>Actor</type>
+    <tmdbid>1481247</tmdbid>
+  </actor>
+  <actor>
+    <name>Brando</name>
+    <role>Pointe Ballerina #8</role>
+    <type>Actor</type>
+    <tmdbid>3103695</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel 'Cloud' Campos</name>
+    <role>Dancing Bartender #1</role>
+    <type>Actor</type>
+    <tmdbid>568652</tmdbid>
+  </actor>
+  <actor>
+    <name>Rod Roberts</name>
+    <role>Dancing Bartender #2</role>
+    <type>Actor</type>
+    <tmdbid>3103699</tmdbid>
+  </actor>
+  <actor>
+    <name>James Babson</name>
+    <role>Additional Voices (voice)</role>
+    <type>Actor</type>
+    <tmdbid>25659</tmdbid>
+    <imdbid>nm1186736</imdbid>
+  </actor>
+  <actor>
+    <name>Isaac Eshete</name>
+    <role>Lewis (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1777371</tmdbid>
+  </actor>
+  <director tmdbid="1276373" imdbid="nm1243905">Michael Gracey</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=AXCTMGYUg9A</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jr9QtXwC9vc</trailer>
+  <rating>7.6</rating>
+  <year>2017</year>
+  <mpaa>PG</mpaa>
+  <imdbid>tt1485796</imdbid>
+  <tmdbid>316029</tmdbid>
+  <premiered>2017-12-20</premiered>
+  <releasedate>2017-12-20</releasedate>
+  <criticrating>57</criticrating>
+  <runtime>105</runtime>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <studio>Chernin Entertainment</studio>
+  <studio>20th Century Fox</studio>
+  <studio>TSG Entertainment</studio>
+  <uniqueid type="Tmdb">316029</uniqueid>
+  <uniqueid type="Imdb">tt1485796</uniqueid>
+  <id>tt1485796</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2500008</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6288</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127861</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

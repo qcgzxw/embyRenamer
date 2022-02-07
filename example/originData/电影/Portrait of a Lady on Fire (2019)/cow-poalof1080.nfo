@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[该片由瑟琳·席安玛(《女孩帮》)导演，瓦莱丽亚·戈利诺、阿黛拉·哈内尔、诺米·梅兰特等主演。讲述一个女画家去贵族家庭为待嫁女孩画像，互生爱慕。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-04 09:03:51</dateadded>
+  <title>燃烧女子的肖像</title>
+  <originaltitle>Portrait de la jeune fille en feu</originaltitle>
+  <actor>
+    <name>Noémie Merlant</name>
+    <role>Marianne</role>
+    <type>Actor</type>
+    <tmdbid>1385600</tmdbid>
+  </actor>
+  <actor>
+    <name>Adèle Haenel</name>
+    <role>Héloïse</role>
+    <type>Actor</type>
+    <tmdbid>68816</tmdbid>
+  </actor>
+  <actor>
+    <name>Luàna Bajrami</name>
+    <role>Sophie</role>
+    <type>Actor</type>
+    <tmdbid>1442550</tmdbid>
+  </actor>
+  <actor>
+    <name>Valeria Golino</name>
+    <role>La Comtesse</role>
+    <type>Actor</type>
+    <tmdbid>3124</tmdbid>
+  </actor>
+  <actor>
+    <name>Christel Baras</name>
+    <role>La faiseuse d'anges</role>
+    <type>Actor</type>
+    <tmdbid>96295</tmdbid>
+  </actor>
+  <actor>
+    <name>Armande Boulanger</name>
+    <role>L'élève atelier</role>
+    <type>Actor</type>
+    <tmdbid>1187034</tmdbid>
+  </actor>
+  <actor>
+    <name>Guy Delamarche</name>
+    <role>L'homme salon</role>
+    <type>Actor</type>
+    <tmdbid>2385689</tmdbid>
+  </actor>
+  <actor>
+    <name>Clément Bouyssou</name>
+    <role>La batelier</role>
+    <type>Actor</type>
+    <tmdbid>2385690</tmdbid>
+  </actor>
+  <actor>
+    <name>Michèle Clément</name>
+    <role>Une paysanne (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2073027</tmdbid>
+  </actor>
+  <actor>
+    <name>Cécile Morel</name>
+    <role>Une paysanne (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2511274</tmdbid>
+  </actor>
+  <director tmdbid="68813">Céline Sciamma</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=R-fQPTwma9o</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Bn_-YoG69Sw</trailer>
+  <rating>8.1</rating>
+  <year>2019</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt8613070</imdbid>
+  <tmdbid>531428</tmdbid>
+  <premiered>2019-06-17</premiered>
+  <releasedate>2019-06-17</releasedate>
+  <criticrating>98</criticrating>
+  <runtime>122</runtime>
+  <country>France</country>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <studio>Lilies Films</studio>
+  <studio>ARTE France Cinéma</studio>
+  <studio>Hold Up Films</studio>
+  <studio>Canal+</studio>
+  <studio>Ciné+</studio>
+  <studio>ARTE</studio>
+  <studio>Cinécap 2</studio>
+  <studio>La Région Île-de-France</studio>
+  <studio>CNC</studio>
+  <studio>Neon</studio>
+  <uniqueid type="Tmdb">531428</uniqueid>
+  <uniqueid type="Imdb">tt8613070</uniqueid>
+  <id>tt8613070</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>19599297</bitrate>
+        <width>1920</width>
+        <height>1036</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>121</duration>
+        <durationinseconds>7304</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

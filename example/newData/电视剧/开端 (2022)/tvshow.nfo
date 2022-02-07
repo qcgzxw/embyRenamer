@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[公交车上的乘客们，身份和经历各异，有各自的困境，也有各自对未来生活的期冀，通过他们的经历，可以看到生命的厚重、生存的姿态，感受到生活的意义。肖鹤云（白敬亭饰）和李诗情（赵今麦饰），两个缺少主角光环的普通人经历时间循环、寻找真相的过程中，一次次经历生死挑战，实现自我成长。爆炸的真相隐藏在层层迷雾中，但正义终会来临，正如俩人名字所预示的那般，迎来“晴空一鹤排云上，便引诗情到碧霄”的清朗开阔]]></plot>
+  <outline><![CDATA[公交车上的乘客们，身份和经历各异，有各自的困境，也有各自对未来生活的期冀，通过他们的经历，可以看到生命的厚重、生存的姿态，感受到生活的意义。肖鹤云（白敬亭饰）和李诗情（赵今麦饰），两个缺少主角光环的普通人经历时间循环、寻找真相的过程中，一次次经历生死挑战，实现自我成长。爆炸的真相隐藏在层层迷雾中，但正义终会来临，正如俩人名字所预示的那般，迎来“晴空一鹤排云上，便引诗情到碧霄”的清朗开阔]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2022-02-05 15:56:58</dateadded>
+  <title>开端</title>
+  <originaltitle>开端</originaltitle>
+  <actor>
+    <name>Bai Jingting</name>
+    <role>Xiao Heyun</role>
+    <type>Actor</type>
+    <tmdbid>1672869</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhao Jinmai</name>
+    <role>Li Shiqing</role>
+    <type>Actor</type>
+    <tmdbid>2113005</tmdbid>
+  </actor>
+  <actor>
+    <name>Huang Jue</name>
+    <role>Wang Xingde</role>
+    <type>Actor</type>
+    <tmdbid>106581</tmdbid>
+    <imdbid>nm1645275</imdbid>
+  </actor>
+  <actor>
+    <name>Liu Dan</name>
+    <role>Tao Yinghong</role>
+    <type>Actor</type>
+    <tmdbid>1487092</tmdbid>
+  </actor>
+  <actor>
+    <name>Song Jiateng</name>
+    <role>Key Man</role>
+    <type>Actor</type>
+    <tmdbid>3238981</tmdbid>
+  </actor>
+  <actor>
+    <name>Zeng Kelang</name>
+    <role>Lu Di</role>
+    <type>Actor</type>
+    <tmdbid>3161422</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhang Xiqian</name>
+    <role>Ma Guoqiang</role>
+    <type>Actor</type>
+    <tmdbid>1910102</tmdbid>
+  </actor>
+  <actor>
+    <name>Ma Lan</name>
+    <role>Medicine Woman</role>
+    <type>Actor</type>
+    <tmdbid>3094378</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiao Peng</name>
+    <role>Jiao Xiangrong</role>
+    <type>Actor</type>
+    <tmdbid>3312752</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Gan</name>
+    <role>Jiang Feng</role>
+    <type>Actor</type>
+    <tmdbid>3238976</tmdbid>
+  </actor>
+  <actor>
+    <name>Fan Shuaiqi</name>
+    <role>Ye Qian</role>
+    <type>Actor</type>
+    <tmdbid>2834895</tmdbid>
+  </actor>
+  <actor>
+    <name>Ju Bozhan</name>
+    <role>Xiao Liu</role>
+    <type>Actor</type>
+    <tmdbid>2317990</tmdbid>
+  </actor>
+  <actor>
+    <name>Yu Peishan</name>
+    <role>Yu Lei</role>
+    <type>Actor</type>
+    <tmdbid>3381361</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Yijun</name>
+    <role>Zhang Cheng</role>
+    <type>Actor</type>
+    <tmdbid>1971602</tmdbid>
+  </actor>
+  <actor>
+    <name>Liu Tao</name>
+    <role>Du Ju</role>
+    <type>Actor</type>
+    <tmdbid>1236264</tmdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=9TlVJNPlt9w</trailer>
+  <rating>7.6</rating>
+  <year>2022</year>
+  <tmdbid>155441</tmdbid>
+  <premiered>2022-01-11</premiered>
+  <releasedate>2022-01-11</releasedate>
+  <enddate>2022-01-25</enddate>
+  <runtime>45</runtime>
+  <genre>剧情</genre>
+  <genre>Sci-Fi &amp; Fantasy</genre>
+  <genre>悬疑</genre>
+  <studio>Tencent Video</studio>
+  <uniqueid type="Tmdb">155441</uniqueid>
+  <uniqueid type="Tvdb">414615</uniqueid>
+  <tvdbid>414615</tvdbid>
+  <id>414615</id>
+  <episodeguide>
+    <url cache="414615.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/414615/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Ended</status>
+</tvshow>

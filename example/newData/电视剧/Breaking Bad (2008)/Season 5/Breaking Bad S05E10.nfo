@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Walter 赶到洗车场，Skyler 离开去见 Hank。Hank 告知他已知道 Walter 的事，Skyler 却不甚合作。Walter 找到 Saul 去取回钱，郊外挖坑埋财。Marie 前去安慰 Skyler，得知真相后姐妹俩决裂。Lydia 联手 Todd 一伙干掉贩毒集团并重新开始生意。Hank 苦于没有证据抓 Walter。由于撒钱，Jesse 被警方抓去询问。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 17:41:24</dateadded>
+  <title> 掩埋</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Pedro García</name>
+    <role>Mariano</role>
+    <type>GuestStar</type>
+    <tmdbid>1077794</tmdbid>
+  </actor>
+  <actor>
+    <name>Louis Ferreira</name>
+    <role>Declan</role>
+    <type>GuestStar</type>
+    <tmdbid>51036</tmdbid>
+    <imdbid>nm0274371</imdbid>
+  </actor>
+  <actor>
+    <name>Morse Bicknell</name>
+    <role>Declan's Driver</role>
+    <type>GuestStar</type>
+    <tmdbid>223395</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Vasconcellos</name>
+    <role>Jack's Henchman</role>
+    <type>GuestStar</type>
+    <tmdbid>191132</tmdbid>
+  </actor>
+  <actor>
+    <name>Gonzalo Menendez</name>
+    <role>Detective Kalanchoe</role>
+    <type>GuestStar</type>
+    <tmdbid>84754</tmdbid>
+    <imdbid>nm0579460</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Douglas</name>
+    <role>Detective Munn</role>
+    <type>GuestStar</type>
+    <tmdbid>20496</tmdbid>
+    <imdbid>nm0235103</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Burr</name>
+    <role>Kuby</role>
+    <type>GuestStar</type>
+    <tmdbid>109708</tmdbid>
+    <imdbid>nm0122987</imdbid>
+  </actor>
+  <actor>
+    <name>Lavell Crawford</name>
+    <role>Huell</role>
+    <type>GuestStar</type>
+    <tmdbid>564348</tmdbid>
+    <imdbid>nm1089417</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Sane</name>
+    <role>Frankie</role>
+    <type>GuestStar</type>
+    <tmdbid>1268114</tmdbid>
+    <imdbid>nm4577760</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Fraser</name>
+    <role>Lydia Rodarte-Quayle</role>
+    <type>GuestStar</type>
+    <tmdbid>42279</tmdbid>
+    <imdbid>nm0292182</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse Plemons</name>
+    <role>Todd</role>
+    <type>GuestStar</type>
+    <tmdbid>88124</tmdbid>
+    <imdbid>nm0687146</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Bowen</name>
+    <role>Uncle Jack</role>
+    <type>GuestStar</type>
+    <tmdbid>2234</tmdbid>
+    <imdbid>nm0100889</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Rankin</name>
+    <role>Kenny</role>
+    <type>GuestStar</type>
+    <tmdbid>114000</tmdbid>
+    <imdbid>nm0710271</imdbid>
+  </actor>
+  <actor>
+    <name>Tait Fletcher</name>
+    <role>Lester</role>
+    <type>GuestStar</type>
+    <tmdbid>1105706</tmdbid>
+  </actor>
+  <actor>
+    <name>Steven Michael Quezada</name>
+    <role>Steven Gomez</role>
+    <type>GuestStar</type>
+    <tmdbid>61535</tmdbid>
+    <imdbid>nm2366374</imdbid>
+  </actor>
+  <director>Michelle MacLaren</director>
+  <rating>8.701</rating>
+  <year>2013</year>
+  <imdbid>tt2301443</imdbid>
+  <tvdbid>4553036</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt2301443</uniqueid>
+  <uniqueid type="Tvdb">4553036</uniqueid>
+  <episode>10</episode>
+  <season>5</season>
+  <aired>2013-08-18</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9892558</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2843</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

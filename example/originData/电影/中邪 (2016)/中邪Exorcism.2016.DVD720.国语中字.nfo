@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[大学生丁鑫和刘梦为拍摄农村风俗纪录片进入一个村落，在目睹了充满诡异气息的 “还人”仪式后，两人跟随“高人”王婆夫妇来到一处偏远的山庄拍摄驱邪过程。然而 事情却向更加诡异的方向发展，驱邪四人组经历着人性的考验，生命岌岌可危，而所发 生的一切都被丁鑫和刘梦的摄影机默默记录着......]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-10-12 00:21:03</dateadded>
+  <title>中邪</title>
+  <originaltitle>中邪</originaltitle>
+  <actor>
+    <name>Dong Tianwen</name>
+    <role>丁鑫</role>
+    <type>Actor</type>
+    <tmdbid>2811244</tmdbid>
+  </actor>
+  <actor>
+    <name>He Jia</name>
+    <role>刘梦</role>
+    <type>Actor</type>
+    <tmdbid>2811245</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhao Shuda</name>
+    <role>大庆</role>
+    <type>Actor</type>
+    <tmdbid>2811246</tmdbid>
+  </actor>
+  <actor>
+    <name>Wen Zhongxue</name>
+    <role>王叔</role>
+    <type>Actor</type>
+    <tmdbid>2811247</tmdbid>
+  </actor>
+  <actor>
+    <name>He Yuanyuan</name>
+    <role>陈丽</role>
+    <type>Actor</type>
+    <tmdbid>2811249</tmdbid>
+  </actor>
+  <actor>
+    <name>Feng Danju</name>
+    <role>王婆</role>
+    <type>Actor</type>
+    <tmdbid>2811251</tmdbid>
+  </actor>
+  <director tmdbid="1999608">Ma Kai</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6uldn20aCNY</trailer>
+  <rating>6.6</rating>
+  <year>2018</year>
+  <imdbid>tt5938816</imdbid>
+  <tmdbid>510337</tmdbid>
+  <premiered>2018-04-04</premiered>
+  <releasedate>2018-04-04</releasedate>
+  <criticrating>100</criticrating>
+  <runtime>111</runtime>
+  <country>China</country>
+  <genre>恐怖</genre>
+  <genre>惊悚</genre>
+  <uniqueid type="Tmdb">510337</uniqueid>
+  <uniqueid type="Imdb">tt5938816</uniqueid>
+  <id>tt5938816</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>2636714</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>110</duration>
+        <durationinseconds>6633</durationinseconds>
+      </video>
+      <audio>
+        <codec>mp3</codec>
+        <micodec>mp3</micodec>
+        <bitrate>128000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

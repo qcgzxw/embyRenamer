@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[瑞克和莫蒂在外星人古墓探险时，瑞克发现这个古墓的财宝已被洗劫一空。墓中有著名的外星抢劫艺术家迈尔斯·奈特利的作案标记，瑞克对此十分愤怒。为了进入抢劫展会，瑞克组建了一个团队混进去。在迈尔斯的演讲提问环节，瑞克上去捣乱，两人打赌比赛谁先偷走霍洛维茨的水晶头骨。迈尔斯把瑞克团队中的成员全都招募到自己的队伍中，并揭示小队如何偷到的头骨。然而瑞克制造了一台劫掠机，预测到迈尔斯的计划，并将迈尔斯的团队催眠，转而投向自己。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 07:46:30</dateadded>
+  <title>飞越莫蒂团</title>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>Elon Musk</name>
+    <role>Elon Tusk (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>57563</tmdbid>
+    <imdbid>nm1907769</imdbid>
+  </actor>
+  <actor>
+    <name>Pamela Adlon</name>
+    <role>Angie Flynt (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>21063</tmdbid>
+    <imdbid>nm0781899</imdbid>
+  </actor>
+  <actor>
+    <name>Justin Theroux</name>
+    <role>Miles Knightly (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>15009</tmdbid>
+    <imdbid>nm0857620</imdbid>
+  </actor>
+  <actor>
+    <name>Claudia Black</name>
+    <role>Ventriloquiver (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>26054</tmdbid>
+  </actor>
+  <actor>
+    <name>John DiMaggio</name>
+    <role>Gramuflack Reporter (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>31531</tmdbid>
+    <imdbid>nm0224007</imdbid>
+  </actor>
+  <actor>
+    <name>Dan Harmon</name>
+    <role>Heistotron / Randotron (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>57194</tmdbid>
+  </actor>
+  <actor>
+    <name>Maurice LaMarche</name>
+    <role>Hephaestus (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>34521</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Ridley</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1365425</tmdbid>
+  </actor>
+  <director>Bryan Newton</director>
+  <rating>7.8</rating>
+  <year>2019</year>
+  <imdbid>tt10655678</imdbid>
+  <tvdbid>7392965</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <uniqueid type="Tvdb">7392965</uniqueid>
+  <uniqueid type="Imdb">tt10655678</uniqueid>
+  <episode>3</episode>
+  <season>4</season>
+  <aired>2019-11-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>1623033</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>22</duration>
+        <durationinseconds>1358</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

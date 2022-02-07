@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[埃琳娜跟着莱拉来到了索拉拉家酒吧，莱拉穿着性感的打扮马上吸引了众人的目光，马尔切诺也从屋里走了出来，马尔切诺的弟弟告诉莱拉，她的婚纱照片被挂在裁缝店的橱窗里，莱拉一下子明白这有可能是斯特凡诺做的，她拜托索拉拉兄弟帮助安东尼奥摆脱兵役困扰，他是埃琳娜的男朋友，他要是征兵走了，家里就没人照顾了，马尔切诺答应帮她们问一问，埃琳娜表达了自己感谢之意。莱拉从马尔切诺弟弟口中得知，索拉拉家族早已跟斯特凡诺一起合开了一家鞋店，她称自己什么都不知道，这一切只有斯特凡诺说了算，这个时候的莉拉已经十分的恼火了，莱拉早已看透她的父亲、哥哥以及丈夫所说的话，强装自己一点不在乎，内心在跟他们在互相的牵制着。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-11-02 00:15:56</dateadded>
+  <title>身体</title>
+  <actor>
+    <name>Gaia Girace</name>
+    <role>Lila (Teenager)</role>
+    <type>Actor</type>
+    <tmdbid>2165956</tmdbid>
+    <imdbid>nm10135221</imdbid>
+  </actor>
+  <actor>
+    <name>Margherita Mazzucco</name>
+    <role>Elena (Teenager)</role>
+    <type>Actor</type>
+    <tmdbid>2165955</tmdbid>
+  </actor>
+  <actor>
+    <name>Ludovica Nasti</name>
+    <role>Lila (Younger)</role>
+    <type>Actor</type>
+    <tmdbid>2165954</tmdbid>
+  </actor>
+  <actor>
+    <name>Elisa del Genio</name>
+    <role>Elena (Younger)</role>
+    <type>Actor</type>
+    <tmdbid>2165953</tmdbid>
+  </actor>
+  <actor>
+    <name>Dora Romano</name>
+    <role>Miss Oliviero</role>
+    <type>Actor</type>
+    <tmdbid>1510167</tmdbid>
+    <imdbid>nm0738873</imdbid>
+  </actor>
+  <director>Saverio Costanzo</director>
+  <rating>3.5</rating>
+  <year>2020</year>
+  <imdbid>tt9413912</imdbid>
+  <tvdbid>7550349</tvdbid>
+  <runtime>53</runtime>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt9413912</uniqueid>
+  <uniqueid type="Tvdb">7550349</uniqueid>
+  <episode>2</episode>
+  <season>2</season>
+  <aired>2020-02-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10226902</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>52</duration>
+        <durationinseconds>3151</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

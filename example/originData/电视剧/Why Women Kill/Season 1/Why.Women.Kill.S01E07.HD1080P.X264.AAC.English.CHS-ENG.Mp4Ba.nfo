@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[　　罗布结束婚外情时，贝丝安很高兴，但当贝丝安知道一切都不像她想的那样时，这种感觉是短暂的。当西蒙娜和卡尔努力在他们的关系中找到共同点时，内奥米开始怀疑汤米的古怪行为，冲突接踵而至。伊莱，泰勒和杰德试图解决他们的问题，前往一个多配偶静修，但伊莱的成瘾复发可能会破坏一切。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-10-01 05:29:13</dateadded>
+  <title>我发现了谋杀的秘密是什么：朋友。最好的朋友。</title>
+  <actor>
+    <name>Ginnifer Goodwin</name>
+    <role>Beth Ann Stanton</role>
+    <type>Actor</type>
+    <tmdbid>417</tmdbid>
+    <imdbid>nm0329481</imdbid>
+  </actor>
+  <actor>
+    <name>Lucy Liu</name>
+    <role>Simone Grove</role>
+    <type>Actor</type>
+    <tmdbid>140</tmdbid>
+    <imdbid>nm0005154</imdbid>
+  </actor>
+  <actor>
+    <name>Kirby Howell-Baptiste</name>
+    <role>Taylor Harding</role>
+    <type>Actor</type>
+    <tmdbid>1532312</tmdbid>
+    <imdbid>nm4624730</imdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Daddario</name>
+    <role>Jade</role>
+    <type>Actor</type>
+    <tmdbid>109513</tmdbid>
+    <imdbid>nm1275259</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Davenport</name>
+    <role>Karl Grove</role>
+    <type>Actor</type>
+    <tmdbid>1709</tmdbid>
+    <imdbid>nm0202603</imdbid>
+  </actor>
+  <actor>
+    <name>Reid Scott</name>
+    <role>Eli Cohen</role>
+    <type>Actor</type>
+    <tmdbid>81316</tmdbid>
+    <imdbid>nm1169428</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Jaeger</name>
+    <role>Rob Stanton</role>
+    <type>Actor</type>
+    <tmdbid>65727</tmdbid>
+    <imdbid>nm0415382</imdbid>
+  </actor>
+  <actor>
+    <name>Sadie Calvano</name>
+    <role>April</role>
+    <type>Actor</type>
+    <tmdbid>1258702</tmdbid>
+    <imdbid>nm3970180</imdbid>
+  </actor>
+  <actor>
+    <name>Morgan Smith</name>
+    <role>Bethany</role>
+    <type>GuestStar</type>
+    <tmdbid>1234360</tmdbid>
+  </actor>
+  <actor>
+    <name>Katie Finneran</name>
+    <role>Naomi Harte</role>
+    <type>GuestStar</type>
+    <tmdbid>58771</tmdbid>
+  </actor>
+  <actor>
+    <name>Leo Howard</name>
+    <role>Tommy Harte</role>
+    <type>GuestStar</type>
+    <tmdbid>557921</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Anthony-Rodriguez</name>
+    <role>Hector</role>
+    <type>GuestStar</type>
+    <tmdbid>1215388</tmdbid>
+    <imdbid>nm1271152</imdbid>
+  </actor>
+  <actor>
+    <name>Alicia Coppola</name>
+    <role>Sheila Mosconi</role>
+    <type>GuestStar</type>
+    <tmdbid>126875</tmdbid>
+  </actor>
+  <actor>
+    <name>Lindsey Kraft</name>
+    <role>Claire</role>
+    <type>GuestStar</type>
+    <tmdbid>95521</tmdbid>
+    <imdbid>nm1837970</imdbid>
+  </actor>
+  <director>Elizabeth Allen Rosenbaum</director>
+  <rating>5.7</rating>
+  <year>2019</year>
+  <imdbid>tt10359268</imdbid>
+  <tvdbid>7298946</tvdbid>
+  <runtime>50</runtime>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt10359268</uniqueid>
+  <uniqueid type="Tvdb">7298946</uniqueid>
+  <episode>7</episode>
+  <season>1</season>
+  <aired>2019-09-26</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5568601</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>50</duration>
+        <durationinseconds>3026</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>375107</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

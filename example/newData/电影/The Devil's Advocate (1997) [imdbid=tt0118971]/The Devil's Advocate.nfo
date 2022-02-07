@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[凯文（基努·里维斯Keanu Reeves 饰）是个保持不败记录的年轻律师，一个又一个案子在他的辩护下得以胜诉。但与此同时，他也逐渐地意识到自己为之洗脱罪名的客户并非清白。同时有娇妻玛丽相伴，事业有为的他宛如生活在天堂一般。受到纽约著名事务所的邀请，他携妻子来到纽约。奢华的生活近在眼前，一切似乎都昭示着明天的坦途与光明。老板米尔顿（艾尔·帕西诺Al Pacino饰）对凯文非常赏识，不断地委以重任，同时也带他见识了五光十色的世界。面临着工作的压力和色情，名利各个方面的诱惑，凯文渐渐的迷失在生活中，和玛丽住着豪宅，手上有花不完的钞票，甚至忽视了妻子精神上的反常。但是，玛丽却渐渐地感到与凯文疏远了，而且生活的并不幸福。玛丽总是能看到诡异的情景，而且整个人的精神都彻底崩溃了。在强大的压力下，玛丽选择了自杀。直到失常的妻子自刎在他的臂弯中，凯文才猛然意识到身边的危机。凯文愤怒地去找米尔顿，指责米尔顿给他设下陷阱。同时，凯文从母亲那里得到了一个惊人的秘密，原来凯文任职的那家律师行的老板米尔顿，就是自己的父亲。气愤的凯文去找米尔顿报仇。当他开枪射向米尔顿的时候，米尔顿却毫发无损。原来米尔顿就是撒旦，他要让整个世界变为已有。米尔顿还有个女儿克丽丝塔，她是罗麦斯同父异母的孩子。然而，究竟是魔鬼的诱惑还是内心的虚荣将凯文引向今日的迷雾与深渊？自由意志下凯文又会做出怎样的抉择？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-10-17 12:48:03</dateadded>
+  <title>魔鬼代言人</title>
+  <originaltitle>The Devil's Advocate</originaltitle>
+  <actor>
+    <name>Keanu Reeves</name>
+    <role>Kevin Lomax</role>
+    <type>Actor</type>
+    <tmdbid>6384</tmdbid>
+    <imdbid>nm0000206</imdbid>
+  </actor>
+  <actor>
+    <name>Al Pacino</name>
+    <role>John Milton</role>
+    <type>Actor</type>
+    <tmdbid>1158</tmdbid>
+    <imdbid>nm0000199</imdbid>
+  </actor>
+  <actor>
+    <name>Charlize Theron</name>
+    <role>Mary Ann Lomax</role>
+    <type>Actor</type>
+    <tmdbid>6885</tmdbid>
+    <imdbid>nm0000234</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Jones</name>
+    <role>Eddie Barzoon</role>
+    <type>Actor</type>
+    <tmdbid>4004</tmdbid>
+    <imdbid>nm0000470</imdbid>
+  </actor>
+  <actor>
+    <name>Judith Ivey</name>
+    <role>Alice Lomax</role>
+    <type>Actor</type>
+    <tmdbid>19239</tmdbid>
+    <imdbid>nm0412382</imdbid>
+  </actor>
+  <actor>
+    <name>Connie Nielsen</name>
+    <role>Christabella Andreoli</role>
+    <type>Actor</type>
+    <tmdbid>935</tmdbid>
+    <imdbid>nm0001567</imdbid>
+  </actor>
+  <actor>
+    <name>Craig T. Nelson</name>
+    <role>Alexander Cullen</role>
+    <type>Actor</type>
+    <tmdbid>8977</tmdbid>
+    <imdbid>nm0005266</imdbid>
+  </actor>
+  <actor>
+    <name>Tamara Tunie</name>
+    <role>Mrs. Jackie Heath</role>
+    <type>Actor</type>
+    <tmdbid>42694</tmdbid>
+    <imdbid>nm0876645</imdbid>
+  </actor>
+  <actor>
+    <name>Ruben Santiago-Hudson</name>
+    <role>Leamon Heath</role>
+    <type>Actor</type>
+    <tmdbid>31839</tmdbid>
+    <imdbid>nm0763650</imdbid>
+  </actor>
+  <actor>
+    <name>Debra Monk</name>
+    <role>Pam Garrety</role>
+    <type>Actor</type>
+    <tmdbid>10386</tmdbid>
+    <imdbid>nm0598213</imdbid>
+  </actor>
+  <actor>
+    <name>Vyto Ruginis</name>
+    <role>Mitch Weaver</role>
+    <type>Actor</type>
+    <tmdbid>61216</tmdbid>
+    <imdbid>nm0749490</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Harrington</name>
+    <role>Melissa Black</role>
+    <type>Actor</type>
+    <tmdbid>17769</tmdbid>
+    <imdbid>nm0364307</imdbid>
+  </actor>
+  <actor>
+    <name>Pamela Gray</name>
+    <role>Mrs. Diana Barzoon</role>
+    <type>Actor</type>
+    <tmdbid>1207046</tmdbid>
+    <imdbid>nm0336860</imdbid>
+  </actor>
+  <actor>
+    <name>George Wyner</name>
+    <role>Meisel</role>
+    <type>Actor</type>
+    <tmdbid>14669</tmdbid>
+    <imdbid>nm0943927</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Bauer</name>
+    <role>Lloyd Gettys</role>
+    <type>Actor</type>
+    <tmdbid>4445</tmdbid>
+    <imdbid>nm0061777</imdbid>
+  </actor>
+  <actor>
+    <name>Connie Embesi</name>
+    <role>Mrs. Bernice Gettys</role>
+    <type>Actor</type>
+    <tmdbid>1089390</tmdbid>
+    <imdbid>nm0256091</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Cavallary</name>
+    <role>Gettys' Son</role>
+    <type>Actor</type>
+    <tmdbid>1089391</tmdbid>
+    <imdbid>nm0146822</imdbid>
+  </actor>
+  <actor>
+    <name>Heather Matarazzo</name>
+    <role>Barbara</role>
+    <type>Actor</type>
+    <tmdbid>33656</tmdbid>
+    <imdbid>nm0000525</imdbid>
+  </actor>
+  <actor>
+    <name>Murphy Guyer</name>
+    <role>Barbara's Father</role>
+    <type>Actor</type>
+    <tmdbid>155547</tmdbid>
+    <imdbid>nm0349881</imdbid>
+  </actor>
+  <actor>
+    <name>Leo Burmester</name>
+    <role>Florida Prosecutor</role>
+    <type>Actor</type>
+    <tmdbid>30151</tmdbid>
+    <imdbid>nm0122238</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Moor</name>
+    <role>Garson Deeds (Florida Judge)</role>
+    <type>Actor</type>
+    <tmdbid>260967</tmdbid>
+    <imdbid>nm0600810</imdbid>
+  </actor>
+  <actor>
+    <name>Neal Jones</name>
+    <role>Larry (Florida Reporter)</role>
+    <type>Actor</type>
+    <tmdbid>4199</tmdbid>
+    <imdbid>nm0428925</imdbid>
+  </actor>
+  <actor>
+    <name>Eddie Aldridge</name>
+    <role>Florida Bailiff</role>
+    <type>Actor</type>
+    <tmdbid>1089392</tmdbid>
+    <imdbid>nm0017719</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Deakins</name>
+    <role>Florida Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>582202</tmdbid>
+    <imdbid>nm0212636</imdbid>
+  </actor>
+  <actor>
+    <name>Rony Clanton</name>
+    <role>Junkie in Harlem</role>
+    <type>Actor</type>
+    <tmdbid>90444</tmdbid>
+    <imdbid>nm0163407</imdbid>
+  </actor>
+  <actor>
+    <name>George O. Gore II</name>
+    <role>Boy in Harlem</role>
+    <type>Actor</type>
+    <tmdbid>303197</tmdbid>
+  </actor>
+  <actor>
+    <name>Alan Manson</name>
+    <role>Judge Sklar</role>
+    <type>Actor</type>
+    <tmdbid>79735</tmdbid>
+    <imdbid>nm0543904</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Poteat</name>
+    <role>Pie Face</role>
+    <type>Actor</type>
+    <tmdbid>1089393</tmdbid>
+    <imdbid>nm0693035</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Oreskes</name>
+    <role>Arnold (Metro Assistant District Attorney)</role>
+    <type>Actor</type>
+    <tmdbid>164463</tmdbid>
+    <imdbid>nm0649729</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Chan</name>
+    <role>Chinese Man</role>
+    <type>Actor</type>
+    <tmdbid>8400</tmdbid>
+    <imdbid>nm0150976</imdbid>
+  </actor>
+  <actor>
+    <name>Caprice Benedetti</name>
+    <role>Menage A Trois Woman</role>
+    <type>Actor</type>
+    <tmdbid>154698</tmdbid>
+    <imdbid>nm0070691</imdbid>
+  </actor>
+  <actor>
+    <name>Don King</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>65607</tmdbid>
+    <imdbid>nm0005091</imdbid>
+  </actor>
+  <actor>
+    <name>Ray Garvey</name>
+    <role>Fight Fan</role>
+    <type>Actor</type>
+    <tmdbid>1089394</tmdbid>
+    <imdbid>nm0308780</imdbid>
+  </actor>
+  <actor>
+    <name>Rocco Musacchia</name>
+    <role>Fight Fan</role>
+    <type>Actor</type>
+    <tmdbid>984489</tmdbid>
+    <imdbid>nm0615525</imdbid>
+  </actor>
+  <actor>
+    <name>Susan Kellermann</name>
+    <role>Joyce Rensaleer</role>
+    <type>Actor</type>
+    <tmdbid>27264</tmdbid>
+    <imdbid>nm0445825</imdbid>
+  </actor>
+  <actor>
+    <name>James Saito</name>
+    <role>Takaori Osumi</role>
+    <type>Actor</type>
+    <tmdbid>77155</tmdbid>
+    <imdbid>nm0756839</imdbid>
+  </actor>
+  <actor>
+    <name>Harsh Nayyar</name>
+    <role>Parvathi Resh</role>
+    <type>Actor</type>
+    <tmdbid>20807</tmdbid>
+    <imdbid>nm0623319</imdbid>
+  </actor>
+  <actor>
+    <name>Mohammed Ghaffari</name>
+    <role>Bashir Toabal</role>
+    <type>Actor</type>
+    <tmdbid>233547</tmdbid>
+    <imdbid>nm0315471</imdbid>
+  </actor>
+  <actor>
+    <name>Nicki Cochrane</name>
+    <role>Multi-Lingual Party Guest</role>
+    <type>Actor</type>
+    <tmdbid>1089395</tmdbid>
+    <imdbid>nm0168257</imdbid>
+  </actor>
+  <actor>
+    <name>Fenja Klaus</name>
+    <role>Female #1</role>
+    <type>Actor</type>
+    <tmdbid>1089396</tmdbid>
+    <imdbid>nm0458393</imdbid>
+  </actor>
+  <actor>
+    <name>Gino Lucci</name>
+    <role>Limo Driver</role>
+    <type>Actor</type>
+    <tmdbid>164419</tmdbid>
+    <imdbid>nm0524371</imdbid>
+  </actor>
+  <actor>
+    <name>Novella Nelson</name>
+    <role>Botanica Woman</role>
+    <type>Actor</type>
+    <tmdbid>55272</tmdbid>
+    <imdbid>nm0625645</imdbid>
+  </actor>
+  <actor>
+    <name>Vincent Laresca</name>
+    <role>Big Guy #1</role>
+    <type>Actor</type>
+    <tmdbid>1983</tmdbid>
+    <imdbid>nm0488095</imdbid>
+  </actor>
+  <actor>
+    <name>Benny Nieves</name>
+    <role>Big Guy #2</role>
+    <type>Actor</type>
+    <tmdbid>155540</tmdbid>
+    <imdbid>nm0631373</imdbid>
+  </actor>
+  <actor>
+    <name>Franci Leary</name>
+    <role>Babs Coleman</role>
+    <type>Actor</type>
+    <tmdbid>1089398</tmdbid>
+    <imdbid>nm0495256</imdbid>
+  </actor>
+  <actor>
+    <name>Monica Keena</name>
+    <role>Alessandra Cullen</role>
+    <type>Actor</type>
+    <tmdbid>18315</tmdbid>
+    <imdbid>nm0444621</imdbid>
+  </actor>
+  <actor>
+    <name>Gloria Lynne Henry</name>
+    <role>Tiffany</role>
+    <type>Actor</type>
+    <tmdbid>79581</tmdbid>
+    <imdbid>nm0377840</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Benedict</name>
+    <role>Walter Krasna (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>41243</tmdbid>
+    <imdbid>nm0070801</imdbid>
+  </actor>
+  <actor>
+    <name>Delroy Lindo</name>
+    <role>Phillipe Moyez</role>
+    <type>Actor</type>
+    <tmdbid>18792</tmdbid>
+    <imdbid>nm0005148</imdbid>
+  </actor>
+  <director tmdbid="18596" imdbid="nm0000431">Taylor Hackford</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=40hHA9n4C2o</trailer>
+  <rating>7.5</rating>
+  <year>1997</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0118971</imdbid>
+  <tmdbid>1813</tmdbid>
+  <premiered>1997-10-17</premiered>
+  <releasedate>1997-10-17</releasedate>
+  <criticrating>63</criticrating>
+  <runtime>144</runtime>
+  <country>Germany</country>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>悬疑</genre>
+  <genre>惊悚</genre>
+  <genre>恐怖</genre>
+  <studio>Monarchy Enterprises B.V.</studio>
+  <studio>Regency Enterprises</studio>
+  <studio>Kopelson Entertainment</studio>
+  <studio>New Regency Pictures</studio>
+  <studio>Taurus Film</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <uniqueid type="Tmdb">1813</uniqueid>
+  <uniqueid type="Imdb">tt0118971</uniqueid>
+  <id>tt0118971</id>
+  <fileinfo>
+    <streamdetails>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>96000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>rv40</codec>
+        <micodec>rv40</micodec>
+        <bitrate>1718617</bitrate>
+        <width>1280</width>
+        <height>692</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976044</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>143</duration>
+        <durationinseconds>8635</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,539 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　楚门（Jim Carrey 饰）是一个平凡得不能再平凡的人，除了一些有些稀奇的经历之外——初恋女友突然失踪、溺水身亡的父亲忽然似乎又出现在眼前，他和绝大多数30多岁的美国男人绝无异样。这令他倍感失落。他也曾试过离开自己生活了多年的地方，但总因种种理由而不能成行。  直到有一天，他忽然发觉自己似乎一直在被人跟踪，无论他走到哪里，干什么事情。这种感觉愈来愈强烈。楚门决定不惜一切代价逃离这个他生活了30多年的地方，去寻找他的初恋女友。  但他却发现自己怎样也逃不出去。真相其实很残忍。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-20 00:42:10</dateadded>
+  <title>楚门的世界</title>
+  <originaltitle>The Truman Show</originaltitle>
+  <actor>
+    <name>Jim Carrey</name>
+    <role>Truman Burbank</role>
+    <type>Actor</type>
+    <tmdbid>206</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Linney</name>
+    <role>Meryl Burbank / Hannah Gill</role>
+    <type>Actor</type>
+    <tmdbid>350</tmdbid>
+    <imdbid>nm0001473</imdbid>
+  </actor>
+  <actor>
+    <name>Noah Emmerich</name>
+    <role>Marlon / Louis Coltrane</role>
+    <type>Actor</type>
+    <tmdbid>11315</tmdbid>
+  </actor>
+  <actor>
+    <name>Natascha McElhone</name>
+    <role>Lauren / Sylvia Garland</role>
+    <type>Actor</type>
+    <tmdbid>11317</tmdbid>
+  </actor>
+  <actor>
+    <name>Ed Harris</name>
+    <role>Christof</role>
+    <type>Actor</type>
+    <tmdbid>228</tmdbid>
+    <imdbid>nm0000438</imdbid>
+  </actor>
+  <actor>
+    <name>Holland Taylor</name>
+    <role>Alanis Montclair / Angela Burbank</role>
+    <type>Actor</type>
+    <tmdbid>11318</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Giamatti</name>
+    <role>Simeon</role>
+    <type>Actor</type>
+    <tmdbid>13242</tmdbid>
+    <imdbid>nm0316079</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Delate</name>
+    <role>Walter Moore / Kirk Burbank</role>
+    <type>Actor</type>
+    <tmdbid>6579</tmdbid>
+    <imdbid>nm0216507</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Krause</name>
+    <role>Laurence</role>
+    <type>Actor</type>
+    <tmdbid>23119</tmdbid>
+  </actor>
+  <actor>
+    <name>Blair Slater</name>
+    <role>Young Truman</role>
+    <type>Actor</type>
+    <tmdbid>116898</tmdbid>
+  </actor>
+  <actor>
+    <name>Heidi Schanz</name>
+    <role>Vivien</role>
+    <type>Actor</type>
+    <tmdbid>11321</tmdbid>
+  </actor>
+  <actor>
+    <name>Una Damon</name>
+    <role>Chloe</role>
+    <type>Actor</type>
+    <tmdbid>154644</tmdbid>
+  </actor>
+  <actor>
+    <name>Krista Lynn Landolfi</name>
+    <role>Bar Waitress</role>
+    <type>Actor</type>
+    <tmdbid>1048405</tmdbid>
+  </actor>
+  <actor>
+    <name>O-Lan Jones</name>
+    <role>Bar Waitress</role>
+    <type>Actor</type>
+    <tmdbid>1912</tmdbid>
+  </actor>
+  <actor>
+    <name>Ron Taylor</name>
+    <role>Ron</role>
+    <type>Actor</type>
+    <tmdbid>116899</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Taylor</name>
+    <role>Don</role>
+    <type>Actor</type>
+    <tmdbid>116900</tmdbid>
+  </actor>
+  <actor>
+    <name>Ted Raymond</name>
+    <role>Spencer</role>
+    <type>Actor</type>
+    <tmdbid>116901</tmdbid>
+  </actor>
+  <actor>
+    <name>Harry Shearer</name>
+    <role>Mike Michaelson</role>
+    <type>Actor</type>
+    <tmdbid>6008</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeanette Miller</name>
+    <role>Senior Citizen</role>
+    <type>Actor</type>
+    <tmdbid>58929</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Glass</name>
+    <role>Keyboard Artist</role>
+    <type>Actor</type>
+    <tmdbid>1551</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Minjares</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>1357694</tmdbid>
+  </actor>
+  <actor>
+    <name>Philip Baker Hall</name>
+    <role>Network Executive</role>
+    <type>Actor</type>
+    <tmdbid>4492</tmdbid>
+    <imdbid>nm0001311</imdbid>
+  </actor>
+  <actor>
+    <name>John Pleshette</name>
+    <role>Network Executive</role>
+    <type>Actor</type>
+    <tmdbid>16542</tmdbid>
+  </actor>
+  <actor>
+    <name>Terry Camilleri</name>
+    <role>Man in Bathtub</role>
+    <type>Actor</type>
+    <tmdbid>18359</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel McKinnon Miller</name>
+    <role>Garage Attendant</role>
+    <type>Actor</type>
+    <tmdbid>88950</tmdbid>
+  </actor>
+  <actor>
+    <name>Judy Clayton</name>
+    <role>Travel Agent</role>
+    <type>Actor</type>
+    <tmdbid>116902</tmdbid>
+  </actor>
+  <actor>
+    <name>Fritz Dominique</name>
+    <role>Truman's Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>2306883</tmdbid>
+  </actor>
+  <actor>
+    <name>Angel Schmiedt</name>
+    <role>Truman's Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>2306884</tmdbid>
+  </actor>
+  <actor>
+    <name>Nastassja Schmiedt</name>
+    <role>Truman's Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>1786381</tmdbid>
+  </actor>
+  <actor>
+    <name>Muriel Moore</name>
+    <role>Teacher</role>
+    <type>Actor</type>
+    <tmdbid>5704</tmdbid>
+  </actor>
+  <actor>
+    <name>Mal Jones</name>
+    <role>News Vendor</role>
+    <type>Actor</type>
+    <tmdbid>191009</tmdbid>
+  </actor>
+  <actor>
+    <name>Judson Vaughn</name>
+    <role>Insurance Co-Worker</role>
+    <type>Actor</type>
+    <tmdbid>1381096</tmdbid>
+  </actor>
+  <actor>
+    <name>Earl Hilliard Jr.</name>
+    <role>Ferry Worker</role>
+    <type>Actor</type>
+    <tmdbid>2306887</tmdbid>
+  </actor>
+  <actor>
+    <name>David Andrew Nash</name>
+    <role>Bus Driver / Ferry Captain</role>
+    <type>Actor</type>
+    <tmdbid>2306890</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Towers</name>
+    <role>Bus Supervisor</role>
+    <type>Actor</type>
+    <tmdbid>2306891</tmdbid>
+  </actor>
+  <actor>
+    <name>Savannah Swafford</name>
+    <role>Little Girl in Bus</role>
+    <type>Actor</type>
+    <tmdbid>2306892</tmdbid>
+  </actor>
+  <actor>
+    <name>Antoni Corone</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>20562</tmdbid>
+  </actor>
+  <actor>
+    <name>Mario Ernesto Sánchez</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>26651</tmdbid>
+  </actor>
+  <actor>
+    <name>John Roselius</name>
+    <role>Man at Beach</role>
+    <type>Actor</type>
+    <tmdbid>9285</tmdbid>
+    <imdbid>nm0741803</imdbid>
+  </actor>
+  <actor>
+    <name>Kade Coates</name>
+    <role>Truman (4 years)</role>
+    <type>Actor</type>
+    <tmdbid>2306896</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcia DeBonis</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>116691</tmdbid>
+    <imdbid>nm0213482</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Kitchin</name>
+    <role>Surgeon</role>
+    <type>Actor</type>
+    <tmdbid>1671515</tmdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Youngblood</name>
+    <role>Orderly</role>
+    <type>Actor</type>
+    <tmdbid>2306900</tmdbid>
+  </actor>
+  <actor>
+    <name>Dave Corey</name>
+    <role>Hospital Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>2078783</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Alan Gillott</name>
+    <role>Policeman at Power Plant</role>
+    <type>Actor</type>
+    <tmdbid>2306901</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Saiter</name>
+    <role>Policeman at Truman's House</role>
+    <type>Actor</type>
+    <tmdbid>2306902</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Todd</name>
+    <role>Policeman at Truman's House</role>
+    <type>Actor</type>
+    <tmdbid>2306904</tmdbid>
+  </actor>
+  <actor>
+    <name>Marco Rubeo</name>
+    <role>Man in Christmas Box</role>
+    <type>Actor</type>
+    <tmdbid>62724</tmdbid>
+  </actor>
+  <actor>
+    <name>Daryl Davis</name>
+    <role>Couple at Picnic Table</role>
+    <type>Actor</type>
+    <tmdbid>2306905</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Davis</name>
+    <role>Couple at Picnic Table</role>
+    <type>Actor</type>
+    <tmdbid>2306907</tmdbid>
+  </actor>
+  <actor>
+    <name>R.J. Murdock</name>
+    <role>Production Assistant</role>
+    <type>Actor</type>
+    <tmdbid>2306908</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew McDonough</name>
+    <role>Man at Newsstand</role>
+    <type>Actor</type>
+    <tmdbid>2306910</tmdbid>
+  </actor>
+  <actor>
+    <name>Larry McDowell</name>
+    <role>Man at Newsstand</role>
+    <type>Actor</type>
+    <tmdbid>2306911</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Lucus</name>
+    <role>Ticket Taker</role>
+    <type>Actor</type>
+    <tmdbid>2306912</tmdbid>
+  </actor>
+  <actor>
+    <name>Logan Kirksey</name>
+    <role>TV Host</role>
+    <type>Actor</type>
+    <tmdbid>2306913</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Tomei</name>
+    <role>Control Room Director</role>
+    <type>Actor</type>
+    <tmdbid>177144</tmdbid>
+  </actor>
+  <actor>
+    <name>John Pramik</name>
+    <role>Keyboard Artist</role>
+    <type>Actor</type>
+    <tmdbid>2306914</tmdbid>
+  </actor>
+  <actor>
+    <name>Al Foster</name>
+    <role>Bar Patron</role>
+    <type>Actor</type>
+    <tmdbid>150059</tmdbid>
+  </actor>
+  <actor>
+    <name>Zoaunne LeRoy</name>
+    <role>Bar Patron</role>
+    <type>Actor</type>
+    <tmdbid>27508</tmdbid>
+  </actor>
+  <actor>
+    <name>Millie Slavin</name>
+    <role>Bar Patron</role>
+    <type>Actor</type>
+    <tmdbid>161566</tmdbid>
+  </actor>
+  <actor>
+    <name>Dona Hardy</name>
+    <role>Senior Citizen</role>
+    <type>Actor</type>
+    <tmdbid>54705</tmdbid>
+  </actor>
+  <actor>
+    <name>Tom Simmons</name>
+    <role>Garage Attendant</role>
+    <type>Actor</type>
+    <tmdbid>154564</tmdbid>
+  </actor>
+  <actor>
+    <name>Susan Angelo</name>
+    <role>Mother</role>
+    <type>Actor</type>
+    <tmdbid>157081</tmdbid>
+  </actor>
+  <actor>
+    <name>Carly Smiga</name>
+    <role>Daughter</role>
+    <type>Actor</type>
+    <tmdbid>2306922</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuji Okumoto</name>
+    <role>Japanese Family</role>
+    <type>Actor</type>
+    <tmdbid>56120</tmdbid>
+    <imdbid>nm0645785</imdbid>
+  </actor>
+  <actor>
+    <name>Kiyoko Yamaguchi</name>
+    <role>Japanese Family</role>
+    <type>Actor</type>
+    <tmdbid>1455891</tmdbid>
+  </actor>
+  <actor>
+    <name>Saemi Nakamura</name>
+    <role>Japanese Family</role>
+    <type>Actor</type>
+    <tmdbid>16146</tmdbid>
+  </actor>
+  <director tmdbid="2690">Peter Weir</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=loTIzXAS7v4</trailer>
+  <rating>8.1</rating>
+  <year>1998</year>
+  <mpaa>PG</mpaa>
+  <imdbid>tt0120382</imdbid>
+  <tmdbid>37165</tmdbid>
+  <premiered>1998-06-04</premiered>
+  <releasedate>1998-06-04</releasedate>
+  <criticrating>95</criticrating>
+  <runtime>103</runtime>
+  <country>United States of America</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <studio>Paramount</studio>
+  <studio>Scott Rudin Productions</studio>
+  <uniqueid type="Tmdb">37165</uniqueid>
+  <uniqueid type="Imdb">tt0120382</uniqueid>
+  <id>tt0120382</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>13906818</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>102</duration>
+        <durationinseconds>6176</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>5</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>True</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

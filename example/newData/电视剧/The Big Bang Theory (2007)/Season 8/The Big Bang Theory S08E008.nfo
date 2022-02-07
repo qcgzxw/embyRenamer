@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[女生们决定要在屋顶重现高中舞会之夜，这让薛尔登惊慌不已，他觉得艾美会希望他有所行动。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 17:53:32</dateadded>
+  <title>The Prom Equivalency</title>
+  <actor>
+    <name>Carol Ann Susi</name>
+    <type>GuestStar</type>
+    <tmdbid>1212530</tmdbid>
+    <imdbid>nm0839836</imdbid>
+  </actor>
+  <actor>
+    <name>Kara Luiz</name>
+    <type>GuestStar</type>
+    <tmdbid>1252416</tmdbid>
+    <imdbid>nm2388022</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Spencer</name>
+    <type>GuestStar</type>
+    <tmdbid>591519</tmdbid>
+    <imdbid>nm3189010</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>8</rating>
+  <year>2014</year>
+  <imdbid>tt3823242</imdbid>
+  <tvdbid>5002091</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>1065690139</tvrageid>
+  <uniqueid type="Imdb">tt3823242</uniqueid>
+  <uniqueid type="Tvdb">5002091</uniqueid>
+  <uniqueid type="TvRage">1065690139</uniqueid>
+  <episode>8</episode>
+  <season>8</season>
+  <aired>2014-11-06</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1583714</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>20</duration>
+        <durationinseconds>1210</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

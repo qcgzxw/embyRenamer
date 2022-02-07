@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[接受主教夫人的软禁惩罚期间，奥芙佛瑞德 (Offred) 回想起与莫伊拉 (Moria) 在“红色中心”的经历并寻思可能的出路。交配仪式节外生枝，威胁到奥芙佛瑞德的生存。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-07-03 22:19:24</dateadded>
+  <title>休教竖子破汝焉</title>
+  <actor>
+    <name>Elisabeth Moss</name>
+    <role>June Osborne / Offred / Ofjoseph</role>
+    <type>Actor</type>
+    <tmdbid>32798</tmdbid>
+  </actor>
+  <actor>
+    <name>Yvonne Strahovski</name>
+    <role>Serena Joy Waterford</role>
+    <type>Actor</type>
+    <tmdbid>63312</tmdbid>
+    <imdbid>nm2088803</imdbid>
+  </actor>
+  <actor>
+    <name>Joseph Fiennes</name>
+    <role>Commander Fred Waterford</role>
+    <type>Actor</type>
+    <tmdbid>12763</tmdbid>
+    <imdbid>nm0001212</imdbid>
+  </actor>
+  <actor>
+    <name>Ann Dowd</name>
+    <role>Aunt Lydia / Miss Clements</role>
+    <type>Actor</type>
+    <tmdbid>43366</tmdbid>
+    <imdbid>nm0235652</imdbid>
+  </actor>
+  <actor>
+    <name>Madeline Brewer</name>
+    <role>Janine Lindo / Ofwarren / Ofdaniel / Ofhoward</role>
+    <type>Actor</type>
+    <tmdbid>1443712</tmdbid>
+    <imdbid>nm5483400</imdbid>
+  </actor>
+  <actor>
+    <name>Max Minghella</name>
+    <role>Nick Blaine</role>
+    <type>Actor</type>
+    <tmdbid>2978</tmdbid>
+    <imdbid>nm1540404</imdbid>
+  </actor>
+  <actor>
+    <name>O.T. Fagbenle</name>
+    <role>Lucas 'Luke' Bankole</role>
+    <type>Actor</type>
+    <tmdbid>113970</tmdbid>
+  </actor>
+  <actor>
+    <name>Samira Wiley</name>
+    <role>Moira</role>
+    <type>Actor</type>
+    <tmdbid>1034197</tmdbid>
+    <imdbid>nm4148126</imdbid>
+  </actor>
+  <actor>
+    <name>Amanda Brugel</name>
+    <role>Rita Blue</role>
+    <type>GuestStar</type>
+    <tmdbid>1232769</tmdbid>
+    <imdbid>nm0115760</imdbid>
+  </actor>
+  <actor>
+    <name>Kristian Bruun</name>
+    <role>Doctor</role>
+    <type>GuestStar</type>
+    <tmdbid>1309774</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren Horejda</name>
+    <role>Helen</role>
+    <type>GuestStar</type>
+    <tmdbid>1461449</tmdbid>
+  </actor>
+  <actor>
+    <name>Ishan Morris</name>
+    <role>Guardian Nurse</role>
+    <type>GuestStar</type>
+    <tmdbid>1251990</tmdbid>
+  </actor>
+  <actor>
+    <name>Cam Parkes</name>
+    <role>Young Guardian</role>
+    <type>GuestStar</type>
+    <tmdbid>1948781</tmdbid>
+  </actor>
+  <actor>
+    <name>Edie Inksetter</name>
+    <role>Aunt Elizabeth</role>
+    <type>GuestStar</type>
+    <tmdbid>1590230</tmdbid>
+  </actor>
+  <actor>
+    <name>Nina Kiri</name>
+    <role>Alma</role>
+    <type>GuestStar</type>
+    <tmdbid>1603514</tmdbid>
+  </actor>
+  <director>Mike Barker</director>
+  <rating>7.794</rating>
+  <year>2017</year>
+  <imdbid>tt5937294</imdbid>
+  <tvdbid>6051448</tvdbid>
+  <runtime>53</runtime>
+  <genre>Drama</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt5937294</uniqueid>
+  <uniqueid type="Tvdb">6051448</uniqueid>
+  <episode>4</episode>
+  <season>1</season>
+  <aired>2017-05-03</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>14944721</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>52</duration>
+        <durationinseconds>3166</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

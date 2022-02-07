@@ -1,0 +1,145 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[瑞克表面上帮助一群名叫「正义使者」的超级英雄，却又在醉醺醺之下，替他们设置了类似《夺魂锯》的场景。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 07:57:04</dateadded>
+  <title>正义使者：世界终结者回来了</title>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Slater</name>
+    <role>Maximus Renegade Star Soldier (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>2224</tmdbid>
+    <imdbid>nm0000225</imdbid>
+  </actor>
+  <actor>
+    <name>Logic</name>
+    <role>Logic (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1814387</tmdbid>
+  </actor>
+  <actor>
+    <name>Gillian Jacobs</name>
+    <role>Supernova (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>94098</tmdbid>
+  </actor>
+  <actor>
+    <name>Lance Reddick</name>
+    <role>Alan Rails (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>129101</tmdbid>
+    <imdbid>nm0714698</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Kenny</name>
+    <role>Million Ants (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>78798</tmdbid>
+  </actor>
+  <actor>
+    <name>Maurice LaMarche</name>
+    <role>Crocubot (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>34521</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Chernoff</name>
+    <role>Gear Head (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1701455</tmdbid>
+  </actor>
+  <director>Bryan Newton</director>
+  <rating>8.2</rating>
+  <year>2017</year>
+  <imdbid>tt5218288</imdbid>
+  <tvdbid>6058270</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <uniqueid type="Tvdb">6058270</uniqueid>
+  <uniqueid type="Imdb">tt5218288</uniqueid>
+  <episode>4</episode>
+  <season>3</season>
+  <aired>2017-08-13</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>2068456</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>23</duration>
+        <durationinseconds>1385</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

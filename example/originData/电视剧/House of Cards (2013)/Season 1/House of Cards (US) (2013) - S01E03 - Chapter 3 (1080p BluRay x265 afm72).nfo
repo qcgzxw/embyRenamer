@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[　　发生新的事故，将会影响弗兰西斯新的教育法案，弗兰西斯只得亲自远行去和解问题。佐伊所代表的先锋报收到了采访，弗兰克也在所在的教堂进行发言，以抵消对其就位不利的因素。佐伊因对其上司汤姆表示不满被责令一个月不允许上电视报道。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-24 06:10:23</dateadded>
+  <title>第 3 集</title>
+  <actor>
+    <name>Kevin Spacey</name>
+    <role>Frank Underwood</role>
+    <type>Actor</type>
+    <tmdbid>1979</tmdbid>
+    <imdbid>nm0000228</imdbid>
+  </actor>
+  <actor>
+    <name>Robin Wright</name>
+    <role>Claire Underwood</role>
+    <type>Actor</type>
+    <tmdbid>32</tmdbid>
+    <imdbid>nm0000705</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Kelly</name>
+    <role>Doug Stamper</role>
+    <type>Actor</type>
+    <tmdbid>50217</tmdbid>
+    <imdbid>nm0446672</imdbid>
+  </actor>
+  <actor>
+    <name>Kristen Connolly</name>
+    <role>Christina Gallagher</role>
+    <type>Actor</type>
+    <tmdbid>210824</tmdbid>
+    <imdbid>nm1393354</imdbid>
+  </actor>
+  <actor>
+    <name>Sebastian Arcelus</name>
+    <role>Lucas Goodwin</role>
+    <type>Actor</type>
+    <tmdbid>103545</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathan Darrow</name>
+    <role>Edward Meechum</role>
+    <type>Actor</type>
+    <tmdbid>1224255</tmdbid>
+    <imdbid>nm2080557</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Mara</name>
+    <role>Zoe Barnes</role>
+    <type>Actor</type>
+    <tmdbid>51072</tmdbid>
+  </actor>
+  <actor>
+    <name>Constance Zimmer</name>
+    <role>Janine Skorsky</role>
+    <type>Actor</type>
+    <tmdbid>156204</tmdbid>
+    <imdbid>nm0956603</imdbid>
+  </actor>
+  <actor>
+    <name>Sakina Jaffrey</name>
+    <role>Linda Vasquez</role>
+    <type>Actor</type>
+    <tmdbid>34200</tmdbid>
+  </actor>
+  <actor>
+    <name>Michel Gill</name>
+    <role>Garrett Walker</role>
+    <type>Actor</type>
+    <tmdbid>1224256</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Brosnahan</name>
+    <role>Rachel Posner</role>
+    <type>Actor</type>
+    <tmdbid>993774</tmdbid>
+    <imdbid>nm3014031</imdbid>
+  </actor>
+  <actor>
+    <name>Boris McGiver</name>
+    <role>Tom Hammerschmidt</role>
+    <type>Actor</type>
+    <tmdbid>151432</tmdbid>
+    <imdbid>nm0569409</imdbid>
+  </actor>
+  <actor>
+    <name>Corey Stoll</name>
+    <role>Peter Russo</role>
+    <type>Actor</type>
+    <tmdbid>74541</tmdbid>
+  </actor>
+  <actor>
+    <name>Mahershala Ali</name>
+    <role>Remy Danton</role>
+    <type>Actor</type>
+    <tmdbid>932967</tmdbid>
+    <imdbid>nm0991810</imdbid>
+  </actor>
+  <actor>
+    <name>Chance Kelly</name>
+    <role>Steve</role>
+    <type>Actor</type>
+    <tmdbid>17194</tmdbid>
+    <imdbid>nm0446257</imdbid>
+  </actor>
+  <actor>
+    <name>Al Sapienza</name>
+    <role>Marty Spinella</role>
+    <type>GuestStar</type>
+    <tmdbid>154917</tmdbid>
+    <imdbid>nm0002326</imdbid>
+  </actor>
+  <actor>
+    <name>Kathleen Chalfant</name>
+    <role>Margaret Tilden</role>
+    <type>GuestStar</type>
+    <tmdbid>52003</tmdbid>
+    <imdbid>nm0149910</imdbid>
+  </actor>
+  <actor>
+    <name>Sandrine Holt</name>
+    <role>Gillian Cole</role>
+    <type>GuestStar</type>
+    <tmdbid>65345</tmdbid>
+  </actor>
+  <rating>7.694</rating>
+  <year>2013</year>
+  <imdbid>tt2248444</imdbid>
+  <tvdbid>4481709</tvdbid>
+  <runtime>52</runtime>
+  <genre>Drama</genre>
+  <tvrageid>1065274659</tvrageid>
+  <uniqueid type="Imdb">tt2248444</uniqueid>
+  <uniqueid type="Tvdb">4481709</uniqueid>
+  <uniqueid type="TvRage">1065274659</uniqueid>
+  <episode>3</episode>
+  <season>1</season>
+  <aired>2013-02-01</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>4029479</bitrate>
+        <width>1920</width>
+        <height>962</height>
+        <aspect>960:481</aspect>
+        <aspectratio>960:481</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>51</duration>
+        <durationinseconds>3103</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,175 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[瑞克与莫蒂发现自己登上了故事列车。它像是一个选集一样，所有乘坐它的乘客会给其他人讲述关于瑞克的故事。瑞克和莫蒂通过制造连贯性爆炸，干掉了检票员，并找到了列车的地图，编造了一个足以通过贝克德尔测验的故事，最终到达火车的引擎室。他们在这里遭遇了故事大王，一切的幕后黑手。就是他将瑞克和莫蒂抓到列车上，并企图抽取他们的故事潜能为故事列车填补燃料，突破第五面墙。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 07:41:11</dateadded>
+  <title>故事推进器</title>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Giamatti</name>
+    <role>Storylord (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>13242</tmdbid>
+    <imdbid>nm0316079</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Meloni</name>
+    <role>Jesus Christ (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>22227</tmdbid>
+  </actor>
+  <actor>
+    <name>Clancy Brown</name>
+    <role>Vengeful Train Passenger (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>6574</tmdbid>
+    <imdbid>nm0000317</imdbid>
+  </actor>
+  <actor>
+    <name>Maurice LaMarche</name>
+    <role>Abradolf Lincoler (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>34521</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Harmon</name>
+    <role>Birdperson / Tickets Please Guy (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>57194</tmdbid>
+  </actor>
+  <actor>
+    <name>Cassie Steele</name>
+    <role>Tammy Gueterman (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>180986</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Romano</name>
+    <role>Weird-faced Teen (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1251586</tmdbid>
+  </actor>
+  <actor>
+    <name>Tara Strong</name>
+    <role>Female Disguise / Story Train Computer (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>15762</tmdbid>
+  </actor>
+  <actor>
+    <name>Echo Kellum</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1255907</tmdbid>
+  </actor>
+  <actor>
+    <name>Nolan North</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>19508</tmdbid>
+  </actor>
+  <actor>
+    <name>Vanessa Marshall</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>81663</tmdbid>
+  </actor>
+  <actor>
+    <name>Kari Wahlgren</name>
+    <role>Additional Voices (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>116315</tmdbid>
+  </actor>
+  <director>Erica Hayes</director>
+  <rating>8.1</rating>
+  <year>2020</year>
+  <imdbid>tt10655686</imdbid>
+  <tvdbid>7660319</tvdbid>
+  <runtime>21</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <uniqueid type="Tvdb">7660319</uniqueid>
+  <uniqueid type="Imdb">tt10655686</uniqueid>
+  <episode>6</episode>
+  <season>4</season>
+  <aired>2020-05-03</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>1958236</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1289</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

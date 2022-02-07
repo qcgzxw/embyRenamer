@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[我们加入了一家电视奖项公司的评委会，因为他们决定谁将赢得最佳女演员奖。但是只能选出八位女演员中的一位。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-06 08:32:03</dateadded>
+  <title>花落谁家</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Phoebe Sparrow</name>
+    <role>Jackie</role>
+    <type>GuestStar</type>
+    <tmdbid>1538895</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Cranham</name>
+    <role>Rupert</role>
+    <type>GuestStar</type>
+    <tmdbid>26258</tmdbid>
+    <imdbid>nm0186469</imdbid>
+  </actor>
+  <actor>
+    <name>Noel Clarke</name>
+    <role>Gordon</role>
+    <type>GuestStar</type>
+    <tmdbid>76242</tmdbid>
+    <imdbid>nm0164929</imdbid>
+  </actor>
+  <actor>
+    <name>Zoë Wanamaker</name>
+    <role>Paula</role>
+    <type>GuestStar</type>
+    <tmdbid>20240</tmdbid>
+  </actor>
+  <actor>
+    <name>Fenella Woolgar</name>
+    <role>June</role>
+    <type>GuestStar</type>
+    <tmdbid>6973</tmdbid>
+    <imdbid>nm0941211</imdbid>
+  </actor>
+  <director>Graeme Harper</director>
+  <rating>7.5</rating>
+  <year>2018</year>
+  <imdbid>tt7848750</imdbid>
+  <tvdbid>6453371</tvdbid>
+  <runtime>29</runtime>
+  <uniqueid type="Imdb">tt7848750</uniqueid>
+  <uniqueid type="Tvdb">6453371</uniqueid>
+  <episode>5</episode>
+  <season>4</season>
+  <aired>2018-01-30</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10639469</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1762</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

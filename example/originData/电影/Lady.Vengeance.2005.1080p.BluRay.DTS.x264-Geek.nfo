@@ -1,0 +1,341 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[金子20岁时，就因被控“诱拐儿童”入狱而成为头条新闻，人们惊诧于她的美貌、她的年轻。在13年的牢狱生活中，有着天使般容貌的她是狱中绝对的模范。金子尽心尽力地帮助身边的每一个人，因此狱友们都称她为“亲切的金子”。表面上金子似乎比谁都诚实守纪，但内心里的复仇火焰一天也没有熄灭。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-02 16:06:56</dateadded>
+  <title>亲切的金子</title>
+  <originaltitle>친절한 금자씨</originaltitle>
+  <actor>
+    <name>Lee Young-ae</name>
+    <role>Lee Geum-ja</role>
+    <type>Actor</type>
+    <tmdbid>25001</tmdbid>
+  </actor>
+  <actor>
+    <name>Choi Min-sik</name>
+    <role>Mr. Baek</role>
+    <type>Actor</type>
+    <tmdbid>64880</tmdbid>
+    <imdbid>nm0158856</imdbid>
+  </actor>
+  <actor>
+    <name>Kwon Yea-young</name>
+    <role>Jenny</role>
+    <type>Actor</type>
+    <tmdbid>1117876</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Shi-hoo</name>
+    <role>Geun-shik</role>
+    <type>Actor</type>
+    <tmdbid>1255409</tmdbid>
+  </actor>
+  <actor>
+    <name>Nam Il-woo</name>
+    <role>Detective Choi</role>
+    <type>Actor</type>
+    <tmdbid>1299277</tmdbid>
+    <imdbid>nm1962664</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Byung-ok</name>
+    <role>Preacher</role>
+    <type>Actor</type>
+    <tmdbid>77182</tmdbid>
+    <imdbid>nm1366028</imdbid>
+  </actor>
+  <actor>
+    <name>Oh Dal-su</name>
+    <role>Mr. Chang</role>
+    <type>Actor</type>
+    <tmdbid>77188</tmdbid>
+    <imdbid>nm1367681</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Seung-shin</name>
+    <role>Park Yi-jeong</role>
+    <type>Actor</type>
+    <tmdbid>554330</tmdbid>
+    <imdbid>nm1800416</imdbid>
+  </actor>
+  <actor>
+    <name>Seo Young-ju</name>
+    <role>Kim Yang-hee</role>
+    <type>Actor</type>
+    <tmdbid>1895368</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Bu-seon</name>
+    <role>Woo So-young</role>
+    <type>Actor</type>
+    <tmdbid>570303</tmdbid>
+  </actor>
+  <actor>
+    <name>Ko Chang-seok</name>
+    <role>Woo So-young's Husband</role>
+    <type>Actor</type>
+    <tmdbid>150697</tmdbid>
+    <imdbid>nm2944077</imdbid>
+  </actor>
+  <actor>
+    <name>Ra Mi-ran</name>
+    <role>Oh Su-hee</role>
+    <type>Actor</type>
+    <tmdbid>980225</tmdbid>
+  </actor>
+  <actor>
+    <name>Ko Su-hee</name>
+    <role>Ma-nyeo</role>
+    <type>Actor</type>
+    <tmdbid>1190229</tmdbid>
+    <imdbid>nm1963874</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Jin-goo</name>
+    <role>Ko Sun-sook</role>
+    <type>Actor</type>
+    <tmdbid>1903879</tmdbid>
+  </actor>
+  <actor>
+    <name>Choi Hee-jin</name>
+    <role>Prisoner 3 / Children's Services Staff</role>
+    <type>Actor</type>
+    <tmdbid>567621</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Dae-yeon</name>
+    <role>Prison Head</role>
+    <type>Actor</type>
+    <tmdbid>39258</tmdbid>
+    <imdbid>nm1139514</imdbid>
+  </actor>
+  <actor>
+    <name>Lim Su-gyeong</name>
+    <role>Prison Officer</role>
+    <type>Actor</type>
+    <tmdbid>1117877</tmdbid>
+  </actor>
+  <actor>
+    <name>Kang Hye-jung</name>
+    <role>TV Announcer</role>
+    <type>Actor</type>
+    <tmdbid>1299317</tmdbid>
+    <imdbid>nm1367246</imdbid>
+  </actor>
+  <actor>
+    <name>Song Kang-ho</name>
+    <role>Assassin 1</role>
+    <type>Actor</type>
+    <tmdbid>20738</tmdbid>
+    <imdbid>nm0814280</imdbid>
+  </actor>
+  <actor>
+    <name>Shin Ha-kyun</name>
+    <role>Assassin 2</role>
+    <type>Actor</type>
+    <tmdbid>25004</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoo Ji-tae</name>
+    <role>Grown Won-mo</role>
+    <type>Actor</type>
+    <tmdbid>10112</tmdbid>
+    <imdbid>nm0949167</imdbid>
+  </actor>
+  <actor>
+    <name>Yoon Jin-seo</name>
+    <role>Prisoner</role>
+    <type>Actor</type>
+    <tmdbid>117504</tmdbid>
+    <imdbid>nm1517134</imdbid>
+  </actor>
+  <actor>
+    <name>Park Myung-shin</name>
+    <role>Dong-hwa's Mother</role>
+    <type>Actor</type>
+    <tmdbid>96663</tmdbid>
+    <imdbid>nm1241993</imdbid>
+  </actor>
+  <actor>
+    <name>Choi Jung-woo</name>
+    <role>Dong-hwa's Father</role>
+    <type>Actor</type>
+    <tmdbid>572227</tmdbid>
+    <imdbid>nm3853513</imdbid>
+  </actor>
+  <actor>
+    <name>Oh Gwang-rok</name>
+    <role>Se-hyun's Father</role>
+    <type>Actor</type>
+    <tmdbid>528339</tmdbid>
+    <imdbid>nm1059108</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Yong-nyeo</name>
+    <role>Jae-kyung's Mom</role>
+    <type>Actor</type>
+    <tmdbid>557743</tmdbid>
+    <imdbid>nm1079857</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Yoo-jung</name>
+    <role>Jae-kyung</role>
+    <type>Actor</type>
+    <tmdbid>140335</tmdbid>
+    <imdbid>nm2947737</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Byung-joon</name>
+    <role>Dong-hwa</role>
+    <type>Actor</type>
+    <tmdbid>2128900</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryoo Seung-wan</name>
+    <role>Passerby</role>
+    <type>Actor</type>
+    <tmdbid>86325</tmdbid>
+    <imdbid>nm0753423</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Barry</name>
+    <role>Jenny's Adoptive Father</role>
+    <type>Actor</type>
+    <tmdbid>76188</tmdbid>
+  </actor>
+  <actor>
+    <name>Anne Cordiner</name>
+    <role>Jenny's Adoptive Mother</role>
+    <type>Actor</type>
+    <tmdbid>187207</tmdbid>
+  </actor>
+  <director tmdbid="10099" imdbid="nm0661791">Park Chan-wook</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=mzXbV9a5GA4</trailer>
+  <rating>7.6</rating>
+  <year>2005</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0451094</imdbid>
+  <tmdbid>4550</tmdbid>
+  <premiered>2005-07-29</premiered>
+  <releasedate>2005-07-29</releasedate>
+  <criticrating>76</criticrating>
+  <runtime>115</runtime>
+  <country>South Korea</country>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <studio>TSJ Entertainment</studio>
+  <studio>Ilshin Capital Investments</studio>
+  <studio>Centurion Investment</studio>
+  <studio>Moho Film</studio>
+  <studio>CJ Entertainment</studio>
+  <set>
+    <name>复仇三部曲</name>
+  </set>
+  <uniqueid type="Tmdb">4550</uniqueid>
+  <uniqueid type="Imdb">tt0451094</uniqueid>
+  <id>tt0451094</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>15979003</bitrate>
+        <width>1918</width>
+        <height>816</height>
+        <aspect>959:408</aspect>
+        <aspectratio>959:408</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>115</duration>
+        <durationinseconds>6910</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

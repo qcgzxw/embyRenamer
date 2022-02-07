@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　阿星（周星驰 饰）由赌神处学成归来，恰逢不甘心失败的大军集合中南海五大高手复仇，虽有龙五（向华强 饰）相助，但阿星与三叔（吴孟达 饰）仍被大军等人发功送至1937年的上海……  阿星与三叔失散后意外击杀谋害许文强之凶手，得以结识丁力（吕良伟 饰），自此与祖父周大福（吴孟达 饰）留在丁力身边，丁力女友如仙（巩俐 饰）令阿星魂牵梦绕，却不知她是自己所中意女孩如梦（巩俐 饰）的孪生姐姐。川岛芳子意欲控制上海，于是网罗大军等人频频向丁力发难，并约定最后以赌局决定胜负，阿星由日本人手中涉险逃脱，终于赶上赌局，而决定这场赌局的关键，却是一个名叫“今晚打老虎”的神秘人物……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-05 04:07:57</dateadded>
+  <title>赌侠II之上海滩赌圣</title>
+  <originaltitle>賭俠 III 之上海灘賭聖</originaltitle>
+  <actor>
+    <name>Stephen Chow</name>
+    <role>Chow Sing Cho</role>
+    <type>Actor</type>
+    <tmdbid>57607</tmdbid>
+    <imdbid>nm0159507</imdbid>
+  </actor>
+  <actor>
+    <name>Ng Man-tat</name>
+    <role>Uncle Tat / Chow Tai Fook</role>
+    <type>Actor</type>
+    <tmdbid>70437</tmdbid>
+    <imdbid>nm0628806</imdbid>
+  </actor>
+  <actor>
+    <name>Gong Li</name>
+    <role>Yu San / Yu Mong</role>
+    <type>Actor</type>
+    <tmdbid>643</tmdbid>
+    <imdbid>nm0000084</imdbid>
+  </actor>
+  <actor>
+    <name>Ray Lui</name>
+    <role>Ding Lik</role>
+    <type>Actor</type>
+    <tmdbid>78877</tmdbid>
+    <imdbid>nm0514998</imdbid>
+  </actor>
+  <actor>
+    <name>Charles Heung</name>
+    <role>Brother Five / Lung Ng</role>
+    <type>Actor</type>
+    <tmdbid>105418</tmdbid>
+    <imdbid>nm0381857</imdbid>
+  </actor>
+  <actor>
+    <name>Sandra Ng Kwun-Yu</name>
+    <role>Spring</role>
+    <type>Actor</type>
+    <tmdbid>88495</tmdbid>
+    <imdbid>nm0510950</imdbid>
+  </actor>
+  <actor>
+    <name>Sharla Cheung</name>
+    <role>Yee Mong</role>
+    <type>Actor</type>
+    <tmdbid>67221</tmdbid>
+    <imdbid>nm0156522</imdbid>
+  </actor>
+  <actor>
+    <name>John Ching Tung</name>
+    <role>Tai-Kun</role>
+    <type>Actor</type>
+    <tmdbid>1134731</tmdbid>
+    <imdbid>nm3214848</imdbid>
+  </actor>
+  <actor>
+    <name>Tien Feng</name>
+    <role>Mayor of Shanghai</role>
+    <type>Actor</type>
+    <tmdbid>121394</tmdbid>
+    <imdbid>nm0284608</imdbid>
+  </actor>
+  <actor>
+    <name>Lung Fong</name>
+    <role>Wong Kam Kwai</role>
+    <type>Actor</type>
+    <tmdbid>224925</tmdbid>
+  </actor>
+  <actor>
+    <name>Yeung Ching-Ching</name>
+    <role>Ching</role>
+    <type>Actor</type>
+    <tmdbid>109304</tmdbid>
+    <imdbid>nm0875023</imdbid>
+  </actor>
+  <actor>
+    <name>Wong Wan-Si</name>
+    <role>Japanese VIP</role>
+    <type>Actor</type>
+    <tmdbid>592328</tmdbid>
+  </actor>
+  <actor>
+    <name>Billy Chow Bei-Lei</name>
+    <role>Japanese fighter</role>
+    <type>Actor</type>
+    <tmdbid>239961</tmdbid>
+    <imdbid>nm0159435</imdbid>
+  </actor>
+  <actor>
+    <name>Barry Wong</name>
+    <role>Commissioner Wong</role>
+    <type>Actor</type>
+    <tmdbid>62412</tmdbid>
+    <imdbid>nm0938944</imdbid>
+  </actor>
+  <director tmdbid="548474" imdbid="nm0939147">Wong Jing</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zLDRAaCzwl4</trailer>
+  <rating>6.6</rating>
+  <year>1991</year>
+  <imdbid>tt0101783</imdbid>
+  <tmdbid>53658</tmdbid>
+  <premiered>1991-08-21</premiered>
+  <releasedate>1991-08-21</releasedate>
+  <criticrating>71</criticrating>
+  <runtime>117</runtime>
+  <country>Hong Kong</country>
+  <genre>动作</genre>
+  <genre>喜剧</genre>
+  <genre>惊悚</genre>
+  <studio>Samico Films Production Co., Ltd.</studio>
+  <studio>Win's Movie Productions Ltd.</studio>
+  <set tmdbcolid="170416">
+    <name>赌神（系列）</name>
+  </set>
+  <uniqueid type="TmdbCollection">170416</uniqueid>
+  <tmdbcollectionid>170416</tmdbcollectionid>
+  <uniqueid type="Imdb">tt0101783</uniqueid>
+  <uniqueid type="Tmdb">53658</uniqueid>
+  <id>tt0101783</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6610985</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>6994</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>320000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

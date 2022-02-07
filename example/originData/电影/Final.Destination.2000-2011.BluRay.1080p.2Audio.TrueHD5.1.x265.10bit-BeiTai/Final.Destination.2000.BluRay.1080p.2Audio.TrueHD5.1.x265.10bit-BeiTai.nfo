@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[高中学生艾利克斯-伯朗宁正与法语课的同学们登上一架飞往巴黎的飞机。所有的乘客都已登机并扣好安全带，飞机即将起飞。突然，艾利克斯有了一种强烈的不祥预感，他仿佛看见这架飞机起飞不久便在空中爆炸，变成一团火球。惊恐万状的艾利克斯大吵大闹，让所有人都离开飞机，由此引发了机舱内的一场混战。最后，包括艾利克斯在内的7名乘客被赶出了机舱。　　回到机场后的艾利克斯被其他6名乘客团团围住，其中包括他的朋友比利和托德，一个名叫克莱尔的年轻女郎，曾与艾利克斯扭打在一起的卡特和他的女朋友泰莉，以及自愿留下来照顾艾利克斯等学生的女教师卢顿。正当人们为无法成行的巴黎之旅而恼怒不已的时候，艾利克斯的可怕预感却被悲剧性地证实了。那架飞机在半空中猛烈爆炸，机上无人幸免一死。震惊之余，幸存者们都非常想知道艾利克斯是如何预见到这场惨剧的。有人对他的特异功能很感兴趣，可是大多数的人却很害怕。 FBI探员们也来盘问艾利克斯，而艾利克斯却感到万分愧疚和大惑不解，他很想忘掉这场悲剧，回到正常的生活中去。　　可是艾利克斯看见的却是不断到来的死亡--幸存者们开始一个接一个地死去，死因非常奇怪。艾利克斯终于明白，死神是不可能被骗过的，他和朋友们必须团结在一起才有可能改变自己的命运。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-12 18:32:38</dateadded>
+  <title>死神来了</title>
+  <originaltitle>Final Destination</originaltitle>
+  <actor>
+    <name>Devon Sawa</name>
+    <role>Alex Browning</role>
+    <type>Actor</type>
+    <tmdbid>50398</tmdbid>
+  </actor>
+  <actor>
+    <name>Ali Larter</name>
+    <role>Clear Rivers</role>
+    <type>Actor</type>
+    <tmdbid>17303</tmdbid>
+  </actor>
+  <actor>
+    <name>Kerr Smith</name>
+    <role>Carter Horton</role>
+    <type>Actor</type>
+    <tmdbid>43442</tmdbid>
+  </actor>
+  <actor>
+    <name>Kristen Cloke</name>
+    <role>Valerie Lewton</role>
+    <type>Actor</type>
+    <tmdbid>58392</tmdbid>
+    <imdbid>nm0167028</imdbid>
+  </actor>
+  <actor>
+    <name>Seann William Scott</name>
+    <role>Billy Hitchcock</role>
+    <type>Actor</type>
+    <tmdbid>57599</tmdbid>
+  </actor>
+  <actor>
+    <name>Chad Donella</name>
+    <role>Tod Waggner</role>
+    <type>Actor</type>
+    <tmdbid>86397</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Detmer</name>
+    <role>Terry Chaney</role>
+    <type>Actor</type>
+    <tmdbid>19275</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Todd</name>
+    <role>William Bludworth</role>
+    <type>Actor</type>
+    <tmdbid>19384</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Roebuck</name>
+    <role>Agent Weine</role>
+    <type>Actor</type>
+    <tmdbid>43774</tmdbid>
+  </actor>
+  <actor>
+    <name>Roger Guenveur Smith</name>
+    <role>Agent Schreck</role>
+    <type>Actor</type>
+    <tmdbid>40377</tmdbid>
+  </actor>
+  <actor>
+    <name>Brendan Fehr</name>
+    <role>George Waggner</role>
+    <type>Actor</type>
+    <tmdbid>72440</tmdbid>
+  </actor>
+  <actor>
+    <name>Forbes Angus</name>
+    <role>Larry Murnau</role>
+    <type>Actor</type>
+    <tmdbid>118007</tmdbid>
+  </actor>
+  <actor>
+    <name>Lisa Marie Caruk</name>
+    <role>Christa Marsh</role>
+    <type>Actor</type>
+    <tmdbid>81802</tmdbid>
+  </actor>
+  <actor>
+    <name>Christine Chatelain</name>
+    <role>Blake Dreyer</role>
+    <type>Actor</type>
+    <tmdbid>153818</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Wisden</name>
+    <role>Ken Browning</role>
+    <type>Actor</type>
+    <tmdbid>37432</tmdbid>
+  </actor>
+  <actor>
+    <name>Barbara Tyson</name>
+    <role>Barbara Browning</role>
+    <type>Actor</type>
+    <tmdbid>64897</tmdbid>
+  </actor>
+  <actor>
+    <name>Fred Keating</name>
+    <role>Howard Seigel</role>
+    <type>Actor</type>
+    <tmdbid>963962</tmdbid>
+  </actor>
+  <actor>
+    <name>P. Lynn Johnson</name>
+    <role>Mrs. Waggner</role>
+    <type>Actor</type>
+    <tmdbid>59241</tmdbid>
+  </actor>
+  <actor>
+    <name>Larry Gilman</name>
+    <role>Mr. Waggner</role>
+    <type>Actor</type>
+    <tmdbid>12980</tmdbid>
+  </actor>
+  <actor>
+    <name>Guy Fauchon</name>
+    <role>Hare Krishna</role>
+    <type>Actor</type>
+    <tmdbid>1366417</tmdbid>
+  </actor>
+  <actor>
+    <name>Randy Stone</name>
+    <role>Flight Attendant</role>
+    <type>Actor</type>
+    <tmdbid>21069</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Holden</name>
+    <role>Co-Pilot</role>
+    <type>Actor</type>
+    <tmdbid>1233161</tmdbid>
+  </actor>
+  <actor>
+    <name>Marrett Green</name>
+    <role>TV News Anchor</role>
+    <type>Actor</type>
+    <tmdbid>1576976</tmdbid>
+  </actor>
+  <actor>
+    <name>John Hainsworth</name>
+    <role>Minister</role>
+    <type>Actor</type>
+    <tmdbid>189684</tmdbid>
+  </actor>
+  <actor>
+    <name>Pete Atherton</name>
+    <role>Student Singer</role>
+    <type>Actor</type>
+    <tmdbid>1895803</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicole Robert</name>
+    <role>Ticket Clerk</role>
+    <type>Actor</type>
+    <tmdbid>1235586</tmdbid>
+  </actor>
+  <actor>
+    <name>Kristina Matisic</name>
+    <role>Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1247384</tmdbid>
+  </actor>
+  <actor>
+    <name>Troy Yorke</name>
+    <role>Lou Gehrig's Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>134707</tmdbid>
+  </actor>
+  <actor>
+    <name>Alessandro Juliani</name>
+    <role>Guitar Player in Final Paris Scene (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>59312</tmdbid>
+  </actor>
+  <director tmdbid="57134">James Wong</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pna8QJDfJUE</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=lP4Psj7d1ZI</trailer>
+  <rating>6.7</rating>
+  <year>2000</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0195714</imdbid>
+  <tmdbid>9532</tmdbid>
+  <premiered>2000-03-17</premiered>
+  <releasedate>2000-03-17</releasedate>
+  <criticrating>35</criticrating>
+  <runtime>98</runtime>
+  <country>United States of America</country>
+  <genre>恐怖</genre>
+  <studio>Hard Eight Pictures</studio>
+  <studio>New Line Cinema</studio>
+  <studio>Zide-Perry Productions</studio>
+  <set tmdbcolid="8864">
+    <name>死神来了（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">9532</uniqueid>
+  <uniqueid type="Imdb">tt0195714</uniqueid>
+  <id>tt0195714</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>10889767</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5882</durationinseconds>
+      </video>
+      <audio>
+        <codec>truehd</codec>
+        <micodec>truehd</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

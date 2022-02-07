@@ -1,0 +1,452 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Jimmy's promotional stunt has unintended consequences. Nacho takes extreme measures to earn Lalo's trust. Saul is a success at the courthouse, but still has yet to win Kim over. Simmering with rage and self-loathing, Mike loses his temper.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-07-25 21:28:47</dateadded>
+  <title>打五折</title>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Jimmy McGill</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Rhea Seehorn</name>
+    <role>Kim Wexler</role>
+    <type>Actor</type>
+    <tmdbid>62765</tmdbid>
+    <imdbid>nm0781533</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Fabian</name>
+    <role>Howard Hamlin</role>
+    <type>Actor</type>
+    <tmdbid>58791</tmdbid>
+    <imdbid>nm0264579</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Mando</name>
+    <role>Nacho Varga</role>
+    <type>Actor</type>
+    <tmdbid>829372</tmdbid>
+    <imdbid>nm3103126</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Dalton</name>
+    <role>Lalo Salamanca</role>
+    <type>Actor</type>
+    <tmdbid>76855</tmdbid>
+    <imdbid>nm0198366</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Pearl</name>
+    <role>ADA Suzanne Ericsen</role>
+    <type>GuestStar</type>
+    <tmdbid>588278</tmdbid>
+    <imdbid>nm0669071</imdbid>
+  </actor>
+  <actor>
+    <name>Spenser Granese</name>
+    <role>Arlo</role>
+    <type>GuestStar</type>
+    <tmdbid>1270890</tmdbid>
+  </actor>
+  <actor>
+    <name>Adrienne Lovette</name>
+    <role>Mouse</role>
+    <type>GuestStar</type>
+    <tmdbid>2435281</tmdbid>
+  </actor>
+  <actor>
+    <name>Efrain Villa</name>
+    <role>Carlos</role>
+    <type>GuestStar</type>
+    <tmdbid>2375263</tmdbid>
+  </actor>
+  <actor>
+    <name>Marsuvio Sanchez</name>
+    <role>Javier</role>
+    <type>GuestStar</type>
+    <tmdbid>2571770</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordyn Aurora Aquino</name>
+    <role>Hannah</role>
+    <type>GuestStar</type>
+    <tmdbid>1658320</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenneth McGlothin</name>
+    <role>Mitch</role>
+    <type>GuestStar</type>
+    <tmdbid>2246765</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren Poole</name>
+    <role>Veronica</role>
+    <type>GuestStar</type>
+    <tmdbid>1975870</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Rosenberg</name>
+    <role>Ben</role>
+    <type>GuestStar</type>
+    <tmdbid>1381649</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean J. Dillingham</name>
+    <role>Elevator Repairman</role>
+    <type>GuestStar</type>
+    <tmdbid>105260</tmdbid>
+  </actor>
+  <actor>
+    <name>Audrey Walters</name>
+    <role>Realtor</role>
+    <type>GuestStar</type>
+    <tmdbid>1391885</tmdbid>
+  </actor>
+  <actor>
+    <name>Santiago Craig</name>
+    <role>First Cop</role>
+    <type>GuestStar</type>
+    <tmdbid>91685</tmdbid>
+  </actor>
+  <actor>
+    <name>Henry Noble</name>
+    <role>Second Cop</role>
+    <type>GuestStar</type>
+    <tmdbid>2093608</tmdbid>
+  </actor>
+  <actor>
+    <name>Sharon Henderson</name>
+    <role>Grocery Mom</role>
+    <type>GuestStar</type>
+    <tmdbid>2571771</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Gozur</name>
+    <role>Casa Tranquila Attendant</role>
+    <type>GuestStar</type>
+    <tmdbid>2375246</tmdbid>
+  </actor>
+  <actor>
+    <name>Max Arciniega</name>
+    <role>Domingo Molina</role>
+    <type>GuestStar</type>
+    <tmdbid>1046460</tmdbid>
+  </actor>
+  <actor>
+    <name>Keilyn Durrel Jones</name>
+    <role>Blingy</role>
+    <type>GuestStar</type>
+    <tmdbid>1990676</tmdbid>
+  </actor>
+  <actor>
+    <name>Sasha Feldman</name>
+    <role>Sticky</role>
+    <type>GuestStar</type>
+    <tmdbid>1627780</tmdbid>
+    <imdbid>nm3680453</imdbid>
+  </actor>
+  <actor>
+    <name>Morgan Krantz</name>
+    <role>Ron</role>
+    <type>GuestStar</type>
+    <tmdbid>1090375</tmdbid>
+    <imdbid>nm1692270</imdbid>
+  </actor>
+  <actor>
+    <name>Kerry Condon</name>
+    <role>Stacey Ehrmantraut</role>
+    <type>GuestStar</type>
+    <tmdbid>62105</tmdbid>
+    <imdbid>nm0174403</imdbid>
+  </actor>
+  <actor>
+    <name>Juliet Donenfeld</name>
+    <role>Kaylee</role>
+    <type>GuestStar</type>
+    <tmdbid>1914669</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Margolis</name>
+    <role>Hector Salamanca</role>
+    <type>GuestStar</type>
+    <tmdbid>1173</tmdbid>
+    <imdbid>nm0546797</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremiah Bitsui</name>
+    <role>Victor</role>
+    <type>GuestStar</type>
+    <tmdbid>582668</tmdbid>
+    <imdbid>nm0084497</imdbid>
+  </actor>
+  <actor>
+    <name>Ray Campbell</name>
+    <role>Tyrus Kitt</role>
+    <type>GuestStar</type>
+    <tmdbid>159334</tmdbid>
+    <imdbid>nm1530474</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Diseth</name>
+    <role>DDA Bill Oakley</role>
+    <type>GuestStar</type>
+    <tmdbid>2097834</tmdbid>
+  </actor>
+  <actor>
+    <name>Katerina Tannenbaum</name>
+    <role>Amber</role>
+    <type>GuestStar</type>
+    <tmdbid>2081556</tmdbid>
+    <imdbid>nm7059007</imdbid>
+  </actor>
+  <actor>
+    <name>Poppy Liu</name>
+    <role>Jo</role>
+    <type>GuestStar</type>
+    <tmdbid>2392602</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Carlos Cantu</name>
+    <role>Manuel Varga</role>
+    <type>GuestStar</type>
+    <tmdbid>168147</tmdbid>
+    <imdbid>nm1091922</imdbid>
+  </actor>
+  <director>Norberto Barba</director>
+  <rating>7.933</rating>
+  <year>2020</year>
+  <imdbid>tt8772148</imdbid>
+  <tvdbid>7458772</tvdbid>
+  <runtime>46</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt8772148</uniqueid>
+  <uniqueid type="Tvdb">7458772</uniqueid>
+  <episode>2</episode>
+  <season>5</season>
+  <aired>2020-02-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>22701207</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>45</duration>
+        <durationinseconds>2741</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ice</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

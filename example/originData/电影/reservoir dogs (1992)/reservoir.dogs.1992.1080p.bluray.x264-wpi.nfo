@@ -1,0 +1,237 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[故事发生在南加州某地，黑帮老大乔·卡伯特和他的儿子“好家伙”艾迪召集了六名强盗，准备到珠宝店抢劫一批天然钻石。这六个人彼此各不相识，甚至连对方的姓名都无从得知。乔为了保持机密，以颜色作为代号分别给六人起名为白先生、橙先生、金先生、粉先生、棕先生和蓝先生，并规定他们之间不能透露任何私事。 抢劫时，六个人中了警察的埋伏，蓝先生和棕先生当场死亡。白先生带着受伤的橙先生回到预定的聚集地——一个仓库里。一路上，白先生对橙先生十分关爱，甚至告诉了他自己的名字。一会儿，粉先生也来到这里，他把到手的钻石已妥善存好，只等乔来时，大家平分。白先生和粉先生回想案发时的情景，得出结论，六人中必定有卧底的警察。在抢劫时举止疯狂的金先生活捉了一个警察回来。从警察口中，他们也没得到那个卧底的情报。不久，“好家伙”艾迪也来了，他同白先生和粉先生一起去取钻石。而金先生则开始虐待那个警察。在准备烧死警察的时候，金先生突然被躺在地上的橙先生开枪打死。原来橙先生就是卧底的警探。众人回到仓库，乔和“好家伙”艾迪认清橙先生是卧底，而白先生依然极力维护橙先生。最后，由于争执不下，一场血腥的枪战发生了......]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-06-17 14:11:52</dateadded>
+  <title>落水狗</title>
+  <originaltitle>Reservoir Dogs</originaltitle>
+  <actor>
+    <name>Harvey Keitel</name>
+    <role>Mr. White / Larry Dimmick</role>
+    <type>Actor</type>
+    <tmdbid>1037</tmdbid>
+    <imdbid>nm0000172</imdbid>
+  </actor>
+  <actor>
+    <name>Tim Roth</name>
+    <role>Mr. Orange / Freddy Newandyke</role>
+    <type>Actor</type>
+    <tmdbid>3129</tmdbid>
+    <imdbid>nm0000619</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Madsen</name>
+    <role>Mr. Blonde / Vic Vega</role>
+    <type>Actor</type>
+    <tmdbid>147</tmdbid>
+    <imdbid>nm0000514</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Penn</name>
+    <role>"Nice Guy" Eddie Cabot</role>
+    <type>Actor</type>
+    <tmdbid>2969</tmdbid>
+    <imdbid>nm0001606</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Buscemi</name>
+    <role>Mr. Pink</role>
+    <type>Actor</type>
+    <tmdbid>884</tmdbid>
+    <imdbid>nm0000114</imdbid>
+  </actor>
+  <actor>
+    <name>Lawrence Tierney</name>
+    <role>Joe Cabot</role>
+    <type>Actor</type>
+    <tmdbid>6937</tmdbid>
+    <imdbid>nm0862937</imdbid>
+  </actor>
+  <actor>
+    <name>Randy Brooks</name>
+    <role>Detective Holdaway</role>
+    <type>Actor</type>
+    <tmdbid>6938</tmdbid>
+    <imdbid>nm0112207</imdbid>
+  </actor>
+  <actor>
+    <name>Kirk Baltz</name>
+    <role>Officer Marvin Nash</role>
+    <type>Actor</type>
+    <tmdbid>3206</tmdbid>
+    <imdbid>nm0051257</imdbid>
+  </actor>
+  <actor>
+    <name>Edward Bunker</name>
+    <role>Mr. Blue</role>
+    <type>Actor</type>
+    <tmdbid>6939</tmdbid>
+    <imdbid>nm0120483</imdbid>
+  </actor>
+  <actor>
+    <name>Quentin Tarantino</name>
+    <role>Mr. Brown</role>
+    <type>Actor</type>
+    <tmdbid>138</tmdbid>
+    <imdbid>nm0000233</imdbid>
+  </actor>
+  <actor>
+    <name>Rich Turner</name>
+    <role>Sheriff #1</role>
+    <type>Actor</type>
+    <tmdbid>46346</tmdbid>
+    <imdbid>nm0877822</imdbid>
+  </actor>
+  <actor>
+    <name>David Steen</name>
+    <role>Sheriff #2</role>
+    <type>Actor</type>
+    <tmdbid>1067187</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Cosmo</name>
+    <role>Sheriff #3</role>
+    <type>Actor</type>
+    <tmdbid>1287673</tmdbid>
+    <imdbid>nm0181922</imdbid>
+  </actor>
+  <actor>
+    <name>Stevo Polyi</name>
+    <role>Sheriff #4</role>
+    <type>Actor</type>
+    <tmdbid>65908</tmdbid>
+    <imdbid>nm0689957</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Sottile</name>
+    <role>Teddy</role>
+    <type>Actor</type>
+    <tmdbid>271738</tmdbid>
+    <imdbid>nm0815649</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Ruth</name>
+    <role>Shot Cop</role>
+    <type>Actor</type>
+    <tmdbid>1173999</tmdbid>
+    <imdbid>nm0751936</imdbid>
+  </actor>
+  <actor>
+    <name>Lawrence Bender</name>
+    <role>Young Cop</role>
+    <type>Actor</type>
+    <tmdbid>2545</tmdbid>
+    <imdbid>nm0004744</imdbid>
+  </actor>
+  <actor>
+    <name>Linda Kaye</name>
+    <role>Shocked Woman</role>
+    <type>Actor</type>
+    <tmdbid>65907</tmdbid>
+    <imdbid>nm0443344</imdbid>
+  </actor>
+  <actor>
+    <name>Suzanne Celeste</name>
+    <role>Shot Woman</role>
+    <type>Actor</type>
+    <tmdbid>1878558</tmdbid>
+  </actor>
+  <actor>
+    <name>Steven Wright</name>
+    <role>K-Billy DJ (voice)</role>
+    <type>Actor</type>
+    <tmdbid>3214</tmdbid>
+    <imdbid>nm0942833</imdbid>
+  </actor>
+  <actor>
+    <name>Laurie Lathem</name>
+    <role>Background Radio Play (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1772250</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Strova</name>
+    <role>Background Radio Play (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2027645</tmdbid>
+  </actor>
+  <actor>
+    <name>Burr Steers</name>
+    <role>Background Radio Play (voice)</role>
+    <type>Actor</type>
+    <tmdbid>58552</tmdbid>
+    <imdbid>nm0824882</imdbid>
+  </actor>
+  <actor>
+    <name>Craig Hamann</name>
+    <role>Background Radio Play (voice)</role>
+    <type>Actor</type>
+    <tmdbid>65903</tmdbid>
+    <imdbid>nm0357326</imdbid>
+  </actor>
+  <actor>
+    <name>Rowland Wafford</name>
+    <role>Diner Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>65911</tmdbid>
+    <imdbid>nm0905658</imdbid>
+  </actor>
+  <director tmdbid="138" imdbid="nm0000233">Quentin Tarantino</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GLPJSmUHZvU</trailer>
+  <rating>8.3</rating>
+  <year>1992</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0105236</imdbid>
+  <tmdbid>500</tmdbid>
+  <premiered>1992-09-02</premiered>
+  <releasedate>1992-09-02</releasedate>
+  <criticrating>92</criticrating>
+  <runtime>99</runtime>
+  <country>United States of America</country>
+  <genre>犯罪</genre>
+  <genre>惊悚</genre>
+  <studio>Live Entertainment</studio>
+  <studio>Dog Eat Dog Productions</studio>
+  <uniqueid type="Tmdb">500</uniqueid>
+  <uniqueid type="Imdb">tt0105236</uniqueid>
+  <id>tt0105236</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11479416</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5947</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>7</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

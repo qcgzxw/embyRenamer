@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[一番思考后 Jimmy（吉米）把集体诉讼案转交给了 HHM 律师所，尽管心有不甘。Jimmy（吉米）找到旧友酒吧老板叙旧，玩起了“买卖”游戏，两个人精妙的配合用 50 美分骗得了顾客 100 美元。当 Jimmy（吉米）听到委托人的留言，他决定回归正轨，在朋友的央求下他们进行了最后一次行骗把戏，然而在这过程中朋友却去世。Jimmy（吉米）从金口中得知 Hamlin（哈姆林）和 Davis &amp; Main（戴维&amp;斯梅因）律师所合作，并且想让他出任合伙人，但最后在去面试的路上他改变了注意。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-08-01 22:56:35</dateadded>
+  <title>马可</title>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Jimmy McGill</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Rhea Seehorn</name>
+    <role>Kim Wexler</role>
+    <type>Actor</type>
+    <tmdbid>62765</tmdbid>
+    <imdbid>nm0781533</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Fabian</name>
+    <role>Howard Hamlin</role>
+    <type>Actor</type>
+    <tmdbid>58791</tmdbid>
+    <imdbid>nm0264579</imdbid>
+  </actor>
+  <actor>
+    <name>Michael McKean</name>
+    <role>Chuck McGill</role>
+    <type>Actor</type>
+    <tmdbid>21731</tmdbid>
+  </actor>
+  <actor>
+    <name>Brandon K. Hampton</name>
+    <role>Ernesto</role>
+    <type>GuestStar</type>
+    <tmdbid>1574846</tmdbid>
+    <imdbid>nm3346272</imdbid>
+  </actor>
+  <actor>
+    <name>Stafford Douglas</name>
+    <role>Pierce</role>
+    <type>GuestStar</type>
+    <tmdbid>1371849</tmdbid>
+  </actor>
+  <director>Peter Gould</director>
+  <rating>7.837</rating>
+  <year>2015</year>
+  <imdbid>tt3895288</imdbid>
+  <tvdbid>5126778</tvdbid>
+  <runtime>47</runtime>
+  <uniqueid type="Tvdb">5126778</uniqueid>
+  <uniqueid type="Imdb">tt3895288</uniqueid>
+  <episode>10</episode>
+  <season>1</season>
+  <aired>2015-04-06</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>13218568</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2842</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

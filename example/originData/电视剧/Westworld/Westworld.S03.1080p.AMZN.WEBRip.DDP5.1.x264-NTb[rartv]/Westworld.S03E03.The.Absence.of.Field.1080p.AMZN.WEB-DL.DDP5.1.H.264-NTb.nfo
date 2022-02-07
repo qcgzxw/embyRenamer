@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[夏洛特（Charlotte）正在努力应对混乱的现实； 德洛莉丝（Dolores）和凯勒（Caleb）正式结成伙伴，共同对抗塞拉克（Serac）...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-05-21 07:59:31</dateadded>
+  <title>田野之缺</title>
+  <actor>
+    <name>Derek Smith</name>
+    <type>GuestStar</type>
+    <tmdbid>1316479</tmdbid>
+    <imdbid>nm2852678</imdbid>
+  </actor>
+  <actor>
+    <name>Jaxon Thomas Williams</name>
+    <type>GuestStar</type>
+    <tmdbid>2585605</tmdbid>
+  </actor>
+  <actor>
+    <name>Katy M. O'Brian</name>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Kid Cudi</name>
+    <type>GuestStar</type>
+    <tmdbid>484359</tmdbid>
+    <imdbid>nm3264596</imdbid>
+  </actor>
+  <actor>
+    <name>Lawrence Adimora</name>
+    <type>GuestStar</type>
+    <tmdbid>1367896</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Ealy</name>
+    <type>GuestStar</type>
+    <tmdbid>8177</tmdbid>
+    <imdbid>nm1013003</imdbid>
+  </actor>
+  <actor>
+    <name>Nadine Lewington</name>
+    <type>GuestStar</type>
+    <tmdbid>1645297</tmdbid>
+    <imdbid>nm2174107</imdbid>
+  </actor>
+  <actor>
+    <name>Payman Maadi</name>
+    <type>GuestStar</type>
+    <tmdbid>559566</tmdbid>
+  </actor>
+  <actor>
+    <name>Pom Klementieff</name>
+    <type>GuestStar</type>
+    <tmdbid>139820</tmdbid>
+    <imdbid>nm2962353</imdbid>
+  </actor>
+  <actor>
+    <name>Russell Wong</name>
+    <type>GuestStar</type>
+    <tmdbid>21354</tmdbid>
+    <imdbid>nm0005568</imdbid>
+  </actor>
+  <actor>
+    <name>Sol Landerman</name>
+    <type>GuestStar</type>
+    <tmdbid>2585607</tmdbid>
+  </actor>
+  <actor>
+    <name>Tommy Flanagan</name>
+    <type>GuestStar</type>
+    <tmdbid>2478</tmdbid>
+    <imdbid>nm0281107</imdbid>
+  </actor>
+  <director>Amanda Marsalis</director>
+  <rating>8.2</rating>
+  <year>2020</year>
+  <imdbid>tt10011150</imdbid>
+  <tvdbid>7578995</tvdbid>
+  <runtime>60</runtime>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt10011150</uniqueid>
+  <uniqueid type="Tvdb">7578995</uniqueid>
+  <episode>3</episode>
+  <season>3</season>
+  <aired>2020-03-29</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9690509</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>59</duration>
+        <durationinseconds>3573</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

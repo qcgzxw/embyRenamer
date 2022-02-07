@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[一个煤气泄漏事件威胁到了卡利与政府间的交易，荷西需要给予帮助。潘纳想努力撇清他之前和洛皮斯的关系。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-11-15 11:58:08</dateadded>
+  <title>卡利克格勃</title>
+  <actor>
+    <name>Pedro Pascal</name>
+    <role>Javier Peña</role>
+    <type>Actor</type>
+    <tmdbid>1253360</tmdbid>
+  </actor>
+  <actor>
+    <name>Matias Varela</name>
+    <role>Jorge Salcedo</role>
+    <type>Actor</type>
+    <tmdbid>125739</tmdbid>
+  </actor>
+  <actor>
+    <name>Damián Alcázar</name>
+    <role>Gilberto Rodríguez Orejuela</role>
+    <type>Actor</type>
+    <tmdbid>7370</tmdbid>
+  </actor>
+  <actor>
+    <name>Francisco Denis</name>
+    <role>Miguel Rodríguez Orejuela</role>
+    <type>Actor</type>
+    <tmdbid>1004053</tmdbid>
+  </actor>
+  <actor>
+    <name>Alberto Ammann</name>
+    <role>Pacho Herrera</role>
+    <type>Actor</type>
+    <tmdbid>110424</tmdbid>
+  </actor>
+  <actor>
+    <name>Pêpê Rapazote</name>
+    <role>Chepe Santacruz Londoño</role>
+    <type>Actor</type>
+    <tmdbid>1150468</tmdbid>
+  </actor>
+  <actor>
+    <name>Arturo Castro</name>
+    <role>David Rodriguez</role>
+    <type>Actor</type>
+    <tmdbid>1457999</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Stahl-David</name>
+    <role>Chris Feistl</role>
+    <type>Actor</type>
+    <tmdbid>51991</tmdbid>
+    <imdbid>nm1221863</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Whelan</name>
+    <role>Daniel Van Ness</role>
+    <type>Actor</type>
+    <tmdbid>1046893</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Londo</name>
+    <role>Maria Salazar</role>
+    <type>Actor</type>
+    <tmdbid>1618597</tmdbid>
+  </actor>
+  <actor>
+    <name>Javier Cámara</name>
+    <role>Guillermo Pallomari</role>
+    <type>GuestStar</type>
+    <tmdbid>1610</tmdbid>
+  </actor>
+  <director tmdbid="444720" imdbid="nm1223381">Andrés Baiz</director>
+  <rating>8.056</rating>
+  <year>2017</year>
+  <imdbid>tt6038958</imdbid>
+  <tvdbid>6195644</tvdbid>
+  <runtime>49</runtime>
+  <uniqueid type="Tvdb">6195644</uniqueid>
+  <uniqueid type="Imdb">tt6038958</uniqueid>
+  <episode>2</episode>
+  <season>3</season>
+  <aired>2017-09-01</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3066285</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>49</duration>
+        <durationinseconds>2951</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

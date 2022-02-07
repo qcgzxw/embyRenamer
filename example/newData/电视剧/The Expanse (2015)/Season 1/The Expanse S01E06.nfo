@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[内奥米最终被说服，霍尔登进入第谷空间站。霍尔登在同伴的协助下控制了空间站，他和约翰逊达成合作，答应帮助约翰逊寻找斯科普里号的幸存者波兰斯基。米勒被Opa组织绑架，他不肯屈从遂被对方处死，幸好关键时刻好友塔维赶到救了他。约翰逊正在建设最大的宇宙飞船，副国务卿认为他和Opa组织有关。米勒找到朱莉失踪的真正原因，上司却被收买夺走证据，而米勒则被警局开除。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-07 19:42:34</dateadded>
+  <title>最低点</title>
+  <actor>
+    <name>Steven Strait</name>
+    <role>Jim Holden</role>
+    <type>Actor</type>
+    <tmdbid>54815</tmdbid>
+    <imdbid>nm1711829</imdbid>
+  </actor>
+  <actor>
+    <name>Cas Anvar</name>
+    <role>Alex Kamal</role>
+    <type>Actor</type>
+    <tmdbid>59214</tmdbid>
+    <imdbid>nm0031679</imdbid>
+  </actor>
+  <actor>
+    <name>Dominique Tipper</name>
+    <role>Naomi Nagata</role>
+    <type>Actor</type>
+    <tmdbid>1361876</tmdbid>
+    <imdbid>nm4625680</imdbid>
+  </actor>
+  <actor>
+    <name>Wes Chatham</name>
+    <role>Amos Burton</role>
+    <type>Actor</type>
+    <tmdbid>51682</tmdbid>
+    <imdbid>nm1434871</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Jane</name>
+    <role>Detective Josephus Miller</role>
+    <type>Actor</type>
+    <tmdbid>11155</tmdbid>
+    <imdbid>nm0005048</imdbid>
+  </actor>
+  <actor>
+    <name>Shohreh Aghdashloo</name>
+    <role>Chrisjen Avasarala</role>
+    <type>Actor</type>
+    <tmdbid>21041</tmdbid>
+    <imdbid>nm0013037</imdbid>
+  </actor>
+  <actor>
+    <name>Florence Faivre</name>
+    <role>Julie Mao</role>
+    <type>Actor</type>
+    <tmdbid>88794</tmdbid>
+    <imdbid>nm1552467</imdbid>
+  </actor>
+  <actor>
+    <name>Lola Glaudini</name>
+    <role>Captain Shaddid</role>
+    <type>GuestStar</type>
+    <tmdbid>34845</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Bryk</name>
+    <role>Lopez</role>
+    <type>GuestStar</type>
+    <tmdbid>231</tmdbid>
+  </actor>
+  <actor>
+    <name>Yatharth Bhatt</name>
+    <role>Avasarala's Grandson #1</role>
+    <type>GuestStar</type>
+    <tmdbid>1849335</tmdbid>
+  </actor>
+  <actor>
+    <name>Tig Fong</name>
+    <role>Thug #2 Kaipo</role>
+    <type>GuestStar</type>
+    <tmdbid>190917</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Karzis</name>
+    <role>Mateo</role>
+    <type>GuestStar</type>
+    <tmdbid>175206</tmdbid>
+  </actor>
+  <actor>
+    <name>Caleb Olivieri</name>
+    <role>Hustler</role>
+    <type>GuestStar</type>
+    <tmdbid>2095701</tmdbid>
+  </actor>
+  <actor>
+    <name>Phillip Samuel</name>
+    <role>Bug Eyes</role>
+    <type>GuestStar</type>
+    <tmdbid>2431478</tmdbid>
+  </actor>
+  <actor>
+    <name>Felicia Simone</name>
+    <role>Thug girl Lida</role>
+    <type>GuestStar</type>
+    <tmdbid>1752195</tmdbid>
+  </actor>
+  <actor>
+    <name>Rossif Sutherland</name>
+    <role>Neville Bosch</role>
+    <type>GuestStar</type>
+    <tmdbid>58014</tmdbid>
+  </actor>
+  <actor>
+    <name>Athena Karkanis</name>
+    <role>Octavia Muss</role>
+    <type>GuestStar</type>
+    <tmdbid>51037</tmdbid>
+    <imdbid>nm1920701</imdbid>
+  </actor>
+  <actor>
+    <name>Drew Carrymore</name>
+    <role>Background</role>
+    <type>GuestStar</type>
+    <tmdbid>2431477</tmdbid>
+  </actor>
+  <actor>
+    <name>Elias Toufexis</name>
+    <role>Kenzo</role>
+    <type>GuestStar</type>
+    <tmdbid>58907</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Kash</name>
+    <role>Antony Dresden</role>
+    <type>GuestStar</type>
+    <tmdbid>10210</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Weinberg</name>
+    <role>Crew Cut</role>
+    <type>GuestStar</type>
+    <tmdbid>1039383</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Vidal</name>
+    <role>Fred's Asst. / Space Tech</role>
+    <type>GuestStar</type>
+    <tmdbid>1846332</tmdbid>
+  </actor>
+  <actor>
+    <name>Bruno Verdoni</name>
+    <role>Carlos Davila</role>
+    <type>GuestStar</type>
+    <tmdbid>43930</tmdbid>
+  </actor>
+  <actor>
+    <name>Jared Harris</name>
+    <role>Anderson Dawes</role>
+    <type>GuestStar</type>
+    <tmdbid>15440</tmdbid>
+    <imdbid>nm0364813</imdbid>
+  </actor>
+  <actor>
+    <name>Shawn Doyle</name>
+    <role>Sadavir Errinwright</role>
+    <type>GuestStar</type>
+    <tmdbid>25878</tmdbid>
+    <imdbid>nm0236495</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Rotilio</name>
+    <role>Diogo</role>
+    <type>GuestStar</type>
+    <tmdbid>2197675</tmdbid>
+  </actor>
+  <actor>
+    <name>Chad L. Coleman</name>
+    <role>Frederick Lucius Johnson</role>
+    <type>GuestStar</type>
+    <tmdbid>124645</tmdbid>
+  </actor>
+  <director>Rob Lieberman</director>
+  <rating>7.455</rating>
+  <year>2016</year>
+  <imdbid>tt3983500</imdbid>
+  <tvdbid>5280278</tvdbid>
+  <runtime>43</runtime>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <tvrageid>1065742158</tvrageid>
+  <uniqueid type="Imdb">tt3983500</uniqueid>
+  <uniqueid type="Tvdb">5280278</uniqueid>
+  <uniqueid type="TvRage">1065742158</uniqueid>
+  <episode>6</episode>
+  <season>1</season>
+  <aired>2016-01-12</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10890973</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>43</duration>
+        <durationinseconds>2584</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

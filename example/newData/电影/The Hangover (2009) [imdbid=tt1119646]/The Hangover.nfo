@@ -1,0 +1,562 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[道格（贾斯汀•巴萨 Justin Bartha 饰）即将与女友结婚。婚礼前两天，道格与朋友菲尔（布莱德利•库珀 Bradley Cooper 饰）、西德（艾德•赫尔姆斯 Ed Helms 饰）和阿兰（扎克•加利费安纳基斯 Zach Galifianakis 饰）从洛杉矶驱车前往赌城拉斯维加斯为道格举办婚前单身派对，入住凯撒宫豪华套房。一晚过后，三人发现道格失踪，浴室里出现一只老虎，衣橱中多了一个婴儿，西德缺了一颗牙，窗外塔尖上插着席梦思床垫，菲尔戴着医院手环，西德口袋里有一张800美金收据，而他们的车也不知为何变成了警车。三人惊慌失措，完全无法记起昨晚发生过什么，却必须在24小时之内迅速解决谜团找到道格返回洛杉矶……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-09-10 08:50:38</dateadded>
+  <title>宿醉</title>
+  <originaltitle>The Hangover</originaltitle>
+  <actor>
+    <name>Bradley Cooper</name>
+    <role>Phil Wenneck</role>
+    <type>Actor</type>
+    <tmdbid>51329</tmdbid>
+    <imdbid>nm0177896</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Helms</name>
+    <role>Stu Price</role>
+    <type>Actor</type>
+    <tmdbid>27105</tmdbid>
+    <imdbid>nm1159180</imdbid>
+  </actor>
+  <actor>
+    <name>Zach Galifianakis</name>
+    <role>Alan Garner</role>
+    <type>Actor</type>
+    <tmdbid>58225</tmdbid>
+    <imdbid>nm0302108</imdbid>
+  </actor>
+  <actor>
+    <name>Justin Bartha</name>
+    <role>Doug Billings</role>
+    <type>Actor</type>
+    <tmdbid>21180</tmdbid>
+    <imdbid>nm0058581</imdbid>
+  </actor>
+  <actor>
+    <name>Heather Graham</name>
+    <role>Jade</role>
+    <type>Actor</type>
+    <tmdbid>69122</tmdbid>
+    <imdbid>nm0001287</imdbid>
+  </actor>
+  <actor>
+    <name>Sasha Barrese</name>
+    <role>Tracy Garner</role>
+    <type>Actor</type>
+    <tmdbid>83585</tmdbid>
+    <imdbid>nm0056936</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Tambor</name>
+    <role>Sid Garner</role>
+    <type>Actor</type>
+    <tmdbid>4175</tmdbid>
+    <imdbid>nm0001787</imdbid>
+  </actor>
+  <actor>
+    <name>Ken Jeong</name>
+    <role>Mr. Chow</role>
+    <type>Actor</type>
+    <tmdbid>83586</tmdbid>
+    <imdbid>nm0421822</imdbid>
+  </actor>
+  <actor>
+    <name>Rachael Harris</name>
+    <role>Melissa</role>
+    <type>Actor</type>
+    <tmdbid>46074</tmdbid>
+    <imdbid>nm0006713</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Tyson</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>80757</tmdbid>
+    <imdbid>nm0005512</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Epps</name>
+    <role>Black Doug</role>
+    <type>Actor</type>
+    <tmdbid>51944</tmdbid>
+    <imdbid>nm0258402</imdbid>
+  </actor>
+  <actor>
+    <name>Jernard Burks</name>
+    <role>Leonard</role>
+    <type>Actor</type>
+    <tmdbid>55275</tmdbid>
+    <imdbid>nm0122073</imdbid>
+  </actor>
+  <actor>
+    <name>Rob Riggle</name>
+    <role>Officer Franklin</role>
+    <type>Actor</type>
+    <tmdbid>71403</tmdbid>
+    <imdbid>nm1443527</imdbid>
+  </actor>
+  <actor>
+    <name>Cleo King</name>
+    <role>Officer Garden</role>
+    <type>Actor</type>
+    <tmdbid>7574</tmdbid>
+    <imdbid>nm0454598</imdbid>
+  </actor>
+  <actor>
+    <name>Bryan Callen</name>
+    <role>Eddie Palermo</role>
+    <type>Actor</type>
+    <tmdbid>78320</tmdbid>
+    <imdbid>nm0130437</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Walsh</name>
+    <role>Dr. Valsh</role>
+    <type>Actor</type>
+    <tmdbid>59841</tmdbid>
+    <imdbid>nm0909768</imdbid>
+  </actor>
+  <actor>
+    <name>Ian Anthony Dale</name>
+    <role>Chow's #1</role>
+    <type>Actor</type>
+    <tmdbid>123813</tmdbid>
+    <imdbid>nm1406333</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Li</name>
+    <role>Chow's #2</role>
+    <type>Actor</type>
+    <tmdbid>1265844</tmdbid>
+    <imdbid>nm1049045</imdbid>
+  </actor>
+  <actor>
+    <name>Sondra Currie</name>
+    <role>Linda</role>
+    <type>Actor</type>
+    <tmdbid>153621</tmdbid>
+    <imdbid>nm0192997</imdbid>
+  </actor>
+  <actor>
+    <name>Gillian Vigman</name>
+    <role>Stephanie</role>
+    <type>Actor</type>
+    <tmdbid>61182</tmdbid>
+    <imdbid>nm0897005</imdbid>
+  </actor>
+  <actor>
+    <name>Nathalie Fay</name>
+    <role>Lisa</role>
+    <type>Actor</type>
+    <tmdbid>142375</tmdbid>
+    <imdbid>nm1331837</imdbid>
+  </actor>
+  <actor>
+    <name>Chuck Pacheco</name>
+    <role>Hotel Guest at Valet</role>
+    <type>Actor</type>
+    <tmdbid>52654</tmdbid>
+    <imdbid>nm1014034</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse Erwin</name>
+    <role>Hotel Valet</role>
+    <type>Actor</type>
+    <tmdbid>98397</tmdbid>
+    <imdbid>nm0260006</imdbid>
+  </actor>
+  <actor>
+    <name>Dan Finnerty</name>
+    <role>Wedding Singer</role>
+    <type>Actor</type>
+    <tmdbid>151121</tmdbid>
+    <imdbid>nm0278248</imdbid>
+  </actor>
+  <actor>
+    <name>Keith Lyle</name>
+    <role>Casino Dealer</role>
+    <type>Actor</type>
+    <tmdbid>1265845</tmdbid>
+    <imdbid>nm3389989</imdbid>
+  </actor>
+  <actor>
+    <name>Brody Stevens</name>
+    <role>Officer Foltz</role>
+    <type>Actor</type>
+    <tmdbid>142373</tmdbid>
+    <imdbid>nm0828290</imdbid>
+  </actor>
+  <actor>
+    <name>Todd Phillips</name>
+    <role>Mr. Creepy</role>
+    <type>Actor</type>
+    <tmdbid>57130</tmdbid>
+    <imdbid>nm0680846</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Vallely</name>
+    <role>Neeco</role>
+    <type>Actor</type>
+    <tmdbid>558036</tmdbid>
+    <imdbid>nm0885018</imdbid>
+  </actor>
+  <actor>
+    <name>James Martin Kelly</name>
+    <role>Police Clerk</role>
+    <type>Actor</type>
+    <tmdbid>162849</tmdbid>
+    <imdbid>nm0446457</imdbid>
+  </actor>
+  <actor>
+    <name>Murray Gershenz</name>
+    <role>Felix</role>
+    <type>Actor</type>
+    <tmdbid>981814</tmdbid>
+    <imdbid>nm2516127</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Astor</name>
+    <role>Eli</role>
+    <type>Actor</type>
+    <tmdbid>208524</tmdbid>
+    <imdbid>nm2335338</imdbid>
+  </actor>
+  <actor>
+    <name>Casey Margolis</name>
+    <role>Budnick</role>
+    <type>Actor</type>
+    <tmdbid>54721</tmdbid>
+    <imdbid>nm2406656</imdbid>
+  </actor>
+  <actor>
+    <name>Ken Flaherty</name>
+    <role>Old Timer at Gas Station</role>
+    <type>Actor</type>
+    <tmdbid>1265846</tmdbid>
+    <imdbid>nm3444394</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Alexander</name>
+    <role>Pit Boss</role>
+    <type>Actor</type>
+    <tmdbid>1265847</tmdbid>
+    <imdbid>nm3444387</imdbid>
+  </actor>
+  <actor>
+    <name>Constance Broge</name>
+    <role>Woman in Elevator</role>
+    <type>Actor</type>
+    <tmdbid>1265848</tmdbid>
+    <imdbid>nm2818718</imdbid>
+  </actor>
+  <actor>
+    <name>Sue Pierce</name>
+    <role>Mini-Mart Cashier</role>
+    <type>Actor</type>
+    <tmdbid>1265849</tmdbid>
+    <imdbid>nm3420566</imdbid>
+  </actor>
+  <actor>
+    <name>Floyd Levine</name>
+    <role>Tailor</role>
+    <type>Actor</type>
+    <tmdbid>58927</tmdbid>
+    <imdbid>nm0505801</imdbid>
+  </actor>
+  <actor>
+    <name>Robert A. Ringler</name>
+    <role>Minister</role>
+    <type>Actor</type>
+    <tmdbid>1265850</tmdbid>
+    <imdbid>nm3444395</imdbid>
+  </actor>
+  <actor>
+    <name>Britt Barrett</name>
+    <role>Bridesmaid</role>
+    <type>Actor</type>
+    <tmdbid>1265851</tmdbid>
+    <imdbid>nm3122314</imdbid>
+  </actor>
+  <actor>
+    <name>Chauntae Davies</name>
+    <role>Bridesmaid</role>
+    <type>Actor</type>
+    <tmdbid>62818</tmdbid>
+    <imdbid>nm1010951</imdbid>
+  </actor>
+  <actor>
+    <name>Alisa Allapach</name>
+    <role>Bridesmaid</role>
+    <type>Actor</type>
+    <tmdbid>1265852</tmdbid>
+    <imdbid>nm3444384</imdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Furu</name>
+    <role>Stun Gun Boy</role>
+    <type>Actor</type>
+    <tmdbid>1120016</tmdbid>
+    <imdbid>nm3444381</imdbid>
+  </actor>
+  <actor>
+    <name>Angelica Flameno</name>
+    <role>Stun Gun Girl</role>
+    <type>Actor</type>
+    <tmdbid>1265853</tmdbid>
+    <imdbid>nm2872206</imdbid>
+  </actor>
+  <actor>
+    <name>Lily Winn</name>
+    <role>Screaming Girl</role>
+    <type>Actor</type>
+    <tmdbid>1265854</tmdbid>
+    <imdbid>nm3194529</imdbid>
+  </actor>
+  <actor>
+    <name>Katerina Moutsatsou</name>
+    <role>Eddie's Assistant</role>
+    <type>Actor</type>
+    <tmdbid>1265855</tmdbid>
+    <imdbid>nm0610184</imdbid>
+  </actor>
+  <actor>
+    <name>Faleolo Alailima</name>
+    <role>Tyson's Bodyguard</role>
+    <type>Actor</type>
+    <tmdbid>175174</tmdbid>
+    <imdbid>nm1330008</imdbid>
+  </actor>
+  <actor>
+    <name>Rio Ahn</name>
+    <role>Orderly (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>66650</tmdbid>
+    <imdbid>nm1778091</imdbid>
+  </actor>
+  <actor>
+    <name>John Jason Bailey</name>
+    <role>Ceasar's Palace Pimp (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>567226</tmdbid>
+    <imdbid>nm2286994</imdbid>
+  </actor>
+  <actor>
+    <name>Guile Branco</name>
+    <role>Guest at Casino (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1265857</tmdbid>
+    <imdbid>nm2275298</imdbid>
+  </actor>
+  <actor>
+    <name>Joey Brander</name>
+    <role>Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>208952</tmdbid>
+    <imdbid>nm2544155</imdbid>
+  </actor>
+  <actor>
+    <name>Kaitlin Clark</name>
+    <role>Girl in Elevator (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1265859</tmdbid>
+    <imdbid>nm1923521</imdbid>
+  </actor>
+  <actor>
+    <name>Natalie Cohen</name>
+    <role>Casino Patron #6 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>221942</tmdbid>
+    <imdbid>nm3545397</imdbid>
+  </actor>
+  <actor>
+    <name>Cody Deal</name>
+    <role>Roman Soldier at Caesar's Palace (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>240945</tmdbid>
+    <imdbid>nm3382024</imdbid>
+  </actor>
+  <actor>
+    <name>Lanette Fugit</name>
+    <role>High Roller (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1017323</tmdbid>
+    <imdbid>nm2998239</imdbid>
+  </actor>
+  <actor>
+    <name>Charlene Geisler</name>
+    <role>Katie - Girl in the elevator (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1265861</tmdbid>
+    <imdbid>nm2444107</imdbid>
+  </actor>
+  <actor>
+    <name>David Hill</name>
+    <role>Parent Driving Jaguar (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>128971</tmdbid>
+    <imdbid>nm2621983</imdbid>
+  </actor>
+  <actor>
+    <name>Mitch Holleman</name>
+    <role>Max - Student (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1214803</tmdbid>
+    <imdbid>nm0390936</imdbid>
+  </actor>
+  <actor>
+    <name>Carrie Keagan</name>
+    <role>Casino Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>970104</tmdbid>
+    <imdbid>nm1764169</imdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Mathis</name>
+    <role>Casino Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1265869</tmdbid>
+    <imdbid>nm1974486</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Mingilino</name>
+    <role>Precision Driver (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1265870</tmdbid>
+    <imdbid>nm3099701</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Reid</name>
+    <role>Vegas High Roller (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>984422</tmdbid>
+    <imdbid>nm3683221</imdbid>
+  </actor>
+  <actor>
+    <name>Michael A. Rizza</name>
+    <role>Guy in the elevator (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1265876</tmdbid>
+    <imdbid>nm1400675</imdbid>
+  </actor>
+  <actor>
+    <name>Heather Roop</name>
+    <role>Mom in Elevator (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1172720</tmdbid>
+    <imdbid>nm0740370</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Satriani</name>
+    <role>Guitarist in Wedding Band (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>123476</tmdbid>
+    <imdbid>nm0766354</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Simons</name>
+    <role>Casino Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>139202</tmdbid>
+    <imdbid>nm3046023</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Spano</name>
+    <role>Casino High Roller (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1063037</tmdbid>
+    <imdbid>nm2133472</imdbid>
+  </actor>
+  <actor>
+    <name>Scott "Carrot Top" Thompson</name>
+    <role>Himself (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>96010</tmdbid>
+    <imdbid>nm0005488</imdbid>
+  </actor>
+  <actor>
+    <name>Jaira Valenti</name>
+    <role>Bartender Hostess (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1265878</tmdbid>
+    <imdbid>nm3310409</imdbid>
+  </actor>
+  <actor>
+    <name>Victor Yerrid</name>
+    <role>Tiger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1219668</tmdbid>
+    <imdbid>nm0947662</imdbid>
+  </actor>
+  <actor>
+    <name>Anat Gerber</name>
+    <role>Cocktail Waitress (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1574241</tmdbid>
+  </actor>
+  <director tmdbid="57130" imdbid="nm0680846">Todd Phillips</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=jj6wcUes1no</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tlize92ffnY</trailer>
+  <rating>7.7</rating>
+  <year>2009</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt1119646</imdbid>
+  <tmdbid>18785</tmdbid>
+  <premiered>2009-06-02</premiered>
+  <releasedate>2009-06-02</releasedate>
+  <criticrating>78</criticrating>
+  <runtime>108</runtime>
+  <country>Germany</country>
+  <country>United States of America</country>
+  <genre>喜剧</genre>
+  <studio>Legendary Pictures</studio>
+  <studio>Green Hat Films</studio>
+  <studio>IFP Westcoast Erste</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <set tmdbcolid="86119">
+    <name>宿醉（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">18785</uniqueid>
+  <uniqueid type="Imdb">tt1119646</uniqueid>
+  <id>tt1119646</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>8703406</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>107</duration>
+        <durationinseconds>6473</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

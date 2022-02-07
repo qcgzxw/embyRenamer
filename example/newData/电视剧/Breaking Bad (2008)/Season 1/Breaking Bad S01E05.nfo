@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Walter 的一个老朋友 Elliot 提出给他一份工作，实际是想帮忙支付他治疗癌症的费用。但出于自尊和之前的过节，Walter 拒绝了朋友的好意，但向妻子隐瞒了自己拒绝的事实，Skyler 以为 Walter 的医药费有了着落，很是兴奋。Jesse 想要自己独立制作冰毒，但他发现自己做出来的成品完全达不到 Walter 的水准。而小 Walter 也因为未成年买酒被警察抓捕了。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 17:59:25</dateadded>
+  <title>灰质</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>William Sterchi</name>
+    <role>Manager</role>
+    <type>GuestStar</type>
+    <tmdbid>202830</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Mouchet</name>
+    <role>Farley</role>
+    <type>GuestStar</type>
+    <tmdbid>59303</tmdbid>
+    <imdbid>nm0609631</imdbid>
+  </actor>
+  <actor>
+    <name>Frederic Doss</name>
+    <role>Off Duty Cop</role>
+    <type>GuestStar</type>
+    <tmdbid>209680</tmdbid>
+    <imdbid>nm2427168</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Hecht</name>
+    <role>Gretchen Schwartz</role>
+    <type>GuestStar</type>
+    <tmdbid>14984</tmdbid>
+    <imdbid>nm0372961</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Jones</name>
+    <role>Badger</role>
+    <type>GuestStar</type>
+    <tmdbid>191202</tmdbid>
+    <imdbid>nm2804503</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Godley</name>
+    <role>Elliott Schwartz</role>
+    <type>GuestStar</type>
+    <tmdbid>23429</tmdbid>
+    <imdbid>nm0324134</imdbid>
+  </actor>
+  <director>Tricia Brock</director>
+  <rating>8.111</rating>
+  <year>2008</year>
+  <imdbid>tt1054727</imdbid>
+  <tvdbid>349238</tvdbid>
+  <runtime>48</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <tvrageid>637646</tvrageid>
+  <uniqueid type="Imdb">tt1054727</uniqueid>
+  <uniqueid type="Tvdb">349238</uniqueid>
+  <uniqueid type="TvRage">637646</uniqueid>
+  <episode>5</episode>
+  <season>1</season>
+  <aired>2008-02-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9739646</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>48</duration>
+        <durationinseconds>2891</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

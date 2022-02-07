@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[本剧改编自卡洛琳·凯恩斯的同名小说。乔伊•戈栢（佩恩·拜德格雷 饰）是个聪明但执著的纽约书店经理，迷上一位新人作家后，利用现代科技去夺取贝可（伊丽莎白·莱尔 饰）的芳心。他不但由变态跟踪狂变为其男友，同时还要清除两人恋爱路上的 各种障碍—就连杀人也在所不惜。故事设定在当下 24 小时都有网路连线的世界，该剧探讨了现实生活中我们面对网路偷窥和控制的无助感。]]></plot>
+  <outline><![CDATA[本剧改编自卡洛琳·凯恩斯的同名小说。乔伊•戈栢（佩恩·拜德格雷 饰）是个聪明但执著的纽约书店经理，迷上一位新人作家后，利用现代科技去夺取贝可（伊丽莎白·莱尔 饰）的芳心。他不但由变态跟踪狂变为其男友，同时还要清除两人恋爱路上的 各种障碍—就连杀人也在所不惜。故事设定在当下 24 小时都有网路连线的世界，该剧探讨了现实生活中我们面对网路偷窥和控制的无助感。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-10-08 06:25:04</dateadded>
+  <title>你</title>
+  <originaltitle>YOU</originaltitle>
+  <actor>
+    <name>Penn Badgley</name>
+    <role>Joe Goldberg</role>
+    <type>Actor</type>
+    <tmdbid>110927</tmdbid>
+    <imdbid>nm0046112</imdbid>
+  </actor>
+  <actor>
+    <name>Victoria Pedretti</name>
+    <role>Love Quinn</role>
+    <type>Actor</type>
+    <tmdbid>2117434</tmdbid>
+    <imdbid>nm6442992</imdbid>
+  </actor>
+  <actor>
+    <name>James Scully</name>
+    <role>Forty Quinn</role>
+    <type>Actor</type>
+    <tmdbid>1778501</tmdbid>
+    <imdbid>nm8510480</imdbid>
+  </actor>
+  <actor>
+    <name>Ambyr Childers</name>
+    <role>Candace Stone</role>
+    <type>Actor</type>
+    <tmdbid>75330</tmdbid>
+    <imdbid>nm1024107</imdbid>
+  </actor>
+  <actor>
+    <name>Jenna Ortega</name>
+    <role>Ellie Alves</role>
+    <type>Actor</type>
+    <tmdbid>974169</tmdbid>
+    <imdbid>nm4911194</imdbid>
+  </actor>
+  <actor>
+    <name>Carmela Zumbado</name>
+    <role>Delilah Alves</role>
+    <type>Actor</type>
+    <tmdbid>1292730</tmdbid>
+    <imdbid>nm4561124</imdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=ga1m0wjzscU</trailer>
+  <trailer>http://www.youtube.com/watch?v=7ZtRnIwv_FY</trailer>
+  <rating>8.1</rating>
+  <year>2018</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt7335184</imdb_id>
+  <tmdbid>78191</tmdbid>
+  <premiered>2018-09-09</premiered>
+  <releasedate>2018-09-09</releasedate>
+  <runtime>46</runtime>
+  <genre>悬疑</genre>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <studio>Lifetime</studio>
+  <studio>Netflix</studio>
+  <uniqueid type="Imdb">tt7335184</uniqueid>
+  <uniqueid type="Tmdb">78191</uniqueid>
+  <uniqueid type="Tvdb">336924</uniqueid>
+  <tvdbid>336924</tvdbid>
+  <id>336924</id>
+  <episodeguide>
+    <url cache="336924.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/336924/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

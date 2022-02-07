@@ -1,0 +1,596 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一部充满动作戏的间谍惊悚片。娜塔莎·罗曼诺夫/黑寡妇遭遇与她的过去相关的一场危险阴谋，将直面自己那些更为黑暗的经历。一股不惜一切要击倒她的力量袭来，娜塔莎必须面对自己在成为复仇者的很久之前那作为间谍的过往，和曾远离的破碎关系。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-09 09:23:20</dateadded>
+  <title>黑寡妇</title>
+  <originaltitle>Black Widow</originaltitle>
+  <actor>
+    <name>Scarlett Johansson</name>
+    <role>Natasha Romanoff / Black Widow</role>
+    <type>Actor</type>
+    <tmdbid>1245</tmdbid>
+    <imdbid>nm0424060</imdbid>
+  </actor>
+  <actor>
+    <name>Florence Pugh</name>
+    <role>Yelena Belova</role>
+    <type>Actor</type>
+    <tmdbid>1373737</tmdbid>
+  </actor>
+  <actor>
+    <name>David Harbour</name>
+    <role>Alexei / Red Guardian</role>
+    <type>Actor</type>
+    <tmdbid>35029</tmdbid>
+  </actor>
+  <actor>
+    <name>O.T. Fagbenle</name>
+    <role>Mason</role>
+    <type>Actor</type>
+    <tmdbid>113970</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Weisz</name>
+    <role>Melina</role>
+    <type>Actor</type>
+    <tmdbid>3293</tmdbid>
+    <imdbid>nm0001838</imdbid>
+  </actor>
+  <actor>
+    <name>William Hurt</name>
+    <role>Secretary Thaddeus 'Thunderbolt' Ross</role>
+    <type>Actor</type>
+    <tmdbid>227</tmdbid>
+    <imdbid>nm0000458</imdbid>
+  </actor>
+  <actor>
+    <name>Ray Winstone</name>
+    <role>Dreykov</role>
+    <type>Actor</type>
+    <tmdbid>5538</tmdbid>
+  </actor>
+  <actor>
+    <name>Simona Zivkovska</name>
+    <role>Red Room Widow</role>
+    <type>Actor</type>
+    <tmdbid>2408958</tmdbid>
+  </actor>
+  <actor>
+    <name>Yolanda Lynes</name>
+    <role>Red Room Widow</role>
+    <type>Actor</type>
+    <tmdbid>2410139</tmdbid>
+  </actor>
+  <actor>
+    <name>Jade Ma</name>
+    <role>Red Room Widow</role>
+    <type>Actor</type>
+    <tmdbid>2187686</tmdbid>
+  </actor>
+  <actor>
+    <name>Shaina West</name>
+    <role>Red Room Widow</role>
+    <type>Actor</type>
+    <tmdbid>2410230</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhanè Samuels</name>
+    <role>Red Room Widow</role>
+    <type>Actor</type>
+    <tmdbid>2416302</tmdbid>
+  </actor>
+  <actor>
+    <name>Fatou Bah</name>
+    <role>Red Room Widow</role>
+    <type>Actor</type>
+    <tmdbid>2416303</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Lee</name>
+    <role>Oksana</role>
+    <type>Actor</type>
+    <tmdbid>101065</tmdbid>
+  </actor>
+  <actor>
+    <name>Madeleine Nicholls</name>
+    <role>Red Room Widow</role>
+    <type>Actor</type>
+    <tmdbid>2416393</tmdbid>
+  </actor>
+  <actor>
+    <name>Nanna Blondell</name>
+    <role>Ingrid</role>
+    <type>Actor</type>
+    <tmdbid>1309110</tmdbid>
+  </actor>
+  <actor>
+    <name>Shawarah Battles</name>
+    <role>Red Room Widow</role>
+    <type>Actor</type>
+    <tmdbid>2416358</tmdbid>
+  </actor>
+  <actor>
+    <name>Georgia Curtis</name>
+    <role>Red Room Widow</role>
+    <type>Actor</type>
+    <tmdbid>2414076</tmdbid>
+  </actor>
+  <actor>
+    <name>Tabby Bond</name>
+    <role>Red Room Widow</role>
+    <type>Actor</type>
+    <tmdbid>2414070</tmdbid>
+  </actor>
+  <actor>
+    <name>Yasmin Riley</name>
+    <role>Red Room Widow</role>
+    <type>Actor</type>
+    <tmdbid>2414071</tmdbid>
+  </actor>
+  <actor>
+    <name>Liani Samuel</name>
+    <role>Lerato</role>
+    <type>Actor</type>
+    <tmdbid>2475107</tmdbid>
+  </actor>
+  <actor>
+    <name>Violet McGraw</name>
+    <role>Young Yelena</role>
+    <type>Actor</type>
+    <tmdbid>2131391</tmdbid>
+  </actor>
+  <actor>
+    <name>Liran Nathan</name>
+    <role>Budapest Mechanic</role>
+    <type>Actor</type>
+    <tmdbid>1972102</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivier Richters</name>
+    <role>Muscular Gulag Inmate</role>
+    <type>Actor</type>
+    <tmdbid>2074238</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Razpopov</name>
+    <role>Tattoo Gulag Inmate</role>
+    <type>Actor</type>
+    <tmdbid>2395142</tmdbid>
+  </actor>
+  <actor>
+    <name>Gavin Lee Lewis</name>
+    <role>Prisoner</role>
+    <type>Actor</type>
+    <tmdbid>1497349</tmdbid>
+  </actor>
+  <actor>
+    <name>Ty Hurley</name>
+    <role>Prison Riot Guard</role>
+    <type>Actor</type>
+    <tmdbid>2417290</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul O'Kelly</name>
+    <role>Riot Guard</role>
+    <type>Actor</type>
+    <tmdbid>1841458</tmdbid>
+  </actor>
+  <actor>
+    <name>John Wolfe</name>
+    <role>Guard</role>
+    <type>Actor</type>
+    <tmdbid>2424172</tmdbid>
+  </actor>
+  <actor>
+    <name>Wong Charlie</name>
+    <role>Prisoner</role>
+    <type>Actor</type>
+    <tmdbid>2251721</tmdbid>
+  </actor>
+  <actor>
+    <name>David Turner</name>
+    <role>SWAT Team</role>
+    <type>Actor</type>
+    <tmdbid>2425004</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Byron</name>
+    <role>Gulag Cookie Guard</role>
+    <type>Actor</type>
+    <tmdbid>1052209</tmdbid>
+    <imdbid>nm1794753</imdbid>
+  </actor>
+  <actor>
+    <name>Edward L. Oliver</name>
+    <role>SWAT Team Leader</role>
+    <type>Actor</type>
+    <tmdbid>2430184</tmdbid>
+  </actor>
+  <actor>
+    <name>Dale Liner</name>
+    <role>SWAT Team Leader</role>
+    <type>Actor</type>
+    <tmdbid>2430185</tmdbid>
+  </actor>
+  <actor>
+    <name>Ahmed Bakare</name>
+    <role>Prisoner</role>
+    <type>Actor</type>
+    <tmdbid>2433114</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Prickett</name>
+    <role>Russian Prisoner</role>
+    <type>Actor</type>
+    <tmdbid>2434215</tmdbid>
+  </actor>
+  <actor>
+    <name>Luigi Boccanfuso</name>
+    <role>Gulag Prisoner</role>
+    <type>Actor</type>
+    <tmdbid>2355281</tmdbid>
+  </actor>
+  <actor>
+    <name>Shane Askam</name>
+    <role>Gulag Riot Guard</role>
+    <type>Actor</type>
+    <tmdbid>2443835</tmdbid>
+  </actor>
+  <actor>
+    <name>Rob Horrocks</name>
+    <role>Polish Soldier</role>
+    <type>Actor</type>
+    <tmdbid>2443836</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Joseph Woolf</name>
+    <role>Gulag Inmate #120</role>
+    <type>Actor</type>
+    <tmdbid>2303017</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyrone Kearns</name>
+    <role>Prisoner (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2430186</tmdbid>
+  </actor>
+  <actor>
+    <name>Omar Alboukharey</name>
+    <role>Flamboyant Prisoner (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2433119</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony McCarthy</name>
+    <role>Prisoner (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2464186</tmdbid>
+  </actor>
+  <actor>
+    <name>Joakim Skarli</name>
+    <role>Russian Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1853975</tmdbid>
+  </actor>
+  <actor>
+    <name>Obie Matthew</name>
+    <role>Prison Riot Guard</role>
+    <type>Actor</type>
+    <tmdbid>2506333</tmdbid>
+  </actor>
+  <actor>
+    <name>Roman Green</name>
+    <role>Gulag Arm Wrestling Inmate</role>
+    <type>Actor</type>
+    <tmdbid>1651385</tmdbid>
+  </actor>
+  <actor>
+    <name>Oliver Simms</name>
+    <role>Super Soldier</role>
+    <type>Actor</type>
+    <tmdbid>2515055</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen Samson</name>
+    <role>KGB</role>
+    <type>Actor</type>
+    <tmdbid>2063499</tmdbid>
+  </actor>
+  <actor>
+    <name>Ever Gabo Anderson</name>
+    <role>Young Natasha</role>
+    <type>Actor</type>
+    <tmdbid>1743933</tmdbid>
+  </actor>
+  <actor>
+    <name>Ione Butler</name>
+    <role>Red Room Widow</role>
+    <type>Actor</type>
+    <tmdbid>1585047</tmdbid>
+  </actor>
+  <actor>
+    <name>Yuuki Luna</name>
+    <role>Red Room Widow</role>
+    <type>Actor</type>
+    <tmdbid>2807152</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Wilson</name>
+    <role>Russian Spetnaz</role>
+    <type>Actor</type>
+    <tmdbid>2807157</tmdbid>
+  </actor>
+  <actor>
+    <name>Graham Kitchen</name>
+    <role>Gulag Inmate #4 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2807159</tmdbid>
+  </actor>
+  <actor>
+    <name>Marian Lorencik</name>
+    <role>KGB (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2545141</tmdbid>
+  </actor>
+  <actor>
+    <name>Zoltan Rencsar</name>
+    <role>Prisoner</role>
+    <type>Actor</type>
+    <tmdbid>2807164</tmdbid>
+  </actor>
+  <actor>
+    <name>Clem So</name>
+    <role>Gulag Inmate (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1394361</tmdbid>
+  </actor>
+  <actor>
+    <name>Kalina Vanska</name>
+    <role>Commuter</role>
+    <type>Actor</type>
+    <tmdbid>2541004</tmdbid>
+  </actor>
+  <actor>
+    <name>Aubrey Cleland</name>
+    <role>Red Room Widow</role>
+    <type>Actor</type>
+    <tmdbid>1845814</tmdbid>
+  </actor>
+  <actor>
+    <name>Olga Kurylenko</name>
+    <role>Antonia</role>
+    <type>Actor</type>
+    <tmdbid>18182</tmdbid>
+    <imdbid>nm1385871</imdbid>
+  </actor>
+  <actor>
+    <name>Julia Louis-Dreyfus</name>
+    <role>Contessa Valentina Allegra de Fontaine</role>
+    <type>Actor</type>
+    <tmdbid>15886</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan Kiera Armstrong</name>
+    <role>Young Antonia</role>
+    <type>Actor</type>
+    <tmdbid>2072566</tmdbid>
+  </actor>
+  <actor>
+    <name>Jordyn Curet</name>
+    <role>Young Red Room Widow / Ingrid</role>
+    <type>Actor</type>
+    <tmdbid>2482808</tmdbid>
+  </actor>
+  <actor>
+    <name>Marcel Dorian</name>
+    <role>Hungarian Driver</role>
+    <type>Actor</type>
+    <tmdbid>1653512</tmdbid>
+  </actor>
+  <actor>
+    <name>Chad J. Wagner</name>
+    <role>Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>3133711</tmdbid>
+  </actor>
+  <actor>
+    <name>C.C. Smiff</name>
+    <role>Scientist Morocco 2</role>
+    <type>Actor</type>
+    <tmdbid>1074617</tmdbid>
+  </actor>
+  <actor>
+    <name>Lewis Young</name>
+    <role>Scientist Morocco 1</role>
+    <type>Actor</type>
+    <tmdbid>2752012</tmdbid>
+  </actor>
+  <director tmdbid="93286">Cate Shortland</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RxAtuMu_ph4</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ybji16u608U</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Fp9pNPdNwjI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=P1kSXhP0SmY</trailer>
+  <rating>7.4</rating>
+  <year>2021</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt3480822</imdbid>
+  <tmdbid>497698</tmdbid>
+  <premiered>2021-07-07</premiered>
+  <releasedate>2021-07-07</releasedate>
+  <runtime>134</runtime>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>冒险</genre>
+  <genre>惊悚</genre>
+  <studio>Marvel Studios</studio>
+  <studio>Zak Productions</studio>
+  <studio>Cinesite</studio>
+  <studio>Clear Angle Studios</studio>
+  <studio>Digital Domain</studio>
+  <studio>Trixter Film</studio>
+  <studio>Industrial Light &amp; Magic</studio>
+  <studio>Stereo D</studio>
+  <studio>Walt Disney Pictures</studio>
+  <uniqueid type="Imdb">tt3480822</uniqueid>
+  <uniqueid type="Tmdb">497698</uniqueid>
+  <id>tt3480822</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>17131680</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>133</duration>
+        <durationinseconds>8026</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

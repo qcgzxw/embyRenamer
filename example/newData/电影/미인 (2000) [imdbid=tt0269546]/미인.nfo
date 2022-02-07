@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一个作家，在一间空洞干净的大房间里记录关于“她”的日记。她来了，自顾自地换好睡衣，走到他面前与他温存。忽然，她的手机响了，接听之后迫不及待地走了，留下孤单的他。他回忆起与她见面的第一次，这个裸体模特儿在接受完他的采访后，纠缠着一个男人哭泣着哀求男人爱她，但那个男人却厌恶着踢开了她。一个大雨的夜晚，女人被男人毒打，他接到电话后赶去用身体温暖了她。从此之后他们过着一种默契的生活，她遍体鳞伤的来到作家的房间，和他做爱，相互慰藉，接到电话却又毫不犹豫的赶到那个男人身边……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-06-27 11:45:54</dateadded>
+  <title>美人</title>
+  <originaltitle>미인</originaltitle>
+  <actor>
+    <name>Lee Ji-hyeon</name>
+    <role>The girl</role>
+    <type>Actor</type>
+    <tmdbid>96785</tmdbid>
+  </actor>
+  <actor>
+    <name>Oh Ji-Ho</name>
+    <role>The writer</role>
+    <type>Actor</type>
+    <tmdbid>96784</tmdbid>
+  </actor>
+  <actor>
+    <name>Cho Gyeong-han</name>
+    <type>Actor</type>
+    <tmdbid>2098754</tmdbid>
+  </actor>
+  <actor>
+    <name>Cho Jong-uk</name>
+    <type>Actor</type>
+    <tmdbid>2098755</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Seong-min</name>
+    <type>Actor</type>
+    <tmdbid>2098756</tmdbid>
+  </actor>
+  <actor>
+    <name>Koo Bon-yeong</name>
+    <type>Actor</type>
+    <tmdbid>2098757</tmdbid>
+  </actor>
+  <actor>
+    <name>Seo Dong-hui</name>
+    <type>Actor</type>
+    <tmdbid>2098758</tmdbid>
+  </actor>
+  <director tmdbid="96780">Yeo Kyun-dong</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iY7ktc-scCA</trailer>
+  <rating>5.5</rating>
+  <year>2000</year>
+  <imdbid>tt0269546</imdbid>
+  <tmdbid>27027</tmdbid>
+  <premiered>2000-08-12</premiered>
+  <releasedate>2000-08-12</releasedate>
+  <runtime>93</runtime>
+  <country>South Korea</country>
+  <genre>爱情</genre>
+  <studio>Eun-Suk Film</studio>
+  <studio>KiHweck ShiDae</studio>
+  <uniqueid type="Tmdb">27027</uniqueid>
+  <uniqueid type="Imdb">tt0269546</uniqueid>
+  <id>tt0269546</id>
+  <fileinfo>
+    <streamdetails>
+      <audio>
+        <codec>cook</codec>
+        <micodec>cook</micodec>
+        <bitrate>64082</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <video>
+        <codec>rv40</codec>
+        <micodec>rv40</micodec>
+        <bitrate>1620839</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24.000046</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>93</duration>
+        <durationinseconds>5606</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+</movie>

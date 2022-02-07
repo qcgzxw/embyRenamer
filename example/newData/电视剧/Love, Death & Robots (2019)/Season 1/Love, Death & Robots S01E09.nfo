@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[丑老戴并不愿轻易将自己的垃圾堆狗窝拱手让给不以为意的城里人。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-27 16:02:55</dateadded>
+  <title>垃圾场</title>
+  <actor>
+    <name>Nolan North</name>
+    <role>Ugly Dave (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>19508</tmdbid>
+  </actor>
+  <actor>
+    <name>André Sogliuzzo</name>
+    <role>Pearly (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>177588</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Cole</name>
+    <role>The Inspector (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>21163</tmdbid>
+  </actor>
+  <director>Javier Recio Gracia</director>
+  <rating>5.9</rating>
+  <year>2019</year>
+  <imdbid>tt9788500</imdbid>
+  <tvdbid>7069827</tvdbid>
+  <runtime>11</runtime>
+  <genre>Animation</genre>
+  <genre>Short</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <genre>Horror</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt9788500</uniqueid>
+  <uniqueid type="Tvdb">7069827</uniqueid>
+  <episode>9</episode>
+  <season>1</season>
+  <aired>2019-03-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3844228</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>10</duration>
+        <durationinseconds>634</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>365497</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

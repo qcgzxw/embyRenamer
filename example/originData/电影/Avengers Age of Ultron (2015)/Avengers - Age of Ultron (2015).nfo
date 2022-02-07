@@ -1,0 +1,611 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[托尼·斯塔克试图重启一个已经废弃的维和项目，不料该项目却成为危机导火索。世上最强大的超级英雄——钢铁侠、美国队长、雷神、绿巨人、黑寡妇和鹰眼，不得不接受终极考验，拯救危在旦夕的地球。神秘反派奥创逐渐崛起，超级英雄们必须重新集结，竭力阻止奥创实施人类灭绝计划。战斗中，复仇者联盟成员们还遇到了两个新人物——旺达·马克西莫夫和皮特罗·马克西莫夫，以及以全新面目归来的老朋友——幻视。世界秩序濒临崩溃，复仇者联盟必须阻止奥创的阴谋。强敌不断出现，一场空前绝后的全球浩战即将展开…]]></plot>
+  <outline><![CDATA[超级英雄震撼回归 强势出击力挽狂澜]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-30 14:58:06</dateadded>
+  <title>复仇者联盟2：奥创纪元</title>
+  <originaltitle>Avengers: Age of Ultron</originaltitle>
+  <actor>
+    <name>Robert Downey Jr.</name>
+    <role>Tony Stark / Iron Man</role>
+    <type>Actor</type>
+    <tmdbid>3223</tmdbid>
+    <imdbid>nm0000375</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Hemsworth</name>
+    <role>Thor Odinson</role>
+    <type>Actor</type>
+    <tmdbid>74568</tmdbid>
+    <imdbid>nm1165110</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Ruffalo</name>
+    <role>Bruce Banner / The Hulk</role>
+    <type>Actor</type>
+    <tmdbid>103</tmdbid>
+    <imdbid>nm0749263</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Evans</name>
+    <role>Steve Rogers / Captain America</role>
+    <type>Actor</type>
+    <tmdbid>16828</tmdbid>
+    <imdbid>nm0262635</imdbid>
+  </actor>
+  <actor>
+    <name>Scarlett Johansson</name>
+    <role>Natasha Romanoff / Black Widow</role>
+    <type>Actor</type>
+    <tmdbid>1245</tmdbid>
+    <imdbid>nm0424060</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Renner</name>
+    <role>Clint Barton / Hawkeye</role>
+    <type>Actor</type>
+    <tmdbid>17604</tmdbid>
+    <imdbid>nm0719637</imdbid>
+  </actor>
+  <actor>
+    <name>James Spader</name>
+    <role>Ultron (voice)</role>
+    <type>Actor</type>
+    <tmdbid>13548</tmdbid>
+  </actor>
+  <actor>
+    <name>Samuel L. Jackson</name>
+    <role>Nick Fury</role>
+    <type>Actor</type>
+    <tmdbid>2231</tmdbid>
+    <imdbid>nm0000168</imdbid>
+  </actor>
+  <actor>
+    <name>Don Cheadle</name>
+    <role>James "Rhodey" Rhodes / War Machine</role>
+    <type>Actor</type>
+    <tmdbid>1896</tmdbid>
+    <imdbid>nm0000332</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Taylor-Johnson</name>
+    <role>Pietro Maximoff / Quicksilver</role>
+    <type>Actor</type>
+    <tmdbid>27428</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Olsen</name>
+    <role>Wanda Maximoff / Scarlet Witch</role>
+    <type>Actor</type>
+    <tmdbid>550843</tmdbid>
+    <imdbid>nm0647634</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Bettany</name>
+    <role>J.A.R.V.I.S. (voice) / Vision</role>
+    <type>Actor</type>
+    <tmdbid>6162</tmdbid>
+    <imdbid>nm0079273</imdbid>
+  </actor>
+  <actor>
+    <name>Cobie Smulders</name>
+    <role>Maria Hill</role>
+    <type>Actor</type>
+    <tmdbid>71189</tmdbid>
+    <imdbid>nm1130627</imdbid>
+  </actor>
+  <actor>
+    <name>Anthony Mackie</name>
+    <role>Sam Wilson / Falcon</role>
+    <type>Actor</type>
+    <tmdbid>53650</tmdbid>
+    <imdbid>nm1107001</imdbid>
+  </actor>
+  <actor>
+    <name>Hayley Atwell</name>
+    <role>Peggy Carter</role>
+    <type>Actor</type>
+    <tmdbid>39459</tmdbid>
+    <imdbid>nm2017943</imdbid>
+  </actor>
+  <actor>
+    <name>Idris Elba</name>
+    <role>Heimdall</role>
+    <type>Actor</type>
+    <tmdbid>17605</tmdbid>
+    <imdbid>nm0252961</imdbid>
+  </actor>
+  <actor>
+    <name>Linda Cardellini</name>
+    <role>Laura Barton</role>
+    <type>Actor</type>
+    <tmdbid>1817</tmdbid>
+    <imdbid>nm0004802</imdbid>
+  </actor>
+  <actor>
+    <name>Stellan Skarsgård</name>
+    <role>Erik Selvig</role>
+    <type>Actor</type>
+    <tmdbid>1640</tmdbid>
+    <imdbid>nm0001745</imdbid>
+  </actor>
+  <actor>
+    <name>Claudia Kim</name>
+    <role>Dr. Helen Cho</role>
+    <type>Actor</type>
+    <tmdbid>1401531</tmdbid>
+    <imdbid>nm2263791</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Kretschmann</name>
+    <role>Baron Wolfgang von Strucker</role>
+    <type>Actor</type>
+    <tmdbid>3491</tmdbid>
+    <imdbid>nm0470981</imdbid>
+  </actor>
+  <actor>
+    <name>Andy Serkis</name>
+    <role>Ulysses Klaue / Klaw</role>
+    <type>Actor</type>
+    <tmdbid>1333</tmdbid>
+    <imdbid>nm0785227</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Delpy</name>
+    <role>Madame B</role>
+    <type>Actor</type>
+    <tmdbid>1146</tmdbid>
+    <imdbid>nm0000365</imdbid>
+  </actor>
+  <actor>
+    <name>Stan Lee</name>
+    <role>Stan Lee</role>
+    <type>Actor</type>
+    <tmdbid>7624</tmdbid>
+    <imdbid>nm0498278</imdbid>
+  </actor>
+  <actor>
+    <name>Henry Goodman</name>
+    <role>Dr. List</role>
+    <type>Actor</type>
+    <tmdbid>7030</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Luca</name>
+    <role>Fortress Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1709130</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Schaeffer</name>
+    <role>Strucker Mercenary</role>
+    <type>Actor</type>
+    <tmdbid>1265796</tmdbid>
+    <imdbid>nm3169259</imdbid>
+  </actor>
+  <actor>
+    <name>Dominique Provost-Chalkley</name>
+    <role>Zrinka</role>
+    <type>Actor</type>
+    <tmdbid>1196961</tmdbid>
+  </actor>
+  <actor>
+    <name>Isaac Andrews</name>
+    <role>Costel</role>
+    <type>Actor</type>
+    <tmdbid>1264233</tmdbid>
+  </actor>
+  <actor>
+    <name>Gareth Kieran Jones</name>
+    <role>Sokovian Acid Student</role>
+    <type>Actor</type>
+    <tmdbid>1760858</tmdbid>
+  </actor>
+  <actor>
+    <name>Chan Woo Lim</name>
+    <role>Dr. Cho's Assistant</role>
+    <type>Actor</type>
+    <tmdbid>1760859</tmdbid>
+  </actor>
+  <actor>
+    <name>Minhee Yeo</name>
+    <role>Dr. Cho's Assistant</role>
+    <type>Actor</type>
+    <tmdbid>1760860</tmdbid>
+  </actor>
+  <actor>
+    <name>Bentley Kalu</name>
+    <role>Klaue's Mercenary</role>
+    <type>Actor</type>
+    <tmdbid>1504934</tmdbid>
+  </actor>
+  <actor>
+    <name>Julian Bleach</name>
+    <role>Ballet Instructor</role>
+    <type>Actor</type>
+    <tmdbid>30086</tmdbid>
+  </actor>
+  <actor>
+    <name>Christopher Beasley</name>
+    <role>Johannesburg Cop</role>
+    <type>Actor</type>
+    <tmdbid>1029031</tmdbid>
+  </actor>
+  <actor>
+    <name>Vuyo Dabula</name>
+    <role>Johannesburg Cop</role>
+    <type>Actor</type>
+    <tmdbid>1171654</tmdbid>
+  </actor>
+  <actor>
+    <name>Nondumiso Tembe</name>
+    <role>Johannesburg Driver</role>
+    <type>Actor</type>
+    <tmdbid>1367843</tmdbid>
+  </actor>
+  <actor>
+    <name>Kabelo Thai</name>
+    <role>Johannesburg Onlooker</role>
+    <type>Actor</type>
+    <tmdbid>1760872</tmdbid>
+  </actor>
+  <actor>
+    <name>Lele Ledwaba</name>
+    <role>Johannesburg Onlooker</role>
+    <type>Actor</type>
+    <tmdbid>1760864</tmdbid>
+  </actor>
+  <actor>
+    <name>Mandla Gaduka</name>
+    <role>Johannesburg Onlooker</role>
+    <type>Actor</type>
+    <tmdbid>1760865</tmdbid>
+  </actor>
+  <actor>
+    <name>Harriet Manamela</name>
+    <role>Johannesburg Onlooker</role>
+    <type>Actor</type>
+    <tmdbid>1760866</tmdbid>
+  </actor>
+  <actor>
+    <name>Beulah Hashe</name>
+    <role>Johannesburg Onlooker</role>
+    <type>Actor</type>
+    <tmdbid>1760867</tmdbid>
+  </actor>
+  <actor>
+    <name>Musca Kumalo</name>
+    <role>Johannesburg Onlooker</role>
+    <type>Actor</type>
+    <tmdbid>1760868</tmdbid>
+  </actor>
+  <actor>
+    <name>Mathapelo September</name>
+    <role>Johannesburg Onlooker</role>
+    <type>Actor</type>
+    <tmdbid>1760869</tmdbid>
+  </actor>
+  <actor>
+    <name>Antony Acheampong</name>
+    <role>Johannesburg Elevator Passenger</role>
+    <type>Actor</type>
+    <tmdbid>1665609</tmdbid>
+  </actor>
+  <actor>
+    <name>Chioma Anyanwu</name>
+    <role>Johannesburg Elevator Passenger</role>
+    <type>Actor</type>
+    <tmdbid>1760871</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Sakamoto</name>
+    <role>Cooper Barton</role>
+    <type>Actor</type>
+    <tmdbid>1760879</tmdbid>
+  </actor>
+  <actor>
+    <name>Imogen Poynton</name>
+    <role>Lila Barton</role>
+    <type>Actor</type>
+    <tmdbid>1405571</tmdbid>
+  </actor>
+  <actor>
+    <name>Isabella Poynton</name>
+    <role>Lila Barton</role>
+    <type>Actor</type>
+    <tmdbid>1405570</tmdbid>
+  </actor>
+  <actor>
+    <name>Ingvild Deila</name>
+    <role>World Hub Tech</role>
+    <type>Actor</type>
+    <tmdbid>1583054</tmdbid>
+  </actor>
+  <actor>
+    <name>Sunny Yeo</name>
+    <role>Korean Train Passenger</role>
+    <type>Actor</type>
+    <tmdbid>1760881</tmdbid>
+  </actor>
+  <actor>
+    <name>Namju Go</name>
+    <role>Korean Train Passenger</role>
+    <type>Actor</type>
+    <tmdbid>1760882</tmdbid>
+  </actor>
+  <actor>
+    <name>Mina Kweon</name>
+    <role>Korean Train Passenger</role>
+    <type>Actor</type>
+    <tmdbid>1760884</tmdbid>
+  </actor>
+  <actor>
+    <name>Earl T. Kim</name>
+    <role>Korean Train Passenger</role>
+    <type>Actor</type>
+    <tmdbid>1590327</tmdbid>
+  </actor>
+  <actor>
+    <name>Arthur Lee</name>
+    <role>Korean Train Passenger</role>
+    <type>Actor</type>
+    <tmdbid>1760886</tmdbid>
+  </actor>
+  <actor>
+    <name>Verity Hewlett</name>
+    <role>Sokovian Family</role>
+    <type>Actor</type>
+    <tmdbid>1760888</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Matovski</name>
+    <role>Sokovian Family</role>
+    <type>Actor</type>
+    <tmdbid>1760890</tmdbid>
+  </actor>
+  <actor>
+    <name>Alma Noce</name>
+    <role>Sokovian Family</role>
+    <type>Actor</type>
+    <tmdbid>1756778</tmdbid>
+  </actor>
+  <actor>
+    <name>Riccardo Richetta</name>
+    <role>Sokovian Family</role>
+    <type>Actor</type>
+    <tmdbid>1760891</tmdbid>
+  </actor>
+  <actor>
+    <name>Constanza Ruff</name>
+    <role>Sokovian Woman</role>
+    <type>Actor</type>
+    <tmdbid>1760892</tmdbid>
+  </actor>
+  <actor>
+    <name>Monty Mclaren-Clark</name>
+    <role>Tub Family Child</role>
+    <type>Actor</type>
+    <tmdbid>1760893</tmdbid>
+  </actor>
+  <actor>
+    <name>Julia Krynke</name>
+    <role>Sokovian Driver</role>
+    <type>Actor</type>
+    <tmdbid>6092</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Christian</name>
+    <role>Sokovian SUV Driver</role>
+    <type>Actor</type>
+    <tmdbid>1849452</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Kay</name>
+    <role>Sokovian SUV Passenger</role>
+    <type>Actor</type>
+    <tmdbid>1760899</tmdbid>
+  </actor>
+  <actor>
+    <name>Barry Aird</name>
+    <role>Sokovian Police Captain</role>
+    <type>Actor</type>
+    <tmdbid>1015829</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron Himelstein</name>
+    <role>Specialist Cameron Klein</role>
+    <type>Actor</type>
+    <tmdbid>43373</tmdbid>
+  </actor>
+  <actor>
+    <name>Kerry Condon</name>
+    <role>F.R.I.D.A.Y. (voice)</role>
+    <type>Actor</type>
+    <tmdbid>62105</tmdbid>
+    <imdbid>nm0174403</imdbid>
+  </actor>
+  <actor>
+    <name>Jaiden Stafford</name>
+    <role>Nathaniel Pietro Barton</role>
+    <type>Actor</type>
+    <tmdbid>1760900</tmdbid>
+  </actor>
+  <actor>
+    <name>Josh Brolin</name>
+    <role>Thanos (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>16851</tmdbid>
+    <imdbid>nm0000982</imdbid>
+  </actor>
+  <actor>
+    <name>Robert J. Fraser</name>
+    <role>Youth (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1503080</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Westwood</name>
+    <role>Asgardian God (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1371439</tmdbid>
+  </actor>
+  <actor>
+    <name>Lou Ferrigno</name>
+    <role>Hulk (voice, uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>19137</tmdbid>
+  </actor>
+  <actor>
+    <name>Diezel Ramos</name>
+    <role>Masked Asgardian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2573855</tmdbid>
+  </actor>
+  <director tmdbid="12891">Joss Whedon</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=N94KAFjid30</trailer>
+  <rating>7.3</rating>
+  <year>2015</year>
+  <mpaa>HK-13</mpaa>
+  <imdbid>tt2395427</imdbid>
+  <tmdbid>99861</tmdbid>
+  <premiered>2015-04-22</premiered>
+  <releasedate>2015-04-22</releasedate>
+  <criticrating>76</criticrating>
+  <runtime>141</runtime>
+  <tagline>超级英雄震撼回归 强势出击力挽狂澜</tagline>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>冒险</genre>
+  <genre>科幻</genre>
+  <studio>Marvel Studios</studio>
+  <set tmdbcolid="86311">
+    <name>复仇者联盟（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">99861</uniqueid>
+  <uniqueid type="Imdb">tt2395427</uniqueid>
+  <id>tt2395427</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>20460128</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>141</duration>
+        <durationinseconds>8478</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>truehd</codec>
+        <micodec>truehd</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

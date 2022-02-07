@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[　　一向矜持的贝丝·安试图给她的婚姻增添情趣。西蒙妮发现卡尔并没有像他所说的那样善于掩饰自己的通奸痕迹，于是求助于内奥米的儿子汤米寻求安慰。伊莱检查了他性生活清单上的一个项目，但当他意识到泰勒和杰德的关系比他最初想象的要丰富时，他的幸福是短暂的。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-09-01 09:23:15</dateadded>
+  <title>虽然很想杀了你，但是我刚刚洗过头发</title>
+  <actor>
+    <name>Ginnifer Goodwin</name>
+    <role>Beth Ann Stanton</role>
+    <type>Actor</type>
+    <tmdbid>417</tmdbid>
+    <imdbid>nm0329481</imdbid>
+  </actor>
+  <actor>
+    <name>Lucy Liu</name>
+    <role>Simone Grove</role>
+    <type>Actor</type>
+    <tmdbid>140</tmdbid>
+    <imdbid>nm0005154</imdbid>
+  </actor>
+  <actor>
+    <name>Kirby Howell-Baptiste</name>
+    <role>Taylor Harding</role>
+    <type>Actor</type>
+    <tmdbid>1532312</tmdbid>
+    <imdbid>nm4624730</imdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Daddario</name>
+    <role>Jade</role>
+    <type>Actor</type>
+    <tmdbid>109513</tmdbid>
+    <imdbid>nm1275259</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Davenport</name>
+    <role>Karl Grove</role>
+    <type>Actor</type>
+    <tmdbid>1709</tmdbid>
+    <imdbid>nm0202603</imdbid>
+  </actor>
+  <actor>
+    <name>Reid Scott</name>
+    <role>Eli Cohen</role>
+    <type>Actor</type>
+    <tmdbid>81316</tmdbid>
+    <imdbid>nm1169428</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Jaeger</name>
+    <role>Rob Stanton</role>
+    <type>Actor</type>
+    <tmdbid>65727</tmdbid>
+    <imdbid>nm0415382</imdbid>
+  </actor>
+  <actor>
+    <name>Sadie Calvano</name>
+    <role>April</role>
+    <type>Actor</type>
+    <tmdbid>1258702</tmdbid>
+    <imdbid>nm3970180</imdbid>
+  </actor>
+  <actor>
+    <name>Spencer Garrett</name>
+    <role>Hal Burke</role>
+    <type>GuestStar</type>
+    <tmdbid>49275</tmdbid>
+    <imdbid>nm0308208</imdbid>
+  </actor>
+  <actor>
+    <name>Katie Finneran</name>
+    <role>Naomi Harte</role>
+    <type>GuestStar</type>
+    <tmdbid>58771</tmdbid>
+  </actor>
+  <actor>
+    <name>Leo Howard</name>
+    <role>Tommy Harte</role>
+    <type>GuestStar</type>
+    <tmdbid>557921</tmdbid>
+  </actor>
+  <actor>
+    <name>Alicia Coppola</name>
+    <role>Sheila Mosconi</role>
+    <type>GuestStar</type>
+    <tmdbid>126875</tmdbid>
+  </actor>
+  <director>Marc Webb</director>
+  <rating>8.1</rating>
+  <year>2019</year>
+  <imdbid>tt10359242</imdbid>
+  <tvdbid>7298941</tvdbid>
+  <runtime>49</runtime>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt10359242</uniqueid>
+  <uniqueid type="Tvdb">7298941</uniqueid>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2019-08-22</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>8323621</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>49</duration>
+        <durationinseconds>2947</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

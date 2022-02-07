@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[埃尔罗伊承担着保守拉兹卡诺家族秘密的重担，却也因此开始付出代价。爱丽莎和阿莱克斯在赌场参加化妆舞会。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-05 08:00:55</dateadded>
+  <title>人身保险</title>
+  <actor>
+    <name>Manolo Cardona</name>
+    <role>Álex Guzmán</role>
+    <type>Actor</type>
+    <tmdbid>66914</tmdbid>
+    <imdbid>nm0136572</imdbid>
+  </actor>
+  <actor>
+    <name>Carolina Miranda</name>
+    <role>Elisa Lazcano</role>
+    <type>Actor</type>
+    <tmdbid>3000971</tmdbid>
+    <imdbid>nm5429211</imdbid>
+  </actor>
+  <actor>
+    <name>Ginés García Millán</name>
+    <role>César Lazcano</role>
+    <type>Actor</type>
+    <tmdbid>24923</tmdbid>
+    <imdbid>nm0305753</imdbid>
+  </actor>
+  <actor>
+    <name>Claudia Ramírez</name>
+    <role>Mariana Lazcano</role>
+    <type>Actor</type>
+    <tmdbid>143174</tmdbid>
+    <imdbid>nm0709216</imdbid>
+  </actor>
+  <actor>
+    <name>Eugenio Siller</name>
+    <role>Jose Maria</role>
+    <type>Actor</type>
+    <tmdbid>1245795</tmdbid>
+    <imdbid>nm2288366</imdbid>
+  </actor>
+  <actor>
+    <name>Alejandro Nones</name>
+    <role>Rodolfo Lazcano</role>
+    <type>Actor</type>
+    <tmdbid>973853</tmdbid>
+    <imdbid>nm2130174</imdbid>
+  </actor>
+  <actor>
+    <name>Ela Velden</name>
+    <role>Young Marifer</role>
+    <type>Actor</type>
+    <tmdbid>1405006</tmdbid>
+    <imdbid>nm5738712</imdbid>
+  </actor>
+  <actor>
+    <name>Ximena Lamadrid</name>
+    <role>Sara Guzmán</role>
+    <type>Actor</type>
+    <tmdbid>2747742</tmdbid>
+  </actor>
+  <director>David Ruiz</director>
+  <rating>5</rating>
+  <year>2021</year>
+  <imdbid>tt14311334</imdbid>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt14311334</uniqueid>
+  <episode>5</episode>
+  <season>1</season>
+  <aired>2021-03-24</aired>
+  <fileinfo>
+    <streamdetails />
+  </fileinfo>
+</episodedetails>

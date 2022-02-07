@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[唐三、独孤博和杨无敌动身前往皇宫去为雪夜大帝解毒，不料却遭到了太子雪清河的阻拦。两位封号斗罗的突然现身，不得不另唐三怀疑雪清河与武魂殿有勾结。面对雪清河这种弑父的叛贼，唐三愤然反抗，并以烟花示警。可雪清河早就发兵对史莱克学院和七宝琉璃宗进行了围剿...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-17 11:59:52</dateadded>
+  <title>第 8 部分（海神之光篇）：第 152 集「雪清河阻拦唐三，是否与武魂殿有勾结？」</title>
+  <rating>0</rating>
+  <year>2021</year>
+  <runtime>22</runtime>
+  <episode>152</episode>
+  <season>1</season>
+  <aired>2021-04-17</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5058575</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1310</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>93404</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

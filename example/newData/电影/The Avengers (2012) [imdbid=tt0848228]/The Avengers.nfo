@@ -1,0 +1,817 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一股突如其来的强大邪恶势力对地球造成致命威胁，没有任何一个超级英雄能够单独抵挡。长期致力于保护全球安危的神盾局（SHIELD）感到措手不及，其指挥官“独眼侠”尼克·弗瑞意识到他必须创建一个“史上最强”的联盟组织， 云集各方超级英雄一起发威，才能拯救世界于水深火热，抵御黑暗势力的侵袭。于是由六大超级英雄——“钢铁侠”、“雷神” 、“美国队长”、“绿巨人” 、“黑寡妇”和“鹰眼”组成的 “复仇者联盟”应运而生。他们各显神通，团结一心，终于战胜了邪恶势力，保证了地球的安全。]]></plot>
+  <outline><![CDATA[群侠集结 终极一战]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-11 16:14:10</dateadded>
+  <title>复仇者联盟</title>
+  <originaltitle>The Avengers</originaltitle>
+  <actor>
+    <name>Robert Downey Jr.</name>
+    <role>Tony Stark / Iron Man</role>
+    <type>Actor</type>
+    <tmdbid>3223</tmdbid>
+    <imdbid>nm0000375</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Evans</name>
+    <role>Steve Rogers / Captain America</role>
+    <type>Actor</type>
+    <tmdbid>16828</tmdbid>
+    <imdbid>nm0262635</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Ruffalo</name>
+    <role>Bruce Banner / The Hulk</role>
+    <type>Actor</type>
+    <tmdbid>103</tmdbid>
+    <imdbid>nm0749263</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Hemsworth</name>
+    <role>Thor Odinson</role>
+    <type>Actor</type>
+    <tmdbid>74568</tmdbid>
+    <imdbid>nm1165110</imdbid>
+  </actor>
+  <actor>
+    <name>Scarlett Johansson</name>
+    <role>Natasha Romanoff / Black Widow</role>
+    <type>Actor</type>
+    <tmdbid>1245</tmdbid>
+    <imdbid>nm0424060</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Renner</name>
+    <role>Clint Barton / Hawkeye</role>
+    <type>Actor</type>
+    <tmdbid>17604</tmdbid>
+    <imdbid>nm0719637</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Hiddleston</name>
+    <role>Loki</role>
+    <type>Actor</type>
+    <tmdbid>91606</tmdbid>
+    <imdbid>nm1089991</imdbid>
+  </actor>
+  <actor>
+    <name>Samuel L. Jackson</name>
+    <role>Nick Fury</role>
+    <type>Actor</type>
+    <tmdbid>2231</tmdbid>
+    <imdbid>nm0000168</imdbid>
+  </actor>
+  <actor>
+    <name>Cobie Smulders</name>
+    <role>Maria Hill</role>
+    <type>Actor</type>
+    <tmdbid>71189</tmdbid>
+    <imdbid>nm1130627</imdbid>
+  </actor>
+  <actor>
+    <name>Clark Gregg</name>
+    <role>Phil Coulson</role>
+    <type>Actor</type>
+    <tmdbid>9048</tmdbid>
+    <imdbid>nm0163988</imdbid>
+  </actor>
+  <actor>
+    <name>Stellan Skarsgård</name>
+    <role>Erik Selvig</role>
+    <type>Actor</type>
+    <tmdbid>1640</tmdbid>
+    <imdbid>nm0001745</imdbid>
+  </actor>
+  <actor>
+    <name>Gwyneth Paltrow</name>
+    <role>Virginia "Pepper" Potts</role>
+    <type>Actor</type>
+    <tmdbid>12052</tmdbid>
+    <imdbid>nm0000569</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Bettany</name>
+    <role>J.A.R.V.I.S. (voice)</role>
+    <type>Actor</type>
+    <tmdbid>6162</tmdbid>
+    <imdbid>nm0079273</imdbid>
+  </actor>
+  <actor>
+    <name>Alexis Denisof</name>
+    <role>The Other</role>
+    <type>Actor</type>
+    <tmdbid>1214673</tmdbid>
+  </actor>
+  <actor>
+    <name>Tina Benko</name>
+    <role>NASA Scientist</role>
+    <type>Actor</type>
+    <tmdbid>60120</tmdbid>
+    <imdbid>nm0071416</imdbid>
+  </actor>
+  <actor>
+    <name>Jerzy Skolimowski</name>
+    <role>Georgi Luchkov</role>
+    <type>Actor</type>
+    <tmdbid>43553</tmdbid>
+  </actor>
+  <actor>
+    <name>Kirill Nikiforov</name>
+    <role>Weaselly Thug</role>
+    <type>Actor</type>
+    <tmdbid>1479945</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Wolfe</name>
+    <role>Tall Thug</role>
+    <type>Actor</type>
+    <tmdbid>51303</tmdbid>
+  </actor>
+  <actor>
+    <name>M'laah Kaur Singh</name>
+    <role>Young Girl</role>
+    <type>Actor</type>
+    <tmdbid>1479946</tmdbid>
+  </actor>
+  <actor>
+    <name>Rashmi Rustagi</name>
+    <role>Calcutta Woman</role>
+    <type>Actor</type>
+    <tmdbid>86157</tmdbid>
+  </actor>
+  <actor>
+    <name>Powers Boothe</name>
+    <role>World Security Council</role>
+    <type>Actor</type>
+    <tmdbid>6280</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenny Agutter</name>
+    <role>World Security Council</role>
+    <type>Actor</type>
+    <tmdbid>14464</tmdbid>
+  </actor>
+  <actor>
+    <name>Arthur Darbinyan</name>
+    <role>World Security Council</role>
+    <type>Actor</type>
+    <tmdbid>188758</tmdbid>
+  </actor>
+  <actor>
+    <name>Donald Li</name>
+    <role>World Security Council</role>
+    <type>Actor</type>
+    <tmdbid>168246</tmdbid>
+  </actor>
+  <actor>
+    <name>Warren Kole</name>
+    <role>Carrier Bridge Techs</role>
+    <type>Actor</type>
+    <tmdbid>60878</tmdbid>
+  </actor>
+  <actor>
+    <name>Alicia Sixtos</name>
+    <role>Carrier Bridge Techs</role>
+    <type>Actor</type>
+    <tmdbid>81959</tmdbid>
+  </actor>
+  <actor>
+    <name>Maximiliano Hernández</name>
+    <role>Jasper Sitwell</role>
+    <type>Actor</type>
+    <tmdbid>1018947</tmdbid>
+    <imdbid>nm0380073</imdbid>
+  </actor>
+  <actor>
+    <name>Dieter Riesle</name>
+    <role>Gala Scientist</role>
+    <type>Actor</type>
+    <tmdbid>1033652</tmdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Tigar</name>
+    <role>German Old Man</role>
+    <type>Actor</type>
+    <tmdbid>87128</tmdbid>
+    <imdbid>nm0863024</imdbid>
+  </actor>
+  <actor>
+    <name>Walter Perez</name>
+    <role>Shield Pilot</role>
+    <type>Actor</type>
+    <tmdbid>101522</tmdbid>
+  </actor>
+  <actor>
+    <name>Harry Dean Stanton</name>
+    <role>Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>5048</tmdbid>
+    <imdbid>nm0001765</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Cowdery</name>
+    <role>Maintenance Guy</role>
+    <type>Actor</type>
+    <tmdbid>1479957</tmdbid>
+  </actor>
+  <actor>
+    <name>Ashley Johnson</name>
+    <role>Waitress</role>
+    <type>Actor</type>
+    <tmdbid>34486</tmdbid>
+  </actor>
+  <actor>
+    <name>Katsumi Komatsu</name>
+    <role>Japanese Family</role>
+    <type>Actor</type>
+    <tmdbid>1479959</tmdbid>
+  </actor>
+  <actor>
+    <name>Yumiko Komatsu</name>
+    <role>Japanese Family</role>
+    <type>Actor</type>
+    <tmdbid>1479961</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Clohessy</name>
+    <role>Police Sergeant</role>
+    <type>Actor</type>
+    <tmdbid>2256</tmdbid>
+  </actor>
+  <actor>
+    <name>Enver Gjokaj</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>1224022</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernanda Toker</name>
+    <role>Office Woman</role>
+    <type>Actor</type>
+    <tmdbid>1479967</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea Vecchio</name>
+    <role>News Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1480042</tmdbid>
+  </actor>
+  <actor>
+    <name>Robin Swoboda</name>
+    <role>News Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1480043</tmdbid>
+  </actor>
+  <actor>
+    <name>Brent McGee</name>
+    <role>Faceless Pilot</role>
+    <type>Actor</type>
+    <tmdbid>1480044</tmdbid>
+    <imdbid>nm4230395</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie McShane</name>
+    <role>Celebration Montage Interviewee</role>
+    <type>Actor</type>
+    <tmdbid>79079</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Zhang</name>
+    <role>Celebration Montage Interviewee</role>
+    <type>Actor</type>
+    <tmdbid>1203089</tmdbid>
+  </actor>
+  <actor>
+    <name>William-Christopher Stephens</name>
+    <role>Celebration Montage Interviewee</role>
+    <type>Actor</type>
+    <tmdbid>98626</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelley Robins Hicks</name>
+    <role>Celebration Montage Interviewee</role>
+    <type>Actor</type>
+    <tmdbid>1480045</tmdbid>
+  </actor>
+  <actor>
+    <name>Romy Rosemont</name>
+    <role>Shawna Lynde</role>
+    <type>Actor</type>
+    <tmdbid>156342</tmdbid>
+  </actor>
+  <actor>
+    <name>James Eckhouse</name>
+    <role>Senator Boynton</role>
+    <type>Actor</type>
+    <tmdbid>19151</tmdbid>
+  </actor>
+  <actor>
+    <name>Stan Lee</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>7624</tmdbid>
+    <imdbid>nm0498278</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Roberts</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>1234512</tmdbid>
+  </actor>
+  <actor>
+    <name>Pat Kiernan</name>
+    <role>Himself</role>
+    <type>Actor</type>
+    <tmdbid>1480047</tmdbid>
+  </actor>
+  <actor>
+    <name>Damion Poitier</name>
+    <role>Thanos (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>150194</tmdbid>
+    <imdbid>nm1364280</imdbid>
+  </actor>
+  <actor>
+    <name>Lou Ferrigno</name>
+    <role>Hulk (voice - uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>19137</tmdbid>
+  </actor>
+  <actor>
+    <name>Jesse Garcia</name>
+    <role>Carrier Bridge Techs</role>
+    <type>Actor</type>
+    <tmdbid>66525</tmdbid>
+  </actor>
+  <actor>
+    <name>Momoko Komatsu</name>
+    <role>Japanese Family</role>
+    <type>Actor</type>
+    <tmdbid>1479962</tmdbid>
+  </actor>
+  <actor>
+    <name>Jillian Morgese</name>
+    <role>Woman in Restaurant (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1263294</tmdbid>
+  </actor>
+  <actor>
+    <name>Catherine Anderson</name>
+    <role>German Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480048</tmdbid>
+  </actor>
+  <actor>
+    <name>Ricardo Andres</name>
+    <role>Lentil Merchant (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1153698</tmdbid>
+  </actor>
+  <actor>
+    <name>Logan Bennett</name>
+    <role>S.H.I.E.L.D. Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480049</tmdbid>
+  </actor>
+  <actor>
+    <name>Mayank Bhatter</name>
+    <role>Celebration Montage Man Shaving Beard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1191953</tmdbid>
+  </actor>
+  <actor>
+    <name>Sharita Bone</name>
+    <role>Gala Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480051</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Botsford</name>
+    <role>Museum Gala Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480053</tmdbid>
+  </actor>
+  <actor>
+    <name>Mary Kate Campbell</name>
+    <role>Stuttgart Biergarten patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480055</tmdbid>
+  </actor>
+  <actor>
+    <name>Gene N. Chavez</name>
+    <role>S.H.I.E.L.D. Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1403346</tmdbid>
+  </actor>
+  <actor>
+    <name>Layla Cushman</name>
+    <role>Gala Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480056</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Dean</name>
+    <role>Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1466605</tmdbid>
+  </actor>
+  <actor>
+    <name>Rick Dremann</name>
+    <role>Museum Gala Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480057</tmdbid>
+  </actor>
+  <actor>
+    <name>Rod Fielder</name>
+    <role>Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1354406</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Frank</name>
+    <role>Stuttgart Citizen (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480060</tmdbid>
+  </actor>
+  <actor>
+    <name>Israel Hall</name>
+    <role>S.H.I.E.L.D. Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480065</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmen Dee Harris</name>
+    <role>Museum Gala Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480066</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Christopher Jones</name>
+    <role>Mercenary (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480067</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Karban</name>
+    <role>Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480085</tmdbid>
+  </actor>
+  <actor>
+    <name>Demoine Kinney</name>
+    <role>S.H.I.E.L.D. Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480087</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Knode</name>
+    <role>Stuttgart Citizen (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480091</tmdbid>
+  </actor>
+  <actor>
+    <name>Annette Lawless</name>
+    <role>Hostage (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480096</tmdbid>
+  </actor>
+  <actor>
+    <name>Kimberly J. Mahoney</name>
+    <role>Limo Driver (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480097</tmdbid>
+  </actor>
+  <actor>
+    <name>Todd Manes</name>
+    <role>Helicarrier Medical Team Leader (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480124</tmdbid>
+  </actor>
+  <actor>
+    <name>Jorge Mardel</name>
+    <role>Stuttgart Driver (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480128</tmdbid>
+  </actor>
+  <actor>
+    <name>Tiffany Sander McKenzie</name>
+    <role>Civilian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480130</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael McMillan</name>
+    <role>Cafe Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480132</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Meehan</name>
+    <role>Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1001496</tmdbid>
+  </actor>
+  <actor>
+    <name>Holly Neelie</name>
+    <role>Gala Museum Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480146</tmdbid>
+  </actor>
+  <actor>
+    <name>Caleb Daniel Noal</name>
+    <role>Extra (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480148</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Orr</name>
+    <role>S.H.I.E.L.D. Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480152</tmdbid>
+  </actor>
+  <actor>
+    <name>Nate Paige</name>
+    <role>New York Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480153</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Palmer</name>
+    <role>Shiel Employee (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1365516</tmdbid>
+    <imdbid>nm4096851</imdbid>
+  </actor>
+  <actor>
+    <name>Maria Perossa</name>
+    <role>Museum Gala Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480198</tmdbid>
+  </actor>
+  <actor>
+    <name>Caleb Pieplow</name>
+    <role>Extra (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480199</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Daniel Pimentel</name>
+    <role>Helicarrier Shield Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480200</tmdbid>
+    <imdbid>nm6096281</imdbid>
+  </actor>
+  <actor>
+    <name>Frank Powers</name>
+    <role>S.H.I.EL.D Agent - Loki Escort (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480202</tmdbid>
+  </actor>
+  <actor>
+    <name>Jaime Powers</name>
+    <role>S.H.I.E.L.D. Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1371850</tmdbid>
+  </actor>
+  <actor>
+    <name>Brent Reichert</name>
+    <role>Stuttgart Gala Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480204</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelly Ruble</name>
+    <role>S.H.E.I.L.D. Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480208</tmdbid>
+  </actor>
+  <actor>
+    <name>Gina Sarno</name>
+    <role>Restaurant Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1454362</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert B. Schneider IV</name>
+    <role>New York City Police Officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480209</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Seich</name>
+    <role>New York Police Officer in Firefight (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480210</tmdbid>
+  </actor>
+  <actor>
+    <name>Christina Shaffer</name>
+    <role>Stuttgart Beer Garden Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480211</tmdbid>
+  </actor>
+  <actor>
+    <name>Douglas Slygh</name>
+    <role>Museum Gala Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480213</tmdbid>
+  </actor>
+  <actor>
+    <name>Colin Strause</name>
+    <role>S.H.I.E.L.D. Agent #4 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>6037</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert P. Thitoff</name>
+    <role>Gala Patron (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480218</tmdbid>
+  </actor>
+  <actor>
+    <name>George Thomas</name>
+    <role>S.H.I.E.L.D. Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480219</tmdbid>
+  </actor>
+  <actor>
+    <name>Shane Thompson</name>
+    <role>Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480220</tmdbid>
+  </actor>
+  <actor>
+    <name>Jerry Lee Tucker</name>
+    <role>Mercenary (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480221</tmdbid>
+  </actor>
+  <actor>
+    <name>Tai Urban</name>
+    <role>Child on News #1 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480222</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Vaina</name>
+    <role>Running Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480223</tmdbid>
+  </actor>
+  <actor>
+    <name>Sandra Weston</name>
+    <role>Sweeper (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480224</tmdbid>
+  </actor>
+  <actor>
+    <name>Seth Zielicke</name>
+    <role>Barbershop (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1480226</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex DeCourville</name>
+    <role>Tourist (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1673576</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrea-Nichole Olivas</name>
+    <role>S.H.I.E.L.D agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1343164</tmdbid>
+  </actor>
+  <actor>
+    <name>Tina Grimm</name>
+    <role>NYC Pedestrian (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1376001</tmdbid>
+  </actor>
+  <actor>
+    <name>Evan Kole</name>
+    <role>Principal (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1962256</tmdbid>
+  </actor>
+  <actor>
+    <name>Hank Amos</name>
+    <role>S.H.I.E.L.D. Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>9437</tmdbid>
+    <imdbid>nm0025305</imdbid>
+  </actor>
+  <director tmdbid="12891">Joss Whedon</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=IvNgSKQNnKw</trailer>
+  <rating>8</rating>
+  <year>2012</year>
+  <mpaa>HK-IIA </mpaa>
+  <imdbid>tt0848228</imdbid>
+  <tmdbid>24428</tmdbid>
+  <premiered>2012-04-25</premiered>
+  <releasedate>2012-04-25</releasedate>
+  <criticrating>91</criticrating>
+  <runtime>143</runtime>
+  <tagline>群侠集结 终极一战</tagline>
+  <country>United States of America</country>
+  <genre>科幻</genre>
+  <genre>动作</genre>
+  <genre>冒险</genre>
+  <studio>Marvel Studios</studio>
+  <studio>Paramount</studio>
+  <set tmdbcolid="86311">
+    <name>复仇者联盟（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">24428</uniqueid>
+  <uniqueid type="Imdb">tt0848228</uniqueid>
+  <id>tt0848228</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>16521947</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>142</duration>
+        <durationinseconds>8574</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

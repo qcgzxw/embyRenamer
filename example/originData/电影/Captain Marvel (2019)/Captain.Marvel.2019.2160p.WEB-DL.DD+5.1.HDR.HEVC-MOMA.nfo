@@ -1,0 +1,438 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[在围剿斯克鲁人的战斗中，克里人星际战队成员弗斯（布丽·拉尔森 Brie Larson 饰）不幸成为对方的俘虏。斯克鲁人尝试探究弗斯的记忆，最终发现连弗斯本人都不知道的一段往事，进而也得知名为温迪•劳森博士的女子掌握着他们急于得到的时空引擎。趁对方不备，拥有强大超能力的弗斯摆脱束缚，逃到了代号为C-53的地球，而这里也正是她那段失落的记忆的发生地。未过多久，神盾局探员弗瑞特工（塞缪尔·杰克逊 Samuel L. Jackson 饰）找上门来，而紧随其后的斯克鲁人更是引发了地球人前所未见的大骚动。在这一过程中，弗瑞特工意识到事态的严重性，并且帮助弗斯认清本来的自己。倔强的弗斯，终于找到了真正需要保护的东西……  漫画中的初代“惊奇女士”原名Carol Danvers，她曾经是一名美国空军情报局探员，暗恋惊奇先生。此后她得到了超能力，成为“惊奇女士”，在漫画中是非常典型的女性英雄人物。她可以吸收并控制任意形态的能量，拥有众多超能力。《惊奇队长》将是漫威首部以女性超级英雄为主角的电影。]]></plot>
+  <outline><![CDATA[漫威电影宇宙超级英雄 复仇者联盟终极集结前哨战]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2019-06-01 06:27:31</dateadded>
+  <title>惊奇队长</title>
+  <originaltitle>Captain Marvel</originaltitle>
+  <actor>
+    <name>Brie Larson</name>
+    <role>Carol Danvers / Vers / Captain Marvel</role>
+    <type>Actor</type>
+    <tmdbid>60073</tmdbid>
+    <imdbid>nm0488953</imdbid>
+  </actor>
+  <actor>
+    <name>Samuel L. Jackson</name>
+    <role>Nick Fury</role>
+    <type>Actor</type>
+    <tmdbid>2231</tmdbid>
+    <imdbid>nm0000168</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Mendelsohn</name>
+    <role>Talos / Keller</role>
+    <type>Actor</type>
+    <tmdbid>77335</tmdbid>
+    <imdbid>nm0578853</imdbid>
+  </actor>
+  <actor>
+    <name>Jude Law</name>
+    <role>Yon-Rogg</role>
+    <type>Actor</type>
+    <tmdbid>9642</tmdbid>
+    <imdbid>nm0000179</imdbid>
+  </actor>
+  <actor>
+    <name>Annette Bening</name>
+    <role>Supreme Intelligence / Dr. Wendy Lawson</role>
+    <type>Actor</type>
+    <tmdbid>516</tmdbid>
+    <imdbid>nm0000906</imdbid>
+  </actor>
+  <actor>
+    <name>Djimon Hounsou</name>
+    <role>Korath</role>
+    <type>Actor</type>
+    <tmdbid>938</tmdbid>
+    <imdbid>nm0005023</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Pace</name>
+    <role>Ronan the Accuser</role>
+    <type>Actor</type>
+    <tmdbid>72095</tmdbid>
+    <imdbid>nm1195855</imdbid>
+  </actor>
+  <actor>
+    <name>Lashana Lynch</name>
+    <role>Maria Rambeau</role>
+    <type>Actor</type>
+    <tmdbid>1360281</tmdbid>
+    <imdbid>nm2736476</imdbid>
+  </actor>
+  <actor>
+    <name>Gemma Chan</name>
+    <role>Minn-Erva</role>
+    <type>Actor</type>
+    <tmdbid>97576</tmdbid>
+    <imdbid>nm2110418</imdbid>
+  </actor>
+  <actor>
+    <name>Clark Gregg</name>
+    <role>Agent Phil Coulson</role>
+    <type>Actor</type>
+    <tmdbid>9048</tmdbid>
+    <imdbid>nm0163988</imdbid>
+  </actor>
+  <actor>
+    <name>Rune Temte</name>
+    <role>Bron-Charr</role>
+    <type>Actor</type>
+    <tmdbid>76618</tmdbid>
+    <imdbid>nm0854815</imdbid>
+  </actor>
+  <actor>
+    <name>Algenis Perez Soto</name>
+    <role>Att-Lass</role>
+    <type>Actor</type>
+    <tmdbid>86381</tmdbid>
+    <imdbid>nm2714417</imdbid>
+  </actor>
+  <actor>
+    <name>Mckenna Grace</name>
+    <role>Young Carol (13 Years Old)</role>
+    <type>Actor</type>
+    <tmdbid>1172108</tmdbid>
+    <imdbid>nm5085683</imdbid>
+  </actor>
+  <actor>
+    <name>Akira Akbar</name>
+    <role>Monica Rambeau (11 Years Old)</role>
+    <type>Actor</type>
+    <tmdbid>2258733</tmdbid>
+    <imdbid>nm7739127</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Maher</name>
+    <role>Norex</role>
+    <type>Actor</type>
+    <tmdbid>1232599</tmdbid>
+    <imdbid>nm0536866</imdbid>
+  </actor>
+  <actor>
+    <name>Chuku Modu</name>
+    <role>Soh-Larr</role>
+    <type>Actor</type>
+    <tmdbid>1610710</tmdbid>
+    <imdbid>nm6729880</imdbid>
+  </actor>
+  <actor>
+    <name>Vik Sahay</name>
+    <role>Hero Torfan</role>
+    <type>Actor</type>
+    <tmdbid>6623</tmdbid>
+    <imdbid>nm0006710</imdbid>
+  </actor>
+  <actor>
+    <name>Colin Ford</name>
+    <role>Steve Danvers</role>
+    <type>Actor</type>
+    <tmdbid>74539</tmdbid>
+    <imdbid>nm1225406</imdbid>
+  </actor>
+  <actor>
+    <name>Kenneth Mitchell</name>
+    <role>Joseph Danvers</role>
+    <type>Actor</type>
+    <tmdbid>28868</tmdbid>
+    <imdbid>nm1058987</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen A. Chang</name>
+    <role>Cadet Officer</role>
+    <type>Actor</type>
+    <tmdbid>1514930</tmdbid>
+    <imdbid>nm4229526</imdbid>
+  </actor>
+  <actor>
+    <name>Pete Ploszek</name>
+    <role>Bret Johnson</role>
+    <type>Actor</type>
+    <tmdbid>1163622</tmdbid>
+    <imdbid>nm5293935</imdbid>
+  </actor>
+  <actor>
+    <name>London Fuller</name>
+    <role>Young Carol (6 Years Old)</role>
+    <type>Actor</type>
+    <tmdbid>2175390</tmdbid>
+    <imdbid>nm4960618</imdbid>
+  </actor>
+  <actor>
+    <name>Azari Akbar</name>
+    <role>Monica Rambeau (5 Years Old)</role>
+    <type>Actor</type>
+    <tmdbid>2292715</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Daugherty</name>
+    <role>Skrull Main Tech</role>
+    <type>Actor</type>
+    <tmdbid>1183671</tmdbid>
+    <imdbid>nm3239836</imdbid>
+  </actor>
+  <actor>
+    <name>Diana Toshiko</name>
+    <role>Skrull Tech #1</role>
+    <type>Actor</type>
+    <tmdbid>1288264</tmdbid>
+    <imdbid>nm1218148</imdbid>
+  </actor>
+  <actor>
+    <name>Barry Curtis</name>
+    <role>Mall Security Guard</role>
+    <type>Actor</type>
+    <tmdbid>2293121</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Ozrey</name>
+    <role>Surfer Girl Talos #1</role>
+    <type>Actor</type>
+    <tmdbid>2219719</tmdbid>
+    <imdbid>nm3327642</imdbid>
+  </actor>
+  <actor>
+    <name>Abigaille Ozrey</name>
+    <role>Surfer Girl Talos #2</role>
+    <type>Actor</type>
+    <tmdbid>1989352</tmdbid>
+    <imdbid>nm5455894</imdbid>
+  </actor>
+  <actor>
+    <name>Marilyn Brett</name>
+    <role>Older Lady on Train</role>
+    <type>Actor</type>
+    <tmdbid>149776</tmdbid>
+    <imdbid>nm0107962</imdbid>
+  </actor>
+  <actor>
+    <name>Stan Lee</name>
+    <role>Stan Lee</role>
+    <type>Actor</type>
+    <tmdbid>7624</tmdbid>
+    <imdbid>nm0498278</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Kazinsky</name>
+    <role>Biker (The Don)</role>
+    <type>Actor</type>
+    <tmdbid>1038379</tmdbid>
+    <imdbid>nm2059117</imdbid>
+  </actor>
+  <actor>
+    <name>Nelson Franklin</name>
+    <role>Medical Examiner</role>
+    <type>Actor</type>
+    <tmdbid>88928</tmdbid>
+    <imdbid>nm1815689</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Brennan</name>
+    <role>Bartender</role>
+    <type>Actor</type>
+    <tmdbid>76022</tmdbid>
+    <imdbid>nm1229637</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Gallagher</name>
+    <role>Security Chief</role>
+    <type>Actor</type>
+    <tmdbid>17837</tmdbid>
+    <imdbid>nm0302466</imdbid>
+  </actor>
+  <actor>
+    <name>Ana Ayora</name>
+    <role>Agent Whitcher</role>
+    <type>Actor</type>
+    <tmdbid>1077805</tmdbid>
+    <imdbid>nm3065524</imdbid>
+  </actor>
+  <actor>
+    <name>Lyonetta Flowers</name>
+    <role>Monica's Grandmother</role>
+    <type>Actor</type>
+    <tmdbid>2325804</tmdbid>
+  </actor>
+  <actor>
+    <name>Rufus Flowers</name>
+    <role>Monica's Grandfather</role>
+    <type>Actor</type>
+    <tmdbid>2325805</tmdbid>
+  </actor>
+  <actor>
+    <name>Sharon Blynn</name>
+    <role>Soren</role>
+    <type>Actor</type>
+    <tmdbid>2292713</tmdbid>
+  </actor>
+  <actor>
+    <name>Auden L. Ophuls</name>
+    <role>Talos' Daughter</role>
+    <type>Actor</type>
+    <tmdbid>2325807</tmdbid>
+    <imdbid>nm10524663</imdbid>
+  </actor>
+  <actor>
+    <name>Harriet L. Ophuls</name>
+    <role>Talos' Daughter</role>
+    <type>Actor</type>
+    <tmdbid>2325808</tmdbid>
+    <imdbid>nm10524664</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Bellows</name>
+    <role>Accuser #1</role>
+    <type>Actor</type>
+    <tmdbid>583885</tmdbid>
+    <imdbid>nm2131846</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Zeringue</name>
+    <role>Tom the Neighbor</role>
+    <type>Actor</type>
+    <tmdbid>1523304</tmdbid>
+    <imdbid>nm1996060</imdbid>
+  </actor>
+  <actor>
+    <name>Duane Henry</name>
+    <role>Talos-Kree Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1240417</tmdbid>
+    <imdbid>nm1821157</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Evans</name>
+    <role>Steve Rogers / Captain America (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>16828</tmdbid>
+    <imdbid>nm0262635</imdbid>
+  </actor>
+  <actor>
+    <name>Scarlett Johansson</name>
+    <role>Natasha Romanoff / Black Widow (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1245</tmdbid>
+    <imdbid>nm0424060</imdbid>
+  </actor>
+  <actor>
+    <name>Don Cheadle</name>
+    <role>James 'Rhodey' Rhodes / War Machine (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1896</tmdbid>
+    <imdbid>nm0000332</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Ruffalo</name>
+    <role>Bruce Banner / The Hulk (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>103</tmdbid>
+    <imdbid>nm0749263</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew 'Spider' Kimmel</name>
+    <role>Spider</role>
+    <type>Actor</type>
+    <tmdbid>2467593</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephen 'Cajun' Del Bagno</name>
+    <role>Cajun</role>
+    <type>Actor</type>
+    <tmdbid>2467594</tmdbid>
+  </actor>
+  <actor>
+    <name>Kelly Sue DeConnick</name>
+    <role>Lady in Subway Station (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2518232</tmdbid>
+  </actor>
+  <actor>
+    <name>Vinny O'Brien</name>
+    <role>Skrull Spy 2 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2323834</tmdbid>
+    <imdbid>nm8220546</imdbid>
+  </actor>
+  <director tmdbid="53068" imdbid="nm0281396">Ryan Fleck</director>
+  <director tmdbid="53069" imdbid="nm1349818">Anna Boden</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0LHxvxdRnYc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=GX33bIOA5aA</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Z1BCujX3pw8</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=eh_qPcQoFK0</trailer>
+  <rating>6.8</rating>
+  <year>2019</year>
+  <mpaa>HK-IIA</mpaa>
+  <imdbid>tt4154664</imdbid>
+  <tmdbid>299537</tmdbid>
+  <premiered>2019-03-06</premiered>
+  <releasedate>2019-03-06</releasedate>
+  <criticrating>79</criticrating>
+  <runtime>124</runtime>
+  <tagline>漫威电影宇宙超级英雄 复仇者联盟终极集结前哨战</tagline>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>冒险</genre>
+  <genre>科幻</genre>
+  <studio>Marvel Studios</studio>
+  <set tmdbcolid="623911">
+    <name>惊奇队长（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">299537</uniqueid>
+  <uniqueid type="Imdb">tt4154664</uniqueid>
+  <id>tt4154664</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>14129370</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>123</duration>
+        <durationinseconds>7420</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

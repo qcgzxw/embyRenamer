@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　清朝年间，宋世杰是广州有名的状师。他因为钱而替有罪的富人脱罪而遭天遣，使得十几个儿子相继早夭。他与心地善良且为人泼辣的妻子十分恩爱。为了不绝后，宋世杰经妻子劝告后决定不再造恶业于是封笔停止办案，并开了家小客栈谋生。一日宋世杰夫人巧遇从山西落难到广州的孕妇杨秀珍，得知她的丈夫被姚大夫妇害死的冤情，鉴于姚大老婆乃山西布政司的妹妹，本地官员执法不公庇护真凶。宋夫人请丈夫为杨氏伸冤，被宋拒绝。于是宋氏自写状纸，不料上堂却被广州新任知县何汝大打伤，宋世杰因此怒火中烧决定重出江湖，为杨氏讨个公道。  因何汝大收受山西布政司的密信和五千两白银的贿赂，所以何将宋世杰打入监牢，后宋靠装疯得以出来。在杨青的帮助下，宋请来八府巡按大人来此审案。在宋与老婆的精彩配合与聪明智辩下，广州知县与山西布政司之间的内幕交易被揭出。最终不仅姚大夫妇二人被绳之以法，官官相护的丑恶嘴脸也得到了淋漓尽致地讽刺与鞭笞。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-04 14:15:59</dateadded>
+  <title>审死官</title>
+  <originaltitle>審死官</originaltitle>
+  <actor>
+    <name>Stephen Chow</name>
+    <role>Sung Sai-Kit / Sung Shih-Chieh</role>
+    <type>Actor</type>
+    <tmdbid>57607</tmdbid>
+    <imdbid>nm0159507</imdbid>
+  </actor>
+  <actor>
+    <name>Anita Mui</name>
+    <role>Mrs. Sung</role>
+    <type>Actor</type>
+    <tmdbid>44917</tmdbid>
+    <imdbid>nm0611315</imdbid>
+  </actor>
+  <actor>
+    <name>Carrie Ng</name>
+    <role>Yeung Sau-Chun / Yang Hsiu-Chen</role>
+    <type>Actor</type>
+    <tmdbid>109301</tmdbid>
+    <imdbid>nm0628731</imdbid>
+  </actor>
+  <actor>
+    <name>Ng Man-tat</name>
+    <role>Guangzhou Magistrate Ho Yue-Da</role>
+    <type>Actor</type>
+    <tmdbid>70437</tmdbid>
+    <imdbid>nm0628806</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Chun</name>
+    <role>Inspector General</role>
+    <type>Actor</type>
+    <tmdbid>87733</tmdbid>
+    <imdbid>nm0157971</imdbid>
+  </actor>
+  <actor>
+    <name>Leung Kar-Yan</name>
+    <role>Shanxi Commissioner Tin</role>
+    <type>Actor</type>
+    <tmdbid>227782</tmdbid>
+    <imdbid>nm0415777</imdbid>
+  </actor>
+  <actor>
+    <name>Eddy Ko</name>
+    <role>Yeung Ching / Yang Ching</role>
+    <type>Actor</type>
+    <tmdbid>612216</tmdbid>
+    <imdbid>nm0304708</imdbid>
+  </actor>
+  <actor>
+    <name>Wong Hung</name>
+    <role>Sau-Chun's Second Brother</role>
+    <type>Actor</type>
+    <tmdbid>1139220</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Ki-Yee Chik</name>
+    <role>Mr. Yiu (Yao)</role>
+    <type>Actor</type>
+    <tmdbid>1166325</tmdbid>
+    <imdbid>nm0157392</imdbid>
+  </actor>
+  <actor>
+    <name>Kingdom Yuen</name>
+    <role>Mrs. Yao / Mrs. Yiu</role>
+    <type>Actor</type>
+    <tmdbid>94076</tmdbid>
+    <imdbid>nm0950738</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Che Biu-law</name>
+    <role>Thin Tiger</role>
+    <type>Actor</type>
+    <tmdbid>564834</tmdbid>
+    <imdbid>nm1794888</imdbid>
+  </actor>
+  <actor>
+    <name>Sze Kai-Keung</name>
+    <role>Fat Dragon</role>
+    <type>Actor</type>
+    <tmdbid>1201406</tmdbid>
+  </actor>
+  <actor>
+    <name>Cheng Kwun-Min</name>
+    <role>Guangzhou Magistrate Hu</role>
+    <type>Actor</type>
+    <tmdbid>1427641</tmdbid>
+  </actor>
+  <actor>
+    <name>Chun Wong</name>
+    <role>Commissioner Tin / Mrs. Yiu's Mother</role>
+    <type>Actor</type>
+    <tmdbid>296066</tmdbid>
+  </actor>
+  <actor>
+    <name>Wong Yat-fei</name>
+    <role>Ah Fook / Fu</role>
+    <type>Actor</type>
+    <tmdbid>956575</tmdbid>
+    <imdbid>nm0939431</imdbid>
+  </actor>
+  <actor>
+    <name>Mimi Chu</name>
+    <role>Nanny</role>
+    <type>Actor</type>
+    <tmdbid>1135781</tmdbid>
+  </actor>
+  <actor>
+    <name>Wong Tin-Lam</name>
+    <role>Shoe Shopkeeper</role>
+    <type>Actor</type>
+    <tmdbid>945583</tmdbid>
+    <imdbid>nm0911048</imdbid>
+  </actor>
+  <actor>
+    <name>Wong San</name>
+    <role>Chan Cheung-Fu</role>
+    <type>Actor</type>
+    <tmdbid>1134165</tmdbid>
+    <imdbid>nm0398790</imdbid>
+  </actor>
+  <actor>
+    <name>Kan-Wing Tsang</name>
+    <role>Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1905855</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Shing-cheong</name>
+    <role>Ah Yuen</role>
+    <type>Actor</type>
+    <tmdbid>1246124</tmdbid>
+  </actor>
+  <actor>
+    <name>Ai Wai</name>
+    <role>Ah Chuen</role>
+    <type>Actor</type>
+    <tmdbid>25253</tmdbid>
+    <imdbid>nm0014421</imdbid>
+  </actor>
+  <actor>
+    <name>Lung Tin-Sang</name>
+    <role>Magistrate Ho's Advisor</role>
+    <type>Actor</type>
+    <tmdbid>955784</tmdbid>
+  </actor>
+  <actor>
+    <name>Fofo Ma</name>
+    <role>Chan Tai-Man</role>
+    <type>Actor</type>
+    <tmdbid>1402707</tmdbid>
+    <imdbid>nm2129469</imdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Chan</name>
+    <role>Tragedy</role>
+    <type>Actor</type>
+    <tmdbid>2546927</tmdbid>
+  </actor>
+  <actor>
+    <name>Chi Ping Chang</name>
+    <role>Assassin in Drag</role>
+    <type>Actor</type>
+    <tmdbid>1388362</tmdbid>
+  </actor>
+  <actor>
+    <name>Cheng Ka-Sang</name>
+    <role>Assassin in Drag</role>
+    <type>Actor</type>
+    <tmdbid>1195556</tmdbid>
+  </actor>
+  <actor>
+    <name>Cho Wing</name>
+    <role>Inspector General's Man</role>
+    <type>Actor</type>
+    <tmdbid>67225</tmdbid>
+    <imdbid>nm0158659</imdbid>
+  </actor>
+  <actor>
+    <name>Lam Foo-Wai</name>
+    <role>Cheung Biu's Hired Thug</role>
+    <type>Actor</type>
+    <tmdbid>2527079</tmdbid>
+  </actor>
+  <actor>
+    <name>Lau Chi-Ming</name>
+    <role>Cheung Biu's Hired Thug</role>
+    <type>Actor</type>
+    <tmdbid>2527083</tmdbid>
+  </actor>
+  <actor>
+    <name>Chi-Ming Leung</name>
+    <role>Mr. Bing</role>
+    <type>Actor</type>
+    <tmdbid>1472410</tmdbid>
+    <imdbid>nm5756811</imdbid>
+  </actor>
+  <actor>
+    <name>Kai Chi Leung</name>
+    <role>Chan Cheung-Fu's Assistant</role>
+    <type>Actor</type>
+    <tmdbid>2546930</tmdbid>
+  </actor>
+  <actor>
+    <name>Hsin Liang</name>
+    <role>Cheung Biu</role>
+    <type>Actor</type>
+    <tmdbid>2546932</tmdbid>
+  </actor>
+  <actor>
+    <name>Buffalo Tang Tai-Wo</name>
+    <role>Cheung Biu's Hired Thug</role>
+    <type>Actor</type>
+    <tmdbid>1270653</tmdbid>
+  </actor>
+  <actor>
+    <name>Yeung Yau-Cheung</name>
+    <role>Shanxi Magistrate Yeung</role>
+    <type>Actor</type>
+    <tmdbid>2279700</tmdbid>
+  </actor>
+  <actor>
+    <name>Yu Ngai-Ho</name>
+    <type>Actor</type>
+    <tmdbid>1595054</tmdbid>
+  </actor>
+  <director tmdbid="25236" imdbid="nm0864775">Johnnie To</director>
+  <rating>6.9</rating>
+  <year>1992</year>
+  <imdbid>tt0105385</imdbid>
+  <tmdbid>32517</tmdbid>
+  <premiered>1992-07-02</premiered>
+  <releasedate>1992-07-02</releasedate>
+  <criticrating>79</criticrating>
+  <runtime>99</runtime>
+  <country>Hong Kong</country>
+  <genre>喜剧</genre>
+  <genre>动作</genre>
+  <studio>Cosmopolitan Film Productions Co., Ltd.</studio>
+  <uniqueid type="Imdb">tt0105385</uniqueid>
+  <uniqueid type="Tmdb">32517</uniqueid>
+  <id>tt0105385</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5742217</bitrate>
+        <width>1920</width>
+        <height>1034</height>
+        <aspect>960:517</aspect>
+        <aspectratio>960:517</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5961</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>320000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>320000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,460 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[劳拉·邓恩和艾伦·鲍斯汀将加盟电影《故事》。电影由著名制片人詹妮弗·福克斯亲身经历改编。詹妮弗的妈妈偶然间发现了一封女儿40年前所写的信。信里揭露了一段三角关系，诸多秘密就此被揭开。劳拉·邓恩和艾伦·鲍斯汀将分别饰演詹妮弗和其母亲。伊丽莎白·德比茨基、科曼、杰森·雷特也将出演该片。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-07-03 12:48:08</dateadded>
+  <title>信笺故事</title>
+  <originaltitle>The Tale</originaltitle>
+  <actor>
+    <name>Laura Dern</name>
+    <role>Jennifer Fox</role>
+    <type>Actor</type>
+    <tmdbid>4784</tmdbid>
+    <imdbid>nm0000368</imdbid>
+  </actor>
+  <actor>
+    <name>Isabelle Nélisse</name>
+    <role>Jenny Fox (13 Years)</role>
+    <type>Actor</type>
+    <tmdbid>1094759</tmdbid>
+    <imdbid>nm4719471</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Debicki</name>
+    <role>Mrs. G.</role>
+    <type>Actor</type>
+    <tmdbid>1133349</tmdbid>
+    <imdbid>nm4456120</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Ritter</name>
+    <role>Bill Allens</role>
+    <type>Actor</type>
+    <tmdbid>50095</tmdbid>
+    <imdbid>nm0728762</imdbid>
+  </actor>
+  <actor>
+    <name>Ellen Burstyn</name>
+    <role>Nadine 'Nettie' Fox</role>
+    <type>Actor</type>
+    <tmdbid>9560</tmdbid>
+    <imdbid>nm0000995</imdbid>
+  </actor>
+  <actor>
+    <name>Common</name>
+    <role>Martin</role>
+    <type>Actor</type>
+    <tmdbid>4238</tmdbid>
+    <imdbid>nm0996669</imdbid>
+  </actor>
+  <actor>
+    <name>Frances Conroy</name>
+    <role>Older Mrs. G.</role>
+    <type>Actor</type>
+    <tmdbid>4432</tmdbid>
+    <imdbid>nm0175814</imdbid>
+  </actor>
+  <actor>
+    <name>John Heard</name>
+    <role>Older Bill Allens</role>
+    <type>Actor</type>
+    <tmdbid>11512</tmdbid>
+    <imdbid>nm0001334</imdbid>
+  </actor>
+  <actor>
+    <name>Jodi Long</name>
+    <role>Rebecca Davis</role>
+    <type>Actor</type>
+    <tmdbid>44059</tmdbid>
+    <imdbid>nm0519023</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Allen</name>
+    <role>Young Nadine 'Nettie' Fox</role>
+    <type>Actor</type>
+    <tmdbid>79792</tmdbid>
+    <imdbid>nm0020751</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Rauch</name>
+    <role>Aaron Fox</role>
+    <type>Actor</type>
+    <tmdbid>111116</tmdbid>
+    <imdbid>nm1013218</imdbid>
+  </actor>
+  <actor>
+    <name>Tina Parker</name>
+    <role>Fran Lorber</role>
+    <type>Actor</type>
+    <tmdbid>147085</tmdbid>
+    <imdbid>nm0662669</imdbid>
+  </actor>
+  <actor>
+    <name>Gretchen Koerner</name>
+    <role>Iris Rose</role>
+    <type>Actor</type>
+    <tmdbid>1451392</tmdbid>
+    <imdbid>nm2346855</imdbid>
+  </actor>
+  <actor>
+    <name>Shay Lee Abeson</name>
+    <role>Young Becky Davis</role>
+    <type>Actor</type>
+    <tmdbid>1939760</tmdbid>
+    <imdbid>nm7719933</imdbid>
+  </actor>
+  <actor>
+    <name>Isabella Amara</name>
+    <role>Young Franny Lorber</role>
+    <type>Actor</type>
+    <tmdbid>1517836</tmdbid>
+    <imdbid>nm4194645</imdbid>
+  </actor>
+  <actor>
+    <name>Madison David</name>
+    <role>Young Iris Rose</role>
+    <type>Actor</type>
+    <tmdbid>1939776</tmdbid>
+    <imdbid>nm3034626</imdbid>
+  </actor>
+  <actor>
+    <name>Thom Bishops</name>
+    <role>Mike Amato</role>
+    <type>Actor</type>
+    <tmdbid>209505</tmdbid>
+    <imdbid>nm1400994</imdbid>
+  </actor>
+  <actor>
+    <name>Noah Lomax</name>
+    <role>Lucas Mendelsohn</role>
+    <type>Actor</type>
+    <tmdbid>524503</tmdbid>
+    <imdbid>nm3470683</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Berson</name>
+    <role>Joe</role>
+    <type>Actor</type>
+    <tmdbid>1020573</tmdbid>
+    <imdbid>nm4327542</imdbid>
+  </actor>
+  <actor>
+    <name>Chelsea Alden</name>
+    <role>Samantha</role>
+    <type>Actor</type>
+    <tmdbid>1367249</tmdbid>
+    <imdbid>nm4090175</imdbid>
+  </actor>
+  <actor>
+    <name>Jaqueline Fleming</name>
+    <role>Margie</role>
+    <type>Actor</type>
+    <tmdbid>62072</tmdbid>
+    <imdbid>nm0281693</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Takeda</name>
+    <role>Mr. Watada</role>
+    <type>Actor</type>
+    <tmdbid>1439204</tmdbid>
+    <imdbid>nm1956106</imdbid>
+  </actor>
+  <actor>
+    <name>Brett Justin Koppel</name>
+    <role>David</role>
+    <type>Actor</type>
+    <tmdbid>1939758</tmdbid>
+    <imdbid>nm6326221</imdbid>
+  </actor>
+  <actor>
+    <name>Dana Healey</name>
+    <role>Dr. Graham</role>
+    <type>Actor</type>
+    <tmdbid>1110618</tmdbid>
+    <imdbid>nm3453145</imdbid>
+  </actor>
+  <actor>
+    <name>Grant James</name>
+    <role>Older Dr. Graham</role>
+    <type>Actor</type>
+    <tmdbid>116433</tmdbid>
+    <imdbid>nm0416532</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Williamson</name>
+    <role>Raymond Graham</role>
+    <type>Actor</type>
+    <tmdbid>1757580</tmdbid>
+    <imdbid>nm5681449</imdbid>
+  </actor>
+  <actor>
+    <name>Juli Erickson</name>
+    <role>Grandmother</role>
+    <type>Actor</type>
+    <tmdbid>464188</tmdbid>
+    <imdbid>nm0259074</imdbid>
+  </actor>
+  <actor>
+    <name>Jessica Sarah Flaum</name>
+    <role>Jenny Fox (15 Years)</role>
+    <type>Actor</type>
+    <tmdbid>1939757</tmdbid>
+    <imdbid>nm5673357</imdbid>
+  </actor>
+  <actor>
+    <name>Deana Deatherage</name>
+    <role>College Student</role>
+    <type>Actor</type>
+    <tmdbid>1484779</tmdbid>
+    <imdbid>nm4099719</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Riley Fox</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>1735733</tmdbid>
+    <imdbid>nm0809538</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Gamble</name>
+    <role>70's Diner Waitress</role>
+    <type>Actor</type>
+    <tmdbid>1754456</tmdbid>
+    <imdbid>nm6013804</imdbid>
+  </actor>
+  <actor>
+    <name>Katie Fairbanks</name>
+    <role>7th Grade Student</role>
+    <type>Actor</type>
+    <tmdbid>1899292</tmdbid>
+    <imdbid>nm6546313</imdbid>
+  </actor>
+  <actor>
+    <name>Jered Meeks</name>
+    <role>Football Player</role>
+    <type>Actor</type>
+    <tmdbid>1783680</tmdbid>
+    <imdbid>nm6110813</imdbid>
+  </actor>
+  <actor>
+    <name>Emily Sandifer</name>
+    <role>Student #4</role>
+    <type>Actor</type>
+    <tmdbid>1123809</tmdbid>
+    <imdbid>nm2908215</imdbid>
+  </actor>
+  <actor>
+    <name>Mobin Khan</name>
+    <role>Indian Protester</role>
+    <type>Actor</type>
+    <tmdbid>1256256</tmdbid>
+    <imdbid>nm1783154</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Mitchell</name>
+    <role>Acolyte</role>
+    <type>Actor</type>
+    <tmdbid>1893759</tmdbid>
+    <imdbid>nm7730296</imdbid>
+  </actor>
+  <actor>
+    <name>Jenson Cheng</name>
+    <role>Student #2</role>
+    <type>Actor</type>
+    <tmdbid>1746630</tmdbid>
+    <imdbid>nm4766811</imdbid>
+  </actor>
+  <actor>
+    <name>Russell Bradley Fenton</name>
+    <role>University Student</role>
+    <type>Actor</type>
+    <tmdbid>1320921</tmdbid>
+    <imdbid>nm1226334</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Chulew</name>
+    <role>Acolyte</role>
+    <type>Actor</type>
+    <tmdbid>1386301</tmdbid>
+    <imdbid>nm5307554</imdbid>
+  </actor>
+  <actor>
+    <name>Keenan R. Carter</name>
+    <role>University Student</role>
+    <type>Actor</type>
+    <tmdbid>1939761</tmdbid>
+    <imdbid>nm2976960</imdbid>
+  </actor>
+  <actor>
+    <name>Madara Jayasena</name>
+    <role>Student #3</role>
+    <type>Actor</type>
+    <tmdbid>1939762</tmdbid>
+    <imdbid>nm6551667</imdbid>
+  </actor>
+  <actor>
+    <name>Malarie Drake</name>
+    <role>7th Grade Student</role>
+    <type>Actor</type>
+    <tmdbid>1939763</tmdbid>
+    <imdbid>nm6808558</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Thornton</name>
+    <role>Acolyte</role>
+    <type>Actor</type>
+    <tmdbid>1939764</tmdbid>
+    <imdbid>nm6252384</imdbid>
+  </actor>
+  <actor>
+    <name>Ricki Bhullar</name>
+    <role>Student #1</role>
+    <type>Actor</type>
+    <tmdbid>1939765</tmdbid>
+    <imdbid>nm3969893</imdbid>
+  </actor>
+  <actor>
+    <name>Gloria Gonnillini</name>
+    <role>Lady at Award Ceremony</role>
+    <type>Actor</type>
+    <tmdbid>1286436</tmdbid>
+    <imdbid>nm6208245</imdbid>
+  </actor>
+  <actor>
+    <name>Jacquelin Lopez</name>
+    <role>Acolyte</role>
+    <type>Actor</type>
+    <tmdbid>1939766</tmdbid>
+    <imdbid>nm7281892</imdbid>
+  </actor>
+  <actor>
+    <name>Vincent Washington</name>
+    <role>University Student</role>
+    <type>Actor</type>
+    <tmdbid>1939767</tmdbid>
+    <imdbid>nm7490842</imdbid>
+  </actor>
+  <actor>
+    <name>Candice Richardson</name>
+    <role>Ceremony Guest</role>
+    <type>Actor</type>
+    <tmdbid>1939768</tmdbid>
+    <imdbid>nm7650245</imdbid>
+  </actor>
+  <actor>
+    <name>Troy Compas</name>
+    <role>Franny's Father</role>
+    <type>Actor</type>
+    <tmdbid>1939769</tmdbid>
+    <imdbid>nm6964690</imdbid>
+  </actor>
+  <actor>
+    <name>Tracey Mandella</name>
+    <role>7th Grade Student</role>
+    <type>Actor</type>
+    <tmdbid>1939770</tmdbid>
+    <imdbid>nm7764183</imdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Haygood</name>
+    <role>Award Ceremony Attendee</role>
+    <type>Actor</type>
+    <tmdbid>1939771</tmdbid>
+    <imdbid>nm5299130</imdbid>
+  </actor>
+  <actor>
+    <name>Pixie Hankins</name>
+    <role>School Girl</role>
+    <type>Actor</type>
+    <tmdbid>1939772</tmdbid>
+    <imdbid>nm7044392</imdbid>
+  </actor>
+  <actor>
+    <name>Susan Kirton</name>
+    <role>Awards Ceremony Organizer</role>
+    <type>Actor</type>
+    <tmdbid>1939773</tmdbid>
+    <imdbid>nm6703208</imdbid>
+  </actor>
+  <actor>
+    <name>Cadence Lee Walker-Carroll</name>
+    <role>Jenny's 4 yr old sister, Lily</role>
+    <type>Actor</type>
+    <tmdbid>1939774</tmdbid>
+    <imdbid>nm7658316</imdbid>
+  </actor>
+  <actor>
+    <name>Aubrey Daigle</name>
+    <role>Student</role>
+    <type>Actor</type>
+    <tmdbid>1939775</tmdbid>
+    <imdbid>nm8084189</imdbid>
+  </actor>
+  <director tmdbid="1467926" imdbid="nm2060706">Jennifer Fox</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tXpYsr3AL4U</trailer>
+  <rating>7.3</rating>
+  <year>2018</year>
+  <imdbid>tt4015500</imdbid>
+  <tmdbid>369523</tmdbid>
+  <premiered>2018-01-20</premiered>
+  <releasedate>2018-01-20</releasedate>
+  <criticrating>99</criticrating>
+  <runtime>115</runtime>
+  <country>Germany</country>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <studio>WeatherVane Productions</studio>
+  <studio>Blackbird Films</studio>
+  <studio>One Two Films</studio>
+  <studio>A Luminous Mind Production</studio>
+  <studio>Untitled Entertainment</studio>
+  <uniqueid type="Tmdb">369523</uniqueid>
+  <uniqueid type="Imdb">tt4015500</uniqueid>
+  <id>tt4015500</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10812979</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>114</duration>
+        <durationinseconds>6898</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

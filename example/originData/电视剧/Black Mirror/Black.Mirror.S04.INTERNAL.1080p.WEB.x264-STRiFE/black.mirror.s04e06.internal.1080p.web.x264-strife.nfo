@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[《黑色博物馆》：妮希（莱蒂希娅·赖特 Letitia Wright 饰）步入了一间神秘而又古怪的博物馆之中，在那里，一件曾经人人趋之若鹜的稀世藏品等待着她。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-07 10:40:55</dateadded>
+  <title>黑暗博物馆</title>
+  <actor>
+    <name>Douglas Hodge</name>
+    <role>Rolo Haynes</role>
+    <type>GuestStar</type>
+    <tmdbid>80149</tmdbid>
+    <imdbid>nm0388061</imdbid>
+  </actor>
+  <actor>
+    <name>Letitia Wright</name>
+    <role>Nish</role>
+    <type>GuestStar</type>
+    <tmdbid>1083010</tmdbid>
+    <imdbid>nm4004793</imdbid>
+  </actor>
+  <actor>
+    <name>Babs Olusanmokun</name>
+    <role>Clayton</role>
+    <type>GuestStar</type>
+    <tmdbid>205923</tmdbid>
+    <imdbid>nm2129802</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Lapaine</name>
+    <role>Dawson</role>
+    <type>GuestStar</type>
+    <tmdbid>3072</tmdbid>
+  </actor>
+  <actor>
+    <name>Aldis Hodge</name>
+    <role>Jack</role>
+    <type>GuestStar</type>
+    <tmdbid>83860</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Roach</name>
+    <role>Carrie</role>
+    <type>GuestStar</type>
+    <tmdbid>237020</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Vere Nicoll</name>
+    <role>Madge</role>
+    <type>GuestStar</type>
+    <tmdbid>1660453</tmdbid>
+  </actor>
+  <director>Colm McCarthy</director>
+  <rating>7.963</rating>
+  <year>2017</year>
+  <imdbid>tt5058700</imdbid>
+  <tvdbid>6113566</tvdbid>
+  <runtime>69</runtime>
+  <uniqueid type="Tvdb">6113566</uniqueid>
+  <uniqueid type="Imdb">tt5058700</uniqueid>
+  <episode>6</episode>
+  <season>4</season>
+  <aired>2017-12-29</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2487712</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>69</duration>
+        <durationinseconds>4140</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

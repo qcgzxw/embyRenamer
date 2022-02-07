@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　根据真实事件改编。杀人犯姜泰吴偶然对缉毒组警察的金炯民透露了自己犯下的7起杀人案，将信将疑的金炯民随即展开了追查，发现这些案件都是根本没有接到报案的“暗数杀人”事件。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-11-12 11:35:07</dateadded>
+  <title>暗数杀人</title>
+  <originaltitle>암수살인</originaltitle>
+  <actor>
+    <name>Kim Yoon-seok</name>
+    <role>Kim Hyeong-min</role>
+    <type>Actor</type>
+    <tmdbid>75912</tmdbid>
+    <imdbid>nm2412823</imdbid>
+  </actor>
+  <actor>
+    <name>Ju Ji-hoon</name>
+    <role>Kang Tae-oh</role>
+    <type>Actor</type>
+    <tmdbid>150125</tmdbid>
+    <imdbid>nm2352559</imdbid>
+  </actor>
+  <actor>
+    <name>Moon Jeong-hee</name>
+    <role>Kim Soo-min</role>
+    <type>Actor</type>
+    <tmdbid>1077269</tmdbid>
+    <imdbid>nm1773400</imdbid>
+  </actor>
+  <actor>
+    <name>Jin Sun-kyu</name>
+    <role>Detective Jo</role>
+    <type>Actor</type>
+    <tmdbid>1989290</tmdbid>
+    <imdbid>nm5887272</imdbid>
+  </actor>
+  <actor>
+    <name>Jung Jong-joon</name>
+    <role>Chief of Crime Department</role>
+    <type>Actor</type>
+    <tmdbid>2240611</tmdbid>
+  </actor>
+  <actor>
+    <name>Heo Jin</name>
+    <role>Ji-hee's Grandmother</role>
+    <type>Actor</type>
+    <tmdbid>1112238</tmdbid>
+    <imdbid>nm1065461</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Joong-ki</name>
+    <role>Lawyer</role>
+    <type>Actor</type>
+    <tmdbid>1330450</tmdbid>
+    <imdbid>nm1456586</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Young-woong</name>
+    <role>Jeong-bong</role>
+    <type>Actor</type>
+    <tmdbid>2004692</tmdbid>
+  </actor>
+  <actor>
+    <name>Jung Gi-sub</name>
+    <role>Detective Han</role>
+    <type>Actor</type>
+    <tmdbid>2240612</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Mi-hwa</name>
+    <role>Hair Salon Manager</role>
+    <type>Actor</type>
+    <tmdbid>2240617</tmdbid>
+    <imdbid>nm9371497</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Bong-ryeon</name>
+    <role>Kang Sook-ja</role>
+    <type>Actor</type>
+    <tmdbid>2133921</tmdbid>
+    <imdbid>nm6771505</imdbid>
+  </actor>
+  <actor>
+    <name>Jeon Kuk-hwan</name>
+    <role>Hyeong-min's Father</role>
+    <type>Actor</type>
+    <tmdbid>20264</tmdbid>
+    <imdbid>nm1926499</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Jong-soo</name>
+    <role>Captain Ma-soo</role>
+    <type>Actor</type>
+    <tmdbid>1295417</tmdbid>
+  </actor>
+  <actor>
+    <name>Bae Hae-sun</name>
+    <role>Park Mi-yeong</role>
+    <type>Actor</type>
+    <tmdbid>2033111</tmdbid>
+  </actor>
+  <actor>
+    <name>Won Hyun-jun</name>
+    <role>Kim Wook-cheol</role>
+    <type>Actor</type>
+    <tmdbid>2240619</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Jin-yeong</name>
+    <role>Judge</role>
+    <type>Actor</type>
+    <tmdbid>2240620</tmdbid>
+  </actor>
+  <actor>
+    <name>Ju Jin-mo</name>
+    <role>Song Kyeong-soo</role>
+    <type>Actor</type>
+    <tmdbid>945428</tmdbid>
+    <imdbid>nm2810190</imdbid>
+  </actor>
+  <actor>
+    <name>Ko Chang-seok</name>
+    <role>Diving Captain Jam-soo</role>
+    <type>Actor</type>
+    <tmdbid>150697</tmdbid>
+    <imdbid>nm2944077</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Yoo-jun</name>
+    <role>President Park</role>
+    <type>Actor</type>
+    <tmdbid>1336802</tmdbid>
+  </actor>
+  <actor>
+    <name>Kwon So-hyun</name>
+    <role>Oh Ji-hee</role>
+    <type>Actor</type>
+    <tmdbid>2116909</tmdbid>
+    <imdbid>nm7769154</imdbid>
+  </actor>
+  <director tmdbid="2115600" imdbid="nm9687742">Kim Tae-gyoon</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=y56z6DcQVww</trailer>
+  <rating>6.7</rating>
+  <year>2018</year>
+  <imdbid>tt8119680</imdbid>
+  <tmdbid>544627</tmdbid>
+  <premiered>2018-10-03</premiered>
+  <releasedate>2018-10-03</releasedate>
+  <criticrating>80</criticrating>
+  <runtime>110</runtime>
+  <country>South Korea</country>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <studio>Film 295</studio>
+  <studio>Blossom Pictures</studio>
+  <studio>Showbox</studio>
+  <uniqueid type="Tmdb">544627</uniqueid>
+  <uniqueid type="Imdb">tt8119680</uniqueid>
+  <id>tt8119680</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2103756</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>110</duration>
+        <durationinseconds>6618</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>128000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

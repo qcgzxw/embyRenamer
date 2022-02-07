@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[根据 1973 年的同名科幻电影改编。在遥远的未来，一座巨型高科技成人乐园建成，其中有西部世界，罗马世界，中世纪世界三大主题版块的机器人世界，它提供给游客杀戮与性欲的满足。这座巨大机械乐园的后台监控渐渐失去了对机器人的控制，游客被机器人杀死，所有想逃离者都被锁定。该剧的主题是：「人工智能获得自主意识」以及「未来世界的罪孽」。]]></plot>
+  <outline><![CDATA[根据 1973 年的同名科幻电影改编。在遥远的未来，一座巨型高科技成人乐园建成，其中有西部世界，罗马世界，中世纪世界三大主题版块的机器人世界，它提供给游客杀戮与性欲的满足。这座巨大机械乐园的后台监控渐渐失去了对机器人的控制，游客被机器人杀死，所有想逃离者都被锁定。该剧的主题是：「人工智能获得自主意识」以及「未来世界的罪孽」。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-06-07 05:44:43</dateadded>
+  <title>西部世界</title>
+  <originaltitle>Westworld</originaltitle>
+  <actor>
+    <name>Evan Rachel Wood</name>
+    <role>Dolores Abernathy</role>
+    <type>Actor</type>
+    <tmdbid>38940</tmdbid>
+    <imdbid>nm0939697</imdbid>
+  </actor>
+  <actor>
+    <name>Thandie Newton</name>
+    <role>Maeve Millay</role>
+    <type>Actor</type>
+    <tmdbid>9030</tmdbid>
+    <imdbid>nm0628601</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Wright</name>
+    <role>Bernard Lowe</role>
+    <type>Actor</type>
+    <tmdbid>2954</tmdbid>
+    <imdbid>nm0942482</imdbid>
+  </actor>
+  <actor>
+    <name>Tessa Thompson</name>
+    <role>Charlotte Hale</role>
+    <type>Actor</type>
+    <tmdbid>62561</tmdbid>
+    <imdbid>nm1935086</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Harris</name>
+    <role>Man in Black</role>
+    <type>Actor</type>
+    <tmdbid>228</tmdbid>
+    <imdbid>nm0000438</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Caleb</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Vincent Cassel</name>
+    <role>Serac</role>
+    <type>Actor</type>
+    <tmdbid>1925</tmdbid>
+    <imdbid>nm0001993</imdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=jAygEy8dujg</trailer>
+  <trailer>http://www.youtube.com/watch?v=9BqKiZhEFFw</trailer>
+  <trailer>http://www.youtube.com/watch?v=JctIuZfSsa4</trailer>
+  <rating>8.1</rating>
+  <year>2016</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt0475784</imdb_id>
+  <tmdbid>63247</tmdbid>
+  <premiered>2016-10-02</premiered>
+  <releasedate>2016-10-02</releasedate>
+  <runtime>60</runtime>
+  <genre>Sci-Fi &amp; Fantasy</genre>
+  <genre>西部</genre>
+  <studio>HBO</studio>
+  <zap2itid>SH02476964</zap2itid>
+  <tvrageid>37537</tvrageid>
+  <uniqueid type="Imdb">tt0475784</uniqueid>
+  <uniqueid type="Tmdb">63247</uniqueid>
+  <uniqueid type="Zap2It">SH02476964</uniqueid>
+  <uniqueid type="Tvdb">296762</uniqueid>
+  <tvdbid>296762</tvdbid>
+  <uniqueid type="TvRage">37537</uniqueid>
+  <id>296762</id>
+  <episodeguide>
+    <url cache="296762.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/296762/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

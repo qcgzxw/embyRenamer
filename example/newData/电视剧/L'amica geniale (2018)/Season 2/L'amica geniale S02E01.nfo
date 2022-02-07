@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[埃琳娜在回程的路上，仍然在想着莱拉看到马尔切诺出现时愤怒的样子，所以一路上心神不宁，其他几个人都在兴奋地谈论着跳舞和新娘子的话题，能够看出来安东尼奥的心情也很不好，他让帕斯卡尔把车停在路边，一个人下了车，也没跟大家打招呼，埃琳娜随后也下了车，跑着追上了安东尼奥。安东尼奥觉得她见到那个诗人的儿子尼诺就变了，埃琳娜告诉他，自己差点因为他而被母亲扇了耳光，安东尼奥向埃琳娜提出分手，因为他不想再过这样的日子了，二人的确不太适应，没有太多的共同语言。埃琳娜拉着安东尼奥来到了她与莱拉曾经藏钱的那栋旧房子里，二人亲吻起来，埃琳娜不为别的，就是想在莱拉度蜜月回来时告诉她，自己已经不是处妇女了。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-11-01 19:07:23</dateadded>
+  <title>新姓氏</title>
+  <actor>
+    <name>Gaia Girace</name>
+    <role>Lila (Teenager)</role>
+    <type>Actor</type>
+    <tmdbid>2165956</tmdbid>
+    <imdbid>nm10135221</imdbid>
+  </actor>
+  <actor>
+    <name>Margherita Mazzucco</name>
+    <role>Elena (Teenager)</role>
+    <type>Actor</type>
+    <tmdbid>2165955</tmdbid>
+  </actor>
+  <actor>
+    <name>Ludovica Nasti</name>
+    <role>Lila (Younger)</role>
+    <type>Actor</type>
+    <tmdbid>2165954</tmdbid>
+  </actor>
+  <actor>
+    <name>Elisa del Genio</name>
+    <role>Elena (Younger)</role>
+    <type>Actor</type>
+    <tmdbid>2165953</tmdbid>
+  </actor>
+  <actor>
+    <name>Dora Romano</name>
+    <role>Miss Oliviero</role>
+    <type>Actor</type>
+    <tmdbid>1510167</tmdbid>
+    <imdbid>nm0738873</imdbid>
+  </actor>
+  <director>Saverio Costanzo</director>
+  <rating>4.5</rating>
+  <year>2020</year>
+  <imdbid>tt9413910</imdbid>
+  <tvdbid>7479250</tvdbid>
+  <runtime>66</runtime>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt9413910</uniqueid>
+  <uniqueid type="Tvdb">7479250</uniqueid>
+  <episode>1</episode>
+  <season>2</season>
+  <aired>2020-02-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10322046</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>66</duration>
+        <durationinseconds>3978</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

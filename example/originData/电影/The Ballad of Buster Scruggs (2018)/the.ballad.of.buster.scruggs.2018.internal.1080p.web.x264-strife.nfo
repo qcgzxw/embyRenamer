@@ -1,0 +1,459 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　《巴斯特·斯克鲁格斯的歌谣》（The Ballad Of Buster Scruggs）讲述一个喜欢唱歌跳舞的神枪手以一种无敌的姿态一路杀一路唱一路跳，但最终遇上了旗鼓相当的对手的故事。《阿尔戈多内斯附近》（Near Algodones）讲述一位生活在高平原之上的流浪者因为自己一无所有虚度光阴而决定抢劫银行的故事。《饭票》（Meal Ticket）讲述一个流动剧团的经理和一个没有四肢的残疾人“艺术家”之间的故事。《黄金谷》（All Gold Canyon）讲述一名教授因发现一座金矿而欣喜若狂，又因为随即到来的邪恶侵占势力而面临险境的故事。《受惊女子》（The Gal Who Got Rattled）讲述一名乘坐马车的女人需要两位俄勒冈小道的工头其中一人的帮助，并且将其当作潜在结婚对象加以考察的故事。《遗体》（The Mortal Remains）讲述五位身份不同的陌生人乘坐同一辆驿马车前往某处神秘地点的故事。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-01-09 03:35:15</dateadded>
+  <title>巴斯特·斯克鲁格斯的歌谣</title>
+  <originaltitle>The Ballad of Buster Scruggs</originaltitle>
+  <actor>
+    <name>Tim Blake Nelson</name>
+    <role>Buster Scruggs (segment "The Ballad of Buster Scruggs")</role>
+    <type>Actor</type>
+    <tmdbid>1462</tmdbid>
+    <imdbid>nm0625789</imdbid>
+  </actor>
+  <actor>
+    <name>James Franco</name>
+    <role>Cowboy (segment "Near Algodones")</role>
+    <type>Actor</type>
+    <tmdbid>17051</tmdbid>
+    <imdbid>nm0290556</imdbid>
+  </actor>
+  <actor>
+    <name>Zoe Kazan</name>
+    <role>Alice Longabaugh (segment "The Gal Who Got Rattled")</role>
+    <type>Actor</type>
+    <tmdbid>35028</tmdbid>
+    <imdbid>nm1443740</imdbid>
+  </actor>
+  <actor>
+    <name>Liam Neeson</name>
+    <role>Impresario (segment "Meal Ticket")</role>
+    <type>Actor</type>
+    <tmdbid>3896</tmdbid>
+    <imdbid>nm0000553</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Waits</name>
+    <role>Prospector (segment "All Gold Canyon")</role>
+    <type>Actor</type>
+    <tmdbid>2887</tmdbid>
+    <imdbid>nm0001823</imdbid>
+  </actor>
+  <actor>
+    <name>Tyne Daly</name>
+    <role>Mrs. Betjeman (segment "The Mortal Remains")</role>
+    <type>Actor</type>
+    <tmdbid>66221</tmdbid>
+    <imdbid>nm0002033</imdbid>
+  </actor>
+  <actor>
+    <name>Brendan Gleeson</name>
+    <role>Clarence (segment "The Mortal Remains")</role>
+    <type>Actor</type>
+    <tmdbid>2039</tmdbid>
+    <imdbid>nm0322407</imdbid>
+  </actor>
+  <actor>
+    <name>Jonjo O'Neill</name>
+    <role>Thigpen (segment "The Mortal Remains")</role>
+    <type>Actor</type>
+    <tmdbid>215460</tmdbid>
+    <imdbid>nm1306019</imdbid>
+  </actor>
+  <actor>
+    <name>Saul Rubinek</name>
+    <role>René (segment "The Mortal Remains")</role>
+    <type>Actor</type>
+    <tmdbid>3712</tmdbid>
+    <imdbid>nm0007210</imdbid>
+  </actor>
+  <actor>
+    <name>Chelcie Ross</name>
+    <role>Trapper (segment "The Mortal Remains")</role>
+    <type>Actor</type>
+    <tmdbid>10486</tmdbid>
+    <imdbid>nm0743304</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Heck</name>
+    <role>Billy Knapp (segment "The Gal Who Got Rattled")</role>
+    <type>Actor</type>
+    <tmdbid>963767</tmdbid>
+    <imdbid>nm2772701</imdbid>
+  </actor>
+  <actor>
+    <name>Harry Melling</name>
+    <role>Harrison (segment "Meal Ticket")</role>
+    <type>Actor</type>
+    <tmdbid>10982</tmdbid>
+    <imdbid>nm0577982</imdbid>
+  </actor>
+  <actor>
+    <name>Willie Watson</name>
+    <role>The Kid (segment "The Ballad of Buster Scruggs")</role>
+    <type>Actor</type>
+    <tmdbid>2112084</tmdbid>
+  </actor>
+  <actor>
+    <name>E.E. Bell</name>
+    <role>Saloon Piano Player (segment "The Ballad of Buster Scruggs")</role>
+    <type>Actor</type>
+    <tmdbid>173756</tmdbid>
+    <imdbid>nm0068171</imdbid>
+  </actor>
+  <actor>
+    <name>David Krumholtz</name>
+    <role>Frenchman in Saloon (segment "The Ballad of Buster Scruggs")</role>
+    <type>Actor</type>
+    <tmdbid>38582</tmdbid>
+    <imdbid>nm0472710</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Proctor</name>
+    <role>Cantina Bad Man (segment "The Ballad of Buster Scruggs")</role>
+    <type>Actor</type>
+    <tmdbid>95051</tmdbid>
+    <imdbid>nm0698354</imdbid>
+  </actor>
+  <actor>
+    <name>Clancy Brown</name>
+    <role>Curly Joe (segment "The Ballad of Buster Scruggs")</role>
+    <type>Actor</type>
+    <tmdbid>6574</tmdbid>
+    <imdbid>nm0000317</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen Root</name>
+    <role>Teller (segment "Near Algodones")</role>
+    <type>Actor</type>
+    <tmdbid>17401</tmdbid>
+    <imdbid>nm0740535</imdbid>
+  </actor>
+  <actor>
+    <name>Ralph Ineson</name>
+    <role>The Man In Black (segment "Near Algodones")</role>
+    <type>Actor</type>
+    <tmdbid>202032</tmdbid>
+    <imdbid>nm0408591</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse Luken</name>
+    <role>Drover (segment "Near Algodones")</role>
+    <type>Actor</type>
+    <tmdbid>211675</tmdbid>
+    <imdbid>nm2457450</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Dillon</name>
+    <role>Young Man (segment "All Gold Canyon")</role>
+    <type>Actor</type>
+    <tmdbid>1327010</tmdbid>
+    <imdbid>nm4321036</imdbid>
+  </actor>
+  <actor>
+    <name>Grainger Hines</name>
+    <role>Mr. Arthur (segment "The Gal Who Got Rattled")</role>
+    <type>Actor</type>
+    <tmdbid>169839</tmdbid>
+    <imdbid>nm0385674</imdbid>
+  </actor>
+  <actor>
+    <name>Jefferson Mays</name>
+    <role>Gilbert Longabaugh (segment "The Gal Who Got Rattled")</role>
+    <type>Actor</type>
+    <tmdbid>183814</tmdbid>
+    <imdbid>nm0563070</imdbid>
+  </actor>
+  <actor>
+    <name>Ethan Dubin</name>
+    <role>Matt (segment "The Gal Who Got Rattled")</role>
+    <type>Actor</type>
+    <tmdbid>2176981</tmdbid>
+  </actor>
+  <actor>
+    <name>Matthew Willig</name>
+    <role>Hard Man #3 (segment "The Ballad of Buster Scruggs")</role>
+    <type>Actor</type>
+    <tmdbid>92617</tmdbid>
+    <imdbid>nm2200632</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Rae</name>
+    <role>Impressario (segment "Meal Ticket")</role>
+    <type>Actor</type>
+    <tmdbid>61260</tmdbid>
+    <imdbid>nm1497570</imdbid>
+  </actor>
+  <actor>
+    <name>Tim DeZarn</name>
+    <role>Angry Man (segment "The Ballad of Buster Scruggs")</role>
+    <type>Actor</type>
+    <tmdbid>956719</tmdbid>
+    <imdbid>nm0212498</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Palmer</name>
+    <role>Blubberer (segment "Near Algodones")</role>
+    <type>Actor</type>
+    <tmdbid>1365516</tmdbid>
+    <imdbid>nm4096851</imdbid>
+  </actor>
+  <actor>
+    <name>Danny McCarthy</name>
+    <role>Ike (segment "The Ballad of Buster Scruggs")</role>
+    <type>Actor</type>
+    <tmdbid>59145</tmdbid>
+    <imdbid>nm1180243</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Lockwood</name>
+    <role>Father (segment "The Gal Who Got Rattled)</role>
+    <type>Actor</type>
+    <tmdbid>967704</tmdbid>
+    <imdbid>nm0516952</imdbid>
+  </actor>
+  <actor>
+    <name>Jackamoe Buzzell</name>
+    <role>Another Man (segment "The Gal Who Got Rattled)</role>
+    <type>Actor</type>
+    <tmdbid>1195834</tmdbid>
+    <imdbid>nm0125637</imdbid>
+  </actor>
+  <actor>
+    <name>J. Nathan Simmons</name>
+    <role>Gallows Watcher (segment "The Ballad of Buster Scruggs")</role>
+    <type>Actor</type>
+    <tmdbid>1204226</tmdbid>
+    <imdbid>nm0799776</imdbid>
+  </actor>
+  <actor>
+    <name>Katy Bodenhamer</name>
+    <role>Milkmaid (segment "The Gal Who Got Rattled)</role>
+    <type>Actor</type>
+    <tmdbid>1501319</tmdbid>
+    <imdbid>nm4427433</imdbid>
+  </actor>
+  <actor>
+    <name>Jiji Hise</name>
+    <role>The Bawd (segment "Meal Ticket")</role>
+    <type>Actor</type>
+    <tmdbid>223397</tmdbid>
+    <imdbid>nm2385677</imdbid>
+  </actor>
+  <actor>
+    <name>Austin Rising</name>
+    <role>The Bailiff (segment "The Ballad of Buster Scruggs")</role>
+    <type>Actor</type>
+    <tmdbid>1947059</tmdbid>
+    <imdbid>nm5015088</imdbid>
+  </actor>
+  <actor>
+    <name>Stephen R. Estler</name>
+    <role>Gambler (segment "The Ballad of Buster Scruggs")</role>
+    <type>Actor</type>
+    <tmdbid>2176979</tmdbid>
+  </actor>
+  <actor>
+    <name>Grace LeSueur</name>
+    <role>Pretty Girl at Gallows (segment "The Ballad of Buster Scruggs")</role>
+    <type>Actor</type>
+    <tmdbid>2176980</tmdbid>
+  </actor>
+  <director tmdbid="1223" imdbid="nm0001054">Joel Coen</director>
+  <director tmdbid="1224" imdbid="nm0001053">Ethan Coen</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=_2PyxzSH1HM</trailer>
+  <rating>7.3</rating>
+  <year>2018</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt6412452</imdbid>
+  <tmdbid>537996</tmdbid>
+  <premiered>2018-11-09</premiered>
+  <releasedate>2018-11-09</releasedate>
+  <criticrating>89</criticrating>
+  <runtime>133</runtime>
+  <country>United States of America</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <genre>西部</genre>
+  <genre>音乐</genre>
+  <studio>Annapurna Pictures</studio>
+  <studio>Mike Zoss Productions</studio>
+  <uniqueid type="Tmdb">537996</uniqueid>
+  <uniqueid type="Imdb">tt6412452</uniqueid>
+  <id>tt6412452</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>6288997</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>133</duration>
+        <durationinseconds>7998</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nob</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

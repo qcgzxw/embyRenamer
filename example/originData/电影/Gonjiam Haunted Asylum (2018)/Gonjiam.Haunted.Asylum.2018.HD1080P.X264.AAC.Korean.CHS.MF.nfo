@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[原名南营神经精神医院的昆池岩精神病院，最早建立于20世纪60年代。在特殊的时代它曾经历了无比的辉煌，然而更为人熟知的则是该医院身上所发生的各类恐怖事件。现如今，早已废弃的昆池岩医院被CNN票选为全球七大恐怖之地之一，更由此吸引无数寻求刺激的青年男女来此探险。三个月前，两名青少年来此探险，结果在直播中遭遇诡异事件，下落不明。此后，《恐怖世代》剧组在魏河俊的召集下，网罗了吴雅妍、朴智贤、夏洛特（文艺媛 饰）、李丞旭、朴成勋、刘帝允等人前往昆池岩，更试图打开备受诅咒的401室。 夜幕降临，全球网友一道观看这场恐怖盛宴。。。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-05-05 06:21:42</dateadded>
+  <title>昆池岩</title>
+  <originaltitle>곤지암</originaltitle>
+  <actor>
+    <name>Wi Ha-jun</name>
+    <role>Ha-jun</role>
+    <type>Actor</type>
+    <tmdbid>1557181</tmdbid>
+    <imdbid>nm9665672</imdbid>
+  </actor>
+  <actor>
+    <name>Park Ji-hyun</name>
+    <role>Ji-hyun</role>
+    <type>Actor</type>
+    <tmdbid>1988598</tmdbid>
+  </actor>
+  <actor>
+    <name>Oh Ah-yeon</name>
+    <role>Ah-yeon</role>
+    <type>Actor</type>
+    <tmdbid>1181895</tmdbid>
+    <imdbid>nm6966413</imdbid>
+  </actor>
+  <actor>
+    <name>Moon Ye-won</name>
+    <role>Charlotte</role>
+    <type>Actor</type>
+    <tmdbid>1993728</tmdbid>
+    <imdbid>nm9687792</imdbid>
+  </actor>
+  <actor>
+    <name>Park Sung-hoon</name>
+    <role>Sung-hun</role>
+    <type>Actor</type>
+    <tmdbid>1140210</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Seung-wook</name>
+    <role>Seung-wook</role>
+    <type>Actor</type>
+    <tmdbid>2221371</tmdbid>
+    <imdbid>nm9687791</imdbid>
+  </actor>
+  <actor>
+    <name>Yoo Je-yoon</name>
+    <role>Je-yoon</role>
+    <type>Actor</type>
+    <tmdbid>2996141</tmdbid>
+    <imdbid>nm11342695</imdbid>
+  </actor>
+  <actor>
+    <name>Park Chung-hee</name>
+    <role>Himself (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2189099</tmdbid>
+    <imdbid>nm8779296</imdbid>
+  </actor>
+  <actor>
+    <name>Park Geun-hye</name>
+    <role>Herself (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2189102</tmdbid>
+  </actor>
+  <director tmdbid="112018" imdbid="nm2891286">Jung Bum-shik</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=BQAt3VAKCfM</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KKGJTgnkQA8</trailer>
+  <rating>6.3</rating>
+  <year>2018</year>
+  <imdbid>tt8119752</imdbid>
+  <tmdbid>508642</tmdbid>
+  <premiered>2018-03-28</premiered>
+  <releasedate>2018-03-28</releasedate>
+  <criticrating>91</criticrating>
+  <runtime>94</runtime>
+  <country>South Korea</country>
+  <genre>恐怖</genre>
+  <genre>悬疑</genre>
+  <studio>Showbox</studio>
+  <studio>Hive Media Corp</studio>
+  <uniqueid type="Tmdb">508642</uniqueid>
+  <uniqueid type="Imdb">tt8119752</uniqueid>
+  <id>tt8119752</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4932523</bitrate>
+        <width>1920</width>
+        <height>1036</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>94</duration>
+        <durationinseconds>5661</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

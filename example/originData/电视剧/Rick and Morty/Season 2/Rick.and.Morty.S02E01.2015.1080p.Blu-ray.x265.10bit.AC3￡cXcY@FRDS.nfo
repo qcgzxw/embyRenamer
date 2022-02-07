@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[瑞克终于将时间解冻，但是他、莫蒂和桑美在冻结的时光驻留太久，因而发展出平行次元。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 07:49:18</dateadded>
+  <title>及时的一「克」</title>
+  <actor>
+    <name>Chris Parnell</name>
+    <role>Jerry Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>51382</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Grammer</name>
+    <role>Summer Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>176823</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Chalke</name>
+    <role>Beth Smith (voice)</role>
+    <type>Actor</type>
+    <tmdbid>49001</tmdbid>
+  </actor>
+  <actor>
+    <name>Justin Roiland</name>
+    <role>Rick Sanchez / Morty Smith (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1245733</tmdbid>
+    <imdbid>nm1551598</imdbid>
+  </actor>
+  <actor>
+    <name>Jordan Peele</name>
+    <role>Second Fourth-Dimensional Being (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>291263</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Johnston</name>
+    <role>Coldstone Creamery Employee (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1215262</tmdbid>
+    <imdbid>nm0426678</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Kenny</name>
+    <role>Hunter (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>78798</tmdbid>
+  </actor>
+  <actor>
+    <name>Jill Talley</name>
+    <role>Veterinarian (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>17414</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul F. Tompkins</name>
+    <role>Lawyer (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1219029</tmdbid>
+  </actor>
+  <actor>
+    <name>Keegan-Michael Key</name>
+    <role>Fourth-Dimensional Being (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>298410</tmdbid>
+  </actor>
+  <director>Wes Archer</director>
+  <rating>8.9</rating>
+  <year>2015</year>
+  <imdbid>tt4462494</imdbid>
+  <tvdbid>5225680</tvdbid>
+  <runtime>23</runtime>
+  <genre>Animation</genre>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <tvrageid>1065808803</tvrageid>
+  <uniqueid type="Tvdb">5225680</uniqueid>
+  <uniqueid type="Imdb">tt4462494</uniqueid>
+  <uniqueid type="TvRage">1065808803</uniqueid>
+  <episode>1</episode>
+  <season>2</season>
+  <aired>2015-07-26</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>3636043</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+        <duration>22</duration>
+        <durationinseconds>1371</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

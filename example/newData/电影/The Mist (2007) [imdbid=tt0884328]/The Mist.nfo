@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　漫天的迷雾弥散在一个小镇上，来的如此浓烈和突然，以至于人们都惊慌的四下躲避，艺术家David Drayton和社区里的人临时拥挤在超市内，关紧门窗，眼看着外面浓如烟尘的大雾，似乎内藏杀机，谁也不敢出去。他们在超市里等待着，等着迷雾会自己散去，但漫长的时间过去后雾却还是没有一点要推却的意思。终于有人不耐烦了，不顾大家的劝阻毅然要走进外面那个熟悉而陌生的世界。大家决定给他系上绳子，以便发生什么意外。恐怖的一幕如期而至，走入迷雾的人仿佛被什么东西所吞噬，带着绳索飞快的抽出超市的大门。这时，大家真正明白了危险的存在，虽然没有人亲眼见证——也没有人愿意去见识。一切都笼罩在不安与挣扎之中，外面未知的危险时刻让人们毛骨悚然，而失去耐心的人们也逐渐精神崩溃开始内讧，外忧内患之中可怜的是神志依旧清醒的人们。究竟最大的危险在迷雾之中，还是就潜伏在超市里……所有的一切都如同迷雾一般飘渺、虚幻。深入骨髓的对于未知的恐惧成为了影片领衔主演……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-23 16:50:32</dateadded>
+  <title>迷雾</title>
+  <originaltitle>The Mist</originaltitle>
+  <actor>
+    <name>Thomas Jane</name>
+    <role>David Drayton</role>
+    <type>Actor</type>
+    <tmdbid>11155</tmdbid>
+    <imdbid>nm0005048</imdbid>
+  </actor>
+  <actor>
+    <name>Laurie Holden</name>
+    <role>Amanda</role>
+    <type>Actor</type>
+    <tmdbid>8332</tmdbid>
+    <imdbid>nm0390229</imdbid>
+  </actor>
+  <actor>
+    <name>Toby Jones</name>
+    <role>Ollie</role>
+    <type>Actor</type>
+    <tmdbid>13014</tmdbid>
+    <imdbid>nm0429363</imdbid>
+  </actor>
+  <actor>
+    <name>Marcia Gay Harden</name>
+    <role>Mrs. Carmody</role>
+    <type>Actor</type>
+    <tmdbid>4726</tmdbid>
+    <imdbid>nm0001315</imdbid>
+  </actor>
+  <actor>
+    <name>Andre Braugher</name>
+    <role>Norton</role>
+    <type>Actor</type>
+    <tmdbid>6861</tmdbid>
+    <imdbid>nm0105672</imdbid>
+  </actor>
+  <actor>
+    <name>William Sadler</name>
+    <role>Jim</role>
+    <type>Actor</type>
+    <tmdbid>6573</tmdbid>
+    <imdbid>nm0006669</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey DeMunn</name>
+    <role>Dan Miller</role>
+    <type>Actor</type>
+    <tmdbid>12645</tmdbid>
+    <imdbid>nm0218810</imdbid>
+  </actor>
+  <actor>
+    <name>Samuel Witwer</name>
+    <role>Jessup</role>
+    <type>Actor</type>
+    <tmdbid>46362</tmdbid>
+    <imdbid>nm1022429</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Owen</name>
+    <role>Norm</role>
+    <type>Actor</type>
+    <tmdbid>26999</tmdbid>
+    <imdbid>nm0654104</imdbid>
+  </actor>
+  <actor>
+    <name>Alexa Davalos</name>
+    <role>Sally</role>
+    <type>Actor</type>
+    <tmdbid>28109</tmdbid>
+    <imdbid>nm1111968</imdbid>
+  </actor>
+  <actor>
+    <name>David Jensen</name>
+    <role>Myron</role>
+    <type>Actor</type>
+    <tmdbid>60875</tmdbid>
+    <imdbid>nm0003861</imdbid>
+  </actor>
+  <actor>
+    <name>Frances Sternhagen</name>
+    <role>Irene</role>
+    <type>Actor</type>
+    <tmdbid>36926</tmdbid>
+    <imdbid>nm0827973</imdbid>
+  </actor>
+  <actor>
+    <name>Nathan Gamble</name>
+    <role>Billy Drayton</role>
+    <type>Actor</type>
+    <tmdbid>18052</tmdbid>
+    <imdbid>nm1997480</imdbid>
+  </actor>
+  <actor>
+    <name>Robert C. Treveiler</name>
+    <role>Bud Brown</role>
+    <type>Actor</type>
+    <tmdbid>52490</tmdbid>
+    <imdbid>nm0872354</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa McBride</name>
+    <role>Woman with Kids at Home</role>
+    <type>Actor</type>
+    <tmdbid>31535</tmdbid>
+    <imdbid>nm0564350</imdbid>
+  </actor>
+  <actor>
+    <name>Andy Stahl</name>
+    <role>Mike Hatlen</role>
+    <type>Actor</type>
+    <tmdbid>21083</tmdbid>
+    <imdbid>nm0821436</imdbid>
+  </actor>
+  <actor>
+    <name>Buck Taylor</name>
+    <role>Ambrose Cornell</role>
+    <type>Actor</type>
+    <tmdbid>71562</tmdbid>
+    <imdbid>nm0852076</imdbid>
+  </actor>
+  <actor>
+    <name>Brandon O'Dell</name>
+    <role>Bobby Egleaton</role>
+    <type>Actor</type>
+    <tmdbid>223022</tmdbid>
+    <imdbid>nm0640637</imdbid>
+  </actor>
+  <actor>
+    <name>Jackson Hurst</name>
+    <role>Joe Eagleton</role>
+    <type>Actor</type>
+    <tmdbid>61563</tmdbid>
+    <imdbid>nm1938755</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Libby</name>
+    <role>Biker</role>
+    <type>Actor</type>
+    <tmdbid>6580</tmdbid>
+    <imdbid>nm0508742</imdbid>
+  </actor>
+  <actor>
+    <name>Susan Malerstein</name>
+    <role>Hattie</role>
+    <type>Actor</type>
+    <tmdbid>1434225</tmdbid>
+    <imdbid>nm0539381</imdbid>
+  </actor>
+  <actor>
+    <name>Mathew Greer</name>
+    <role>Silas</role>
+    <type>Actor</type>
+    <tmdbid>559328</tmdbid>
+    <imdbid>nm0339472</imdbid>
+  </actor>
+  <actor>
+    <name>Juan Gabriel Pareja</name>
+    <role>Morales</role>
+    <type>Actor</type>
+    <tmdbid>1325945</tmdbid>
+    <imdbid>nm1294178</imdbid>
+  </actor>
+  <actor>
+    <name>Walter Fauntleroy</name>
+    <role>Donaldson</role>
+    <type>Actor</type>
+    <tmdbid>1421637</tmdbid>
+    <imdbid>nm2258450</imdbid>
+  </actor>
+  <actor>
+    <name>Amin Joseph</name>
+    <role>M.P.</role>
+    <type>Actor</type>
+    <tmdbid>131772</tmdbid>
+    <imdbid>nm1514763</imdbid>
+  </actor>
+  <actor>
+    <name>Kelly Collins Lintz</name>
+    <role>Steff Drayton</role>
+    <type>Actor</type>
+    <tmdbid>949183</tmdbid>
+    <imdbid>nm0172439</imdbid>
+  </actor>
+  <actor>
+    <name>Ginnie Randall</name>
+    <role>Woman #1</role>
+    <type>Actor</type>
+    <tmdbid>80780</tmdbid>
+    <imdbid>nm0709598</imdbid>
+  </actor>
+  <actor>
+    <name>Tiffany Morgan</name>
+    <role>Woman #2</role>
+    <type>Actor</type>
+    <tmdbid>223027</tmdbid>
+    <imdbid>nm1390793</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Wall</name>
+    <role>Terrified Woman</role>
+    <type>Actor</type>
+    <tmdbid>1782252</tmdbid>
+    <imdbid>nm0908446</imdbid>
+  </actor>
+  <actor>
+    <name>Julio Cedillo</name>
+    <role>Father</role>
+    <type>Actor</type>
+    <tmdbid>36634</tmdbid>
+    <imdbid>nm0147814</imdbid>
+  </actor>
+  <actor>
+    <name>Ron Clinton Smith</name>
+    <role>Mr. Mackey</role>
+    <type>Actor</type>
+    <tmdbid>168745</tmdbid>
+    <imdbid>nm0809806</imdbid>
+  </actor>
+  <actor>
+    <name>Gregg Brazzel</name>
+    <role>Tom Smalley</role>
+    <type>Actor</type>
+    <tmdbid>84702</tmdbid>
+    <imdbid>nm0106381</imdbid>
+  </actor>
+  <actor>
+    <name>Sonny Franks</name>
+    <role>Man with El Camino</role>
+    <type>Actor</type>
+    <tmdbid>201255</tmdbid>
+  </actor>
+  <actor>
+    <name>Dodie Brown</name>
+    <role>Screaming Woman</role>
+    <type>Actor</type>
+    <tmdbid>138608</tmdbid>
+    <imdbid>nm2281637</imdbid>
+  </actor>
+  <actor>
+    <name>Jay Amor</name>
+    <role>Shopper (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>237345</tmdbid>
+    <imdbid>nm0025181</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Beard</name>
+    <role>Shopper (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>92488</tmdbid>
+    <imdbid>nm0063910</imdbid>
+  </actor>
+  <actor>
+    <name>Jimmy Lee Jr.</name>
+    <role>Shopper (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1393519</tmdbid>
+    <imdbid>nm2885597</imdbid>
+  </actor>
+  <actor>
+    <name>Derek Cox-Berg</name>
+    <role>Teenager #1 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>95366</tmdbid>
+    <imdbid>nm1620521</imdbid>
+  </actor>
+  <actor>
+    <name>Cherami Leigh</name>
+    <role>Teenage Girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>83272</tmdbid>
+    <imdbid>nm0473873</imdbid>
+  </actor>
+  <actor>
+    <name>Louis Herthum</name>
+    <role>Colonel (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>93228</tmdbid>
+    <imdbid>nm0381043</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Martindale</name>
+    <role>Sentry (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1569869</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Kelly McFarland</name>
+    <role>Military Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>109789</tmdbid>
+    <imdbid>nm2378090</imdbid>
+  </actor>
+  <actor>
+    <name>Ritchie Montgomery</name>
+    <role>Paisley Hat Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>52885</tmdbid>
+    <imdbid>nm0599907</imdbid>
+  </actor>
+  <actor>
+    <name>Ted Ferguson</name>
+    <role>Norton Group Member (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1026877</tmdbid>
+    <imdbid>nm2467078</imdbid>
+  </actor>
+  <director tmdbid="4027" imdbid="nm0001104">Frank Darabont</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LhCKXJNGzN8</trailer>
+  <rating>7.1</rating>
+  <year>2007</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0884328</imdbid>
+  <tmdbid>5876</tmdbid>
+  <premiered>2007-11-21</premiered>
+  <releasedate>2007-11-21</releasedate>
+  <criticrating>71</criticrating>
+  <runtime>126</runtime>
+  <country>United States of America</country>
+  <genre>恐怖</genre>
+  <genre>科幻</genre>
+  <genre>惊悚</genre>
+  <studio>Darkwoods Productions</studio>
+  <studio>Dimension Films</studio>
+  <uniqueid type="Tmdb">5876</uniqueid>
+  <uniqueid type="Imdb">tt0884328</uniqueid>
+  <id>tt0884328</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10203669</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>125</duration>
+        <durationinseconds>7559</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

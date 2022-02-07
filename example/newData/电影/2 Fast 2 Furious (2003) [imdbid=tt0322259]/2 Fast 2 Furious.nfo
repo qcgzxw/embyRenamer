@@ -1,0 +1,295 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[为了一件大案子的调查，他加入了洛杉矶街头黑夜充满刺激的速度竞赛。在这个不同的城市，不同的时间，奥康纳只有最后的一次机会，来捍卫自己的荣誉。在迈阿密长大的卡特是个精明的商人，他利用自己的进出口生意为全球性的黑市交易洗钱。奥康纳的任务就是接近这个家伙套取情报。但是这个不守常规的人在接受任务前必须抹掉自己身上的烙印。不过他很不情愿的发现那些隐藏着的伙伴里居然有自己童年时代的好友、前搭档罗曼?皮尔斯，他可是个犯罪高手。现在他的假释官给了他一个机会??跟奥康纳合作。现在对于皮尔斯和奥康纳来说都是他们最后一个机会了。这个夏天，在同一条跑道后，再次出发……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-04 00:17:59</dateadded>
+  <title>速度与激情2</title>
+  <originaltitle>2 Fast 2 Furious</originaltitle>
+  <actor>
+    <name>Paul Walker</name>
+    <role>Brian O'Conner</role>
+    <type>Actor</type>
+    <tmdbid>8167</tmdbid>
+  </actor>
+  <actor>
+    <name>Tyrese Gibson</name>
+    <role>Roman Pearce</role>
+    <type>Actor</type>
+    <tmdbid>8169</tmdbid>
+  </actor>
+  <actor>
+    <name>Eva Mendes</name>
+    <role>Monica Fuentes</role>
+    <type>Actor</type>
+    <tmdbid>8170</tmdbid>
+  </actor>
+  <actor>
+    <name>Ludacris</name>
+    <role>Tej Parker</role>
+    <type>Actor</type>
+    <tmdbid>8171</tmdbid>
+  </actor>
+  <actor>
+    <name>Cole Hauser</name>
+    <role>Carter Verone</role>
+    <type>Actor</type>
+    <tmdbid>6614</tmdbid>
+    <imdbid>nm0369513</imdbid>
+  </actor>
+  <actor>
+    <name>James Remar</name>
+    <role>Agent Markham</role>
+    <type>Actor</type>
+    <tmdbid>1736</tmdbid>
+    <imdbid>nm0001664</imdbid>
+  </actor>
+  <actor>
+    <name>Devon Aoki</name>
+    <role>Suki</role>
+    <type>Actor</type>
+    <tmdbid>6278</tmdbid>
+  </actor>
+  <actor>
+    <name>Thom Barry</name>
+    <role>Agent Bilkins</role>
+    <type>Actor</type>
+    <tmdbid>8175</tmdbid>
+  </actor>
+  <actor>
+    <name>Amaury Nolasco</name>
+    <role>Orange Julius</role>
+    <type>Actor</type>
+    <tmdbid>17341</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Ealy</name>
+    <role>Slap Jack</role>
+    <type>Actor</type>
+    <tmdbid>8177</tmdbid>
+    <imdbid>nm1013003</imdbid>
+  </actor>
+  <actor>
+    <name>Jin Au-Yeung</name>
+    <role>Jimmy</role>
+    <type>Actor</type>
+    <tmdbid>8178</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Boone Junior</name>
+    <role>Detective Whitworth</role>
+    <type>Actor</type>
+    <tmdbid>534</tmdbid>
+    <imdbid>nm0095478</imdbid>
+  </actor>
+  <actor>
+    <name>Mo Gallini</name>
+    <role>Enrique</role>
+    <type>Actor</type>
+    <tmdbid>8180</tmdbid>
+  </actor>
+  <actor>
+    <name>Roberto 'Sanz' Sanchez</name>
+    <role>Roberto</role>
+    <type>Actor</type>
+    <tmdbid>928812</tmdbid>
+  </actor>
+  <actor>
+    <name>John Cenatiempo</name>
+    <role>Korpi</role>
+    <type>Actor</type>
+    <tmdbid>206398</tmdbid>
+    <imdbid>nm0127362</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Etebari</name>
+    <role>Darden</role>
+    <type>Actor</type>
+    <tmdbid>1015836</tmdbid>
+  </actor>
+  <actor>
+    <name>Neal H. Moritz</name>
+    <role>Swerving Cop</role>
+    <type>Actor</type>
+    <tmdbid>11874</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward Finlay</name>
+    <role>Agent Dunn</role>
+    <type>Actor</type>
+    <tmdbid>8179</tmdbid>
+  </actor>
+  <actor>
+    <name>Troy Brown</name>
+    <role>Paul Hackett</role>
+    <type>Actor</type>
+    <tmdbid>122294</tmdbid>
+  </actor>
+  <actor>
+    <name>Corey Michael Eubanks</name>
+    <role>Max Campisi</role>
+    <type>Actor</type>
+    <tmdbid>147207</tmdbid>
+  </actor>
+  <actor>
+    <name>Sammy Maloof</name>
+    <role>Joe Osborne</role>
+    <type>Actor</type>
+    <tmdbid>1614417</tmdbid>
+  </actor>
+  <actor>
+    <name>Troy Robinson</name>
+    <role>Feliz Vispone</role>
+    <type>Actor</type>
+    <tmdbid>1367499</tmdbid>
+  </actor>
+  <actor>
+    <name>Sincerely A. Ward</name>
+    <role>Slap Jack's Girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>1614425</tmdbid>
+  </actor>
+  <actor>
+    <name>Nievecita Dubuque</name>
+    <role>Suki's Girl</role>
+    <type>Actor</type>
+    <tmdbid>1614441</tmdbid>
+  </actor>
+  <actor>
+    <name>Mateo Herreros</name>
+    <role>Detective</role>
+    <type>Actor</type>
+    <tmdbid>1614462</tmdbid>
+  </actor>
+  <actor>
+    <name>Kerry Rossall</name>
+    <role>Police Chase Cop</role>
+    <type>Actor</type>
+    <tmdbid>1402117</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Macaulay</name>
+    <role>Agent</role>
+    <type>Actor</type>
+    <tmdbid>6908</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Bolano</name>
+    <role>Gardener</role>
+    <type>Actor</type>
+    <tmdbid>321432</tmdbid>
+  </actor>
+  <actor>
+    <name>Marianne M. Arreaga</name>
+    <role>Police Chopper Pilot</role>
+    <type>Actor</type>
+    <tmdbid>1614452</tmdbid>
+  </actor>
+  <actor>
+    <name>Tara Carroll</name>
+    <role>Seductress</role>
+    <type>Actor</type>
+    <tmdbid>43449</tmdbid>
+  </actor>
+  <actor>
+    <name>Tamara Jones</name>
+    <role>Customs Technician</role>
+    <type>Actor</type>
+    <tmdbid>1536505</tmdbid>
+  </actor>
+  <director tmdbid="6482">John Singleton</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ZZGkV_xWGw4</trailer>
+  <rating>5.9</rating>
+  <year>2003</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt0322259</imdbid>
+  <tmdbid>584</tmdbid>
+  <premiered>2003-06-05</premiered>
+  <releasedate>2003-06-05</releasedate>
+  <criticrating>36</criticrating>
+  <runtime>108</runtime>
+  <country>Germany</country>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>犯罪</genre>
+  <genre>惊悚</genre>
+  <studio>Ardustry Entertainment</studio>
+  <studio>Mikona Productions GmbH &amp; Co. KG</studio>
+  <studio>Original Film</studio>
+  <studio>Universal Pictures</studio>
+  <set tmdbcolid="9485">
+    <name>速度与激情（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">584</uniqueid>
+  <uniqueid type="Imdb">tt0322259</uniqueid>
+  <id>tt0322259</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>24714097</bitrate>
+        <width>3840</width>
+        <height>1636</height>
+        <aspect>960:409</aspect>
+        <aspectratio>960:409</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>107</duration>
+        <durationinseconds>6454</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

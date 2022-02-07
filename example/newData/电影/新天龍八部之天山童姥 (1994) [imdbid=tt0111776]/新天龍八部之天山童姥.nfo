@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[天山派李秋水（林青霞）爱上掌门师兄逍遥子（廖启智），却不知逍遥子所爱的其实是李秋水的孪生妹妹李沧海（林青霞）。而天山童老乌行云（巩俐）对李沧海亦有超越性别之爱。逍遥子被同门叛徒丁春秋（徐少强）下毒中伤，被迫归隐到飘渺峰，设下“玲珑棋局”等来本性善良、佛性极深的有缘人虚竹（林文龙），将百年功力悉数相传，以期代他清理门户。 为夺少林宝物，丁春秋率阿紫（张敏）、诱动连手的李秋水等人欲血洗少林，得到了逍遥子毕生功力的虚竹在巫行云的帮助下临危受命，与丁春秋展开了回合大战。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-06 04:30:39</dateadded>
+  <title>新天龙八部之天山童姥</title>
+  <originaltitle>新天龍八部之天山童姥</originaltitle>
+  <actor>
+    <name>Brigitte Lin</name>
+    <role>Li Chou-Shui / Li Chong-Hoi</role>
+    <type>Actor</type>
+    <tmdbid>56830</tmdbid>
+    <imdbid>nm0510857</imdbid>
+  </actor>
+  <actor>
+    <name>Gong Li</name>
+    <role>Mou Hang-wan</role>
+    <type>Actor</type>
+    <tmdbid>643</tmdbid>
+    <imdbid>nm0000084</imdbid>
+  </actor>
+  <actor>
+    <name>Sharla Cheung</name>
+    <role>Ah-tsi</role>
+    <type>Actor</type>
+    <tmdbid>67221</tmdbid>
+    <imdbid>nm0156522</imdbid>
+  </actor>
+  <actor>
+    <name>Frankie Lam</name>
+    <role>Hui-Chok</role>
+    <type>Actor</type>
+    <tmdbid>550946</tmdbid>
+  </actor>
+  <actor>
+    <name>Norman Chui</name>
+    <role>Ting Chun-Chou</role>
+    <type>Actor</type>
+    <tmdbid>70674</tmdbid>
+    <imdbid>nm0160865</imdbid>
+  </actor>
+  <actor>
+    <name>Liu Kai-Chi</name>
+    <role>Sing Hoi</role>
+    <type>Actor</type>
+    <tmdbid>116423</tmdbid>
+    <imdbid>nm0514961</imdbid>
+  </actor>
+  <actor>
+    <name>James Pak</name>
+    <role>Tai Hung</role>
+    <type>Actor</type>
+    <tmdbid>227685</tmdbid>
+  </actor>
+  <director tmdbid="544467">Andy Chin</director>
+  <rating>5.8</rating>
+  <year>1994</year>
+  <imdbid>tt0111776</imdbid>
+  <tmdbid>66015</tmdbid>
+  <premiered>1994-05-03</premiered>
+  <releasedate>1994-05-03</releasedate>
+  <country>Hong Kong</country>
+  <genre>动作</genre>
+  <uniqueid type="Tmdb">66015</uniqueid>
+  <uniqueid type="Imdb">tt0111776</uniqueid>
+  <id>tt0111776</id>
+  <fileinfo>
+    <streamdetails />
+  </fileinfo>
+</movie>

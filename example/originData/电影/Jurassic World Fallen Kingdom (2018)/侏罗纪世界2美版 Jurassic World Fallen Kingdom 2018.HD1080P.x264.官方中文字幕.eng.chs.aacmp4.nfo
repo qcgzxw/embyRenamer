@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[自侏罗纪世界的骚乱以来，种类繁多的恐龙在努布拉岛度过了三年无拘无束的时光。然而该岛火山活动频繁，随时有喷发的危险。致力于恐龙保护的克莱尔·戴宁受到班杰明·洛克伍德的邀请。班杰明及其下属伊莱·米尔斯希望她和相关技术人员前往努布拉岛拯救那里的恐龙，并将它们安置在新的栖息地。受到感染的克莱尔设法找来欧文一同前往，欧文则希望救出他亲手驯养的迅猛龙小蓝。当他们踏足这座隔绝之岛时，却发现事情没那么简单。火山蠢蠢欲动，随时爆发，而混乱之中丑恶的阴谋悄然酝酿。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-09-05 10:32:04</dateadded>
+  <title>侏罗纪世界2</title>
+  <originaltitle>Jurassic World: Fallen Kingdom</originaltitle>
+  <actor>
+    <name>Chris Pratt</name>
+    <role>Owen Grady</role>
+    <type>Actor</type>
+    <tmdbid>73457</tmdbid>
+    <imdbid>nm0695435</imdbid>
+  </actor>
+  <actor>
+    <name>Bryce Dallas Howard</name>
+    <role>Claire Dearing</role>
+    <type>Actor</type>
+    <tmdbid>18997</tmdbid>
+    <imdbid>nm0397171</imdbid>
+  </actor>
+  <actor>
+    <name>Rafe Spall</name>
+    <role>Eli Mills</role>
+    <type>Actor</type>
+    <tmdbid>28847</tmdbid>
+    <imdbid>nm1245863</imdbid>
+  </actor>
+  <actor>
+    <name>Justice Smith</name>
+    <role>Franklin Webb</role>
+    <type>Actor</type>
+    <tmdbid>1029934</tmdbid>
+    <imdbid>nm6819854</imdbid>
+  </actor>
+  <actor>
+    <name>Daniella Pineda</name>
+    <role>Zia Rodriguez</role>
+    <type>Actor</type>
+    <tmdbid>1257819</tmdbid>
+    <imdbid>nm4427331</imdbid>
+  </actor>
+  <actor>
+    <name>James Cromwell</name>
+    <role>Benjamin Lockwood</role>
+    <type>Actor</type>
+    <tmdbid>2505</tmdbid>
+    <imdbid>nm0000342</imdbid>
+  </actor>
+  <actor>
+    <name>Toby Jones</name>
+    <role>Mr. Eversoll</role>
+    <type>Actor</type>
+    <tmdbid>13014</tmdbid>
+    <imdbid>nm0429363</imdbid>
+  </actor>
+  <actor>
+    <name>Ted Levine</name>
+    <role>Ken Wheatley</role>
+    <type>Actor</type>
+    <tmdbid>15854</tmdbid>
+    <imdbid>nm0505971</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff Goldblum</name>
+    <role>Dr. Ian Malcolm</role>
+    <type>Actor</type>
+    <tmdbid>4785</tmdbid>
+    <imdbid>nm0000156</imdbid>
+  </actor>
+  <actor>
+    <name>BD Wong</name>
+    <role>Dr. Henry Wu</role>
+    <type>Actor</type>
+    <tmdbid>14592</tmdbid>
+    <imdbid>nm0000703</imdbid>
+  </actor>
+  <actor>
+    <name>Geraldine Chaplin</name>
+    <role>Iris</role>
+    <type>Actor</type>
+    <tmdbid>400</tmdbid>
+    <imdbid>nm0001036</imdbid>
+  </actor>
+  <actor>
+    <name>Isabella Sermon</name>
+    <role>Maisie Lockwood</role>
+    <type>Actor</type>
+    <tmdbid>2058708</tmdbid>
+    <imdbid>nm9830820</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Emms</name>
+    <role>Tech Merc</role>
+    <type>Actor</type>
+    <tmdbid>589652</tmdbid>
+    <imdbid>nm3016166</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Jason</name>
+    <role>Senator Sherwood</role>
+    <type>Actor</type>
+    <tmdbid>6916</tmdbid>
+    <imdbid>nm0419273</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Layne</name>
+    <role>Sub Pilot</role>
+    <type>Actor</type>
+    <tmdbid>2093764</tmdbid>
+    <imdbid>nm6442861</imdbid>
+  </actor>
+  <actor>
+    <name>John Schwab</name>
+    <role>Tech Operator</role>
+    <type>Actor</type>
+    <tmdbid>207304</tmdbid>
+    <imdbid>nm1134945</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Redford</name>
+    <role>Helicopter Pilot</role>
+    <type>Actor</type>
+    <tmdbid>55586</tmdbid>
+    <imdbid>nm0714866</imdbid>
+  </actor>
+  <actor>
+    <name>Charlie Rawes</name>
+    <role>Lead Mercenary</role>
+    <type>Actor</type>
+    <tmdbid>1083177</tmdbid>
+    <imdbid>nm4826554</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Crowley</name>
+    <role>Prop Plane Pilot</role>
+    <type>Actor</type>
+    <tmdbid>25600</tmdbid>
+    <imdbid>nm0189777</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Dower</name>
+    <role>Russian Mob Guy</role>
+    <type>Actor</type>
+    <tmdbid>2125910</tmdbid>
+    <imdbid>nm1544555</imdbid>
+  </actor>
+  <actor>
+    <name>Honey Holmes</name>
+    <role>Russian Girlfriend</role>
+    <type>Actor</type>
+    <tmdbid>1358942</tmdbid>
+    <imdbid>nm5409106</imdbid>
+  </actor>
+  <actor>
+    <name>Neil Bishop</name>
+    <role>Russian Bidder</role>
+    <type>Actor</type>
+    <tmdbid>1792454</tmdbid>
+    <imdbid>nm6553251</imdbid>
+  </actor>
+  <actor>
+    <name>Philippa Thomas</name>
+    <role>BBC News Anchor</role>
+    <type>Actor</type>
+    <tmdbid>2125921</tmdbid>
+    <imdbid>nm3125627</imdbid>
+  </actor>
+  <actor>
+    <name>Ronan Summers</name>
+    <role>Brutish Mercenary</role>
+    <type>Actor</type>
+    <tmdbid>1132153</tmdbid>
+    <imdbid>nm2788751</imdbid>
+  </actor>
+  <actor>
+    <name>Cory Peterson</name>
+    <role>Committee Chairman</role>
+    <type>Actor</type>
+    <tmdbid>232979</tmdbid>
+    <imdbid>nm3270798</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Gilbert</name>
+    <role>Hero Tracker</role>
+    <type>Actor</type>
+    <tmdbid>2125928</tmdbid>
+    <imdbid>nm4266989</imdbid>
+  </actor>
+  <actor>
+    <name>Victor Gardener</name>
+    <role>Crewman</role>
+    <type>Actor</type>
+    <tmdbid>1563380</tmdbid>
+    <imdbid>nm1375139</imdbid>
+  </actor>
+  <actor>
+    <name>Daryl Kwan</name>
+    <role>Another Bidder</role>
+    <type>Actor</type>
+    <tmdbid>2067775</tmdbid>
+    <imdbid>nm0477064</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Kofi Abrefa</name>
+    <role>Helicopter Merc</role>
+    <type>Actor</type>
+    <tmdbid>1184960</tmdbid>
+    <imdbid>nm2256122</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Peel</name>
+    <role>Helicopter Merc</role>
+    <type>Actor</type>
+    <tmdbid>1205630</tmdbid>
+    <imdbid>nm0670222</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Griffin</name>
+    <role>Helicopter Merc</role>
+    <type>Actor</type>
+    <tmdbid>60603</tmdbid>
+    <imdbid>nm0341295</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Sockett</name>
+    <role>Bearded Merc</role>
+    <type>Actor</type>
+    <tmdbid>2060733</tmdbid>
+  </actor>
+  <actor>
+    <name>Doug Robson</name>
+    <role>Mercenary in Tunnel</role>
+    <type>Actor</type>
+    <tmdbid>2622281</tmdbid>
+  </actor>
+  <actor>
+    <name>Gil Kolirin</name>
+    <role>Mill's Man</role>
+    <type>Actor</type>
+    <tmdbid>123796</tmdbid>
+    <imdbid>nm2146097</imdbid>
+  </actor>
+  <actor>
+    <name>Nathan Florence</name>
+    <role>Surfer</role>
+    <type>Actor</type>
+    <tmdbid>2622283</tmdbid>
+  </actor>
+  <actor>
+    <name>Bryan Phillips</name>
+    <role>Surfer</role>
+    <type>Actor</type>
+    <tmdbid>1613949</tmdbid>
+  </actor>
+  <actor>
+    <name>Mitchell L. Johnson</name>
+    <role>Jungle Merc</role>
+    <type>Actor</type>
+    <tmdbid>2015334</tmdbid>
+    <imdbid>nm7214377</imdbid>
+  </actor>
+  <actor>
+    <name>Ian Copley-Johnson</name>
+    <role>Boat Crew</role>
+    <type>Actor</type>
+    <tmdbid>1933302</tmdbid>
+    <imdbid>nm9056176</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Papajohn</name>
+    <role>InGen Contractor</role>
+    <type>Actor</type>
+    <tmdbid>20582</tmdbid>
+    <imdbid>nm0660244</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Stisen</name>
+    <role>Russian Bodyguard</role>
+    <type>Actor</type>
+    <tmdbid>1481440</tmdbid>
+    <imdbid>nm4571421</imdbid>
+  </actor>
+  <actor>
+    <name>Gary Weeks</name>
+    <role>(archive footage)</role>
+    <type>Actor</type>
+    <tmdbid>168875</tmdbid>
+    <imdbid>nm0917314</imdbid>
+  </actor>
+  <director tmdbid="51894" imdbid="nm1291105">J. A. Bayona</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=vn9mMeWcgoM</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=NooW_RbfdWI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=1FJD7jZqZEk</trailer>
+  <rating>6.2</rating>
+  <year>2018</year>
+  <mpaa>HK-IIA</mpaa>
+  <imdbid>tt4881806</imdbid>
+  <tmdbid>351286</tmdbid>
+  <premiered>2018-06-06</premiered>
+  <releasedate>2018-06-06</releasedate>
+  <criticrating>47</criticrating>
+  <runtime>128</runtime>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>冒险</genre>
+  <genre>科幻</genre>
+  <studio>Amblin Entertainment</studio>
+  <studio>Legendary Pictures</studio>
+  <studio>Universal Pictures</studio>
+  <studio>Perfect World Pictures</studio>
+  <set tmdbcolid="328">
+    <name>侏罗纪公园（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">351286</uniqueid>
+  <uniqueid type="Imdb">tt4881806</uniqueid>
+  <id>tt4881806</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4382370</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>128</duration>
+        <durationinseconds>7697</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

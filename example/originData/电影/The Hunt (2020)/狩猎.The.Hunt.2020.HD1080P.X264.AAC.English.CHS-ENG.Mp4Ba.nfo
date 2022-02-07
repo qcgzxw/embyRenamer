@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[12个陌生人在空地上醒来。他们不知道自己在哪里，或者是如何到达这里的。
+ 他们不知道他们已经被选中，为了一个非常特殊的目的——捕猎。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-30 10:40:33</dateadded>
+  <title>狩猎</title>
+  <originaltitle>The Hunt</originaltitle>
+  <actor>
+    <name>Betty Gilpin</name>
+    <role>Crystal</role>
+    <type>Actor</type>
+    <tmdbid>92572</tmdbid>
+  </actor>
+  <actor>
+    <name>Hilary Swank</name>
+    <role>Athena</role>
+    <type>Actor</type>
+    <tmdbid>448</tmdbid>
+  </actor>
+  <actor>
+    <name>Ethan Suplee</name>
+    <role>Gary</role>
+    <type>Actor</type>
+    <tmdbid>824</tmdbid>
+    <imdbid>nm0839486</imdbid>
+  </actor>
+  <actor>
+    <name>Teri Wyble</name>
+    <role>Liberty</role>
+    <type>Actor</type>
+    <tmdbid>565501</tmdbid>
+    <imdbid>nm3582715</imdbid>
+  </actor>
+  <actor>
+    <name>Ike Barinholtz</name>
+    <role>Staten Island</role>
+    <type>Actor</type>
+    <tmdbid>198150</tmdbid>
+  </actor>
+  <actor>
+    <name>Wayne Duvall</name>
+    <role>Don</role>
+    <type>Actor</type>
+    <tmdbid>1470</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Roberts</name>
+    <role>Yoga Pants</role>
+    <type>Actor</type>
+    <tmdbid>34847</tmdbid>
+    <imdbid>nm0731075</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Berry</name>
+    <role>Target</role>
+    <type>Actor</type>
+    <tmdbid>1173099</tmdbid>
+    <imdbid>nm0077512</imdbid>
+  </actor>
+  <actor>
+    <name>Sturgill Simpson</name>
+    <role>Vanilla Nice</role>
+    <type>Actor</type>
+    <tmdbid>1526793</tmdbid>
+    <imdbid>nm4699627</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Nowlin</name>
+    <role>Big Red</role>
+    <type>Actor</type>
+    <tmdbid>206479</tmdbid>
+    <imdbid>nm2607692</imdbid>
+  </actor>
+  <actor>
+    <name>Amy Madigan</name>
+    <role>Ma</role>
+    <type>Actor</type>
+    <tmdbid>23882</tmdbid>
+    <imdbid>nm0001496</imdbid>
+  </actor>
+  <actor>
+    <name>Reed Birney</name>
+    <role>Pop</role>
+    <type>Actor</type>
+    <tmdbid>163774</tmdbid>
+  </actor>
+  <actor>
+    <name>Glenn Howerton</name>
+    <role>Richard</role>
+    <type>Actor</type>
+    <tmdbid>77870</tmdbid>
+    <imdbid>nm1097351</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Coulter</name>
+    <role>Doctor Ted</role>
+    <type>Actor</type>
+    <tmdbid>80619</tmdbid>
+    <imdbid>nm0183548</imdbid>
+  </actor>
+  <actor>
+    <name>Dean J. West</name>
+    <role>Martin</role>
+    <type>Actor</type>
+    <tmdbid>181701</tmdbid>
+    <imdbid>nm1706076</imdbid>
+  </actor>
+  <actor>
+    <name>Vince Pisani</name>
+    <role>Peter</role>
+    <type>Actor</type>
+    <tmdbid>1431398</tmdbid>
+    <imdbid>nm2079627</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Mokate</name>
+    <role>Sgt. Dale</role>
+    <type>Actor</type>
+    <tmdbid>1569173</tmdbid>
+  </actor>
+  <actor>
+    <name>Sylvia Grace Crim</name>
+    <role>Dead Sexy</role>
+    <type>Actor</type>
+    <tmdbid>1704655</tmdbid>
+    <imdbid>nm3812343</imdbid>
+  </actor>
+  <actor>
+    <name>Jason Kirkpatrick</name>
+    <role>Rannnndeeee</role>
+    <type>Actor</type>
+    <tmdbid>1410501</tmdbid>
+    <imdbid>nm3187553</imdbid>
+  </actor>
+  <actor>
+    <name>Macon Blair</name>
+    <role>Envoy</role>
+    <type>Actor</type>
+    <tmdbid>209513</tmdbid>
+    <imdbid>nm0086301</imdbid>
+  </actor>
+  <actor>
+    <name>J. C. MacKenzie</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>63296</tmdbid>
+    <imdbid>nm0533323</imdbid>
+  </actor>
+  <actor>
+    <name>Tadasay Young</name>
+    <role>Nicole</role>
+    <type>Actor</type>
+    <tmdbid>2090109</tmdbid>
+    <imdbid>nm6746248</imdbid>
+  </actor>
+  <actor>
+    <name>Hannah Alline</name>
+    <role>Kelly</role>
+    <type>Actor</type>
+    <tmdbid>2021224</tmdbid>
+    <imdbid>nm4413592</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Klock</name>
+    <role>Captain O’Hara</role>
+    <type>Actor</type>
+    <tmdbid>206624</tmdbid>
+    <imdbid>nm1145617</imdbid>
+  </actor>
+  <actor>
+    <name>Usman Ally</name>
+    <role>Crisis Mike</role>
+    <type>Actor</type>
+    <tmdbid>1129806</tmdbid>
+    <imdbid>nm2762669</imdbid>
+  </actor>
+  <actor>
+    <name>Ned Yousef</name>
+    <role>Bearded Refugee</role>
+    <type>Actor</type>
+    <tmdbid>1691470</tmdbid>
+    <imdbid>nm2556455</imdbid>
+  </actor>
+  <actor>
+    <name>Iyad Hajjaj</name>
+    <role>Backpack Refugee</role>
+    <type>Actor</type>
+    <tmdbid>1317384</tmdbid>
+    <imdbid>nm3111705</imdbid>
+  </actor>
+  <actor>
+    <name>Justin Hartley</name>
+    <role>Trucker</role>
+    <type>Actor</type>
+    <tmdbid>1222596</tmdbid>
+    <imdbid>nm1261997</imdbid>
+  </actor>
+  <actor>
+    <name>Hans Marrero</name>
+    <role>Refugee #3</role>
+    <type>Actor</type>
+    <tmdbid>131423</tmdbid>
+    <imdbid>nm3450086</imdbid>
+  </actor>
+  <actor>
+    <name>Charli Slaughter</name>
+    <role>Young Crystal</role>
+    <type>Actor</type>
+    <tmdbid>2149572</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucas Eagans</name>
+    <type>Actor</type>
+    <tmdbid>2664273</tmdbid>
+  </actor>
+  <actor>
+    <name>Adoria K Lewis</name>
+    <role>Refugee</role>
+    <type>Actor</type>
+    <tmdbid>2708028</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucy Golden</name>
+    <role>Refugee</role>
+    <type>Actor</type>
+    <tmdbid>2440848</tmdbid>
+  </actor>
+  <actor>
+    <name>Juan Gaspard</name>
+    <role>Refugee</role>
+    <type>Actor</type>
+    <tmdbid>1514475</tmdbid>
+    <imdbid>nm6140184</imdbid>
+  </actor>
+  <actor>
+    <name>Giovanni Cohea</name>
+    <role>Refugee</role>
+    <type>Actor</type>
+    <tmdbid>2708035</tmdbid>
+  </actor>
+  <actor>
+    <name>Troy Roker</name>
+    <role>Border Agent</role>
+    <type>Actor</type>
+    <tmdbid>2708037</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Brockton</name>
+    <role>Border Agent</role>
+    <type>Actor</type>
+    <tmdbid>1825882</tmdbid>
+  </actor>
+  <actor>
+    <name>Yosef Kasnetzkov</name>
+    <role>Border Agent</role>
+    <type>Actor</type>
+    <tmdbid>2557971</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Harris</name>
+    <role>Agent in Charge</role>
+    <type>Actor</type>
+    <tmdbid>2708038</tmdbid>
+  </actor>
+  <actor>
+    <name>Mikel Albagdadi</name>
+    <role>Refugee Man</role>
+    <type>Actor</type>
+    <tmdbid>2708039</tmdbid>
+  </actor>
+  <actor>
+    <name>Tirol Palmer</name>
+    <role>Refugee Mother</role>
+    <type>Actor</type>
+    <tmdbid>2484148</tmdbid>
+    <imdbid>nm8480213</imdbid>
+  </actor>
+  <actor>
+    <name>Alexander Babara</name>
+    <role>Bojan</role>
+    <type>Actor</type>
+    <tmdbid>1723573</tmdbid>
+    <imdbid>nm6509716</imdbid>
+  </actor>
+  <actor>
+    <name>Ariel Eliaz</name>
+    <role>Dino</role>
+    <type>Actor</type>
+    <tmdbid>1447910</tmdbid>
+  </actor>
+  <actor>
+    <name>Walker Babington</name>
+    <role>Bandana Man</role>
+    <type>Actor</type>
+    <tmdbid>1748372</tmdbid>
+  </actor>
+  <director tmdbid="79434">Craig Zobel</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=LOX6-4Mved0</trailer>
+  <rating>6.5</rating>
+  <year>2020</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt8244784</imdbid>
+  <tmdbid>514847</tmdbid>
+  <premiered>2020-03-11</premiered>
+  <releasedate>2020-03-11</releasedate>
+  <criticrating>58</criticrating>
+  <runtime>90</runtime>
+  <country>United States of America</country>
+  <country>Japan</country>
+  <genre>动作</genre>
+  <genre>惊悚</genre>
+  <genre>恐怖</genre>
+  <studio>Blumhouse Productions</studio>
+  <studio>DENTSU</studio>
+  <uniqueid type="Tmdb">514847</uniqueid>
+  <uniqueid type="Imdb">tt8244784</uniqueid>
+  <id>tt8244784</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4915214</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>90</duration>
+        <durationinseconds>5402</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>375393</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

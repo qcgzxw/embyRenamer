@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[塞拉克（Serac）的过往被揭开。 德洛莉丝（Dolores）向利亚姆（Liam）施加压力，要求授权其进入罗波安权限；凯勒（Caleb）意外使用了一种不寻常的派对药物...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-05-21 07:42:17</dateadded>
+  <title>浮世绘</title>
+  <actor>
+    <name>Al Coronel</name>
+    <type>GuestStar</type>
+    <tmdbid>1372185</tmdbid>
+    <imdbid>nm2029684</imdbid>
+  </actor>
+  <actor>
+    <name>Alexandre Bar</name>
+    <type>GuestStar</type>
+    <tmdbid>2518493</tmdbid>
+  </actor>
+  <actor>
+    <name>Bahia Haifi Gold</name>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Enrico Colantoni</name>
+    <type>GuestStar</type>
+    <tmdbid>15029</tmdbid>
+    <imdbid>nm0170186</imdbid>
+  </actor>
+  <actor>
+    <name>Iddo Goldberg</name>
+    <type>GuestStar</type>
+    <tmdbid>94958</tmdbid>
+    <imdbid>nm0325221</imdbid>
+  </actor>
+  <actor>
+    <name>Jefferson Mays</name>
+    <type>GuestStar</type>
+    <tmdbid>183814</tmdbid>
+    <imdbid>nm0563070</imdbid>
+  </actor>
+  <actor>
+    <name>John Gallagher Jr.</name>
+    <type>GuestStar</type>
+    <tmdbid>17487</tmdbid>
+    <imdbid>nm0302330</imdbid>
+  </actor>
+  <actor>
+    <name>Kid Cudi</name>
+    <type>GuestStar</type>
+    <tmdbid>484359</tmdbid>
+    <imdbid>nm3264596</imdbid>
+  </actor>
+  <actor>
+    <name>Lena Waithe</name>
+    <type>GuestStar</type>
+    <tmdbid>1059572</tmdbid>
+    <imdbid>nm2913119</imdbid>
+  </actor>
+  <actor>
+    <name>Marshawn Lynch</name>
+    <type>GuestStar</type>
+    <tmdbid>1420679</tmdbid>
+    <imdbid>nm2834234</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Cooper</name>
+    <type>GuestStar</type>
+    <tmdbid>1927966</tmdbid>
+    <imdbid>nm7956411</imdbid>
+  </actor>
+  <actor>
+    <name>Pom Klementieff</name>
+    <type>GuestStar</type>
+    <tmdbid>139820</tmdbid>
+    <imdbid>nm2962353</imdbid>
+  </actor>
+  <actor>
+    <name>Tommy Flanagan</name>
+    <type>GuestStar</type>
+    <tmdbid>2478</tmdbid>
+    <imdbid>nm0281107</imdbid>
+  </actor>
+  <director>Anna Foerster</director>
+  <rating>8</rating>
+  <year>2020</year>
+  <imdbid>tt10011154</imdbid>
+  <tvdbid>7578999</tvdbid>
+  <runtime>60</runtime>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt10011154</uniqueid>
+  <uniqueid type="Tvdb">7578999</uniqueid>
+  <episode>5</episode>
+  <season>3</season>
+  <aired>2020-04-12</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9981364</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>59</duration>
+        <durationinseconds>3581</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

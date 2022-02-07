@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[怀孕女囚达娅为了能在监狱里产下孩子，她让自己母亲向红妈求救。女囚们对贩毒狱警门德斯的种种劣行表示强烈不满，于是准备谋划一场强奸嫁祸案，让达娅勾引门德斯并发生关系，然后以强奸女囚并致女囚怀孕的罪名将门德斯赶出监狱。查普曼的未婚夫成名心切，公然在电台里对众女囚的私生活进行爆料，又一次将查普曼利用，两人的感情陷入严重的危机。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-09-02 12:14:32</dateadded>
+  <title>嫁祸狱警</title>
+  <actor>
+    <name>Taylor Schilling</name>
+    <role>Piper Chapman</role>
+    <type>Actor</type>
+    <tmdbid>221809</tmdbid>
+    <imdbid>nm2279940</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Hurst</name>
+    <role>Miss Claudette Pelage</role>
+    <type>Actor</type>
+    <tmdbid>96223</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Mulgrew</name>
+    <role>Galina 'Red' Reznikov</role>
+    <type>Actor</type>
+    <tmdbid>35317</tmdbid>
+    <imdbid>nm0000550</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Prepon</name>
+    <role>Alex Vause</role>
+    <type>Actor</type>
+    <tmdbid>18974</tmdbid>
+    <imdbid>nm0696059</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Harney</name>
+    <role>Sam Healy</role>
+    <type>Actor</type>
+    <tmdbid>1214447</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Biggs</name>
+    <role>Larry Bloom</role>
+    <type>Actor</type>
+    <tmdbid>21593</tmdbid>
+    <imdbid>nm0004755</imdbid>
+  </actor>
+  <actor>
+    <name>Natasha Lyonne</name>
+    <role>Nicky Nichols</role>
+    <type>GuestStar</type>
+    <tmdbid>10871</tmdbid>
+    <imdbid>nm0005169</imdbid>
+  </actor>
+  <actor>
+    <name>Uzo Aduba</name>
+    <role>Suzanne 'Crazy Eyes' Warren</role>
+    <type>GuestStar</type>
+    <tmdbid>1332680</tmdbid>
+    <imdbid>nm2499064</imdbid>
+  </actor>
+  <actor>
+    <name>Jackie Cruz</name>
+    <role>Marisol 'Flaca' Gonzales</role>
+    <type>GuestStar</type>
+    <tmdbid>1443625</tmdbid>
+    <imdbid>nm3117320</imdbid>
+  </actor>
+  <actor>
+    <name>Selenis Leyva</name>
+    <role>Gloria Mendoza</role>
+    <type>GuestStar</type>
+    <tmdbid>162503</tmdbid>
+    <imdbid>nm0508139</imdbid>
+  </actor>
+  <actor>
+    <name>Taryn Manning</name>
+    <role>Tiffany 'Pennsatucky' Doggett</role>
+    <type>GuestStar</type>
+    <tmdbid>343</tmdbid>
+    <imdbid>nm0543383</imdbid>
+  </actor>
+  <actor>
+    <name>Adrienne C. Moore</name>
+    <role>Cindy Hayes</role>
+    <type>GuestStar</type>
+    <tmdbid>1443478</tmdbid>
+  </actor>
+  <actor>
+    <name>Dascha Polanco</name>
+    <role>Dayanara Diaz</role>
+    <type>GuestStar</type>
+    <tmdbid>1026947</tmdbid>
+    <imdbid>nm4745601</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Sandow</name>
+    <role>Joe Caputo</role>
+    <type>GuestStar</type>
+    <tmdbid>95519</tmdbid>
+    <imdbid>nm0762191</imdbid>
+  </actor>
+  <actor>
+    <name>Yael Stone</name>
+    <role>Lorna Morello</role>
+    <type>GuestStar</type>
+    <tmdbid>1028560</tmdbid>
+    <imdbid>nm0832227</imdbid>
+  </actor>
+  <actor>
+    <name>James McDaniel</name>
+    <role>Jean Baptiste</role>
+    <type>GuestStar</type>
+    <tmdbid>81372</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Stanton</name>
+    <role>Maury Kind</role>
+    <type>GuestStar</type>
+    <tmdbid>53963</tmdbid>
+  </actor>
+  <actor>
+    <name>Maïté Alina</name>
+    <role>Receptionist</role>
+    <type>GuestStar</type>
+    <tmdbid>1363737</tmdbid>
+  </actor>
+  <actor>
+    <name>Sari Caine</name>
+    <role>Frizzy Bangs</role>
+    <type>GuestStar</type>
+    <tmdbid>1473377</tmdbid>
+  </actor>
+  <actor>
+    <name>Benjamin Eakeley</name>
+    <role>Greg O'Brien</role>
+    <type>GuestStar</type>
+    <tmdbid>1511995</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Gessner</name>
+    <role>Ben Palmer</role>
+    <type>GuestStar</type>
+    <tmdbid>1474114</tmdbid>
+  </actor>
+  <actor>
+    <name>Susanna Guzman</name>
+    <role>Nurse</role>
+    <type>GuestStar</type>
+    <tmdbid>1788802</tmdbid>
+  </actor>
+  <actor>
+    <name>Leroy Phillips Jr.</name>
+    <role>Pedestrian (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>2449923</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Stevenson</name>
+    <role>Pete Harper</role>
+    <type>GuestStar</type>
+    <tmdbid>2439431</tmdbid>
+  </actor>
+  <actor>
+    <name>Shaleeni Ranchhod</name>
+    <role>Inmate</role>
+    <type>GuestStar</type>
+    <tmdbid>2510670</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt McGorry</name>
+    <role>John Bennett</role>
+    <type>GuestStar</type>
+    <tmdbid>979843</tmdbid>
+  </actor>
+  <actor>
+    <name>Lolita Foster</name>
+    <role>Eliqua Maxwell</role>
+    <type>GuestStar</type>
+    <tmdbid>1375175</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric J Carlson</name>
+    <role>Corrections Officer (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>1633485</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Rodriguez</name>
+    <role>Aleida Diaz</role>
+    <type>GuestStar</type>
+    <tmdbid>65421</tmdbid>
+  </actor>
+  <actor>
+    <name>Beth Fowler</name>
+    <role>Sister Jane Ingalls</role>
+    <type>GuestStar</type>
+    <tmdbid>171182</tmdbid>
+  </actor>
+  <actor>
+    <name>Brendan Burke</name>
+    <role>Wade Donaldson</role>
+    <type>GuestStar</type>
+    <tmdbid>1422337</tmdbid>
+  </actor>
+  <actor>
+    <name>Samira Wiley</name>
+    <role>Poussey Washington</role>
+    <type>GuestStar</type>
+    <tmdbid>1034197</tmdbid>
+    <imdbid>nm4148126</imdbid>
+  </actor>
+  <actor>
+    <name>Annie Golden</name>
+    <role>Norma Romano</role>
+    <type>GuestStar</type>
+    <tmdbid>66094</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Gómez</name>
+    <role>Blanca Flores</role>
+    <type>GuestStar</type>
+    <tmdbid>1443612</tmdbid>
+  </actor>
+  <actor>
+    <name>Vicky Jeudy</name>
+    <role>Janae Watson</role>
+    <type>GuestStar</type>
+    <tmdbid>1443647</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Myles</name>
+    <role>Leanne Taylor</role>
+    <type>GuestStar</type>
+    <tmdbid>1333708</tmdbid>
+  </actor>
+  <actor>
+    <name>Abigail Savage</name>
+    <role>Gina Murphy</role>
+    <type>GuestStar</type>
+    <tmdbid>187847</tmdbid>
+  </actor>
+  <actor>
+    <name>Constance Shulman</name>
+    <role>Yoga Jones</role>
+    <type>GuestStar</type>
+    <tmdbid>58521</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt Peters</name>
+    <role>Joel Luschek</role>
+    <type>GuestStar</type>
+    <tmdbid>1448945</tmdbid>
+  </actor>
+  <actor>
+    <name>Alysia Reiner</name>
+    <role>Natalie Figueroa</role>
+    <type>GuestStar</type>
+    <tmdbid>109740</tmdbid>
+  </actor>
+  <actor>
+    <name>Catherine Curtin</name>
+    <role>Wanda Bell</role>
+    <type>GuestStar</type>
+    <tmdbid>205808</tmdbid>
+  </actor>
+  <actor>
+    <name>Diane Guerrero</name>
+    <role>Maritza Ramos</role>
+    <type>GuestStar</type>
+    <tmdbid>1010157</tmdbid>
+  </actor>
+  <actor>
+    <name>Lori Tan Chinn</name>
+    <role>Mei Chang</role>
+    <type>GuestStar</type>
+    <tmdbid>171743</tmdbid>
+  </actor>
+  <actor>
+    <name>Pablo Schreiber</name>
+    <role>George 'Pornstache' Mendez</role>
+    <type>GuestStar</type>
+    <tmdbid>59254</tmdbid>
+  </actor>
+  <actor>
+    <name>Lea DeLaria</name>
+    <role>Big Boo</role>
+    <type>GuestStar</type>
+    <tmdbid>40063</tmdbid>
+  </actor>
+  <director>Constantine Makris</director>
+  <rating>8.263</rating>
+  <year>2013</year>
+  <imdbid>tt2739642</imdbid>
+  <tvdbid>4550341</tvdbid>
+  <runtime>59</runtime>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt2739642</uniqueid>
+  <uniqueid type="Tvdb">4550341</uniqueid>
+  <episode>11</episode>
+  <season>1</season>
+  <aired>2013-07-11</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9627948</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>58</duration>
+        <durationinseconds>3539</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

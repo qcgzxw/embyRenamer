@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[这是一部侦探类型片外壳包裹着的，面对自我记忆、家庭关系的电影。黄觉饰演的男主角回到贵州，偶然发现汤唯饰演的"神秘女子"踪迹，继而回想起十二年前与她度过的那个秘密夏天。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-13 23:08:41</dateadded>
+  <title>地球最后的夜晚</title>
+  <originaltitle>地球最后的夜晚</originaltitle>
+  <actor>
+    <name>Huang Jue</name>
+    <role>Luo Hongwu</role>
+    <type>Actor</type>
+    <tmdbid>106581</tmdbid>
+    <imdbid>nm1645275</imdbid>
+  </actor>
+  <actor>
+    <name>Tang Wei</name>
+    <role>Wan Qiwen</role>
+    <type>Actor</type>
+    <tmdbid>38280</tmdbid>
+  </actor>
+  <actor>
+    <name>Sylvia Chang</name>
+    <role>Wild Cat's mother</role>
+    <type>Actor</type>
+    <tmdbid>26739</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Hong Chi</name>
+    <role>Wild Cat</role>
+    <type>Actor</type>
+    <tmdbid>1630178</tmdbid>
+  </actor>
+  <actor>
+    <name>Chen Yongzhong</name>
+    <role>Zuo Hongyuan</role>
+    <type>Actor</type>
+    <tmdbid>1549530</tmdbid>
+  </actor>
+  <actor>
+    <name>Zeng Meihuizi</name>
+    <role>Pager</role>
+    <type>Actor</type>
+    <tmdbid>1749258</tmdbid>
+  </actor>
+  <actor>
+    <name>Duan Chun-hao</name>
+    <role>Ex-husband of Wan Qiwen</role>
+    <type>Actor</type>
+    <tmdbid>69827</tmdbid>
+  </actor>
+  <actor>
+    <name>Bi Yanmin</name>
+    <role>Woman Prisoner</role>
+    <type>Actor</type>
+    <tmdbid>2363248</tmdbid>
+  </actor>
+  <actor>
+    <name>Feiyang Luo</name>
+    <type>Actor</type>
+    <tmdbid>1549533</tmdbid>
+  </actor>
+  <actor>
+    <name>Lixun Xie</name>
+    <type>Actor</type>
+    <tmdbid>1549534</tmdbid>
+  </actor>
+  <actor>
+    <name>Qi Xi</name>
+    <type>Actor</type>
+    <tmdbid>1161018</tmdbid>
+    <imdbid>nm5035471</imdbid>
+  </actor>
+  <actor>
+    <name>Ming Dao</name>
+    <type>Actor</type>
+    <tmdbid>1137149</tmdbid>
+  </actor>
+  <director tmdbid="1520165">Bi Gan</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=0yPt3kQzxa8</trailer>
+  <rating>7.2</rating>
+  <year>2018</year>
+  <mpaa>HK-IIA</mpaa>
+  <imdbid>tt8185182</imdbid>
+  <tmdbid>486898</tmdbid>
+  <premiered>2018-10-07</premiered>
+  <releasedate>2018-10-07</releasedate>
+  <criticrating>93</criticrating>
+  <runtime>138</runtime>
+  <country>China</country>
+  <country>France</country>
+  <genre>剧情</genre>
+  <genre>悬疑</genre>
+  <studio>Huace Film &amp; TV</studio>
+  <studio>CG Cinéma</studio>
+  <studio>Tencent Pictures</studio>
+  <studio>YOUKU</studio>
+  <uniqueid type="Tmdb">486898</uniqueid>
+  <uniqueid type="Imdb">tt8185182</uniqueid>
+  <id>tt8185182</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5000891</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>138</duration>
+        <durationinseconds>8285</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>256000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

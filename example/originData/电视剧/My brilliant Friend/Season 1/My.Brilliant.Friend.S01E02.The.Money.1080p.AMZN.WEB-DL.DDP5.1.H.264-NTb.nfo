@@ -1,0 +1,435 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[唐•阿奇勒给了一些钱，让埃琳娜和莱拉去买新的洋娃娃。两个女孩把钱当做宝贝藏起来，直到莱拉决定成为一个作家，两人拿着钱买了一本《小妇人》作为入门的阅读书，两人逐渐发现了阅读的乐趣。埃琳娜和莱拉的家庭都很贫穷，没有受过教育，也并没有让她们继续接受教育的打算。在与父母无数次争吵之后，埃琳娜终于获得了上中学的许可，而莱拉则将被迫放弃了学业。莱拉邀请埃琳娜一起去海边，两人借口放学后被老师邀请去参加派对，迅速换衣走向海边，但走到半路，莱拉突然反悔，要求回家。埃琳娜只好跟着莱拉往回走，回去的路上，埃琳娜遇到正在寻找自己的母亲，被母亲和父亲一顿教训，埃琳娜意识到莱拉是故意想伤害自己，让自己也无法上学，而此时莱拉也不再到学校上课，两人很长一段时间不再联系。直到莱拉把自己写的《蓝仙女》给埃琳娜看，埃琳娜叹服莱拉的才华。社区发生了大事，唐•阿奇勒被人谋杀，所有人都认为是曾向唐•阿奇勒借过高利贷的阿尔弗雷，但莱拉却认为凶手另有其人。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-11-02 01:48:02</dateadded>
+  <title>钱</title>
+  <actor>
+    <name>Gaia Girace</name>
+    <role>Lila (Teenager)</role>
+    <type>Actor</type>
+    <tmdbid>2165956</tmdbid>
+    <imdbid>nm10135221</imdbid>
+  </actor>
+  <actor>
+    <name>Margherita Mazzucco</name>
+    <role>Elena (Teenager)</role>
+    <type>Actor</type>
+    <tmdbid>2165955</tmdbid>
+  </actor>
+  <actor>
+    <name>Ludovica Nasti</name>
+    <role>Lila (Younger)</role>
+    <type>Actor</type>
+    <tmdbid>2165954</tmdbid>
+  </actor>
+  <actor>
+    <name>Elisa del Genio</name>
+    <role>Elena (Younger)</role>
+    <type>Actor</type>
+    <tmdbid>2165953</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Rita Vitolo</name>
+    <role>Immacolata Greco</role>
+    <type>Actor</type>
+    <tmdbid>2216174</tmdbid>
+  </actor>
+  <actor>
+    <name>Luca Gallone</name>
+    <role>Vittorio Greco</role>
+    <type>Actor</type>
+    <tmdbid>1871357</tmdbid>
+    <imdbid>nm8152810</imdbid>
+  </actor>
+  <actor>
+    <name>Imma Villa</name>
+    <role>Imma Solara</role>
+    <type>Actor</type>
+    <tmdbid>2216178</tmdbid>
+  </actor>
+  <actor>
+    <name>Valentina Acca</name>
+    <role>Nunzia Cerullo</role>
+    <type>Actor</type>
+    <tmdbid>1605727</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Buonanno</name>
+    <role>Fernando Cerullo</role>
+    <type>Actor</type>
+    <tmdbid>2216182</tmdbid>
+  </actor>
+  <actor>
+    <name>Dora Romano</name>
+    <role>Miss Oliviero</role>
+    <type>Actor</type>
+    <tmdbid>1510167</tmdbid>
+    <imdbid>nm0738873</imdbid>
+  </actor>
+  <actor>
+    <name>Alessio Gallo</name>
+    <role>Teenaged Michele Solara</role>
+    <type>Actor</type>
+    <tmdbid>1087190</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Pennarella</name>
+    <role>Don Achille Carracci</role>
+    <type>GuestStar</type>
+    <tmdbid>552990</tmdbid>
+    <imdbid>nm0672049</imdbid>
+  </actor>
+  <actor>
+    <name>Valentina Arena</name>
+    <role>Jolanda</role>
+    <type>GuestStar</type>
+    <tmdbid>2216786</tmdbid>
+  </actor>
+  <actor>
+    <name>Gennaro Canonico</name>
+    <role>Alfredo Peluso</role>
+    <type>GuestStar</type>
+    <tmdbid>1871403</tmdbid>
+  </actor>
+  <actor>
+    <name>Michele Capone</name>
+    <role>Policeman</role>
+    <type>GuestStar</type>
+    <tmdbid>2216791</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio Cuomo</name>
+    <role>Antonio Cappuccio</role>
+    <type>GuestStar</type>
+    <tmdbid>2216798</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachele Esposito</name>
+    <role>Neighbor</role>
+    <type>GuestStar</type>
+    <tmdbid>2216573</tmdbid>
+  </actor>
+  <actor>
+    <name>Cristina Magnotti</name>
+    <role>Marisa Sarratore</role>
+    <type>GuestStar</type>
+    <tmdbid>2216579</tmdbid>
+  </actor>
+  <actor>
+    <name>Vincenzo Merolla</name>
+    <role>Workman without index finger</role>
+    <type>GuestStar</type>
+    <tmdbid>132847</tmdbid>
+  </actor>
+  <actor>
+    <name>Giuseppina Ranauro</name>
+    <role>Neighbor</role>
+    <type>GuestStar</type>
+    <tmdbid>2216594</tmdbid>
+  </actor>
+  <actor>
+    <name>Adriano Tammaro</name>
+    <role>Michele Solara</role>
+    <type>GuestStar</type>
+    <tmdbid>2216604</tmdbid>
+  </actor>
+  <actor>
+    <name>Pietro Vuolo</name>
+    <role>Marcello Solara</role>
+    <type>GuestStar</type>
+    <tmdbid>2216613</tmdbid>
+  </actor>
+  <actor>
+    <name>Sergio Dragonetti</name>
+    <role>Janitor Elementary School</role>
+    <type>GuestStar</type>
+    <tmdbid>2216571</tmdbid>
+  </actor>
+  <actor>
+    <name>Simona Volpe</name>
+    <role>Sewing shop owner</role>
+    <type>GuestStar</type>
+    <tmdbid>2216612</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Gaudiello</name>
+    <role>4th Child Peluso</role>
+    <type>GuestStar</type>
+    <tmdbid>2216800</tmdbid>
+  </actor>
+  <actor>
+    <name>Alice D'Antonio</name>
+    <role>Gigliola Spagnuolo</role>
+    <type>GuestStar</type>
+    <tmdbid>2216799</tmdbid>
+  </actor>
+  <actor>
+    <name>Augusto Cimmino</name>
+    <role>4th Child Cerullo</role>
+    <type>GuestStar</type>
+    <tmdbid>2216796</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesco Catena</name>
+    <role>Pasquale Peluso</role>
+    <type>GuestStar</type>
+    <tmdbid>2216792</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesca Bevilacqua</name>
+    <role>3rd Child Peluso</role>
+    <type>GuestStar</type>
+    <tmdbid>2216789</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesca Bellamoli</name>
+    <role>Carmela Peluso</role>
+    <type>GuestStar</type>
+    <tmdbid>2216787</tmdbid>
+  </actor>
+  <actor>
+    <name>Vincenzo Vaccaro</name>
+    <role>Enzo Scanno</role>
+    <type>GuestStar</type>
+    <tmdbid>2217749</tmdbid>
+  </actor>
+  <actor>
+    <name>Raffaele Tramontano</name>
+    <role>3rd Child Cerullo</role>
+    <type>GuestStar</type>
+    <tmdbid>2216609</tmdbid>
+  </actor>
+  <actor>
+    <name>Giuliana Tramontano</name>
+    <role>Pinuccia Carracci</role>
+    <type>GuestStar</type>
+    <tmdbid>2216608</tmdbid>
+  </actor>
+  <actor>
+    <name>Alessio Theodoracchi</name>
+    <role>2nd Child Spagnuolo</role>
+    <type>GuestStar</type>
+    <tmdbid>2216606</tmdbid>
+  </actor>
+  <actor>
+    <name>Tommaso Rusciano</name>
+    <role>Rino Cerullo</role>
+    <type>GuestStar</type>
+    <tmdbid>2216598</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Noioso</name>
+    <role>Gianni Greco</role>
+    <type>GuestStar</type>
+    <tmdbid>2216587</tmdbid>
+  </actor>
+  <actor>
+    <name>Francesco Nocerino</name>
+    <role>3rd Child Cappuccio</role>
+    <type>GuestStar</type>
+    <tmdbid>2216586</tmdbid>
+  </actor>
+  <actor>
+    <name>Emanuele Nocerino</name>
+    <role>Peppe Greco</role>
+    <type>GuestStar</type>
+    <tmdbid>2216585</tmdbid>
+  </actor>
+  <actor>
+    <name>Sara Mauriello</name>
+    <role>Elisa Greco</role>
+    <type>GuestStar</type>
+    <tmdbid>2216581</tmdbid>
+  </actor>
+  <actor>
+    <name>Vittorio Viviani</name>
+    <role>Teacher Ferraro</role>
+    <type>GuestStar</type>
+    <tmdbid>1200393</tmdbid>
+    <imdbid>nm0900351</imdbid>
+  </actor>
+  <actor>
+    <name>Lucia Manfuso</name>
+    <role>Ada Cappuccio</role>
+    <type>GuestStar</type>
+    <tmdbid>2216580</tmdbid>
+  </actor>
+  <actor>
+    <name>Valerio Laviano Saggese</name>
+    <role>Alfonso Carracci</role>
+    <type>GuestStar</type>
+    <tmdbid>2216577</tmdbid>
+  </actor>
+  <actor>
+    <name>Kristijan Di Giacomo</name>
+    <role>Stefano Carracci</role>
+    <type>GuestStar</type>
+    <tmdbid>2216566</tmdbid>
+  </actor>
+  <actor>
+    <name>Alba Rohrwacher</name>
+    <role>Voice over</role>
+    <type>GuestStar</type>
+    <tmdbid>128748</tmdbid>
+    <imdbid>nm2130040</imdbid>
+  </actor>
+  <actor>
+    <name>Ciro Alario</name>
+    <role>Player Bar Solara</role>
+    <type>GuestStar</type>
+    <tmdbid>2216783</tmdbid>
+  </actor>
+  <actor>
+    <name>Consiglia Aprovidolo</name>
+    <role>Neighbor</role>
+    <type>GuestStar</type>
+    <tmdbid>2216785</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Cerchia</name>
+    <role>Neighbor</role>
+    <type>GuestStar</type>
+    <tmdbid>2216793</tmdbid>
+  </actor>
+  <actor>
+    <name>Valentina Ceriello</name>
+    <role>Neighbor</role>
+    <type>GuestStar</type>
+    <tmdbid>2216794</tmdbid>
+  </actor>
+  <actor>
+    <name>Fabiana Ciancio</name>
+    <role>Neighbor</role>
+    <type>GuestStar</type>
+    <tmdbid>2216795</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonella Corsale</name>
+    <role>Neighbor</role>
+    <type>GuestStar</type>
+    <tmdbid>2216797</tmdbid>
+  </actor>
+  <actor>
+    <name>Marzia Onorato</name>
+    <role>Rosa Trapani</role>
+    <type>GuestStar</type>
+    <tmdbid>2445575</tmdbid>
+  </actor>
+  <actor>
+    <name>Evelina De Felice</name>
+    <role>Neighbor</role>
+    <type>GuestStar</type>
+    <tmdbid>1912641</tmdbid>
+  </actor>
+  <actor>
+    <name>Chiara Di Costanzo</name>
+    <role>Neighbor</role>
+    <type>GuestStar</type>
+    <tmdbid>2216563</tmdbid>
+  </actor>
+  <actor>
+    <name>Loredana Di Martino</name>
+    <role>Neighbor</role>
+    <type>GuestStar</type>
+    <tmdbid>2216567</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrizia Di Martino</name>
+    <role>Rosa Spagnuolo</role>
+    <type>GuestStar</type>
+    <tmdbid>1618771</tmdbid>
+  </actor>
+  <actor>
+    <name>Antonio di Nota</name>
+    <role>Player Bar Solara</role>
+    <type>GuestStar</type>
+    <tmdbid>2062268</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Falanga</name>
+    <role>Maria Carracci</role>
+    <type>GuestStar</type>
+    <tmdbid>2216574</tmdbid>
+  </actor>
+  <actor>
+    <name>Giuseppe Gavazzi</name>
+    <role>Player Bar Solara</role>
+    <type>GuestStar</type>
+    <tmdbid>2216575</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmen Pommella</name>
+    <role>Neighbor</role>
+    <type>GuestStar</type>
+    <tmdbid>2216591</tmdbid>
+  </actor>
+  <actor>
+    <name>Ciro Pugliese</name>
+    <role>Nicola Scanno</role>
+    <type>GuestStar</type>
+    <tmdbid>2216592</tmdbid>
+  </actor>
+  <actor>
+    <name>Lia Zinno</name>
+    <role>Giuseppina Peluso</role>
+    <type>GuestStar</type>
+    <tmdbid>1871392</tmdbid>
+  </actor>
+  <rating>5</rating>
+  <year>2018</year>
+  <imdbid>tt8139608</imdbid>
+  <tvdbid>6605060</tvdbid>
+  <runtime>65</runtime>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt8139608</uniqueid>
+  <uniqueid type="Tvdb">6605060</uniqueid>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2018-11-19</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>14570037</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>64</duration>
+        <durationinseconds>3876</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

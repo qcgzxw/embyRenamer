@@ -1,0 +1,236 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[霍尔登带着存活的四人驾驶骑士号穿越陨石碎带，骑士号却不断出现状况。米勒调查朱莉的房间，他找到一些线索。行星带Opa恐怖组织的成员受审，联合国副国务卿试图问出幕后主使。骑士号即将耗尽能源，船员在缺氧的情况下惊险修理飞船。米勒调查偷水案，他放过了偷水的黑帮少年。内奥米查出摧毁捕冰船的是火星舰队，随后火星舰队唐纳哥号捕捉到了骑士号的救援信号。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-02-07 19:42:33</dateadded>
+  <title>空旷空间</title>
+  <actor>
+    <name>Steven Strait</name>
+    <role>Jim Holden</role>
+    <type>Actor</type>
+    <tmdbid>54815</tmdbid>
+    <imdbid>nm1711829</imdbid>
+  </actor>
+  <actor>
+    <name>Cas Anvar</name>
+    <role>Alex Kamal</role>
+    <type>Actor</type>
+    <tmdbid>59214</tmdbid>
+    <imdbid>nm0031679</imdbid>
+  </actor>
+  <actor>
+    <name>Dominique Tipper</name>
+    <role>Naomi Nagata</role>
+    <type>Actor</type>
+    <tmdbid>1361876</tmdbid>
+    <imdbid>nm4625680</imdbid>
+  </actor>
+  <actor>
+    <name>Wes Chatham</name>
+    <role>Amos Burton</role>
+    <type>Actor</type>
+    <tmdbid>51682</tmdbid>
+    <imdbid>nm1434871</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Jane</name>
+    <role>Detective Josephus Miller</role>
+    <type>Actor</type>
+    <tmdbid>11155</tmdbid>
+    <imdbid>nm0005048</imdbid>
+  </actor>
+  <actor>
+    <name>Shohreh Aghdashloo</name>
+    <role>Chrisjen Avasarala</role>
+    <type>Actor</type>
+    <tmdbid>21041</tmdbid>
+    <imdbid>nm0013037</imdbid>
+  </actor>
+  <actor>
+    <name>Florence Faivre</name>
+    <role>Julie Mao</role>
+    <type>Actor</type>
+    <tmdbid>88794</tmdbid>
+    <imdbid>nm1552467</imdbid>
+  </actor>
+  <actor>
+    <name>Kristen Hager</name>
+    <role>Ade Nygaard</role>
+    <type>GuestStar</type>
+    <tmdbid>73454</tmdbid>
+  </actor>
+  <actor>
+    <name>Bauston Camilleri</name>
+    <role>Street Kid #4</role>
+    <type>GuestStar</type>
+    <tmdbid>1854796</tmdbid>
+  </actor>
+  <actor>
+    <name>Christian Bako</name>
+    <role>Belter Commuter #1</role>
+    <type>GuestStar</type>
+    <tmdbid>136960</tmdbid>
+  </actor>
+  <actor>
+    <name>Ese Beaudoin-Borha</name>
+    <role>AWP Worker</role>
+    <type>GuestStar</type>
+    <tmdbid>2431187</tmdbid>
+  </actor>
+  <actor>
+    <name>Ian Agard</name>
+    <role>Belter Commuter #2</role>
+    <type>GuestStar</type>
+    <tmdbid>2431188</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Birman</name>
+    <role>Street Kid #2</role>
+    <type>GuestStar</type>
+    <tmdbid>2431190</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Stevenson</name>
+    <role>Dock Master</role>
+    <type>GuestStar</type>
+    <tmdbid>175203</tmdbid>
+  </actor>
+  <actor>
+    <name>Spencer Birman</name>
+    <role>Street Kid #3</role>
+    <type>GuestStar</type>
+    <tmdbid>2431194</tmdbid>
+  </actor>
+  <actor>
+    <name>Steve Moxley</name>
+    <role>Bike Trick Kid</role>
+    <type>GuestStar</type>
+    <tmdbid>2431196</tmdbid>
+  </actor>
+  <actor>
+    <name>Paulo Costanzo</name>
+    <role>Shed Garvey</role>
+    <type>GuestStar</type>
+    <tmdbid>57133</tmdbid>
+  </actor>
+  <actor>
+    <name>Jane Moffat</name>
+    <role>Brothel Madam</role>
+    <type>GuestStar</type>
+    <tmdbid>1362948</tmdbid>
+  </actor>
+  <actor>
+    <name>Jay Hernandez</name>
+    <role>Dimitri Havelock</role>
+    <type>GuestStar</type>
+    <tmdbid>19487</tmdbid>
+  </actor>
+  <actor>
+    <name>Sara Mitich</name>
+    <role>Gia</role>
+    <type>GuestStar</type>
+    <tmdbid>1300649</tmdbid>
+  </actor>
+  <actor>
+    <name>Athena Karkanis</name>
+    <role>Octavia Muss</role>
+    <type>GuestStar</type>
+    <tmdbid>51037</tmdbid>
+    <imdbid>nm1920701</imdbid>
+  </actor>
+  <actor>
+    <name>Craig Henry</name>
+    <role>Bouillotte Dealer</role>
+    <type>GuestStar</type>
+    <tmdbid>1522268</tmdbid>
+  </actor>
+  <actor>
+    <name>Shawn Doyle</name>
+    <role>Sadavir Errinwright</role>
+    <type>GuestStar</type>
+    <tmdbid>25878</tmdbid>
+    <imdbid>nm0236495</imdbid>
+  </actor>
+  <actor>
+    <name>François Chau</name>
+    <role>Jules-Pierre Mao</role>
+    <type>GuestStar</type>
+    <tmdbid>60851</tmdbid>
+    <imdbid>nm0154236</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Rotilio</name>
+    <role>Diogo</role>
+    <type>GuestStar</type>
+    <tmdbid>2197675</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Blake</name>
+    <role>Joon</role>
+    <type>GuestStar</type>
+    <tmdbid>2630965</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Delfin</name>
+    <role>Heikki Sobong</role>
+    <type>GuestStar</type>
+    <tmdbid>1849328</tmdbid>
+  </actor>
+  <director>Terry McDonough</director>
+  <rating>7.147</rating>
+  <year>2015</year>
+  <imdbid>tt3982202</imdbid>
+  <tvdbid>5280274</tvdbid>
+  <runtime>43</runtime>
+  <genre>Drama</genre>
+  <genre>Mystery</genre>
+  <genre>Sci-Fi</genre>
+  <genre>Thriller</genre>
+  <tvrageid>1065742154</tvrageid>
+  <uniqueid type="Imdb">tt3982202</uniqueid>
+  <uniqueid type="Tvdb">5280274</uniqueid>
+  <uniqueid type="TvRage">1065742154</uniqueid>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2015-12-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10886157</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>43</duration>
+        <durationinseconds>2585</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

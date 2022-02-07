@@ -1,0 +1,242 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　热恋中的珍妮（Kelly Reilly 饰）与史帝夫（Michael Fassbender 饰）来到美丽的湖边，计划度过一个浪漫而温馨的周末。但是他们的周末被一群胡作非为、大声喧哗的少年给搅乱。一番口角冲突过后，夫妇俩的食物以及车钥匙不翼而飞。他们只得徒步前往镇上求助，却不知道，这恰恰是恶梦的开始……
+ 　　本片荣获2009年《帝国》杂志奖最佳恐怖片奖、2009年葡萄牙奇幻国际电影节最佳导演奖、2009年伦敦影评电影金像奖英国年度青年演员奖（Thomas Turgoose）、2008年Sitges – Catalonian国际电影节评审团特别奖最佳影片。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-31 10:59:00</dateadded>
+  <title>伊甸湖</title>
+  <originaltitle>Eden Lake</originaltitle>
+  <actor>
+    <name>Kelly Reilly</name>
+    <role>Jenny</role>
+    <type>Actor</type>
+    <tmdbid>17521</tmdbid>
+    <imdbid>nm0717709</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Fassbender</name>
+    <role>Steve</role>
+    <type>Actor</type>
+    <tmdbid>17288</tmdbid>
+    <imdbid>nm1055413</imdbid>
+  </actor>
+  <actor>
+    <name>Jack O'Connell</name>
+    <role>Brett</role>
+    <type>Actor</type>
+    <tmdbid>85065</tmdbid>
+    <imdbid>nm1925239</imdbid>
+  </actor>
+  <actor>
+    <name>Finn Atkins</name>
+    <role>Paige</role>
+    <type>Actor</type>
+    <tmdbid>85066</tmdbid>
+    <imdbid>nm1107166</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Turgoose</name>
+    <role>Cooper</role>
+    <type>Actor</type>
+    <tmdbid>70517</tmdbid>
+    <imdbid>nm2129938</imdbid>
+  </actor>
+  <actor>
+    <name>James Burrows</name>
+    <role>Harry</role>
+    <type>Actor</type>
+    <tmdbid>85068</tmdbid>
+    <imdbid>nm2770237</imdbid>
+  </actor>
+  <actor>
+    <name>Lorraine Bruce</name>
+    <role>Tanya</role>
+    <type>Actor</type>
+    <tmdbid>85070</tmdbid>
+    <imdbid>nm1274988</imdbid>
+  </actor>
+  <actor>
+    <name>Jumayn Hunter</name>
+    <role>Mark</role>
+    <type>Actor</type>
+    <tmdbid>85067</tmdbid>
+    <imdbid>nm2238584</imdbid>
+  </actor>
+  <actor>
+    <name>Shaun Dooley</name>
+    <role>Jon</role>
+    <type>Actor</type>
+    <tmdbid>85071</tmdbid>
+    <imdbid>nm0233215</imdbid>
+  </actor>
+  <actor>
+    <name>Bronson Webb</name>
+    <role>Reece</role>
+    <type>Actor</type>
+    <tmdbid>75076</tmdbid>
+    <imdbid>nm0916037</imdbid>
+  </actor>
+  <actor>
+    <name>Lorraine Stanley</name>
+    <role>Nat</role>
+    <type>Actor</type>
+    <tmdbid>85073</tmdbid>
+    <imdbid>nm1041607</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Palmer</name>
+    <role>Paul</role>
+    <type>Actor</type>
+    <tmdbid>2060</tmdbid>
+    <imdbid>nm0658099</imdbid>
+  </actor>
+  <actor>
+    <name>Tara Ellis</name>
+    <role>Abi</role>
+    <type>Actor</type>
+    <tmdbid>85064</tmdbid>
+    <imdbid>nm0255108</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Gill</name>
+    <role>Ricky</role>
+    <type>Actor</type>
+    <tmdbid>1689038</tmdbid>
+    <imdbid>nm6067087</imdbid>
+  </actor>
+  <actor>
+    <name>James Gandhi</name>
+    <role>Adam</role>
+    <type>Actor</type>
+    <tmdbid>85072</tmdbid>
+    <imdbid>nm1682722</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel Gleeves</name>
+    <role>Mel</role>
+    <type>Actor</type>
+    <tmdbid>85074</tmdbid>
+    <imdbid>nm1435552</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Devenport</name>
+    <role>Ashley</role>
+    <type>Actor</type>
+    <tmdbid>1145011</tmdbid>
+  </actor>
+  <director tmdbid="63306" imdbid="nm1220140">James Watkins</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-6j3K4MmOKs</trailer>
+  <rating>6.8</rating>
+  <year>2008</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt1020530</imdbid>
+  <tmdbid>13510</tmdbid>
+  <premiered>2008-09-12</premiered>
+  <releasedate>2008-09-12</releasedate>
+  <criticrating>79</criticrating>
+  <runtime>91</runtime>
+  <country>United Kingdom</country>
+  <genre>恐怖</genre>
+  <genre>惊悚</genre>
+  <studio>Rollercoaster Films</studio>
+  <studio>Aramid Entertainment Fund</studio>
+  <uniqueid type="Tmdb">13510</uniqueid>
+  <uniqueid type="Imdb">tt1020530</uniqueid>
+  <id>tt1020530</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>14821842</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>90</duration>
+        <durationinseconds>5457</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+    </streamdetails>
+  </fileinfo>
+</movie>

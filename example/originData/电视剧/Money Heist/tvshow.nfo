@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[为了完成历史上最大的抢劫案，一位自称教授的神秘男子招募了一只由八人组成的队伍。他们每个人拥有不同的技能，而且每个人都没有什么可以再失去的。在与世隔绝的5个月里，他们训练着如何完成每一步，记忆每一个细节，应对每一种可能发生的情况。在被警察包围困在西班牙国家印钞工厂的11天里，他们需要证明人质的活着，这将决定这次行动是否成功]]></plot>
+  <outline><![CDATA[为了完成历史上最大的抢劫案，一位自称教授的神秘男子招募了一只由八人组成的队伍。他们每个人拥有不同的技能，而且每个人都没有什么可以再失去的。在与世隔绝的5个月里，他们训练着如何完成每一步，记忆每一个细节，应对每一种可能发生的情况。在被警察包围困在西班牙国家印钞工厂的11天里，他们需要证明人质的活着，这将决定这次行动是否成功]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-08-11 15:43:41</dateadded>
+  <title>纸钞屋</title>
+  <originaltitle>La casa de papel</originaltitle>
+  <actor>
+    <name>Álvaro Morte</name>
+    <role>El Profesor</role>
+    <type>Actor</type>
+    <tmdbid>1340020</tmdbid>
+    <imdbid>nm1486647</imdbid>
+  </actor>
+  <actor>
+    <name>Itziar Ituño</name>
+    <role>Lisboa</role>
+    <type>Actor</type>
+    <tmdbid>947514</tmdbid>
+    <imdbid>nm1523587</imdbid>
+  </actor>
+  <actor>
+    <name>Miguel Herrán</name>
+    <role>Río</role>
+    <type>Actor</type>
+    <tmdbid>1428896</tmdbid>
+    <imdbid>nm5969653</imdbid>
+  </actor>
+  <actor>
+    <name>Jaime Lorente</name>
+    <role>Denver</role>
+    <type>Actor</type>
+    <tmdbid>1972706</tmdbid>
+    <imdbid>nm7931969</imdbid>
+  </actor>
+  <actor>
+    <name>Esther Acebo</name>
+    <role>Estocolmo</role>
+    <type>Actor</type>
+    <tmdbid>1972707</tmdbid>
+    <imdbid>nm4223458</imdbid>
+  </actor>
+  <actor>
+    <name>Enrique Arce</name>
+    <role>Arturo Román</role>
+    <type>Actor</type>
+    <tmdbid>944099</tmdbid>
+    <imdbid>nm0033550</imdbid>
+  </actor>
+  <actor>
+    <name>Darko Peric</name>
+    <role>Helsinki</role>
+    <type>Actor</type>
+    <tmdbid>1898026</tmdbid>
+    <imdbid>nm2952873</imdbid>
+  </actor>
+  <actor>
+    <name>Hovik Keuchkerian</name>
+    <role>Bogotá</role>
+    <type>Actor</type>
+    <tmdbid>1131415</tmdbid>
+    <imdbid>nm3986032</imdbid>
+  </actor>
+  <actor>
+    <name>Rodrigo de la Serna</name>
+    <role>Palermo</role>
+    <type>Actor</type>
+    <tmdbid>18478</tmdbid>
+    <imdbid>nm0209404</imdbid>
+  </actor>
+  <actor>
+    <name>Najwa Nimri</name>
+    <role>Alicia Sierra</role>
+    <type>Actor</type>
+    <tmdbid>16442</tmdbid>
+    <imdbid>nm0632385</imdbid>
+  </actor>
+  <actor>
+    <name>José Manuel Poga</name>
+    <role>César Gandía</role>
+    <type>Actor</type>
+    <tmdbid>1071638</tmdbid>
+  </actor>
+  <actor>
+    <name>Luka Peroš</name>
+    <role>Marsella</role>
+    <type>Actor</type>
+    <tmdbid>1076809</tmdbid>
+    <imdbid>nm1524576</imdbid>
+  </actor>
+  <actor>
+    <name>Belén Cuesta</name>
+    <role>Manila</role>
+    <type>Actor</type>
+    <tmdbid>1423493</tmdbid>
+  </actor>
+  <actor>
+    <name>Fernando Cayo</name>
+    <role>Luis Tamayo</role>
+    <type>Actor</type>
+    <tmdbid>51902</tmdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=Rs24xW_K47o</trailer>
+  <trailer>http://www.youtube.com/watch?v=p_PJbmrX4uk</trailer>
+  <rating>8.3</rating>
+  <year>2017</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt6468322</imdb_id>
+  <tmdbid>71446</tmdbid>
+  <premiered>2017-05-02</premiered>
+  <releasedate>2017-05-02</releasedate>
+  <runtime>70</runtime>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <studio>Netflix</studio>
+  <studio>Antena 3</studio>
+  <uniqueid type="Tvdb">327417</uniqueid>
+  <tvdbid>327417</tvdbid>
+  <uniqueid type="Imdb">tt6468322</uniqueid>
+  <uniqueid type="Tmdb">71446</uniqueid>
+  <id>327417</id>
+  <episodeguide>
+    <url cache="327417.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/327417/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

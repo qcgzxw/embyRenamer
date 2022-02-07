@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[After the discovery of another dead body, Eve and her new team make a break in their case.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-06-24 16:49:51</dateadded>
+  <title>绝望的时候</title>
+  <actor>
+    <name>Sandra Oh</name>
+    <role>Eve Polastri</role>
+    <type>Actor</type>
+    <tmdbid>25540</tmdbid>
+    <imdbid>nm0644897</imdbid>
+  </actor>
+  <actor>
+    <name>Jodie Comer</name>
+    <role>Villanelle</role>
+    <type>Actor</type>
+    <tmdbid>1388593</tmdbid>
+    <imdbid>nm3069650</imdbid>
+  </actor>
+  <actor>
+    <name>Fiona Shaw</name>
+    <role>Carolyn Martens</role>
+    <type>Actor</type>
+    <tmdbid>10981</tmdbid>
+    <imdbid>nm0789716</imdbid>
+  </actor>
+  <actor>
+    <name>Nina Sosanya</name>
+    <role>Jess</role>
+    <type>Actor</type>
+    <tmdbid>7063</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Bodnia</name>
+    <role>Konstantin</role>
+    <type>Actor</type>
+    <tmdbid>3398</tmdbid>
+    <imdbid>nm0091035</imdbid>
+  </actor>
+  <actor>
+    <name>Edward Bluemel</name>
+    <role>Hugo</role>
+    <type>Actor</type>
+    <tmdbid>1731315</tmdbid>
+  </actor>
+  <actor>
+    <name>Owen McDonnell</name>
+    <role>Niko Polastri</role>
+    <type>Actor</type>
+    <tmdbid>365333</tmdbid>
+    <imdbid>nm1711652</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Delaney</name>
+    <role>Kenny Stowton</role>
+    <type>Actor</type>
+    <tmdbid>2021417</tmdbid>
+    <imdbid>nm7780301</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Akinsulire</name>
+    <role>Jordan</role>
+    <type>GuestStar</type>
+    <tmdbid>1917042</tmdbid>
+    <imdbid>nm8751303</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Ward-Thomas</name>
+    <role>Legoland Receptionist</role>
+    <type>GuestStar</type>
+    <tmdbid>1854348</tmdbid>
+    <imdbid>nm4792976</imdbid>
+  </actor>
+  <actor>
+    <name>Zoë Wanamaker</name>
+    <role>Helen Jacobson</role>
+    <type>GuestStar</type>
+    <tmdbid>20240</tmdbid>
+  </actor>
+  <actor>
+    <name>Amelia Hoy</name>
+    <role>Peel HQ Secretary</role>
+    <type>GuestStar</type>
+    <tmdbid>2158643</tmdbid>
+    <imdbid>nm0406021</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Pryal</name>
+    <role>Peel Lawyer</role>
+    <type>GuestStar</type>
+    <tmdbid>2186435</tmdbid>
+    <imdbid>nm3048039</imdbid>
+  </actor>
+  <actor>
+    <name>Eunice Roberts</name>
+    <role>Linda</role>
+    <type>GuestStar</type>
+    <tmdbid>2298714</tmdbid>
+    <imdbid>nm1469285</imdbid>
+  </actor>
+  <actor>
+    <name>Zoë Pastelle Holthuizen</name>
+    <role>Dutch Hipster</role>
+    <type>GuestStar</type>
+    <tmdbid>1502019</tmdbid>
+    <imdbid>nm6953502</imdbid>
+  </actor>
+  <actor>
+    <name>Roeland Fernhout</name>
+    <role>Markus</role>
+    <type>GuestStar</type>
+    <tmdbid>28892</tmdbid>
+    <imdbid>nm0273143</imdbid>
+  </actor>
+  <actor>
+    <name>Annelies Appelhof</name>
+    <role>Sarah (Markus' Wife)</role>
+    <type>GuestStar</type>
+    <tmdbid>1742955</tmdbid>
+    <imdbid>nm5405286</imdbid>
+  </actor>
+  <actor>
+    <name>Jung Sun den Hollander</name>
+    <role>Jin / The Ghost</role>
+    <type>GuestStar</type>
+    <tmdbid>2297427</tmdbid>
+    <imdbid>nm5126666</imdbid>
+  </actor>
+  <actor>
+    <name>Hugo Nicholson</name>
+    <role>Geordie Stag</role>
+    <type>GuestStar</type>
+    <tmdbid>2309076</tmdbid>
+    <imdbid>nm4464722</imdbid>
+  </actor>
+  <actor>
+    <name>Wendy Vrijenhoek</name>
+    <role>Woman in Cafe</role>
+    <type>GuestStar</type>
+    <tmdbid>2298723</tmdbid>
+    <imdbid>nm3297301</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Josten</name>
+    <role>Sex Worker #1</role>
+    <type>GuestStar</type>
+    <tmdbid>2298726</tmdbid>
+    <imdbid>nm7568441</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Reus</name>
+    <role>AIVD Officer</role>
+    <type>GuestStar</type>
+    <tmdbid>43645</tmdbid>
+    <imdbid>nm0720642</imdbid>
+  </actor>
+  <actor>
+    <name>Doortje Kleinrensink</name>
+    <role>Sex Worker #2</role>
+    <type>GuestStar</type>
+    <tmdbid>2298727</tmdbid>
+    <imdbid>nm6870523</imdbid>
+  </actor>
+  <actor>
+    <name>David Cann</name>
+    <role>Len</role>
+    <type>GuestStar</type>
+    <tmdbid>193340</tmdbid>
+    <imdbid>nm0134025</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Huisman</name>
+    <role>Drug Dealer</role>
+    <type>GuestStar</type>
+    <tmdbid>1755136</tmdbid>
+    <imdbid>nm7652074</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Kuratli</name>
+    <role>Club DJ</role>
+    <type>GuestStar</type>
+    <tmdbid>1975685</tmdbid>
+  </actor>
+  <actor>
+    <name>Chelsea Mather</name>
+    <role>Goth Girl</role>
+    <type>GuestStar</type>
+    <tmdbid>2298730</tmdbid>
+    <imdbid>nm8329445</imdbid>
+  </actor>
+  <actor>
+    <name>Henry Lloyd-Hughes</name>
+    <role>Aaron Peel</role>
+    <type>GuestStar</type>
+    <tmdbid>513677</tmdbid>
+    <imdbid>nm1631222</imdbid>
+  </actor>
+  <director>Lisa Brühlmann</director>
+  <rating>8.5</rating>
+  <year>2019</year>
+  <imdbid>tt9264282</imdbid>
+  <tvdbid>7098403</tvdbid>
+  <runtime>42</runtime>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt9264282</uniqueid>
+  <uniqueid type="Tvdb">7098403</uniqueid>
+  <episode>4</episode>
+  <season>2</season>
+  <aired>2019-04-28</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>11077874</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>42</duration>
+        <durationinseconds>2541</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

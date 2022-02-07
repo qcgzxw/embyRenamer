@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[溥仪（尊龙 饰）的一生在电影中娓娓道来。他从三岁起登基，年幼的眼光中只有大臣身上的一只蝈蝈，江山在他心中只是一个不明所以的名词。长大了，他以为可以变革，却被太监一把烧了朝廷账本。他以为是大清江山的主人，却做了日本人的傀儡。解放后，他坐上了从俄国回来的火车，身边是押送监视他的解放军。他猜测自己难逃一死...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-03 18:34:38</dateadded>
+  <title>末代皇帝</title>
+  <originaltitle>The Last Emperor</originaltitle>
+  <actor>
+    <name>John Lone</name>
+    <role>Emperor Puyi</role>
+    <type>Actor</type>
+    <tmdbid>11389</tmdbid>
+    <imdbid>nm0518821</imdbid>
+  </actor>
+  <actor>
+    <name>Peter O'Toole</name>
+    <role>Reginal Flemming Johnson</role>
+    <type>Actor</type>
+    <tmdbid>11390</tmdbid>
+    <imdbid>nm0000564</imdbid>
+  </actor>
+  <actor>
+    <name>Joan Chen</name>
+    <role>Wang Jung</role>
+    <type>Actor</type>
+    <tmdbid>6720</tmdbid>
+    <imdbid>nm0001040</imdbid>
+  </actor>
+  <actor>
+    <name>Vivian Wu</name>
+    <role>Wen Hsiu</role>
+    <type>Actor</type>
+    <tmdbid>69033</tmdbid>
+    <imdbid>nm0943180</imdbid>
+  </actor>
+  <actor>
+    <name>Dennis Dun</name>
+    <role>Big Li</role>
+    <type>Actor</type>
+    <tmdbid>11392</tmdbid>
+    <imdbid>nm0241748</imdbid>
+  </actor>
+  <actor>
+    <name>Ruocheng Ying</name>
+    <role>Governor</role>
+    <type>Actor</type>
+    <tmdbid>11394</tmdbid>
+    <imdbid>nm0948078</imdbid>
+  </actor>
+  <actor>
+    <name>Victor Wong</name>
+    <role>Chen Pao Shen</role>
+    <type>Actor</type>
+    <tmdbid>11395</tmdbid>
+    <imdbid>nm0939378</imdbid>
+  </actor>
+  <actor>
+    <name>Maggie Han</name>
+    <role>Eastern Jewel</role>
+    <type>Actor</type>
+    <tmdbid>11396</tmdbid>
+    <imdbid>nm0359177</imdbid>
+  </actor>
+  <actor>
+    <name>Ric Young</name>
+    <role>Interrogator</role>
+    <type>Actor</type>
+    <tmdbid>11397</tmdbid>
+    <imdbid>nm0949983</imdbid>
+  </actor>
+  <actor>
+    <name>Cary-Hiroyuki Tagawa</name>
+    <role>Chang</role>
+    <type>Actor</type>
+    <tmdbid>11398</tmdbid>
+    <imdbid>nm0846480</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Vuu</name>
+    <role>Puyi, Age 3 Years</role>
+    <type>Actor</type>
+    <tmdbid>1448561</tmdbid>
+    <imdbid>nm0904484</imdbid>
+  </actor>
+  <actor>
+    <name>Tsou Tijger</name>
+    <role>Puyi, Age 8 Years</role>
+    <type>Actor</type>
+    <tmdbid>1448562</tmdbid>
+    <imdbid>nm0863118</imdbid>
+  </actor>
+  <actor>
+    <name>Lisa Lu</name>
+    <role>Tzu Hsui</role>
+    <type>Actor</type>
+    <tmdbid>86633</tmdbid>
+    <imdbid>nm0523734</imdbid>
+  </actor>
+  <actor>
+    <name>Henry O</name>
+    <role>Lord Chamberlain</role>
+    <type>Actor</type>
+    <tmdbid>39829</tmdbid>
+    <imdbid>nm0642912</imdbid>
+  </actor>
+  <actor>
+    <name>Constantine Gregory</name>
+    <role>Oculist</role>
+    <type>Actor</type>
+    <tmdbid>27425</tmdbid>
+    <imdbid>nm0339778</imdbid>
+  </actor>
+  <actor>
+    <name>Yu Li 于莉</name>
+    <role>Second High Consort</role>
+    <type>Actor</type>
+    <tmdbid>1258488</tmdbid>
+    <imdbid>nm0950521</imdbid>
+  </actor>
+  <actor>
+    <name>Ryuichi Sakamoto</name>
+    <role>Amakasu</role>
+    <type>Actor</type>
+    <tmdbid>11382</tmdbid>
+    <imdbid>nm0757098</imdbid>
+  </actor>
+  <actor>
+    <name>Daxing Zhang</name>
+    <role>Tough Warder</role>
+    <type>Actor</type>
+    <tmdbid>1585297</tmdbid>
+    <imdbid>nm0955339</imdbid>
+  </actor>
+  <actor>
+    <name>Chen Kaige</name>
+    <role>Captain of Imperial Guard</role>
+    <type>Actor</type>
+    <tmdbid>20640</tmdbid>
+    <imdbid>nm0155280</imdbid>
+  </actor>
+  <actor>
+    <name>Fumihiko Ikeda</name>
+    <role>Yoshioka</role>
+    <type>Actor</type>
+    <tmdbid>11399</tmdbid>
+    <imdbid>nm0407419</imdbid>
+  </actor>
+  <actor>
+    <name>Tao Wu</name>
+    <role>Puyi, Age 15 Years</role>
+    <type>Actor</type>
+    <tmdbid>1448563</tmdbid>
+    <imdbid>nm0943174</imdbid>
+  </actor>
+  <actor>
+    <name>Hideo Takamatsu</name>
+    <role>General Ishikari</role>
+    <type>Actor</type>
+    <tmdbid>1185129</tmdbid>
+    <imdbid>nm0847291</imdbid>
+  </actor>
+  <actor>
+    <name>Basil Pao</name>
+    <role>Prince Chun</role>
+    <type>Actor</type>
+    <tmdbid>1558937</tmdbid>
+  </actor>
+  <actor>
+    <name>Shi Liang</name>
+    <role>Republican Officer</role>
+    <type>Actor</type>
+    <tmdbid>134057</tmdbid>
+    <imdbid>nm0943095</imdbid>
+  </actor>
+  <actor>
+    <name>Shu Chen</name>
+    <role>Chang Chinghui</role>
+    <type>Actor</type>
+    <tmdbid>1362557</tmdbid>
+    <imdbid>nm0155368</imdbid>
+  </actor>
+  <actor>
+    <name>Cai Hongxiang</name>
+    <role>Scarface (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1672535</tmdbid>
+    <imdbid>nm0128751</imdbid>
+  </actor>
+  <actor>
+    <name>Glen Murphy</name>
+    <role>Captain (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>189431</tmdbid>
+    <imdbid>nm0614289</imdbid>
+  </actor>
+  <actor>
+    <name>Biao Wang</name>
+    <role>Prisoner (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1272361</tmdbid>
+    <imdbid>nm0910840</imdbid>
+  </actor>
+  <actor>
+    <name>Jade Go</name>
+    <role>Ar Mo</role>
+    <type>Actor</type>
+    <tmdbid>1677316</tmdbid>
+  </actor>
+  <actor>
+    <name>Tianmin Zhang</name>
+    <role>Old Tutor (as Zhang Tianmin)</role>
+    <type>Actor</type>
+    <tmdbid>1414244</tmdbid>
+  </actor>
+  <director tmdbid="4956" imdbid="nm0000934">Bernardo Bertolucci</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=6N6nvUZO42o</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=PtFrcVjVJBI</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=66sV-VWkg-4</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=YnEOZSNtcJI</trailer>
+  <rating>7.7</rating>
+  <year>1987</year>
+  <mpaa>HK-IIB</mpaa>
+  <imdbid>tt0093389</imdbid>
+  <tmdbid>746</tmdbid>
+  <premiered>1987-05-27</premiered>
+  <releasedate>1987-05-27</releasedate>
+  <criticrating>89</criticrating>
+  <runtime>219</runtime>
+  <country>China</country>
+  <country>France</country>
+  <country>Italy</country>
+  <country>United Kingdom</country>
+  <genre>剧情</genre>
+  <genre>历史</genre>
+  <studio>Hemdale Film Corporation</studio>
+  <studio>Recorded Pictures Company</studio>
+  <studio>Soprofilms</studio>
+  <studio>TAO Film</studio>
+  <studio>Yanco</studio>
+  <uniqueid type="Tmdb">746</uniqueid>
+  <uniqueid type="Imdb">tt0093389</uniqueid>
+  <id>tt0093389</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>17506962</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.976</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>218</duration>
+        <durationinseconds>13114</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

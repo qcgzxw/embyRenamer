@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[该剧根据Luke Jennings的中篇小说改编，主人公是两个女人：精神错乱的刺客Villanelle和负责追踪她的Eve。Eve是个烦人的、聪明的、拿蓝领工资的英国军情五处特工，过去一直干文书工作，但这无法满足她的间谍梦。Villanelle是个高贵优雅、富有天赋的杀手，对暴力和暴力所能带来的奢华生活非常痴迷。两个女人都聪明绝顶，都对彼此充满好奇。在这场猫鼠游戏中，她们都想领先对手一步。]]></plot>
+  <outline><![CDATA[该剧根据Luke Jennings的中篇小说改编，主人公是两个女人：精神错乱的刺客Villanelle和负责追踪她的Eve。Eve是个烦人的、聪明的、拿蓝领工资的英国军情五处特工，过去一直干文书工作，但这无法满足她的间谍梦。Villanelle是个高贵优雅、富有天赋的杀手，对暴力和暴力所能带来的奢华生活非常痴迷。两个女人都聪明绝顶，都对彼此充满好奇。在这场猫鼠游戏中，她们都想领先对手一步。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-10-08 07:34:24</dateadded>
+  <title>杀死伊芙</title>
+  <originaltitle>Killing Eve</originaltitle>
+  <actor>
+    <name>Sandra Oh</name>
+    <role>Eve Polastri</role>
+    <type>Actor</type>
+    <tmdbid>25540</tmdbid>
+    <imdbid>nm0644897</imdbid>
+  </actor>
+  <actor>
+    <name>Jodie Comer</name>
+    <role>Villanelle</role>
+    <type>Actor</type>
+    <tmdbid>1388593</tmdbid>
+    <imdbid>nm3069650</imdbid>
+  </actor>
+  <actor>
+    <name>Fiona Shaw</name>
+    <role>Carolyn Martens</role>
+    <type>Actor</type>
+    <tmdbid>10981</tmdbid>
+    <imdbid>nm0789716</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Bodnia</name>
+    <role>Konstantin</role>
+    <type>Actor</type>
+    <tmdbid>3398</tmdbid>
+    <imdbid>nm0091035</imdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=Kk0PyD-XNZA</trailer>
+  <rating>8.2</rating>
+  <year>2018</year>
+  <mpaa>TV-14</mpaa>
+  <imdb_id>tt7016936</imdb_id>
+  <tmdbid>72750</tmdbid>
+  <premiered>2018-04-08</premiered>
+  <releasedate>2018-04-08</releasedate>
+  <runtime>43</runtime>
+  <genre>犯罪</genre>
+  <genre>剧情</genre>
+  <studio>BBC America</studio>
+  <uniqueid type="Imdb">tt7016936</uniqueid>
+  <uniqueid type="Tmdb">72750</uniqueid>
+  <uniqueid type="Tvdb">340959</uniqueid>
+  <tvdbid>340959</tvdbid>
+  <id>340959</id>
+  <episodeguide>
+    <url cache="340959.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/340959/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

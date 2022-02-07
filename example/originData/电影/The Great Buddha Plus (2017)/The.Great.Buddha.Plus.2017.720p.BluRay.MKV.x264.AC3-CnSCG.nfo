@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[小电视荧幕放映佛像工厂头家的宾士行车记录器，因陷底层、游走边缘的人，仅有的一趟板凳公路电影小确幸，却倒霉卷入政商黑箱与色欲暗房的谋杀案。卖药电台色情广播剧、令人惊异的场面调度和影音部署、中岛长雄的异色摄影，让人发笑的荒谬，导向令人战栗的荒凉。纪录片导演黄信尧首部剧情长片，神佛总动员，巧妙结合《白烂白目》与《黑色喜剧》，台客大叔版本的贾木许加上希区柯克，尖锐曝光台湾乡镇的灰暗地带。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-05-19 03:56:57</dateadded>
+  <title>大佛普拉斯</title>
+  <originaltitle>大佛普拉斯</originaltitle>
+  <actor>
+    <name>Bamboo Chen</name>
+    <role>Belly Bottom</role>
+    <type>Actor</type>
+    <tmdbid>1743150</tmdbid>
+    <imdbid>nm3818786</imdbid>
+  </actor>
+  <actor>
+    <name>Cres Chuang</name>
+    <role>Pickle</role>
+    <type>Actor</type>
+    <tmdbid>1844024</tmdbid>
+  </actor>
+  <actor>
+    <name>Leon Dai</name>
+    <role>Kevin Huang</role>
+    <type>Actor</type>
+    <tmdbid>1133858</tmdbid>
+  </actor>
+  <actor>
+    <name>Na-Do</name>
+    <role>Peanut</role>
+    <type>Actor</type>
+    <tmdbid>1191364</tmdbid>
+  </actor>
+  <actor>
+    <name>Shao-Huai Chang</name>
+    <role>Skaya</role>
+    <type>Actor</type>
+    <tmdbid>1877469</tmdbid>
+  </actor>
+  <actor>
+    <name>Yi-Wen Chen</name>
+    <role>Congressman Gao</role>
+    <type>Actor</type>
+    <tmdbid>150165</tmdbid>
+    <imdbid>nm0155439</imdbid>
+  </actor>
+  <actor>
+    <name>Kuo-Lin Ting</name>
+    <role>Yeh Feng Ju</role>
+    <type>Actor</type>
+    <tmdbid>2138367</tmdbid>
+  </actor>
+  <actor>
+    <name>J.C Lei</name>
+    <role>Gucci</role>
+    <type>Actor</type>
+    <tmdbid>1592021</tmdbid>
+  </actor>
+  <actor>
+    <name>Lin Mei-shiu</name>
+    <role>Sister</role>
+    <type>Actor</type>
+    <tmdbid>1200922</tmdbid>
+  </actor>
+  <actor>
+    <name>Evelyn Yu-Tong Cheng</name>
+    <role>Valérie</role>
+    <type>Actor</type>
+    <tmdbid>2903432</tmdbid>
+  </actor>
+  <actor>
+    <name>Yung-Feng Lee</name>
+    <role>Deputy Speaker</role>
+    <type>Actor</type>
+    <tmdbid>1743151</tmdbid>
+  </actor>
+  <actor>
+    <name>Yu An-Shun</name>
+    <role>Shun</role>
+    <type>Actor</type>
+    <tmdbid>1559780</tmdbid>
+  </actor>
+  <actor>
+    <name>Vincent Liang</name>
+    <role>Deputy Commissioner</role>
+    <type>Actor</type>
+    <tmdbid>2138374</tmdbid>
+  </actor>
+  <actor>
+    <name>Yueh-hsin Chu</name>
+    <role>Singer</role>
+    <type>Actor</type>
+    <tmdbid>1036322</tmdbid>
+  </actor>
+  <actor>
+    <name>Pei-Fang Wang</name>
+    <role>Peanut's Uncle</role>
+    <type>Actor</type>
+    <tmdbid>2138372</tmdbid>
+  </actor>
+  <actor>
+    <name>Tuo Hsien</name>
+    <role>Pickle's Uncle</role>
+    <type>Actor</type>
+    <tmdbid>1912695</tmdbid>
+  </actor>
+  <director tmdbid="1576769">Huang Hsin-Yao</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=ttodl0-_xG0</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=FG8EqkDIhFo</trailer>
+  <rating>7.6</rating>
+  <year>2017</year>
+  <imdbid>tt7010412</imdbid>
+  <tmdbid>475149</tmdbid>
+  <premiered>2017-10-13</premiered>
+  <releasedate>2017-10-13</releasedate>
+  <criticrating>89</criticrating>
+  <runtime>103</runtime>
+  <country>Taiwan</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <studio>Cream Film Production</studio>
+  <studio>Mandarin Vision</studio>
+  <studio>A-Yao Film</studio>
+  <studio>Ocean Deep Films</studio>
+  <studio>Triple Film House</studio>
+  <uniqueid type="Tmdb">475149</uniqueid>
+  <uniqueid type="Imdb">tt7010412</uniqueid>
+  <id>tt7010412</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4239780</bitrate>
+        <width>1280</width>
+        <height>696</height>
+        <aspect>160:87</aspect>
+        <aspectratio>160:87</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6195</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

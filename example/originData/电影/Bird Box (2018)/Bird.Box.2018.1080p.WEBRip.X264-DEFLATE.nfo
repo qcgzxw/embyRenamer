@@ -1,0 +1,499 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[根据Josh Malerman所著同名小说改编，讲述当一股神秘力量要歼灭人类，大家只知道一个法则：万一你看到它，就要奉上自己的性命。面对一切未知，梅乐莉寻找着爱与希望，以及可以瓦解这股力量的新转机。她别无选择，只好带著两个孩子渡过危机四伏的河流，逃往唯一可能安全的地方避难。为了生存下去，他们必须蒙上双眼，踏上长达两天的危险旅程。]]></plot>
+  <outline><![CDATA[永远不要忘记生存]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2019-02-24 11:50:04</dateadded>
+  <title>蒙上你的眼</title>
+  <originaltitle>Bird Box</originaltitle>
+  <actor>
+    <name>Sandra Bullock</name>
+    <role>Malorie Hayes</role>
+    <type>Actor</type>
+    <tmdbid>18277</tmdbid>
+    <imdbid>nm0000113</imdbid>
+  </actor>
+  <actor>
+    <name>Trevante Rhodes</name>
+    <role>Tom</role>
+    <type>Actor</type>
+    <tmdbid>1650301</tmdbid>
+    <imdbid>nm5218990</imdbid>
+  </actor>
+  <actor>
+    <name>Jacki Weaver</name>
+    <role>Cheryl</role>
+    <type>Actor</type>
+    <tmdbid>67837</tmdbid>
+    <imdbid>nm0915865</imdbid>
+  </actor>
+  <actor>
+    <name>Rosa Salazar</name>
+    <role>Lucy</role>
+    <type>Actor</type>
+    <tmdbid>973667</tmdbid>
+    <imdbid>nm4023073</imdbid>
+  </actor>
+  <actor>
+    <name>Danielle Macdonald</name>
+    <role>Olympia</role>
+    <type>Actor</type>
+    <tmdbid>1203789</tmdbid>
+    <imdbid>nm4359664</imdbid>
+  </actor>
+  <actor>
+    <name>Lil Rel Howery</name>
+    <role>Charlie</role>
+    <type>Actor</type>
+    <tmdbid>1488961</tmdbid>
+    <imdbid>nm2577076</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Hollander</name>
+    <role>Gary</role>
+    <type>Actor</type>
+    <tmdbid>2441</tmdbid>
+    <imdbid>nm0390903</imdbid>
+  </actor>
+  <actor>
+    <name>Machine Gun Kelly</name>
+    <role>Felix</role>
+    <type>Actor</type>
+    <tmdbid>1276759</tmdbid>
+    <imdbid>nm0446622</imdbid>
+  </actor>
+  <actor>
+    <name>BD Wong</name>
+    <role>Greg</role>
+    <type>Actor</type>
+    <tmdbid>14592</tmdbid>
+    <imdbid>nm0000703</imdbid>
+  </actor>
+  <actor>
+    <name>Pruitt Taylor Vince</name>
+    <role>Rick</role>
+    <type>Actor</type>
+    <tmdbid>3201</tmdbid>
+    <imdbid>nm0898546</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Paulson</name>
+    <role>Jessica</role>
+    <type>Actor</type>
+    <tmdbid>34490</tmdbid>
+    <imdbid>nm0005299</imdbid>
+  </actor>
+  <actor>
+    <name>John Malkovich</name>
+    <role>Douglas</role>
+    <type>Actor</type>
+    <tmdbid>6949</tmdbid>
+    <imdbid>nm0000518</imdbid>
+  </actor>
+  <actor>
+    <name>Vivien Lyra Blair</name>
+    <role>Girl/Olympia</role>
+    <type>Actor</type>
+    <tmdbid>1813472</tmdbid>
+    <imdbid>nm8643487</imdbid>
+  </actor>
+  <actor>
+    <name>Julian Edwards</name>
+    <role>Boy/Tom</role>
+    <type>Actor</type>
+    <tmdbid>2199607</tmdbid>
+  </actor>
+  <actor>
+    <name>Parminder Nagra</name>
+    <role>Dr. Lapham</role>
+    <type>Actor</type>
+    <tmdbid>231610</tmdbid>
+    <imdbid>nm0619406</imdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Pidgeon</name>
+    <role>Lydia</role>
+    <type>Actor</type>
+    <tmdbid>27267</tmdbid>
+    <imdbid>nm0682071</imdbid>
+  </actor>
+  <actor>
+    <name>Amy Gumenick</name>
+    <role>Samantha</role>
+    <type>Actor</type>
+    <tmdbid>210909</tmdbid>
+    <imdbid>nm3004295</imdbid>
+  </actor>
+  <actor>
+    <name>Taylor Handley</name>
+    <role>Jason</role>
+    <type>Actor</type>
+    <tmdbid>66741</tmdbid>
+    <imdbid>nm0359623</imdbid>
+  </actor>
+  <actor>
+    <name>Happy Anderson</name>
+    <role>River Man</role>
+    <type>Actor</type>
+    <tmdbid>1370986</tmdbid>
+    <imdbid>nm2322283</imdbid>
+  </actor>
+  <actor>
+    <name>Kyle Beatty</name>
+    <role>Elder Marauder</role>
+    <type>Actor</type>
+    <tmdbid>2204365</tmdbid>
+    <imdbid>nm3032714</imdbid>
+  </actor>
+  <actor>
+    <name>Ashley Alvarado</name>
+    <role>Female Marauder</role>
+    <type>Actor</type>
+    <tmdbid>1524368</tmdbid>
+    <imdbid>nm3940819</imdbid>
+  </actor>
+  <actor>
+    <name>David Dastmalchian</name>
+    <role>Whistling Marauder</role>
+    <type>Actor</type>
+    <tmdbid>83854</tmdbid>
+    <imdbid>nm2810287</imdbid>
+  </actor>
+  <actor>
+    <name>Keith Jardine</name>
+    <role>Yelling Marauder</role>
+    <type>Actor</type>
+    <tmdbid>78890</tmdbid>
+    <imdbid>nm2077124</imdbid>
+  </actor>
+  <actor>
+    <name>Kristopher Logan</name>
+    <role>Older Man</role>
+    <type>Actor</type>
+    <tmdbid>98554</tmdbid>
+    <imdbid>nm0517606</imdbid>
+  </actor>
+  <actor>
+    <name>Shirley Butler</name>
+    <role>Woman in Entryway</role>
+    <type>Actor</type>
+    <tmdbid>2199609</tmdbid>
+  </actor>
+  <actor>
+    <name>Aden Calderon</name>
+    <role>Albert</role>
+    <type>Actor</type>
+    <tmdbid>2466679</tmdbid>
+  </actor>
+  <actor>
+    <name>Chanon Finley</name>
+    <role>Iris</role>
+    <type>Actor</type>
+    <tmdbid>2199610</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Mottek</name>
+    <role>News Anchor</role>
+    <type>Actor</type>
+    <tmdbid>2204366</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Max</name>
+    <role>Radio Newscaster #1 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>1340236</tmdbid>
+    <imdbid>nm2202144</imdbid>
+  </actor>
+  <actor>
+    <name>Debra Mark</name>
+    <role>Radio Newscaster #2 (voice)</role>
+    <type>Actor</type>
+    <tmdbid>2204367</tmdbid>
+  </actor>
+  <actor>
+    <name>Dennis Keiffer</name>
+    <role>Marauder (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1221121</tmdbid>
+    <imdbid>nm0445022</imdbid>
+  </actor>
+  <director tmdbid="1011" imdbid="nm0081540">Susanne Bier</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=o2AsIXSh2xo</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=INJ2bPFy108</trailer>
+  <rating>6.6</rating>
+  <year>2018</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt2737304</imdbid>
+  <tmdbid>405774</tmdbid>
+  <premiered>2018-12-13</premiered>
+  <releasedate>2018-12-13</releasedate>
+  <criticrating>63</criticrating>
+  <runtime>124</runtime>
+  <tagline>永远不要忘记生存</tagline>
+  <country>United States of America</country>
+  <genre>惊悚</genre>
+  <genre>剧情</genre>
+  <genre>科幻</genre>
+  <studio>Bluegrass Films</studio>
+  <studio>Chris Morgan Productions</studio>
+  <set tmdbcolid="731067">
+    <name>Bird Box Collection</name>
+  </set>
+  <uniqueid type="Tmdb">405774</uniqueid>
+  <uniqueid type="Imdb">tt2737304</uniqueid>
+  <id>tt2737304</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9154868</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>123</duration>
+        <durationinseconds>7428</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>bul</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

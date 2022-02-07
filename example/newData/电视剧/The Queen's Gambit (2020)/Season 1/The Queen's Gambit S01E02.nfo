@@ -1,0 +1,530 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[突然来到城郊的少女贝丝在迷茫中开始了新生活。她一边了解身边的高中同学，一边计划着参加国际象棋赛。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-05 16:16:19</dateadded>
+  <title>兑子</title>
+  <actor>
+    <name>Anya Taylor-Joy</name>
+    <role>Elizabeth 'Beth' Harmon</role>
+    <type>Actor</type>
+    <tmdbid>1397778</tmdbid>
+    <imdbid>nm5896355</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Camp</name>
+    <role>William Shaibel</role>
+    <type>Actor</type>
+    <tmdbid>121718</tmdbid>
+    <imdbid>nm0131966</imdbid>
+  </actor>
+  <actor>
+    <name>Marielle Heller</name>
+    <role>Alma Wheatley</role>
+    <type>Actor</type>
+    <tmdbid>177532</tmdbid>
+  </actor>
+  <actor>
+    <name>Moses Ingram</name>
+    <role>Jolene</role>
+    <type>Actor</type>
+    <tmdbid>2042908</tmdbid>
+  </actor>
+  <actor>
+    <name>Isla Johnston</name>
+    <role>Young Beth</role>
+    <type>Actor</type>
+    <tmdbid>1967058</tmdbid>
+  </actor>
+  <actor>
+    <name>Chloe Pirrie</name>
+    <role>Alice Harmon</role>
+    <type>Actor</type>
+    <tmdbid>1125581</tmdbid>
+    <imdbid>nm4006608</imdbid>
+  </actor>
+  <actor>
+    <name>Marcin Dorocinski</name>
+    <role>Vasily Borgov</role>
+    <type>Actor</type>
+    <tmdbid>591295</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Brodie-Sangster</name>
+    <role>Benny Watts</role>
+    <type>Actor</type>
+    <tmdbid>25663</tmdbid>
+  </actor>
+  <actor>
+    <name>Jacob Fortune-Lloyd</name>
+    <role>D.L. Townes</role>
+    <type>Actor</type>
+    <tmdbid>1944459</tmdbid>
+  </actor>
+  <actor>
+    <name>Harry Melling</name>
+    <role>Harry Beltik</role>
+    <type>Actor</type>
+    <tmdbid>10982</tmdbid>
+    <imdbid>nm0577982</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Dennis Lewis</name>
+    <role>Matt</role>
+    <type>GuestStar</type>
+    <tmdbid>1855149</tmdbid>
+  </actor>
+  <actor>
+    <name>Russell Dennis Lewis</name>
+    <role>Mike</role>
+    <type>GuestStar</type>
+    <tmdbid>1267379</tmdbid>
+  </actor>
+  <actor>
+    <name>Dolores Carbonari</name>
+    <role>Margaret</role>
+    <type>GuestStar</type>
+    <tmdbid>2854179</tmdbid>
+  </actor>
+  <actor>
+    <name>Sophie McShera</name>
+    <role>Miss Graham</role>
+    <type>GuestStar</type>
+    <tmdbid>1186087</tmdbid>
+    <imdbid>nm2904789</imdbid>
+  </actor>
+  <actor>
+    <name>Steffen Mennekes</name>
+    <role>Cullen</role>
+    <type>GuestStar</type>
+    <tmdbid>96173</tmdbid>
+  </actor>
+  <actor>
+    <name>Johannes Franke</name>
+    <role>Sizemore</role>
+    <type>GuestStar</type>
+    <tmdbid>65876</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Kennedy</name>
+    <role>Allston Wheatley</role>
+    <type>GuestStar</type>
+    <tmdbid>14432</tmdbid>
+  </actor>
+  <actor>
+    <name>Christiane Seidel</name>
+    <role>Helen Deardorff</role>
+    <type>GuestStar</type>
+    <tmdbid>1294534</tmdbid>
+  </actor>
+  <actor>
+    <name>Akemnji Ndifornyen</name>
+    <role>Mr. Fergusson</role>
+    <type>GuestStar</type>
+    <tmdbid>550396</tmdbid>
+  </actor>
+  <actor>
+    <name>Katherine Towe</name>
+    <role>Girl #2</role>
+    <type>GuestStar</type>
+    <tmdbid>3022227</tmdbid>
+  </actor>
+  <actor>
+    <name>Laura Danne</name>
+    <role>Jolene's Friend</role>
+    <type>GuestStar</type>
+    <tmdbid>3022228</tmdbid>
+  </actor>
+  <actor>
+    <name>Pia Schlipphak</name>
+    <role>Mrs. Macarthur</role>
+    <type>GuestStar</type>
+    <tmdbid>2539399</tmdbid>
+  </actor>
+  <actor>
+    <name>Lily Lesser</name>
+    <role>Girl in Lunchroom</role>
+    <type>GuestStar</type>
+    <tmdbid>2847792</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosalie Craig</name>
+    <role>Librarian</role>
+    <type>GuestStar</type>
+    <tmdbid>1263102</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Waugh</name>
+    <role>Mr. Bradley</role>
+    <type>GuestStar</type>
+    <tmdbid>173835</tmdbid>
+  </actor>
+  <actor>
+    <name>Philipp Droste</name>
+    <role>Tournament Director</role>
+    <type>GuestStar</type>
+    <tmdbid>1612653</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Holzberg</name>
+    <role>Cooke</role>
+    <type>GuestStar</type>
+    <tmdbid>1738714</tmdbid>
+  </actor>
+  <actor>
+    <name>Jérémie Galiana</name>
+    <role>Klein</role>
+    <type>GuestStar</type>
+    <tmdbid>3022253</tmdbid>
+  </actor>
+  <actor>
+    <name>Nina Herzberg</name>
+    <role>Margaret's Friend</role>
+    <type>GuestStar</type>
+    <tmdbid>3022245</tmdbid>
+  </actor>
+  <actor>
+    <name>Frida Raabe</name>
+    <role>Apple Pi Girl #1</role>
+    <type>GuestStar</type>
+    <tmdbid>3022247</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucy Ella von Scheele</name>
+    <role>Apple Pi Girl #2</role>
+    <type>GuestStar</type>
+    <tmdbid>1329171</tmdbid>
+  </actor>
+  <actor>
+    <name>Alva Schäfer</name>
+    <role>Apple Pi Girl #3</role>
+    <type>GuestStar</type>
+    <tmdbid>1752591</tmdbid>
+  </actor>
+  <actor>
+    <name>Marlene Leinemann</name>
+    <role>Apple Pi Girl #4</role>
+    <type>GuestStar</type>
+    <tmdbid>3022248</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Henker</name>
+    <role>Giggling Girl #1</role>
+    <type>GuestStar</type>
+    <tmdbid>3022249</tmdbid>
+  </actor>
+  <actor>
+    <name>Marija Haensch</name>
+    <role>Giggling Girl #2</role>
+    <type>GuestStar</type>
+    <tmdbid>3022250</tmdbid>
+  </actor>
+  <actor>
+    <name>Elvis Nowatzki</name>
+    <role>Margaret's Boyfriend</role>
+    <type>GuestStar</type>
+    <tmdbid>3022252</tmdbid>
+  </actor>
+  <actor>
+    <name>Eloise Webb</name>
+    <role>Annette Packer</role>
+    <type>GuestStar</type>
+    <tmdbid>1394373</tmdbid>
+  </actor>
+  <actor>
+    <name>Zoé Höche</name>
+    <role>Girl #1</role>
+    <type>GuestStar</type>
+    <tmdbid>3022226</tmdbid>
+  </actor>
+  <director>Scott Frank</director>
+  <rating>8.194</rating>
+  <year>2020</year>
+  <imdbid>tt10062312</imdbid>
+  <tvdbid>7960055</tvdbid>
+  <runtime>65</runtime>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt10062312</uniqueid>
+  <uniqueid type="Tvdb">7960055</uniqueid>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2020-10-23</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4026374</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>65</duration>
+        <durationinseconds>3912</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ara</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>cze</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hrv</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>hun</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ind</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>may</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>pol</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rum</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>rus</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>vie</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

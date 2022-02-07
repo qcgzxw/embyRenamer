@@ -1,0 +1,196 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　一代著名特工凌凌漆（周星驰）长期被上级弃用，沦为卖肉摊主。一具价值连城的恐龙骨架被一个浑身盔甲的金枪客盗去，因为线索少任务危险，凌凌漆又被高层领导委以重任。凌凌漆依循线索来到香港，与联络人香琴（袁咏仪）碰头，不想香琴处心积虑找机会要将凌凌漆杀死，原来她的另一身份是金枪客派来的杀手，但经历过出生入死的战斗后，香琴与凌凌漆渐生出了真情。而此时，金枪客的真实身份也被曝光，发现自己掉进某个阴谋里的凌凌漆开始奋力与敌手较量。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-04 14:15:44</dateadded>
+  <title>国产凌凌漆</title>
+  <originaltitle>國產凌凌漆</originaltitle>
+  <actor>
+    <name>Stephen Chow</name>
+    <role>Ling Ling Chai / Chat</role>
+    <type>Actor</type>
+    <tmdbid>57607</tmdbid>
+    <imdbid>nm0159507</imdbid>
+  </actor>
+  <actor>
+    <name>Anita Yuen</name>
+    <role>Lee Keung Kam / Li Heung Kam</role>
+    <type>Actor</type>
+    <tmdbid>64895</tmdbid>
+    <imdbid>nm0950703</imdbid>
+  </actor>
+  <actor>
+    <name>Law Kar-Ying</name>
+    <role>Tat Man Si / Da Man Si</role>
+    <type>Actor</type>
+    <tmdbid>87944</tmdbid>
+    <imdbid>nm0492344</imdbid>
+  </actor>
+  <actor>
+    <name>Pauline Chan Bo-Lin</name>
+    <role>Killer with Flame-throwing Bra</role>
+    <type>Actor</type>
+    <tmdbid>1134734</tmdbid>
+    <imdbid>nm0151065</imdbid>
+  </actor>
+  <actor>
+    <name>Joe Cheng Cho</name>
+    <role>Killer with metal mouth</role>
+    <type>Actor</type>
+    <tmdbid>1054920</tmdbid>
+  </actor>
+  <actor>
+    <name>Wong Kam-Kong</name>
+    <role>Golden Gun / Comdr. Chan</role>
+    <type>Actor</type>
+    <tmdbid>548045</tmdbid>
+  </actor>
+  <actor>
+    <name>Yu Rongguang</name>
+    <role>002 / Yee [cameo]</role>
+    <type>Actor</type>
+    <tmdbid>120725</tmdbid>
+    <imdbid>nm0950552</imdbid>
+  </actor>
+  <actor>
+    <name>Hudson Leung Hak-Shun</name>
+    <role>Lai Yau Wai</role>
+    <type>Actor</type>
+    <tmdbid>1298433</tmdbid>
+  </actor>
+  <actor>
+    <name>Chun Yip</name>
+    <role>Deputy Comdr. Chan</role>
+    <type>Actor</type>
+    <tmdbid>135836</tmdbid>
+    <imdbid>nm2684259</imdbid>
+  </actor>
+  <actor>
+    <name>Ku Ming-Wah</name>
+    <role>Firing squad commander</role>
+    <type>Actor</type>
+    <tmdbid>1596646</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Kin-Yan</name>
+    <role>Regent Motel's manager</role>
+    <type>Actor</type>
+    <tmdbid>237235</tmdbid>
+  </actor>
+  <actor>
+    <name>Raymond Tsang Chau Ming</name>
+    <role>Man from Hunan</role>
+    <type>Actor</type>
+    <tmdbid>240617</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Lik-Chi</name>
+    <role>Man about to be executed</role>
+    <type>Actor</type>
+    <tmdbid>118355</tmdbid>
+    <imdbid>nm0497758</imdbid>
+  </actor>
+  <actor>
+    <name>Johnny Dang Siu-Juen</name>
+    <role>Man about to be executed</role>
+    <type>Actor</type>
+    <tmdbid>1404925</tmdbid>
+  </actor>
+  <actor>
+    <name>Leung Si-Ho</name>
+    <role>Man about to be executed</role>
+    <type>Actor</type>
+    <tmdbid>1633798</tmdbid>
+  </actor>
+  <actor>
+    <name>Wong Yat-fei</name>
+    <role>Man about to be executed</role>
+    <type>Actor</type>
+    <tmdbid>956575</tmdbid>
+    <imdbid>nm0939431</imdbid>
+  </actor>
+  <director tmdbid="57607" imdbid="nm0159507">Stephen Chow</director>
+  <director tmdbid="118355" imdbid="nm0497758">Lee Lik-Chi</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tLNhS0AVmMI</trailer>
+  <rating>7.2</rating>
+  <year>1994</year>
+  <imdbid>tt0109962</imdbid>
+  <tmdbid>41387</tmdbid>
+  <premiered>1994-10-13</premiered>
+  <releasedate>1994-10-13</releasedate>
+  <criticrating>50</criticrating>
+  <runtime>84</runtime>
+  <country>Hong Kong</country>
+  <genre>动作</genre>
+  <genre>喜剧</genre>
+  <studio>Win's Movie Production Limited</studio>
+  <uniqueid type="Imdb">tt0109962</uniqueid>
+  <uniqueid type="Tmdb">41387</uniqueid>
+  <id>tt0109962</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>8294262</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>83</duration>
+        <durationinseconds>5018</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

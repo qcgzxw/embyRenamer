@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[影片是一部将背景设置在奥地利维也纳奢华的艺术品拍卖行业中的爱情故事，同时也是一部“没有谋杀案的惊悚片”。由英国演员吉姆·斯特吉斯同荷兰女星西尔维娅·侯克斯出演这对年轻的情侣，而澳洲演技派杰弗里·拉什扮演一名介入这段感情当中的神秘的老者。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-03-30 10:18:44</dateadded>
+  <title>最佳出价</title>
+  <originaltitle>La migliore offerta</originaltitle>
+  <actor>
+    <name>Geoffrey Rush</name>
+    <role>Virgil Oldman</role>
+    <type>Actor</type>
+    <tmdbid>118</tmdbid>
+    <imdbid>nm0001691</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Sturgess</name>
+    <role>Robert</role>
+    <type>Actor</type>
+    <tmdbid>38941</tmdbid>
+    <imdbid>nm0836343</imdbid>
+  </actor>
+  <actor>
+    <name>Sylvia Hoeks</name>
+    <role>Claire</role>
+    <type>Actor</type>
+    <tmdbid>104632</tmdbid>
+    <imdbid>nm1679778</imdbid>
+  </actor>
+  <actor>
+    <name>Donald Sutherland</name>
+    <role>Billy</role>
+    <type>Actor</type>
+    <tmdbid>55636</tmdbid>
+    <imdbid>nm0000661</imdbid>
+  </actor>
+  <actor>
+    <name>Maximilian Dirr</name>
+    <role>Virgil's Assistant</role>
+    <type>Actor</type>
+    <tmdbid>1133330</tmdbid>
+    <imdbid>nm4181758</imdbid>
+  </actor>
+  <actor>
+    <name>Philip Jackson</name>
+    <role>Fred</role>
+    <type>Actor</type>
+    <tmdbid>25532</tmdbid>
+    <imdbid>nm0413946</imdbid>
+  </actor>
+  <actor>
+    <name>Dermot Crowley</name>
+    <role>Lambert</role>
+    <type>Actor</type>
+    <tmdbid>17484</tmdbid>
+    <imdbid>nm0189720</imdbid>
+  </actor>
+  <actor>
+    <name>Liya Kebede</name>
+    <role>Sarah</role>
+    <type>Actor</type>
+    <tmdbid>111662</tmdbid>
+    <imdbid>nm1493135</imdbid>
+  </actor>
+  <actor>
+    <name>Hannah Britland</name>
+    <role>Terri</role>
+    <type>Actor</type>
+    <tmdbid>1291138</tmdbid>
+    <imdbid>nm4760678</imdbid>
+  </actor>
+  <actor>
+    <name>Brigitte Christensen</name>
+    <role>The Sister</role>
+    <type>Actor</type>
+    <tmdbid>1073181</tmdbid>
+    <imdbid>nm0159738</imdbid>
+  </actor>
+  <actor>
+    <name>Kiruna Stamell</name>
+    <role>Girl in the Bar</role>
+    <type>Actor</type>
+    <tmdbid>1250098</tmdbid>
+    <imdbid>nm0973827</imdbid>
+  </actor>
+  <actor>
+    <name>Caterina Capodilista</name>
+    <role>Young Woman</role>
+    <type>Actor</type>
+    <tmdbid>1386133</tmdbid>
+    <imdbid>nm5799949</imdbid>
+  </actor>
+  <actor>
+    <name>Gen Seto</name>
+    <role>Housekeeper</role>
+    <type>Actor</type>
+    <tmdbid>1386137</tmdbid>
+    <imdbid>nm0786062</imdbid>
+  </actor>
+  <actor>
+    <name>Klaus Tauber</name>
+    <role>Virgil's Assistant #1</role>
+    <type>Actor</type>
+    <tmdbid>1386139</tmdbid>
+    <imdbid>nm5447123</imdbid>
+  </actor>
+  <actor>
+    <name>Laurence Belgrave</name>
+    <role>Virgil's Assistant #3</role>
+    <type>Actor</type>
+    <tmdbid>1386142</tmdbid>
+    <imdbid>nm5031651</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Buchanan</name>
+    <role>Virgil's Assistant #4</role>
+    <type>Actor</type>
+    <tmdbid>1386143</tmdbid>
+    <imdbid>nm2772978</imdbid>
+  </actor>
+  <actor>
+    <name>John Benfield</name>
+    <role>Barman</role>
+    <type>Actor</type>
+    <tmdbid>42642</tmdbid>
+    <imdbid>nm0071007</imdbid>
+  </actor>
+  <actor>
+    <name>Amanda Walker</name>
+    <role>Owner</role>
+    <type>Actor</type>
+    <tmdbid>108620</tmdbid>
+  </actor>
+  <actor>
+    <name>Miles Richardson</name>
+    <role>Steirereck Maitre</role>
+    <type>Actor</type>
+    <tmdbid>206393</tmdbid>
+  </actor>
+  <director tmdbid="65314" imdbid="nm0868153">Giuseppe Tornatore</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zJGleGyahC8</trailer>
+  <rating>7.8</rating>
+  <year>2013</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt1924396</imdbid>
+  <tmdbid>152742</tmdbid>
+  <premiered>2013-01-01</premiered>
+  <releasedate>2013-01-01</releasedate>
+  <criticrating>56</criticrating>
+  <runtime>130</runtime>
+  <country>Italy</country>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <genre>犯罪</genre>
+  <genre>悬疑</genre>
+  <studio>Regione Lazio</studio>
+  <studio>Paco Cinematografica</studio>
+  <studio>Business Location Sudtirol Alto Adige</studio>
+  <studio>Friuli Venezia Giulia Film Commission</studio>
+  <studio>UniCredit Group</studio>
+  <studio>Warner Bros. Pictures</studio>
+  <uniqueid type="Tmdb">152742</uniqueid>
+  <uniqueid type="Imdb">tt1924396</uniqueid>
+  <id>tt1924396</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3545037</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>129</duration>
+        <durationinseconds>7772</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

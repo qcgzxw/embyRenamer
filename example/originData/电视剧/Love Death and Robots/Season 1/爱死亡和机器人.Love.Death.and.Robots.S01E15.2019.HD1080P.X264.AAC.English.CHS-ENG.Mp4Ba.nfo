@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[生化强盗团伙策划了一起针对重装护航队的高速抢劫。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-27 16:09:28</dateadded>
+  <title>盲点</title>
+  <actor>
+    <name>Aaron Himelstein</name>
+    <role>Rookie (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>43373</tmdbid>
+  </actor>
+  <actor>
+    <name>Carlos Alazraqui</name>
+    <role>Sui (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>59784</tmdbid>
+  </actor>
+  <actor>
+    <name>Jill Talley</name>
+    <role>Kali (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>17414</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Bloom</name>
+    <role>Hawk (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>4753</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Cox</name>
+    <role>Bob (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>136930</tmdbid>
+  </actor>
+  <director>Vitaliy Shushko</director>
+  <rating>5.981</rating>
+  <year>2019</year>
+  <imdbid>tt9788512</imdbid>
+  <tvdbid>7069842</tvdbid>
+  <runtime>9</runtime>
+  <genre>Animation</genre>
+  <genre>Short</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <genre>Horror</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt9788512</uniqueid>
+  <uniqueid type="Tvdb">7069842</uniqueid>
+  <episode>15</episode>
+  <season>1</season>
+  <aired>2019-03-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2241781</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>8</duration>
+        <durationinseconds>524</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>361299</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

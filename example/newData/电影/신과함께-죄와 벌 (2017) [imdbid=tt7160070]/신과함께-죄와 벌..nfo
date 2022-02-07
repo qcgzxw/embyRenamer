@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[阴间有法，所有亡者在死后的49天内都要经过七次审判——分别在杀人狱、懒惰狱、欺骗狱、不义狱、背叛狱、暴力狱、天伦狱中进行，只有通过了七次审判宣告无罪的亡者，才有获得新生的机会。消防员金子洪在一场火灾当中为了救一名女孩而不幸牺牲。地狱使者解怨脉和德春出现在了金子洪的面前。尽管金子洪无法相信自己的死亡，却被德春一脸严肃地告知自己既是亡者、又是贵人。在通往地狱的入口，金子洪遇到了在初军门等着自己的另一位使者江林。他掌管着解怨脉和德春两位使者，同时也将在子洪即将接受的七次审判中为子洪进行辩护...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-03-30 14:03:53</dateadded>
+  <title>与神同行：罪与罚</title>
+  <originaltitle>신과함께-죄와 벌</originaltitle>
+  <actor>
+    <name>Ha Jung-woo</name>
+    <role>Gang Lim</role>
+    <type>Actor</type>
+    <tmdbid>75913</tmdbid>
+    <imdbid>nm1978402</imdbid>
+  </actor>
+  <actor>
+    <name>Cha Tae-hyun</name>
+    <role>Kim Ja-hong</role>
+    <type>Actor</type>
+    <tmdbid>63442</tmdbid>
+    <imdbid>nm1028580</imdbid>
+  </actor>
+  <actor>
+    <name>Ju Ji-hoon</name>
+    <role>Hewonmak</role>
+    <type>Actor</type>
+    <tmdbid>150125</tmdbid>
+    <imdbid>nm2352559</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Hyang-gi</name>
+    <role>Deok-choon</role>
+    <type>Actor</type>
+    <tmdbid>1128106</tmdbid>
+    <imdbid>nm3676100</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Jung-jae</name>
+    <role>King Yeomra</role>
+    <type>Actor</type>
+    <tmdbid>73249</tmdbid>
+    <imdbid>nm0497631</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Dong-wook</name>
+    <role>Kim Su-hong</role>
+    <type>Actor</type>
+    <tmdbid>118976</tmdbid>
+    <imdbid>nm1118612</imdbid>
+  </actor>
+  <actor>
+    <name>Ye Soo-jung</name>
+    <role>Ja-hong's mother</role>
+    <type>Actor</type>
+    <tmdbid>1351055</tmdbid>
+  </actor>
+  <actor>
+    <name>Oh Dal-su</name>
+    <role>Lawyer 1</role>
+    <type>Actor</type>
+    <tmdbid>77188</tmdbid>
+    <imdbid>nm1367681</imdbid>
+  </actor>
+  <actor>
+    <name>Im Won-hee</name>
+    <role>Lawyer 2</role>
+    <type>Actor</type>
+    <tmdbid>1004565</tmdbid>
+    <imdbid>nm1085945</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Jun-hyuk</name>
+    <role>First Lieutenant Park Moo-sin</role>
+    <type>Actor</type>
+    <tmdbid>1254630</tmdbid>
+    <imdbid>nm3789806</imdbid>
+  </actor>
+  <actor>
+    <name>Do Kyung-soo</name>
+    <role>Private Won Dong-yeon</role>
+    <type>Actor</type>
+    <tmdbid>1470219</tmdbid>
+    <imdbid>nm6765553</imdbid>
+  </actor>
+  <actor>
+    <name>Jung Hae-kyun</name>
+    <role>Byeon-seong, God of Murder Hell</role>
+    <type>Actor</type>
+    <tmdbid>1171951</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Hae-sook</name>
+    <role>Cho-gang, God of Indolence Hell</role>
+    <type>Actor</type>
+    <tmdbid>93252</tmdbid>
+    <imdbid>nm3482070</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Soo-ahn</name>
+    <role>Tae-san, God of Lie Hell</role>
+    <type>Actor</type>
+    <tmdbid>1278162</tmdbid>
+    <imdbid>nm1246724</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Kyung-young</name>
+    <role>Oh-gwan, God of Injustice Hell</role>
+    <type>Actor</type>
+    <tmdbid>231476</tmdbid>
+    <imdbid>nm0497710</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Ha-neul</name>
+    <role>Song-je, God of Betrayal Hell</role>
+    <type>Actor</type>
+    <tmdbid>83012</tmdbid>
+    <imdbid>nm0453452</imdbid>
+  </actor>
+  <actor>
+    <name>Jang Gwang</name>
+    <role>Jin-gwang, God of Violence Hell</role>
+    <type>Actor</type>
+    <tmdbid>1096793</tmdbid>
+    <imdbid>nm5357038</imdbid>
+  </actor>
+  <actor>
+    <name>Yu Jun-sang</name>
+    <role>Firefighter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>80461</tmdbid>
+    <imdbid>nm0950510</imdbid>
+  </actor>
+  <actor>
+    <name>Ma Dong-seok</name>
+    <role>Sung-ju, Household God</role>
+    <type>Actor</type>
+    <tmdbid>1024395</tmdbid>
+    <imdbid>nm3011350</imdbid>
+  </actor>
+  <actor>
+    <name>Nam Il-woo</name>
+    <role>Hur Choon-sam</role>
+    <type>Actor</type>
+    <tmdbid>1299277</tmdbid>
+    <imdbid>nm1962664</imdbid>
+  </actor>
+  <actor>
+    <name>Jung Ji-hoon</name>
+    <role>Hur Hyun-dong</role>
+    <type>Actor</type>
+    <tmdbid>2097275</tmdbid>
+    <imdbid>nm9256063</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Su-ro</name>
+    <role>Cat girl's father (cameo) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>138531</tmdbid>
+    <imdbid>nm1069518</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Min-jong</name>
+    <role>Grim reaper (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1244947</tmdbid>
+    <imdbid>nm1085779</imdbid>
+  </actor>
+  <actor>
+    <name>Na Chul</name>
+    <role>Club man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2228586</tmdbid>
+  </actor>
+  <director tmdbid="84969" imdbid="nm1420683">Kim Yong-hwa</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=dyh_OY1DgqU</trailer>
+  <rating>7.3</rating>
+  <year>2017</year>
+  <mpaa>NR</mpaa>
+  <imdbid>tt7160070</imdbid>
+  <tmdbid>397567</tmdbid>
+  <premiered>2017-12-14</premiered>
+  <releasedate>2017-12-14</releasedate>
+  <criticrating>67</criticrating>
+  <runtime>140</runtime>
+  <country>South Korea</country>
+  <genre>剧情</genre>
+  <genre>奇幻</genre>
+  <genre>动作</genre>
+  <studio>Lotte Entertainment</studio>
+  <studio>Dexter Studios</studio>
+  <studio>Realies Pictures</studio>
+  <set tmdbcolid="531566">
+    <name>与神同行（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">397567</uniqueid>
+  <uniqueid type="Imdb">tt7160070</uniqueid>
+  <id>tt7160070</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4991344</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>139</duration>
+        <durationinseconds>8385</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

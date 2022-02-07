@@ -1,0 +1,818 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[亚瑟·弗兰克是一名以小丑职业为生的普通人，患有精神疾病的他和母亲一同住在哥谭市的一座公寓里，幻想成为脱口秀演员的亚瑟为了这个目标而努力的生活着，但是现实却屡次击败他的梦想，亚瑟渐渐地变得越来越癫狂，某天在地铁上，亚瑟为了自保杀害了几名嘲笑他的人，同时，一个疯狂的想法在亚瑟心灵萌发……  在看似和平的哥谭市，即将发生翻天覆地的巨变。]]></plot>
+  <outline><![CDATA[摆出一张笑脸吧]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-22 16:32:07</dateadded>
+  <title>小丑</title>
+  <originaltitle>Joker</originaltitle>
+  <actor>
+    <name>Joaquin Phoenix</name>
+    <role>Arthur Fleck / Joker</role>
+    <type>Actor</type>
+    <tmdbid>73421</tmdbid>
+    <imdbid>nm0001618</imdbid>
+  </actor>
+  <actor>
+    <name>Robert De Niro</name>
+    <role>Murray Franklin</role>
+    <type>Actor</type>
+    <tmdbid>380</tmdbid>
+    <imdbid>nm0000134</imdbid>
+  </actor>
+  <actor>
+    <name>Zazie Beetz</name>
+    <role>Sophie Dumond</role>
+    <type>Actor</type>
+    <tmdbid>1545693</tmdbid>
+    <imdbid>nm5939164</imdbid>
+  </actor>
+  <actor>
+    <name>Frances Conroy</name>
+    <role>Penny Fleck</role>
+    <type>Actor</type>
+    <tmdbid>4432</tmdbid>
+    <imdbid>nm0175814</imdbid>
+  </actor>
+  <actor>
+    <name>Brett Cullen</name>
+    <role>Thomas Wayne</role>
+    <type>Actor</type>
+    <tmdbid>16841</tmdbid>
+    <imdbid>nm0191442</imdbid>
+  </actor>
+  <actor>
+    <name>Shea Whigham</name>
+    <role>Detective Burke</role>
+    <type>Actor</type>
+    <tmdbid>74242</tmdbid>
+    <imdbid>nm0924154</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Camp</name>
+    <role>Detective Garrity</role>
+    <type>Actor</type>
+    <tmdbid>121718</tmdbid>
+    <imdbid>nm0131966</imdbid>
+  </actor>
+  <actor>
+    <name>Glenn Fleshler</name>
+    <role>Randall</role>
+    <type>Actor</type>
+    <tmdbid>1377670</tmdbid>
+    <imdbid>nm0281909</imdbid>
+  </actor>
+  <actor>
+    <name>Leigh Gill</name>
+    <role>Gary</role>
+    <type>Actor</type>
+    <tmdbid>1416396</tmdbid>
+    <imdbid>nm5279916</imdbid>
+  </actor>
+  <actor>
+    <name>Josh Pais</name>
+    <role>Hoyt Vaughn</role>
+    <type>Actor</type>
+    <tmdbid>6181</tmdbid>
+    <imdbid>nm0656929</imdbid>
+  </actor>
+  <actor>
+    <name>Rocco Luna</name>
+    <role>GiGi Dumond</role>
+    <type>Actor</type>
+    <tmdbid>2504601</tmdbid>
+    <imdbid>nm11027103</imdbid>
+  </actor>
+  <actor>
+    <name>Marc Maron</name>
+    <role>Gene Ufland</role>
+    <type>Actor</type>
+    <tmdbid>1231717</tmdbid>
+    <imdbid>nm0549505</imdbid>
+  </actor>
+  <actor>
+    <name>Sondra James</name>
+    <role>Dr. Sally</role>
+    <type>Actor</type>
+    <tmdbid>171297</tmdbid>
+    <imdbid>nm0416932</imdbid>
+  </actor>
+  <actor>
+    <name>Murphy Guyer</name>
+    <role>Barry O'Donnell</role>
+    <type>Actor</type>
+    <tmdbid>155547</tmdbid>
+    <imdbid>nm0349881</imdbid>
+  </actor>
+  <actor>
+    <name>Douglas Hodge</name>
+    <role>Alfred Pennyworth</role>
+    <type>Actor</type>
+    <tmdbid>80149</tmdbid>
+    <imdbid>nm0388061</imdbid>
+  </actor>
+  <actor>
+    <name>Dante Pereira-Olson</name>
+    <role>Bruce Wayne</role>
+    <type>Actor</type>
+    <tmdbid>1765331</tmdbid>
+    <imdbid>nm7159554</imdbid>
+  </actor>
+  <actor>
+    <name>Carrie Louise Putrello</name>
+    <role>Martha Wayne</role>
+    <type>Actor</type>
+    <tmdbid>2504604</tmdbid>
+    <imdbid>nm10504250</imdbid>
+  </actor>
+  <actor>
+    <name>Sharon Washington</name>
+    <role>Social Worker</role>
+    <type>Actor</type>
+    <tmdbid>141748</tmdbid>
+    <imdbid>nm0913531</imdbid>
+  </actor>
+  <actor>
+    <name>Hannah Gross</name>
+    <role>Young Penny</role>
+    <type>Actor</type>
+    <tmdbid>1049916</tmdbid>
+    <imdbid>nm2193120</imdbid>
+  </actor>
+  <actor>
+    <name>Frank Wood</name>
+    <role>Dr. Stoner</role>
+    <type>Actor</type>
+    <tmdbid>52021</tmdbid>
+    <imdbid>nm0939703</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Tyree Henry</name>
+    <role>Carl (Arkham Clerk)</role>
+    <type>Actor</type>
+    <tmdbid>226366</tmdbid>
+    <imdbid>nm3109964</imdbid>
+  </actor>
+  <actor>
+    <name>April Grace</name>
+    <role>Arkham Psychiatrist</role>
+    <type>Actor</type>
+    <tmdbid>10691</tmdbid>
+    <imdbid>nm0333318</imdbid>
+  </actor>
+  <actor>
+    <name>Mick Szal</name>
+    <role>Woman on Subway</role>
+    <type>Actor</type>
+    <tmdbid>2504614</tmdbid>
+    <imdbid>nm8122257</imdbid>
+  </actor>
+  <actor>
+    <name>Carl Lundstedt</name>
+    <role>Wall Street Three</role>
+    <type>Actor</type>
+    <tmdbid>1546229</tmdbid>
+    <imdbid>nm6802489</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Benz</name>
+    <role>Wall Street Three</role>
+    <type>Actor</type>
+    <tmdbid>1556258</tmdbid>
+    <imdbid>nm0073121</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Warheit</name>
+    <role>Wall Street Three</role>
+    <type>Actor</type>
+    <tmdbid>2439980</tmdbid>
+  </actor>
+  <actor>
+    <name>Gary Gulman</name>
+    <role>Comedian</role>
+    <type>Actor</type>
+    <tmdbid>1123616</tmdbid>
+    <imdbid>nm1654864</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Morril</name>
+    <role>Open Mic Comic</role>
+    <type>Actor</type>
+    <tmdbid>2128773</tmdbid>
+    <imdbid>nm6421600</imdbid>
+  </actor>
+  <actor>
+    <name>Chris Redd</name>
+    <role>Comedy Club Emcee</role>
+    <type>Actor</type>
+    <tmdbid>1631358</tmdbid>
+    <imdbid>nm5412083</imdbid>
+  </actor>
+  <actor>
+    <name>Mandela Bellamy</name>
+    <role>Mother on Bus</role>
+    <type>Actor</type>
+    <tmdbid>1990682</tmdbid>
+    <imdbid>nm3917917</imdbid>
+  </actor>
+  <actor>
+    <name>Demetrius Dotson II</name>
+    <role>Boy on Bus</role>
+    <type>Actor</type>
+    <tmdbid>2504634</tmdbid>
+    <imdbid>nm10953263</imdbid>
+  </actor>
+  <actor>
+    <name>Greer Barnes</name>
+    <role>Haha's Clown</role>
+    <type>Actor</type>
+    <tmdbid>1219688</tmdbid>
+    <imdbid>nm0055616</imdbid>
+  </actor>
+  <actor>
+    <name>Ray Iannicelli</name>
+    <role>Haha's Clown</role>
+    <type>Actor</type>
+    <tmdbid>155549</tmdbid>
+    <imdbid>nm0406320</imdbid>
+  </actor>
+  <actor>
+    <name>Bryan Callen</name>
+    <role>Haha's Stripper</role>
+    <type>Actor</type>
+    <tmdbid>78320</tmdbid>
+    <imdbid>nm0130437</imdbid>
+  </actor>
+  <actor>
+    <name>Vito Gerbino</name>
+    <role>Street Kid</role>
+    <type>Actor</type>
+    <tmdbid>2504641</tmdbid>
+    <imdbid>nm7898438</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Quezada</name>
+    <role>Street Kid</role>
+    <type>Actor</type>
+    <tmdbid>2504648</tmdbid>
+    <imdbid>nm10327924</imdbid>
+  </actor>
+  <actor>
+    <name>Xavyer Ureña</name>
+    <role>Street Kid</role>
+    <type>Actor</type>
+    <tmdbid>2504653</tmdbid>
+    <imdbid>nm10904409</imdbid>
+  </actor>
+  <actor>
+    <name>Evan Rosado</name>
+    <role>Street Kid</role>
+    <type>Actor</type>
+    <tmdbid>1932297</tmdbid>
+  </actor>
+  <actor>
+    <name>Damian Emmanuel</name>
+    <role>Street Kid</role>
+    <type>Actor</type>
+    <tmdbid>2504660</tmdbid>
+    <imdbid>nm10327922</imdbid>
+  </actor>
+  <actor>
+    <name>Mike Troll</name>
+    <role>Clown Protestor</role>
+    <type>Actor</type>
+    <tmdbid>1578632</tmdbid>
+    <imdbid>nm6657344</imdbid>
+  </actor>
+  <actor>
+    <name>Jane Fergus</name>
+    <role>IBN Anchorwoman</role>
+    <type>Actor</type>
+    <tmdbid>1472882</tmdbid>
+    <imdbid>nm1631072</imdbid>
+  </actor>
+  <actor>
+    <name>David Gibson</name>
+    <role>WBC News Anchor</role>
+    <type>Actor</type>
+    <tmdbid>2305430</tmdbid>
+    <imdbid>nm0316930</imdbid>
+  </actor>
+  <actor>
+    <name>Tony D. Head</name>
+    <role>WGC Anchorman</role>
+    <type>Actor</type>
+    <tmdbid>2505669</tmdbid>
+    <imdbid>nm1179565</imdbid>
+  </actor>
+  <actor>
+    <name>Jeff McCarthy</name>
+    <role>NCB Anchor</role>
+    <type>Actor</type>
+    <tmdbid>171689</tmdbid>
+    <imdbid>nm0565159</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Brockington</name>
+    <role>NCB Co-Anchor</role>
+    <type>Actor</type>
+    <tmdbid>170384</tmdbid>
+    <imdbid>nm0110686</imdbid>
+  </actor>
+  <actor>
+    <name>Troy Roberts</name>
+    <role>NCB News Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2505685</tmdbid>
+    <imdbid>nm9969949</imdbid>
+  </actor>
+  <actor>
+    <name>Lou Young</name>
+    <role>ANC News Reporter</role>
+    <type>Actor</type>
+    <tmdbid>2505692</tmdbid>
+    <imdbid>nm7505914</imdbid>
+  </actor>
+  <actor>
+    <name>Michael-Scott Druckenmiller</name>
+    <role>Paramedic</role>
+    <type>Actor</type>
+    <tmdbid>1808635</tmdbid>
+    <imdbid>nm8413076</imdbid>
+  </actor>
+  <actor>
+    <name>Craig Austin</name>
+    <role>Paramedic</role>
+    <type>Actor</type>
+    <tmdbid>2507402</tmdbid>
+    <imdbid>nm0042355</imdbid>
+  </actor>
+  <actor>
+    <name>John Cenatiempo</name>
+    <role>Aftermath Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>206398</tmdbid>
+    <imdbid>nm0127362</imdbid>
+  </actor>
+  <actor>
+    <name>Danny Schoch</name>
+    <role>Aftermath Police Officers</role>
+    <type>Actor</type>
+    <tmdbid>2376053</tmdbid>
+    <imdbid>nm6006902</imdbid>
+  </actor>
+  <actor>
+    <name>Keith Buterbaugh</name>
+    <role>Band Leader</role>
+    <type>Actor</type>
+    <tmdbid>107509</tmdbid>
+    <imdbid>nm2244474</imdbid>
+  </actor>
+  <actor>
+    <name>James Ciccone</name>
+    <role>Murray Franklin Band</role>
+    <type>Actor</type>
+    <tmdbid>1456745</tmdbid>
+    <imdbid>nm3601503</imdbid>
+  </actor>
+  <actor>
+    <name>Rich Campbell</name>
+    <role>Murray Franklin Band</role>
+    <type>Actor</type>
+    <tmdbid>2428573</tmdbid>
+    <imdbid>nm0132803</imdbid>
+  </actor>
+  <actor>
+    <name>Roger Squitero</name>
+    <role>Murray Franklin Band</role>
+    <type>Actor</type>
+    <tmdbid>2507441</tmdbid>
+    <imdbid>nm0820153</imdbid>
+  </actor>
+  <actor>
+    <name>Steven Elson</name>
+    <role>Murray Franklin Band</role>
+    <type>Actor</type>
+    <tmdbid>2507545</tmdbid>
+    <imdbid>nm11027105</imdbid>
+  </actor>
+  <actor>
+    <name>Graham Mabry</name>
+    <role>Murray Franklin Band</role>
+    <type>Actor</type>
+    <tmdbid>2507550</tmdbid>
+    <imdbid>nm11027106</imdbid>
+  </actor>
+  <actor>
+    <name>John Alldred</name>
+    <role>Murray Franklin Band</role>
+    <type>Actor</type>
+    <tmdbid>2507551</tmdbid>
+    <imdbid>nm11027107</imdbid>
+  </actor>
+  <actor>
+    <name>Alonzo Wright</name>
+    <role>Murray Franklin Band</role>
+    <type>Actor</type>
+    <tmdbid>2507552</tmdbid>
+    <imdbid>nm6140307</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Wilkins</name>
+    <role>Murray Franklin Band</role>
+    <type>Actor</type>
+    <tmdbid>2507566</tmdbid>
+    <imdbid>nm7493443</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Baratta</name>
+    <role>Murray Franklin Band</role>
+    <type>Actor</type>
+    <tmdbid>38939</tmdbid>
+    <imdbid>nm0053102</imdbid>
+  </actor>
+  <actor>
+    <name>Mary Kate Malat</name>
+    <role>Murray Franklin Intern</role>
+    <type>Actor</type>
+    <tmdbid>1918850</tmdbid>
+    <imdbid>nm3090905</imdbid>
+  </actor>
+  <actor>
+    <name>Adrienne Lovette</name>
+    <role>Middle Aged Woman</role>
+    <type>Actor</type>
+    <tmdbid>1432058</tmdbid>
+    <imdbid>nm4821584</imdbid>
+  </actor>
+  <actor>
+    <name>Justin Theroux</name>
+    <role>Ethan Chase (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>15009</tmdbid>
+    <imdbid>nm0857620</imdbid>
+  </actor>
+  <actor>
+    <name>Alissa Bourne</name>
+    <role>Anna (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1877648</tmdbid>
+  </actor>
+  <actor>
+    <name>Jamaal Burcher</name>
+    <role>Hospital Visitor / Mfs Audience (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2281904</tmdbid>
+  </actor>
+  <actor>
+    <name>Dj Nino Carta</name>
+    <role>Orderly (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2311926</tmdbid>
+  </actor>
+  <actor>
+    <name>John Cashin</name>
+    <role>Arkham Patient (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1956129</tmdbid>
+    <imdbid>nm4468284</imdbid>
+  </actor>
+  <actor>
+    <name>Jason John Cicalese</name>
+    <role>Protester / Rioter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2172202</tmdbid>
+  </actor>
+  <actor>
+    <name>Brendan Patrick Connor</name>
+    <role>Mr. Slotnick (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1217576</tmdbid>
+    <imdbid>nm1615964</imdbid>
+  </actor>
+  <actor>
+    <name>Blaise Corrigan</name>
+    <role>Taxi Driver (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>162522</tmdbid>
+    <imdbid>nm0180961</imdbid>
+  </actor>
+  <actor>
+    <name>Dennis Jay Funny</name>
+    <role>Gotham Citizen (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1457481</tmdbid>
+    <imdbid>nm1591849</imdbid>
+  </actor>
+  <actor>
+    <name>Matthias Sebastiun Garry</name>
+    <role>Arkham Patient (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2426870</tmdbid>
+    <imdbid>nm8501393</imdbid>
+  </actor>
+  <actor>
+    <name>James P. Harkins</name>
+    <role>Thomas Wayne's Body Guard (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2469401</tmdbid>
+  </actor>
+  <actor>
+    <name>Joseph Hernandez</name>
+    <role>Protester / Rioter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1494221</tmdbid>
+    <imdbid>nm1969847</imdbid>
+  </actor>
+  <actor>
+    <name>Ben Heyman</name>
+    <role>Protestor (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1829030</tmdbid>
+    <imdbid>nm6407108</imdbid>
+  </actor>
+  <actor>
+    <name>Graham Maby</name>
+    <role>Murray Franklin Band (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2235040</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Benson</name>
+    <role>Good Morning Host (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1292351</tmdbid>
+    <imdbid>nm0072613</imdbid>
+  </actor>
+  <actor>
+    <name>Jolie Chan</name>
+    <role>Street Worker</role>
+    <type>Actor</type>
+    <tmdbid>3085523</tmdbid>
+    <imdbid>nm8231991</imdbid>
+  </actor>
+  <director tmdbid="57130" imdbid="nm0680846">Todd Phillips</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=t433PEQGErc</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xRjvmVaFHkk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=zAGVQLHvwOY</trailer>
+  <rating>8.4</rating>
+  <year>2019</year>
+  <mpaa>HK-IIB</mpaa>
+  <imdbid>tt7286456</imdbid>
+  <tmdbid>475557</tmdbid>
+  <premiered>2019-10-02</premiered>
+  <releasedate>2019-10-02</releasedate>
+  <criticrating>68</criticrating>
+  <runtime>122</runtime>
+  <tagline>摆出一张笑脸吧</tagline>
+  <country>Canada</country>
+  <country>United States of America</country>
+  <genre>犯罪</genre>
+  <genre>惊悚</genre>
+  <genre>剧情</genre>
+  <studio>Warner Bros. Pictures</studio>
+  <studio>Joint Effort</studio>
+  <studio>Village Roadshow Pictures</studio>
+  <studio>Bron Studios</studio>
+  <studio>Creative Wealth Media Finance</studio>
+  <studio>DC Entertainment</studio>
+  <studio>DC Films</studio>
+  <studio>DC Comics</studio>
+  <uniqueid type="Tmdb">475557</uniqueid>
+  <uniqueid type="Imdb">tt7286456</uniqueid>
+  <id>tt7286456</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>60670995</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>121</duration>
+        <durationinseconds>7309</durationinseconds>
+      </video>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>60670995</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>121</duration>
+        <durationinseconds>7309</durationinseconds>
+      </video>
+      <audio>
+        <codec>truehd</codec>
+        <micodec>truehd</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>640</width>
+        <height>360</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

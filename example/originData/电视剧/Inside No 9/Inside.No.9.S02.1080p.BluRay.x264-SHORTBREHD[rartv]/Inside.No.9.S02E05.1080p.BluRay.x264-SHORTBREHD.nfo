@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[这是娜娜的特殊日子：不是每天都能成为79岁。她很高兴下午和她的全家一起度过 - 甚至帕特和吉姆，他们都喜欢一个很棒的恶作剧。她的安吉拉已经......]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-06 12:36:06</dateadded>
+  <title>奶奶生日那一天</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Whitlow</name>
+    <role>Paramedic</role>
+    <type>GuestStar</type>
+    <tmdbid>1457459</tmdbid>
+  </actor>
+  <actor>
+    <name>Claire Skinner</name>
+    <role>Angela</role>
+    <type>GuestStar</type>
+    <tmdbid>42641</tmdbid>
+    <imdbid>nm0804218</imdbid>
+  </actor>
+  <actor>
+    <name>Eve Gordon</name>
+    <role>Katie</role>
+    <type>GuestStar</type>
+    <tmdbid>23706</tmdbid>
+  </actor>
+  <actor>
+    <name>Elsie Kelly</name>
+    <role>Maggie</role>
+    <type>GuestStar</type>
+    <tmdbid>110073</tmdbid>
+    <imdbid>nm0446372</imdbid>
+  </actor>
+  <actor>
+    <name>Lorraine Ashbourne</name>
+    <role>Carol</role>
+    <type>GuestStar</type>
+    <tmdbid>78329</tmdbid>
+    <imdbid>nm0038690</imdbid>
+  </actor>
+  <director tmdbid="28485" imdbid="nm0671487">Steve Pemberton</director>
+  <director tmdbid="34551" imdbid="nm0790501">Reece Shearsmith</director>
+  <rating>7</rating>
+  <year>2015</year>
+  <imdbid>tt4533014</imdbid>
+  <tvdbid>5157105</tvdbid>
+  <runtime>29</runtime>
+  <genre>Comedy</genre>
+  <genre>Horror</genre>
+  <uniqueid type="Imdb">tt4533014</uniqueid>
+  <uniqueid type="Tvdb">5157105</uniqueid>
+  <episode>5</episode>
+  <season>2</season>
+  <aired>2015-04-23</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10668709</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>29</duration>
+        <durationinseconds>1758</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>ChsEngA</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

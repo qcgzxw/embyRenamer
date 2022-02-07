@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[全职家庭主妇克莱尔（朱丽·鲍温 Julie Bowen 饰）与做地产经纪的丈夫菲尔（泰·布利尔 Ty Burrell 饰）养育着两个青春期的女儿和一个十岁大的儿子。克莱尔年过六旬的老父杰（艾德·奥尼尔 Ed O'Neill 饰）新娶了年轻美貌的妻子格劳丽亚（索菲娅·维加拉 Sofía Vergara 饰），加上格劳丽亚和前夫所生的十岁儿子组成了一个新三口之家。克莱尔的弟弟米切尔（杰西·泰勒·弗格森 Jesse Tyler Ferguson 饰）和他的同性爱人卡梅隆（艾瑞克·斯通斯崔特 Eric Stonestreet 饰）则刚从越南领养了一名女婴，兴致勃勃地想要当一对好爸爸。这三个家庭各有各的烦恼需要面对和解决，彼此之间的频繁往来也产生了一些不愉快。当难题不断摆在他们面前的时候，他们如何化解矛盾、维持家庭的和睦与欢乐气氛呢？]]></plot>
+  <outline><![CDATA[全职家庭主妇克莱尔（朱丽·鲍温 Julie Bowen 饰）与做地产经纪的丈夫菲尔（泰·布利尔 Ty Burrell 饰）养育着两个青春期的女儿和一个十岁大的儿子。克莱尔年过六旬的老父杰（艾德·奥尼尔 Ed O'Neill 饰）新娶了年轻美貌的妻子格劳丽亚（索菲娅·维加拉 Sofía Vergara 饰），加上格劳丽亚和前夫所生的十岁儿子组成了一个新三口之家。克莱尔的弟弟米切尔（杰西·泰勒·弗格森 Jesse Tyler Ferguson 饰）和他的同性爱人卡梅隆（艾瑞克·斯通斯崔特 Eric Stonestreet 饰）则刚从越南领养了一名女婴，兴致勃勃地想要当一对好爸爸。这三个家庭各有各的烦恼需要面对和解决，彼此之间的频繁往来也产生了一些不愉快。当难题不断摆在他们面前的时候，他们如何化解矛盾、维持家庭的和睦与欢乐气氛呢？]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-24 02:56:10</dateadded>
+  <title>摩登家庭</title>
+  <originaltitle>Modern Family</originaltitle>
+  <actor>
+    <name>Ed O'Neill</name>
+    <role>Jay Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>18977</tmdbid>
+    <imdbid>nm0642145</imdbid>
+  </actor>
+  <actor>
+    <name>Sofía Vergara</name>
+    <role>Gloria Delgado-Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>63522</tmdbid>
+    <imdbid>nm0005527</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Bowen</name>
+    <role>Claire Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>31171</tmdbid>
+    <imdbid>nm0100866</imdbid>
+  </actor>
+  <actor>
+    <name>Ty Burrell</name>
+    <role>Phil Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>15232</tmdbid>
+    <imdbid>nm0123092</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse Tyler Ferguson</name>
+    <role>Mitchell Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>204815</tmdbid>
+    <imdbid>nm0272479</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Stonestreet</name>
+    <role>Cameron Tucker</role>
+    <type>Actor</type>
+    <tmdbid>156962</tmdbid>
+    <imdbid>nm0832314</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Hyland</name>
+    <role>Haley Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>91351</tmdbid>
+    <imdbid>nm0405103</imdbid>
+  </actor>
+  <actor>
+    <name>Ariel Winter</name>
+    <role>Alex Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>42160</tmdbid>
+    <imdbid>nm1736769</imdbid>
+  </actor>
+  <actor>
+    <name>Nolan Gould</name>
+    <role>Luke Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>147710</tmdbid>
+    <imdbid>nm2188098</imdbid>
+  </actor>
+  <actor>
+    <name>Rico Rodriguez</name>
+    <role>Manny Delgado</role>
+    <type>Actor</type>
+    <tmdbid>206737</tmdbid>
+    <imdbid>nm2349726</imdbid>
+  </actor>
+  <actor>
+    <name>Aubrey Anderson-Emmons</name>
+    <role>Lily Tucker-Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>1224228</tmdbid>
+    <imdbid>nm4682545</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Maguire</name>
+    <role>Joe Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>1676910</tmdbid>
+    <imdbid>nm7505356</imdbid>
+  </actor>
+  <actor>
+    <name>Reid Ewing</name>
+    <role>Dylan Marshall</role>
+    <type>Actor</type>
+    <tmdbid>967692</tmdbid>
+    <imdbid>nm2938641</imdbid>
+  </actor>
+  <rating>7.6</rating>
+  <year>2009</year>
+  <mpaa>TV-PG</mpaa>
+  <imdb_id>tt1442437</imdb_id>
+  <tmdbid>1421</tmdbid>
+  <premiered>2009-09-23</premiered>
+  <releasedate>2009-09-23</releasedate>
+  <enddate>2020-04-08</enddate>
+  <runtime>25</runtime>
+  <genre>喜剧</genre>
+  <studio>ABC</studio>
+  <zap2itid>EP01158124</zap2itid>
+  <tvrageid>22622</tvrageid>
+  <uniqueid type="Imdb">tt1442437</uniqueid>
+  <uniqueid type="Tmdb">1421</uniqueid>
+  <uniqueid type="Zap2It">EP01158124</uniqueid>
+  <uniqueid type="Tvdb">95011</uniqueid>
+  <tvdbid>95011</tvdbid>
+  <uniqueid type="TvRage">22622</uniqueid>
+  <id>95011</id>
+  <episodeguide>
+    <url cache="95011.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/95011/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Ended</status>
+</tvshow>

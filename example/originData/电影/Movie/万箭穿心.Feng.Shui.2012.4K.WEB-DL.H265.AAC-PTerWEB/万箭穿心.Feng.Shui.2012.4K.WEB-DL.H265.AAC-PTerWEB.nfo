@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[90年代的武汉，一个普通家庭里丈夫马学武（焦刚 饰）是一家国企的厂办主任，妻子李宝莉（颜丙燕 饰）是汉正街的一名小贩，二人还有一个儿子小宝。一次企业分房让这个家庭住进了新房，岂料从搬家那天起一系列让人始料未及的变故接踵而来：丈夫马学武提出离婚、妻子发现丈夫出轨、无家可归的婆婆要入住新家，终于马学武在一系列打击下走向了自杀之路。宝莉的好友小景（赵倩 饰）把一切厄运归结于新房的风水不好，称之“万箭穿心”，个性倔强的李宝莉不愿妥协，决意撑起这个家……]]></plot>
+  <outline><![CDATA[剧情 家庭]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-19 21:37:39</dateadded>
+  <title>万箭穿心</title>
+  <originaltitle>万箭穿心</originaltitle>
+  <actor>
+    <name>Yan Bingyan</name>
+    <role>李宝莉</role>
+    <type>Actor</type>
+    <tmdbid>1191753</tmdbid>
+  </actor>
+  <actor>
+    <name>Chen Gang</name>
+    <role>建建</role>
+    <type>Actor</type>
+    <tmdbid>1384276</tmdbid>
+  </actor>
+  <actor>
+    <name>Jiao Gang</name>
+    <role>马学武</role>
+    <type>Actor</type>
+    <tmdbid>150155</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Xian</name>
+    <role>马小宝</role>
+    <type>Actor</type>
+    <tmdbid>1384277</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhao Qian</name>
+    <role>万小景</role>
+    <type>Actor</type>
+    <tmdbid>1384278</tmdbid>
+  </actor>
+  <director tmdbid="1270261">Wang Jing</director>
+  <rating>7.6</rating>
+  <year>2012</year>
+  <imdbid>tt2513344</imdbid>
+  <tmdbid>265439</tmdbid>
+  <premiered>2012-11-16</premiered>
+  <releasedate>2012-11-16</releasedate>
+  <runtime>104</runtime>
+  <tagline>剧情 家庭</tagline>
+  <country>China</country>
+  <genre>家庭</genre>
+  <genre>剧情</genre>
+  <uniqueid type="Tmdb">265439</uniqueid>
+  <uniqueid type="Imdb">tt2513344</uniqueid>
+  <id>tt2513344</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>15944305</bitrate>
+        <width>3840</width>
+        <height>1632</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6258</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>124316</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

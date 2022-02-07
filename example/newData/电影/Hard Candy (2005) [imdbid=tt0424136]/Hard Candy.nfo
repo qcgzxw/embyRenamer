@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[天真甜美的十四岁少女海莉（艾伦·佩吉 Ellen Page 饰）在网络上认识了三十二岁的摄影师杰夫（帕特里克·威尔森 Patrick Wilson 饰），二人相约在咖啡馆见面，相谈甚欢。海莉主动要求去杰夫家，让他为自己拍摄艺术照片，杰夫欣然从命。聊天喝酒之后，杰夫突然眩 晕倒地，醒来发现自己竟被五花大绑。原来海莉是有备而来，就是要惩罚在网络上勾引未成年少女的恋童癖。海莉在屋中搜寻杰夫进行不法行为的证据，并为他实施了阉割手术。中途邻居太太（吴珊卓 Sandra Oh 饰）来访，也被海莉成功蒙混过关。随着海莉惩罚计划的一步步展开，杰夫的真面目也逐渐浮出水面……本片被提名英国独立电影奖最佳外国独立制片电影，并获西班牙加泰罗尼亚电影节最佳剧本、最佳电影及最受观众喜爱影片奖。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-02 06:59:39</dateadded>
+  <title>水果硬糖</title>
+  <originaltitle>Hard Candy</originaltitle>
+  <actor>
+    <name>Elliot Page</name>
+    <role>Hayley Stark</role>
+    <type>Actor</type>
+    <tmdbid>27578</tmdbid>
+  </actor>
+  <actor>
+    <name>Patrick Wilson</name>
+    <role>Jeff Kohlver</role>
+    <type>Actor</type>
+    <tmdbid>17178</tmdbid>
+    <imdbid>nm0933940</imdbid>
+  </actor>
+  <actor>
+    <name>Sandra Oh</name>
+    <role>Judy Tokuda</role>
+    <type>Actor</type>
+    <tmdbid>25540</tmdbid>
+    <imdbid>nm0644897</imdbid>
+  </actor>
+  <actor>
+    <name>Odessa Rae</name>
+    <role>Janelle Rogers</role>
+    <type>Actor</type>
+    <tmdbid>27579</tmdbid>
+  </actor>
+  <actor>
+    <name>G.J. Echternkamp</name>
+    <role>Nighthawks Clerk</role>
+    <type>Actor</type>
+    <tmdbid>27580</tmdbid>
+  </actor>
+  <actor>
+    <name>Jennifer Holmes</name>
+    <type>Actor</type>
+    <tmdbid>106666</tmdbid>
+  </actor>
+  <director tmdbid="27571">David Slade</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hvx0m2SeOSk</trailer>
+  <rating>7.1</rating>
+  <year>2005</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0424136</imdbid>
+  <tmdbid>2652</tmdbid>
+  <premiered>2005-01-14</premiered>
+  <releasedate>2005-01-14</releasedate>
+  <criticrating>67</criticrating>
+  <runtime>104</runtime>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>惊悚</genre>
+  <studio>Vulcan Productions</studio>
+  <uniqueid type="Tmdb">2652</uniqueid>
+  <uniqueid type="Imdb">tt0424136</uniqueid>
+  <id>tt0424136</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10967514</bitrate>
+        <width>1920</width>
+        <height>816</height>
+        <aspect>40:17</aspect>
+        <aspectratio>40:17</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>103</duration>
+        <durationinseconds>6224</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

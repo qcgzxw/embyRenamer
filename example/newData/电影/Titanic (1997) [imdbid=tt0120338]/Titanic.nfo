@@ -1,0 +1,806 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[1912年4月15日，载着1316号乘客和891名船员的豪华巨轮“泰坦尼克号”与冰山相撞而沉没，这场海难被认为是20世纪人间十大灾难之一。1985年，“泰坦尼克号”的沉船遗骸在北大西洋两英里半的海底被发现。美国探险家洛维特亲自潜入海底，在船舱的墙壁上看见了一幅画，洛维持的发现立刻引起了一位老妇人的注意。已经是101岁高龄的露丝称她就是画中的少女。在潜水舱里，露丝开始叙述当年在船上发生的故事。年轻的贵族少女露丝与穷画家杰克不顾世俗的偏见坠入爱河，然而就在1912年4月14日，一个风平浪静的夜晚，泰坦尼克号撞上了冰山，“永不沉没的”泰坦尼克号面临沉船的命运，罗丝和杰克刚萌芽的爱情也将经历生死的考验，最终不得不永世相隔。老态龙钟的罗丝讲完这段哀恸天地的爱情之后，把那串价值连城的项链“海洋之心”沉入海底，让它陪着杰克和这段爱情长眠海底。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-21 11:37:42</dateadded>
+  <title>泰坦尼克号</title>
+  <originaltitle>Titanic</originaltitle>
+  <actor>
+    <name>Leonardo DiCaprio</name>
+    <role>Jack Dawson</role>
+    <type>Actor</type>
+    <tmdbid>6193</tmdbid>
+    <imdbid>nm0000138</imdbid>
+  </actor>
+  <actor>
+    <name>Kate Winslet</name>
+    <role>Rose DeWitt Bukater</role>
+    <type>Actor</type>
+    <tmdbid>204</tmdbid>
+    <imdbid>nm0000701</imdbid>
+  </actor>
+  <actor>
+    <name>Billy Zane</name>
+    <role>Cal Hockley</role>
+    <type>Actor</type>
+    <tmdbid>1954</tmdbid>
+  </actor>
+  <actor>
+    <name>Kathy Bates</name>
+    <role>Molly Brown</role>
+    <type>Actor</type>
+    <tmdbid>8534</tmdbid>
+    <imdbid>nm0000870</imdbid>
+  </actor>
+  <actor>
+    <name>Frances Fisher</name>
+    <role>Ruth Dewitt Bukater</role>
+    <type>Actor</type>
+    <tmdbid>3713</tmdbid>
+  </actor>
+  <actor>
+    <name>Gloria Stuart</name>
+    <role>Old Rose</role>
+    <type>Actor</type>
+    <tmdbid>8535</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Paxton</name>
+    <role>Brock Lovett</role>
+    <type>Actor</type>
+    <tmdbid>2053</tmdbid>
+  </actor>
+  <actor>
+    <name>Bernard Hill</name>
+    <role>Edward Smith</role>
+    <type>Actor</type>
+    <tmdbid>1369</tmdbid>
+  </actor>
+  <actor>
+    <name>David Warner</name>
+    <role>Spicer Lovejoy</role>
+    <type>Actor</type>
+    <tmdbid>2076</tmdbid>
+    <imdbid>nm0001831</imdbid>
+  </actor>
+  <actor>
+    <name>Victor Garber</name>
+    <role>Thomas Andrews</role>
+    <type>Actor</type>
+    <tmdbid>8536</tmdbid>
+    <imdbid>nm0001255</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Hyde</name>
+    <role>Bruce Ismay</role>
+    <type>Actor</type>
+    <tmdbid>8537</tmdbid>
+  </actor>
+  <actor>
+    <name>Lewis Abernathy</name>
+    <role>Lewis Bodine</role>
+    <type>Actor</type>
+    <tmdbid>8538</tmdbid>
+  </actor>
+  <actor>
+    <name>Suzy Amis</name>
+    <role>Lizzy Calvert</role>
+    <type>Actor</type>
+    <tmdbid>2179</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Cascone</name>
+    <role>Bobby Buell</role>
+    <type>Actor</type>
+    <tmdbid>8539</tmdbid>
+  </actor>
+  <actor>
+    <name>Danny Nucci</name>
+    <role>Fabrizio</role>
+    <type>Actor</type>
+    <tmdbid>8540</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Barry</name>
+    <role>Tommy Ryan</role>
+    <type>Actor</type>
+    <tmdbid>8541</tmdbid>
+  </actor>
+  <actor>
+    <name>Lew Palter</name>
+    <role>Isidor Straus</role>
+    <type>Actor</type>
+    <tmdbid>8543</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric Braeden</name>
+    <role>John Astor</role>
+    <type>Actor</type>
+    <tmdbid>8544</tmdbid>
+  </actor>
+  <actor>
+    <name>Ewan Stewart</name>
+    <role>First Officer Murdoch</role>
+    <type>Actor</type>
+    <tmdbid>3071</tmdbid>
+  </actor>
+  <actor>
+    <name>Bernard Fox</name>
+    <role>Archibald Gracie</role>
+    <type>Actor</type>
+    <tmdbid>8545</tmdbid>
+  </actor>
+  <actor>
+    <name>Ioan Gruffudd</name>
+    <role>Fifth Officer Lowe</role>
+    <type>Actor</type>
+    <tmdbid>65524</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonny Phillips</name>
+    <role>Second Officer Lightoller</role>
+    <type>Actor</type>
+    <tmdbid>8547</tmdbid>
+  </actor>
+  <actor>
+    <name>Edward Fletcher</name>
+    <role>Sixth Officer Moody</role>
+    <type>Actor</type>
+    <tmdbid>8548</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott G. Anderson</name>
+    <role>Frederick Fleet</role>
+    <type>Actor</type>
+    <tmdbid>8549</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin East</name>
+    <role>Reginald Lee</role>
+    <type>Actor</type>
+    <tmdbid>8550</tmdbid>
+  </actor>
+  <actor>
+    <name>Gregory Cooke</name>
+    <role>Jack Phillips</role>
+    <type>Actor</type>
+    <tmdbid>8551</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexandrea Owens</name>
+    <role>Cora Cartmell</role>
+    <type>Actor</type>
+    <tmdbid>8552</tmdbid>
+  </actor>
+  <actor>
+    <name>Seth Adkins</name>
+    <role>Three-Year-Old Boy</role>
+    <type>Actor</type>
+    <tmdbid>8553</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Ensign</name>
+    <role>Benjamin Guggenheim</role>
+    <type>Actor</type>
+    <tmdbid>1080265</tmdbid>
+  </actor>
+  <actor>
+    <name>Anatoly M. Sagalevitch</name>
+    <role>Anatoly Milkailavich</role>
+    <type>Actor</type>
+    <tmdbid>93215</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Hub</name>
+    <role>Slovakian Father</role>
+    <type>Actor</type>
+    <tmdbid>1054325</tmdbid>
+    <imdbid>nm0399103</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Lindsay Chapman</name>
+    <role>Chief Officer Wilde</role>
+    <type>Actor</type>
+    <tmdbid>41266</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Graham</name>
+    <role>Quartermaster Rowe</role>
+    <type>Actor</type>
+    <tmdbid>26863</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Brightwell</name>
+    <role>Quartermaster Hichens</role>
+    <type>Actor</type>
+    <tmdbid>1256066</tmdbid>
+  </actor>
+  <actor>
+    <name>Craig Kelly</name>
+    <role>Harold Bride</role>
+    <type>Actor</type>
+    <tmdbid>18019</tmdbid>
+  </actor>
+  <actor>
+    <name>Ron Donachie</name>
+    <role>Master at Arms</role>
+    <type>Actor</type>
+    <tmdbid>63141</tmdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Chatton</name>
+    <role>Madeleine Astor</role>
+    <type>Actor</type>
+    <tmdbid>55957</tmdbid>
+  </actor>
+  <actor>
+    <name>Fannie Brett</name>
+    <role>Madame Aubert</role>
+    <type>Actor</type>
+    <tmdbid>1697673</tmdbid>
+  </actor>
+  <actor>
+    <name>Jenette Goldstein</name>
+    <role>Irish Mommy</role>
+    <type>Actor</type>
+    <tmdbid>3981</tmdbid>
+  </actor>
+  <actor>
+    <name>Camilla Overbye Roos</name>
+    <role>Helga Dahl</role>
+    <type>Actor</type>
+    <tmdbid>230727</tmdbid>
+  </actor>
+  <actor>
+    <name>Linda Kerns</name>
+    <role>Third Class Woman</role>
+    <type>Actor</type>
+    <tmdbid>1741441</tmdbid>
+  </actor>
+  <actor>
+    <name>Amy Gaipa</name>
+    <role>Trudy Bolt</role>
+    <type>Actor</type>
+    <tmdbid>1741443</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Jarvis</name>
+    <role>Duff Gordon</role>
+    <type>Actor</type>
+    <tmdbid>126363</tmdbid>
+  </actor>
+  <actor>
+    <name>Rosalind Ayres</name>
+    <role>Lady Duff Gordon</role>
+    <type>Actor</type>
+    <tmdbid>29796</tmdbid>
+  </actor>
+  <actor>
+    <name>Rochelle Rose</name>
+    <role>Countess of Rothes</role>
+    <type>Actor</type>
+    <tmdbid>1359176</tmdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Evans-Jones</name>
+    <role>Wallace Hartley</role>
+    <type>Actor</type>
+    <tmdbid>1741450</tmdbid>
+  </actor>
+  <actor>
+    <name>Rocky Taylor</name>
+    <role>Bert Cartmell</role>
+    <type>Actor</type>
+    <tmdbid>40740</tmdbid>
+  </actor>
+  <actor>
+    <name>Liam Tuohy</name>
+    <role>Chief Baker Joughin</role>
+    <type>Actor</type>
+    <tmdbid>1741459</tmdbid>
+  </actor>
+  <actor>
+    <name>Simon Crane</name>
+    <role>Fourth Officer Boxhall</role>
+    <type>Actor</type>
+    <tmdbid>142325</tmdbid>
+  </actor>
+  <actor>
+    <name>James Lancaster</name>
+    <role>Father Byles</role>
+    <type>Actor</type>
+    <tmdbid>178557</tmdbid>
+  </actor>
+  <actor>
+    <name>Elsa Raven</name>
+    <role>Ida Strauss</role>
+    <type>Actor</type>
+    <tmdbid>172280</tmdbid>
+  </actor>
+  <actor>
+    <name>Reece P. Thompson III</name>
+    <role>Irish Little Boy</role>
+    <type>Actor</type>
+    <tmdbid>1741663</tmdbid>
+  </actor>
+  <actor>
+    <name>Laramie Landis</name>
+    <role>Irish Little Girl</role>
+    <type>Actor</type>
+    <tmdbid>1741664</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Rafael Truitt</name>
+    <role>Yaley</role>
+    <type>Actor</type>
+    <tmdbid>1227544</tmdbid>
+  </actor>
+  <actor>
+    <name>John Walcutt</name>
+    <role>First Class Husband</role>
+    <type>Actor</type>
+    <tmdbid>131833</tmdbid>
+  </actor>
+  <actor>
+    <name>Terry Forrestal</name>
+    <role>Chief Engineer Bell</role>
+    <type>Actor</type>
+    <tmdbid>1106167</tmdbid>
+  </actor>
+  <actor>
+    <name>Derek Lea</name>
+    <role>Leading Stoker Barrett</role>
+    <type>Actor</type>
+    <tmdbid>97436</tmdbid>
+    <imdbid>nm0494749</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Ashton</name>
+    <role>John Hutchinson</role>
+    <type>Actor</type>
+    <tmdbid>179771</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Nepita</name>
+    <role>Elevator Operator</role>
+    <type>Actor</type>
+    <tmdbid>1398372</tmdbid>
+  </actor>
+  <actor>
+    <name>Brendan Connolly</name>
+    <role>Scotland Road Steward</role>
+    <type>Actor</type>
+    <tmdbid>1741666</tmdbid>
+  </actor>
+  <actor>
+    <name>David Cronnelly</name>
+    <role>Crewman</role>
+    <type>Actor</type>
+    <tmdbid>40695</tmdbid>
+  </actor>
+  <actor>
+    <name>Garth Wilton</name>
+    <role>First Class Waiter</role>
+    <type>Actor</type>
+    <tmdbid>1228414</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Fox</name>
+    <role>Steward #1</role>
+    <type>Actor</type>
+    <tmdbid>1741667</tmdbid>
+  </actor>
+  <actor>
+    <name>Nick Meaney</name>
+    <role>Steward #2</role>
+    <type>Actor</type>
+    <tmdbid>1228858</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Owers</name>
+    <role>Steward #3</role>
+    <type>Actor</type>
+    <tmdbid>1741669</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Capri</name>
+    <role>Steward #4</role>
+    <type>Actor</type>
+    <tmdbid>1520024</tmdbid>
+  </actor>
+  <actor>
+    <name>Marc Cass</name>
+    <role>Hold Steward #1</role>
+    <type>Actor</type>
+    <tmdbid>592618</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Herbert</name>
+    <role>Hold Steward #2</role>
+    <type>Actor</type>
+    <tmdbid>1409298</tmdbid>
+  </actor>
+  <actor>
+    <name>Emmett James</name>
+    <role>First Class Steward</role>
+    <type>Actor</type>
+    <tmdbid>1693876</tmdbid>
+  </actor>
+  <actor>
+    <name>Chris Byrne</name>
+    <role>Stairwell Steward</role>
+    <type>Actor</type>
+    <tmdbid>930944</tmdbid>
+  </actor>
+  <actor>
+    <name>Oliver Page</name>
+    <role>Steward Barnes</role>
+    <type>Actor</type>
+    <tmdbid>1330728</tmdbid>
+  </actor>
+  <actor>
+    <name>James Garrett</name>
+    <role>Porter</role>
+    <type>Actor</type>
+    <tmdbid>1338541</tmdbid>
+  </actor>
+  <actor>
+    <name>Erik Holland</name>
+    <role>Olaf Dahl</role>
+    <type>Actor</type>
+    <tmdbid>157989</tmdbid>
+  </actor>
+  <actor>
+    <name>Jari Kinnunen</name>
+    <role>Bjorn Gunderson</role>
+    <type>Actor</type>
+    <tmdbid>1741673</tmdbid>
+  </actor>
+  <actor>
+    <name>Anders Falk</name>
+    <role>Olaus Gunderson</role>
+    <type>Actor</type>
+    <tmdbid>1741675</tmdbid>
+  </actor>
+  <actor>
+    <name>Barry Dennen</name>
+    <role>Praying Man</role>
+    <type>Actor</type>
+    <tmdbid>72742</tmdbid>
+    <imdbid>nm0219336</imdbid>
+  </actor>
+  <actor>
+    <name>Vern Urich</name>
+    <role>Man in Water</role>
+    <type>Actor</type>
+    <tmdbid>1741678</tmdbid>
+  </actor>
+  <actor>
+    <name>Rebecca Klingler</name>
+    <role>Mother at Stern</role>
+    <type>Actor</type>
+    <tmdbid>944614</tmdbid>
+    <imdbid>nm0459799</imdbid>
+  </actor>
+  <actor>
+    <name>Tricia O'Neil</name>
+    <role>Woman</role>
+    <type>Actor</type>
+    <tmdbid>42198</tmdbid>
+  </actor>
+  <actor>
+    <name>Kathleen S. Dunn</name>
+    <role>Woman in Water</role>
+    <type>Actor</type>
+    <tmdbid>1402008</tmdbid>
+  </actor>
+  <actor>
+    <name>Romeo Francis</name>
+    <role>Syrian Man</role>
+    <type>Actor</type>
+    <tmdbid>1741688</tmdbid>
+  </actor>
+  <actor>
+    <name>Mandana Marino</name>
+    <role>Syrian Woman</role>
+    <type>Actor</type>
+    <tmdbid>1741689</tmdbid>
+  </actor>
+  <actor>
+    <name>Van Ling</name>
+    <role>Chinese Man</role>
+    <type>Actor</type>
+    <tmdbid>30148</tmdbid>
+  </actor>
+  <actor>
+    <name>Bjørn Olsen</name>
+    <role>Olaf</role>
+    <type>Actor</type>
+    <tmdbid>1741690</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Pettersson</name>
+    <role>Sven</role>
+    <type>Actor</type>
+    <tmdbid>1741691</tmdbid>
+  </actor>
+  <actor>
+    <name>Shay Duffin</name>
+    <role>Pubkeeper</role>
+    <type>Actor</type>
+    <tmdbid>42290</tmdbid>
+  </actor>
+  <actor>
+    <name>Greg Ellis</name>
+    <role>Carpathia Steward</role>
+    <type>Actor</type>
+    <tmdbid>4031</tmdbid>
+  </actor>
+  <actor>
+    <name>Diana Morgan</name>
+    <role>News Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1233436</tmdbid>
+  </actor>
+  <actor>
+    <name>Kris Andersson</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1741692</tmdbid>
+  </actor>
+  <actor>
+    <name>Bobbie Bates</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1741693</tmdbid>
+  </actor>
+  <actor>
+    <name>Aaron James Cash</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1741694</tmdbid>
+  </actor>
+  <actor>
+    <name>Anne Fletcher</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>29214</tmdbid>
+  </actor>
+  <actor>
+    <name>Edmond Alan Forsyth</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1741697</tmdbid>
+  </actor>
+  <actor>
+    <name>Andie Hicks</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1367898</tmdbid>
+  </actor>
+  <actor>
+    <name>Scott Hislop</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1028668</tmdbid>
+  </actor>
+  <actor>
+    <name>Stan Mazin</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1741700</tmdbid>
+  </actor>
+  <actor>
+    <name>Lisa Ratzin</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>1741701</tmdbid>
+  </actor>
+  <actor>
+    <name>Julene Renee</name>
+    <role>Dancer</role>
+    <type>Actor</type>
+    <tmdbid>42286</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Walsh</name>
+    <role>Irish Man</role>
+    <type>Actor</type>
+    <tmdbid>2246672</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Boyd</name>
+    <role>First Class Woman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>146182</tmdbid>
+  </actor>
+  <actor>
+    <name>James Cameron</name>
+    <role>Steerage Dancer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2710</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike Butters</name>
+    <role>Musician / Baker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2134</tmdbid>
+  </actor>
+  <actor>
+    <name>Bruno Campolo</name>
+    <role>First Class Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1639429</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin De La Noy</name>
+    <role>Third Officer Pitman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>75804</tmdbid>
+  </actor>
+  <actor>
+    <name>Tony Kenny</name>
+    <role>Deckhand (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1337466</tmdbid>
+  </actor>
+  <actor>
+    <name>Sean Lawlor</name>
+    <role>Charles Hendrickson (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2472</tmdbid>
+  </actor>
+  <actor>
+    <name>Don Lynch</name>
+    <role>Frederick Spedden (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1029818</tmdbid>
+  </actor>
+  <actor>
+    <name>Johnny Martin</name>
+    <role>Rescue Boat Crewman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>63423</tmdbid>
+  </actor>
+  <actor>
+    <name>Ryan McClurkin</name>
+    <role>Second Class Passenger / Engine Room Crewman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1741729</tmdbid>
+  </actor>
+  <actor>
+    <name>Meghan McLeod</name>
+    <role>First Class Passenger (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1190237</tmdbid>
+  </actor>
+  <actor>
+    <name>Mike O'Neal</name>
+    <role>Engine Room Crewman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1730068</tmdbid>
+  </actor>
+  <actor>
+    <name>Phil Parlapiano</name>
+    <role>Button Accordionist (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1275173</tmdbid>
+  </actor>
+  <actor>
+    <name>Steven Quale</name>
+    <role>Engine Room Crewman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>93214</tmdbid>
+  </actor>
+  <actor>
+    <name>R. Gern Trowbridge</name>
+    <role>Drowning Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1741742</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia Rosewood</name>
+    <role>Mary Marvin (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>11670</tmdbid>
+  </actor>
+  <actor>
+    <name>John Slade</name>
+    <role>Ohio Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1741740</tmdbid>
+  </actor>
+  <director tmdbid="2710">James Cameron</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=MESJ0uJx4BQ</trailer>
+  <rating>7.8</rating>
+  <year>1997</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt0120338</imdbid>
+  <tmdbid>597</tmdbid>
+  <premiered>1997-11-18</premiered>
+  <releasedate>1997-11-18</releasedate>
+  <criticrating>89</criticrating>
+  <runtime>195</runtime>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <studio>Paramount</studio>
+  <studio>Lightstorm Entertainment</studio>
+  <studio>20th Century Fox</studio>
+  <uniqueid type="Tmdb">597</uniqueid>
+  <uniqueid type="Imdb">tt0120338</uniqueid>
+  <id>tt0120338</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>19865919</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976042</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>194</duration>
+        <durationinseconds>11694</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>224000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs&amp;eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

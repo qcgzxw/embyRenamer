@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[朱晓生在美定居，娶洋女子玛莎为妻并育有一子。为尽中国孝道，他将老父亲从大陆接到美国共享天伦。朱老先生是北京太极拳总教头，因与玛莎不和而外出打工。一次偶然的机会，朱老先生不凡的太极功底一进成为美国的新闻。当朱晓生从警察局领回父亲时，玛莎也有愧疚之情，可朱老先生没有回独生子家，而是回到他自己的简陋住所度过寂寞晚年。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-03 23:22:01</dateadded>
+  <title>推手</title>
+  <originaltitle>推手</originaltitle>
+  <actor>
+    <name>Sihung Lung</name>
+    <role>Mr. Chu</role>
+    <type>Actor</type>
+    <tmdbid>1623</tmdbid>
+    <imdbid>nm0485950</imdbid>
+  </actor>
+  <actor>
+    <name>Wang Bozhao</name>
+    <role>Alex Chu</role>
+    <type>Actor</type>
+    <tmdbid>2040625</tmdbid>
+  </actor>
+  <actor>
+    <name>Deb Snyder</name>
+    <role>Martha Chu</role>
+    <type>Actor</type>
+    <tmdbid>1570978</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Lai</name>
+    <role>Mrs. Chen</role>
+    <type>Actor</type>
+    <tmdbid>113794</tmdbid>
+  </actor>
+  <actor>
+    <name>Fanny De Luz</name>
+    <role>Linda</role>
+    <type>Actor</type>
+    <tmdbid>1570979</tmdbid>
+  </actor>
+  <actor>
+    <name>Haan Lee</name>
+    <role>Jeremy Chu</role>
+    <type>Actor</type>
+    <tmdbid>1570980</tmdbid>
+  </actor>
+  <actor>
+    <name>Wang Hung-Chang</name>
+    <role>Boss Huang</role>
+    <type>Actor</type>
+    <tmdbid>929239</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeanne Kuo Chang</name>
+    <role>New Cooking Teacher</role>
+    <type>Actor</type>
+    <tmdbid>1570981</tmdbid>
+  </actor>
+  <actor>
+    <name>James Lou</name>
+    <role>Mr. Chao</role>
+    <type>Actor</type>
+    <tmdbid>1570982</tmdbid>
+  </actor>
+  <director tmdbid="1614" imdbid="nm0000487">Ang Lee</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=4GJ9OTI4GSY</trailer>
+  <rating>7.2</rating>
+  <year>1991</year>
+  <imdbid>tt0105652</imdbid>
+  <tmdbid>25296</tmdbid>
+  <premiered>1991-12-07</premiered>
+  <releasedate>1991-12-07</releasedate>
+  <criticrating>82</criticrating>
+  <runtime>105</runtime>
+  <country>Taiwan</country>
+  <country>United States of America</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <studio>Ang Lee Productions</studio>
+  <studio>Central Motion Picture Corporation</studio>
+  <set>
+    <name>李安 Ang Lee</name>
+  </set>
+  <uniqueid type="Tmdb">25296</uniqueid>
+  <uniqueid type="Imdb">tt0105652</uniqueid>
+  <id>tt0105652</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>7272682</bitrate>
+        <width>1920</width>
+        <height>1036</height>
+        <aspect>480:259</aspect>
+        <aspectratio>480:259</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>105</duration>
+        <durationinseconds>6307</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>320000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

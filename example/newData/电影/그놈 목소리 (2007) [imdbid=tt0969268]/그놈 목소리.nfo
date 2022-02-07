@@ -1,0 +1,176 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　电视台主播韩京培（薛景求 饰）的儿子被绑架了，绑匪（姜东元 饰）打来电话要求1亿韩元的赎金，京培不得讨价还价。京培与妻子智善（金南珠 饰）都十分着急，无奈之下只好报警了，警方很快展开了调查。  　　警方的高科技调查方式对于狡猾的罪犯来说根本起不了作用。唯一有用的证据便是绑匪打来电话时被录下了的嗓音。一把低沉而且毫无感情的嗓音。案情一直没有进展，京培与妻子连儿子的死活都不知道。于是京培决定自己出面，偷偷向绑匪提出见面的要求。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-11-22 07:57:25</dateadded>
+  <title>那家伙的声音</title>
+  <originaltitle>그놈 목소리</originaltitle>
+  <actor>
+    <name>Sol Kyung-gu</name>
+    <role>Han Kyung-Bae</role>
+    <type>Actor</type>
+    <tmdbid>85008</tmdbid>
+    <imdbid>nm0812555</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Nam-ju</name>
+    <role>Oh Ji-Sun</role>
+    <type>Actor</type>
+    <tmdbid>1036295</tmdbid>
+    <imdbid>nm1045791</imdbid>
+  </actor>
+  <actor>
+    <name>Kang Dong-won</name>
+    <role>Kidnapper</role>
+    <type>Actor</type>
+    <tmdbid>83014</tmdbid>
+    <imdbid>nm1504868</imdbid>
+  </actor>
+  <actor>
+    <name>Song Young-chang</name>
+    <role>Captain No</role>
+    <type>Actor</type>
+    <tmdbid>88298</tmdbid>
+    <imdbid>nm0814309</imdbid>
+  </actor>
+  <actor>
+    <name>Ko Su-hee</name>
+    <role>Cha Su-Hee</role>
+    <type>Actor</type>
+    <tmdbid>1190229</tmdbid>
+    <imdbid>nm1963874</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Yeong-cheol</name>
+    <role>Kim Wook-Jung</role>
+    <type>Actor</type>
+    <tmdbid>69080</tmdbid>
+    <imdbid>nm1116906</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Kwang-kyu</name>
+    <role>Chief detective</role>
+    <type>Actor</type>
+    <tmdbid>224673</tmdbid>
+  </actor>
+  <actor>
+    <name>Yoon Je-moon</name>
+    <role>Priest</role>
+    <type>Actor</type>
+    <tmdbid>141541</tmdbid>
+    <imdbid>nm2175143</imdbid>
+  </actor>
+  <actor>
+    <name>Na Moon-hee</name>
+    <role>Kyung-Bae's mother</role>
+    <type>Actor</type>
+    <tmdbid>123808</tmdbid>
+    <imdbid>nm0618520</imdbid>
+  </actor>
+  <actor>
+    <name>Jeon Hye-jin</name>
+    <role>Lee Ae-sook</role>
+    <type>Actor</type>
+    <tmdbid>150126</tmdbid>
+    <imdbid>nm2246822</imdbid>
+  </actor>
+  <actor>
+    <name>Choi Jung-yoon</name>
+    <role>TV announcer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>123020</tmdbid>
+    <imdbid>nm0158762</imdbid>
+  </actor>
+  <actor>
+    <name>Park Hyun-young</name>
+    <role>Patrol Officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>577394</tmdbid>
+    <imdbid>nm0661843</imdbid>
+  </actor>
+  <actor>
+    <name>Gook Dong-seok</name>
+    <role>Taxi Driver (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1299474</tmdbid>
+    <imdbid>nm6026330</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Young-hee</name>
+    <role>Deaconess (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2621220</tmdbid>
+    <imdbid>nm11543923</imdbid>
+  </actor>
+  <director tmdbid="568019" imdbid="nm1252754">Park Jin-pyo</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=pBSz2W-FtyI</trailer>
+  <rating>6.8</rating>
+  <year>2007</year>
+  <imdbid>tt0969268</imdbid>
+  <tmdbid>104176</tmdbid>
+  <premiered>2007-02-01</premiered>
+  <releasedate>2007-02-01</releasedate>
+  <criticrating>46</criticrating>
+  <runtime>125</runtime>
+  <country>South Korea</country>
+  <genre>惊悚</genre>
+  <genre>剧情</genre>
+  <studio>Zip Cinema</studio>
+  <studio>CJ Entertainment</studio>
+  <uniqueid type="Tmdb">104176</uniqueid>
+  <uniqueid type="Imdb">tt0969268</uniqueid>
+  <id>tt0969268</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>7772050</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>124</duration>
+        <durationinseconds>7478</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

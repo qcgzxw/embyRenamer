@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[漫画家姜草创作剧本的《怪物2》将由谁来执导一直是众人好奇的焦点，续集中“怪物”从汉江“翻腾”到了首尔的清溪川，剧情方面则将延续前作的亲情主题。而同时还有一只来路不明的“怪物”也将粉墨登场，由申正源导演的《陷阱》讲述的一个十年没有发生过犯罪案件的平静山村中惊现食人怪兽的故事，演员阵容已经确定下了严泰雄、张项善、尹宰文以及金有美，为了达到今年12月上映的目标剧组本月底就将远赴美国旧金山市开机。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-02 15:33:22</dateadded>
+  <title>汉江怪物2</title>
+  <originaltitle>괴물 2</originaltitle>
+  <director tmdbid="1653158">Park Myeong-Chan</director>
+  <rating>0</rating>
+  <year>2019</year>
+  <imdbid>tt1164997</imdbid>
+  <tmdbid>335993</tmdbid>
+  <runtime>120</runtime>
+  <country>Singapore</country>
+  <country>South Korea</country>
+  <genre>恐怖</genre>
+  <studio>Chungeorahm Film</studio>
+  <studio>Boku Films</studio>
+  <uniqueid type="Tmdb">335993</uniqueid>
+  <uniqueid type="Imdb">tt1164997</uniqueid>
+  <id>tt1164997</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10738064</bitrate>
+        <width>1920</width>
+        <height>1040</height>
+        <aspect>24:13</aspect>
+        <aspectratio>24:13</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>119</duration>
+        <durationinseconds>7194</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

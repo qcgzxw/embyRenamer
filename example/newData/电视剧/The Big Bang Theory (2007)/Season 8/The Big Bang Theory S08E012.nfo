@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[潘妮和艾美带李奥纳德和薛尔登去采购服装，两个男生学到妥协的重要性。 霍华想办法让紧张的雷杰分心。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 17:53:32</dateadded>
+  <title>The Space Probe Disintegration</title>
+  <director>Mark Cendrowski</director>
+  <rating>7.3</rating>
+  <year>2015</year>
+  <imdbid>tt3823254</imdbid>
+  <tvdbid>5066301</tvdbid>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>1065728622</tvrageid>
+  <uniqueid type="Imdb">tt3823254</uniqueid>
+  <uniqueid type="Tvdb">5066301</uniqueid>
+  <uniqueid type="TvRage">1065728622</uniqueid>
+  <episode>12</episode>
+  <season>8</season>
+  <aired>2015-01-08</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1585424</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>19</duration>
+        <durationinseconds>1198</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

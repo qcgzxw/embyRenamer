@@ -1,0 +1,848 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[1858年，美国南北战争前两年。德国赏金猎人金·舒尔茨（克里斯托弗·瓦尔兹 Christoph Waltz饰）从贩奴商人手中买下黑奴姜戈（杰米·福克斯 Jamie Foxx饰），让其重获自由。舒尔茨实则是要把姜戈培养成无法无天的赏金猎人，为其缉拿各种通缉犯以换取报酬。姜戈的唯一条件是：从暴虐的糖果庄园主卡尔文·坎迪（莱昂纳多·迪卡普里奥 Leonardo DiCaprio饰）手中解救出自己的妻子布鲁姆希尔达（凯丽·华盛顿 Kerry Washington饰）。本片是昆汀向1966年由塞吉奥·考布西执导的经典意大利西部片《迪亚戈》的致敬之作。鬼才导演痞子昆丁三年磨一剑，继《无耻混蛋》后又一巨制力作。本片延续昆汀一贯低调奢华的风格，处处可见奇思妙想的幽默元素和血腥野性的动作场面，更有强档群戏，豪华卡司，可谓看点十足。]]></plot>
+  <outline><![CDATA[生命、自由与复仇的追求。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2018-09-10 09:27:52</dateadded>
+  <title>被解救的姜戈</title>
+  <originaltitle>Django Unchained</originaltitle>
+  <actor>
+    <name>Jamie Foxx</name>
+    <role>Django Freeman</role>
+    <type>Actor</type>
+    <tmdbid>134</tmdbid>
+    <imdbid>nm0004937</imdbid>
+  </actor>
+  <actor>
+    <name>Christoph Waltz</name>
+    <role>Dr. King Schultz</role>
+    <type>Actor</type>
+    <tmdbid>27319</tmdbid>
+    <imdbid>nm0910607</imdbid>
+  </actor>
+  <actor>
+    <name>Leonardo DiCaprio</name>
+    <role>Calvin J. Candie</role>
+    <type>Actor</type>
+    <tmdbid>6193</tmdbid>
+    <imdbid>nm0000138</imdbid>
+  </actor>
+  <actor>
+    <name>Kerry Washington</name>
+    <role>Broomhilda von Shaft</role>
+    <type>Actor</type>
+    <tmdbid>11703</tmdbid>
+    <imdbid>nm0913488</imdbid>
+  </actor>
+  <actor>
+    <name>Samuel L. Jackson</name>
+    <role>Stephen</role>
+    <type>Actor</type>
+    <tmdbid>2231</tmdbid>
+    <imdbid>nm0000168</imdbid>
+  </actor>
+  <actor>
+    <name>Walton Goggins</name>
+    <role>Billy Crash</role>
+    <type>Actor</type>
+    <tmdbid>27740</tmdbid>
+  </actor>
+  <actor>
+    <name>Dennis Christopher</name>
+    <role>Leonide Moguy</role>
+    <type>Actor</type>
+    <tmdbid>27770</tmdbid>
+    <imdbid>nm0160550</imdbid>
+  </actor>
+  <actor>
+    <name>James Remar</name>
+    <role>Butch Pooch / Ace Speck</role>
+    <type>Actor</type>
+    <tmdbid>1736</tmdbid>
+    <imdbid>nm0001664</imdbid>
+  </actor>
+  <actor>
+    <name>David Steen</name>
+    <role>Mr. Stonesipher</role>
+    <type>Actor</type>
+    <tmdbid>1067187</tmdbid>
+  </actor>
+  <actor>
+    <name>Dana Gourrier</name>
+    <role>Cora</role>
+    <type>Actor</type>
+    <tmdbid>1133063</tmdbid>
+    <imdbid>nm4158239</imdbid>
+  </actor>
+  <actor>
+    <name>Nichole Galicia</name>
+    <role>Sheba</role>
+    <type>Actor</type>
+    <tmdbid>1037108</tmdbid>
+    <imdbid>nm0732945</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Cayouette</name>
+    <role>Lara Lee Candie-Fitzwilly</role>
+    <type>Actor</type>
+    <tmdbid>565498</tmdbid>
+    <imdbid>nm0147312</imdbid>
+  </actor>
+  <actor>
+    <name>Ato Essandoh</name>
+    <role>D'Artagnan</role>
+    <type>Actor</type>
+    <tmdbid>5377</tmdbid>
+    <imdbid>nm1017951</imdbid>
+  </actor>
+  <actor>
+    <name>Sammi Rotibi</name>
+    <role>Rodney</role>
+    <type>Actor</type>
+    <tmdbid>19300</tmdbid>
+    <imdbid>nm0745353</imdbid>
+  </actor>
+  <actor>
+    <name>Clay Donahue Fontenot</name>
+    <role>Big Fred's Opponent</role>
+    <type>Actor</type>
+    <tmdbid>1291797</tmdbid>
+    <imdbid>nm0285047</imdbid>
+  </actor>
+  <actor>
+    <name>Escalante Lundy</name>
+    <role>Big Fred</role>
+    <type>Actor</type>
+    <tmdbid>1129647</tmdbid>
+    <imdbid>nm2931166</imdbid>
+  </actor>
+  <actor>
+    <name>Miriam F. Glover</name>
+    <role>Betina</role>
+    <type>Actor</type>
+    <tmdbid>1291798</tmdbid>
+    <imdbid>nm4134721</imdbid>
+  </actor>
+  <actor>
+    <name>Don Johnson</name>
+    <role>Spencer "Big Daddy" Bennett</role>
+    <type>Actor</type>
+    <tmdbid>25129</tmdbid>
+    <imdbid>nm0000467</imdbid>
+  </actor>
+  <actor>
+    <name>Franco Nero</name>
+    <role>Amerigo Vessepi</role>
+    <type>Actor</type>
+    <tmdbid>22383</tmdbid>
+    <imdbid>nm0626259</imdbid>
+  </actor>
+  <actor>
+    <name>James Russo</name>
+    <role>Dicky Speck</role>
+    <type>Actor</type>
+    <tmdbid>785</tmdbid>
+    <imdbid>nm0751638</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Wopat</name>
+    <role>U.S. Marshall Gill Tatum</role>
+    <type>Actor</type>
+    <tmdbid>114293</tmdbid>
+    <imdbid>nm0941374</imdbid>
+  </actor>
+  <actor>
+    <name>Don Stroud</name>
+    <role>Sheriff Bill Sharp</role>
+    <type>Actor</type>
+    <tmdbid>69494</tmdbid>
+    <imdbid>nm0835144</imdbid>
+  </actor>
+  <actor>
+    <name>Amber Tamblyn</name>
+    <role>Daughter of a Son of a Gunfighter</role>
+    <type>Actor</type>
+    <tmdbid>20354</tmdbid>
+    <imdbid>nm0848554</imdbid>
+  </actor>
+  <actor>
+    <name>Bruce Dern</name>
+    <role>Old Man Carrucan</role>
+    <type>Actor</type>
+    <tmdbid>6905</tmdbid>
+    <imdbid>nm0001136</imdbid>
+  </actor>
+  <actor>
+    <name>M.C. Gainey</name>
+    <role>Big John Brittle</role>
+    <type>Actor</type>
+    <tmdbid>22132</tmdbid>
+    <imdbid>nm0301370</imdbid>
+  </actor>
+  <actor>
+    <name>Cooper Huckabee</name>
+    <role>Lil Raj Brittle</role>
+    <type>Actor</type>
+    <tmdbid>156653</tmdbid>
+    <imdbid>nm0399590</imdbid>
+  </actor>
+  <actor>
+    <name>Doc Duhame</name>
+    <role>Ellis Brittle</role>
+    <type>Actor</type>
+    <tmdbid>139993</tmdbid>
+    <imdbid>nm0241031</imdbid>
+  </actor>
+  <actor>
+    <name>Jonah Hill</name>
+    <role>Bag Head #2</role>
+    <type>Actor</type>
+    <tmdbid>21007</tmdbid>
+    <imdbid>nm1706767</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Horsley</name>
+    <role>Sheriff Gus (Snowy Snow)</role>
+    <type>Actor</type>
+    <tmdbid>47859</tmdbid>
+    <imdbid>nm0395448</imdbid>
+  </actor>
+  <actor>
+    <name>Zoë Bell</name>
+    <role>Tracker</role>
+    <type>Actor</type>
+    <tmdbid>20494</tmdbid>
+    <imdbid>nm1057928</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Bowen</name>
+    <role>Tracker</role>
+    <type>Actor</type>
+    <tmdbid>2234</tmdbid>
+    <imdbid>nm0100889</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Carradine</name>
+    <role>Tracker</role>
+    <type>Actor</type>
+    <tmdbid>62036</tmdbid>
+    <imdbid>nm0001019</imdbid>
+  </actor>
+  <actor>
+    <name>Jake Garber</name>
+    <role>Tracker</role>
+    <type>Actor</type>
+    <tmdbid>1206190</tmdbid>
+    <imdbid>nm0304948</imdbid>
+  </actor>
+  <actor>
+    <name>Ted Neeley</name>
+    <role>Tracker</role>
+    <type>Actor</type>
+    <tmdbid>72739</tmdbid>
+    <imdbid>nm0624189</imdbid>
+  </actor>
+  <actor>
+    <name>James Parks</name>
+    <role>Tracker</role>
+    <type>Actor</type>
+    <tmdbid>87312</tmdbid>
+    <imdbid>nm0662960</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Savini</name>
+    <role>Tracker</role>
+    <type>Actor</type>
+    <tmdbid>11161</tmdbid>
+    <imdbid>nm0767741</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Parks</name>
+    <role>The LeQuint Dickey Mining Co. Employee</role>
+    <type>Actor</type>
+    <tmdbid>2536</tmdbid>
+    <imdbid>nm0662981</imdbid>
+  </actor>
+  <actor>
+    <name>John Jarratt</name>
+    <role>The Le Quint Dickey Mining Co. Employee</role>
+    <type>Actor</type>
+    <tmdbid>45210</tmdbid>
+    <imdbid>nm0418877</imdbid>
+  </actor>
+  <actor>
+    <name>Quentin Tarantino</name>
+    <role>The LeQuint Dickey Mining Co. Employee</role>
+    <type>Actor</type>
+    <tmdbid>138</tmdbid>
+    <imdbid>nm0000233</imdbid>
+  </actor>
+  <actor>
+    <name>Amari Cheatom</name>
+    <role>Roy</role>
+    <type>Actor</type>
+    <tmdbid>239107</tmdbid>
+    <imdbid>nm3281146</imdbid>
+  </actor>
+  <actor>
+    <name>Keith Jefferson</name>
+    <role>Pudgy Ralph</role>
+    <type>Actor</type>
+    <tmdbid>1198202</tmdbid>
+    <imdbid>nm0420201</imdbid>
+  </actor>
+  <actor>
+    <name>Marcus Henderson</name>
+    <role>Big Sid</role>
+    <type>Actor</type>
+    <tmdbid>1291961</tmdbid>
+    <imdbid>nm5436968</imdbid>
+  </actor>
+  <actor>
+    <name>Lil Chuuch</name>
+    <role>Slave on Chain Gang</role>
+    <type>Actor</type>
+    <tmdbid>1200963</tmdbid>
+    <imdbid>nm2803907</imdbid>
+  </actor>
+  <actor>
+    <name>Kinetic</name>
+    <role>Franklin</role>
+    <type>Actor</type>
+    <tmdbid>148693</tmdbid>
+    <imdbid>nm1572552</imdbid>
+  </actor>
+  <actor>
+    <name>Louise Stratten</name>
+    <role>Daughtrey Saloon Girl</role>
+    <type>Actor</type>
+    <tmdbid>95979</tmdbid>
+    <imdbid>nm0091673</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Robillard</name>
+    <role>Saloon Keeper Pete</role>
+    <type>Actor</type>
+    <tmdbid>5150</tmdbid>
+    <imdbid>nm0732152</imdbid>
+  </actor>
+  <actor>
+    <name>Shana Stein</name>
+    <role>Daughtrey Bitty</role>
+    <type>Actor</type>
+    <tmdbid>756648</tmdbid>
+    <imdbid>nm0825630</imdbid>
+  </actor>
+  <actor>
+    <name>Shannon Hazlett</name>
+    <role>Daughtrey Saloon Girl</role>
+    <type>Actor</type>
+    <tmdbid>562669</tmdbid>
+    <imdbid>nm1933447</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Lucarelli</name>
+    <role>Daughtrey Rifleman</role>
+    <type>Actor</type>
+    <tmdbid>1116951</tmdbid>
+    <imdbid>nm0524049</imdbid>
+  </actor>
+  <actor>
+    <name>Victoria Thomas</name>
+    <role>Daughtrey Woman</role>
+    <type>Actor</type>
+    <tmdbid>547</tmdbid>
+    <imdbid>nm0859625</imdbid>
+  </actor>
+  <actor>
+    <name>Grace Collins</name>
+    <role>Grace Bennett</role>
+    <type>Actor</type>
+    <tmdbid>1551615</tmdbid>
+  </actor>
+  <actor>
+    <name>Sharon Pierre-Louis</name>
+    <role>Little Jody</role>
+    <type>Actor</type>
+    <tmdbid>1446043</tmdbid>
+    <imdbid>nm3168260</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Berry</name>
+    <role>Willard</role>
+    <type>Actor</type>
+    <tmdbid>1173099</tmdbid>
+    <imdbid>nm0077512</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Collins</name>
+    <role>Randy</role>
+    <type>Actor</type>
+    <tmdbid>1044195</tmdbid>
+    <imdbid>nm0172461</imdbid>
+  </actor>
+  <actor>
+    <name>Dane Rhodes</name>
+    <role>Tennessee Redfish</role>
+    <type>Actor</type>
+    <tmdbid>60874</tmdbid>
+    <imdbid>nm1694797</imdbid>
+  </actor>
+  <actor>
+    <name>J.D. Evermore</name>
+    <role>O.D.</role>
+    <type>Actor</type>
+    <tmdbid>129868</tmdbid>
+    <imdbid>nm0263625</imdbid>
+  </actor>
+  <actor>
+    <name>Rex Linn</name>
+    <role>Tennessee Harry</role>
+    <type>Actor</type>
+    <tmdbid>16937</tmdbid>
+    <imdbid>nm0513010</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Bacall</name>
+    <role>Smitty Bacall</role>
+    <type>Actor</type>
+    <tmdbid>58744</tmdbid>
+    <imdbid>nm0045209</imdbid>
+  </actor>
+  <actor>
+    <name>Ronan Hice</name>
+    <type>Actor</type>
+    <tmdbid>1291965</tmdbid>
+    <imdbid>nm4954957</imdbid>
+  </actor>
+  <actor>
+    <name>Ned Bellamy</name>
+    <role>Wilson</role>
+    <type>Actor</type>
+    <tmdbid>2141</tmdbid>
+    <imdbid>nm0068709</imdbid>
+  </actor>
+  <actor>
+    <name>Dave Coennen</name>
+    <role>Mr. Eigglesworth</role>
+    <type>Actor</type>
+    <tmdbid>1291968</tmdbid>
+    <imdbid>nm0168770</imdbid>
+  </actor>
+  <actor>
+    <name>Danièle Watts</name>
+    <role>Coco</role>
+    <type>Actor</type>
+    <tmdbid>1424334</tmdbid>
+    <imdbid>nm0915125</imdbid>
+  </actor>
+  <actor>
+    <name>Jon Eyez</name>
+    <type>Actor</type>
+    <tmdbid>231857</tmdbid>
+    <imdbid>nm1208510</imdbid>
+  </actor>
+  <actor>
+    <name>Omar J. Dorsey</name>
+    <role>Chicken Charlie</role>
+    <type>Actor</type>
+    <tmdbid>59844</tmdbid>
+    <imdbid>nm0234174</imdbid>
+  </actor>
+  <actor>
+    <name>Evan Parke</name>
+    <role>Baghead</role>
+    <type>Actor</type>
+    <tmdbid>3493</tmdbid>
+    <imdbid>nm0661992</imdbid>
+  </actor>
+  <actor>
+    <name>Craig Stark</name>
+    <role>Tommy Gilles</role>
+    <type>Actor</type>
+    <tmdbid>183519</tmdbid>
+    <imdbid>nm0823149</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Brown</name>
+    <role>Hoot Peters</role>
+    <type>Actor</type>
+    <tmdbid>1204219</tmdbid>
+    <imdbid>nm0113156</imdbid>
+  </actor>
+  <actor>
+    <name>Ritchie Montgomery</name>
+    <role>Overseer Johnny Jerome</role>
+    <type>Actor</type>
+    <tmdbid>52885</tmdbid>
+    <imdbid>nm0599907</imdbid>
+  </actor>
+  <actor>
+    <name>Nicholas Dashnaw</name>
+    <role>Baghead</role>
+    <type>Actor</type>
+    <tmdbid>1292475</tmdbid>
+    <imdbid>nm0202003</imdbid>
+  </actor>
+  <actor>
+    <name>Jarrod Bunch</name>
+    <role>Banjo</role>
+    <type>Actor</type>
+    <tmdbid>65121</tmdbid>
+    <imdbid>nm0120349</imdbid>
+  </actor>
+  <actor>
+    <name>Edrick Browne</name>
+    <role>Joshua</role>
+    <type>Actor</type>
+    <tmdbid>112286</tmdbid>
+    <imdbid>nm1517407</imdbid>
+  </actor>
+  <actor>
+    <name>Kerry Sims</name>
+    <type>Actor</type>
+    <tmdbid>1493736</tmdbid>
+    <imdbid>nm3513760</imdbid>
+  </actor>
+  <actor>
+    <name>Jamal Duff</name>
+    <role>Tatum</role>
+    <type>Actor</type>
+    <tmdbid>74931</tmdbid>
+    <imdbid>nm1410687</imdbid>
+  </actor>
+  <actor>
+    <name>Todd Allen</name>
+    <role>Dollar Bill</role>
+    <type>Actor</type>
+    <tmdbid>21484</tmdbid>
+    <imdbid>nm0021112</imdbid>
+  </actor>
+  <actor>
+    <name>Lewis Smith</name>
+    <role>Jinglebells Cody</role>
+    <type>Actor</type>
+    <tmdbid>36041</tmdbid>
+    <imdbid>nm0809095</imdbid>
+  </actor>
+  <actor>
+    <name>Keniaryn Mitchell</name>
+    <type>Actor</type>
+    <tmdbid>1551617</tmdbid>
+  </actor>
+  <actor>
+    <name>Jakel Marshall</name>
+    <role>House Servant</role>
+    <type>Actor</type>
+    <tmdbid>1292476</tmdbid>
+    <imdbid>nm5450467</imdbid>
+  </actor>
+  <actor>
+    <name>Carl Singleton</name>
+    <role>Carl / House Servant</role>
+    <type>Actor</type>
+    <tmdbid>1292477</tmdbid>
+    <imdbid>nm5450420</imdbid>
+  </actor>
+  <actor>
+    <name>Ashley Toman</name>
+    <type>Actor</type>
+    <tmdbid>1551618</tmdbid>
+  </actor>
+  <actor>
+    <name>John McConnell</name>
+    <type>Actor</type>
+    <tmdbid>16459</tmdbid>
+    <imdbid>nm0566279</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Amos</name>
+    <role>Beard Man (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1516962</tmdbid>
+    <imdbid>nm2003255</imdbid>
+  </actor>
+  <actor>
+    <name>Monica Rene'e Anderson</name>
+    <role>House Servant (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1292478</tmdbid>
+    <imdbid>nm4938931</imdbid>
+  </actor>
+  <actor>
+    <name>Marsha Stephanie Blake</name>
+    <role>House Slave (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>187946</tmdbid>
+    <imdbid>nm1750371</imdbid>
+  </actor>
+  <actor>
+    <name>Catherine Lambert</name>
+    <role>House Slave (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>75491</tmdbid>
+    <imdbid>nm2170164</imdbid>
+  </actor>
+  <actor>
+    <name>Deborah Ayorinde</name>
+    <role>Cleopatra Pony (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1292479</tmdbid>
+    <imdbid>nm3831822</imdbid>
+  </actor>
+  <actor>
+    <name>Takara Clark</name>
+    <role>Pony (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1292483</tmdbid>
+    <imdbid>nm4563248</imdbid>
+  </actor>
+  <actor>
+    <name>Kimberley Drummond</name>
+    <role>Pony (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1292489</tmdbid>
+    <imdbid>nm3712840</imdbid>
+  </actor>
+  <actor>
+    <name>Tenaj L. Jackson</name>
+    <role>Pony (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1292493</tmdbid>
+    <imdbid>nm4206711</imdbid>
+  </actor>
+  <actor>
+    <name>Carl Bailey</name>
+    <role>Mandingo Overseer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1170892</tmdbid>
+    <imdbid>nm4670290</imdbid>
+  </actor>
+  <actor>
+    <name>Ross P. Cook</name>
+    <role>Overseer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1292485</tmdbid>
+    <imdbid>nm5137871</imdbid>
+  </actor>
+  <actor>
+    <name>Gregory Allen Gabroy</name>
+    <role>Overseer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1292491</tmdbid>
+    <imdbid>nm2713559</imdbid>
+  </actor>
+  <actor>
+    <name>Seth Bailey</name>
+    <role>Daughtrey Rifleman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1292480</tmdbid>
+    <imdbid>nm2220002</imdbid>
+  </actor>
+  <actor>
+    <name>David G. Baker</name>
+    <role>Slave Master (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1512188</tmdbid>
+    <imdbid>nm5141373</imdbid>
+  </actor>
+  <actor>
+    <name>Richie J. Ladner</name>
+    <role>Slave Master (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1292495</tmdbid>
+    <imdbid>nm2313440</imdbid>
+  </actor>
+  <actor>
+    <name>Glen Warner</name>
+    <role>Slave Overseer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1037373</tmdbid>
+    <imdbid>nm4206690</imdbid>
+  </actor>
+  <actor>
+    <name>Kesha Bullard</name>
+    <role>Crazy Sadie (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1292481</tmdbid>
+    <imdbid>nm1569488</imdbid>
+  </actor>
+  <actor>
+    <name>Edward J. Clare</name>
+    <role>Plantation Owner (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1292482</tmdbid>
+    <imdbid>nm3945152</imdbid>
+  </actor>
+  <actor>
+    <name>Jordon Michael Corbin</name>
+    <role>Samson (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1292486</tmdbid>
+    <imdbid>nm5215140</imdbid>
+  </actor>
+  <actor>
+    <name>Mike DeMille</name>
+    <role>Cowboy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1292487</tmdbid>
+    <imdbid>nm3903069</imdbid>
+  </actor>
+  <actor>
+    <name>Gary Grubbs</name>
+    <role>Bob Gibbs (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>68180</tmdbid>
+    <imdbid>nm0344196</imdbid>
+  </actor>
+  <actor>
+    <name>Justin Hall</name>
+    <role>Goat Farmer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1292492</tmdbid>
+    <imdbid>nm4031496</imdbid>
+  </actor>
+  <actor>
+    <name>Sandra Linz</name>
+    <role>Town Woman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1292490</tmdbid>
+    <imdbid>nm3719447</imdbid>
+  </actor>
+  <actor>
+    <name>Kasey James</name>
+    <role>Mule Wrangler (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1292494</tmdbid>
+    <imdbid>nm3267562</imdbid>
+  </actor>
+  <actor>
+    <name>Skipper Landry</name>
+    <role>Cleo Master (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1292496</tmdbid>
+    <imdbid>nm4767737</imdbid>
+  </actor>
+  <actor>
+    <name>Elton LeBlanc</name>
+    <role>Cleo Club Patron / Polly Wolly Singer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1011212</tmdbid>
+    <imdbid>nm1891863</imdbid>
+  </actor>
+  <actor>
+    <name>Cindy Mah</name>
+    <role>Chinese Boy (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1589685</tmdbid>
+  </actor>
+  <actor>
+    <name>Johnny Otto</name>
+    <role>Dr. Brown (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1601441</tmdbid>
+    <imdbid>nm1720532</imdbid>
+  </actor>
+  <actor>
+    <name>Belinda Owino</name>
+    <role>Candyland House Servant (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1485552</tmdbid>
+    <imdbid>nm4477795</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Ulano</name>
+    <role>Gabby the Banker (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1547309</tmdbid>
+    <imdbid>nm0880360</imdbid>
+  </actor>
+  <actor>
+    <name>Misty Upham</name>
+    <role>Minnie (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>64136</tmdbid>
+    <imdbid>nm1130728</imdbid>
+  </actor>
+  <director tmdbid="138" imdbid="nm0000233">Quentin Tarantino</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=hKMp7B-tt6w</trailer>
+  <rating>8.4</rating>
+  <year>2012</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt1853728</imdbid>
+  <tmdbid>68718</tmdbid>
+  <premiered>2012-12-25</premiered>
+  <releasedate>2012-12-25</releasedate>
+  <criticrating>87</criticrating>
+  <runtime>166</runtime>
+  <tagline>生命、自由与复仇的追求。</tagline>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>西部</genre>
+  <studio>The Weinstein Company</studio>
+  <studio>Columbia Pictures</studio>
+  <uniqueid type="Tmdb">68718</uniqueid>
+  <uniqueid type="Imdb">tt1853728</uniqueid>
+  <id>tt1853728</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>13371435</bitrate>
+        <width>1920</width>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>165</duration>
+        <durationinseconds>9957</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

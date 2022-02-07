@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Dawn 和 Mick 将举办一年一度的舞会最后一晚派对，这是英国退欧后的完美解药。 但不是每个人都在同一张歌单上唱歌]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-17 14:13:20</dateadded>
+  <title>普罗姆最后一夜</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>GuestStar</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>GuestStar</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Bamshad Abedi-Amin</name>
+    <role>Actor</role>
+    <type>GuestStar</type>
+    <tmdbid>3113028</tmdbid>
+  </actor>
+  <actor>
+    <name>Sarah Parish</name>
+    <role>Dawn</role>
+    <type>GuestStar</type>
+    <tmdbid>17693</tmdbid>
+  </actor>
+  <actor>
+    <name>Julian Glover</name>
+    <role>Ralph</role>
+    <type>GuestStar</type>
+    <tmdbid>740</tmdbid>
+  </actor>
+  <actor>
+    <name>Jack Wolfe</name>
+    <role>Oliver</role>
+    <type>GuestStar</type>
+    <tmdbid>2503093</tmdbid>
+  </actor>
+  <actor>
+    <name>Debra Gillett</name>
+    <role>Penny</role>
+    <type>GuestStar</type>
+    <tmdbid>141946</tmdbid>
+  </actor>
+  <director>Matt Lipsey</director>
+  <rating>8</rating>
+  <year>2021</year>
+  <imdbid>tt14543438</imdbid>
+  <tvdbid>8417827</tvdbid>
+  <runtime>28</runtime>
+  <uniqueid type="Tvdb">8417827</uniqueid>
+  <uniqueid type="Imdb">tt14543438</uniqueid>
+  <episode>6</episode>
+  <season>6</season>
+  <aired>2021-06-14</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3113009</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>28</duration>
+        <durationinseconds>1709</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

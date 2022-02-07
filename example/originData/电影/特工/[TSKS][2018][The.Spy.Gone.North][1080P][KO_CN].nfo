@@ -1,0 +1,280 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[1990年代中期，暗号「黑金星」的南韩「国家安全企划部」情报员，假扮成南韩商人跟北韩进行商业交易，藉此渗透北韩军事单位，打探核开发情报，他得在最危险的地方，赢得敌方的信任，没想到一心只想完成任务的他，却在不自觉中陷入南北韩权力高层间的恐怖阴谋。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-11-21 12:33:32</dateadded>
+  <title>特工</title>
+  <originaltitle>공작</originaltitle>
+  <actor>
+    <name>Hwang Jung-min</name>
+    <role>Heuk Geum-seong / Park Seok-yeong</role>
+    <type>Actor</type>
+    <tmdbid>68903</tmdbid>
+    <imdbid>nm1058565</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Sung-min</name>
+    <role>Ri Myeong-woon</role>
+    <type>Actor</type>
+    <tmdbid>141548</tmdbid>
+    <imdbid>nm1520129</imdbid>
+  </actor>
+  <actor>
+    <name>Cho Jin-woong</name>
+    <role>Choi Hak-seong</role>
+    <type>Actor</type>
+    <tmdbid>138336</tmdbid>
+    <imdbid>nm2437361</imdbid>
+  </actor>
+  <actor>
+    <name>Ju Ji-hoon</name>
+    <role>Section Chief Jeong Moo-taek</role>
+    <type>Actor</type>
+    <tmdbid>150125</tmdbid>
+    <imdbid>nm2352559</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Hong-pa</name>
+    <role>Kim Myeong-soo</role>
+    <type>Actor</type>
+    <tmdbid>1287909</tmdbid>
+    <imdbid>nm3789450</imdbid>
+  </actor>
+  <actor>
+    <name>Jung So-ri</name>
+    <role>Lee Hong-seol</role>
+    <type>Actor</type>
+    <tmdbid>2386668</tmdbid>
+  </actor>
+  <actor>
+    <name>Ki Joo-bong</name>
+    <role>President Kim Jong-il</role>
+    <type>Actor</type>
+    <tmdbid>64454</tmdbid>
+    <imdbid>nm1029669</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Eung-soo</name>
+    <role>Department Head Kim</role>
+    <type>Actor</type>
+    <tmdbid>147852</tmdbid>
+    <imdbid>nm1255246</imdbid>
+  </actor>
+  <actor>
+    <name>Park Sung-woong</name>
+    <role>Han Chang-joo</role>
+    <type>Actor</type>
+    <tmdbid>139493</tmdbid>
+    <imdbid>nm3663864</imdbid>
+  </actor>
+  <actor>
+    <name>Kim So-jin</name>
+    <role>Chang-joo's Wife</role>
+    <type>Actor</type>
+    <tmdbid>1887382</tmdbid>
+    <imdbid>nm6194018</imdbid>
+  </actor>
+  <actor>
+    <name>Chae Yong</name>
+    <role>Hwang Byeong-cheol</role>
+    <type>Actor</type>
+    <tmdbid>2386669</tmdbid>
+  </actor>
+  <actor>
+    <name>Park Jin-yeong</name>
+    <role>Kim Jang-hyeok</role>
+    <type>Actor</type>
+    <tmdbid>2240620</tmdbid>
+  </actor>
+  <actor>
+    <name>Nam Moon-chul</name>
+    <role>NA Member Park</role>
+    <type>Actor</type>
+    <tmdbid>1627313</tmdbid>
+    <imdbid>nm3738748</imdbid>
+  </actor>
+  <actor>
+    <name>Choi Byung-mo </name>
+    <role>NA Member Yoo</role>
+    <type>Actor</type>
+    <tmdbid>1607301</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim In-woo</name>
+    <role>Kiyohara</role>
+    <type>Actor</type>
+    <tmdbid>1830800</tmdbid>
+    <imdbid>nm6844576</imdbid>
+  </actor>
+  <actor>
+    <name>Jung Gi-sub</name>
+    <role>NIS Planning Agent #1 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2240612</tmdbid>
+  </actor>
+  <actor>
+    <name>Choi Jung-in</name>
+    <role>Seok-yeong's Wife</role>
+    <type>Actor</type>
+    <tmdbid>1311160</tmdbid>
+    <imdbid>nm2917914</imdbid>
+  </actor>
+  <actor>
+    <name>Min Moo-je</name>
+    <role>North Korean Spy</role>
+    <type>Actor</type>
+    <tmdbid>2313834</tmdbid>
+    <imdbid>nm10049465</imdbid>
+  </actor>
+  <actor>
+    <name>Kang Jun-Seok</name>
+    <role>Panmunjeom NKPA (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2342926</tmdbid>
+  </actor>
+  <actor>
+    <name>Oh Jin-ha</name>
+    <role>Ad Studio Reporter #7 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2144710</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Hyo-ri</name>
+    <role>Herself</role>
+    <type>Actor</type>
+    <tmdbid>1254019</tmdbid>
+    <imdbid>nm1585893</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Dae-jung</name>
+    <role>Himself - Politician (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2266228</tmdbid>
+    <imdbid>nm7534844</imdbid>
+  </actor>
+  <actor>
+    <name>Lee Hoi-chang</name>
+    <role>Himself - Politician (archive footage) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2386686</tmdbid>
+  </actor>
+  <actor>
+    <name>Jin-yeong Park</name>
+    <role>Kim Jang-hyeok</role>
+    <type>Actor</type>
+    <tmdbid>2443716</tmdbid>
+  </actor>
+  <actor>
+    <name>Won-Hee Park</name>
+    <role>Asylum Commander (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2443717</tmdbid>
+  </actor>
+  <actor>
+    <name>Hong Gi-jun</name>
+    <role>Successor Officer (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2467107</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Gyu-baek</name>
+    <role>(uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2478781</tmdbid>
+    <imdbid>nm11044243</imdbid>
+  </actor>
+  <actor>
+    <name>Kim Hyun</name>
+    <role>Real Estate Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1330424</tmdbid>
+    <imdbid>nm6311825</imdbid>
+  </actor>
+  <actor>
+    <name>Oh Gyeong-hwa</name>
+    <role>Market woman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2749940</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Woo-hyun</name>
+    <role>Reporter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2379037</tmdbid>
+  </actor>
+  <actor>
+    <name>Kim Byung-ok</name>
+    <role>Dr. Jang (cameo) (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>77182</tmdbid>
+    <imdbid>nm1366028</imdbid>
+  </actor>
+  <actor>
+    <name>Seol Chang-hee</name>
+    <role>Reporter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2159485</tmdbid>
+  </actor>
+  <actor>
+    <name>Geum Sae-rok</name>
+    <role>President's Bodyguard #3 (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1998034</tmdbid>
+  </actor>
+  <director tmdbid="1024391">Yoon Jong-bin</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=xanjwExEnJw</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=uXIbDj4IvNI</trailer>
+  <rating>7.3</rating>
+  <year>2018</year>
+  <mpaa>HK-IIA</mpaa>
+  <imdbid>tt8290698</imdbid>
+  <tmdbid>517991</tmdbid>
+  <premiered>2018-08-08</premiered>
+  <releasedate>2018-08-08</releasedate>
+  <criticrating>100</criticrating>
+  <runtime>137</runtime>
+  <country>South Korea</country>
+  <genre>剧情</genre>
+  <genre>历史</genre>
+  <genre>惊悚</genre>
+  <studio>Sanai Pictures</studio>
+  <studio>Moonlight Film</studio>
+  <studio>CJ Entertainment</studio>
+  <uniqueid type="TmdbCollection">309259</uniqueid>
+  <tmdbcollectionid>309259</tmdbcollectionid>
+  <uniqueid type="Imdb">tt8290698</uniqueid>
+  <uniqueid type="Tmdb">517991</uniqueid>
+  <id>tt8290698</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>2154364</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>137</duration>
+        <durationinseconds>8239</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>128000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+  <collectionnumber>309259</collectionnumber>
+</movie>

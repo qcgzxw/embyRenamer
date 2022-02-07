@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　影片《师兄撞鬼》是一部香港喜剧片，该片描述警探张彪因追查毒贩被杀，死不瞑目，于是回到凡间请菜鸟警员阿星替他捉拿真凶，条件是助星升官及追到女友。星的上司李紧为彪昔日的冤家拍档，更是其女友的老爸。彪借星之手戏弄李，不料李被毒贩雇来助阵的黑教法师蒙骗将彪困于捉鬼金棺。星和李为救彪遂与法师及毒贩展开一场阴阳大战。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-04 14:16:55</dateadded>
+  <title>师兄撞鬼</title>
+  <originaltitle>師兄撞鬼</originaltitle>
+  <actor>
+    <name>Stephen Chow</name>
+    <role>Hsing</role>
+    <type>Actor</type>
+    <tmdbid>57607</tmdbid>
+    <imdbid>nm0159507</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Tung</name>
+    <role>Chang Piao</role>
+    <type>Actor</type>
+    <tmdbid>44922</tmdbid>
+    <imdbid>nm0876603</imdbid>
+  </actor>
+  <actor>
+    <name>Stanley Fung</name>
+    <role>Li Kam</role>
+    <type>Actor</type>
+    <tmdbid>62419</tmdbid>
+    <imdbid>nm0298689</imdbid>
+  </actor>
+  <actor>
+    <name>Vivian Chan</name>
+    <role>Yu</role>
+    <type>Actor</type>
+    <tmdbid>1145460</tmdbid>
+    <imdbid>nm0151145</imdbid>
+  </actor>
+  <actor>
+    <name>Amy Yip</name>
+    <role>Chin's Supervisor</role>
+    <type>Actor</type>
+    <tmdbid>231909</tmdbid>
+    <imdbid>nm0001867</imdbid>
+  </actor>
+  <actor>
+    <name>Cutie Mui Siu-Wai</name>
+    <role>Police officer counting bullets</role>
+    <type>Actor</type>
+    <tmdbid>1407468</tmdbid>
+    <imdbid>nm00611320</imdbid>
+  </actor>
+  <actor>
+    <name>Chan Lap-Ban</name>
+    <role>Cleaning lady</role>
+    <type>Actor</type>
+    <tmdbid>1042831</tmdbid>
+    <imdbid>nm1333453</imdbid>
+  </actor>
+  <actor>
+    <name>Sunny Fang Kang</name>
+    <role>Tang Lee Yang</role>
+    <type>Actor</type>
+    <tmdbid>1178932</tmdbid>
+  </actor>
+  <actor>
+    <name>Law Ching-Ho</name>
+    <role>Heavenly Judge</role>
+    <type>Actor</type>
+    <tmdbid>1025807</tmdbid>
+  </actor>
+  <director tmdbid="1155649">Lau Sze-Yu</director>
+  <rating>5.9</rating>
+  <year>1990</year>
+  <imdbid>tt0100600</imdbid>
+  <tmdbid>138960</tmdbid>
+  <premiered>1990-07-27</premiered>
+  <releasedate>1990-07-27</releasedate>
+  <runtime>92</runtime>
+  <country>Hong Kong</country>
+  <genre>喜剧</genre>
+  <studio>Cosmopolitan Film Productions Co., Ltd.</studio>
+  <studio>Shaw Brothers</studio>
+  <uniqueid type="Imdb">tt0100600</uniqueid>
+  <uniqueid type="Tmdb">138960</uniqueid>
+  <id>tt0100600</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>7256152</bitrate>
+        <width>1920</width>
+        <height>1032</height>
+        <aspect>80:43</aspect>
+        <aspectratio>80:43</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>92</duration>
+        <durationinseconds>5525</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>320000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>320000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

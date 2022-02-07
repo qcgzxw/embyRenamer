@@ -1,0 +1,603 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[地球的上空突然出现了十二架贝壳状的不明飞行物，悬浮在十二个不同的国家的上空，外星人向人类发出了讯号，但人类却并不能够解读。美国军方找到了语言学家路易斯（艾米·亚当斯 Amy Adams 饰）和物理学家伊恩（杰瑞米·雷纳 Jeremy Renner 饰），希望两人能够合作破解外星人的语言之谜。经过数次的接触，路易斯发现外星人使用了一种极为特殊的圆环状的文字，并逐渐了解了其中的奥妙。由于一直无法确定外星人来到地球的真正目的，中国、俄罗斯等四国决定对外星人发起进攻，美方亦决定放弃研究将全部人员撤离，在这个节骨眼上，路易斯终于明白了外星人的意图，利用外星人赋予她的特殊的“武器”，路易斯以一人之力改变了未来。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-01 12:03:07</dateadded>
+  <title>降临</title>
+  <originaltitle>Arrival</originaltitle>
+  <actor>
+    <name>Amy Adams</name>
+    <role>Dr. Louise Banks</role>
+    <type>Actor</type>
+    <tmdbid>9273</tmdbid>
+    <imdbid>nm0010736</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Renner</name>
+    <role>Ian Donnelly</role>
+    <type>Actor</type>
+    <tmdbid>17604</tmdbid>
+    <imdbid>nm0719637</imdbid>
+  </actor>
+  <actor>
+    <name>Forest Whitaker</name>
+    <role>Colonel G. T. Weber</role>
+    <type>Actor</type>
+    <tmdbid>2178</tmdbid>
+    <imdbid>nm0001845</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Stuhlbarg</name>
+    <role>Agent Halpern</role>
+    <type>Actor</type>
+    <tmdbid>72873</tmdbid>
+    <imdbid>nm0836121</imdbid>
+  </actor>
+  <actor>
+    <name>Tzi Ma</name>
+    <role>General Shang</role>
+    <type>Actor</type>
+    <tmdbid>21629</tmdbid>
+    <imdbid>nm0002245</imdbid>
+  </actor>
+  <actor>
+    <name>Mark O'Brien</name>
+    <role>Captain Marks</role>
+    <type>Actor</type>
+    <tmdbid>225411</tmdbid>
+    <imdbid>nm1975628</imdbid>
+  </actor>
+  <actor>
+    <name>Julia Scarlett Dan</name>
+    <role>Hannah (12 yrs. old)</role>
+    <type>Actor</type>
+    <tmdbid>1522166</tmdbid>
+  </actor>
+  <actor>
+    <name>Abigail Pniowsky</name>
+    <role>Hannah (8 yrs. old)</role>
+    <type>Actor</type>
+    <tmdbid>1646444</tmdbid>
+    <imdbid>nm6786013</imdbid>
+  </actor>
+  <actor>
+    <name>Jadyn Malone</name>
+    <role>Hannah (6 yrs. old)</role>
+    <type>Actor</type>
+    <tmdbid>1646448</tmdbid>
+  </actor>
+  <actor>
+    <name>Carmela Nozza Guizzo</name>
+    <role>Hannah (4 yrs. old)</role>
+    <type>Actor</type>
+    <tmdbid>1646447</tmdbid>
+  </actor>
+  <actor>
+    <name>Andrew Shaver</name>
+    <role>Environmental Tech</role>
+    <type>Actor</type>
+    <tmdbid>90467</tmdbid>
+    <imdbid>nm2359380</imdbid>
+  </actor>
+  <actor>
+    <name>Shawn Campbell</name>
+    <role>News Reporter</role>
+    <type>Actor</type>
+    <tmdbid>83029</tmdbid>
+    <imdbid>nm1341268</imdbid>
+  </actor>
+  <actor>
+    <name>Larry Day</name>
+    <role>Deputy Director of the CIA Dan Ryder</role>
+    <type>Actor</type>
+    <tmdbid>60907</tmdbid>
+    <imdbid>nm0206479</imdbid>
+  </actor>
+  <actor>
+    <name>Pat Kiely</name>
+    <role>Environmental Tech</role>
+    <type>Actor</type>
+    <tmdbid>209819</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Schorpion</name>
+    <role>Dr. Kettler</role>
+    <type>Actor</type>
+    <tmdbid>135993</tmdbid>
+    <imdbid>nm0774891</imdbid>
+  </actor>
+  <actor>
+    <name>Lucas Chartier-Dessert</name>
+    <role>Private Lasky</role>
+    <type>Actor</type>
+    <tmdbid>1752147</tmdbid>
+  </actor>
+  <actor>
+    <name>Lucy Van Oldenbarneveld</name>
+    <role>CNAC Anchor</role>
+    <type>Actor</type>
+    <tmdbid>1752149</tmdbid>
+  </actor>
+  <actor>
+    <name>Sonia Vigneault</name>
+    <role>Dr. J. Bydwell</role>
+    <type>Actor</type>
+    <tmdbid>1195722</tmdbid>
+    <imdbid>nm0897060</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Camacho</name>
+    <role>Richard Riley</role>
+    <type>Actor</type>
+    <tmdbid>7013</tmdbid>
+    <imdbid>nm0131117</imdbid>
+  </actor>
+  <actor>
+    <name>Sabrina Reeves</name>
+    <role>Press Secretary</role>
+    <type>Actor</type>
+    <tmdbid>1752153</tmdbid>
+  </actor>
+  <actor>
+    <name>Russell Yuen</name>
+    <role>Chinese Scientist</role>
+    <type>Actor</type>
+    <tmdbid>29466</tmdbid>
+    <imdbid>nm0004067</imdbid>
+  </actor>
+  <actor>
+    <name>Julian Casey</name>
+    <role>Australian Scientist</role>
+    <type>Actor</type>
+    <tmdbid>29461</tmdbid>
+    <imdbid>nm0143456</imdbid>
+  </actor>
+  <actor>
+    <name>Tony Robinow</name>
+    <role>British Scientist</role>
+    <type>Actor</type>
+    <tmdbid>1050987</tmdbid>
+    <imdbid>nm0732274</imdbid>
+  </actor>
+  <actor>
+    <name>Anana Rydvald</name>
+    <role>Danish Scientist</role>
+    <type>Actor</type>
+    <tmdbid>1476892</tmdbid>
+    <imdbid>nm0753202</imdbid>
+  </actor>
+  <actor>
+    <name>Ruth Chiang</name>
+    <role>Chinese Scientist</role>
+    <type>Actor</type>
+    <tmdbid>1296930</tmdbid>
+    <imdbid>nm1122078</imdbid>
+  </actor>
+  <actor>
+    <name>Sergiy Marchenko</name>
+    <role>Russian Officer</role>
+    <type>Actor</type>
+    <tmdbid>1752190</tmdbid>
+  </actor>
+  <actor>
+    <name>Brittany Teo</name>
+    <role>Student with Smartphone</role>
+    <type>Actor</type>
+    <tmdbid>1646450</tmdbid>
+    <imdbid>nm6572500</imdbid>
+  </actor>
+  <actor>
+    <name>Chistian Jadah</name>
+    <role>Private Combs</role>
+    <type>Actor</type>
+    <tmdbid>1646452</tmdbid>
+  </actor>
+  <actor>
+    <name>Joe Cobden</name>
+    <role>Cryptographer #1</role>
+    <type>Actor</type>
+    <tmdbid>51389</tmdbid>
+    <imdbid>nm0167859</imdbid>
+  </actor>
+  <actor>
+    <name>Lorne Brass</name>
+    <role>Cryptographer #2</role>
+    <type>Actor</type>
+    <tmdbid>20195</tmdbid>
+    <imdbid>nm0105435</imdbid>
+  </actor>
+  <actor>
+    <name>Genevieve Sirois</name>
+    <role>Cryptographer #3</role>
+    <type>Actor</type>
+    <tmdbid>1646454</tmdbid>
+  </actor>
+  <actor>
+    <name>Abdul Ayoola</name>
+    <role>Sierra Leone Representative</role>
+    <type>Actor</type>
+    <tmdbid>229561</tmdbid>
+    <imdbid>nm1553362</imdbid>
+  </actor>
+  <actor>
+    <name>Bineyam Girma</name>
+    <role>Sudanese representative</role>
+    <type>Actor</type>
+    <tmdbid>1548738</tmdbid>
+    <imdbid>nm4107928</imdbid>
+  </actor>
+  <actor>
+    <name>Abdelghafour Elaaziz</name>
+    <role>African Representative</role>
+    <type>Actor</type>
+    <tmdbid>970213</tmdbid>
+    <imdbid>nm3052007</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Esteban</name>
+    <role>Venezuelan Representative</role>
+    <type>Actor</type>
+    <tmdbid>1646457</tmdbid>
+  </actor>
+  <actor>
+    <name>Hal Roberts</name>
+    <role>American TV News Anchor</role>
+    <type>Actor</type>
+    <tmdbid>1646459</tmdbid>
+    <imdbid>nm2664273</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Willson</name>
+    <role>Preacher</role>
+    <type>Actor</type>
+    <tmdbid>1752167</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor Andres Trelles Turgeon</name>
+    <role>Science Team Member #1</role>
+    <type>Actor</type>
+    <tmdbid>1123270</tmdbid>
+    <imdbid>nm3588633</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Nangreaves</name>
+    <role>Science Team Member #2</role>
+    <type>Actor</type>
+    <tmdbid>1646461</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert D. Morais</name>
+    <role>Master Sergeant Douglas</role>
+    <type>Actor</type>
+    <tmdbid>1646463</tmdbid>
+  </actor>
+  <actor>
+    <name>Mustafa Haidari</name>
+    <role>Foreign Correspondent</role>
+    <type>Actor</type>
+    <tmdbid>1349338</tmdbid>
+    <imdbid>nm2860410</imdbid>
+  </actor>
+  <actor>
+    <name>Albert Kwan</name>
+    <role>Chinese Man</role>
+    <type>Actor</type>
+    <tmdbid>450628</tmdbid>
+    <imdbid>nm1429920</imdbid>
+  </actor>
+  <actor>
+    <name>Reda Guerinik</name>
+    <role>Communications Operator #1</role>
+    <type>Actor</type>
+    <tmdbid>1030295</tmdbid>
+    <imdbid>nm2893571</imdbid>
+  </actor>
+  <actor>
+    <name>Adrien Benn</name>
+    <role>Communications Operator #2</role>
+    <type>Actor</type>
+    <tmdbid>1486761</tmdbid>
+    <imdbid>nm3598237</imdbid>
+  </actor>
+  <actor>
+    <name>Sasha Samar</name>
+    <role>Communications Operator #3</role>
+    <type>Actor</type>
+    <tmdbid>1293485</tmdbid>
+    <imdbid>nm1866393</imdbid>
+  </actor>
+  <actor>
+    <name>Kathleen Stavert</name>
+    <role>Communications Operator #4</role>
+    <type>Actor</type>
+    <tmdbid>1646458</tmdbid>
+  </actor>
+  <actor>
+    <name>Kattia Thony</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>1442445</tmdbid>
+  </actor>
+  <actor>
+    <name>Leisa Reid</name>
+    <role>Nurse</role>
+    <type>Actor</type>
+    <tmdbid>1646449</tmdbid>
+  </actor>
+  <actor>
+    <name>Brent Skagford</name>
+    <role>Lieutenant</role>
+    <type>Actor</type>
+    <tmdbid>522169</tmdbid>
+    <imdbid>nm2287876</imdbid>
+  </actor>
+  <actor>
+    <name>Gurdeep Ahluwalia</name>
+    <role>Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1756356</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Dunstan</name>
+    <role>TV Anchor</role>
+    <type>Actor</type>
+    <tmdbid>1725447</tmdbid>
+  </actor>
+  <actor>
+    <name>Dan Duran</name>
+    <role>TV Anchor</role>
+    <type>Actor</type>
+    <tmdbid>193040</tmdbid>
+    <imdbid>nm0243678</imdbid>
+  </actor>
+  <actor>
+    <name>Lori Graham</name>
+    <role>TV Anchor</role>
+    <type>Actor</type>
+    <tmdbid>1756358</tmdbid>
+    <imdbid>nm1186848</imdbid>
+  </actor>
+  <actor>
+    <name>Orla Johannes</name>
+    <role>TV Anchor</role>
+    <type>Actor</type>
+    <tmdbid>1756362</tmdbid>
+  </actor>
+  <actor>
+    <name>Sangita Patel</name>
+    <role>TV Anchor</role>
+    <type>Actor</type>
+    <tmdbid>1652139</tmdbid>
+    <imdbid>nm6415560</imdbid>
+  </actor>
+  <actor>
+    <name>Tammie Sutherland</name>
+    <role>TV Anchor</role>
+    <type>Actor</type>
+    <tmdbid>1646456</tmdbid>
+    <imdbid>nm5720067</imdbid>
+  </actor>
+  <actor>
+    <name>Max Walker</name>
+    <role>TV Anchor</role>
+    <type>Actor</type>
+    <tmdbid>1229849</tmdbid>
+    <imdbid>nm1448653</imdbid>
+  </actor>
+  <actor>
+    <name>John Sanford Moore</name>
+    <role>TV Anchor</role>
+    <type>Actor</type>
+    <tmdbid>92268</tmdbid>
+    <imdbid>nm0601402</imdbid>
+  </actor>
+  <actor>
+    <name>Camille Ross</name>
+    <role>TV Anchor</role>
+    <type>Actor</type>
+    <tmdbid>1756366</tmdbid>
+  </actor>
+  <actor>
+    <name>Ola Sturik</name>
+    <role>TV Anchor</role>
+    <type>Actor</type>
+    <tmdbid>1239345</tmdbid>
+    <imdbid>nm0836380</imdbid>
+  </actor>
+  <actor>
+    <name>Karen Belfo</name>
+    <role>Skype CIA Agent (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1540241</tmdbid>
+    <imdbid>nm0067781</imdbid>
+  </actor>
+  <actor>
+    <name>Chloë Bellande</name>
+    <role>MIT College girl (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1646462</tmdbid>
+    <imdbid>nm3934777</imdbid>
+  </actor>
+  <actor>
+    <name>Philippe Hartmann</name>
+    <role>Halpern's Deputy Director (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1099770</tmdbid>
+    <imdbid>nm4555299</imdbid>
+  </actor>
+  <actor>
+    <name>Laurean Adrian Parau</name>
+    <role>US Army Major (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1646464</tmdbid>
+  </actor>
+  <actor>
+    <name>Nathaly Thibault</name>
+    <role>Gala Guest (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1389916</tmdbid>
+    <imdbid>nm6582569</imdbid>
+  </actor>
+  <actor>
+    <name>Leslie Baker</name>
+    <role>Middle Aged Woman (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>1646460</tmdbid>
+    <imdbid>nm7546909</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Jadah</name>
+    <role>Private Combs</role>
+    <type>Actor</type>
+    <tmdbid>1810138</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex M. Yeuh</name>
+    <role>Japanese Minister</role>
+    <type>Actor</type>
+    <tmdbid>1810141</tmdbid>
+  </actor>
+  <actor>
+    <name>Dave Campbell</name>
+    <role>Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1810151</tmdbid>
+  </actor>
+  <actor>
+    <name>Alexander Da Mota</name>
+    <role>Venezuelan Military</role>
+    <type>Actor</type>
+    <tmdbid>1810153</tmdbid>
+  </actor>
+  <actor>
+    <name>Akul Dang</name>
+    <role>Pakistani Scientist</role>
+    <type>Actor</type>
+    <tmdbid>1810154</tmdbid>
+  </actor>
+  <actor>
+    <name>Frank Fiola</name>
+    <role>Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1810156</tmdbid>
+  </actor>
+  <director tmdbid="137427" imdbid="nm0898288">Denis Villeneuve</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=tFMo3UJ4B4g</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=7W1m5ER3I1Y</trailer>
+  <rating>7.9</rating>
+  <year>2016</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt2543164</imdbid>
+  <tmdbid>329865</tmdbid>
+  <premiered>2016-11-10</premiered>
+  <releasedate>2016-11-10</releasedate>
+  <criticrating>94</criticrating>
+  <runtime>116</runtime>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>科幻</genre>
+  <genre>悬疑</genre>
+  <studio>FilmNation Entertainment</studio>
+  <studio>Lava Bear Films</studio>
+  <studio>Reliance Entertainment</studio>
+  <studio>Xenolinguistics</studio>
+  <studio>21 Laps Entertainment</studio>
+  <uniqueid type="Tmdb">329865</uniqueid>
+  <uniqueid type="Imdb">tt2543164</uniqueid>
+  <id>tt2543164</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>13459013</bitrate>
+        <width>1920</width>
+        <height>808</height>
+        <aspect>240:101</aspect>
+        <aspectratio>240:101</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>116</duration>
+        <durationinseconds>6982</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chs&amp;eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,937 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　当百万大军登陆诺曼底海滩时，一小队由约翰·米勒中尉率领的美军士兵却深入敌区，冒着生命危险拯救一名士兵詹姆斯·瑞恩。詹姆斯·瑞恩是家中四兄弟的老幺，他的三名兄长都在这次战役中相继阵亡。美国作战总指挥部的将领为了不让这位不幸的母亲再承受丧子之痛，决定派一支特别小分队，将她仅存的儿子安全地救出战区。当小分队的士兵们陷入敌区，面对随时降临的各种危险，他们逐渐怀疑这项任务的合理性：为什么这个士兵，就值得让八名士兵去冒死拯救？瑞恩的一条命为何比他们的生命更有价值？但是，尽管他们心存疑惑，他们还是坚决执行上级的命令。]]></plot>
+  <outline><![CDATA[任务是拯救一个人]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-26 00:45:24</dateadded>
+  <title>拯救大兵瑞恩</title>
+  <originaltitle>Saving Private Ryan</originaltitle>
+  <actor>
+    <name>Tom Hanks</name>
+    <role>Captain John H. Miller</role>
+    <type>Actor</type>
+    <tmdbid>31</tmdbid>
+    <imdbid>nm0000158</imdbid>
+  </actor>
+  <actor>
+    <name>Matt Damon</name>
+    <role>Private James Francis Ryan</role>
+    <type>Actor</type>
+    <tmdbid>1892</tmdbid>
+    <imdbid>nm0000354</imdbid>
+  </actor>
+  <actor>
+    <name>Tom Sizemore</name>
+    <role>Technical Sergeant Michael Horvath</role>
+    <type>Actor</type>
+    <tmdbid>3197</tmdbid>
+    <imdbid>nm0001744</imdbid>
+  </actor>
+  <actor>
+    <name>Edward Burns</name>
+    <role>Private Richard Reiben</role>
+    <type>Actor</type>
+    <tmdbid>12833</tmdbid>
+    <imdbid>nm0122653</imdbid>
+  </actor>
+  <actor>
+    <name>Barry Pepper</name>
+    <role>Private Daniel Jackson</role>
+    <type>Actor</type>
+    <tmdbid>12834</tmdbid>
+    <imdbid>nm0001608</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Goldberg</name>
+    <role>Private Stanley Mellish</role>
+    <type>Actor</type>
+    <tmdbid>6163</tmdbid>
+    <imdbid>nm0004965</imdbid>
+  </actor>
+  <actor>
+    <name>Vin Diesel</name>
+    <role>Private Adrian Caparzo</role>
+    <type>Actor</type>
+    <tmdbid>12835</tmdbid>
+    <imdbid>nm0004874</imdbid>
+  </actor>
+  <actor>
+    <name>Giovanni Ribisi</name>
+    <role>T-Medic Irwin Wade</role>
+    <type>Actor</type>
+    <tmdbid>1771</tmdbid>
+    <imdbid>nm0000610</imdbid>
+  </actor>
+  <actor>
+    <name>Ted Danson</name>
+    <role>Captain Fred Hamill</role>
+    <type>Actor</type>
+    <tmdbid>12836</tmdbid>
+    <imdbid>nm0001101</imdbid>
+  </actor>
+  <actor>
+    <name>Jeremy Davies</name>
+    <role>Corporal Timothy Upham</role>
+    <type>Actor</type>
+    <tmdbid>4654</tmdbid>
+    <imdbid>nm0001111</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Giamatti</name>
+    <role>Sergeant William Hill</role>
+    <type>Actor</type>
+    <tmdbid>13242</tmdbid>
+    <imdbid>nm0316079</imdbid>
+  </actor>
+  <actor>
+    <name>Dennis Farina</name>
+    <role>Lieutenant Colonel Walter Anderson</role>
+    <type>Actor</type>
+    <tmdbid>1117</tmdbid>
+    <imdbid>nm0001199</imdbid>
+  </actor>
+  <actor>
+    <name>Joerg Stadler</name>
+    <role>Steamboat Willie</role>
+    <type>Actor</type>
+    <tmdbid>12838</tmdbid>
+    <imdbid>nm0821152</imdbid>
+  </actor>
+  <actor>
+    <name>Max Martini</name>
+    <role>Corporal Henderson</role>
+    <type>Actor</type>
+    <tmdbid>94864</tmdbid>
+    <imdbid>nm0242882</imdbid>
+  </actor>
+  <actor>
+    <name>Dylan Bruno</name>
+    <role>Toynbe</role>
+    <type>Actor</type>
+    <tmdbid>52476</tmdbid>
+    <imdbid>nm0116465</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Cerqueira</name>
+    <role>Weller</role>
+    <type>Actor</type>
+    <tmdbid>75071</tmdbid>
+    <imdbid>nm0148738</imdbid>
+  </actor>
+  <actor>
+    <name>Demetri Goritsas</name>
+    <role>Parker</role>
+    <type>Actor</type>
+    <tmdbid>20471</tmdbid>
+    <imdbid>nm0330983</imdbid>
+  </actor>
+  <actor>
+    <name>Ian Porter</name>
+    <role>Trask</role>
+    <type>Actor</type>
+    <tmdbid>59085</tmdbid>
+    <imdbid>nm0692139</imdbid>
+  </actor>
+  <actor>
+    <name>Gary Sefton</name>
+    <role>Rice</role>
+    <type>Actor</type>
+    <tmdbid>218321</tmdbid>
+    <imdbid>nm0781738</imdbid>
+  </actor>
+  <actor>
+    <name>Julian Spencer</name>
+    <role>Garrity</role>
+    <type>Actor</type>
+    <tmdbid>141358</tmdbid>
+    <imdbid>nm0817998</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Griffin</name>
+    <role>Wilson</role>
+    <type>Actor</type>
+    <tmdbid>1342659</tmdbid>
+    <imdbid>nm0341363</imdbid>
+  </actor>
+  <actor>
+    <name>William Marsh</name>
+    <role>Lyle</role>
+    <type>Actor</type>
+    <tmdbid>183930</tmdbid>
+    <imdbid>nm0550687</imdbid>
+  </actor>
+  <actor>
+    <name>Marc Cass</name>
+    <role>Fallon</role>
+    <type>Actor</type>
+    <tmdbid>592618</tmdbid>
+  </actor>
+  <actor>
+    <name>Markus Napier</name>
+    <role>Major Hoess</role>
+    <type>Actor</type>
+    <tmdbid>1648656</tmdbid>
+  </actor>
+  <actor>
+    <name>Neil Finnighan</name>
+    <role>Ramelle Paratrooper</role>
+    <type>Actor</type>
+    <tmdbid>39685</tmdbid>
+    <imdbid>nm0278308</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Miles</name>
+    <role>Ramelle Paratrooper</role>
+    <type>Actor</type>
+    <tmdbid>1230574</tmdbid>
+    <imdbid>nm0587214</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Garcia</name>
+    <role>Field HQ Major</role>
+    <type>Actor</type>
+    <tmdbid>1648657</tmdbid>
+  </actor>
+  <actor>
+    <name>Seamus McQuade</name>
+    <role>Field HQ Aide</role>
+    <type>Actor</type>
+    <tmdbid>1648658</tmdbid>
+  </actor>
+  <actor>
+    <name>Ronald Longridge</name>
+    <role>Coxswain</role>
+    <type>Actor</type>
+    <tmdbid>1913589</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Shaw</name>
+    <role>Delancey</role>
+    <type>Actor</type>
+    <tmdbid>1229334</tmdbid>
+    <imdbid>nm0789575</imdbid>
+  </actor>
+  <actor>
+    <name>Rolf Saxon</name>
+    <role>Lieutenant Briggs</role>
+    <type>Actor</type>
+    <tmdbid>151438</tmdbid>
+    <imdbid>nm0768350</imdbid>
+  </actor>
+  <actor>
+    <name>Corey Johnson</name>
+    <role>Radioman</role>
+    <type>Actor</type>
+    <tmdbid>17199</tmdbid>
+    <imdbid>nm0424819</imdbid>
+  </actor>
+  <actor>
+    <name>Loclann Aiken</name>
+    <role>Soldier on the Beach</role>
+    <type>Actor</type>
+    <tmdbid>1718615</tmdbid>
+  </actor>
+  <actor>
+    <name>John Barnett</name>
+    <role>Soldier on the Beach</role>
+    <type>Actor</type>
+    <tmdbid>1444581</tmdbid>
+    <imdbid>nm1713472</imdbid>
+  </actor>
+  <actor>
+    <name>Maclean Burke</name>
+    <role>Soldier on the Beach</role>
+    <type>Actor</type>
+    <tmdbid>1913590</tmdbid>
+  </actor>
+  <actor>
+    <name>Victor Burke</name>
+    <role>Soldier on the Beach</role>
+    <type>Actor</type>
+    <tmdbid>1913591</tmdbid>
+  </actor>
+  <actor>
+    <name>Aiden Condron</name>
+    <role>Soldier on the Beach</role>
+    <type>Actor</type>
+    <tmdbid>1327313</tmdbid>
+    <imdbid>nm0174449</imdbid>
+  </actor>
+  <actor>
+    <name>Paschal Friel</name>
+    <role>Soldier on the Beach</role>
+    <type>Actor</type>
+    <tmdbid>1518966</tmdbid>
+    <imdbid>nm0295496</imdbid>
+  </actor>
+  <actor>
+    <name>Shane Hagan</name>
+    <role>Soldier on the Beach</role>
+    <type>Actor</type>
+    <tmdbid>1913592</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Hickey</name>
+    <role>Soldier on the Beach</role>
+    <type>Actor</type>
+    <tmdbid>536915</tmdbid>
+    <imdbid>nm0382657</imdbid>
+  </actor>
+  <actor>
+    <name>Shane Johnson</name>
+    <role>Soldier on the Beach</role>
+    <type>Actor</type>
+    <tmdbid>76038</tmdbid>
+    <imdbid>nm0426209</imdbid>
+  </actor>
+  <actor>
+    <name>Laird Macintosh</name>
+    <role>Soldier on the Beach</role>
+    <type>Actor</type>
+    <tmdbid>20287</tmdbid>
+    <imdbid>nm0533589</imdbid>
+  </actor>
+  <actor>
+    <name>Brian Maynard</name>
+    <role>Soldier on the Beach</role>
+    <type>Actor</type>
+    <tmdbid>1913593</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin McDougall</name>
+    <role>Soldier on the Beach</role>
+    <type>Actor</type>
+    <tmdbid>36901</tmdbid>
+    <imdbid>nm0568246</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Phillips</name>
+    <role>Soldier on the Beach</role>
+    <type>Actor</type>
+    <tmdbid>1913595</tmdbid>
+  </actor>
+  <actor>
+    <name>Lee Aaron Rosen</name>
+    <role>Soldier on the Beach</role>
+    <type>Actor</type>
+    <tmdbid>1532630</tmdbid>
+    <imdbid>nm0742016</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Scott</name>
+    <role>Soldier on the Beach</role>
+    <type>Actor</type>
+    <tmdbid>125660</tmdbid>
+    <imdbid>nm0778831</imdbid>
+  </actor>
+  <actor>
+    <name>Matthew Sharp</name>
+    <role>Soldier on the Beach</role>
+    <type>Actor</type>
+    <tmdbid>115854</tmdbid>
+    <imdbid>nm0789106</imdbid>
+  </actor>
+  <actor>
+    <name>Vincent Walsh</name>
+    <role>Soldier on the Beach</role>
+    <type>Actor</type>
+    <tmdbid>190908</tmdbid>
+    <imdbid>nm0909906</imdbid>
+  </actor>
+  <actor>
+    <name>Grahame Wood</name>
+    <role>Soldier on the Beach</role>
+    <type>Actor</type>
+    <tmdbid>145072</tmdbid>
+    <imdbid>nm0939730</imdbid>
+  </actor>
+  <actor>
+    <name>John Sharian</name>
+    <role>Corporal</role>
+    <type>Actor</type>
+    <tmdbid>36900</tmdbid>
+    <imdbid>nm0788767</imdbid>
+  </actor>
+  <actor>
+    <name>Glenn Wrage</name>
+    <role>Doyle</role>
+    <type>Actor</type>
+    <tmdbid>157790</tmdbid>
+    <imdbid>nm0941983</imdbid>
+  </actor>
+  <actor>
+    <name>Crofton Hardester</name>
+    <role>Senior Medical Officer</role>
+    <type>Actor</type>
+    <tmdbid>24116</tmdbid>
+    <imdbid>nm0362148</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Hub</name>
+    <role>Czech Wehrmacht Soldier</role>
+    <type>Actor</type>
+    <tmdbid>1054325</tmdbid>
+    <imdbid>nm0399103</imdbid>
+  </actor>
+  <actor>
+    <name>Raffaello Degruttola</name>
+    <role>Goldman</role>
+    <type>Actor</type>
+    <tmdbid>94137</tmdbid>
+    <imdbid>nm0214860</imdbid>
+  </actor>
+  <actor>
+    <name>Nigel Whitmey</name>
+    <role>Private Boyd</role>
+    <type>Actor</type>
+    <tmdbid>29697</tmdbid>
+    <imdbid>nm0926205</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Ellis</name>
+    <role>Private Hastings</role>
+    <type>Actor</type>
+    <tmdbid>1231906</tmdbid>
+    <imdbid>nm0255077</imdbid>
+  </actor>
+  <actor>
+    <name>Erich Redman</name>
+    <role>German #1</role>
+    <type>Actor</type>
+    <tmdbid>1048648</tmdbid>
+    <imdbid>nm0715000</imdbid>
+  </actor>
+  <actor>
+    <name>Tilo Keiner</name>
+    <role>German #2</role>
+    <type>Actor</type>
+    <tmdbid>1232043</tmdbid>
+    <imdbid>nm0445127</imdbid>
+  </actor>
+  <actor>
+    <name>Stephan Grothgar</name>
+    <role>German #3 / Voice on Bullhorn</role>
+    <type>Actor</type>
+    <tmdbid>1229365</tmdbid>
+    <imdbid>nm0343869</imdbid>
+  </actor>
+  <actor>
+    <name>Stephane Cornicard</name>
+    <role>Jean</role>
+    <type>Actor</type>
+    <tmdbid>1599256</tmdbid>
+  </actor>
+  <actor>
+    <name>Michelle Evans</name>
+    <role>Jean's Wife</role>
+    <type>Actor</type>
+    <tmdbid>1180984</tmdbid>
+    <imdbid>nm0263068</imdbid>
+  </actor>
+  <actor>
+    <name>Martin Beaton</name>
+    <role>Jean's Son</role>
+    <type>Actor</type>
+    <tmdbid>1913599</tmdbid>
+  </actor>
+  <actor>
+    <name>Anna Maguire</name>
+    <role>Jean's Daughter</role>
+    <type>Actor</type>
+    <tmdbid>234586</tmdbid>
+    <imdbid>nm0536551</imdbid>
+  </actor>
+  <actor>
+    <name>Nathan Fillion</name>
+    <role>Minnesota Ryan</role>
+    <type>Actor</type>
+    <tmdbid>51797</tmdbid>
+    <imdbid>nm0277213</imdbid>
+  </actor>
+  <actor>
+    <name>Leland Orser</name>
+    <role>Lieutenant DeWindt</role>
+    <type>Actor</type>
+    <tmdbid>2221</tmdbid>
+    <imdbid>nm0650702</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Mantas</name>
+    <role>Paratrooper Lieutenant</role>
+    <type>Actor</type>
+    <tmdbid>1229271</tmdbid>
+    <imdbid>nm0544037</imdbid>
+  </actor>
+  <actor>
+    <name>David Vegh</name>
+    <role>Paratrooper Oliver</role>
+    <type>Actor</type>
+    <tmdbid>1520614</tmdbid>
+    <imdbid>nm0891960</imdbid>
+  </actor>
+  <actor>
+    <name>Ryan Hurst</name>
+    <role>Paratrooper Mandelsohn</role>
+    <type>Actor</type>
+    <tmdbid>43858</tmdbid>
+    <imdbid>nm0403652</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Brooks</name>
+    <role>Paratrooper Joe</role>
+    <type>Actor</type>
+    <tmdbid>1813506</tmdbid>
+  </actor>
+  <actor>
+    <name>Sam Scudder</name>
+    <role>Paratrooper #1</role>
+    <type>Actor</type>
+    <tmdbid>1913600</tmdbid>
+  </actor>
+  <actor>
+    <name>John Walters</name>
+    <role>Old French Man</role>
+    <type>Actor</type>
+    <tmdbid>1490869</tmdbid>
+    <imdbid>nm0910267</imdbid>
+  </actor>
+  <actor>
+    <name>Dorothy Grumbar</name>
+    <role>Old French Woman</role>
+    <type>Actor</type>
+    <tmdbid>1164379</tmdbid>
+    <imdbid>nm0344464</imdbid>
+  </actor>
+  <actor>
+    <name>James Innes-Smith</name>
+    <role>MP Lieutenant</role>
+    <type>Actor</type>
+    <tmdbid>1803130</tmdbid>
+  </actor>
+  <actor>
+    <name>Harve Presnell</name>
+    <role>General Marshall</role>
+    <type>Actor</type>
+    <tmdbid>3907</tmdbid>
+    <imdbid>nm0696193</imdbid>
+  </actor>
+  <actor>
+    <name>Dale Dye</name>
+    <role>War Department Colonel</role>
+    <type>Actor</type>
+    <tmdbid>3211</tmdbid>
+    <imdbid>nm0245653</imdbid>
+  </actor>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>War Department Colonel</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>David Wohl</name>
+    <role>War Department Captain</role>
+    <type>Actor</type>
+    <tmdbid>92811</tmdbid>
+    <imdbid>nm0937387</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Loren</name>
+    <role>War Department Lieutenant</role>
+    <type>Actor</type>
+    <tmdbid>113235</tmdbid>
+    <imdbid>nm0520580</imdbid>
+  </actor>
+  <actor>
+    <name>Valerie Colgan</name>
+    <role>War Department Clerk</role>
+    <type>Actor</type>
+    <tmdbid>1653085</tmdbid>
+  </actor>
+  <actor>
+    <name>Amanda Boxer</name>
+    <role>Mrs. Margaret Ryan</role>
+    <type>Actor</type>
+    <tmdbid>1231417</tmdbid>
+    <imdbid>nm0101524</imdbid>
+  </actor>
+  <actor>
+    <name>Harrison Young</name>
+    <role>Ryan as Old Man</role>
+    <type>Actor</type>
+    <tmdbid>51931</tmdbid>
+    <imdbid>nm0949599</imdbid>
+  </actor>
+  <actor>
+    <name>Kathleen Byron</name>
+    <role>Old Mrs. Ryan</role>
+    <type>Actor</type>
+    <tmdbid>99905</tmdbid>
+    <imdbid>nm0126402</imdbid>
+  </actor>
+  <actor>
+    <name>Rob Freeman</name>
+    <role>Ryan's Son</role>
+    <type>Actor</type>
+    <tmdbid>121724</tmdbid>
+    <imdbid>nm0293567</imdbid>
+  </actor>
+  <actor>
+    <name>Thomas Gizbert</name>
+    <role>Ryan's Grandson</role>
+    <type>Actor</type>
+    <tmdbid>1913602</tmdbid>
+  </actor>
+  <actor>
+    <name>Nina Muschallik</name>
+    <role>Ryan's Granddaughter (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>218226</tmdbid>
+    <imdbid>nm0615584</imdbid>
+  </actor>
+  <actor>
+    <name>Mac Steinmeier</name>
+    <role>Waffen SS Soldier (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>14630</tmdbid>
+    <imdbid>nm0826147</imdbid>
+  </actor>
+  <actor>
+    <name>Derek Lea</name>
+    <role>Bangalore Assistant (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>97436</tmdbid>
+    <imdbid>nm0494749</imdbid>
+  </actor>
+  <actor>
+    <name>Leo Stransky</name>
+    <role>German Sniper (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>25753</tmdbid>
+    <imdbid>nm0833431</imdbid>
+  </actor>
+  <actor>
+    <name>Vincent Ventresca</name>
+    <role>Soldier on Beach (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>90610</tmdbid>
+    <imdbid>nm0893283</imdbid>
+  </actor>
+  <director tmdbid="488" imdbid="nm0000229">Steven Spielberg</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=RYExstiQlLc</trailer>
+  <rating>8.6</rating>
+  <year>1998</year>
+  <mpaa>HK-IIB </mpaa>
+  <imdbid>tt0120815</imdbid>
+  <tmdbid>857</tmdbid>
+  <premiered>1998-07-24</premiered>
+  <releasedate>1998-07-24</releasedate>
+  <criticrating>93</criticrating>
+  <runtime>169</runtime>
+  <tagline>任务是拯救一个人</tagline>
+  <country>United States of America</country>
+  <genre>剧情</genre>
+  <genre>历史</genre>
+  <genre>战争</genre>
+  <studio>Paramount</studio>
+  <studio>Amblin Entertainment</studio>
+  <studio>Mutual Film Company</studio>
+  <studio>DreamWorks Pictures</studio>
+  <studio>The Mark Gordon Company</studio>
+  <uniqueid type="Tmdb">857</uniqueid>
+  <uniqueid type="Imdb">tt0120815</uniqueid>
+  <id>tt0120815</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>74497779</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>169</duration>
+        <durationinseconds>10166</durationinseconds>
+      </video>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>74497779</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>169</duration>
+        <durationinseconds>10166</durationinseconds>
+      </video>
+      <audio>
+        <codec>truehd</codec>
+        <micodec>truehd</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>dan</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>dut</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>nor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>fin</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>swe</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>Chs&amp;En</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

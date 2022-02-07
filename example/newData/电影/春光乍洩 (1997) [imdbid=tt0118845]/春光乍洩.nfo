@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[黎耀辉（梁朝伟）与何宝荣（张国荣）是一对同性恋人，为了有新的开始，他们怀着美丽的梦想（去看南美洲大瀑布）离开香港来到阿根廷，却在布宜诺斯艾利斯迷了路。黎耀辉想安下心来过日子，无奈何宝荣于夜夜笙歌中放纵着自己的生命，以期找寻更多的刺激，只当黎耀辉是他受伤后的港湾，两人分歧 、争吵越来越多，心的距离越来越远。黎耀辉明白过去的日子不可能再复返时，决定离开何宝荣，而正是在他离开后，绝望的意味（对黎耀辉的爱）才在何宝荣的脑海中完整的浮现。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-07 15:31:56</dateadded>
+  <title>春光乍泄</title>
+  <originaltitle>春光乍洩</originaltitle>
+  <actor>
+    <name>Tony Leung Chiu-Wai</name>
+    <role>Lai Yiu-fai</role>
+    <type>Actor</type>
+    <tmdbid>1337</tmdbid>
+    <imdbid>nm0504897</imdbid>
+  </actor>
+  <actor>
+    <name>Leslie Cheung</name>
+    <role>Ho Po-wing</role>
+    <type>Actor</type>
+    <tmdbid>69637</tmdbid>
+    <imdbid>nm0002000</imdbid>
+  </actor>
+  <actor>
+    <name>Chang Chen</name>
+    <role>Chang</role>
+    <type>Actor</type>
+    <tmdbid>1622</tmdbid>
+    <imdbid>nm0151654</imdbid>
+  </actor>
+  <actor>
+    <name>Gregory Dayton</name>
+    <role>Lover</role>
+    <type>Actor</type>
+    <tmdbid>133825</tmdbid>
+    <imdbid>nm0206753</imdbid>
+  </actor>
+  <actor>
+    <name>Yee-Gan Chan</name>
+    <role>The Exhibitor</role>
+    <type>Actor</type>
+    <tmdbid>2136768</tmdbid>
+  </actor>
+  <director tmdbid="12453" imdbid="nm0939182">Wong Kar-wai</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=f0Dh6Jdc18c</trailer>
+  <rating>7.7</rating>
+  <year>1997</year>
+  <mpaa>PG-13</mpaa>
+  <imdbid>tt0118845</imdbid>
+  <tmdbid>18329</tmdbid>
+  <premiered>1997-05-30</premiered>
+  <releasedate>1997-05-30</releasedate>
+  <criticrating>81</criticrating>
+  <runtime>96</runtime>
+  <country>Argentina</country>
+  <country>Hong Kong</country>
+  <country>Japan</country>
+  <genre>剧情</genre>
+  <genre>爱情</genre>
+  <studio>Jet Tone Production</studio>
+  <studio>Block 2 Pictures</studio>
+  <studio>Prénom H Co. Ltd.</studio>
+  <studio>Seowoo Film Company</studio>
+  <uniqueid type="Tmdb">18329</uniqueid>
+  <uniqueid type="Imdb">tt0118845</uniqueid>
+  <id>tt0118845</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>23456390</bitrate>
+        <width>1920</width>
+        <height>1038</height>
+        <aspect>320:173</aspect>
+        <aspectratio>320:173</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>95</duration>
+        <durationinseconds>5756</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>简体</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

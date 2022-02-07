@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[阿富汗腹地深处，两名身负超自然力量的海军陆战队士兵即将面临来自同类的威胁。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-03-27 15:44:15</dateadded>
+  <title>变形者</title>
+  <actor>
+    <name>Graham Hamilton</name>
+    <role>Decker (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1333197</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Bartley</name>
+    <role>Sobieski (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1256070</tmdbid>
+  </actor>
+  <actor>
+    <name>Jim Pirri</name>
+    <role>Master Sergeant (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1225592</tmdbid>
+  </actor>
+  <actor>
+    <name>James Horan</name>
+    <role>Major Reyner (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>94926</tmdbid>
+  </actor>
+  <actor>
+    <name>Ike Amadi</name>
+    <role>Platoon Sergeant (voice)</role>
+    <type>GuestStar</type>
+    <tmdbid>1620226</tmdbid>
+  </actor>
+  <director>Gabriele Pennacchioli</director>
+  <rating>6.5</rating>
+  <year>2019</year>
+  <imdbid>tt9788502</imdbid>
+  <tvdbid>7069831</tvdbid>
+  <runtime>16</runtime>
+  <genre>Animation</genre>
+  <genre>Short</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <genre>Horror</genre>
+  <genre>Sci-Fi</genre>
+  <uniqueid type="Imdb">tt9788502</uniqueid>
+  <uniqueid type="Tvdb">7069831</uniqueid>
+  <episode>10</episode>
+  <season>1</season>
+  <aired>2019-03-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4608664</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>16</duration>
+        <durationinseconds>970</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>364533</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

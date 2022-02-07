@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Jimmy decides to quit the law after turning down a job at Davis & Main. Mike breaks ties with a former associate.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-07-28 16:31:06</dateadded>
+  <title>开关</title>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Jimmy McGill</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Rhea Seehorn</name>
+    <role>Kim Wexler</role>
+    <type>Actor</type>
+    <tmdbid>62765</tmdbid>
+    <imdbid>nm0781533</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Fabian</name>
+    <role>Howard Hamlin</role>
+    <type>Actor</type>
+    <tmdbid>58791</tmdbid>
+    <imdbid>nm0264579</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Mando</name>
+    <role>Nacho Varga</role>
+    <type>Actor</type>
+    <tmdbid>829372</tmdbid>
+    <imdbid>nm3103126</imdbid>
+  </actor>
+  <actor>
+    <name>Michael McKean</name>
+    <role>Chuck McGill</role>
+    <type>Actor</type>
+    <tmdbid>21731</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Proksch</name>
+    <role>Daniel Warmolt / Price</role>
+    <type>GuestStar</type>
+    <tmdbid>1198148</tmdbid>
+    <imdbid>nm1515989</imdbid>
+  </actor>
+  <actor>
+    <name>Kyle Bornheimer</name>
+    <role>Ken</role>
+    <type>GuestStar</type>
+    <tmdbid>1215836</tmdbid>
+    <imdbid>nm1531180</imdbid>
+  </actor>
+  <actor>
+    <name>Stoney Westmoreland</name>
+    <role>Officer Saxton</role>
+    <type>GuestStar</type>
+    <tmdbid>19491</tmdbid>
+    <imdbid>nm0922899</imdbid>
+  </actor>
+  <actor>
+    <name>Jessie Ennis</name>
+    <role>Erin</role>
+    <type>GuestStar</type>
+    <tmdbid>1569001</tmdbid>
+    <imdbid>nm2080924</imdbid>
+  </actor>
+  <actor>
+    <name>Omar Maskati</name>
+    <role>Bartender</role>
+    <type>GuestStar</type>
+    <tmdbid>1300712</tmdbid>
+    <imdbid>nm5394949</imdbid>
+  </actor>
+  <actor>
+    <name>Eileen Fogarty</name>
+    <role>Mrs. Nguyen</role>
+    <type>GuestStar</type>
+    <tmdbid>1411168</tmdbid>
+    <imdbid>nm1658328</imdbid>
+  </actor>
+  <actor>
+    <name>Alex Désert</name>
+    <role>Officer Baker</role>
+    <type>GuestStar</type>
+    <tmdbid>110141</tmdbid>
+    <imdbid>nm0246373</imdbid>
+  </actor>
+  <actor>
+    <name>Ed Begley Jr.</name>
+    <role>Clifford Main</role>
+    <type>GuestStar</type>
+    <tmdbid>42157</tmdbid>
+    <imdbid>nm0000893</imdbid>
+  </actor>
+  <director>Thomas Schnauz</director>
+  <rating>7.907</rating>
+  <year>2016</year>
+  <imdbid>tt3824148</imdbid>
+  <tvdbid>5427452</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <tvrageid>1065873761</tvrageid>
+  <uniqueid type="Imdb">tt3824148</uniqueid>
+  <uniqueid type="Tvdb">5427452</uniqueid>
+  <uniqueid type="TvRage">1065873761</uniqueid>
+  <episode>1</episode>
+  <season>2</season>
+  <aired>2016-02-15</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>26320335</bitrate>
+        <width>3840</width>
+        <height>2160</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2828</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

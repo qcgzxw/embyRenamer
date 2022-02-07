@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[這部喜劇主角不是Sheldon成年版，而是以他9歲時為背景，講述Sheldon當年在德州東部的家庭及學校生活。
+
+在過往劇情中，可得知Sheldon的家人包括哥哥George、異卵雙胞胎姐妹Missy、有宗教信仰的媽媽Mary Cooper，以及酗酒的爸爸George Cooper。另外Sheldon還有外婆（Meemaw）及外公（Pop Pop），外公在Sheldon 5歲時去世。]]></plot>
+  <outline><![CDATA[這部喜劇主角不是Sheldon成年版，而是以他9歲時為背景，講述Sheldon當年在德州東部的家庭及學校生活。
+
+在過往劇情中，可得知Sheldon的家人包括哥哥George、異卵雙胞胎姐妹Missy、有宗教信仰的媽媽Mary Cooper，以及酗酒的爸爸George Cooper。另外Sheldon還有外婆（Meemaw）及外公（Pop Pop），外公在Sheldon 5歲時去世。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-04-11 05:32:46</dateadded>
+  <title>小谢尔顿</title>
+  <originaltitle>Young Sheldon</originaltitle>
+  <trailer>http://www.youtube.com/watch?v=iGKnI3Lc7C4</trailer>
+  <rating>7.5</rating>
+  <year>2017</year>
+  <mpaa>TV-PG</mpaa>
+  <imdb_id>tt6226232</imdb_id>
+  <tmdbid>71728</tmdbid>
+  <premiered>2017-09-25</premiered>
+  <releasedate>2017-09-25</releasedate>
+  <runtime>20</runtime>
+  <genre>Comedy</genre>
+  <genre>Family</genre>
+  <studio>CBS</studio>
+  <zap2itid>EP02642239</zap2itid>
+  <tvdbid>328724</tvdbid>
+  <actor>
+    <name>Iain Armitage</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Zoe Perry</name>
+    <role>Mary Cooper</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Lance Barber</name>
+    <role>George Cooper</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Raegan Revord</name>
+    <role>Missy Cooper</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Montana Jordan</name>
+    <role>Georgie Cooper</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Annie Potts</name>
+    <role>Connie Tucker</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Matt Hobby</name>
+    <role>Pastor Jeff</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Melissa Peterman</name>
+    <role>Brenda Sparks</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Narrator</role>
+    <type>Actor</type>
+  </actor>
+  <id>328724</id>
+  <episodeguide>
+    <url cache="328724.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/328724/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Continuing</status>
+</tvshow>

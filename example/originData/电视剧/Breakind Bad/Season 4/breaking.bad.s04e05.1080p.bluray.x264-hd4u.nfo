@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Walter 飙车赶到 Gus 的快餐店，途中给 Skyler 留言。来到快餐店的 Walter 接到了 Mike 的电话，Mike 告诉 Walter，Jesse 和他出去办事，Walter 闯进办公室发现 Gus 不在。Mike 把 Jesse带到荒郊野外，Jesse 以为 Mike要杀了他，其实 Gus 让 Mike 带Jesse 一起接头拿货取钱。Hank 和 Tim 聊起案件，Hank 表示 Heisenberg Gale 这么死了而是他亲手捉拿归案有点说不出的遗憾。Jesse 误以为自己的任务是帮 Mike 掩护，Mike 怒斥只是听从 Gus 的命令根本不认为他能胜任。Walter 和 Skyler 完成了洗车行的买卖，Skyler 无意间听到了 Walter 的留言，2人重温旧梦，Skyler 顺势提议 Walter 搬回来住，Walter 没有表态。Walter 终于受不了一个人制毒，表示 Jesse 不回来不开工，Tyrus 表示他能代替 Jesse 帮助 Walter。Jesse 继续跟着 Mike，意外遭遇打劫，Jesse 摆脱了对面，让 Mike 刮目相看。Walter 追问 Jesse 昨天干嘛去了，Jesse 表示他有 2 份工作了。Mike 向 Gus 汇报了 Jesse 的英勇事迹。Walter 和 Hank 一家聚会，喝多的 Walter 告诉 Hank 他认为 Gale 不够天才，可能不是他要找的 Heisenberg，或许真正的 Heisenberg 仍逍遥法外。若有所思的 Hank 重新调查起了资料，发现素食主义的 Gale 家中居然有 Gus 家炸鸡兄弟的餐巾纸。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 17:35:40</dateadded>
+  <title>散弹枪</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Giancarlo Esposito</name>
+    <role>Gustavo "Gus" Fring</role>
+    <type>Actor</type>
+    <tmdbid>4808</tmdbid>
+    <imdbid>nm0002064</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Banks</name>
+    <role>Mike Ehrmantraut</role>
+    <type>Actor</type>
+    <tmdbid>783</tmdbid>
+    <imdbid>nm0052186</imdbid>
+  </actor>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Saul Goodman</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>Rutherford Cravens</name>
+    <role>Mortgage Broker</role>
+    <type>GuestStar</type>
+    <tmdbid>1234823</tmdbid>
+    <imdbid>nm0186657</imdbid>
+  </actor>
+  <actor>
+    <name>Ray Campbell</name>
+    <role>Tyrus Kitt</role>
+    <type>GuestStar</type>
+    <tmdbid>159334</tmdbid>
+    <imdbid>nm1530474</imdbid>
+  </actor>
+  <actor>
+    <name>Nigel Gibbs</name>
+    <role>APD Detective Tim Roberts</role>
+    <type>GuestStar</type>
+    <tmdbid>11915</tmdbid>
+    <imdbid>nm0316708</imdbid>
+  </actor>
+  <director>Michelle MacLaren</director>
+  <rating>8.067</rating>
+  <year>2011</year>
+  <imdbid>tt1683092</imdbid>
+  <tvdbid>4123351</tvdbid>
+  <runtime>47</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <uniqueid type="Imdb">tt1683092</uniqueid>
+  <uniqueid type="Tvdb">4123351</uniqueid>
+  <episode>5</episode>
+  <season>4</season>
+  <aired>2011-08-14</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9938189</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>47</duration>
+        <durationinseconds>2832</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[谢尔顿和艾米的蜜月安排上出现差错。莱纳德的贬损对比惹毛了佩妮。拉杰什与一位名人在推特上开战。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-07-01 00:17:30</dateadded>
+  <title>交配安排</title>
+  <actor>
+    <name>Johnny Galecki</name>
+    <role>Leonard Hofstadter</role>
+    <type>Actor</type>
+    <tmdbid>16478</tmdbid>
+    <imdbid>nm0301959</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Parsons</name>
+    <role>Sheldon Cooper</role>
+    <type>Actor</type>
+    <tmdbid>5374</tmdbid>
+    <imdbid>nm1433588</imdbid>
+  </actor>
+  <actor>
+    <name>Kaley Cuoco</name>
+    <role>Penny</role>
+    <type>Actor</type>
+    <tmdbid>53862</tmdbid>
+    <imdbid>nm0192505</imdbid>
+  </actor>
+  <actor>
+    <name>Simon Helberg</name>
+    <role>Howard Wolowitz</role>
+    <type>Actor</type>
+    <tmdbid>53863</tmdbid>
+    <imdbid>nm0374865</imdbid>
+  </actor>
+  <actor>
+    <name>Kunal Nayyar</name>
+    <role>Rajesh Koothrappali</role>
+    <type>Actor</type>
+    <tmdbid>208099</tmdbid>
+    <imdbid>nm2471798</imdbid>
+  </actor>
+  <actor>
+    <name>Melissa Rauch</name>
+    <role>Bernadette Rostenkowski</role>
+    <type>Actor</type>
+    <tmdbid>1221716</tmdbid>
+    <imdbid>nm1851981</imdbid>
+  </actor>
+  <actor>
+    <name>Mayim Bialik</name>
+    <role>Amy Farrah Fowler</role>
+    <type>Actor</type>
+    <tmdbid>167640</tmdbid>
+    <imdbid>nm0080524</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Sussman</name>
+    <role>Stuart Bloom</role>
+    <type>Actor</type>
+    <tmdbid>60633</tmdbid>
+    <imdbid>nm0839934</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Nye</name>
+    <role>Self</role>
+    <type>GuestStar</type>
+    <tmdbid>1218795</tmdbid>
+    <imdbid>nm0638557</imdbid>
+  </actor>
+  <actor>
+    <name>Neil deGrasse Tyson</name>
+    <role>Self</role>
+    <type>GuestStar</type>
+    <tmdbid>550307</tmdbid>
+    <imdbid>nm1183205</imdbid>
+  </actor>
+  <actor>
+    <name>Giovanni Bejarano</name>
+    <role>Bellman</role>
+    <type>GuestStar</type>
+    <tmdbid>1279468</tmdbid>
+    <imdbid>nm2159326</imdbid>
+  </actor>
+  <actor>
+    <name>Ciara Renée</name>
+    <role>Sunny Morrow</role>
+    <type>GuestStar</type>
+    <tmdbid>1465043</tmdbid>
+    <imdbid>nm4946636</imdbid>
+  </actor>
+  <actor>
+    <name>Andy Taylor Kim</name>
+    <role>Tour Guide</role>
+    <type>GuestStar</type>
+    <tmdbid>1937831</tmdbid>
+  </actor>
+  <actor>
+    <name>Kathy Bates</name>
+    <role>Mrs. Fowler</role>
+    <type>GuestStar</type>
+    <tmdbid>8534</tmdbid>
+    <imdbid>nm0000870</imdbid>
+  </actor>
+  <actor>
+    <name>Teller</name>
+    <role>Larry Fowler</role>
+    <type>GuestStar</type>
+    <tmdbid>74296</tmdbid>
+    <imdbid>nm0854418</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>9.8</rating>
+  <year>2018</year>
+  <imdbid>tt6673778</imdbid>
+  <tvdbid>6755587</tvdbid>
+  <runtime>21</runtime>
+  <uniqueid type="Tvdb">6755587</uniqueid>
+  <uniqueid type="Imdb">tt6673778</uniqueid>
+  <episode>1</episode>
+  <season>12</season>
+  <aired>2018-09-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5319252</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>20</duration>
+        <durationinseconds>1236</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>True</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[在 Jesse 贩毒时结识的 Krazy-8 要求 Jesse 带他和他的表弟（上一集 Hank 抓捕行动中落网的毒贩）去认识制毒师，他们不相信 Jesse 自己能够做出来纯度这么高的冰毒。在制毒的过程中，他们想要杀死 Jesse，Walter 情急之下运用化学知识“毒死”了二人。在处理尸体的过程中，小8竟然醒了过来，两人无奈之下将其关押在 Jesse 住的地下室内。与此同时，Walter 的妻子 Skyler 产检时得知了自己怀的是一个女孩。Jesse 在处理尸体时忽略了 Walter 的警告，直接将氢氟酸倒进了浴缸而不是 Walter 要求的低密度聚乙烯塑料桶里，导致浴缸和地板被腐蚀，浴缸和地板脱落，伴随着尸体残渣，跌至一楼。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-12-19 17:26:09</dateadded>
+  <title>木已成舟</title>
+  <actor>
+    <name>Bryan Cranston</name>
+    <role>Walter White</role>
+    <type>Actor</type>
+    <tmdbid>17419</tmdbid>
+    <imdbid>nm0186505</imdbid>
+  </actor>
+  <actor>
+    <name>Aaron Paul</name>
+    <role>Jesse Pinkman</role>
+    <type>Actor</type>
+    <tmdbid>84497</tmdbid>
+    <imdbid>nm0666739</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Gunn</name>
+    <role>Skyler White</role>
+    <type>Actor</type>
+    <tmdbid>134531</tmdbid>
+    <imdbid>nm0348152</imdbid>
+  </actor>
+  <actor>
+    <name>Dean Norris</name>
+    <role>Hank Schrader</role>
+    <type>Actor</type>
+    <tmdbid>14329</tmdbid>
+    <imdbid>nm0606487</imdbid>
+  </actor>
+  <actor>
+    <name>Betsy Brandt</name>
+    <role>Marie Schrader</role>
+    <type>Actor</type>
+    <tmdbid>1217934</tmdbid>
+    <imdbid>nm1336827</imdbid>
+  </actor>
+  <actor>
+    <name>RJ Mitte</name>
+    <role>Walter White Jr.</role>
+    <type>Actor</type>
+    <tmdbid>209674</tmdbid>
+    <imdbid>nm2666409</imdbid>
+  </actor>
+  <actor>
+    <name>John Koyama</name>
+    <role>Emilio Koyama</role>
+    <type>GuestStar</type>
+    <tmdbid>92495</tmdbid>
+    <imdbid>nm0468697</imdbid>
+  </actor>
+  <actor>
+    <name>Max Arciniega</name>
+    <role>Krazy-8</role>
+    <type>GuestStar</type>
+    <tmdbid>1046460</tmdbid>
+  </actor>
+  <director>Adam Bernstein</director>
+  <rating>8.027</rating>
+  <year>2008</year>
+  <imdbid>tt1054724</imdbid>
+  <tvdbid>349233</tvdbid>
+  <runtime>48</runtime>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <tvrageid>637494</tvrageid>
+  <uniqueid type="Imdb">tt1054724</uniqueid>
+  <uniqueid type="Tvdb">349233</uniqueid>
+  <uniqueid type="TvRage">637494</uniqueid>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2008-01-27</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9738910</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>48</duration>
+        <durationinseconds>2892</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>简体&amp;英文</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

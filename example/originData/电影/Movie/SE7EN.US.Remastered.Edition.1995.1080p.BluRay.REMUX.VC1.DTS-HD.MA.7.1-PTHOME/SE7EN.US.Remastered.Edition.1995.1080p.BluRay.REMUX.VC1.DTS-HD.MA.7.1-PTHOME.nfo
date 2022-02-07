@@ -1,0 +1,782 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　「暴食」、「贪婪」、「懒惰」、「嫉妒」、「骄傲」、[淫欲]、「愤怒」，这是天主教教义所指的人性七宗罪。城市中发生的连坏杀人案，死者恰好都是犯有这些教义的人。凶手故弄玄虚的作案手法，令资深冷静的警员沙摩塞（摩根•弗里曼 Morgan Freeman 饰）和血气方刚的新扎警员米尔斯（布拉德•皮特 Brad Pitt 饰）都陷入了破案的谜团中。他们去图书馆研读但丁的《神曲》，企图从人间地狱的描绘中找到线索，最后从宗教文学哲学的世界中找到了凶手作案计划和手段的蛛丝马迹。凶手前来投案自首，这令众人都松了一口气，以为案件就此结束，怎料还是逃不出七宗罪的杀人逻辑，这次凶手瞄准的目标，是那个犯了“愤怒”罪的人……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-20 03:57:12</dateadded>
+  <title>七宗罪</title>
+  <originaltitle>Se7en</originaltitle>
+  <actor>
+    <name>Morgan Freeman</name>
+    <role>Detective Lt. William Somerset</role>
+    <type>Actor</type>
+    <tmdbid>192</tmdbid>
+    <imdbid>nm0000151</imdbid>
+  </actor>
+  <actor>
+    <name>Brad Pitt</name>
+    <role>Detective David Mills</role>
+    <type>Actor</type>
+    <tmdbid>287</tmdbid>
+    <imdbid>nm0000093</imdbid>
+  </actor>
+  <actor>
+    <name>Gwyneth Paltrow</name>
+    <role>Tracy Mills</role>
+    <type>Actor</type>
+    <tmdbid>12052</tmdbid>
+    <imdbid>nm0000569</imdbid>
+  </actor>
+  <actor>
+    <name>Kevin Spacey</name>
+    <role>John Doe</role>
+    <type>Actor</type>
+    <tmdbid>1979</tmdbid>
+    <imdbid>nm0000228</imdbid>
+  </actor>
+  <actor>
+    <name>R. Lee Ermey</name>
+    <role>Police Captain</role>
+    <type>Actor</type>
+    <tmdbid>8655</tmdbid>
+  </actor>
+  <actor>
+    <name>John C. McGinley</name>
+    <role>California</role>
+    <type>Actor</type>
+    <tmdbid>11885</tmdbid>
+    <imdbid>nm0001525</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Araskog</name>
+    <role>Mrs. Gould</role>
+    <type>Actor</type>
+    <tmdbid>1558263</tmdbid>
+  </actor>
+  <actor>
+    <name>Mark Boone Junior</name>
+    <role>Greasy F.B.I. Man</role>
+    <type>Actor</type>
+    <tmdbid>534</tmdbid>
+    <imdbid>nm0095478</imdbid>
+  </actor>
+  <actor>
+    <name>John Cassini</name>
+    <role>Officer Davis</role>
+    <type>Actor</type>
+    <tmdbid>12055</tmdbid>
+    <imdbid>nm0144307</imdbid>
+  </actor>
+  <actor>
+    <name>Reg E. Cathey</name>
+    <role>Dr. Santiago</role>
+    <type>Actor</type>
+    <tmdbid>38951</tmdbid>
+    <imdbid>nm0146146</imdbid>
+  </actor>
+  <actor>
+    <name>Peter Crombie</name>
+    <role>Dr. O'Neill</role>
+    <type>Actor</type>
+    <tmdbid>30487</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Roundtree</name>
+    <role>Dist. Atty. Martin Talbot</role>
+    <type>Actor</type>
+    <tmdbid>6487</tmdbid>
+  </actor>
+  <actor>
+    <name>Richard Schiff</name>
+    <role>Mark Swarr</role>
+    <type>Actor</type>
+    <tmdbid>31028</tmdbid>
+  </actor>
+  <actor>
+    <name>Hawthorne James</name>
+    <role>George, Library Night Guard</role>
+    <type>Actor</type>
+    <tmdbid>12056</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Massee</name>
+    <role>Man in Booth at Massage Parlor</role>
+    <type>Actor</type>
+    <tmdbid>9289</tmdbid>
+    <imdbid>nm0557219</imdbid>
+  </actor>
+  <actor>
+    <name>Leland Orser</name>
+    <role>Crazed Man in Massage Parlor</role>
+    <type>Actor</type>
+    <tmdbid>2221</tmdbid>
+    <imdbid>nm0650702</imdbid>
+  </actor>
+  <actor>
+    <name>Richard Portnow</name>
+    <role>Dr. Beardsley</role>
+    <type>Actor</type>
+    <tmdbid>4255</tmdbid>
+    <imdbid>nm0692466</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Zacapa</name>
+    <role>Detective Taylor</role>
+    <type>Actor</type>
+    <tmdbid>12054</tmdbid>
+  </actor>
+  <actor>
+    <name>Alfonso Freeman</name>
+    <role>Fingerprint Technician</role>
+    <type>Actor</type>
+    <tmdbid>52603</tmdbid>
+    <imdbid>nm0293285</imdbid>
+  </actor>
+  <actor>
+    <name>Harris Savides</name>
+    <role>911 Operator</role>
+    <type>Actor</type>
+    <tmdbid>10688</tmdbid>
+    <imdbid>nm0767647</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Kevin Walker</name>
+    <role>Dead Man</role>
+    <type>Actor</type>
+    <tmdbid>12047</tmdbid>
+  </actor>
+  <actor>
+    <name>Richmond Arquette</name>
+    <role>Delivery Man</role>
+    <type>Actor</type>
+    <tmdbid>7472</tmdbid>
+    <imdbid>nm0037118</imdbid>
+  </actor>
+  <actor>
+    <name>Pamala Tyson</name>
+    <role>Thin Vagrant</role>
+    <type>Actor</type>
+    <tmdbid>128203</tmdbid>
+  </actor>
+  <actor>
+    <name>Emily Wagner</name>
+    <role>Detective Sara</role>
+    <type>Actor</type>
+    <tmdbid>157434</tmdbid>
+  </actor>
+  <actor>
+    <name>Shannon Wilcox</name>
+    <role>Woman Cop Behind Desk</role>
+    <type>Actor</type>
+    <tmdbid>95469</tmdbid>
+    <imdbid>nm0928279</imdbid>
+  </actor>
+  <actor>
+    <name>George Christy</name>
+    <role>Workman at Door of Somerset's Office</role>
+    <type>Actor</type>
+    <tmdbid>1583695</tmdbid>
+  </actor>
+  <actor>
+    <name>Endre Hules</name>
+    <role>Cab Driver</role>
+    <type>Actor</type>
+    <tmdbid>43461</tmdbid>
+  </actor>
+  <actor>
+    <name>William Davidson</name>
+    <role>First Guard at the Library</role>
+    <type>Actor</type>
+    <tmdbid>1025337</tmdbid>
+  </actor>
+  <actor>
+    <name>Bob Collins</name>
+    <role>Second Guard at the Library</role>
+    <type>Actor</type>
+    <tmdbid>1055173</tmdbid>
+  </actor>
+  <actor>
+    <name>Dominique Jennings</name>
+    <role>TV News Reporter</role>
+    <type>Actor</type>
+    <tmdbid>95200</tmdbid>
+  </actor>
+  <actor>
+    <name>Allan Kolman</name>
+    <role>First Forensic Man in the Law Office</role>
+    <type>Actor</type>
+    <tmdbid>31533</tmdbid>
+  </actor>
+  <actor>
+    <name>Gene Borkan</name>
+    <role>Eli Gould - Greed Victim</role>
+    <type>Actor</type>
+    <tmdbid>152638</tmdbid>
+  </actor>
+  <actor>
+    <name>Mario Di Donato</name>
+    <role>Fingerprint Forensic Man in Law Office</role>
+    <type>Actor</type>
+    <tmdbid>176969</tmdbid>
+  </actor>
+  <actor>
+    <name>Harrison White</name>
+    <role>Cop on SWAT Team</role>
+    <type>Actor</type>
+    <tmdbid>1487328</tmdbid>
+  </actor>
+  <actor>
+    <name>Bob Stephenson</name>
+    <role>Cop on SWAT Team</role>
+    <type>Actor</type>
+    <tmdbid>17449</tmdbid>
+    <imdbid>nm0827307</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Reid MacKay</name>
+    <role>Victor - Sloth Victim</role>
+    <type>Actor</type>
+    <tmdbid>174037</tmdbid>
+  </actor>
+  <actor>
+    <name>Lennie Loftin</name>
+    <role>Policeman Who Takes Statement from Vagrant</role>
+    <type>Actor</type>
+    <tmdbid>42200</tmdbid>
+  </actor>
+  <actor>
+    <name>Martin Serene</name>
+    <role>Wild Bill</role>
+    <type>Actor</type>
+    <tmdbid>1107809</tmdbid>
+  </actor>
+  <actor>
+    <name>David Correia</name>
+    <role>First Cop at Massage Parlor</role>
+    <type>Actor</type>
+    <tmdbid>91843</tmdbid>
+  </actor>
+  <actor>
+    <name>Lexie Bigham</name>
+    <role>Sweating Cop at Massage Parlor</role>
+    <type>Actor</type>
+    <tmdbid>9783</tmdbid>
+  </actor>
+  <actor>
+    <name>Evan Mirand</name>
+    <role>Paramedic at Massage Parlor</role>
+    <type>Actor</type>
+    <tmdbid>175120</tmdbid>
+    <imdbid>nm0592030</imdbid>
+  </actor>
+  <actor>
+    <name>Paul Eckstein</name>
+    <role>Paramedic at Massage Parlor</role>
+    <type>Actor</type>
+    <tmdbid>1492029</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Flanagan</name>
+    <role>Additional 911 Operator</role>
+    <type>Actor</type>
+    <tmdbid>1114784</tmdbid>
+    <imdbid>nm0769574</imdbid>
+  </actor>
+  <actor>
+    <name>Heidi Schanz</name>
+    <role>Pride Victim</role>
+    <type>Actor</type>
+    <tmdbid>11321</tmdbid>
+  </actor>
+  <actor>
+    <name>Brian Evers</name>
+    <role>Duty Sergeant</role>
+    <type>Actor</type>
+    <tmdbid>168162</tmdbid>
+  </actor>
+  <actor>
+    <name>James Deeth</name>
+    <role>Helicopter Pilot</role>
+    <type>Actor</type>
+    <tmdbid>54433</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles A. Tamburro</name>
+    <role>SWAT Helicopter Pilot</role>
+    <type>Actor</type>
+    <tmdbid>16563</tmdbid>
+  </actor>
+  <actor>
+    <name>Charles S. Dutton</name>
+    <role>Cop (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>17764</tmdbid>
+  </actor>
+  <actor>
+    <name>Arthur Max</name>
+    <role>Man in Library (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>944</tmdbid>
+  </actor>
+  <director tmdbid="7467" imdbid="nm0000399">David Fincher</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=SpKbZ_3zlb0</trailer>
+  <rating>8.6</rating>
+  <year>1995</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0114369</imdbid>
+  <tmdbid>807</tmdbid>
+  <premiered>1995-09-22</premiered>
+  <releasedate>1995-09-22</releasedate>
+  <criticrating>82</criticrating>
+  <runtime>127</runtime>
+  <country>United States of America</country>
+  <genre>犯罪</genre>
+  <genre>悬疑</genre>
+  <genre>惊悚</genre>
+  <studio>New Line Cinema</studio>
+  <studio>Juno Pix</studio>
+  <studio>Cecchi Gori Pictures</studio>
+  <uniqueid type="Tmdb">807</uniqueid>
+  <uniqueid type="Imdb">tt0114369</uniqueid>
+  <id>tt0114369</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>vc1</codec>
+        <micodec>vc1</micodec>
+        <bitrate>37970919</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>126</duration>
+        <durationinseconds>7609</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>1</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>1</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <channels>1</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>jpn</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ger</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>por</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>gre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>heb</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>tur</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>kor</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[李奥纳德和薛尔登受邀到柏克莱演讲，两人绕道去乔治·卢卡斯的农场。 在家中，霍华和贝妮黛为 《神秘博士》争辩。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-05-18 18:00:37</dateadded>
+  <title>The Skywalker Incursion</title>
+  <actor>
+    <name>Mark Barrett</name>
+    <type>GuestStar</type>
+    <tmdbid>1484472</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Dempsey</name>
+    <type>GuestStar</type>
+    <tmdbid>80301</tmdbid>
+    <imdbid>nm0218749</imdbid>
+  </actor>
+  <actor>
+    <name>Tate Ellington</name>
+    <type>GuestStar</type>
+    <tmdbid>965205</tmdbid>
+    <imdbid>nm1693588</imdbid>
+  </actor>
+  <director>Mark Cendrowski</director>
+  <rating>7.6</rating>
+  <year>2015</year>
+  <imdbid>tt3862724</imdbid>
+  <tvdbid>5149888</tvdbid>
+  <runtime>22</runtime>
+  <genre>Comedy</genre>
+  <genre>Romance</genre>
+  <tvrageid>1065768525</tvrageid>
+  <uniqueid type="Imdb">tt3862724</uniqueid>
+  <uniqueid type="Tvdb">5149888</uniqueid>
+  <uniqueid type="TvRage">1065768525</uniqueid>
+  <episode>19</episode>
+  <season>8</season>
+  <aired>2015-04-02</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1585705</bitrate>
+        <width>1024</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1291</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

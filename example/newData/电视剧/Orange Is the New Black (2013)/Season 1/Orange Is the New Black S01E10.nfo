@@ -1,0 +1,368 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[查普曼和艾利克斯在监狱中二度复合，又变成了一对恩爱的同性恋人。红妈还是拒绝和警员门德斯的贩毒合作。白粉妹遭到门德斯的威胁，门德斯让白粉妹替自己在狱中贩售毒品。白粉妹拿着毒品吸食过量导致死亡，恰好被门德斯发现遗体，慌乱的门德斯为了洗脱罪行掩盖真相，伪造了白粉妹死亡现场，让众人觉得白粉妹是吊颈自杀。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-09-02 12:13:50</dateadded>
+  <title>掩盖真相</title>
+  <actor>
+    <name>Taylor Schilling</name>
+    <role>Piper Chapman</role>
+    <type>Actor</type>
+    <tmdbid>221809</tmdbid>
+    <imdbid>nm2279940</imdbid>
+  </actor>
+  <actor>
+    <name>Michelle Hurst</name>
+    <role>Miss Claudette Pelage</role>
+    <type>Actor</type>
+    <tmdbid>96223</tmdbid>
+  </actor>
+  <actor>
+    <name>Kate Mulgrew</name>
+    <role>Galina 'Red' Reznikov</role>
+    <type>Actor</type>
+    <tmdbid>35317</tmdbid>
+    <imdbid>nm0000550</imdbid>
+  </actor>
+  <actor>
+    <name>Laura Prepon</name>
+    <role>Alex Vause</role>
+    <type>Actor</type>
+    <tmdbid>18974</tmdbid>
+    <imdbid>nm0696059</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Harney</name>
+    <role>Sam Healy</role>
+    <type>Actor</type>
+    <tmdbid>1214447</tmdbid>
+  </actor>
+  <actor>
+    <name>Jason Biggs</name>
+    <role>Larry Bloom</role>
+    <type>Actor</type>
+    <tmdbid>21593</tmdbid>
+    <imdbid>nm0004755</imdbid>
+  </actor>
+  <actor>
+    <name>Natasha Lyonne</name>
+    <role>Nicky Nichols</role>
+    <type>GuestStar</type>
+    <tmdbid>10871</tmdbid>
+    <imdbid>nm0005169</imdbid>
+  </actor>
+  <actor>
+    <name>Uzo Aduba</name>
+    <role>Suzanne 'Crazy Eyes' Warren</role>
+    <type>GuestStar</type>
+    <tmdbid>1332680</tmdbid>
+    <imdbid>nm2499064</imdbid>
+  </actor>
+  <actor>
+    <name>Jackie Cruz</name>
+    <role>Marisol 'Flaca' Gonzales</role>
+    <type>GuestStar</type>
+    <tmdbid>1443625</tmdbid>
+    <imdbid>nm3117320</imdbid>
+  </actor>
+  <actor>
+    <name>Taryn Manning</name>
+    <role>Tiffany 'Pennsatucky' Doggett</role>
+    <type>GuestStar</type>
+    <tmdbid>343</tmdbid>
+    <imdbid>nm0543383</imdbid>
+  </actor>
+  <actor>
+    <name>Adrienne C. Moore</name>
+    <role>Cindy Hayes</role>
+    <type>GuestStar</type>
+    <tmdbid>1443478</tmdbid>
+  </actor>
+  <actor>
+    <name>Dascha Polanco</name>
+    <role>Dayanara Diaz</role>
+    <type>GuestStar</type>
+    <tmdbid>1026947</tmdbid>
+    <imdbid>nm4745601</imdbid>
+  </actor>
+  <actor>
+    <name>Nick Sandow</name>
+    <role>Joe Caputo</role>
+    <type>GuestStar</type>
+    <tmdbid>95519</tmdbid>
+    <imdbid>nm0762191</imdbid>
+  </actor>
+  <actor>
+    <name>Yael Stone</name>
+    <role>Lorna Morello</role>
+    <type>GuestStar</type>
+    <tmdbid>1028560</tmdbid>
+    <imdbid>nm0832227</imdbid>
+  </actor>
+  <actor>
+    <name>Torrey Berkson</name>
+    <role>Alicia</role>
+    <type>GuestStar</type>
+    <tmdbid>1059486</tmdbid>
+  </actor>
+  <actor>
+    <name>Rachel Brosnahan</name>
+    <role>Little Allie</role>
+    <type>GuestStar</type>
+    <tmdbid>993774</tmdbid>
+    <imdbid>nm3014031</imdbid>
+  </actor>
+  <actor>
+    <name>Madeline Brewer</name>
+    <role>Tricia Miller</role>
+    <type>GuestStar</type>
+    <tmdbid>1443712</tmdbid>
+    <imdbid>nm5483400</imdbid>
+  </actor>
+  <actor>
+    <name>Patrick Cann</name>
+    <role>Cop</role>
+    <type>GuestStar</type>
+    <tmdbid>3048699</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Cyril Creighton</name>
+    <role>Store Manager</role>
+    <type>GuestStar</type>
+    <tmdbid>1325715</tmdbid>
+    <imdbid>nm1644112</imdbid>
+  </actor>
+  <actor>
+    <name>Sean Patrick Doyle</name>
+    <role>Shop Clerk</role>
+    <type>GuestStar</type>
+    <tmdbid>999389</tmdbid>
+  </actor>
+  <actor>
+    <name>Fenton Lawless</name>
+    <role>Man in Car</role>
+    <type>GuestStar</type>
+    <tmdbid>187683</tmdbid>
+    <imdbid>nm0492507</imdbid>
+  </actor>
+  <actor>
+    <name>Justine Salata</name>
+    <role>Sara</role>
+    <type>GuestStar</type>
+    <tmdbid>1791287</tmdbid>
+  </actor>
+  <actor>
+    <name>Lexie Speirs</name>
+    <role>Rebecca</role>
+    <type>GuestStar</type>
+    <tmdbid>3078753</tmdbid>
+  </actor>
+  <actor>
+    <name>Adrienne Warren</name>
+    <role>Dina</role>
+    <type>GuestStar</type>
+    <tmdbid>1165923</tmdbid>
+  </actor>
+  <actor>
+    <name>Bekah Mulberg</name>
+    <role>Scared Straight Girl (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>3078757</tmdbid>
+  </actor>
+  <actor>
+    <name>James McDaniel</name>
+    <role>Jean Baptiste</role>
+    <type>GuestStar</type>
+    <tmdbid>81372</tmdbid>
+  </actor>
+  <actor>
+    <name>Cristina J. Huie</name>
+    <role>Loretta (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>1346223</tmdbid>
+  </actor>
+  <actor>
+    <name>Shaleeni Ranchhod</name>
+    <role>Inmate</role>
+    <type>GuestStar</type>
+    <tmdbid>2510670</tmdbid>
+  </actor>
+  <actor>
+    <name>Matt McGorry</name>
+    <role>John Bennett</role>
+    <type>GuestStar</type>
+    <tmdbid>979843</tmdbid>
+  </actor>
+  <actor>
+    <name>Eric J Carlson</name>
+    <role>Corrections Officer (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>1633485</tmdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Rodriguez</name>
+    <role>Aleida Diaz</role>
+    <type>GuestStar</type>
+    <tmdbid>65421</tmdbid>
+  </actor>
+  <actor>
+    <name>Samira Wiley</name>
+    <role>Poussey Washington</role>
+    <type>GuestStar</type>
+    <tmdbid>1034197</tmdbid>
+    <imdbid>nm4148126</imdbid>
+  </actor>
+  <actor>
+    <name>Vicky Jeudy</name>
+    <role>Janae Watson</role>
+    <type>GuestStar</type>
+    <tmdbid>1443647</tmdbid>
+  </actor>
+  <actor>
+    <name>Emma Myles</name>
+    <role>Leanne Taylor</role>
+    <type>GuestStar</type>
+    <tmdbid>1333708</tmdbid>
+  </actor>
+  <actor>
+    <name>Constance Shulman</name>
+    <role>Yoga Jones</role>
+    <type>GuestStar</type>
+    <tmdbid>58521</tmdbid>
+  </actor>
+  <actor>
+    <name>Lin Tucci</name>
+    <role>Anita DeMarco</role>
+    <type>GuestStar</type>
+    <tmdbid>955883</tmdbid>
+  </actor>
+  <actor>
+    <name>Julie Lake</name>
+    <role>Angie Rice</role>
+    <type>GuestStar</type>
+    <tmdbid>1443714</tmdbid>
+  </actor>
+  <actor>
+    <name>Laverne Cox</name>
+    <role>Sophia Burset</role>
+    <type>GuestStar</type>
+    <tmdbid>1298360</tmdbid>
+  </actor>
+  <actor>
+    <name>Maria Dizzia</name>
+    <role>Polly Harper</role>
+    <type>GuestStar</type>
+    <tmdbid>205797</tmdbid>
+    <imdbid>nm1978694</imdbid>
+  </actor>
+  <actor>
+    <name>Catherine Curtin</name>
+    <role>Wanda Bell</role>
+    <type>GuestStar</type>
+    <tmdbid>205808</tmdbid>
+  </actor>
+  <actor>
+    <name>Diane Guerrero</name>
+    <role>Maritza Ramos</role>
+    <type>GuestStar</type>
+    <tmdbid>1010157</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren Lapkus</name>
+    <role>Susan Fischer</role>
+    <type>GuestStar</type>
+    <tmdbid>591834</tmdbid>
+    <imdbid>nm1944055</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Chernus</name>
+    <role>Cal Chapman</role>
+    <type>GuestStar</type>
+    <tmdbid>87070</tmdbid>
+  </actor>
+  <actor>
+    <name>Berto Colon</name>
+    <role>Cesar</role>
+    <type>GuestStar</type>
+    <tmdbid>1030204</tmdbid>
+  </actor>
+  <actor>
+    <name>Pablo Schreiber</name>
+    <role>George 'Pornstache' Mendez</role>
+    <type>GuestStar</type>
+    <tmdbid>59254</tmdbid>
+  </actor>
+  <actor>
+    <name>Lea DeLaria</name>
+    <role>Big Boo</role>
+    <type>GuestStar</type>
+    <tmdbid>40063</tmdbid>
+  </actor>
+  <actor>
+    <name>Joel Garland</name>
+    <role>Scott O'Neill</role>
+    <type>GuestStar</type>
+    <tmdbid>88550</tmdbid>
+    <imdbid>nm0307534</imdbid>
+  </actor>
+  <actor>
+    <name>Tracee Chimo</name>
+    <role>Neri Feldman</role>
+    <type>GuestStar</type>
+    <tmdbid>1141410</tmdbid>
+  </actor>
+  <director>Andrew McCarthy</director>
+  <rating>8.526</rating>
+  <year>2013</year>
+  <imdbid>tt2692410</imdbid>
+  <tvdbid>4550339</tvdbid>
+  <runtime>54</runtime>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt2692410</uniqueid>
+  <uniqueid type="Tvdb">4550339</uniqueid>
+  <episode>10</episode>
+  <season>1</season>
+  <aired>2013-07-11</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10612321</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.975986</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>53</duration>
+        <durationinseconds>3211</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

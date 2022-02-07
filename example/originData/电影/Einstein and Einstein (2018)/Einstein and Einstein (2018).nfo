@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　李玩刚上初中，父亲再婚与继母生了个弟弟，父亲焦虑着该如何告知李玩此事，却意外因课业起了争执，为此父亲买一只小狗哄劝女儿。热爱物理学的李玩将小狗取名为“爱因斯坦”，但小狗却意外中走失了。为了安抚李玩，家人将另一只同品种的小狗用来取代爱因斯坦。当继母及新弟弟的加入家庭后，家人又称呼新来的小狗为“爱因斯坦”，让李玩在在觉得自己像个局外人，她发现自己无法逃脱成人世界为她编织的谎言，难道这就是成长的过程及代价吗？]]></plot>
+  <outline><![CDATA[失物招领 你的青春]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2018-06-07 05:36:48</dateadded>
+  <title>狗十三</title>
+  <originaltitle>狗十三</originaltitle>
+  <actor>
+    <name>Sophie Zhang</name>
+    <role>Li Wan</role>
+    <type>Actor</type>
+    <tmdbid>1258373</tmdbid>
+    <imdbid>nm5093503</imdbid>
+  </actor>
+  <actor>
+    <name>Guo Jinglin</name>
+    <role>Li Wan's father</role>
+    <type>Actor</type>
+    <tmdbid>1079118</tmdbid>
+  </actor>
+  <actor>
+    <name>Zhi Yitong</name>
+    <role>Li Wan's grandfather</role>
+    <type>Actor</type>
+    <tmdbid>1299590</tmdbid>
+  </actor>
+  <actor>
+    <name>Dai Xu</name>
+    <role>Gao Fang</role>
+    <type>Actor</type>
+    <tmdbid>1872331</tmdbid>
+  </actor>
+  <director tmdbid="575865" imdbid="nm3148857">Cao Baoping</director>
+  <rating>7.4</rating>
+  <year>2018</year>
+  <imdbid>tt3401962</imdbid>
+  <tmdbid>284593</tmdbid>
+  <premiered>2018-12-07</premiered>
+  <releasedate>2018-12-07</releasedate>
+  <criticrating>80</criticrating>
+  <runtime>120</runtime>
+  <tagline>失物招领 你的青春</tagline>
+  <country>China</country>
+  <genre>家庭</genre>
+  <genre>剧情</genre>
+  <uniqueid type="Tmdb">284593</uniqueid>
+  <uniqueid type="Imdb">tt3401962</uniqueid>
+  <id>tt3401962</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>mpeg2video</codec>
+        <micodec>mpeg2video</micodec>
+        <bitrate>4001437</bitrate>
+        <width>720</width>
+        <height>576</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>119</duration>
+        <durationinseconds>7180</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

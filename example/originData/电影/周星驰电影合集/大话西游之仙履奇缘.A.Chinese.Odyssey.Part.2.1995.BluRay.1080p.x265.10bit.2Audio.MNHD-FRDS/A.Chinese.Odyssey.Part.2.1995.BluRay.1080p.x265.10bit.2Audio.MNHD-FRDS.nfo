@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[　　故事发生在《大话西游》上一集《月光宝盒》之前500年。至尊宝被月光宝盒带回到五百年前，恰巧遇到紫霞仙子。紫霞仙子曾有一誓言，只要谁能拔出她手中的紫青宝剑，就是她的意中人。不想宝剑被至尊宝拔出，紫霞决定以身相许，却遭至尊宝拒绝。 紫霞迷失在沙漠，为牛魔王所救。牛魔王逼紫霞与之成婚。关键时刻，至尊宝转世成为齐天大圣孙悟空，踏着五彩祥云来救紫霞。打斗中，悟空为救师父而放弃了紫霞，紫霞为牛魔王所杀......]]></plot>
+  <outline><![CDATA[那个人好像一条狗]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2021-05-04 14:19:34</dateadded>
+  <title>大话西游之仙履奇缘</title>
+  <originaltitle>西遊記大結局之仙履奇緣</originaltitle>
+  <actor>
+    <name>Stephen Chow</name>
+    <role>Chi Juen Bo / Joker / Monkey King</role>
+    <type>Actor</type>
+    <tmdbid>57607</tmdbid>
+    <imdbid>nm0159507</imdbid>
+  </actor>
+  <actor>
+    <name>Ng Man-tat</name>
+    <role>Jue Baat Gaai / Piggy</role>
+    <type>Actor</type>
+    <tmdbid>70437</tmdbid>
+    <imdbid>nm0628806</imdbid>
+  </actor>
+  <actor>
+    <name>Athena Chu</name>
+    <role>Purple / Lin Zixia</role>
+    <type>Actor</type>
+    <tmdbid>87942</tmdbid>
+    <imdbid>nm0160803</imdbid>
+  </actor>
+  <actor>
+    <name>Law Kar-Ying</name>
+    <role>Tong Chang / Longevity Monk</role>
+    <type>Actor</type>
+    <tmdbid>87944</tmdbid>
+    <imdbid>nm0492344</imdbid>
+  </actor>
+  <actor>
+    <name>Yammie Lam</name>
+    <role>Jeung Chu Cheng / Xiang Xiang</role>
+    <type>Actor</type>
+    <tmdbid>87945</tmdbid>
+    <imdbid>nm0482643</imdbid>
+  </actor>
+  <actor>
+    <name>Karen Mok</name>
+    <role>Baak Gwat Cheng / Pak Jing Jing</role>
+    <type>Actor</type>
+    <tmdbid>57831</tmdbid>
+    <imdbid>nm0596297</imdbid>
+  </actor>
+  <actor>
+    <name>Jeffrey Lau</name>
+    <role>Piu Dai Liu Jo / The Grapes / Grandpa Buddha</role>
+    <type>Actor</type>
+    <tmdbid>57617</tmdbid>
+    <imdbid>nm0311508</imdbid>
+  </actor>
+  <actor>
+    <name>Ada Choi</name>
+    <role>Iron Fan Princess / Lin Qing Xia</role>
+    <type>Actor</type>
+    <tmdbid>87948</tmdbid>
+    <imdbid>nm0158785</imdbid>
+  </actor>
+  <actor>
+    <name>Johnnie Kong</name>
+    <role>Sandy</role>
+    <type>Actor</type>
+    <tmdbid>87950</tmdbid>
+    <imdbid>nm0465036</imdbid>
+  </actor>
+  <actor>
+    <name>Lu Shuming</name>
+    <role>King Bull</role>
+    <type>Actor</type>
+    <tmdbid>1843208</tmdbid>
+  </actor>
+  <director tmdbid="57617" imdbid="nm0311508">Jeffrey Lau</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=iK93BzuGG-U</trailer>
+  <rating>8</rating>
+  <year>1995</year>
+  <mpaa>HK-II</mpaa>
+  <imdbid>tt0114996</imdbid>
+  <tmdbid>21835</tmdbid>
+  <premiered>1995-02-04</premiered>
+  <releasedate>1995-02-04</releasedate>
+  <criticrating>87</criticrating>
+  <runtime>100</runtime>
+  <tagline>那个人好像一条狗</tagline>
+  <country>Hong Kong</country>
+  <genre>喜剧</genre>
+  <genre>奇幻</genre>
+  <studio>Choi Sing Din Ying Gung Shut</studio>
+  <studio>Xi'an Film Studio</studio>
+  <set tmdbcolid="201544">
+    <name>大话西游（系列）</name>
+  </set>
+  <uniqueid type="TmdbCollection">201544</uniqueid>
+  <tmdbcollectionid>201544</tmdbcollectionid>
+  <uniqueid type="Imdb">tt0114996</uniqueid>
+  <uniqueid type="Tmdb">21835</uniqueid>
+  <id>tt0114996</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>5978065</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>99</duration>
+        <durationinseconds>5984</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

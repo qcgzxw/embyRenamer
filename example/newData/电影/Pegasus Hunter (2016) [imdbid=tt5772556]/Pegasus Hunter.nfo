@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[Chad Steelman, local legend and deadbeat, recruits a team to take vengeance on the might mythical Pegasus.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-04-03 11:43:02</dateadded>
+  <title>Pegasus Hunter</title>
+  <originaltitle>Pegasus Hunter</originaltitle>
+  <actor>
+    <name>Jason A. Wild</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Paul Baker</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Aleks Ignjatovic</name>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Katrina Kmak</name>
+    <type>Actor</type>
+  </actor>
+  <director>Lucas Millhouse</director>
+  <writer>Jason A. Wild</writer>
+  <credits>Jason A. Wild</credits>
+  <rating>5.8</rating>
+  <year>2016</year>
+  <imdbid>tt5772556</imdbid>
+  <tmdbid>418892</tmdbid>
+  <runtime>98</runtime>
+  <genre>Adventure</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <uniqueid type="Tmdb">418892</uniqueid>
+  <uniqueid type="Imdb">tt5772556</uniqueid>
+  <id>tt5772556</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4998811</bitrate>
+        <width>1920</width>
+        <height>752</height>
+        <aspect>160:63</aspect>
+        <aspectratio>160:63</aspectratio>
+        <framerate>24</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>98</duration>
+        <durationinseconds>5890</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>128000</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>44100</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

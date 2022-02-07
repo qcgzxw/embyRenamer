@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[抗日战争时期，一队八路军来到了沂蒙山区的堡垒村马牧池，随他们一同前来的还有国际友人捐赠的奶牛。长年生活在大山中的村民从没见过这种黑白相间、奶量充足的牛，他们备感惊奇。不久，日军船尻部队逼近，八路军紧急撤退，临行前将奶牛托付给村民喂养。贫穷胆小的村民担心奶牛会带来灾难，他们通过抓红豆的方式选出养牛人，小寡妇九儿（闫妮 饰）帮破落户牛二（黄渤 饰）抓阄，最终使牛二成了这倒霉的“幸运儿”。残酷血腥的扫荡过后，村民们全被杀害，只有牛二和奶牛成为幸存者。尚未得到喘息之时，另一队日军部队路过此地，并将伤员留在这里。从这天起，肩负着保护奶牛重任的牛二想尽办法和日军、土匪、江湖郎中等各色人等展开周旋，而那头倔脾气的搭档也让他头疼不已……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2017-12-28 09:37:08</dateadded>
+  <title>斗牛</title>
+  <originaltitle>斗牛</originaltitle>
+  <actor>
+    <name>Huang Bo</name>
+    <role>Niu Er</role>
+    <type>Actor</type>
+    <tmdbid>128026</tmdbid>
+    <imdbid>nm2348646</imdbid>
+  </actor>
+  <actor>
+    <name>Yan Ni</name>
+    <role>Jiu'er</role>
+    <type>Actor</type>
+    <tmdbid>131303</tmdbid>
+    <imdbid>nm1106713</imdbid>
+  </actor>
+  <director tmdbid="131301" imdbid="nm1299690">Guan Hu</director>
+  <rating>7.2</rating>
+  <year>2009</year>
+  <imdbid>tt1500703</imdbid>
+  <tmdbid>44714</tmdbid>
+  <premiered>2009-09-11</premiered>
+  <releasedate>2009-09-11</releasedate>
+  <criticrating>65</criticrating>
+  <runtime>105</runtime>
+  <country>China</country>
+  <genre>剧情</genre>
+  <genre>战争</genre>
+  <uniqueid type="Tmdb">44714</uniqueid>
+  <uniqueid type="Imdb">tt1500703</uniqueid>
+  <id>tt1500703</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>3562251</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>104</duration>
+        <durationinseconds>6276</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

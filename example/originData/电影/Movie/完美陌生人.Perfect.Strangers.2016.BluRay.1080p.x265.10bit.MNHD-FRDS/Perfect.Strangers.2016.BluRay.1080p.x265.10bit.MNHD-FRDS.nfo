@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[三对处于各个婚姻阶段的伴侣和一个宅男，七人聚在一起吃晚餐。女主人提议下拍板决定当夜所有人分享每一个电话、每一条短信、邮件的内容,由此许多秘密开始不再是秘密，他们之间的关系也开始发生波动。无数疮痍在这场“坦白局”中被揭开，复杂的男女情感让所有人陷入困局，什么是婚姻感情中最不可触碰的底线？众人遭遇是难言的禁忌还是隐藏的真心，月食过后，谎言能否继续？]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-20 07:44:18</dateadded>
+  <title>完美陌生人</title>
+  <originaltitle>Perfetti sconosciuti</originaltitle>
+  <actor>
+    <name>Valerio Mastandrea</name>
+    <role>Lele</role>
+    <type>Actor</type>
+    <tmdbid>56843</tmdbid>
+  </actor>
+  <actor>
+    <name>Kasia Smutniak</name>
+    <role>Eva</role>
+    <type>Actor</type>
+    <tmdbid>120832</tmdbid>
+  </actor>
+  <actor>
+    <name>Marco Giallini</name>
+    <role>Rocco</role>
+    <type>Actor</type>
+    <tmdbid>146464</tmdbid>
+  </actor>
+  <actor>
+    <name>Alba Rohrwacher</name>
+    <role>Bianca</role>
+    <type>Actor</type>
+    <tmdbid>128748</tmdbid>
+    <imdbid>nm2130040</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Foglietta</name>
+    <role>Carlotta</role>
+    <type>Actor</type>
+    <tmdbid>586953</tmdbid>
+  </actor>
+  <actor>
+    <name>Giuseppe Battiston</name>
+    <role>Peppe</role>
+    <type>Actor</type>
+    <tmdbid>7541</tmdbid>
+  </actor>
+  <actor>
+    <name>Edoardo Leo</name>
+    <role>Cosimo</role>
+    <type>Actor</type>
+    <tmdbid>1047948</tmdbid>
+  </actor>
+  <actor>
+    <name>Benedetta Porcaroli</name>
+    <role>Sofia</role>
+    <type>Actor</type>
+    <tmdbid>1822392</tmdbid>
+  </actor>
+  <actor>
+    <name>Elisabetta De Palo</name>
+    <role>Nonna</role>
+    <type>Actor</type>
+    <tmdbid>1024233</tmdbid>
+  </actor>
+  <actor>
+    <name>Tommaso Tatafiore</name>
+    <role>Bruno</role>
+    <type>Actor</type>
+    <tmdbid>1927718</tmdbid>
+  </actor>
+  <actor>
+    <name>Noemi Pagotto</name>
+    <role>Rosa</role>
+    <type>Actor</type>
+    <tmdbid>1927720</tmdbid>
+  </actor>
+  <director tmdbid="225160">Paolo Genovese</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=-lOUnBsjGuY</trailer>
+  <rating>7.8</rating>
+  <year>2016</year>
+  <mpaa>HK-IIA</mpaa>
+  <imdbid>tt4901306</imdbid>
+  <tmdbid>381341</tmdbid>
+  <premiered>2016-02-11</premiered>
+  <releasedate>2016-02-11</releasedate>
+  <criticrating>77</criticrating>
+  <runtime>96</runtime>
+  <country>Italy</country>
+  <genre>喜剧</genre>
+  <genre>剧情</genre>
+  <studio>Medusa Film</studio>
+  <studio>Mediaset Premium</studio>
+  <studio>Ministero per i Beni e le Attività Culturali</studio>
+  <studio>EsseQuamVideri</studio>
+  <uniqueid type="Tmdb">381341</uniqueid>
+  <uniqueid type="Imdb">tt4901306</uniqueid>
+  <id>tt4901306</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>6252618</bitrate>
+        <width>1920</width>
+        <height>804</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>24</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>96</duration>
+        <durationinseconds>5776</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

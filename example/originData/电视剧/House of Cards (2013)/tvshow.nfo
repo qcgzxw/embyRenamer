@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<tvshow>
+  <plot><![CDATA[弗兰西斯·安德伍德是一位极具政治野心的南卡罗来纳州民主党众议员、众议院多数党党鞭。他帮助加勒特·沃克赢得大选成为第45任美国总统，而沃克作为回报则许诺将任命他为国务卿。然而，在沃克宣誓就职之前，白宫幕僚长琳达·瓦斯奎兹却告知安德伍德，称总统希望将他留在国会推动法案通过，因而将不会提名他作国务卿。安德伍德对总统的背叛之举愤怒不已，他决定单干倒戈，逐步实现自己的总统梦想。]]></plot>
+  <outline><![CDATA[弗兰西斯·安德伍德是一位极具政治野心的南卡罗来纳州民主党众议员、众议院多数党党鞭。他帮助加勒特·沃克赢得大选成为第45任美国总统，而沃克作为回报则许诺将任命他为国务卿。然而，在沃克宣誓就职之前，白宫幕僚长琳达·瓦斯奎兹却告知安德伍德，称总统希望将他留在国会推动法案通过，因而将不会提名他作国务卿。安德伍德对总统的背叛之举愤怒不已，他决定单干倒戈，逐步实现自己的总统梦想。]]></outline>
+  <lockdata>false</lockdata>
+  <dateadded>2020-10-08 08:09:52</dateadded>
+  <title>纸牌屋</title>
+  <originaltitle>House of Cards</originaltitle>
+  <actor>
+    <name>Robin Wright</name>
+    <role>Claire Underwood</role>
+    <type>Actor</type>
+    <tmdbid>32</tmdbid>
+    <imdbid>nm0000705</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Kelly</name>
+    <role>Doug Stamper</role>
+    <type>Actor</type>
+    <tmdbid>50217</tmdbid>
+    <imdbid>nm0446672</imdbid>
+  </actor>
+  <actor>
+    <name>Constance Zimmer</name>
+    <role>Janine Skorsky</role>
+    <type>Actor</type>
+    <tmdbid>156204</tmdbid>
+    <imdbid>nm0956603</imdbid>
+  </actor>
+  <actor>
+    <name>Patricia Clarkson</name>
+    <role>Jane Davis</role>
+    <type>Actor</type>
+    <tmdbid>1276</tmdbid>
+    <imdbid>nm0165101</imdbid>
+  </actor>
+  <actor>
+    <name>Derek Cecil</name>
+    <role>Seth Grayson</role>
+    <type>Actor</type>
+    <tmdbid>60117</tmdbid>
+    <imdbid>nm0147689</imdbid>
+  </actor>
+  <actor>
+    <name>Boris McGiver</name>
+    <role>Tom Hammerschmidt</role>
+    <type>Actor</type>
+    <tmdbid>151432</tmdbid>
+    <imdbid>nm0569409</imdbid>
+  </actor>
+  <actor>
+    <name>Lars Mikkelsen</name>
+    <role>Viktor Petrov</role>
+    <type>Actor</type>
+    <tmdbid>71158</tmdbid>
+    <imdbid>nm0586565</imdbid>
+  </actor>
+  <actor>
+    <name>Cody Fern</name>
+    <role>Duncan Shepherd</role>
+    <type>Actor</type>
+    <tmdbid>1197895</tmdbid>
+    <imdbid>nm3719144</imdbid>
+  </actor>
+  <actor>
+    <name>Campbell Scott</name>
+    <role>Mark Usher</role>
+    <type>Actor</type>
+    <tmdbid>55152</tmdbid>
+    <imdbid>nm0001714</imdbid>
+  </actor>
+  <actor>
+    <name>Greg Kinnear</name>
+    <role>Bill Shepherd</role>
+    <type>Actor</type>
+    <tmdbid>17141</tmdbid>
+    <imdbid>nm0001427</imdbid>
+  </actor>
+  <actor>
+    <name>Diane Lane</name>
+    <role>Annette Shepherd</role>
+    <type>Actor</type>
+    <tmdbid>2882</tmdbid>
+    <imdbid>nm0000178</imdbid>
+  </actor>
+  <trailer>http://www.youtube.com/watch?v=x1E8PSGcyqI</trailer>
+  <rating>8.1</rating>
+  <year>2013</year>
+  <mpaa>TV-MA</mpaa>
+  <imdb_id>tt1856010</imdb_id>
+  <tmdbid>1425</tmdbid>
+  <premiered>2013-02-01</premiered>
+  <releasedate>2013-02-01</releasedate>
+  <enddate>2018-11-02</enddate>
+  <runtime>50</runtime>
+  <genre>剧情</genre>
+  <studio>Netflix</studio>
+  <zap2itid>SH01676454</zap2itid>
+  <tvrageid>27822</tvrageid>
+  <uniqueid type="Imdb">tt1856010</uniqueid>
+  <uniqueid type="Tmdb">1425</uniqueid>
+  <uniqueid type="Zap2It">SH01676454</uniqueid>
+  <uniqueid type="Tvdb">262980</uniqueid>
+  <tvdbid>262980</tvdbid>
+  <uniqueid type="TvRage">27822</uniqueid>
+  <id>262980</id>
+  <episodeguide>
+    <url cache="262980.xml">https://www.thetvdb.com/api/1D62F2F90030C444/series/262980/all/zh-CN.zip</url>
+  </episodeguide>
+  <season>-1</season>
+  <episode>-1</episode>
+  <displayorder>aired</displayorder>
+  <status>Ended</status>
+</tvshow>

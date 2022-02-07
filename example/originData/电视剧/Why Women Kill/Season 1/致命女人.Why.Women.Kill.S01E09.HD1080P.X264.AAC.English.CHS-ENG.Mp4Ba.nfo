@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[　　当贝丝·安打算永远把阿普里尔从罗布的生活中除名时，一场令人惊讶的对峙揭示了一个秘密，这将使贝丝·安震惊不已。与此同时，内奥米愤怒不已，她将尽一切努力保护自己的儿子，即使这意味着一路毁掉西蒙娜和卡尔的名声。在一些帮助下，泰勒揭开了杰德过去的黑暗真相，并安排了一次与伊莱的会面，希望在一切为时已晚之前联手。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2019-10-12 16:11:41</dateadded>
+  <title>不知是什么让您这样的女人如此致命</title>
+  <actor>
+    <name>Ginnifer Goodwin</name>
+    <role>Beth Ann Stanton</role>
+    <type>Actor</type>
+    <tmdbid>417</tmdbid>
+    <imdbid>nm0329481</imdbid>
+  </actor>
+  <actor>
+    <name>Lucy Liu</name>
+    <role>Simone Grove</role>
+    <type>Actor</type>
+    <tmdbid>140</tmdbid>
+    <imdbid>nm0005154</imdbid>
+  </actor>
+  <actor>
+    <name>Kirby Howell-Baptiste</name>
+    <role>Taylor Harding</role>
+    <type>Actor</type>
+    <tmdbid>1532312</tmdbid>
+    <imdbid>nm4624730</imdbid>
+  </actor>
+  <actor>
+    <name>Alexandra Daddario</name>
+    <role>Jade</role>
+    <type>Actor</type>
+    <tmdbid>109513</tmdbid>
+    <imdbid>nm1275259</imdbid>
+  </actor>
+  <actor>
+    <name>Jack Davenport</name>
+    <role>Karl Grove</role>
+    <type>Actor</type>
+    <tmdbid>1709</tmdbid>
+    <imdbid>nm0202603</imdbid>
+  </actor>
+  <actor>
+    <name>Reid Scott</name>
+    <role>Eli Cohen</role>
+    <type>Actor</type>
+    <tmdbid>81316</tmdbid>
+    <imdbid>nm1169428</imdbid>
+  </actor>
+  <actor>
+    <name>Sam Jaeger</name>
+    <role>Rob Stanton</role>
+    <type>Actor</type>
+    <tmdbid>65727</tmdbid>
+    <imdbid>nm0415382</imdbid>
+  </actor>
+  <actor>
+    <name>Sadie Calvano</name>
+    <role>April</role>
+    <type>Actor</type>
+    <tmdbid>1258702</tmdbid>
+    <imdbid>nm3970180</imdbid>
+  </actor>
+  <actor>
+    <name>Analeigh Tipton</name>
+    <role>Mary</role>
+    <type>GuestStar</type>
+    <tmdbid>124644</tmdbid>
+    <imdbid>nm3006818</imdbid>
+  </actor>
+  <actor>
+    <name>Katie Finneran</name>
+    <role>Naomi Harte</role>
+    <type>GuestStar</type>
+    <tmdbid>58771</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin McNamara</name>
+    <role>Duke</role>
+    <type>GuestStar</type>
+    <tmdbid>1720650</tmdbid>
+  </actor>
+  <actor>
+    <name>Leo Howard</name>
+    <role>Tommy Harte</role>
+    <type>GuestStar</type>
+    <tmdbid>557921</tmdbid>
+  </actor>
+  <actor>
+    <name>Li Jun Li</name>
+    <role>Amy</role>
+    <type>GuestStar</type>
+    <tmdbid>1321015</tmdbid>
+    <imdbid>nm4050835</imdbid>
+  </actor>
+  <actor>
+    <name>Scott Porter</name>
+    <role>Ralph</role>
+    <type>GuestStar</type>
+    <tmdbid>53368</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin Daniels</name>
+    <role>Lamar</role>
+    <type>GuestStar</type>
+    <tmdbid>104785</tmdbid>
+    <imdbid>nm0199823</imdbid>
+  </actor>
+  <actor>
+    <name>Lindsey Kraft</name>
+    <role>Claire</role>
+    <type>GuestStar</type>
+    <tmdbid>95521</tmdbid>
+    <imdbid>nm1837970</imdbid>
+  </actor>
+  <director>Dawn Wilkinson</director>
+  <rating>9</rating>
+  <year>2019</year>
+  <imdbid>tt10359278</imdbid>
+  <tvdbid>7352471</tvdbid>
+  <runtime>54</runtime>
+  <genre>Comedy</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt10359278</uniqueid>
+  <uniqueid type="Tvdb">7352471</uniqueid>
+  <episode>9</episode>
+  <season>1</season>
+  <aired>2019-10-10</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>5588637</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>53</duration>
+        <durationinseconds>3233</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>374558</bitrate>
+        <language>was</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

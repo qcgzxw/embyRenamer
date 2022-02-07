@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[埃琳娜对莱拉所说的话耿耿于怀，她一个人到海滩上游泳，心里怨恨莱拉总是抢在了自己的前面，连她喜欢的人也不肯放过。尼诺如约来到了，埃琳娜告诉他自己很累，不想出去玩了，尼诺问她莱拉是不是跟她说什么了，埃琳娜装作什么也不知道，尼诺直接说他吻了莱拉，埃琳娜提醒他说莱拉已经结婚了，尼诺问她为什么莱拉要嫁给斯特凡诺那样的人，埃琳娜说那时的莱拉很爱斯特凡诺，尼诺不相信，称莱拉嫁给他是因为他有钱，是为了她的生活和家人们的幸福，埃琳娜反驳着他，如果真要是那样，莱拉完全可以嫁给马尔切诺，因为他远比斯特凡诺更有钱，而且是为她痴迷的人。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-11-02 00:17:06</dateadded>
+  <title>背叛</title>
+  <actor>
+    <name>Gaia Girace</name>
+    <role>Lila (Teenager)</role>
+    <type>Actor</type>
+    <tmdbid>2165956</tmdbid>
+    <imdbid>nm10135221</imdbid>
+  </actor>
+  <actor>
+    <name>Margherita Mazzucco</name>
+    <role>Elena (Teenager)</role>
+    <type>Actor</type>
+    <tmdbid>2165955</tmdbid>
+  </actor>
+  <actor>
+    <name>Ludovica Nasti</name>
+    <role>Lila (Younger)</role>
+    <type>Actor</type>
+    <tmdbid>2165954</tmdbid>
+  </actor>
+  <actor>
+    <name>Elisa del Genio</name>
+    <role>Elena (Younger)</role>
+    <type>Actor</type>
+    <tmdbid>2165953</tmdbid>
+  </actor>
+  <actor>
+    <name>Dora Romano</name>
+    <role>Miss Oliviero</role>
+    <type>Actor</type>
+    <tmdbid>1510167</tmdbid>
+    <imdbid>nm0738873</imdbid>
+  </actor>
+  <director tmdbid="931211" imdbid="nm3114621">Alice Rohrwacher</director>
+  <rating>4.5</rating>
+  <year>2020</year>
+  <imdbid>tt9413918</imdbid>
+  <tvdbid>7550353</tvdbid>
+  <runtime>62</runtime>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt9413918</uniqueid>
+  <uniqueid type="Tvdb">7550353</uniqueid>
+  <episode>5</episode>
+  <season>2</season>
+  <aired>2020-02-24</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10408142</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>61</duration>
+        <durationinseconds>3697</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

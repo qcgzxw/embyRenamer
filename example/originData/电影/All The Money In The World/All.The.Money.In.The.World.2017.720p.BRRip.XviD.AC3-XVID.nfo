@@ -1,0 +1,348 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[改编自一起曾轰动世界的豪门绑架事件：世界首富保罗·盖蒂（克里斯托弗·普卢默 饰）之孙遭遇黑帮绑架，绑匪向其母盖尔（米歇尔·威廉姆斯 饰）索要1700万美元赎金，已经与丈夫离婚的盖尔无力支付这笔高昂的赎金，只能向盖蒂家族求救，但富可敌国却无比吝啬的老盖蒂却拒绝为孙子（查理·普拉默 饰）支付赎金，拿不到钱的绑匪丧心病狂的割下了人质的耳朵邮寄给盖蒂家族，心碎的盖尔在前CIA特工弗莱彻·蔡斯（马克·沃尔伯格 饰）的协助下，试图撼动这一僵局，解救自己的儿子……]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-03-25 09:52:07</dateadded>
+  <title>金钱世界</title>
+  <originaltitle>All the Money in the World</originaltitle>
+  <actor>
+    <name>Michelle Williams</name>
+    <role>Gail Harris</role>
+    <type>Actor</type>
+    <tmdbid>1812</tmdbid>
+    <imdbid>nm0931329</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Plummer</name>
+    <role>John Paul Getty</role>
+    <type>Actor</type>
+    <tmdbid>290</tmdbid>
+    <imdbid>nm0001626</imdbid>
+  </actor>
+  <actor>
+    <name>Mark Wahlberg</name>
+    <role>Fletcher Chase</role>
+    <type>Actor</type>
+    <tmdbid>13240</tmdbid>
+    <imdbid>nm0000242</imdbid>
+  </actor>
+  <actor>
+    <name>Romain Duris</name>
+    <role>Cinquanta</role>
+    <type>Actor</type>
+    <tmdbid>17497</tmdbid>
+    <imdbid>nm0244151</imdbid>
+  </actor>
+  <actor>
+    <name>Timothy Hutton</name>
+    <role>Oswald Hinge</role>
+    <type>Actor</type>
+    <tmdbid>16327</tmdbid>
+    <imdbid>nm0000459</imdbid>
+  </actor>
+  <actor>
+    <name>Charlie Plummer</name>
+    <role>John Paul Getty III</role>
+    <type>Actor</type>
+    <tmdbid>1440574</tmdbid>
+    <imdbid>nm4055138</imdbid>
+  </actor>
+  <actor>
+    <name>Charlie Shotwell</name>
+    <role>John Paul Getty III (Age 7)</role>
+    <type>Actor</type>
+    <tmdbid>1637129</tmdbid>
+    <imdbid>nm6339026</imdbid>
+  </actor>
+  <actor>
+    <name>Andrew Buchan</name>
+    <role>John Paul Getty II</role>
+    <type>Actor</type>
+    <tmdbid>1235008</tmdbid>
+    <imdbid>nm2217601</imdbid>
+  </actor>
+  <actor>
+    <name>Marco Leonardi</name>
+    <role>Saverio Mammoliti</role>
+    <type>Actor</type>
+    <tmdbid>27643</tmdbid>
+    <imdbid>nm0502813</imdbid>
+  </actor>
+  <actor>
+    <name>Giuseppe Bonifati</name>
+    <role>Giovanni Iacovoni</role>
+    <type>Actor</type>
+    <tmdbid>1947024</tmdbid>
+    <imdbid>nm9030917</imdbid>
+  </actor>
+  <actor>
+    <name>Nicolas Vaporidis</name>
+    <role>Il Tamia 'Chipmunk'</role>
+    <type>Actor</type>
+    <tmdbid>125701</tmdbid>
+    <imdbid>nm1679452</imdbid>
+  </actor>
+  <actor>
+    <name>Andrea Piedimonte</name>
+    <role>Corvo</role>
+    <type>Actor</type>
+    <tmdbid>1661620</tmdbid>
+    <imdbid>nm0682123</imdbid>
+  </actor>
+  <actor>
+    <name>Guglielmo Favilla</name>
+    <role>Piccolino</role>
+    <type>Actor</type>
+    <tmdbid>549020</tmdbid>
+    <imdbid>nm1984126</imdbid>
+  </actor>
+  <actor>
+    <name>Adele Tirante</name>
+    <role>Maria</role>
+    <type>Actor</type>
+    <tmdbid>1926061</tmdbid>
+    <imdbid>nm3598995</imdbid>
+  </actor>
+  <actor>
+    <name>Stacy Martin</name>
+    <role>Nancy</role>
+    <type>Actor</type>
+    <tmdbid>1137823</tmdbid>
+    <imdbid>nm5237479</imdbid>
+  </actor>
+  <actor>
+    <name>Maya Kelly</name>
+    <role>Aileen Getty (Age 6)</role>
+    <type>Actor</type>
+    <tmdbid>1947026</tmdbid>
+    <imdbid>nm9059554</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Devlin</name>
+    <role>Aileen Getty (Age 15)</role>
+    <type>Actor</type>
+    <tmdbid>1954687</tmdbid>
+    <imdbid>nm1683988</imdbid>
+  </actor>
+  <actor>
+    <name>Kit Cranston</name>
+    <role>Mark Getty (Age 4)</role>
+    <type>Actor</type>
+    <tmdbid>1948104</tmdbid>
+  </actor>
+  <actor>
+    <name>Stanley Treshansky</name>
+    <role>Mark Getty (Age 13)</role>
+    <type>Actor</type>
+    <tmdbid>1954688</tmdbid>
+  </actor>
+  <actor>
+    <name>Ginevra Migliore</name>
+    <role>Ariadne Getty (Age 2)</role>
+    <type>Actor</type>
+    <tmdbid>1947028</tmdbid>
+    <imdbid>nm9499741</imdbid>
+  </actor>
+  <actor>
+    <name>Josie Sayers</name>
+    <role>Ariadne Getty (Age 11)</role>
+    <type>Actor</type>
+    <tmdbid>1954689</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia Grant</name>
+    <role>Millicent</role>
+    <type>Actor</type>
+    <tmdbid>209630</tmdbid>
+    <imdbid>nm2372275</imdbid>
+  </actor>
+  <actor>
+    <name>Charlotte Beckett</name>
+    <role>Annie</role>
+    <type>Actor</type>
+    <tmdbid>1772654</tmdbid>
+  </actor>
+  <actor>
+    <name>Roy McCrerey</name>
+    <role>Attorney</role>
+    <type>Actor</type>
+    <tmdbid>51464</tmdbid>
+    <imdbid>nm0567009</imdbid>
+  </actor>
+  <actor>
+    <name>Giulio Base</name>
+    <role>Coroner</role>
+    <type>Actor</type>
+    <tmdbid>93723</tmdbid>
+    <imdbid>nm0059698</imdbid>
+  </actor>
+  <actor>
+    <name>Nicola Di Chio</name>
+    <role>Kidnap Van Driver</role>
+    <type>Actor</type>
+    <tmdbid>1947025</tmdbid>
+    <imdbid>nm1629462</imdbid>
+  </actor>
+  <actor>
+    <name>Alessandra Roca</name>
+    <role>Prostitue #1</role>
+    <type>Actor</type>
+    <tmdbid>148931</tmdbid>
+    <imdbid>nm3559088</imdbid>
+  </actor>
+  <actor>
+    <name>Francesca Inaudi</name>
+    <role>Prostitute #2</role>
+    <type>Actor</type>
+    <tmdbid>119366</tmdbid>
+    <imdbid>nm1594999</imdbid>
+  </actor>
+  <actor>
+    <name>Francesco Bomenuto</name>
+    <role>Rome Hotel Butler</role>
+    <type>Actor</type>
+    <tmdbid>1906385</tmdbid>
+    <imdbid>nm7119544</imdbid>
+  </actor>
+  <actor>
+    <name>Ghassan Massoud</name>
+    <role>Arab Sheikh</role>
+    <type>Actor</type>
+    <tmdbid>70577</tmdbid>
+    <imdbid>nm1586095</imdbid>
+  </actor>
+  <actor>
+    <name>Clive Wood</name>
+    <role>Bullimore</role>
+    <type>Actor</type>
+    <tmdbid>150814</tmdbid>
+    <imdbid>nm0939619</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan Aris</name>
+    <role>Conservator</role>
+    <type>Actor</type>
+    <tmdbid>28477</tmdbid>
+    <imdbid>nm0034877</imdbid>
+  </actor>
+  <actor>
+    <name>Oliver Ryan</name>
+    <role>BBC Reporter</role>
+    <type>Actor</type>
+    <tmdbid>1638835</tmdbid>
+    <imdbid>nm1302113</imdbid>
+  </actor>
+  <actor>
+    <name>Cherise Silvestri</name>
+    <role>Secretary Getty Oil</role>
+    <type>Actor</type>
+    <tmdbid>1917580</tmdbid>
+    <imdbid>nm1987558</imdbid>
+  </actor>
+  <actor>
+    <name>Enzo Attanasio</name>
+    <role>Barn Man</role>
+    <type>Actor</type>
+    <tmdbid>2297640</tmdbid>
+  </actor>
+  <actor>
+    <name>Monica Nappo</name>
+    <role>Barn Woman</role>
+    <type>Actor</type>
+    <tmdbid>76341</tmdbid>
+    <imdbid>nm0621175</imdbid>
+  </actor>
+  <actor>
+    <name>Gino Nardella</name>
+    <role>Villager #1</role>
+    <type>Actor</type>
+    <tmdbid>1632767</tmdbid>
+  </actor>
+  <actor>
+    <name>Chantal Ughi</name>
+    <role>Villager #2</role>
+    <type>Actor</type>
+    <tmdbid>1190436</tmdbid>
+    <imdbid>nm0880088</imdbid>
+  </actor>
+  <actor>
+    <name>Riccardo De Torrebruna</name>
+    <role>Carabinieri Captain</role>
+    <type>Actor</type>
+    <tmdbid>931543</tmdbid>
+    <imdbid>nm0211960</imdbid>
+  </actor>
+  <director tmdbid="578" imdbid="nm0000631">Ridley Scott</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=muk33nlCnQk</trailer>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=KXHrCBkIxQQ</trailer>
+  <rating>6.8</rating>
+  <year>2017</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt5294550</imdbid>
+  <tmdbid>446791</tmdbid>
+  <premiered>2017-12-21</premiered>
+  <releasedate>2017-12-21</releasedate>
+  <criticrating>79</criticrating>
+  <runtime>133</runtime>
+  <country>United States of America</country>
+  <country>Italy</country>
+  <country>United Kingdom</country>
+  <genre>惊悚</genre>
+  <genre>剧情</genre>
+  <genre>犯罪</genre>
+  <genre>悬疑</genre>
+  <genre>历史</genre>
+  <studio>Scott Free Productions</studio>
+  <studio>TriStar Pictures</studio>
+  <studio>Imperative Entertainment</studio>
+  <studio>Lotus Production</studio>
+  <studio>Redrum Films</studio>
+  <uniqueid type="Tmdb">446791</uniqueid>
+  <uniqueid type="Imdb">tt5294550</uniqueid>
+  <id>tt5294550</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>xvid</codec>
+        <micodec>xvid</micodec>
+        <bitrate>3792049</bitrate>
+        <width>1280</width>
+        <height>536</height>
+        <aspect>160:67</aspect>
+        <aspectratio>160:67</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>132</duration>
+        <durationinseconds>7961</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>

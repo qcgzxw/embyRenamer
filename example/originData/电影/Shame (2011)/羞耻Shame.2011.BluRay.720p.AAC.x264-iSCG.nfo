@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[布兰顿（迈克尔·法斯宾德 Michael Fassbender 饰）是纽约衣着光鲜的白领。他酷爱成人电影，习惯自慰，并寻花问柳。不过，他与妹妹希西（凯瑞•穆里根 Carey Mulligan 饰）的关系却忽冷忽热。希西总给他电话留言，他却总是避之不及。然而，当希西搬来与他同住 ，他又表现出特别的关心。布兰顿和上司一同去听希西的演唱，结果上司被她的风姿所打动，而他却沉浸在她的歌声中潸然泪下。在妹妹面前，布兰顿表现的无所谓，而上司却大胆追求。这令布兰顿极为羞耻。某日，上司在与家人视频通话后，开始斥责布兰顿往电脑硬盘塞满了成人电影，称之为耻辱。气急败坏的布兰顿却对妹妹发火，令她十分伤心。布兰顿曾约会公司的黑人女秘书，却发现自己真正难以割舍的不是性瘾，而是心中惦念的兄妹之情……  　　迈克尔•法斯宾德凭借本片获68届威尼斯电影节影帝]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-06-27 14:36:18</dateadded>
+  <title>羞耻</title>
+  <originaltitle>Shame</originaltitle>
+  <actor>
+    <name>Michael Fassbender</name>
+    <role>Brandon</role>
+    <type>Actor</type>
+    <tmdbid>17288</tmdbid>
+    <imdbid>nm1055413</imdbid>
+  </actor>
+  <actor>
+    <name>Carey Mulligan</name>
+    <role>Sissy</role>
+    <type>Actor</type>
+    <tmdbid>36662</tmdbid>
+    <imdbid>nm1659547</imdbid>
+  </actor>
+  <actor>
+    <name>James Badge Dale</name>
+    <role>David</role>
+    <type>Actor</type>
+    <tmdbid>18473</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicole Beharie</name>
+    <role>Marianne</role>
+    <type>Actor</type>
+    <tmdbid>87243</tmdbid>
+    <imdbid>nm2718512</imdbid>
+  </actor>
+  <actor>
+    <name>Lucy Walters</name>
+    <role>Woman on Subway Train</role>
+    <type>Actor</type>
+    <tmdbid>1141384</tmdbid>
+  </actor>
+  <actor>
+    <name>Mari-Ange Ramirez</name>
+    <role>Alexa</role>
+    <type>Actor</type>
+    <tmdbid>2063665</tmdbid>
+  </actor>
+  <actor>
+    <name>Alex Manette</name>
+    <role>Steven</role>
+    <type>Actor</type>
+    <tmdbid>172150</tmdbid>
+    <imdbid>nm0542022</imdbid>
+  </actor>
+  <actor>
+    <name>Hannah Ware</name>
+    <role>Samantha</role>
+    <type>Actor</type>
+    <tmdbid>577478</tmdbid>
+    <imdbid>nm3799669</imdbid>
+  </actor>
+  <actor>
+    <name>Elizabeth Masucci</name>
+    <role>Elizabeth</role>
+    <type>Actor</type>
+    <tmdbid>1030329</tmdbid>
+    <imdbid>nm2136389</imdbid>
+  </actor>
+  <actor>
+    <name>Rachel Farrar</name>
+    <role>Rachel</role>
+    <type>Actor</type>
+    <tmdbid>1819913</tmdbid>
+  </actor>
+  <actor>
+    <name>Loren Omer</name>
+    <role>Loren</role>
+    <type>Actor</type>
+    <tmdbid>1819914</tmdbid>
+  </actor>
+  <actor>
+    <name>Lauren Tyrrell</name>
+    <role>Hostess</role>
+    <type>Actor</type>
+    <tmdbid>2063683</tmdbid>
+  </actor>
+  <actor>
+    <name>Marta Milans</name>
+    <role>Cocktail Waitress</role>
+    <type>Actor</type>
+    <tmdbid>1181306</tmdbid>
+    <imdbid>nm2803689</imdbid>
+  </actor>
+  <actor>
+    <name>Jake Siciliano</name>
+    <role>Skype Son</role>
+    <type>Actor</type>
+    <tmdbid>115977</tmdbid>
+    <imdbid>nm2973456</imdbid>
+  </actor>
+  <actor>
+    <name>Robert Montano</name>
+    <role>Waiter</role>
+    <type>Actor</type>
+    <tmdbid>1225998</tmdbid>
+    <imdbid>nm0599017</imdbid>
+  </actor>
+  <actor>
+    <name>Charisse Bellante</name>
+    <role>Live Chat Woman</role>
+    <type>Actor</type>
+    <tmdbid>2063691</tmdbid>
+  </actor>
+  <actor>
+    <name>Amy Hargreaves</name>
+    <role>Hotel Lover</role>
+    <type>Actor</type>
+    <tmdbid>92728</tmdbid>
+    <imdbid>nm0362955</imdbid>
+  </actor>
+  <actor>
+    <name>Anna Rose Hopkins</name>
+    <role>Carly</role>
+    <type>Actor</type>
+    <tmdbid>1493242</tmdbid>
+    <imdbid>nm2601642</imdbid>
+  </actor>
+  <actor>
+    <name>Chazz Menendez</name>
+    <role>Muscular Boyfriend</role>
+    <type>Actor</type>
+    <tmdbid>122258</tmdbid>
+    <imdbid>nm0579457</imdbid>
+  </actor>
+  <actor>
+    <name>Carl Low</name>
+    <role>Bouncer</role>
+    <type>Actor</type>
+    <tmdbid>1092234</tmdbid>
+    <imdbid>nm0522792</imdbid>
+  </actor>
+  <actor>
+    <name>Calamity Chang</name>
+    <role>Late Night Lover #1</role>
+    <type>Actor</type>
+    <tmdbid>2063693</tmdbid>
+  </actor>
+  <actor>
+    <name>Deedee Luxe</name>
+    <role>Late Night Lover #2</role>
+    <type>Actor</type>
+    <tmdbid>1182185</tmdbid>
+    <imdbid>nm4669520</imdbid>
+  </actor>
+  <actor>
+    <name>Stanley Mathis</name>
+    <role>Conductor</role>
+    <type>Actor</type>
+    <tmdbid>2591153</tmdbid>
+  </actor>
+  <actor>
+    <name>Wenne Alton Davis</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>2063694</tmdbid>
+  </actor>
+  <director tmdbid="72757">Steve McQueen</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=Op9iQiB_ANI</trailer>
+  <rating>7.2</rating>
+  <year>2011</year>
+  <mpaa>HK-III</mpaa>
+  <imdbid>tt1723811</imdbid>
+  <tmdbid>76025</tmdbid>
+  <premiered>2011-10-02</premiered>
+  <releasedate>2011-10-02</releasedate>
+  <criticrating>79</criticrating>
+  <runtime>101</runtime>
+  <country>Canada</country>
+  <country>United Kingdom</country>
+  <genre>剧情</genre>
+  <studio>HanWay Films</studio>
+  <studio>See-Saw Films</studio>
+  <studio>Lipsync Productions</studio>
+  <studio>Alliance Films</studio>
+  <studio>Film4 Productions</studio>
+  <studio>UK Film Council</studio>
+  <uniqueid type="Tmdb">76025</uniqueid>
+  <uniqueid type="Imdb">tt1723811</uniqueid>
+  <id>tt1723811</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>1997271</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>101</duration>
+        <durationinseconds>6068</durationinseconds>
+      </video>
+      <audio>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>127592</bitrate>
+        <language>und</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+    </streamdetails>
+  </fileinfo>
+</movie>

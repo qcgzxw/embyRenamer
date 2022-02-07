@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[一只气球引发的利益斗争]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-04-06 14:41:05</dateadded>
+  <title>最后一口气</title>
+  <actor>
+    <name>Reece Shearsmith</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>34551</tmdbid>
+    <imdbid>nm0790501</imdbid>
+  </actor>
+  <actor>
+    <name>Steve Pemberton</name>
+    <role>Various</role>
+    <type>Actor</type>
+    <tmdbid>28485</tmdbid>
+    <imdbid>nm0671487</imdbid>
+  </actor>
+  <actor>
+    <name>Sophie Thompson</name>
+    <role>Jan</role>
+    <type>GuestStar</type>
+    <tmdbid>32990</tmdbid>
+    <imdbid>nm0860724</imdbid>
+  </actor>
+  <actor>
+    <name>Lucy Hutchinson</name>
+    <role>Tamsin</role>
+    <type>GuestStar</type>
+    <tmdbid>564941</tmdbid>
+    <imdbid>nm3224117</imdbid>
+  </actor>
+  <actor>
+    <name>David Bedella</name>
+    <role>Frankie J Parsons</role>
+    <type>GuestStar</type>
+    <tmdbid>146140</tmdbid>
+    <imdbid>nm1525717</imdbid>
+  </actor>
+  <actor>
+    <name>Tamsin Greig</name>
+    <role>Sally</role>
+    <type>GuestStar</type>
+    <tmdbid>120931</tmdbid>
+    <imdbid>nm0340067</imdbid>
+  </actor>
+  <actor>
+    <name>Adam Deacon</name>
+    <role>Si</role>
+    <type>GuestStar</type>
+    <tmdbid>78064</tmdbid>
+    <imdbid>nm0212563</imdbid>
+  </actor>
+  <director>David Kerr</director>
+  <rating>6.25</rating>
+  <year>2014</year>
+  <imdbid>tt2782450</imdbid>
+  <tvdbid>4756889</tvdbid>
+  <runtime>29</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Horror</genre>
+  <tvrageid>1065479917</tvrageid>
+  <uniqueid type="Imdb">tt2782450</uniqueid>
+  <uniqueid type="Tvdb">4756889</uniqueid>
+  <uniqueid type="TvRage">1065479917</uniqueid>
+  <episode>4</episode>
+  <season>1</season>
+  <aired>2014-02-26</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>10940115</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>28</duration>
+        <durationinseconds>1713</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

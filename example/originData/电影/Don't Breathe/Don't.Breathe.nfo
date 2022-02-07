@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[《屏住呼吸》是由美国Screen Gems制作发行的88分钟恐怖电影。该片由费德·阿尔瓦雷兹执导，史蒂芬·朗、简·莱维、迪兰·明奈特、丹尼尔·祖瓦图、艾玛·博科维奇等主演，于2016年8月26日在美国上映。
+ 该片讲述了三位小青年潜入一位盲人家中行窃，却发现屋主绝非善类，不但身手了得还在地下室囚禁一名女子。在一名同伴被击杀后，剩下两人不得不屏住呼吸奋力逃亡的故事…]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2018-01-04 11:30:45</dateadded>
+  <title>屏住呼吸</title>
+  <originaltitle>Don't Breathe</originaltitle>
+  <actor>
+    <name>Stephen Lang</name>
+    <role>The Blind Man</role>
+    <type>Actor</type>
+    <tmdbid>32747</tmdbid>
+    <imdbid>nm0002332</imdbid>
+  </actor>
+  <actor>
+    <name>Jane Levy</name>
+    <role>Rocky</role>
+    <type>Actor</type>
+    <tmdbid>530618</tmdbid>
+    <imdbid>nm3994408</imdbid>
+  </actor>
+  <actor>
+    <name>Dylan Minnette</name>
+    <role>Alex</role>
+    <type>Actor</type>
+    <tmdbid>112476</tmdbid>
+    <imdbid>nm1910255</imdbid>
+  </actor>
+  <actor>
+    <name>Daniel Zovatto</name>
+    <role>Money</role>
+    <type>Actor</type>
+    <tmdbid>1172147</tmdbid>
+    <imdbid>nm4683167</imdbid>
+  </actor>
+  <actor>
+    <name>Emma Bercovici</name>
+    <role>Diddy</role>
+    <type>Actor</type>
+    <tmdbid>1669336</tmdbid>
+  </actor>
+  <actor>
+    <name>Franciska Töröcsik</name>
+    <role>Cindy</role>
+    <type>Actor</type>
+    <tmdbid>1307647</tmdbid>
+    <imdbid>nm3156103</imdbid>
+  </actor>
+  <actor>
+    <name>Christian Zagia</name>
+    <role>Raul</role>
+    <type>Actor</type>
+    <tmdbid>1669337</tmdbid>
+  </actor>
+  <actor>
+    <name>Katia Bokor</name>
+    <role>Ginger</role>
+    <type>Actor</type>
+    <tmdbid>1635844</tmdbid>
+  </actor>
+  <actor>
+    <name>Sergej Onopko</name>
+    <role>Trevor</role>
+    <type>Actor</type>
+    <tmdbid>1577093</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia Gillies</name>
+    <role>Blind Man's Daughter (Young Emma)</role>
+    <type>Actor</type>
+    <tmdbid>1669338</tmdbid>
+  </actor>
+  <actor>
+    <name>Dayna Clark</name>
+    <role>TV Anchor</role>
+    <type>Actor</type>
+    <tmdbid>1737807</tmdbid>
+  </actor>
+  <director tmdbid="932248" imdbid="nm1793079">Fede Alvarez</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=76yBTNDB6vU</trailer>
+  <rating>7.1</rating>
+  <year>2016</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt4160708</imdbid>
+  <tmdbid>300669</tmdbid>
+  <premiered>2016-06-08</premiered>
+  <releasedate>2016-06-08</releasedate>
+  <criticrating>88</criticrating>
+  <runtime>89</runtime>
+  <country>United States of America</country>
+  <genre>恐怖</genre>
+  <studio>Screen Gems</studio>
+  <studio>Stage 6 Films</studio>
+  <studio>Ghost House Pictures</studio>
+  <set tmdbcolid="748919">
+    <name>屏住呼吸（系列）</name>
+  </set>
+  <uniqueid type="Tmdb">300669</uniqueid>
+  <uniqueid type="Imdb">tt4160708</uniqueid>
+  <id>tt4160708</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>4525111</bitrate>
+        <width>1280</width>
+        <height>720</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>88</duration>
+        <durationinseconds>5312</durationinseconds>
+      </video>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>640000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</movie>
