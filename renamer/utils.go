@@ -4,6 +4,7 @@ import (
 	"os"
 	"path"
 	"path/filepath"
+	"strconv"
 	"strings"
 )
 
@@ -38,5 +39,17 @@ func FilePathWalkDir(root string) (files map[string]os.FileInfo, dirPath []strin
 		}
 		return nil
 	})
+	return
+}
+
+// GetNumStr 获取剧集编号
+func GetNumStr(total uint, no string) (numStr string) {
+	numStr = no
+	if len(strconv.Itoa(int(total))) <= 1 {
+		total = 10
+	}
+	if len(strconv.Itoa(int(total))) > len(no) {
+		numStr = strings.Repeat("0", len(strconv.Itoa(int(total)))-len(no)) + no
+	}
 	return
 }

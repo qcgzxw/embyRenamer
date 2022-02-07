@@ -5,6 +5,19 @@
 
 该程序不具备撤销能力，如需使用，请自行备份以免造成文件丢失。
 
+## 调试
+### 文件准备
+```shell
+# 复制文件结构到新目录便于测试
+cp -r --attributes-only /目标目录/ /测试目录/
+
+# 复制目标目录下的所有nfo文件覆盖到测试目录
+cd /目标目录/
+find -iname "*.nfo" -exec cp {} /测试目录/{} \;
+```
+### 配置文件说明
+- todo
+## 预览
 ### 电影目录结构
 默认采用emby官方推荐的格式 **Name (Year) [tmdbid=xxxx]**
 ```
@@ -7867,4 +7880,17158 @@
 </details>
 
 ### 电视剧目录结构
-- todo
+```
+└── TV
+    └── Name (2021)
+        ├── fanart.jpg
+        ├── poster.jpg
+        ├── Season 1
+        │   ├── Name S01E01.mkv
+        │   ├── Name S01E01.nfo
+        │   ├── Name S01E01-thumb.jpg
+        │   ├── Name S01E02.mkv
+        │   ├── Name S01E02.nfo
+        │   ├── Name S01E02-thumb.jpg
+        │   ├── Name S01E03.mkv
+        │   ├── Name S01E03.nfo
+        │   └── Name S01E03-thumb.jpg
+        └── tvshow.nfo
+```
+
+<details><summary>before</summary>
+
+```
+├── 半泽直树
+│   ├── 半泽直树.第一季.半沢直樹.S01.Complete.2013.Bilibili.WEB-DL.1080p.H264.AAC-PTHweb
+│   │   ├── 半泽直树.第01集.一旦被整必定加倍奉还！面对坏上司的新英雄诞生！你能夺回5亿吗？公司宿舍中的妻子间的争斗，是为了让丈夫飞黄腾达？还是为了友情？. 半沢直樹 .第1話.やられたp4
+│   │   ├── 半泽直树.第02集.抖落上司的冤罪！对恶者加倍奉还.半沢直樹 .第2話.上司の濡れ衣を振り払え！ 悪者に倍返し..mp4
+│   │   ├── 半泽直树.第02集.抖落上司的冤罪！对恶者加倍奉还.半沢直樹 .第2話.上司の濡れ衣を振り払え！ 悪者に倍返し..nfo
+│   │   ├── 半泽直树.第03集.要恶质的上司加倍奉还！是否能救出陷入危机的部下！？叛徒现身.半沢直樹 .第3話.クソ上司に倍返し！ 部下のピンチを救えるか！？ 裏切り者も出現.mp4
+│   │   ├── 半泽直树.第03集.要恶质的上司加倍奉还！是否能救出陷入危机的部下！？叛徒现身.半沢直樹 .第3話.クソ上司に倍返し！ 部下のピンチを救えるか！？ 裏切り者も出現.nfo
+│   │   ├── 半泽直树.第04集.十倍奉还！上司和部下的叛变.半沢直樹 .第4話.10倍返しなるか！上司と部下の裏切り.mp4
+│   │   ├── 半泽直树.第04集.十倍奉还！上司和部下的叛变.半沢直樹 .第4話.10倍返しなるか！上司と部下の裏切り.nfo
+│   │   ├── 半泽直树.第05集.半泽被调职…！？赌上存亡的战斗.半沢直樹 .第5話.半沢が出向に…！？生き残りをかけた戦.mp4
+│   │   ├── 半泽直树.第05集.半泽被调职…！？赌上存亡的战斗.半沢直樹 .第5話.半沢が出向に…！？生き残りをかけた戦.nfo
+│   │   ├── 半泽直树.第06集.从5亿到120亿！为了加倍奉还，半泽调动至东京总店，以对抗巨大的敌人！！.半沢直樹 .第6話.5億から120億！東京で、倍返しなるか本店に異動した半沢は巨大な敵と戦p4
+│   │   ├── 半泽直树.第07集.半泽下跪！穷途末路的大危机.半沢直樹 .第7話.半沢が土下座する！絶体絶命の大ピンチ.mp4
+│   │   ├── 半泽直树.第07集.半泽下跪！穷途末路的大危机.半沢直樹 .第7話.半沢が土下座する！絶体絶命の大ピンチ.nfo
+│   │   ├── 半泽直树.第08集.顽强对手登场！输了就调职的危机.半沢直樹 .第8話.強敵ライバル登場！負ければ出向の危機.mp4
+│   │   ├── 半泽直树.第08集.顽强对手登场！输了就调职的危机.半沢直樹 .第8話.強敵ライバル登場！負ければ出向の危機.nfo
+│   │   ├── 半泽直树.第09集.最终决战！～赌上一切的金融厅搜查！！.半沢直樹 .第9話.最終決戦！～出向をかけた金融庁検査！！.mp4
+│   │   ├── 半泽直树.第09集.最终决战！～赌上一切的金融厅搜查！！.半沢直樹 .第9話.最終決戦！～出向をかけた金融庁検査！！.nfo
+│   │   ├── 半泽直树.第10集.最后须百倍奉还的下跪者是谁！～冲击的结果！！是友情？还是背叛？.半沢直樹 .最終話.100倍返しなるか最後に土下座するのは誰だ！ 〜衝撃の結末！！友情か？裏p4
+│   │   └── season.nfo
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── TBS.Hanzawa.Naoki.S02.2020.HDTV.1080i.MPEG2.AAC-AREY
+│   │   ├── season.nfo
+│   │   ├── TBS.Hanzawa.Naoki.S02E00.2020.HDTV.1080i.MPEG2.AAC-AREY.nfo
+│   │   ├── TBS.Hanzawa.Naoki.S02E00.2020.HDTV.1080i.MPEG2.AAC-AREY.ts
+│   │   ├── TBS.Hanzawa.Naoki.S02E01.2020.HDTV.1080i.MPEG2.AAC-AREY.nfo
+│   │   ├── TBS.Hanzawa.Naoki.S02E01.2020.HDTV.1080i.MPEG2.AAC-AREY-thumb.jpg
+│   │   ├── TBS.Hanzawa.Naoki.S02E01.2020.HDTV.1080i.MPEG2.AAC-AREY.ts
+│   │   ├── TBS.Hanzawa.Naoki.S02E02.2020.HDTV.1080i.MPEG2.AAC-AREY.nfo
+│   │   ├── TBS.Hanzawa.Naoki.S02E02.2020.HDTV.1080i.MPEG2.AAC-AREY-thumb.jpg
+│   │   ├── TBS.Hanzawa.Naoki.S02E02.2020.HDTV.1080i.MPEG2.AAC-AREY.ts
+│   │   ├── TBS.Hanzawa.Naoki.S02E03.2020.HDTV.1080i.MPEG2.AAC-AREY.nfo
+│   │   ├── TBS.Hanzawa.Naoki.S02E03.2020.HDTV.1080i.MPEG2.AAC-AREY-thumb.jpg
+│   │   ├── TBS.Hanzawa.Naoki.S02E03.2020.HDTV.1080i.MPEG2.AAC-AREY.ts
+│   │   ├── TBS.Hanzawa.Naoki.S02E04.2020.HDTV.1080i.MPEG2.AAC-AREY.nfo
+│   │   ├── TBS.Hanzawa.Naoki.S02E04.2020.HDTV.1080i.MPEG2.AAC-AREY-thumb.jpg
+│   │   ├── TBS.Hanzawa.Naoki.S02E04.2020.HDTV.1080i.MPEG2.AAC-AREY.ts
+│   │   ├── TBS.Hanzawa.Naoki.S02E05.2020.HDTV.1080i.MPEG2.AAC-AREY.nfo
+│   │   ├── TBS.Hanzawa.Naoki.S02E05.2020.HDTV.1080i.MPEG2.AAC-AREY-thumb.jpg
+│   │   ├── TBS.Hanzawa.Naoki.S02E05.2020.HDTV.1080i.MPEG2.AAC-AREY.ts
+│   │   ├── TBS.Hanzawa.Naoki.S02E06.2020.HDTV.1080i.MPEG2.AAC-AREY.nfo
+│   │   ├── TBS.Hanzawa.Naoki.S02E06.2020.HDTV.1080i.MPEG2.AAC-AREY-thumb.jpg
+│   │   ├── TBS.Hanzawa.Naoki.S02E06.2020.HDTV.1080i.MPEG2.AAC-AREY.ts
+│   │   ├── TBS.Hanzawa.Naoki.S02E07.2020.HDTV.1080i.MPEG2.AAC-AREY.nfo
+│   │   ├── TBS.Hanzawa.Naoki.S02E07.2020.HDTV.1080i.MPEG2.AAC-AREY-thumb.jpg
+│   │   ├── TBS.Hanzawa.Naoki.S02E07.2020.HDTV.1080i.MPEG2.AAC-AREY.ts
+│   │   ├── TBS.Hanzawa.Naoki.S02E08.2020.HDTV.1080i.MPEG2.AAC-AREY.nfo
+│   │   ├── TBS.Hanzawa.Naoki.S02E08.2020.HDTV.1080i.MPEG2.AAC-AREY-thumb.jpg
+│   │   ├── TBS.Hanzawa.Naoki.S02E08.2020.HDTV.1080i.MPEG2.AAC-AREY.ts
+│   │   ├── TBS.Hanzawa.Naoki.S02E09.2020.HDTV.1080i.MPEG2.AAC-AREY.nfo
+│   │   ├── TBS.Hanzawa.Naoki.S02E09.2020.HDTV.1080i.MPEG2.AAC-AREY-thumb.jpg
+│   │   ├── TBS.Hanzawa.Naoki.S02E09.2020.HDTV.1080i.MPEG2.AAC-AREY.ts
+│   │   ├── TBS.Hanzawa.Naoki.S02E10.2020.HDTV.1080i.MPEG2.AAC-AREY.nfo
+│   │   ├── TBS.Hanzawa.Naoki.S02E10.2020.HDTV.1080i.MPEG2.AAC-AREY-thumb.jpg
+│   │   └── TBS.Hanzawa.Naoki.S02E10.2020.HDTV.1080i.MPEG2.AAC-AREY.ts
+│   └── tvshow.nfo
+├── 沉默的真相
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── 沉默的真相.2020.EP01.HD1080P.X264.AAC.Mandarin.CHS.BDE4-320-10.bif
+│   │   ├── 沉默的真相.2020.EP01.HD1080P.X264.AAC.Mandarin.CHS.BDE4.mp4
+│   │   ├── 沉默的真相.2020.EP01.HD1080P.X264.AAC.Mandarin.CHS.BDE4.nfo
+│   │   ├── 沉默的真相.2020.EP01.HD1080P.X264.AAC.Mandarin.CHS.BDE4-thumb.jpg
+│   │   ├── 沉默的真相.2020.EP02.HD1080P.X264.AAC.Mandarin.CHS.BDE4-320-10.bif
+│   │   ├── 沉默的真相.2020.EP02.HD1080P.X264.AAC.Mandarin.CHS.BDE4.mp4
+│   │   ├── 沉默的真相.2020.EP02.HD1080P.X264.AAC.Mandarin.CHS.BDE4.nfo
+│   │   ├── 沉默的真相.2020.EP02.HD1080P.X264.AAC.Mandarin.CHS.BDE4-thumb.jpg
+│   │   ├── 沉默的真相.2020.EP03.HD1080P.X264.AAC.Mandarin.CHS.BDE4-320-10.bif
+│   │   ├── 沉默的真相.2020.EP03.HD1080P.X264.AAC.Mandarin.CHS.BDE4.mp4
+│   │   ├── 沉默的真相.2020.EP03.HD1080P.X264.AAC.Mandarin.CHS.BDE4.nfo
+│   │   ├── 沉默的真相.2020.EP03.HD1080P.X264.AAC.Mandarin.CHS.BDE4-thumb.jpg
+│   │   ├── 沉默的真相.2020.EP04.HD1080P.X264.AAC.Mandarin.CHS.BDE4-320-10.bif
+│   │   ├── 沉默的真相.2020.EP04.HD1080P.X264.AAC.Mandarin.CHS.BDE4.mp4
+│   │   ├── 沉默的真相.2020.EP04.HD1080P.X264.AAC.Mandarin.CHS.BDE4.nfo
+│   │   ├── 沉默的真相.2020.EP04.HD1080P.X264.AAC.Mandarin.CHS.BDE4-thumb.jpg
+│   │   ├── 沉默的真相.2020.EP05.HD1080P.X264.AAC.Mandarin.CHS.BDE4-320-10.bif
+│   │   ├── 沉默的真相.2020.EP05.HD1080P.X264.AAC.Mandarin.CHS.BDE4.mp4
+│   │   ├── 沉默的真相.2020.EP05.HD1080P.X264.AAC.Mandarin.CHS.BDE4.nfo
+│   │   ├── 沉默的真相.2020.EP05.HD1080P.X264.AAC.Mandarin.CHS.BDE4-thumb.jpg
+│   │   ├── 沉默的真相.2020.EP06.HD1080P.X264.AAC.Mandarin.CHS.BDE4-320-10.bif
+│   │   ├── 沉默的真相.2020.EP06.HD1080P.X264.AAC.Mandarin.CHS.BDE4.mp4
+│   │   ├── 沉默的真相.2020.EP06.HD1080P.X264.AAC.Mandarin.CHS.BDE4.nfo
+│   │   ├── 沉默的真相.2020.EP06.HD1080P.X264.AAC.Mandarin.CHS.BDE4-thumb.jpg
+│   │   ├── 沉默的真相.2020.EP07.HD1080P.X264.AAC.Mandarin.CHS.BDE4-320-10.bif
+│   │   ├── 沉默的真相.2020.EP07.HD1080P.X264.AAC.Mandarin.CHS.BDE4.mp4
+│   │   ├── 沉默的真相.2020.EP07.HD1080P.X264.AAC.Mandarin.CHS.BDE4.nfo
+│   │   ├── 沉默的真相.2020.EP07.HD1080P.X264.AAC.Mandarin.CHS.BDE4-thumb.jpg
+│   │   ├── 沉默的真相.2020.EP08.HD1080P.X264.AAC.Mandarin.CHS.BDE4-320-10.bif
+│   │   ├── 沉默的真相.2020.EP08.HD1080P.X264.AAC.Mandarin.CHS.BDE4.mp4
+│   │   ├── 沉默的真相.2020.EP08.HD1080P.X264.AAC.Mandarin.CHS.BDE4.nfo
+│   │   ├── 沉默的真相.2020.EP08.HD1080P.X264.AAC.Mandarin.CHS.BDE4-thumb.jpg
+│   │   ├── 沉默的真相.2020.EP09.HD1080P.X264.AAC.Mandarin.CHS.BDE4-320-10.bif
+│   │   ├── 沉默的真相.2020.EP09.HD1080P.X264.AAC.Mandarin.CHS.BDE4.mp4
+│   │   ├── 沉默的真相.2020.EP09.HD1080P.X264.AAC.Mandarin.CHS.BDE4.nfo
+│   │   ├── 沉默的真相.2020.EP09.HD1080P.X264.AAC.Mandarin.CHS.BDE4-thumb.jpg
+│   │   ├── 沉默的真相.2020.EP10.HD1080P.X264.AAC.Mandarin.CHS.BDE4-320-10.bif
+│   │   ├── 沉默的真相.2020.EP10.HD1080P.X264.AAC.Mandarin.CHS.BDE4.mp4
+│   │   ├── 沉默的真相.2020.EP10.HD1080P.X264.AAC.Mandarin.CHS.BDE4.nfo
+│   │   ├── 沉默的真相.2020.EP10.HD1080P.X264.AAC.Mandarin.CHS.BDE4-thumb.jpg
+│   │   ├── 沉默的真相.2020.EP11.HD1080P.X264.AAC.Mandarin.CHS.BDE4-320-10.bif
+│   │   ├── 沉默的真相.2020.EP11.HD1080P.X264.AAC.Mandarin.CHS.BDE4.mp4
+│   │   ├── 沉默的真相.2020.EP11.HD1080P.X264.AAC.Mandarin.CHS.BDE4.nfo
+│   │   ├── 沉默的真相.2020.EP11.HD1080P.X264.AAC.Mandarin.CHS.BDE4-thumb.jpg
+│   │   ├── 沉默的真相.2020.EP12.HD1080P.X264.AAC.Mandarin.CHS.BDE4-320-10.bif
+│   │   ├── 沉默的真相.2020.EP12.HD1080P.X264.AAC.Mandarin.CHS.BDE4.mp4
+│   │   ├── 沉默的真相.2020.EP12.HD1080P.X264.AAC.Mandarin.CHS.BDE4.nfo
+│   │   ├── 沉默的真相.2020.EP12.HD1080P.X264.AAC.Mandarin.CHS.BDE4-thumb.jpg
+│   │   └── season.nfo
+│   ├── season.nfo
+│   └── tvshow.nfo
+├── 成瘾剂量S01.Dopesick.2021.1080p.WEB-DL.x265.AC3￡cXcY@FRDS
+│   ├── Dopesick.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   ├── Dopesick_文档.txt
+│   ├── Dopesick.S01_海报.jpg
+│   ├── Dopesick.S01E01.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   ├── Dopesick.S01E01.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   ├── Dopesick.S01E01.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   ├── Dopesick.S01E02.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   ├── Dopesick.S01E02.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   ├── Dopesick.S01E02.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   ├── Dopesick.S01E03.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   ├── Dopesick.S01E03.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   ├── Dopesick.S01E03.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   ├── Dopesick.S01E04.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   ├── Dopesick.S01E04.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   ├── Dopesick.S01E04.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   ├── Dopesick.S01E05.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   ├── Dopesick.S01E05.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   ├── Dopesick.S01E05.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   ├── Dopesick.S01E06.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   ├── Dopesick.S01E06.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   ├── Dopesick.S01E06.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   ├── Dopesick.S01E07.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   ├── Dopesick.S01E07.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   ├── Dopesick.S01E07.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   ├── Dopesick.S01E08.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   ├── Dopesick.S01E08.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   ├── Dopesick.S01E08.2021.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   └── tvshow.nfo
+├── 斗罗大陆 (2017)
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── S01E01.mp4
+│   │   ├── S01E01.nfo
+│   │   ├── S01E01-thumb.jpg
+│   │   ├── S01E02.mp4
+│   │   ├── S01E02.nfo
+│   │   ├── S01E02-thumb.jpg
+│   │   ├── S01E03.mp4
+│   │   ├── S01E03.nfo
+│   │   ├── S01E03-thumb.jpg
+│   │   ├── S01E04.mp4
+│   │   ├── S01E04.nfo
+│   │   ├── S01E04-thumb.jpg
+│   │   ├── S01E05.mp4
+│   │   ├── S01E05.nfo
+│   │   ├── S01E05-thumb.jpg
+│   │   ├── S01E06.mp4
+│   │   ├── S01E06.nfo
+│   │   ├── S01E06-thumb.jpg
+│   │   ├── S01E07.mp4
+│   │   ├── S01E07.nfo
+│   │   ├── S01E07-thumb.jpg
+│   │   ├── S01E08.mp4
+│   │   ├── S01E08.nfo
+│   │   ├── S01E08-thumb.jpg
+│   │   ├── S01E09.mp4
+│   │   ├── S01E09.nfo
+│   │   ├── S01E09-thumb.jpg
+│   │   ├── S01E100.mp4
+│   │   ├── S01E100.nfo
+│   │   ├── S01E100-thumb.jpg
+│   │   ├── S01E101.mp4
+│   │   ├── S01E101.nfo
+│   │   ├── S01E101-thumb.jpg
+│   │   ├── S01E102.mp4
+│   │   ├── S01E102.nfo
+│   │   ├── S01E102-thumb.jpg
+│   │   ├── S01E103.mp4
+│   │   ├── S01E103.nfo
+│   │   ├── S01E103-thumb.jpg
+│   │   ├── S01E104.mp4
+│   │   ├── S01E104.nfo
+│   │   ├── S01E104-thumb.jpg
+│   │   ├── S01E105.mp4
+│   │   ├── S01E105.nfo
+│   │   ├── S01E105-thumb.jpg
+│   │   ├── S01E106.mp4
+│   │   ├── S01E106.nfo
+│   │   ├── S01E106-thumb.jpg
+│   │   ├── S01E107.mp4
+│   │   ├── S01E107.nfo
+│   │   ├── S01E107-thumb.jpg
+│   │   ├── S01E108.mp4
+│   │   ├── S01E108.nfo
+│   │   ├── S01E108-thumb.jpg
+│   │   ├── S01E109.mp4
+│   │   ├── S01E109.nfo
+│   │   ├── S01E109-thumb.jpg
+│   │   ├── S01E10.mp4
+│   │   ├── S01E10.nfo
+│   │   ├── S01E10-thumb.jpg
+│   │   ├── S01E110.mp4
+│   │   ├── S01E110.nfo
+│   │   ├── S01E110-thumb.jpg
+│   │   ├── S01E111.mp4
+│   │   ├── S01E111.nfo
+│   │   ├── S01E111-thumb.jpg
+│   │   ├── S01E112.mp4
+│   │   ├── S01E112.nfo
+│   │   ├── S01E112-thumb.jpg
+│   │   ├── S01E113.mp4
+│   │   ├── S01E113.nfo
+│   │   ├── S01E113-thumb.jpg
+│   │   ├── S01E114.mp4
+│   │   ├── S01E114.nfo
+│   │   ├── S01E114-thumb.jpg
+│   │   ├── S01E115.mp4
+│   │   ├── S01E115.nfo
+│   │   ├── S01E115-thumb.jpg
+│   │   ├── S01E116.mp4
+│   │   ├── S01E116.nfo
+│   │   ├── S01E116-thumb.jpg
+│   │   ├── S01E117.mp4
+│   │   ├── S01E117.nfo
+│   │   ├── S01E117-thumb.jpg
+│   │   ├── S01E118.mp4
+│   │   ├── S01E118.nfo
+│   │   ├── S01E118-thumb.jpg
+│   │   ├── S01E119.mp4
+│   │   ├── S01E119.nfo
+│   │   ├── S01E119-thumb.jpg
+│   │   ├── S01E11.mp4
+│   │   ├── S01E11.nfo
+│   │   ├── S01E11-thumb.jpg
+│   │   ├── S01E120.mp4
+│   │   ├── S01E120.nfo
+│   │   ├── S01E120-thumb.jpg
+│   │   ├── S01E121.mp4
+│   │   ├── S01E121.nfo
+│   │   ├── S01E121-thumb.jpg
+│   │   ├── S01E122.mp4
+│   │   ├── S01E122.nfo
+│   │   ├── S01E122-thumb.jpg
+│   │   ├── S01E123.mp4
+│   │   ├── S01E123.nfo
+│   │   ├── S01E123-thumb.jpg
+│   │   ├── S01E124.mp4
+│   │   ├── S01E124.nfo
+│   │   ├── S01E124-thumb.jpg
+│   │   ├── S01E125.mp4
+│   │   ├── S01E125.nfo
+│   │   ├── S01E125-thumb.jpg
+│   │   ├── S01E126.mp4
+│   │   ├── S01E126.nfo
+│   │   ├── S01E126-thumb.jpg
+│   │   ├── S01E127.mp4
+│   │   ├── S01E127.nfo
+│   │   ├── S01E127-thumb.jpg
+│   │   ├── S01E128.mp4
+│   │   ├── S01E128.nfo
+│   │   ├── S01E128-thumb.jpg
+│   │   ├── S01E129.mp4
+│   │   ├── S01E129.nfo
+│   │   ├── S01E129-thumb.jpg
+│   │   ├── S01E12.mp4
+│   │   ├── S01E12.nfo
+│   │   ├── S01E12-thumb.jpg
+│   │   ├── S01E130.mp4
+│   │   ├── S01E130.nfo
+│   │   ├── S01E130-thumb.jpg
+│   │   ├── S01E131.mp4
+│   │   ├── S01E131.nfo
+│   │   ├── S01E131-thumb.jpg
+│   │   ├── S01E132.mp4
+│   │   ├── S01E132.nfo
+│   │   ├── S01E132-thumb.jpg
+│   │   ├── S01E133.mp4
+│   │   ├── S01E133.nfo
+│   │   ├── S01E133-thumb.jpg
+│   │   ├── S01E134.mp4
+│   │   ├── S01E134.nfo
+│   │   ├── S01E134-thumb.jpg
+│   │   ├── S01E135.mp4
+│   │   ├── S01E135.nfo
+│   │   ├── S01E135-thumb.jpg
+│   │   ├── S01E136.mp4
+│   │   ├── S01E136.nfo
+│   │   ├── S01E136-thumb.jpg
+│   │   ├── S01E137.mp4
+│   │   ├── S01E137.nfo
+│   │   ├── S01E137-thumb.jpg
+│   │   ├── S01E138.mp4
+│   │   ├── S01E138.nfo
+│   │   ├── S01E138-thumb.jpg
+│   │   ├── S01E139.mp4
+│   │   ├── S01E139.nfo
+│   │   ├── S01E139-thumb.jpg
+│   │   ├── S01E13.mp4
+│   │   ├── S01E13.nfo
+│   │   ├── S01E13-thumb.jpg
+│   │   ├── S01E140.mp4
+│   │   ├── S01E140.nfo
+│   │   ├── S01E140-thumb.jpg
+│   │   ├── S01E141.mp4
+│   │   ├── S01E141.nfo
+│   │   ├── S01E141-thumb.jpg
+│   │   ├── S01E142.mp4
+│   │   ├── S01E142.nfo
+│   │   ├── S01E142-thumb.jpg
+│   │   ├── S01E143.mp4
+│   │   ├── S01E143.nfo
+│   │   ├── S01E143-thumb.jpg
+│   │   ├── S01E144.mp4
+│   │   ├── S01E144.nfo
+│   │   ├── S01E144-thumb.jpg
+│   │   ├── S01E145.mp4
+│   │   ├── S01E145.nfo
+│   │   ├── S01E145-thumb.jpg
+│   │   ├── S01E146.mp4
+│   │   ├── S01E146.nfo
+│   │   ├── S01E146-thumb.jpg
+│   │   ├── S01E147.mp4
+│   │   ├── S01E147.nfo
+│   │   ├── S01E147-thumb.jpg
+│   │   ├── S01E148.mp4
+│   │   ├── S01E148.nfo
+│   │   ├── S01E148-thumb.jpg
+│   │   ├── S01E149.mp4
+│   │   ├── S01E149.nfo
+│   │   ├── S01E149-thumb.jpg
+│   │   ├── S01E14.mp4
+│   │   ├── S01E14.nfo
+│   │   ├── S01E14-thumb.jpg
+│   │   ├── S01E150.mp4
+│   │   ├── S01E150.nfo
+│   │   ├── S01E150-thumb.jpg
+│   │   ├── S01E151.mp4
+│   │   ├── S01E151.nfo
+│   │   ├── S01E151-thumb.jpg
+│   │   ├── S01E152.nfo
+│   │   ├── S01E152-thumb.jpg
+│   │   ├── S01E153.nfo
+│   │   ├── S01E153-thumb.jpg
+│   │   ├── S01E154.nfo
+│   │   ├── S01E154-thumb.jpg
+│   │   ├── S01E155.nfo
+│   │   ├── S01E155-thumb.jpg
+│   │   ├── S01E156.nfo
+│   │   ├── S01E156-thumb.jpg
+│   │   ├── S01E157.nfo
+│   │   ├── S01E157-thumb.jpg
+│   │   ├── S01E158.nfo
+│   │   ├── S01E158-thumb.jpg
+│   │   ├── S01E159.nfo
+│   │   ├── S01E159-thumb.jpg
+│   │   ├── S01E15.mp4
+│   │   ├── S01E15.nfo
+│   │   ├── S01E15-thumb.jpg
+│   │   ├── S01E160.nfo
+│   │   ├── S01E160-thumb.jpg
+│   │   ├── S01E16.mp4
+│   │   ├── S01E16.nfo
+│   │   ├── S01E16-thumb.jpg
+│   │   ├── S01E17.mp4
+│   │   ├── S01E17.nfo
+│   │   ├── S01E17-thumb.jpg
+│   │   ├── S01E18.mp4
+│   │   ├── S01E18.nfo
+│   │   ├── S01E18-thumb.jpg
+│   │   ├── S01E19.mp4
+│   │   ├── S01E19.nfo
+│   │   ├── S01E19-thumb.jpg
+│   │   ├── S01E20.mp4
+│   │   ├── S01E20.nfo
+│   │   ├── S01E20-thumb.jpg
+│   │   ├── S01E21.mp4
+│   │   ├── S01E21.nfo
+│   │   ├── S01E21-thumb.jpg
+│   │   ├── S01E22.mp4
+│   │   ├── S01E22.nfo
+│   │   ├── S01E22-thumb.jpg
+│   │   ├── S01E23.mp4
+│   │   ├── S01E23.nfo
+│   │   ├── S01E23-thumb.jpg
+│   │   ├── S01E24.mp4
+│   │   ├── S01E24.nfo
+│   │   ├── S01E24-thumb.jpg
+│   │   ├── S01E25.mp4
+│   │   ├── S01E25.nfo
+│   │   ├── S01E25-thumb.jpg
+│   │   ├── S01E26.mp4
+│   │   ├── S01E26.nfo
+│   │   ├── S01E26-thumb.jpg
+│   │   ├── S01E27.mp4
+│   │   ├── S01E27.nfo
+│   │   ├── S01E27-thumb.jpg
+│   │   ├── S01E28.mp4
+│   │   ├── S01E28.nfo
+│   │   ├── S01E28-thumb.jpg
+│   │   ├── S01E29.mp4
+│   │   ├── S01E29.nfo
+│   │   ├── S01E29-thumb.jpg
+│   │   ├── S01E30.mp4
+│   │   ├── S01E30.nfo
+│   │   ├── S01E30-thumb.jpg
+│   │   ├── S01E31.mp4
+│   │   ├── S01E31.nfo
+│   │   ├── S01E31-thumb.jpg
+│   │   ├── S01E32.mp4
+│   │   ├── S01E32.nfo
+│   │   ├── S01E32-thumb.jpg
+│   │   ├── S01E33.mp4
+│   │   ├── S01E33.nfo
+│   │   ├── S01E33-thumb.jpg
+│   │   ├── S01E34.mp4
+│   │   ├── S01E34.nfo
+│   │   ├── S01E34-thumb.jpg
+│   │   ├── S01E35.mp4
+│   │   ├── S01E35.nfo
+│   │   ├── S01E35-thumb.jpg
+│   │   ├── S01E36.mp4
+│   │   ├── S01E36.nfo
+│   │   ├── S01E36-thumb.jpg
+│   │   ├── S01E37.mp4
+│   │   ├── S01E37.nfo
+│   │   ├── S01E37-thumb.jpg
+│   │   ├── S01E38.mp4
+│   │   ├── S01E38.nfo
+│   │   ├── S01E38-thumb.jpg
+│   │   ├── S01E39.mp4
+│   │   ├── S01E39.nfo
+│   │   ├── S01E39-thumb.jpg
+│   │   ├── S01E40.mp4
+│   │   ├── S01E40.nfo
+│   │   ├── S01E40-thumb.jpg
+│   │   ├── S01E41.mp4
+│   │   ├── S01E41.nfo
+│   │   ├── S01E41-thumb.jpg
+│   │   ├── S01E42.mp4
+│   │   ├── S01E42.nfo
+│   │   ├── S01E42-thumb.jpg
+│   │   ├── S01E43.mp4
+│   │   ├── S01E43.nfo
+│   │   ├── S01E43-thumb.jpg
+│   │   ├── S01E44.mp4
+│   │   ├── S01E44.nfo
+│   │   ├── S01E44-thumb.jpg
+│   │   ├── S01E45.mp4
+│   │   ├── S01E45.nfo
+│   │   ├── S01E45-thumb.jpg
+│   │   ├── S01E46.mp4
+│   │   ├── S01E46.nfo
+│   │   ├── S01E46-thumb.jpg
+│   │   ├── S01E47.mp4
+│   │   ├── S01E47.nfo
+│   │   ├── S01E47-thumb.jpg
+│   │   ├── S01E48.mp4
+│   │   ├── S01E48.nfo
+│   │   ├── S01E48-thumb.jpg
+│   │   ├── S01E49.mp4
+│   │   ├── S01E49.nfo
+│   │   ├── S01E49-thumb.jpg
+│   │   ├── S01E50.mp4
+│   │   ├── S01E50.nfo
+│   │   ├── S01E50-thumb.jpg
+│   │   ├── S01E51.mp4
+│   │   ├── S01E51.nfo
+│   │   ├── S01E51-thumb.jpg
+│   │   ├── S01E52.mp4
+│   │   ├── S01E52.nfo
+│   │   ├── S01E52-thumb.jpg
+│   │   ├── S01E53.mp4
+│   │   ├── S01E53.nfo
+│   │   ├── S01E53-thumb.jpg
+│   │   ├── S01E54.mp4
+│   │   ├── S01E54.nfo
+│   │   ├── S01E54-thumb.jpg
+│   │   ├── S01E55.mp4
+│   │   ├── S01E55.nfo
+│   │   ├── S01E55-thumb.jpg
+│   │   ├── S01E56.mp4
+│   │   ├── S01E56.nfo
+│   │   ├── S01E56-thumb.jpg
+│   │   ├── S01E57.mp4
+│   │   ├── S01E57.nfo
+│   │   ├── S01E57-thumb.jpg
+│   │   ├── S01E58.mp4
+│   │   ├── S01E58.nfo
+│   │   ├── S01E58-thumb.jpg
+│   │   ├── S01E59.mp4
+│   │   ├── S01E59.nfo
+│   │   ├── S01E59-thumb.jpg
+│   │   ├── S01E60.mp4
+│   │   ├── S01E60.nfo
+│   │   ├── S01E60-thumb.jpg
+│   │   ├── S01E61.mp4
+│   │   ├── S01E61.nfo
+│   │   ├── S01E61-thumb.jpg
+│   │   ├── S01E62.mp4
+│   │   ├── S01E62.nfo
+│   │   ├── S01E62-thumb.jpg
+│   │   ├── S01E63.mp4
+│   │   ├── S01E63.nfo
+│   │   ├── S01E63-thumb.jpg
+│   │   ├── S01E64.mp4
+│   │   ├── S01E64.nfo
+│   │   ├── S01E64-thumb.jpg
+│   │   ├── S01E65.mp4
+│   │   ├── S01E65.nfo
+│   │   ├── S01E65-thumb.jpg
+│   │   ├── S01E66.mp4
+│   │   ├── S01E66.nfo
+│   │   ├── S01E66-thumb.jpg
+│   │   ├── S01E67.mp4
+│   │   ├── S01E67.nfo
+│   │   ├── S01E67-thumb.jpg
+│   │   ├── S01E68.mp4
+│   │   ├── S01E68.nfo
+│   │   ├── S01E68-thumb.jpg
+│   │   ├── S01E69.mp4
+│   │   ├── S01E69.nfo
+│   │   ├── S01E69-thumb.jpg
+│   │   ├── S01E70.mp4
+│   │   ├── S01E70.nfo
+│   │   ├── S01E70-thumb.jpg
+│   │   ├── S01E71.mp4
+│   │   ├── S01E71.nfo
+│   │   ├── S01E71-thumb.jpg
+│   │   ├── S01E72.mp4
+│   │   ├── S01E72.nfo
+│   │   ├── S01E72-thumb.jpg
+│   │   ├── S01E73.mp4
+│   │   ├── S01E73.nfo
+│   │   ├── S01E73-thumb.jpg
+│   │   ├── S01E74.mp4
+│   │   ├── S01E74.nfo
+│   │   ├── S01E74-thumb.jpg
+│   │   ├── S01E75.mp4
+│   │   ├── S01E75.nfo
+│   │   ├── S01E75-thumb.jpg
+│   │   ├── S01E76.mp4
+│   │   ├── S01E76.nfo
+│   │   ├── S01E76-thumb.jpg
+│   │   ├── S01E77.mp4
+│   │   ├── S01E77.nfo
+│   │   ├── S01E77-thumb.jpg
+│   │   ├── S01E78.mp4
+│   │   ├── S01E78.nfo
+│   │   ├── S01E78-thumb.jpg
+│   │   ├── S01E79.mp4
+│   │   ├── S01E79.nfo
+│   │   ├── S01E79-thumb.jpg
+│   │   ├── S01E80.mp4
+│   │   ├── S01E80.nfo
+│   │   ├── S01E80-thumb.jpg
+│   │   ├── S01E81.mp4
+│   │   ├── S01E81.nfo
+│   │   ├── S01E81-thumb.jpg
+│   │   ├── S01E82.mp4
+│   │   ├── S01E82.nfo
+│   │   ├── S01E82-thumb.jpg
+│   │   ├── S01E83.mp4
+│   │   ├── S01E83.nfo
+│   │   ├── S01E83-thumb.jpg
+│   │   ├── S01E84.mp4
+│   │   ├── S01E84.nfo
+│   │   ├── S01E84-thumb.jpg
+│   │   ├── S01E85.mp4
+│   │   ├── S01E85.nfo
+│   │   ├── S01E85-thumb.jpg
+│   │   ├── S01E86.mp4
+│   │   ├── S01E86.nfo
+│   │   ├── S01E86-thumb.jpg
+│   │   ├── S01E87.mp4
+│   │   ├── S01E87.nfo
+│   │   ├── S01E87-thumb.jpg
+│   │   ├── S01E88.mp4
+│   │   ├── S01E88.nfo
+│   │   ├── S01E88-thumb.jpg
+│   │   ├── S01E89.mp4
+│   │   ├── S01E89.nfo
+│   │   ├── S01E89-thumb.jpg
+│   │   ├── S01E90.mp4
+│   │   ├── S01E90.nfo
+│   │   ├── S01E90-thumb.jpg
+│   │   ├── S01E91.mp4
+│   │   ├── S01E91.nfo
+│   │   ├── S01E91-thumb.jpg
+│   │   ├── S01E92.mp4
+│   │   ├── S01E92.nfo
+│   │   ├── S01E92-thumb.jpg
+│   │   ├── S01E93.mp4
+│   │   ├── S01E93.nfo
+│   │   ├── S01E93-thumb.jpg
+│   │   ├── S01E94.mp4
+│   │   ├── S01E94.nfo
+│   │   ├── S01E94-thumb.jpg
+│   │   ├── S01E95.mp4
+│   │   ├── S01E95.nfo
+│   │   ├── S01E95-thumb.jpg
+│   │   ├── S01E96.mp4
+│   │   ├── S01E96.nfo
+│   │   ├── S01E96-thumb.jpg
+│   │   ├── S01E97.mp4
+│   │   ├── S01E97.nfo
+│   │   ├── S01E97-thumb.jpg
+│   │   ├── S01E98.mp4
+│   │   ├── S01E98.nfo
+│   │   ├── S01E98-thumb.jpg
+│   │   ├── S01E99.mp4
+│   │   ├── S01E99.nfo
+│   │   ├── S01E99-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── 轮到你了
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep01.Chi_Jap.HDTVrip.1280X720-ZhuixinFan-320-10.bif
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep01.Chi_Jap.HDTVrip.1280X720-ZhuixinFan.mp4
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep01.Chi_Jap.HDTVrip.1280X720-ZhuixinFan.nfo
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep01.Chi_Jap.HDTVrip.1280X720-ZhuixinFan-thumb.jpg
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep02.Chi_Jap.HDTVrip.1280X720-ZhuixinFan-320-10.bif
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep02.Chi_Jap.HDTVrip.1280X720-ZhuixinFan.mp4
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep02.Chi_Jap.HDTVrip.1280X720-ZhuixinFan.nfo
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep02.Chi_Jap.HDTVrip.1280X720-ZhuixinFan-thumb.jpg
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep03.Chi_Jap.HDTVrip.1280X720-ZhuixinFan-320-10.bif
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep03.Chi_Jap.HDTVrip.1280X720-ZhuixinFan.mp4
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep03.Chi_Jap.HDTVrip.1280X720-ZhuixinFan.nfo
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep03.Chi_Jap.HDTVrip.1280X720-ZhuixinFan-thumb.jpg
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep04.Chi_Jap.HDTVrip.1280X720-ZhuixinFan-320-10.bif
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep04.Chi_Jap.HDTVrip.1280X720-ZhuixinFan.mp4
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep04.Chi_Jap.HDTVrip.1280X720-ZhuixinFan.nfo
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep04.Chi_Jap.HDTVrip.1280X720-ZhuixinFan-thumb.jpg
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep05.Chi_Jap.HDTVrip.1280X720-ZhuixinFan-320-10.bif
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep05.Chi_Jap.HDTVrip.1280X720-ZhuixinFan.mp4
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep05.Chi_Jap.HDTVrip.1280X720-ZhuixinFan.nfo
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep05.Chi_Jap.HDTVrip.1280X720-ZhuixinFan-thumb.jpg
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep06.Chi_Jap.HDTVrip.1280X720-ZhuixinFan-320-10.bif
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep06.Chi_Jap.HDTVrip.1280X720-ZhuixinFan.mp4
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep06.Chi_Jap.HDTVrip.1280X720-ZhuixinFan.nfo
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep06.Chi_Jap.HDTVrip.1280X720-ZhuixinFan-thumb.jpg
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep07.Chi_Jap.HDTVrip.1280X720-ZhuixinFan-320-10.bif
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep07.Chi_Jap.HDTVrip.1280X720-ZhuixinFan.mp4
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep07.Chi_Jap.HDTVrip.1280X720-ZhuixinFan.nfo
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep07.Chi_Jap.HDTVrip.1280X720-ZhuixinFan-thumb.jpg
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep08.Chi_Jap.HDTVrip.1280X720-ZhuixinFan-320-10.bif
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep08.Chi_Jap.HDTVrip.1280X720-ZhuixinFan.mp4
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep08.Chi_Jap.HDTVrip.1280X720-ZhuixinFan.nfo
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep08.Chi_Jap.HDTVrip.1280X720-ZhuixinFan-thumb.jpg
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep09.Chi_Jap.HDTVrip.1280X720-ZhuixinFan-320-10.bif
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep09.Chi_Jap.HDTVrip.1280X720-ZhuixinFan.mp4
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep09.Chi_Jap.HDTVrip.1280X720-ZhuixinFan.nfo
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep09.Chi_Jap.HDTVrip.1280X720-ZhuixinFan-thumb.jpg
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep10.Chi_Jap.HDTVrip.1280X720-320-10.bif
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep10.Chi_Jap.HDTVrip.1280X720.mp4
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep10.Chi_Jap.HDTVrip.1280X720.nfo
+│   ├── 轮到你了.Anata.no.Ban.Desu.Ep10.Chi_Jap.HDTVrip.1280X720-thumb.jpg
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season.nfo
+│   └── tvshow.nfo
+├── 迷醉S01.Euphoria.US.2019.1080p.WEB-DL.x265.AC3￡cXcY@FRDS
+│   ├── Euphoria.US.S01.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   ├── Euphoria.US.S01_海报.jpg
+│   ├── Euphoria.US.S01_文档.txt
+│   ├── Euphoria.US.S01E01.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   ├── Euphoria.US.S01E01.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   ├── Euphoria.US.S01E01.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   ├── Euphoria.US.S01E02.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   ├── Euphoria.US.S01E02.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   ├── Euphoria.US.S01E02.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   ├── Euphoria.US.S01E03.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   ├── Euphoria.US.S01E03.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   ├── Euphoria.US.S01E03.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   ├── Euphoria.US.S01E04.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   ├── Euphoria.US.S01E04.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   ├── Euphoria.US.S01E04.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   ├── Euphoria.US.S01E05.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   ├── Euphoria.US.S01E05.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   ├── Euphoria.US.S01E05.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   ├── Euphoria.US.S01E06.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   ├── Euphoria.US.S01E06.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   ├── Euphoria.US.S01E06.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   ├── Euphoria.US.S01E07.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   ├── Euphoria.US.S01E07.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   ├── Euphoria.US.S01E07.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   ├── Euphoria.US.S01E08.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   ├── Euphoria.US.S01E08.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   ├── Euphoria.US.S01E08.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   └── tvshow.nfo
+├── 扫黑风暴
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── S01
+│   │   ├── 扫黑风暴.S01E01.mp4
+│   │   ├── 扫黑风暴.S01E01.nfo
+│   │   ├── 扫黑风暴.S01E01-thumb.jpg
+│   │   ├── 扫黑风暴.S01E02.mp4
+│   │   ├── 扫黑风暴.S01E02.nfo
+│   │   ├── 扫黑风暴.S01E02-thumb.jpg
+│   │   ├── 扫黑风暴.S01E03.mp4
+│   │   ├── 扫黑风暴.S01E03.nfo
+│   │   ├── 扫黑风暴.S01E03-thumb.jpg
+│   │   ├── 扫黑风暴.S01E04.mp4
+│   │   ├── 扫黑风暴.S01E04.nfo
+│   │   ├── 扫黑风暴.S01E04-thumb.jpg
+│   │   ├── 扫黑风暴.S01E05.mp4
+│   │   ├── 扫黑风暴.S01E05.nfo
+│   │   ├── 扫黑风暴.S01E05-thumb.jpg
+│   │   ├── 扫黑风暴.S01E06.mp4
+│   │   ├── 扫黑风暴.S01E06.nfo
+│   │   ├── 扫黑风暴.S01E06-thumb.jpg
+│   │   ├── 扫黑风暴.S01E07.mp4
+│   │   ├── 扫黑风暴.S01E07.nfo
+│   │   ├── 扫黑风暴.S01E07-thumb.jpg
+│   │   ├── 扫黑风暴.S01E08.mp4
+│   │   ├── 扫黑风暴.S01E08.nfo
+│   │   ├── 扫黑风暴.S01E08-thumb.jpg
+│   │   ├── 扫黑风暴.S01E09.mp4
+│   │   ├── 扫黑风暴.S01E09.nfo
+│   │   ├── 扫黑风暴.S01E09-thumb.jpg
+│   │   ├── 扫黑风暴.S01E10.mp4
+│   │   ├── 扫黑风暴.S01E10.nfo
+│   │   ├── 扫黑风暴.S01E10-thumb.jpg
+│   │   ├── 扫黑风暴.S01E11.mp4
+│   │   ├── 扫黑风暴.S01E11.nfo
+│   │   ├── 扫黑风暴.S01E11-thumb.jpg
+│   │   ├── 扫黑风暴.S01E12.mp4
+│   │   ├── 扫黑风暴.S01E12.nfo
+│   │   ├── 扫黑风暴.S01E12-thumb.jpg
+│   │   ├── 扫黑风暴.S01E13.mp4
+│   │   ├── 扫黑风暴.S01E13.nfo
+│   │   ├── 扫黑风暴.S01E13-thumb.jpg
+│   │   ├── 扫黑风暴.S01E14.mp4
+│   │   ├── 扫黑风暴.S01E14.nfo
+│   │   ├── 扫黑风暴.S01E14-thumb.jpg
+│   │   ├── 扫黑风暴.S01E15.mp4
+│   │   ├── 扫黑风暴.S01E15.nfo
+│   │   ├── 扫黑风暴.S01E15-thumb.jpg
+│   │   ├── 扫黑风暴.S01E16.mp4
+│   │   ├── 扫黑风暴.S01E16.nfo
+│   │   ├── 扫黑风暴.S01E16-thumb.jpg
+│   │   ├── 扫黑风暴.S01E17.mp4
+│   │   ├── 扫黑风暴.S01E17.nfo
+│   │   ├── 扫黑风暴.S01E17-thumb.jpg
+│   │   ├── 扫黑风暴.S01E18.mp4
+│   │   ├── 扫黑风暴.S01E18.nfo
+│   │   ├── 扫黑风暴.S01E18-thumb.jpg
+│   │   ├── 扫黑风暴.S01E19.mp4
+│   │   ├── 扫黑风暴.S01E19.nfo
+│   │   ├── 扫黑风暴.S01E19-thumb.jpg
+│   │   ├── 扫黑风暴.S01E20.mp4
+│   │   ├── 扫黑风暴.S01E20.nfo
+│   │   ├── 扫黑风暴.S01E20-thumb.jpg
+│   │   ├── 扫黑风暴.S01E21.mp4
+│   │   ├── 扫黑风暴.S01E21.nfo
+│   │   ├── 扫黑风暴.S01E21-thumb.jpg
+│   │   ├── 扫黑风暴.S01E22.mp4
+│   │   ├── 扫黑风暴.S01E22.nfo
+│   │   ├── 扫黑风暴.S01E22-thumb.jpg
+│   │   ├── 扫黑风暴.S01E23.mp4
+│   │   ├── 扫黑风暴.S01E23.nfo
+│   │   ├── 扫黑风暴.S01E23-thumb.jpg
+│   │   ├── 扫黑风暴.S01E24.mp4
+│   │   ├── 扫黑风暴.S01E24.nfo
+│   │   ├── 扫黑风暴.S01E24-thumb.jpg
+│   │   ├── 扫黑风暴.S01E25.mp4
+│   │   ├── 扫黑风暴.S01E25.nfo
+│   │   ├── 扫黑风暴.S01E25-thumb.jpg
+│   │   ├── 扫黑风暴.S01E26.mp4
+│   │   ├── 扫黑风暴.S01E26.nfo
+│   │   ├── 扫黑风暴.S01E26-thumb.jpg
+│   │   ├── 扫黑风暴.S01E26.zh-cn.srt
+│   │   ├── 扫黑风暴.S01E27.mp4
+│   │   ├── 扫黑风暴.S01E27.nfo
+│   │   ├── 扫黑风暴.S01E27-thumb.jpg
+│   │   ├── 扫黑风暴.S01E28.mp4
+│   │   ├── 扫黑风暴.S01E28.nfo
+│   │   ├── 扫黑风暴.S01E28-thumb.jpg
+│   │   └── season.nfo
+│   ├── season01-poster.jpg
+│   └── tvshow.nfo
+├── 谁是被害者
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── 谁是被害者.The.Victims.Game.S01E01.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba-320-10.bif
+│   │   ├── 谁是被害者.The.Victims.Game.S01E01.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba.mp4
+│   │   ├── 谁是被害者.The.Victims.Game.S01E01.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba.nfo
+│   │   ├── 谁是被害者.The.Victims.Game.S01E01.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba-thumb.jpg
+│   │   ├── 谁是被害者.The.Victims.Game.S01E02.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba-320-10.bif
+│   │   ├── 谁是被害者.The.Victims.Game.S01E02.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba.mp4
+│   │   ├── 谁是被害者.The.Victims.Game.S01E02.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba.nfo
+│   │   ├── 谁是被害者.The.Victims.Game.S01E02.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba-thumb.jpg
+│   │   ├── 谁是被害者.The.Victims.Game.S01E03.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba-320-10.bif
+│   │   ├── 谁是被害者.The.Victims.Game.S01E03.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba.mp4
+│   │   ├── 谁是被害者.The.Victims.Game.S01E03.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba.nfo
+│   │   ├── 谁是被害者.The.Victims.Game.S01E03.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba-thumb.jpg
+│   │   ├── 谁是被害者.The.Victims.Game.S01E04.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba-320-10.bif
+│   │   ├── 谁是被害者.The.Victims.Game.S01E04.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba.mp4
+│   │   ├── 谁是被害者.The.Victims.Game.S01E04.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba.nfo
+│   │   ├── 谁是被害者.The.Victims.Game.S01E04.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba-thumb.jpg
+│   │   ├── 谁是被害者.The.Victims.Game.S01E05.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba-320-10.bif
+│   │   ├── 谁是被害者.The.Victims.Game.S01E05.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba.mp4
+│   │   ├── 谁是被害者.The.Victims.Game.S01E05.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba.nfo
+│   │   ├── 谁是被害者.The.Victims.Game.S01E05.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba-thumb.jpg
+│   │   ├── 谁是被害者.The.Victims.Game.S01E06.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba-320-10.bif
+│   │   ├── 谁是被害者.The.Victims.Game.S01E06.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba.mp4
+│   │   ├── 谁是被害者.The.Victims.Game.S01E06.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba.nfo
+│   │   ├── 谁是被害者.The.Victims.Game.S01E06.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba-thumb.jpg
+│   │   ├── 谁是被害者.The.Victims.Game.S01E07.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba-320-10.bif
+│   │   ├── 谁是被害者.The.Victims.Game.S01E07.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba.mp4
+│   │   ├── 谁是被害者.The.Victims.Game.S01E07.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba.nfo
+│   │   ├── 谁是被害者.The.Victims.Game.S01E07.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba-thumb.jpg
+│   │   ├── 谁是被害者.The.Victims.Game.S01E08.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba-320-10.bif
+│   │   ├── 谁是被害者.The.Victims.Game.S01E08.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba.mp4
+│   │   ├── 谁是被害者.The.Victims.Game.S01E08.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba.nfo
+│   │   ├── 谁是被害者.The.Victims.Game.S01E08.2020.HD1080P.X264.AAC.Mandarin.CHS.Mp4Ba-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── 心灵猎人
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── Season 1
+│   │   ├── Mindhunter.S01E01.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.mkv
+│   │   ├── Mindhunter.S01E01.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.nfo
+│   │   ├── Mindhunter.S01E01.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-poster.jpg
+│   │   ├── Mindhunter.S01E01.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-thumb.jpg
+│   │   ├── Mindhunter.S01E02.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.mkv
+│   │   ├── Mindhunter.S01E02.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.nfo
+│   │   ├── Mindhunter.S01E02.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-thumb.jpg
+│   │   ├── Mindhunter.S01E03.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.mkv
+│   │   ├── Mindhunter.S01E03.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.nfo
+│   │   ├── Mindhunter.S01E03.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-thumb.jpg
+│   │   ├── Mindhunter.S01E04.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.mkv
+│   │   ├── Mindhunter.S01E04.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.nfo
+│   │   ├── Mindhunter.S01E04.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-thumb.jpg
+│   │   ├── Mindhunter.S01E05.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.mkv
+│   │   ├── Mindhunter.S01E05.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.nfo
+│   │   ├── Mindhunter.S01E05.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-thumb.jpg
+│   │   ├── Mindhunter.S01E06.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.mkv
+│   │   ├── Mindhunter.S01E06.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.nfo
+│   │   ├── Mindhunter.S01E06.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-thumb.jpg
+│   │   ├── Mindhunter.S01E07.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.mkv
+│   │   ├── Mindhunter.S01E07.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.nfo
+│   │   ├── Mindhunter.S01E07.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-thumb.jpg
+│   │   ├── Mindhunter.S01E08.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.mkv
+│   │   ├── Mindhunter.S01E08.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.nfo
+│   │   ├── Mindhunter.S01E08.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-thumb.jpg
+│   │   ├── Mindhunter.S01E09.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.mkv
+│   │   ├── Mindhunter.S01E09.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.nfo
+│   │   ├── Mindhunter.S01E09.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-thumb.jpg
+│   │   ├── Mindhunter.S01E10.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.mkv
+│   │   ├── Mindhunter.S01E10.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.nfo
+│   │   ├── Mindhunter.S01E10.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-thumb.jpg
+│   │   ├── poster.jpg
+│   │   ├── season01-poster.jpg
+│   │   ├── season02-poster.jpg
+│   │   ├── season.nfo
+│   │   └── tvshow.nfo
+│   ├── Season 2
+│   │   ├── Mindhunter.S02E01.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.mkv
+│   │   ├── Mindhunter.S02E01.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.nfo
+│   │   ├── Mindhunter.S02E01.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-poster.jpg
+│   │   ├── Mindhunter.S02E01.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-thumb.jpg
+│   │   ├── Mindhunter.S02E02.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.mkv
+│   │   ├── Mindhunter.S02E02.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.nfo
+│   │   ├── Mindhunter.S02E02.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-poster.jpg
+│   │   ├── Mindhunter.S02E02.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-thumb.jpg
+│   │   ├── Mindhunter.S02E03.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.mkv
+│   │   ├── Mindhunter.S02E03.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.nfo
+│   │   ├── Mindhunter.S02E03.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-poster.jpg
+│   │   ├── Mindhunter.S02E03.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-thumb.jpg
+│   │   ├── Mindhunter.S02E04.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.mkv
+│   │   ├── Mindhunter.S02E04.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.nfo
+│   │   ├── Mindhunter.S02E04.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-thumb.jpg
+│   │   ├── Mindhunter.S02E05.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.mkv
+│   │   ├── Mindhunter.S02E05.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.nfo
+│   │   ├── Mindhunter.S02E05.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-thumb.jpg
+│   │   ├── Mindhunter.S02E06.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.mkv
+│   │   ├── Mindhunter.S02E06.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.nfo
+│   │   ├── Mindhunter.S02E06.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-poster.jpg
+│   │   ├── Mindhunter.S02E06.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-thumb.jpg
+│   │   ├── Mindhunter.S02E07.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.mkv
+│   │   ├── Mindhunter.S02E07.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.nfo
+│   │   ├── Mindhunter.S02E07.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-poster.jpg
+│   │   ├── Mindhunter.S02E07.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-thumb.jpg
+│   │   ├── Mindhunter.S02E08.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.mkv
+│   │   ├── Mindhunter.S02E08.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.nfo
+│   │   ├── Mindhunter.S02E08.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-poster.jpg
+│   │   ├── Mindhunter.S02E08.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-thumb.jpg
+│   │   ├── Mindhunter.S02E09.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.mkv
+│   │   ├── Mindhunter.S02E09.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT.nfo
+│   │   ├── Mindhunter.S02E09.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-poster.jpg
+│   │   ├── Mindhunter.S02E09.HDR.1080p.NF.WEB-DL.DDP5.1.H265-TJUPT-thumb.jpg
+│   │   ├── poster.jpg
+│   │   ├── season.nfo
+│   │   └── tvshow.nfo
+│   └── tvshow.nfo
+├── 鱿鱼游戏.Squid.Game.S01.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── Squid.Game.S01E01.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV.mkv
+│   ├── Squid.Game.S01E01.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV.nfo
+│   ├── Squid.Game.S01E01.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV-thumb.jpg
+│   ├── Squid.Game.S01E02.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV.mkv
+│   ├── Squid.Game.S01E02.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV.nfo
+│   ├── Squid.Game.S01E02.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV-thumb.jpg
+│   ├── Squid.Game.S01E03.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV.mkv
+│   ├── Squid.Game.S01E03.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV.nfo
+│   ├── Squid.Game.S01E03.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV-thumb.jpg
+│   ├── Squid.Game.S01E04.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV.mkv
+│   ├── Squid.Game.S01E04.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV.nfo
+│   ├── Squid.Game.S01E04.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV-thumb.jpg
+│   ├── Squid.Game.S01E05.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV.mkv
+│   ├── Squid.Game.S01E05.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV.nfo
+│   ├── Squid.Game.S01E05.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV-thumb.jpg
+│   ├── Squid.Game.S01E06.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV.mkv
+│   ├── Squid.Game.S01E06.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV.nfo
+│   ├── Squid.Game.S01E06.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV-thumb.jpg
+│   ├── Squid.Game.S01E07.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV.mkv
+│   ├── Squid.Game.S01E07.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV.nfo
+│   ├── Squid.Game.S01E07.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV-thumb.jpg
+│   ├── Squid.Game.S01E08.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV.mkv
+│   ├── Squid.Game.S01E08.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV.nfo
+│   ├── Squid.Game.S01E08.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV-thumb.jpg
+│   ├── Squid.Game.S01E09.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV.mkv
+│   ├── Squid.Game.S01E09.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV.nfo
+│   ├── Squid.Game.S01E09.2021.Netflix.WEB-DL.1080p.x264.DDP5.1.Atmos-OurTV-thumb.jpg
+│   └── tvshow.nfo
+├── Arcane.S01.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES
+│   ├── Arcane.S01E01.Welcome.to.the.Playground.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES.mkv
+│   ├── Arcane.S01E01.Welcome.to.the.Playground.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES.nfo
+│   ├── Arcane.S01E01.Welcome.to.the.Playground.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES-thumb.jpg
+│   ├── Arcane.S01E02.Some.Mysteries.Are.Better.Left.Unsolved.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES.mkv
+│   ├── Arcane.S01E02.Some.Mysteries.Are.Better.Left.Unsolved.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES.nfo
+│   ├── Arcane.S01E02.Some.Mysteries.Are.Better.Left.Unsolved.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES-thumb.jpg
+│   ├── Arcane.S01E03.The.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES.mkv
+│   ├── Arcane.S01E03.The.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES.nfo
+│   ├── Arcane.S01E03.The.Base.Violence.Necessary.for.Change.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES-thumb.jpg
+│   ├── Arcane.S01E04.Happy.Progress.Day.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES.mkv
+│   ├── Arcane.S01E04.Happy.Progress.Day.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES.nfo
+│   ├── Arcane.S01E04.Happy.Progress.Day.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES-thumb.jpg
+│   ├── Arcane.S01E05.Everybody.Wants.to.Be.My.Enemy.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES.mkv
+│   ├── Arcane.S01E05.Everybody.Wants.to.Be.My.Enemy.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES.nfo
+│   ├── Arcane.S01E05.Everybody.Wants.to.Be.My.Enemy.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES-thumb.jpg
+│   ├── Arcane.S01E06.When.These.Walls.Come.Tumbling.Down.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES.mkv
+│   ├── Arcane.S01E06.When.These.Walls.Come.Tumbling.Down.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES.nfo
+│   ├── Arcane.S01E06.When.These.Walls.Come.Tumbling.Down.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES-thumb.jpg
+│   ├── Arcane.S01E07.The.Boy.Savior.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES.mkv
+│   ├── Arcane.S01E07.The.Boy.Savior.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES.nfo
+│   ├── Arcane.S01E07.The.Boy.Savior.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES-thumb.jpg
+│   ├── Arcane.S01E08.Oil.and.Water.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES.mkv
+│   ├── Arcane.S01E08.Oil.and.Water.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES.nfo
+│   ├── Arcane.S01E08.Oil.and.Water.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES-thumb.jpg
+│   ├── Arcane.S01E09.The.Monster.You.Created.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES.mkv
+│   ├── Arcane.S01E09.The.Monster.You.Created.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES.nfo
+│   ├── Arcane.S01E09.The.Monster.You.Created.1080p.NF.WEB-DL.DDP5.1.HEVC-TEPES-thumb.jpg
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   └── tvshow.nfo
+├── Better Call Saul
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season04-poster.jpg
+│   ├── season05-poster.jpg
+│   ├── Season 1
+│   │   ├── better.call.saul.s01e01.1080p.bluray.x264-shortbrehd-320-10.bif
+│   │   ├── better.call.saul.s01e01.1080p.bluray.x264-shortbrehd.mkv
+│   │   ├── better.call.saul.s01e01.1080p.bluray.x264-shortbrehd.nfo
+│   │   ├── better.call.saul.s01e01.1080p.bluray.x264-shortbrehd-thumb.jpg
+│   │   ├── better.call.saul.s01e01.1080p.bluray.x264-shortbrehd.zh.default.ass
+│   │   ├── better.call.saul.s01e02.1080p.bluray.x264-shortbrehd-320-10.bif
+│   │   ├── better.call.saul.s01e02.1080p.bluray.x264-shortbrehd.mkv
+│   │   ├── better.call.saul.s01e02.1080p.bluray.x264-shortbrehd.nfo
+│   │   ├── better.call.saul.s01e02.1080p.bluray.x264-shortbrehd-thumb.jpg
+│   │   ├── better.call.saul.s01e02.1080p.bluray.x264-shortbrehd.zh.default.ass
+│   │   ├── better.call.saul.s01e03.1080p.bluray.x264-shortbrehd-320-10.bif
+│   │   ├── better.call.saul.s01e03.1080p.bluray.x264-shortbrehd.mkv
+│   │   ├── better.call.saul.s01e03.1080p.bluray.x264-shortbrehd.nfo
+│   │   ├── better.call.saul.s01e03.1080p.bluray.x264-shortbrehd-thumb.jpg
+│   │   ├── better.call.saul.s01e03.1080p.bluray.x264-shortbrehd.zh.default.ass
+│   │   ├── Better.Call.Saul.S01E04.1080p.BluRay.X264-DEFLATE-320-10.bif
+│   │   ├── Better.Call.Saul.S01E04.1080p.BluRay.X264-DEFLATE.mkv
+│   │   ├── Better.Call.Saul.S01E04.1080p.BluRay.X264-DEFLATE.nfo
+│   │   ├── Better.Call.Saul.S01E04.1080p.BluRay.X264-DEFLATE-thumb.jpg
+│   │   ├── better.call.saul.s01e04.1080p.bluray.x264-shortbrehd.zh.default.ass
+│   │   ├── Better.Call.Saul.S01E05.1080p.BluRay.X264-DEFLATE-320-10.bif
+│   │   ├── Better.Call.Saul.S01E05.1080p.BluRay.X264-DEFLATE.mkv
+│   │   ├── Better.Call.Saul.S01E05.1080p.BluRay.X264-DEFLATE.nfo
+│   │   ├── Better.Call.Saul.S01E05.1080p.BluRay.X264-DEFLATE-thumb.jpg
+│   │   ├── better.call.saul.s01e05.1080p.bluray.x264-shortbrehd.zh.default.ass
+│   │   ├── Better.Call.Saul.S01E06.1080p.BluRay.X264-DEFLATE-320-10.bif
+│   │   ├── Better.Call.Saul.S01E06.1080p.BluRay.X264-DEFLATE.mkv
+│   │   ├── Better.Call.Saul.S01E06.1080p.BluRay.X264-DEFLATE.nfo
+│   │   ├── Better.Call.Saul.S01E06.1080p.BluRay.X264-DEFLATE-thumb.jpg
+│   │   ├── better.call.saul.s01e06.1080p.bluray.x264-shortbrehd.zh.default.ass
+│   │   ├── Better.Call.Saul.S01E07.1080p.BluRay.X264-DEFLATE-320-10.bif
+│   │   ├── Better.Call.Saul.S01E07.1080p.BluRay.X264-DEFLATE.mkv
+│   │   ├── Better.Call.Saul.S01E07.1080p.BluRay.X264-DEFLATE.nfo
+│   │   ├── Better.Call.Saul.S01E07.1080p.BluRay.X264-DEFLATE-thumb.jpg
+│   │   ├── better.call.saul.s01e07.1080p.bluray.x264-shortbrehd.zh.default.ass
+│   │   ├── Better.Call.Saul.S01E08.1080p.BluRay.X264-DEFLATE-320-10.bif
+│   │   ├── Better.Call.Saul.S01E08.1080p.BluRay.X264-DEFLATE.mkv
+│   │   ├── Better.Call.Saul.S01E08.1080p.BluRay.X264-DEFLATE.nfo
+│   │   ├── Better.Call.Saul.S01E08.1080p.BluRay.X264-DEFLATE-thumb.jpg
+│   │   ├── better.call.saul.s01e08.1080p.bluray.x264-shortbrehd.zh.default.ass
+│   │   ├── Better.Call.Saul.S01E09.1080p.BluRay.X264-DEFLATE-320-10.bif
+│   │   ├── Better.Call.Saul.S01E09.1080p.BluRay.X264-DEFLATE.mkv
+│   │   ├── Better.Call.Saul.S01E09.1080p.BluRay.X264-DEFLATE.nfo
+│   │   ├── Better.Call.Saul.S01E09.1080p.BluRay.X264-DEFLATE-thumb.jpg
+│   │   ├── better.call.saul.s01e09.1080p.bluray.x264-shortbrehd.zh.default.ass
+│   │   ├── Better.Call.Saul.S01E10.1080p.BluRay.X264-DEFLATE-320-10.bif
+│   │   ├── Better.Call.Saul.S01E10.1080p.BluRay.X264-DEFLATE.mkv
+│   │   ├── Better.Call.Saul.S01E10.1080p.BluRay.X264-DEFLATE.nfo
+│   │   ├── Better.Call.Saul.S01E10.1080p.BluRay.X264-DEFLATE-thumb.jpg
+│   │   ├── better.call.saul.s01e10.1080p.bluray.x264-shortbrehd.zh.default.ass
+│   │   ├── RARBG.txt
+│   │   ├── season.nfo
+│   │   └── Subs
+│   │       ├── better.call.saul.s01e01.1080p.bluray.x264-shortbrehd.idx
+│   │       ├── better.call.saul.s01e01.1080p.bluray.x264-shortbrehd.sub
+│   │       ├── better.call.saul.s01e02.1080p.bluray.x264-shortbrehd.idx
+│   │       ├── better.call.saul.s01e02.1080p.bluray.x264-shortbrehd.sub
+│   │       ├── better.call.saul.s01e03.1080p.bluray.x264-shortbrehd.idx
+│   │       ├── better.call.saul.s01e03.1080p.bluray.x264-shortbrehd.sub
+│   │       ├── Better.Call.Saul.S01E04.1080p.BluRay.X264-DEFLATE.idx
+│   │       ├── Better.Call.Saul.S01E04.1080p.BluRay.X264-DEFLATE.sub
+│   │       ├── Better.Call.Saul.S01E05.1080p.BluRay.X264-DEFLATE.idx
+│   │       ├── Better.Call.Saul.S01E05.1080p.BluRay.X264-DEFLATE.sub
+│   │       ├── Better.Call.Saul.S01E06.1080p.BluRay.X264-DEFLATE.idx
+│   │       ├── Better.Call.Saul.S01E06.1080p.BluRay.X264-DEFLATE.sub
+│   │       ├── Better.Call.Saul.S01E07.1080p.BluRay.X264-DEFLATE.idx
+│   │       ├── Better.Call.Saul.S01E07.1080p.BluRay.X264-DEFLATE.sub
+│   │       ├── Better.Call.Saul.S01E08.1080p.BluRay.X264-DEFLATE.idx
+│   │       ├── Better.Call.Saul.S01E08.1080p.BluRay.X264-DEFLATE.sub
+│   │       ├── Better.Call.Saul.S01E09.1080p.BluRay.X264-DEFLATE.idx
+│   │       ├── Better.Call.Saul.S01E09.1080p.BluRay.X264-DEFLATE.sub
+│   │       ├── Better.Call.Saul.S01E10.1080p.BluRay.X264-DEFLATE.idx
+│   │       └── Better.Call.Saul.S01E10.1080p.BluRay.X264-DEFLATE.sub
+│   ├── Season 2
+│   │   ├── Better.Call.Saul.S02E01.Switch.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON-320-10.bif
+│   │   ├── Better.Call.Saul.S02E01.Switch.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.mkv
+│   │   ├── Better.Call.Saul.S02E01.Switch.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.nfo
+│   │   ├── Better.Call.Saul.S02E01.Switch.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON-thumb.jpg
+│   │   ├── Better.Call.Saul.S02E01.Switch.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.zh.default.ass
+│   │   ├── Better.Call.Saul.S02E02.Cobbler.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON-320-10.bif
+│   │   ├── Better.Call.Saul.S02E02.Cobbler.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.mkv
+│   │   ├── Better.Call.Saul.S02E02.Cobbler.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.nfo
+│   │   ├── Better.Call.Saul.S02E02.Cobbler.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON-thumb.jpg
+│   │   ├── Better.Call.Saul.S02E02.Cobbler.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.zh.default.ass
+│   │   ├── Better.Call.Saul.S02E03.Amarillo.2160p.NF.WEBRip.DD5.1.x264-iON-320-10.bif
+│   │   ├── Better.Call.Saul.S02E03.Amarillo.2160p.NF.WEBRip.DD5.1.x264-iON.mkv
+│   │   ├── Better.Call.Saul.S02E03.Amarillo.2160p.NF.WEBRip.DD5.1.x264-iON.nfo
+│   │   ├── Better.Call.Saul.S02E03.Amarillo.2160p.NF.WEBRip.DD5.1.x264-iON-thumb.jpg
+│   │   ├── Better.Call.Saul.S02E03.Amarillo.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.zh.default.ass
+│   │   ├── Better.Call.Saul.S02E04.Gloves.Off.2160p.NF.WEBRip.DD5.1.x264-iON-320-10.bif
+│   │   ├── Better.Call.Saul.S02E04.Gloves.Off.2160p.NF.WEBRip.DD5.1.x264-iON.mkv
+│   │   ├── Better.Call.Saul.S02E04.Gloves.Off.2160p.NF.WEBRip.DD5.1.x264-iON.nfo
+│   │   ├── Better.Call.Saul.S02E04.Gloves.Off.2160p.NF.WEBRip.DD5.1.x264-iON-thumb.jpg
+│   │   ├── Better.Call.Saul.S02E04.Gloves.Off.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.zh.default.ass
+│   │   ├── Better.Call.Saul.S02E05.Rebecca.2160p.NF.WEBRip.DD5.1.x264-iON-320-10.bif
+│   │   ├── Better.Call.Saul.S02E05.Rebecca.2160p.NF.WEBRip.DD5.1.x264-iON.mkv
+│   │   ├── Better.Call.Saul.S02E05.Rebecca.2160p.NF.WEBRip.DD5.1.x264-iON.nfo
+│   │   ├── Better.Call.Saul.S02E05.Rebecca.2160p.NF.WEBRip.DD5.1.x264-iON-thumb.jpg
+│   │   ├── Better.Call.Saul.S02E05.Rebecca.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.zh.default.ass
+│   │   ├── Better.Call.Saul.S02E06.Bali.Ha'i.2160p.NF.WEBRip.DD5.1.x264-iON-320-10.bif
+│   │   ├── Better.Call.Saul.S02E06.Bali.Ha'i.2160p.NF.WEBRip.DD5.1.x264-iON.mkv
+│   │   ├── Better.Call.Saul.S02E06.Bali.Ha'i.2160p.NF.WEBRip.DD5.1.x264-iON.nfo
+│   │   ├── Better.Call.Saul.S02E06.Bali.Ha'i.2160p.NF.WEBRip.DD5.1.x264-iON-thumb.jpg
+│   │   ├── Better.Call.Saul.S02E06.Bali.Ha'i.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.zh.default.ass
+│   │   ├── Better.Call.Saul.S02E07.Inflatable.2160p.NF.WEBRip.DD5.1.x264-iON-320-10.bif
+│   │   ├── Better.Call.Saul.S02E07.Inflatable.2160p.NF.WEBRip.DD5.1.x264-iON.mkv
+│   │   ├── Better.Call.Saul.S02E07.Inflatable.2160p.NF.WEBRip.DD5.1.x264-iON.nfo
+│   │   ├── Better.Call.Saul.S02E07.Inflatable.2160p.NF.WEBRip.DD5.1.x264-iON-thumb.jpg
+│   │   ├── Better.Call.Saul.S02E07.Inflatable.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.zh.default.ass
+│   │   ├── Better.Call.Saul.S02E08.Fifi.2160p.NF.WEBRip.DD5.1.x264-iON-320-10.bif
+│   │   ├── Better.Call.Saul.S02E08.Fifi.2160p.NF.WEBRip.DD5.1.x264-iON.mkv
+│   │   ├── Better.Call.Saul.S02E08.Fifi.2160p.NF.WEBRip.DD5.1.x264-iON.nfo
+│   │   ├── Better.Call.Saul.S02E08.Fifi.2160p.NF.WEBRip.DD5.1.x264-iON-thumb.jpg
+│   │   ├── Better.Call.Saul.S02E08.Fifi.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.zh.default.ass
+│   │   ├── Better.Call.Saul.S02E09.Nailed.2160p.NF.WEBRip.DD5.1.x264-iON-320-10.bif
+│   │   ├── Better.Call.Saul.S02E09.Nailed.2160p.NF.WEBRip.DD5.1.x264-iON.mkv
+│   │   ├── Better.Call.Saul.S02E09.Nailed.2160p.NF.WEBRip.DD5.1.x264-iON.nfo
+│   │   ├── Better.Call.Saul.S02E09.Nailed.2160p.NF.WEBRip.DD5.1.x264-iON-thumb.jpg
+│   │   ├── Better.Call.Saul.S02E09.Nailed.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.zh.default.ass
+│   │   ├── Better.Call.Saul.S02E10.Klick.2160p.NF.WEBRip.DD5.1.x264-iON-320-10.bif
+│   │   ├── Better.Call.Saul.S02E10.Klick.2160p.NF.WEBRip.DD5.1.x264-iON.mkv
+│   │   ├── Better.Call.Saul.S02E10.Klick.2160p.NF.WEBRip.DD5.1.x264-iON.nfo
+│   │   ├── Better.Call.Saul.S02E10.Klick.2160p.NF.WEBRip.DD5.1.x264-iON-thumb.jpg
+│   │   ├── Better.Call.Saul.S02E10.Klick.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.zh.default.ass
+│   │   ├── RARBG.txt
+│   │   └── season.nfo
+│   ├── Season 3
+│   │   ├── Better.Call.Saul.S03E01.2160p.NF.WEBRip.DD5.1.x264-ViSUM-320-10.bif
+│   │   ├── Better.Call.Saul.S03E01.2160p.NF.WEBRip.DD5.1.x264-ViSUM.mkv
+│   │   ├── Better.Call.Saul.S03E01.2160p.NF.WEBRip.DD5.1.x264-ViSUM.nfo
+│   │   ├── Better.Call.Saul.S03E01.2160p.NF.WEBRip.DD5.1.x264-ViSUM-thumb.jpg
+│   │   ├── Better.Call.Saul.S03E01.Mabel.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.zh.default.ass
+│   │   ├── Better.Call.Saul.S03E02.2160p.NF.WEBRip.DD5.1.x264-ViSUM-320-10.bif
+│   │   ├── Better.Call.Saul.S03E02.2160p.NF.WEBRip.DD5.1.x264-ViSUM.mkv
+│   │   ├── Better.Call.Saul.S03E02.2160p.NF.WEBRip.DD5.1.x264-ViSUM.nfo
+│   │   ├── Better.Call.Saul.S03E02.2160p.NF.WEBRip.DD5.1.x264-ViSUM-thumb.jpg
+│   │   ├── Better.Call.Saul.S03E02.Witness.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.zh.default.ass
+│   │   ├── Better.Call.Saul.S03E03.2160p.NF.WEBRip.DD5.1.x264-ViSUM-320-10.bif
+│   │   ├── Better.Call.Saul.S03E03.2160p.NF.WEBRip.DD5.1.x264-ViSUM.mkv
+│   │   ├── Better.Call.Saul.S03E03.2160p.NF.WEBRip.DD5.1.x264-ViSUM.nfo
+│   │   ├── Better.Call.Saul.S03E03.2160p.NF.WEBRip.DD5.1.x264-ViSUM-thumb.jpg
+│   │   ├── Better.Call.Saul.S03E03.Sunk.Costs.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.zh.default.ass
+│   │   ├── Better.Call.Saul.S03E04.2160p.NF.WEBRip.DD5.1.x264-ViSUM-320-10.bif
+│   │   ├── Better.Call.Saul.S03E04.2160p.NF.WEBRip.DD5.1.x264-ViSUM.mkv
+│   │   ├── Better.Call.Saul.S03E04.2160p.NF.WEBRip.DD5.1.x264-ViSUM.nfo
+│   │   ├── Better.Call.Saul.S03E04.2160p.NF.WEBRip.DD5.1.x264-ViSUM-thumb.jpg
+│   │   ├── Better.Call.Saul.S03E04.Sabrosito.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.zh.default.ass
+│   │   ├── Better.Call.Saul.S03E05.2160p.NF.WEBRip.DD5.1.x264-ViSUM-320-10.bif
+│   │   ├── Better.Call.Saul.S03E05.2160p.NF.WEBRip.DD5.1.x264-ViSUM.mkv
+│   │   ├── Better.Call.Saul.S03E05.2160p.NF.WEBRip.DD5.1.x264-ViSUM.nfo
+│   │   ├── Better.Call.Saul.S03E05.2160p.NF.WEBRip.DD5.1.x264-ViSUM-thumb.jpg
+│   │   ├── Better.Call.Saul.S03E05.Chicanery.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.zh.default.ass
+│   │   ├── Better.Call.Saul.S03E06.2160p.NF.WEBRip.DD5.1.x264-ViSUM-320-10.bif
+│   │   ├── Better.Call.Saul.S03E06.2160p.NF.WEBRip.DD5.1.x264-ViSUM.mkv
+│   │   ├── Better.Call.Saul.S03E06.2160p.NF.WEBRip.DD5.1.x264-ViSUM.nfo
+│   │   ├── Better.Call.Saul.S03E06.2160p.NF.WEBRip.DD5.1.x264-ViSUM-thumb.jpg
+│   │   ├── Better.Call.Saul.S03E06.Off.Brand.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.zh.default.ass
+│   │   ├── Better.Call.Saul.S03E07.2160p.NF.WEBRip.DD5.1.x264-ViSUM-320-10.bif
+│   │   ├── Better.Call.Saul.S03E07.2160p.NF.WEBRip.DD5.1.x264-ViSUM.mkv
+│   │   ├── Better.Call.Saul.S03E07.2160p.NF.WEBRip.DD5.1.x264-ViSUM.nfo
+│   │   ├── Better.Call.Saul.S03E07.2160p.NF.WEBRip.DD5.1.x264-ViSUM-thumb.jpg
+│   │   ├── Better.Call.Saul.S03E07.Expenses.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.zh.default.ass
+│   │   ├── Better.Call.Saul.S03E08.2160p.NF.WEBRip.DD5.1.x264-ViSUM-320-10.bif
+│   │   ├── Better.Call.Saul.S03E08.2160p.NF.WEBRip.DD5.1.x264-ViSUM.mkv
+│   │   ├── Better.Call.Saul.S03E08.2160p.NF.WEBRip.DD5.1.x264-ViSUM.nfo
+│   │   ├── Better.Call.Saul.S03E08.2160p.NF.WEBRip.DD5.1.x264-ViSUM-thumb.jpg
+│   │   ├── Better.Call.Saul.S03E08.Slip.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.zh.default.ass
+│   │   ├── Better.Call.Saul.S03E09.2160p.NF.WEBRip.DD5.1.x264-ViSUM-320-10.bif
+│   │   ├── Better.Call.Saul.S03E09.2160p.NF.WEBRip.DD5.1.x264-ViSUM.mkv
+│   │   ├── Better.Call.Saul.S03E09.2160p.NF.WEBRip.DD5.1.x264-ViSUM.nfo
+│   │   ├── Better.Call.Saul.S03E09.2160p.NF.WEBRip.DD5.1.x264-ViSUM-thumb.jpg
+│   │   ├── Better.Call.Saul.S03E09.Fall.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.zh.default.ass
+│   │   ├── Better.Call.Saul.S03E10.2160p.NF.WEBRip.DD5.1.x264-ViSUM-320-10.bif
+│   │   ├── Better.Call.Saul.S03E10.2160p.NF.WEBRip.DD5.1.x264-ViSUM.mkv
+│   │   ├── Better.Call.Saul.S03E10.2160p.NF.WEBRip.DD5.1.x264-ViSUM.nfo
+│   │   ├── Better.Call.Saul.S03E10.2160p.NF.WEBRip.DD5.1.x264-ViSUM-thumb.jpg
+│   │   ├── Better.Call.Saul.S03E10.Lantern.REPACK.2160p.NF.WEBRip.DD5.1.x264-iON.zh.default.ass
+│   │   ├── RARBG.txt
+│   │   └── season.nfo
+│   ├── Season 4
+│   │   ├── Better.Call.Saul.S04E01.Smoke.1080p.NF.WEBRip.DDP5.1.x264-NTb-320-10.bif
+│   │   ├── Better.Call.Saul.S04E01.Smoke.1080p.NF.WEBRip.DDP5.1.x264-NTb.ChsEngA.default..srt
+│   │   ├── Better.Call.Saul.S04E01.Smoke.1080p.NF.WEBRip.DDP5.1.x264-NTb.mkv
+│   │   ├── Better.Call.Saul.S04E01.Smoke.1080p.NF.WEBRip.DDP5.1.x264-NTb.nfo
+│   │   ├── Better.Call.Saul.S04E01.Smoke.1080p.NF.WEBRip.DDP5.1.x264-NTb-thumb.jpg
+│   │   ├── Better.Call.Saul.S04E02.Breathe.1080p.NF.WEBRip.DDP5.1.x264-NTb-320-10.bif
+│   │   ├── Better.Call.Saul.S04E02.Breathe.1080p.NF.WEBRip.DDP5.1.x264-NTb.ChsEngA.default..srt
+│   │   ├── Better.Call.Saul.S04E02.Breathe.1080p.NF.WEBRip.DDP5.1.x264-NTb.mkv
+│   │   ├── Better.Call.Saul.S04E02.Breathe.1080p.NF.WEBRip.DDP5.1.x264-NTb.nfo
+│   │   ├── Better.Call.Saul.S04E02.Breathe.1080p.NF.WEBRip.DDP5.1.x264-NTb-thumb.jpg
+│   │   ├── Better.Call.Saul.S04E03.Something.Beautiful.1080p.NF.WEBRip.DDP5.1.x264-NTb.1.x264-NTb.srt
+│   │   ├── Better.Call.Saul.S04E03.Something.Beautiful.1080p.NF.WEBRip.DDP5.1.x264-NTb-320-10.bif
+│   │   ├── Better.Call.Saul.S04E03.Something.Beautiful.1080p.NF.WEBRip.DDP5.1.x264-NTb.mkv
+│   │   ├── Better.Call.Saul.S04E03.Something.Beautiful.1080p.NF.WEBRip.DDP5.1.x264-NTb.nfo
+│   │   ├── Better.Call.Saul.S04E03.Something.Beautiful.1080p.NF.WEBRip.DDP5.1.x264-NTb-thumb.jpg
+│   │   ├── Better.Call.Saul.S04E04.Talk.1080p.Netflix.WEBRip.DD.5.1.x264-TrollHD-320-10.bif
+│   │   ├── Better.Call.Saul.S04E04.Talk.1080p.Netflix.WEBRip.DD.5.1.x264-TrollHD.ChsEngA.default..srt
+│   │   ├── Better.Call.Saul.S04E04.Talk.1080p.Netflix.WEBRip.DD.5.1.x264-TrollHD.mkv
+│   │   ├── Better.Call.Saul.S04E04.Talk.1080p.Netflix.WEBRip.DD.5.1.x264-TrollHD.nfo
+│   │   ├── Better.Call.Saul.S04E04.Talk.1080p.Netflix.WEBRip.DD.5.1.x264-TrollHD-thumb.jpg
+│   │   ├── Better.Call.Saul.S04E05.1080p.Netflix.WEBRip.DD.5.1.x264-TrollHD-320-10.bif
+│   │   ├── Better.Call.Saul.S04E05.1080p.Netflix.WEBRip.DD.5.1.x264-TrollHD.ChsEngA.default..srt
+│   │   ├── Better.Call.Saul.S04E05.1080p.Netflix.WEBRip.DD.5.1.x264-TrollHD.mkv
+│   │   ├── Better.Call.Saul.S04E05.1080p.Netflix.WEBRip.DD.5.1.x264-TrollHD.nfo
+│   │   ├── Better.Call.Saul.S04E05.1080p.Netflix.WEBRip.DD.5.1.x264-TrollHD-thumb.jpg
+│   │   ├── Better.Call.Saul.S04E06.iNTERNAL.1080p.WEB.X264-METCON-320-10.bif
+│   │   ├── Better.Call.Saul.S04E06.iNTERNAL.1080p.WEB.X264-METCON.mkv
+│   │   ├── Better.Call.Saul.S04E06.iNTERNAL.1080p.WEB.X264-METCON.nfo
+│   │   ├── Better.Call.Saul.S04E06.iNTERNAL.1080p.WEB.X264-METCON.srt
+│   │   ├── Better.Call.Saul.S04E06.iNTERNAL.1080p.WEB.X264-METCON-thumb.jpg
+│   │   ├── Better.Call.Saul.S04E07.1080p.Netflix.WEBRip.DD.5.1.x264-TrollHD-320-10.bif
+│   │   ├── Better.Call.Saul.S04E07.1080p.Netflix.WEBRip.DD.5.1.x264-TrollHD.ChsEngA.default.srt
+│   │   ├── Better.Call.Saul.S04E07.1080p.Netflix.WEBRip.DD.5.1.x264-TrollHD.mkv
+│   │   ├── Better.Call.Saul.S04E07.1080p.Netflix.WEBRip.DD.5.1.x264-TrollHD.nfo
+│   │   ├── Better.Call.Saul.S04E07.1080p.Netflix.WEBRip.DD.5.1.x264-TrollHD-thumb.jpg
+│   │   ├── Better.Call.Saul.S04E08.iNTERNAL.1080p.WEB.X264-METCON-320-10.bif
+│   │   ├── Better.Call.Saul.S04E08.iNTERNAL.1080p.WEB.X264-METCON.ChsEngA.default.srt
+│   │   ├── Better.Call.Saul.S04E08.iNTERNAL.1080p.WEB.X264-METCON.mkv
+│   │   ├── Better.Call.Saul.S04E08.iNTERNAL.1080p.WEB.X264-METCON.nfo
+│   │   ├── Better.Call.Saul.S04E08.iNTERNAL.1080p.WEB.X264-METCON-thumb.jpg
+│   │   ├── Better.Call.Saul.S04E09.1080p.WEB.X264-METCON-320-10.bif
+│   │   ├── Better.Call.Saul.S04E09.1080p.WEB.X264-METCON.ChsEngA.default..srt
+│   │   ├── Better.Call.Saul.S04E09.1080p.WEB.X264-METCON.mkv
+│   │   ├── Better.Call.Saul.S04E09.1080p.WEB.X264-METCON.nfo
+│   │   ├── Better.Call.Saul.S04E09.1080p.WEB.X264-METCON-thumb.jpg
+│   │   ├── Better.Call.Saul.S04E10.1080p.WEB.X264-METCON-320-10.bif
+│   │   ├── Better.Call.Saul.S04E10.1080p.WEB.X264-METCON.ChsEngA.default..srt
+│   │   ├── Better.Call.Saul.S04E10.1080p.WEB.X264-METCON.mkv
+│   │   ├── Better.Call.Saul.S04E10.1080p.WEB.X264-METCON.nfo
+│   │   ├── Better.Call.Saul.S04E10.1080p.WEB.X264-METCON-thumb.jpg
+│   │   ├── RARBG.txt
+│   │   └── season.nfo
+│   ├── Season 5
+│   │   ├── Better.Call.Saul.S05E01.2160p.NF.WEBRip.DDP5.1.x265-AJP69-320-10.bif
+│   │   ├── Better.Call.Saul.S05E01.2160p.NF.WEBRip.DDP5.1.x265-AJP69.ass
+│   │   ├── Better.Call.Saul.S05E01.2160p.NF.WEBRip.DDP5.1.x265-AJP69.mkv
+│   │   ├── Better.Call.Saul.S05E01.2160p.NF.WEBRip.DDP5.1.x265-AJP69.nfo
+│   │   ├── Better.Call.Saul.S05E01.2160p.NF.WEBRip.DDP5.1.x265-AJP69-thumb.jpg
+│   │   ├── Better.Call.Saul.S05E02.1080p.NF.WEBRip.DDP5.1.x264-AJP69.ChsEngA.ass
+│   │   ├── Better.Call.Saul.S05E02.2160p.NF.WEBRip.DDP5.1.x265-AJP69-320-10.bif
+│   │   ├── Better.Call.Saul.S05E02.2160p.NF.WEBRip.DDP5.1.x265-AJP69.mkv
+│   │   ├── Better.Call.Saul.S05E02.2160p.NF.WEBRip.DDP5.1.x265-AJP69.nfo
+│   │   ├── Better.Call.Saul.S05E02.2160p.NF.WEBRip.DDP5.1.x265-AJP69-thumb.jpg
+│   │   ├── Better.Call.Saul.S05E03.1080p.NF.WEBRip.DDP5.1.x264-AJP69.ChsEngA.ass
+│   │   ├── Better.Call.Saul.S05E03.2160p.NF.WEBRip.DDP5.1.x265-AJP69-320-10.bif
+│   │   ├── Better.Call.Saul.S05E03.2160p.NF.WEBRip.DDP5.1.x265-AJP69.mkv
+│   │   ├── Better.Call.Saul.S05E03.2160p.NF.WEBRip.DDP5.1.x265-AJP69.nfo
+│   │   ├── Better.Call.Saul.S05E03.2160p.NF.WEBRip.DDP5.1.x265-AJP69-thumb.jpg
+│   │   ├── Better.Call.Saul.S05E04.1080p.NF.WEBRip.DDP5.1.x264-AJP69.ChsEngA.ass
+│   │   ├── Better.Call.Saul.S05E04.2160p.NF.WEBRip.DDP5.1.x265-AJP69-320-10.bif
+│   │   ├── Better.Call.Saul.S05E04.2160p.NF.WEBRip.DDP5.1.x265-AJP69.mkv
+│   │   ├── Better.Call.Saul.S05E04.2160p.NF.WEBRip.DDP5.1.x265-AJP69.nfo
+│   │   ├── Better.Call.Saul.S05E04.2160p.NF.WEBRip.DDP5.1.x265-AJP69-thumb.jpg
+│   │   ├── Better.Call.Saul.S05E05.2160p.NF.WEBRip.DDP5.1.x265-AJP69-320-10.bif
+│   │   ├── Better.Call.Saul.S05E05.2160p.NF.WEBRip.DDP5.1.x265-AJP69.ass
+│   │   ├── Better.Call.Saul.S05E05.2160p.NF.WEBRip.DDP5.1.x265-AJP69.mkv
+│   │   ├── Better.Call.Saul.S05E05.2160p.NF.WEBRip.DDP5.1.x265-AJP69.nfo
+│   │   ├── Better.Call.Saul.S05E05.2160p.NF.WEBRip.DDP5.1.x265-AJP69-thumb.jpg
+│   │   ├── Better.Call.Saul.S05E06.1080p.NF.WEBRip.DDP5.1.x264-AJP69.ChsEngA.ass
+│   │   ├── Better.Call.Saul.S05E06.2160p.NF.WEBRip.DDP5.1.x265-AJP69-320-10.bif
+│   │   ├── Better.Call.Saul.S05E06.2160p.NF.WEBRip.DDP5.1.x265-AJP69.mkv
+│   │   ├── Better.Call.Saul.S05E06.2160p.NF.WEBRip.DDP5.1.x265-AJP69.nfo
+│   │   ├── Better.Call.Saul.S05E06.2160p.NF.WEBRip.DDP5.1.x265-AJP69-thumb.jpg
+│   │   ├── Better.Call.Saul.S05E07.1080p.NF.WEBRip.DDP5.1.x264-AJP69.ChsEngA.ass
+│   │   ├── Better.Call.Saul.S05E07.2160p.NF.WEBRip.DDP5.1.x265-AJP69-320-10.bif
+│   │   ├── Better.Call.Saul.S05E07.2160p.NF.WEBRip.DDP5.1.x265-AJP69.mkv
+│   │   ├── Better.Call.Saul.S05E07.2160p.NF.WEBRip.DDP5.1.x265-AJP69.nfo
+│   │   ├── Better.Call.Saul.S05E07.2160p.NF.WEBRip.DDP5.1.x265-AJP69-thumb.jpg
+│   │   ├── Better.Call.Saul.S05E08.1080p.NF.WEBRip.DDP5.1.x264-AJP69.ChsEngA.ass
+│   │   ├── Better.Call.Saul.S05E08.2160p.NF.WEBRip.DDP5.1.x265-AJP69-320-10.bif
+│   │   ├── Better.Call.Saul.S05E08.2160p.NF.WEBRip.DDP5.1.x265-AJP69.mkv
+│   │   ├── Better.Call.Saul.S05E08.2160p.NF.WEBRip.DDP5.1.x265-AJP69.nfo
+│   │   ├── Better.Call.Saul.S05E08.2160p.NF.WEBRip.DDP5.1.x265-AJP69-thumb.jpg
+│   │   ├── Better.Call.Saul.S05E09.1080p.NF.WEBRip.DDP5.1.x264-AJP69.ChsEngA.ass
+│   │   ├── Better.Call.Saul.S05E09.2160p.NF.WEBRip.DDP5.1.x265-AJP69-320-10.bif
+│   │   ├── Better.Call.Saul.S05E09.2160p.NF.WEBRip.DDP5.1.x265-AJP69.mkv
+│   │   ├── Better.Call.Saul.S05E09.2160p.NF.WEBRip.DDP5.1.x265-AJP69.nfo
+│   │   ├── Better.Call.Saul.S05E09.2160p.NF.WEBRip.DDP5.1.x265-AJP69-thumb.jpg
+│   │   ├── Better.Call.Saul.S05E10.1080p.NF.WEBRip.DDP5.1.x264-AJP69.ChsEngA.ass
+│   │   ├── Better.Call.Saul.S05E10.2160p.NF.WEBRip.DDP5.1.x265-AJP69-320-10.bif
+│   │   ├── Better.Call.Saul.S05E10.2160p.NF.WEBRip.DDP5.1.x265-AJP69.mkv
+│   │   ├── Better.Call.Saul.S05E10.2160p.NF.WEBRip.DDP5.1.x265-AJP69.nfo
+│   │   ├── Better.Call.Saul.S05E10.2160p.NF.WEBRip.DDP5.1.x265-AJP69-thumb.jpg
+│   │   ├── RARBG.txt
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Black Mirror
+│   ├── Black.Mirror.S04.INTERNAL.1080p.WEB.x264-STRiFE
+│   │   ├── black.mirror.s04e01.internal.1080p.web.x264-strife.mkv
+│   │   ├── black.mirror.s04e01.internal.1080p.web.x264-strife.nfo
+│   │   ├── black.mirror.s04e01.internal.1080p.web.x264-strife-thumb.jpg
+│   │   ├── black.mirror.s04e01.internal.1080p.web.x264-strife.zh-cn.srt
+│   │   ├── black.mirror.s04e02.internal.1080p.web.x264-strife.mkv
+│   │   ├── black.mirror.s04e02.internal.1080p.web.x264-strife.nfo
+│   │   ├── black.mirror.s04e02.internal.1080p.web.x264-strife-thumb.jpg
+│   │   ├── black.mirror.s04e02.internal.1080p.web.x264-strife.zh-cn.srt
+│   │   ├── black.mirror.s04e03.internal.1080p.web.x264-strife.mkv
+│   │   ├── black.mirror.s04e03.internal.1080p.web.x264-strife.nfo
+│   │   ├── black.mirror.s04e03.internal.1080p.web.x264-strife-thumb.jpg
+│   │   ├── black.mirror.s04e03.internal.1080p.web.x264-strife.zh-cn.ass
+│   │   ├── black.mirror.s04e04.internal.1080p.web.x264-strife.mkv
+│   │   ├── black.mirror.s04e04.internal.1080p.web.x264-strife.nfo
+│   │   ├── black.mirror.s04e04.internal.1080p.web.x264-strife-thumb.jpg
+│   │   ├── black.mirror.s04e04.internal.1080p.web.x264-strife.zh-cn.srt
+│   │   ├── black.mirror.s04e05.internal.1080p.web.x264-strife.mkv
+│   │   ├── black.mirror.s04e05.internal.1080p.web.x264-strife.nfo
+│   │   ├── black.mirror.s04e05.internal.1080p.web.x264-strife-thumb.jpg
+│   │   ├── black.mirror.s04e05.internal.1080p.web.x264-strife.zh-cn.srt
+│   │   ├── black.mirror.s04e06.internal.1080p.web.x264-strife.mkv
+│   │   ├── black.mirror.s04e06.internal.1080p.web.x264-strife.nfo
+│   │   ├── black.mirror.s04e06.internal.1080p.web.x264-strife-thumb.jpg
+│   │   ├── black.mirror.s04e06.internal.1080p.web.x264-strife.zh-cn.srt
+│   │   └── season.nfo
+│   ├── Black.Mirror.S05.1080p.NF.WEB-DL.DDP5.1.x264-NTG
+│   │   ├── Black.Mirror.S05E01.Striking.Vipers.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── Black.Mirror.S05E01.Striking.Vipers.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── Black.Mirror.S05E01.Striking.Vipers.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   ├── Black.Mirror.S05E02.Smithereens.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── Black.Mirror.S05E02.Smithereens.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── Black.Mirror.S05E02.Smithereens.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   ├── Black.Mirror.S05E03.Rachel.Jack.and.Ashley.Too.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── Black.Mirror.S05E03.Rachel.Jack.and.Ashley.Too.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── Black.Mirror.S05E03.Rachel.Jack.and.Ashley.Too.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   └── season.nfo
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season04-poster.jpg
+│   ├── season05-poster.jpg
+│   ├── Season 1
+│   │   ├── Black.Mirror.S01E01.1080p.WEBRip.DD2.0.x264-CasStudio-320-10.bif
+│   │   ├── Black.Mirror.S01E01.1080p.WEBRip.DD2.0.x264-CasStudio.ChsEngA.ass
+│   │   ├── Black.Mirror.S01E01.1080p.WEBRip.DD2.0.x264-CasStudio.en.srt
+│   │   ├── Black.Mirror.S01E01.1080p.WEBRip.DD2.0.x264-CasStudio.mkv
+│   │   ├── Black.Mirror.S01E01.1080p.WEBRip.DD2.0.x264-CasStudio.nfo
+│   │   ├── Black.Mirror.S01E01.1080p.WEBRip.DD2.0.x264-CasStudio-thumb.jpg
+│   │   ├── Black.Mirror.S01E02.1080p.WEBRip.DD2.0.x264-CasStudio-320-10.bif
+│   │   ├── Black.Mirror.S01E02.1080p.WEBRip.DD2.0.x264-CasStudio.ChsEngA.ass
+│   │   ├── Black.Mirror.S01E02.1080p.WEBRip.DD2.0.x264-CasStudio.en.srt
+│   │   ├── Black.Mirror.S01E02.1080p.WEBRip.DD2.0.x264-CasStudio.mkv
+│   │   ├── Black.Mirror.S01E02.1080p.WEBRip.DD2.0.x264-CasStudio.nfo
+│   │   ├── Black.Mirror.S01E02.1080p.WEBRip.DD2.0.x264-CasStudio-thumb.jpg
+│   │   ├── Black.Mirror.S01E03.1080p.WEBRip.DD2.0.x264-CasStudio-320-10.bif
+│   │   ├── Black.Mirror.S01E03.1080p.WEBRip.DD2.0.x264-CasStudio.ChsEngA.ass
+│   │   ├── Black.Mirror.S01E03.1080p.WEBRip.DD2.0.x264-CasStudio.en.srt
+│   │   ├── Black.Mirror.S01E03.1080p.WEBRip.DD2.0.x264-CasStudio.mkv
+│   │   ├── Black.Mirror.S01E03.1080p.WEBRip.DD2.0.x264-CasStudio.nfo
+│   │   ├── Black.Mirror.S01E03.1080p.WEBRip.DD2.0.x264-CasStudio-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── Black.Mirror.S02E01.Be.Right.Back.1080p.WEB-DL.AAC2.0.H.264-Coo7-320-10.bif
+│   │   ├── Black.Mirror.S02E01.Be.Right.Back.1080p.WEB-DL.AAC2.0.H.264-Coo7.ChsEngA.ass
+│   │   ├── Black.Mirror.S02E01.Be.Right.Back.1080p.WEB-DL.AAC2.0.H.264-Coo7.en.srt
+│   │   ├── Black.Mirror.S02E01.Be.Right.Back.1080p.WEB-DL.AAC2.0.H.264-Coo7.mkv
+│   │   ├── Black.Mirror.S02E01.Be.Right.Back.1080p.WEB-DL.AAC2.0.H.264-Coo7.nfo
+│   │   ├── Black.Mirror.S02E01.Be.Right.Back.1080p.WEB-DL.AAC2.0.H.264-Coo7-thumb.jpg
+│   │   ├── Black.Mirror.S02E02.White.Bear.1080p.WEB-DL.AAC2.0.H.264-Coo7-320-10.bif
+│   │   ├── Black.Mirror.S02E02.White.Bear.1080p.WEB-DL.AAC2.0.H.264-Coo7.ChsEngA.ass
+│   │   ├── Black.Mirror.S02E02.White.Bear.1080p.WEB-DL.AAC2.0.H.264-Coo7.en.srt
+│   │   ├── Black.Mirror.S02E02.White.Bear.1080p.WEB-DL.AAC2.0.H.264-Coo7.mkv
+│   │   ├── Black.Mirror.S02E02.White.Bear.1080p.WEB-DL.AAC2.0.H.264-Coo7.nfo
+│   │   ├── Black.Mirror.S02E02.White.Bear.1080p.WEB-DL.AAC2.0.H.264-Coo7-thumb.jpg
+│   │   ├── Black.Mirror.S02E03.The.Waldo.Moment.1080p.WEB-DL.AAC2.0.H.264-Coo7-320-10.bif
+│   │   ├── Black.Mirror.S02E03.The.Waldo.Moment.1080p.WEB-DL.AAC2.0.H.264-Coo7.ChsEngA.ass
+│   │   ├── Black.Mirror.S02E03.The.Waldo.Moment.1080p.WEB-DL.AAC2.0.H.264-Coo7.en.srt
+│   │   ├── Black.Mirror.S02E03.The.Waldo.Moment.1080p.WEB-DL.AAC2.0.H.264-Coo7.mkv
+│   │   ├── Black.Mirror.S02E03.The.Waldo.Moment.1080p.WEB-DL.AAC2.0.H.264-Coo7.nfo
+│   │   ├── Black.Mirror.S02E03.The.Waldo.Moment.1080p.WEB-DL.AAC2.0.H.264-Coo7-thumb.jpg
+│   │   ├── Black.Mirror.S02.Special.White.Chirstmas.1080p.WEB-DL.AAC2.0.H.264-Coo7-320-10.bif
+│   │   ├── Black.Mirror.S02.Special.White.Chirstmas.1080p.WEB-DL.AAC2.0.H.264-Coo7.ChsEngA.ass
+│   │   ├── Black.Mirror.S02.Special.White.Chirstmas.1080p.WEB-DL.AAC2.0.H.264-Coo7.en.srt
+│   │   ├── Black.Mirror.S02.Special.White.Chirstmas.1080p.WEB-DL.AAC2.0.H.264-Coo7.mkv
+│   │   ├── Black.Mirror.S02.Special.White.Chirstmas.1080p.WEB-DL.AAC2.0.H.264-Coo7.nfo
+│   │   ├── Black.Mirror.S02.Special.White.Chirstmas.1080p.WEB-DL.AAC2.0.H.264-Coo7-thumb.jpg
+│   │   ├── Black.Mirror.S02.Special.White.Chirstmas.1080p.WEB-DL.AAC2.0.H.264-Coo7.zh-cn.ssa
+│   │   └── season.nfo
+│   ├── Season 3
+│   │   ├── Black.Mirror.S03E01.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Black.Mirror.S03E01.1080p.BluRay.x264-SHORTBREHD.ChsEngA.default.ass
+│   │   ├── Black.Mirror.S03E01.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Black.Mirror.S03E01.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Black.Mirror.S03E01.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Black.Mirror.S03E01.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Black.Mirror.S03E02.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Black.Mirror.S03E02.1080p.BluRay.x264-SHORTBREHD.ChsEngA.default.ass
+│   │   ├── Black.Mirror.S03E02.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Black.Mirror.S03E02.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Black.Mirror.S03E02.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Black.Mirror.S03E02.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Black.Mirror.S03E03.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Black.Mirror.S03E03.1080p.BluRay.x264-SHORTBREHD.ChsEngA.default.ass
+│   │   ├── Black.Mirror.S03E03.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Black.Mirror.S03E03.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Black.Mirror.S03E03.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Black.Mirror.S03E03.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Black.Mirror.S03E04.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Black.Mirror.S03E04.1080p.BluRay.x264-SHORTBREHD.ChsEngA.default.ass
+│   │   ├── Black.Mirror.S03E04.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Black.Mirror.S03E04.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Black.Mirror.S03E04.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Black.Mirror.S03E04.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Black.Mirror.S03E05.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Black.Mirror.S03E05.1080p.BluRay.x264-SHORTBREHD.ChsEngA.default.ass
+│   │   ├── Black.Mirror.S03E05.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Black.Mirror.S03E05.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Black.Mirror.S03E05.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Black.Mirror.S03E05.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Black.Mirror.S03E06.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Black.Mirror.S03E06.1080p.BluRay.x264-SHORTBREHD.ChsEngA.default.ass
+│   │   ├── Black.Mirror.S03E06.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Black.Mirror.S03E06.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Black.Mirror.S03E06.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── season.nfo
+│   │   └── Subs
+│   │       ├── Black.Mirror.S03E01.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Black.Mirror.S03E01.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Black.Mirror.S03E02.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Black.Mirror.S03E02.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Black.Mirror.S03E03.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Black.Mirror.S03E03.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Black.Mirror.S03E04.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Black.Mirror.S03E04.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Black.Mirror.S03E05.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Black.Mirror.S03E05.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Black.Mirror.S03E06.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       └── Black.Mirror.S03E06.1080p.BluRay.x264-SHORTBREHD.sub
+│   ├── Season 4
+│   │   └── season.nfo
+│   ├── Season 5
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Breakind Bad
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season04-poster.jpg
+│   ├── season05-poster.jpg
+│   ├── Season 1
+│   │   ├── breaking.bad.s01e01.1080p.bluray.x264-ingot-320-10.bif
+│   │   ├── breaking.bad.s01e01.1080p.bluray.x264-ingot.简体&英文.ass
+│   │   ├── breaking.bad.s01e01.1080p.bluray.x264-ingot.mkv
+│   │   ├── breaking.bad.s01e01.1080p.bluray.x264-ingot.nfo
+│   │   ├── breaking.bad.s01e01.1080p.bluray.x264-ingot-thumb.jpg
+│   │   ├── breaking.bad.s01e02.1080p.bluray.x264-ingot-320-10.bif
+│   │   ├── breaking.bad.s01e02.1080p.bluray.x264-ingot.简体&英文.ass
+│   │   ├── breaking.bad.s01e02.1080p.bluray.x264-ingot.mkv
+│   │   ├── breaking.bad.s01e02.1080p.bluray.x264-ingot.nfo
+│   │   ├── breaking.bad.s01e02.1080p.bluray.x264-ingot-thumb.jpg
+│   │   ├── breaking.bad.s01e03.1080p.bluray.x264-ingot-320-10.bif
+│   │   ├── breaking.bad.s01e03.1080p.bluray.x264-ingot.简体&英文.ass
+│   │   ├── breaking.bad.s01e03.1080p.bluray.x264-ingot.mkv
+│   │   ├── breaking.bad.s01e03.1080p.bluray.x264-ingot.nfo
+│   │   ├── breaking.bad.s01e03.1080p.bluray.x264-ingot-thumb.jpg
+│   │   ├── breaking.bad.s01e04.1080p.bluray.x264-ingot-320-10.bif
+│   │   ├── breaking.bad.s01e04.1080p.bluray.x264-ingot.简体&英文.ass
+│   │   ├── breaking.bad.s01e04.1080p.bluray.x264-ingot.mkv
+│   │   ├── breaking.bad.s01e04.1080p.bluray.x264-ingot.nfo
+│   │   ├── breaking.bad.s01e04.1080p.bluray.x264-ingot-thumb.jpg
+│   │   ├── breaking.bad.s01e05.1080p.bluray.x264-ingot-320-10.bif
+│   │   ├── breaking.bad.s01e05.1080p.bluray.x264-ingot.简体&英文.ass
+│   │   ├── breaking.bad.s01e05.1080p.bluray.x264-ingot.mkv
+│   │   ├── breaking.bad.s01e05.1080p.bluray.x264-ingot.nfo
+│   │   ├── breaking.bad.s01e05.1080p.bluray.x264-ingot-thumb.jpg
+│   │   ├── breaking.bad.s01e06.1080p.bluray.x264-ingot-320-10.bif
+│   │   ├── breaking.bad.s01e06.1080p.bluray.x264-ingot.简体&英文.ass
+│   │   ├── breaking.bad.s01e06.1080p.bluray.x264-ingot.mkv
+│   │   ├── breaking.bad.s01e06.1080p.bluray.x264-ingot.nfo
+│   │   ├── breaking.bad.s01e06.1080p.bluray.x264-ingot-thumb.jpg
+│   │   ├── breaking.bad.s01e07.1080p.bluray.x264-ingot-320-10.bif
+│   │   ├── breaking.bad.s01e07.1080p.bluray.x264-ingot.简体&英文.ass
+│   │   ├── breaking.bad.s01e07.1080p.bluray.x264-ingot.mkv
+│   │   ├── breaking.bad.s01e07.1080p.bluray.x264-ingot.nfo
+│   │   ├── breaking.bad.s01e07.1080p.bluray.x264-ingot-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── breaking.bad.s02e01.1080p.bluray.x264-nodlabs-320-10.bif
+│   │   ├── breaking.bad.s02e01.1080p.bluray.x264-nodlabs.ass
+│   │   ├── breaking.bad.s02e01.1080p.bluray.x264-nodlabs.mkv
+│   │   ├── breaking.bad.s02e01.1080p.bluray.x264-nodlabs.nfo
+│   │   ├── breaking.bad.s02e01.1080p.bluray.x264-nodlabs-thumb.jpg
+│   │   ├── breaking.bad.s02e02.1080p.bluray.x264-nodlabs-320-10.bif
+│   │   ├── breaking.bad.s02e02.1080p.bluray.x264-nodlabs.ass
+│   │   ├── breaking.bad.s02e02.1080p.bluray.x264-nodlabs.mkv
+│   │   ├── breaking.bad.s02e02.1080p.bluray.x264-nodlabs.nfo
+│   │   ├── breaking.bad.s02e02.1080p.bluray.x264-nodlabs-thumb.jpg
+│   │   ├── breaking.bad.s02e03.1080p.bluray.x264-nodlabs-320-10.bif
+│   │   ├── breaking.bad.s02e03.1080p.bluray.x264-nodlabs.ass
+│   │   ├── breaking.bad.s02e03.1080p.bluray.x264-nodlabs.mkv
+│   │   ├── breaking.bad.s02e03.1080p.bluray.x264-nodlabs.nfo
+│   │   ├── breaking.bad.s02e03.1080p.bluray.x264-nodlabs-thumb.jpg
+│   │   ├── breaking.bad.s02e04.1080p.bluray.x264-nodlabs-320-10.bif
+│   │   ├── breaking.bad.s02e04.1080p.bluray.x264-nodlabs.ass
+│   │   ├── breaking.bad.s02e04.1080p.bluray.x264-nodlabs.mkv
+│   │   ├── breaking.bad.s02e04.1080p.bluray.x264-nodlabs.nfo
+│   │   ├── breaking.bad.s02e04.1080p.bluray.x264-nodlabs-thumb.jpg
+│   │   ├── breaking.bad.s02e05.1080p.bluray.x264-nodlabs-320-10.bif
+│   │   ├── breaking.bad.s02e05.1080p.bluray.x264-nodlabs.ass
+│   │   ├── breaking.bad.s02e05.1080p.bluray.x264-nodlabs.mkv
+│   │   ├── breaking.bad.s02e05.1080p.bluray.x264-nodlabs.nfo
+│   │   ├── breaking.bad.s02e05.1080p.bluray.x264-nodlabs-thumb.jpg
+│   │   ├── breaking.bad.s02e06.1080p.bluray.x264-nodlabs-320-10.bif
+│   │   ├── breaking.bad.s02e06.1080p.bluray.x264-nodlabs.ass
+│   │   ├── breaking.bad.s02e06.1080p.bluray.x264-nodlabs.mkv
+│   │   ├── breaking.bad.s02e06.1080p.bluray.x264-nodlabs.nfo
+│   │   ├── breaking.bad.s02e06.1080p.bluray.x264-nodlabs-thumb.jpg
+│   │   ├── breaking.bad.s02e07.1080p.bluray.x264-nodlabs-320-10.bif
+│   │   ├── breaking.bad.s02e07.1080p.bluray.x264-nodlabs.ass
+│   │   ├── breaking.bad.s02e07.1080p.bluray.x264-nodlabs.mkv
+│   │   ├── breaking.bad.s02e07.1080p.bluray.x264-nodlabs.nfo
+│   │   ├── breaking.bad.s02e07.1080p.bluray.x264-nodlabs-thumb.jpg
+│   │   ├── breaking.bad.s02e08.1080p.bluray.x264-nodlabs-320-10.bif
+│   │   ├── breaking.bad.s02e08.1080p.bluray.x264-nodlabs.ass
+│   │   ├── breaking.bad.s02e08.1080p.bluray.x264-nodlabs.mkv
+│   │   ├── breaking.bad.s02e08.1080p.bluray.x264-nodlabs.nfo
+│   │   ├── breaking.bad.s02e08.1080p.bluray.x264-nodlabs-thumb.jpg
+│   │   ├── breaking.bad.s02e09.1080p.bluray.x264-nodlabs-320-10.bif
+│   │   ├── breaking.bad.s02e09.1080p.bluray.x264-nodlabs.ass
+│   │   ├── breaking.bad.s02e09.1080p.bluray.x264-nodlabs.mkv
+│   │   ├── breaking.bad.s02e09.1080p.bluray.x264-nodlabs.nfo
+│   │   ├── breaking.bad.s02e09.1080p.bluray.x264-nodlabs-thumb.jpg
+│   │   ├── breaking.bad.s02e10.1080p.bluray.x264-nodlabs-320-10.bif
+│   │   ├── breaking.bad.s02e10.1080p.bluray.x264-nodlabs.ass
+│   │   ├── breaking.bad.s02e10.1080p.bluray.x264-nodlabs.mkv
+│   │   ├── breaking.bad.s02e10.1080p.bluray.x264-nodlabs.nfo
+│   │   ├── breaking.bad.s02e10.1080p.bluray.x264-nodlabs-thumb.jpg
+│   │   ├── breaking.bad.s02e11.1080p.bluray.x264-nodlabs-320-10.bif
+│   │   ├── breaking.bad.s02e11.1080p.bluray.x264-nodlabs.ass
+│   │   ├── breaking.bad.s02e11.1080p.bluray.x264-nodlabs.en.srt
+│   │   ├── breaking.bad.s02e11.1080p.bluray.x264-nodlabs.mkv
+│   │   ├── breaking.bad.s02e11.1080p.bluray.x264-nodlabs.nfo
+│   │   ├── breaking.bad.s02e11.1080p.bluray.x264-nodlabs-thumb.jpg
+│   │   ├── breaking.bad.s02e12.1080p.bluray.x264-nodlabs-320-10.bif
+│   │   ├── breaking.bad.s02e12.1080p.bluray.x264-nodlabs.ass
+│   │   ├── breaking.bad.s02e12.1080p.bluray.x264-nodlabs.mkv
+│   │   ├── breaking.bad.s02e12.1080p.bluray.x264-nodlabs.nfo
+│   │   ├── breaking.bad.s02e12.1080p.bluray.x264-nodlabs-thumb.jpg
+│   │   ├── breaking.bad.s02e13.1080p.bluray.x264-nodlabs-320-10.bif
+│   │   ├── breaking.bad.s02e13.1080p.bluray.x264-nodlabs.ass
+│   │   ├── breaking.bad.s02e13.1080p.bluray.x264-nodlabs.mkv
+│   │   ├── breaking.bad.s02e13.1080p.bluray.x264-nodlabs.nfo
+│   │   ├── breaking.bad.s02e13.1080p.bluray.x264-nodlabs-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 3
+│   │   ├── breaking.bad.s03e01.1080p.bluray-320-10.bif
+│   │   ├── breaking.bad.s03e01.1080p.bluray.mkv
+│   │   ├── breaking.bad.s03e01.1080p.bluray.nfo
+│   │   ├── breaking.bad.s03e01.1080p.bluray-thumb.jpg
+│   │   ├── breaking.bad.s03e01.1080p.bluray.zh.default.ass
+│   │   ├── breaking.bad.s03e02.1080p.bluray-320-10.bif
+│   │   ├── breaking.bad.s03e02.1080p.bluray.en.srt
+│   │   ├── breaking.bad.s03e02.1080p.bluray.mkv
+│   │   ├── breaking.bad.s03e02.1080p.bluray.nfo
+│   │   ├── breaking.bad.s03e02.1080p.bluray-thumb.jpg
+│   │   ├── breaking.bad.s03e02.1080p.bluray.zh.default.ass
+│   │   ├── breaking.bad.s03e03.1080p.bluray-320-10.bif
+│   │   ├── breaking.bad.s03e03.1080p.bluray.mkv
+│   │   ├── breaking.bad.s03e03.1080p.bluray.nfo
+│   │   ├── breaking.bad.s03e03.1080p.bluray-thumb.jpg
+│   │   ├── breaking.bad.s03e03.1080p.bluray.zh.default.ass
+│   │   ├── breaking.bad.s03e04.1080p.bluray-320-10.bif
+│   │   ├── breaking.bad.s03e04.1080p.bluray.en.srt
+│   │   ├── breaking.bad.s03e04.1080p.bluray.mkv
+│   │   ├── breaking.bad.s03e04.1080p.bluray.nfo
+│   │   ├── breaking.bad.s03e04.1080p.bluray-thumb.jpg
+│   │   ├── breaking.bad.s03e04.1080p.bluray.zh.default.ass
+│   │   ├── breaking.bad.s03e05.1080p.bluray-320-10.bif
+│   │   ├── breaking.bad.s03e05.1080p.bluray.en.srt
+│   │   ├── breaking.bad.s03e05.1080p.bluray.mkv
+│   │   ├── breaking.bad.s03e05.1080p.bluray.nfo
+│   │   ├── breaking.bad.s03e05.1080p.bluray-thumb.jpg
+│   │   ├── breaking.bad.s03e05.1080p.bluray.zh.default.ass
+│   │   ├── breaking.bad.s03e06.1080p.bluray-320-10.bif
+│   │   ├── breaking.bad.s03e06.1080p.bluray.mkv
+│   │   ├── breaking.bad.s03e06.1080p.bluray.nfo
+│   │   ├── breaking.bad.s03e06.1080p.bluray-thumb.jpg
+│   │   ├── breaking.bad.s03e06.1080p.bluray.zh.default.ass
+│   │   ├── breaking.bad.s03e07.1080p.bluray-320-10.bif
+│   │   ├── breaking.bad.s03e07.1080p.bluray.mkv
+│   │   ├── breaking.bad.s03e07.1080p.bluray.nfo
+│   │   ├── breaking.bad.s03e07.1080p.bluray-thumb.jpg
+│   │   ├── breaking.bad.s03e07.1080p.bluray.zh.default.ass
+│   │   ├── breaking.bad.s03e08.1080p.bluray-320-10.bif
+│   │   ├── breaking.bad.s03e08.1080p.bluray.mkv
+│   │   ├── breaking.bad.s03e08.1080p.bluray.nfo
+│   │   ├── breaking.bad.s03e08.1080p.bluray-thumb.jpg
+│   │   ├── breaking.bad.s03e08.1080p.bluray.zh.default.ass
+│   │   ├── breaking.bad.s03e09.1080p.bluray-320-10.bif
+│   │   ├── breaking.bad.s03e09.1080p.bluray.en.srt
+│   │   ├── breaking.bad.s03e09.1080p.bluray.mkv
+│   │   ├── breaking.bad.s03e09.1080p.bluray.nfo
+│   │   ├── breaking.bad.s03e09.1080p.bluray-thumb.jpg
+│   │   ├── breaking.bad.s03e09.1080p.bluray.zh.default.ass
+│   │   ├── breaking.bad.s03e10.1080p.bluray-320-10.bif
+│   │   ├── breaking.bad.s03e10.1080p.bluray.en.srt
+│   │   ├── breaking.bad.s03e10.1080p.bluray.mkv
+│   │   ├── breaking.bad.s03e10.1080p.bluray.nfo
+│   │   ├── breaking.bad.s03e10.1080p.bluray-thumb.jpg
+│   │   ├── breaking.bad.s03e10.1080p.bluray.zh.default.ass
+│   │   ├── breaking.bad.s03e11.1080p.bluray-320-10.bif
+│   │   ├── breaking.bad.s03e11.1080p.bluray.en.srt
+│   │   ├── breaking.bad.s03e11.1080p.bluray.mkv
+│   │   ├── breaking.bad.s03e11.1080p.bluray.nfo
+│   │   ├── breaking.bad.s03e11.1080p.bluray-thumb.jpg
+│   │   ├── breaking.bad.s03e11.1080p.bluray.zh.default.ass
+│   │   ├── breaking.bad.s03e12.1080p.bluray-320-10.bif
+│   │   ├── breaking.bad.s03e12.1080p.bluray.en.srt
+│   │   ├── breaking.bad.s03e12.1080p.bluray.mkv
+│   │   ├── breaking.bad.s03e12.1080p.bluray.nfo
+│   │   ├── breaking.bad.s03e12.1080p.bluray-thumb.jpg
+│   │   ├── breaking.bad.s03e12.1080p.bluray.zh.default.ass
+│   │   ├── breaking.bad.s03e13.1080p.bluray-320-10.bif
+│   │   ├── breaking.bad.s03e13.1080p.bluray.en.srt
+│   │   ├── breaking.bad.s03e13.1080p.bluray.mkv
+│   │   ├── breaking.bad.s03e13.1080p.bluray.nfo
+│   │   ├── breaking.bad.s03e13.1080p.bluray-thumb.jpg
+│   │   ├── breaking.bad.s03e13.1080p.bluray.zh.default.ass
+│   │   └── season.nfo
+│   ├── Season 4
+│   │   ├── breaking.bad.s04e01.1080p.bluray.x264-hd4u-320-10.bif
+│   │   ├── breaking.bad.s04e01.1080p.bluray.x264-hd4u.mkv
+│   │   ├── breaking.bad.s04e01.1080p.bluray.x264-hd4u.nfo
+│   │   ├── breaking.bad.s04e01.1080p.bluray.x264-hd4u-thumb.jpg
+│   │   ├── breaking.bad.s04e01.1080p.bluray.x264-hd4u.zh.default.ass
+│   │   ├── breaking.bad.s04e02.1080p.bluray.x264-hd4u-320-10.bif
+│   │   ├── breaking.bad.s04e02.1080p.bluray.x264-hd4u.mkv
+│   │   ├── breaking.bad.s04e02.1080p.bluray.x264-hd4u.nfo
+│   │   ├── breaking.bad.s04e02.1080p.bluray.x264-hd4u-thumb.jpg
+│   │   ├── breaking.bad.s04e02.1080p.bluray.x264-hd4u.zh.default.ass
+│   │   ├── breaking.bad.s04e03.1080p.bluray.x264-hd4u-320-10.bif
+│   │   ├── breaking.bad.s04e03.1080p.bluray.x264-hd4u.mkv
+│   │   ├── breaking.bad.s04e03.1080p.bluray.x264-hd4u.nfo
+│   │   ├── breaking.bad.s04e03.1080p.bluray.x264-hd4u-thumb.jpg
+│   │   ├── breaking.bad.s04e03.1080p.bluray.x264-hd4u.zh.default.ass
+│   │   ├── breaking.bad.s04e04.1080p.bluray.x264-hd4u-320-10.bif
+│   │   ├── breaking.bad.s04e04.1080p.bluray.x264-hd4u.mkv
+│   │   ├── breaking.bad.s04e04.1080p.bluray.x264-hd4u.nfo
+│   │   ├── breaking.bad.s04e04.1080p.bluray.x264-hd4u-thumb.jpg
+│   │   ├── breaking.bad.s04e04.1080p.bluray.x264-hd4u.zh.default.ass
+│   │   ├── breaking.bad.s04e05.1080p.bluray.x264-hd4u-320-10.bif
+│   │   ├── breaking.bad.s04e05.1080p.bluray.x264-hd4u.mkv
+│   │   ├── breaking.bad.s04e05.1080p.bluray.x264-hd4u.nfo
+│   │   ├── breaking.bad.s04e05.1080p.bluray.x264-hd4u-thumb.jpg
+│   │   ├── breaking.bad.s04e05.1080p.bluray.x264-hd4u.zh.default.ass
+│   │   ├── breaking.bad.s04e06.1080p.bluray.x264-hd4u-320-10.bif
+│   │   ├── breaking.bad.s04e06.1080p.bluray.x264-hd4u.mkv
+│   │   ├── breaking.bad.s04e06.1080p.bluray.x264-hd4u.nfo
+│   │   ├── breaking.bad.s04e06.1080p.bluray.x264-hd4u-thumb.jpg
+│   │   ├── breaking.bad.s04e06.1080p.bluray.x264-hd4u.zh.default.ass
+│   │   ├── breaking.bad.s04e07.1080p.bluray.x264-hd4u-320-10.bif
+│   │   ├── breaking.bad.s04e07.1080p.bluray.x264-hd4u.mkv
+│   │   ├── breaking.bad.s04e07.1080p.bluray.x264-hd4u.nfo
+│   │   ├── breaking.bad.s04e07.1080p.bluray.x264-hd4u-thumb.jpg
+│   │   ├── breaking.bad.s04e07.1080p.bluray.x264-hd4u.zh.default.ass
+│   │   ├── breaking.bad.s04e08.1080p.bluray.x264-hd4u-320-10.bif
+│   │   ├── breaking.bad.s04e08.1080p.bluray.x264-hd4u.mkv
+│   │   ├── breaking.bad.s04e08.1080p.bluray.x264-hd4u.nfo
+│   │   ├── breaking.bad.s04e08.1080p.bluray.x264-hd4u-thumb.jpg
+│   │   ├── breaking.bad.s04e08.1080p.bluray.x264-hd4u.zh.default.ass
+│   │   ├── breaking.bad.s04e09.1080p.bluray.x264-hd4u-320-10.bif
+│   │   ├── breaking.bad.s04e09.1080p.bluray.x264-hd4u.mkv
+│   │   ├── breaking.bad.s04e09.1080p.bluray.x264-hd4u.nfo
+│   │   ├── breaking.bad.s04e09.1080p.bluray.x264-hd4u-thumb.jpg
+│   │   ├── breaking.bad.s04e09.1080p.bluray.x264-hd4u.zh.default.ass
+│   │   ├── breaking.bad.s04e10.1080p.bluray.x264-hd4u-320-10.bif
+│   │   ├── breaking.bad.s04e10.1080p.bluray.x264-hd4u.mkv
+│   │   ├── breaking.bad.s04e10.1080p.bluray.x264-hd4u.nfo
+│   │   ├── breaking.bad.s04e10.1080p.bluray.x264-hd4u-thumb.jpg
+│   │   ├── breaking.bad.s04e10.1080p.bluray.x264-hd4u.zh.default.ass
+│   │   ├── breaking.bad.s04e11.080p.bluray.x264-hd4u-320-10.bif
+│   │   ├── breaking.bad.s04e11.080p.bluray.x264-hd4u.mkv
+│   │   ├── breaking.bad.s04e11.080p.bluray.x264-hd4u.nfo
+│   │   ├── breaking.bad.s04e11.080p.bluray.x264-hd4u-thumb.jpg
+│   │   ├── breaking.bad.s04e11.1080p.bluray.x264-hd4u.zh.default.ass
+│   │   ├── breaking.bad.s04e12.080p.bluray.x264-hd4u-320-10.bif
+│   │   ├── breaking.bad.s04e12.080p.bluray.x264-hd4u.mkv
+│   │   ├── breaking.bad.s04e12.080p.bluray.x264-hd4u.nfo
+│   │   ├── breaking.bad.s04e12.080p.bluray.x264-hd4u-thumb.jpg
+│   │   ├── breaking.bad.s04e12.1080p.bluray.x264-hd4u.zh.default.ass
+│   │   ├── breaking.bad.s04e13.080p.bluray.x264-hd4u-320-10.bif
+│   │   ├── breaking.bad.s04e13.080p.bluray.x264-hd4u.mkv
+│   │   ├── breaking.bad.s04e13.080p.bluray.x264-hd4u.nfo
+│   │   ├── breaking.bad.s04e13.080p.bluray.x264-hd4u-thumb.jpg
+│   │   ├── breaking.bad.s04e13.1080p.bluray.x264-hd4u.zh.default.ass
+│   │   └── season.nfo
+│   ├── Season 5
+│   │   ├── breaking.bad.s05e01.1080p.bluray.x264-rovers.ass
+│   │   ├── breaking.bad.s05e02.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── breaking.bad.s05e02.1080p.bluray.x264-rovers.ass
+│   │   ├── breaking.bad.s05e02.1080p.bluray.x264-rovers.en.srt
+│   │   ├── breaking.bad.s05e02.1080p.bluray.x264-rovers.mkv
+│   │   ├── breaking.bad.s05e02.1080p.bluray.x264-rovers.nfo
+│   │   ├── breaking.bad.s05e02.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── breaking.bad.s05e03.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── breaking.bad.s05e03.1080p.bluray.x264-rovers.ass
+│   │   ├── breaking.bad.s05e03.1080p.bluray.x264-rovers.en.srt
+│   │   ├── breaking.bad.s05e03.1080p.bluray.x264-rovers.mkv
+│   │   ├── breaking.bad.s05e03.1080p.bluray.x264-rovers.nfo
+│   │   ├── breaking.bad.s05e03.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── breaking.bad.s05e04.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── breaking.bad.s05e04.1080p.bluray.x264-rovers.ass
+│   │   ├── breaking.bad.s05e04.1080p.bluray.x264-rovers.en.srt
+│   │   ├── breaking.bad.s05e04.1080p.bluray.x264-rovers.mkv
+│   │   ├── breaking.bad.s05e04.1080p.bluray.x264-rovers.nfo
+│   │   ├── breaking.bad.s05e04.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── breaking.bad.s05e05.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── breaking.bad.s05e05.1080p.bluray.x264-rovers.ass
+│   │   ├── breaking.bad.s05e05.1080p.bluray.x264-rovers.en.srt
+│   │   ├── breaking.bad.s05e05.1080p.bluray.x264-rovers.mkv
+│   │   ├── breaking.bad.s05e05.1080p.bluray.x264-rovers.nfo
+│   │   ├── breaking.bad.s05e05.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── breaking.bad.s05e06.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── breaking.bad.s05e06.1080p.bluray.x264-rovers.ass
+│   │   ├── breaking.bad.s05e06.1080p.bluray.x264-rovers.en.srt
+│   │   ├── breaking.bad.s05e06.1080p.bluray.x264-rovers.mkv
+│   │   ├── breaking.bad.s05e06.1080p.bluray.x264-rovers.nfo
+│   │   ├── breaking.bad.s05e06.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── breaking.bad.s05e07.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── breaking.bad.s05e07.1080p.bluray.x264-rovers.ass
+│   │   ├── breaking.bad.s05e07.1080p.bluray.x264-rovers.en.srt
+│   │   ├── breaking.bad.s05e07.1080p.bluray.x264-rovers.mkv
+│   │   ├── breaking.bad.s05e07.1080p.bluray.x264-rovers.nfo
+│   │   ├── breaking.bad.s05e07.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── breaking.bad.s05e08.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── breaking.bad.s05e08.1080p.bluray.x264-rovers.ass
+│   │   ├── breaking.bad.s05e08.1080p.bluray.x264-rovers.en.srt
+│   │   ├── breaking.bad.s05e08.1080p.bluray.x264-rovers.mkv
+│   │   ├── breaking.bad.s05e08.1080p.bluray.x264-rovers.nfo
+│   │   ├── breaking.bad.s05e08.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── breaking.bad.s05e09.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── breaking.bad.s05e09.1080p.bluray.x264-rovers.ass
+│   │   ├── breaking.bad.s05e09.1080p.bluray.x264-rovers.en.srt
+│   │   ├── breaking.bad.s05e09.1080p.bluray.x264-rovers.mkv
+│   │   ├── breaking.bad.s05e09.1080p.bluray.x264-rovers.nfo
+│   │   ├── breaking.bad.s05e09.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── breaking.bad.s05e10.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── breaking.bad.s05e10.1080p.bluray.x264-rovers.ass
+│   │   ├── breaking.bad.s05e10.1080p.bluray.x264-rovers.en.srt
+│   │   ├── breaking.bad.s05e10.1080p.bluray.x264-rovers.mkv
+│   │   ├── breaking.bad.s05e10.1080p.bluray.x264-rovers.nfo
+│   │   ├── breaking.bad.s05e10.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── breaking.bad.s05e11.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── breaking.bad.s05e11.1080p.bluray.x264-rovers.ass
+│   │   ├── breaking.bad.s05e11.1080p.bluray.x264-rovers.en.srt
+│   │   ├── breaking.bad.s05e11.1080p.bluray.x264-rovers.mkv
+│   │   ├── breaking.bad.s05e11.1080p.bluray.x264-rovers.nfo
+│   │   ├── breaking.bad.s05e11.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── breaking.bad.s05e12.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── breaking.bad.s05e12.1080p.bluray.x264-rovers.ass
+│   │   ├── breaking.bad.s05e12.1080p.bluray.x264-rovers.en.srt
+│   │   ├── breaking.bad.s05e12.1080p.bluray.x264-rovers.mkv
+│   │   ├── breaking.bad.s05e12.1080p.bluray.x264-rovers.nfo
+│   │   ├── breaking.bad.s05e12.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── breaking.bad.s05e13.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── breaking.bad.s05e13.1080p.bluray.x264-rovers.ass
+│   │   ├── breaking.bad.s05e13.1080p.bluray.x264-rovers.en.srt
+│   │   ├── breaking.bad.s05e13.1080p.bluray.x264-rovers.mkv
+│   │   ├── breaking.bad.s05e13.1080p.bluray.x264-rovers.nfo
+│   │   ├── breaking.bad.s05e13.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── breaking.bad.s05e14.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── breaking.bad.s05e14.1080p.bluray.x264-rovers.ass
+│   │   ├── breaking.bad.s05e14.1080p.bluray.x264-rovers.en.srt
+│   │   ├── breaking.bad.s05e14.1080p.bluray.x264-rovers.mkv
+│   │   ├── breaking.bad.s05e14.1080p.bluray.x264-rovers.nfo
+│   │   ├── breaking.bad.s05e14.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── breaking.bad.s05e15.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── breaking.bad.s05e15.1080p.bluray.x264-rovers.ass
+│   │   ├── breaking.bad.s05e15.1080p.bluray.x264-rovers.en.srt
+│   │   ├── breaking.bad.s05e15.1080p.bluray.x264-rovers.mkv
+│   │   ├── breaking.bad.s05e15.1080p.bluray.x264-rovers.nfo
+│   │   ├── breaking.bad.s05e15.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── breaking.bad.s05e16.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── breaking.bad.s05e16.1080p.bluray.x264-rovers.ass
+│   │   ├── breaking.bad.s05e16.1080p.bluray.x264-rovers.en.srt
+│   │   ├── breaking.bad.s05e16.1080p.bluray.x264-rovers.mkv
+│   │   ├── breaking.bad.s05e16.1080p.bluray.x264-rovers.nfo
+│   │   ├── breaking.bad.s05e16.1080p.bluray.x264-rovers-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Chernobyl
+│   ├── 切尔诺贝利.Chernobyl.S01E01.2019.S01E01.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.ass
+│   ├── 切尔诺贝利.Chernobyl.S01E01.2019.S01E01.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   ├── 切尔诺贝利.Chernobyl.S01E01.2019.S01E01.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   ├── 切尔诺贝利.Chernobyl.S01E01.2019.S01E01.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   ├── 切尔诺贝利.Chernobyl.S01E02.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.ass
+│   ├── 切尔诺贝利.Chernobyl.S01E02.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   ├── 切尔诺贝利.Chernobyl.S01E02.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   ├── 切尔诺贝利.Chernobyl.S01E02.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   ├── 切尔诺贝利.Chernobyl.S01E03.2019.S01E01.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.ass
+│   ├── 切尔诺贝利.Chernobyl.S01E03.2019.S01E01.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   ├── 切尔诺贝利.Chernobyl.S01E03.2019.S01E01.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   ├── 切尔诺贝利.Chernobyl.S01E03.2019.S01E01.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   ├── 切尔诺贝利.Chernobyl.S01E04.2019.S01E01.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.ass
+│   ├── 切尔诺贝利.Chernobyl.S01E04.2019.S01E01.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   ├── 切尔诺贝利.Chernobyl.S01E04.2019.S01E01.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   ├── 切尔诺贝利.Chernobyl.S01E04.2019.S01E01.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   ├── 切尔诺贝利.Chernobyl.S01E05.720p.webrip.x264.双语字幕初校版-深影字幕组.ass
+│   ├── 切尔诺贝利.Chernobyl.S01E05.720p.webrip.x264.双语字幕初校版-深影字幕组.mp4
+│   ├── 切尔诺贝利.Chernobyl.S01E05.720p.webrip.x264.双语字幕初校版-深影字幕组.nfo
+│   ├── 切尔诺贝利.Chernobyl.S01E05.720p.webrip.x264.双语字幕初校版-深影字幕组-thumb.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   └── tvshow.nfo
+├── Fleabag
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── Fleabag.S01.ITA.MULTI.1080p.BluRay.x264-MeM
+│   │   ├── Fleabag.S01E01.Episode.1.1080p.WEB-DL.AAC2.0.H.264-NTb.chs&eng.srt
+│   │   ├── Fleabag.S01E01.ITA.MULTI.1080p.BluRay.x264-MeM-320-10.bif
+│   │   ├── Fleabag.S01E01.ITA.MULTI.1080p.BluRay.x264-MeM.chs&eng.ass
+│   │   ├── Fleabag.S01E01.ITA.MULTI.1080p.BluRay.x264-MeM.mkv
+│   │   ├── Fleabag.S01E01.ITA.MULTI.1080p.BluRay.x264-MeM.nfo
+│   │   ├── Fleabag.S01E01.ITA.MULTI.1080p.BluRay.x264-MeM-thumb.jpg
+│   │   ├── Fleabag.S01E02.Episode.2.1080p.WEB-DL.AAC2.0.H.264-NTb.chs&eng.srt
+│   │   ├── Fleabag.S01E02.ITA.MULTI.1080p.BluRay.x264-MeM-320-10.bif
+│   │   ├── Fleabag.S01E02.ITA.MULTI.1080p.BluRay.x264-MeM.chs&eng.ass
+│   │   ├── Fleabag.S01E02.ITA.MULTI.1080p.BluRay.x264-MeM.mkv
+│   │   ├── Fleabag.S01E02.ITA.MULTI.1080p.BluRay.x264-MeM.nfo
+│   │   ├── Fleabag.S01E02.ITA.MULTI.1080p.BluRay.x264-MeM-thumb.jpg
+│   │   ├── Fleabag.S01E03.Episode.3.1080p.WEB-DL.AAC2.0.H.264-NTb.chs&eng.srt
+│   │   ├── Fleabag.S01E03.ITA.MULTI.1080p.BluRay.x264-MeM-320-10.bif
+│   │   ├── Fleabag.S01E03.ITA.MULTI.1080p.BluRay.x264-MeM.chs&eng.ass
+│   │   ├── Fleabag.S01E03.ITA.MULTI.1080p.BluRay.x264-MeM.mkv
+│   │   ├── Fleabag.S01E03.ITA.MULTI.1080p.BluRay.x264-MeM.nfo
+│   │   ├── Fleabag.S01E03.ITA.MULTI.1080p.BluRay.x264-MeM-thumb.jpg
+│   │   ├── Fleabag.S01E04.Episode.4.1080p.WEB-DL.AAC2.0.H.264-NTb.chs&eng.srt
+│   │   ├── Fleabag.S01E04.ITA.MULTI.1080p.BluRay.x264-MeM-320-10.bif
+│   │   ├── Fleabag.S01E04.ITA.MULTI.1080p.BluRay.x264-MeM.chs&eng.ass
+│   │   ├── Fleabag.S01E04.ITA.MULTI.1080p.BluRay.x264-MeM.mkv
+│   │   ├── Fleabag.S01E04.ITA.MULTI.1080p.BluRay.x264-MeM.nfo
+│   │   ├── Fleabag.S01E04.ITA.MULTI.1080p.BluRay.x264-MeM-thumb.jpg
+│   │   ├── Fleabag.S01E05.Episode.5.1080p.WEB-DL.AAC2.0.H.264-NTb.chs&eng.srt
+│   │   ├── Fleabag.S01E05.ITA.MULTI.1080p.BluRay.x264-MeM-320-10.bif
+│   │   ├── Fleabag.S01E05.ITA.MULTI.1080p.BluRay.x264-MeM.chs&eng.ass
+│   │   ├── Fleabag.S01E05.ITA.MULTI.1080p.BluRay.x264-MeM.mkv
+│   │   ├── Fleabag.S01E05.ITA.MULTI.1080p.BluRay.x264-MeM.nfo
+│   │   ├── Fleabag.S01E05.ITA.MULTI.1080p.BluRay.x264-MeM-thumb.jpg
+│   │   ├── Fleabag.S01E06.Episode.6.1080p.WEB-DL.AAC2.0.H.264-NTb.chs&eng.srt
+│   │   ├── Fleabag.S01E06.ITA.MULTI.1080p.BluRay.x264-MeM-320-10.bif
+│   │   ├── Fleabag.S01E06.ITA.MULTI.1080p.BluRay.x264-MeM.chs&eng.ass
+│   │   ├── Fleabag.S01E06.ITA.MULTI.1080p.BluRay.x264-MeM.mkv
+│   │   ├── Fleabag.S01E06.ITA.MULTI.1080p.BluRay.x264-MeM.nfo
+│   │   ├── Fleabag.S01E06.ITA.MULTI.1080p.BluRay.x264-MeM-thumb.jpg
+│   │   ├── metadata
+│   │   │   ├── Fleabag.S01E01.ITA.MULTI.1080p.BluRay.x264-MeM.jpg
+│   │   │   ├── Fleabag.S01E02.ITA.MULTI.1080p.BluRay.x264-MeM.jpg
+│   │   │   ├── Fleabag.S01E03.ITA.MULTI.1080p.BluRay.x264-MeM.jpg
+│   │   │   ├── Fleabag.S01E04.ITA.MULTI.1080p.BluRay.x264-MeM.jpg
+│   │   │   ├── Fleabag.S01E05.ITA.MULTI.1080p.BluRay.x264-MeM.jpg
+│   │   │   └── Fleabag.S01E06.ITA.MULTI.1080p.BluRay.x264-MeM.jpg
+│   │   └── season.nfo
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── Season 1
+│   │   ├── clearlogo.png
+│   │   ├── fanart.jpg
+│   │   ├── Fleabag.S01.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD.nfo
+│   │   ├── Fleabag.S01E01.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD-320-10.bif
+│   │   ├── Fleabag.S01E01.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD.chs&eng.srt
+│   │   ├── Fleabag.S01E01.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD.mkv
+│   │   ├── Fleabag.S01E01.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD.nfo
+│   │   ├── Fleabag.S01E01.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD-thumb.jpg
+│   │   ├── Fleabag.S01E02.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD-320-10.bif
+│   │   ├── Fleabag.S01E02.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD.chs&eng.srt
+│   │   ├── Fleabag.S01E02.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD.mkv
+│   │   ├── Fleabag.S01E02.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD.nfo
+│   │   ├── Fleabag.S01E02.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD-thumb.jpg
+│   │   ├── Fleabag.S01E03.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD-320-10.bif
+│   │   ├── Fleabag.S01E03.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD.chs&eng.srt
+│   │   ├── Fleabag.S01E03.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD.mkv
+│   │   ├── Fleabag.S01E03.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD.nfo
+│   │   ├── Fleabag.S01E03.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD-thumb.jpg
+│   │   ├── Fleabag.S01E04.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD-320-10.bif
+│   │   ├── Fleabag.S01E04.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD.chs&eng.srt
+│   │   ├── Fleabag.S01E04.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD.mkv
+│   │   ├── Fleabag.S01E04.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD.nfo
+│   │   ├── Fleabag.S01E04.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD-thumb.jpg
+│   │   ├── Fleabag.S01E05.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD-320-10.bif
+│   │   ├── Fleabag.S01E05.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD.chs&eng.srt
+│   │   ├── Fleabag.S01E05.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD.mkv
+│   │   ├── Fleabag.S01E05.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD.nfo
+│   │   ├── Fleabag.S01E05.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD-thumb.jpg
+│   │   ├── Fleabag.S01E06.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD-320-10.bif
+│   │   ├── Fleabag.S01E06.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD.chs&eng.srt
+│   │   ├── Fleabag.S01E06.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD.mkv
+│   │   ├── Fleabag.S01E06.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD.nfo
+│   │   ├── Fleabag.S01E06.2160p.AMZN.WEBRip.DD5.1.x264-TrollUHD-thumb.jpg
+│   │   ├── landscape.jpg
+│   │   ├── poster.jpg
+│   │   ├── RARBG.txt
+│   │   ├── season.nfo
+│   │   └── tvshow.nfo
+│   ├── Season 2
+│   │   ├── Fleabag.S02E01.ITA.MULTI.1080p.BluRay.x264-MeM-320-10.bif
+│   │   ├── Fleabag.S02E01.ITA.MULTI.1080p.BluRay.x264-MeM.chs.eng.srt
+│   │   ├── Fleabag.S02E01.ITA.MULTI.1080p.BluRay.x264-MeM.mkv
+│   │   ├── Fleabag.S02E01.ITA.MULTI.1080p.BluRay.x264-MeM.nfo
+│   │   ├── Fleabag.S02E01.ITA.MULTI.1080p.BluRay.x264-MeM-thumb.jpg
+│   │   ├── Fleabag.S02E02.ITA.MULTI.1080p.BluRay.x264-MeM-320-10.bif
+│   │   ├── Fleabag.S02E02.ITA.MULTI.1080p.BluRay.x264-MeM.chs.eng.srt
+│   │   ├── Fleabag.S02E02.ITA.MULTI.1080p.BluRay.x264-MeM.mkv
+│   │   ├── Fleabag.S02E02.ITA.MULTI.1080p.BluRay.x264-MeM.nfo
+│   │   ├── Fleabag.S02E02.ITA.MULTI.1080p.BluRay.x264-MeM-thumb.jpg
+│   │   ├── Fleabag.S02E03.ITA.MULTI.1080p.BluRay.x264-MeM-320-10.bif
+│   │   ├── Fleabag.S02E03.ITA.MULTI.1080p.BluRay.x264-MeM.chs.eng.srt
+│   │   ├── Fleabag.S02E03.ITA.MULTI.1080p.BluRay.x264-MeM.mkv
+│   │   ├── Fleabag.S02E03.ITA.MULTI.1080p.BluRay.x264-MeM.nfo
+│   │   ├── Fleabag.S02E03.ITA.MULTI.1080p.BluRay.x264-MeM-thumb.jpg
+│   │   ├── Fleabag.S02E04.ITA.MULTI.1080p.BluRay.x264-MeM-320-10.bif
+│   │   ├── Fleabag.S02E04.ITA.MULTI.1080p.BluRay.x264-MeM.chs.eng.srt
+│   │   ├── Fleabag.S02E04.ITA.MULTI.1080p.BluRay.x264-MeM.mkv
+│   │   ├── Fleabag.S02E04.ITA.MULTI.1080p.BluRay.x264-MeM.nfo
+│   │   ├── Fleabag.S02E04.ITA.MULTI.1080p.BluRay.x264-MeM-thumb.jpg
+│   │   ├── Fleabag.S02E05.ITA.MULTI.1080p.BluRay.x264-MeM-320-10.bif
+│   │   ├── Fleabag.S02E05.ITA.MULTI.1080p.BluRay.x264-MeM.chs.eng.srt
+│   │   ├── Fleabag.S02E05.ITA.MULTI.1080p.BluRay.x264-MeM.mkv
+│   │   ├── Fleabag.S02E05.ITA.MULTI.1080p.BluRay.x264-MeM.nfo
+│   │   ├── Fleabag.S02E05.ITA.MULTI.1080p.BluRay.x264-MeM-thumb.jpg
+│   │   ├── Fleabag.S02E06.ITA.MULTI.1080p.BluRay.x264-MeM-320-10.bif
+│   │   ├── Fleabag.S02E06.ITA.MULTI.1080p.BluRay.x264-MeM.chs.eng.srt
+│   │   ├── Fleabag.S02E06.ITA.MULTI.1080p.BluRay.x264-MeM.mkv
+│   │   ├── Fleabag.S02E06.ITA.MULTI.1080p.BluRay.x264-MeM.nfo
+│   │   ├── Fleabag.S02E06.ITA.MULTI.1080p.BluRay.x264-MeM-thumb.jpg
+│   │   ├── metadata
+│   │   │   ├── Fleabag.S02E01.ITA.MULTI.1080p.BluRay.x264-MeM.jpg
+│   │   │   ├── Fleabag.S02E02.ITA.MULTI.1080p.BluRay.x264-MeM.jpg
+│   │   │   ├── Fleabag.S02E03.ITA.MULTI.1080p.BluRay.x264-MeM.jpg
+│   │   │   ├── Fleabag.S02E04.ITA.MULTI.1080p.BluRay.x264-MeM.jpg
+│   │   │   ├── Fleabag.S02E05.ITA.MULTI.1080p.BluRay.x264-MeM.jpg
+│   │   │   └── Fleabag.S02E06.ITA.MULTI.1080p.BluRay.x264-MeM.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Girl from Nowhere
+│   ├── fanart.jpg
+│   ├── Girl.From.Nowhere.S02.1080p.NF.WEB-DL.DDP2.0.x264-quypham@AvistaZ
+│   │   ├── Girl.From.Nowhere.S02E01.Pregnant.1080p.NF.WEB-DL.DDP2.0.x264-HBO.mkv
+│   │   ├── Girl.From.Nowhere.S02E01.Pregnant.1080p.NF.WEB-DL.DDP2.0.x264-HBO.nfo
+│   │   ├── Girl.From.Nowhere.S02E01.Pregnant.1080p.NF.WEB-DL.DDP2.0.x264-HBO-thumb.jpg
+│   │   ├── Girl.From.Nowhere.S02E02.True.Love.1080p.NF.WEB-DL.DDP2.0.x264-HBO.mkv
+│   │   ├── Girl.From.Nowhere.S02E02.True.Love.1080p.NF.WEB-DL.DDP2.0.x264-HBO.nfo
+│   │   ├── Girl.From.Nowhere.S02E02.True.Love.1080p.NF.WEB-DL.DDP2.0.x264-HBO-thumb.jpg
+│   │   ├── Girl.From.Nowhere.S02E03.Minnie.and.the.Four.Bodies.1080p.NF.WEB-DL.DDP2.0.x264-HBO.mkv
+│   │   ├── Girl.From.Nowhere.S02E03.Minnie.and.the.Four.Bodies.1080p.NF.WEB-DL.DDP2.0.x264-HBO.nfo
+│   │   ├── Girl.From.Nowhere.S02E03.Minnie.and.the.Four.Bodies.1080p.NF.WEB-DL.DDP2.0.x264-HBO-thumb.jpg
+│   │   ├── Girl.From.Nowhere.S02E04.Yuri.1080p.NF.WEB-DL.DDP2.0.x264-HBO.mkv
+│   │   ├── Girl.From.Nowhere.S02E04.Yuri.1080p.NF.WEB-DL.DDP2.0.x264-HBO.nfo
+│   │   ├── Girl.From.Nowhere.S02E04.Yuri.1080p.NF.WEB-DL.DDP2.0.x264-HBO-thumb.jpg
+│   │   ├── Girl.From.Nowhere.S02E05.Sotus.1080p.NF.WEB-DL.DDP2.0.x264-HBO.mkv
+│   │   ├── Girl.From.Nowhere.S02E05.Sotus.1080p.NF.WEB-DL.DDP2.0.x264-HBO.nfo
+│   │   ├── Girl.From.Nowhere.S02E05.Sotus.1080p.NF.WEB-DL.DDP2.0.x264-HBO-thumb.jpg
+│   │   ├── Girl.From.Nowhere.S02E06.Liberation.1080p.NF.WEB-DL.DDP2.0.x264-HBO.mkv
+│   │   ├── Girl.From.Nowhere.S02E06.Liberation.1080p.NF.WEB-DL.DDP2.0.x264-HBO.nfo
+│   │   ├── Girl.From.Nowhere.S02E06.Liberation.1080p.NF.WEB-DL.DDP2.0.x264-HBO-thumb.jpg
+│   │   ├── Girl.From.Nowhere.S02E07.JennyX.1080p.NF.WEB-DL.DDP2.0.x264-HBO.mkv
+│   │   ├── Girl.From.Nowhere.S02E07.JennyX.1080p.NF.WEB-DL.DDP2.0.x264-HBO.nfo
+│   │   ├── Girl.From.Nowhere.S02E07.JennyX.1080p.NF.WEB-DL.DDP2.0.x264-HBO-thumb.jpg
+│   │   ├── Girl.From.Nowhere.S02E08.The.Judgement.1080p.NF.WEB-DL.DDP2.0.x264-HBO.mkv
+│   │   ├── Girl.From.Nowhere.S02E08.The.Judgement.1080p.NF.WEB-DL.DDP2.0.x264-HBO.nfo
+│   │   ├── Girl.From.Nowhere.S02E08.The.Judgement.1080p.NF.WEB-DL.DDP2.0.x264-HBO-thumb.jpg
+│   │   └── season.nfo
+│   ├── Girl.from.Nowhere.S1.2018.NF.WEB-DL.1080P.H264.DDP2.0.Thai-OPS
+│   │   ├── 1.jpg
+│   │   ├── 2.png
+│   │   ├── 3.png
+│   │   ├── 4.png
+│   │   ├── 5.png
+│   │   ├── 6.png
+│   │   ├── 莫測高深一女生_S01E01_醜陋的真相.mkv
+│   │   ├── 莫測高深一女生_S01E01_醜陋的真相.nfo
+│   │   ├── 莫測高深一女生_S01E01_醜陋的真相-thumb.jpg
+│   │   ├── 莫測高深一女生_S01E02_道歉.mkv
+│   │   ├── 莫測高深一女生_S01E02_道歉.nfo
+│   │   ├── 莫測高深一女生_S01E02_道歉-thumb.jpg
+│   │   ├── 莫測高深一女生_S01E03_獎.mkv
+│   │   ├── 莫測高深一女生_S01E03_獎.nfo
+│   │   ├── 莫測高深一女生_S01E03_獎-thumb.jpg
+│   │   ├── 莫測高深一女生_S01E04_上流社會.mkv
+│   │   ├── 莫測高深一女生_S01E04_上流社會.nfo
+│   │   ├── 莫測高深一女生_S01E04_上流社會-thumb.jpg
+│   │   ├── 莫測高深一女生_S01E05_社群之愛.mkv
+│   │   ├── 莫測高深一女生_S01E05_社群之愛.nfo
+│   │   ├── 莫測高深一女生_S01E05_社群之愛-thumb.jpg
+│   │   ├── 莫測高深一女生_S01E06_Wonderwall 第 1 部.mkv
+│   │   ├── 莫測高深一女生_S01E06_Wonderwall 第 1 部.nfo
+│   │   ├── 莫測高深一女生_S01E06_Wonderwall 第 1 部-thumb.jpg
+│   │   ├── 莫測高深一女生_S01E07_Wonderwall 第 2 部.mkv
+│   │   ├── 莫測高深一女生_S01E07_Wonderwall 第 2 部.nfo
+│   │   ├── 莫測高深一女生_S01E07_Wonderwall 第 2 部-thumb.jpg
+│   │   ├── 莫測高深一女生_S01E08_失而復得.mkv
+│   │   ├── 莫測高深一女生_S01E08_失而復得.nfo
+│   │   ├── 莫測高深一女生_S01E08_失而復得-thumb.jpg
+│   │   ├── 莫測高深一女生_S01E09_陷阱.mkv
+│   │   ├── 莫測高深一女生_S01E09_陷阱.nfo
+│   │   ├── 莫測高深一女生_S01E09_陷阱-thumb.jpg
+│   │   ├── 莫測高深一女生_S01E10_謝謝老師.mkv
+│   │   ├── 莫測高深一女生_S01E10_謝謝老師.nfo
+│   │   ├── 莫測高深一女生_S01E10_謝謝老師-thumb.jpg
+│   │   ├── 莫測高深一女生_S01E11_排行.mkv
+│   │   ├── 莫測高深一女生_S01E11_排行.nfo
+│   │   ├── 莫測高深一女生_S01E11_排行-thumb.jpg
+│   │   ├── 莫測高深一女生_S01E12_BFF 第 1 部.mkv
+│   │   ├── 莫測高深一女生_S01E12_BFF 第 1 部.nfo
+│   │   ├── 莫測高深一女生_S01E12_BFF 第 1 部-thumb.jpg
+│   │   ├── 莫測高深一女生_S01E13_BFF 第 2 部.mkv
+│   │   ├── 莫測高深一女生_S01E13_BFF 第 2 部.nfo
+│   │   ├── 莫測高深一女生_S01E13_BFF 第 2 部-thumb.jpg
+│   │   ├── cover nv.jpg
+│   │   ├── Info.txt
+│   │   └── season.nfo
+│   ├── poster.jpg
+│   ├── season02-poster.jpg
+│   └── tvshow.nfo
+├── Hanzawa Naoki
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season02-poster.jpg
+│   ├── TBS.Hanzawa.Naoki.S02.2020.HDTV.1080i.MPEG2.AAC-AREY
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Harlots
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── Season 1
+│   │   ├── clearlogo.png
+│   │   ├── fanart.jpg
+│   │   ├── Harlots S01E01 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD-320-10.bif
+│   │   ├── Harlots S01E01 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD.mkv
+│   │   ├── Harlots S01E01 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD.nfo
+│   │   ├── Harlots S01E01 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD-thumb.jpg
+│   │   ├── Harlots S01E02 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD-320-10.bif
+│   │   ├── Harlots S01E02 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD.mkv
+│   │   ├── Harlots S01E02 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD.nfo
+│   │   ├── Harlots S01E02 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD-thumb.jpg
+│   │   ├── Harlots S01E03 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD-320-10.bif
+│   │   ├── Harlots S01E03 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD.mkv
+│   │   ├── Harlots S01E03 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD.nfo
+│   │   ├── Harlots S01E03 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD-thumb.jpg
+│   │   ├── Harlots S01E04 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD-320-10.bif
+│   │   ├── Harlots S01E04 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD.mkv
+│   │   ├── Harlots S01E04 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD.nfo
+│   │   ├── Harlots S01E04 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD-thumb.jpg
+│   │   ├── Harlots S01E05 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD-320-10.bif
+│   │   ├── Harlots S01E05 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD.mkv
+│   │   ├── Harlots S01E05 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD.nfo
+│   │   ├── Harlots S01E05 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD-thumb.jpg
+│   │   ├── Harlots S01E06 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD-320-10.bif
+│   │   ├── Harlots S01E06 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD.mkv
+│   │   ├── Harlots S01E06 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD.nfo
+│   │   ├── Harlots S01E06 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD-thumb.jpg
+│   │   ├── Harlots S01E07 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD-320-10.bif
+│   │   ├── Harlots S01E07 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD.mkv
+│   │   ├── Harlots S01E07 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD.nfo
+│   │   ├── Harlots S01E07 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD-thumb.jpg
+│   │   ├── Harlots S01E08 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD-320-10.bif
+│   │   ├── Harlots S01E08 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD.mkv
+│   │   ├── Harlots S01E08 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD.nfo
+│   │   ├── Harlots S01E08 1080p Amazon WEB-DL DD+ 5.1 x264-TrollHD-thumb.jpg
+│   │   ├── poster.jpg
+│   │   ├── RARBG.txt
+│   │   ├── season01-poster.jpg
+│   │   ├── season.nfo
+│   │   └── tvshow.nfo
+│   └── tvshow.nfo
+├── House of Cards (2013)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── Featurettes
+│   │   ├── Season 1
+│   │   │   ├── Menu Art-320-10.bif
+│   │   │   ├── Menu Art.mkv
+│   │   │   ├── Menu Art.nfo
+│   │   │   └── Menu Art-thumb.jpg
+│   │   ├── Season 2
+│   │   │   ├── Direct Address-320-10.bif
+│   │   │   ├── Direct Address.mkv
+│   │   │   ├── Direct Address.nfo
+│   │   │   ├── Direct Address-thumb.jpg
+│   │   │   ├── Line of Succession-320-10.bif
+│   │   │   ├── Line of Succession.mkv
+│   │   │   ├── Line of Succession.nfo
+│   │   │   ├── Line of Succession-thumb.jpg
+│   │   │   ├── Menu Art-320-10.bif
+│   │   │   ├── Menu Art.mkv
+│   │   │   ├── Menu Art.nfo
+│   │   │   ├── Menu Art-thumb.jpg
+│   │   │   ├── Politics for the Sake of Politics-320-10.bif
+│   │   │   ├── Politics for the Sake of Politics.mkv
+│   │   │   ├── Politics for the Sake of Politics.nfo
+│   │   │   ├── Politics for the Sake of Politics-thumb.jpg
+│   │   │   ├── Table Read-320-10.bif
+│   │   │   ├── Table Read.mkv
+│   │   │   ├── Table Read.nfo
+│   │   │   ├── Table Read-thumb.jpg
+│   │   │   ├── Two Houses-320-10.bif
+│   │   │   ├── Two Houses.mkv
+│   │   │   ├── Two Houses.nfo
+│   │   │   └── Two Houses-thumb.jpg
+│   │   ├── Season 3
+│   │   │   ├── A Death In New Mexico-320-10.bif
+│   │   │   ├── A Death In New Mexico.mkv
+│   │   │   ├── A Death In New Mexico.nfo
+│   │   │   ├── A Death In New Mexico-thumb.jpg
+│   │   │   ├── Backstage Politics - On the Set of House of Cards-320-10.bif
+│   │   │   ├── Backstage Politics - On the Set of House of Cards.mkv
+│   │   │   ├── Backstage Politics - On the Set of House of Cards.nfo
+│   │   │   ├── Backstage Politics - On the Set of House of Cards-thumb.jpg
+│   │   │   ├── Menu Art-320-10.bif
+│   │   │   ├── Menu Art.mkv
+│   │   │   ├── Menu Art.nfo
+│   │   │   └── Menu Art-thumb.jpg
+│   │   ├── Season 4
+│   │   │   ├── Menu Art-320-10.bif
+│   │   │   ├── Menu Art.mkv
+│   │   │   ├── Menu Art.nfo
+│   │   │   └── Menu Art-thumb.jpg
+│   │   ├── Season 5
+│   │   │   ├── Menu Art-320-10.bif
+│   │   │   ├── Menu Art.mkv
+│   │   │   ├── Menu Art.nfo
+│   │   │   └── Menu Art-thumb.jpg
+│   │   ├── Season 6
+│   │   │   ├── Menu Art-320-10.bif
+│   │   │   ├── Menu Art.mkv
+│   │   │   ├── Menu Art.nfo
+│   │   │   └── Menu Art-thumb.jpg
+│   │   └── season.nfo
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season04-poster.jpg
+│   ├── season05-poster.jpg
+│   ├── season06-poster.jpg
+│   ├── Season 1
+│   │   ├── House of Cards (US) (2013) - S01E01 - Chapter 1 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S01E01 - Chapter 1 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S01E01 - Chapter 1 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S01E01 - Chapter 1 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S01E02 - Chapter 2 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S01E02 - Chapter 2 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S01E02 - Chapter 2 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S01E02 - Chapter 2 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S01E03 - Chapter 3 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S01E03 - Chapter 3 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S01E03 - Chapter 3 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S01E03 - Chapter 3 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S01E04 - Chapter 4 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S01E04 - Chapter 4 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S01E04 - Chapter 4 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S01E04 - Chapter 4 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S01E05 - Chapter 5 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S01E05 - Chapter 5 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S01E05 - Chapter 5 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S01E05 - Chapter 5 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S01E06 - Chapter 6 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S01E06 - Chapter 6 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S01E06 - Chapter 6 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S01E06 - Chapter 6 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S01E07 - Chapter 7 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S01E07 - Chapter 7 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S01E07 - Chapter 7 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S01E07 - Chapter 7 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S01E08 - Chapter 8 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S01E08 - Chapter 8 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S01E08 - Chapter 8 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S01E08 - Chapter 8 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S01E09 - Chapter 9 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S01E09 - Chapter 9 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S01E09 - Chapter 9 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S01E09 - Chapter 9 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S01E10 - Chapter 10 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S01E10 - Chapter 10 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S01E10 - Chapter 10 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S01E10 - Chapter 10 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S01E11 - Chapter 11 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S01E11 - Chapter 11 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S01E11 - Chapter 11 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S01E11 - Chapter 11 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S01E12 - Chapter 12 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S01E12 - Chapter 12 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S01E12 - Chapter 12 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S01E12 - Chapter 12 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S01E13 - Chapter 13 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S01E13 - Chapter 13 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S01E13 - Chapter 13 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S01E13 - Chapter 13 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── House of Cards (US) (2013) - S02E01 - Chapter 14 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S02E01 - Chapter 14 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S02E01 - Chapter 14 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S02E01 - Chapter 14 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S02E02 - Chapter 15 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S02E02 - Chapter 15 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S02E02 - Chapter 15 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S02E02 - Chapter 15 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S02E03 - Chapter 16 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S02E03 - Chapter 16 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S02E03 - Chapter 16 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S02E03 - Chapter 16 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S02E04 - Chapter 17 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S02E04 - Chapter 17 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S02E04 - Chapter 17 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S02E04 - Chapter 17 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S02E05 - Chapter 18 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S02E05 - Chapter 18 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S02E05 - Chapter 18 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S02E05 - Chapter 18 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S02E06 - Chapter 19 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S02E06 - Chapter 19 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S02E06 - Chapter 19 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S02E06 - Chapter 19 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S02E07 - Chapter 20 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S02E07 - Chapter 20 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S02E07 - Chapter 20 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S02E07 - Chapter 20 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S02E08 - Chapter 21 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S02E08 - Chapter 21 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S02E08 - Chapter 21 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S02E08 - Chapter 21 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S02E09 - Chapter 22 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S02E09 - Chapter 22 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S02E09 - Chapter 22 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S02E09 - Chapter 22 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S02E10 - Chapter 23 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S02E10 - Chapter 23 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S02E10 - Chapter 23 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S02E10 - Chapter 23 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S02E11 - Chapter 24 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S02E11 - Chapter 24 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S02E11 - Chapter 24 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S02E11 - Chapter 24 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S02E12 - Chapter 25 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S02E12 - Chapter 25 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S02E12 - Chapter 25 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S02E12 - Chapter 25 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S02E13 - Chapter 26 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S02E13 - Chapter 26 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S02E13 - Chapter 26 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S02E13 - Chapter 26 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 3
+│   │   ├── House of Cards (US) (2013) - S03E01 - Chapter 27 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S03E01 - Chapter 27 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S03E01 - Chapter 27 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S03E01 - Chapter 27 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S03E02 - Chapter 28 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S03E02 - Chapter 28 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S03E02 - Chapter 28 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S03E02 - Chapter 28 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S03E03 - Chapter 29 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S03E03 - Chapter 29 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S03E03 - Chapter 29 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S03E03 - Chapter 29 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S03E04 - Chapter 30 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S03E04 - Chapter 30 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S03E04 - Chapter 30 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S03E04 - Chapter 30 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S03E05 - Chapter 31 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S03E05 - Chapter 31 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S03E05 - Chapter 31 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S03E05 - Chapter 31 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S03E06 - Chapter 32 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S03E06 - Chapter 32 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S03E06 - Chapter 32 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S03E06 - Chapter 32 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S03E07 - Chapter 33 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S03E07 - Chapter 33 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S03E07 - Chapter 33 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S03E07 - Chapter 33 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S03E08 - Chapter 34 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S03E08 - Chapter 34 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S03E08 - Chapter 34 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S03E08 - Chapter 34 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S03E09 - Chapter 35 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S03E09 - Chapter 35 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S03E09 - Chapter 35 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S03E09 - Chapter 35 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S03E10 - Chapter 36 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S03E10 - Chapter 36 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S03E10 - Chapter 36 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S03E10 - Chapter 36 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S03E11 - Chapter 37 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S03E11 - Chapter 37 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S03E11 - Chapter 37 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S03E11 - Chapter 37 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S03E12 - Chapter 38 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S03E12 - Chapter 38 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S03E12 - Chapter 38 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S03E12 - Chapter 38 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S03E13 - Chapter 39 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S03E13 - Chapter 39 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S03E13 - Chapter 39 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S03E13 - Chapter 39 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 4
+│   │   ├── House of Cards (US) (2013) - S04E01 - Chapter 40 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S04E01 - Chapter 40 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S04E01 - Chapter 40 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S04E01 - Chapter 40 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S04E02 - Chapter 41 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S04E02 - Chapter 41 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S04E02 - Chapter 41 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S04E02 - Chapter 41 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S04E03 - Chapter 42 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S04E03 - Chapter 42 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S04E03 - Chapter 42 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S04E03 - Chapter 42 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S04E04 - Chapter 43 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S04E04 - Chapter 43 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S04E04 - Chapter 43 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S04E04 - Chapter 43 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S04E05 - Chapter 44 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S04E05 - Chapter 44 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S04E05 - Chapter 44 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S04E05 - Chapter 44 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S04E06 - Chapter 45 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S04E06 - Chapter 45 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S04E06 - Chapter 45 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S04E06 - Chapter 45 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S04E07 - Chapter 46 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S04E07 - Chapter 46 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S04E07 - Chapter 46 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S04E07 - Chapter 46 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S04E08 - Chapter 47 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S04E08 - Chapter 47 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S04E08 - Chapter 47 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S04E08 - Chapter 47 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S04E09 - Chapter 48 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S04E09 - Chapter 48 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S04E09 - Chapter 48 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S04E09 - Chapter 48 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S04E10 - Chapter 49 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S04E10 - Chapter 49 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S04E10 - Chapter 49 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S04E10 - Chapter 49 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S04E11 - Chapter 50 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S04E11 - Chapter 50 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S04E11 - Chapter 50 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S04E11 - Chapter 50 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S04E12 - Chapter 51 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S04E12 - Chapter 51 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S04E12 - Chapter 51 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S04E12 - Chapter 51 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S04E13 - Chapter 52 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S04E13 - Chapter 52 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S04E13 - Chapter 52 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S04E13 - Chapter 52 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 5
+│   │   ├── House of Cards (US) (2013) - S05E01 - Chapter 53 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S05E01 - Chapter 53 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S05E01 - Chapter 53 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S05E01 - Chapter 53 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S05E02 - Chapter 54 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S05E02 - Chapter 54 (1080p BluRay x265 afm72).en.srt
+│   │   ├── House of Cards (US) (2013) - S05E02 - Chapter 54 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S05E02 - Chapter 54 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S05E02 - Chapter 54 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S05E03 - Chapter 55 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S05E03 - Chapter 55 (1080p BluRay x265 afm72).en.srt
+│   │   ├── House of Cards (US) (2013) - S05E03 - Chapter 55 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S05E03 - Chapter 55 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S05E03 - Chapter 55 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S05E04 - Chapter 56 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S05E04 - Chapter 56 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S05E04 - Chapter 56 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S05E04 - Chapter 56 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S05E05 - Chapter 57 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S05E05 - Chapter 57 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S05E05 - Chapter 57 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S05E05 - Chapter 57 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S05E06 - Chapter 58 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S05E06 - Chapter 58 (1080p BluRay x265 afm72).en.srt
+│   │   ├── House of Cards (US) (2013) - S05E06 - Chapter 58 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S05E06 - Chapter 58 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S05E06 - Chapter 58 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S05E07 - Chapter 59 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S05E07 - Chapter 59 (1080p BluRay x265 afm72).en.srt
+│   │   ├── House of Cards (US) (2013) - S05E07 - Chapter 59 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S05E07 - Chapter 59 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S05E07 - Chapter 59 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S05E08 - Chapter 60 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S05E08 - Chapter 60 (1080p BluRay x265 afm72).en.srt
+│   │   ├── House of Cards (US) (2013) - S05E08 - Chapter 60 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S05E08 - Chapter 60 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S05E08 - Chapter 60 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S05E09 - Chapter 61 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S05E09 - Chapter 61 (1080p BluRay x265 afm72).en.srt
+│   │   ├── House of Cards (US) (2013) - S05E09 - Chapter 61 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S05E09 - Chapter 61 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S05E09 - Chapter 61 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S05E10 - Chapter 62 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S05E10 - Chapter 62 (1080p BluRay x265 afm72).en.srt
+│   │   ├── House of Cards (US) (2013) - S05E10 - Chapter 62 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S05E10 - Chapter 62 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S05E10 - Chapter 62 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S05E11 - Chapter 63 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S05E11 - Chapter 63 (1080p BluRay x265 afm72).en.srt
+│   │   ├── House of Cards (US) (2013) - S05E11 - Chapter 63 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S05E11 - Chapter 63 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S05E11 - Chapter 63 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S05E12 - Chapter 64 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S05E12 - Chapter 64 (1080p BluRay x265 afm72).en.srt
+│   │   ├── House of Cards (US) (2013) - S05E12 - Chapter 64 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S05E12 - Chapter 64 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S05E12 - Chapter 64 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S05E13 - Chapter 65 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S05E13 - Chapter 65 (1080p BluRay x265 afm72).en.srt
+│   │   ├── House of Cards (US) (2013) - S05E13 - Chapter 65 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S05E13 - Chapter 65 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S05E13 - Chapter 65 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 6
+│   │   ├── House of Cards (US) (2013) - S06E01 - Chapter 66 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S06E01 - Chapter 66 (1080p BluRay x265 afm72).en.srt
+│   │   ├── House of Cards (US) (2013) - S06E01 - Chapter 66 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S06E01 - Chapter 66 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S06E01 - Chapter 66 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S06E02 - Chapter 67 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S06E02 - Chapter 67 (1080p BluRay x265 afm72).en.srt
+│   │   ├── House of Cards (US) (2013) - S06E02 - Chapter 67 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S06E02 - Chapter 67 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S06E02 - Chapter 67 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S06E03 - Chapter 68 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S06E03 - Chapter 68 (1080p BluRay x265 afm72).en.srt
+│   │   ├── House of Cards (US) (2013) - S06E03 - Chapter 68 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S06E03 - Chapter 68 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S06E03 - Chapter 68 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S06E04 - Chapter 69 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S06E04 - Chapter 69 (1080p BluRay x265 afm72).en.srt
+│   │   ├── House of Cards (US) (2013) - S06E04 - Chapter 69 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S06E04 - Chapter 69 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S06E04 - Chapter 69 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S06E05 - Chapter 70 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S06E05 - Chapter 70 (1080p BluRay x265 afm72).en.srt
+│   │   ├── House of Cards (US) (2013) - S06E05 - Chapter 70 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S06E05 - Chapter 70 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S06E05 - Chapter 70 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S06E06 - Chapter 71 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S06E06 - Chapter 71 (1080p BluRay x265 afm72).en.srt
+│   │   ├── House of Cards (US) (2013) - S06E06 - Chapter 71 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S06E06 - Chapter 71 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S06E06 - Chapter 71 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S06E07 - Chapter 72 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S06E07 - Chapter 72 (1080p BluRay x265 afm72).en.srt
+│   │   ├── House of Cards (US) (2013) - S06E07 - Chapter 72 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S06E07 - Chapter 72 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S06E07 - Chapter 72 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   ├── House of Cards (US) (2013) - S06E08 - Chapter 73 (1080p BluRay x265 afm72)-320-10.bif
+│   │   ├── House of Cards (US) (2013) - S06E08 - Chapter 73 (1080p BluRay x265 afm72).en.srt
+│   │   ├── House of Cards (US) (2013) - S06E08 - Chapter 73 (1080p BluRay x265 afm72).mkv
+│   │   ├── House of Cards (US) (2013) - S06E08 - Chapter 73 (1080p BluRay x265 afm72).nfo
+│   │   ├── House of Cards (US) (2013) - S06E08 - Chapter 73 (1080p BluRay x265 afm72)-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Inside No 9
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── Inside.No.9.S01.1080p.BluRay.x264-SHORTBREHD[rartv]
+│   │   ├── Inside.No.9.S01.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S01E01.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S01E01.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Inside.No.9.S01E01.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S01E01.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S01E01.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Inside.No.9.S01E02.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S01E02.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Inside.No.9.S01E02.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S01E02.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S01E02.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Inside.No.9.S01E03.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S01E03.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Inside.No.9.S01E03.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S01E03.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S01E03.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Inside.No.9.S01E04.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S01E04.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Inside.No.9.S01E04.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S01E04.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S01E04.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Inside.No.9.S01E05.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S01E05.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Inside.No.9.S01E05.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S01E05.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S01E05.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Inside.No.9.S01E06.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S01E06.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Inside.No.9.S01E06.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S01E06.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S01E06.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── metadata
+│   │   │   ├── Inside.No.9.S01E01.1080p.BluRay.x264-SHORTBREHD.jpg
+│   │   │   └── Inside.No.9.S01E02.1080p.BluRay.x264-SHORTBREHD.jpg
+│   │   ├── RARBG.txt
+│   │   ├── season.nfo
+│   │   └── Subs
+│   │       ├── Inside.No.9.S01E01.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Inside.No.9.S01E01.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Inside.No.9.S01E02.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Inside.No.9.S01E02.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Inside.No.9.S01E03.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Inside.No.9.S01E03.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Inside.No.9.S01E04.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Inside.No.9.S01E04.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Inside.No.9.S01E05.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Inside.No.9.S01E05.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Inside.No.9.S01E06.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       └── Inside.No.9.S01E06.1080p.BluRay.x264-SHORTBREHD.sub
+│   ├── Inside.No.9.S02.1080p.BluRay.x264-SHORTBREHD[rartv]
+│   │   ├── Inside.No.9.S02.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S02E01.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S02E01.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+│   │   ├── Inside.No.9.S02E01.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S02E01.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S02E01.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Inside.No.9.S02E02.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S02E02.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+│   │   ├── Inside.No.9.S02E02.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S02E02.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S02E02.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Inside.No.9.S02E03.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S02E03.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+│   │   ├── Inside.No.9.S02E03.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S02E03.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S02E03.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Inside.No.9.S02E03.1080p.BluRay.x264-SHORTBREHD.zh-cn.srt
+│   │   ├── Inside.No.9.S02E04.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S02E04.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+│   │   ├── Inside.No.9.S02E04.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S02E04.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S02E04.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Inside.No.9.S02E04.1080p.BluRay.x264-SHORTBREHD.zh-cn.srt
+│   │   ├── Inside.No.9.S02E05.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S02E05.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+│   │   ├── Inside.No.9.S02E05.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S02E05.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S02E05.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Inside.No.9.S02E05.1080p.BluRay.x264-SHORTBREHD.zh-cn.srt
+│   │   ├── Inside.No.9.S02E06.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S02E06.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+│   │   ├── Inside.No.9.S02E06.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S02E06.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S02E06.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Inside.No.9.S02E06.1080p.BluRay.x264-SHORTBREHD.zh-cn.srt
+│   │   ├── RARBG.txt
+│   │   ├── season.nfo
+│   │   └── Subs
+│   │       ├── Inside.No.9.S02E01.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Inside.No.9.S02E01.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Inside.No.9.S02E02.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Inside.No.9.S02E02.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Inside.No.9.S02E03.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Inside.No.9.S02E03.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Inside.No.9.S02E04.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Inside.No.9.S02E04.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Inside.No.9.S02E05.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Inside.No.9.S02E05.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Inside.No.9.S02E06.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       └── Inside.No.9.S02E06.1080p.BluRay.x264-SHORTBREHD.sub
+│   ├── Inside.No.9.S03.1080p.BluRay.x264-SHORTBREHD[rartv]
+│   │   ├── Inside.No.9.S03.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S03E01.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S03E01.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+│   │   ├── Inside.No.9.S03E01.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S03E01.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S03E01.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Inside.No.9.S03E02.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S03E02.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+│   │   ├── Inside.No.9.S03E02.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S03E02.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S03E02.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Inside.No.9.S03E03.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S03E03.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+│   │   ├── Inside.No.9.S03E03.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S03E03.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S03E03.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Inside.No.9.S03E04.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S03E04.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+│   │   ├── Inside.No.9.S03E04.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Inside.No.9.S03E04.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S03E04.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S03E04.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Inside.No.9.S03E05.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S03E05.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+│   │   ├── Inside.No.9.S03E05.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S03E05.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S03E05.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Inside.No.9.S03E06.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S03E06.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+│   │   ├── Inside.No.9.S03E06.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S03E06.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S03E06.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── RARBG.txt
+│   │   ├── season.nfo
+│   │   └── Subs
+│   │       ├── Inside.No.9.S03E01.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Inside.No.9.S03E01.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Inside.No.9.S03E02.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Inside.No.9.S03E02.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Inside.No.9.S03E03.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Inside.No.9.S03E03.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Inside.No.9.S03E04.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Inside.No.9.S03E04.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Inside.No.9.S03E05.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Inside.No.9.S03E05.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Inside.No.9.S03E06.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       └── Inside.No.9.S03E06.1080p.BluRay.x264-SHORTBREHD.sub
+│   ├── Inside.No.9.S04.1080p.BluRay.x264-SHORTBREHD[rartv]
+│   │   ├── Inside.No.9.S04E01.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S04E01.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Inside.No.9.S04E01.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S04E01.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S04E01.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Inside.No.9.S04E01.1080p.BluRay.x264-SHORTBREHD.zh-cn.ssa
+│   │   ├── Inside.No.9.S04E02.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S04E02.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Inside.No.9.S04E02.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S04E02.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S04E02.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Inside.No.9.S04E02.1080p.BluRay.x264-SHORTBREHD.zh-cn.ssa
+│   │   ├── Inside.No.9.S04E03.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S04E03.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Inside.No.9.S04E03.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S04E03.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S04E03.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Inside.No.9.S04E04.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S04E04.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Inside.No.9.S04E04.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S04E04.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S04E04.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Inside.No.9.S04E05.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S04E05.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Inside.No.9.S04E05.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S04E05.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S04E05.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Inside.No.9.S04E06.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Inside.No.9.S04E06.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Inside.No.9.S04E06.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Inside.No.9.S04E06.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Inside.No.9.S04E06.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Inside.No.9.S04E06.1080p.BluRay.x264-SHORTBREHD.zh-cn.ssa
+│   │   ├── season.nfo
+│   │   └── Subs
+│   │       ├── Inside.No.9.S04E01.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Inside.No.9.S04E01.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Inside.No.9.S04E02.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Inside.No.9.S04E02.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Inside.No.9.S04E03.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Inside.No.9.S04E03.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Inside.No.9.S04E04.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Inside.No.9.S04E04.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Inside.No.9.S04E05.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Inside.No.9.S04E05.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Inside.No.9.S04E06.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       └── Inside.No.9.S04E06.1080p.BluRay.x264-SHORTBREHD.sub
+│   ├── Inside.No.9.S05.1080p.AMZN.WEBRip.DDP2.0.x264-NTb[rartv]
+│   │   ├── Inside.No.9.S05E01.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb-320-10.bif
+│   │   ├── Inside.No.9.S05E01.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.chs.eng.ass
+│   │   ├── Inside.No.9.S05E01.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv
+│   │   ├── Inside.No.9.S05E01.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.nfo
+│   │   ├── Inside.No.9.S05E01.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb-thumb.jpg
+│   │   ├── Inside.No.9.S05E02.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb-320-10.bif
+│   │   ├── Inside.No.9.S05E02.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.chs.eng.ass
+│   │   ├── Inside.No.9.S05E02.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv
+│   │   ├── Inside.No.9.S05E02.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.nfo
+│   │   ├── Inside.No.9.S05E02.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb-thumb.jpg
+│   │   ├── Inside.No.9.S05E03.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb-320-10.bif
+│   │   ├── Inside.No.9.S05E03.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.chs.eng.ass
+│   │   ├── Inside.No.9.S05E03.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv
+│   │   ├── Inside.No.9.S05E03.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.nfo
+│   │   ├── Inside.No.9.S05E03.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb-thumb.jpg
+│   │   ├── Inside.No.9.S05E04.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb-320-10.bif
+│   │   ├── Inside.No.9.S05E04.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.chs.eng.ass
+│   │   ├── Inside.No.9.S05E04.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv
+│   │   ├── Inside.No.9.S05E04.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.nfo
+│   │   ├── Inside.No.9.S05E04.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb-thumb.jpg
+│   │   ├── Inside.No.9.S05E05.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb-320-10.bif
+│   │   ├── Inside.No.9.S05E05.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.chs.eng.ass
+│   │   ├── Inside.No.9.S05E05.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv
+│   │   ├── Inside.No.9.S05E05.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.nfo
+│   │   ├── Inside.No.9.S05E05.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb-thumb.jpg
+│   │   ├── Inside.No.9.S05E06.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb-320-10.bif
+│   │   ├── Inside.No.9.S05E06.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.chs.eng.ass
+│   │   ├── Inside.No.9.S05E06.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.mkv
+│   │   ├── Inside.No.9.S05E06.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb.nfo
+│   │   ├── Inside.No.9.S05E06.1080p.AMZN.WEB-DL.DDP2.0.H.264-NTb-thumb.jpg
+│   │   ├── RARBG.txt
+│   │   └── season.nfo
+│   ├── Inside.No.9.S06.1080p.HDTV.DD2.0.H.264-BTN
+│   │   ├── Inside.No.9.S06E01.Wuthering.Heist.1080p.HDTV.H264-KETTLE.简体&英文.ass
+│   │   ├── Inside.No.9.S06E01.Wuthering.Heist.1080p.HDTV.H264-KETTLE.mkv
+│   │   ├── Inside.No.9.S06E01.Wuthering.Heist.1080p.HDTV.H264-KETTLE.nfo
+│   │   ├── Inside.No.9.S06E01.Wuthering.Heist.1080p.HDTV.H264-KETTLE-thumb.jpg
+│   │   ├── inside.no.9.s06e02.1080p.hdtv.h264-uktv.简体&英文.ass
+│   │   ├── inside.no.9.s06e02.1080p.hdtv.h264-uktv.mkv
+│   │   ├── inside.no.9.s06e02.1080p.hdtv.h264-uktv.nfo
+│   │   ├── inside.no.9.s06e02.1080p.hdtv.h264-uktv-thumb.jpg
+│   │   ├── inside.no.9.s06e03.1080p.hdtv.h264-uktv.简体&英文.ass
+│   │   ├── inside.no.9.s06e03.1080p.hdtv.h264-uktv.mkv
+│   │   ├── inside.no.9.s06e03.1080p.hdtv.h264-uktv.nfo
+│   │   ├── inside.no.9.s06e03.1080p.hdtv.h264-uktv-thumb.jpg
+│   │   ├── inside.no.9.s06e04.1080p.hdtv.h264-uktv.简体&英文.ass
+│   │   ├── inside.no.9.s06e04.1080p.hdtv.h264-uktv.mkv
+│   │   ├── inside.no.9.s06e04.1080p.hdtv.h264-uktv.nfo
+│   │   ├── inside.no.9.s06e04.1080p.hdtv.h264-uktv-thumb.jpg
+│   │   ├── inside.no.9.s06e05.1080p.hdtv.h264-uktv.简体&英文.ass
+│   │   ├── inside.no.9.s06e05.1080p.hdtv.h264-uktv.mkv
+│   │   ├── inside.no.9.s06e05.1080p.hdtv.h264-uktv.nfo
+│   │   ├── inside.no.9.s06e05.1080p.hdtv.h264-uktv-thumb.jpg
+│   │   ├── inside.no.9.s06e06.1080p.hdtv.h264-uktv.简体&英文.ass
+│   │   ├── inside.no.9.s06e06.1080p.hdtv.h264-uktv.mkv
+│   │   ├── inside.no.9.s06e06.1080p.hdtv.h264-uktv.nfo
+│   │   ├── inside.no.9.s06e06.1080p.hdtv.h264-uktv-thumb.jpg
+│   │   └── season.nfo
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season04-poster.jpg
+│   ├── season05-poster.jpg
+│   ├── season06-poster.jpg
+│   └── tvshow.nfo
+├── Killing Eve
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── Season 1
+│   │   ├── Killing.Eve.S01E01.1080p.BluRay.x264-YELLOWBiRD-320-10.bif
+│   │   ├── Killing.Eve.S01E01.1080p.BluRay.x264-YELLOWBiRD.chs.eng.ass
+│   │   ├── Killing.Eve.S01E01.1080p.BluRay.x264-YELLOWBiRD.mkv
+│   │   ├── Killing.Eve.S01E01.1080p.BluRay.x264-YELLOWBiRD.nfo
+│   │   ├── Killing.Eve.S01E01.1080p.BluRay.x264-YELLOWBiRD-thumb.jpg
+│   │   ├── Killing.Eve.S01E02.1080p.BluRay.x264-YELLOWBiRD-320-10.bif
+│   │   ├── Killing.Eve.S01E02.1080p.BluRay.x264-YELLOWBiRD.chs.eng.ass
+│   │   ├── Killing.Eve.S01E02.1080p.BluRay.x264-YELLOWBiRD.mkv
+│   │   ├── Killing.Eve.S01E02.1080p.BluRay.x264-YELLOWBiRD.nfo
+│   │   ├── Killing.Eve.S01E02.1080p.BluRay.x264-YELLOWBiRD-thumb.jpg
+│   │   ├── Killing.Eve.S01E03.1080p.BluRay.x264-YELLOWBiRD-320-10.bif
+│   │   ├── Killing.Eve.S01E03.1080p.BluRay.x264-YELLOWBiRD.chs.eng.ass
+│   │   ├── Killing.Eve.S01E03.1080p.BluRay.x264-YELLOWBiRD.mkv
+│   │   ├── Killing.Eve.S01E03.1080p.BluRay.x264-YELLOWBiRD.nfo
+│   │   ├── Killing.Eve.S01E03.1080p.BluRay.x264-YELLOWBiRD-thumb.jpg
+│   │   ├── Killing.Eve.S01E04.1080p.BluRay.x264-YELLOWBiRD-320-10.bif
+│   │   ├── Killing.Eve.S01E04.1080p.BluRay.x264-YELLOWBiRD.chs.eng.ass
+│   │   ├── Killing.Eve.S01E04.1080p.BluRay.x264-YELLOWBiRD.mkv
+│   │   ├── Killing.Eve.S01E04.1080p.BluRay.x264-YELLOWBiRD.nfo
+│   │   ├── Killing.Eve.S01E04.1080p.BluRay.x264-YELLOWBiRD-thumb.jpg
+│   │   ├── Killing.Eve.S01E05.1080p.BluRay.X264-iNGOT-320-10.bif
+│   │   ├── Killing.Eve.S01E05.1080p.BluRay.X264-iNGOT.chs.eng.ass
+│   │   ├── Killing.Eve.S01E05.1080p.BluRay.X264-iNGOT.mkv
+│   │   ├── Killing.Eve.S01E05.1080p.BluRay.X264-iNGOT.nfo
+│   │   ├── Killing.Eve.S01E05.1080p.BluRay.X264-iNGOT-thumb.jpg
+│   │   ├── Killing.Eve.S01E06.1080p.BluRay.X264-iNGOT-320-10.bif
+│   │   ├── Killing.Eve.S01E06.1080p.BluRay.X264-iNGOT.chs.eng.ass
+│   │   ├── Killing.Eve.S01E06.1080p.BluRay.X264-iNGOT.mkv
+│   │   ├── Killing.Eve.S01E06.1080p.BluRay.X264-iNGOT.nfo
+│   │   ├── Killing.Eve.S01E06.1080p.BluRay.X264-iNGOT-thumb.jpg
+│   │   ├── Killing.Eve.S01E07.1080p.BluRay.X264-iNGOT-320-10.bif
+│   │   ├── Killing.Eve.S01E07.1080p.BluRay.X264-iNGOT.chs.eng.ass
+│   │   ├── Killing.Eve.S01E07.1080p.BluRay.X264-iNGOT.mkv
+│   │   ├── Killing.Eve.S01E07.1080p.BluRay.X264-iNGOT.nfo
+│   │   ├── Killing.Eve.S01E07.1080p.BluRay.X264-iNGOT-thumb.jpg
+│   │   ├── Killing.Eve.S01E08.1080p.BluRay.X264-iNGOT-320-10.bif
+│   │   ├── Killing.Eve.S01E08.1080p.BluRay.X264-iNGOT.chs.eng.ass
+│   │   ├── Killing.Eve.S01E08.1080p.BluRay.X264-iNGOT.mkv
+│   │   ├── Killing.Eve.S01E08.1080p.BluRay.X264-iNGOT.nfo
+│   │   ├── Killing.Eve.S01E08.1080p.BluRay.X264-iNGOT-thumb.jpg
+│   │   ├── RARBG.txt
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── killing.eve.s02e01.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── killing.eve.s02e01.1080p.bluray.x264-rovers.chs.eng.ass
+│   │   ├── killing.eve.s02e01.1080p.bluray.x264-rovers.mkv
+│   │   ├── killing.eve.s02e01.1080p.bluray.x264-rovers.nfo
+│   │   ├── killing.eve.s02e01.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── killing.eve.s02e02.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── killing.eve.s02e02.1080p.bluray.x264-rovers.chs.eng.ass
+│   │   ├── killing.eve.s02e02.1080p.bluray.x264-rovers.mkv
+│   │   ├── killing.eve.s02e02.1080p.bluray.x264-rovers.nfo
+│   │   ├── killing.eve.s02e02.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── killing.eve.s02e03.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── killing.eve.s02e03.1080p.bluray.x264-rovers.chs.eng.ass
+│   │   ├── killing.eve.s02e03.1080p.bluray.x264-rovers.mkv
+│   │   ├── killing.eve.s02e03.1080p.bluray.x264-rovers.nfo
+│   │   ├── killing.eve.s02e03.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── killing.eve.s02e04.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── killing.eve.s02e04.1080p.bluray.x264-rovers.chs.eng.ass
+│   │   ├── killing.eve.s02e04.1080p.bluray.x264-rovers.mkv
+│   │   ├── killing.eve.s02e04.1080p.bluray.x264-rovers.nfo
+│   │   ├── killing.eve.s02e04.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── killing.eve.s02e05.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── killing.eve.s02e05.1080p.bluray.x264-rovers.chs.eng.ass
+│   │   ├── killing.eve.s02e05.1080p.bluray.x264-rovers.mkv
+│   │   ├── killing.eve.s02e05.1080p.bluray.x264-rovers.nfo
+│   │   ├── killing.eve.s02e05.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── killing.eve.s02e06.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── killing.eve.s02e06.1080p.bluray.x264-rovers.chs.eng.ass
+│   │   ├── killing.eve.s02e06.1080p.bluray.x264-rovers.mkv
+│   │   ├── killing.eve.s02e06.1080p.bluray.x264-rovers.nfo
+│   │   ├── killing.eve.s02e06.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── killing.eve.s02e07.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── killing.eve.s02e07.1080p.bluray.x264-rovers.chs.eng.ass
+│   │   ├── killing.eve.s02e07.1080p.bluray.x264-rovers.mkv
+│   │   ├── killing.eve.s02e07.1080p.bluray.x264-rovers.nfo
+│   │   ├── killing.eve.s02e07.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── killing.eve.s02e08.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── killing.eve.s02e08.1080p.bluray.x264-rovers.chs.eng.ass
+│   │   ├── killing.eve.s02e08.1080p.bluray.x264-rovers.mkv
+│   │   ├── killing.eve.s02e08.1080p.bluray.x264-rovers.nfo
+│   │   ├── killing.eve.s02e08.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── RARBG.txt
+│   │   ├── season.nfo
+│   │   └── Subs
+│   │       ├── Killing.Eve.S02E01.1080p.BluRay.x264-ROVERS.idx
+│   │       ├── Killing.Eve.S02E01.1080p.BluRay.x264-ROVERS.sub
+│   │       ├── Killing.Eve.S02E02.1080p.BluRay.x264-ROVERS.idx
+│   │       ├── Killing.Eve.S02E02.1080p.BluRay.x264-ROVERS.sub
+│   │       ├── Killing.Eve.S02E03.1080p.BluRay.x264-ROVERS.idx
+│   │       ├── Killing.Eve.S02E03.1080p.BluRay.x264-ROVERS.sub
+│   │       ├── Killing.Eve.S02E04.1080p.BluRay.x264-ROVERS.idx
+│   │       ├── Killing.Eve.S02E04.1080p.BluRay.x264-ROVERS.sub
+│   │       ├── Killing.Eve.S02E05.1080p.BluRay.x264-ROVERS.idx
+│   │       ├── Killing.Eve.S02E05.1080p.BluRay.x264-ROVERS.sub
+│   │       ├── Killing.Eve.S02E06.1080p.BluRay.x264-ROVERS.idx
+│   │       ├── Killing.Eve.S02E06.1080p.BluRay.x264-ROVERS.sub
+│   │       ├── Killing.Eve.S02E07.1080p.BluRay.x264-ROVERS.idx
+│   │       ├── Killing.Eve.S02E07.1080p.BluRay.x264-ROVERS.sub
+│   │       ├── Killing.Eve.S02E08.1080p.BluRay.x264-ROVERS.idx
+│   │       └── Killing.Eve.S02E08.1080p.BluRay.x264-ROVERS.sub
+│   ├── Season 3
+│   │   ├── Killing.Eve.S03E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── Killing.Eve.S03E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.ass
+│   │   ├── Killing.Eve.S03E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Killing.Eve.S03E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Killing.Eve.S03E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Killing.Eve.S03E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── Killing.Eve.S03E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.ass
+│   │   ├── Killing.Eve.S03E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Killing.Eve.S03E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Killing.Eve.S03E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Killing.Eve.S03E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── Killing.Eve.S03E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.ass
+│   │   ├── Killing.Eve.S03E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Killing.Eve.S03E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Killing.Eve.S03E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Killing.Eve.S03E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── Killing.Eve.S03E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.ass
+│   │   ├── Killing.Eve.S03E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Killing.Eve.S03E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Killing.Eve.S03E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Killing.Eve.S03E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── Killing.Eve.S03E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.ass
+│   │   ├── Killing.Eve.S03E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Killing.Eve.S03E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Killing.Eve.S03E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Killing.Eve.S03E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── Killing.Eve.S03E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.ass
+│   │   ├── Killing.Eve.S03E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Killing.Eve.S03E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Killing.Eve.S03E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Killing.Eve.S03E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── Killing.Eve.S03E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.ass
+│   │   ├── Killing.Eve.S03E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Killing.Eve.S03E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Killing.Eve.S03E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Killing.Eve.S03E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── Killing.Eve.S03E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.ass
+│   │   ├── Killing.Eve.S03E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Killing.Eve.S03E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Killing.Eve.S03E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── RARBG.txt
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Love Death and Robots
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── Season 1
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E01.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-320-10.bif
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E01.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E01.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E01.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E02.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-320-10.bif
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E02.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E02.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E02.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E03.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-320-10.bif
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E03.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E03.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E03.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E04.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-320-10.bif
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E04.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E04.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E04.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E05.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-320-10.bif
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E05.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E05.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E05.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E06.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-320-10.bif
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E06.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E06.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E06.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E07.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-320-10.bif
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E07.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E07.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E07.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E08.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-320-10.bif
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E08.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E08.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E08.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E09.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-320-10.bif
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E09.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E09.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E09.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E10.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-320-10.bif
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E10.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E10.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E10.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E11.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-320-10.bif
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E11.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E11.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E11.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E12.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-320-10.bif
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E12.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E12.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E12.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E13.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-320-10.bif
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E13.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E13.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E13.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E14.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-320-10.bif
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E14.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E14.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E14.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E15.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-320-10.bif
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E15.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E15.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E15.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E16.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-320-10.bif
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E16.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E16.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E16.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E17.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-320-10.bif
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E17.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E17.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E17.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E18.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-320-10.bif
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E18.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E18.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   │   ├── 爱死亡和机器人.Love.Death.and.Robots.S01E18.2019.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   │   ├── season01-poster.jpg
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── Love.Death.and.Robots.S02.E01.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT.mkv
+│   │   ├── Love.Death.and.Robots.S02.E01.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT.nfo
+│   │   ├── Love.Death.and.Robots.S02.E01.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT-thumb.jpg
+│   │   ├── Love.Death.and.Robots.S02.E02.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT.mkv
+│   │   ├── Love.Death.and.Robots.S02.E02.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT.nfo
+│   │   ├── Love.Death.and.Robots.S02.E02.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT-thumb.jpg
+│   │   ├── Love.Death.and.Robots.S02.E03.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT.mkv
+│   │   ├── Love.Death.and.Robots.S02.E03.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT.nfo
+│   │   ├── Love.Death.and.Robots.S02.E03.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT-thumb.jpg
+│   │   ├── Love.Death.and.Robots.S02.E04.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT.mkv
+│   │   ├── Love.Death.and.Robots.S02.E04.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT.nfo
+│   │   ├── Love.Death.and.Robots.S02.E04.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT-thumb.jpg
+│   │   ├── Love.Death.and.Robots.S02.E05.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT.mkv
+│   │   ├── Love.Death.and.Robots.S02.E05.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT.nfo
+│   │   ├── Love.Death.and.Robots.S02.E05.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT-thumb.jpg
+│   │   ├── Love.Death.and.Robots.S02.E06.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT.mkv
+│   │   ├── Love.Death.and.Robots.S02.E06.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT.nfo
+│   │   ├── Love.Death.and.Robots.S02.E06.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT-thumb.jpg
+│   │   ├── Love.Death.and.Robots.S02.E07.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT.mkv
+│   │   ├── Love.Death.and.Robots.S02.E07.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT.nfo
+│   │   ├── Love.Death.and.Robots.S02.E07.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT-thumb.jpg
+│   │   ├── Love.Death.and.Robots.S02.E08.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT.mkv
+│   │   ├── Love.Death.and.Robots.S02.E08.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT.nfo
+│   │   ├── Love.Death.and.Robots.S02.E08.1080p.NF.WEB-DL.x264.DDP5.1.Atmos-TJUPT-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Modern Family
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season04-poster.jpg
+│   ├── season05-poster.jpg
+│   ├── season06-poster.jpg
+│   ├── season07-poster.jpg
+│   ├── season08-poster.jpg
+│   ├── season09-poster.jpg
+│   ├── Season 1
+│   │   ├── modern.family.s01e01.1080p.bluray.x264-teneighty.en.srt
+│   │   ├── modern.family.s01e01.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e01.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e01.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e01.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── modern.family.s01e02.1080p.bluray.x264-teneighty.en.srt
+│   │   ├── modern.family.s01e02.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e02.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e02.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e02.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── modern.family.s01e03.1080p.bluray.x264-teneighty.en.srt
+│   │   ├── modern.family.s01e03.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e03.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e03.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e03.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── modern.family.s01e04.1080p.bluray.x264-teneighty.en.srt
+│   │   ├── modern.family.s01e04.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e04.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e04.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e04.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── modern.family.s01e05.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e05.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e05.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e05.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── modern.family.s01e06.1080p.bluray.x264-teneighty.en.srt
+│   │   ├── modern.family.s01e06.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e06.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e06.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e06.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── modern.family.s01e07.1080p.bluray.x264-teneighty.en.srt
+│   │   ├── modern.family.s01e07.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e07.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e07.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e07.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── modern.family.s01e08.1080p.bluray.x264-teneighty.en.srt
+│   │   ├── modern.family.s01e08.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e08.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e08.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e08.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── modern.family.s01e09.1080p.bluray.x264-teneighty.en.srt
+│   │   ├── modern.family.s01e09.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e09.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e09.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e09.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── modern.family.s01e10.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e10.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e10.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e10.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── modern.family.s01e11.1080p.bluray.x264-teneighty.en.srt
+│   │   ├── modern.family.s01e11.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e11.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e11.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e11.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── modern.family.s01e12.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e12.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e12.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e12.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── modern.family.s01e13.1080p.bluray.x264-teneighty.en.srt
+│   │   ├── modern.family.s01e13.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e13.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e13.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e13.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── modern.family.s01e14.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e14.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e14.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e14.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── modern.family.s01e15.1080p.bluray.x264-teneighty.en.srt
+│   │   ├── modern.family.s01e15.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e15.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e15.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e15.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── modern.family.s01e16.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e16.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e16.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e16.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── modern.family.s01e17.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e17.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e17.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e17.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── modern.family.s01e18.1080p.bluray.x264-teneighty.en.srt
+│   │   ├── modern.family.s01e18.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e18.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e18.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e18.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── modern.family.s01e19.1080p.bluray.x264-teneighty.en.srt
+│   │   ├── modern.family.s01e19.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e19.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e19.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e19.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── modern.family.s01e20.1080p.bluray.x264-teneighty.en.srt
+│   │   ├── modern.family.s01e20.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e20.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e20.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e20.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── modern.family.s01e21.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e21.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e21.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e21.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── modern.family.s01e22.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e22.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e22.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e22.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── modern.family.s01e23.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e23.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e23.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e23.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── modern.family.s01e24.1080p.bluray.x264-teneighty.en.srt
+│   │   ├── modern.family.s01e24.1080p.bluray.x264-teneighty.mkv
+│   │   ├── modern.family.s01e24.1080p.bluray.x264-teneighty.nfo
+│   │   ├── modern.family.s01e24.1080p.bluray.x264-teneighty-thumb.jpg
+│   │   ├── modern.family.s01e24.1080p.bluray.x264-teneighty.zh.default.ass
+│   │   ├── poster.jpg
+│   │   ├── RARBG.txt
+│   │   ├── season01-poster.jpg
+│   │   ├── season.nfo
+│   │   └── tvshow.nfo
+│   ├── Season 10
+│   │   ├── landscape.jpg
+│   │   ├── Modern.Family.S10E01.REPACK.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S10E01.REPACK.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S10E01.REPACK.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S10E01.REPACK.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S10E02.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S10E02.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S10E02.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S10E02.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S10E03.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S10E03.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S10E03.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S10E03.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S10E04.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S10E04.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S10E04.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S10E04.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S10E05.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S10E05.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S10E05.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S10E05.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S10E06.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S10E06.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S10E06.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S10E06.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S10E07.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S10E07.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S10E07.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S10E07.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S10E08.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S10E08.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S10E08.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S10E08.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S10E09.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S10E09.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.en.srt
+│   │   ├── Modern.Family.S10E09.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S10E09.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S10E09.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S10E10.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S10E10.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.en.srt
+│   │   ├── Modern.Family.S10E10.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S10E10.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S10E10.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S10E11.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S10E11.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S10E11.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S10E11.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S10E12.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S10E12.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S10E12.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S10E12.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S10E13.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S10E13.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S10E13.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S10E13.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S10E14.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S10E14.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S10E14.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S10E14.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S10E15.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S10E15.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S10E15.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S10E15.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S10E16.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S10E16.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S10E16.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S10E16.1080p.AMZN.WEB-DL.DD5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S10E17.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S10E17.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S10E17.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S10E17.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S10E18.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S10E18.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S10E18.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S10E18.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S10E19.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S10E19.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S10E19.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S10E19.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S10E20.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S10E20.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S10E20.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S10E20.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S10E21.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S10E21.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S10E21.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S10E21.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S10E22.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S10E22.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S10E22.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S10E22.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── RARBG.txt
+│   │   ├── season10-poster.jpg
+│   │   ├── season.nfo
+│   │   └── tvshow.nfo
+│   ├── season10-poster.jpg
+│   ├── Season 2
+│   │   ├── Modern.Family.S02E01.1080p.BluRay.x264-bia.nfo
+│   │   ├── Modern.Family.S02E01.1080p.BluRay.x264-bia-thumb.jpg
+│   │   ├── Modern.Family.S02E01.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E01.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E01.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E01.1080p.BluRay.x264.zh.default.ass
+│   │   ├── Modern.Family.S02E02.1080p.BluRay.x264-7SINS.nfo
+│   │   ├── Modern.Family.S02E02.1080p.BluRay.x264-7SINS-thumb.jpg
+│   │   ├── Modern.Family.S02E02.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E02.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E02.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E02.1080p.BluRay.x264.zh.default.ass
+│   │   ├── Modern.Family.S02E03.1080p.BluRay.x264-7SINS.nfo
+│   │   ├── Modern.Family.S02E03.1080p.BluRay.x264-7SINS-thumb.jpg
+│   │   ├── Modern.Family.S02E03.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E03.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E03.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E03.1080p.BluRay.x264.zh.default.ass
+│   │   ├── Modern.Family.S02E04.1080p.BluRay.x264-7SINS.nfo
+│   │   ├── Modern.Family.S02E04.1080p.BluRay.x264-7SINS-thumb.jpg
+│   │   ├── Modern.Family.S02E04.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E04.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E04.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E04.1080p.BluRay.x264.zh.default.ass
+│   │   ├── Modern.Family.S02E05.1080p.BluRay.x264-7SINS.nfo
+│   │   ├── Modern.Family.S02E05.1080p.BluRay.x264-7SINS-thumb.jpg
+│   │   ├── Modern.Family.S02E05.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E05.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E05.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E05.1080p.BluRay.x264.zh.default.ass
+│   │   ├── Modern.Family.S02E06.1080p.BluRay.x264-7SINS.nfo
+│   │   ├── Modern.Family.S02E06.1080p.BluRay.x264-7SINS-thumb.jpg
+│   │   ├── Modern.Family.S02E06.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E06.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E06.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E06.1080p.BluRay.x264.zh.default.ass
+│   │   ├── Modern.Family.S02E07.1080p.BluRay.x264-7SINS.en.srt
+│   │   ├── Modern.Family.S02E07.1080p.BluRay.x264-7SINS.nfo
+│   │   ├── Modern.Family.S02E07.1080p.BluRay.x264-7SINS-thumb.jpg
+│   │   ├── Modern.Family.S02E07.1080p.BluRay.x264.en.srt
+│   │   ├── Modern.Family.S02E07.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E07.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E07.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E07.1080p.BluRay.x264.zh.default.ass
+│   │   ├── Modern.Family.S02E08.1080p.BluRay.x264-bia.nfo
+│   │   ├── Modern.Family.S02E08.1080p.BluRay.x264-bia-thumb.jpg
+│   │   ├── Modern.Family.S02E08.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E08.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E08.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E08.1080p.BluRay.x264.zh.default.ass
+│   │   ├── Modern.Family.S02E09.1080p.BluRay.x264-7SINS.nfo
+│   │   ├── Modern.Family.S02E09.1080p.BluRay.x264-7SINS-thumb.jpg
+│   │   ├── Modern.Family.S02E09.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E09.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E09.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E09.1080p.BluRay.x264.zh.default.ass
+│   │   ├── Modern.Family.S02E10.1080p.BluRay.x264-7SINS.nfo
+│   │   ├── Modern.Family.S02E10.1080p.BluRay.x264-7SINS-thumb.jpg
+│   │   ├── Modern.Family.S02E10.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E10.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E10.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E10.1080p.BluRay.x264.zh.default.ass
+│   │   ├── Modern.Family.S02E11.1080p.BluRay.x264-bia.nfo
+│   │   ├── Modern.Family.S02E11.1080p.BluRay.x264-bia-thumb.jpg
+│   │   ├── Modern.Family.S02E11.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E11.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E11.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E11.1080p.BluRay.x264.zh.default.ass
+│   │   ├── Modern.Family.S02E12.1080p.BluRay.x264-bia.nfo
+│   │   ├── Modern.Family.S02E12.1080p.BluRay.x264-bia-thumb.jpg
+│   │   ├── Modern.Family.S02E12.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E12.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E12.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E12.1080p.BluRay.x264.zh.default.ass
+│   │   ├── Modern.Family.S02E13.1080p.BluRay.x264-7SINS.nfo
+│   │   ├── Modern.Family.S02E13.1080p.BluRay.x264-7SINS-thumb.jpg
+│   │   ├── Modern.Family.S02E13.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E13.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E13.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E13.1080p.BluRay.x264.zh.default.ass
+│   │   ├── Modern.Family.S02E14.1080p.BluRay.x264-7SINS.nfo
+│   │   ├── Modern.Family.S02E14.1080p.BluRay.x264-7SINS-thumb.jpg
+│   │   ├── Modern.Family.S02E14.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E14.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E14.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E14.1080p.BluRay.x264.zh.default.ass
+│   │   ├── Modern.Family.S02E15.1080p.BluRay.x264-7SINS.nfo
+│   │   ├── Modern.Family.S02E15.1080p.BluRay.x264-7SINS-thumb.jpg
+│   │   ├── Modern.Family.S02E15.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E15.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E15.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E15.1080p.BluRay.x264.zh.default.ass
+│   │   ├── Modern.Family.S02E16.1080p.BluRay.x264-7SINS.nfo
+│   │   ├── Modern.Family.S02E16.1080p.BluRay.x264-7SINS-thumb.jpg
+│   │   ├── Modern.Family.S02E16.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E16.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E16.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E16.1080p.BluRay.x264.zh.default.ass
+│   │   ├── Modern.Family.S02E17.1080p.BluRay.x264-7SINS.nfo
+│   │   ├── Modern.Family.S02E17.1080p.BluRay.x264-7SINS-thumb.jpg
+│   │   ├── Modern.Family.S02E17.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E17.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E17.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E17.1080p.BluRay.x264.zh.default.ass
+│   │   ├── Modern.Family.S02E18.1080p.BluRay.x264-7SINS.nfo
+│   │   ├── Modern.Family.S02E18.1080p.BluRay.x264-7SINS-thumb.jpg
+│   │   ├── Modern.Family.S02E18.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E18.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E18.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E18.1080p.BluRay.x264.zh.default.ass
+│   │   ├── Modern.Family.S02E19.1080p.BluRay.x264-7SINS.nfo
+│   │   ├── Modern.Family.S02E19.1080p.BluRay.x264-7SINS-thumb.jpg
+│   │   ├── Modern.Family.S02E19.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E19.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E19.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E19.1080p.BluRay.x264.zh.default.ass
+│   │   ├── Modern.Family.S02E20.1080p.BluRay.x264-7SINS.en.srt
+│   │   ├── Modern.Family.S02E20.1080p.BluRay.x264-7SINS.nfo
+│   │   ├── Modern.Family.S02E20.1080p.BluRay.x264-7SINS-thumb.jpg
+│   │   ├── Modern.Family.S02E20.1080p.BluRay.x264.en.srt
+│   │   ├── Modern.Family.S02E20.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E20.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E20.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E20.1080p.BluRay.x264.zh.default.ass
+│   │   ├── Modern.Family.S02E21.1080p.BluRay.x264-bia.nfo
+│   │   ├── Modern.Family.S02E21.1080p.BluRay.x264-bia-thumb.jpg
+│   │   ├── Modern.Family.S02E21.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E21.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E21.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E21.1080p.BluRay.x264.zh.default.ass
+│   │   ├── Modern.Family.S02E22.1080p.BluRay.x264-bia.nfo
+│   │   ├── Modern.Family.S02E22.1080p.BluRay.x264-bia-thumb.jpg
+│   │   ├── Modern.Family.S02E22.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E22.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E22.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E22.1080p.BluRay.x264.zh.default.ass
+│   │   ├── Modern.Family.S02E23.1080p.BluRay.x264-bia.nfo
+│   │   ├── Modern.Family.S02E23.1080p.BluRay.x264-bia-thumb.jpg
+│   │   ├── Modern.Family.S02E23.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E23.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E23.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E23.1080p.BluRay.x264.zh.default.ass
+│   │   ├── Modern.Family.S02E24.1080p.BluRay.x264-bia.nfo
+│   │   ├── Modern.Family.S02E24.1080p.BluRay.x264-bia-thumb.jpg
+│   │   ├── Modern.Family.S02E24.1080p.BluRay.x264.mkv
+│   │   ├── Modern.Family.S02E24.1080p.BluRay.x264.nfo
+│   │   ├── Modern.Family.S02E24.1080p.BluRay.x264-thumb.jpg
+│   │   ├── Modern.Family.S02E24.1080p.BluRay.x264.zh.default.ass
+│   │   ├── poster.jpg
+│   │   ├── RARBG.txt
+│   │   ├── season02-poster.jpg
+│   │   ├── season.nfo
+│   │   └── tvshow.nfo
+│   ├── Season 3
+│   │   ├── Modern.Family.S03E01.1080p.BluRay.x264-GREENBLADE.en.srt
+│   │   ├── Modern.Family.S03E01.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E01.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E01.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E01.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── Modern.Family.S03E02.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E02.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E02.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E02.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── Modern.Family.S03E03.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E03.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E03.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E03.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── Modern.Family.S03E04.1080p.BluRay.x264-GREENBLADE.en.srt
+│   │   ├── Modern.Family.S03E04.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E04.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E04.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E04.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── Modern.Family.S03E05.1080p.BluRay.x264-GREENBLADE.en.srt
+│   │   ├── Modern.Family.S03E05.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E05.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E05.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E05.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── Modern.Family.S03E06.1080p.BluRay.x264-GREENBLADE.en.srt
+│   │   ├── Modern.Family.S03E06.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E06.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E06.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E06.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── Modern.Family.S03E07.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E07.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E07.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E07.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── Modern.Family.S03E08.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E08.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E08.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E08.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── Modern.Family.S03E09.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E09.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E09.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E09.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── Modern.Family.S03E10.1080p.BluRay.x264-GREENBLADE.en.srt
+│   │   ├── Modern.Family.S03E10.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E10.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E10.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E10.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── Modern.Family.S03E11.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E11.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E11.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E11.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── Modern.Family.S03E12.1080p.BluRay.x264-GREENBLADE.en.srt
+│   │   ├── Modern.Family.S03E12.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E12.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E12.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E12.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── Modern.Family.S03E13.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E13.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E13.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E13.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── Modern.Family.S03E14.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E14.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E14.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E14.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── Modern.Family.S03E15.1080p.BluRay.x264-GREENBLADE.en.srt
+│   │   ├── Modern.Family.S03E15.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E15.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E15.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E15.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── Modern.Family.S03E16.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E16.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E16.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E16.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── Modern.Family.S03E17.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E17.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E17.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E17.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── Modern.Family.S03E18.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E18.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E18.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E18.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── Modern.Family.S03E19.1080p.BluRay.x264-GREENBLADE.en.srt
+│   │   ├── Modern.Family.S03E19.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E19.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E19.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E19.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── Modern.Family.S03E20.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E20.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E20.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E20.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── Modern.Family.S03E21.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E21.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E21.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E21.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── Modern.Family.S03E22.1080p.BluRay.x264-GREENBLADE.en.srt
+│   │   ├── Modern.Family.S03E22.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E22.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E22.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E22.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── Modern.Family.S03E23.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E23.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E23.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E23.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── Modern.Family.S03E24.1080p.BluRay.x264-GREENBLADE.mkv
+│   │   ├── Modern.Family.S03E24.1080p.BluRay.x264-GREENBLADE.nfo
+│   │   ├── Modern.Family.S03E24.1080p.BluRay.x264-GREENBLADE-thumb.jpg
+│   │   ├── Modern.Family.S03E24.1080p.BluRay.x264-GREENBLADE.zh.default.ass
+│   │   ├── poster.jpg
+│   │   ├── RARBG.txt
+│   │   ├── season03-poster.jpg
+│   │   ├── season.nfo
+│   │   └── tvshow.nfo
+│   ├── Season 4
+│   │   ├── Modern.Family.S04E01.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E01.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E01.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E01.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── Modern.Family.S04E02.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E02.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E02.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E02.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── Modern.Family.S04E03.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E03.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E03.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E03.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── Modern.Family.S04E04.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E04.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E04.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E04.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── Modern.Family.S04E05.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E05.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E05.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E05.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── Modern.Family.S04E06.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E06.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E06.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E06.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── Modern.Family.S04E07.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E07.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E07.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E07.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── Modern.Family.S04E08.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E08.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E08.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E08.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── Modern.Family.S04E09.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E09.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E09.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E09.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── Modern.Family.S04E10.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E10.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E10.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E10.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── Modern.Family.S04E11.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E11.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E11.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E11.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── Modern.Family.S04E12.1080p.BluRay.x264-ROVERS.en.srt
+│   │   ├── Modern.Family.S04E12.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E12.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E12.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E12.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── Modern.Family.S04E13.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E13.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E13.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E13.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── Modern.Family.S04E14.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E14.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E14.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E14.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── Modern.Family.S04E15.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E15.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E15.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E15.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── Modern.Family.S04E16.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E16.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E16.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E16.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── Modern.Family.S04E17.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E17.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E17.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E17.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── Modern.Family.S04E18.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E18.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E18.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E18.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── Modern.Family.S04E19.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E19.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E19.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E19.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── Modern.Family.S04E20.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E20.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E20.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E20.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── Modern.Family.S04E21.1080p.BluRay.x264-ROVERS.en.srt
+│   │   ├── Modern.Family.S04E21.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E21.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E21.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E21.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── Modern.Family.S04E22.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E22.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E22.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E22.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── Modern.Family.S04E23.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E23.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E23.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E23.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── Modern.Family.S04E24.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── Modern.Family.S04E24.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── Modern.Family.S04E24.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── Modern.Family.S04E24.1080p.BluRay.x264-ROVERS.zh.default.ass
+│   │   ├── RARBG.txt
+│   │   ├── season04-poster.jpg
+│   │   ├── season.nfo
+│   │   └── tvshow.nfo
+│   ├── Season 5
+│   │   ├── Modern.Family.S05E01.1080p.WEB-DL.DD5.1.H.264-HWD.ChsEngA.default.ass
+│   │   ├── Modern.Family.S05E01.1080p.WEB-DL.DD5.1.H.264-HWD.en.srt
+│   │   ├── Modern.Family.S05E01.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E01.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E01.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── Modern.Family.S05E02.1080p.WEB-DL.DD5.1.H.264-HWD.ChsEngA.default.ass
+│   │   ├── Modern.Family.S05E02.1080p.WEB-DL.DD5.1.H.264-HWD.en.srt
+│   │   ├── Modern.Family.S05E02.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E02.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E02.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── Modern.Family.S05E03.1080p.WEB-DL.DD5.1.H.264-HWD.ChsEngA.default.ass
+│   │   ├── Modern.Family.S05E03.1080p.WEB-DL.DD5.1.H.264-HWD.en.srt
+│   │   ├── Modern.Family.S05E03.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E03.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E03.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── Modern.Family.S05E04.1080p.WEB-DL.DD5.1.H.264-HWD.ChsEngA.default.ass
+│   │   ├── Modern.Family.S05E04.1080p.WEB-DL.DD5.1.H.264-HWD.en.srt
+│   │   ├── Modern.Family.S05E04.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E04.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E04.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── Modern.Family.S05E05.1080p.WEB-DL.DD5.1.H.264-HWD.ChsEngA.default.ass
+│   │   ├── Modern.Family.S05E05.1080p.WEB-DL.DD5.1.H.264-HWD.en.srt
+│   │   ├── Modern.Family.S05E05.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E05.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E05.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── Modern.Family.S05E06.1080p.WEB-DL.DD5.1.H.264-HWD.ChsEngA.default.ass
+│   │   ├── Modern.Family.S05E06.1080p.WEB-DL.DD5.1.H.264-HWD.en.srt
+│   │   ├── Modern.Family.S05E06.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E06.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E06.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── Modern.Family.S05E07.1080p.WEB-DL.DD5.1.H.264-HWD.ChsEngA.default.ass
+│   │   ├── Modern.Family.S05E07.1080p.WEB-DL.DD5.1.H.264-HWD.en.srt
+│   │   ├── Modern.Family.S05E07.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E07.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E07.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── Modern.Family.S05E08.1080p.WEB-DL.DD5.1.H.264-HWD.1.en.srt
+│   │   ├── Modern.Family.S05E08.1080p.WEB-DL.DD5.1.H.264-HWD.ChsEngA.default.ass
+│   │   ├── Modern.Family.S05E08.1080p.WEB-DL.DD5.1.H.264-HWD.en.srt
+│   │   ├── Modern.Family.S05E08.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E08.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E08.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── Modern.Family.S05E09.1080p.WEB-DL.DD5.1.H.264-HWD.1.en.srt
+│   │   ├── Modern.Family.S05E09.1080p.WEB-DL.DD5.1.H.264-HWD.ChsEngA.default.ass
+│   │   ├── Modern.Family.S05E09.1080p.WEB-DL.DD5.1.H.264-HWD.en.srt
+│   │   ├── Modern.Family.S05E09.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E09.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E09.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── Modern.Family.S05E10.1080p.WEB-DL.DD5.1.H.264-HWD.ChsEngA.default.ass
+│   │   ├── Modern.Family.S05E10.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E10.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E10.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── Modern.Family.S05E11.1080p.WEB-DL.DD5.1.H.264-HWD.1.en.srt
+│   │   ├── Modern.Family.S05E11.1080p.WEB-DL.DD5.1.H.264-HWD.ChsEngA.default.ass
+│   │   ├── Modern.Family.S05E11.1080p.WEB-DL.DD5.1.H.264-HWD.en.srt
+│   │   ├── Modern.Family.S05E11.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E11.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E11.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── Modern.Family.S05E12.1080p.WEB-DL.DD5.1.H.264-HWD.ChsEngA.default.ass
+│   │   ├── Modern.Family.S05E12.1080p.WEB-DL.DD5.1.H.264-HWD.en.srt
+│   │   ├── Modern.Family.S05E12.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E12.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E12.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── Modern.Family.S05E13.1080p.WEB-DL.DD5.1.H.264-HWD.ChsEngA.default.ass
+│   │   ├── Modern.Family.S05E13.1080p.WEB-DL.DD5.1.H.264-HWD.en.srt
+│   │   ├── Modern.Family.S05E13.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E13.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E13.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── Modern.Family.S05E14.1080p.WEB-DL.DD5.1.H.264-HWD.ChsEngA.default.ass
+│   │   ├── Modern.Family.S05E14.1080p.WEB-DL.DD5.1.H.264-HWD.en.srt
+│   │   ├── Modern.Family.S05E14.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E14.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E14.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── Modern.Family.S05E15.1080p.WEB-DL.DD5.1.H.264-HWD.1.en.srt
+│   │   ├── Modern.Family.S05E15.1080p.WEB-DL.DD5.1.H.264-HWD.ChsEngA.default.ass
+│   │   ├── Modern.Family.S05E15.1080p.WEB-DL.DD5.1.H.264-HWD.en.srt
+│   │   ├── Modern.Family.S05E15.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E15.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E15.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── Modern.Family.S05E16.1080p.WEB-DL.DD5.1.H.264-HWD.ChsEngA.default.ass
+│   │   ├── Modern.Family.S05E16.1080p.WEB-DL.DD5.1.H.264-HWD.en.srt
+│   │   ├── Modern.Family.S05E16.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E16.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E16.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── Modern.Family.S05E17.1080p.WEB-DL.DD5.1.H.264-HWD.1.en.srt
+│   │   ├── Modern.Family.S05E17.1080p.WEB-DL.DD5.1.H.264-HWD.ChsEngA.default.ass
+│   │   ├── Modern.Family.S05E17.1080p.WEB-DL.DD5.1.H.264-HWD.en.srt
+│   │   ├── Modern.Family.S05E17.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E17.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E17.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── Modern.Family.S05E18.1080p.WEB-DL.DD5.1.H.264-HWD.1.en.srt
+│   │   ├── Modern.Family.S05E18.1080p.WEB-DL.DD5.1.H.264-HWD.ChsEngA.default.ass
+│   │   ├── Modern.Family.S05E18.1080p.WEB-DL.DD5.1.H.264-HWD.en.srt
+│   │   ├── Modern.Family.S05E18.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E18.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E18.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── Modern.Family.S05E19.1080p.WEB-DL.DD5.1.H.264-HWD.1.en.srt
+│   │   ├── Modern.Family.S05E19.1080p.WEB-DL.DD5.1.H.264-HWD.ChsEngA.default.ass
+│   │   ├── Modern.Family.S05E19.1080p.WEB-DL.DD5.1.H.264-HWD.en.srt
+│   │   ├── Modern.Family.S05E19.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E19.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E19.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── Modern.Family.S05E20.1080p.WEB-DL.DD5.1.H.264-HWD.1.en.srt
+│   │   ├── Modern.Family.S05E20.1080p.WEB-DL.DD5.1.H.264-HWD.ChsEngA.default.ass
+│   │   ├── Modern.Family.S05E20.1080p.WEB-DL.DD5.1.H.264-HWD.en.srt
+│   │   ├── Modern.Family.S05E20.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E20.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E20.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── Modern.Family.S05E21.1080p.WEB-DL.DD5.1.H.264-HWD.1.en.srt
+│   │   ├── Modern.Family.S05E21.1080p.WEB-DL.DD5.1.H.264-HWD.ChsEngA.default.ass
+│   │   ├── Modern.Family.S05E21.1080p.WEB-DL.DD5.1.H.264-HWD.en.srt
+│   │   ├── Modern.Family.S05E21.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E21.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E21.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── Modern.Family.S05E22.1080p.WEB-DL.DD5.1.H.264-HWD.1.en.srt
+│   │   ├── Modern.Family.S05E22.1080p.WEB-DL.DD5.1.H.264-HWD.ass
+│   │   ├── Modern.Family.S05E22.1080p.WEB-DL.DD5.1.H.264-HWD.en.srt
+│   │   ├── Modern.Family.S05E22.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E22.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E22.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── Modern.Family.S05E23.1080p.WEB-DL.DD5.1.H.264-HWD.1.en.srt
+│   │   ├── Modern.Family.S05E23.1080p.WEB-DL.DD5.1.H.264-HWD.ass
+│   │   ├── Modern.Family.S05E23.1080p.WEB-DL.DD5.1.H.264-HWD.en.srt
+│   │   ├── Modern.Family.S05E23.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E23.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E23.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── Modern.Family.S05E24.1080p.WEB-DL.DD5.1.H.264-HWD.1.en.srt
+│   │   ├── Modern.Family.S05E24.1080p.WEB-DL.DD5.1.H.264-HWD.ass
+│   │   ├── Modern.Family.S05E24.1080p.WEB-DL.DD5.1.H.264-HWD.en.srt
+│   │   ├── Modern.Family.S05E24.1080p.WEB-DL.DD5.1.H.264-HWD.mkv
+│   │   ├── Modern.Family.S05E24.1080p.WEB-DL.DD5.1.H.264-HWD.nfo
+│   │   ├── Modern.Family.S05E24.1080p.WEB-DL.DD5.1.H.264-HWD-thumb.jpg
+│   │   ├── RARBG.txt
+│   │   ├── season05-poster.jpg
+│   │   ├── season.nfo
+│   │   └── tvshow.nfo
+│   ├── Season 6
+│   │   ├── Modern.Family.S06E01.The.Long.Honeymoon.1080p.WEB-DL.DD5.1.h.264-NTb.ass
+│   │   ├── Modern.Family.S06E01.The.Long.Honeymoon.1080p.WEB-DL.DD5.1.h.264-NTb.mkv
+│   │   ├── Modern.Family.S06E01.The.Long.Honeymoon.1080p.WEB-DL.DD5.1.h.264-NTb.nfo
+│   │   ├── Modern.Family.S06E01.The.Long.Honeymoon.1080p.WEB-DL.DD5.1.h.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S06E02.Do.Not.Push.1080p.WEB-DL.DD5.1.h.264-NTb.ass
+│   │   ├── Modern.Family.S06E02.Do.Not.Push.1080p.WEB-DL.DD5.1.h.264-NTb.mkv
+│   │   ├── Modern.Family.S06E02.Do.Not.Push.1080p.WEB-DL.DD5.1.h.264-NTb.nfo
+│   │   ├── Modern.Family.S06E02.Do.Not.Push.1080p.WEB-DL.DD5.1.h.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S06E03.2.1080p.WEB-DL.DD5.1.h.264-NTb.ass
+│   │   ├── Modern.Family.S06E03.2.1080p.WEB-DL.DD5.1.h.264-NTb.mkv
+│   │   ├── Modern.Family.S06E03.2.1080p.WEB-DL.DD5.1.h.264-NTb.nfo
+│   │   ├── Modern.Family.S06E03.2.1080p.WEB-DL.DD5.1.h.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S06E04.Marco.Polo.1080p.WEB-DL.DD5.1.h.264-NTb.ass
+│   │   ├── Modern.Family.S06E04.Marco.Polo.1080p.WEB-DL.DD5.1.h.264-NTb.mkv
+│   │   ├── Modern.Family.S06E04.Marco.Polo.1080p.WEB-DL.DD5.1.h.264-NTb.nfo
+│   │   ├── Modern.Family.S06E04.Marco.Polo.1080p.WEB-DL.DD5.1.h.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S06E05.Wont.You.Be.Our.Neighbor.1080p.WEB-DL.DD5.1.h.264-NTb.ass
+│   │   ├── Modern.Family.S06E05.Wont.You.Be.Our.Neighbor.1080p.WEB-DL.DD5.1.h.264-NTb.mkv
+│   │   ├── Modern.Family.S06E05.Wont.You.Be.Our.Neighbor.1080p.WEB-DL.DD5.1.h.264-NTb.nfo
+│   │   ├── Modern.Family.S06E05.Wont.You.Be.Our.Neighbor.1080p.WEB-DL.DD5.1.h.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S06E06.Halloween.3.Awesomeland.1080p.WEB-DL.DD5.1.h.264-NTb.ass
+│   │   ├── Modern.Family.S06E06.Halloween.3.Awesomeland.1080p.WEB-DL.DD5.1.h.264-NTb.mkv
+│   │   ├── Modern.Family.S06E06.Halloween.3.Awesomeland.1080p.WEB-DL.DD5.1.h.264-NTb.nfo
+│   │   ├── Modern.Family.S06E06.Halloween.3.Awesomeland.1080p.WEB-DL.DD5.1.h.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S06E07.Queer.Eyes.Full.Hearts.1080p.WEB-DL.DD5.1.h.264-NTb.ass
+│   │   ├── Modern.Family.S06E07.Queer.Eyes.Full.Hearts.1080p.WEB-DL.DD5.1.h.264-NTb.mkv
+│   │   ├── Modern.Family.S06E07.Queer.Eyes.Full.Hearts.1080p.WEB-DL.DD5.1.h.264-NTb.nfo
+│   │   ├── Modern.Family.S06E07.Queer.Eyes.Full.Hearts.1080p.WEB-DL.DD5.1.h.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S06E08.Three.Turkeys.1080p.WEB-DL.DD5.1.h.264-NTb.ass
+│   │   ├── Modern.Family.S06E08.Three.Turkeys.1080p.WEB-DL.DD5.1.h.264-NTb.mkv
+│   │   ├── Modern.Family.S06E08.Three.Turkeys.1080p.WEB-DL.DD5.1.h.264-NTb.nfo
+│   │   ├── Modern.Family.S06E08.Three.Turkeys.1080p.WEB-DL.DD5.1.h.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S06E09.Strangers.in.the.Night.1080p.WEB-DL.DD5.1.h.264-NTb.ass
+│   │   ├── Modern.Family.S06E09.Strangers.in.the.Night.1080p.WEB-DL.DD5.1.h.264-NTb.mkv
+│   │   ├── Modern.Family.S06E09.Strangers.in.the.Night.1080p.WEB-DL.DD5.1.h.264-NTb.nfo
+│   │   ├── Modern.Family.S06E09.Strangers.in.the.Night.1080p.WEB-DL.DD5.1.h.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S06E10.Haleys.21st.Birthday.1080p.WEB-DL.DD5.1.h.264-NTb.ass
+│   │   ├── Modern.Family.S06E10.Haleys.21st.Birthday.1080p.WEB-DL.DD5.1.h.264-NTb.mkv
+│   │   ├── Modern.Family.S06E10.Haleys.21st.Birthday.1080p.WEB-DL.DD5.1.h.264-NTb.nfo
+│   │   ├── Modern.Family.S06E10.Haleys.21st.Birthday.1080p.WEB-DL.DD5.1.h.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S06E11.The.Day.We.Almost.Died.1080p.WEB-DL.DD5.1.h.264-NTb.ass
+│   │   ├── Modern.Family.S06E11.The.Day.We.Almost.Died.1080p.WEB-DL.DD5.1.h.264-NTb.mkv
+│   │   ├── Modern.Family.S06E11.The.Day.We.Almost.Died.1080p.WEB-DL.DD5.1.h.264-NTb.nfo
+│   │   ├── Modern.Family.S06E11.The.Day.We.Almost.Died.1080p.WEB-DL.DD5.1.h.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S06E12.The.Big.Guns.1080p.WEB-DL.DD5.1.h.264-NTb.ass
+│   │   ├── Modern.Family.S06E12.The.Big.Guns.1080p.WEB-DL.DD5.1.h.264-NTb.mkv
+│   │   ├── Modern.Family.S06E12.The.Big.Guns.1080p.WEB-DL.DD5.1.h.264-NTb.nfo
+│   │   ├── Modern.Family.S06E12.The.Big.Guns.1080p.WEB-DL.DD5.1.h.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S06E13.Rash.Decisions.1080p.WEB-DL.DD5.1.h.264-NTb.ass
+│   │   ├── Modern.Family.S06E13.Rash.Decisions.1080p.WEB-DL.DD5.1.h.264-NTb.mkv
+│   │   ├── Modern.Family.S06E13.Rash.Decisions.1080p.WEB-DL.DD5.1.h.264-NTb.nfo
+│   │   ├── Modern.Family.S06E13.Rash.Decisions.1080p.WEB-DL.DD5.1.h.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S06E14.Valentines.Day.4.Twisted.Sister.1080p.WEB-DL.DD5.1.h.264-NTb.ass
+│   │   ├── Modern.Family.S06E14.Valentines.Day.4.Twisted.Sister.1080p.WEB-DL.DD5.1.h.264-NTb.mkv
+│   │   ├── Modern.Family.S06E14.Valentines.Day.4.Twisted.Sister.1080p.WEB-DL.DD5.1.h.264-NTb.nfo
+│   │   ├── Modern.Family.S06E14.Valentines.Day.4.Twisted.Sister.1080p.WEB-DL.DD5.1.h.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S06E15.Fight.or.Flight.1080p.WEB-DL.DD5.1.h.264-NTb.ass
+│   │   ├── Modern.Family.S06E15.Fight.or.Flight.1080p.WEB-DL.DD5.1.h.264-NTb.mkv
+│   │   ├── Modern.Family.S06E15.Fight.or.Flight.1080p.WEB-DL.DD5.1.h.264-NTb.nfo
+│   │   ├── Modern.Family.S06E15.Fight.or.Flight.1080p.WEB-DL.DD5.1.h.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S06E16.Connection.Lost.1080p.WEB-DL.DD5.1.h.264-NTb.ass
+│   │   ├── Modern.Family.S06E16.Connection.Lost.1080p.WEB-DL.DD5.1.h.264-NTb.mkv
+│   │   ├── Modern.Family.S06E16.Connection.Lost.1080p.WEB-DL.DD5.1.h.264-NTb.nfo
+│   │   ├── Modern.Family.S06E16.Connection.Lost.1080p.WEB-DL.DD5.1.h.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S06E17.Closet.Youll.Love.It.1080p.WEB-DL.DD5.1.h.264-NTb.ass
+│   │   ├── Modern.Family.S06E17.Closet.Youll.Love.It.1080p.WEB-DL.DD5.1.h.264-NTb.mkv
+│   │   ├── Modern.Family.S06E17.Closet.Youll.Love.It.1080p.WEB-DL.DD5.1.h.264-NTb.nfo
+│   │   ├── Modern.Family.S06E17.Closet.Youll.Love.It.1080p.WEB-DL.DD5.1.h.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S06E18.1080p.WEB-DL.DD5.1.h.264-NTb.ass
+│   │   ├── Modern.Family.S06E18.1080p.WEB-DL.DD5.1.h.264-NTb.mkv
+│   │   ├── Modern.Family.S06E18.1080p.WEB-DL.DD5.1.h.264-NTb.nfo
+│   │   ├── Modern.Family.S06E18.1080p.WEB-DL.DD5.1.h.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S06E19.1080p.WEB-DL.DD5.1.h.264-NTb.ass
+│   │   ├── Modern.Family.S06E19.1080p.WEB-DL.DD5.1.h.264-NTb.mkv
+│   │   ├── Modern.Family.S06E19.1080p.WEB-DL.DD5.1.h.264-NTb.nfo
+│   │   ├── Modern.Family.S06E19.1080p.WEB-DL.DD5.1.h.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S06E20.1080p.WEB-DL.DD5.1.h.264-NTb.ass
+│   │   ├── Modern.Family.S06E20.1080p.WEB-DL.DD5.1.h.264-NTb.mkv
+│   │   ├── Modern.Family.S06E20.1080p.WEB-DL.DD5.1.h.264-NTb.nfo
+│   │   ├── Modern.Family.S06E20.1080p.WEB-DL.DD5.1.h.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S06E21.1080p.WEB-DL.DD5.1.h.264-NTb.ass
+│   │   ├── Modern.Family.S06E21.1080p.WEB-DL.DD5.1.h.264-NTb.mkv
+│   │   ├── Modern.Family.S06E21.1080p.WEB-DL.DD5.1.h.264-NTb.nfo
+│   │   ├── Modern.Family.S06E21.1080p.WEB-DL.DD5.1.h.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S06E22.1080p.WEB-DL.DD5.1.h.264-NTb.ass
+│   │   ├── Modern.Family.S06E22.1080p.WEB-DL.DD5.1.h.264-NTb.mkv
+│   │   ├── Modern.Family.S06E22.1080p.WEB-DL.DD5.1.h.264-NTb.nfo
+│   │   ├── Modern.Family.S06E22.1080p.WEB-DL.DD5.1.h.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S06E23.1080p.WEB-DL.DD5.1.h.264-NTb.ass
+│   │   ├── Modern.Family.S06E23.1080p.WEB-DL.DD5.1.h.264-NTb.mkv
+│   │   ├── Modern.Family.S06E23.1080p.WEB-DL.DD5.1.h.264-NTb.nfo
+│   │   ├── Modern.Family.S06E23.1080p.WEB-DL.DD5.1.h.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S06E24.American.Skyper.1080p.WEB-DL.DD5.1.h264-NTb.ass
+│   │   ├── Modern.Family.S06E24.American.Skyper.1080p.WEB-DL.DD5.1.h264-NTb.mkv
+│   │   ├── Modern.Family.S06E24.American.Skyper.1080p.WEB-DL.DD5.1.h264-NTb.nfo
+│   │   ├── Modern.Family.S06E24.American.Skyper.1080p.WEB-DL.DD5.1.h264-NTb-thumb.jpg
+│   │   ├── RARBG.txt
+│   │   └── season.nfo
+│   ├── Season 7
+│   │   ├── clearlogo.png
+│   │   ├── fanart.jpg
+│   │   ├── Modern Family S07E01 Summer Lovin' 1080p WEB-DL DD5.1 H.264-Oosh.ChsEngA.default.ass
+│   │   ├── Modern Family S07E01 Summer Lovin' 1080p WEB-DL DD5.1 H.264-Oosh.mkv
+│   │   ├── Modern Family S07E01 Summer Lovin' 1080p WEB-DL DD5.1 H.264-Oosh.nfo
+│   │   ├── Modern Family S07E01 Summer Lovin' 1080p WEB-DL DD5.1 H.264-Oosh-thumb.jpg
+│   │   ├── Modern Family S07E02 The Day Alex Left for College 1080p WEB-DL DD5.1 H.264-Oosh.ChsEngA.default.ass
+│   │   ├── Modern Family S07E02 The Day Alex Left for College 1080p WEB-DL DD5.1 H.264-Oosh.mkv
+│   │   ├── Modern Family S07E02 The Day Alex Left for College 1080p WEB-DL DD5.1 H.264-Oosh.nfo
+│   │   ├── Modern Family S07E02 The Day Alex Left for College 1080p WEB-DL DD5.1 H.264-Oosh-thumb.jpg
+│   │   ├── Modern Family S07E03 The Closet Case 1080p WEB-DL DD5.1 H.264-Oosh.ChsEngA.default.ass
+│   │   ├── Modern Family S07E03 The Closet Case 1080p WEB-DL DD5.1 H.264-Oosh.mkv
+│   │   ├── Modern Family S07E03 The Closet Case 1080p WEB-DL DD5.1 H.264-Oosh.nfo
+│   │   ├── Modern Family S07E03 The Closet Case 1080p WEB-DL DD5.1 H.264-Oosh-thumb.jpg
+│   │   ├── Modern Family S07E04 She Crazy 1080p WEB-DL DD5.1 H.264-Oosh.ChsEngA.default.ass
+│   │   ├── Modern Family S07E04 She Crazy 1080p WEB-DL DD5.1 H.264-Oosh.mkv
+│   │   ├── Modern Family S07E04 She Crazy 1080p WEB-DL DD5.1 H.264-Oosh.nfo
+│   │   ├── Modern Family S07E04 She Crazy 1080p WEB-DL DD5.1 H.264-Oosh-thumb.jpg
+│   │   ├── Modern Family S07E05 The Verdict 1080p WEB-DL DD5.1 H.264-Oosh.ChsEngA.default.ass
+│   │   ├── Modern Family S07E05 The Verdict 1080p WEB-DL DD5.1 H.264-Oosh.mkv
+│   │   ├── Modern Family S07E05 The Verdict 1080p WEB-DL DD5.1 H.264-Oosh.nfo
+│   │   ├── Modern Family S07E05 The Verdict 1080p WEB-DL DD5.1 H.264-Oosh-thumb.jpg
+│   │   ├── Modern Family S07E06 The More You Ignore Me 1080p WEB-DL DD5.1 H.264-Oosh.ChsEngA.default.ass
+│   │   ├── Modern Family S07E06 The More You Ignore Me 1080p WEB-DL DD5.1 H.264-Oosh.mkv
+│   │   ├── Modern Family S07E06 The More You Ignore Me 1080p WEB-DL DD5.1 H.264-Oosh.nfo
+│   │   ├── Modern Family S07E06 The More You Ignore Me 1080p WEB-DL DD5.1 H.264-Oosh-thumb.jpg
+│   │   ├── Modern Family S07E07 Phil's Sexy, Sexy House 1080p WEB-DL DD5.1 H.264-Oosh.ChsEngA.default.ass
+│   │   ├── Modern Family S07E07 Phil's Sexy, Sexy House 1080p WEB-DL DD5.1 H.264-Oosh.mkv
+│   │   ├── Modern Family S07E07 Phil's Sexy, Sexy House 1080p WEB-DL DD5.1 H.264-Oosh.nfo
+│   │   ├── Modern Family S07E07 Phil's Sexy, Sexy House 1080p WEB-DL DD5.1 H.264-Oosh-thumb.jpg
+│   │   ├── Modern Family S07E08 Clean Out Your Junk Drawer 1080p WEB-DL DD5.1 H.264-Oosh.ChsEngA.default.ass
+│   │   ├── Modern Family S07E08 Clean Out Your Junk Drawer 1080p WEB-DL DD5.1 H.264-Oosh.mkv
+│   │   ├── Modern Family S07E08 Clean Out Your Junk Drawer 1080p WEB-DL DD5.1 H.264-Oosh.nfo
+│   │   ├── Modern Family S07E08 Clean Out Your Junk Drawer 1080p WEB-DL DD5.1 H.264-Oosh-thumb.jpg
+│   │   ├── Modern Family S07E09 White Christmas 1080p WEB-DL DD5.1 H.264-Oosh.ChsEngA.default.ass
+│   │   ├── Modern Family S07E09 White Christmas 1080p WEB-DL DD5.1 H.264-Oosh.mkv
+│   │   ├── Modern Family S07E09 White Christmas 1080p WEB-DL DD5.1 H.264-Oosh.nfo
+│   │   ├── Modern Family S07E09 White Christmas 1080p WEB-DL DD5.1 H.264-Oosh-thumb.jpg
+│   │   ├── Modern Family S07E10 Playdates 1080p WEB-DL DD5.1 H.264-Oosh.ChsEngA.default.ass
+│   │   ├── Modern Family S07E10 Playdates 1080p WEB-DL DD5.1 H.264-Oosh.mkv
+│   │   ├── Modern Family S07E10 Playdates 1080p WEB-DL DD5.1 H.264-Oosh.nfo
+│   │   ├── Modern Family S07E10 Playdates 1080p WEB-DL DD5.1 H.264-Oosh-thumb.jpg
+│   │   ├── Modern Family S07E11 Spread Your Wings 1080p WEB-DL DD5.1 H.264-Oosh.ChsEngA.default.ass
+│   │   ├── Modern Family S07E11 Spread Your Wings 1080p WEB-DL DD5.1 H.264-Oosh.mkv
+│   │   ├── Modern Family S07E11 Spread Your Wings 1080p WEB-DL DD5.1 H.264-Oosh.nfo
+│   │   ├── Modern Family S07E11 Spread Your Wings 1080p WEB-DL DD5.1 H.264-Oosh-thumb.jpg
+│   │   ├── Modern Family S07E12 Clean for a Day 1080p WEB-DL DD5.1 H.264-Oosh.ChsEngA.default.ass
+│   │   ├── Modern Family S07E12 Clean for a Day 1080p WEB-DL DD5.1 H.264-Oosh.mkv
+│   │   ├── Modern Family S07E12 Clean for a Day 1080p WEB-DL DD5.1 H.264-Oosh.nfo
+│   │   ├── Modern Family S07E12 Clean for a Day 1080p WEB-DL DD5.1 H.264-Oosh-thumb.jpg
+│   │   ├── Modern Family S07E13 Thunk in the Trunk 1080p WEB-DL DD5.1 H.264-Oosh.ChsEngA.default.ass
+│   │   ├── Modern Family S07E13 Thunk in the Trunk 1080p WEB-DL DD5.1 H.264-Oosh.mkv
+│   │   ├── Modern Family S07E13 Thunk in the Trunk 1080p WEB-DL DD5.1 H.264-Oosh.nfo
+│   │   ├── Modern Family S07E13 Thunk in the Trunk 1080p WEB-DL DD5.1 H.264-Oosh-thumb.jpg
+│   │   ├── Modern Family S07E14 The Storm 1080p WEB-DL DD5.1 H.264-Oosh.ChsEngA.default.ass
+│   │   ├── Modern Family S07E14 The Storm 1080p WEB-DL DD5.1 H.264-Oosh.mkv
+│   │   ├── Modern Family S07E14 The Storm 1080p WEB-DL DD5.1 H.264-Oosh.nfo
+│   │   ├── Modern Family S07E14 The Storm 1080p WEB-DL DD5.1 H.264-Oosh-thumb.jpg
+│   │   ├── Modern Family S07E15 I Dont Know How She Does It 1080p WEB-DL DD5.1 H.264-Oosh.ChsEngA.default.ass
+│   │   ├── Modern Family S07E15 I Dont Know How She Does It 1080p WEB-DL DD5.1 H.264-Oosh.mkv
+│   │   ├── Modern Family S07E15 I Dont Know How She Does It 1080p WEB-DL DD5.1 H.264-Oosh.nfo
+│   │   ├── Modern Family S07E15 I Dont Know How She Does It 1080p WEB-DL DD5.1 H.264-Oosh-thumb.jpg
+│   │   ├── Modern Family S07E16 The Cover-Up 1080p WEB-DL DD5.1 H.264-Oosh.ChsEngA.default.ass
+│   │   ├── Modern Family S07E16 The Cover-Up 1080p WEB-DL DD5.1 H.264-Oosh.mkv
+│   │   ├── Modern Family S07E16 The Cover-Up 1080p WEB-DL DD5.1 H.264-Oosh.nfo
+│   │   ├── Modern Family S07E16 The Cover-Up 1080p WEB-DL DD5.1 H.264-Oosh-thumb.jpg
+│   │   ├── Modern Family S07E17 Express Yourself 1080p WEB-DL DD5.1 H.264-Oosh.ChsEngA.default.ass
+│   │   ├── Modern Family S07E17 Express Yourself 1080p WEB-DL DD5.1 H.264-Oosh.mkv
+│   │   ├── Modern Family S07E17 Express Yourself 1080p WEB-DL DD5.1 H.264-Oosh.nfo
+│   │   ├── Modern Family S07E17 Express Yourself 1080p WEB-DL DD5.1 H.264-Oosh-thumb.jpg
+│   │   ├── Modern Family S07E18 The Party 1080p WEB-DL DD5.1 H.264-Oosh.ChsEngA.default.ass
+│   │   ├── Modern Family S07E18 The Party 1080p WEB-DL DD5.1 H.264-Oosh.mkv
+│   │   ├── Modern Family S07E18 The Party 1080p WEB-DL DD5.1 H.264-Oosh.nfo
+│   │   ├── Modern Family S07E18 The Party 1080p WEB-DL DD5.1 H.264-Oosh-thumb.jpg
+│   │   ├── Modern Family S07E19 Man Shouldn't Lie 1080p WEB-DL DD5.1 H.264-Oosh.ChsEngA.default.ass
+│   │   ├── Modern Family S07E19 Man Shouldn't Lie 1080p WEB-DL DD5.1 H.264-Oosh.mkv
+│   │   ├── Modern Family S07E19 Man Shouldn't Lie 1080p WEB-DL DD5.1 H.264-Oosh.nfo
+│   │   ├── Modern Family S07E19 Man Shouldn't Lie 1080p WEB-DL DD5.1 H.264-Oosh-thumb.jpg
+│   │   ├── Modern Family S07E20 Promposal 1080p WEB-DL DD5.1 H.264-Oosh.ChsEngA.default.ass
+│   │   ├── Modern Family S07E20 Promposal 1080p WEB-DL DD5.1 H.264-Oosh.mkv
+│   │   ├── Modern Family S07E20 Promposal 1080p WEB-DL DD5.1 H.264-Oosh.nfo
+│   │   ├── Modern Family S07E20 Promposal 1080p WEB-DL DD5.1 H.264-Oosh-thumb.jpg
+│   │   ├── Modern Family S07E21 Crazy Train 1080p WEB-DL DD5.1 H.264-Oosh.ChsEngA.default.ass
+│   │   ├── Modern Family S07E21 Crazy Train 1080p WEB-DL DD5.1 H.264-Oosh.mkv
+│   │   ├── Modern Family S07E21 Crazy Train 1080p WEB-DL DD5.1 H.264-Oosh.nfo
+│   │   ├── Modern Family S07E21 Crazy Train 1080p WEB-DL DD5.1 H.264-Oosh-thumb.jpg
+│   │   ├── Modern Family S07E22 Double Click 1080p WEB-DL DD5.1 H.264-Oosh.ChsEngA.default.ass
+│   │   ├── Modern Family S07E22 Double Click 1080p WEB-DL DD5.1 H.264-Oosh.mkv
+│   │   ├── Modern Family S07E22 Double Click 1080p WEB-DL DD5.1 H.264-Oosh.nfo
+│   │   ├── Modern Family S07E22 Double Click 1080p WEB-DL DD5.1 H.264-Oosh-thumb.jpg
+│   │   ├── RARBG.txt
+│   │   ├── season07-poster.jpg
+│   │   ├── season.nfo
+│   │   └── tvshow.nfo
+│   ├── Season 8
+│   │   ├── Modern.Family.S08E01.The.Tale.Of.Three.Cities.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── Modern.Family.S08E01.The.Tale.Of.Three.Cities.1080p.AMZN.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── Modern.Family.S08E01.The.Tale.Of.Three.Cities.1080p.AMZN.WEBRip.DD5.1.x264-NTb.srt
+│   │   ├── Modern.Family.S08E01.The.Tale.Of.Three.Cities.1080p.AMZN.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S08E02.A.Stereotypical.Day.1080p.AMZN.WEBRip.DD5.1.x264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S08E02.A.Stereotypical.Day.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── Modern.Family.S08E02.A.Stereotypical.Day.1080p.AMZN.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── Modern.Family.S08E02.A.Stereotypical.Day.1080p.AMZN.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S08E03.Blindsided.1080p.AMZN.WEBRip.DD5.1.x264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S08E03.Blindsided.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── Modern.Family.S08E03.Blindsided.1080p.AMZN.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── Modern.Family.S08E03.Blindsided.1080p.AMZN.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S08E04.Weathering.Heights.1080p.AMZN.WEBRip.DD5.1.x264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S08E04.Weathering.Heights.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── Modern.Family.S08E04.Weathering.Heights.1080p.AMZN.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── Modern.Family.S08E04.Weathering.Heights.1080p.AMZN.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S08E05.Halloween.4.The.Revenge.Of.Rod.Skyhook.1080p.AMZN.WEBRip.ChsEngA.default.ass
+│   │   ├── Modern.Family.S08E05.Halloween.4.The.Revenge.Of.Rod.Skyhook.1080p.AMZN.WEBRip.mkv
+│   │   ├── Modern.Family.S08E05.Halloween.4.The.Revenge.Of.Rod.Skyhook.1080p.AMZN.WEBRip.nfo
+│   │   ├── Modern.Family.S08E05.Halloween.4.The.Revenge.Of.Rod.Skyhook.1080p.AMZN.WEBRip-thumb.jpg
+│   │   ├── Modern.Family.S08E06.Grab.It.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── Modern.Family.S08E06.Grab.It.1080p.AMZN.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── Modern.Family.S08E06.Grab.It.1080p.AMZN.WEBRip.DD5.1.x264-NTb.srt
+│   │   ├── Modern.Family.S08E06.Grab.It.1080p.AMZN.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S08E07.Thanksgiving.Jamboree.1080p.AMZN.WEBRip.DD5.1.x264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S08E07.Thanksgiving.Jamboree.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── Modern.Family.S08E07.Thanksgiving.Jamboree.1080p.AMZN.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── Modern.Family.S08E07.Thanksgiving.Jamboree.1080p.AMZN.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S08E08.The.Alliance.1080p.AMZN.WEBRip.DD5.1.x264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S08E08.The.Alliance.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── Modern.Family.S08E08.The.Alliance.1080p.AMZN.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── Modern.Family.S08E08.The.Alliance.1080p.AMZN.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S08E09.Snow.Ball.1080p.AMZN.WEBRip.DD5.1.x264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S08E09.Snow.Ball.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── Modern.Family.S08E09.Snow.Ball.1080p.AMZN.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── Modern.Family.S08E09.Snow.Ball.1080p.AMZN.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S08E10.Ringmaster.Keifth.1080p.AMZN.WEBRip.DD5.1.x264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S08E10.Ringmaster.Keifth.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── Modern.Family.S08E10.Ringmaster.Keifth.1080p.AMZN.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── Modern.Family.S08E10.Ringmaster.Keifth.1080p.AMZN.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S08E11.Sarge.and.Pea.1080p.AMZN.WEBRip.DD5.1.x264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S08E11.Sarge.and.Pea.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── Modern.Family.S08E11.Sarge.and.Pea.1080p.AMZN.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── Modern.Family.S08E11.Sarge.and.Pea.1080p.AMZN.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S08E12.Do.You.Believe.In.Magic.1080p.AMZN.WEBRip.DD5.1.x264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S08E12.Do.You.Believe.In.Magic.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── Modern.Family.S08E12.Do.You.Believe.In.Magic.1080p.AMZN.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── Modern.Family.S08E12.Do.You.Believe.In.Magic.1080p.AMZN.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S08E13.Do.It.Yourself.1080p.AMZN.WEBRip.DD5.1.x264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S08E13.Do.It.Yourself.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── Modern.Family.S08E13.Do.It.Yourself.1080p.AMZN.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── Modern.Family.S08E13.Do.It.Yourself.1080p.AMZN.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S08E14.Heavy.Is.The.Head.1080p.AMZN.WEBRip.DD5.1.x264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S08E14.Heavy.Is.The.Head.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── Modern.Family.S08E14.Heavy.Is.The.Head.1080p.AMZN.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── Modern.Family.S08E14.Heavy.Is.The.Head.1080p.AMZN.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S08E15.Finding.Fizbo.1080p.AMZN.WEBRip.DD5.1.x264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S08E15.Finding.Fizbo.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── Modern.Family.S08E15.Finding.Fizbo.1080p.AMZN.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── Modern.Family.S08E15.Finding.Fizbo.1080p.AMZN.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S08E16.Basketball.1080p.AMZN.WEBRip.DD5.1.x264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S08E16.Basketball.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── Modern.Family.S08E16.Basketball.1080p.AMZN.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── Modern.Family.S08E16.Basketball.1080p.AMZN.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S08E17.Pig.Moon.Rising.1080p.AMZN.WEBRip.DD5.1.x264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S08E17.Pig.Moon.Rising.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── Modern.Family.S08E17.Pig.Moon.Rising.1080p.AMZN.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── Modern.Family.S08E17.Pig.Moon.Rising.1080p.AMZN.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S08E18.Five.Minutes.1080p.AMZN.WEBRip.DD5.1.x264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S08E18.Five.Minutes.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── Modern.Family.S08E18.Five.Minutes.1080p.AMZN.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── Modern.Family.S08E18.Five.Minutes.1080p.AMZN.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S08E19.Franks.Wedding.1080p.AMZN.WEBRip.DD5.1.x264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S08E19.Franks.Wedding.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── Modern.Family.S08E19.Franks.Wedding.1080p.AMZN.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── Modern.Family.S08E19.Franks.Wedding.1080p.AMZN.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S08E20.All.Things.Being.Equal.1080p.AMZN.WEBRip.DD5.1.x264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S08E20.All.Things.Being.Equal.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── Modern.Family.S08E20.All.Things.Being.Equal.1080p.AMZN.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── Modern.Family.S08E20.All.Things.Being.Equal.1080p.AMZN.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S08E21.Alone.Time.1080p.AMZN.WEBRip.DD5.1.x264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S08E21.Alone.Time.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── Modern.Family.S08E21.Alone.Time.1080p.AMZN.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── Modern.Family.S08E21.Alone.Time.1080p.AMZN.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S08E22.The.Graduates.1080p.AMZN.WEBRip.DD5.1.x264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S08E22.The.Graduates.1080p.AMZN.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── Modern.Family.S08E22.The.Graduates.1080p.AMZN.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── Modern.Family.S08E22.The.Graduates.1080p.AMZN.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── RARBG.txt
+│   │   ├── season08-poster.jpg
+│   │   ├── season.nfo
+│   │   └── tvshow.nfo
+│   ├── Season 9
+│   │   ├── clearlogo.png
+│   │   ├── fanart.jpg
+│   │   ├── Modern.Family.S09E01.Lake.Life.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S09E01.Lake.Life.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S09E01.Lake.Life.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S09E01.Lake.Life.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S09E02.The.Long.Goodbye.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S09E02.The.Long.Goodbye.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S09E02.The.Long.Goodbye.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S09E02.The.Long.Goodbye.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S09E03.Catch.of.the.Day.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S09E03.Catch.of.the.Day.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S09E03.Catch.of.the.Day.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S09E03.Catch.of.the.Day.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S09E04.Sex.Lies.Kickball.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S09E04.Sex.Lies.Kickball.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S09E04.Sex.Lies.Kickball.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S09E04.Sex.Lies.Kickball.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S09E05.Its.the.Great.Pumpkin.Phil.Dunphy.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S09E05.Its.the.Great.Pumpkin.Phil.Dunphy.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S09E05.Its.the.Great.Pumpkin.Phil.Dunphy.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S09E05.Its.the.Great.Pumpkin.Phil.Dunphy.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S09E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S09E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.en.srt
+│   │   ├── Modern.Family.S09E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S09E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S09E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S09E07.Winner.Winner.Turkey.Dinner.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.264-NTb.en.srt
+│   │   ├── Modern.Family.S09E07.Winner.Winner.Turkey.Dinner.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S09E07.Winner.Winner.Turkey.Dinner.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S09E07.Winner.Winner.Turkey.Dinner.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S09E08.Brushes.with.Celebrity.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S09E08.Brushes.with.Celebrity.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S09E08.Brushes.with.Celebrity.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S09E08.Brushes.with.Celebrity.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S09E09.Tough.Love.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S09E09.Tough.Love.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S09E09.Tough.Love.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S09E09.Tough.Love.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S09E10.No.Small.Feet.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S09E10.No.Small.Feet.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S09E10.No.Small.Feet.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S09E10.No.Small.Feet.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S09E11.He.Said,.She.Shed.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S09E11.He.Said,.She.Shed.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S09E11.He.Said,.She.Shed.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S09E11.He.Said,.She.Shed.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S09E12.Dear.Beloved.Family.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S09E12.Dear.Beloved.Family.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S09E12.Dear.Beloved.Family.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S09E12.Dear.Beloved.Family.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S09E13.In.Your.Head.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S09E13.In.Your.Head.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S09E13.In.Your.Head.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S09E13.In.Your.Head.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S09E14.Written.in.the.Stars.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S09E14.Written.in.the.Stars.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S09E14.Written.in.the.Stars.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S09E14.Written.in.the.Stars.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S09E15.Spanks.for.the.Memories.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S09E15.Spanks.for.the.Memories.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S09E15.Spanks.for.the.Memories.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S09E15.Spanks.for.the.Memories.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S09E16.Wine.Weekend.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S09E16.Wine.Weekend.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S09E16.Wine.Weekend.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S09E16.Wine.Weekend.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S09E17.Royal.Visit.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S09E17.Royal.Visit.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S09E17.Royal.Visit.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S09E17.Royal.Visit.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S09E18.Daddy.Issues.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.264-NTb.en.srt
+│   │   ├── Modern.Family.S09E18.Daddy.Issues.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S09E18.Daddy.Issues.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S09E18.Daddy.Issues.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S09E19.CHiPs.and.Salsa.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S09E19.CHiPs.and.Salsa.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S09E19.CHiPs.and.Salsa.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S09E19.CHiPs.and.Salsa.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S09E20.Mother.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S09E20.Mother.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S09E20.Mother.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S09E20.Mother.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S09E21.The.Escape.1080p.AMZN.WEB-DL.DDP5.1.ChsEngA.default.ass
+│   │   ├── Modern.Family.S09E21.The.Escape.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S09E21.The.Escape.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S09E21.The.Escape.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S09E21.The.Escape.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Modern.Family.S09E22.Clash.of.Swords.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.default.ass
+│   │   ├── Modern.Family.S09E22.Clash.of.Swords.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Modern.Family.S09E22.Clash.of.Swords.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Modern.Family.S09E22.Clash.of.Swords.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── RARBG.txt
+│   │   ├── season09-poster.jpg
+│   │   ├── season.nfo
+│   │   └── tvshow.nfo
+│   └── tvshow.nfo
+├── Money Heist
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── Season 1
+│   │   ├── La.Casa.de.Papel.S01E01.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-320-10.bif
+│   │   ├── La.Casa.de.Papel.S01E01.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.mkv
+│   │   ├── La.Casa.de.Papel.S01E01.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.nfo
+│   │   ├── La.Casa.de.Papel.S01E01.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-thumb.jpg
+│   │   ├── La.Casa.de.Papel.S01E01.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.zh-cn.srt
+│   │   ├── La.Casa.de.Papel.S01E02.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-320-10.bif
+│   │   ├── La.Casa.de.Papel.S01E02.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.mkv
+│   │   ├── La.Casa.de.Papel.S01E02.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.nfo
+│   │   ├── La.Casa.de.Papel.S01E02.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-thumb.jpg
+│   │   ├── La.Casa.de.Papel.S01E02.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.zh-cn.ass
+│   │   ├── La.Casa.de.Papel.S01E03.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-320-10.bif
+│   │   ├── La.Casa.de.Papel.S01E03.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.mkv
+│   │   ├── La.Casa.de.Papel.S01E03.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.nfo
+│   │   ├── La.Casa.de.Papel.S01E03.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-thumb.jpg
+│   │   ├── La.Casa.de.Papel.S01E03.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.zh-cn.srt
+│   │   ├── La.Casa.de.Papel.S01E04.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-320-10.bif
+│   │   ├── La.Casa.de.Papel.S01E04.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.mkv
+│   │   ├── La.Casa.de.Papel.S01E04.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.nfo
+│   │   ├── La.Casa.de.Papel.S01E04.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-thumb.jpg
+│   │   ├── La.Casa.de.Papel.S01E04.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.zh-cn.srt
+│   │   ├── La.Casa.de.Papel.S01E05.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-320-10.bif
+│   │   ├── La.Casa.de.Papel.S01E05.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.mkv
+│   │   ├── La.Casa.de.Papel.S01E05.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.nfo
+│   │   ├── La.Casa.de.Papel.S01E05.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-thumb.jpg
+│   │   ├── La.Casa.de.Papel.S01E05.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.zh-cn.srt
+│   │   ├── La.Casa.de.Papel.S01E06.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-320-10.bif
+│   │   ├── La.Casa.de.Papel.S01E06.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.mkv
+│   │   ├── La.Casa.de.Papel.S01E06.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.nfo
+│   │   ├── La.Casa.de.Papel.S01E06.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-thumb.jpg
+│   │   ├── La.Casa.de.Papel.S01E06.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.zh-cn.srt
+│   │   ├── La.Casa.de.Papel.S01E07.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-320-10.bif
+│   │   ├── La.Casa.de.Papel.S01E07.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.mkv
+│   │   ├── La.Casa.de.Papel.S01E07.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.nfo
+│   │   ├── La.Casa.de.Papel.S01E07.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-thumb.jpg
+│   │   ├── La.Casa.de.Papel.S01E07.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.zh-cn.srt
+│   │   ├── La.Casa.de.Papel.S01E08.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-320-10.bif
+│   │   ├── La.Casa.de.Papel.S01E08.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.mkv
+│   │   ├── La.Casa.de.Papel.S01E08.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.nfo
+│   │   ├── La.Casa.de.Papel.S01E08.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-thumb.jpg
+│   │   ├── La.Casa.de.Papel.S01E08.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.zh-cn.srt
+│   │   ├── La.Casa.de.Papel.S01E09.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-320-10.bif
+│   │   ├── La.Casa.de.Papel.S01E09.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.mkv
+│   │   ├── La.Casa.de.Papel.S01E09.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.nfo
+│   │   ├── La.Casa.de.Papel.S01E09.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-thumb.jpg
+│   │   ├── La.Casa.de.Papel.S01E09.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.zh-cn.srt
+│   │   ├── La.Casa.de.Papel.S01E10.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-320-10.bif
+│   │   ├── La.Casa.de.Papel.S01E10.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.mkv
+│   │   ├── La.Casa.de.Papel.S01E10.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.nfo
+│   │   ├── La.Casa.de.Papel.S01E10.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-thumb.jpg
+│   │   ├── La.Casa.de.Papel.S01E10.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.zh-cn.srt
+│   │   ├── La.Casa.de.Papel.S01E11.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-320-10.bif
+│   │   ├── La.Casa.de.Papel.S01E11.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.mkv
+│   │   ├── La.Casa.de.Papel.S01E11.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.nfo
+│   │   ├── La.Casa.de.Papel.S01E11.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-thumb.jpg
+│   │   ├── La.Casa.de.Papel.S01E11.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.zh-cn.srt
+│   │   ├── La.Casa.de.Papel.S01E12.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-320-10.bif
+│   │   ├── La.Casa.de.Papel.S01E12.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.mkv
+│   │   ├── La.Casa.de.Papel.S01E12.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.nfo
+│   │   ├── La.Casa.de.Papel.S01E12.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-thumb.jpg
+│   │   ├── La.Casa.de.Papel.S01E12.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.zh-cn.srt
+│   │   ├── La.Casa.de.Papel.S01E13.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-320-10.bif
+│   │   ├── La.Casa.de.Papel.S01E13.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.mkv
+│   │   ├── La.Casa.de.Papel.S01E13.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.nfo
+│   │   ├── La.Casa.de.Papel.S01E13.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990-thumb.jpg
+│   │   ├── La.Casa.de.Papel.S01E13.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.zh-cn.srt
+│   │   ├── metadata
+│   │   │   ├── La.Casa.de.Papel.S01E01.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.jpg
+│   │   │   ├── La.Casa.de.Papel.S01E02.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.jpg
+│   │   │   ├── La.Casa.de.Papel.S01E03.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.jpg
+│   │   │   ├── La.Casa.de.Papel.S01E04.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.jpg
+│   │   │   ├── La.Casa.de.Papel.S01E05.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.jpg
+│   │   │   ├── La.Casa.de.Papel.S01E06.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.jpg
+│   │   │   └── La.Casa.de.Papel.S01E07.1080p.NF.WEB-DL.DDP2.0.x264-Mooi1990.jpg
+│   │   ├── RARBG.txt
+│   │   ├── season01-poster.jpg
+│   │   ├── season.nfo
+│   │   └── tvshow.nfo
+│   └── tvshow.nfo
+├── My brilliant Friend
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── Season 1
+│   │   ├── My.Brilliant.Friend.S01E01.The.Dolls.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── My.Brilliant.Friend.S01E01.The.Dolls.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── My.Brilliant.Friend.S01E01.The.Dolls.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── My.Brilliant.Friend.S01E01.The.Dolls.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── My.Brilliant.Friend.S01E01.The.Dolls.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── My.Brilliant.Friend.S01E02.The.Money.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── My.Brilliant.Friend.S01E02.The.Money.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── My.Brilliant.Friend.S01E02.The.Money.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── My.Brilliant.Friend.S01E02.The.Money.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── My.Brilliant.Friend.S01E02.The.Money.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── My.Brilliant.Friend.S01E03.The.Metamorphoses.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── My.Brilliant.Friend.S01E03.The.Metamorphoses.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── My.Brilliant.Friend.S01E03.The.Metamorphoses.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── My.Brilliant.Friend.S01E03.The.Metamorphoses.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── My.Brilliant.Friend.S01E03.The.Metamorphoses.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── My.Brilliant.Friend.S01E04.Dissolving.Margins.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── My.Brilliant.Friend.S01E04.Dissolving.Margins.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── My.Brilliant.Friend.S01E04.Dissolving.Margins.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── My.Brilliant.Friend.S01E04.Dissolving.Margins.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── My.Brilliant.Friend.S01E04.Dissolving.Margins.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── My.Brilliant.Friend.S01E05.The.Shoes.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── My.Brilliant.Friend.S01E05.The.Shoes.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── My.Brilliant.Friend.S01E05.The.Shoes.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── My.Brilliant.Friend.S01E05.The.Shoes.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── My.Brilliant.Friend.S01E05.The.Shoes.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── My.Brilliant.Friend.S01E06.The.Island.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── My.Brilliant.Friend.S01E06.The.Island.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── My.Brilliant.Friend.S01E06.The.Island.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── My.Brilliant.Friend.S01E06.The.Island.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── My.Brilliant.Friend.S01E06.The.Island.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── My.Brilliant.Friend.S01E07.The.Fiances.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── My.Brilliant.Friend.S01E07.The.Fiances.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── My.Brilliant.Friend.S01E07.The.Fiances.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── My.Brilliant.Friend.S01E07.The.Fiances.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── My.Brilliant.Friend.S01E07.The.Fiances.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── My.Brilliant.Friend.S01E08.The.Promise.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── My.Brilliant.Friend.S01E08.The.Promise.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── My.Brilliant.Friend.S01E08.The.Promise.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── My.Brilliant.Friend.S01E08.The.Promise.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── My.Brilliant.Friend.S01E08.The.Promise.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── RARBG.txt
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── My.Brilliant.Friend.S02E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── My.Brilliant.Friend.S02E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── My.Brilliant.Friend.S02E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── My.Brilliant.Friend.S02E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── My.Brilliant.Friend.S02E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── My.Brilliant.Friend.S02E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── My.Brilliant.Friend.S02E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── My.Brilliant.Friend.S02E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── My.Brilliant.Friend.S02E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── My.Brilliant.Friend.S02E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── My.Brilliant.Friend.S02E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── My.Brilliant.Friend.S02E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── My.Brilliant.Friend.S02E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── My.Brilliant.Friend.S02E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── My.Brilliant.Friend.S02E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── My.Brilliant.Friend.S02E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── My.Brilliant.Friend.S02E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── My.Brilliant.Friend.S02E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── My.Brilliant.Friend.S02E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── My.Brilliant.Friend.S02E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── My.Brilliant.Friend.S02E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── My.Brilliant.Friend.S02E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── My.Brilliant.Friend.S02E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── My.Brilliant.Friend.S02E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── My.Brilliant.Friend.S02E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── My.Brilliant.Friend.S02E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── My.Brilliant.Friend.S02E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── My.Brilliant.Friend.S02E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── My.Brilliant.Friend.S02E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── My.Brilliant.Friend.S02E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── My.Brilliant.Friend.S02E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── My.Brilliant.Friend.S02E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── My.Brilliant.Friend.S02E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── My.Brilliant.Friend.S02E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── My.Brilliant.Friend.S02E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── My.Brilliant.Friend.S02E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── My.Brilliant.Friend.S02E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── My.Brilliant.Friend.S02E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── My.Brilliant.Friend.S02E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── My.Brilliant.Friend.S02E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── RARBG.txt
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Narcos
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── Season1
+│   │   ├── Narcos.S01E01.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S01E01.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S01E01.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S01E02.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S01E02.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S01E02.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S01E03.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S01E03.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S01E03.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S01E04.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S01E04.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S01E04.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S01E05.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S01E05.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S01E05.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S01E06.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S01E06.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S01E06.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S01E07.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S01E07.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S01E07.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S01E08.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S01E08.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S01E08.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S01E09.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S01E09.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S01E09.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S01E10.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S01E10.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S01E10.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season2
+│   │   ├── Narcos.S02E01.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S02E01.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S02E01.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S02E02.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S02E02.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S02E02.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S02E03.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S02E03.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S02E03.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S02E04.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S02E04.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S02E04.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S02E05.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S02E05.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S02E05.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S02E06.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S02E06.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S02E06.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S02E07.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S02E07.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S02E07.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S02E08.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S02E08.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S02E08.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S02E09.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S02E09.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S02E09.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S02E10.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S02E10.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S02E10.2016.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season3
+│   │   ├── Narcos.S03E01.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S03E01.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S03E01.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S03E02.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S03E02.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S03E02.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S03E03.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S03E03.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S03E03.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S03E04.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S03E04.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S03E04.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S03E05.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S03E05.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S03E05.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S03E06.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S03E06.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S03E06.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S03E07.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S03E07.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S03E07.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S03E08.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S03E08.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S03E08.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S03E09.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S03E09.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S03E09.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.S03E10.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.S03E10.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.S03E10.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Narcos Mexico
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── Season01
+│   │   ├── Narcos.Mexico.S01E01.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD.mkv
+│   │   ├── Narcos.Mexico.S01E01.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD.nfo
+│   │   ├── Narcos.Mexico.S01E01.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD-thumb.jpg
+│   │   ├── Narcos.Mexico.S01E02.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD.mkv
+│   │   ├── Narcos.Mexico.S01E02.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD.nfo
+│   │   ├── Narcos.Mexico.S01E02.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD-thumb.jpg
+│   │   ├── Narcos.Mexico.S01E03.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD.mkv
+│   │   ├── Narcos.Mexico.S01E03.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD.nfo
+│   │   ├── Narcos.Mexico.S01E03.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD-thumb.jpg
+│   │   ├── Narcos.Mexico.S01E04.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD.mkv
+│   │   ├── Narcos.Mexico.S01E04.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD.nfo
+│   │   ├── Narcos.Mexico.S01E04.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD-thumb.jpg
+│   │   ├── Narcos.Mexico.S01E05.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD.mkv
+│   │   ├── Narcos.Mexico.S01E05.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD.nfo
+│   │   ├── Narcos.Mexico.S01E05.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD-thumb.jpg
+│   │   ├── Narcos.Mexico.S01E06.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD.mkv
+│   │   ├── Narcos.Mexico.S01E06.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD.nfo
+│   │   ├── Narcos.Mexico.S01E06.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD-thumb.jpg
+│   │   ├── Narcos.Mexico.S01E07.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD.mkv
+│   │   ├── Narcos.Mexico.S01E07.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD.nfo
+│   │   ├── Narcos.Mexico.S01E07.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD-thumb.jpg
+│   │   ├── Narcos.Mexico.S01E08.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD.mkv
+│   │   ├── Narcos.Mexico.S01E08.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD.nfo
+│   │   ├── Narcos.Mexico.S01E08.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD-thumb.jpg
+│   │   ├── Narcos.Mexico.S01E09.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD.mkv
+│   │   ├── Narcos.Mexico.S01E09.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD.nfo
+│   │   ├── Narcos.Mexico.S01E09.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD-thumb.jpg
+│   │   ├── Narcos.Mexico.S01E10.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD.mkv
+│   │   ├── Narcos.Mexico.S01E10.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD.nfo
+│   │   ├── Narcos.Mexico.S01E10.1080p.BluRay.DTS-HD.MA.5.1.x265.10bit-CHD-thumb.jpg
+│   │   └── season.nfo
+│   ├── season01-poster.jpg
+│   ├── Season02
+│   │   ├── Narcos.Mexico.S02E01.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.Mexico.S02E01.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.Mexico.S02E01.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.Mexico.S02E02.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.Mexico.S02E02.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.Mexico.S02E02.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.Mexico.S02E03.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.Mexico.S02E03.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.Mexico.S02E03.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.Mexico.S02E04.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.Mexico.S02E04.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.Mexico.S02E04.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.Mexico.S02E05.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.Mexico.S02E05.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.Mexico.S02E05.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.Mexico.S02E06.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.Mexico.S02E06.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.Mexico.S02E06.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.Mexico.S02E07.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.Mexico.S02E07.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.Mexico.S02E07.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.Mexico.S02E08.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.Mexico.S02E08.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.Mexico.S02E08.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.Mexico.S02E09.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.Mexico.S02E09.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.Mexico.S02E09.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Narcos.Mexico.S02E10.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS.mkv
+│   │   ├── Narcos.Mexico.S02E10.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS.nfo
+│   │   ├── Narcos.Mexico.S02E10.2020.1080p.WEB-DL.x265.AC3￡cXcY@FRDS-thumb.jpg
+│   │   └── season.nfo
+│   ├── season02-poster.jpg
+│   ├── Season03
+│   │   ├── Narcos.Mexico.S03E01.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV.mkv
+│   │   ├── Narcos.Mexico.S03E01.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV.nfo
+│   │   ├── Narcos.Mexico.S03E01.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV-thumb.jpg
+│   │   ├── Narcos.Mexico.S03E02.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV.mkv
+│   │   ├── Narcos.Mexico.S03E02.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV.nfo
+│   │   ├── Narcos.Mexico.S03E02.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV-thumb.jpg
+│   │   ├── Narcos.Mexico.S03E03.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV.mkv
+│   │   ├── Narcos.Mexico.S03E03.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV.nfo
+│   │   ├── Narcos.Mexico.S03E03.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV-thumb.jpg
+│   │   ├── Narcos.Mexico.S03E04.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV.mkv
+│   │   ├── Narcos.Mexico.S03E04.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV.nfo
+│   │   ├── Narcos.Mexico.S03E04.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV-thumb.jpg
+│   │   ├── Narcos.Mexico.S03E05.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV.mkv
+│   │   ├── Narcos.Mexico.S03E05.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV.nfo
+│   │   ├── Narcos.Mexico.S03E05.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV-thumb.jpg
+│   │   ├── Narcos.Mexico.S03E06.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV.mkv
+│   │   ├── Narcos.Mexico.S03E06.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV.nfo
+│   │   ├── Narcos.Mexico.S03E06.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV-thumb.jpg
+│   │   ├── Narcos.Mexico.S03E07.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV.mkv
+│   │   ├── Narcos.Mexico.S03E07.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV.nfo
+│   │   ├── Narcos.Mexico.S03E07.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV-thumb.jpg
+│   │   ├── Narcos.Mexico.S03E08.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV.mkv
+│   │   ├── Narcos.Mexico.S03E08.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV.nfo
+│   │   ├── Narcos.Mexico.S03E08.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV-thumb.jpg
+│   │   ├── Narcos.Mexico.S03E09.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV.mkv
+│   │   ├── Narcos.Mexico.S03E09.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV.nfo
+│   │   ├── Narcos.Mexico.S03E09.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV-thumb.jpg
+│   │   ├── Narcos.Mexico.S03E10.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV.mkv
+│   │   ├── Narcos.Mexico.S03E10.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV.nfo
+│   │   ├── Narcos.Mexico.S03E10.2021.Netflix.WEB-DL.1080p.HEVC.HDR.DDP-HDCTV-thumb.jpg
+│   │   └── season.nfo
+│   ├── season03-poster.jpg
+│   └── tvshow.nfo
+├── Orange is the New Black
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season06-poster.jpg
+│   ├── season07-poster.jpg
+│   ├── Season 1
+│   │   ├── orange.is.the.new.black.s01e01.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s01e01.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s01e01.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s01e01.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s01e01.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s01e01.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s01e02.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s01e02.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s01e02.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s01e02.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s01e02.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s01e02.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s01e03.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s01e03.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s01e03.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s01e03.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s01e03.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s01e03.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s01e04.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s01e04.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s01e04.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s01e04.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s01e04.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s01e04.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s01e05.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s01e05.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s01e05.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s01e05.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s01e05.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s01e05.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s01e06.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s01e06.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s01e06.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s01e06.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s01e06.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s01e07.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s01e07.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s01e07.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s01e07.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s01e07.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s01e08.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s01e08.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s01e08.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s01e08.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s01e08.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s01e09.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s01e09.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s01e09.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s01e09.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s01e09.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s01e10.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s01e10.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s01e10.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s01e10.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s01e10.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s01e11.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s01e11.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s01e11.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s01e11.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s01e11.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s01e11.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s01e12.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s01e12.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s01e12.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s01e12.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s01e12.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s01e13.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s01e13.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s01e13.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s01e13.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s01e13.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s01e13.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── season.nfo
+│   │   └── Subs
+│   │       ├── orange.is.the.new.black.s01e01.1080p.bluray.x264-rovers.idx
+│   │       ├── orange.is.the.new.black.s01e01.1080p.bluray.x264-rovers.sub
+│   │       ├── orange.is.the.new.black.s01e02.1080p.bluray.x264-rovers.idx
+│   │       ├── orange.is.the.new.black.s01e02.1080p.bluray.x264-rovers.sub
+│   │       ├── orange.is.the.new.black.s01e03.1080p.bluray.x264-rovers.idx
+│   │       ├── orange.is.the.new.black.s01e03.1080p.bluray.x264-rovers.sub
+│   │       ├── orange.is.the.new.black.s01e04.1080p.bluray.x264-rovers.idx
+│   │       ├── orange.is.the.new.black.s01e04.1080p.bluray.x264-rovers.sub
+│   │       ├── orange.is.the.new.black.s01e05.1080p.bluray.x264-rovers.idx
+│   │       ├── orange.is.the.new.black.s01e05.1080p.bluray.x264-rovers.sub
+│   │       ├── orange.is.the.new.black.s01e06.1080p.bluray.x264-rovers.idx
+│   │       ├── orange.is.the.new.black.s01e06.1080p.bluray.x264-rovers.sub
+│   │       ├── orange.is.the.new.black.s01e07.1080p.bluray.x264-rovers.idx
+│   │       ├── orange.is.the.new.black.s01e07.1080p.bluray.x264-rovers.sub
+│   │       ├── orange.is.the.new.black.s01e08.1080p.bluray.x264-rovers.idx
+│   │       ├── orange.is.the.new.black.s01e08.1080p.bluray.x264-rovers.sub
+│   │       ├── orange.is.the.new.black.s01e09.1080p.bluray.x264-rovers.idx
+│   │       ├── orange.is.the.new.black.s01e09.1080p.bluray.x264-rovers.sub
+│   │       ├── orange.is.the.new.black.s01e10.1080p.bluray.x264-rovers.idx
+│   │       ├── orange.is.the.new.black.s01e10.1080p.bluray.x264-rovers.sub
+│   │       ├── orange.is.the.new.black.s01e11.1080p.bluray.x264-rovers.idx
+│   │       ├── orange.is.the.new.black.s01e11.1080p.bluray.x264-rovers.sub
+│   │       ├── orange.is.the.new.black.s01e12.1080p.bluray.x264-rovers.idx
+│   │       ├── orange.is.the.new.black.s01e12.1080p.bluray.x264-rovers.sub
+│   │       ├── orange.is.the.new.black.s01e13.1080p.bluray.x264-rovers.idx
+│   │       ├── orange.is.the.new.black.s01e13.1080p.bluray.x264-rovers.sub
+│   │       └── SRT
+│   │           ├── Orange.is.the.New.Black.S01E01.1080p.bluray.x264-rovers.srt
+│   │           ├── Orange.is.the.New.Black.S01E02.1080p.bluray.x264-rovers.srt
+│   │           ├── Orange.is.the.New.Black.S01E03.1080p.bluray.x264-rovers.srt
+│   │           ├── Orange.is.the.New.Black.S01E04.1080p.bluray.x264-rovers.srt
+│   │           ├── Orange.is.the.New.Black.S01E05.1080p.bluray.x264-rovers.srt
+│   │           ├── Orange.is.the.New.Black.S01E06.1080p.bluray.x264-rovers.srt
+│   │           ├── Orange.is.the.New.Black.S01E07.1080p.bluray.x264-rovers.srt
+│   │           ├── Orange.is.the.New.Black.S01E08.1080p.bluray.x264-rovers.srt
+│   │           ├── Orange.is.the.New.Black.S01E09.1080p.bluray.x264-rovers.srt
+│   │           ├── Orange.is.the.New.Black.S01E10.1080p.bluray.x264-rovers.srt
+│   │           ├── Orange.is.the.New.Black.S01E11.1080p.bluray.x264-rovers.srt
+│   │           ├── Orange.is.the.New.Black.S01E12.1080p.bluray.x264-rovers.srt
+│   │           └── Orange.is.the.New.Black.S01E13.1080p.bluray.x264-rovers.srt
+│   ├── Season 2
+│   │   ├── orange.is.the.new.black.s02e01.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s02e01.1080p.bluray.x264-rovers.chs.default.srt
+│   │   ├── orange.is.the.new.black.s02e01.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s02e01.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s02e01.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s02e01.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s02e02.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s02e02.1080p.bluray.x264-rovers.chs.default.srt
+│   │   ├── orange.is.the.new.black.s02e02.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s02e02.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s02e02.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s02e02.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s02e03.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s02e03.1080p.bluray.x264-rovers.chs.default.srt
+│   │   ├── orange.is.the.new.black.s02e03.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s02e03.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s02e03.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s02e03.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s02e04.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s02e04.1080p.bluray.x264-rovers.chs.default.srt
+│   │   ├── orange.is.the.new.black.s02e04.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s02e04.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s02e04.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s02e05.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s02e05.1080p.bluray.x264-rovers.chs.default.srt
+│   │   ├── orange.is.the.new.black.s02e05.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s02e05.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s02e05.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s02e06.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s02e06.1080p.bluray.x264-rovers.chs.default.srt
+│   │   ├── orange.is.the.new.black.s02e06.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s02e06.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s02e06.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s02e06.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s02e07.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s02e07.1080p.bluray.x264-rovers.chs.default.srt
+│   │   ├── orange.is.the.new.black.s02e07.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s02e07.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s02e07.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s02e07.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s02e08.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s02e08.1080p.bluray.x264-rovers.chs.default.srt
+│   │   ├── orange.is.the.new.black.s02e08.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s02e08.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s02e08.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s02e08.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s02e09.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s02e09.1080p.bluray.x264-rovers.chs.default.srt
+│   │   ├── orange.is.the.new.black.s02e09.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s02e09.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s02e09.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s02e09.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s02e10.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s02e10.1080p.bluray.x264-rovers.chs.default.srt
+│   │   ├── orange.is.the.new.black.s02e10.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s02e10.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s02e10.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s02e11.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s02e11.1080p.bluray.x264-rovers.chs.default.srt
+│   │   ├── orange.is.the.new.black.s02e11.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s02e11.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s02e11.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s02e11.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s02e12.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s02e12.1080p.bluray.x264-rovers.chs.default.srt
+│   │   ├── orange.is.the.new.black.s02e12.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s02e12.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s02e12.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s02e12.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s02e13.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s02e13.1080p.bluray.x264-rovers.chs.default.srt
+│   │   ├── orange.is.the.new.black.s02e13.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s02e13.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s02e13.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s02e13.1080p.bluray.x264-rovers-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 3
+│   │   ├── orange.is.the.new.black.s03e01.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s03e01.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s03e01.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s03e01.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s03e01.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s03e01.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s03e02.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s03e02.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s03e02.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s03e02.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s03e02.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s03e02.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s03e03.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s03e03.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s03e03.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s03e03.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s03e03.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s03e03.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s03e04.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s03e04.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s03e04.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s03e04.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s03e04.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s03e04.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s03e05.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s03e05.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s03e05.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s03e05.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s03e05.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s03e05.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s03e06.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s03e06.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s03e06.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s03e06.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s03e06.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s03e06.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s03e07.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s03e07.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s03e07.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s03e07.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s03e07.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s03e07.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s03e08.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s03e08.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s03e08.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s03e08.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s03e08.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s03e09.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s03e09.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s03e09.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s03e09.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s03e09.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s03e09.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s03e10.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s03e10.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s03e10.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s03e10.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s03e10.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s03e10.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s03e11.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s03e11.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s03e11.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s03e11.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s03e11.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s03e12.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s03e12.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s03e12.1080p.bluray.x264-rovers.en.srt
+│   │   ├── orange.is.the.new.black.s03e12.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s03e12.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s03e12.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── orange.is.the.new.black.s03e13.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── orange.is.the.new.black.s03e13.1080p.bluray.x264-rovers.chs.default.ass
+│   │   ├── orange.is.the.new.black.s03e13.1080p.bluray.x264-rovers.mkv
+│   │   ├── orange.is.the.new.black.s03e13.1080p.bluray.x264-rovers.nfo
+│   │   ├── orange.is.the.new.black.s03e13.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── RARBG.com.txt
+│   │   └── season.nfo
+│   ├── Season 6
+│   │   ├── orange.is.the.new.black.s06e01.1080p.web.x264-strife-320-10.bif
+│   │   ├── orange.is.the.new.black.s06e01.1080p.web.x264-strife.mkv
+│   │   ├── orange.is.the.new.black.s06e01.1080p.web.x264-strife.nfo
+│   │   ├── orange.is.the.new.black.s06e01.1080p.web.x264-strife-thumb.jpg
+│   │   ├── orange.is.the.new.black.s06e03.1080p.web.x264-strife-320-10.bif
+│   │   ├── orange.is.the.new.black.s06e03.1080p.web.x264-strife.mkv
+│   │   ├── orange.is.the.new.black.s06e03.1080p.web.x264-strife.nfo
+│   │   ├── orange.is.the.new.black.s06e03.1080p.web.x264-strife-thumb.jpg
+│   │   ├── orange.is.the.new.black.s06e04.1080p.web.x264-strife-320-10.bif
+│   │   ├── orange.is.the.new.black.s06e04.1080p.web.x264-strife.mkv
+│   │   ├── orange.is.the.new.black.s06e04.1080p.web.x264-strife.nfo
+│   │   ├── orange.is.the.new.black.s06e04.1080p.web.x264-strife-thumb.jpg
+│   │   ├── Orange.Is.the.New.Black.S06E04.Im.The.Talking.Ass.2160p.NF.WEBRip.DDP5.1.x264-NTb-320-10.bif
+│   │   ├── Orange.Is.the.New.Black.S06E04.Im.The.Talking.Ass.2160p.NF.WEBRip.DDP5.1.x264-NTb.mkv
+│   │   ├── Orange.Is.the.New.Black.S06E04.Im.The.Talking.Ass.2160p.NF.WEBRip.DDP5.1.x264-NTb.nfo
+│   │   ├── orange.is.the.new.black.s06e05.1080p.web.x264-strife-320-10.bif
+│   │   ├── orange.is.the.new.black.s06e05.1080p.web.x264-strife.mkv
+│   │   ├── orange.is.the.new.black.s06e05.1080p.web.x264-strife.nfo
+│   │   ├── orange.is.the.new.black.s06e05.1080p.web.x264-strife-thumb.jpg
+│   │   ├── orange.is.the.new.black.s06e06.1080p.web.x264-strife-320-10.bif
+│   │   ├── orange.is.the.new.black.s06e06.1080p.web.x264-strife.mkv
+│   │   ├── orange.is.the.new.black.s06e06.1080p.web.x264-strife.nfo
+│   │   ├── orange.is.the.new.black.s06e06.1080p.web.x264-strife-thumb.jpg
+│   │   ├── orange.is.the.new.black.s06e07.1080p.web.x264-strife-320-10.bif
+│   │   ├── orange.is.the.new.black.s06e07.1080p.web.x264-strife.mkv
+│   │   ├── orange.is.the.new.black.s06e07.1080p.web.x264-strife.nfo
+│   │   ├── orange.is.the.new.black.s06e07.1080p.web.x264-strife-thumb.jpg
+│   │   ├── orange.is.the.new.black.s06e08.1080p.web.x264-strife-320-10.bif
+│   │   ├── orange.is.the.new.black.s06e08.1080p.web.x264-strife.mkv
+│   │   ├── orange.is.the.new.black.s06e08.1080p.web.x264-strife.nfo
+│   │   ├── orange.is.the.new.black.s06e08.1080p.web.x264-strife-thumb.jpg
+│   │   ├── orange.is.the.new.black.s06e09.1080p.web.x264-strife-320-10.bif
+│   │   ├── orange.is.the.new.black.s06e09.1080p.web.x264-strife.mkv
+│   │   ├── orange.is.the.new.black.s06e09.1080p.web.x264-strife.nfo
+│   │   ├── orange.is.the.new.black.s06e09.1080p.web.x264-strife-thumb.jpg
+│   │   ├── orange.is.the.new.black.s06e10.1080p.web.x264-strife-320-10.bif
+│   │   ├── orange.is.the.new.black.s06e10.1080p.web.x264-strife.mkv
+│   │   ├── orange.is.the.new.black.s06e10.1080p.web.x264-strife.nfo
+│   │   ├── orange.is.the.new.black.s06e10.1080p.web.x264-strife-thumb.jpg
+│   │   ├── orange.is.the.new.black.s06e11.1080p.web.x264-strife-320-10.bif
+│   │   ├── orange.is.the.new.black.s06e11.1080p.web.x264-strife.mkv
+│   │   ├── orange.is.the.new.black.s06e11.1080p.web.x264-strife.nfo
+│   │   ├── orange.is.the.new.black.s06e11.1080p.web.x264-strife-thumb.jpg
+│   │   ├── orange.is.the.new.black.s06e12.1080p.web.x264-strife-320-10.bif
+│   │   ├── orange.is.the.new.black.s06e12.1080p.web.x264-strife.mkv
+│   │   ├── orange.is.the.new.black.s06e12.1080p.web.x264-strife.nfo
+│   │   ├── orange.is.the.new.black.s06e12.1080p.web.x264-strife-thumb.jpg
+│   │   ├── orange.is.the.new.black.s06e13.1080p.web.x264-strife-320-10.bif
+│   │   ├── orange.is.the.new.black.s06e13.1080p.web.x264-strife.mkv
+│   │   ├── orange.is.the.new.black.s06e13.1080p.web.x264-strife.nfo
+│   │   ├── orange.is.the.new.black.s06e13.1080p.web.x264-strife-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 7
+│   │   ├── Orange.Is.the.New.Black.S07E01.Beginning.of.the.End.1080p.NF.WEB-DL.DDP5.1.x264-NTG-320-10.bif
+│   │   ├── Orange.Is.the.New.Black.S07E01.Beginning.of.the.End.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── Orange.Is.the.New.Black.S07E01.Beginning.of.the.End.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── Orange.Is.the.New.Black.S07E01.Beginning.of.the.End.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   ├── Orange.Is.the.New.Black.S07E02.Just.Desserts.1080p.NF.WEB-DL.DDP5.1.x264-NTG-320-10.bif
+│   │   ├── Orange.Is.the.New.Black.S07E02.Just.Desserts.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── Orange.Is.the.New.Black.S07E02.Just.Desserts.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── Orange.Is.the.New.Black.S07E02.Just.Desserts.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   ├── Orange.Is.the.New.Black.S07E03.And.Brown.Is.the.New.Orange.1080p.NF.WEB-DL.DDP5.1.x264-NTG-320-10.bif
+│   │   ├── Orange.Is.the.New.Black.S07E03.And.Brown.Is.the.New.Orange.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── Orange.Is.the.New.Black.S07E03.And.Brown.Is.the.New.Orange.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── Orange.Is.the.New.Black.S07E03.And.Brown.Is.the.New.Orange.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   ├── Orange.Is.the.New.Black.S07E04.How.to.Do.Life.1080p.NF.WEB-DL.DDP5.1.x264-NTG-320-10.bif
+│   │   ├── Orange.Is.the.New.Black.S07E04.How.to.Do.Life.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── Orange.Is.the.New.Black.S07E04.How.to.Do.Life.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── Orange.Is.the.New.Black.S07E04.How.to.Do.Life.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   ├── Orange.Is.the.New.Black.S07E05.Minority.Deport.1080p.NF.WEB-DL.DDP5.1.x264-NTG-320-10.bif
+│   │   ├── Orange.Is.the.New.Black.S07E05.Minority.Deport.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── Orange.Is.the.New.Black.S07E05.Minority.Deport.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── Orange.Is.the.New.Black.S07E05.Minority.Deport.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   ├── Orange.Is.the.New.Black.S07E06.Trapped.in.an.Elevator.1080p.NF.WEB-DL.DDP5.1.x264-NTG-320-10.bif
+│   │   ├── Orange.Is.the.New.Black.S07E06.Trapped.in.an.Elevator.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── Orange.Is.the.New.Black.S07E06.Trapped.in.an.Elevator.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── Orange.Is.the.New.Black.S07E06.Trapped.in.an.Elevator.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   ├── Orange.Is.the.New.Black.S07E07.Me.as.Well.1080p.NF.WEB-DL.DDP5.1.x264-NTG-320-10.bif
+│   │   ├── Orange.Is.the.New.Black.S07E07.Me.as.Well.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── Orange.Is.the.New.Black.S07E07.Me.as.Well.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── Orange.Is.the.New.Black.S07E07.Me.as.Well.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   ├── Orange.Is.the.New.Black.S07E08.Bakers.Dozen.1080p.NF.WEB-DL.DDP5.1.x264-NTG-320-10.bif
+│   │   ├── Orange.Is.the.New.Black.S07E08.Bakers.Dozen.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── Orange.Is.the.New.Black.S07E08.Bakers.Dozen.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── Orange.Is.the.New.Black.S07E08.Bakers.Dozen.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   ├── Orange.Is.the.New.Black.S07E09.The.Hidey.Hole.1080p.NF.WEB-DL.DDP5.1.x264-NTG-320-10.bif
+│   │   ├── Orange.Is.the.New.Black.S07E09.The.Hidey.Hole.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── Orange.Is.the.New.Black.S07E09.The.Hidey.Hole.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── Orange.Is.the.New.Black.S07E09.The.Hidey.Hole.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   ├── Orange.Is.the.New.Black.S07E10.The.Thirteenth.1080p.NF.WEB-DL.DDP5.1.x264-NTG-320-10.bif
+│   │   ├── Orange.Is.the.New.Black.S07E10.The.Thirteenth.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── Orange.Is.the.New.Black.S07E10.The.Thirteenth.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── Orange.Is.the.New.Black.S07E10.The.Thirteenth.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   ├── Orange.Is.the.New.Black.S07E11.God.Bless.America.1080p.NF.WEB-DL.DDP5.1.x264-NTG-320-10.bif
+│   │   ├── Orange.Is.the.New.Black.S07E11.God.Bless.America.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── Orange.Is.the.New.Black.S07E11.God.Bless.America.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── Orange.Is.the.New.Black.S07E11.God.Bless.America.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   ├── Orange.Is.the.New.Black.S07E12.The.Big.House.1080p.NF.WEB-DL.DDP5.1.x264-NTG-320-10.bif
+│   │   ├── Orange.Is.the.New.Black.S07E12.The.Big.House.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── Orange.Is.the.New.Black.S07E12.The.Big.House.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── Orange.Is.the.New.Black.S07E12.The.Big.House.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   ├── Orange.Is.the.New.Black.S07E13.Heres.Where.We.Get.Off.1080p.NF.WEB-DL.DDP5.1.x264-NTG-320-10.bif
+│   │   ├── Orange.Is.the.New.Black.S07E13.Heres.Where.We.Get.Off.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── Orange.Is.the.New.Black.S07E13.Heres.Where.We.Get.Off.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── Orange.Is.the.New.Black.S07E13.Heres.Where.We.Get.Off.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Peaky Blinders
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season04-poster.jpg
+│   ├── season05-poster.jpg
+│   ├── Season 1
+│   │   ├── peaky.blinders.s01e01.1080p.bluray.x264-shortbrehd-320-10.bif
+│   │   ├── peaky.blinders.s01e01.1080p.bluray.x264-shortbrehd.ass
+│   │   ├── peaky.blinders.s01e01.1080p.bluray.x264-shortbrehd.en.srt
+│   │   ├── peaky.blinders.s01e01.1080p.bluray.x264-shortbrehd.mkv
+│   │   ├── peaky.blinders.s01e01.1080p.bluray.x264-shortbrehd.nfo
+│   │   ├── peaky.blinders.s01e01.1080p.bluray.x264-shortbrehd-thumb.jpg
+│   │   ├── peaky.blinders.s01e01.1080p.bluray.x264-shortbrehd.zh-cn.srt
+│   │   ├── peaky.blinders.s01e02.1080p.bluray.x264-shortbrehd-320-10.bif
+│   │   ├── peaky.blinders.s01e02.1080p.bluray.x264-shortbrehd.ass
+│   │   ├── peaky.blinders.s01e02.1080p.bluray.x264-shortbrehd.en.srt
+│   │   ├── peaky.blinders.s01e02.1080p.bluray.x264-shortbrehd.mkv
+│   │   ├── peaky.blinders.s01e02.1080p.bluray.x264-shortbrehd.nfo
+│   │   ├── peaky.blinders.s01e02.1080p.bluray.x264-shortbrehd-thumb.jpg
+│   │   ├── peaky.blinders.s01e02.1080p.bluray.x264-shortbrehd.zh-cn.srt
+│   │   ├── peaky.blinders.s01e03.1080p.bluray.x264-shortbrehd-320-10.bif
+│   │   ├── peaky.blinders.s01e03.1080p.bluray.x264-shortbrehd.ass
+│   │   ├── peaky.blinders.s01e03.1080p.bluray.x264-shortbrehd.en.srt
+│   │   ├── peaky.blinders.s01e03.1080p.bluray.x264-shortbrehd.mkv
+│   │   ├── peaky.blinders.s01e03.1080p.bluray.x264-shortbrehd.nfo
+│   │   ├── peaky.blinders.s01e03.1080p.bluray.x264-shortbrehd-thumb.jpg
+│   │   ├── peaky.blinders.s01e04.1080p.bluray.x264-shortbrehd-320-10.bif
+│   │   ├── peaky.blinders.s01e04.1080p.bluray.x264-shortbrehd.ass
+│   │   ├── peaky.blinders.s01e04.1080p.bluray.x264-shortbrehd.en.srt
+│   │   ├── peaky.blinders.s01e04.1080p.bluray.x264-shortbrehd.mkv
+│   │   ├── peaky.blinders.s01e04.1080p.bluray.x264-shortbrehd.nfo
+│   │   ├── peaky.blinders.s01e04.1080p.bluray.x264-shortbrehd-thumb.jpg
+│   │   ├── peaky.blinders.s01e05.1080p.bluray.x264-shortbrehd-320-10.bif
+│   │   ├── peaky.blinders.s01e05.1080p.bluray.x264-shortbrehd.ass
+│   │   ├── peaky.blinders.s01e05.1080p.bluray.x264-shortbrehd.en.srt
+│   │   ├── peaky.blinders.s01e05.1080p.bluray.x264-shortbrehd.mkv
+│   │   ├── peaky.blinders.s01e05.1080p.bluray.x264-shortbrehd.nfo
+│   │   ├── peaky.blinders.s01e05.1080p.bluray.x264-shortbrehd-thumb.jpg
+│   │   ├── peaky.blinders.s01e06.1080p.bluray.x264-shortbrehd-320-10.bif
+│   │   ├── peaky.blinders.s01e06.1080p.bluray.x264-shortbrehd.ass
+│   │   ├── peaky.blinders.s01e06.1080p.bluray.x264-shortbrehd.en.srt
+│   │   ├── peaky.blinders.s01e06.1080p.bluray.x264-shortbrehd.mkv
+│   │   ├── peaky.blinders.s01e06.1080p.bluray.x264-shortbrehd.nfo
+│   │   ├── peaky.blinders.s01e06.1080p.bluray.x264-shortbrehd-thumb.jpg
+│   │   ├── RARBG.txt
+│   │   ├── season.nfo
+│   │   └── Subs
+│   │       ├── peaky.blinders.s01e01.1080p.bluray.x264-shortbrehd.idx
+│   │       ├── peaky.blinders.s01e01.1080p.bluray.x264-shortbrehd.sub
+│   │       ├── peaky.blinders.s01e02.1080p.bluray.x264-shortbrehd.idx
+│   │       ├── peaky.blinders.s01e02.1080p.bluray.x264-shortbrehd.sub
+│   │       ├── peaky.blinders.s01e03.1080p.bluray.x264-shortbrehd.idx
+│   │       ├── peaky.blinders.s01e03.1080p.bluray.x264-shortbrehd.sub
+│   │       ├── peaky.blinders.s01e04.1080p.bluray.x264-shortbrehd.idx
+│   │       ├── peaky.blinders.s01e04.1080p.bluray.x264-shortbrehd.sub
+│   │       ├── peaky.blinders.s01e05.1080p.bluray.x264-shortbrehd.idx
+│   │       ├── peaky.blinders.s01e05.1080p.bluray.x264-shortbrehd.sub
+│   │       ├── peaky.blinders.s01e06.1080p.bluray.x264-shortbrehd.idx
+│   │       └── peaky.blinders.s01e06.1080p.bluray.x264-shortbrehd.sub
+│   ├── Season 2
+│   │   ├── Peaky.Blinders.S02E01.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Peaky.Blinders.S02E01.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Peaky.Blinders.S02E01.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Peaky.Blinders.S02E01.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Peaky.Blinders.S02E01.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Peaky.Blinders.S02E01.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Peaky.Blinders.S02E02.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Peaky.Blinders.S02E02.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Peaky.Blinders.S02E02.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Peaky.Blinders.S02E02.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Peaky.Blinders.S02E02.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Peaky.Blinders.S02E02.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Peaky.Blinders.S02E03.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Peaky.Blinders.S02E03.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Peaky.Blinders.S02E03.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Peaky.Blinders.S02E03.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Peaky.Blinders.S02E03.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Peaky.Blinders.S02E03.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Peaky.Blinders.S02E04.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Peaky.Blinders.S02E04.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Peaky.Blinders.S02E04.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Peaky.Blinders.S02E04.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Peaky.Blinders.S02E04.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Peaky.Blinders.S02E04.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Peaky.Blinders.S02E05.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Peaky.Blinders.S02E05.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Peaky.Blinders.S02E05.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Peaky.Blinders.S02E05.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Peaky.Blinders.S02E05.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Peaky.Blinders.S02E05.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Peaky.Blinders.S02E06.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Peaky.Blinders.S02E06.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Peaky.Blinders.S02E06.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Peaky.Blinders.S02E06.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Peaky.Blinders.S02E06.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Peaky.Blinders.S02E06.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── RARBG.txt
+│   │   └── season.nfo
+│   ├── Season 3
+│   │   ├── Peaky.Blinders.S03E01.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Peaky.Blinders.S03E01.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Peaky.Blinders.S03E01.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Peaky.Blinders.S03E01.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Peaky.Blinders.S03E01.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Peaky.Blinders.S03E01.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Peaky.Blinders.S03E01.1080p.BluRay.x264-SHORTBREHD.zh-cn.srt
+│   │   ├── Peaky.Blinders.S03E02.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Peaky.Blinders.S03E02.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Peaky.Blinders.S03E02.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Peaky.Blinders.S03E02.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Peaky.Blinders.S03E02.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Peaky.Blinders.S03E02.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Peaky.Blinders.S03E03.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Peaky.Blinders.S03E03.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Peaky.Blinders.S03E03.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Peaky.Blinders.S03E03.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Peaky.Blinders.S03E03.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Peaky.Blinders.S03E03.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Peaky.Blinders.S03E04.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Peaky.Blinders.S03E04.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Peaky.Blinders.S03E04.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Peaky.Blinders.S03E04.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Peaky.Blinders.S03E04.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Peaky.Blinders.S03E04.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Peaky.Blinders.S03E05.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Peaky.Blinders.S03E05.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Peaky.Blinders.S03E05.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Peaky.Blinders.S03E05.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Peaky.Blinders.S03E05.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Peaky.Blinders.S03E05.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Peaky.Blinders.S03E06.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Peaky.Blinders.S03E06.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Peaky.Blinders.S03E06.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Peaky.Blinders.S03E06.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Peaky.Blinders.S03E06.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Peaky.Blinders.S03E06.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── RARBG.txt
+│   │   ├── season.nfo
+│   │   └── Subs
+│   │       ├── Peaky.Blinders.S03E01.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Peaky.Blinders.S03E01.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Peaky.Blinders.S03E02.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Peaky.Blinders.S03E02.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Peaky.Blinders.S03E03.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Peaky.Blinders.S03E03.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Peaky.Blinders.S03E04.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Peaky.Blinders.S03E04.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Peaky.Blinders.S03E05.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Peaky.Blinders.S03E05.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Peaky.Blinders.S03E06.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       └── Peaky.Blinders.S03E06.1080p.BluRay.x264-SHORTBREHD.sub
+│   ├── Season 4
+│   │   ├── Peaky.Blinders.S04E01.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Peaky.Blinders.S04E01.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Peaky.Blinders.S04E01.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Peaky.Blinders.S04E01.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Peaky.Blinders.S04E01.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Peaky.Blinders.S04E01.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Peaky.Blinders.S04E02.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Peaky.Blinders.S04E02.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Peaky.Blinders.S04E02.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Peaky.Blinders.S04E02.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Peaky.Blinders.S04E02.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Peaky.Blinders.S04E02.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Peaky.Blinders.S04E03.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Peaky.Blinders.S04E03.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Peaky.Blinders.S04E03.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Peaky.Blinders.S04E03.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Peaky.Blinders.S04E03.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Peaky.Blinders.S04E03.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Peaky.Blinders.S04E04.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Peaky.Blinders.S04E04.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Peaky.Blinders.S04E04.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Peaky.Blinders.S04E04.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Peaky.Blinders.S04E04.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Peaky.Blinders.S04E04.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Peaky.Blinders.S04E05.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Peaky.Blinders.S04E05.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Peaky.Blinders.S04E05.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Peaky.Blinders.S04E05.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Peaky.Blinders.S04E05.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Peaky.Blinders.S04E05.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Peaky.Blinders.S04E06.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Peaky.Blinders.S04E06.1080p.BluRay.x264-SHORTBREHD.ass
+│   │   ├── Peaky.Blinders.S04E06.1080p.BluRay.x264-SHORTBREHD.en.srt
+│   │   ├── Peaky.Blinders.S04E06.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Peaky.Blinders.S04E06.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Peaky.Blinders.S04E06.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── RARBG.txt
+│   │   ├── season.nfo
+│   │   └── Subs
+│   │       ├── Peaky.Blinders.S04E01.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Peaky.Blinders.S04E01.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Peaky.Blinders.S04E02.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Peaky.Blinders.S04E02.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Peaky.Blinders.S04E03.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Peaky.Blinders.S04E03.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Peaky.Blinders.S04E04.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Peaky.Blinders.S04E04.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Peaky.Blinders.S04E05.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       ├── Peaky.Blinders.S04E05.1080p.BluRay.x264-SHORTBREHD.sub
+│   │       ├── Peaky.Blinders.S04E06.1080p.BluRay.x264-SHORTBREHD.idx
+│   │       └── Peaky.Blinders.S04E06.1080p.BluRay.x264-SHORTBREHD.sub
+│   └── tvshow.nfo
+├── Psychoville
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── Season 0
+│   │   ├── Psychoville.S00E01.Halloween.Special.1080p.Blu-ray.AC3.x265.10bit-Yumi.mkv
+│   │   ├── Psychoville.S00E01.Halloween.Special.1080p.Blu-ray.AC3.x265.10bit-Yumi.nfo
+│   │   ├── Psychoville.S00E01.Halloween.Special.1080p.Blu-ray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   ├── season.nfo
+│   │   └── season-specials-poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── Season 1
+│   │   ├── Psychoville.S01E01.Black.Mail.1080p.Blu-ray.AC3.x265.10bit-Yumi.mkv
+│   │   ├── Psychoville.S01E01.Black.Mail.1080p.Blu-ray.AC3.x265.10bit-Yumi.nfo
+│   │   ├── Psychoville.S01E01.Black.Mail.1080p.Blu-ray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   ├── Psychoville.S01E02.Black.Mail.1080p.Blu-ray.AC3.x265.10bit-Yumi.mkv
+│   │   ├── Psychoville.S01E02.Black.Mail.1080p.Blu-ray.AC3.x265.10bit-Yumi.nfo
+│   │   ├── Psychoville.S01E02.Black.Mail.1080p.Blu-ray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   ├── Psychoville.S01E03.Black.Mail.1080p.Blu-ray.AC3.x265.10bit-Yumi.mkv
+│   │   ├── Psychoville.S01E03.Black.Mail.1080p.Blu-ray.AC3.x265.10bit-Yumi.nfo
+│   │   ├── Psychoville.S01E03.Black.Mail.1080p.Blu-ray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   ├── Psychoville.S01E04.Black.Mail.1080p.Blu-ray.AC3.x265.10bit-Yumi.mkv
+│   │   ├── Psychoville.S01E04.Black.Mail.1080p.Blu-ray.AC3.x265.10bit-Yumi.nfo
+│   │   ├── Psychoville.S01E04.Black.Mail.1080p.Blu-ray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   ├── Psychoville.S01E05.Black.Mail.1080p.Blu-ray.AC3.x265.10bit-Yumi.mkv
+│   │   ├── Psychoville.S01E05.Black.Mail.1080p.Blu-ray.AC3.x265.10bit-Yumi.nfo
+│   │   ├── Psychoville.S01E05.Black.Mail.1080p.Blu-ray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   ├── Psychoville.S01E06.Robert.1080p.Blu-ray.AC3.x265.10bit-Yumi.mkv
+│   │   ├── Psychoville.S01E06.Robert.1080p.Blu-ray.AC3.x265.10bit-Yumi.nfo
+│   │   ├── Psychoville.S01E06.Robert.1080p.Blu-ray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   ├── Psychoville.S01E07.Ravenhill.1080p.Blu-ray.AC3.x265.10bit-Yumi.mkv
+│   │   ├── Psychoville.S01E07.Ravenhill.1080p.Blu-ray.AC3.x265.10bit-Yumi.nfo
+│   │   ├── Psychoville.S01E07.Ravenhill.1080p.Blu-ray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   ├── season01-poster.jpg
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── Psychoville.S02E01.Survivors.1080p.Blu-ray.AC3.x265.10bit-Yumi.mkv
+│   │   ├── Psychoville.S02E01.Survivors.1080p.Blu-ray.AC3.x265.10bit-Yumi.nfo
+│   │   ├── Psychoville.S02E01.Survivors.1080p.Blu-ray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   ├── Psychoville.S02E02.Dinner.Party.1080p.Blu-ray.AC3.x265.10bit-Yumi.mkv
+│   │   ├── Psychoville.S02E02.Dinner.Party.1080p.Blu-ray.AC3.x265.10bit-Yumi.nfo
+│   │   ├── Psychoville.S02E02.Dinner.Party.1080p.Blu-ray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   ├── Psychoville.S02E03.Hancock.1080p.Blu-ray.AC3.x265.10bit-Yumi.mkv
+│   │   ├── Psychoville.S02E03.Hancock.1080p.Blu-ray.AC3.x265.10bit-Yumi.nfo
+│   │   ├── Psychoville.S02E03.Hancock.1080p.Blu-ray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   ├── Psychoville.S02E04.Sunnyvale.1080p.Blu-ray.AC3.x265.10bit-Yumi.mkv
+│   │   ├── Psychoville.S02E04.Sunnyvale.1080p.Blu-ray.AC3.x265.10bit-Yumi.nfo
+│   │   ├── Psychoville.S02E04.Sunnyvale.1080p.Blu-ray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   ├── Psychoville.S02E05.The.Hunt.1080p.Blu-ray.AC3.x265.10bit-Yumi.mkv
+│   │   ├── Psychoville.S02E05.The.Hunt.1080p.Blu-ray.AC3.x265.10bit-Yumi.nfo
+│   │   ├── Psychoville.S02E05.The.Hunt.1080p.Blu-ray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   ├── Psychoville.S02E06.Andrews.Nanotech.1080p.Blu-ray.AC3.x265.10bit-Yumi.mkv
+│   │   ├── Psychoville.S02E06.Andrews.Nanotech.1080p.Blu-ray.AC3.x265.10bit-Yumi.nfo
+│   │   ├── Psychoville.S02E06.Andrews.Nanotech.1080p.Blu-ray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   ├── season02-poster.jpg
+│   │   └── season.nfo
+│   ├── season-specials-poster.jpg
+│   └── tvshow.nfo
+├── Reset.S01.2022.2160p.WEB-DL.H265.DDP-TJUPT
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── Reset.S01E01.2022.2160p.WEB-DL.H265.DDP-TJUPT.mp4
+│   ├── Reset.S01E01.2022.2160p.WEB-DL.H265.DDP-TJUPT.nfo
+│   ├── Reset.S01E01.2022.2160p.WEB-DL.H265.DDP-TJUPT-thumb.jpg
+│   ├── Reset.S01E02.2022.2160p.WEB-DL.H265.DDP-TJUPT.mp4
+│   ├── Reset.S01E02.2022.2160p.WEB-DL.H265.DDP-TJUPT.nfo
+│   ├── Reset.S01E02.2022.2160p.WEB-DL.H265.DDP-TJUPT-thumb.jpg
+│   ├── Reset.S01E03.2022.2160p.WEB-DL.H265.DDP-TJUPT.mp4
+│   ├── Reset.S01E03.2022.2160p.WEB-DL.H265.DDP-TJUPT.nfo
+│   ├── Reset.S01E03.2022.2160p.WEB-DL.H265.DDP-TJUPT-thumb.jpg
+│   ├── Reset.S01E04.2022.2160p.WEB-DL.H265.DDP-TJUPT.mp4
+│   ├── Reset.S01E04.2022.2160p.WEB-DL.H265.DDP-TJUPT.nfo
+│   ├── Reset.S01E04.2022.2160p.WEB-DL.H265.DDP-TJUPT-thumb.jpg
+│   ├── Reset.S01E05.2022.2160p.WEB-DL.H265.DDP-TJUPT.mp4
+│   ├── Reset.S01E05.2022.2160p.WEB-DL.H265.DDP-TJUPT.nfo
+│   ├── Reset.S01E05.2022.2160p.WEB-DL.H265.DDP-TJUPT-thumb.jpg
+│   ├── Reset.S01E06.2022.2160p.WEB-DL.H265.DDP-TJUPT.mp4
+│   ├── Reset.S01E06.2022.2160p.WEB-DL.H265.DDP-TJUPT.nfo
+│   ├── Reset.S01E06.2022.2160p.WEB-DL.H265.DDP-TJUPT-thumb.jpg
+│   ├── Reset.S01E07.2022.2160p.WEB-DL.H265.DDP-TJUPT.mp4
+│   ├── Reset.S01E07.2022.2160p.WEB-DL.H265.DDP-TJUPT.nfo
+│   ├── Reset.S01E07.2022.2160p.WEB-DL.H265.DDP-TJUPT-thumb.jpg
+│   ├── Reset.S01E08.2022.2160p.WEB-DL.H265.DDP-TJUPT.mp4
+│   ├── Reset.S01E08.2022.2160p.WEB-DL.H265.DDP-TJUPT.nfo
+│   ├── Reset.S01E08.2022.2160p.WEB-DL.H265.DDP-TJUPT-thumb.jpg
+│   ├── Reset.S01E09.2022.2160p.WEB-DL.H265.DDP-TJUPT.mp4
+│   ├── Reset.S01E09.2022.2160p.WEB-DL.H265.DDP-TJUPT.nfo
+│   ├── Reset.S01E09.2022.2160p.WEB-DL.H265.DDP-TJUPT-thumb.jpg
+│   ├── Reset.S01E10.2022.2160p.WEB-DL.H265.DDP-TJUPT.mp4
+│   ├── Reset.S01E10.2022.2160p.WEB-DL.H265.DDP-TJUPT.nfo
+│   ├── Reset.S01E10.2022.2160p.WEB-DL.H265.DDP-TJUPT-thumb.jpg
+│   ├── Reset.S01E11.2022.2160p.WEB-DL.H265.DDP-TJUPT.mp4
+│   ├── Reset.S01E11.2022.2160p.WEB-DL.H265.DDP-TJUPT.nfo
+│   ├── Reset.S01E11.2022.2160p.WEB-DL.H265.DDP-TJUPT-thumb.jpg
+│   ├── Reset.S01E12.2022.2160p.WEB-DL.H265.DDP-TJUPT.mp4
+│   ├── Reset.S01E12.2022.2160p.WEB-DL.H265.DDP-TJUPT.nfo
+│   ├── Reset.S01E12.2022.2160p.WEB-DL.H265.DDP-TJUPT-thumb.jpg
+│   ├── Reset.S01E13.2022.2160p.WEB-DL.H265.DDP-TJUPT.mp4
+│   ├── Reset.S01E13.2022.2160p.WEB-DL.H265.DDP-TJUPT.nfo
+│   ├── Reset.S01E13.2022.2160p.WEB-DL.H265.DDP-TJUPT-thumb.jpg
+│   ├── Reset.S01E14.2022.2160p.WEB-DL.H265.DDP-TJUPT.mp4
+│   ├── Reset.S01E14.2022.2160p.WEB-DL.H265.DDP-TJUPT.nfo
+│   ├── Reset.S01E14.2022.2160p.WEB-DL.H265.DDP-TJUPT-thumb.jpg
+│   ├── Reset.S01E15.2022.2160p.WEB-DL.H265.DDP-TJUPT.mp4
+│   ├── Reset.S01E15.2022.2160p.WEB-DL.H265.DDP-TJUPT.nfo
+│   ├── Reset.S01E15.2022.2160p.WEB-DL.H265.DDP-TJUPT-thumb.jpg
+│   ├── Reset.S01E15.2022.2160p.WEB-DL.H265.DDP-TJUPT.zh-cn.ass
+│   ├── season01-poster.jpg
+│   └── tvshow.nfo
+├── Rick and Morty
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season04-poster.jpg
+│   ├── season05-poster.jpg
+│   ├── Season 1
+│   │   ├── Rick.and.Morty.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty_文档.txt
+│   │   ├── Rick.and.Morty.S01E01.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S01E01.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S01E01.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S01E02.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S01E02.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S01E02.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S01E03.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S01E03.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S01E03.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S01E04.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S01E04.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S01E04.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S01E05.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S01E05.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S01E05.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S01E06.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S01E06.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S01E06.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S01E07.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S01E07.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S01E07.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S01E08.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S01E08.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S01E08.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S01E09.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S01E09.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S01E09.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S01E10.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S01E10.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S01E10.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S01E11.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S01E11.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S01E11.2013.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── Rick.and.Morty.S02E01.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S02E01.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S02E01.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S02E02.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S02E02.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S02E02.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S02E03.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S02E03.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S02E03.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S02E04.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S02E04.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S02E04.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S02E05.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.jpg
+│   │   ├── Rick.and.Morty.S02E05.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S02E05.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S02E06.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S02E06.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S02E06.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S02E07.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S02E07.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S02E07.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S02E08.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S02E08.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S02E08.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S02E09.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S02E09.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S02E09.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S02E10.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S02E10.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S02E10.2015.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 3
+│   │   ├── Rick.and.Morty.S03E01.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S03E01.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S03E01.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S03E02.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S03E02.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S03E02.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S03E03.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S03E03.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S03E03.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S03E04.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S03E04.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S03E04.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S03E05.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S03E05.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S03E05.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S03E06.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S03E06.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S03E06.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S03E07.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S03E07.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S03E07.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S03E08.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S03E08.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S03E08.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S03E09.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S03E09.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S03E09.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S03E10.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S03E10.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S03E10.2017.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 4
+│   │   ├── Rick.and.Morty.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty_文档.txt
+│   │   ├── Rick.and.Morty.S04E01.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S04E01.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S04E01.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S04E02.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S04E02.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S04E02.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S04E03.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S04E03.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S04E03.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S04E04.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S04E04.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S04E04.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S04E05.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S04E05.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S04E05.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S04E06.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S04E06.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S04E06.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S04E07.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S04E07.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S04E07.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S04E08.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S04E08.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S04E08.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S04E09.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S04E09.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S04E09.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── Rick.and.Morty.S04E10.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── Rick.and.Morty.S04E10.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── Rick.and.Morty.S04E10.2019.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Sex Education
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── Season 1
+│   │   ├── RARBG.txt
+│   │   ├── season01-poster.jpg
+│   │   ├── season.nfo
+│   │   ├── Sex.Education.S01E01.2160p.WEBRip.X264-DEFLATE-320-10.bif
+│   │   ├── Sex.Education.S01E01.2160p.WEBRip.X264-DEFLATE.mkv
+│   │   ├── Sex.Education.S01E01.2160p.WEBRip.X264-DEFLATE.nfo
+│   │   ├── Sex.Education.S01E01.2160p.WEBRip.X264-DEFLATE-thumb.jpg
+│   │   ├── Sex.Education.S01E02.2160p.WEBRip.X264-DEFLATE-320-10.bif
+│   │   ├── Sex.Education.S01E02.2160p.WEBRip.X264-DEFLATE.mkv
+│   │   ├── Sex.Education.S01E02.2160p.WEBRip.X264-DEFLATE.nfo
+│   │   ├── Sex.Education.S01E02.2160p.WEBRip.X264-DEFLATE-thumb.jpg
+│   │   ├── Sex.Education.S01E03.2160p.WEBRip.X264-DEFLATE-320-10.bif
+│   │   ├── Sex.Education.S01E03.2160p.WEBRip.X264-DEFLATE.mkv
+│   │   ├── Sex.Education.S01E03.2160p.WEBRip.X264-DEFLATE.nfo
+│   │   ├── Sex.Education.S01E03.2160p.WEBRip.X264-DEFLATE-thumb.jpg
+│   │   ├── Sex.Education.S01E04.2160p.WEBRip.X264-DEFLATE-320-10.bif
+│   │   ├── Sex.Education.S01E04.2160p.WEBRip.X264-DEFLATE.mkv
+│   │   ├── Sex.Education.S01E04.2160p.WEBRip.X264-DEFLATE.nfo
+│   │   ├── Sex.Education.S01E04.2160p.WEBRip.X264-DEFLATE-thumb.jpg
+│   │   ├── Sex.Education.S01E05.2160p.WEBRip.X264-DEFLATE-320-10.bif
+│   │   ├── Sex.Education.S01E05.2160p.WEBRip.X264-DEFLATE.mkv
+│   │   ├── Sex.Education.S01E05.2160p.WEBRip.X264-DEFLATE.nfo
+│   │   ├── Sex.Education.S01E05.2160p.WEBRip.X264-DEFLATE-thumb.jpg
+│   │   ├── Sex.Education.S01E06.2160p.WEBRip.X264-DEFLATE-320-10.bif
+│   │   ├── Sex.Education.S01E06.2160p.WEBRip.X264-DEFLATE.mkv
+│   │   ├── Sex.Education.S01E06.2160p.WEBRip.X264-DEFLATE.nfo
+│   │   ├── Sex.Education.S01E06.2160p.WEBRip.X264-DEFLATE-thumb.jpg
+│   │   ├── Sex.Education.S01E07.2160p.WEBRip.X264-DEFLATE-320-10.bif
+│   │   ├── Sex.Education.S01E07.2160p.WEBRip.X264-DEFLATE.mkv
+│   │   ├── Sex.Education.S01E07.2160p.WEBRip.X264-DEFLATE.nfo
+│   │   ├── Sex.Education.S01E07.2160p.WEBRip.X264-DEFLATE-thumb.jpg
+│   │   ├── Sex.Education.S01E08.2160p.WEBRip.X264-DEFLATE-320-10.bif
+│   │   ├── Sex.Education.S01E08.2160p.WEBRip.X264-DEFLATE.mkv
+│   │   ├── Sex.Education.S01E08.2160p.WEBRip.X264-DEFLATE.nfo
+│   │   └── Sex.Education.S01E08.2160p.WEBRip.X264-DEFLATE-thumb.jpg
+│   ├── Season 2
+│   │   ├── RARBG.txt
+│   │   ├── season02-poster.jpg
+│   │   ├── season.nfo
+│   │   ├── Sex.Education.S02E01.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD-320-10.bif
+│   │   ├── Sex.Education.S02E01.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.ass
+│   │   ├── Sex.Education.S02E01.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.mkv
+│   │   ├── Sex.Education.S02E01.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.nfo
+│   │   ├── Sex.Education.S02E01.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD-thumb.jpg
+│   │   ├── Sex.Education.S02E02.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD-320-10.bif
+│   │   ├── Sex.Education.S02E02.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.ass
+│   │   ├── Sex.Education.S02E02.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.mkv
+│   │   ├── Sex.Education.S02E02.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.nfo
+│   │   ├── Sex.Education.S02E02.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD-thumb.jpg
+│   │   ├── Sex.Education.S02E03.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD-320-10.bif
+│   │   ├── Sex.Education.S02E03.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.mkv
+│   │   ├── Sex.Education.S02E03.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.nfo
+│   │   ├── Sex.Education.S02E03.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.srt
+│   │   ├── Sex.Education.S02E03.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD-thumb.jpg
+│   │   ├── Sex.Education.S02E04.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD-320-10.bif
+│   │   ├── Sex.Education.S02E04.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.ass
+│   │   ├── Sex.Education.S02E04.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.mkv
+│   │   ├── Sex.Education.S02E04.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.nfo
+│   │   ├── Sex.Education.S02E04.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD-thumb.jpg
+│   │   ├── Sex.Education.S02E05.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD-320-10.bif
+│   │   ├── Sex.Education.S02E05.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.ass
+│   │   ├── Sex.Education.S02E05.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.mkv
+│   │   ├── Sex.Education.S02E05.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.nfo
+│   │   ├── Sex.Education.S02E05.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD-thumb.jpg
+│   │   ├── Sex.Education.S02E06.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD-320-10.bif
+│   │   ├── Sex.Education.S02E06.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.ass
+│   │   ├── Sex.Education.S02E06.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.mkv
+│   │   ├── Sex.Education.S02E06.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.nfo
+│   │   ├── Sex.Education.S02E06.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD-thumb.jpg
+│   │   ├── Sex.Education.S02E07.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD-320-10.bif
+│   │   ├── Sex.Education.S02E07.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.ass
+│   │   ├── Sex.Education.S02E07.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.mkv
+│   │   ├── Sex.Education.S02E07.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.nfo
+│   │   ├── Sex.Education.S02E07.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD-thumb.jpg
+│   │   ├── Sex.Education.S02E08.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD-320-10.bif
+│   │   ├── Sex.Education.S02E08.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.ass
+│   │   ├── Sex.Education.S02E08.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.mkv
+│   │   ├── Sex.Education.S02E08.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD.nfo
+│   │   └── Sex.Education.S02E08.2160p.HDR.NF.WEBRip.DDP5.1.x265-TrollUHD-thumb.jpg
+│   ├── Season 3
+│   │   ├── season.nfo
+│   │   ├── Sex.Education.S03E01.Episode.1.1080p.NF.WEB-DL.DDP5.1.x264-AGLET.mkv
+│   │   ├── Sex.Education.S03E01.Episode.1.1080p.NF.WEB-DL.DDP5.1.x264-AGLET.nfo
+│   │   ├── Sex.Education.S03E01.Episode.1.1080p.NF.WEB-DL.DDP5.1.x264-AGLET-thumb.jpg
+│   │   ├── Sex.Education.S03E02.Episode.2.1080p.NF.WEB-DL.DDP5.1.x264-AGLET.mkv
+│   │   ├── Sex.Education.S03E02.Episode.2.1080p.NF.WEB-DL.DDP5.1.x264-AGLET.nfo
+│   │   ├── Sex.Education.S03E02.Episode.2.1080p.NF.WEB-DL.DDP5.1.x264-AGLET-thumb.jpg
+│   │   ├── Sex.Education.S03E03.Episode.3.1080p.NF.WEB-DL.DDP5.1.x264-AGLET.mkv
+│   │   ├── Sex.Education.S03E03.Episode.3.1080p.NF.WEB-DL.DDP5.1.x264-AGLET.nfo
+│   │   ├── Sex.Education.S03E03.Episode.3.1080p.NF.WEB-DL.DDP5.1.x264-AGLET-thumb.jpg
+│   │   ├── Sex.Education.S03E04.Episode.4.1080p.NF.WEB-DL.DDP5.1.x264-AGLET.mkv
+│   │   ├── Sex.Education.S03E04.Episode.4.1080p.NF.WEB-DL.DDP5.1.x264-AGLET.nfo
+│   │   ├── Sex.Education.S03E04.Episode.4.1080p.NF.WEB-DL.DDP5.1.x264-AGLET-thumb.jpg
+│   │   ├── Sex.Education.S03E05.Episode.5.1080p.NF.WEB-DL.DDP5.1.x264-AGLET.mkv
+│   │   ├── Sex.Education.S03E05.Episode.5.1080p.NF.WEB-DL.DDP5.1.x264-AGLET.nfo
+│   │   ├── Sex.Education.S03E05.Episode.5.1080p.NF.WEB-DL.DDP5.1.x264-AGLET-thumb.jpg
+│   │   ├── Sex.Education.S03E06.Episode.6.1080p.NF.WEB-DL.DDP5.1.x264-AGLET.mkv
+│   │   ├── Sex.Education.S03E06.Episode.6.1080p.NF.WEB-DL.DDP5.1.x264-AGLET.nfo
+│   │   ├── Sex.Education.S03E06.Episode.6.1080p.NF.WEB-DL.DDP5.1.x264-AGLET-thumb.jpg
+│   │   ├── Sex.Education.S03E07.Episode.7.1080p.NF.WEB-DL.DDP5.1.x264-AGLET.mkv
+│   │   ├── Sex.Education.S03E07.Episode.7.1080p.NF.WEB-DL.DDP5.1.x264-AGLET.nfo
+│   │   ├── Sex.Education.S03E07.Episode.7.1080p.NF.WEB-DL.DDP5.1.x264-AGLET-thumb.jpg
+│   │   ├── Sex.Education.S03E08.Episode.8.1080p.NF.WEB-DL.DDP5.1.x264-AGLET.mkv
+│   │   ├── Sex.Education.S03E08.Episode.8.1080p.NF.WEB-DL.DDP5.1.x264-AGLET.nfo
+│   │   └── Sex.Education.S03E08.Episode.8.1080p.NF.WEB-DL.DDP5.1.x264-AGLET-thumb.jpg
+│   └── tvshow.nfo
+├── Shameless
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season04-poster.jpg
+│   ├── season05-poster.jpg
+│   ├── season07-poster.jpg
+│   ├── season09-poster.jpg
+│   ├── Season 1
+│   │   ├── clearlogo.png
+│   │   ├── fanart.jpg
+│   │   ├── poster.jpg
+│   │   ├── RARBG.com.txt
+│   │   ├── season01-poster.jpg
+│   │   ├── season.nfo
+│   │   ├── Shameless.US.S01.1080p.BluRay.X264-UNTOUCHABLES.nfo
+│   │   ├── tvshow.nfo
+│   │   ├── untouchables-shameless.us.s01e01.1080p.1080p.ass
+│   │   ├── untouchables-shameless.us.s01e01.1080p-320-10.bif
+│   │   ├── untouchables-shameless.us.s01e01.1080p.mkv
+│   │   ├── untouchables-shameless.us.s01e01.1080p.nfo
+│   │   ├── untouchables-shameless.us.s01e01.1080p-thumb.jpg
+│   │   ├── untouchables-shameless.us.s01e02.1080p.1080p.ass
+│   │   ├── untouchables-shameless.us.s01e02.1080p-320-10.bif
+│   │   ├── untouchables-shameless.us.s01e02.1080p.mkv
+│   │   ├── untouchables-shameless.us.s01e02.1080p.nfo
+│   │   ├── untouchables-shameless.us.s01e02.1080p-thumb.jpg
+│   │   ├── untouchables-shameless.us.s01e03.1080p.1080p.ass
+│   │   ├── untouchables-shameless.us.s01e03.1080p-320-10.bif
+│   │   ├── untouchables-shameless.us.s01e03.1080p.mkv
+│   │   ├── untouchables-shameless.us.s01e03.1080p.nfo
+│   │   ├── untouchables-shameless.us.s01e03.1080p-thumb.jpg
+│   │   ├── untouchables-shameless.us.s01e04.1080p.1080p.ass
+│   │   ├── untouchables-shameless.us.s01e04.1080p-320-10.bif
+│   │   ├── untouchables-shameless.us.s01e04.1080p.mkv
+│   │   ├── untouchables-shameless.us.s01e04.1080p.nfo
+│   │   ├── untouchables-shameless.us.s01e04.1080p-thumb.jpg
+│   │   ├── untouchables-shameless.us.s01e05.1080p.1080p.ass
+│   │   ├── untouchables-shameless.us.s01e05.1080p-320-10.bif
+│   │   ├── untouchables-shameless.us.s01e05.1080p.mkv
+│   │   ├── untouchables-shameless.us.s01e05.1080p.nfo
+│   │   ├── untouchables-shameless.us.s01e05.1080p-thumb.jpg
+│   │   ├── untouchables-shameless.us.s01e06.1080p.1080p.ass
+│   │   ├── untouchables-shameless.us.s01e06.1080p-320-10.bif
+│   │   ├── untouchables-shameless.us.s01e06.1080p.mkv
+│   │   ├── untouchables-shameless.us.s01e06.1080p.nfo
+│   │   ├── untouchables-shameless.us.s01e06.1080p-thumb.jpg
+│   │   ├── untouchables-shameless.us.s01e07.1080p.1080p.ass
+│   │   ├── untouchables-shameless.us.s01e07.1080p-320-10.bif
+│   │   ├── untouchables-shameless.us.s01e07.1080p.mkv
+│   │   ├── untouchables-shameless.us.s01e07.1080p.nfo
+│   │   ├── untouchables-shameless.us.s01e07.1080p-thumb.jpg
+│   │   ├── untouchables-shameless.us.s01e08.1080p.1080p.ass
+│   │   ├── untouchables-shameless.us.s01e08.1080p-320-10.bif
+│   │   ├── untouchables-shameless.us.s01e08.1080p.mkv
+│   │   ├── untouchables-shameless.us.s01e08.1080p.nfo
+│   │   ├── untouchables-shameless.us.s01e08.1080p-thumb.jpg
+│   │   ├── untouchables-shameless.us.s01e09.1080p.1080p.ass
+│   │   ├── untouchables-shameless.us.s01e09.1080p-320-10.bif
+│   │   ├── untouchables-shameless.us.s01e09.1080p.mkv
+│   │   ├── untouchables-shameless.us.s01e09.1080p.nfo
+│   │   ├── untouchables-shameless.us.s01e09.1080p-thumb.jpg
+│   │   ├── untouchables-shameless.us.s01e10.1080p.1080p.ass
+│   │   ├── untouchables-shameless.us.s01e10.1080p-320-10.bif
+│   │   ├── untouchables-shameless.us.s01e10.1080p.mkv
+│   │   ├── untouchables-shameless.us.s01e10.1080p.nfo
+│   │   ├── untouchables-shameless.us.s01e10.1080p-thumb.jpg
+│   │   ├── untouchables-shameless.us.s01e11.1080p.1080p.ass
+│   │   ├── untouchables-shameless.us.s01e11.1080p-320-10.bif
+│   │   ├── untouchables-shameless.us.s01e11.1080p.mkv
+│   │   ├── untouchables-shameless.us.s01e11.1080p.nfo
+│   │   ├── untouchables-shameless.us.s01e11.1080p-thumb.jpg
+│   │   ├── untouchables-shameless.us.s01e12.1080p.1080p.ass
+│   │   ├── untouchables-shameless.us.s01e12.1080p-320-10.bif
+│   │   ├── untouchables-shameless.us.s01e12.1080p.mkv
+│   │   ├── untouchables-shameless.us.s01e12.1080p.nfo
+│   │   └── untouchables-shameless.us.s01e12.1080p-thumb.jpg
+│   ├── Season 10
+│   │   ├── clearlogo.png
+│   │   ├── fanart.jpg
+│   │   ├── landscape.jpg
+│   │   ├── poster.jpg
+│   │   ├── RARBG.txt
+│   │   ├── season10-poster.jpg
+│   │   ├── season.nfo
+│   │   ├── Shameless.US.S10E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── Shameless.US.S10E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.H.264-NTb.srt
+│   │   ├── Shameless.US.S10E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Shameless.US.S10E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Shameless.US.S10E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Shameless.US.S10E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── Shameless.US.S10E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.H.264-NTb.srt
+│   │   ├── Shameless.US.S10E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Shameless.US.S10E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Shameless.US.S10E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Shameless.US.S10E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── Shameless.US.S10E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.H.264-NTb.srt
+│   │   ├── Shameless.US.S10E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Shameless.US.S10E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Shameless.US.S10E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Shameless.US.S10E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── Shameless.US.S10E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.H.264-NTb.srt
+│   │   ├── Shameless.US.S10E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Shameless.US.S10E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Shameless.US.S10E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Shameless.US.S10E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── Shameless.US.S10E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.H.264-NTb.srt
+│   │   ├── Shameless.US.S10E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Shameless.US.S10E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Shameless.US.S10E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Shameless.US.S10E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── Shameless.US.S10E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.H.264-NTb.srt
+│   │   ├── Shameless.US.S10E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Shameless.US.S10E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Shameless.US.S10E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Shameless.US.S10E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── Shameless.US.S10E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.H.264-NTb.srt
+│   │   ├── Shameless.US.S10E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Shameless.US.S10E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Shameless.US.S10E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Shameless.US.S10E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── Shameless.US.S10E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.H.264-NTb.srt
+│   │   ├── Shameless.US.S10E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Shameless.US.S10E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Shameless.US.S10E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Shameless.US.S10E09.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── Shameless.US.S10E09.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.H.264-NTb.srt
+│   │   ├── Shameless.US.S10E09.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Shameless.US.S10E09.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Shameless.US.S10E09.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Shameless.US.S10E10.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── Shameless.US.S10E10.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.H.264-NTb.srt
+│   │   ├── Shameless.US.S10E10.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Shameless.US.S10E10.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Shameless.US.S10E10.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Shameless.US.S10E11.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── Shameless.US.S10E11.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.H.264-NTb.srt
+│   │   ├── Shameless.US.S10E11.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Shameless.US.S10E11.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Shameless.US.S10E11.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Shameless.US.S10E12.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── Shameless.US.S10E12.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.H.264-NTb.srt
+│   │   ├── Shameless.US.S10E12.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── Shameless.US.S10E12.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── Shameless.US.S10E12.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   └── tvshow.nfo
+│   ├── Season 11
+│   │   ├── clearlogo.png
+│   │   ├── fanart.jpg
+│   │   ├── landscape.jpg
+│   │   ├── poster.jpg
+│   │   ├── season11-poster.jpg
+│   │   ├── season.nfo
+│   │   ├── Shameless.US.S11E01.This.is.Chicago.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]
+│   │   │   ├── RARBG_DO_NOT_MIRROR.exe
+│   │   │   ├── RARBG.txt
+│   │   │   ├── Shameless.US.S11E01.This.is.Chicago.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   │   ├── Shameless.US.S11E01.This.is.Chicago.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   │   ├── Shameless.US.S11E01.This.is.Chicago.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   │   ├── Shameless.US.S11E01.This.is.Chicago.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   │   └── Shameless.US.S11E01.This.is.Chicago.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Shameless.US.S11E02.Go.Home.Gentrifier.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[eztv.re]
+│   │   │   ├── Shameless.US.S11E02.Go.Home.Gentrifier.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[eztv.re]-320-10.bif
+│   │   │   ├── Shameless.US.S11E02.Go.Home.Gentrifier.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[eztv.re].ass
+│   │   │   ├── Shameless.US.S11E02.Go.Home.Gentrifier.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[eztv.re].mkv
+│   │   │   ├── Shameless.US.S11E02.Go.Home.Gentrifier.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[eztv.re].nfo
+│   │   │   └── Shameless.US.S11E02.Go.Home.Gentrifier.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[eztv.re]-thumb.jpg
+│   │   ├── Shameless.US.S11E03.Shameless.Frances.Francis.Franny.Frank.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rarbg]
+│   │   │   ├── RARBG_DO_NOT_MIRROR.exe
+│   │   │   ├── RARBG.txt
+│   │   │   ├── Shameless.US.S11E03.Shameless.Frances.Francis.Franny.Frank.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   │   ├── Shameless.US.S11E03.Shameless.Frances.Francis.Franny.Frank.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   │   ├── Shameless.US.S11E03.Shameless.Frances.Francis.Franny.Frank.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   │   ├── Shameless.US.S11E03.Shameless.Frances.Francis.Franny.Frank.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   │   └── Shameless.US.S11E03.Shameless.Frances.Francis.Franny.Frank.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Shameless.US.S11E04.1080p.WEB.H264-GGEZ[TGx]
+│   │   │   ├── shameless.us.s11e04.1080p.web.h264-ggez-320-10.bif
+│   │   │   ├── shameless.us.s11e04.1080p.web.h264-ggez.mkv
+│   │   │   ├── shameless.us.s11e04.1080p.web.h264-ggez.nfo
+│   │   │   ├── shameless.us.s11e04.1080p.web.h264-ggez.srt
+│   │   │   ├── shameless.us.s11e04.1080p.web.h264-ggez-thumb.jpg
+│   │   │   └── [TGx]Downloaded from torrentgalaxy.to .txt
+│   │   ├── Shameless.US.S11E05.Slaughter.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]
+│   │   │   ├── Shameless.US.S11E05.Slaughter.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   │   ├── Shameless.US.S11E05.Slaughter.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   │   ├── Shameless.US.S11E05.Slaughter.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   │   ├── Shameless.US.S11E05.Slaughter.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.srt
+│   │   │   ├── Shameless.US.S11E05.Slaughter.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   │   └── [TGx]Downloaded from torrentgalaxy.to .txt
+│   │   ├── Shameless.US.S11E06.1080p.WEB.H264-GGEZ[TGx]
+│   │   │   ├── Shameless.US.S11E06.1080p.WEB.H264-GGEZ-NHI-320-10.bif
+│   │   │   ├── Shameless.US.S11E06.1080p.WEB.H264-GGEZ-NHI.mkv
+│   │   │   ├── Shameless.US.S11E06.1080p.WEB.H264-GGEZ-NHI.nfo
+│   │   │   ├── Shameless.US.S11E06.1080p.WEB.H264-GGEZ-NHI.srt
+│   │   │   ├── Shameless.US.S11E06.1080p.WEB.H264-GGEZ-NHI-thumb.jpg
+│   │   │   └── [TGx]Downloaded from torrentgalaxy.to .txt
+│   │   ├── Shameless.US.S11E07.Two.at.a.Biker.Bar.One.in.the.Lake.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]
+│   │   │   ├── poster.jpg
+│   │   │   ├── Shameless.US.S11E07.Two.at.a.Biker.Bar.One.in.the.Lake.1080p.jpg
+│   │   │   ├── Shameless.US.S11E07.Two.at.a.Biker.Bar.One.in.the.Lake.1080p.mkv
+│   │   │   ├── Shameless.US.S11E07.Two.at.a.Biker.Bar.One.in.the.Lake.1080p.nfo
+│   │   │   ├── Shameless.US.S11E07.Two.at.a.Biker.Bar.One.in.the.Lake.1080p.zh.default.srt
+│   │   │   └── [TGx]Downloaded from torrentgalaxy.to .txt
+│   │   ├── Shameless.US.S11E08.Cancelled.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]
+│   │   │   ├── Shameless.US.S11E08.Cancelled.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   │   ├── Shameless.US.S11E08.Cancelled.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   │   ├── Shameless.US.S11E08.Cancelled.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   │   ├── Shameless.US.S11E08.Cancelled.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.zh.default.srt
+│   │   │   └── [TGx]Downloaded from torrentgalaxy.to .txt
+│   │   ├── Shameless.US.S11E09.1080p.WEB.H264-GGWP[rarbg]
+│   │   │   ├── RARBG_DO_NOT_MIRROR.exe
+│   │   │   ├── RARBG.txt
+│   │   │   ├── shameless.us.s11e09.1080p.web.h264-ggwp.mkv
+│   │   │   ├── shameless.us.s11e09.1080p.web.h264-ggwp.nfo
+│   │   │   ├── shameless.us.s11e09.1080p.web.h264-ggwp-thumb.jpg
+│   │   │   └── shameless.us.s11e09.1080p.web.h264-ggwp.zh.default.ass
+│   │   ├── Shameless.US.S11E10.DNR.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]
+│   │   │   ├── Shameless.US.S11E10.DNR.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   │   ├── Shameless.US.S11E10.DNR.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   │   ├── Shameless.US.S11E10.DNR.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   │   ├── Shameless.US.S11E10.DNR.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.zh.default.ass
+│   │   │   └── [TGx]Downloaded from torrentgalaxy.to .txt
+│   │   ├── Shameless.US.S11E11.The.Fickle.Lady.is.Calling.it.Quits.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]
+│   │   │   ├── Shameless.US.S11E11.The.Fickle.Lady.is.Calling.it.Quits.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   │   ├── Shameless.US.S11E11.The.Fickle.Lady.is.Calling.it.Quits.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.Chs&Eng.default.ass
+│   │   │   ├── Shameless.US.S11E11.The.Fickle.Lady.is.Calling.it.Quits.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   │   ├── Shameless.US.S11E11.The.Fickle.Lady.is.Calling.it.Quits.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   │   └── Shameless.US.S11E11.The.Fickle.Lady.is.Calling.it.Quits.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── Shameless.US.S11E12.Father.Frank.Full.of.Grace.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[TGx]
+│   │   │   ├── Shameless.US.S11E12.Father.Frank.Full.of.Grace.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.Chs&Eng.default.ass
+│   │   │   ├── Shameless.US.S11E12.Father.Frank.Full.of.Grace.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   │   ├── Shameless.US.S11E12.Father.Frank.Full.of.Grace.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   │   └── Shameless.US.S11E12.Father.Frank.Full.of.Grace.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   └── tvshow.nfo
+│   ├── Season 2
+│   │   ├── clearlogo.png
+│   │   ├── fanart.jpg
+│   │   ├── RARBG.com.txt
+│   │   ├── season02-poster.jpg
+│   │   ├── season.nfo
+│   │   ├── Shameless.US.S02.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── shameless.us.s02e01.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s02e01.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s02e01.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s02e01.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s02e01.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s02e02.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s02e02.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s02e02.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s02e02.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s02e02.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s02e03.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s02e03.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s02e03.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s02e03.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s02e03.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s02e04.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s02e04.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s02e04.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s02e04.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s02e04.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s02e05.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s02e05.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s02e05.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s02e05.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s02e05.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s02e06.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s02e06.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s02e06.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s02e06.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s02e06.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s02e07.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s02e07.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s02e07.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s02e07.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s02e07.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s02e08.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s02e09.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s02e09.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s02e09.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s02e09.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s02e09.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s02e10.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s02e10.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s02e10.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s02e10.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s02e10.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s02e11.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s02e11.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s02e11.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s02e11.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s02e11.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s02e12.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s02e12.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s02e12.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s02e12.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s02e12.1080p.bluray.x264-rovers-thumb.jpg
+│   │   └── tvshow.nfo
+│   ├── Season 3
+│   │   ├── clearlogo.png
+│   │   ├── fanart.jpg
+│   │   ├── poster.jpg
+│   │   ├── RARBG.com.txt
+│   │   ├── season03-poster.jpg
+│   │   ├── season.nfo
+│   │   ├── Shameless.US.S03.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── shameless.us.s03e01.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s03e01.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s03e01.1080p.bluray.x264-rovers.en.srt
+│   │   ├── shameless.us.s03e01.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s03e01.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s03e01.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s03e02.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s03e02.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s03e02.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s03e02.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s03e02.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s03e03.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s03e03.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s03e03.1080p.bluray.x264-rovers.en.srt
+│   │   ├── shameless.us.s03e03.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s03e03.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s03e03.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s03e04.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s03e04.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s03e04.1080p.bluray.x264-rovers.en.srt
+│   │   ├── shameless.us.s03e04.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s03e04.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s03e04.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s03e05.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s03e05.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s03e05.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s03e05.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s03e05.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s03e06.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s03e06.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s03e06.1080p.bluray.x264-rovers.en.srt
+│   │   ├── shameless.us.s03e06.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s03e06.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s03e06.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s03e07.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s03e07.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s03e07.1080p.bluray.x264-rovers.en.srt
+│   │   ├── shameless.us.s03e07.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s03e07.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s03e07.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s03e08.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s03e08.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s03e08.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s03e08.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s03e08.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s03e09.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s03e09.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s03e09.1080p.bluray.x264-rovers.en.srt
+│   │   ├── shameless.us.s03e09.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s03e09.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s03e09.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s03e10.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s03e10.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s03e10.1080p.bluray.x264-rovers.en.srt
+│   │   ├── shameless.us.s03e10.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s03e10.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s03e10.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s03e11.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s03e11.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s03e11.1080p.bluray.x264-rovers.en.srt
+│   │   ├── shameless.us.s03e11.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s03e11.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s03e11.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s03e12.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s03e12.1080p.bluray.x264-rovers.ass
+│   │   ├── shameless.us.s03e12.1080p.bluray.x264-rovers.en.srt
+│   │   ├── shameless.us.s03e12.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s03e12.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s03e12.1080p.bluray.x264-rovers-thumb.jpg
+│   │   └── tvshow.nfo
+│   ├── Season 4
+│   │   ├── RARBG.com.txt
+│   │   ├── season04-poster.jpg
+│   │   ├── season.nfo
+│   │   ├── Shameless.US.S04.1080p.BluRay.X264-GHOULS.nfo
+│   │   ├── Shameless.US.S04E01.1080p.BluRay.X264-GHOULS-320-10.bif
+│   │   ├── Shameless.US.S04E01.1080p.BluRay.X264-GHOULS.default.ass
+│   │   ├── Shameless.US.S04E01.1080p.BluRay.X264-GHOULS.mkv
+│   │   ├── Shameless.US.S04E01.1080p.BluRay.X264-GHOULS.nfo
+│   │   ├── Shameless.US.S04E01.1080p.BluRay.X264-GHOULS-thumb.jpg
+│   │   ├── Shameless.US.S04E02.1080p.BluRay.X264-GHOULS-320-10.bif
+│   │   ├── Shameless.US.S04E02.1080p.BluRay.X264-GHOULS.default.ass
+│   │   ├── Shameless.US.S04E02.1080p.BluRay.X264-GHOULS.mkv
+│   │   ├── Shameless.US.S04E02.1080p.BluRay.X264-GHOULS.nfo
+│   │   ├── Shameless.US.S04E02.1080p.BluRay.X264-GHOULS-thumb.jpg
+│   │   ├── Shameless.US.S04E03.1080p.BluRay.X264-GHOULS-320-10.bif
+│   │   ├── Shameless.US.S04E03.1080p.BluRay.X264-GHOULS.default.ass
+│   │   ├── Shameless.US.S04E03.1080p.BluRay.X264-GHOULS.mkv
+│   │   ├── Shameless.US.S04E03.1080p.BluRay.X264-GHOULS.nfo
+│   │   ├── Shameless.US.S04E03.1080p.BluRay.X264-GHOULS-thumb.jpg
+│   │   ├── Shameless.US.S04E04.1080p.BluRay.X264-GHOULS-320-10.bif
+│   │   ├── Shameless.US.S04E04.1080p.BluRay.X264-GHOULS.default.ass
+│   │   ├── Shameless.US.S04E04.1080p.BluRay.X264-GHOULS.mkv
+│   │   ├── Shameless.US.S04E04.1080p.BluRay.X264-GHOULS.nfo
+│   │   ├── Shameless.US.S04E04.1080p.BluRay.X264-GHOULS-thumb.jpg
+│   │   ├── Shameless.US.S04E05.1080p.BluRay.X264-GHOULS-320-10.bif
+│   │   ├── Shameless.US.S04E05.1080p.BluRay.X264-GHOULS.default.ass
+│   │   ├── Shameless.US.S04E05.1080p.BluRay.X264-GHOULS.mkv
+│   │   ├── Shameless.US.S04E05.1080p.BluRay.X264-GHOULS.nfo
+│   │   ├── Shameless.US.S04E05.1080p.BluRay.X264-GHOULS-thumb.jpg
+│   │   ├── Shameless.US.S04E06.1080p.BluRay.X264-GHOULS-320-10.bif
+│   │   ├── Shameless.US.S04E06.1080p.BluRay.X264-GHOULS.default.ass
+│   │   ├── Shameless.US.S04E06.1080p.BluRay.X264-GHOULS.mkv
+│   │   ├── Shameless.US.S04E06.1080p.BluRay.X264-GHOULS.nfo
+│   │   ├── Shameless.US.S04E06.1080p.BluRay.X264-GHOULS-thumb.jpg
+│   │   ├── Shameless.US.S04E07.1080p.BluRay.X264-GHOULS-320-10.bif
+│   │   ├── Shameless.US.S04E07.1080p.BluRay.X264-GHOULS.default.ass
+│   │   ├── Shameless.US.S04E07.1080p.BluRay.X264-GHOULS.mkv
+│   │   ├── Shameless.US.S04E07.1080p.BluRay.X264-GHOULS.nfo
+│   │   ├── Shameless.US.S04E07.1080p.BluRay.X264-GHOULS-thumb.jpg
+│   │   ├── Shameless.US.S04E08.1080p.BluRay.X264-GHOULS-320-10.bif
+│   │   ├── Shameless.US.S04E08.1080p.BluRay.X264-GHOULS.default.ass
+│   │   ├── Shameless.US.S04E08.1080p.BluRay.X264-GHOULS.mkv
+│   │   ├── Shameless.US.S04E08.1080p.BluRay.X264-GHOULS.nfo
+│   │   ├── Shameless.US.S04E08.1080p.BluRay.X264-GHOULS-thumb.jpg
+│   │   ├── Shameless.US.S04E09.1080p.BluRay.X264-GHOULS-320-10.bif
+│   │   ├── Shameless.US.S04E09.1080p.BluRay.X264-GHOULS.default.ass
+│   │   ├── Shameless.US.S04E09.1080p.BluRay.X264-GHOULS.mkv
+│   │   ├── Shameless.US.S04E09.1080p.BluRay.X264-GHOULS.nfo
+│   │   ├── Shameless.US.S04E09.1080p.BluRay.X264-GHOULS-thumb.jpg
+│   │   ├── Shameless.US.S04E10.1080p.BluRay.X264-GHOULS-320-10.bif
+│   │   ├── Shameless.US.S04E10.1080p.BluRay.X264-GHOULS.default.ass
+│   │   ├── Shameless.US.S04E10.1080p.BluRay.X264-GHOULS.mkv
+│   │   ├── Shameless.US.S04E10.1080p.BluRay.X264-GHOULS.nfo
+│   │   ├── Shameless.US.S04E10.1080p.BluRay.X264-GHOULS-thumb.jpg
+│   │   ├── Shameless.US.S04E11.1080p.BluRay.X264-GHOULS-320-10.bif
+│   │   ├── Shameless.US.S04E11.1080p.BluRay.X264-GHOULS.default.ass
+│   │   ├── Shameless.US.S04E11.1080p.BluRay.X264-GHOULS.mkv
+│   │   ├── Shameless.US.S04E11.1080p.BluRay.X264-GHOULS.nfo
+│   │   ├── Shameless.US.S04E11.1080p.BluRay.X264-GHOULS-thumb.jpg
+│   │   ├── Shameless.US.S04E12.1080p.BluRay.X264-GHOULS-320-10.bif
+│   │   ├── Shameless.US.S04E12.1080p.BluRay.X264-GHOULS.default.ass
+│   │   ├── Shameless.US.S04E12.1080p.BluRay.X264-GHOULS.mkv
+│   │   ├── Shameless.US.S04E12.1080p.BluRay.X264-GHOULS.nfo
+│   │   ├── Shameless.US.S04E12.1080p.BluRay.X264-GHOULS-thumb.jpg
+│   │   └── tvshow.nfo
+│   ├── Season 5
+│   │   ├── clearlogo.png
+│   │   ├── fanart.jpg
+│   │   ├── RARBG.txt
+│   │   ├── season05-poster.jpg
+│   │   ├── season.nfo
+│   │   ├── Shameless.S05E01.Milk.of.the.Gods.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.265-SiGMA.ass
+│   │   ├── Shameless.S05E01.Milk.of.the.Gods.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-320-10.bif
+│   │   ├── Shameless.S05E01.Milk.of.the.Gods.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.mkv
+│   │   ├── Shameless.S05E01.Milk.of.the.Gods.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.nfo
+│   │   ├── Shameless.S05E01.Milk.of.the.Gods.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-thumb.jpg
+│   │   ├── Shameless.S05E02.Im.the.Liver.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.265-SiGMA.ass
+│   │   ├── Shameless.S05E02.Im.the.Liver.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-320-10.bif
+│   │   ├── Shameless.S05E02.Im.the.Liver.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.mkv
+│   │   ├── Shameless.S05E02.Im.the.Liver.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.nfo
+│   │   ├── Shameless.S05E02.Im.the.Liver.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-thumb.jpg
+│   │   ├── Shameless.S05E03.The.Two.Lisas.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.265-SiGMA.ass
+│   │   ├── Shameless.S05E03.The.Two.Lisas.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-320-10.bif
+│   │   ├── Shameless.S05E03.The.Two.Lisas.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.mkv
+│   │   ├── Shameless.S05E03.The.Two.Lisas.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.nfo
+│   │   ├── Shameless.S05E03.The.Two.Lisas.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-thumb.jpg
+│   │   ├── Shameless.S05E04.A.Night.to.Remem-Wait.What.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.265-SiGMA.ass
+│   │   ├── Shameless.S05E04.A.Night.to.Remem-Wait.What.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-320-10.bif
+│   │   ├── Shameless.S05E04.A.Night.to.Remem-Wait.What.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.mkv
+│   │   ├── Shameless.S05E04.A.Night.to.Remem-Wait.What.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.nfo
+│   │   ├── Shameless.S05E04.A.Night.to.Remem-Wait.What.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-thumb.jpg
+│   │   ├── Shameless.S05E05.Rite.of.Passage.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.265-SiGMA.ass
+│   │   ├── Shameless.S05E05.Rite.of.Passage.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-320-10.bif
+│   │   ├── Shameless.S05E05.Rite.of.Passage.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.mkv
+│   │   ├── Shameless.S05E05.Rite.of.Passage.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.nfo
+│   │   ├── Shameless.S05E05.Rite.of.Passage.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-thumb.jpg
+│   │   ├── Shameless.S05E06.Crazy.Love.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.265-SiGMA.ass
+│   │   ├── Shameless.S05E06.Crazy.Love.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-320-10.bif
+│   │   ├── Shameless.S05E06.Crazy.Love.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.mkv
+│   │   ├── Shameless.S05E06.Crazy.Love.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.nfo
+│   │   ├── Shameless.S05E06.Crazy.Love.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-thumb.jpg
+│   │   ├── Shameless.S05E07.Tell.Me.You.Fucking.Need.Me.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.265-SiGMA.ass
+│   │   ├── Shameless.S05E07.Tell.Me.You.Fucking.Need.Me.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-320-10.bif
+│   │   ├── Shameless.S05E07.Tell.Me.You.Fucking.Need.Me.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.mkv
+│   │   ├── Shameless.S05E07.Tell.Me.You.Fucking.Need.Me.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.nfo
+│   │   ├── Shameless.S05E07.Tell.Me.You.Fucking.Need.Me.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-thumb.jpg
+│   │   ├── Shameless.S05E08.Uncle.Carl.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.265-SiGMA.ass
+│   │   ├── Shameless.S05E08.Uncle.Carl.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-320-10.bif
+│   │   ├── Shameless.S05E08.Uncle.Carl.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.mkv
+│   │   ├── Shameless.S05E08.Uncle.Carl.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.nfo
+│   │   ├── Shameless.S05E08.Uncle.Carl.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-thumb.jpg
+│   │   ├── Shameless.S05E09.Carls.First.Sentencing.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.265-SiGMA.ass
+│   │   ├── Shameless.S05E09.Carls.First.Sentencing.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-320-10.bif
+│   │   ├── Shameless.S05E09.Carls.First.Sentencing.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.mkv
+│   │   ├── Shameless.S05E09.Carls.First.Sentencing.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.nfo
+│   │   ├── Shameless.S05E09.Carls.First.Sentencing.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-thumb.jpg
+│   │   ├── Shameless.S05E10.Southside.Rules.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.265-SiGMA.ass
+│   │   ├── Shameless.S05E10.Southside.Rules.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-320-10.bif
+│   │   ├── Shameless.S05E10.Southside.Rules.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.mkv
+│   │   ├── Shameless.S05E10.Southside.Rules.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.nfo
+│   │   ├── Shameless.S05E10.Southside.Rules.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-thumb.jpg
+│   │   ├── Shameless.S05E11.Drugs.Actually.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.265-SiGMA.ass
+│   │   ├── Shameless.S05E11.Drugs.Actually.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-320-10.bif
+│   │   ├── Shameless.S05E11.Drugs.Actually.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.mkv
+│   │   ├── Shameless.S05E11.Drugs.Actually.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.nfo
+│   │   ├── Shameless.S05E11.Drugs.Actually.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-thumb.jpg
+│   │   ├── Shameless.S05E12.Love.Songs.In.the.Key.of.Gallagher.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.265-SiGMA.ass
+│   │   ├── Shameless.S05E12.Love.Songs.In.the.Key.of.Gallagher.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-320-10.bif
+│   │   ├── Shameless.S05E12.Love.Songs.In.the.Key.of.Gallagher.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.mkv
+│   │   ├── Shameless.S05E12.Love.Songs.In.the.Key.of.Gallagher.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA.nfo
+│   │   ├── Shameless.S05E12.Love.Songs.In.the.Key.of.Gallagher.1080p.AMZN.WEB-DL.DD.5.1.H.265-SiGMA-thumb.jpg
+│   │   └── tvshow.nfo
+│   ├── Season 6
+│   │   ├── fanart.jpg
+│   │   ├── poster.jpg
+│   │   ├── RARBG.com.txt
+│   │   ├── season06-poster.jpg
+│   │   ├── season.nfo
+│   │   ├── Shameless.US.S06.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── shameless.us.s06e01.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s06e01.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s06e01.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s06e01.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s06e02.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s06e02.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s06e02.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s06e02.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s06e03.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s06e03.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s06e03.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s06e03.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s06e04.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s06e04.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s06e04.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s06e04.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s06e05.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s06e05.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s06e05.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s06e05.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s06e06.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s06e06.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s06e06.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s06e06.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s06e07.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s06e07.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s06e07.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s06e07.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s06e08.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s06e08.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s06e08.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s06e08.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s06e09.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s06e09.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s06e09.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s06e09.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s06e10.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s06e10.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s06e10.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s06e10.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s06e11.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s06e11.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s06e11.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s06e11.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.us.s06e12.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.us.s06e12.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.us.s06e12.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.us.s06e12.1080p.bluray.x264-rovers-thumb.jpg
+│   │   └── tvshow.nfo
+│   ├── Season 7
+│   │   ├── RARBG.txt
+│   │   ├── season07-poster.jpg
+│   │   ├── season.nfo
+│   │   ├── shameless.s07e01.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.s07e01.1080p.bluray.x264-rovers.en.srt
+│   │   ├── shameless.s07e01.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.s07e01.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.s07e01.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.s07e01.1080p.bluray.x264-rovers.zh.srt
+│   │   ├── shameless.s07e02.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.s07e02.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.s07e02.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.s07e02.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.s07e02.1080p.bluray.x264-rovers.zh.srt
+│   │   ├── shameless.s07e03.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.s07e03.1080p.bluray.x264-rovers.en.srt
+│   │   ├── shameless.s07e03.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.s07e03.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.s07e03.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.s07e03.1080p.bluray.x264-rovers.zh.srt
+│   │   ├── shameless.s07e04.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.s07e04.1080p.bluray.x264-rovers.en.srt
+│   │   ├── shameless.s07e04.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.s07e04.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.s07e04.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.s07e04.1080p.bluray.x264-rovers.zh.srt
+│   │   ├── shameless.s07e05.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.s07e05.1080p.bluray.x264-rovers.en.srt
+│   │   ├── shameless.s07e05.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.s07e05.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.s07e05.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.s07e05.1080p.bluray.x264-rovers.zh.srt
+│   │   ├── shameless.s07e06.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.s07e06.1080p.bluray.x264-rovers.en.srt
+│   │   ├── shameless.s07e06.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.s07e06.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.s07e06.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.s07e06.1080p.bluray.x264-rovers.zh.srt
+│   │   ├── shameless.s07e07.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.s07e07.1080p.bluray.x264-rovers.en.srt
+│   │   ├── shameless.s07e07.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.s07e07.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.s07e07.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.s07e07.1080p.bluray.x264-rovers.zh.srt
+│   │   ├── shameless.s07e08.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.s07e08.1080p.bluray.x264-rovers.en.srt
+│   │   ├── shameless.s07e08.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.s07e08.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.s07e08.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.s07e08.1080p.bluray.x264-rovers.zh.srt
+│   │   ├── shameless.s07e09.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.s07e09.1080p.bluray.x264-rovers.en.srt
+│   │   ├── shameless.s07e09.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.s07e09.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.s07e09.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.s07e09.1080p.bluray.x264-rovers.zh.srt
+│   │   ├── shameless.s07e10.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.s07e10.1080p.bluray.x264-rovers.en.srt
+│   │   ├── shameless.s07e10.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.s07e10.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.s07e10.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.s07e10.1080p.bluray.x264-rovers.zh.srt
+│   │   ├── shameless.s07e11.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.s07e11.1080p.bluray.x264-rovers.en.srt
+│   │   ├── shameless.s07e11.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.s07e11.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.s07e11.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.s07e11.1080p.bluray.x264-rovers.zh.srt
+│   │   ├── shameless.s07e12.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── shameless.s07e12.1080p.bluray.x264-rovers.en.srt
+│   │   ├── shameless.s07e12.1080p.bluray.x264-rovers.mkv
+│   │   ├── shameless.s07e12.1080p.bluray.x264-rovers.nfo
+│   │   ├── shameless.s07e12.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── shameless.s07e12.1080p.bluray.x264-rovers.zh.srt
+│   │   └── tvshow.nfo
+│   ├── Season 8
+│   │   ├── poster.jpg
+│   │   ├── RARBG.txt
+│   │   ├── season08-poster.jpg
+│   │   ├── season.nfo
+│   │   ├── Shameless.US.S08E01.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S08E01.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S08E01.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S08E01.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S08E02.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S08E02.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S08E02.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S08E02.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S08E03.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S08E03.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S08E03.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S08E03.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S08E04.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S08E04.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S08E04.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S08E04.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S08E05.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S08E05.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S08E05.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S08E05.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S08E06.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S08E06.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S08E06.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S08E06.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S08E07.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S08E07.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S08E07.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S08E07.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S08E08.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S08E08.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S08E08.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S08E08.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S08E09.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S08E09.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S08E09.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S08E09.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S08E10.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S08E10.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S08E10.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S08E10.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S08E11.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S08E11.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S08E11.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S08E11.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S08E12.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S08E12.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S08E12.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S08E12.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   └── tvshow.nfo
+│   ├── Season 9
+│   │   ├── fanart.jpg
+│   │   ├── RARBG.txt
+│   │   ├── season09-poster.jpg
+│   │   ├── season.nfo
+│   │   ├── Shameless.US.S09E01.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S09E01.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S09E01.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S09E01.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S09E02.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S09E02.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S09E02.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S09E02.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S09E03.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S09E03.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S09E03.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S09E03.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S09E04.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S09E04.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S09E04.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S09E04.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S09E05.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S09E05.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S09E05.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S09E05.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S09E06.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S09E06.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S09E06.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S09E06.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S09E07.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S09E07.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S09E07.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S09E07.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S09E08.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S09E08.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S09E08.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S09E08.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S09E09.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S09E09.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S09E09.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S09E09.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S09E10.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S09E10.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S09E10.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S09E10.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S09E11.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S09E11.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S09E11.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S09E11.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S09E12.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S09E12.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S09E12.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S09E12.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S09E13.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S09E13.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S09E13.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S09E13.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   ├── Shameless.US.S09E14.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+│   │   ├── Shameless.US.S09E14.1080p.BluRay.x264-SHORTBREHD.mkv
+│   │   ├── Shameless.US.S09E14.1080p.BluRay.x264-SHORTBREHD.nfo
+│   │   ├── Shameless.US.S09E14.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+│   │   └── tvshow.nfo
+│   └── tvshow.nfo
+├── Sherlock
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season04-poster.jpg
+│   ├── Sherlock.S02.1080p.BluRay.x264-MIXED[rartv]
+│   │   ├── RARBG.com.txt
+│   │   ├── season.nfo
+│   │   ├── sherlock.2x01.a_scandal_in_belgravia.720p_hdtv_x264-fov.chs&eng.srt
+│   │   ├── sherlock.2x02.the_hounds_of_baskerville.720p_hdtv_x264-fov.chs&eng.srt
+│   │   ├── sherlock.2x03.the_reichenbach_fall.720p_hdtv_x264-fov.chs&eng.srt
+│   │   ├── Sherlock.S02.1080p.BluRay.x264-MIXED.nfo
+│   │   ├── Sherlock.S02E01.1080p.Bluray.X264-RRH -320-10.bif
+│   │   ├── Sherlock.S02E01.1080p.Bluray.X264-RRH .en.srt
+│   │   ├── Sherlock.S02E01.1080p.Bluray.X264-RRH .mkv
+│   │   ├── Sherlock.S02E01.1080p.Bluray.X264-RRH .nfo
+│   │   ├── Sherlock.S02E01.1080p.Bluray.X264-RRH -thumb.jpg
+│   │   ├── Sherlock.S02E02.1080p.Bluray.X264-RRH -320-10.bif
+│   │   ├── Sherlock.S02E02.1080p.Bluray.X264-RRH .en.srt
+│   │   ├── Sherlock.S02E02.1080p.Bluray.X264-RRH .mkv
+│   │   ├── Sherlock.S02E02.1080p.Bluray.X264-RRH .nfo
+│   │   ├── Sherlock.S02E02.1080p.Bluray.X264-RRH -thumb.jpg
+│   │   ├── Sherlock.S02E03.1080p.BluRay.x264-SHORTBREHD -320-10.bif
+│   │   ├── Sherlock.S02E03.1080p.BluRay.x264-SHORTBREHD .en.srt
+│   │   ├── Sherlock.S02E03.1080p.BluRay.x264-SHORTBREHD .mkv
+│   │   ├── Sherlock.S02E03.1080p.BluRay.x264-SHORTBREHD .nfo
+│   │   ├── Sherlock.S02E03.1080p.BluRay.x264-SHORTBREHD -thumb.jpg
+│   │   ├── sherlock.s02.extras.1080p.bluray.x264-shortbrehd-320-10.bif
+│   │   ├── sherlock.s02.extras.1080p.bluray.x264-shortbrehd.en.srt
+│   │   ├── sherlock.s02.extras.1080p.bluray.x264-shortbrehd.mkv
+│   │   ├── sherlock.s02.extras.1080p.bluray.x264-shortbrehd.nfo
+│   │   └── sherlock.s02.extras.1080p.bluray.x264-shortbrehd-thumb.jpg
+│   ├── Sherlock.S03.Season.3.1080p.BluRay.DTS-HD.MA.5.1.x265.HEVC-PublicHD
+│   │   ├── EXTRAS
+│   │   │   ├── publichd.EXTRAS.Fans.Villains.And.Speculation.1080p-320-10.bif
+│   │   │   ├── publichd.EXTRAS.Fans.Villains.And.Speculation.1080p.mkv
+│   │   │   ├── publichd.EXTRAS.Fans.Villains.And.Speculation.1080p.nfo
+│   │   │   ├── publichd.EXTRAS.Fans.Villains.And.Speculation.1080p-thumb.jpg
+│   │   │   ├── publichd.EXTRAS.Shooting.Sherlock.1080p-320-10.bif
+│   │   │   ├── publichd.EXTRAS.Shooting.Sherlock.1080p.mkv
+│   │   │   ├── publichd.EXTRAS.Shooting.Sherlock.1080p.nfo
+│   │   │   ├── publichd.EXTRAS.Shooting.Sherlock.1080p-thumb.jpg
+│   │   │   ├── publichd.EXTRAS.The.Fall.1080p-320-10.bif
+│   │   │   ├── publichd.EXTRAS.The.Fall.1080p.mkv
+│   │   │   ├── publichd.EXTRAS.The.Fall.1080p.nfo
+│   │   │   └── publichd.EXTRAS.The.Fall.1080p-thumb.jpg
+│   │   ├── season.nfo
+│   │   ├── Sherlock.S03E01.The.Empty.Hearse.1080p.BluRay.DTS-HD.MA.5.1.x265.HEVC-PublicHD-320-10.bif
+│   │   ├── Sherlock.S03E01.The.Empty.Hearse.1080p.BluRay.DTS-HD.MA.5.1.x265.HEVC-PublicHD.mkv
+│   │   ├── Sherlock.S03E01.The.Empty.Hearse.1080p.BluRay.DTS-HD.MA.5.1.x265.HEVC-PublicHD.nfo
+│   │   ├── Sherlock.S03E01.The.Empty.Hearse.1080p.BluRay.DTS-HD.MA.5.1.x265.HEVC-PublicHD-thumb.jpg
+│   │   ├── Sherlock.S03E02.The.Sign.Of.Three.1080p.BluRay.DTS-HD.MA.5.1.x265.HEVC-PublicHD-320-10.bif
+│   │   ├── Sherlock.S03E02.The.Sign.Of.Three.1080p.BluRay.DTS-HD.MA.5.1.x265.HEVC-PublicHD.mkv
+│   │   ├── Sherlock.S03E02.The.Sign.Of.Three.1080p.BluRay.DTS-HD.MA.5.1.x265.HEVC-PublicHD.nfo
+│   │   ├── Sherlock.S03E02.The.Sign.Of.Three.1080p.BluRay.DTS-HD.MA.5.1.x265.HEVC-PublicHD-thumb.jpg
+│   │   ├── Sherlock.S03E03.His.Last.Vow.1080p.BluRay.DTS-HD.MA.5.1.x265.HEVC-PublicHD-320-10.bif
+│   │   ├── Sherlock.S03E03.His.Last.Vow.1080p.BluRay.DTS-HD.MA.5.1.x265.HEVC-PublicHD.mkv
+│   │   ├── Sherlock.S03E03.His.Last.Vow.1080p.BluRay.DTS-HD.MA.5.1.x265.HEVC-PublicHD.nfo
+│   │   ├── Sherlock.S03E03.His.Last.Vow.1080p.BluRay.DTS-HD.MA.5.1.x265.HEVC-PublicHD-thumb.jpg
+│   │   └── Sherlock.S03.Season.3.1080p.BluRay.DTS-HD.MA.5.1.x265.HEVC-PublicHD.nfo
+│   ├── Sherlock.S04.1080p.BluRay.x264-ROVERS[rartv]
+│   │   ├── RARBG.txt
+│   │   ├── season.nfo
+│   │   ├── Sherlock.S04.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── sherlock.s04e01.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── sherlock.s04e01.1080p.bluray.x264-rovers.en.srt
+│   │   ├── sherlock.s04e01.1080p.bluray.x264-rovers.mkv
+│   │   ├── sherlock.s04e01.1080p.bluray.x264-rovers.nfo
+│   │   ├── sherlock.s04e01.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── sherlock.s04e02.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── sherlock.s04e02.1080p.bluray.x264-rovers.en.srt
+│   │   ├── sherlock.s04e02.1080p.bluray.x264-rovers.mkv
+│   │   ├── sherlock.s04e02.1080p.bluray.x264-rovers.nfo
+│   │   ├── sherlock.s04e02.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── sherlock.s04e03.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── sherlock.s04e03.1080p.bluray.x264-rovers.en.srt
+│   │   ├── sherlock.s04e03.1080p.bluray.x264-rovers.mkv
+│   │   ├── sherlock.s04e03.1080p.bluray.x264-rovers.nfo
+│   │   ├── sherlock.s04e03.1080p.bluray.x264-rovers-thumb.jpg
+│   │   └── Subs
+│   │       ├── Sherlock.S04E01.1080p.BluRay.x264-ROVERS.idx
+│   │       ├── Sherlock.S04E01.1080p.BluRay.x264-ROVERS.sub
+│   │       ├── Sherlock.S04E02.1080p.BluRay.x264-ROVERS.idx
+│   │       ├── Sherlock.S04E02.1080p.BluRay.x264-ROVERS.sub
+│   │       ├── Sherlock.S04E03.1080p.BluRay.x264-ROVERS.idx
+│   │       └── Sherlock.S04E03.1080p.BluRay.x264-ROVERS.sub
+│   └── tvshow.nfo
+├── Stranger Things
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── Stranger.Things.S01.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb
+│   │   ├── season.nfo
+│   │   ├── Stranger.Things.S01.E01.Chapter.One.The.Vanishing.of.Will.Byers.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S01.E01.Chapter.One.The.Vanishing.of.Will.Byers.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   ├── Stranger.Things.S01.E01.Chapter.One.The.Vanishing.of.Will.Byers.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   │   ├── Stranger.Things.S01.E02.Chapter.Two.The.Weirdo.on.Maple.Street.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S01.E02.Chapter.Two.The.Weirdo.on.Maple.Street.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   ├── Stranger.Things.S01.E02.Chapter.Two.The.Weirdo.on.Maple.Street.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   │   ├── Stranger.Things.S01.E03.Chapter.Three.Holly.Jolly.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S01.E03.Chapter.Three.Holly.Jolly.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   ├── Stranger.Things.S01.E03.Chapter.Three.Holly.Jolly.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   │   ├── Stranger.Things.S01.E04.Chapter.Four.The.Body.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S01.E04.Chapter.Four.The.Body.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   ├── Stranger.Things.S01.E04.Chapter.Four.The.Body.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   │   ├── Stranger.Things.S01.E05.Chapter.Five.The.Flea.and.the.Acrobat.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S01.E05.Chapter.Five.The.Flea.and.the.Acrobat.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   ├── Stranger.Things.S01.E05.Chapter.Five.The.Flea.and.the.Acrobat.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   │   ├── Stranger.Things.S01.E06.Chapter.Six.The.Monster.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S01.E06.Chapter.Six.The.Monster.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   ├── Stranger.Things.S01.E06.Chapter.Six.The.Monster.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   │   ├── Stranger.Things.S01.E07.Chapter.Seven.The.Bathtub.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S01.E07.Chapter.Seven.The.Bathtub.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   ├── Stranger.Things.S01.E07.Chapter.Seven.The.Bathtub.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   │   ├── Stranger.Things.S01.E08.Chapter.Eight.The.Upside.Down.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S01.E08.Chapter.Eight.The.Upside.Down.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   └── Stranger.Things.S01.E08.Chapter.Eight.The.Upside.Down.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   ├── Stranger.Things.S02.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb
+│   │   ├── season.nfo
+│   │   ├── Stranger.Things.S02.E01.Chapter.One.MADMAX.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S02.E01.Chapter.One.MADMAX.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   ├── Stranger.Things.S02.E01.Chapter.One.MADMAX.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   │   ├── Stranger.Things.S02.E02.Chapter.Two.Trick.or.Treat.Freak.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S02.E02.Chapter.Two.Trick.or.Treat.Freak.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   ├── Stranger.Things.S02.E02.Chapter.Two.Trick.or.Treat.Freak.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   │   ├── Stranger.Things.S02.E03.Chapter.Three.The.Pollywog.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S02.E03.Chapter.Three.The.Pollywog.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   ├── Stranger.Things.S02.E03.Chapter.Three.The.Pollywog.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   │   ├── Stranger.Things.S02.E04.Chapter.Four.Will.the.Wise.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S02.E04.Chapter.Four.Will.the.Wise.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   ├── Stranger.Things.S02.E04.Chapter.Four.Will.the.Wise.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   │   ├── Stranger.Things.S02.E05.Chapter.Five.Dig.Dug.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S02.E05.Chapter.Five.Dig.Dug.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   ├── Stranger.Things.S02.E05.Chapter.Five.Dig.Dug.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   │   ├── Stranger.Things.S02.E06.Chapter.Six.The.Spy.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S02.E06.Chapter.Six.The.Spy.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   ├── Stranger.Things.S02.E06.Chapter.Six.The.Spy.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   │   ├── Stranger.Things.S02.E07.Chapter.Seven.The.Lost.Sister.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S02.E07.Chapter.Seven.The.Lost.Sister.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   ├── Stranger.Things.S02.E07.Chapter.Seven.The.Lost.Sister.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   │   ├── Stranger.Things.S02.E08.Chapter.Eight.The.Mind.Flayer.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S02.E08.Chapter.Eight.The.Mind.Flayer.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   ├── Stranger.Things.S02.E08.Chapter.Eight.The.Mind.Flayer.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   │   ├── Stranger.Things.S02.E09.Chapter.Nine.The.Gate.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S02.E09.Chapter.Nine.The.Gate.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   └── Stranger.Things.S02.E09.Chapter.Nine.The.Gate.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   ├── Stranger.Things.S03.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb
+│   │   ├── season.nfo
+│   │   ├── Stranger.Things.S03.E01.Chapter.One.Suzie.Do.You.Copy.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S03.E01.Chapter.One.Suzie.Do.You.Copy.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   ├── Stranger.Things.S03.E01.Chapter.One.Suzie.Do.You.Copy.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   │   ├── Stranger.Things.S03.E02.Chapter.Two.The.Mall.Rats.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S03.E02.Chapter.Two.The.Mall.Rats.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   ├── Stranger.Things.S03.E02.Chapter.Two.The.Mall.Rats.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   │   ├── Stranger.Things.S03.E03.Chapter.Three.The.Case.of.the.Missing.Lifeguard.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S03.E03.Chapter.Three.The.Case.of.the.Missing.Lifeguard.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   ├── Stranger.Things.S03.E03.Chapter.Three.The.Case.of.the.Missing.Lifeguard.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   │   ├── Stranger.Things.S03.E04.Chapter.Four.The.Sauna.Test.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S03.E04.Chapter.Four.The.Sauna.Test.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   ├── Stranger.Things.S03.E04.Chapter.Four.The.Sauna.Test.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   │   ├── Stranger.Things.S03.E05.Chapter.Five.The.Flayed.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S03.E05.Chapter.Five.The.Flayed.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   ├── Stranger.Things.S03.E05.Chapter.Five.The.Flayed.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   │   ├── Stranger.Things.S03.E06.Chapter.Six.E.Pluribus.Unum.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S03.E06.Chapter.Six.E.Pluribus.Unum.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   ├── Stranger.Things.S03.E06.Chapter.Six.E.Pluribus.Unum.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   │   ├── Stranger.Things.S03.E07.Chapter.Seven.The.Bite.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S03.E07.Chapter.Seven.The.Bite.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   ├── Stranger.Things.S03.E07.Chapter.Seven.The.Bite.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   │   ├── Stranger.Things.S03.E08.Chapter.Eight.The.Battle.of.Starcourt.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.mkv
+│   │   ├── Stranger.Things.S03.E08.Chapter.Eight.The.Battle.of.Starcourt.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb.nfo
+│   │   └── Stranger.Things.S03.E08.Chapter.Eight.The.Battle.of.Starcourt.NF.WEB-DL.1080p.x264.DDP5.1-PTHweb-thumb.jpg
+│   └── tvshow.nfo
+├── Sweet Tooth
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── Season 01
+│   │   ├── fanart.jpg
+│   │   ├── poster.jpg
+│   │   ├── season01-poster.jpg
+│   │   ├── season.nfo
+│   │   ├── Sweet.Tooth.S01E01.Out.of.the.Deep.Woods.1080p.NF.WEB-DL.DDP5.1.x264-PAAI.mkv
+│   │   ├── Sweet.Tooth.S01E01.Out.of.the.Deep.Woods.1080p.NF.WEB-DL.DDP5.1.x264-PAAI.nfo
+│   │   ├── Sweet.Tooth.S01E01.Out.of.the.Deep.Woods.1080p.NF.WEB-DL.DDP5.1.x264-PAAI-thumb.jpg
+│   │   ├── Sweet.Tooth.S01E02.Sorry.About.All.the.Dead.People.1080p.NF.WEB-DL.DDP5.1.x264-PAAI.mkv
+│   │   ├── Sweet.Tooth.S01E02.Sorry.About.All.the.Dead.People.1080p.NF.WEB-DL.DDP5.1.x264-PAAI.nfo
+│   │   ├── Sweet.Tooth.S01E02.Sorry.About.All.the.Dead.People.1080p.NF.WEB-DL.DDP5.1.x264-PAAI-thumb.jpg
+│   │   ├── Sweet.Tooth.S01E03.Weird.Deer.St.1080p.NF.WEB-DL.DDP5.1.x264-PAAI.mkv
+│   │   ├── Sweet.Tooth.S01E03.Weird.Deer.St.1080p.NF.WEB-DL.DDP5.1.x264-PAAI.nfo
+│   │   ├── Sweet.Tooth.S01E03.Weird.Deer.St.1080p.NF.WEB-DL.DDP5.1.x264-PAAI-thumb.jpg
+│   │   ├── Sweet.Tooth.S01E04.Secret.Sauce.1080p.NF.WEB-DL.DDP5.1.x264-PAAI.mkv
+│   │   ├── Sweet.Tooth.S01E04.Secret.Sauce.1080p.NF.WEB-DL.DDP5.1.x264-PAAI.nfo
+│   │   ├── Sweet.Tooth.S01E04.Secret.Sauce.1080p.NF.WEB-DL.DDP5.1.x264-PAAI-thumb.jpg
+│   │   ├── Sweet.Tooth.S01E05.Whats.in.the.Freezer.1080p.NF.WEB-DL.DDP5.1.x264-PAAI.mkv
+│   │   ├── Sweet.Tooth.S01E05.Whats.in.the.Freezer.1080p.NF.WEB-DL.DDP5.1.x264-PAAI.nfo
+│   │   ├── Sweet.Tooth.S01E05.Whats.in.the.Freezer.1080p.NF.WEB-DL.DDP5.1.x264-PAAI-thumb.jpg
+│   │   ├── Sweet.Tooth.S01E06.Stranger.Danger.on.a.Train.1080p.NF.WEB-DL.DDP5.1.x264-PAAI.mkv
+│   │   ├── Sweet.Tooth.S01E06.Stranger.Danger.on.a.Train.1080p.NF.WEB-DL.DDP5.1.x264-PAAI.nfo
+│   │   ├── Sweet.Tooth.S01E06.Stranger.Danger.on.a.Train.1080p.NF.WEB-DL.DDP5.1.x264-PAAI-thumb.jpg
+│   │   ├── Sweet.Tooth.S01E07.When.Pubba.Met.Birdie.1080p.NF.WEB-DL.DDP5.1.x264-PAAI.mkv
+│   │   ├── Sweet.Tooth.S01E07.When.Pubba.Met.Birdie.1080p.NF.WEB-DL.DDP5.1.x264-PAAI.nfo
+│   │   ├── Sweet.Tooth.S01E07.When.Pubba.Met.Birdie.1080p.NF.WEB-DL.DDP5.1.x264-PAAI-thumb.jpg
+│   │   ├── Sweet.Tooth.S01E08.Big.Man.1080p.NF.WEB-DL.DDP5.1.x264-PAAI.mkv
+│   │   ├── Sweet.Tooth.S01E08.Big.Man.1080p.NF.WEB-DL.DDP5.1.x264-PAAI.nfo
+│   │   ├── Sweet.Tooth.S01E08.Big.Man.1080p.NF.WEB-DL.DDP5.1.x264-PAAI-thumb.jpg
+│   │   └── tvshow.nfo
+│   └── tvshow.nfo
+├── The Big Bang Theory
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season04-poster.jpg
+│   ├── season05-poster.jpg
+│   ├── season06-poster.jpg
+│   ├── season07-poster.jpg
+│   ├── season08-poster.jpg
+│   ├── season09-poster.jpg
+│   ├── Season 1
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E01.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E01.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E01.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E01.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E02.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E02.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E02.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E02.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E03.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E03.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E03.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E03.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E04.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E04.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E04.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E04.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E05.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E05.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E05.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E05.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E06.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E06.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E06.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E06.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E07.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E07.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E07.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E07.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E08.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E08.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E08.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E08.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E09.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E09.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E09.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E09.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E10.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E10.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E10.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E10.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E11.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E11.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E11.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E11.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E12.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E12.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E12.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E12.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E13.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E13.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E13.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E13.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E14.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E14.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E14.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E14.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E15.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E15.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E15.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E15.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E16.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E16.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E16.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E16.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E17.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E17.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E17.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S01E17.Chi_Eng.HR-HDTV.AAC.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 10
+│   │   ├── season.nfo
+│   │   ├── the.big.bang.theory.s10e01.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e01.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e01.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e01.1080p.bluray.x264-rovers.nfo
+│   │   ├── the.big.bang.theory.s10e01.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── the.big.bang.theory.s10e02.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e02.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e02.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e02.1080p.bluray.x264-rovers.nfo
+│   │   ├── the.big.bang.theory.s10e02.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── the.big.bang.theory.s10e03.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e03.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e03.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e03.1080p.bluray.x264-rovers.nfo
+│   │   ├── the.big.bang.theory.s10e03.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── the.big.bang.theory.s10e04.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e04.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e04.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e04.1080p.bluray.x264-rovers.nfo
+│   │   ├── the.big.bang.theory.s10e04.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── the.big.bang.theory.s10e05.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e05.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e05.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e05.1080p.bluray.x264-rovers.nfo
+│   │   ├── the.big.bang.theory.s10e05.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── the.big.bang.theory.s10e06.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e06.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e06.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e06.1080p.bluray.x264-rovers.nfo
+│   │   ├── the.big.bang.theory.s10e06.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── the.big.bang.theory.s10e07.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e07.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e07.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e07.1080p.bluray.x264-rovers.nfo
+│   │   ├── the.big.bang.theory.s10e07.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── the.big.bang.theory.s10e08.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e08.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e08.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e08.1080p.bluray.x264-rovers.nfo
+│   │   ├── the.big.bang.theory.s10e08.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── the.big.bang.theory.s10e09.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e09.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e09.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e09.1080p.bluray.x264-rovers.nfo
+│   │   ├── the.big.bang.theory.s10e09.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── the.big.bang.theory.s10e10.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e10.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e10.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e10.1080p.bluray.x264-rovers.nfo
+│   │   ├── the.big.bang.theory.s10e10.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── the.big.bang.theory.s10e11.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e11.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e11.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e11.1080p.bluray.x264-rovers.nfo
+│   │   ├── the.big.bang.theory.s10e11.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── the.big.bang.theory.s10e12.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e12.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e12.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e12.1080p.bluray.x264-rovers.nfo
+│   │   ├── the.big.bang.theory.s10e12.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── the.big.bang.theory.s10e13.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e13.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e13.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e13.1080p.bluray.x264-rovers.nfo
+│   │   ├── the.big.bang.theory.s10e13.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── the.big.bang.theory.s10e14.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e14.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e14.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e14.1080p.bluray.x264-rovers.nfo
+│   │   ├── the.big.bang.theory.s10e14.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── the.big.bang.theory.s10e15.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e15.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e15.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e15.1080p.bluray.x264-rovers.nfo
+│   │   ├── the.big.bang.theory.s10e15.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── the.big.bang.theory.s10e16.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e16.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e16.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e16.1080p.bluray.x264-rovers.nfo
+│   │   ├── the.big.bang.theory.s10e16.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── the.big.bang.theory.s10e17.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e17.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e17.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e17.1080p.bluray.x264-rovers.nfo
+│   │   ├── the.big.bang.theory.s10e17.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── the.big.bang.theory.s10e18.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e18.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e18.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e18.1080p.bluray.x264-rovers.nfo
+│   │   ├── the.big.bang.theory.s10e18.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── the.big.bang.theory.s10e19.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e19.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e19.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e19.1080p.bluray.x264-rovers.nfo
+│   │   ├── the.big.bang.theory.s10e19.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── the.big.bang.theory.s10e20.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e20.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e20.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e20.1080p.bluray.x264-rovers.nfo
+│   │   ├── the.big.bang.theory.s10e20.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── the.big.bang.theory.s10e21.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e21.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e21.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e21.1080p.bluray.x264-rovers.nfo
+│   │   ├── the.big.bang.theory.s10e21.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── the.big.bang.theory.s10e22.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e22.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e22.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e22.1080p.bluray.x264-rovers.nfo
+│   │   ├── the.big.bang.theory.s10e22.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── the.big.bang.theory.s10e23.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e23.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e23.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e23.1080p.bluray.x264-rovers.nfo
+│   │   ├── the.big.bang.theory.s10e23.1080p.bluray.x264-rovers-thumb.jpg
+│   │   ├── the.big.bang.theory.s10e24.1080p.bluray.x264-rovers-320-10.bif
+│   │   ├── the.big.bang.theory.s10e24.1080p.bluray.x264-rovers.ChsEngA.ass
+│   │   ├── the.big.bang.theory.s10e24.1080p.bluray.x264-rovers.mkv
+│   │   ├── the.big.bang.theory.s10e24.1080p.bluray.x264-rovers.nfo
+│   │   └── the.big.bang.theory.s10e24.1080p.bluray.x264-rovers-thumb.jpg
+│   ├── season10-poster.jpg
+│   ├── Season 11
+│   │   ├── season.nfo
+│   │   ├── The.Big.Bang.Theory.S11E01.The.Proposal.Proposal.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E01.The.Proposal.Proposal.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E01.The.Proposal.Proposal.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ.mkv
+│   │   ├── The.Big.Bang.Theory.S11E01.The.Proposal.Proposal.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ.nfo
+│   │   ├── The.Big.Bang.Theory.S11E01.The.Proposal.Proposal.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ-thumb.jpg
+│   │   ├── The.Big.Bang.Theory.S11E02.The.Retraction.Reaction.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E02.The.Retraction.Reaction.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E02.The.Retraction.Reaction.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ.mkv
+│   │   ├── The.Big.Bang.Theory.S11E02.The.Retraction.Reaction.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ.nfo
+│   │   ├── The.Big.Bang.Theory.S11E02.The.Retraction.Reaction.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ-thumb.jpg
+│   │   ├── The.Big.Bang.Theory.S11E03.The.Relaxation.Integration.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E03.The.Relaxation.Integration.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E03.The.Relaxation.Integration.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ.mkv
+│   │   ├── The.Big.Bang.Theory.S11E03.The.Relaxation.Integration.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ.nfo
+│   │   ├── The.Big.Bang.Theory.S11E03.The.Relaxation.Integration.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ-thumb.jpg
+│   │   ├── The.Big.Bang.Theory.S11E04.The.Explosion.Implosion.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E04.The.Explosion.Implosion.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E04.The.Explosion.Implosion.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ.mkv
+│   │   ├── The.Big.Bang.Theory.S11E04.The.Explosion.Implosion.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ.nfo
+│   │   ├── The.Big.Bang.Theory.S11E04.The.Explosion.Implosion.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ-thumb.jpg
+│   │   ├── The.Big.Bang.Theory.S11E05.The.Collaboration.Contamination.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E05.The.Collaboration.Contamination.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E05.The.Collaboration.Contamination.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ.mkv
+│   │   ├── The.Big.Bang.Theory.S11E05.The.Collaboration.Contamination.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ.nfo
+│   │   ├── The.Big.Bang.Theory.S11E05.The.Collaboration.Contamination.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ-thumb.jpg
+│   │   ├── The.Big.Bang.Theory.S11E06.The.Proton.Regeneration.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E06.The.Proton.Regeneration.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E06.The.Proton.Regeneration.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ.mkv
+│   │   ├── The.Big.Bang.Theory.S11E06.The.Proton.Regeneration.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ.nfo
+│   │   ├── The.Big.Bang.Theory.S11E06.The.Proton.Regeneration.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ-thumb.jpg
+│   │   ├── The.Big.Bang.Theory.S11E07.The.Geology.Methodology.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E07.The.Geology.Methodology.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E07.The.Geology.Methodology.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ.mkv
+│   │   ├── The.Big.Bang.Theory.S11E07.The.Geology.Methodology.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ.nfo
+│   │   ├── The.Big.Bang.Theory.S11E07.The.Geology.Methodology.1080p.Amazon.WEB-DL.DD5.1.H.264-QOQ-thumb.jpg
+│   │   ├── The.Big.Bang.Theory.S11E08.The.Tesla.Recoil.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E08.The.Tesla.Recoil.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E08.The.Tesla.Recoil.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ.mkv
+│   │   ├── The.Big.Bang.Theory.S11E08.The.Tesla.Recoil.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ.nfo
+│   │   ├── The.Big.Bang.Theory.S11E08.The.Tesla.Recoil.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ-thumb.jpg
+│   │   ├── The.Big.Bang.Theory.S11E09.The.Bitcoin.Entanglement.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E09.The.Bitcoin.Entanglement.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E09.The.Bitcoin.Entanglement.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ.mkv
+│   │   ├── The.Big.Bang.Theory.S11E09.The.Bitcoin.Entanglement.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ.nfo
+│   │   ├── The.Big.Bang.Theory.S11E09.The.Bitcoin.Entanglement.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ-thumb.jpg
+│   │   ├── The.Big.Bang.Theory.S11E10.The.Confidence.Erosion.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E10.The.Confidence.Erosion.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E10.The.Confidence.Erosion.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ.mkv
+│   │   ├── The.Big.Bang.Theory.S11E10.The.Confidence.Erosion.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ.nfo
+│   │   ├── The.Big.Bang.Theory.S11E10.The.Confidence.Erosion.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ-thumb.jpg
+│   │   ├── The.Big.Bang.Theory.S11E11.The.Celebration.Reverberation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E11.The.Celebration.Reverberation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E11.The.Celebration.Reverberation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── The.Big.Bang.Theory.S11E11.The.Celebration.Reverberation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── The.Big.Bang.Theory.S11E11.The.Celebration.Reverberation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── The.Big.Bang.Theory.S11E12.The.Matrimonial.Metric.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E12.The.Matrimonial.Metric.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E12.The.Matrimonial.Metric.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ.mkv
+│   │   ├── The.Big.Bang.Theory.S11E12.The.Matrimonial.Metric.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ.nfo
+│   │   ├── The.Big.Bang.Theory.S11E12.The.Matrimonial.Metric.1080p.AMZN.WEB-DL.DD5.1.H.264-QOQ-thumb.jpg
+│   │   ├── The.Big.Bang.Theory.S11E13.The.Solo.Oscillation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E13.The.Solo.Oscillation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E13.The.Solo.Oscillation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── The.Big.Bang.Theory.S11E13.The.Solo.Oscillation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── The.Big.Bang.Theory.S11E13.The.Solo.Oscillation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── The.Big.Bang.Theory.S11E14.The.Separation.Triangulation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E14.The.Separation.Triangulation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E14.The.Separation.Triangulation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── The.Big.Bang.Theory.S11E14.The.Separation.Triangulation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── The.Big.Bang.Theory.S11E14.The.Separation.Triangulation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── The.Big.Bang.Theory.S11E15.The.Novelization.Correlation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E15.The.Novelization.Correlation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E15.The.Novelization.Correlation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── The.Big.Bang.Theory.S11E15.The.Novelization.Correlation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── The.Big.Bang.Theory.S11E15.The.Novelization.Correlation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── The.Big.Bang.Theory.S11E16.The.Neonatal.Nomenclature.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E16.The.Neonatal.Nomenclature.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E16.The.Neonatal.Nomenclature.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── The.Big.Bang.Theory.S11E16.The.Neonatal.Nomenclature.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── The.Big.Bang.Theory.S11E16.The.Neonatal.Nomenclature.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── The.Big.Bang.Theory.S11E17.The.Athenaeum.Allocation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E17.The.Athenaeum.Allocation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E17.The.Athenaeum.Allocation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── The.Big.Bang.Theory.S11E17.The.Athenaeum.Allocation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── The.Big.Bang.Theory.S11E17.The.Athenaeum.Allocation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── The.Big.Bang.Theory.S11E18.The.Gates.Excitation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E18.The.Gates.Excitation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E18.The.Gates.Excitation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── The.Big.Bang.Theory.S11E18.The.Gates.Excitation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── The.Big.Bang.Theory.S11E18.The.Gates.Excitation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── The.Big.Bang.Theory.S11E19.The.Tenant.Disassociation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E19.The.Tenant.Disassociation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E19.The.Tenant.Disassociation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── The.Big.Bang.Theory.S11E19.The.Tenant.Disassociation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── The.Big.Bang.Theory.S11E19.The.Tenant.Disassociation.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── The.Big.Bang.Theory.S11E20.The.Reclusive.Potential.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E20.The.Reclusive.Potential.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E20.The.Reclusive.Potential.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── The.Big.Bang.Theory.S11E20.The.Reclusive.Potential.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── The.Big.Bang.Theory.S11E20.The.Reclusive.Potential.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── The.Big.Bang.Theory.S11E21.The.Comet.Polarization.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E21.The.Comet.Polarization.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E21.The.Comet.Polarization.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── The.Big.Bang.Theory.S11E21.The.Comet.Polarization.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── The.Big.Bang.Theory.S11E21.The.Comet.Polarization.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── The.Big.Bang.Theory.S11E22.The.Monetary.Insufficiency.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E22.The.Monetary.Insufficiency.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E22.The.Monetary.Insufficiency.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── The.Big.Bang.Theory.S11E22.The.Monetary.Insufficiency.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── The.Big.Bang.Theory.S11E22.The.Monetary.Insufficiency.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── The.Big.Bang.Theory.S11E23.The.Sibling.Realignment.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E23.The.Sibling.Realignment.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E23.The.Sibling.Realignment.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── The.Big.Bang.Theory.S11E23.The.Sibling.Realignment.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── The.Big.Bang.Theory.S11E23.The.Sibling.Realignment.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── The.Big.Bang.Theory.S11E24.The.Bow.Tie.Asymmetry.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── The.Big.Bang.Theory.S11E24.The.Bow.Tie.Asymmetry.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.ass
+│   │   ├── The.Big.Bang.Theory.S11E24.The.Bow.Tie.Asymmetry.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── The.Big.Bang.Theory.S11E24.The.Bow.Tie.Asymmetry.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── The.Big.Bang.Theory.S11E24.The.Bow.Tie.Asymmetry.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   └── The.Big.Bang.Theory.Title.Song.ChsEngA.ass
+│   ├── season11-poster.jpg
+│   ├── Season 12
+│   │   ├── 生活大爆炸.第12季.The.Big.Bang.Theory.S12.2018.1080p.Bluray.AC3.x265.10bit-Yumi
+│   │   │   ├── The.Big.Bang.Theory.S12E01.The.Conjugal.Configuration.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E01.The.Conjugal.Configuration.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   ├── The.Big.Bang.Theory.S12E01.The.Conjugal.Configuration.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   │   ├── The.Big.Bang.Theory.S12E02.The.Wedding.Gift.Wormhole.REPACK.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E02.The.Wedding.Gift.Wormhole.REPACK.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   ├── The.Big.Bang.Theory.S12E02.The.Wedding.Gift.Wormhole.REPACK.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   │   ├── The.Big.Bang.Theory.S12E03.The.Procreation.Calculation.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E03.The.Procreation.Calculation.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   ├── The.Big.Bang.Theory.S12E03.The.Procreation.Calculation.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   │   ├── The.Big.Bang.Theory.S12E04.The.Tam.Turbulence.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E04.The.Tam.Turbulence.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   ├── The.Big.Bang.Theory.S12E04.The.Tam.Turbulence.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   │   ├── The.Big.Bang.Theory.S12E05.The.Planetarium.Collision.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E05.The.Planetarium.Collision.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   ├── The.Big.Bang.Theory.S12E05.The.Planetarium.Collision.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   │   ├── The.Big.Bang.Theory.S12E06.The.Imitation.Perturbation.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E06.The.Imitation.Perturbation.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   ├── The.Big.Bang.Theory.S12E06.The.Imitation.Perturbation.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   │   ├── The.Big.Bang.Theory.S12E07.The.Grant.Allocation.Derivation.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E07.The.Grant.Allocation.Derivation.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   ├── The.Big.Bang.Theory.S12E07.The.Grant.Allocation.Derivation.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   │   ├── The.Big.Bang.Theory.S12E08.The.Consummation.Deviation.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E08.The.Consummation.Deviation.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   ├── The.Big.Bang.Theory.S12E08.The.Consummation.Deviation.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   │   ├── The.Big.Bang.Theory.S12E09.The.Citation.Negation.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E09.The.Citation.Negation.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   ├── The.Big.Bang.Theory.S12E09.The.Citation.Negation.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   │   ├── The.Big.Bang.Theory.S12E10.The.VCR.Illumination.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E10.The.VCR.Illumination.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   ├── The.Big.Bang.Theory.S12E10.The.VCR.Illumination.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   │   ├── The.Big.Bang.Theory.S12E11.The.Paintball.Scattering.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E11.The.Paintball.Scattering.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   ├── The.Big.Bang.Theory.S12E11.The.Paintball.Scattering.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   │   ├── The.Big.Bang.Theory.S12E12.The.Propagation.Proposition.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E12.The.Propagation.Proposition.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   ├── The.Big.Bang.Theory.S12E12.The.Propagation.Proposition.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   │   ├── The.Big.Bang.Theory.S12E13.The.Confirmation.Polarization.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E13.The.Confirmation.Polarization.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   ├── The.Big.Bang.Theory.S12E13.The.Confirmation.Polarization.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   │   ├── The.Big.Bang.Theory.S12E14.The.Meteorite.Manifestation.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E14.The.Meteorite.Manifestation.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   ├── The.Big.Bang.Theory.S12E14.The.Meteorite.Manifestation.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   │   ├── The.Big.Bang.Theory.S12E15.The.Donation.Oscillation.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E15.The.Donation.Oscillation.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   ├── The.Big.Bang.Theory.S12E15.The.Donation.Oscillation.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   │   ├── The.Big.Bang.Theory.S12E16.The.D.&D.Vortex.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E16.The.D.&D.Vortex.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   ├── The.Big.Bang.Theory.S12E16.The.D.&D.Vortex.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   │   ├── The.Big.Bang.Theory.S12E17.The.Conference.Valuation.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E17.The.Conference.Valuation.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   ├── The.Big.Bang.Theory.S12E17.The.Conference.Valuation.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   │   ├── The.Big.Bang.Theory.S12E18.The.Laureate.Accumulation.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E18.The.Laureate.Accumulation.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   ├── The.Big.Bang.Theory.S12E18.The.Laureate.Accumulation.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   │   ├── The.Big.Bang.Theory.S12E19.The.Inspiration.Deprivation.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E19.The.Inspiration.Deprivation.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   ├── The.Big.Bang.Theory.S12E19.The.Inspiration.Deprivation.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   │   ├── The.Big.Bang.Theory.S12E20.The.Decision.Reverberation.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E20.The.Decision.Reverberation.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   ├── The.Big.Bang.Theory.S12E20.The.Decision.Reverberation.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   │   ├── The.Big.Bang.Theory.S12E21.The.Plagiarism.Schism.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E21.The.Plagiarism.Schism.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   ├── The.Big.Bang.Theory.S12E21.The.Plagiarism.Schism.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   │   ├── The.Big.Bang.Theory.S12E22.The.Maternal.Conclusion.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E22.The.Maternal.Conclusion.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   ├── The.Big.Bang.Theory.S12E22.The.Maternal.Conclusion.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   │   ├── The.Big.Bang.Theory.S12E23.The.Change.Constant.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E23.The.Change.Constant.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   ├── The.Big.Bang.Theory.S12E23.The.Change.Constant.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   │   ├── The.Big.Bang.Theory.S12E24.The.Stockholm.Syndrome.1080p.Bluray.AC3.x265.10bit-Yumi.mkv
+│   │   │   ├── The.Big.Bang.Theory.S12E24.The.Stockholm.Syndrome.1080p.Bluray.AC3.x265.10bit-Yumi.nfo
+│   │   │   └── The.Big.Bang.Theory.S12E24.The.Stockholm.Syndrome.1080p.Bluray.AC3.x265.10bit-Yumi-thumb.jpg
+│   │   └── season.nfo
+│   ├── season12-poster.jpg
+│   ├── Season 2
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e01.中英字幕.bd-hr.aac.720p.x264-320-10.bif
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e01.中英字幕.bd-hr.aac.720p.x264.mp4
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e01.中英字幕.bd-hr.aac.720p.x264.nfo
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e01.中英字幕.bd-hr.aac.720p.x264-thumb.jpg
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e02.中英字幕.bd-hr.aac.720p.x264-320-10.bif
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e02.中英字幕.bd-hr.aac.720p.x264.mp4
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e02.中英字幕.bd-hr.aac.720p.x264.nfo
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e02.中英字幕.bd-hr.aac.720p.x264-thumb.jpg
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e03.中英字幕.bd-hr.aac.720p.x264-320-10.bif
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e03.中英字幕.bd-hr.aac.720p.x264.mp4
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e03.中英字幕.bd-hr.aac.720p.x264.nfo
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e03.中英字幕.bd-hr.aac.720p.x264-thumb.jpg
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e04.中英字幕.bd-hr.aac.720p.x264-320-10.bif
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e04.中英字幕.bd-hr.aac.720p.x264.mp4
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e04.中英字幕.bd-hr.aac.720p.x264.nfo
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e04.中英字幕.bd-hr.aac.720p.x264-thumb.jpg
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e05.中英字幕.bd-hr.aac.720p.x264-320-10.bif
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e05.中英字幕.bd-hr.aac.720p.x264.mp4
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e05.中英字幕.bd-hr.aac.720p.x264.nfo
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e05.中英字幕.bd-hr.aac.720p.x264-thumb.jpg
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e06.中英字幕.bd-hr.aac.720p.x264-320-10.bif
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e06.中英字幕.bd-hr.aac.720p.x264.mp4
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e06.中英字幕.bd-hr.aac.720p.x264.nfo
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e06.中英字幕.bd-hr.aac.720p.x264-thumb.jpg
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e07.中英字幕.bd-hr.aac.720p.x264-320-10.bif
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e07.中英字幕.bd-hr.aac.720p.x264.mp4
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e07.中英字幕.bd-hr.aac.720p.x264.nfo
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e07.中英字幕.bd-hr.aac.720p.x264-thumb.jpg
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e08.中英字幕.bd-hr.aac.720p.x264-320-10.bif
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e08.中英字幕.bd-hr.aac.720p.x264.mp4
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e08.中英字幕.bd-hr.aac.720p.x264.nfo
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e08.中英字幕.bd-hr.aac.720p.x264-thumb.jpg
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e09.中英字幕.bd-hr.aac.720p.x264-320-10.bif
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e09.中英字幕.bd-hr.aac.720p.x264.mp4
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e09.中英字幕.bd-hr.aac.720p.x264.nfo
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e09.中英字幕.bd-hr.aac.720p.x264-thumb.jpg
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e10.中英字幕.bd-hr.aac.720p.x264-320-10.bif
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e10.中英字幕.bd-hr.aac.720p.x264.mp4
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e10.中英字幕.bd-hr.aac.720p.x264.nfo
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e10.中英字幕.bd-hr.aac.720p.x264-thumb.jpg
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e11.中英字幕.bd-hr.aac.720p.x264-320-10.bif
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e11.中英字幕.bd-hr.aac.720p.x264.mp4
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e11.中英字幕.bd-hr.aac.720p.x264.nfo
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e11.中英字幕.bd-hr.aac.720p.x264-thumb.jpg
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e12.中英字幕.bd-hr.aac.720p.x264-320-10.bif
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e12.中英字幕.bd-hr.aac.720p.x264.mp4
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e12.中英字幕.bd-hr.aac.720p.x264.nfo
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e12.中英字幕.bd-hr.aac.720p.x264-thumb.jpg
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e13.中英字幕.bd-hr.aac.720p.x264-320-10.bif
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e13.中英字幕.bd-hr.aac.720p.x264.mp4
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e13.中英字幕.bd-hr.aac.720p.x264.nfo
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e13.中英字幕.bd-hr.aac.720p.x264-thumb.jpg
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e14.中英字幕.bd-hr.aac.720p.x264-320-10.bif
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e14.中英字幕.bd-hr.aac.720p.x264.mp4
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e14.中英字幕.bd-hr.aac.720p.x264.nfo
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e14.中英字幕.bd-hr.aac.720p.x264-thumb.jpg
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e15.中英字幕.bd-hr.aac.720p.x264-320-10.bif
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e15.中英字幕.bd-hr.aac.720p.x264.mp4
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e15.中英字幕.bd-hr.aac.720p.x264.nfo
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e15.中英字幕.bd-hr.aac.720p.x264-thumb.jpg
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e16.中英字幕.bd-hr.aac.720p.x264-320-10.bif
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e16.中英字幕.bd-hr.aac.720p.x264.mp4
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e16.中英字幕.bd-hr.aac.720p.x264.nfo
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e16.中英字幕.bd-hr.aac.720p.x264-thumb.jpg
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e17.中英字幕.bd-hr.aac.720p.x264-320-10.bif
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e17.中英字幕.bd-hr.aac.720p.x264.mp4
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e17.中英字幕.bd-hr.aac.720p.x264.nfo
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e17.中英字幕.bd-hr.aac.720p.x264-thumb.jpg
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e18.中英字幕.bd-hr.aac.720p.x264-320-10.bif
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e18.中英字幕.bd-hr.aac.720p.x264.mp4
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e18.中英字幕.bd-hr.aac.720p.x264.nfo
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e18.中英字幕.bd-hr.aac.720p.x264-thumb.jpg
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e19.中英字幕.bd-hr.aac.720p.x264-320-10.bif
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e19.中英字幕.bd-hr.aac.720p.x264.mp4
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e19.中英字幕.bd-hr.aac.720p.x264.nfo
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e19.中英字幕.bd-hr.aac.720p.x264-thumb.jpg
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e20.中英字幕.bd-hr.aac.720p.x264-320-10.bif
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e20.中英字幕.bd-hr.aac.720p.x264.mp4
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e20.中英字幕.bd-hr.aac.720p.x264.nfo
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e20.中英字幕.bd-hr.aac.720p.x264-thumb.jpg
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e21.中英字幕.bd-hr.aac.720p.x264-320-10.bif
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e21.中英字幕.bd-hr.aac.720p.x264.mp4
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e21.中英字幕.bd-hr.aac.720p.x264.nfo
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e21.中英字幕.bd-hr.aac.720p.x264-thumb.jpg
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e22.中英字幕.bd-hr.aac.720p.x264-320-10.bif
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e22.中英字幕.bd-hr.aac.720p.x264.mp4
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e22.中英字幕.bd-hr.aac.720p.x264.nfo
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e22.中英字幕.bd-hr.aac.720p.x264-thumb.jpg
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e23.end.中英字幕.bd-hr.aac.720p.x264-320-10.bif
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e23.end.中英字幕.bd-hr.aac.720p.x264.mp4
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e23.end.中英字幕.bd-hr.aac.720p.x264.nfo
+│   │   ├── 生活大爆炸.the.big.bang.theory.s02e23.end.中英字幕.bd-hr.aac.720p.x264-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 3
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E01.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E01.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E01.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E01.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E02.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E02.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E02.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E02.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E03.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E03.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E03.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E03.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E04.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E04.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E04.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E04.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E05.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E05.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E05.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E05.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E06.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E06.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E06.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E06.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E07.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E07.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E07.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E07.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E08.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E08.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E08.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E08.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E09.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E09.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E09.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E09.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E10.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E10.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E10.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E10.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E11.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E11.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E11.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E11.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E12.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E12.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E12.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E12.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E13.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E13.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E13.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E13.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E14.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E14.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E14.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E14.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E15.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E15.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E15.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E15.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E16.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E16.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E16.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E16.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E17.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E17.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E17.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E17.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E18.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E18.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E18.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E18.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E19.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E19.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E19.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E19.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E20.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E20.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E20.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E20.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E21.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E21.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E21.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E21.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E22.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E22.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E22.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E22.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E23.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E23.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E23.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S03E23.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E01.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E01.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E01.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E01.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E02.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E02.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E02.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E02.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E03.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E03.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E03.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E03.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E04.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E04.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E04.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E04.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E05.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E05.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E05.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E05.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E06.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E06.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E06.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E06.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E07.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E07.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E07.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E07.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E08.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E08.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E08.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E08.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E09.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E09.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E09.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E09.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E10.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视V2-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E10.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视V2.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E10.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视V2.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E10.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视V2-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E11.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E11.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E11.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E11.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E12.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E12.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E12.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E12.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E13.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E13.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E13.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E13.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E14.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E14.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E14.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E14.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E15.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E15.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E15.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E15.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E16.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E16.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E16.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E16.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E17.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E17.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E17.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E17.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E18.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E18.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E18.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E18.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E19.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E19.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E19.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E19.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E20.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E20.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E20.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E20.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E21.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E21.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E21.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E21.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E22.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E22.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E22.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E22.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E23.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E23.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E23.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E23.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E24.END.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E24.END.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E24.END.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S04E24.END.Chi_Eng.HR-BluRay.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 5
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E01.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.V2-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E01.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.V2.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E01.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.V2.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E01.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.V2-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E02.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.V2-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E02.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.V2.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E02.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.V2.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E02.Chi_Eng.HR-HDTV.AC3.1024X576.x264-YYeTs人人影视.V2-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E03.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E03.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E03.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E03.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E04.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视V2-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E04.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视V2.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E04.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视V2.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E04.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视V2-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E05.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视V2-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E05.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视V2.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E05.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视V2.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E05.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视V2-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E06.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E06.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E06.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E06.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E07.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E07.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E07.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E07.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E08.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E08.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E08.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E08.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E09.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E09.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E09.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E09.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E10.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E10.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E10.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E10.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E11.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E11.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E11.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E11.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E12.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视.V2-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E12.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视.V2.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E12.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视.V2.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E12.Chi_Eng.WEBRip.AC3.1024X576.x264-YYeTs人人影视.V2-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E13.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E13.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E13.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E13.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E14.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E14.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E14.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E14.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E15.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E15.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E15.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E15.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E16.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E16.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E16.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E16.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E17.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E17.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E17.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E17.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E18.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E18.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E18.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E18.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E19.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E19.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E19.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E19.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E20.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E20.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E20.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E20.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E21.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E21.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E21.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E21.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E22.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E22.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E22.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E22.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E23.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E23.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E23.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E23.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E24.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E24.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E24.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S05E24.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 6
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E01.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E01.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E01.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E01.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E02.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E02.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E02.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E02.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E03.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E03.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E03.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E03.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E04.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视V2-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E04.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视V2.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E04.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视V2.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E04.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视V2-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E05.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E05.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E05.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E05.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E06.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E06.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E06.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E06.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E07.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E07.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E07.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E07.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E08.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E08.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E08.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E08.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E09.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E09.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E09.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E09.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E10.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E10.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E10.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E10.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E11.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E11.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E11.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E11.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E12.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E12.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E12.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E12.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E13.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E13.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E13.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E13.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E14.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E14.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E14.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E14.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E15.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E15.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E15.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E15.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E16.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E16.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E16.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E16.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E17.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E17.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E17.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E17.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E18.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E18.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E18.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E18.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E19.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E19.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E19.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E19.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E20.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E20.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E20.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E20.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E21.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E21.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E21.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E21.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E22.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E22.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E22.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E22.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E23.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E23.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E23.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E23.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E24.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E24.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E24.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S06E24.Chi_Eng.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 7
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E01.中英字幕.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E01.中英字幕.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E01.中英字幕.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E01.中英字幕.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E02.中英字幕.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E02.中英字幕.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E02.中英字幕.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E02.中英字幕.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E03.中英字幕.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E03.中英字幕.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E03.中英字幕.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E03.中英字幕.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E04.中英字幕.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E04.中英字幕.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E04.中英字幕.WEB-HR.AC3.1024X576.x264-YYeTs人人影视.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E04.中英字幕.WEB-HR.AC3.1024X576.x264-YYeTs人人影视-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E05.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E05.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E05.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E05.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E06.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E06.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E06.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E06.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E07.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E07.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E07.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E07.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E08.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E08.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E08.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E08.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E09.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E09.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E09.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E09.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E10.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E10.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E10.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E10.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E11.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E11.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E11.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E11.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E12.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E12.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E12.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E12.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E13.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E13.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E13.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E13.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E14.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E14.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E14.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E14.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E15.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E15.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E15.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E15.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E16.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E16.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E16.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E16.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E17.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E17.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E17.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E17.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E18.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E18.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E18.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E18.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E19.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E19.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E19.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E19.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E20.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E20.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E20.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E20.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E21.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E21.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E21.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E21.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E22.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E22.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E22.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E22.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E23.中英字幕.WEB-HR.AC3.1024X576.x264-V2-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E23.中英字幕.WEB-HR.AC3.1024X576.x264-V2.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E23.中英字幕.WEB-HR.AC3.1024X576.x264-V2.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E23.中英字幕.WEB-HR.AC3.1024X576.x264-V2-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E24.End.中英字幕.WEB-HR.AC3.1024X576.x264-V2-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E24.End.中英字幕.WEB-HR.AC3.1024X576.x264-V2.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E24.End.中英字幕.WEB-HR.AC3.1024X576.x264-V2.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S07E24.End.中英字幕.WEB-HR.AC3.1024X576.x264-V2-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 8
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E01.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E01.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E01.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E01.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E02.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E02.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E02.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E02.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E03.中英字幕.WEB-HR.AC3.1024X576.x264.v2-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E03.中英字幕.WEB-HR.AC3.1024X576.x264.v2.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E03.中英字幕.WEB-HR.AC3.1024X576.x264.v2.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E03.中英字幕.WEB-HR.AC3.1024X576.x264.v2-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E04.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E04.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E04.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E04.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E05.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E05.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E05.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E05.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E06.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E06.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E06.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E06.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E07.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E07.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E07.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E07.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E08.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E08.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E08.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E08.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E09.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E09.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E09.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E09.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E10.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E10.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E10.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E10.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E11.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E11.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E11.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E11.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E12.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E12.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E12.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E12.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E13.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E13.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E13.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E13.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E14.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E14.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E14.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E14.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E15.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E15.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E15.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E15.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E16.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E16.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E16.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E16.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E17.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E17.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E17.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E17.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E18.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E18.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E18.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E18.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E19.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E19.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E19.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E19.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E20.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E20.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E20.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E20.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E21.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E21.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E21.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E21.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E22.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E22.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E22.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E22.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E23.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E23.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E23.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E23.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E24.END.中英字幕.WEB-HR.AC3.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E24.END.中英字幕.WEB-HR.AC3.1024X576.x264.mkv
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E24.END.中英字幕.WEB-HR.AC3.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S08E24.END.中英字幕.WEB-HR.AC3.1024X576.x264-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 9
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E01.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E01.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E01.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E01.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E02.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E02.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E02.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E02.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E03.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E03.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E03.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E03.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E04.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E04.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E04.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E04.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E05.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E05.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E05.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E05.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E06.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E06.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E06.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E06.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E07.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E07.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E07.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E07.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E08.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E08.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E08.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E08.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E09.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E09.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E09.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E09.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E10.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E10.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E10.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E10.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E11.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E11.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E11.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E11.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E12.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E12.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E12.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E12.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E13.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E13.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E13.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E13.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E14.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E14.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E14.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E14.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E15.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E15.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E15.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E15.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E16.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E16.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E16.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E16.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E17.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E17.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E17.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E17.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E18.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E18.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E18.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E18.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E19.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E19.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E19.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E19.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E20.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E20.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E20.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E20.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E21.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E21.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E21.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E21.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E22.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E22.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E22.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E22.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E23.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E23.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E23.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E23.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E24.END.中英字幕.WEB-HR.AAC.1024X576.x264-320-10.bif
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E24.END.中英字幕.WEB-HR.AAC.1024X576.x264.mp4
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E24.END.中英字幕.WEB-HR.AAC.1024X576.x264.nfo
+│   │   ├── 生活大爆炸.The.Big.Bang.Theory.S09E24.END.中英字幕.WEB-HR.AAC.1024X576.x264-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── The End of the Fucking World
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── Season 1
+│   │   ├── season.nfo
+│   │   ├── The.End.of.the.Fucking.World.S01E01.2160p.NF.WEBRip.DD5.1.x264-NTb-320-10.bif
+│   │   ├── The.End.of.the.Fucking.World.S01E01.2160p.NF.WEBRip.DD5.1.x264-NTb.ChsEngA.ass
+│   │   ├── The.End.of.the.Fucking.World.S01E01.2160p.NF.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── The.End.of.the.Fucking.World.S01E01.2160p.NF.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── The.End.of.the.Fucking.World.S01E01.2160p.NF.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── The.End.of.the.Fucking.World.S01E02.2160p.NF.WEBRip.DD5.1.x264-NTb-320-10.bif
+│   │   ├── The.End.of.the.Fucking.World.S01E02.2160p.NF.WEBRip.DD5.1.x264-NTb.ChsEngA.ass
+│   │   ├── The.End.of.the.Fucking.World.S01E02.2160p.NF.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── The.End.of.the.Fucking.World.S01E02.2160p.NF.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── The.End.of.the.Fucking.World.S01E02.2160p.NF.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── The.End.of.the.Fucking.World.S01E03.2160p.NF.WEBRip.DD5.1.x264-NTb-320-10.bif
+│   │   ├── The.End.of.the.Fucking.World.S01E03.2160p.NF.WEBRip.DD5.1.x264-NTb.ChsEngA.ass
+│   │   ├── The.End.of.the.Fucking.World.S01E03.2160p.NF.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── The.End.of.the.Fucking.World.S01E03.2160p.NF.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── The.End.of.the.Fucking.World.S01E03.2160p.NF.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── The.End.of.the.Fucking.World.S01E04.2160p.NF.WEBRip.DD5.1.x264-NTb-320-10.bif
+│   │   ├── The.End.of.the.Fucking.World.S01E04.2160p.NF.WEBRip.DD5.1.x264-NTb.ChsEngA.ass
+│   │   ├── The.End.of.the.Fucking.World.S01E04.2160p.NF.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── The.End.of.the.Fucking.World.S01E04.2160p.NF.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── The.End.of.the.Fucking.World.S01E04.2160p.NF.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── The.End.of.the.Fucking.World.S01E05.2160p.NF.WEBRip.DD5.1.x264-NTb-320-10.bif
+│   │   ├── The.End.of.the.Fucking.World.S01E05.2160p.NF.WEBRip.DD5.1.x264-NTb.ChsEngA.ass
+│   │   ├── The.End.of.the.Fucking.World.S01E05.2160p.NF.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── The.End.of.the.Fucking.World.S01E05.2160p.NF.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── The.End.of.the.Fucking.World.S01E05.2160p.NF.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── The.End.of.the.Fucking.World.S01E06.2160p.NF.WEBRip.DD5.1.x264-NTb-320-10.bif
+│   │   ├── The.End.of.the.Fucking.World.S01E06.2160p.NF.WEBRip.DD5.1.x264-NTb.ChsEngA.ass
+│   │   ├── The.End.of.the.Fucking.World.S01E06.2160p.NF.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── The.End.of.the.Fucking.World.S01E06.2160p.NF.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── The.End.of.the.Fucking.World.S01E06.2160p.NF.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── The.End.of.the.Fucking.World.S01E07.2160p.NF.WEBRip.DD5.1.x264-NTb-320-10.bif
+│   │   ├── The.End.of.the.Fucking.World.S01E07.2160p.NF.WEBRip.DD5.1.x264-NTb.ChsEngA.ass
+│   │   ├── The.End.of.the.Fucking.World.S01E07.2160p.NF.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── The.End.of.the.Fucking.World.S01E07.2160p.NF.WEBRip.DD5.1.x264-NTb.nfo
+│   │   ├── The.End.of.the.Fucking.World.S01E07.2160p.NF.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   │   ├── The.End.of.the.Fucking.World.S01E08.2160p.NF.WEBRip.DD5.1.x264-NTb-320-10.bif
+│   │   ├── The.End.of.the.Fucking.World.S01E08.2160p.NF.WEBRip.DD5.1.x264-NTb.ChsEngA.ass
+│   │   ├── The.End.of.the.Fucking.World.S01E08.2160p.NF.WEBRip.DD5.1.x264-NTb.mkv
+│   │   ├── The.End.of.the.Fucking.World.S01E08.2160p.NF.WEBRip.DD5.1.x264-NTb.nfo
+│   │   └── The.End.of.the.Fucking.World.S01E08.2160p.NF.WEBRip.DD5.1.x264-NTb-thumb.jpg
+│   ├── Season 2
+│   │   ├── season.nfo
+│   │   ├── The.End.of.the.Fucking.World.S02E01.Episode.1.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY-320-10.bif
+│   │   ├── The.End.of.the.Fucking.World.S02E01.Episode.1.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.chs.eng.ass
+│   │   ├── The.End.of.the.Fucking.World.S02E01.Episode.1.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.mkv
+│   │   ├── The.End.of.the.Fucking.World.S02E01.Episode.1.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.nfo
+│   │   ├── The.End.of.the.Fucking.World.S02E01.Episode.1.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY-thumb.jpg
+│   │   ├── The.End.of.the.Fucking.World.S02E02.Episode.2.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY-320-10.bif
+│   │   ├── The.End.of.the.Fucking.World.S02E02.Episode.2.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.chs.eng.ass
+│   │   ├── The.End.of.the.Fucking.World.S02E02.Episode.2.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.mkv
+│   │   ├── The.End.of.the.Fucking.World.S02E02.Episode.2.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.nfo
+│   │   ├── The.End.of.the.Fucking.World.S02E02.Episode.2.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY-thumb.jpg
+│   │   ├── The.End.of.the.Fucking.World.S02E03.Episode.3.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY-320-10.bif
+│   │   ├── The.End.of.the.Fucking.World.S02E03.Episode.3.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.chs.eng.ass
+│   │   ├── The.End.of.the.Fucking.World.S02E03.Episode.3.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.mkv
+│   │   ├── The.End.of.the.Fucking.World.S02E03.Episode.3.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.nfo
+│   │   ├── The.End.of.the.Fucking.World.S02E03.Episode.3.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY-thumb.jpg
+│   │   ├── The.End.of.the.Fucking.World.S02E04.Episode.4.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY-320-10.bif
+│   │   ├── The.End.of.the.Fucking.World.S02E04.Episode.4.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.chs.eng.ass
+│   │   ├── The.End.of.the.Fucking.World.S02E04.Episode.4.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.mkv
+│   │   ├── The.End.of.the.Fucking.World.S02E04.Episode.4.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.nfo
+│   │   ├── The.End.of.the.Fucking.World.S02E04.Episode.4.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY-thumb.jpg
+│   │   ├── The.End.of.the.Fucking.World.S02E05.Episode.5.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY-320-10.bif
+│   │   ├── The.End.of.the.Fucking.World.S02E05.Episode.5.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.chs.eng.ass
+│   │   ├── The.End.of.the.Fucking.World.S02E05.Episode.5.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.mkv
+│   │   ├── The.End.of.the.Fucking.World.S02E05.Episode.5.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.nfo
+│   │   ├── The.End.of.the.Fucking.World.S02E05.Episode.5.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY-thumb.jpg
+│   │   ├── The.End.of.the.Fucking.World.S02E06.Episode.6.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY-320-10.bif
+│   │   ├── The.End.of.the.Fucking.World.S02E06.Episode.6.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.chs.eng.ass
+│   │   ├── The.End.of.the.Fucking.World.S02E06.Episode.6.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.mkv
+│   │   ├── The.End.of.the.Fucking.World.S02E06.Episode.6.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.nfo
+│   │   ├── The.End.of.the.Fucking.World.S02E06.Episode.6.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY-thumb.jpg
+│   │   ├── The.End.of.the.Fucking.World.S02E07.Episode.7.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY-320-10.bif
+│   │   ├── The.End.of.the.Fucking.World.S02E07.Episode.7.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.chs.eng.ass
+│   │   ├── The.End.of.the.Fucking.World.S02E07.Episode.7.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.mkv
+│   │   ├── The.End.of.the.Fucking.World.S02E07.Episode.7.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.nfo
+│   │   ├── The.End.of.the.Fucking.World.S02E07.Episode.7.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY-thumb.jpg
+│   │   ├── The.End.of.the.Fucking.World.S02E08.Episode.8.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY-320-10.bif
+│   │   ├── The.End.of.the.Fucking.World.S02E08.Episode.8.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.chs.eng.ass
+│   │   ├── The.End.of.the.Fucking.World.S02E08.Episode.8.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.mkv
+│   │   ├── The.End.of.the.Fucking.World.S02E08.Episode.8.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY.nfo
+│   │   └── The.End.of.the.Fucking.World.S02E08.Episode.8.1080p.HDR.NF.WEBRip.DDP5.1.Atmos.H.265-LAZY-thumb.jpg
+│   └── tvshow.nfo
+├── The Expanse
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── season.nfo
+│   │   ├── The.Expanse.S01E01.1080p.BluRay.x264-ROVERS-320-10.bif
+│   │   ├── The.Expanse.S01E01.1080p.BluRay.x264-ROVERS.en.srt
+│   │   ├── The.Expanse.S01E01.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── The.Expanse.S01E01.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── The.Expanse.S01E01.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── The.Expanse.S01E02.1080p.BluRay.x264-ROVERS-320-10.bif
+│   │   ├── The.Expanse.S01E02.1080p.BluRay.x264-ROVERS.en.srt
+│   │   ├── The.Expanse.S01E02.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── The.Expanse.S01E02.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── The.Expanse.S01E02.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── The.Expanse.S01E03.1080p.BluRay.x264-ROVERS-320-10.bif
+│   │   ├── The.Expanse.S01E03.1080p.BluRay.x264-ROVERS.en.srt
+│   │   ├── The.Expanse.S01E03.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── The.Expanse.S01E03.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── The.Expanse.S01E03.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── The.Expanse.S01E04.1080p.BluRay.x264-ROVERS-320-10.bif
+│   │   ├── The.Expanse.S01E04.1080p.BluRay.x264-ROVERS.en.srt
+│   │   ├── The.Expanse.S01E04.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── The.Expanse.S01E04.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── The.Expanse.S01E04.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── The.Expanse.S01E05.1080p.BluRay.x264-ROVERS-320-10.bif
+│   │   ├── The.Expanse.S01E05.1080p.BluRay.x264-ROVERS.en.srt
+│   │   ├── The.Expanse.S01E05.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── The.Expanse.S01E05.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── The.Expanse.S01E05.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── The.Expanse.S01E06.RERIP.1080p.BluRay.x264-ROVERS-320-10.bif
+│   │   ├── The.Expanse.S01E06.RERIP.1080p.BluRay.x264-ROVERS.en.srt
+│   │   ├── The.Expanse.S01E06.RERIP.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── The.Expanse.S01E06.RERIP.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── The.Expanse.S01E06.RERIP.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── The.Expanse.S01E07.1080p.BluRay.x264-ROVERS-320-10.bif
+│   │   ├── The.Expanse.S01E07.1080p.BluRay.x264-ROVERS.en.srt
+│   │   ├── The.Expanse.S01E07.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── The.Expanse.S01E07.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── The.Expanse.S01E07.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── The.Expanse.S01E08.1080p.BluRay.x264-ROVERS-320-10.bif
+│   │   ├── The.Expanse.S01E08.1080p.BluRay.x264-ROVERS.en.srt
+│   │   ├── The.Expanse.S01E08.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── The.Expanse.S01E08.1080p.BluRay.x264-ROVERS.nfo
+│   │   ├── The.Expanse.S01E08.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   │   ├── The.Expanse.S01E09-E10.1080p.BluRay.x264-ROVERS-320-10.bif
+│   │   ├── The.Expanse.S01E09-E10.1080p.BluRay.x264-ROVERS.mkv
+│   │   ├── The.Expanse.S01E09-E10.1080p.BluRay.x264-ROVERS.nfo
+│   │   └── The.Expanse.S01E09-E10.1080p.BluRay.x264-ROVERS-thumb.jpg
+│   └── tvshow.nfo
+├── The Handmaids Tale
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season04-poster.jpg
+│   ├── Season 1
+│   │   ├── season.nfo
+│   │   ├── The.Handmaids.Tale.S01E01.2160p.WEB.H265-DEFLATE-320-10.bif
+│   │   ├── The.Handmaids.Tale.S01E01.2160p.WEB.H265-DEFLATE.mkv
+│   │   ├── The.Handmaids.Tale.S01E01.2160p.WEB.H265-DEFLATE.nfo
+│   │   ├── The.Handmaids.Tale.S01E01.2160p.WEB.H265-DEFLATE-thumb.jpg
+│   │   ├── The.Handmaids.Tale.S01E01.2160p.WEB.H265-DEFLATE.zh-cn.srt
+│   │   ├── The.Handmaids.Tale.S01E02.2160p.WEB.H265-DEFLATE-320-10.bif
+│   │   ├── The.Handmaids.Tale.S01E02.2160p.WEB.H265-DEFLATE.mkv
+│   │   ├── The.Handmaids.Tale.S01E02.2160p.WEB.H265-DEFLATE.nfo
+│   │   ├── The.Handmaids.Tale.S01E02.2160p.WEB.H265-DEFLATE-thumb.jpg
+│   │   ├── The.Handmaids.Tale.S01E02.2160p.WEB.H265-DEFLATE.zh-cn.srt
+│   │   ├── The.Handmaids.Tale.S01E03.2160p.WEB.H265-DEFLATE-320-10.bif
+│   │   ├── The.Handmaids.Tale.S01E03.2160p.WEB.H265-DEFLATE.mkv
+│   │   ├── The.Handmaids.Tale.S01E03.2160p.WEB.H265-DEFLATE.nfo
+│   │   ├── The.Handmaids.Tale.S01E03.2160p.WEB.H265-DEFLATE-thumb.jpg
+│   │   ├── The.Handmaids.Tale.S01E04.2160p.WEB.H265-DEFLATE-320-10.bif
+│   │   ├── The.Handmaids.Tale.S01E04.2160p.WEB.H265-DEFLATE.mkv
+│   │   ├── The.Handmaids.Tale.S01E04.2160p.WEB.H265-DEFLATE.nfo
+│   │   ├── The.Handmaids.Tale.S01E04.2160p.WEB.H265-DEFLATE-thumb.jpg
+│   │   ├── The.Handmaids.Tale.S01E04.2160p.WEB.H265-DEFLATE.zh-cn.srt
+│   │   ├── The.Handmaids.Tale.S01E05.2160p.WEB.H265-DEFLATE-320-10.bif
+│   │   ├── The.Handmaids.Tale.S01E05.2160p.WEB.H265-DEFLATE.mkv
+│   │   ├── The.Handmaids.Tale.S01E05.2160p.WEB.H265-DEFLATE.nfo
+│   │   ├── The.Handmaids.Tale.S01E05.2160p.WEB.H265-DEFLATE-thumb.jpg
+│   │   ├── The.Handmaids.Tale.S01E06.2160p.WEB.H265-DEFLATE-320-10.bif
+│   │   ├── The.Handmaids.Tale.S01E06.2160p.WEB.H265-DEFLATE.mkv
+│   │   ├── The.Handmaids.Tale.S01E06.2160p.WEB.H265-DEFLATE.nfo
+│   │   ├── The.Handmaids.Tale.S01E06.2160p.WEB.H265-DEFLATE-thumb.jpg
+│   │   ├── The.Handmaids.Tale.S01E07.2160p.WEB.H265-DEFLATE-320-10.bif
+│   │   ├── The.Handmaids.Tale.S01E07.2160p.WEB.H265-DEFLATE.mkv
+│   │   ├── The.Handmaids.Tale.S01E07.2160p.WEB.H265-DEFLATE.nfo
+│   │   ├── The.Handmaids.Tale.S01E07.2160p.WEB.H265-DEFLATE-thumb.jpg
+│   │   ├── The.Handmaids.Tale.S01E08.2160p.WEB.H265-DEFLATE-320-10.bif
+│   │   ├── The.Handmaids.Tale.S01E08.2160p.WEB.H265-DEFLATE.mkv
+│   │   ├── The.Handmaids.Tale.S01E08.2160p.WEB.H265-DEFLATE.nfo
+│   │   ├── The.Handmaids.Tale.S01E08.2160p.WEB.H265-DEFLATE-thumb.jpg
+│   │   ├── The.Handmaids.Tale.S01E09.2160p.WEB.H265-DEFLATE-320-10.bif
+│   │   ├── The.Handmaids.Tale.S01E09.2160p.WEB.H265-DEFLATE.mkv
+│   │   ├── The.Handmaids.Tale.S01E09.2160p.WEB.H265-DEFLATE.nfo
+│   │   ├── The.Handmaids.Tale.S01E09.2160p.WEB.H265-DEFLATE-thumb.jpg
+│   │   ├── The.Handmaids.Tale.S01E10.2160p.WEB.H265-DEFLATE-320-10.bif
+│   │   ├── The.Handmaids.Tale.S01E10.2160p.WEB.H265-DEFLATE.mkv
+│   │   ├── The.Handmaids.Tale.S01E10.2160p.WEB.H265-DEFLATE.nfo
+│   │   └── The.Handmaids.Tale.S01E10.2160p.WEB.H265-DEFLATE-thumb.jpg
+│   ├── Season 2
+│   │   ├── season.nfo
+│   │   ├── The.Handmaid's.Tale.S02.2018.1080p.Blu-ray.x265.AC3￡cXcY@FRDS.nfo
+│   │   ├── The Handmaid's Tale S02_海报.jpg
+│   │   ├── The.Handmaid's.Tale.S02_文档.txt
+│   │   ├── The.Handmaid's.Tale.S02E01.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S02E01.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S02E01.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── The.Handmaid's.Tale.S02E02.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S02E02.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S02E02.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── The.Handmaid's.Tale.S02E03.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S02E03.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S02E03.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── The.Handmaid's.Tale.S02E04.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S02E04.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S02E04.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── The.Handmaid's.Tale.S02E05.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.jpg
+│   │   ├── The.Handmaid's.Tale.S02E05.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S02E05.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S02E06.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S02E06.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S02E06.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── The.Handmaid's.Tale.S02E07.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S02E07.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S02E07.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── The.Handmaid's.Tale.S02E08.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S02E08.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S02E08.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── The.Handmaid's.Tale.S02E09.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S02E09.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S02E09.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── The.Handmaid's.Tale.S02E10.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S02E10.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S02E10.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── The.Handmaid's.Tale.S02E11.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S02E11.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S02E11.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── The.Handmaid's.Tale.S02E12.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S02E12.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S02E12.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── The.Handmaid's.Tale.S02E13.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S02E13.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   └── The.Handmaid's.Tale.S02E13.2018.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   ├── Season 3
+│   │   ├── season.nfo
+│   │   ├── The.Handmaid's.Tale.S03.1080p.WEB-DL.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S03_海报.jpg
+│   │   ├── The.Handmaid's.Tale.S03_简介.txt
+│   │   ├── The.Handmaid's.Tale.S03E01.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S03E01.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S03E01.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── The.Handmaid's.Tale.S03E02.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S03E02.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S03E02.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── The.Handmaid's.Tale.S03E03.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.jpg
+│   │   ├── The.Handmaid's.Tale.S03E03.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S03E03.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S03E04.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S03E04.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S03E04.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── The.Handmaid's.Tale.S03E05.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S03E05.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S03E05.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── The.Handmaid's.Tale.S03E06.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S03E06.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S03E06.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── The.Handmaid's.Tale.S03E07.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S03E07.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S03E07.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── The.Handmaid's.Tale.S03E08.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S03E08.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S03E08.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── The.Handmaid's.Tale.S03E09.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S03E09.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S03E09.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── The.Handmaid's.Tale.S03E10.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S03E10.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S03E10.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── The.Handmaid's.Tale.S03E11.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S03E11.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S03E11.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── The.Handmaid's.Tale.S03E12.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S03E12.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   ├── The.Handmaid's.Tale.S03E12.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   │   ├── The.Handmaid's.Tale.S03E13.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.mkv
+│   │   ├── The.Handmaid's.Tale.S03E13.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS.nfo
+│   │   └── The.Handmaid's.Tale.S03E13.2019.1080p.Blu-ray.x265.10bit.AC3￡cXcY@FRDS-thumb.jpg
+│   ├── Season 4
+│   │   ├── season.nfo
+│   │   ├── The.Handmaids.Tale.S04E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── The.Handmaids.Tale.S04E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── The.Handmaids.Tale.S04E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── The.Handmaids.Tale.S04E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── The.Handmaids.Tale.S04E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── The.Handmaids.Tale.S04E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── The.Handmaids.Tale.S04E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── The.Handmaids.Tale.S04E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── The.Handmaids.Tale.S04E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── The.Handmaids.Tale.S04E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── The.Handmaids.Tale.S04E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── The.Handmaids.Tale.S04E04.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── The.Handmaids.Tale.S04E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── The.Handmaids.Tale.S04E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── The.Handmaids.Tale.S04E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── The.Handmaids.Tale.S04E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── The.Handmaids.Tale.S04E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── The.Handmaids.Tale.S04E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── The.Handmaids.Tale.S04E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── The.Handmaids.Tale.S04E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── The.Handmaids.Tale.S04E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── The.Handmaids.Tale.S04E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── The.Handmaids.Tale.S04E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── The.Handmaids.Tale.S04E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── The.Handmaids.Tale.S04E09.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── The.Handmaids.Tale.S04E09.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── The.Handmaids.Tale.S04E09.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── The.Handmaids.Tale.S04E10.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── The.Handmaids.Tale.S04E10.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   └── The.Handmaids.Tale.S04E10.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   └── tvshow.nfo
+├── The Innocent
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── season01-poster.jpg
+│   │   ├── season.nfo
+│   │   ├── The.Innocent.S01E01.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB.mkv
+│   │   ├── The.Innocent.S01E01.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB.nfo
+│   │   ├── The.Innocent.S01E01.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB-thumb.jpg
+│   │   ├── The.Innocent.S01E02.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB.mkv
+│   │   ├── The.Innocent.S01E02.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB.nfo
+│   │   ├── The.Innocent.S01E02.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB-thumb.jpg
+│   │   ├── The.Innocent.S01E03.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB.mkv
+│   │   ├── The.Innocent.S01E03.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB.nfo
+│   │   ├── The.Innocent.S01E03.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB-thumb.jpg
+│   │   ├── The.Innocent.S01E04.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB.mkv
+│   │   ├── The.Innocent.S01E04.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB.nfo
+│   │   ├── The.Innocent.S01E04.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB-thumb.jpg
+│   │   ├── The.Innocent.S01E05.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB.mkv
+│   │   ├── The.Innocent.S01E05.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB.nfo
+│   │   ├── The.Innocent.S01E05.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB-thumb.jpg
+│   │   ├── The.Innocent.S01E06.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB.mkv
+│   │   ├── The.Innocent.S01E06.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB.nfo
+│   │   ├── The.Innocent.S01E06.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB-thumb.jpg
+│   │   ├── The.Innocent.S01E07.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB.mkv
+│   │   ├── The.Innocent.S01E07.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB.nfo
+│   │   ├── The.Innocent.S01E07.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB-thumb.jpg
+│   │   ├── The.Innocent.S01E08.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB.mkv
+│   │   ├── The.Innocent.S01E08.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB.nfo
+│   │   └── The.Innocent.S01E08.1080p.NF.WEB-DL.DDP5.1.x264-3cTWeB-thumb.jpg
+│   └── tvshow.nfo
+├── The League of Gentlemen
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── Season 1
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S01E01.Welcome.to.Royston.Vasey.1999.D9.MiniSD-TLF.mkv
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S01E01.Welcome.to.Royston.Vasey.1999.D9.MiniSD-TLF.nfo
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S01E01.Welcome.to.Royston.Vasey.1999.D9.MiniSD-TLF-thumb.jpg
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S01E02.The.Road.to.Royston.Vasey.1999.D9.MiniSD-TLF.mkv
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S01E02.The.Road.to.Royston.Vasey.1999.D9.MiniSD-TLF.nfo
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S01E02.The.Road.to.Royston.Vasey.1999.D9.MiniSD-TLF-thumb.jpg
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S01E03.Nightmare.in.Royston.Vasey.1999.D9.MiniSD-TLF.mkv
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S01E03.Nightmare.in.Royston.Vasey.1999.D9.MiniSD-TLF.nfo
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S01E03.Nightmare.in.Royston.Vasey.1999.D9.MiniSD-TLF-thumb.jpg
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S01E04.The.Beast.of.Royston.Vasey.1999.D9.MiniSD-TLF.mkv
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S01E04.The.Beast.of.Royston.Vasey.1999.D9.MiniSD-TLF.nfo
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S01E04.The.Beast.of.Royston.Vasey.1999.D9.MiniSD-TLF-thumb.jpg
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S01E05.Love.Comes.to.Royston.Vasey.1999.D9.MiniSD-TLF.mkv
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S01E05.Love.Comes.to.Royston.Vasey.1999.D9.MiniSD-TLF.nfo
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S01E05.Love.Comes.to.Royston.Vasey.1999.D9.MiniSD-TLF-thumb.jpg
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S01E06.Escape.from.Royston.Vasey.1999.D9.MiniSD-TLF.mkv
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S01E06.Escape.from.Royston.Vasey.1999.D9.MiniSD-TLF.nfo
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S01E06.Escape.from.Royston.Vasey.1999.D9.MiniSD-TLF-thumb.jpg
+│   │   ├── clearlogo.png
+│   │   ├── fanart.jpg
+│   │   ├── landscape.jpg
+│   │   ├── poster.jpg
+│   │   ├── season01-poster.jpg
+│   │   ├── season.nfo
+│   │   └── tvshow.nfo
+│   ├── Season 2
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S02E01.Destination.Royston.Vasey.2000.D9.MiniSD-TLF.mkv
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S02E01.Destination.Royston.Vasey.2000.D9.MiniSD-TLF.nfo
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S02E01.Destination.Royston.Vasey.2000.D9.MiniSD-TLF-thumb.jpg
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S02E02.Lust.for.Royston.Vasey.2000.D9.MiniSD-TLF.mkv
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S02E02.Lust.for.Royston.Vasey.2000.D9.MiniSD-TLF.nfo
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S02E02.Lust.for.Royston.Vasey.2000.D9.MiniSD-TLF-thumb.jpg
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S02E03.A.Plague.on.Royston.Vasey.2000.D9.MiniSD-TLF.mkv
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S02E03.A.Plague.on.Royston.Vasey.2000.D9.MiniSD-TLF.nfo
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S02E03.A.Plague.on.Royston.Vasey.2000.D9.MiniSD-TLF-thumb.jpg
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S02E04.Death.in.Royston.Vasey.2000.D9.MiniSD-TLF.mkv
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S02E04.Death.in.Royston.Vasey.2000.D9.MiniSD-TLF.nfo
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S02E04.Death.in.Royston.Vasey.2000.D9.MiniSD-TLF-thumb.jpg
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S02E05.Anarchy.in.Royston.Vasey.2000.D9.MiniSD-TLF.mkv
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S02E05.Anarchy.in.Royston.Vasey.2000.D9.MiniSD-TLF.nfo
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S02E05.Anarchy.in.Royston.Vasey.2000.D9.MiniSD-TLF-thumb.jpg
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S02E06.Royston.Vasey.and.the.Monster.from.Hell.2000.D9.MiniSD-TLF.mkv
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S02E06.Royston.Vasey.and.the.Monster.from.Hell.2000.D9.MiniSD-TLF.nfo
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S02E06.Royston.Vasey.and.the.Monster.from.Hell.2000.D9.MiniSD-TLF-thumb.jpg
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S02E07.Christmas.Special.2000.D9.MiniSD-TLF.mkv
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S02E07.Christmas.Special.2000.D9.MiniSD-TLF.nfo
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S02E07.Christmas.Special.2000.D9.MiniSD-TLF-thumb.jpg
+│   │   ├── clearlogo.png
+│   │   ├── fanart.jpg
+│   │   ├── landscape.jpg
+│   │   ├── poster.jpg
+│   │   ├── season02-poster.jpg
+│   │   ├── season.nfo
+│   │   └── tvshow.nfo
+│   ├── Season 3
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S03E01.The.Lesbian.and.the.Monkey.2002.D9.MiniSD-TLF.mkv
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S03E01.The.Lesbian.and.the.Monkey.2002.D9.MiniSD-TLF.nfo
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S03E01.The.Lesbian.and.the.Monkey.2002.D9.MiniSD-TLF-thumb.jpg
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S03E02.The.One-Armed.Man.Is.King.2002.D9.MiniSD-TLF.mkv
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S03E02.The.One-Armed.Man.Is.King.2002.D9.MiniSD-TLF.nfo
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S03E02.The.One-Armed.Man.Is.King.2002.D9.MiniSD-TLF-thumb.jpg
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S03E03.Turn.Again.Geoff.Tipps.2002.D9.MiniSD-TLF.mkv
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S03E03.Turn.Again.Geoff.Tipps.2002.D9.MiniSD-TLF.nfo
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S03E03.Turn.Again.Geoff.Tipps.2002.D9.MiniSD-TLF-thumb.jpg
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S03E04.The.Medusa.Touch.2002.D9.MiniSD-TLF.mkv
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S03E04.The.Medusa.Touch.2002.D9.MiniSD-TLF.nfo
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S03E04.The.Medusa.Touch.2002.D9.MiniSD-TLF-thumb.jpg
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S03E05.Beauty.and.the.Beast.2002.D9.MiniSD-TLF.mkv
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S03E05.Beauty.and.the.Beast.2002.D9.MiniSD-TLF.nfo
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S03E05.Beauty.and.the.Beast.2002.D9.MiniSD-TLF-thumb.jpg
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S03E06.How.the.Elephant.Got.Its.Trunk.2002.D9.MiniSD-TLF.mkv
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S03E06.How.the.Elephant.Got.Its.Trunk.2002.D9.MiniSD-TLF.nfo
+│   │   ├── 绅士联盟.The.League.of.Gentlemen.S03E06.How.the.Elephant.Got.Its.Trunk.2002.D9.MiniSD-TLF-thumb.jpg
+│   │   ├── clearlogo.png
+│   │   ├── fanart.jpg
+│   │   ├── landscape.jpg
+│   │   ├── poster.jpg
+│   │   ├── season03-poster.jpg
+│   │   ├── season.nfo
+│   │   └── tvshow.nfo
+│   └── tvshow.nfo
+├── The Queens Gambit (2020)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── season.nfo
+│   │   ├── The.Queens.Gambit.S01E01.2020.Netflix.WEB-DL.1080p.x264.DDP-HDCTV.mkv
+│   │   ├── The.Queens.Gambit.S01E01.2020.Netflix.WEB-DL.1080p.x264.DDP-HDCTV.nfo
+│   │   ├── The.Queens.Gambit.S01E01.2020.Netflix.WEB-DL.1080p.x264.DDP-HDCTV-thumb.jpg
+│   │   ├── The.Queens.Gambit.S01E02.2020.Netflix.WEB-DL.1080p.x264.DDP-HDCTV.mkv
+│   │   ├── The.Queens.Gambit.S01E02.2020.Netflix.WEB-DL.1080p.x264.DDP-HDCTV.nfo
+│   │   ├── The.Queens.Gambit.S01E02.2020.Netflix.WEB-DL.1080p.x264.DDP-HDCTV-thumb.jpg
+│   │   ├── The.Queens.Gambit.S01E03.2020.Netflix.WEB-DL.1080p.x264.DDP-HDCTV.mkv
+│   │   ├── The.Queens.Gambit.S01E03.2020.Netflix.WEB-DL.1080p.x264.DDP-HDCTV.nfo
+│   │   ├── The.Queens.Gambit.S01E03.2020.Netflix.WEB-DL.1080p.x264.DDP-HDCTV-thumb.jpg
+│   │   ├── The.Queens.Gambit.S01E04.2020.Netflix.WEB-DL.1080p.x264.DDP-HDCTV.mkv
+│   │   ├── The.Queens.Gambit.S01E04.2020.Netflix.WEB-DL.1080p.x264.DDP-HDCTV.nfo
+│   │   ├── The.Queens.Gambit.S01E04.2020.Netflix.WEB-DL.1080p.x264.DDP-HDCTV-thumb.jpg
+│   │   ├── The.Queens.Gambit.S01E05.2020.Netflix.WEB-DL.1080p.x264.DDP-HDCTV.mkv
+│   │   ├── The.Queens.Gambit.S01E05.2020.Netflix.WEB-DL.1080p.x264.DDP-HDCTV.nfo
+│   │   ├── The.Queens.Gambit.S01E05.2020.Netflix.WEB-DL.1080p.x264.DDP-HDCTV-thumb.jpg
+│   │   ├── The.Queens.Gambit.S01E06.2020.Netflix.WEB-DL.1080p.x264.DDP-HDCTV.mkv
+│   │   ├── The.Queens.Gambit.S01E06.2020.Netflix.WEB-DL.1080p.x264.DDP-HDCTV.nfo
+│   │   ├── The.Queens.Gambit.S01E06.2020.Netflix.WEB-DL.1080p.x264.DDP-HDCTV-thumb.jpg
+│   │   ├── The.Queens.Gambit.S01E07.2020.Netflix.WEB-DL.1080p.x264.DDP-HDCTV.mkv
+│   │   ├── The.Queens.Gambit.S01E07.2020.Netflix.WEB-DL.1080p.x264.DDP-HDCTV.nfo
+│   │   └── The.Queens.Gambit.S01E07.2020.Netflix.WEB-DL.1080p.x264.DDP-HDCTV-thumb.jpg
+│   └── tvshow.nfo
+├── Unbelievable
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── tvshow.nfo
+│   ├── Unbelievable.S01E01.iNTERNAL.1080p.WEB.X264-AMRAP-320-10.bif
+│   ├── Unbelievable.S01E01.iNTERNAL.1080p.WEB.X264-AMRAP.简体&英文.srt
+│   ├── Unbelievable.S01E01.iNTERNAL.1080p.WEB.X264-AMRAP.mkv
+│   ├── Unbelievable.S01E01.iNTERNAL.1080p.WEB.X264-AMRAP.nfo
+│   ├── Unbelievable.S01E01.iNTERNAL.1080p.WEB.X264-AMRAP-thumb.jpg
+│   ├── Unbelievable.S01E02.iNTERNAL.1080p.WEB.X264-AMRAP-320-10.bif
+│   ├── Unbelievable.S01E02.iNTERNAL.1080p.WEB.X264-AMRAP.简体&英文.srt
+│   ├── Unbelievable.S01E02.iNTERNAL.1080p.WEB.X264-AMRAP.mkv
+│   ├── Unbelievable.S01E02.iNTERNAL.1080p.WEB.X264-AMRAP.nfo
+│   ├── Unbelievable.S01E02.iNTERNAL.1080p.WEB.X264-AMRAP-thumb.jpg
+│   ├── Unbelievable.S01E03.iNTERNAL.1080p.WEB.X264-AMRAP-320-10.bif
+│   ├── Unbelievable.S01E03.iNTERNAL.1080p.WEB.X264-AMRAP.简体&英文.srt
+│   ├── Unbelievable.S01E03.iNTERNAL.1080p.WEB.X264-AMRAP.mkv
+│   ├── Unbelievable.S01E03.iNTERNAL.1080p.WEB.X264-AMRAP.nfo
+│   ├── Unbelievable.S01E03.iNTERNAL.1080p.WEB.X264-AMRAP-thumb.jpg
+│   ├── Unbelievable.S01E04.iNTERNAL.1080p.WEB.X264-AMRAP-320-10.bif
+│   ├── Unbelievable.S01E04.iNTERNAL.1080p.WEB.X264-AMRAP.简体&英文.srt
+│   ├── Unbelievable.S01E04.iNTERNAL.1080p.WEB.X264-AMRAP.mkv
+│   ├── Unbelievable.S01E04.iNTERNAL.1080p.WEB.X264-AMRAP.nfo
+│   ├── Unbelievable.S01E04.iNTERNAL.1080p.WEB.X264-AMRAP-thumb.jpg
+│   ├── Unbelievable.S01E05.iNTERNAL.1080p.WEB.X264-AMRAP-320-10.bif
+│   ├── Unbelievable.S01E05.iNTERNAL.1080p.WEB.X264-AMRAP.简体&英文.srt
+│   ├── Unbelievable.S01E05.iNTERNAL.1080p.WEB.X264-AMRAP.mkv
+│   ├── Unbelievable.S01E05.iNTERNAL.1080p.WEB.X264-AMRAP.nfo
+│   ├── Unbelievable.S01E05.iNTERNAL.1080p.WEB.X264-AMRAP-thumb.jpg
+│   ├── Unbelievable.S01E06.iNTERNAL.1080p.WEB.X264-AMRAP-320-10.bif
+│   ├── Unbelievable.S01E06.iNTERNAL.1080p.WEB.X264-AMRAP.简体&英文.srt
+│   ├── Unbelievable.S01E06.iNTERNAL.1080p.WEB.X264-AMRAP.mkv
+│   ├── Unbelievable.S01E06.iNTERNAL.1080p.WEB.X264-AMRAP.nfo
+│   ├── Unbelievable.S01E06.iNTERNAL.1080p.WEB.X264-AMRAP-thumb.jpg
+│   ├── Unbelievable.S01E07.iNTERNAL.1080p.WEB.X264-AMRAP-320-10.bif
+│   ├── Unbelievable.S01E07.iNTERNAL.1080p.WEB.X264-AMRAP.简体&英文.srt
+│   ├── Unbelievable.S01E07.iNTERNAL.1080p.WEB.X264-AMRAP.mkv
+│   ├── Unbelievable.S01E07.iNTERNAL.1080p.WEB.X264-AMRAP.nfo
+│   ├── Unbelievable.S01E07.iNTERNAL.1080p.WEB.X264-AMRAP-thumb.jpg
+│   ├── Unbelievable.S01E08.iNTERNAL.1080p.WEB.X264-AMRAP-320-10.bif
+│   ├── Unbelievable.S01E08.iNTERNAL.1080p.WEB.X264-AMRAP.简体&英文.srt
+│   ├── Unbelievable.S01E08.iNTERNAL.1080p.WEB.X264-AMRAP.mkv
+│   ├── Unbelievable.S01E08.iNTERNAL.1080p.WEB.X264-AMRAP.nfo
+│   └── Unbelievable.S01E08.iNTERNAL.1080p.WEB.X264-AMRAP-thumb.jpg
+├── Undone
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── RARBG.txt
+│   │   ├── season01-poster.jpg
+│   │   ├── season.nfo
+│   │   ├── Undone.S01E01.The.Crash.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv
+│   │   ├── Undone.S01E01.The.Crash.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.nfo
+│   │   ├── Undone.S01E01.The.Crash.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG-thumb.jpg
+│   │   ├── Undone.S01E02.The.Hospital.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv
+│   │   ├── Undone.S01E02.The.Hospital.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.nfo
+│   │   ├── Undone.S01E02.The.Hospital.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG-thumb.jpg
+│   │   ├── Undone.S01E03.Handheld.Blackjack.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv
+│   │   ├── Undone.S01E03.Handheld.Blackjack.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.nfo
+│   │   ├── Undone.S01E03.Handheld.Blackjack.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG-thumb.jpg
+│   │   ├── Undone.S01E04.Moving.the.Keys.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv
+│   │   ├── Undone.S01E04.Moving.the.Keys.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.nfo
+│   │   ├── Undone.S01E04.Moving.the.Keys.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG-thumb.jpg
+│   │   ├── Undone.S01E05.Alone.in.This.You.Have.Me.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv
+│   │   ├── Undone.S01E05.Alone.in.This.You.Have.Me.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.nfo
+│   │   ├── Undone.S01E05.Alone.in.This.You.Have.Me.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG-thumb.jpg
+│   │   ├── Undone.S01E06.Prayers.and.Visions.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv
+│   │   ├── Undone.S01E06.Prayers.and.Visions.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.nfo
+│   │   ├── Undone.S01E06.Prayers.and.Visions.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG-thumb.jpg
+│   │   ├── Undone.S01E07.The.Wedding.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv
+│   │   ├── Undone.S01E07.The.Wedding.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.nfo
+│   │   ├── Undone.S01E07.The.Wedding.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG-thumb.jpg
+│   │   ├── Undone.S01E08.That.Halloween.Night.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.mkv
+│   │   ├── Undone.S01E08.That.Halloween.Night.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG.nfo
+│   │   └── Undone.S01E08.That.Halloween.Night.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTG-thumb.jpg
+│   └── tvshow.nfo
+├── Westworld
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── tvshow.nfo
+│   ├── Westworld.S01.2160p.UHD.BluRay.x265-DEPTH[rartv]
+│   │   ├── RARBG.txt
+│   │   ├── season.nfo
+│   │   ├── Westworld.S01E01.2160p.UHD.BluRay.x265-DEPTH-320-10.bif
+│   │   ├── Westworld.S01E01.2160p.UHD.BluRay.x265-DEPTH.Atmos-FGT.ass
+│   │   ├── Westworld.S01E01.2160p.UHD.BluRay.x265-DEPTH.mkv
+│   │   ├── Westworld.S01E01.2160p.UHD.BluRay.x265-DEPTH.nfo
+│   │   ├── Westworld.S01E01.2160p.UHD.BluRay.x265-DEPTH-thumb.jpg
+│   │   ├── Westworld.S01E02.2160p.UHD.BluRay.x265-DEPTH-320-10.bif
+│   │   ├── Westworld.S01E02.2160p.UHD.BluRay.x265-DEPTH.Atmos-FGT.ass
+│   │   ├── Westworld.S01E02.2160p.UHD.BluRay.x265-DEPTH.mkv
+│   │   ├── Westworld.S01E02.2160p.UHD.BluRay.x265-DEPTH.nfo
+│   │   ├── Westworld.S01E02.2160p.UHD.BluRay.x265-DEPTH-thumb.jpg
+│   │   ├── Westworld.S01E03.2160p.UHD.BluRay.x265-DEPTH-320-10.bif
+│   │   ├── Westworld.S01E03.2160p.UHD.BluRay.x265-DEPTH.Atmos-FGT.ass
+│   │   ├── Westworld.S01E03.2160p.UHD.BluRay.x265-DEPTH.mkv
+│   │   ├── Westworld.S01E03.2160p.UHD.BluRay.x265-DEPTH.nfo
+│   │   ├── Westworld.S01E03.2160p.UHD.BluRay.x265-DEPTH-thumb.jpg
+│   │   ├── Westworld.S01E04.2160p.UHD.BluRay.x265-DEPTH-320-10.bif
+│   │   ├── Westworld.S01E04.2160p.UHD.BluRay.x265-DEPTH.Atmos-FGT.ass
+│   │   ├── Westworld.S01E04.2160p.UHD.BluRay.x265-DEPTH.mkv
+│   │   ├── Westworld.S01E04.2160p.UHD.BluRay.x265-DEPTH.nfo
+│   │   ├── Westworld.S01E04.2160p.UHD.BluRay.x265-DEPTH-thumb.jpg
+│   │   ├── Westworld.S01E05.2160p.UHD.BluRay.x265-DEPTH-320-10.bif
+│   │   ├── Westworld.S01E05.2160p.UHD.BluRay.x265-DEPTH.Atmos-FGT.ass
+│   │   ├── Westworld.S01E05.2160p.UHD.BluRay.x265-DEPTH.mkv
+│   │   ├── Westworld.S01E05.2160p.UHD.BluRay.x265-DEPTH.nfo
+│   │   ├── Westworld.S01E05.2160p.UHD.BluRay.x265-DEPTH-thumb.jpg
+│   │   ├── Westworld.S01E06.2160p.UHD.BluRay.x265-DEPTH-320-10.bif
+│   │   ├── Westworld.S01E06.2160p.UHD.BluRay.x265-DEPTH.Atmos-FGT.ass
+│   │   ├── Westworld.S01E06.2160p.UHD.BluRay.x265-DEPTH.mkv
+│   │   ├── Westworld.S01E06.2160p.UHD.BluRay.x265-DEPTH.nfo
+│   │   ├── Westworld.S01E06.2160p.UHD.BluRay.x265-DEPTH-thumb.jpg
+│   │   ├── Westworld.S01E07.2160p.UHD.BluRay.x265-DEPTH-320-10.bif
+│   │   ├── Westworld.S01E07.2160p.UHD.BluRay.x265-DEPTH.Atmos-FGT.ass
+│   │   ├── Westworld.S01E07.2160p.UHD.BluRay.x265-DEPTH.mkv
+│   │   ├── Westworld.S01E07.2160p.UHD.BluRay.x265-DEPTH.nfo
+│   │   ├── Westworld.S01E07.2160p.UHD.BluRay.x265-DEPTH-thumb.jpg
+│   │   ├── Westworld.S01E08.2160p.UHD.BluRay.x265-DEPTH-320-10.bif
+│   │   ├── Westworld.S01E08.2160p.UHD.BluRay.x265-DEPTH.Atmos-FGT.ass
+│   │   ├── Westworld.S01E08.2160p.UHD.BluRay.x265-DEPTH.mkv
+│   │   ├── Westworld.S01E08.2160p.UHD.BluRay.x265-DEPTH.nfo
+│   │   ├── Westworld.S01E08.2160p.UHD.BluRay.x265-DEPTH-thumb.jpg
+│   │   ├── Westworld.S01E09.2160p.UHD.BluRay.x265-DEPTH-320-10.bif
+│   │   ├── Westworld.S01E09.2160p.UHD.BluRay.x265-DEPTH.Atmos-FGT.ass
+│   │   ├── Westworld.S01E09.2160p.UHD.BluRay.x265-DEPTH.mkv
+│   │   ├── Westworld.S01E09.2160p.UHD.BluRay.x265-DEPTH.nfo
+│   │   ├── Westworld.S01E09.2160p.UHD.BluRay.x265-DEPTH-thumb.jpg
+│   │   ├── Westworld.S01E10.2160p.UHD.BluRay.x265-DEPTH-320-10.bif
+│   │   ├── Westworld.S01E10.2160p.UHD.BluRay.x265-DEPTH.Atmos-FGT.ass
+│   │   ├── Westworld.S01E10.2160p.UHD.BluRay.x265-DEPTH.mkv
+│   │   ├── Westworld.S01E10.2160p.UHD.BluRay.x265-DEPTH.nfo
+│   │   └── Westworld.S01E10.2160p.UHD.BluRay.x265-DEPTH-thumb.jpg
+│   ├── Westworld.S02.2160p.UHD.BluRay.x265-SCOTLUHD[rartv]
+│   │   ├── RARBG.txt
+│   │   ├── season.nfo
+│   │   ├── Westworld.S02E01.2160p.UHD.BluRay.x265-SCOTLUHD-320-10.bif
+│   │   ├── Westworld.S02E01.2160p.UHD.BluRay.x265-SCOTLUHD.mkv
+│   │   ├── Westworld.S02E01.2160p.UHD.BluRay.x265-SCOTLUHD.nfo
+│   │   ├── Westworld.S02E01.2160p.UHD.BluRay.x265-SCOTLUHD.srt
+│   │   ├── Westworld.S02E01.2160p.UHD.BluRay.x265-SCOTLUHD-thumb.jpg
+│   │   ├── Westworld.S02E02.2160p.UHD.BluRay.x265-SCOTLUHD-320-10.bif
+│   │   ├── Westworld.S02E02.2160p.UHD.BluRay.x265-SCOTLUHD.mkv
+│   │   ├── Westworld.S02E02.2160p.UHD.BluRay.x265-SCOTLUHD.nfo
+│   │   ├── Westworld.S02E02.2160p.UHD.BluRay.x265-SCOTLUHD.srt
+│   │   ├── Westworld.S02E02.2160p.UHD.BluRay.x265-SCOTLUHD-thumb.jpg
+│   │   ├── Westworld.S02E03.2160p.UHD.BluRay.x265-SCOTLUHD-320-10.bif
+│   │   ├── Westworld.S02E03.2160p.UHD.BluRay.x265-SCOTLUHD.mkv
+│   │   ├── Westworld.S02E03.2160p.UHD.BluRay.x265-SCOTLUHD.nfo
+│   │   ├── Westworld.S02E03.2160p.UHD.BluRay.x265-SCOTLUHD.srt
+│   │   ├── Westworld.S02E03.2160p.UHD.BluRay.x265-SCOTLUHD-thumb.jpg
+│   │   ├── Westworld.S02E04.2160p.UHD.BluRay.x265-SCOTLUHD-320-10.bif
+│   │   ├── Westworld.S02E04.2160p.UHD.BluRay.x265-SCOTLUHD.mkv
+│   │   ├── Westworld.S02E04.2160p.UHD.BluRay.x265-SCOTLUHD.nfo
+│   │   ├── Westworld.S02E04.2160p.UHD.BluRay.x265-SCOTLUHD.srt
+│   │   ├── Westworld.S02E04.2160p.UHD.BluRay.x265-SCOTLUHD-thumb.jpg
+│   │   ├── Westworld.S02E05.2160p.UHD.BluRay.x265-SCOTLUHD-320-10.bif
+│   │   ├── Westworld.S02E05.2160p.UHD.BluRay.x265-SCOTLUHD.mkv
+│   │   ├── Westworld.S02E05.2160p.UHD.BluRay.x265-SCOTLUHD.nfo
+│   │   ├── Westworld.S02E05.2160p.UHD.BluRay.x265-SCOTLUHD.srt
+│   │   ├── Westworld.S02E05.2160p.UHD.BluRay.x265-SCOTLUHD-thumb.jpg
+│   │   ├── Westworld.S02E06.2160p.UHD.BluRay.x265-SCOTLUHD-320-10.bif
+│   │   ├── Westworld.S02E06.2160p.UHD.BluRay.x265-SCOTLUHD.mkv
+│   │   ├── Westworld.S02E06.2160p.UHD.BluRay.x265-SCOTLUHD.nfo
+│   │   ├── Westworld.S02E06.2160p.UHD.BluRay.x265-SCOTLUHD.srt
+│   │   ├── Westworld.S02E06.2160p.UHD.BluRay.x265-SCOTLUHD-thumb.jpg
+│   │   ├── Westworld.S02E07.2160p.UHD.BluRay.x265-SCOTLUHD-320-10.bif
+│   │   ├── Westworld.S02E07.2160p.UHD.BluRay.x265-SCOTLUHD.mkv
+│   │   ├── Westworld.S02E07.2160p.UHD.BluRay.x265-SCOTLUHD.nfo
+│   │   ├── Westworld.S02E07.2160p.UHD.BluRay.x265-SCOTLUHD.srt
+│   │   ├── Westworld.S02E07.2160p.UHD.BluRay.x265-SCOTLUHD-thumb.jpg
+│   │   ├── Westworld.S02E08.2160p.UHD.BluRay.x265-SCOTLUHD-320-10.bif
+│   │   ├── Westworld.S02E08.2160p.UHD.BluRay.x265-SCOTLUHD.mkv
+│   │   ├── Westworld.S02E08.2160p.UHD.BluRay.x265-SCOTLUHD.nfo
+│   │   ├── Westworld.S02E08.2160p.UHD.BluRay.x265-SCOTLUHD.srt
+│   │   ├── Westworld.S02E08.2160p.UHD.BluRay.x265-SCOTLUHD-thumb.jpg
+│   │   ├── Westworld.S02E09.2160p.UHD.BluRay.x265-SCOTLUHD-320-10.bif
+│   │   ├── Westworld.S02E09.2160p.UHD.BluRay.x265-SCOTLUHD.mkv
+│   │   ├── Westworld.S02E09.2160p.UHD.BluRay.x265-SCOTLUHD.nfo
+│   │   ├── Westworld.S02E09.2160p.UHD.BluRay.x265-SCOTLUHD.srt
+│   │   ├── Westworld.S02E09.2160p.UHD.BluRay.x265-SCOTLUHD-thumb.jpg
+│   │   ├── Westworld.S02E10.2160p.UHD.BluRay.x265-SCOTLUHD-320-10.bif
+│   │   ├── Westworld.S02E10.2160p.UHD.BluRay.x265-SCOTLUHD.mkv
+│   │   ├── Westworld.S02E10.2160p.UHD.BluRay.x265-SCOTLUHD.nfo
+│   │   ├── Westworld.S02E10.2160p.UHD.BluRay.x265-SCOTLUHD.srt
+│   │   └── Westworld.S02E10.2160p.UHD.BluRay.x265-SCOTLUHD-thumb.jpg
+│   └── Westworld.S03.1080p.AMZN.WEBRip.DDP5.1.x264-NTb[rartv]
+│       ├── RARBG.txt
+│       ├── season.nfo
+│       ├── Westworld.S03E01.Parce.Domine.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│       ├── Westworld.S03E01.Parce.Domine.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.简体&英文.srt
+│       ├── Westworld.S03E01.Parce.Domine.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│       ├── Westworld.S03E01.Parce.Domine.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│       ├── Westworld.S03E01.Parce.Domine.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│       ├── Westworld.S03E02.The.Winter.Line.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│       ├── Westworld.S03E02.The.Winter.Line.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.简体&英文.srt
+│       ├── Westworld.S03E02.The.Winter.Line.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│       ├── Westworld.S03E02.The.Winter.Line.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│       ├── Westworld.S03E02.The.Winter.Line.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│       ├── Westworld.S03E03.The.Absence.of.Field.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│       ├── Westworld.S03E03.The.Absence.of.Field.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.简体&英文.srt
+│       ├── Westworld.S03E03.The.Absence.of.Field.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│       ├── Westworld.S03E03.The.Absence.of.Field.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│       ├── Westworld.S03E03.The.Absence.of.Field.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│       ├── Westworld.S03E04.The.Mother.of.Exiles.1080p.REPACK.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│       ├── Westworld.S03E04.The.Mother.of.Exiles.1080p.REPACK.AMZN.WEB-DL.DDP5.1.H.264-NTb.简体&英文.srt
+│       ├── Westworld.S03E04.The.Mother.of.Exiles.1080p.REPACK.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│       ├── Westworld.S03E04.The.Mother.of.Exiles.1080p.REPACK.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│       ├── Westworld.S03E04.The.Mother.of.Exiles.1080p.REPACK.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│       ├── Westworld.S03E05.Genre.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│       ├── Westworld.S03E05.Genre.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.简体&英文.srt
+│       ├── Westworld.S03E05.Genre.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│       ├── Westworld.S03E05.Genre.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│       ├── Westworld.S03E05.Genre.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│       ├── Westworld.S03E06.Decoherence.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│       ├── Westworld.S03E06.Decoherence.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.简体&英文.srt
+│       ├── Westworld.S03E06.Decoherence.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│       ├── Westworld.S03E06.Decoherence.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│       ├── Westworld.S03E06.Decoherence.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│       ├── Westworld.S03E07.Passed.Pawn.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│       ├── Westworld.S03E07.Passed.Pawn.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.简体&英文.srt
+│       ├── Westworld.S03E07.Passed.Pawn.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│       ├── Westworld.S03E07.Passed.Pawn.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│       ├── Westworld.S03E07.Passed.Pawn.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│       ├── Westworld.S03E08.Crisis.Theory.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│       ├── Westworld.S03E08.Crisis.Theory.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.简体&英文.srt
+│       ├── Westworld.S03E08.Crisis.Theory.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│       ├── Westworld.S03E08.Crisis.Theory.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│       └── Westworld.S03E08.Crisis.Theory.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+├── Who Killed Sara
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── tvshow.nfo
+│   ├── Who.Killed.Sara.S01E01.1080p.WEB.h264-LAMBiC.mkv
+│   ├── Who.Killed.Sara.S01E01.1080p.WEB.h264-LAMBiC.nfo
+│   ├── Who.Killed.Sara.S01E01.1080p.WEB.h264-LAMBiC-thumb.jpg
+│   ├── Who.Killed.Sara.S01E02.1080p.WEB.h264-LAMBiC.mkv
+│   ├── Who.Killed.Sara.S01E02.1080p.WEB.h264-LAMBiC.nfo
+│   ├── Who.Killed.Sara.S01E02.1080p.WEB.h264-LAMBiC-thumb.jpg
+│   ├── Who.Killed.Sara.S01E03.1080p.WEB.h264-LAMBiC.mkv
+│   ├── Who.Killed.Sara.S01E03.1080p.WEB.h264-LAMBiC.nfo
+│   ├── Who.Killed.Sara.S01E03.1080p.WEB.h264-LAMBiC-thumb.jpg
+│   ├── Who.Killed.Sara.S01E04.1080p.WEB.h264-LAMBiC.mkv
+│   ├── Who.Killed.Sara.S01E04.1080p.WEB.h264-LAMBiC.nfo
+│   ├── Who.Killed.Sara.S01E04.1080p.WEB.h264-LAMBiC-thumb.jpg
+│   ├── Who.Killed.Sara.S01E05.1080p.WEB.h264-LAMBiC.mkv
+│   ├── Who.Killed.Sara.S01E05.1080p.WEB.h264-LAMBiC.nfo
+│   ├── Who.Killed.Sara.S01E05.1080p.WEB.h264-LAMBiC-thumb.jpg
+│   ├── Who.Killed.Sara.S01E06.1080p.WEB.h264-LAMBiC.mkv
+│   ├── Who.Killed.Sara.S01E06.1080p.WEB.h264-LAMBiC.nfo
+│   ├── Who.Killed.Sara.S01E06.1080p.WEB.h264-LAMBiC-thumb.jpg
+│   ├── Who.Killed.Sara.S01E07.1080p.WEB.h264-LAMBiC.mkv
+│   ├── Who.Killed.Sara.S01E07.1080p.WEB.h264-LAMBiC.nfo
+│   ├── Who.Killed.Sara.S01E07.1080p.WEB.h264-LAMBiC-thumb.jpg
+│   ├── Who.Killed.Sara.S01E08.1080p.WEB.h264-LAMBiC.mkv
+│   ├── Who.Killed.Sara.S01E08.1080p.WEB.h264-LAMBiC.nfo
+│   ├── Who.Killed.Sara.S01E08.1080p.WEB.h264-LAMBiC-thumb.jpg
+│   ├── Who.Killed.Sara.S01E09.1080p.WEB.h264-LAMBiC.mkv
+│   ├── Who.Killed.Sara.S01E09.1080p.WEB.h264-LAMBiC.nfo
+│   ├── Who.Killed.Sara.S01E09.1080p.WEB.h264-LAMBiC-thumb.jpg
+│   ├── Who.Killed.Sara.S01E10.1080p.WEB.h264-LAMBiC.mkv
+│   ├── Who.Killed.Sara.S01E10.1080p.WEB.h264-LAMBiC.nfo
+│   └── Who.Killed.Sara.S01E10.1080p.WEB.h264-LAMBiC-thumb.jpg
+├── Why Women Kill
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── Season 1
+│   │   ├── 致命女人.Why.Women.Kill.S01E08.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-320-10.bif
+│   │   ├── 致命女人.Why.Women.Kill.S01E08.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   │   ├── 致命女人.Why.Women.Kill.S01E08.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   │   ├── 致命女人.Why.Women.Kill.S01E08.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   │   ├── 致命女人.Why.Women.Kill.S01E09.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-320-10.bif
+│   │   ├── 致命女人.Why.Women.Kill.S01E09.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   │   ├── 致命女人.Why.Women.Kill.S01E09.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   │   ├── 致命女人.Why.Women.Kill.S01E09.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   │   ├── season.nfo
+│   │   ├── Why.Women.Kill.S01E01.Murder.Means.Never.Having.to.Say.Youre.Sorry.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS-320-10.bif
+│   │   ├── Why.Women.Kill.S01E01.Murder.Means.Never.Having.to.Say.Youre.Sorry.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.mkv
+│   │   ├── Why.Women.Kill.S01E01.Murder.Means.Never.Having.to.Say.Youre.Sorry.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.nfo
+│   │   ├── Why.Women.Kill.S01E01.Murder.Means.Never.Having.to.Say.Youre.Sorry.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS-thumb.jpg
+│   │   ├── Why.Women.Kill.S01E01.Murder.Means.Never.Having.to.Say.Youre.Sorry.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.zh-cn.ass
+│   │   ├── Why.Women.Kill.S01E02.Id.Like.To.Kill.Ya.But.I.Just.Washed.My.Hair.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS-320-10.bif
+│   │   ├── Why.Women.Kill.S01E02.Id.Like.To.Kill.Ya.But.I.Just.Washed.My.Hair.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.mkv
+│   │   ├── Why.Women.Kill.S01E02.Id.Like.To.Kill.Ya.But.I.Just.Washed.My.Hair.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.nfo
+│   │   ├── Why.Women.Kill.S01E02.Id.Like.To.Kill.Ya.But.I.Just.Washed.My.Hair.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS-thumb.jpg
+│   │   ├── Why.Women.Kill.S01E02.Id.Like.To.Kill.Ya.But.I.Just.Washed.My.Hair.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.zh-cn.ass
+│   │   ├── Why.Women.Kill.S01E03.I.Killed.Everyone.He.Did.But.Backwards.and.in.High.Heels.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS-320-10.bif
+│   │   ├── Why.Women.Kill.S01E03.I.Killed.Everyone.He.Did.But.Backwards.and.in.High.Heels.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.mkv
+│   │   ├── Why.Women.Kill.S01E03.I.Killed.Everyone.He.Did.But.Backwards.and.in.High.Heels.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.nfo
+│   │   ├── Why.Women.Kill.S01E03.I.Killed.Everyone.He.Did.But.Backwards.and.in.High.Heels.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS-thumb.jpg
+│   │   ├── Why.Women.Kill.S01E03.I.Killed.Everyone.He.Did.But.Backwards.and.in.High.Heels.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.zh-cn.srt
+│   │   ├── Why.Women.Kill.S01E04.You.Had.Me.at.Homicide.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS-320-10.bif
+│   │   ├── Why.Women.Kill.S01E04.You.Had.Me.at.Homicide.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.mkv
+│   │   ├── Why.Women.Kill.S01E04.You.Had.Me.at.Homicide.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.nfo
+│   │   ├── Why.Women.Kill.S01E04.You.Had.Me.at.Homicide.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS-thumb.jpg
+│   │   ├── Why.Women.Kill.S01E04.You.Had.Me.at.Homicide.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.zh-cn.ass
+│   │   ├── Why.Women.Kill.S01E05.Theres.No.Crying.in.Murder.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS-320-10.bif
+│   │   ├── Why.Women.Kill.S01E05.Theres.No.Crying.in.Murder.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.mkv
+│   │   ├── Why.Women.Kill.S01E05.Theres.No.Crying.in.Murder.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.nfo
+│   │   ├── Why.Women.Kill.S01E05.Theres.No.Crying.in.Murder.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS-thumb.jpg
+│   │   ├── Why.Women.Kill.S01E05.Theres.No.Crying.in.Murder.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.zh-cn.ass
+│   │   ├── Why.Women.Kill.S01E06.Theres.No.Crying.in.Murder.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS-320-10.bif
+│   │   ├── Why.Women.Kill.S01E06.Theres.No.Crying.in.Murder.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.mp4
+│   │   ├── Why.Women.Kill.S01E06.Theres.No.Crying.in.Murder.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.nfo
+│   │   ├── Why.Women.Kill.S01E06.Theres.No.Crying.in.Murder.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS-thumb.jpg
+│   │   ├── Why.Women.Kill.S01E06.Theres.No.Crying.in.Murder.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.zh-cn.ass
+│   │   ├── Why.Women.Kill.S01E07.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-320-10.bif
+│   │   ├── Why.Women.Kill.S01E07.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.mp4
+│   │   ├── Why.Women.Kill.S01E07.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba.nfo
+│   │   └── Why.Women.Kill.S01E07.HD1080P.X264.AAC.English.CHS-ENG.Mp4Ba-thumb.jpg
+│   ├── Season 2
+│   │   ├── season.nfo
+│   │   ├── Why.Women.Kill.S02E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.mkv
+│   │   ├── Why.Women.Kill.S02E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.nfo
+│   │   ├── Why.Women.Kill.S02E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS-thumb.jpg
+│   │   ├── Why.Women.Kill.S02E01.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.zh-cn.srt
+│   │   ├── Why.Women.Kill.S02E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.mkv
+│   │   ├── Why.Women.Kill.S02E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.nfo
+│   │   ├── Why.Women.Kill.S02E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS-thumb.jpg
+│   │   ├── Why.Women.Kill.S02E02.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.zh-cn.srt
+│   │   ├── Why.Women.Kill.S02E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.mkv
+│   │   ├── Why.Women.Kill.S02E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.nfo
+│   │   ├── Why.Women.Kill.S02E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS-thumb.jpg
+│   │   ├── Why.Women.Kill.S02E03.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.zh-cn.srt
+│   │   ├── Why.Women.Kill.S02E04.1080p.PMTP.WEB-DL.DD5.1.H.264-TEPES.1.zh-cn.srt
+│   │   ├── Why.Women.Kill.S02E04.1080p.PMTP.WEB-DL.DD5.1.H.264-TEPES.mkv
+│   │   ├── Why.Women.Kill.S02E04.1080p.PMTP.WEB-DL.DD5.1.H.264-TEPES.nfo
+│   │   ├── Why.Women.Kill.S02E04.1080p.PMTP.WEB-DL.DD5.1.H.264-TEPES-thumb.jpg
+│   │   ├── Why.Women.Kill.S02E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.mkv
+│   │   ├── Why.Women.Kill.S02E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.nfo
+│   │   ├── Why.Women.Kill.S02E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS-thumb.jpg
+│   │   ├── Why.Women.Kill.S02E05.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.zh-cn.ass
+│   │   ├── Why.Women.Kill.S02E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.mkv
+│   │   ├── Why.Women.Kill.S02E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.nfo
+│   │   ├── Why.Women.Kill.S02E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS-thumb.jpg
+│   │   ├── Why.Women.Kill.S02E06.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.zh-cn.default.ass
+│   │   ├── Why.Women.Kill.S02E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.简体&英文.ass
+│   │   ├── Why.Women.Kill.S02E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.mkv
+│   │   ├── Why.Women.Kill.S02E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.nfo
+│   │   ├── Why.Women.Kill.S02E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS-thumb.jpg
+│   │   ├── Why.Women.Kill.S02E07.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.zh-cn.ass
+│   │   ├── Why.Women.Kill.S02E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.mkv
+│   │   ├── Why.Women.Kill.S02E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.nfo
+│   │   ├── Why.Women.Kill.S02E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS-thumb.jpg
+│   │   ├── Why.Women.Kill.S02E08.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.zh-cn.ass
+│   │   ├── Why.Women.Kill.S02E09.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.mkv
+│   │   ├── Why.Women.Kill.S02E09.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.nfo
+│   │   ├── Why.Women.Kill.S02E09.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS-thumb.jpg
+│   │   ├── Why.Women.Kill.S02E09.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.zh-cn.ass
+│   │   ├── Why.Women.Kill.S02E10.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.mkv
+│   │   ├── Why.Women.Kill.S02E10.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.nfo
+│   │   ├── Why.Women.Kill.S02E10.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS-thumb.jpg
+│   │   └── Why.Women.Kill.S02E10.1080p.AMZN.WEB-DL.DDP5.1.H.264-KiNGS.zh-cn.ass
+│   └── tvshow.nfo
+├── You
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── Season 1
+│   │   ├── RARBG.txt
+│   │   ├── season.nfo
+│   │   ├── YOU.S01E01.Pilot.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── YOU.S01E01.Pilot.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── YOU.S01E01.Pilot.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── YOU.S01E01.Pilot.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── YOU.S01E01.Pilot.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── YOU.S01E02.The.Last.Nice.Guy.in.New.York.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── YOU.S01E02.The.Last.Nice.Guy.in.New.York.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── YOU.S01E02.The.Last.Nice.Guy.in.New.York.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── YOU.S01E02.The.Last.Nice.Guy.in.New.York.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── YOU.S01E02.The.Last.Nice.Guy.in.New.York.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── YOU.S01E03.Maybe.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── YOU.S01E03.Maybe.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── YOU.S01E03.Maybe.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── YOU.S01E03.Maybe.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── YOU.S01E03.Maybe.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── YOU.S01E04.The.Captain.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── YOU.S01E04.The.Captain.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── YOU.S01E04.The.Captain.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── YOU.S01E04.The.Captain.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── YOU.S01E04.The.Captain.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── YOU.S01E05.Living.with.the.Enemy.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── YOU.S01E05.Living.with.the.Enemy.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── YOU.S01E05.Living.with.the.Enemy.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── YOU.S01E05.Living.with.the.Enemy.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── YOU.S01E05.Living.with.the.Enemy.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── YOU.S01E06.Amour.Fou.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── YOU.S01E06.Amour.Fou.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── YOU.S01E06.Amour.Fou.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── YOU.S01E06.Amour.Fou.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── YOU.S01E06.Amour.Fou.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── YOU.S01E07.Everythingship.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── YOU.S01E07.Everythingship.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── YOU.S01E07.Everythingship.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── YOU.S01E07.Everythingship.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── YOU.S01E07.Everythingship.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── YOU.S01E08.YOU.Got.Me.Babe.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── YOU.S01E08.YOU.Got.Me.Babe.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── YOU.S01E08.YOU.Got.Me.Babe.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── YOU.S01E08.YOU.Got.Me.Babe.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── YOU.S01E09.Candace.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── YOU.S01E09.Candace.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ass
+│   │   ├── YOU.S01E09.Candace.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── YOU.S01E09.Candace.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   ├── YOU.S01E09.Candace.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   │   ├── YOU.S01E10.Bluebeards.Castle.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-320-10.bif
+│   │   ├── YOU.S01E10.Bluebeards.Castle.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.ChsEngA.ass
+│   │   ├── YOU.S01E10.Bluebeards.Castle.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.mkv
+│   │   ├── YOU.S01E10.Bluebeards.Castle.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb.nfo
+│   │   └── YOU.S01E10.Bluebeards.Castle.REPACK.1080p.AMZN.WEB-DL.DDP5.1.H.264-NTb-thumb.jpg
+│   ├── Season 2
+│   │   ├── RARBG.txt
+│   │   ├── season.nfo
+│   │   ├── You.S02E01.A.Fresh.Start.1080p.NF.WEB-DL.DDP5.1.x264-NTG-320-10.bif
+│   │   ├── You.S02E01.A.Fresh.Start.1080p.NF.WEB-DL.DDP5.1.x264-NTG.ChsEngA.ass
+│   │   ├── You.S02E01.A.Fresh.Start.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── You.S02E01.A.Fresh.Start.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── You.S02E01.A.Fresh.Start.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   ├── You.S02E02.Just.the.Tip.1080p.NF.WEB-DL.DDP5.1.x264-NTG-320-10.bif
+│   │   ├── You.S02E02.Just.the.Tip.1080p.NF.WEB-DL.DDP5.1.x264-NTG.ChsEngA.ass
+│   │   ├── You.S02E02.Just.the.Tip.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── You.S02E02.Just.the.Tip.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── You.S02E02.Just.the.Tip.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   ├── You.S02E03.What.Are.Friends.For.1080p.NF.WEB-DL.DDP5.1.x264-NTG-320-10.bif
+│   │   ├── You.S02E03.What.Are.Friends.For.1080p.NF.WEB-DL.DDP5.1.x264-NTG.ChsEngA.ass
+│   │   ├── You.S02E03.What.Are.Friends.For.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── You.S02E03.What.Are.Friends.For.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── You.S02E03.What.Are.Friends.For.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   ├── You.S02E04.The.Good.the.Bad.and.the.Hendy.1080p.NF.WEB-DL.DDP5.1.x264-NTG-320-10.bif
+│   │   ├── You.S02E04.The.Good.the.Bad.and.the.Hendy.1080p.NF.WEB-DL.DDP5.1.x264-NTG.ChsEngA.ass
+│   │   ├── You.S02E04.The.Good.the.Bad.and.the.Hendy.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── You.S02E04.The.Good.the.Bad.and.the.Hendy.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── You.S02E04.The.Good.the.Bad.and.the.Hendy.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   ├── You.S02E05.Have.a.Good.Wellkend.Joe.1080p.NF.WEB-DL.DDP5.1.x264-NTG-320-10.bif
+│   │   ├── You.S02E05.Have.a.Good.Wellkend.Joe.1080p.NF.WEB-DL.DDP5.1.x264-NTG.ChsEngA.ass
+│   │   ├── You.S02E05.Have.a.Good.Wellkend.Joe.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── You.S02E05.Have.a.Good.Wellkend.Joe.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── You.S02E05.Have.a.Good.Wellkend.Joe.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   ├── You.S02E06.Farewell.My.Bunny.1080p.NF.WEB-DL.DDP5.1.x264-NTG-320-10.bif
+│   │   ├── You.S02E06.Farewell.My.Bunny.1080p.NF.WEB-DL.DDP5.1.x264-NTG.ChsEngA.ass
+│   │   ├── You.S02E06.Farewell.My.Bunny.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── You.S02E06.Farewell.My.Bunny.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── You.S02E06.Farewell.My.Bunny.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   ├── You.S02E07.Ex-istential.Crisis.1080p.NF.WEB-DL.DDP5.1.x264-NTG-320-10.bif
+│   │   ├── You.S02E07.Ex-istential.Crisis.1080p.NF.WEB-DL.DDP5.1.x264-NTG.ChsEngA.ass
+│   │   ├── You.S02E07.Ex-istential.Crisis.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── You.S02E07.Ex-istential.Crisis.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── You.S02E07.Ex-istential.Crisis.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   ├── You.S02E08.Fear.and.Loathing.in.Beverly.Hills.1080p.NF.WEB-DL.DDP5.1.x264-NTG-320-10.bif
+│   │   ├── You.S02E08.Fear.and.Loathing.in.Beverly.Hills.1080p.NF.WEB-DL.DDP5.1.x264-NTG.ChsEngA.ass
+│   │   ├── You.S02E08.Fear.and.Loathing.in.Beverly.Hills.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── You.S02E08.Fear.and.Loathing.in.Beverly.Hills.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── You.S02E08.Fear.and.Loathing.in.Beverly.Hills.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   ├── You.S02E09.P.I.Joe.1080p.NF.WEB-DL.DDP5.1.x264-NTG-320-10.bif
+│   │   ├── You.S02E09.P.I.Joe.1080p.NF.WEB-DL.DDP5.1.x264-NTG.ChsEngA.ass
+│   │   ├── You.S02E09.P.I.Joe.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── You.S02E09.P.I.Joe.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   ├── You.S02E09.P.I.Joe.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   │   ├── You.S02E10.Love.Actually.1080p.NF.WEB-DL.DDP5.1.x264-NTG-320-10.bif
+│   │   ├── You.S02E10.Love.Actually.1080p.NF.WEB-DL.DDP5.1.x264-NTG.ChsEngA.ass
+│   │   ├── You.S02E10.Love.Actually.1080p.NF.WEB-DL.DDP5.1.x264-NTG.mkv
+│   │   ├── You.S02E10.Love.Actually.1080p.NF.WEB-DL.DDP5.1.x264-NTG.nfo
+│   │   └── You.S02E10.Love.Actually.1080p.NF.WEB-DL.DDP5.1.x264-NTG-thumb.jpg
+│   ├── Season 3
+│   │   ├── season.nfo
+│   │   └── You.S03.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb
+│   │       ├── You.S03E01.And.They.Lived.Happily.Ever.After.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb.mkv
+│   │       ├── You.S03E01.And.They.Lived.Happily.Ever.After.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb.nfo
+│   │       ├── You.S03E01.And.They.Lived.Happily.Ever.After.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb-thumb.jpg
+│   │       ├── You.S03E02.So.I.Married.an.Axe.Murderer.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb.mkv
+│   │       ├── You.S03E02.So.I.Married.an.Axe.Murderer.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb.nfo
+│   │       ├── You.S03E02.So.I.Married.an.Axe.Murderer.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb-thumb.jpg
+│   │       ├── You.S03E03.Missing.White.Woman.Syndrome.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb.mkv
+│   │       ├── You.S03E03.Missing.White.Woman.Syndrome.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb.nfo
+│   │       ├── You.S03E03.Missing.White.Woman.Syndrome.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb-thumb.jpg
+│   │       ├── You.S03E04.Hands.Across.Madre.Linda.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb.mkv
+│   │       ├── You.S03E04.Hands.Across.Madre.Linda.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb.nfo
+│   │       ├── You.S03E04.Hands.Across.Madre.Linda.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb-thumb.jpg
+│   │       ├── You.S03E05.Into.the.Woods.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb.mkv
+│   │       ├── You.S03E05.Into.the.Woods.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb.nfo
+│   │       ├── You.S03E05.Into.the.Woods.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb-thumb.jpg
+│   │       ├── You.S03E06.W.O.M.B.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb.mkv
+│   │       ├── You.S03E06.W.O.M.B.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb.nfo
+│   │       ├── You.S03E06.W.O.M.B.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb-thumb.jpg
+│   │       ├── You.S03E07.Were.All.Mad.Here.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb.mkv
+│   │       ├── You.S03E07.Were.All.Mad.Here.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb.nfo
+│   │       ├── You.S03E07.Were.All.Mad.Here.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb-thumb.jpg
+│   │       ├── You.S03E08.Swing.and.a.Miss.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb.mkv
+│   │       ├── You.S03E08.Swing.and.a.Miss.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb.nfo
+│   │       ├── You.S03E08.Swing.and.a.Miss.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb-thumb.jpg
+│   │       ├── You.S03E09.Red.Flag.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb.mkv
+│   │       ├── You.S03E09.Red.Flag.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb.nfo
+│   │       ├── You.S03E09.Red.Flag.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb-thumb.jpg
+│   │       ├── You.S03E10.What.Is.Love.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb.mkv
+│   │       ├── You.S03E10.What.Is.Love.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb.nfo
+│   │       └── You.S03E10.What.Is.Love.1080p.NF.WEB-DL.x264.DDP5.1-Areskyo@PTHweb-thumb.jpg
+│   └── tvshow.nfo
+└── Young Sheldon
+    ├── fanart.jpg
+    ├── poster.jpg
+    ├── Season 1
+    │   ├── clearlogo.png
+    │   ├── fanart.jpg
+    │   ├── landscape.jpg
+    │   ├── poster.jpg
+    │   ├── RARBG.txt
+    │   ├── season01-poster.jpg
+    │   ├── season.nfo
+    │   ├── Subs
+    │   │   ├── season.nfo
+    │   │   ├── Young.Sheldon.S01E01.1080p.BluRay.x264-SHORTBREHD.idx
+    │   │   ├── Young.Sheldon.S01E01.1080p.BluRay.x264-SHORTBREHD.sub
+    │   │   ├── Young.Sheldon.S01E02.1080p.BluRay.x264-SHORTBREHD.idx
+    │   │   ├── Young.Sheldon.S01E02.1080p.BluRay.x264-SHORTBREHD.sub
+    │   │   ├── Young.Sheldon.S01E03.1080p.BluRay.x264-SHORTBREHD.idx
+    │   │   ├── Young.Sheldon.S01E03.1080p.BluRay.x264-SHORTBREHD.sub
+    │   │   ├── Young.Sheldon.S01E04.1080p.BluRay.x264-SHORTBREHD.idx
+    │   │   ├── Young.Sheldon.S01E04.1080p.BluRay.x264-SHORTBREHD.sub
+    │   │   ├── Young.Sheldon.S01E05.1080p.BluRay.x264-SHORTBREHD.idx
+    │   │   ├── Young.Sheldon.S01E05.1080p.BluRay.x264-SHORTBREHD.sub
+    │   │   ├── Young.Sheldon.S01E06.1080p.BluRay.x264-SHORTBREHD.idx
+    │   │   ├── Young.Sheldon.S01E06.1080p.BluRay.x264-SHORTBREHD.sub
+    │   │   ├── Young.Sheldon.S01E07.1080p.BluRay.x264-SHORTBREHD.idx
+    │   │   ├── Young.Sheldon.S01E07.1080p.BluRay.x264-SHORTBREHD.sub
+    │   │   ├── Young.Sheldon.S01E08.1080p.BluRay.x264-SHORTBREHD.idx
+    │   │   ├── Young.Sheldon.S01E08.1080p.BluRay.x264-SHORTBREHD.sub
+    │   │   ├── Young.Sheldon.S01E09.1080p.BluRay.x264-SHORTBREHD.idx
+    │   │   ├── Young.Sheldon.S01E09.1080p.BluRay.x264-SHORTBREHD.sub
+    │   │   ├── Young.Sheldon.S01E10.1080p.BluRay.x264-SHORTBREHD.idx
+    │   │   ├── Young.Sheldon.S01E10.1080p.BluRay.x264-SHORTBREHD.sub
+    │   │   ├── Young.Sheldon.S01E11.1080p.BluRay.x264-SHORTBREHD.idx
+    │   │   ├── Young.Sheldon.S01E11.1080p.BluRay.x264-SHORTBREHD.sub
+    │   │   ├── Young.Sheldon.S01E12.1080p.BluRay.x264-SHORTBREHD.idx
+    │   │   ├── Young.Sheldon.S01E12.1080p.BluRay.x264-SHORTBREHD.sub
+    │   │   ├── Young.Sheldon.S01E13.1080p.BluRay.x264-SHORTBREHD.idx
+    │   │   ├── Young.Sheldon.S01E13.1080p.BluRay.x264-SHORTBREHD.sub
+    │   │   ├── Young.Sheldon.S01E14.1080p.BluRay.x264-SHORTBREHD.idx
+    │   │   ├── Young.Sheldon.S01E14.1080p.BluRay.x264-SHORTBREHD.sub
+    │   │   ├── Young.Sheldon.S01E15.1080p.BluRay.x264-SHORTBREHD.idx
+    │   │   ├── Young.Sheldon.S01E15.1080p.BluRay.x264-SHORTBREHD.sub
+    │   │   ├── Young.Sheldon.S01E16.1080p.BluRay.x264-SHORTBREHD.idx
+    │   │   ├── Young.Sheldon.S01E16.1080p.BluRay.x264-SHORTBREHD.sub
+    │   │   ├── Young.Sheldon.S01E17.1080p.BluRay.x264-SHORTBREHD.idx
+    │   │   ├── Young.Sheldon.S01E17.1080p.BluRay.x264-SHORTBREHD.sub
+    │   │   ├── Young.Sheldon.S01E18.1080p.BluRay.x264-SHORTBREHD.idx
+    │   │   ├── Young.Sheldon.S01E18.1080p.BluRay.x264-SHORTBREHD.sub
+    │   │   ├── Young.Sheldon.S01E19.1080p.BluRay.x264-SHORTBREHD.idx
+    │   │   ├── Young.Sheldon.S01E19.1080p.BluRay.x264-SHORTBREHD.sub
+    │   │   ├── Young.Sheldon.S01E20.1080p.BluRay.x264-SHORTBREHD.idx
+    │   │   ├── Young.Sheldon.S01E20.1080p.BluRay.x264-SHORTBREHD.sub
+    │   │   ├── Young.Sheldon.S01E21.1080p.BluRay.x264-SHORTBREHD.idx
+    │   │   ├── Young.Sheldon.S01E21.1080p.BluRay.x264-SHORTBREHD.sub
+    │   │   ├── Young.Sheldon.S01E22.1080p.BluRay.x264-SHORTBREHD.idx
+    │   │   └── Young.Sheldon.S01E22.1080p.BluRay.x264-SHORTBREHD.sub
+    │   ├── tvshow.nfo
+    │   ├── Young.Sheldon.S01E01.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+    │   ├── Young.Sheldon.S01E01.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S01E01.1080p.BluRay.x264-SHORTBREHD.mkv
+    │   ├── Young.Sheldon.S01E01.1080p.BluRay.x264-SHORTBREHD.nfo
+    │   ├── Young.Sheldon.S01E01.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+    │   ├── Young.Sheldon.S01E02.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+    │   ├── Young.Sheldon.S01E02.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S01E02.1080p.BluRay.x264-SHORTBREHD.mkv
+    │   ├── Young.Sheldon.S01E02.1080p.BluRay.x264-SHORTBREHD.nfo
+    │   ├── Young.Sheldon.S01E02.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+    │   ├── Young.Sheldon.S01E03.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+    │   ├── Young.Sheldon.S01E03.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S01E03.1080p.BluRay.x264-SHORTBREHD.mkv
+    │   ├── Young.Sheldon.S01E03.1080p.BluRay.x264-SHORTBREHD.nfo
+    │   ├── Young.Sheldon.S01E03.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+    │   ├── Young.Sheldon.S01E04.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+    │   ├── Young.Sheldon.S01E04.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S01E04.1080p.BluRay.x264-SHORTBREHD.mkv
+    │   ├── Young.Sheldon.S01E04.1080p.BluRay.x264-SHORTBREHD.nfo
+    │   ├── Young.Sheldon.S01E04.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+    │   ├── Young.Sheldon.S01E05.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+    │   ├── Young.Sheldon.S01E05.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S01E05.1080p.BluRay.x264-SHORTBREHD.mkv
+    │   ├── Young.Sheldon.S01E05.1080p.BluRay.x264-SHORTBREHD.nfo
+    │   ├── Young.Sheldon.S01E05.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+    │   ├── Young.Sheldon.S01E06.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+    │   ├── Young.Sheldon.S01E06.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S01E06.1080p.BluRay.x264-SHORTBREHD.mkv
+    │   ├── Young.Sheldon.S01E06.1080p.BluRay.x264-SHORTBREHD.nfo
+    │   ├── Young.Sheldon.S01E06.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+    │   ├── Young.Sheldon.S01E07.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+    │   ├── Young.Sheldon.S01E07.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S01E07.1080p.BluRay.x264-SHORTBREHD.mkv
+    │   ├── Young.Sheldon.S01E07.1080p.BluRay.x264-SHORTBREHD.nfo
+    │   ├── Young.Sheldon.S01E07.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+    │   ├── Young.Sheldon.S01E08.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+    │   ├── Young.Sheldon.S01E08.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S01E08.1080p.BluRay.x264-SHORTBREHD.mkv
+    │   ├── Young.Sheldon.S01E08.1080p.BluRay.x264-SHORTBREHD.nfo
+    │   ├── Young.Sheldon.S01E08.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+    │   ├── Young.Sheldon.S01E09.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+    │   ├── Young.Sheldon.S01E09.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S01E09.1080p.BluRay.x264-SHORTBREHD.mkv
+    │   ├── Young.Sheldon.S01E09.1080p.BluRay.x264-SHORTBREHD.nfo
+    │   ├── Young.Sheldon.S01E09.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+    │   ├── Young.Sheldon.S01E10.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+    │   ├── Young.Sheldon.S01E10.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S01E10.1080p.BluRay.x264-SHORTBREHD.mkv
+    │   ├── Young.Sheldon.S01E10.1080p.BluRay.x264-SHORTBREHD.nfo
+    │   ├── Young.Sheldon.S01E10.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+    │   ├── Young.Sheldon.S01E11.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+    │   ├── Young.Sheldon.S01E11.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S01E11.1080p.BluRay.x264-SHORTBREHD.mkv
+    │   ├── Young.Sheldon.S01E11.1080p.BluRay.x264-SHORTBREHD.nfo
+    │   ├── Young.Sheldon.S01E11.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+    │   ├── Young.Sheldon.S01E12.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+    │   ├── Young.Sheldon.S01E12.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S01E12.1080p.BluRay.x264-SHORTBREHD.mkv
+    │   ├── Young.Sheldon.S01E12.1080p.BluRay.x264-SHORTBREHD.nfo
+    │   ├── Young.Sheldon.S01E12.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+    │   ├── Young.Sheldon.S01E13.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+    │   ├── Young.Sheldon.S01E13.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S01E13.1080p.BluRay.x264-SHORTBREHD.mkv
+    │   ├── Young.Sheldon.S01E13.1080p.BluRay.x264-SHORTBREHD.nfo
+    │   ├── Young.Sheldon.S01E13.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+    │   ├── Young.Sheldon.S01E14.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+    │   ├── Young.Sheldon.S01E14.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S01E14.1080p.BluRay.x264-SHORTBREHD.mkv
+    │   ├── Young.Sheldon.S01E14.1080p.BluRay.x264-SHORTBREHD.nfo
+    │   ├── Young.Sheldon.S01E14.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+    │   ├── Young.Sheldon.S01E15.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+    │   ├── Young.Sheldon.S01E15.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S01E15.1080p.BluRay.x264-SHORTBREHD.mkv
+    │   ├── Young.Sheldon.S01E15.1080p.BluRay.x264-SHORTBREHD.nfo
+    │   ├── Young.Sheldon.S01E15.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+    │   ├── Young.Sheldon.S01E16.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+    │   ├── Young.Sheldon.S01E16.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S01E16.1080p.BluRay.x264-SHORTBREHD.mkv
+    │   ├── Young.Sheldon.S01E16.1080p.BluRay.x264-SHORTBREHD.nfo
+    │   ├── Young.Sheldon.S01E16.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+    │   ├── Young.Sheldon.S01E17.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+    │   ├── Young.Sheldon.S01E17.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S01E17.1080p.BluRay.x264-SHORTBREHD.mkv
+    │   ├── Young.Sheldon.S01E17.1080p.BluRay.x264-SHORTBREHD.nfo
+    │   ├── Young.Sheldon.S01E17.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+    │   ├── Young.Sheldon.S01E18.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+    │   ├── Young.Sheldon.S01E18.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S01E18.1080p.BluRay.x264-SHORTBREHD.mkv
+    │   ├── Young.Sheldon.S01E18.1080p.BluRay.x264-SHORTBREHD.nfo
+    │   ├── Young.Sheldon.S01E18.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+    │   ├── Young.Sheldon.S01E19.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+    │   ├── Young.Sheldon.S01E19.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S01E19.1080p.BluRay.x264-SHORTBREHD.mkv
+    │   ├── Young.Sheldon.S01E19.1080p.BluRay.x264-SHORTBREHD.nfo
+    │   ├── Young.Sheldon.S01E19.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+    │   ├── Young.Sheldon.S01E20.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+    │   ├── Young.Sheldon.S01E20.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S01E20.1080p.BluRay.x264-SHORTBREHD.mkv
+    │   ├── Young.Sheldon.S01E20.1080p.BluRay.x264-SHORTBREHD.nfo
+    │   ├── Young.Sheldon.S01E20.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+    │   ├── Young.Sheldon.S01E21.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+    │   ├── Young.Sheldon.S01E21.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S01E21.1080p.BluRay.x264-SHORTBREHD.mkv
+    │   ├── Young.Sheldon.S01E21.1080p.BluRay.x264-SHORTBREHD.nfo
+    │   ├── Young.Sheldon.S01E21.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+    │   ├── Young.Sheldon.S01E22.1080p.BluRay.x264-SHORTBREHD-320-10.bif
+    │   ├── Young.Sheldon.S01E22.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S01E22.1080p.BluRay.x264-SHORTBREHD.mkv
+    │   ├── Young.Sheldon.S01E22.1080p.BluRay.x264-SHORTBREHD.nfo
+    │   └── Young.Sheldon.S01E22.1080p.BluRay.x264-SHORTBREHD-thumb.jpg
+    ├── Season 2
+    │   ├── clearlogo.png
+    │   ├── fanart.jpg
+    │   ├── poster.jpg
+    │   ├── season02-poster.jpg
+    │   ├── season.nfo
+    │   ├── tvshow.nfo
+    │   ├── Young.Sheldon.S02E01.A.High-Pitched.Buzz.and.Training.Wheels.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.ChsEngA.ass
+    │   ├── Young.Sheldon.S02E01.A.High-Pitched.Buzz.and.Training.Wheels.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+    │   ├── Young.Sheldon.S02E01.A.High-Pitched.Buzz.and.Training.Wheels.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.nfo
+    │   ├── Young.Sheldon.S02E01.A.High-Pitched.Buzz.and.Training.Wheels.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros-thumb.jpg
+    │   ├── Young.Sheldon.S02E02.A.Rival.Prodigy.and.Sir.Isaac.Neutron.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.ChsEngA.ass
+    │   ├── Young.Sheldon.S02E02.A.Rival.Prodigy.and.Sir.Isaac.Neutron.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+    │   ├── Young.Sheldon.S02E02.A.Rival.Prodigy.and.Sir.Isaac.Neutron.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.nfo
+    │   ├── Young.Sheldon.S02E02.A.Rival.Prodigy.and.Sir.Isaac.Neutron.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros-thumb.jpg
+    │   ├── Young.Sheldon.S02E03.A.Crisis.of.Faith.and.Octopus.Aliens.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.ChsEngA.ass
+    │   ├── Young.Sheldon.S02E03.A.Crisis.of.Faith.and.Octopus.Aliens.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.en.srt
+    │   ├── Young.Sheldon.S02E03.A.Crisis.of.Faith.and.Octopus.Aliens.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+    │   ├── Young.Sheldon.S02E03.A.Crisis.of.Faith.and.Octopus.Aliens.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.nfo
+    │   ├── Young.Sheldon.S02E03.A.Crisis.of.Faith.and.Octopus.Aliens.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros-thumb.jpg
+    │   ├── Young.Sheldon.S02E04.A.Financial.Secret.and.Fish.Sauce.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+    │   ├── Young.Sheldon.S02E04.A.Financial.Secret.and.Fish.Sauce.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.nfo
+    │   ├── Young.Sheldon.S02E04.A.Financial.Secret.and.Fish.Sauce.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros-thumb.jpg
+    │   ├── Young.Sheldon.S02E05.A.Research.Study.and.Czechoslovakian.Wedding.Pastries.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.ChsEngA.ass
+    │   ├── Young.Sheldon.S02E05.A.Research.Study.and.Czechoslovakian.Wedding.Pastries.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+    │   ├── Young.Sheldon.S02E05.A.Research.Study.and.Czechoslovakian.Wedding.Pastries.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.nfo
+    │   ├── Young.Sheldon.S02E05.A.Research.Study.and.Czechoslovakian.Wedding.Pastries.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros-thumb.jpg
+    │   ├── Young.Sheldon.S02E06.Seven.Deadly.Sins.and.a.Small.Carl.Sagan.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.en.srt
+    │   ├── Young.Sheldon.S02E06.Seven.Deadly.Sins.and.a.Small.Carl.Sagan.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+    │   ├── Young.Sheldon.S02E06.Seven.Deadly.Sins.and.a.Small.Carl.Sagan.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.nfo
+    │   ├── Young.Sheldon.S02E06.Seven.Deadly.Sins.and.a.Small.Carl.Sagan.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros-thumb.jpg
+    │   ├── Young.Sheldon.S02E07.Carbon.Dating.and.a.Stuffed.Raccoon.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.ChsEngA.ass
+    │   ├── Young.Sheldon.S02E07.Carbon.Dating.and.a.Stuffed.Raccoon.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+    │   ├── Young.Sheldon.S02E07.Carbon.Dating.and.a.Stuffed.Raccoon.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.nfo
+    │   ├── Young.Sheldon.S02E07.Carbon.Dating.and.a.Stuffed.Raccoon.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros-thumb.jpg
+    │   ├── Young.Sheldon.S02E08.An.8-Bit.Princess.and.a.Flat.Tire.Genius.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.ChsEngA.ass
+    │   ├── Young.Sheldon.S02E08.An.8-Bit.Princess.and.a.Flat.Tire.Genius.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+    │   ├── Young.Sheldon.S02E08.An.8-Bit.Princess.and.a.Flat.Tire.Genius.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.nfo
+    │   ├── Young.Sheldon.S02E08.An.8-Bit.Princess.and.a.Flat.Tire.Genius.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros-thumb.jpg
+    │   ├── Young.Sheldon.S02E09.Family.Dynamics.and.a.Red.Fiero.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.ChsEngA.ass
+    │   ├── Young.Sheldon.S02E09.Family.Dynamics.and.a.Red.Fiero.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+    │   ├── Young.Sheldon.S02E09.Family.Dynamics.and.a.Red.Fiero.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.nfo
+    │   ├── Young.Sheldon.S02E09.Family.Dynamics.and.a.Red.Fiero.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros-thumb.jpg
+    │   ├── Young.Sheldon.S02E10.A.Stunted.Childhood.and.a.Can.of.Fancy.Mixed.Nuts.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.en.srt
+    │   ├── Young.Sheldon.S02E10.A.Stunted.Childhood.and.a.Can.of.Fancy.Mixed.Nuts.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+    │   ├── Young.Sheldon.S02E10.A.Stunted.Childhood.and.a.Can.of.Fancy.Mixed.Nuts.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.nfo
+    │   ├── Young.Sheldon.S02E10.A.Stunted.Childhood.and.a.Can.of.Fancy.Mixed.Nuts.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros-thumb.jpg
+    │   ├── Young.Sheldon.S02E11.A.Race.of.Superhumans.and.a.Letter.to.Alf.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.ChsEngA.ass
+    │   ├── Young.Sheldon.S02E11.A.Race.of.Superhumans.and.a.Letter.to.Alf.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+    │   ├── Young.Sheldon.S02E11.A.Race.of.Superhumans.and.a.Letter.to.Alf.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.nfo
+    │   ├── Young.Sheldon.S02E11.A.Race.of.Superhumans.and.a.Letter.to.Alf.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros-thumb.jpg
+    │   ├── Young.Sheldon.S02E12.A.Tummy.Ache.and.a.Whale.of.a.Metaphor.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.en.srt
+    │   ├── Young.Sheldon.S02E12.A.Tummy.Ache.and.a.Whale.of.a.Metaphor.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+    │   ├── Young.Sheldon.S02E12.A.Tummy.Ache.and.a.Whale.of.a.Metaphor.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.nfo
+    │   ├── Young.Sheldon.S02E12.A.Tummy.Ache.and.a.Whale.of.a.Metaphor.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros-thumb.jpg
+    │   ├── Young.Sheldon.S02E13.A.Nuclear.Reactor.And.a.Boy.Called.Lovey.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.ChsEngA.ass
+    │   ├── Young.Sheldon.S02E13.A.Nuclear.Reactor.And.a.Boy.Called.Lovey.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+    │   ├── Young.Sheldon.S02E13.A.Nuclear.Reactor.And.a.Boy.Called.Lovey.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.nfo
+    │   ├── Young.Sheldon.S02E13.A.Nuclear.Reactor.And.a.Boy.Called.Lovey.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros-thumb.jpg
+    │   ├── Young.Sheldon.S02E14.David,.Goliath,.and.a.Yoo-Hoo.from.the.Back.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.en.srt
+    │   ├── Young.Sheldon.S02E14.David,.Goliath,.and.a.Yoo-Hoo.from.the.Back.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+    │   ├── Young.Sheldon.S02E14.David,.Goliath,.and.a.Yoo-Hoo.from.the.Back.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.nfo
+    │   ├── Young.Sheldon.S02E14.David,.Goliath,.and.a.Yoo-Hoo.from.the.Back.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros-thumb.jpg
+    │   ├── Young.Sheldon.S02E15.A.Math.Emergency.and.Perky.Palms.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.ChsEngA.ass
+    │   ├── Young.Sheldon.S02E15.A.Math.Emergency.and.Perky.Palms.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+    │   ├── Young.Sheldon.S02E15.A.Math.Emergency.and.Perky.Palms.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.nfo
+    │   ├── Young.Sheldon.S02E15.A.Math.Emergency.and.Perky.Palms.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros-thumb.jpg
+    │   ├── Young.Sheldon.S02E16.A.Loaf.of.Bread.and.a.Grand.Old.Flag.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.ChsEngA.ass
+    │   ├── Young.Sheldon.S02E16.A.Loaf.of.Bread.and.a.Grand.Old.Flag.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+    │   ├── Young.Sheldon.S02E16.A.Loaf.of.Bread.and.a.Grand.Old.Flag.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.nfo
+    │   ├── Young.Sheldon.S02E16.A.Loaf.of.Bread.and.a.Grand.Old.Flag.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros-thumb.jpg
+    │   ├── Young.Sheldon.S02E17.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S02E17.Albert.Einstein.and.the.Story.of.Another.Mary.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.ChsEngA.ass
+    │   ├── Young.Sheldon.S02E17.Albert.Einstein.and.the.Story.of.Another.Mary.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.en.srt
+    │   ├── Young.Sheldon.S02E17.Albert.Einstein.and.the.Story.of.Another.Mary.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+    │   ├── Young.Sheldon.S02E17.Albert.Einstein.and.the.Story.of.Another.Mary.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.nfo
+    │   ├── Young.Sheldon.S02E17.Albert.Einstein.and.the.Story.of.Another.Mary.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros-thumb.jpg
+    │   ├── Young.Sheldon.S02E18.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S02E18.A.Perfect.Score.and.a.Bunsen.Burner.Marshmallow.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.ChsEngA.ass
+    │   ├── Young.Sheldon.S02E18.A.Perfect.Score.and.a.Bunsen.Burner.Marshmallow.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+    │   ├── Young.Sheldon.S02E18.A.Perfect.Score.and.a.Bunsen.Burner.Marshmallow.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.nfo
+    │   ├── Young.Sheldon.S02E18.A.Perfect.Score.and.a.Bunsen.Burner.Marshmallow.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros-thumb.jpg
+    │   ├── Young.Sheldon.S02E19.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S02E19.A.Political.Campaign.and.a.Candy.Land.Cheater.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.ChsEngA.ass
+    │   ├── Young.Sheldon.S02E19.A.Political.Campaign.and.a.Candy.Land.Cheater.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.en.srt
+    │   ├── Young.Sheldon.S02E19.A.Political.Campaign.and.a.Candy.Land.Cheater.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+    │   ├── Young.Sheldon.S02E19.A.Political.Campaign.and.a.Candy.Land.Cheater.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.nfo
+    │   ├── Young.Sheldon.S02E19.A.Political.Campaign.and.a.Candy.Land.Cheater.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros-thumb.jpg
+    │   ├── Young.Sheldon.S02E20.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S02E20.A.Proposal.and.a.Popsicle.Stick.Cross.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.ChsEngA.ass
+    │   ├── Young.Sheldon.S02E20.A.Proposal.and.a.Popsicle.Stick.Cross.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.en.srt
+    │   ├── Young.Sheldon.S02E20.A.Proposal.and.a.Popsicle.Stick.Cross.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+    │   ├── Young.Sheldon.S02E20.A.Proposal.and.a.Popsicle.Stick.Cross.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.nfo
+    │   ├── Young.Sheldon.S02E20.A.Proposal.and.a.Popsicle.Stick.Cross.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros-thumb.jpg
+    │   ├── Young.Sheldon.S02E21.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S02E21.A.Broken.Heart.and.a.Crock.Monster.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.ChsEngA.ass
+    │   ├── Young.Sheldon.S02E21.A.Broken.Heart.and.a.Crock.Monster.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+    │   ├── Young.Sheldon.S02E21.A.Broken.Heart.and.a.Crock.Monster.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.nfo
+    │   ├── Young.Sheldon.S02E21.A.Broken.Heart.and.a.Crock.Monster.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros-thumb.jpg
+    │   ├── Young.Sheldon.S02E22.1080p.BluRay.x264-SHORTBREHD.ChsEngA.ass
+    │   ├── Young.Sheldon.S02E22.A.Swedish.Science.Thing.and.the.Equation.for.Toast.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.en.srt
+    │   ├── Young.Sheldon.S02E22.A.Swedish.Science.Thing.and.the.Equation.for.Toast.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+    │   ├── Young.Sheldon.S02E22.A.Swedish.Science.Thing.and.the.Equation.for.Toast.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.nfo
+    │   └── Young.Sheldon.S02E22.A.Swedish.Science.Thing.and.the.Equation.for.Toast.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros-thumb.jpg
+    ├── Season 3
+    │   ├── clearlogo.png
+    │   ├── fanart.jpg
+    │   ├── poster.jpg
+    │   ├── RARBG.txt
+    │   ├── season03-poster.jpg
+    │   ├── season.nfo
+    │   ├── tvshow.nfo
+    │   ├── Young.Sheldon.S03E01.1080p.BluRay.x264-BORDURE.H.264-NTb.ChsEngA.ass
+    │   ├── Young.Sheldon.S03E01.1080p.BluRay.x264-BORDURE.mkv
+    │   ├── Young.Sheldon.S03E01.1080p.BluRay.x264-BORDURE.nfo
+    │   ├── Young.Sheldon.S03E01.1080p.BluRay.x264-BORDURE-thumb.jpg
+    │   ├── Young.Sheldon.S03E02.1080p.BluRay.x264-BORDURE.H.264-NTb.ChsEngA.ass
+    │   ├── Young.Sheldon.S03E02.1080p.BluRay.x264-BORDURE.mkv
+    │   ├── Young.Sheldon.S03E02.1080p.BluRay.x264-BORDURE.nfo
+    │   ├── Young.Sheldon.S03E02.1080p.BluRay.x264-BORDURE-thumb.jpg
+    │   ├── Young.Sheldon.S03E03.1080p.BluRay.x264-BORDURE.H.264-NTb.ChsEngA.ass
+    │   ├── Young.Sheldon.S03E03.1080p.BluRay.x264-BORDURE.mkv
+    │   ├── Young.Sheldon.S03E03.1080p.BluRay.x264-BORDURE.nfo
+    │   ├── Young.Sheldon.S03E03.1080p.BluRay.x264-BORDURE-thumb.jpg
+    │   ├── Young.Sheldon.S03E04.1080p.BluRay.x264-BORDURE-320-10.bif
+    │   ├── Young.Sheldon.S03E04.1080p.BluRay.x264-BORDURE.H.264-NTb.ChsEngA.ass
+    │   ├── Young.Sheldon.S03E04.1080p.BluRay.x264-BORDURE.mkv
+    │   ├── Young.Sheldon.S03E04.1080p.BluRay.x264-BORDURE.nfo
+    │   ├── Young.Sheldon.S03E04.1080p.BluRay.x264-BORDURE-thumb.jpg
+    │   ├── Young.Sheldon.S03E05.1080p.BluRay.x264-BORDURE.H.264-NTb.ChsEngA.ass
+    │   ├── Young.Sheldon.S03E05.1080p.BluRay.x264-BORDURE.mkv
+    │   ├── Young.Sheldon.S03E05.1080p.BluRay.x264-BORDURE.nfo
+    │   ├── Young.Sheldon.S03E05.1080p.BluRay.x264-BORDURE-thumb.jpg
+    │   ├── Young.Sheldon.S03E06.1080p.BluRay.x264-BORDURE.H.264-NTb.ChsEngA.ass
+    │   ├── Young.Sheldon.S03E06.1080p.BluRay.x264-BORDURE.mkv
+    │   ├── Young.Sheldon.S03E06.1080p.BluRay.x264-BORDURE.nfo
+    │   ├── Young.Sheldon.S03E06.1080p.BluRay.x264-BORDURE-thumb.jpg
+    │   ├── Young.Sheldon.S03E07.1080p.BluRay.x264-BORDURE.H.264-NTb.ChsEngA.ass
+    │   ├── Young.Sheldon.S03E07.1080p.BluRay.x264-BORDURE.mkv
+    │   ├── Young.Sheldon.S03E07.1080p.BluRay.x264-BORDURE.nfo
+    │   ├── Young.Sheldon.S03E07.1080p.BluRay.x264-BORDURE-thumb.jpg
+    │   ├── Young.Sheldon.S03E08.1080p.BluRay.x264-BORDURE-320-10.bif
+    │   ├── Young.Sheldon.S03E08.1080p.BluRay.x264-BORDURE.H.264-NTb.ChsEngA.ass
+    │   ├── Young.Sheldon.S03E08.1080p.BluRay.x264-BORDURE.mkv
+    │   ├── Young.Sheldon.S03E08.1080p.BluRay.x264-BORDURE.nfo
+    │   ├── Young.Sheldon.S03E08.1080p.BluRay.x264-BORDURE-thumb.jpg
+    │   ├── Young.Sheldon.S03E09.1080p.BluRay.x264-BORDURE.H.264-NTb.ChsEngA.ass
+    │   ├── Young.Sheldon.S03E09.1080p.BluRay.x264-BORDURE.mkv
+    │   ├── Young.Sheldon.S03E09.1080p.BluRay.x264-BORDURE.nfo
+    │   ├── Young.Sheldon.S03E09.1080p.BluRay.x264-BORDURE-thumb.jpg
+    │   ├── Young.Sheldon.S03E10.1080p.BluRay.x264-BORDURE-320-10.bif
+    │   ├── Young.Sheldon.S03E10.1080p.BluRay.x264-BORDURE.H.264-NTb.ChsEngA.ass
+    │   ├── Young.Sheldon.S03E10.1080p.BluRay.x264-BORDURE.mkv
+    │   ├── Young.Sheldon.S03E10.1080p.BluRay.x264-BORDURE.nfo
+    │   ├── Young.Sheldon.S03E10.1080p.BluRay.x264-BORDURE-thumb.jpg
+    │   ├── Young.Sheldon.S03E11.1080p.BluRay.x264-BORDURE.H.264-NTb.ChsEngA.ass
+    │   ├── Young.Sheldon.S03E11.1080p.BluRay.x264-BORDURE.mkv
+    │   ├── Young.Sheldon.S03E11.1080p.BluRay.x264-BORDURE.nfo
+    │   ├── Young.Sheldon.S03E11.1080p.BluRay.x264-BORDURE-thumb.jpg
+    │   ├── Young.Sheldon.S03E12.1080p.BluRay.x264-BORDURE-320-10.bif
+    │   ├── Young.Sheldon.S03E12.1080p.BluRay.x264-BORDURE.H.264-NTb.ChsEngA.ass
+    │   ├── Young.Sheldon.S03E12.1080p.BluRay.x264-BORDURE.mkv
+    │   ├── Young.Sheldon.S03E12.1080p.BluRay.x264-BORDURE.nfo
+    │   ├── Young.Sheldon.S03E12.1080p.BluRay.x264-BORDURE-thumb.jpg
+    │   ├── Young.Sheldon.S03E13.1080p.BluRay.x264-BORDURE-320-10.bif
+    │   ├── Young.Sheldon.S03E13.1080p.BluRay.x264-BORDURE.H.264-NTb.ChsEngA.ass
+    │   ├── Young.Sheldon.S03E13.1080p.BluRay.x264-BORDURE.mkv
+    │   ├── Young.Sheldon.S03E13.1080p.BluRay.x264-BORDURE.nfo
+    │   ├── Young.Sheldon.S03E13.1080p.BluRay.x264-BORDURE-thumb.jpg
+    │   ├── Young.Sheldon.S03E14.1080p.BluRay.x264-BORDURE-320-10.bif
+    │   ├── Young.Sheldon.S03E14.1080p.BluRay.x264-BORDURE.H.264-NTb.ChsEngA.ass
+    │   ├── Young.Sheldon.S03E14.1080p.BluRay.x264-BORDURE.mkv
+    │   ├── Young.Sheldon.S03E14.1080p.BluRay.x264-BORDURE.nfo
+    │   ├── Young.Sheldon.S03E14.1080p.BluRay.x264-BORDURE-thumb.jpg
+    │   ├── Young.Sheldon.S03E15.1080p.BluRay.x264-BORDURE-320-10.bif
+    │   ├── Young.Sheldon.S03E15.1080p.BluRay.x264-BORDURE.H.264-NTb.ChsEngA.ass
+    │   ├── Young.Sheldon.S03E15.1080p.BluRay.x264-BORDURE.mkv
+    │   ├── Young.Sheldon.S03E15.1080p.BluRay.x264-BORDURE.nfo
+    │   ├── Young.Sheldon.S03E15.1080p.BluRay.x264-BORDURE-thumb.jpg
+    │   ├── Young.Sheldon.S03E16.1080p.BluRay.x264-BORDURE.H.264-NTb.ChsEngA.ass
+    │   ├── Young.Sheldon.S03E16.1080p.BluRay.x264-BORDURE.mkv
+    │   ├── Young.Sheldon.S03E16.1080p.BluRay.x264-BORDURE.nfo
+    │   ├── Young.Sheldon.S03E16.1080p.BluRay.x264-BORDURE-thumb.jpg
+    │   ├── Young.Sheldon.S03E17.1080p.BluRay.x264-BORDURE-320-10.bif
+    │   ├── Young.Sheldon.S03E17.1080p.BluRay.x264-BORDURE.H.264-NTb.ChsEngA.ass
+    │   ├── Young.Sheldon.S03E17.1080p.BluRay.x264-BORDURE.mkv
+    │   ├── Young.Sheldon.S03E17.1080p.BluRay.x264-BORDURE.nfo
+    │   ├── Young.Sheldon.S03E17.1080p.BluRay.x264-BORDURE-thumb.jpg
+    │   ├── Young.Sheldon.S03E18.1080p.BluRay.x264-BORDURE-320-10.bif
+    │   ├── Young.Sheldon.S03E18.1080p.BluRay.x264-BORDURE.H.264-NTb.ChsEngA.ass
+    │   ├── Young.Sheldon.S03E18.1080p.BluRay.x264-BORDURE.mkv
+    │   ├── Young.Sheldon.S03E18.1080p.BluRay.x264-BORDURE.nfo
+    │   ├── Young.Sheldon.S03E18.1080p.BluRay.x264-BORDURE-thumb.jpg
+    │   ├── Young.Sheldon.S03E19.1080p.BluRay.x264-BORDURE.H.264-NTb.ChsEngA.ass
+    │   ├── Young.Sheldon.S03E19.1080p.BluRay.x264-BORDURE.mkv
+    │   ├── Young.Sheldon.S03E19.1080p.BluRay.x264-BORDURE.nfo
+    │   ├── Young.Sheldon.S03E19.1080p.BluRay.x264-BORDURE-thumb.jpg
+    │   ├── Young.Sheldon.S03E20.1080p.BluRay.x264-BORDURE.H.264-NTb.ChsEngA.ass
+    │   ├── Young.Sheldon.S03E20.1080p.BluRay.x264-BORDURE.mkv
+    │   ├── Young.Sheldon.S03E20.1080p.BluRay.x264-BORDURE.nfo
+    │   ├── Young.Sheldon.S03E20.1080p.BluRay.x264-BORDURE-thumb.jpg
+    │   ├── Young.Sheldon.S03E21.1080p.BluRay.x264-BORDURE-320-10.bif
+    │   ├── Young.Sheldon.S03E21.1080p.BluRay.x264-BORDURE.H.264-NTb.ChsEngA.ass
+    │   ├── Young.Sheldon.S03E21.1080p.BluRay.x264-BORDURE.mkv
+    │   ├── Young.Sheldon.S03E21.1080p.BluRay.x264-BORDURE.nfo
+    │   └── Young.Sheldon.S03E21.1080p.BluRay.x264-BORDURE-thumb.jpg
+    └── tvshow.nfo
+```
+
+</details>
+
+
+<details><summary>after</summary>
+
+```
+├── 오징어 게임 (2021)
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── Season 1
+│   │   ├── 오징어 게임 S01E01.mkv
+│   │   ├── 오징어 게임 S01E01.nfo
+│   │   ├── 오징어 게임 S01E01-thumb.jpg
+│   │   ├── 오징어 게임 S01E02.mkv
+│   │   ├── 오징어 게임 S01E02.nfo
+│   │   ├── 오징어 게임 S01E02-thumb.jpg
+│   │   ├── 오징어 게임 S01E03.mkv
+│   │   ├── 오징어 게임 S01E03.nfo
+│   │   ├── 오징어 게임 S01E03-thumb.jpg
+│   │   ├── 오징어 게임 S01E04.mkv
+│   │   ├── 오징어 게임 S01E04.nfo
+│   │   ├── 오징어 게임 S01E04-thumb.jpg
+│   │   ├── 오징어 게임 S01E05.mkv
+│   │   ├── 오징어 게임 S01E05.nfo
+│   │   ├── 오징어 게임 S01E05-thumb.jpg
+│   │   ├── 오징어 게임 S01E06.mkv
+│   │   ├── 오징어 게임 S01E06.nfo
+│   │   ├── 오징어 게임 S01E06-thumb.jpg
+│   │   ├── 오징어 게임 S01E07.mkv
+│   │   ├── 오징어 게임 S01E07.nfo
+│   │   ├── 오징어 게임 S01E07-thumb.jpg
+│   │   ├── 오징어 게임 S01E08.mkv
+│   │   ├── 오징어 게임 S01E08.nfo
+│   │   ├── 오징어 게임 S01E08-thumb.jpg
+│   │   ├── 오징어 게임 S01E09.mkv
+│   │   ├── 오징어 게임 S01E09.nfo
+│   │   └── 오징어 게임 S01E09-thumb.jpg
+│   └── tvshow.nfo
+├── 半沢直樹 (2013)
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── Season 1
+│   │   ├── 半沢直樹 S01E00.mp4
+│   │   ├── 半沢直樹 S01E00..mp4
+│   │   ├── 半沢直樹 S01E00.nfo
+│   │   ├── 半沢直樹 S01E00..nfo
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── 半沢直樹 S02E00.nfo
+│   │   ├── 半沢直樹 S02E00.ts
+│   │   ├── 半沢直樹 S02E01.nfo
+│   │   ├── 半沢直樹 S02E01-thumb.jpg
+│   │   ├── 半沢直樹 S02E01.ts
+│   │   ├── 半沢直樹 S02E02.nfo
+│   │   ├── 半沢直樹 S02E02-thumb.jpg
+│   │   ├── 半沢直樹 S02E02.ts
+│   │   ├── 半沢直樹 S02E03.nfo
+│   │   ├── 半沢直樹 S02E03-thumb.jpg
+│   │   ├── 半沢直樹 S02E03.ts
+│   │   ├── 半沢直樹 S02E04.nfo
+│   │   ├── 半沢直樹 S02E04-thumb.jpg
+│   │   ├── 半沢直樹 S02E04.ts
+│   │   ├── 半沢直樹 S02E05.nfo
+│   │   ├── 半沢直樹 S02E05-thumb.jpg
+│   │   ├── 半沢直樹 S02E05.ts
+│   │   ├── 半沢直樹 S02E06.nfo
+│   │   ├── 半沢直樹 S02E06-thumb.jpg
+│   │   ├── 半沢直樹 S02E06.ts
+│   │   ├── 半沢直樹 S02E07.nfo
+│   │   ├── 半沢直樹 S02E07-thumb.jpg
+│   │   ├── 半沢直樹 S02E07.ts
+│   │   ├── 半沢直樹 S02E08.nfo
+│   │   ├── 半沢直樹 S02E08-thumb.jpg
+│   │   ├── 半沢直樹 S02E08.ts
+│   │   ├── 半沢直樹 S02E09.nfo
+│   │   ├── 半沢直樹 S02E09-thumb.jpg
+│   │   ├── 半沢直樹 S02E09.ts
+│   │   ├── 半沢直樹 S02E10.nfo
+│   │   ├── 半沢直樹 S02E10-thumb.jpg
+│   │   ├── 半沢直樹 S02E10.ts
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── 沉默的真相 (2020)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── 沉默的真相 S01E01-320-10.bif
+│   │   ├── 沉默的真相 S01E01.mp4
+│   │   ├── 沉默的真相 S01E01.nfo
+│   │   ├── 沉默的真相 S01E01-thumb.jpg
+│   │   ├── 沉默的真相 S01E02-320-10.bif
+│   │   ├── 沉默的真相 S01E02.mp4
+│   │   ├── 沉默的真相 S01E02.nfo
+│   │   ├── 沉默的真相 S01E02-thumb.jpg
+│   │   ├── 沉默的真相 S01E03-320-10.bif
+│   │   ├── 沉默的真相 S01E03.mp4
+│   │   ├── 沉默的真相 S01E03.nfo
+│   │   ├── 沉默的真相 S01E03-thumb.jpg
+│   │   ├── 沉默的真相 S01E04-320-10.bif
+│   │   ├── 沉默的真相 S01E04.mp4
+│   │   ├── 沉默的真相 S01E04.nfo
+│   │   ├── 沉默的真相 S01E04-thumb.jpg
+│   │   ├── 沉默的真相 S01E05-320-10.bif
+│   │   ├── 沉默的真相 S01E05.mp4
+│   │   ├── 沉默的真相 S01E05.nfo
+│   │   ├── 沉默的真相 S01E05-thumb.jpg
+│   │   ├── 沉默的真相 S01E06-320-10.bif
+│   │   ├── 沉默的真相 S01E06.mp4
+│   │   ├── 沉默的真相 S01E06.nfo
+│   │   ├── 沉默的真相 S01E06-thumb.jpg
+│   │   ├── 沉默的真相 S01E07-320-10.bif
+│   │   ├── 沉默的真相 S01E07.mp4
+│   │   ├── 沉默的真相 S01E07.nfo
+│   │   ├── 沉默的真相 S01E07-thumb.jpg
+│   │   ├── 沉默的真相 S01E08-320-10.bif
+│   │   ├── 沉默的真相 S01E08.mp4
+│   │   ├── 沉默的真相 S01E08.nfo
+│   │   ├── 沉默的真相 S01E08-thumb.jpg
+│   │   ├── 沉默的真相 S01E09-320-10.bif
+│   │   ├── 沉默的真相 S01E09.mp4
+│   │   ├── 沉默的真相 S01E09.nfo
+│   │   ├── 沉默的真相 S01E09-thumb.jpg
+│   │   ├── 沉默的真相 S01E10-320-10.bif
+│   │   ├── 沉默的真相 S01E10.mp4
+│   │   ├── 沉默的真相 S01E10.nfo
+│   │   ├── 沉默的真相 S01E10-thumb.jpg
+│   │   ├── 沉默的真相 S01E11-320-10.bif
+│   │   ├── 沉默的真相 S01E11.mp4
+│   │   ├── 沉默的真相 S01E11.nfo
+│   │   ├── 沉默的真相 S01E11-thumb.jpg
+│   │   ├── 沉默的真相 S01E12-320-10.bif
+│   │   ├── 沉默的真相 S01E12.mp4
+│   │   ├── 沉默的真相 S01E12.nfo
+│   │   ├── 沉默的真相 S01E12-thumb.jpg
+│   │   └── season.nfo
+│   ├── season.nfo
+│   └── tvshow.nfo
+├── 斗罗大陆动画版／Soul Land (2017)
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── 斗罗大陆动画版／Soul Land S01E001.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E001.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E001-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E002.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E002.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E002-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E003.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E003.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E003-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E004.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E004.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E004-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E005.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E005.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E005-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E006.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E006.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E006-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E007.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E007.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E007-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E008.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E008.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E008-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E009.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E009.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E009-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0106.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0106.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0106-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E010.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E010.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E010-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0110.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0110.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0110-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0111.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0111.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0111-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0112.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0112.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0112-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0113.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0113.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0113-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0114.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0114.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0114-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0115.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0115.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0115-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0116.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0116.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0116-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0117.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0117.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0117-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0118.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0118.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0118-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0119.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0119.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0119-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E011.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E011.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E011-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0120.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0120.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0120-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0121.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0121.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0121-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0123.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0123.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0123-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0124.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0124.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0124-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0125.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0125.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0125-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0126.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0126.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0126-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0127.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0127.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0127-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0128.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0128.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0128-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0129.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0129.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0129-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E012.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E012.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E012-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0130.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0130.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0130-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E013.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E013.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E013-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0140.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0140.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0140-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0141.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0141.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0141-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0142.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0142.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0142-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0143.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0143.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0143-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0144.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0144.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0144-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0145.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0145.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0145-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0146.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0146.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0146-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0147.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0147.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0147-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0148.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0148.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0148-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0149.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0149.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0149-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E014.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E014.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E014-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0154.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0154-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0157.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0157-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E015.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E015.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E015-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0160.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E0160-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E016.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E016.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E016-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E017.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E017.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E017-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E018.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E018.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E018-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E019.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E019.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E019-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E020.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E020.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E020-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E021.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E021.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E021-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E022.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E022.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E022-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E023.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E023.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E023-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E024.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E024.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E024-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E025.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E025.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E025-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E026.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E026.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E026-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E027.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E027.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E027-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E028.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E028.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E028-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E029.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E029.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E029-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E030.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E030.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E030-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E031.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E031.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E031-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E032.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E032.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E032-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E033.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E033.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E033-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E034.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E034.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E034-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E035.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E035.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E035-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E036.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E036.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E036-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E037.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E037.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E037-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E038.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E038.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E038-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E039.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E039.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E039-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E040.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E040.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E040-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E041.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E041.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E041-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E042.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E042.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E042-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E043.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E043.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E043-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E044.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E044.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E044-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E045.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E045.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E045-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E046.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E046.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E046-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E047.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E047.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E047-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E048.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E048.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E048-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E049.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E049.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E049-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E050.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E050.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E050-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E051.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E051.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E051-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E052.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E052.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E052-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E053.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E053.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E053-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E054.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E054.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E054-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E055.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E055.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E055-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E056.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E056.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E056-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E057.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E057.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E057-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E058.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E058.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E058-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E059.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E059.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E059-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E060.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E060.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E060-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E061.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E061.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E061-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E062.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E062.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E062-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E063.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E063.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E063-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E064.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E064.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E064-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E065.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E065.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E065-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E066.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E066.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E066-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E067.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E067.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E067-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E068.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E068.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E068-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E069.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E069.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E069-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E070.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E070.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E070-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E071.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E071.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E071-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E072.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E072.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E072-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E073.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E073.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E073-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E074.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E074.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E074-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E075.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E075.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E075-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E076.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E076.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E076-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E077.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E077.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E077-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E078.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E078.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E078-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E079.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E079.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E079-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E080.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E080.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E080-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E081.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E081.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E081-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E082.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E082.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E082-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E083.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E083.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E083-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E084.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E084.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E084-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E085.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E085.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E085-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E086.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E086.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E086-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E087.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E087.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E087-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E088.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E088.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E088-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E089.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E089.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E089-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E090.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E090.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E090-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E091.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E091.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E091-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E092.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E092.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E092-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E093.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E093.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E093-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E094.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E094.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E094-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E095.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E095.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E095-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E096.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E096.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E096-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E097.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E097.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E097-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E098.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E098.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E098-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E099.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E099.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E099-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E100.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E100.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E100-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E101.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E101.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E101-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E102.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E102.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E102-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E103.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E103.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E103-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E104.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E104.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E104-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E105.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E105.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E105-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E107.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E107.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E107-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E108.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E108.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E108-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E109.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E109.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E109-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E122.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E122.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E122-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E131.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E131.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E131-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E132.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E132.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E132-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E133.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E133.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E133-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E134.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E134.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E134-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E135.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E135.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E135-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E136.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E136.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E136-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E137.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E137.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E137-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E138.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E138.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E138-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E139.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E139.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E139-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E150.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E150.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E150-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E151.mp4
+│   │   ├── 斗罗大陆动画版／Soul Land S01E151.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E151-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E152.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E152-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E153.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E153-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E155.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E155-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E156.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E156-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E158.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E158-thumb.jpg
+│   │   ├── 斗罗大陆动画版／Soul Land S01E159.nfo
+│   │   ├── 斗罗大陆动画版／Soul Land S01E159-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── 开端 (2022)
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── 开端 S01E01.mp4
+│   │   ├── 开端 S01E01.nfo
+│   │   ├── 开端 S01E01-thumb.jpg
+│   │   ├── 开端 S01E02.mp4
+│   │   ├── 开端 S01E02.nfo
+│   │   ├── 开端 S01E02-thumb.jpg
+│   │   ├── 开端 S01E03.mp4
+│   │   ├── 开端 S01E03.nfo
+│   │   ├── 开端 S01E03-thumb.jpg
+│   │   ├── 开端 S01E04.mp4
+│   │   ├── 开端 S01E04.nfo
+│   │   ├── 开端 S01E04-thumb.jpg
+│   │   ├── 开端 S01E05.mp4
+│   │   ├── 开端 S01E05.nfo
+│   │   ├── 开端 S01E05-thumb.jpg
+│   │   ├── 开端 S01E06.mp4
+│   │   ├── 开端 S01E06.nfo
+│   │   ├── 开端 S01E06-thumb.jpg
+│   │   ├── 开端 S01E07.mp4
+│   │   ├── 开端 S01E07.nfo
+│   │   ├── 开端 S01E07-thumb.jpg
+│   │   ├── 开端 S01E08.mp4
+│   │   ├── 开端 S01E08.nfo
+│   │   ├── 开端 S01E08-thumb.jpg
+│   │   ├── 开端 S01E09.mp4
+│   │   ├── 开端 S01E09.nfo
+│   │   ├── 开端 S01E09-thumb.jpg
+│   │   ├── 开端 S01E10.mp4
+│   │   ├── 开端 S01E10.nfo
+│   │   ├── 开端 S01E10-thumb.jpg
+│   │   ├── 开端 S01E11.mp4
+│   │   ├── 开端 S01E11.nfo
+│   │   ├── 开端 S01E11-thumb.jpg
+│   │   ├── 开端 S01E12.mp4
+│   │   ├── 开端 S01E12.nfo
+│   │   ├── 开端 S01E12-thumb.jpg
+│   │   ├── 开端 S01E13.mp4
+│   │   ├── 开端 S01E13.nfo
+│   │   ├── 开端 S01E13-thumb.jpg
+│   │   ├── 开端 S01E14.mp4
+│   │   ├── 开端 S01E14.nfo
+│   │   ├── 开端 S01E14-thumb.jpg
+│   │   ├── 开端 S01E15.mp4
+│   │   ├── 开端 S01E15.nfo
+│   │   ├── 开端 S01E15-thumb.jpg
+│   │   └── 开端 S01E15.zh-cn.ass
+│   └── tvshow.nfo
+├── 扫黑风暴 (2021)
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── 扫黑风暴 S01E01.mp4
+│   │   ├── 扫黑风暴 S01E01.nfo
+│   │   ├── 扫黑风暴 S01E01-thumb.jpg
+│   │   ├── 扫黑风暴 S01E02.mp4
+│   │   ├── 扫黑风暴 S01E02.nfo
+│   │   ├── 扫黑风暴 S01E02-thumb.jpg
+│   │   ├── 扫黑风暴 S01E03.mp4
+│   │   ├── 扫黑风暴 S01E03.nfo
+│   │   ├── 扫黑风暴 S01E03-thumb.jpg
+│   │   ├── 扫黑风暴 S01E04.mp4
+│   │   ├── 扫黑风暴 S01E04.nfo
+│   │   ├── 扫黑风暴 S01E04-thumb.jpg
+│   │   ├── 扫黑风暴 S01E05.mp4
+│   │   ├── 扫黑风暴 S01E05.nfo
+│   │   ├── 扫黑风暴 S01E05-thumb.jpg
+│   │   ├── 扫黑风暴 S01E06.mp4
+│   │   ├── 扫黑风暴 S01E06.nfo
+│   │   ├── 扫黑风暴 S01E06-thumb.jpg
+│   │   ├── 扫黑风暴 S01E07.mp4
+│   │   ├── 扫黑风暴 S01E07.nfo
+│   │   ├── 扫黑风暴 S01E07-thumb.jpg
+│   │   ├── 扫黑风暴 S01E08.mp4
+│   │   ├── 扫黑风暴 S01E08.nfo
+│   │   ├── 扫黑风暴 S01E08-thumb.jpg
+│   │   ├── 扫黑风暴 S01E09.mp4
+│   │   ├── 扫黑风暴 S01E09.nfo
+│   │   ├── 扫黑风暴 S01E09-thumb.jpg
+│   │   ├── 扫黑风暴 S01E10.mp4
+│   │   ├── 扫黑风暴 S01E10.nfo
+│   │   ├── 扫黑风暴 S01E10-thumb.jpg
+│   │   ├── 扫黑风暴 S01E11.mp4
+│   │   ├── 扫黑风暴 S01E11.nfo
+│   │   ├── 扫黑风暴 S01E11-thumb.jpg
+│   │   ├── 扫黑风暴 S01E12.mp4
+│   │   ├── 扫黑风暴 S01E12.nfo
+│   │   ├── 扫黑风暴 S01E12-thumb.jpg
+│   │   ├── 扫黑风暴 S01E13.mp4
+│   │   ├── 扫黑风暴 S01E13.nfo
+│   │   ├── 扫黑风暴 S01E13-thumb.jpg
+│   │   ├── 扫黑风暴 S01E14.mp4
+│   │   ├── 扫黑风暴 S01E14.nfo
+│   │   ├── 扫黑风暴 S01E14-thumb.jpg
+│   │   ├── 扫黑风暴 S01E15.mp4
+│   │   ├── 扫黑风暴 S01E15.nfo
+│   │   ├── 扫黑风暴 S01E15-thumb.jpg
+│   │   ├── 扫黑风暴 S01E16.mp4
+│   │   ├── 扫黑风暴 S01E16.nfo
+│   │   ├── 扫黑风暴 S01E16-thumb.jpg
+│   │   ├── 扫黑风暴 S01E17.mp4
+│   │   ├── 扫黑风暴 S01E17.nfo
+│   │   ├── 扫黑风暴 S01E17-thumb.jpg
+│   │   ├── 扫黑风暴 S01E18.mp4
+│   │   ├── 扫黑风暴 S01E18.nfo
+│   │   ├── 扫黑风暴 S01E18-thumb.jpg
+│   │   ├── 扫黑风暴 S01E19.mp4
+│   │   ├── 扫黑风暴 S01E19.nfo
+│   │   ├── 扫黑风暴 S01E19-thumb.jpg
+│   │   ├── 扫黑风暴 S01E20.mp4
+│   │   ├── 扫黑风暴 S01E20.nfo
+│   │   ├── 扫黑风暴 S01E20-thumb.jpg
+│   │   ├── 扫黑风暴 S01E21.mp4
+│   │   ├── 扫黑风暴 S01E21.nfo
+│   │   ├── 扫黑风暴 S01E21-thumb.jpg
+│   │   ├── 扫黑风暴 S01E22.mp4
+│   │   ├── 扫黑风暴 S01E22.nfo
+│   │   ├── 扫黑风暴 S01E22-thumb.jpg
+│   │   ├── 扫黑风暴 S01E23.mp4
+│   │   ├── 扫黑风暴 S01E23.nfo
+│   │   ├── 扫黑风暴 S01E23-thumb.jpg
+│   │   ├── 扫黑风暴 S01E24.mp4
+│   │   ├── 扫黑风暴 S01E24.nfo
+│   │   ├── 扫黑风暴 S01E24-thumb.jpg
+│   │   ├── 扫黑风暴 S01E25.mp4
+│   │   ├── 扫黑风暴 S01E25.nfo
+│   │   ├── 扫黑风暴 S01E25-thumb.jpg
+│   │   ├── 扫黑风暴 S01E26.mp4
+│   │   ├── 扫黑风暴 S01E26.nfo
+│   │   ├── 扫黑风暴 S01E26-thumb.jpg
+│   │   ├── 扫黑风暴 S01E26.zh-cn.srt
+│   │   ├── 扫黑风暴 S01E27.mp4
+│   │   ├── 扫黑风暴 S01E27.nfo
+│   │   ├── 扫黑风暴 S01E27-thumb.jpg
+│   │   ├── 扫黑风暴 S01E28.mp4
+│   │   ├── 扫黑风暴 S01E28.nfo
+│   │   ├── 扫黑风暴 S01E28-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── 誰是被害者 (2020)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── 誰是被害者 S01E01-320-10.bif
+│   │   ├── 誰是被害者 S01E01.mp4
+│   │   ├── 誰是被害者 S01E01.nfo
+│   │   ├── 誰是被害者 S01E01-thumb.jpg
+│   │   ├── 誰是被害者 S01E02-320-10.bif
+│   │   ├── 誰是被害者 S01E02.mp4
+│   │   ├── 誰是被害者 S01E02.nfo
+│   │   ├── 誰是被害者 S01E02-thumb.jpg
+│   │   ├── 誰是被害者 S01E03-320-10.bif
+│   │   ├── 誰是被害者 S01E03.mp4
+│   │   ├── 誰是被害者 S01E03.nfo
+│   │   ├── 誰是被害者 S01E03-thumb.jpg
+│   │   ├── 誰是被害者 S01E04-320-10.bif
+│   │   ├── 誰是被害者 S01E04.mp4
+│   │   ├── 誰是被害者 S01E04.nfo
+│   │   ├── 誰是被害者 S01E04-thumb.jpg
+│   │   ├── 誰是被害者 S01E05-320-10.bif
+│   │   ├── 誰是被害者 S01E05.mp4
+│   │   ├── 誰是被害者 S01E05.nfo
+│   │   ├── 誰是被害者 S01E05-thumb.jpg
+│   │   ├── 誰是被害者 S01E06-320-10.bif
+│   │   ├── 誰是被害者 S01E06.mp4
+│   │   ├── 誰是被害者 S01E06.nfo
+│   │   ├── 誰是被害者 S01E06-thumb.jpg
+│   │   ├── 誰是被害者 S01E07-320-10.bif
+│   │   ├── 誰是被害者 S01E07.mp4
+│   │   ├── 誰是被害者 S01E07.nfo
+│   │   ├── 誰是被害者 S01E07-thumb.jpg
+│   │   ├── 誰是被害者 S01E08-320-10.bif
+│   │   ├── 誰是被害者 S01E08.mp4
+│   │   ├── 誰是被害者 S01E08.nfo
+│   │   ├── 誰是被害者 S01E08-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Arcane (2021)
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── Arcane S01E01.mkv
+│   │   ├── Arcane S01E01.nfo
+│   │   ├── Arcane S01E01-thumb.jpg
+│   │   ├── Arcane S01E02.mkv
+│   │   ├── Arcane S01E02.nfo
+│   │   ├── Arcane S01E02-thumb.jpg
+│   │   ├── Arcane S01E03.mkv
+│   │   ├── Arcane S01E03.nfo
+│   │   ├── Arcane S01E03-thumb.jpg
+│   │   ├── Arcane S01E04.mkv
+│   │   ├── Arcane S01E04.nfo
+│   │   ├── Arcane S01E04-thumb.jpg
+│   │   ├── Arcane S01E05.mkv
+│   │   ├── Arcane S01E05.nfo
+│   │   ├── Arcane S01E05-thumb.jpg
+│   │   ├── Arcane S01E06.mkv
+│   │   ├── Arcane S01E06.nfo
+│   │   ├── Arcane S01E06-thumb.jpg
+│   │   ├── Arcane S01E07.mkv
+│   │   ├── Arcane S01E07.nfo
+│   │   ├── Arcane S01E07-thumb.jpg
+│   │   ├── Arcane S01E08.mkv
+│   │   ├── Arcane S01E08.nfo
+│   │   ├── Arcane S01E08-thumb.jpg
+│   │   ├── Arcane S01E09.mkv
+│   │   ├── Arcane S01E09.nfo
+│   │   └── Arcane S01E09-thumb.jpg
+│   └── tvshow.nfo
+├── Better Call Saul (2015)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season04-poster.jpg
+│   ├── season05-poster.jpg
+│   ├── Season 1
+│   │   ├── Better Call Saul S01E01-320-10.bif
+│   │   ├── Better Call Saul S01E01.mkv
+│   │   ├── Better Call Saul S01E01.nfo
+│   │   ├── Better Call Saul S01E01-thumb.jpg
+│   │   ├── Better Call Saul S01E01.zh.default.ass
+│   │   ├── Better Call Saul S01E02-320-10.bif
+│   │   ├── Better Call Saul S01E02.mkv
+│   │   ├── Better Call Saul S01E02.nfo
+│   │   ├── Better Call Saul S01E02-thumb.jpg
+│   │   ├── Better Call Saul S01E02.zh.default.ass
+│   │   ├── Better Call Saul S01E03-320-10.bif
+│   │   ├── Better Call Saul S01E03.mkv
+│   │   ├── Better Call Saul S01E03.nfo
+│   │   ├── Better Call Saul S01E03-thumb.jpg
+│   │   ├── Better Call Saul S01E03.zh.default.ass
+│   │   ├── Better Call Saul S01E04-320-10.bif
+│   │   ├── Better Call Saul S01E04.mkv
+│   │   ├── Better Call Saul S01E04.nfo
+│   │   ├── Better Call Saul S01E04-thumb.jpg
+│   │   ├── Better Call Saul S01E05-320-10.bif
+│   │   ├── Better Call Saul S01E05.mkv
+│   │   ├── Better Call Saul S01E05.nfo
+│   │   ├── Better Call Saul S01E05-thumb.jpg
+│   │   ├── Better Call Saul S01E06-320-10.bif
+│   │   ├── Better Call Saul S01E06.mkv
+│   │   ├── Better Call Saul S01E06.nfo
+│   │   ├── Better Call Saul S01E06-thumb.jpg
+│   │   ├── Better Call Saul S01E07-320-10.bif
+│   │   ├── Better Call Saul S01E07.mkv
+│   │   ├── Better Call Saul S01E07.nfo
+│   │   ├── Better Call Saul S01E07-thumb.jpg
+│   │   ├── Better Call Saul S01E08-320-10.bif
+│   │   ├── Better Call Saul S01E08.mkv
+│   │   ├── Better Call Saul S01E08.nfo
+│   │   ├── Better Call Saul S01E08-thumb.jpg
+│   │   ├── Better Call Saul S01E09-320-10.bif
+│   │   ├── Better Call Saul S01E09.mkv
+│   │   ├── Better Call Saul S01E09.nfo
+│   │   ├── Better Call Saul S01E09-thumb.jpg
+│   │   ├── Better Call Saul S01E10-320-10.bif
+│   │   ├── Better Call Saul S01E10.mkv
+│   │   ├── Better Call Saul S01E10.nfo
+│   │   ├── Better Call Saul S01E10-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── Better Call Saul S02E01-320-10.bif
+│   │   ├── Better Call Saul S02E01.mkv
+│   │   ├── Better Call Saul S02E01.nfo
+│   │   ├── Better Call Saul S02E01-thumb.jpg
+│   │   ├── Better Call Saul S02E01.zh.default.ass
+│   │   ├── Better Call Saul S02E02-320-10.bif
+│   │   ├── Better Call Saul S02E02.mkv
+│   │   ├── Better Call Saul S02E02.nfo
+│   │   ├── Better Call Saul S02E02-thumb.jpg
+│   │   ├── Better Call Saul S02E02.zh.default.ass
+│   │   ├── Better Call Saul S02E03-320-10.bif
+│   │   ├── Better Call Saul S02E03.mkv
+│   │   ├── Better Call Saul S02E03.nfo
+│   │   ├── Better Call Saul S02E03-thumb.jpg
+│   │   ├── Better Call Saul S02E04-320-10.bif
+│   │   ├── Better Call Saul S02E04.mkv
+│   │   ├── Better Call Saul S02E04.nfo
+│   │   ├── Better Call Saul S02E04-thumb.jpg
+│   │   ├── Better Call Saul S02E05-320-10.bif
+│   │   ├── Better Call Saul S02E05.mkv
+│   │   ├── Better Call Saul S02E05.nfo
+│   │   ├── Better Call Saul S02E05-thumb.jpg
+│   │   ├── Better Call Saul S02E06-320-10.bif
+│   │   ├── Better Call Saul S02E06.mkv
+│   │   ├── Better Call Saul S02E06.nfo
+│   │   ├── Better Call Saul S02E06-thumb.jpg
+│   │   ├── Better Call Saul S02E07-320-10.bif
+│   │   ├── Better Call Saul S02E07.mkv
+│   │   ├── Better Call Saul S02E07.nfo
+│   │   ├── Better Call Saul S02E07-thumb.jpg
+│   │   ├── Better Call Saul S02E08-320-10.bif
+│   │   ├── Better Call Saul S02E08.mkv
+│   │   ├── Better Call Saul S02E08.nfo
+│   │   ├── Better Call Saul S02E08-thumb.jpg
+│   │   ├── Better Call Saul S02E09-320-10.bif
+│   │   ├── Better Call Saul S02E09.mkv
+│   │   ├── Better Call Saul S02E09.nfo
+│   │   ├── Better Call Saul S02E09-thumb.jpg
+│   │   ├── Better Call Saul S02E10-320-10.bif
+│   │   ├── Better Call Saul S02E10.mkv
+│   │   ├── Better Call Saul S02E10.nfo
+│   │   ├── Better Call Saul S02E10-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 3
+│   │   ├── Better Call Saul S03E01-320-10.bif
+│   │   ├── Better Call Saul S03E01.mkv
+│   │   ├── Better Call Saul S03E01.nfo
+│   │   ├── Better Call Saul S03E01-thumb.jpg
+│   │   ├── Better Call Saul S03E02-320-10.bif
+│   │   ├── Better Call Saul S03E02.mkv
+│   │   ├── Better Call Saul S03E02.nfo
+│   │   ├── Better Call Saul S03E02-thumb.jpg
+│   │   ├── Better Call Saul S03E03-320-10.bif
+│   │   ├── Better Call Saul S03E03.mkv
+│   │   ├── Better Call Saul S03E03.nfo
+│   │   ├── Better Call Saul S03E03-thumb.jpg
+│   │   ├── Better Call Saul S03E04-320-10.bif
+│   │   ├── Better Call Saul S03E04.mkv
+│   │   ├── Better Call Saul S03E04.nfo
+│   │   ├── Better Call Saul S03E04-thumb.jpg
+│   │   ├── Better Call Saul S03E05-320-10.bif
+│   │   ├── Better Call Saul S03E05.mkv
+│   │   ├── Better Call Saul S03E05.nfo
+│   │   ├── Better Call Saul S03E05-thumb.jpg
+│   │   ├── Better Call Saul S03E06-320-10.bif
+│   │   ├── Better Call Saul S03E06.mkv
+│   │   ├── Better Call Saul S03E06.nfo
+│   │   ├── Better Call Saul S03E06-thumb.jpg
+│   │   ├── Better Call Saul S03E07-320-10.bif
+│   │   ├── Better Call Saul S03E07.mkv
+│   │   ├── Better Call Saul S03E07.nfo
+│   │   ├── Better Call Saul S03E07-thumb.jpg
+│   │   ├── Better Call Saul S03E08-320-10.bif
+│   │   ├── Better Call Saul S03E08.mkv
+│   │   ├── Better Call Saul S03E08.nfo
+│   │   ├── Better Call Saul S03E08-thumb.jpg
+│   │   ├── Better Call Saul S03E09-320-10.bif
+│   │   ├── Better Call Saul S03E09.mkv
+│   │   ├── Better Call Saul S03E09.nfo
+│   │   ├── Better Call Saul S03E09-thumb.jpg
+│   │   ├── Better Call Saul S03E10-320-10.bif
+│   │   ├── Better Call Saul S03E10.mkv
+│   │   ├── Better Call Saul S03E10.nfo
+│   │   ├── Better Call Saul S03E10-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 4
+│   │   ├── Better Call Saul S04E01-320-10.bif
+│   │   ├── Better Call Saul S04E01.ChsEngA.default..srt
+│   │   ├── Better Call Saul S04E01.mkv
+│   │   ├── Better Call Saul S04E01.nfo
+│   │   ├── Better Call Saul S04E01-thumb.jpg
+│   │   ├── Better Call Saul S04E02-320-10.bif
+│   │   ├── Better Call Saul S04E02.ChsEngA.default..srt
+│   │   ├── Better Call Saul S04E02.mkv
+│   │   ├── Better Call Saul S04E02.nfo
+│   │   ├── Better Call Saul S04E02-thumb.jpg
+│   │   ├── Better Call Saul S04E03.1.x264-NTb.srt
+│   │   ├── Better Call Saul S04E03-320-10.bif
+│   │   ├── Better Call Saul S04E03.mkv
+│   │   ├── Better Call Saul S04E03.nfo
+│   │   ├── Better Call Saul S04E03-thumb.jpg
+│   │   ├── Better Call Saul S04E04-320-10.bif
+│   │   ├── Better Call Saul S04E04.ChsEngA.default..srt
+│   │   ├── Better Call Saul S04E04.mkv
+│   │   ├── Better Call Saul S04E04.nfo
+│   │   ├── Better Call Saul S04E04-thumb.jpg
+│   │   ├── Better Call Saul S04E05-320-10.bif
+│   │   ├── Better Call Saul S04E05.ChsEngA.default..srt
+│   │   ├── Better Call Saul S04E05.mkv
+│   │   ├── Better Call Saul S04E05.nfo
+│   │   ├── Better Call Saul S04E05-thumb.jpg
+│   │   ├── Better Call Saul S04E06-320-10.bif
+│   │   ├── Better Call Saul S04E06.mkv
+│   │   ├── Better Call Saul S04E06.nfo
+│   │   ├── Better Call Saul S04E06.srt
+│   │   ├── Better Call Saul S04E06-thumb.jpg
+│   │   ├── Better Call Saul S04E07-320-10.bif
+│   │   ├── Better Call Saul S04E07.ChsEngA.default.srt
+│   │   ├── Better Call Saul S04E07.mkv
+│   │   ├── Better Call Saul S04E07.nfo
+│   │   ├── Better Call Saul S04E07-thumb.jpg
+│   │   ├── Better Call Saul S04E08-320-10.bif
+│   │   ├── Better Call Saul S04E08.ChsEngA.default.srt
+│   │   ├── Better Call Saul S04E08.mkv
+│   │   ├── Better Call Saul S04E08.nfo
+│   │   ├── Better Call Saul S04E08-thumb.jpg
+│   │   ├── Better Call Saul S04E09-320-10.bif
+│   │   ├── Better Call Saul S04E09.ChsEngA.default..srt
+│   │   ├── Better Call Saul S04E09.mkv
+│   │   ├── Better Call Saul S04E09.nfo
+│   │   ├── Better Call Saul S04E09-thumb.jpg
+│   │   ├── Better Call Saul S04E10-320-10.bif
+│   │   ├── Better Call Saul S04E10.ChsEngA.default..srt
+│   │   ├── Better Call Saul S04E10.mkv
+│   │   ├── Better Call Saul S04E10.nfo
+│   │   ├── Better Call Saul S04E10-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 5
+│   │   ├── Better Call Saul S05E01-320-10.bif
+│   │   ├── Better Call Saul S05E01.ass
+│   │   ├── Better Call Saul S05E01.mkv
+│   │   ├── Better Call Saul S05E01.nfo
+│   │   ├── Better Call Saul S05E01-thumb.jpg
+│   │   ├── Better Call Saul S05E02-320-10.bif
+│   │   ├── Better Call Saul S05E02.mkv
+│   │   ├── Better Call Saul S05E02.nfo
+│   │   ├── Better Call Saul S05E02-thumb.jpg
+│   │   ├── Better Call Saul S05E03-320-10.bif
+│   │   ├── Better Call Saul S05E03.mkv
+│   │   ├── Better Call Saul S05E03.nfo
+│   │   ├── Better Call Saul S05E03-thumb.jpg
+│   │   ├── Better Call Saul S05E04-320-10.bif
+│   │   ├── Better Call Saul S05E04.mkv
+│   │   ├── Better Call Saul S05E04.nfo
+│   │   ├── Better Call Saul S05E04-thumb.jpg
+│   │   ├── Better Call Saul S05E05-320-10.bif
+│   │   ├── Better Call Saul S05E05.ass
+│   │   ├── Better Call Saul S05E05.mkv
+│   │   ├── Better Call Saul S05E05.nfo
+│   │   ├── Better Call Saul S05E05-thumb.jpg
+│   │   ├── Better Call Saul S05E06-320-10.bif
+│   │   ├── Better Call Saul S05E06.mkv
+│   │   ├── Better Call Saul S05E06.nfo
+│   │   ├── Better Call Saul S05E06-thumb.jpg
+│   │   ├── Better Call Saul S05E07-320-10.bif
+│   │   ├── Better Call Saul S05E07.mkv
+│   │   ├── Better Call Saul S05E07.nfo
+│   │   ├── Better Call Saul S05E07-thumb.jpg
+│   │   ├── Better Call Saul S05E08-320-10.bif
+│   │   ├── Better Call Saul S05E08.mkv
+│   │   ├── Better Call Saul S05E08.nfo
+│   │   ├── Better Call Saul S05E08-thumb.jpg
+│   │   ├── Better Call Saul S05E09-320-10.bif
+│   │   ├── Better Call Saul S05E09.mkv
+│   │   ├── Better Call Saul S05E09.nfo
+│   │   ├── Better Call Saul S05E09-thumb.jpg
+│   │   ├── Better Call Saul S05E10-320-10.bif
+│   │   ├── Better Call Saul S05E10.mkv
+│   │   ├── Better Call Saul S05E10.nfo
+│   │   ├── Better Call Saul S05E10-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Black Mirror (2011)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season04-poster.jpg
+│   ├── season05-poster.jpg
+│   ├── Season 1
+│   │   ├── Black Mirror S01E01o-320-10.bif
+│   │   ├── Black Mirror S01E01o.ChsEngA.ass
+│   │   ├── Black Mirror S01E01o.en.srt
+│   │   ├── Black Mirror S01E01o.mkv
+│   │   ├── Black Mirror S01E01o.nfo
+│   │   ├── Black Mirror S01E01o-thumb.jpg
+│   │   ├── Black Mirror S01E02o-320-10.bif
+│   │   ├── Black Mirror S01E02o.ChsEngA.ass
+│   │   ├── Black Mirror S01E02o.en.srt
+│   │   ├── Black Mirror S01E02o.mkv
+│   │   ├── Black Mirror S01E02o.nfo
+│   │   ├── Black Mirror S01E02o-thumb.jpg
+│   │   ├── Black Mirror S01E03o-320-10.bif
+│   │   ├── Black Mirror S01E03o.ChsEngA.ass
+│   │   ├── Black Mirror S01E03o.en.srt
+│   │   ├── Black Mirror S01E03o.mkv
+│   │   ├── Black Mirror S01E03o.nfo
+│   │   ├── Black Mirror S01E03o-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── Black Mirror S02E01-320-10.bif
+│   │   ├── Black Mirror S02E01.ChsEngA.ass
+│   │   ├── Black Mirror S02E01.en.srt
+│   │   ├── Black Mirror S02E01.mkv
+│   │   ├── Black Mirror S02E01.nfo
+│   │   ├── Black Mirror S02E01-thumb.jpg
+│   │   ├── Black Mirror S02E02-320-10.bif
+│   │   ├── Black Mirror S02E02.ChsEngA.ass
+│   │   ├── Black Mirror S02E02.en.srt
+│   │   ├── Black Mirror S02E02.mkv
+│   │   ├── Black Mirror S02E02.nfo
+│   │   ├── Black Mirror S02E02-thumb.jpg
+│   │   ├── Black Mirror S02E03-320-10.bif
+│   │   ├── Black Mirror S02E03.ChsEngA.ass
+│   │   ├── Black Mirror S02E03.en.srt
+│   │   ├── Black Mirror S02E03.mkv
+│   │   ├── Black Mirror S02E03.nfo
+│   │   ├── Black Mirror S02E03-thumb.jpg
+│   │   ├── Black Mirror S02E64-320-10.bif
+│   │   ├── Black Mirror S02E64.ChsEngA.ass
+│   │   ├── Black Mirror S02E64.en.srt
+│   │   ├── Black Mirror S02E64.mkv
+│   │   ├── Black Mirror S02E64.nfo
+│   │   ├── Black Mirror S02E64-thumb.jpg
+│   │   ├── Black Mirror S02E64.zh-cn.ssa
+│   │   └── season.nfo
+│   ├── Season 3
+│   │   ├── Black Mirror S03E01-320-10.bif
+│   │   ├── Black Mirror S03E01.ChsEngA.default.ass
+│   │   ├── Black Mirror S03E01.en.srt
+│   │   ├── Black Mirror S03E01.mkv
+│   │   ├── Black Mirror S03E01.nfo
+│   │   ├── Black Mirror S03E01-thumb.jpg
+│   │   ├── Black Mirror S03E02-320-10.bif
+│   │   ├── Black Mirror S03E02.ChsEngA.default.ass
+│   │   ├── Black Mirror S03E02.en.srt
+│   │   ├── Black Mirror S03E02.mkv
+│   │   ├── Black Mirror S03E02.nfo
+│   │   ├── Black Mirror S03E02-thumb.jpg
+│   │   ├── Black Mirror S03E03-320-10.bif
+│   │   ├── Black Mirror S03E03.ChsEngA.default.ass
+│   │   ├── Black Mirror S03E03.en.srt
+│   │   ├── Black Mirror S03E03.mkv
+│   │   ├── Black Mirror S03E03.nfo
+│   │   ├── Black Mirror S03E03-thumb.jpg
+│   │   ├── Black Mirror S03E04-320-10.bif
+│   │   ├── Black Mirror S03E04.ChsEngA.default.ass
+│   │   ├── Black Mirror S03E04.en.srt
+│   │   ├── Black Mirror S03E04.mkv
+│   │   ├── Black Mirror S03E04.nfo
+│   │   ├── Black Mirror S03E04-thumb.jpg
+│   │   ├── Black Mirror S03E05-320-10.bif
+│   │   ├── Black Mirror S03E05.ChsEngA.default.ass
+│   │   ├── Black Mirror S03E05.en.srt
+│   │   ├── Black Mirror S03E05.mkv
+│   │   ├── Black Mirror S03E05.nfo
+│   │   ├── Black Mirror S03E05-thumb.jpg
+│   │   ├── Black Mirror S03E06-320-10.bif
+│   │   ├── Black Mirror S03E06.ChsEngA.default.ass
+│   │   ├── Black Mirror S03E06.mkv
+│   │   ├── Black Mirror S03E06.nfo
+│   │   ├── Black Mirror S03E06-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 4
+│   │   ├── Black Mirror S04E01.mkv
+│   │   ├── Black Mirror S04E01.nfo
+│   │   ├── Black Mirror S04E01-thumb.jpg
+│   │   ├── Black Mirror S04E01.zh-cn.srt
+│   │   ├── Black Mirror S04E02.mkv
+│   │   ├── Black Mirror S04E02.nfo
+│   │   ├── Black Mirror S04E02-thumb.jpg
+│   │   ├── Black Mirror S04E02.zh-cn.srt
+│   │   ├── Black Mirror S04E03.mkv
+│   │   ├── Black Mirror S04E03.nfo
+│   │   ├── Black Mirror S04E03-thumb.jpg
+│   │   ├── Black Mirror S04E03.zh-cn.ass
+│   │   ├── Black Mirror S04E04.mkv
+│   │   ├── Black Mirror S04E04.nfo
+│   │   ├── Black Mirror S04E04-thumb.jpg
+│   │   ├── Black Mirror S04E04.zh-cn.srt
+│   │   ├── Black Mirror S04E05.mkv
+│   │   ├── Black Mirror S04E05.nfo
+│   │   ├── Black Mirror S04E05-thumb.jpg
+│   │   ├── Black Mirror S04E05.zh-cn.srt
+│   │   ├── Black Mirror S04E06.mkv
+│   │   ├── Black Mirror S04E06.nfo
+│   │   ├── Black Mirror S04E06-thumb.jpg
+│   │   ├── Black Mirror S04E06.zh-cn.srt
+│   │   └── season.nfo
+│   ├── Season 5
+│   │   ├── Black Mirror S05E01.mkv
+│   │   ├── Black Mirror S05E01.nfo
+│   │   ├── Black Mirror S05E01-thumb.jpg
+│   │   ├── Black Mirror S05E02.mkv
+│   │   ├── Black Mirror S05E02.nfo
+│   │   ├── Black Mirror S05E02-thumb.jpg
+│   │   ├── Black Mirror S05E03.mkv
+│   │   ├── Black Mirror S05E03.nfo
+│   │   ├── Black Mirror S05E03-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Breaking Bad (2008)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season04-poster.jpg
+│   ├── season05-poster.jpg
+│   ├── Season 1
+│   │   ├── Breaking Bad S01E01-320-10.bif
+│   │   ├── Breaking Bad S01E01.简体&英文.ass
+│   │   ├── Breaking Bad S01E01.mkv
+│   │   ├── Breaking Bad S01E01.nfo
+│   │   ├── Breaking Bad S01E01-thumb.jpg
+│   │   ├── Breaking Bad S01E02-320-10.bif
+│   │   ├── Breaking Bad S01E02.简体&英文.ass
+│   │   ├── Breaking Bad S01E02.mkv
+│   │   ├── Breaking Bad S01E02.nfo
+│   │   ├── Breaking Bad S01E02-thumb.jpg
+│   │   ├── Breaking Bad S01E03-320-10.bif
+│   │   ├── Breaking Bad S01E03.简体&英文.ass
+│   │   ├── Breaking Bad S01E03.mkv
+│   │   ├── Breaking Bad S01E03.nfo
+│   │   ├── Breaking Bad S01E03-thumb.jpg
+│   │   ├── Breaking Bad S01E04-320-10.bif
+│   │   ├── Breaking Bad S01E04.简体&英文.ass
+│   │   ├── Breaking Bad S01E04.mkv
+│   │   ├── Breaking Bad S01E04.nfo
+│   │   ├── Breaking Bad S01E04-thumb.jpg
+│   │   ├── Breaking Bad S01E05-320-10.bif
+│   │   ├── Breaking Bad S01E05.简体&英文.ass
+│   │   ├── Breaking Bad S01E05.mkv
+│   │   ├── Breaking Bad S01E05.nfo
+│   │   ├── Breaking Bad S01E05-thumb.jpg
+│   │   ├── Breaking Bad S01E06-320-10.bif
+│   │   ├── Breaking Bad S01E06.简体&英文.ass
+│   │   ├── Breaking Bad S01E06.mkv
+│   │   ├── Breaking Bad S01E06.nfo
+│   │   ├── Breaking Bad S01E06-thumb.jpg
+│   │   ├── Breaking Bad S01E07-320-10.bif
+│   │   ├── Breaking Bad S01E07.简体&英文.ass
+│   │   ├── Breaking Bad S01E07.mkv
+│   │   ├── Breaking Bad S01E07.nfo
+│   │   ├── Breaking Bad S01E07-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── Breaking Bad S02E01-320-10.bif
+│   │   ├── Breaking Bad S02E01.ass
+│   │   ├── Breaking Bad S02E01.mkv
+│   │   ├── Breaking Bad S02E01.nfo
+│   │   ├── Breaking Bad S02E01-thumb.jpg
+│   │   ├── Breaking Bad S02E02-320-10.bif
+│   │   ├── Breaking Bad S02E02.ass
+│   │   ├── Breaking Bad S02E02.mkv
+│   │   ├── Breaking Bad S02E02.nfo
+│   │   ├── Breaking Bad S02E02-thumb.jpg
+│   │   ├── Breaking Bad S02E03-320-10.bif
+│   │   ├── Breaking Bad S02E03.ass
+│   │   ├── Breaking Bad S02E03.mkv
+│   │   ├── Breaking Bad S02E03.nfo
+│   │   ├── Breaking Bad S02E03-thumb.jpg
+│   │   ├── Breaking Bad S02E04-320-10.bif
+│   │   ├── Breaking Bad S02E04.ass
+│   │   ├── Breaking Bad S02E04.mkv
+│   │   ├── Breaking Bad S02E04.nfo
+│   │   ├── Breaking Bad S02E04-thumb.jpg
+│   │   ├── Breaking Bad S02E05-320-10.bif
+│   │   ├── Breaking Bad S02E05.ass
+│   │   ├── Breaking Bad S02E05.mkv
+│   │   ├── Breaking Bad S02E05.nfo
+│   │   ├── Breaking Bad S02E05-thumb.jpg
+│   │   ├── Breaking Bad S02E06-320-10.bif
+│   │   ├── Breaking Bad S02E06.ass
+│   │   ├── Breaking Bad S02E06.mkv
+│   │   ├── Breaking Bad S02E06.nfo
+│   │   ├── Breaking Bad S02E06-thumb.jpg
+│   │   ├── Breaking Bad S02E07-320-10.bif
+│   │   ├── Breaking Bad S02E07.ass
+│   │   ├── Breaking Bad S02E07.mkv
+│   │   ├── Breaking Bad S02E07.nfo
+│   │   ├── Breaking Bad S02E07-thumb.jpg
+│   │   ├── Breaking Bad S02E08-320-10.bif
+│   │   ├── Breaking Bad S02E08.ass
+│   │   ├── Breaking Bad S02E08.mkv
+│   │   ├── Breaking Bad S02E08.nfo
+│   │   ├── Breaking Bad S02E08-thumb.jpg
+│   │   ├── Breaking Bad S02E09-320-10.bif
+│   │   ├── Breaking Bad S02E09.ass
+│   │   ├── Breaking Bad S02E09.mkv
+│   │   ├── Breaking Bad S02E09.nfo
+│   │   ├── Breaking Bad S02E09-thumb.jpg
+│   │   ├── Breaking Bad S02E10-320-10.bif
+│   │   ├── Breaking Bad S02E10.ass
+│   │   ├── Breaking Bad S02E10.mkv
+│   │   ├── Breaking Bad S02E10.nfo
+│   │   ├── Breaking Bad S02E10-thumb.jpg
+│   │   ├── Breaking Bad S02E11-320-10.bif
+│   │   ├── Breaking Bad S02E11.ass
+│   │   ├── Breaking Bad S02E11.en.srt
+│   │   ├── Breaking Bad S02E11.mkv
+│   │   ├── Breaking Bad S02E11.nfo
+│   │   ├── Breaking Bad S02E11-thumb.jpg
+│   │   ├── Breaking Bad S02E12-320-10.bif
+│   │   ├── Breaking Bad S02E12.ass
+│   │   ├── Breaking Bad S02E12.mkv
+│   │   ├── Breaking Bad S02E12.nfo
+│   │   ├── Breaking Bad S02E12-thumb.jpg
+│   │   ├── Breaking Bad S02E13-320-10.bif
+│   │   ├── Breaking Bad S02E13.ass
+│   │   ├── Breaking Bad S02E13.mkv
+│   │   ├── Breaking Bad S02E13.nfo
+│   │   ├── Breaking Bad S02E13-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 3
+│   │   ├── Breaking Bad S03E01-320-10.bif
+│   │   ├── Breaking Bad S03E01.mkv
+│   │   ├── Breaking Bad S03E01.nfo
+│   │   ├── Breaking Bad S03E01-thumb.jpg
+│   │   ├── Breaking Bad S03E01.zh.default.ass
+│   │   ├── Breaking Bad S03E02-320-10.bif
+│   │   ├── Breaking Bad S03E02.en.srt
+│   │   ├── Breaking Bad S03E02.mkv
+│   │   ├── Breaking Bad S03E02.nfo
+│   │   ├── Breaking Bad S03E02-thumb.jpg
+│   │   ├── Breaking Bad S03E02.zh.default.ass
+│   │   ├── Breaking Bad S03E03-320-10.bif
+│   │   ├── Breaking Bad S03E03.mkv
+│   │   ├── Breaking Bad S03E03.nfo
+│   │   ├── Breaking Bad S03E03-thumb.jpg
+│   │   ├── Breaking Bad S03E03.zh.default.ass
+│   │   ├── Breaking Bad S03E04-320-10.bif
+│   │   ├── Breaking Bad S03E04.en.srt
+│   │   ├── Breaking Bad S03E04.mkv
+│   │   ├── Breaking Bad S03E04.nfo
+│   │   ├── Breaking Bad S03E04-thumb.jpg
+│   │   ├── Breaking Bad S03E04.zh.default.ass
+│   │   ├── Breaking Bad S03E05-320-10.bif
+│   │   ├── Breaking Bad S03E05.en.srt
+│   │   ├── Breaking Bad S03E05.mkv
+│   │   ├── Breaking Bad S03E05.nfo
+│   │   ├── Breaking Bad S03E05-thumb.jpg
+│   │   ├── Breaking Bad S03E05.zh.default.ass
+│   │   ├── Breaking Bad S03E06-320-10.bif
+│   │   ├── Breaking Bad S03E06.mkv
+│   │   ├── Breaking Bad S03E06.nfo
+│   │   ├── Breaking Bad S03E06-thumb.jpg
+│   │   ├── Breaking Bad S03E06.zh.default.ass
+│   │   ├── Breaking Bad S03E07-320-10.bif
+│   │   ├── Breaking Bad S03E07.mkv
+│   │   ├── Breaking Bad S03E07.nfo
+│   │   ├── Breaking Bad S03E07-thumb.jpg
+│   │   ├── Breaking Bad S03E07.zh.default.ass
+│   │   ├── Breaking Bad S03E08-320-10.bif
+│   │   ├── Breaking Bad S03E08.mkv
+│   │   ├── Breaking Bad S03E08.nfo
+│   │   ├── Breaking Bad S03E08-thumb.jpg
+│   │   ├── Breaking Bad S03E08.zh.default.ass
+│   │   ├── Breaking Bad S03E09-320-10.bif
+│   │   ├── Breaking Bad S03E09.en.srt
+│   │   ├── Breaking Bad S03E09.mkv
+│   │   ├── Breaking Bad S03E09.nfo
+│   │   ├── Breaking Bad S03E09-thumb.jpg
+│   │   ├── Breaking Bad S03E09.zh.default.ass
+│   │   ├── Breaking Bad S03E10-320-10.bif
+│   │   ├── Breaking Bad S03E10.en.srt
+│   │   ├── Breaking Bad S03E10.mkv
+│   │   ├── Breaking Bad S03E10.nfo
+│   │   ├── Breaking Bad S03E10-thumb.jpg
+│   │   ├── Breaking Bad S03E10.zh.default.ass
+│   │   ├── Breaking Bad S03E11-320-10.bif
+│   │   ├── Breaking Bad S03E11.en.srt
+│   │   ├── Breaking Bad S03E11.mkv
+│   │   ├── Breaking Bad S03E11.nfo
+│   │   ├── Breaking Bad S03E11-thumb.jpg
+│   │   ├── Breaking Bad S03E11.zh.default.ass
+│   │   ├── Breaking Bad S03E12-320-10.bif
+│   │   ├── Breaking Bad S03E12.en.srt
+│   │   ├── Breaking Bad S03E12.mkv
+│   │   ├── Breaking Bad S03E12.nfo
+│   │   ├── Breaking Bad S03E12-thumb.jpg
+│   │   ├── Breaking Bad S03E12.zh.default.ass
+│   │   ├── Breaking Bad S03E13-320-10.bif
+│   │   ├── Breaking Bad S03E13.en.srt
+│   │   ├── Breaking Bad S03E13.mkv
+│   │   ├── Breaking Bad S03E13.nfo
+│   │   ├── Breaking Bad S03E13-thumb.jpg
+│   │   ├── Breaking Bad S03E13.zh.default.ass
+│   │   └── season.nfo
+│   ├── Season 4
+│   │   ├── Breaking Bad S04E01-320-10.bif
+│   │   ├── Breaking Bad S04E01.mkv
+│   │   ├── Breaking Bad S04E01.nfo
+│   │   ├── Breaking Bad S04E01-thumb.jpg
+│   │   ├── Breaking Bad S04E01.zh.default.ass
+│   │   ├── Breaking Bad S04E02-320-10.bif
+│   │   ├── Breaking Bad S04E02.mkv
+│   │   ├── Breaking Bad S04E02.nfo
+│   │   ├── Breaking Bad S04E02-thumb.jpg
+│   │   ├── Breaking Bad S04E02.zh.default.ass
+│   │   ├── Breaking Bad S04E03-320-10.bif
+│   │   ├── Breaking Bad S04E03.mkv
+│   │   ├── Breaking Bad S04E03.nfo
+│   │   ├── Breaking Bad S04E03-thumb.jpg
+│   │   ├── Breaking Bad S04E03.zh.default.ass
+│   │   ├── Breaking Bad S04E04-320-10.bif
+│   │   ├── Breaking Bad S04E04.mkv
+│   │   ├── Breaking Bad S04E04.nfo
+│   │   ├── Breaking Bad S04E04-thumb.jpg
+│   │   ├── Breaking Bad S04E04.zh.default.ass
+│   │   ├── Breaking Bad S04E05-320-10.bif
+│   │   ├── Breaking Bad S04E05.mkv
+│   │   ├── Breaking Bad S04E05.nfo
+│   │   ├── Breaking Bad S04E05-thumb.jpg
+│   │   ├── Breaking Bad S04E05.zh.default.ass
+│   │   ├── Breaking Bad S04E06-320-10.bif
+│   │   ├── Breaking Bad S04E06.mkv
+│   │   ├── Breaking Bad S04E06.nfo
+│   │   ├── Breaking Bad S04E06-thumb.jpg
+│   │   ├── Breaking Bad S04E06.zh.default.ass
+│   │   ├── Breaking Bad S04E07-320-10.bif
+│   │   ├── Breaking Bad S04E07.mkv
+│   │   ├── Breaking Bad S04E07.nfo
+│   │   ├── Breaking Bad S04E07-thumb.jpg
+│   │   ├── Breaking Bad S04E07.zh.default.ass
+│   │   ├── Breaking Bad S04E08-320-10.bif
+│   │   ├── Breaking Bad S04E08.mkv
+│   │   ├── Breaking Bad S04E08.nfo
+│   │   ├── Breaking Bad S04E08-thumb.jpg
+│   │   ├── Breaking Bad S04E08.zh.default.ass
+│   │   ├── Breaking Bad S04E09-320-10.bif
+│   │   ├── Breaking Bad S04E09.mkv
+│   │   ├── Breaking Bad S04E09.nfo
+│   │   ├── Breaking Bad S04E09-thumb.jpg
+│   │   ├── Breaking Bad S04E09.zh.default.ass
+│   │   ├── Breaking Bad S04E10-320-10.bif
+│   │   ├── Breaking Bad S04E10.mkv
+│   │   ├── Breaking Bad S04E10.nfo
+│   │   ├── Breaking Bad S04E10-thumb.jpg
+│   │   ├── Breaking Bad S04E10.zh.default.ass
+│   │   ├── Breaking Bad S04E11-320-10.bif
+│   │   ├── Breaking Bad S04E11.mkv
+│   │   ├── Breaking Bad S04E11.nfo
+│   │   ├── Breaking Bad S04E11-thumb.jpg
+│   │   ├── Breaking Bad S04E12-320-10.bif
+│   │   ├── Breaking Bad S04E12.mkv
+│   │   ├── Breaking Bad S04E12.nfo
+│   │   ├── Breaking Bad S04E12-thumb.jpg
+│   │   ├── Breaking Bad S04E13-320-10.bif
+│   │   ├── Breaking Bad S04E13.mkv
+│   │   ├── Breaking Bad S04E13.nfo
+│   │   ├── Breaking Bad S04E13-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 5
+│   │   ├── Breaking Bad S05E02-320-10.bif
+│   │   ├── Breaking Bad S05E02.ass
+│   │   ├── Breaking Bad S05E02.en.srt
+│   │   ├── Breaking Bad S05E02.mkv
+│   │   ├── Breaking Bad S05E02.nfo
+│   │   ├── Breaking Bad S05E02-thumb.jpg
+│   │   ├── Breaking Bad S05E03-320-10.bif
+│   │   ├── Breaking Bad S05E03.ass
+│   │   ├── Breaking Bad S05E03.en.srt
+│   │   ├── Breaking Bad S05E03.mkv
+│   │   ├── Breaking Bad S05E03.nfo
+│   │   ├── Breaking Bad S05E03-thumb.jpg
+│   │   ├── Breaking Bad S05E04-320-10.bif
+│   │   ├── Breaking Bad S05E04.ass
+│   │   ├── Breaking Bad S05E04.en.srt
+│   │   ├── Breaking Bad S05E04.mkv
+│   │   ├── Breaking Bad S05E04.nfo
+│   │   ├── Breaking Bad S05E04-thumb.jpg
+│   │   ├── Breaking Bad S05E05-320-10.bif
+│   │   ├── Breaking Bad S05E05.ass
+│   │   ├── Breaking Bad S05E05.en.srt
+│   │   ├── Breaking Bad S05E05.mkv
+│   │   ├── Breaking Bad S05E05.nfo
+│   │   ├── Breaking Bad S05E05-thumb.jpg
+│   │   ├── Breaking Bad S05E06-320-10.bif
+│   │   ├── Breaking Bad S05E06.ass
+│   │   ├── Breaking Bad S05E06.en.srt
+│   │   ├── Breaking Bad S05E06.mkv
+│   │   ├── Breaking Bad S05E06.nfo
+│   │   ├── Breaking Bad S05E06-thumb.jpg
+│   │   ├── Breaking Bad S05E07-320-10.bif
+│   │   ├── Breaking Bad S05E07.ass
+│   │   ├── Breaking Bad S05E07.en.srt
+│   │   ├── Breaking Bad S05E07.mkv
+│   │   ├── Breaking Bad S05E07.nfo
+│   │   ├── Breaking Bad S05E07-thumb.jpg
+│   │   ├── Breaking Bad S05E08-320-10.bif
+│   │   ├── Breaking Bad S05E08.ass
+│   │   ├── Breaking Bad S05E08.en.srt
+│   │   ├── Breaking Bad S05E08.mkv
+│   │   ├── Breaking Bad S05E08.nfo
+│   │   ├── Breaking Bad S05E08-thumb.jpg
+│   │   ├── Breaking Bad S05E09-320-10.bif
+│   │   ├── Breaking Bad S05E09.ass
+│   │   ├── Breaking Bad S05E09.en.srt
+│   │   ├── Breaking Bad S05E09.mkv
+│   │   ├── Breaking Bad S05E09.nfo
+│   │   ├── Breaking Bad S05E09-thumb.jpg
+│   │   ├── Breaking Bad S05E10-320-10.bif
+│   │   ├── Breaking Bad S05E10.ass
+│   │   ├── Breaking Bad S05E10.en.srt
+│   │   ├── Breaking Bad S05E10.mkv
+│   │   ├── Breaking Bad S05E10.nfo
+│   │   ├── Breaking Bad S05E10-thumb.jpg
+│   │   ├── Breaking Bad S05E11-320-10.bif
+│   │   ├── Breaking Bad S05E11.ass
+│   │   ├── Breaking Bad S05E11.en.srt
+│   │   ├── Breaking Bad S05E11.mkv
+│   │   ├── Breaking Bad S05E11.nfo
+│   │   ├── Breaking Bad S05E11-thumb.jpg
+│   │   ├── Breaking Bad S05E12-320-10.bif
+│   │   ├── Breaking Bad S05E12.ass
+│   │   ├── Breaking Bad S05E12.en.srt
+│   │   ├── Breaking Bad S05E12.mkv
+│   │   ├── Breaking Bad S05E12.nfo
+│   │   ├── Breaking Bad S05E12-thumb.jpg
+│   │   ├── Breaking Bad S05E13-320-10.bif
+│   │   ├── Breaking Bad S05E13.ass
+│   │   ├── Breaking Bad S05E13.en.srt
+│   │   ├── Breaking Bad S05E13.mkv
+│   │   ├── Breaking Bad S05E13.nfo
+│   │   ├── Breaking Bad S05E13-thumb.jpg
+│   │   ├── Breaking Bad S05E14-320-10.bif
+│   │   ├── Breaking Bad S05E14.ass
+│   │   ├── Breaking Bad S05E14.en.srt
+│   │   ├── Breaking Bad S05E14.mkv
+│   │   ├── Breaking Bad S05E14.nfo
+│   │   ├── Breaking Bad S05E14-thumb.jpg
+│   │   ├── Breaking Bad S05E15-320-10.bif
+│   │   ├── Breaking Bad S05E15.ass
+│   │   ├── Breaking Bad S05E15.en.srt
+│   │   ├── Breaking Bad S05E15.mkv
+│   │   ├── Breaking Bad S05E15.nfo
+│   │   ├── Breaking Bad S05E15-thumb.jpg
+│   │   ├── Breaking Bad S05E16-320-10.bif
+│   │   ├── Breaking Bad S05E16.ass
+│   │   ├── Breaking Bad S05E16.en.srt
+│   │   ├── Breaking Bad S05E16.mkv
+│   │   ├── Breaking Bad S05E16.nfo
+│   │   ├── Breaking Bad S05E16-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Chernobyl (2019)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── Chernobyl S01E01.ass
+│   │   ├── Chernobyl S01E01.mp4
+│   │   ├── Chernobyl S01E01.nfo
+│   │   ├── Chernobyl S01E01-thumb.jpg
+│   │   ├── Chernobyl S01E02.ass
+│   │   ├── Chernobyl S01E02.mp4
+│   │   ├── Chernobyl S01E02.nfo
+│   │   ├── Chernobyl S01E02-thumb.jpg
+│   │   ├── Chernobyl S01E03.ass
+│   │   ├── Chernobyl S01E03.mp4
+│   │   ├── Chernobyl S01E03.nfo
+│   │   ├── Chernobyl S01E03-thumb.jpg
+│   │   ├── Chernobyl S01E04.ass
+│   │   ├── Chernobyl S01E04.mp4
+│   │   ├── Chernobyl S01E04.nfo
+│   │   ├── Chernobyl S01E04-thumb.jpg
+│   │   ├── Chernobyl S01E05.ass
+│   │   ├── Chernobyl S01E05.mp4
+│   │   ├── Chernobyl S01E05.nfo
+│   │   └── Chernobyl S01E05-thumb.jpg
+│   └── tvshow.nfo
+├── Dopesick (2021)
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── Dopesick S01E01.mkv
+│   │   ├── Dopesick S01E01.nfo
+│   │   ├── Dopesick S01E01-thumb.jpg
+│   │   ├── Dopesick S01E02.mkv
+│   │   ├── Dopesick S01E02.nfo
+│   │   ├── Dopesick S01E02-thumb.jpg
+│   │   ├── Dopesick S01E03.mkv
+│   │   ├── Dopesick S01E03.nfo
+│   │   ├── Dopesick S01E03-thumb.jpg
+│   │   ├── Dopesick S01E04.mkv
+│   │   ├── Dopesick S01E04.nfo
+│   │   ├── Dopesick S01E04-thumb.jpg
+│   │   ├── Dopesick S01E05.mkv
+│   │   ├── Dopesick S01E05.nfo
+│   │   ├── Dopesick S01E05-thumb.jpg
+│   │   ├── Dopesick S01E06.mkv
+│   │   ├── Dopesick S01E06.nfo
+│   │   ├── Dopesick S01E06-thumb.jpg
+│   │   ├── Dopesick S01E07.mkv
+│   │   ├── Dopesick S01E07.nfo
+│   │   ├── Dopesick S01E07-thumb.jpg
+│   │   ├── Dopesick S01E08.mkv
+│   │   ├── Dopesick S01E08.nfo
+│   │   └── Dopesick S01E08-thumb.jpg
+│   └── tvshow.nfo
+├── El inocente (2021)
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── El inocente S01E01.mkv
+│   │   ├── El inocente S01E01.nfo
+│   │   ├── El inocente S01E01-thumb.jpg
+│   │   ├── El inocente S01E02.mkv
+│   │   ├── El inocente S01E02.nfo
+│   │   ├── El inocente S01E02-thumb.jpg
+│   │   ├── El inocente S01E03.mkv
+│   │   ├── El inocente S01E03.nfo
+│   │   ├── El inocente S01E03-thumb.jpg
+│   │   ├── El inocente S01E04.mkv
+│   │   ├── El inocente S01E04.nfo
+│   │   ├── El inocente S01E04-thumb.jpg
+│   │   ├── El inocente S01E05.mkv
+│   │   ├── El inocente S01E05.nfo
+│   │   ├── El inocente S01E05-thumb.jpg
+│   │   ├── El inocente S01E06.mkv
+│   │   ├── El inocente S01E06.nfo
+│   │   ├── El inocente S01E06-thumb.jpg
+│   │   ├── El inocente S01E07.mkv
+│   │   ├── El inocente S01E07.nfo
+│   │   ├── El inocente S01E07-thumb.jpg
+│   │   ├── El inocente S01E08.mkv
+│   │   ├── El inocente S01E08.nfo
+│   │   ├── El inocente S01E08-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Euphoria (2019)
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── Euphoria S01E01.mkv
+│   │   ├── Euphoria S01E01.nfo
+│   │   ├── Euphoria S01E01-thumb.jpg
+│   │   ├── Euphoria S01E02.mkv
+│   │   ├── Euphoria S01E02.nfo
+│   │   ├── Euphoria S01E02-thumb.jpg
+│   │   ├── Euphoria S01E03.mkv
+│   │   ├── Euphoria S01E03.nfo
+│   │   ├── Euphoria S01E03-thumb.jpg
+│   │   ├── Euphoria S01E04.mkv
+│   │   ├── Euphoria S01E04.nfo
+│   │   ├── Euphoria S01E04-thumb.jpg
+│   │   ├── Euphoria S01E05.mkv
+│   │   ├── Euphoria S01E05.nfo
+│   │   ├── Euphoria S01E05-thumb.jpg
+│   │   ├── Euphoria S01E06.mkv
+│   │   ├── Euphoria S01E06.nfo
+│   │   ├── Euphoria S01E06-thumb.jpg
+│   │   ├── Euphoria S01E07.mkv
+│   │   ├── Euphoria S01E07.nfo
+│   │   ├── Euphoria S01E07-thumb.jpg
+│   │   ├── Euphoria S01E08.mkv
+│   │   ├── Euphoria S01E08.nfo
+│   │   └── Euphoria S01E08-thumb.jpg
+│   └── tvshow.nfo
+├── Fleabag (2016)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── Season 1
+│   │   ├── Fleabag S01E01-320-10.bif
+│   │   ├── Fleabag S01E01.chs&eng.srt
+│   │   ├── Fleabag S01E01.mkv
+│   │   ├── Fleabag S01E01.nfo
+│   │   ├── Fleabag S01E01-thumb.jpg
+│   │   ├── Fleabag S01E02-320-10.bif
+│   │   ├── Fleabag S01E02.chs&eng.srt
+│   │   ├── Fleabag S01E02.mkv
+│   │   ├── Fleabag S01E02.nfo
+│   │   ├── Fleabag S01E02-thumb.jpg
+│   │   ├── Fleabag S01E03-320-10.bif
+│   │   ├── Fleabag S01E03.chs&eng.srt
+│   │   ├── Fleabag S01E03.mkv
+│   │   ├── Fleabag S01E03.nfo
+│   │   ├── Fleabag S01E03-thumb.jpg
+│   │   ├── Fleabag S01E04-320-10.bif
+│   │   ├── Fleabag S01E04.chs&eng.srt
+│   │   ├── Fleabag S01E04.mkv
+│   │   ├── Fleabag S01E04.nfo
+│   │   ├── Fleabag S01E04-thumb.jpg
+│   │   ├── Fleabag S01E05-320-10.bif
+│   │   ├── Fleabag S01E05.chs&eng.srt
+│   │   ├── Fleabag S01E05.mkv
+│   │   ├── Fleabag S01E05.nfo
+│   │   ├── Fleabag S01E05-thumb.jpg
+│   │   ├── Fleabag S01E06-320-10.bif
+│   │   ├── Fleabag S01E06.chs&eng.srt
+│   │   ├── Fleabag S01E06.mkv
+│   │   ├── Fleabag S01E06.nfo
+│   │   └── Fleabag S01E06-thumb.jpg
+│   ├── season.nfo
+│   └── tvshow.nfo
+├── Harlots (2017)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── Harlots S01E01-320-10.bif
+│   │   ├── Harlots S01E01.mkv
+│   │   ├── Harlots S01E01.nfo
+│   │   ├── Harlots S01E01-thumb.jpg
+│   │   ├── Harlots S01E02-320-10.bif
+│   │   ├── Harlots S01E02.mkv
+│   │   ├── Harlots S01E02.nfo
+│   │   ├── Harlots S01E02-thumb.jpg
+│   │   ├── Harlots S01E03-320-10.bif
+│   │   ├── Harlots S01E03.mkv
+│   │   ├── Harlots S01E03.nfo
+│   │   ├── Harlots S01E03-thumb.jpg
+│   │   ├── Harlots S01E04-320-10.bif
+│   │   ├── Harlots S01E04.mkv
+│   │   ├── Harlots S01E04.nfo
+│   │   ├── Harlots S01E04-thumb.jpg
+│   │   ├── Harlots S01E05-320-10.bif
+│   │   ├── Harlots S01E05.mkv
+│   │   ├── Harlots S01E05.nfo
+│   │   ├── Harlots S01E05-thumb.jpg
+│   │   ├── Harlots S01E06-320-10.bif
+│   │   ├── Harlots S01E06.mkv
+│   │   ├── Harlots S01E06.nfo
+│   │   ├── Harlots S01E06-thumb.jpg
+│   │   ├── Harlots S01E07-320-10.bif
+│   │   ├── Harlots S01E07.mkv
+│   │   ├── Harlots S01E07.nfo
+│   │   ├── Harlots S01E07-thumb.jpg
+│   │   ├── Harlots S01E08-320-10.bif
+│   │   ├── Harlots S01E08.mkv
+│   │   ├── Harlots S01E08.nfo
+│   │   ├── Harlots S01E08-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── House of Cards (2013)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── Season 
+│   │   ├── House of Cards S00E00-320-10.bif
+│   │   ├── House of Cards S00E00.mkv
+│   │   ├── House of Cards S00E00.nfo
+│   │   ├── House of Cards S00E00o-320-10.bif
+│   │   ├── House of Cards S00E00o.mkv
+│   │   ├── House of Cards S00E00on-320-10.bif
+│   │   ├── House of Cards S00E00o.nfo
+│   │   ├── House of Cards S00E00on.mkv
+│   │   ├── House of Cards S00E00on.nfo
+│   │   ├── House of Cards S00E00on-thumb.jpg
+│   │   ├── House of Cards S00E00o-thumb.jpg
+│   │   └── House of Cards S00E00-thumb.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season04-poster.jpg
+│   ├── season05-poster.jpg
+│   ├── season06-poster.jpg
+│   ├── Season 1
+│   │   ├── House of Cards S01E01-320-10.bif
+│   │   ├── House of Cards S01E01.mkv
+│   │   ├── House of Cards S01E01.nfo
+│   │   ├── House of Cards S01E01-thumb.jpg
+│   │   ├── House of Cards S01E02-320-10.bif
+│   │   ├── House of Cards S01E02.mkv
+│   │   ├── House of Cards S01E02.nfo
+│   │   ├── House of Cards S01E02-thumb.jpg
+│   │   ├── House of Cards S01E03-320-10.bif
+│   │   ├── House of Cards S01E03.mkv
+│   │   ├── House of Cards S01E03.nfo
+│   │   ├── House of Cards S01E03-thumb.jpg
+│   │   ├── House of Cards S01E04-320-10.bif
+│   │   ├── House of Cards S01E04.mkv
+│   │   ├── House of Cards S01E04.nfo
+│   │   ├── House of Cards S01E04-thumb.jpg
+│   │   ├── House of Cards S01E05-320-10.bif
+│   │   ├── House of Cards S01E05.mkv
+│   │   ├── House of Cards S01E05.nfo
+│   │   ├── House of Cards S01E05-thumb.jpg
+│   │   ├── House of Cards S01E06-320-10.bif
+│   │   ├── House of Cards S01E06.mkv
+│   │   ├── House of Cards S01E06.nfo
+│   │   ├── House of Cards S01E06-thumb.jpg
+│   │   ├── House of Cards S01E07-320-10.bif
+│   │   ├── House of Cards S01E07.mkv
+│   │   ├── House of Cards S01E07.nfo
+│   │   ├── House of Cards S01E07-thumb.jpg
+│   │   ├── House of Cards S01E08-320-10.bif
+│   │   ├── House of Cards S01E08.mkv
+│   │   ├── House of Cards S01E08.nfo
+│   │   ├── House of Cards S01E08-thumb.jpg
+│   │   ├── House of Cards S01E09-320-10.bif
+│   │   ├── House of Cards S01E09.mkv
+│   │   ├── House of Cards S01E09.nfo
+│   │   ├── House of Cards S01E09-thumb.jpg
+│   │   ├── House of Cards S01E10-320-10.bif
+│   │   ├── House of Cards S01E10.mkv
+│   │   ├── House of Cards S01E10.nfo
+│   │   ├── House of Cards S01E10-thumb.jpg
+│   │   ├── House of Cards S01E11-320-10.bif
+│   │   ├── House of Cards S01E11.mkv
+│   │   ├── House of Cards S01E11.nfo
+│   │   ├── House of Cards S01E11-thumb.jpg
+│   │   ├── House of Cards S01E12-320-10.bif
+│   │   ├── House of Cards S01E12.mkv
+│   │   ├── House of Cards S01E12.nfo
+│   │   ├── House of Cards S01E12-thumb.jpg
+│   │   ├── House of Cards S01E13-320-10.bif
+│   │   ├── House of Cards S01E13.mkv
+│   │   ├── House of Cards S01E13.nfo
+│   │   ├── House of Cards S01E13-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── House of Cards S02E01-320-10.bif
+│   │   ├── House of Cards S02E01.mkv
+│   │   ├── House of Cards S02E01.nfo
+│   │   ├── House of Cards S02E01-thumb.jpg
+│   │   ├── House of Cards S02E02-320-10.bif
+│   │   ├── House of Cards S02E02.mkv
+│   │   ├── House of Cards S02E02.nfo
+│   │   ├── House of Cards S02E02-thumb.jpg
+│   │   ├── House of Cards S02E03-320-10.bif
+│   │   ├── House of Cards S02E03.mkv
+│   │   ├── House of Cards S02E03.nfo
+│   │   ├── House of Cards S02E03-thumb.jpg
+│   │   ├── House of Cards S02E04-320-10.bif
+│   │   ├── House of Cards S02E04.mkv
+│   │   ├── House of Cards S02E04.nfo
+│   │   ├── House of Cards S02E04-thumb.jpg
+│   │   ├── House of Cards S02E05-320-10.bif
+│   │   ├── House of Cards S02E05.mkv
+│   │   ├── House of Cards S02E05.nfo
+│   │   ├── House of Cards S02E05-thumb.jpg
+│   │   ├── House of Cards S02E06-320-10.bif
+│   │   ├── House of Cards S02E06.mkv
+│   │   ├── House of Cards S02E06.nfo
+│   │   ├── House of Cards S02E06-thumb.jpg
+│   │   ├── House of Cards S02E07-320-10.bif
+│   │   ├── House of Cards S02E07.mkv
+│   │   ├── House of Cards S02E07.nfo
+│   │   ├── House of Cards S02E07-thumb.jpg
+│   │   ├── House of Cards S02E08-320-10.bif
+│   │   ├── House of Cards S02E08.mkv
+│   │   ├── House of Cards S02E08.nfo
+│   │   ├── House of Cards S02E08-thumb.jpg
+│   │   ├── House of Cards S02E09-320-10.bif
+│   │   ├── House of Cards S02E09.mkv
+│   │   ├── House of Cards S02E09.nfo
+│   │   ├── House of Cards S02E09-thumb.jpg
+│   │   ├── House of Cards S02E10-320-10.bif
+│   │   ├── House of Cards S02E10.mkv
+│   │   ├── House of Cards S02E10.nfo
+│   │   ├── House of Cards S02E10-thumb.jpg
+│   │   ├── House of Cards S02E11-320-10.bif
+│   │   ├── House of Cards S02E11.mkv
+│   │   ├── House of Cards S02E11.nfo
+│   │   ├── House of Cards S02E11-thumb.jpg
+│   │   ├── House of Cards S02E12-320-10.bif
+│   │   ├── House of Cards S02E12.mkv
+│   │   ├── House of Cards S02E12.nfo
+│   │   ├── House of Cards S02E12-thumb.jpg
+│   │   ├── House of Cards S02E13-320-10.bif
+│   │   ├── House of Cards S02E13.mkv
+│   │   ├── House of Cards S02E13.nfo
+│   │   ├── House of Cards S02E13-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 3
+│   │   ├── House of Cards S03E01-320-10.bif
+│   │   ├── House of Cards S03E01.mkv
+│   │   ├── House of Cards S03E01.nfo
+│   │   ├── House of Cards S03E01-thumb.jpg
+│   │   ├── House of Cards S03E02-320-10.bif
+│   │   ├── House of Cards S03E02.mkv
+│   │   ├── House of Cards S03E02.nfo
+│   │   ├── House of Cards S03E02-thumb.jpg
+│   │   ├── House of Cards S03E03-320-10.bif
+│   │   ├── House of Cards S03E03.mkv
+│   │   ├── House of Cards S03E03.nfo
+│   │   ├── House of Cards S03E03-thumb.jpg
+│   │   ├── House of Cards S03E04-320-10.bif
+│   │   ├── House of Cards S03E04.mkv
+│   │   ├── House of Cards S03E04.nfo
+│   │   ├── House of Cards S03E04-thumb.jpg
+│   │   ├── House of Cards S03E05-320-10.bif
+│   │   ├── House of Cards S03E05.mkv
+│   │   ├── House of Cards S03E05.nfo
+│   │   ├── House of Cards S03E05-thumb.jpg
+│   │   ├── House of Cards S03E06-320-10.bif
+│   │   ├── House of Cards S03E06.mkv
+│   │   ├── House of Cards S03E06.nfo
+│   │   ├── House of Cards S03E06-thumb.jpg
+│   │   ├── House of Cards S03E07-320-10.bif
+│   │   ├── House of Cards S03E07.mkv
+│   │   ├── House of Cards S03E07.nfo
+│   │   ├── House of Cards S03E07-thumb.jpg
+│   │   ├── House of Cards S03E08-320-10.bif
+│   │   ├── House of Cards S03E08.mkv
+│   │   ├── House of Cards S03E08.nfo
+│   │   ├── House of Cards S03E08-thumb.jpg
+│   │   ├── House of Cards S03E09-320-10.bif
+│   │   ├── House of Cards S03E09.mkv
+│   │   ├── House of Cards S03E09.nfo
+│   │   ├── House of Cards S03E09-thumb.jpg
+│   │   ├── House of Cards S03E10-320-10.bif
+│   │   ├── House of Cards S03E10.mkv
+│   │   ├── House of Cards S03E10.nfo
+│   │   ├── House of Cards S03E10-thumb.jpg
+│   │   ├── House of Cards S03E11-320-10.bif
+│   │   ├── House of Cards S03E11.mkv
+│   │   ├── House of Cards S03E11.nfo
+│   │   ├── House of Cards S03E11-thumb.jpg
+│   │   ├── House of Cards S03E12-320-10.bif
+│   │   ├── House of Cards S03E12.mkv
+│   │   ├── House of Cards S03E12.nfo
+│   │   ├── House of Cards S03E12-thumb.jpg
+│   │   ├── House of Cards S03E13-320-10.bif
+│   │   ├── House of Cards S03E13.mkv
+│   │   ├── House of Cards S03E13.nfo
+│   │   ├── House of Cards S03E13-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 4
+│   │   ├── House of Cards S04E01-320-10.bif
+│   │   ├── House of Cards S04E01.mkv
+│   │   ├── House of Cards S04E01.nfo
+│   │   ├── House of Cards S04E01-thumb.jpg
+│   │   ├── House of Cards S04E02-320-10.bif
+│   │   ├── House of Cards S04E02.mkv
+│   │   ├── House of Cards S04E02.nfo
+│   │   ├── House of Cards S04E02-thumb.jpg
+│   │   ├── House of Cards S04E03-320-10.bif
+│   │   ├── House of Cards S04E03.mkv
+│   │   ├── House of Cards S04E03.nfo
+│   │   ├── House of Cards S04E03-thumb.jpg
+│   │   ├── House of Cards S04E04-320-10.bif
+│   │   ├── House of Cards S04E04.mkv
+│   │   ├── House of Cards S04E04.nfo
+│   │   ├── House of Cards S04E04-thumb.jpg
+│   │   ├── House of Cards S04E05-320-10.bif
+│   │   ├── House of Cards S04E05.mkv
+│   │   ├── House of Cards S04E05.nfo
+│   │   ├── House of Cards S04E05-thumb.jpg
+│   │   ├── House of Cards S04E06-320-10.bif
+│   │   ├── House of Cards S04E06.mkv
+│   │   ├── House of Cards S04E06.nfo
+│   │   ├── House of Cards S04E06-thumb.jpg
+│   │   ├── House of Cards S04E07-320-10.bif
+│   │   ├── House of Cards S04E07.mkv
+│   │   ├── House of Cards S04E07.nfo
+│   │   ├── House of Cards S04E07-thumb.jpg
+│   │   ├── House of Cards S04E08-320-10.bif
+│   │   ├── House of Cards S04E08.mkv
+│   │   ├── House of Cards S04E08.nfo
+│   │   ├── House of Cards S04E08-thumb.jpg
+│   │   ├── House of Cards S04E09-320-10.bif
+│   │   ├── House of Cards S04E09.mkv
+│   │   ├── House of Cards S04E09.nfo
+│   │   ├── House of Cards S04E09-thumb.jpg
+│   │   ├── House of Cards S04E10-320-10.bif
+│   │   ├── House of Cards S04E10.mkv
+│   │   ├── House of Cards S04E10.nfo
+│   │   ├── House of Cards S04E10-thumb.jpg
+│   │   ├── House of Cards S04E11-320-10.bif
+│   │   ├── House of Cards S04E11.mkv
+│   │   ├── House of Cards S04E11.nfo
+│   │   ├── House of Cards S04E11-thumb.jpg
+│   │   ├── House of Cards S04E12-320-10.bif
+│   │   ├── House of Cards S04E12.mkv
+│   │   ├── House of Cards S04E12.nfo
+│   │   ├── House of Cards S04E12-thumb.jpg
+│   │   ├── House of Cards S04E13-320-10.bif
+│   │   ├── House of Cards S04E13.mkv
+│   │   ├── House of Cards S04E13.nfo
+│   │   ├── House of Cards S04E13-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 5
+│   │   ├── House of Cards S05E01-320-10.bif
+│   │   ├── House of Cards S05E01.mkv
+│   │   ├── House of Cards S05E01.nfo
+│   │   ├── House of Cards S05E01-thumb.jpg
+│   │   ├── House of Cards S05E02-320-10.bif
+│   │   ├── House of Cards S05E02.en.srt
+│   │   ├── House of Cards S05E02.mkv
+│   │   ├── House of Cards S05E02.nfo
+│   │   ├── House of Cards S05E02-thumb.jpg
+│   │   ├── House of Cards S05E03-320-10.bif
+│   │   ├── House of Cards S05E03.en.srt
+│   │   ├── House of Cards S05E03.mkv
+│   │   ├── House of Cards S05E03.nfo
+│   │   ├── House of Cards S05E03-thumb.jpg
+│   │   ├── House of Cards S05E04-320-10.bif
+│   │   ├── House of Cards S05E04.mkv
+│   │   ├── House of Cards S05E04.nfo
+│   │   ├── House of Cards S05E04-thumb.jpg
+│   │   ├── House of Cards S05E05-320-10.bif
+│   │   ├── House of Cards S05E05.mkv
+│   │   ├── House of Cards S05E05.nfo
+│   │   ├── House of Cards S05E05-thumb.jpg
+│   │   ├── House of Cards S05E06-320-10.bif
+│   │   ├── House of Cards S05E06.en.srt
+│   │   ├── House of Cards S05E06.mkv
+│   │   ├── House of Cards S05E06.nfo
+│   │   ├── House of Cards S05E06-thumb.jpg
+│   │   ├── House of Cards S05E07-320-10.bif
+│   │   ├── House of Cards S05E07.en.srt
+│   │   ├── House of Cards S05E07.mkv
+│   │   ├── House of Cards S05E07.nfo
+│   │   ├── House of Cards S05E07-thumb.jpg
+│   │   ├── House of Cards S05E08-320-10.bif
+│   │   ├── House of Cards S05E08.en.srt
+│   │   ├── House of Cards S05E08.mkv
+│   │   ├── House of Cards S05E08.nfo
+│   │   ├── House of Cards S05E08-thumb.jpg
+│   │   ├── House of Cards S05E09-320-10.bif
+│   │   ├── House of Cards S05E09.en.srt
+│   │   ├── House of Cards S05E09.mkv
+│   │   ├── House of Cards S05E09.nfo
+│   │   ├── House of Cards S05E09-thumb.jpg
+│   │   ├── House of Cards S05E10-320-10.bif
+│   │   ├── House of Cards S05E10.en.srt
+│   │   ├── House of Cards S05E10.mkv
+│   │   ├── House of Cards S05E10.nfo
+│   │   ├── House of Cards S05E10-thumb.jpg
+│   │   ├── House of Cards S05E11-320-10.bif
+│   │   ├── House of Cards S05E11.en.srt
+│   │   ├── House of Cards S05E11.mkv
+│   │   ├── House of Cards S05E11.nfo
+│   │   ├── House of Cards S05E11-thumb.jpg
+│   │   ├── House of Cards S05E12-320-10.bif
+│   │   ├── House of Cards S05E12.en.srt
+│   │   ├── House of Cards S05E12.mkv
+│   │   ├── House of Cards S05E12.nfo
+│   │   ├── House of Cards S05E12-thumb.jpg
+│   │   ├── House of Cards S05E13-320-10.bif
+│   │   ├── House of Cards S05E13.en.srt
+│   │   ├── House of Cards S05E13.mkv
+│   │   ├── House of Cards S05E13.nfo
+│   │   ├── House of Cards S05E13-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 6
+│   │   ├── House of Cards S06E01-320-10.bif
+│   │   ├── House of Cards S06E01.en.srt
+│   │   ├── House of Cards S06E01.mkv
+│   │   ├── House of Cards S06E01.nfo
+│   │   ├── House of Cards S06E01-thumb.jpg
+│   │   ├── House of Cards S06E02-320-10.bif
+│   │   ├── House of Cards S06E02.en.srt
+│   │   ├── House of Cards S06E02.mkv
+│   │   ├── House of Cards S06E02.nfo
+│   │   ├── House of Cards S06E02-thumb.jpg
+│   │   ├── House of Cards S06E03-320-10.bif
+│   │   ├── House of Cards S06E03.en.srt
+│   │   ├── House of Cards S06E03.mkv
+│   │   ├── House of Cards S06E03.nfo
+│   │   ├── House of Cards S06E03-thumb.jpg
+│   │   ├── House of Cards S06E04-320-10.bif
+│   │   ├── House of Cards S06E04.en.srt
+│   │   ├── House of Cards S06E04.mkv
+│   │   ├── House of Cards S06E04.nfo
+│   │   ├── House of Cards S06E04-thumb.jpg
+│   │   ├── House of Cards S06E05-320-10.bif
+│   │   ├── House of Cards S06E05.en.srt
+│   │   ├── House of Cards S06E05.mkv
+│   │   ├── House of Cards S06E05.nfo
+│   │   ├── House of Cards S06E05-thumb.jpg
+│   │   ├── House of Cards S06E06-320-10.bif
+│   │   ├── House of Cards S06E06.en.srt
+│   │   ├── House of Cards S06E06.mkv
+│   │   ├── House of Cards S06E06.nfo
+│   │   ├── House of Cards S06E06-thumb.jpg
+│   │   ├── House of Cards S06E07-320-10.bif
+│   │   ├── House of Cards S06E07.en.srt
+│   │   ├── House of Cards S06E07.mkv
+│   │   ├── House of Cards S06E07.nfo
+│   │   ├── House of Cards S06E07-thumb.jpg
+│   │   ├── House of Cards S06E08-320-10.bif
+│   │   ├── House of Cards S06E08.en.srt
+│   │   ├── House of Cards S06E08.mkv
+│   │   ├── House of Cards S06E08.nfo
+│   │   ├── House of Cards S06E08-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Inside No. 9 (2014)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season04-poster.jpg
+│   ├── season05-poster.jpg
+│   ├── season06-poster.jpg
+│   ├── Season 1
+│   │   ├── Inside No. 9 S01E01-320-10.bif
+│   │   ├── Inside No. 9 S01E01.ass
+│   │   ├── Inside No. 9 S01E01.mkv
+│   │   ├── Inside No. 9 S01E01.nfo
+│   │   ├── Inside No. 9 S01E01-thumb.jpg
+│   │   ├── Inside No. 9 S01E02-320-10.bif
+│   │   ├── Inside No. 9 S01E02.ass
+│   │   ├── Inside No. 9 S01E02.mkv
+│   │   ├── Inside No. 9 S01E02.nfo
+│   │   ├── Inside No. 9 S01E02-thumb.jpg
+│   │   ├── Inside No. 9 S01E03-320-10.bif
+│   │   ├── Inside No. 9 S01E03.ass
+│   │   ├── Inside No. 9 S01E03.mkv
+│   │   ├── Inside No. 9 S01E03.nfo
+│   │   ├── Inside No. 9 S01E03-thumb.jpg
+│   │   ├── Inside No. 9 S01E04-320-10.bif
+│   │   ├── Inside No. 9 S01E04.ass
+│   │   ├── Inside No. 9 S01E04.mkv
+│   │   ├── Inside No. 9 S01E04.nfo
+│   │   ├── Inside No. 9 S01E04-thumb.jpg
+│   │   ├── Inside No. 9 S01E05-320-10.bif
+│   │   ├── Inside No. 9 S01E05.ass
+│   │   ├── Inside No. 9 S01E05.mkv
+│   │   ├── Inside No. 9 S01E05.nfo
+│   │   ├── Inside No. 9 S01E05-thumb.jpg
+│   │   ├── Inside No. 9 S01E06-320-10.bif
+│   │   ├── Inside No. 9 S01E06.ass
+│   │   ├── Inside No. 9 S01E06.mkv
+│   │   ├── Inside No. 9 S01E06.nfo
+│   │   ├── Inside No. 9 S01E06-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── Inside No. 9 S02E01-320-10.bif
+│   │   ├── Inside No. 9 S02E01.ChsEngA.ass
+│   │   ├── Inside No. 9 S02E01.mkv
+│   │   ├── Inside No. 9 S02E01.nfo
+│   │   ├── Inside No. 9 S02E01-thumb.jpg
+│   │   ├── Inside No. 9 S02E02-320-10.bif
+│   │   ├── Inside No. 9 S02E02.ChsEngA.ass
+│   │   ├── Inside No. 9 S02E02.mkv
+│   │   ├── Inside No. 9 S02E02.nfo
+│   │   ├── Inside No. 9 S02E02-thumb.jpg
+│   │   ├── Inside No. 9 S02E03-320-10.bif
+│   │   ├── Inside No. 9 S02E03.ChsEngA.ass
+│   │   ├── Inside No. 9 S02E03.mkv
+│   │   ├── Inside No. 9 S02E03.nfo
+│   │   ├── Inside No. 9 S02E03-thumb.jpg
+│   │   ├── Inside No. 9 S02E03.zh-cn.srt
+│   │   ├── Inside No. 9 S02E04-320-10.bif
+│   │   ├── Inside No. 9 S02E04.ChsEngA.ass
+│   │   ├── Inside No. 9 S02E04.mkv
+│   │   ├── Inside No. 9 S02E04.nfo
+│   │   ├── Inside No. 9 S02E04-thumb.jpg
+│   │   ├── Inside No. 9 S02E04.zh-cn.srt
+│   │   ├── Inside No. 9 S02E05-320-10.bif
+│   │   ├── Inside No. 9 S02E05.ChsEngA.ass
+│   │   ├── Inside No. 9 S02E05.mkv
+│   │   ├── Inside No. 9 S02E05.nfo
+│   │   ├── Inside No. 9 S02E05-thumb.jpg
+│   │   ├── Inside No. 9 S02E05.zh-cn.srt
+│   │   ├── Inside No. 9 S02E06-320-10.bif
+│   │   ├── Inside No. 9 S02E06.ChsEngA.ass
+│   │   ├── Inside No. 9 S02E06.mkv
+│   │   ├── Inside No. 9 S02E06.nfo
+│   │   ├── Inside No. 9 S02E06-thumb.jpg
+│   │   ├── Inside No. 9 S02E06.zh-cn.srt
+│   │   └── season.nfo
+│   ├── Season 3
+│   │   ├── Inside No. 9 S03E01-320-10.bif
+│   │   ├── Inside No. 9 S03E01.ChsEngA.ass
+│   │   ├── Inside No. 9 S03E01.mkv
+│   │   ├── Inside No. 9 S03E01.nfo
+│   │   ├── Inside No. 9 S03E01-thumb.jpg
+│   │   ├── Inside No. 9 S03E02-320-10.bif
+│   │   ├── Inside No. 9 S03E02.ChsEngA.ass
+│   │   ├── Inside No. 9 S03E02.mkv
+│   │   ├── Inside No. 9 S03E02.nfo
+│   │   ├── Inside No. 9 S03E02-thumb.jpg
+│   │   ├── Inside No. 9 S03E03-320-10.bif
+│   │   ├── Inside No. 9 S03E03.ChsEngA.ass
+│   │   ├── Inside No. 9 S03E03.mkv
+│   │   ├── Inside No. 9 S03E03.nfo
+│   │   ├── Inside No. 9 S03E03-thumb.jpg
+│   │   ├── Inside No. 9 S03E04-320-10.bif
+│   │   ├── Inside No. 9 S03E04.ChsEngA.ass
+│   │   ├── Inside No. 9 S03E04.en.srt
+│   │   ├── Inside No. 9 S03E04.mkv
+│   │   ├── Inside No. 9 S03E04.nfo
+│   │   ├── Inside No. 9 S03E04-thumb.jpg
+│   │   ├── Inside No. 9 S03E05-320-10.bif
+│   │   ├── Inside No. 9 S03E05.ChsEngA.ass
+│   │   ├── Inside No. 9 S03E05.mkv
+│   │   ├── Inside No. 9 S03E05.nfo
+│   │   ├── Inside No. 9 S03E05-thumb.jpg
+│   │   ├── Inside No. 9 S03E06-320-10.bif
+│   │   ├── Inside No. 9 S03E06.ChsEngA.ass
+│   │   ├── Inside No. 9 S03E06.mkv
+│   │   ├── Inside No. 9 S03E06.nfo
+│   │   ├── Inside No. 9 S03E06-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 4
+│   │   ├── Inside No. 9 S04E01-320-10.bif
+│   │   ├── Inside No. 9 S04E01.ass
+│   │   ├── Inside No. 9 S04E01.mkv
+│   │   ├── Inside No. 9 S04E01.nfo
+│   │   ├── Inside No. 9 S04E01-thumb.jpg
+│   │   ├── Inside No. 9 S04E01.zh-cn.ssa
+│   │   ├── Inside No. 9 S04E02-320-10.bif
+│   │   ├── Inside No. 9 S04E02.ass
+│   │   ├── Inside No. 9 S04E02.mkv
+│   │   ├── Inside No. 9 S04E02.nfo
+│   │   ├── Inside No. 9 S04E02-thumb.jpg
+│   │   ├── Inside No. 9 S04E02.zh-cn.ssa
+│   │   ├── Inside No. 9 S04E03-320-10.bif
+│   │   ├── Inside No. 9 S04E03.ass
+│   │   ├── Inside No. 9 S04E03.mkv
+│   │   ├── Inside No. 9 S04E03.nfo
+│   │   ├── Inside No. 9 S04E03-thumb.jpg
+│   │   ├── Inside No. 9 S04E04-320-10.bif
+│   │   ├── Inside No. 9 S04E04.ass
+│   │   ├── Inside No. 9 S04E04.mkv
+│   │   ├── Inside No. 9 S04E04.nfo
+│   │   ├── Inside No. 9 S04E04-thumb.jpg
+│   │   ├── Inside No. 9 S04E05-320-10.bif
+│   │   ├── Inside No. 9 S04E05.ass
+│   │   ├── Inside No. 9 S04E05.mkv
+│   │   ├── Inside No. 9 S04E05.nfo
+│   │   ├── Inside No. 9 S04E05-thumb.jpg
+│   │   ├── Inside No. 9 S04E06-320-10.bif
+│   │   ├── Inside No. 9 S04E06.ass
+│   │   ├── Inside No. 9 S04E06.mkv
+│   │   ├── Inside No. 9 S04E06.nfo
+│   │   ├── Inside No. 9 S04E06-thumb.jpg
+│   │   ├── Inside No. 9 S04E06.zh-cn.ssa
+│   │   └── season.nfo
+│   ├── Season 5
+│   │   ├── Inside No. 9 S05E01-320-10.bif
+│   │   ├── Inside No. 9 S05E01.chs.eng.ass
+│   │   ├── Inside No. 9 S05E01.mkv
+│   │   ├── Inside No. 9 S05E01.nfo
+│   │   ├── Inside No. 9 S05E01-thumb.jpg
+│   │   ├── Inside No. 9 S05E02-320-10.bif
+│   │   ├── Inside No. 9 S05E02.chs.eng.ass
+│   │   ├── Inside No. 9 S05E02.mkv
+│   │   ├── Inside No. 9 S05E02.nfo
+│   │   ├── Inside No. 9 S05E02-thumb.jpg
+│   │   ├── Inside No. 9 S05E03-320-10.bif
+│   │   ├── Inside No. 9 S05E03.chs.eng.ass
+│   │   ├── Inside No. 9 S05E03.mkv
+│   │   ├── Inside No. 9 S05E03.nfo
+│   │   ├── Inside No. 9 S05E03-thumb.jpg
+│   │   ├── Inside No. 9 S05E04-320-10.bif
+│   │   ├── Inside No. 9 S05E04.chs.eng.ass
+│   │   ├── Inside No. 9 S05E04.mkv
+│   │   ├── Inside No. 9 S05E04.nfo
+│   │   ├── Inside No. 9 S05E04-thumb.jpg
+│   │   ├── Inside No. 9 S05E05-320-10.bif
+│   │   ├── Inside No. 9 S05E05.chs.eng.ass
+│   │   ├── Inside No. 9 S05E05.mkv
+│   │   ├── Inside No. 9 S05E05.nfo
+│   │   ├── Inside No. 9 S05E05-thumb.jpg
+│   │   ├── Inside No. 9 S05E06-320-10.bif
+│   │   ├── Inside No. 9 S05E06.chs.eng.ass
+│   │   ├── Inside No. 9 S05E06.mkv
+│   │   ├── Inside No. 9 S05E06.nfo
+│   │   ├── Inside No. 9 S05E06-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 6
+│   │   ├── Inside No. 9 S06E01.简体&英文.ass
+│   │   ├── Inside No. 9 S06E01.mkv
+│   │   ├── Inside No. 9 S06E01.nfo
+│   │   ├── Inside No. 9 S06E01-thumb.jpg
+│   │   ├── Inside No. 9 S06E02.简体&英文.ass
+│   │   ├── Inside No. 9 S06E02.mkv
+│   │   ├── Inside No. 9 S06E02.nfo
+│   │   ├── Inside No. 9 S06E02-thumb.jpg
+│   │   ├── Inside No. 9 S06E03.简体&英文.ass
+│   │   ├── Inside No. 9 S06E03.mkv
+│   │   ├── Inside No. 9 S06E03.nfo
+│   │   ├── Inside No. 9 S06E03-thumb.jpg
+│   │   ├── Inside No. 9 S06E04.简体&英文.ass
+│   │   ├── Inside No. 9 S06E04.mkv
+│   │   ├── Inside No. 9 S06E04.nfo
+│   │   ├── Inside No. 9 S06E04-thumb.jpg
+│   │   ├── Inside No. 9 S06E05.简体&英文.ass
+│   │   ├── Inside No. 9 S06E05.mkv
+│   │   ├── Inside No. 9 S06E05.nfo
+│   │   ├── Inside No. 9 S06E05-thumb.jpg
+│   │   ├── Inside No. 9 S06E06.简体&英文.ass
+│   │   ├── Inside No. 9 S06E06.mkv
+│   │   ├── Inside No. 9 S06E06.nfo
+│   │   ├── Inside No. 9 S06E06-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Killing Eve (2018)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── Season 1
+│   │   ├── Killing Eve S01E01-320-10.bif
+│   │   ├── Killing Eve S01E01.chs.eng.ass
+│   │   ├── Killing Eve S01E01.mkv
+│   │   ├── Killing Eve S01E01.nfo
+│   │   ├── Killing Eve S01E01-thumb.jpg
+│   │   ├── Killing Eve S01E02-320-10.bif
+│   │   ├── Killing Eve S01E02.chs.eng.ass
+│   │   ├── Killing Eve S01E02.mkv
+│   │   ├── Killing Eve S01E02.nfo
+│   │   ├── Killing Eve S01E02-thumb.jpg
+│   │   ├── Killing Eve S01E03-320-10.bif
+│   │   ├── Killing Eve S01E03.chs.eng.ass
+│   │   ├── Killing Eve S01E03.mkv
+│   │   ├── Killing Eve S01E03.nfo
+│   │   ├── Killing Eve S01E03-thumb.jpg
+│   │   ├── Killing Eve S01E04-320-10.bif
+│   │   ├── Killing Eve S01E04.chs.eng.ass
+│   │   ├── Killing Eve S01E04.mkv
+│   │   ├── Killing Eve S01E04.nfo
+│   │   ├── Killing Eve S01E04-thumb.jpg
+│   │   ├── Killing Eve S01E05-320-10.bif
+│   │   ├── Killing Eve S01E05.chs.eng.ass
+│   │   ├── Killing Eve S01E05.mkv
+│   │   ├── Killing Eve S01E05.nfo
+│   │   ├── Killing Eve S01E05-thumb.jpg
+│   │   ├── Killing Eve S01E06-320-10.bif
+│   │   ├── Killing Eve S01E06.chs.eng.ass
+│   │   ├── Killing Eve S01E06.mkv
+│   │   ├── Killing Eve S01E06.nfo
+│   │   ├── Killing Eve S01E06-thumb.jpg
+│   │   ├── Killing Eve S01E07-320-10.bif
+│   │   ├── Killing Eve S01E07.chs.eng.ass
+│   │   ├── Killing Eve S01E07.mkv
+│   │   ├── Killing Eve S01E07.nfo
+│   │   ├── Killing Eve S01E07-thumb.jpg
+│   │   ├── Killing Eve S01E08-320-10.bif
+│   │   ├── Killing Eve S01E08.chs.eng.ass
+│   │   ├── Killing Eve S01E08.mkv
+│   │   ├── Killing Eve S01E08.nfo
+│   │   ├── Killing Eve S01E08-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── Killing Eve S02E01-320-10.bif
+│   │   ├── Killing Eve S02E01.chs.eng.ass
+│   │   ├── Killing Eve S02E01.mkv
+│   │   ├── Killing Eve S02E01.nfo
+│   │   ├── Killing Eve S02E01-thumb.jpg
+│   │   ├── Killing Eve S02E02-320-10.bif
+│   │   ├── Killing Eve S02E02.chs.eng.ass
+│   │   ├── Killing Eve S02E02.mkv
+│   │   ├── Killing Eve S02E02.nfo
+│   │   ├── Killing Eve S02E02-thumb.jpg
+│   │   ├── Killing Eve S02E03-320-10.bif
+│   │   ├── Killing Eve S02E03.chs.eng.ass
+│   │   ├── Killing Eve S02E03.mkv
+│   │   ├── Killing Eve S02E03.nfo
+│   │   ├── Killing Eve S02E03-thumb.jpg
+│   │   ├── Killing Eve S02E04-320-10.bif
+│   │   ├── Killing Eve S02E04.chs.eng.ass
+│   │   ├── Killing Eve S02E04.mkv
+│   │   ├── Killing Eve S02E04.nfo
+│   │   ├── Killing Eve S02E04-thumb.jpg
+│   │   ├── Killing Eve S02E05-320-10.bif
+│   │   ├── Killing Eve S02E05.chs.eng.ass
+│   │   ├── Killing Eve S02E05.mkv
+│   │   ├── Killing Eve S02E05.nfo
+│   │   ├── Killing Eve S02E05-thumb.jpg
+│   │   ├── Killing Eve S02E06-320-10.bif
+│   │   ├── Killing Eve S02E06.chs.eng.ass
+│   │   ├── Killing Eve S02E06.mkv
+│   │   ├── Killing Eve S02E06.nfo
+│   │   ├── Killing Eve S02E06-thumb.jpg
+│   │   ├── Killing Eve S02E07-320-10.bif
+│   │   ├── Killing Eve S02E07.chs.eng.ass
+│   │   ├── Killing Eve S02E07.mkv
+│   │   ├── Killing Eve S02E07.nfo
+│   │   ├── Killing Eve S02E07-thumb.jpg
+│   │   ├── Killing Eve S02E08-320-10.bif
+│   │   ├── Killing Eve S02E08.chs.eng.ass
+│   │   ├── Killing Eve S02E08.mkv
+│   │   ├── Killing Eve S02E08.nfo
+│   │   ├── Killing Eve S02E08-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 3
+│   │   ├── Killing Eve S03E01-320-10.bif
+│   │   ├── Killing Eve S03E01.ChsEngA.ass
+│   │   ├── Killing Eve S03E01.mkv
+│   │   ├── Killing Eve S03E01.nfo
+│   │   ├── Killing Eve S03E01-thumb.jpg
+│   │   ├── Killing Eve S03E02-320-10.bif
+│   │   ├── Killing Eve S03E02.ChsEngA.ass
+│   │   ├── Killing Eve S03E02.mkv
+│   │   ├── Killing Eve S03E02.nfo
+│   │   ├── Killing Eve S03E02-thumb.jpg
+│   │   ├── Killing Eve S03E03-320-10.bif
+│   │   ├── Killing Eve S03E03.ChsEngA.ass
+│   │   ├── Killing Eve S03E03.mkv
+│   │   ├── Killing Eve S03E03.nfo
+│   │   ├── Killing Eve S03E03-thumb.jpg
+│   │   ├── Killing Eve S03E04-320-10.bif
+│   │   ├── Killing Eve S03E04.ChsEngA.ass
+│   │   ├── Killing Eve S03E04.mkv
+│   │   ├── Killing Eve S03E04.nfo
+│   │   ├── Killing Eve S03E04-thumb.jpg
+│   │   ├── Killing Eve S03E05-320-10.bif
+│   │   ├── Killing Eve S03E05.ChsEngA.ass
+│   │   ├── Killing Eve S03E05.mkv
+│   │   ├── Killing Eve S03E05.nfo
+│   │   ├── Killing Eve S03E05-thumb.jpg
+│   │   ├── Killing Eve S03E06-320-10.bif
+│   │   ├── Killing Eve S03E06.ChsEngA.ass
+│   │   ├── Killing Eve S03E06.mkv
+│   │   ├── Killing Eve S03E06.nfo
+│   │   ├── Killing Eve S03E06-thumb.jpg
+│   │   ├── Killing Eve S03E07-320-10.bif
+│   │   ├── Killing Eve S03E07.ChsEngA.ass
+│   │   ├── Killing Eve S03E07.mkv
+│   │   ├── Killing Eve S03E07.nfo
+│   │   ├── Killing Eve S03E07-thumb.jpg
+│   │   ├── Killing Eve S03E08-320-10.bif
+│   │   ├── Killing Eve S03E08.ChsEngA.ass
+│   │   ├── Killing Eve S03E08.mkv
+│   │   ├── Killing Eve S03E08.nfo
+│   │   ├── Killing Eve S03E08-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── La casa de papel (2017)
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── La casa de papel S01E01-320-10.bif
+│   │   ├── La casa de papel S01E01.mkv
+│   │   ├── La casa de papel S01E01.nfo
+│   │   ├── La casa de papel S01E01-thumb.jpg
+│   │   ├── La casa de papel S01E01.zh-cn.srt
+│   │   ├── La casa de papel S01E02-320-10.bif
+│   │   ├── La casa de papel S01E02.mkv
+│   │   ├── La casa de papel S01E02.nfo
+│   │   ├── La casa de papel S01E02-thumb.jpg
+│   │   ├── La casa de papel S01E02.zh-cn.ass
+│   │   ├── La casa de papel S01E03-320-10.bif
+│   │   ├── La casa de papel S01E03.mkv
+│   │   ├── La casa de papel S01E03.nfo
+│   │   ├── La casa de papel S01E03-thumb.jpg
+│   │   ├── La casa de papel S01E03.zh-cn.srt
+│   │   ├── La casa de papel S01E04-320-10.bif
+│   │   ├── La casa de papel S01E04.mkv
+│   │   ├── La casa de papel S01E04.nfo
+│   │   ├── La casa de papel S01E04-thumb.jpg
+│   │   ├── La casa de papel S01E04.zh-cn.srt
+│   │   ├── La casa de papel S01E05-320-10.bif
+│   │   ├── La casa de papel S01E05.mkv
+│   │   ├── La casa de papel S01E05.nfo
+│   │   ├── La casa de papel S01E05-thumb.jpg
+│   │   ├── La casa de papel S01E05.zh-cn.srt
+│   │   ├── La casa de papel S01E06-320-10.bif
+│   │   ├── La casa de papel S01E06.mkv
+│   │   ├── La casa de papel S01E06.nfo
+│   │   ├── La casa de papel S01E06-thumb.jpg
+│   │   ├── La casa de papel S01E06.zh-cn.srt
+│   │   ├── La casa de papel S01E07-320-10.bif
+│   │   ├── La casa de papel S01E07.mkv
+│   │   ├── La casa de papel S01E07.nfo
+│   │   ├── La casa de papel S01E07-thumb.jpg
+│   │   ├── La casa de papel S01E07.zh-cn.srt
+│   │   ├── La casa de papel S01E08-320-10.bif
+│   │   ├── La casa de papel S01E08.mkv
+│   │   ├── La casa de papel S01E08.nfo
+│   │   ├── La casa de papel S01E08-thumb.jpg
+│   │   ├── La casa de papel S01E08.zh-cn.srt
+│   │   ├── La casa de papel S01E09-320-10.bif
+│   │   ├── La casa de papel S01E09.mkv
+│   │   ├── La casa de papel S01E09.nfo
+│   │   ├── La casa de papel S01E09-thumb.jpg
+│   │   ├── La casa de papel S01E09.zh-cn.srt
+│   │   ├── La casa de papel S01E10-320-10.bif
+│   │   ├── La casa de papel S01E10.mkv
+│   │   ├── La casa de papel S01E10.nfo
+│   │   ├── La casa de papel S01E10-thumb.jpg
+│   │   ├── La casa de papel S01E10.zh-cn.srt
+│   │   ├── La casa de papel S01E11-320-10.bif
+│   │   ├── La casa de papel S01E11.mkv
+│   │   ├── La casa de papel S01E11.nfo
+│   │   ├── La casa de papel S01E11-thumb.jpg
+│   │   ├── La casa de papel S01E11.zh-cn.srt
+│   │   ├── La casa de papel S01E12-320-10.bif
+│   │   ├── La casa de papel S01E12.mkv
+│   │   ├── La casa de papel S01E12.nfo
+│   │   ├── La casa de papel S01E12-thumb.jpg
+│   │   ├── La casa de papel S01E12.zh-cn.srt
+│   │   ├── La casa de papel S01E13-320-10.bif
+│   │   ├── La casa de papel S01E13.mkv
+│   │   ├── La casa de papel S01E13.nfo
+│   │   ├── La casa de papel S01E13-thumb.jpg
+│   │   └── La casa de papel S01E13.zh-cn.srt
+│   ├── season.nfo
+│   └── tvshow.nfo
+├── L'amica geniale (2018)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── Season 1
+│   │   ├── L'amica geniale S01E01-320-10.bif
+│   │   ├── L'amica geniale S01E01.ass
+│   │   ├── L'amica geniale S01E01.mkv
+│   │   ├── L'amica geniale S01E01.nfo
+│   │   ├── L'amica geniale S01E01-thumb.jpg
+│   │   ├── L'amica geniale S01E02-320-10.bif
+│   │   ├── L'amica geniale S01E02.ass
+│   │   ├── L'amica geniale S01E02.mkv
+│   │   ├── L'amica geniale S01E02.nfo
+│   │   ├── L'amica geniale S01E02-thumb.jpg
+│   │   ├── L'amica geniale S01E03-320-10.bif
+│   │   ├── L'amica geniale S01E03.ass
+│   │   ├── L'amica geniale S01E03.mkv
+│   │   ├── L'amica geniale S01E03.nfo
+│   │   ├── L'amica geniale S01E03-thumb.jpg
+│   │   ├── L'amica geniale S01E04-320-10.bif
+│   │   ├── L'amica geniale S01E04.ass
+│   │   ├── L'amica geniale S01E04.mkv
+│   │   ├── L'amica geniale S01E04.nfo
+│   │   ├── L'amica geniale S01E04-thumb.jpg
+│   │   ├── L'amica geniale S01E05-320-10.bif
+│   │   ├── L'amica geniale S01E05.ass
+│   │   ├── L'amica geniale S01E05.mkv
+│   │   ├── L'amica geniale S01E05.nfo
+│   │   ├── L'amica geniale S01E05-thumb.jpg
+│   │   ├── L'amica geniale S01E06-320-10.bif
+│   │   ├── L'amica geniale S01E06.ass
+│   │   ├── L'amica geniale S01E06.mkv
+│   │   ├── L'amica geniale S01E06.nfo
+│   │   ├── L'amica geniale S01E06-thumb.jpg
+│   │   ├── L'amica geniale S01E07-320-10.bif
+│   │   ├── L'amica geniale S01E07.ass
+│   │   ├── L'amica geniale S01E07.mkv
+│   │   ├── L'amica geniale S01E07.nfo
+│   │   ├── L'amica geniale S01E07-thumb.jpg
+│   │   ├── L'amica geniale S01E08-320-10.bif
+│   │   ├── L'amica geniale S01E08.ass
+│   │   ├── L'amica geniale S01E08.mkv
+│   │   ├── L'amica geniale S01E08.nfo
+│   │   ├── L'amica geniale S01E08-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── L'amica geniale S02E01-320-10.bif
+│   │   ├── L'amica geniale S02E01.ass
+│   │   ├── L'amica geniale S02E01.mkv
+│   │   ├── L'amica geniale S02E01.nfo
+│   │   ├── L'amica geniale S02E01-thumb.jpg
+│   │   ├── L'amica geniale S02E02-320-10.bif
+│   │   ├── L'amica geniale S02E02.ass
+│   │   ├── L'amica geniale S02E02.mkv
+│   │   ├── L'amica geniale S02E02.nfo
+│   │   ├── L'amica geniale S02E02-thumb.jpg
+│   │   ├── L'amica geniale S02E03-320-10.bif
+│   │   ├── L'amica geniale S02E03.ass
+│   │   ├── L'amica geniale S02E03.mkv
+│   │   ├── L'amica geniale S02E03.nfo
+│   │   ├── L'amica geniale S02E03-thumb.jpg
+│   │   ├── L'amica geniale S02E04-320-10.bif
+│   │   ├── L'amica geniale S02E04.ass
+│   │   ├── L'amica geniale S02E04.mkv
+│   │   ├── L'amica geniale S02E04.nfo
+│   │   ├── L'amica geniale S02E04-thumb.jpg
+│   │   ├── L'amica geniale S02E05-320-10.bif
+│   │   ├── L'amica geniale S02E05.ass
+│   │   ├── L'amica geniale S02E05.mkv
+│   │   ├── L'amica geniale S02E05.nfo
+│   │   ├── L'amica geniale S02E05-thumb.jpg
+│   │   ├── L'amica geniale S02E06-320-10.bif
+│   │   ├── L'amica geniale S02E06.ass
+│   │   ├── L'amica geniale S02E06.mkv
+│   │   ├── L'amica geniale S02E06.nfo
+│   │   ├── L'amica geniale S02E06-thumb.jpg
+│   │   ├── L'amica geniale S02E07-320-10.bif
+│   │   ├── L'amica geniale S02E07.ass
+│   │   ├── L'amica geniale S02E07.mkv
+│   │   ├── L'amica geniale S02E07.nfo
+│   │   ├── L'amica geniale S02E07-thumb.jpg
+│   │   ├── L'amica geniale S02E08-320-10.bif
+│   │   ├── L'amica geniale S02E08.ass
+│   │   ├── L'amica geniale S02E08.mkv
+│   │   ├── L'amica geniale S02E08.nfo
+│   │   ├── L'amica geniale S02E08-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Love, Death & Robots (2019)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── Season 1
+│   │   ├── Love, Death & Robots S01E01-320-10.bif
+│   │   ├── Love, Death & Robots S01E01.mp4
+│   │   ├── Love, Death & Robots S01E01.nfo
+│   │   ├── Love, Death & Robots S01E01-thumb.jpg
+│   │   ├── Love, Death & Robots S01E02-320-10.bif
+│   │   ├── Love, Death & Robots S01E02.mp4
+│   │   ├── Love, Death & Robots S01E02.nfo
+│   │   ├── Love, Death & Robots S01E02-thumb.jpg
+│   │   ├── Love, Death & Robots S01E03-320-10.bif
+│   │   ├── Love, Death & Robots S01E03.mp4
+│   │   ├── Love, Death & Robots S01E03.nfo
+│   │   ├── Love, Death & Robots S01E03-thumb.jpg
+│   │   ├── Love, Death & Robots S01E04-320-10.bif
+│   │   ├── Love, Death & Robots S01E04.mp4
+│   │   ├── Love, Death & Robots S01E04.nfo
+│   │   ├── Love, Death & Robots S01E04-thumb.jpg
+│   │   ├── Love, Death & Robots S01E05-320-10.bif
+│   │   ├── Love, Death & Robots S01E05.mp4
+│   │   ├── Love, Death & Robots S01E05.nfo
+│   │   ├── Love, Death & Robots S01E05-thumb.jpg
+│   │   ├── Love, Death & Robots S01E06-320-10.bif
+│   │   ├── Love, Death & Robots S01E06.mp4
+│   │   ├── Love, Death & Robots S01E06.nfo
+│   │   ├── Love, Death & Robots S01E06-thumb.jpg
+│   │   ├── Love, Death & Robots S01E07-320-10.bif
+│   │   ├── Love, Death & Robots S01E07.mp4
+│   │   ├── Love, Death & Robots S01E07.nfo
+│   │   ├── Love, Death & Robots S01E07-thumb.jpg
+│   │   ├── Love, Death & Robots S01E08-320-10.bif
+│   │   ├── Love, Death & Robots S01E08.mp4
+│   │   ├── Love, Death & Robots S01E08.nfo
+│   │   ├── Love, Death & Robots S01E08-thumb.jpg
+│   │   ├── Love, Death & Robots S01E09-320-10.bif
+│   │   ├── Love, Death & Robots S01E09.mp4
+│   │   ├── Love, Death & Robots S01E09.nfo
+│   │   ├── Love, Death & Robots S01E09-thumb.jpg
+│   │   ├── Love, Death & Robots S01E10-320-10.bif
+│   │   ├── Love, Death & Robots S01E10.mp4
+│   │   ├── Love, Death & Robots S01E10.nfo
+│   │   ├── Love, Death & Robots S01E10-thumb.jpg
+│   │   ├── Love, Death & Robots S01E11-320-10.bif
+│   │   ├── Love, Death & Robots S01E11.mp4
+│   │   ├── Love, Death & Robots S01E11.nfo
+│   │   ├── Love, Death & Robots S01E11-thumb.jpg
+│   │   ├── Love, Death & Robots S01E12-320-10.bif
+│   │   ├── Love, Death & Robots S01E12.mp4
+│   │   ├── Love, Death & Robots S01E12.nfo
+│   │   ├── Love, Death & Robots S01E12-thumb.jpg
+│   │   ├── Love, Death & Robots S01E13-320-10.bif
+│   │   ├── Love, Death & Robots S01E13.mp4
+│   │   ├── Love, Death & Robots S01E13.nfo
+│   │   ├── Love, Death & Robots S01E13-thumb.jpg
+│   │   ├── Love, Death & Robots S01E14-320-10.bif
+│   │   ├── Love, Death & Robots S01E14.mp4
+│   │   ├── Love, Death & Robots S01E14.nfo
+│   │   ├── Love, Death & Robots S01E14-thumb.jpg
+│   │   ├── Love, Death & Robots S01E15-320-10.bif
+│   │   ├── Love, Death & Robots S01E15.mp4
+│   │   ├── Love, Death & Robots S01E15.nfo
+│   │   ├── Love, Death & Robots S01E15-thumb.jpg
+│   │   ├── Love, Death & Robots S01E16-320-10.bif
+│   │   ├── Love, Death & Robots S01E16.mp4
+│   │   ├── Love, Death & Robots S01E16.nfo
+│   │   ├── Love, Death & Robots S01E16-thumb.jpg
+│   │   ├── Love, Death & Robots S01E17-320-10.bif
+│   │   ├── Love, Death & Robots S01E17.mp4
+│   │   ├── Love, Death & Robots S01E17.nfo
+│   │   ├── Love, Death & Robots S01E17-thumb.jpg
+│   │   ├── Love, Death & Robots S01E18-320-10.bif
+│   │   ├── Love, Death & Robots S01E18.mp4
+│   │   ├── Love, Death & Robots S01E18.nfo
+│   │   ├── Love, Death & Robots S01E18-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── Love, Death & Robots S02E01.mkv
+│   │   ├── Love, Death & Robots S02E01.nfo
+│   │   ├── Love, Death & Robots S02E01-thumb.jpg
+│   │   ├── Love, Death & Robots S02E02.mkv
+│   │   ├── Love, Death & Robots S02E02.nfo
+│   │   ├── Love, Death & Robots S02E02-thumb.jpg
+│   │   ├── Love, Death & Robots S02E03.mkv
+│   │   ├── Love, Death & Robots S02E03.nfo
+│   │   ├── Love, Death & Robots S02E03-thumb.jpg
+│   │   ├── Love, Death & Robots S02E04.mkv
+│   │   ├── Love, Death & Robots S02E04.nfo
+│   │   ├── Love, Death & Robots S02E04-thumb.jpg
+│   │   ├── Love, Death & Robots S02E05.mkv
+│   │   ├── Love, Death & Robots S02E05.nfo
+│   │   ├── Love, Death & Robots S02E05-thumb.jpg
+│   │   ├── Love, Death & Robots S02E06.mkv
+│   │   ├── Love, Death & Robots S02E06.nfo
+│   │   ├── Love, Death & Robots S02E06-thumb.jpg
+│   │   ├── Love, Death & Robots S02E07.mkv
+│   │   ├── Love, Death & Robots S02E07.nfo
+│   │   ├── Love, Death & Robots S02E07-thumb.jpg
+│   │   ├── Love, Death & Robots S02E08.mkv
+│   │   ├── Love, Death & Robots S02E08.nfo
+│   │   ├── Love, Death & Robots S02E08-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Mindhunter (2017)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── Season 1
+│   │   ├── Mindhunter S01E01.mkv
+│   │   ├── Mindhunter S01E01.nfo
+│   │   ├── Mindhunter S01E01-poster.jpg
+│   │   ├── Mindhunter S01E01-thumb.jpg
+│   │   ├── Mindhunter S01E02.mkv
+│   │   ├── Mindhunter S01E02.nfo
+│   │   ├── Mindhunter S01E02-thumb.jpg
+│   │   ├── Mindhunter S01E03.mkv
+│   │   ├── Mindhunter S01E03.nfo
+│   │   ├── Mindhunter S01E03-thumb.jpg
+│   │   ├── Mindhunter S01E04.mkv
+│   │   ├── Mindhunter S01E04.nfo
+│   │   ├── Mindhunter S01E04-thumb.jpg
+│   │   ├── Mindhunter S01E05.mkv
+│   │   ├── Mindhunter S01E05.nfo
+│   │   ├── Mindhunter S01E05-thumb.jpg
+│   │   ├── Mindhunter S01E06.mkv
+│   │   ├── Mindhunter S01E06.nfo
+│   │   ├── Mindhunter S01E06-thumb.jpg
+│   │   ├── Mindhunter S01E07.mkv
+│   │   ├── Mindhunter S01E07.nfo
+│   │   ├── Mindhunter S01E07-thumb.jpg
+│   │   ├── Mindhunter S01E08.mkv
+│   │   ├── Mindhunter S01E08.nfo
+│   │   ├── Mindhunter S01E08-thumb.jpg
+│   │   ├── Mindhunter S01E09.mkv
+│   │   ├── Mindhunter S01E09.nfo
+│   │   ├── Mindhunter S01E09-thumb.jpg
+│   │   ├── Mindhunter S01E10.mkv
+│   │   ├── Mindhunter S01E10.nfo
+│   │   ├── Mindhunter S01E10-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── Mindhunter S02E01.mkv
+│   │   ├── Mindhunter S02E01.nfo
+│   │   ├── Mindhunter S02E01-poster.jpg
+│   │   ├── Mindhunter S02E01-thumb.jpg
+│   │   ├── Mindhunter S02E02.mkv
+│   │   ├── Mindhunter S02E02.nfo
+│   │   ├── Mindhunter S02E02-poster.jpg
+│   │   ├── Mindhunter S02E02-thumb.jpg
+│   │   ├── Mindhunter S02E03.mkv
+│   │   ├── Mindhunter S02E03.nfo
+│   │   ├── Mindhunter S02E03-poster.jpg
+│   │   ├── Mindhunter S02E03-thumb.jpg
+│   │   ├── Mindhunter S02E04.mkv
+│   │   ├── Mindhunter S02E04.nfo
+│   │   ├── Mindhunter S02E04-thumb.jpg
+│   │   ├── Mindhunter S02E05.mkv
+│   │   ├── Mindhunter S02E05.nfo
+│   │   ├── Mindhunter S02E05-thumb.jpg
+│   │   ├── Mindhunter S02E06.mkv
+│   │   ├── Mindhunter S02E06.nfo
+│   │   ├── Mindhunter S02E06-poster.jpg
+│   │   ├── Mindhunter S02E06-thumb.jpg
+│   │   ├── Mindhunter S02E07.mkv
+│   │   ├── Mindhunter S02E07.nfo
+│   │   ├── Mindhunter S02E07-poster.jpg
+│   │   ├── Mindhunter S02E07-thumb.jpg
+│   │   ├── Mindhunter S02E08.mkv
+│   │   ├── Mindhunter S02E08.nfo
+│   │   ├── Mindhunter S02E08-poster.jpg
+│   │   ├── Mindhunter S02E08-thumb.jpg
+│   │   ├── Mindhunter S02E09.mkv
+│   │   ├── Mindhunter S02E09.nfo
+│   │   ├── Mindhunter S02E09-poster.jpg
+│   │   ├── Mindhunter S02E09-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Modern Family (2009)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season04-poster.jpg
+│   ├── season05-poster.jpg
+│   ├── season07-poster.jpg
+│   ├── season08-poster.jpg
+│   ├── season09-poster.jpg
+│   ├── Season 1
+│   │   ├── Modern Family S01E01.en.srt
+│   │   ├── Modern Family S01E01.mkv
+│   │   ├── Modern Family S01E01.nfo
+│   │   ├── Modern Family S01E01-thumb.jpg
+│   │   ├── Modern Family S01E01.zh.default.ass
+│   │   ├── Modern Family S01E02.en.srt
+│   │   ├── Modern Family S01E02.mkv
+│   │   ├── Modern Family S01E02.nfo
+│   │   ├── Modern Family S01E02-thumb.jpg
+│   │   ├── Modern Family S01E02.zh.default.ass
+│   │   ├── Modern Family S01E03.en.srt
+│   │   ├── Modern Family S01E03.mkv
+│   │   ├── Modern Family S01E03.nfo
+│   │   ├── Modern Family S01E03-thumb.jpg
+│   │   ├── Modern Family S01E03.zh.default.ass
+│   │   ├── Modern Family S01E04.en.srt
+│   │   ├── Modern Family S01E04.mkv
+│   │   ├── Modern Family S01E04.nfo
+│   │   ├── Modern Family S01E04-thumb.jpg
+│   │   ├── Modern Family S01E04.zh.default.ass
+│   │   ├── Modern Family S01E05.mkv
+│   │   ├── Modern Family S01E05.nfo
+│   │   ├── Modern Family S01E05-thumb.jpg
+│   │   ├── Modern Family S01E05.zh.default.ass
+│   │   ├── Modern Family S01E06.en.srt
+│   │   ├── Modern Family S01E06.mkv
+│   │   ├── Modern Family S01E06.nfo
+│   │   ├── Modern Family S01E06-thumb.jpg
+│   │   ├── Modern Family S01E06.zh.default.ass
+│   │   ├── Modern Family S01E07.en.srt
+│   │   ├── Modern Family S01E07.mkv
+│   │   ├── Modern Family S01E07.nfo
+│   │   ├── Modern Family S01E07-thumb.jpg
+│   │   ├── Modern Family S01E07.zh.default.ass
+│   │   ├── Modern Family S01E08.en.srt
+│   │   ├── Modern Family S01E08.mkv
+│   │   ├── Modern Family S01E08.nfo
+│   │   ├── Modern Family S01E08-thumb.jpg
+│   │   ├── Modern Family S01E08.zh.default.ass
+│   │   ├── Modern Family S01E09.en.srt
+│   │   ├── Modern Family S01E09.mkv
+│   │   ├── Modern Family S01E09.nfo
+│   │   ├── Modern Family S01E09-thumb.jpg
+│   │   ├── Modern Family S01E09.zh.default.ass
+│   │   ├── Modern Family S01E10.mkv
+│   │   ├── Modern Family S01E10.nfo
+│   │   ├── Modern Family S01E10-thumb.jpg
+│   │   ├── Modern Family S01E10.zh.default.ass
+│   │   ├── Modern Family S01E11.en.srt
+│   │   ├── Modern Family S01E11.mkv
+│   │   ├── Modern Family S01E11.nfo
+│   │   ├── Modern Family S01E11-thumb.jpg
+│   │   ├── Modern Family S01E11.zh.default.ass
+│   │   ├── Modern Family S01E12.mkv
+│   │   ├── Modern Family S01E12.nfo
+│   │   ├── Modern Family S01E12-thumb.jpg
+│   │   ├── Modern Family S01E12.zh.default.ass
+│   │   ├── Modern Family S01E13.en.srt
+│   │   ├── Modern Family S01E13.mkv
+│   │   ├── Modern Family S01E13.nfo
+│   │   ├── Modern Family S01E13-thumb.jpg
+│   │   ├── Modern Family S01E13.zh.default.ass
+│   │   ├── Modern Family S01E14.mkv
+│   │   ├── Modern Family S01E14.nfo
+│   │   ├── Modern Family S01E14-thumb.jpg
+│   │   ├── Modern Family S01E14.zh.default.ass
+│   │   ├── Modern Family S01E15.en.srt
+│   │   ├── Modern Family S01E15.mkv
+│   │   ├── Modern Family S01E15.nfo
+│   │   ├── Modern Family S01E15-thumb.jpg
+│   │   ├── Modern Family S01E15.zh.default.ass
+│   │   ├── Modern Family S01E16.mkv
+│   │   ├── Modern Family S01E16.nfo
+│   │   ├── Modern Family S01E16-thumb.jpg
+│   │   ├── Modern Family S01E16.zh.default.ass
+│   │   ├── Modern Family S01E17.mkv
+│   │   ├── Modern Family S01E17.nfo
+│   │   ├── Modern Family S01E17-thumb.jpg
+│   │   ├── Modern Family S01E17.zh.default.ass
+│   │   ├── Modern Family S01E18.en.srt
+│   │   ├── Modern Family S01E18.mkv
+│   │   ├── Modern Family S01E18.nfo
+│   │   ├── Modern Family S01E18-thumb.jpg
+│   │   ├── Modern Family S01E18.zh.default.ass
+│   │   ├── Modern Family S01E19.en.srt
+│   │   ├── Modern Family S01E19.mkv
+│   │   ├── Modern Family S01E19.nfo
+│   │   ├── Modern Family S01E19-thumb.jpg
+│   │   ├── Modern Family S01E19.zh.default.ass
+│   │   ├── Modern Family S01E20.en.srt
+│   │   ├── Modern Family S01E20.mkv
+│   │   ├── Modern Family S01E20.nfo
+│   │   ├── Modern Family S01E20-thumb.jpg
+│   │   ├── Modern Family S01E20.zh.default.ass
+│   │   ├── Modern Family S01E21.mkv
+│   │   ├── Modern Family S01E21.nfo
+│   │   ├── Modern Family S01E21-thumb.jpg
+│   │   ├── Modern Family S01E21.zh.default.ass
+│   │   ├── Modern Family S01E22.mkv
+│   │   ├── Modern Family S01E22.nfo
+│   │   ├── Modern Family S01E22-thumb.jpg
+│   │   ├── Modern Family S01E22.zh.default.ass
+│   │   ├── Modern Family S01E23.mkv
+│   │   ├── Modern Family S01E23.nfo
+│   │   ├── Modern Family S01E23-thumb.jpg
+│   │   ├── Modern Family S01E23.zh.default.ass
+│   │   ├── Modern Family S01E24.en.srt
+│   │   ├── Modern Family S01E24.mkv
+│   │   ├── Modern Family S01E24.nfo
+│   │   ├── Modern Family S01E24-thumb.jpg
+│   │   └── Modern Family S01E24.zh.default.ass
+│   ├── Season 10
+│   │   ├── Modern Family S10E01.ChsEngA.default.ass
+│   │   ├── Modern Family S10E01.mkv
+│   │   ├── Modern Family S10E01.nfo
+│   │   ├── Modern Family S10E01-thumb.jpg
+│   │   ├── Modern Family S10E02.ChsEngA.default.ass
+│   │   ├── Modern Family S10E02.mkv
+│   │   ├── Modern Family S10E02.nfo
+│   │   ├── Modern Family S10E02-thumb.jpg
+│   │   ├── Modern Family S10E03.ChsEngA.default.ass
+│   │   ├── Modern Family S10E03.mkv
+│   │   ├── Modern Family S10E03.nfo
+│   │   ├── Modern Family S10E03-thumb.jpg
+│   │   ├── Modern Family S10E04.ChsEngA.default.ass
+│   │   ├── Modern Family S10E04.mkv
+│   │   ├── Modern Family S10E04.nfo
+│   │   ├── Modern Family S10E04-thumb.jpg
+│   │   ├── Modern Family S10E05.ChsEngA.default.ass
+│   │   ├── Modern Family S10E05.mkv
+│   │   ├── Modern Family S10E05.nfo
+│   │   ├── Modern Family S10E05-thumb.jpg
+│   │   ├── Modern Family S10E06.ChsEngA.default.ass
+│   │   ├── Modern Family S10E06.mkv
+│   │   ├── Modern Family S10E06.nfo
+│   │   ├── Modern Family S10E06-thumb.jpg
+│   │   ├── Modern Family S10E07.ChsEngA.default.ass
+│   │   ├── Modern Family S10E07.mkv
+│   │   ├── Modern Family S10E07.nfo
+│   │   ├── Modern Family S10E07-thumb.jpg
+│   │   ├── Modern Family S10E08.ChsEngA.default.ass
+│   │   ├── Modern Family S10E08.mkv
+│   │   ├── Modern Family S10E08.nfo
+│   │   ├── Modern Family S10E08-thumb.jpg
+│   │   ├── Modern Family S10E09.ChsEngA.default.ass
+│   │   ├── Modern Family S10E09.en.srt
+│   │   ├── Modern Family S10E09.mkv
+│   │   ├── Modern Family S10E09.nfo
+│   │   ├── Modern Family S10E09-thumb.jpg
+│   │   ├── Modern Family S10E10.ChsEngA.default.ass
+│   │   ├── Modern Family S10E10.en.srt
+│   │   ├── Modern Family S10E10.mkv
+│   │   ├── Modern Family S10E10.nfo
+│   │   ├── Modern Family S10E10-thumb.jpg
+│   │   ├── Modern Family S10E11.ChsEngA.default.ass
+│   │   ├── Modern Family S10E11.mkv
+│   │   ├── Modern Family S10E11.nfo
+│   │   ├── Modern Family S10E11-thumb.jpg
+│   │   ├── Modern Family S10E12.ChsEngA.default.ass
+│   │   ├── Modern Family S10E12.mkv
+│   │   ├── Modern Family S10E12.nfo
+│   │   ├── Modern Family S10E12-thumb.jpg
+│   │   ├── Modern Family S10E13.ChsEngA.default.ass
+│   │   ├── Modern Family S10E13.mkv
+│   │   ├── Modern Family S10E13.nfo
+│   │   ├── Modern Family S10E13-thumb.jpg
+│   │   ├── Modern Family S10E14.ChsEngA.default.ass
+│   │   ├── Modern Family S10E14.mkv
+│   │   ├── Modern Family S10E14.nfo
+│   │   ├── Modern Family S10E14-thumb.jpg
+│   │   ├── Modern Family S10E15.ChsEngA.default.ass
+│   │   ├── Modern Family S10E15.mkv
+│   │   ├── Modern Family S10E15.nfo
+│   │   ├── Modern Family S10E15-thumb.jpg
+│   │   ├── Modern Family S10E16.ChsEngA.default.ass
+│   │   ├── Modern Family S10E16.mkv
+│   │   ├── Modern Family S10E16.nfo
+│   │   ├── Modern Family S10E16-thumb.jpg
+│   │   ├── Modern Family S10E17.ChsEngA.default.ass
+│   │   ├── Modern Family S10E17.mkv
+│   │   ├── Modern Family S10E17.nfo
+│   │   ├── Modern Family S10E17-thumb.jpg
+│   │   ├── Modern Family S10E18.ChsEngA.default.ass
+│   │   ├── Modern Family S10E18.mkv
+│   │   ├── Modern Family S10E18.nfo
+│   │   ├── Modern Family S10E18-thumb.jpg
+│   │   ├── Modern Family S10E19.ChsEngA.default.ass
+│   │   ├── Modern Family S10E19.mkv
+│   │   ├── Modern Family S10E19.nfo
+│   │   ├── Modern Family S10E19-thumb.jpg
+│   │   ├── Modern Family S10E20.ChsEngA.default.ass
+│   │   ├── Modern Family S10E20.mkv
+│   │   ├── Modern Family S10E20.nfo
+│   │   ├── Modern Family S10E20-thumb.jpg
+│   │   ├── Modern Family S10E21.ChsEngA.default.ass
+│   │   ├── Modern Family S10E21.mkv
+│   │   ├── Modern Family S10E21.nfo
+│   │   ├── Modern Family S10E21-thumb.jpg
+│   │   ├── Modern Family S10E22.ChsEngA.default.ass
+│   │   ├── Modern Family S10E22.mkv
+│   │   ├── Modern Family S10E22.nfo
+│   │   └── Modern Family S10E22-thumb.jpg
+│   ├── season10-poster.jpg
+│   ├── Season 2
+│   │   ├── Modern Family S02E01.mkv
+│   │   ├── Modern Family S02E01.nfo
+│   │   ├── Modern Family S02E01-thumb.jpg
+│   │   ├── Modern Family S02E01.zh.default.ass
+│   │   ├── Modern Family S02E02-7SINS.nfo
+│   │   ├── Modern Family S02E02-7SINS-thumb.jpg
+│   │   ├── Modern Family S02E02.mkv
+│   │   ├── Modern Family S02E02.nfo
+│   │   ├── Modern Family S02E02-thumb.jpg
+│   │   ├── Modern Family S02E02.zh.default.ass
+│   │   ├── Modern Family S02E03-7SINS.nfo
+│   │   ├── Modern Family S02E03-7SINS-thumb.jpg
+│   │   ├── Modern Family S02E03.mkv
+│   │   ├── Modern Family S02E03.nfo
+│   │   ├── Modern Family S02E03-thumb.jpg
+│   │   ├── Modern Family S02E03.zh.default.ass
+│   │   ├── Modern Family S02E04-7SINS.nfo
+│   │   ├── Modern Family S02E04-7SINS-thumb.jpg
+│   │   ├── Modern Family S02E04.mkv
+│   │   ├── Modern Family S02E04.nfo
+│   │   ├── Modern Family S02E04-thumb.jpg
+│   │   ├── Modern Family S02E04.zh.default.ass
+│   │   ├── Modern Family S02E05-7SINS.nfo
+│   │   ├── Modern Family S02E05-7SINS-thumb.jpg
+│   │   ├── Modern Family S02E05.mkv
+│   │   ├── Modern Family S02E05.nfo
+│   │   ├── Modern Family S02E05-thumb.jpg
+│   │   ├── Modern Family S02E05.zh.default.ass
+│   │   ├── Modern Family S02E06-7SINS.nfo
+│   │   ├── Modern Family S02E06-7SINS-thumb.jpg
+│   │   ├── Modern Family S02E06.mkv
+│   │   ├── Modern Family S02E06.nfo
+│   │   ├── Modern Family S02E06-thumb.jpg
+│   │   ├── Modern Family S02E06.zh.default.ass
+│   │   ├── Modern Family S02E07-7SINS.en.srt
+│   │   ├── Modern Family S02E07-7SINS.nfo
+│   │   ├── Modern Family S02E07-7SINS-thumb.jpg
+│   │   ├── Modern Family S02E07.en.srt
+│   │   ├── Modern Family S02E07.mkv
+│   │   ├── Modern Family S02E07.nfo
+│   │   ├── Modern Family S02E07-thumb.jpg
+│   │   ├── Modern Family S02E07.zh.default.ass
+│   │   ├── Modern Family S02E08-bia.nfo
+│   │   ├── Modern Family S02E08-bia-thumb.jpg
+│   │   ├── Modern Family S02E08.mkv
+│   │   ├── Modern Family S02E08.nfo
+│   │   ├── Modern Family S02E08-thumb.jpg
+│   │   ├── Modern Family S02E08.zh.default.ass
+│   │   ├── Modern Family S02E09-7SINS.nfo
+│   │   ├── Modern Family S02E09-7SINS-thumb.jpg
+│   │   ├── Modern Family S02E09.mkv
+│   │   ├── Modern Family S02E09.nfo
+│   │   ├── Modern Family S02E09-thumb.jpg
+│   │   ├── Modern Family S02E09.zh.default.ass
+│   │   ├── Modern Family S02E10-7SINS.nfo
+│   │   ├── Modern Family S02E10-7SINS-thumb.jpg
+│   │   ├── Modern Family S02E10.mkv
+│   │   ├── Modern Family S02E10.nfo
+│   │   ├── Modern Family S02E10-thumb.jpg
+│   │   ├── Modern Family S02E10.zh.default.ass
+│   │   ├── Modern Family S02E11.mkv
+│   │   ├── Modern Family S02E11.nfo
+│   │   ├── Modern Family S02E11-thumb.jpg
+│   │   ├── Modern Family S02E11.zh.default.ass
+│   │   ├── Modern Family S02E12.mkv
+│   │   ├── Modern Family S02E12.nfo
+│   │   ├── Modern Family S02E12-thumb.jpg
+│   │   ├── Modern Family S02E12.zh.default.ass
+│   │   ├── Modern Family S02E13.mkv
+│   │   ├── Modern Family S02E13.nfo
+│   │   ├── Modern Family S02E13-thumb.jpg
+│   │   ├── Modern Family S02E13.zh.default.ass
+│   │   ├── Modern Family S02E14.mkv
+│   │   ├── Modern Family S02E14.nfo
+│   │   ├── Modern Family S02E14-thumb.jpg
+│   │   ├── Modern Family S02E14.zh.default.ass
+│   │   ├── Modern Family S02E15.mkv
+│   │   ├── Modern Family S02E15.nfo
+│   │   ├── Modern Family S02E15-thumb.jpg
+│   │   ├── Modern Family S02E15.zh.default.ass
+│   │   ├── Modern Family S02E16-7SINS.nfo
+│   │   ├── Modern Family S02E16-7SINS-thumb.jpg
+│   │   ├── Modern Family S02E16.mkv
+│   │   ├── Modern Family S02E16.nfo
+│   │   ├── Modern Family S02E16-thumb.jpg
+│   │   ├── Modern Family S02E16.zh.default.ass
+│   │   ├── Modern Family S02E17-7SINS.nfo
+│   │   ├── Modern Family S02E17-7SINS-thumb.jpg
+│   │   ├── Modern Family S02E17.mkv
+│   │   ├── Modern Family S02E17.nfo
+│   │   ├── Modern Family S02E17-thumb.jpg
+│   │   ├── Modern Family S02E17.zh.default.ass
+│   │   ├── Modern Family S02E18-7SINS.nfo
+│   │   ├── Modern Family S02E18-7SINS-thumb.jpg
+│   │   ├── Modern Family S02E18.mkv
+│   │   ├── Modern Family S02E18.nfo
+│   │   ├── Modern Family S02E18-thumb.jpg
+│   │   ├── Modern Family S02E18.zh.default.ass
+│   │   ├── Modern Family S02E19.mkv
+│   │   ├── Modern Family S02E19.nfo
+│   │   ├── Modern Family S02E19-thumb.jpg
+│   │   ├── Modern Family S02E19.zh.default.ass
+│   │   ├── Modern Family S02E20-7SINS.en.srt
+│   │   ├── Modern Family S02E20-7SINS.nfo
+│   │   ├── Modern Family S02E20-7SINS-thumb.jpg
+│   │   ├── Modern Family S02E20.en.srt
+│   │   ├── Modern Family S02E20.mkv
+│   │   ├── Modern Family S02E20.nfo
+│   │   ├── Modern Family S02E20-thumb.jpg
+│   │   ├── Modern Family S02E20.zh.default.ass
+│   │   ├── Modern Family S02E21.mkv
+│   │   ├── Modern Family S02E21.nfo
+│   │   ├── Modern Family S02E21-thumb.jpg
+│   │   ├── Modern Family S02E21.zh.default.ass
+│   │   ├── Modern Family S02E22.mkv
+│   │   ├── Modern Family S02E22.nfo
+│   │   ├── Modern Family S02E22-thumb.jpg
+│   │   ├── Modern Family S02E22.zh.default.ass
+│   │   ├── Modern Family S02E23-bia.nfo
+│   │   ├── Modern Family S02E23-bia-thumb.jpg
+│   │   ├── Modern Family S02E23.mkv
+│   │   ├── Modern Family S02E23.nfo
+│   │   ├── Modern Family S02E23-thumb.jpg
+│   │   ├── Modern Family S02E23.zh.default.ass
+│   │   ├── Modern Family S02E24.mkv
+│   │   ├── Modern Family S02E24.nfo
+│   │   ├── Modern Family S02E24-thumb.jpg
+│   │   └── Modern Family S02E24.zh.default.ass
+│   ├── Season 3
+│   │   ├── Modern Family S03E01.en.srt
+│   │   ├── Modern Family S03E01.mkv
+│   │   ├── Modern Family S03E01.nfo
+│   │   ├── Modern Family S03E01-thumb.jpg
+│   │   ├── Modern Family S03E01.zh.default.ass
+│   │   ├── Modern Family S03E02.mkv
+│   │   ├── Modern Family S03E02.nfo
+│   │   ├── Modern Family S03E02-thumb.jpg
+│   │   ├── Modern Family S03E02.zh.default.ass
+│   │   ├── Modern Family S03E03.mkv
+│   │   ├── Modern Family S03E03.nfo
+│   │   ├── Modern Family S03E03-thumb.jpg
+│   │   ├── Modern Family S03E03.zh.default.ass
+│   │   ├── Modern Family S03E04.en.srt
+│   │   ├── Modern Family S03E04.mkv
+│   │   ├── Modern Family S03E04.nfo
+│   │   ├── Modern Family S03E04-thumb.jpg
+│   │   ├── Modern Family S03E04.zh.default.ass
+│   │   ├── Modern Family S03E05.en.srt
+│   │   ├── Modern Family S03E05.mkv
+│   │   ├── Modern Family S03E05.nfo
+│   │   ├── Modern Family S03E05-thumb.jpg
+│   │   ├── Modern Family S03E05.zh.default.ass
+│   │   ├── Modern Family S03E06.en.srt
+│   │   ├── Modern Family S03E06.mkv
+│   │   ├── Modern Family S03E06.nfo
+│   │   ├── Modern Family S03E06-thumb.jpg
+│   │   ├── Modern Family S03E06.zh.default.ass
+│   │   ├── Modern Family S03E07.mkv
+│   │   ├── Modern Family S03E07.nfo
+│   │   ├── Modern Family S03E07-thumb.jpg
+│   │   ├── Modern Family S03E07.zh.default.ass
+│   │   ├── Modern Family S03E08.mkv
+│   │   ├── Modern Family S03E08.nfo
+│   │   ├── Modern Family S03E08-thumb.jpg
+│   │   ├── Modern Family S03E08.zh.default.ass
+│   │   ├── Modern Family S03E09.mkv
+│   │   ├── Modern Family S03E09.nfo
+│   │   ├── Modern Family S03E09-thumb.jpg
+│   │   ├── Modern Family S03E09.zh.default.ass
+│   │   ├── Modern Family S03E10.en.srt
+│   │   ├── Modern Family S03E10.mkv
+│   │   ├── Modern Family S03E10.nfo
+│   │   ├── Modern Family S03E10-thumb.jpg
+│   │   ├── Modern Family S03E10.zh.default.ass
+│   │   ├── Modern Family S03E11.mkv
+│   │   ├── Modern Family S03E11.nfo
+│   │   ├── Modern Family S03E11-thumb.jpg
+│   │   ├── Modern Family S03E11.zh.default.ass
+│   │   ├── Modern Family S03E12.en.srt
+│   │   ├── Modern Family S03E12.mkv
+│   │   ├── Modern Family S03E12.nfo
+│   │   ├── Modern Family S03E12-thumb.jpg
+│   │   ├── Modern Family S03E12.zh.default.ass
+│   │   ├── Modern Family S03E13.mkv
+│   │   ├── Modern Family S03E13.nfo
+│   │   ├── Modern Family S03E13-thumb.jpg
+│   │   ├── Modern Family S03E13.zh.default.ass
+│   │   ├── Modern Family S03E14.mkv
+│   │   ├── Modern Family S03E14.nfo
+│   │   ├── Modern Family S03E14-thumb.jpg
+│   │   ├── Modern Family S03E14.zh.default.ass
+│   │   ├── Modern Family S03E15.en.srt
+│   │   ├── Modern Family S03E15.mkv
+│   │   ├── Modern Family S03E15.nfo
+│   │   ├── Modern Family S03E15-thumb.jpg
+│   │   ├── Modern Family S03E15.zh.default.ass
+│   │   ├── Modern Family S03E16.mkv
+│   │   ├── Modern Family S03E16.nfo
+│   │   ├── Modern Family S03E16-thumb.jpg
+│   │   ├── Modern Family S03E16.zh.default.ass
+│   │   ├── Modern Family S03E17.mkv
+│   │   ├── Modern Family S03E17.nfo
+│   │   ├── Modern Family S03E17-thumb.jpg
+│   │   ├── Modern Family S03E17.zh.default.ass
+│   │   ├── Modern Family S03E18.mkv
+│   │   ├── Modern Family S03E18.nfo
+│   │   ├── Modern Family S03E18-thumb.jpg
+│   │   ├── Modern Family S03E18.zh.default.ass
+│   │   ├── Modern Family S03E19.en.srt
+│   │   ├── Modern Family S03E19.mkv
+│   │   ├── Modern Family S03E19.nfo
+│   │   ├── Modern Family S03E19-thumb.jpg
+│   │   ├── Modern Family S03E19.zh.default.ass
+│   │   ├── Modern Family S03E20.mkv
+│   │   ├── Modern Family S03E20.nfo
+│   │   ├── Modern Family S03E20-thumb.jpg
+│   │   ├── Modern Family S03E20.zh.default.ass
+│   │   ├── Modern Family S03E21.mkv
+│   │   ├── Modern Family S03E21.nfo
+│   │   ├── Modern Family S03E21-thumb.jpg
+│   │   ├── Modern Family S03E21.zh.default.ass
+│   │   ├── Modern Family S03E22.en.srt
+│   │   ├── Modern Family S03E22.mkv
+│   │   ├── Modern Family S03E22.nfo
+│   │   ├── Modern Family S03E22-thumb.jpg
+│   │   ├── Modern Family S03E22.zh.default.ass
+│   │   ├── Modern Family S03E23.mkv
+│   │   ├── Modern Family S03E23.nfo
+│   │   ├── Modern Family S03E23-thumb.jpg
+│   │   ├── Modern Family S03E23.zh.default.ass
+│   │   ├── Modern Family S03E24.mkv
+│   │   ├── Modern Family S03E24.nfo
+│   │   ├── Modern Family S03E24-thumb.jpg
+│   │   └── Modern Family S03E24.zh.default.ass
+│   ├── Season 4
+│   │   ├── Modern Family S04E01.mkv
+│   │   ├── Modern Family S04E01.nfo
+│   │   ├── Modern Family S04E01-thumb.jpg
+│   │   ├── Modern Family S04E01.zh.default.ass
+│   │   ├── Modern Family S04E02.mkv
+│   │   ├── Modern Family S04E02.nfo
+│   │   ├── Modern Family S04E02-thumb.jpg
+│   │   ├── Modern Family S04E02.zh.default.ass
+│   │   ├── Modern Family S04E03.mkv
+│   │   ├── Modern Family S04E03.nfo
+│   │   ├── Modern Family S04E03-thumb.jpg
+│   │   ├── Modern Family S04E03.zh.default.ass
+│   │   ├── Modern Family S04E04.mkv
+│   │   ├── Modern Family S04E04.nfo
+│   │   ├── Modern Family S04E04-thumb.jpg
+│   │   ├── Modern Family S04E04.zh.default.ass
+│   │   ├── Modern Family S04E05.mkv
+│   │   ├── Modern Family S04E05.nfo
+│   │   ├── Modern Family S04E05-thumb.jpg
+│   │   ├── Modern Family S04E05.zh.default.ass
+│   │   ├── Modern Family S04E06.mkv
+│   │   ├── Modern Family S04E06.nfo
+│   │   ├── Modern Family S04E06-thumb.jpg
+│   │   ├── Modern Family S04E06.zh.default.ass
+│   │   ├── Modern Family S04E07.mkv
+│   │   ├── Modern Family S04E07.nfo
+│   │   ├── Modern Family S04E07-thumb.jpg
+│   │   ├── Modern Family S04E07.zh.default.ass
+│   │   ├── Modern Family S04E08.mkv
+│   │   ├── Modern Family S04E08.nfo
+│   │   ├── Modern Family S04E08-thumb.jpg
+│   │   ├── Modern Family S04E08.zh.default.ass
+│   │   ├── Modern Family S04E09.mkv
+│   │   ├── Modern Family S04E09.nfo
+│   │   ├── Modern Family S04E09-thumb.jpg
+│   │   ├── Modern Family S04E09.zh.default.ass
+│   │   ├── Modern Family S04E10.mkv
+│   │   ├── Modern Family S04E10.nfo
+│   │   ├── Modern Family S04E10-thumb.jpg
+│   │   ├── Modern Family S04E10.zh.default.ass
+│   │   ├── Modern Family S04E11.mkv
+│   │   ├── Modern Family S04E11.nfo
+│   │   ├── Modern Family S04E11-thumb.jpg
+│   │   ├── Modern Family S04E11.zh.default.ass
+│   │   ├── Modern Family S04E12.en.srt
+│   │   ├── Modern Family S04E12.mkv
+│   │   ├── Modern Family S04E12.nfo
+│   │   ├── Modern Family S04E12-thumb.jpg
+│   │   ├── Modern Family S04E12.zh.default.ass
+│   │   ├── Modern Family S04E13.mkv
+│   │   ├── Modern Family S04E13.nfo
+│   │   ├── Modern Family S04E13-thumb.jpg
+│   │   ├── Modern Family S04E13.zh.default.ass
+│   │   ├── Modern Family S04E14.mkv
+│   │   ├── Modern Family S04E14.nfo
+│   │   ├── Modern Family S04E14-thumb.jpg
+│   │   ├── Modern Family S04E14.zh.default.ass
+│   │   ├── Modern Family S04E15.mkv
+│   │   ├── Modern Family S04E15.nfo
+│   │   ├── Modern Family S04E15-thumb.jpg
+│   │   ├── Modern Family S04E15.zh.default.ass
+│   │   ├── Modern Family S04E16.mkv
+│   │   ├── Modern Family S04E16.nfo
+│   │   ├── Modern Family S04E16-thumb.jpg
+│   │   ├── Modern Family S04E16.zh.default.ass
+│   │   ├── Modern Family S04E17.mkv
+│   │   ├── Modern Family S04E17.nfo
+│   │   ├── Modern Family S04E17-thumb.jpg
+│   │   ├── Modern Family S04E17.zh.default.ass
+│   │   ├── Modern Family S04E18.mkv
+│   │   ├── Modern Family S04E18.nfo
+│   │   ├── Modern Family S04E18-thumb.jpg
+│   │   ├── Modern Family S04E18.zh.default.ass
+│   │   ├── Modern Family S04E19.mkv
+│   │   ├── Modern Family S04E19.nfo
+│   │   ├── Modern Family S04E19-thumb.jpg
+│   │   ├── Modern Family S04E19.zh.default.ass
+│   │   ├── Modern Family S04E20.mkv
+│   │   ├── Modern Family S04E20.nfo
+│   │   ├── Modern Family S04E20-thumb.jpg
+│   │   ├── Modern Family S04E20.zh.default.ass
+│   │   ├── Modern Family S04E21.en.srt
+│   │   ├── Modern Family S04E21.mkv
+│   │   ├── Modern Family S04E21.nfo
+│   │   ├── Modern Family S04E21-thumb.jpg
+│   │   ├── Modern Family S04E21.zh.default.ass
+│   │   ├── Modern Family S04E22.mkv
+│   │   ├── Modern Family S04E22.nfo
+│   │   ├── Modern Family S04E22-thumb.jpg
+│   │   ├── Modern Family S04E22.zh.default.ass
+│   │   ├── Modern Family S04E23.mkv
+│   │   ├── Modern Family S04E23.nfo
+│   │   ├── Modern Family S04E23-thumb.jpg
+│   │   ├── Modern Family S04E23.zh.default.ass
+│   │   ├── Modern Family S04E24.mkv
+│   │   ├── Modern Family S04E24.nfo
+│   │   ├── Modern Family S04E24-thumb.jpg
+│   │   └── Modern Family S04E24.zh.default.ass
+│   ├── Season 5
+│   │   ├── Modern Family S05E01.ChsEngA.default.ass
+│   │   ├── Modern Family S05E01.en.srt
+│   │   ├── Modern Family S05E01.mkv
+│   │   ├── Modern Family S05E01.nfo
+│   │   ├── Modern Family S05E01-thumb.jpg
+│   │   ├── Modern Family S05E02.ChsEngA.default.ass
+│   │   ├── Modern Family S05E02.en.srt
+│   │   ├── Modern Family S05E02.mkv
+│   │   ├── Modern Family S05E02.nfo
+│   │   ├── Modern Family S05E02-thumb.jpg
+│   │   ├── Modern Family S05E03.ChsEngA.default.ass
+│   │   ├── Modern Family S05E03.en.srt
+│   │   ├── Modern Family S05E03.mkv
+│   │   ├── Modern Family S05E03.nfo
+│   │   ├── Modern Family S05E03-thumb.jpg
+│   │   ├── Modern Family S05E04.ChsEngA.default.ass
+│   │   ├── Modern Family S05E04.en.srt
+│   │   ├── Modern Family S05E04.mkv
+│   │   ├── Modern Family S05E04.nfo
+│   │   ├── Modern Family S05E04-thumb.jpg
+│   │   ├── Modern Family S05E05.ChsEngA.default.ass
+│   │   ├── Modern Family S05E05.en.srt
+│   │   ├── Modern Family S05E05.mkv
+│   │   ├── Modern Family S05E05.nfo
+│   │   ├── Modern Family S05E05-thumb.jpg
+│   │   ├── Modern Family S05E06.ChsEngA.default.ass
+│   │   ├── Modern Family S05E06.en.srt
+│   │   ├── Modern Family S05E06.mkv
+│   │   ├── Modern Family S05E06.nfo
+│   │   ├── Modern Family S05E06-thumb.jpg
+│   │   ├── Modern Family S05E07.ChsEngA.default.ass
+│   │   ├── Modern Family S05E07.en.srt
+│   │   ├── Modern Family S05E07.mkv
+│   │   ├── Modern Family S05E07.nfo
+│   │   ├── Modern Family S05E07-thumb.jpg
+│   │   ├── Modern Family S05E08.1.en.srt
+│   │   ├── Modern Family S05E08.ChsEngA.default.ass
+│   │   ├── Modern Family S05E08.en.srt
+│   │   ├── Modern Family S05E08.mkv
+│   │   ├── Modern Family S05E08.nfo
+│   │   ├── Modern Family S05E08-thumb.jpg
+│   │   ├── Modern Family S05E09.1.en.srt
+│   │   ├── Modern Family S05E09.ChsEngA.default.ass
+│   │   ├── Modern Family S05E09.en.srt
+│   │   ├── Modern Family S05E09.mkv
+│   │   ├── Modern Family S05E09.nfo
+│   │   ├── Modern Family S05E09-thumb.jpg
+│   │   ├── Modern Family S05E10.ChsEngA.default.ass
+│   │   ├── Modern Family S05E10.mkv
+│   │   ├── Modern Family S05E10.nfo
+│   │   ├── Modern Family S05E10-thumb.jpg
+│   │   ├── Modern Family S05E11.1.en.srt
+│   │   ├── Modern Family S05E11.ChsEngA.default.ass
+│   │   ├── Modern Family S05E11.en.srt
+│   │   ├── Modern Family S05E11.mkv
+│   │   ├── Modern Family S05E11.nfo
+│   │   ├── Modern Family S05E11-thumb.jpg
+│   │   ├── Modern Family S05E12.ChsEngA.default.ass
+│   │   ├── Modern Family S05E12.en.srt
+│   │   ├── Modern Family S05E12.mkv
+│   │   ├── Modern Family S05E12.nfo
+│   │   ├── Modern Family S05E12-thumb.jpg
+│   │   ├── Modern Family S05E13.ChsEngA.default.ass
+│   │   ├── Modern Family S05E13.en.srt
+│   │   ├── Modern Family S05E13.mkv
+│   │   ├── Modern Family S05E13.nfo
+│   │   ├── Modern Family S05E13-thumb.jpg
+│   │   ├── Modern Family S05E14.ChsEngA.default.ass
+│   │   ├── Modern Family S05E14.en.srt
+│   │   ├── Modern Family S05E14.mkv
+│   │   ├── Modern Family S05E14.nfo
+│   │   ├── Modern Family S05E14-thumb.jpg
+│   │   ├── Modern Family S05E15.1.en.srt
+│   │   ├── Modern Family S05E15.ChsEngA.default.ass
+│   │   ├── Modern Family S05E15.en.srt
+│   │   ├── Modern Family S05E15.mkv
+│   │   ├── Modern Family S05E15.nfo
+│   │   ├── Modern Family S05E15-thumb.jpg
+│   │   ├── Modern Family S05E16.ChsEngA.default.ass
+│   │   ├── Modern Family S05E16.en.srt
+│   │   ├── Modern Family S05E16.mkv
+│   │   ├── Modern Family S05E16.nfo
+│   │   ├── Modern Family S05E16-thumb.jpg
+│   │   ├── Modern Family S05E17.1.en.srt
+│   │   ├── Modern Family S05E17.ChsEngA.default.ass
+│   │   ├── Modern Family S05E17.en.srt
+│   │   ├── Modern Family S05E17.mkv
+│   │   ├── Modern Family S05E17.nfo
+│   │   ├── Modern Family S05E17-thumb.jpg
+│   │   ├── Modern Family S05E18.1.en.srt
+│   │   ├── Modern Family S05E18.ChsEngA.default.ass
+│   │   ├── Modern Family S05E18.en.srt
+│   │   ├── Modern Family S05E18.mkv
+│   │   ├── Modern Family S05E18.nfo
+│   │   ├── Modern Family S05E18-thumb.jpg
+│   │   ├── Modern Family S05E19.1.en.srt
+│   │   ├── Modern Family S05E19.ChsEngA.default.ass
+│   │   ├── Modern Family S05E19.en.srt
+│   │   ├── Modern Family S05E19.mkv
+│   │   ├── Modern Family S05E19.nfo
+│   │   ├── Modern Family S05E19-thumb.jpg
+│   │   ├── Modern Family S05E20.1.en.srt
+│   │   ├── Modern Family S05E20.ChsEngA.default.ass
+│   │   ├── Modern Family S05E20.en.srt
+│   │   ├── Modern Family S05E20.mkv
+│   │   ├── Modern Family S05E20.nfo
+│   │   ├── Modern Family S05E20-thumb.jpg
+│   │   ├── Modern Family S05E21.1.en.srt
+│   │   ├── Modern Family S05E21.ChsEngA.default.ass
+│   │   ├── Modern Family S05E21.en.srt
+│   │   ├── Modern Family S05E21.mkv
+│   │   ├── Modern Family S05E21.nfo
+│   │   ├── Modern Family S05E21-thumb.jpg
+│   │   ├── Modern Family S05E22.1.en.srt
+│   │   ├── Modern Family S05E22.ass
+│   │   ├── Modern Family S05E22.en.srt
+│   │   ├── Modern Family S05E22.mkv
+│   │   ├── Modern Family S05E22.nfo
+│   │   ├── Modern Family S05E22-thumb.jpg
+│   │   ├── Modern Family S05E23.1.en.srt
+│   │   ├── Modern Family S05E23.ass
+│   │   ├── Modern Family S05E23.en.srt
+│   │   ├── Modern Family S05E23.mkv
+│   │   ├── Modern Family S05E23.nfo
+│   │   ├── Modern Family S05E23-thumb.jpg
+│   │   ├── Modern Family S05E24.1.en.srt
+│   │   ├── Modern Family S05E24.ass
+│   │   ├── Modern Family S05E24.en.srt
+│   │   ├── Modern Family S05E24.mkv
+│   │   ├── Modern Family S05E24.nfo
+│   │   └── Modern Family S05E24-thumb.jpg
+│   ├── Season 7
+│   │   ├── Modern Family S07E01.ChsEngA.default.ass
+│   │   ├── Modern Family S07E01.mkv
+│   │   ├── Modern Family S07E01.nfo
+│   │   ├── Modern Family S07E01-thumb.jpg
+│   │   ├── Modern Family S07E02.ChsEngA.default.ass
+│   │   ├── Modern Family S07E02.mkv
+│   │   ├── Modern Family S07E02.nfo
+│   │   ├── Modern Family S07E02-thumb.jpg
+│   │   ├── Modern Family S07E03.ChsEngA.default.ass
+│   │   ├── Modern Family S07E03.mkv
+│   │   ├── Modern Family S07E03.nfo
+│   │   ├── Modern Family S07E03-thumb.jpg
+│   │   ├── Modern Family S07E04.ChsEngA.default.ass
+│   │   ├── Modern Family S07E04.mkv
+│   │   ├── Modern Family S07E04.nfo
+│   │   ├── Modern Family S07E04-thumb.jpg
+│   │   ├── Modern Family S07E05.ChsEngA.default.ass
+│   │   ├── Modern Family S07E05.mkv
+│   │   ├── Modern Family S07E05.nfo
+│   │   ├── Modern Family S07E05-thumb.jpg
+│   │   ├── Modern Family S07E06.ChsEngA.default.ass
+│   │   ├── Modern Family S07E06.mkv
+│   │   ├── Modern Family S07E06.nfo
+│   │   ├── Modern Family S07E06-thumb.jpg
+│   │   ├── Modern Family S07E07.ChsEngA.default.ass
+│   │   ├── Modern Family S07E07.mkv
+│   │   ├── Modern Family S07E07.nfo
+│   │   ├── Modern Family S07E07-thumb.jpg
+│   │   ├── Modern Family S07E08.ChsEngA.default.ass
+│   │   ├── Modern Family S07E08.mkv
+│   │   ├── Modern Family S07E08.nfo
+│   │   ├── Modern Family S07E08-thumb.jpg
+│   │   ├── Modern Family S07E09.ChsEngA.default.ass
+│   │   ├── Modern Family S07E09.mkv
+│   │   ├── Modern Family S07E09.nfo
+│   │   ├── Modern Family S07E09-thumb.jpg
+│   │   ├── Modern Family S07E10.ChsEngA.default.ass
+│   │   ├── Modern Family S07E10.mkv
+│   │   ├── Modern Family S07E10.nfo
+│   │   ├── Modern Family S07E10-thumb.jpg
+│   │   ├── Modern Family S07E11.ChsEngA.default.ass
+│   │   ├── Modern Family S07E11.mkv
+│   │   ├── Modern Family S07E11.nfo
+│   │   ├── Modern Family S07E11-thumb.jpg
+│   │   ├── Modern Family S07E12.ChsEngA.default.ass
+│   │   ├── Modern Family S07E12.mkv
+│   │   ├── Modern Family S07E12.nfo
+│   │   ├── Modern Family S07E12-thumb.jpg
+│   │   ├── Modern Family S07E13.ChsEngA.default.ass
+│   │   ├── Modern Family S07E13.mkv
+│   │   ├── Modern Family S07E13.nfo
+│   │   ├── Modern Family S07E13-thumb.jpg
+│   │   ├── Modern Family S07E14.ChsEngA.default.ass
+│   │   ├── Modern Family S07E14.mkv
+│   │   ├── Modern Family S07E14.nfo
+│   │   ├── Modern Family S07E14-thumb.jpg
+│   │   ├── Modern Family S07E15.ChsEngA.default.ass
+│   │   ├── Modern Family S07E15.mkv
+│   │   ├── Modern Family S07E15.nfo
+│   │   ├── Modern Family S07E15-thumb.jpg
+│   │   ├── Modern Family S07E16.ChsEngA.default.ass
+│   │   ├── Modern Family S07E16.mkv
+│   │   ├── Modern Family S07E16.nfo
+│   │   ├── Modern Family S07E16-thumb.jpg
+│   │   ├── Modern Family S07E17.ChsEngA.default.ass
+│   │   ├── Modern Family S07E17.mkv
+│   │   ├── Modern Family S07E17.nfo
+│   │   ├── Modern Family S07E17-thumb.jpg
+│   │   ├── Modern Family S07E18.ChsEngA.default.ass
+│   │   ├── Modern Family S07E18.mkv
+│   │   ├── Modern Family S07E18.nfo
+│   │   ├── Modern Family S07E18-thumb.jpg
+│   │   ├── Modern Family S07E19.ChsEngA.default.ass
+│   │   ├── Modern Family S07E19.mkv
+│   │   ├── Modern Family S07E19.nfo
+│   │   ├── Modern Family S07E19-thumb.jpg
+│   │   ├── Modern Family S07E20.ChsEngA.default.ass
+│   │   ├── Modern Family S07E20.mkv
+│   │   ├── Modern Family S07E20.nfo
+│   │   ├── Modern Family S07E20-thumb.jpg
+│   │   ├── Modern Family S07E21.ChsEngA.default.ass
+│   │   ├── Modern Family S07E21.mkv
+│   │   ├── Modern Family S07E21.nfo
+│   │   ├── Modern Family S07E21-thumb.jpg
+│   │   ├── Modern Family S07E22.ChsEngA.default.ass
+│   │   ├── Modern Family S07E22.mkv
+│   │   ├── Modern Family S07E22.nfo
+│   │   └── Modern Family S07E22-thumb.jpg
+│   ├── Season 8
+│   │   ├── Modern Family S08E01.mkv
+│   │   ├── Modern Family S08E01.nfo
+│   │   ├── Modern Family S08E01.srt
+│   │   ├── Modern Family S08E01-thumb.jpg
+│   │   ├── Modern Family S08E02.ChsEngA.default.ass
+│   │   ├── Modern Family S08E02.mkv
+│   │   ├── Modern Family S08E02.nfo
+│   │   ├── Modern Family S08E02-thumb.jpg
+│   │   ├── Modern Family S08E03.ChsEngA.default.ass
+│   │   ├── Modern Family S08E03.mkv
+│   │   ├── Modern Family S08E03.nfo
+│   │   ├── Modern Family S08E03-thumb.jpg
+│   │   ├── Modern Family S08E04.ChsEngA.default.ass
+│   │   ├── Modern Family S08E04.mkv
+│   │   ├── Modern Family S08E04.nfo
+│   │   ├── Modern Family S08E04-thumb.jpg
+│   │   ├── Modern Family S08E05.ChsEngA.default.ass
+│   │   ├── Modern Family S08E05.mkv
+│   │   ├── Modern Family S08E05.nfo
+│   │   ├── Modern Family S08E05-thumb.jpg
+│   │   ├── Modern Family S08E06.mkv
+│   │   ├── Modern Family S08E06.nfo
+│   │   ├── Modern Family S08E06.srt
+│   │   ├── Modern Family S08E06-thumb.jpg
+│   │   ├── Modern Family S08E07.ChsEngA.default.ass
+│   │   ├── Modern Family S08E07.mkv
+│   │   ├── Modern Family S08E07.nfo
+│   │   ├── Modern Family S08E07-thumb.jpg
+│   │   ├── Modern Family S08E08.ChsEngA.default.ass
+│   │   ├── Modern Family S08E08.mkv
+│   │   ├── Modern Family S08E08.nfo
+│   │   ├── Modern Family S08E08-thumb.jpg
+│   │   ├── Modern Family S08E09.ChsEngA.default.ass
+│   │   ├── Modern Family S08E09.mkv
+│   │   ├── Modern Family S08E09.nfo
+│   │   ├── Modern Family S08E09-thumb.jpg
+│   │   ├── Modern Family S08E10.ChsEngA.default.ass
+│   │   ├── Modern Family S08E10.mkv
+│   │   ├── Modern Family S08E10.nfo
+│   │   ├── Modern Family S08E10-thumb.jpg
+│   │   ├── Modern Family S08E11.ChsEngA.default.ass
+│   │   ├── Modern Family S08E11.mkv
+│   │   ├── Modern Family S08E11.nfo
+│   │   ├── Modern Family S08E11-thumb.jpg
+│   │   ├── Modern Family S08E12.ChsEngA.default.ass
+│   │   ├── Modern Family S08E12.mkv
+│   │   ├── Modern Family S08E12.nfo
+│   │   ├── Modern Family S08E12-thumb.jpg
+│   │   ├── Modern Family S08E13.ChsEngA.default.ass
+│   │   ├── Modern Family S08E13.mkv
+│   │   ├── Modern Family S08E13.nfo
+│   │   ├── Modern Family S08E13-thumb.jpg
+│   │   ├── Modern Family S08E14.ChsEngA.default.ass
+│   │   ├── Modern Family S08E14.mkv
+│   │   ├── Modern Family S08E14.nfo
+│   │   ├── Modern Family S08E14-thumb.jpg
+│   │   ├── Modern Family S08E15.ChsEngA.default.ass
+│   │   ├── Modern Family S08E15.mkv
+│   │   ├── Modern Family S08E15.nfo
+│   │   ├── Modern Family S08E15-thumb.jpg
+│   │   ├── Modern Family S08E16.ChsEngA.default.ass
+│   │   ├── Modern Family S08E16.mkv
+│   │   ├── Modern Family S08E16.nfo
+│   │   ├── Modern Family S08E16-thumb.jpg
+│   │   ├── Modern Family S08E17.ChsEngA.default.ass
+│   │   ├── Modern Family S08E17.mkv
+│   │   ├── Modern Family S08E17.nfo
+│   │   ├── Modern Family S08E17-thumb.jpg
+│   │   ├── Modern Family S08E18.ChsEngA.default.ass
+│   │   ├── Modern Family S08E18.mkv
+│   │   ├── Modern Family S08E18.nfo
+│   │   ├── Modern Family S08E18-thumb.jpg
+│   │   ├── Modern Family S08E19.ChsEngA.default.ass
+│   │   ├── Modern Family S08E19.mkv
+│   │   ├── Modern Family S08E19.nfo
+│   │   ├── Modern Family S08E19-thumb.jpg
+│   │   ├── Modern Family S08E20.ChsEngA.default.ass
+│   │   ├── Modern Family S08E20.mkv
+│   │   ├── Modern Family S08E20.nfo
+│   │   ├── Modern Family S08E20-thumb.jpg
+│   │   ├── Modern Family S08E21.ChsEngA.default.ass
+│   │   ├── Modern Family S08E21.mkv
+│   │   ├── Modern Family S08E21.nfo
+│   │   ├── Modern Family S08E21-thumb.jpg
+│   │   ├── Modern Family S08E22.ChsEngA.default.ass
+│   │   ├── Modern Family S08E22.mkv
+│   │   ├── Modern Family S08E22.nfo
+│   │   └── Modern Family S08E22-thumb.jpg
+│   ├── Season 9
+│   │   ├── Modern Family S09E01.ChsEngA.default.ass
+│   │   ├── Modern Family S09E01.mkv
+│   │   ├── Modern Family S09E01.nfo
+│   │   ├── Modern Family S09E01-thumb.jpg
+│   │   ├── Modern Family S09E02.ChsEngA.default.ass
+│   │   ├── Modern Family S09E02.mkv
+│   │   ├── Modern Family S09E02.nfo
+│   │   ├── Modern Family S09E02-thumb.jpg
+│   │   ├── Modern Family S09E03.ChsEngA.default.ass
+│   │   ├── Modern Family S09E03.mkv
+│   │   ├── Modern Family S09E03.nfo
+│   │   ├── Modern Family S09E03-thumb.jpg
+│   │   ├── Modern Family S09E04.ChsEngA.default.ass
+│   │   ├── Modern Family S09E04.mkv
+│   │   ├── Modern Family S09E04.nfo
+│   │   ├── Modern Family S09E04-thumb.jpg
+│   │   ├── Modern Family S09E05.ChsEngA.default.ass
+│   │   ├── Modern Family S09E05.mkv
+│   │   ├── Modern Family S09E05.nfo
+│   │   ├── Modern Family S09E05-thumb.jpg
+│   │   ├── Modern Family S09E06.ChsEngA.default.ass
+│   │   ├── Modern Family S09E06.en.srt
+│   │   ├── Modern Family S09E06.mkv
+│   │   ├── Modern Family S09E06.nfo
+│   │   ├── Modern Family S09E06-thumb.jpg
+│   │   ├── Modern Family S09E07.264-NTb.en.srt
+│   │   ├── Modern Family S09E07.mkv
+│   │   ├── Modern Family S09E07.nfo
+│   │   ├── Modern Family S09E07-thumb.jpg
+│   │   ├── Modern Family S09E08.ChsEngA.default.ass
+│   │   ├── Modern Family S09E08.mkv
+│   │   ├── Modern Family S09E08.nfo
+│   │   ├── Modern Family S09E08-thumb.jpg
+│   │   ├── Modern Family S09E09.ChsEngA.default.ass
+│   │   ├── Modern Family S09E09.mkv
+│   │   ├── Modern Family S09E09.nfo
+│   │   ├── Modern Family S09E09-thumb.jpg
+│   │   ├── Modern Family S09E10.ChsEngA.default.ass
+│   │   ├── Modern Family S09E10.mkv
+│   │   ├── Modern Family S09E10.nfo
+│   │   ├── Modern Family S09E10-thumb.jpg
+│   │   ├── Modern Family S09E11.ChsEngA.default.ass
+│   │   ├── Modern Family S09E11.mkv
+│   │   ├── Modern Family S09E11.nfo
+│   │   ├── Modern Family S09E11-thumb.jpg
+│   │   ├── Modern Family S09E12.ChsEngA.default.ass
+│   │   ├── Modern Family S09E12.mkv
+│   │   ├── Modern Family S09E12.nfo
+│   │   ├── Modern Family S09E12-thumb.jpg
+│   │   ├── Modern Family S09E13.ChsEngA.default.ass
+│   │   ├── Modern Family S09E13.mkv
+│   │   ├── Modern Family S09E13.nfo
+│   │   ├── Modern Family S09E13-thumb.jpg
+│   │   ├── Modern Family S09E14.ChsEngA.default.ass
+│   │   ├── Modern Family S09E14.mkv
+│   │   ├── Modern Family S09E14.nfo
+│   │   ├── Modern Family S09E14-thumb.jpg
+│   │   ├── Modern Family S09E15.ChsEngA.default.ass
+│   │   ├── Modern Family S09E15.mkv
+│   │   ├── Modern Family S09E15.nfo
+│   │   ├── Modern Family S09E15-thumb.jpg
+│   │   ├── Modern Family S09E16.ChsEngA.default.ass
+│   │   ├── Modern Family S09E16.mkv
+│   │   ├── Modern Family S09E16.nfo
+│   │   ├── Modern Family S09E16-thumb.jpg
+│   │   ├── Modern Family S09E17.ChsEngA.default.ass
+│   │   ├── Modern Family S09E17.mkv
+│   │   ├── Modern Family S09E17.nfo
+│   │   ├── Modern Family S09E17-thumb.jpg
+│   │   ├── Modern Family S09E18.264-NTb.en.srt
+│   │   ├── Modern Family S09E18.mkv
+│   │   ├── Modern Family S09E18.nfo
+│   │   ├── Modern Family S09E18-thumb.jpg
+│   │   ├── Modern Family S09E19.ChsEngA.default.ass
+│   │   ├── Modern Family S09E19.mkv
+│   │   ├── Modern Family S09E19.nfo
+│   │   ├── Modern Family S09E19-thumb.jpg
+│   │   ├── Modern Family S09E20.ChsEngA.default.ass
+│   │   ├── Modern Family S09E20.mkv
+│   │   ├── Modern Family S09E20.nfo
+│   │   ├── Modern Family S09E20-thumb.jpg
+│   │   ├── Modern Family S09E21.ChsEngA.default.ass
+│   │   ├── Modern Family S09E21.mkv
+│   │   ├── Modern Family S09E21.nfo
+│   │   ├── Modern Family S09E21-thumb.jpg
+│   │   ├── Modern Family S09E22.ChsEngA.default.ass
+│   │   ├── Modern Family S09E22.mkv
+│   │   ├── Modern Family S09E22.nfo
+│   │   └── Modern Family S09E22-thumb.jpg
+│   ├── season.nfo
+│   └── tvshow.nfo
+├── Narcos (2015)
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── Season 1
+│   │   ├── Narcos S01E01.mkv
+│   │   ├── Narcos S01E01.nfo
+│   │   ├── Narcos S01E01-thumb.jpg
+│   │   ├── Narcos S01E02.mkv
+│   │   ├── Narcos S01E02.nfo
+│   │   ├── Narcos S01E02-thumb.jpg
+│   │   ├── Narcos S01E03.mkv
+│   │   ├── Narcos S01E03.nfo
+│   │   ├── Narcos S01E03-thumb.jpg
+│   │   ├── Narcos S01E04.mkv
+│   │   ├── Narcos S01E04.nfo
+│   │   ├── Narcos S01E04-thumb.jpg
+│   │   ├── Narcos S01E05.mkv
+│   │   ├── Narcos S01E05.nfo
+│   │   ├── Narcos S01E05-thumb.jpg
+│   │   ├── Narcos S01E06.mkv
+│   │   ├── Narcos S01E06.nfo
+│   │   ├── Narcos S01E06-thumb.jpg
+│   │   ├── Narcos S01E07.mkv
+│   │   ├── Narcos S01E07.nfo
+│   │   ├── Narcos S01E07-thumb.jpg
+│   │   ├── Narcos S01E08.mkv
+│   │   ├── Narcos S01E08.nfo
+│   │   ├── Narcos S01E08-thumb.jpg
+│   │   ├── Narcos S01E09.mkv
+│   │   ├── Narcos S01E09.nfo
+│   │   ├── Narcos S01E09-thumb.jpg
+│   │   ├── Narcos S01E10.mkv
+│   │   ├── Narcos S01E10.nfo
+│   │   ├── Narcos S01E10-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── Narcos S02E01.mkv
+│   │   ├── Narcos S02E01.nfo
+│   │   ├── Narcos S02E01-thumb.jpg
+│   │   ├── Narcos S02E02.mkv
+│   │   ├── Narcos S02E02.nfo
+│   │   ├── Narcos S02E02-thumb.jpg
+│   │   ├── Narcos S02E03.mkv
+│   │   ├── Narcos S02E03.nfo
+│   │   ├── Narcos S02E03-thumb.jpg
+│   │   ├── Narcos S02E04.mkv
+│   │   ├── Narcos S02E04.nfo
+│   │   ├── Narcos S02E04-thumb.jpg
+│   │   ├── Narcos S02E05.mkv
+│   │   ├── Narcos S02E05.nfo
+│   │   ├── Narcos S02E05-thumb.jpg
+│   │   ├── Narcos S02E06.mkv
+│   │   ├── Narcos S02E06.nfo
+│   │   ├── Narcos S02E06-thumb.jpg
+│   │   ├── Narcos S02E07.mkv
+│   │   ├── Narcos S02E07.nfo
+│   │   ├── Narcos S02E07-thumb.jpg
+│   │   ├── Narcos S02E08.mkv
+│   │   ├── Narcos S02E08.nfo
+│   │   ├── Narcos S02E08-thumb.jpg
+│   │   ├── Narcos S02E09.mkv
+│   │   ├── Narcos S02E09.nfo
+│   │   ├── Narcos S02E09-thumb.jpg
+│   │   ├── Narcos S02E10.mkv
+│   │   ├── Narcos S02E10.nfo
+│   │   ├── Narcos S02E10-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 3
+│   │   ├── Narcos S03E01.mkv
+│   │   ├── Narcos S03E01.nfo
+│   │   ├── Narcos S03E01-thumb.jpg
+│   │   ├── Narcos S03E02.mkv
+│   │   ├── Narcos S03E02.nfo
+│   │   ├── Narcos S03E02-thumb.jpg
+│   │   ├── Narcos S03E03.mkv
+│   │   ├── Narcos S03E03.nfo
+│   │   ├── Narcos S03E03-thumb.jpg
+│   │   ├── Narcos S03E04.mkv
+│   │   ├── Narcos S03E04.nfo
+│   │   ├── Narcos S03E04-thumb.jpg
+│   │   ├── Narcos S03E05.mkv
+│   │   ├── Narcos S03E05.nfo
+│   │   ├── Narcos S03E05-thumb.jpg
+│   │   ├── Narcos S03E06.mkv
+│   │   ├── Narcos S03E06.nfo
+│   │   ├── Narcos S03E06-thumb.jpg
+│   │   ├── Narcos S03E07.mkv
+│   │   ├── Narcos S03E07.nfo
+│   │   ├── Narcos S03E07-thumb.jpg
+│   │   ├── Narcos S03E08.mkv
+│   │   ├── Narcos S03E08.nfo
+│   │   ├── Narcos S03E08-thumb.jpg
+│   │   ├── Narcos S03E09.mkv
+│   │   ├── Narcos S03E09.nfo
+│   │   ├── Narcos S03E09-thumb.jpg
+│   │   ├── Narcos S03E10.mkv
+│   │   ├── Narcos S03E10.nfo
+│   │   ├── Narcos S03E10-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Narcos: Mexico (2018)
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── Season 1
+│   │   ├── Narcos: Mexico S01E01.mkv
+│   │   ├── Narcos: Mexico S01E01.nfo
+│   │   ├── Narcos: Mexico S01E01-thumb.jpg
+│   │   ├── Narcos: Mexico S01E02.mkv
+│   │   ├── Narcos: Mexico S01E02.nfo
+│   │   ├── Narcos: Mexico S01E02-thumb.jpg
+│   │   ├── Narcos: Mexico S01E03.mkv
+│   │   ├── Narcos: Mexico S01E03.nfo
+│   │   ├── Narcos: Mexico S01E03-thumb.jpg
+│   │   ├── Narcos: Mexico S01E04.mkv
+│   │   ├── Narcos: Mexico S01E04.nfo
+│   │   ├── Narcos: Mexico S01E04-thumb.jpg
+│   │   ├── Narcos: Mexico S01E05.mkv
+│   │   ├── Narcos: Mexico S01E05.nfo
+│   │   ├── Narcos: Mexico S01E05-thumb.jpg
+│   │   ├── Narcos: Mexico S01E06.mkv
+│   │   ├── Narcos: Mexico S01E06.nfo
+│   │   ├── Narcos: Mexico S01E06-thumb.jpg
+│   │   ├── Narcos: Mexico S01E07.mkv
+│   │   ├── Narcos: Mexico S01E07.nfo
+│   │   ├── Narcos: Mexico S01E07-thumb.jpg
+│   │   ├── Narcos: Mexico S01E08.mkv
+│   │   ├── Narcos: Mexico S01E08.nfo
+│   │   ├── Narcos: Mexico S01E08-thumb.jpg
+│   │   ├── Narcos: Mexico S01E09.mkv
+│   │   ├── Narcos: Mexico S01E09.nfo
+│   │   ├── Narcos: Mexico S01E09-thumb.jpg
+│   │   ├── Narcos: Mexico S01E10.mkv
+│   │   ├── Narcos: Mexico S01E10.nfo
+│   │   ├── Narcos: Mexico S01E10-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── Narcos: Mexico S02E01.mkv
+│   │   ├── Narcos: Mexico S02E01.nfo
+│   │   ├── Narcos: Mexico S02E01-thumb.jpg
+│   │   ├── Narcos: Mexico S02E02.mkv
+│   │   ├── Narcos: Mexico S02E02.nfo
+│   │   ├── Narcos: Mexico S02E02-thumb.jpg
+│   │   ├── Narcos: Mexico S02E03.mkv
+│   │   ├── Narcos: Mexico S02E03.nfo
+│   │   ├── Narcos: Mexico S02E03-thumb.jpg
+│   │   ├── Narcos: Mexico S02E04.mkv
+│   │   ├── Narcos: Mexico S02E04.nfo
+│   │   ├── Narcos: Mexico S02E04-thumb.jpg
+│   │   ├── Narcos: Mexico S02E05.mkv
+│   │   ├── Narcos: Mexico S02E05.nfo
+│   │   ├── Narcos: Mexico S02E05-thumb.jpg
+│   │   ├── Narcos: Mexico S02E06.mkv
+│   │   ├── Narcos: Mexico S02E06.nfo
+│   │   ├── Narcos: Mexico S02E06-thumb.jpg
+│   │   ├── Narcos: Mexico S02E07.mkv
+│   │   ├── Narcos: Mexico S02E07.nfo
+│   │   ├── Narcos: Mexico S02E07-thumb.jpg
+│   │   ├── Narcos: Mexico S02E08.mkv
+│   │   ├── Narcos: Mexico S02E08.nfo
+│   │   ├── Narcos: Mexico S02E08-thumb.jpg
+│   │   ├── Narcos: Mexico S02E09.mkv
+│   │   ├── Narcos: Mexico S02E09.nfo
+│   │   ├── Narcos: Mexico S02E09-thumb.jpg
+│   │   ├── Narcos: Mexico S02E10.mkv
+│   │   ├── Narcos: Mexico S02E10.nfo
+│   │   ├── Narcos: Mexico S02E10-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 3
+│   │   ├── Narcos: Mexico S03E01.mkv
+│   │   ├── Narcos: Mexico S03E01.nfo
+│   │   ├── Narcos: Mexico S03E01-thumb.jpg
+│   │   ├── Narcos: Mexico S03E02.mkv
+│   │   ├── Narcos: Mexico S03E02.nfo
+│   │   ├── Narcos: Mexico S03E02-thumb.jpg
+│   │   ├── Narcos: Mexico S03E03.mkv
+│   │   ├── Narcos: Mexico S03E03.nfo
+│   │   ├── Narcos: Mexico S03E03-thumb.jpg
+│   │   ├── Narcos: Mexico S03E04.mkv
+│   │   ├── Narcos: Mexico S03E04.nfo
+│   │   ├── Narcos: Mexico S03E04-thumb.jpg
+│   │   ├── Narcos: Mexico S03E05.mkv
+│   │   ├── Narcos: Mexico S03E05.nfo
+│   │   ├── Narcos: Mexico S03E05-thumb.jpg
+│   │   ├── Narcos: Mexico S03E06.mkv
+│   │   ├── Narcos: Mexico S03E06.nfo
+│   │   ├── Narcos: Mexico S03E06-thumb.jpg
+│   │   ├── Narcos: Mexico S03E07.mkv
+│   │   ├── Narcos: Mexico S03E07.nfo
+│   │   ├── Narcos: Mexico S03E07-thumb.jpg
+│   │   ├── Narcos: Mexico S03E08.mkv
+│   │   ├── Narcos: Mexico S03E08.nfo
+│   │   ├── Narcos: Mexico S03E08-thumb.jpg
+│   │   ├── Narcos: Mexico S03E09.mkv
+│   │   ├── Narcos: Mexico S03E09.nfo
+│   │   ├── Narcos: Mexico S03E09-thumb.jpg
+│   │   ├── Narcos: Mexico S03E10.mkv
+│   │   ├── Narcos: Mexico S03E10.nfo
+│   │   ├── Narcos: Mexico S03E10-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Orange Is the New Black (2013)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season06-poster.jpg
+│   ├── season07-poster.jpg
+│   ├── Season 1
+│   │   ├── Orange Is the New Black S01E01-320-10.bif
+│   │   ├── Orange Is the New Black S01E01.chs.default.ass
+│   │   ├── Orange Is the New Black S01E01.en.srt
+│   │   ├── Orange Is the New Black S01E01.mkv
+│   │   ├── Orange Is the New Black S01E01.nfo
+│   │   ├── Orange Is the New Black S01E01-thumb.jpg
+│   │   ├── Orange Is the New Black S01E02-320-10.bif
+│   │   ├── Orange Is the New Black S01E02.chs.default.ass
+│   │   ├── Orange Is the New Black S01E02.en.srt
+│   │   ├── Orange Is the New Black S01E02.mkv
+│   │   ├── Orange Is the New Black S01E02.nfo
+│   │   ├── Orange Is the New Black S01E02-thumb.jpg
+│   │   ├── Orange Is the New Black S01E03-320-10.bif
+│   │   ├── Orange Is the New Black S01E03.chs.default.ass
+│   │   ├── Orange Is the New Black S01E03.en.srt
+│   │   ├── Orange Is the New Black S01E03.mkv
+│   │   ├── Orange Is the New Black S01E03.nfo
+│   │   ├── Orange Is the New Black S01E03-thumb.jpg
+│   │   ├── Orange Is the New Black S01E04-320-10.bif
+│   │   ├── Orange Is the New Black S01E04.chs.default.ass
+│   │   ├── Orange Is the New Black S01E04.en.srt
+│   │   ├── Orange Is the New Black S01E04.mkv
+│   │   ├── Orange Is the New Black S01E04.nfo
+│   │   ├── Orange Is the New Black S01E04-thumb.jpg
+│   │   ├── Orange Is the New Black S01E05-320-10.bif
+│   │   ├── Orange Is the New Black S01E05.chs.default.ass
+│   │   ├── Orange Is the New Black S01E05.en.srt
+│   │   ├── Orange Is the New Black S01E05.mkv
+│   │   ├── Orange Is the New Black S01E05.nfo
+│   │   ├── Orange Is the New Black S01E05-thumb.jpg
+│   │   ├── Orange Is the New Black S01E06-320-10.bif
+│   │   ├── Orange Is the New Black S01E06.chs.default.ass
+│   │   ├── Orange Is the New Black S01E06.mkv
+│   │   ├── Orange Is the New Black S01E06.nfo
+│   │   ├── Orange Is the New Black S01E06-thumb.jpg
+│   │   ├── Orange Is the New Black S01E07-320-10.bif
+│   │   ├── Orange Is the New Black S01E07.chs.default.ass
+│   │   ├── Orange Is the New Black S01E07.mkv
+│   │   ├── Orange Is the New Black S01E07.nfo
+│   │   ├── Orange Is the New Black S01E07-thumb.jpg
+│   │   ├── Orange Is the New Black S01E08-320-10.bif
+│   │   ├── Orange Is the New Black S01E08.chs.default.ass
+│   │   ├── Orange Is the New Black S01E08.mkv
+│   │   ├── Orange Is the New Black S01E08.nfo
+│   │   ├── Orange Is the New Black S01E08-thumb.jpg
+│   │   ├── Orange Is the New Black S01E09-320-10.bif
+│   │   ├── Orange Is the New Black S01E09.chs.default.ass
+│   │   ├── Orange Is the New Black S01E09.mkv
+│   │   ├── Orange Is the New Black S01E09.nfo
+│   │   ├── Orange Is the New Black S01E09-thumb.jpg
+│   │   ├── Orange Is the New Black S01E10-320-10.bif
+│   │   ├── Orange Is the New Black S01E10.chs.default.ass
+│   │   ├── Orange Is the New Black S01E10.mkv
+│   │   ├── Orange Is the New Black S01E10.nfo
+│   │   ├── Orange Is the New Black S01E10-thumb.jpg
+│   │   ├── Orange Is the New Black S01E11-320-10.bif
+│   │   ├── Orange Is the New Black S01E11.chs.default.ass
+│   │   ├── Orange Is the New Black S01E11.en.srt
+│   │   ├── Orange Is the New Black S01E11.mkv
+│   │   ├── Orange Is the New Black S01E11.nfo
+│   │   ├── Orange Is the New Black S01E11-thumb.jpg
+│   │   ├── Orange Is the New Black S01E12-320-10.bif
+│   │   ├── Orange Is the New Black S01E12.chs.default.ass
+│   │   ├── Orange Is the New Black S01E12.mkv
+│   │   ├── Orange Is the New Black S01E12.nfo
+│   │   ├── Orange Is the New Black S01E12-thumb.jpg
+│   │   ├── Orange Is the New Black S01E13-320-10.bif
+│   │   ├── Orange Is the New Black S01E13.chs.default.ass
+│   │   ├── Orange Is the New Black S01E13.en.srt
+│   │   ├── Orange Is the New Black S01E13.mkv
+│   │   ├── Orange Is the New Black S01E13.nfo
+│   │   ├── Orange Is the New Black S01E13-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── Orange Is the New Black S02E01-320-10.bif
+│   │   ├── Orange Is the New Black S02E01.chs.default.srt
+│   │   ├── Orange Is the New Black S02E01.en.srt
+│   │   ├── Orange Is the New Black S02E01.mkv
+│   │   ├── Orange Is the New Black S02E01.nfo
+│   │   ├── Orange Is the New Black S02E01-thumb.jpg
+│   │   ├── Orange Is the New Black S02E02-320-10.bif
+│   │   ├── Orange Is the New Black S02E02.chs.default.srt
+│   │   ├── Orange Is the New Black S02E02.en.srt
+│   │   ├── Orange Is the New Black S02E02.mkv
+│   │   ├── Orange Is the New Black S02E02.nfo
+│   │   ├── Orange Is the New Black S02E02-thumb.jpg
+│   │   ├── Orange Is the New Black S02E03-320-10.bif
+│   │   ├── Orange Is the New Black S02E03.chs.default.srt
+│   │   ├── Orange Is the New Black S02E03.en.srt
+│   │   ├── Orange Is the New Black S02E03.mkv
+│   │   ├── Orange Is the New Black S02E03.nfo
+│   │   ├── Orange Is the New Black S02E03-thumb.jpg
+│   │   ├── Orange Is the New Black S02E04-320-10.bif
+│   │   ├── Orange Is the New Black S02E04.chs.default.srt
+│   │   ├── Orange Is the New Black S02E04.mkv
+│   │   ├── Orange Is the New Black S02E04.nfo
+│   │   ├── Orange Is the New Black S02E04-thumb.jpg
+│   │   ├── Orange Is the New Black S02E05-320-10.bif
+│   │   ├── Orange Is the New Black S02E05.chs.default.srt
+│   │   ├── Orange Is the New Black S02E05.mkv
+│   │   ├── Orange Is the New Black S02E05.nfo
+│   │   ├── Orange Is the New Black S02E05-thumb.jpg
+│   │   ├── Orange Is the New Black S02E06-320-10.bif
+│   │   ├── Orange Is the New Black S02E06.chs.default.srt
+│   │   ├── Orange Is the New Black S02E06.en.srt
+│   │   ├── Orange Is the New Black S02E06.mkv
+│   │   ├── Orange Is the New Black S02E06.nfo
+│   │   ├── Orange Is the New Black S02E06-thumb.jpg
+│   │   ├── Orange Is the New Black S02E07-320-10.bif
+│   │   ├── Orange Is the New Black S02E07.chs.default.srt
+│   │   ├── Orange Is the New Black S02E07.en.srt
+│   │   ├── Orange Is the New Black S02E07.mkv
+│   │   ├── Orange Is the New Black S02E07.nfo
+│   │   ├── Orange Is the New Black S02E07-thumb.jpg
+│   │   ├── Orange Is the New Black S02E08-320-10.bif
+│   │   ├── Orange Is the New Black S02E08.chs.default.srt
+│   │   ├── Orange Is the New Black S02E08.en.srt
+│   │   ├── Orange Is the New Black S02E08.mkv
+│   │   ├── Orange Is the New Black S02E08.nfo
+│   │   ├── Orange Is the New Black S02E08-thumb.jpg
+│   │   ├── Orange Is the New Black S02E09-320-10.bif
+│   │   ├── Orange Is the New Black S02E09.chs.default.srt
+│   │   ├── Orange Is the New Black S02E09.en.srt
+│   │   ├── Orange Is the New Black S02E09.mkv
+│   │   ├── Orange Is the New Black S02E09.nfo
+│   │   ├── Orange Is the New Black S02E09-thumb.jpg
+│   │   ├── Orange Is the New Black S02E10-320-10.bif
+│   │   ├── Orange Is the New Black S02E10.chs.default.srt
+│   │   ├── Orange Is the New Black S02E10.mkv
+│   │   ├── Orange Is the New Black S02E10.nfo
+│   │   ├── Orange Is the New Black S02E10-thumb.jpg
+│   │   ├── Orange Is the New Black S02E11-320-10.bif
+│   │   ├── Orange Is the New Black S02E11.chs.default.srt
+│   │   ├── Orange Is the New Black S02E11.en.srt
+│   │   ├── Orange Is the New Black S02E11.mkv
+│   │   ├── Orange Is the New Black S02E11.nfo
+│   │   ├── Orange Is the New Black S02E11-thumb.jpg
+│   │   ├── Orange Is the New Black S02E12-320-10.bif
+│   │   ├── Orange Is the New Black S02E12.chs.default.srt
+│   │   ├── Orange Is the New Black S02E12.en.srt
+│   │   ├── Orange Is the New Black S02E12.mkv
+│   │   ├── Orange Is the New Black S02E12.nfo
+│   │   ├── Orange Is the New Black S02E12-thumb.jpg
+│   │   ├── Orange Is the New Black S02E13-320-10.bif
+│   │   ├── Orange Is the New Black S02E13.chs.default.srt
+│   │   ├── Orange Is the New Black S02E13.en.srt
+│   │   ├── Orange Is the New Black S02E13.mkv
+│   │   ├── Orange Is the New Black S02E13.nfo
+│   │   ├── Orange Is the New Black S02E13-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 3
+│   │   ├── Orange Is the New Black S03E01-320-10.bif
+│   │   ├── Orange Is the New Black S03E01.chs.default.ass
+│   │   ├── Orange Is the New Black S03E01.en.srt
+│   │   ├── Orange Is the New Black S03E01.mkv
+│   │   ├── Orange Is the New Black S03E01.nfo
+│   │   ├── Orange Is the New Black S03E01-thumb.jpg
+│   │   ├── Orange Is the New Black S03E02-320-10.bif
+│   │   ├── Orange Is the New Black S03E02.chs.default.ass
+│   │   ├── Orange Is the New Black S03E02.en.srt
+│   │   ├── Orange Is the New Black S03E02.mkv
+│   │   ├── Orange Is the New Black S03E02.nfo
+│   │   ├── Orange Is the New Black S03E02-thumb.jpg
+│   │   ├── Orange Is the New Black S03E03-320-10.bif
+│   │   ├── Orange Is the New Black S03E03.chs.default.ass
+│   │   ├── Orange Is the New Black S03E03.en.srt
+│   │   ├── Orange Is the New Black S03E03.mkv
+│   │   ├── Orange Is the New Black S03E03.nfo
+│   │   ├── Orange Is the New Black S03E03-thumb.jpg
+│   │   ├── Orange Is the New Black S03E04-320-10.bif
+│   │   ├── Orange Is the New Black S03E04.chs.default.ass
+│   │   ├── Orange Is the New Black S03E04.en.srt
+│   │   ├── Orange Is the New Black S03E04.mkv
+│   │   ├── Orange Is the New Black S03E04.nfo
+│   │   ├── Orange Is the New Black S03E04-thumb.jpg
+│   │   ├── Orange Is the New Black S03E05-320-10.bif
+│   │   ├── Orange Is the New Black S03E05.chs.default.ass
+│   │   ├── Orange Is the New Black S03E05.en.srt
+│   │   ├── Orange Is the New Black S03E05.mkv
+│   │   ├── Orange Is the New Black S03E05.nfo
+│   │   ├── Orange Is the New Black S03E05-thumb.jpg
+│   │   ├── Orange Is the New Black S03E06-320-10.bif
+│   │   ├── Orange Is the New Black S03E06.chs.default.ass
+│   │   ├── Orange Is the New Black S03E06.en.srt
+│   │   ├── Orange Is the New Black S03E06.mkv
+│   │   ├── Orange Is the New Black S03E06.nfo
+│   │   ├── Orange Is the New Black S03E06-thumb.jpg
+│   │   ├── Orange Is the New Black S03E07-320-10.bif
+│   │   ├── Orange Is the New Black S03E07.chs.default.ass
+│   │   ├── Orange Is the New Black S03E07.en.srt
+│   │   ├── Orange Is the New Black S03E07.mkv
+│   │   ├── Orange Is the New Black S03E07.nfo
+│   │   ├── Orange Is the New Black S03E07-thumb.jpg
+│   │   ├── Orange Is the New Black S03E08-320-10.bif
+│   │   ├── Orange Is the New Black S03E08.chs.default.ass
+│   │   ├── Orange Is the New Black S03E08.mkv
+│   │   ├── Orange Is the New Black S03E08.nfo
+│   │   ├── Orange Is the New Black S03E08-thumb.jpg
+│   │   ├── Orange Is the New Black S03E09-320-10.bif
+│   │   ├── Orange Is the New Black S03E09.chs.default.ass
+│   │   ├── Orange Is the New Black S03E09.en.srt
+│   │   ├── Orange Is the New Black S03E09.mkv
+│   │   ├── Orange Is the New Black S03E09.nfo
+│   │   ├── Orange Is the New Black S03E09-thumb.jpg
+│   │   ├── Orange Is the New Black S03E10-320-10.bif
+│   │   ├── Orange Is the New Black S03E10.chs.default.ass
+│   │   ├── Orange Is the New Black S03E10.en.srt
+│   │   ├── Orange Is the New Black S03E10.mkv
+│   │   ├── Orange Is the New Black S03E10.nfo
+│   │   ├── Orange Is the New Black S03E10-thumb.jpg
+│   │   ├── Orange Is the New Black S03E11-320-10.bif
+│   │   ├── Orange Is the New Black S03E11.chs.default.ass
+│   │   ├── Orange Is the New Black S03E11.mkv
+│   │   ├── Orange Is the New Black S03E11.nfo
+│   │   ├── Orange Is the New Black S03E11-thumb.jpg
+│   │   ├── Orange Is the New Black S03E12-320-10.bif
+│   │   ├── Orange Is the New Black S03E12.chs.default.ass
+│   │   ├── Orange Is the New Black S03E12.en.srt
+│   │   ├── Orange Is the New Black S03E12.mkv
+│   │   ├── Orange Is the New Black S03E12.nfo
+│   │   ├── Orange Is the New Black S03E12-thumb.jpg
+│   │   ├── Orange Is the New Black S03E13-320-10.bif
+│   │   ├── Orange Is the New Black S03E13.chs.default.ass
+│   │   ├── Orange Is the New Black S03E13.mkv
+│   │   ├── Orange Is the New Black S03E13.nfo
+│   │   ├── Orange Is the New Black S03E13-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 6
+│   │   ├── Orange Is the New Black S06E01-320-10.bif
+│   │   ├── Orange Is the New Black S06E01.mkv
+│   │   ├── Orange Is the New Black S06E01.nfo
+│   │   ├── Orange Is the New Black S06E01-thumb.jpg
+│   │   ├── Orange Is the New Black S06E03-320-10.bif
+│   │   ├── Orange Is the New Black S06E03.mkv
+│   │   ├── Orange Is the New Black S06E03.nfo
+│   │   ├── Orange Is the New Black S06E03-thumb.jpg
+│   │   ├── Orange Is the New Black S06E04-320-10.bif
+│   │   ├── Orange Is the New Black S06E04.mkv
+│   │   ├── Orange Is the New Black S06E04.nfo
+│   │   ├── Orange Is the New Black S06E04-thumb.jpg
+│   │   ├── Orange Is the New Black S06E05-320-10.bif
+│   │   ├── Orange Is the New Black S06E05.mkv
+│   │   ├── Orange Is the New Black S06E05.nfo
+│   │   ├── Orange Is the New Black S06E05-thumb.jpg
+│   │   ├── Orange Is the New Black S06E06-320-10.bif
+│   │   ├── Orange Is the New Black S06E06.mkv
+│   │   ├── Orange Is the New Black S06E06.nfo
+│   │   ├── Orange Is the New Black S06E06-thumb.jpg
+│   │   ├── Orange Is the New Black S06E07-320-10.bif
+│   │   ├── Orange Is the New Black S06E07.mkv
+│   │   ├── Orange Is the New Black S06E07.nfo
+│   │   ├── Orange Is the New Black S06E07-thumb.jpg
+│   │   ├── Orange Is the New Black S06E08-320-10.bif
+│   │   ├── Orange Is the New Black S06E08.mkv
+│   │   ├── Orange Is the New Black S06E08.nfo
+│   │   ├── Orange Is the New Black S06E08-thumb.jpg
+│   │   ├── Orange Is the New Black S06E09-320-10.bif
+│   │   ├── Orange Is the New Black S06E09.mkv
+│   │   ├── Orange Is the New Black S06E09.nfo
+│   │   ├── Orange Is the New Black S06E09-thumb.jpg
+│   │   ├── Orange Is the New Black S06E10-320-10.bif
+│   │   ├── Orange Is the New Black S06E10.mkv
+│   │   ├── Orange Is the New Black S06E10.nfo
+│   │   ├── Orange Is the New Black S06E10-thumb.jpg
+│   │   ├── Orange Is the New Black S06E11-320-10.bif
+│   │   ├── Orange Is the New Black S06E11.mkv
+│   │   ├── Orange Is the New Black S06E11.nfo
+│   │   ├── Orange Is the New Black S06E11-thumb.jpg
+│   │   ├── Orange Is the New Black S06E12-320-10.bif
+│   │   ├── Orange Is the New Black S06E12.mkv
+│   │   ├── Orange Is the New Black S06E12.nfo
+│   │   ├── Orange Is the New Black S06E12-thumb.jpg
+│   │   ├── Orange Is the New Black S06E13-320-10.bif
+│   │   ├── Orange Is the New Black S06E13.mkv
+│   │   ├── Orange Is the New Black S06E13.nfo
+│   │   ├── Orange Is the New Black S06E13-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 7
+│   │   ├── Orange Is the New Black S07E01-320-10.bif
+│   │   ├── Orange Is the New Black S07E01.mkv
+│   │   ├── Orange Is the New Black S07E01.nfo
+│   │   ├── Orange Is the New Black S07E01-thumb.jpg
+│   │   ├── Orange Is the New Black S07E02-320-10.bif
+│   │   ├── Orange Is the New Black S07E02.mkv
+│   │   ├── Orange Is the New Black S07E02.nfo
+│   │   ├── Orange Is the New Black S07E02-thumb.jpg
+│   │   ├── Orange Is the New Black S07E03-320-10.bif
+│   │   ├── Orange Is the New Black S07E03.mkv
+│   │   ├── Orange Is the New Black S07E03.nfo
+│   │   ├── Orange Is the New Black S07E03-thumb.jpg
+│   │   ├── Orange Is the New Black S07E04-320-10.bif
+│   │   ├── Orange Is the New Black S07E04.mkv
+│   │   ├── Orange Is the New Black S07E04.nfo
+│   │   ├── Orange Is the New Black S07E04-thumb.jpg
+│   │   ├── Orange Is the New Black S07E05-320-10.bif
+│   │   ├── Orange Is the New Black S07E05.mkv
+│   │   ├── Orange Is the New Black S07E05.nfo
+│   │   ├── Orange Is the New Black S07E05-thumb.jpg
+│   │   ├── Orange Is the New Black S07E06-320-10.bif
+│   │   ├── Orange Is the New Black S07E06.mkv
+│   │   ├── Orange Is the New Black S07E06.nfo
+│   │   ├── Orange Is the New Black S07E06-thumb.jpg
+│   │   ├── Orange Is the New Black S07E07-320-10.bif
+│   │   ├── Orange Is the New Black S07E07.mkv
+│   │   ├── Orange Is the New Black S07E07.nfo
+│   │   ├── Orange Is the New Black S07E07-thumb.jpg
+│   │   ├── Orange Is the New Black S07E08-320-10.bif
+│   │   ├── Orange Is the New Black S07E08.mkv
+│   │   ├── Orange Is the New Black S07E08.nfo
+│   │   ├── Orange Is the New Black S07E08-thumb.jpg
+│   │   ├── Orange Is the New Black S07E09-320-10.bif
+│   │   ├── Orange Is the New Black S07E09.mkv
+│   │   ├── Orange Is the New Black S07E09.nfo
+│   │   ├── Orange Is the New Black S07E09-thumb.jpg
+│   │   ├── Orange Is the New Black S07E10-320-10.bif
+│   │   ├── Orange Is the New Black S07E10.mkv
+│   │   ├── Orange Is the New Black S07E10.nfo
+│   │   ├── Orange Is the New Black S07E10-thumb.jpg
+│   │   ├── Orange Is the New Black S07E11-320-10.bif
+│   │   ├── Orange Is the New Black S07E11.mkv
+│   │   ├── Orange Is the New Black S07E11.nfo
+│   │   ├── Orange Is the New Black S07E11-thumb.jpg
+│   │   ├── Orange Is the New Black S07E12-320-10.bif
+│   │   ├── Orange Is the New Black S07E12.mkv
+│   │   ├── Orange Is the New Black S07E12.nfo
+│   │   ├── Orange Is the New Black S07E12-thumb.jpg
+│   │   ├── Orange Is the New Black S07E13-320-10.bif
+│   │   ├── Orange Is the New Black S07E13.mkv
+│   │   ├── Orange Is the New Black S07E13.nfo
+│   │   ├── Orange Is the New Black S07E13-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Peaky Blinders (2013)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season04-poster.jpg
+│   ├── season05-poster.jpg
+│   ├── Season 1
+│   │   ├── Peaky Blinders S01E01-320-10.bif
+│   │   ├── Peaky Blinders S01E01.ass
+│   │   ├── Peaky Blinders S01E01.en.srt
+│   │   ├── Peaky Blinders S01E01.mkv
+│   │   ├── Peaky Blinders S01E01.nfo
+│   │   ├── Peaky Blinders S01E01-thumb.jpg
+│   │   ├── Peaky Blinders S01E01.zh-cn.srt
+│   │   ├── Peaky Blinders S01E02-320-10.bif
+│   │   ├── Peaky Blinders S01E02.ass
+│   │   ├── Peaky Blinders S01E02.en.srt
+│   │   ├── Peaky Blinders S01E02.mkv
+│   │   ├── Peaky Blinders S01E02.nfo
+│   │   ├── Peaky Blinders S01E02-thumb.jpg
+│   │   ├── Peaky Blinders S01E02.zh-cn.srt
+│   │   ├── Peaky Blinders S01E03-320-10.bif
+│   │   ├── Peaky Blinders S01E03.ass
+│   │   ├── Peaky Blinders S01E03.en.srt
+│   │   ├── Peaky Blinders S01E03.mkv
+│   │   ├── Peaky Blinders S01E03.nfo
+│   │   ├── Peaky Blinders S01E03-thumb.jpg
+│   │   ├── Peaky Blinders S01E04-320-10.bif
+│   │   ├── Peaky Blinders S01E04.ass
+│   │   ├── Peaky Blinders S01E04.en.srt
+│   │   ├── Peaky Blinders S01E04.mkv
+│   │   ├── Peaky Blinders S01E04.nfo
+│   │   ├── Peaky Blinders S01E04-thumb.jpg
+│   │   ├── Peaky Blinders S01E05-320-10.bif
+│   │   ├── Peaky Blinders S01E05.ass
+│   │   ├── Peaky Blinders S01E05.en.srt
+│   │   ├── Peaky Blinders S01E05.mkv
+│   │   ├── Peaky Blinders S01E05.nfo
+│   │   ├── Peaky Blinders S01E05-thumb.jpg
+│   │   ├── Peaky Blinders S01E06-320-10.bif
+│   │   ├── Peaky Blinders S01E06.ass
+│   │   ├── Peaky Blinders S01E06.en.srt
+│   │   ├── Peaky Blinders S01E06.mkv
+│   │   ├── Peaky Blinders S01E06.nfo
+│   │   ├── Peaky Blinders S01E06-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── Peaky Blinders S02E01-320-10.bif
+│   │   ├── Peaky Blinders S02E01.ass
+│   │   ├── Peaky Blinders S02E01.en.srt
+│   │   ├── Peaky Blinders S02E01.mkv
+│   │   ├── Peaky Blinders S02E01.nfo
+│   │   ├── Peaky Blinders S02E01-thumb.jpg
+│   │   ├── Peaky Blinders S02E02-320-10.bif
+│   │   ├── Peaky Blinders S02E02.ass
+│   │   ├── Peaky Blinders S02E02.en.srt
+│   │   ├── Peaky Blinders S02E02.mkv
+│   │   ├── Peaky Blinders S02E02.nfo
+│   │   ├── Peaky Blinders S02E02-thumb.jpg
+│   │   ├── Peaky Blinders S02E03-320-10.bif
+│   │   ├── Peaky Blinders S02E03.ass
+│   │   ├── Peaky Blinders S02E03.en.srt
+│   │   ├── Peaky Blinders S02E03.mkv
+│   │   ├── Peaky Blinders S02E03.nfo
+│   │   ├── Peaky Blinders S02E03-thumb.jpg
+│   │   ├── Peaky Blinders S02E04-320-10.bif
+│   │   ├── Peaky Blinders S02E04.ass
+│   │   ├── Peaky Blinders S02E04.en.srt
+│   │   ├── Peaky Blinders S02E04.mkv
+│   │   ├── Peaky Blinders S02E04.nfo
+│   │   ├── Peaky Blinders S02E04-thumb.jpg
+│   │   ├── Peaky Blinders S02E05-320-10.bif
+│   │   ├── Peaky Blinders S02E05.ass
+│   │   ├── Peaky Blinders S02E05.en.srt
+│   │   ├── Peaky Blinders S02E05.mkv
+│   │   ├── Peaky Blinders S02E05.nfo
+│   │   ├── Peaky Blinders S02E05-thumb.jpg
+│   │   ├── Peaky Blinders S02E06-320-10.bif
+│   │   ├── Peaky Blinders S02E06.ass
+│   │   ├── Peaky Blinders S02E06.en.srt
+│   │   ├── Peaky Blinders S02E06.mkv
+│   │   ├── Peaky Blinders S02E06.nfo
+│   │   ├── Peaky Blinders S02E06-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 3
+│   │   ├── Peaky Blinders S03E01-320-10.bif
+│   │   ├── Peaky Blinders S03E01.ass
+│   │   ├── Peaky Blinders S03E01.en.srt
+│   │   ├── Peaky Blinders S03E01.mkv
+│   │   ├── Peaky Blinders S03E01.nfo
+│   │   ├── Peaky Blinders S03E01-thumb.jpg
+│   │   ├── Peaky Blinders S03E01.zh-cn.srt
+│   │   ├── Peaky Blinders S03E02-320-10.bif
+│   │   ├── Peaky Blinders S03E02.ass
+│   │   ├── Peaky Blinders S03E02.en.srt
+│   │   ├── Peaky Blinders S03E02.mkv
+│   │   ├── Peaky Blinders S03E02.nfo
+│   │   ├── Peaky Blinders S03E02-thumb.jpg
+│   │   ├── Peaky Blinders S03E03-320-10.bif
+│   │   ├── Peaky Blinders S03E03.ass
+│   │   ├── Peaky Blinders S03E03.en.srt
+│   │   ├── Peaky Blinders S03E03.mkv
+│   │   ├── Peaky Blinders S03E03.nfo
+│   │   ├── Peaky Blinders S03E03-thumb.jpg
+│   │   ├── Peaky Blinders S03E04-320-10.bif
+│   │   ├── Peaky Blinders S03E04.ass
+│   │   ├── Peaky Blinders S03E04.en.srt
+│   │   ├── Peaky Blinders S03E04.mkv
+│   │   ├── Peaky Blinders S03E04.nfo
+│   │   ├── Peaky Blinders S03E04-thumb.jpg
+│   │   ├── Peaky Blinders S03E05-320-10.bif
+│   │   ├── Peaky Blinders S03E05.ass
+│   │   ├── Peaky Blinders S03E05.en.srt
+│   │   ├── Peaky Blinders S03E05.mkv
+│   │   ├── Peaky Blinders S03E05.nfo
+│   │   ├── Peaky Blinders S03E05-thumb.jpg
+│   │   ├── Peaky Blinders S03E06-320-10.bif
+│   │   ├── Peaky Blinders S03E06.ass
+│   │   ├── Peaky Blinders S03E06.en.srt
+│   │   ├── Peaky Blinders S03E06.mkv
+│   │   ├── Peaky Blinders S03E06.nfo
+│   │   ├── Peaky Blinders S03E06-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 4
+│   │   ├── Peaky Blinders S04E01-320-10.bif
+│   │   ├── Peaky Blinders S04E01.ass
+│   │   ├── Peaky Blinders S04E01.en.srt
+│   │   ├── Peaky Blinders S04E01.mkv
+│   │   ├── Peaky Blinders S04E01.nfo
+│   │   ├── Peaky Blinders S04E01-thumb.jpg
+│   │   ├── Peaky Blinders S04E02-320-10.bif
+│   │   ├── Peaky Blinders S04E02.ass
+│   │   ├── Peaky Blinders S04E02.en.srt
+│   │   ├── Peaky Blinders S04E02.mkv
+│   │   ├── Peaky Blinders S04E02.nfo
+│   │   ├── Peaky Blinders S04E02-thumb.jpg
+│   │   ├── Peaky Blinders S04E03-320-10.bif
+│   │   ├── Peaky Blinders S04E03.ass
+│   │   ├── Peaky Blinders S04E03.en.srt
+│   │   ├── Peaky Blinders S04E03.mkv
+│   │   ├── Peaky Blinders S04E03.nfo
+│   │   ├── Peaky Blinders S04E03-thumb.jpg
+│   │   ├── Peaky Blinders S04E04-320-10.bif
+│   │   ├── Peaky Blinders S04E04.ass
+│   │   ├── Peaky Blinders S04E04.en.srt
+│   │   ├── Peaky Blinders S04E04.mkv
+│   │   ├── Peaky Blinders S04E04.nfo
+│   │   ├── Peaky Blinders S04E04-thumb.jpg
+│   │   ├── Peaky Blinders S04E05-320-10.bif
+│   │   ├── Peaky Blinders S04E05.ass
+│   │   ├── Peaky Blinders S04E05.en.srt
+│   │   ├── Peaky Blinders S04E05.mkv
+│   │   ├── Peaky Blinders S04E05.nfo
+│   │   ├── Peaky Blinders S04E05-thumb.jpg
+│   │   ├── Peaky Blinders S04E06-320-10.bif
+│   │   ├── Peaky Blinders S04E06.ass
+│   │   ├── Peaky Blinders S04E06.en.srt
+│   │   ├── Peaky Blinders S04E06.mkv
+│   │   ├── Peaky Blinders S04E06.nfo
+│   │   ├── Peaky Blinders S04E06-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Psychoville (2009)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── Season 0
+│   │   ├── Psychoville S00E01.mkv
+│   │   ├── Psychoville S00E01.nfo
+│   │   ├── Psychoville S00E01-thumb.jpg
+│   │   ├── season.nfo
+│   │   └── season-specials-poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── Season 1
+│   │   ├── Psychoville S01E01.mkv
+│   │   ├── Psychoville S01E01.nfo
+│   │   ├── Psychoville S01E01-thumb.jpg
+│   │   ├── Psychoville S01E02.mkv
+│   │   ├── Psychoville S01E02.nfo
+│   │   ├── Psychoville S01E02-thumb.jpg
+│   │   ├── Psychoville S01E03.mkv
+│   │   ├── Psychoville S01E03.nfo
+│   │   ├── Psychoville S01E03-thumb.jpg
+│   │   ├── Psychoville S01E04.mkv
+│   │   ├── Psychoville S01E04.nfo
+│   │   ├── Psychoville S01E04-thumb.jpg
+│   │   ├── Psychoville S01E05.mkv
+│   │   ├── Psychoville S01E05.nfo
+│   │   ├── Psychoville S01E05-thumb.jpg
+│   │   ├── Psychoville S01E06.mkv
+│   │   ├── Psychoville S01E06.nfo
+│   │   ├── Psychoville S01E06-thumb.jpg
+│   │   ├── Psychoville S01E07.mkv
+│   │   ├── Psychoville S01E07.nfo
+│   │   ├── Psychoville S01E07-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── Psychoville S02E01.mkv
+│   │   ├── Psychoville S02E01.nfo
+│   │   ├── Psychoville S02E01-thumb.jpg
+│   │   ├── Psychoville S02E02.mkv
+│   │   ├── Psychoville S02E02.nfo
+│   │   ├── Psychoville S02E02-thumb.jpg
+│   │   ├── Psychoville S02E03.mkv
+│   │   ├── Psychoville S02E03.nfo
+│   │   ├── Psychoville S02E03-thumb.jpg
+│   │   ├── Psychoville S02E04.mkv
+│   │   ├── Psychoville S02E04.nfo
+│   │   ├── Psychoville S02E04-thumb.jpg
+│   │   ├── Psychoville S02E05.mkv
+│   │   ├── Psychoville S02E05.nfo
+│   │   ├── Psychoville S02E05-thumb.jpg
+│   │   ├── Psychoville S02E06.mkv
+│   │   ├── Psychoville S02E06.nfo
+│   │   ├── Psychoville S02E06-thumb.jpg
+│   │   └── season.nfo
+│   ├── season-specials-poster.jpg
+│   └── tvshow.nfo
+├── ¿Quién mató a Sara? (2021)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── ¿Quién mató a Sara? S01E01.mkv
+│   │   ├── ¿Quién mató a Sara? S01E01.nfo
+│   │   ├── ¿Quién mató a Sara? S01E01-thumb.jpg
+│   │   ├── ¿Quién mató a Sara? S01E02.mkv
+│   │   ├── ¿Quién mató a Sara? S01E02.nfo
+│   │   ├── ¿Quién mató a Sara? S01E02-thumb.jpg
+│   │   ├── ¿Quién mató a Sara? S01E03.mkv
+│   │   ├── ¿Quién mató a Sara? S01E03.nfo
+│   │   ├── ¿Quién mató a Sara? S01E03-thumb.jpg
+│   │   ├── ¿Quién mató a Sara? S01E04.mkv
+│   │   ├── ¿Quién mató a Sara? S01E04.nfo
+│   │   ├── ¿Quién mató a Sara? S01E04-thumb.jpg
+│   │   ├── ¿Quién mató a Sara? S01E05.mkv
+│   │   ├── ¿Quién mató a Sara? S01E05.nfo
+│   │   ├── ¿Quién mató a Sara? S01E05-thumb.jpg
+│   │   ├── ¿Quién mató a Sara? S01E06.mkv
+│   │   ├── ¿Quién mató a Sara? S01E06.nfo
+│   │   ├── ¿Quién mató a Sara? S01E06-thumb.jpg
+│   │   ├── ¿Quién mató a Sara? S01E07.mkv
+│   │   ├── ¿Quién mató a Sara? S01E07.nfo
+│   │   ├── ¿Quién mató a Sara? S01E07-thumb.jpg
+│   │   ├── ¿Quién mató a Sara? S01E08.mkv
+│   │   ├── ¿Quién mató a Sara? S01E08.nfo
+│   │   ├── ¿Quién mató a Sara? S01E08-thumb.jpg
+│   │   ├── ¿Quién mató a Sara? S01E09.mkv
+│   │   ├── ¿Quién mató a Sara? S01E09.nfo
+│   │   ├── ¿Quién mató a Sara? S01E09-thumb.jpg
+│   │   ├── ¿Quién mató a Sara? S01E10.mkv
+│   │   ├── ¿Quién mató a Sara? S01E10.nfo
+│   │   └── ¿Quién mató a Sara? S01E10-thumb.jpg
+│   └── tvshow.nfo
+├── Rick and Morty (2006)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season04-poster.jpg
+│   ├── season05-poster.jpg
+│   ├── Season 1
+│   │   ├── Rick and Morty S01E01.mkv
+│   │   ├── Rick and Morty S01E01.nfo
+│   │   ├── Rick and Morty S01E01-thumb.jpg
+│   │   ├── Rick and Morty S01E02.mkv
+│   │   ├── Rick and Morty S01E02.nfo
+│   │   ├── Rick and Morty S01E02-thumb.jpg
+│   │   ├── Rick and Morty S01E03.mkv
+│   │   ├── Rick and Morty S01E03.nfo
+│   │   ├── Rick and Morty S01E03-thumb.jpg
+│   │   ├── Rick and Morty S01E04.mkv
+│   │   ├── Rick and Morty S01E04.nfo
+│   │   ├── Rick and Morty S01E04-thumb.jpg
+│   │   ├── Rick and Morty S01E05.mkv
+│   │   ├── Rick and Morty S01E05.nfo
+│   │   ├── Rick and Morty S01E05-thumb.jpg
+│   │   ├── Rick and Morty S01E06.mkv
+│   │   ├── Rick and Morty S01E06.nfo
+│   │   ├── Rick and Morty S01E06-thumb.jpg
+│   │   ├── Rick and Morty S01E07.mkv
+│   │   ├── Rick and Morty S01E07.nfo
+│   │   ├── Rick and Morty S01E07-thumb.jpg
+│   │   ├── Rick and Morty S01E08.mkv
+│   │   ├── Rick and Morty S01E08.nfo
+│   │   ├── Rick and Morty S01E08-thumb.jpg
+│   │   ├── Rick and Morty S01E09.mkv
+│   │   ├── Rick and Morty S01E09.nfo
+│   │   ├── Rick and Morty S01E09-thumb.jpg
+│   │   ├── Rick and Morty S01E10.mkv
+│   │   ├── Rick and Morty S01E10.nfo
+│   │   ├── Rick and Morty S01E10-thumb.jpg
+│   │   ├── Rick and Morty S01E11.mkv
+│   │   ├── Rick and Morty S01E11.nfo
+│   │   ├── Rick and Morty S01E11-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 2
+│   │   ├── Rick and Morty S02E01.mkv
+│   │   ├── Rick and Morty S02E01.nfo
+│   │   ├── Rick and Morty S02E01-thumb.jpg
+│   │   ├── Rick and Morty S02E02.mkv
+│   │   ├── Rick and Morty S02E02.nfo
+│   │   ├── Rick and Morty S02E02-thumb.jpg
+│   │   ├── Rick and Morty S02E03.mkv
+│   │   ├── Rick and Morty S02E03.nfo
+│   │   ├── Rick and Morty S02E03-thumb.jpg
+│   │   ├── Rick and Morty S02E04.mkv
+│   │   ├── Rick and Morty S02E04.nfo
+│   │   ├── Rick and Morty S02E04-thumb.jpg
+│   │   ├── Rick and Morty S02E05.jpg
+│   │   ├── Rick and Morty S02E05.mkv
+│   │   ├── Rick and Morty S02E05.nfo
+│   │   ├── Rick and Morty S02E06.mkv
+│   │   ├── Rick and Morty S02E06.nfo
+│   │   ├── Rick and Morty S02E06-thumb.jpg
+│   │   ├── Rick and Morty S02E07.mkv
+│   │   ├── Rick and Morty S02E07.nfo
+│   │   ├── Rick and Morty S02E07-thumb.jpg
+│   │   ├── Rick and Morty S02E08.mkv
+│   │   ├── Rick and Morty S02E08.nfo
+│   │   ├── Rick and Morty S02E08-thumb.jpg
+│   │   ├── Rick and Morty S02E09.mkv
+│   │   ├── Rick and Morty S02E09.nfo
+│   │   ├── Rick and Morty S02E09-thumb.jpg
+│   │   ├── Rick and Morty S02E10.mkv
+│   │   ├── Rick and Morty S02E10.nfo
+│   │   ├── Rick and Morty S02E10-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 3
+│   │   ├── Rick and Morty S03E01.mkv
+│   │   ├── Rick and Morty S03E01.nfo
+│   │   ├── Rick and Morty S03E01-thumb.jpg
+│   │   ├── Rick and Morty S03E02.mkv
+│   │   ├── Rick and Morty S03E02.nfo
+│   │   ├── Rick and Morty S03E02-thumb.jpg
+│   │   ├── Rick and Morty S03E03.mkv
+│   │   ├── Rick and Morty S03E03.nfo
+│   │   ├── Rick and Morty S03E03-thumb.jpg
+│   │   ├── Rick and Morty S03E04.mkv
+│   │   ├── Rick and Morty S03E04.nfo
+│   │   ├── Rick and Morty S03E04-thumb.jpg
+│   │   ├── Rick and Morty S03E05.mkv
+│   │   ├── Rick and Morty S03E05.nfo
+│   │   ├── Rick and Morty S03E05-thumb.jpg
+│   │   ├── Rick and Morty S03E06.mkv
+│   │   ├── Rick and Morty S03E06.nfo
+│   │   ├── Rick and Morty S03E06-thumb.jpg
+│   │   ├── Rick and Morty S03E07.mkv
+│   │   ├── Rick and Morty S03E07.nfo
+│   │   ├── Rick and Morty S03E07-thumb.jpg
+│   │   ├── Rick and Morty S03E08.mkv
+│   │   ├── Rick and Morty S03E08.nfo
+│   │   ├── Rick and Morty S03E08-thumb.jpg
+│   │   ├── Rick and Morty S03E09.mkv
+│   │   ├── Rick and Morty S03E09.nfo
+│   │   ├── Rick and Morty S03E09-thumb.jpg
+│   │   ├── Rick and Morty S03E10.mkv
+│   │   ├── Rick and Morty S03E10.nfo
+│   │   ├── Rick and Morty S03E10-thumb.jpg
+│   │   └── season.nfo
+│   ├── Season 4
+│   │   ├── Rick and Morty S04E01.mkv
+│   │   ├── Rick and Morty S04E01.nfo
+│   │   ├── Rick and Morty S04E01-thumb.jpg
+│   │   ├── Rick and Morty S04E02.mkv
+│   │   ├── Rick and Morty S04E02.nfo
+│   │   ├── Rick and Morty S04E02-thumb.jpg
+│   │   ├── Rick and Morty S04E03.mkv
+│   │   ├── Rick and Morty S04E03.nfo
+│   │   ├── Rick and Morty S04E03-thumb.jpg
+│   │   ├── Rick and Morty S04E04.mkv
+│   │   ├── Rick and Morty S04E04.nfo
+│   │   ├── Rick and Morty S04E04-thumb.jpg
+│   │   ├── Rick and Morty S04E05.mkv
+│   │   ├── Rick and Morty S04E05.nfo
+│   │   ├── Rick and Morty S04E05-thumb.jpg
+│   │   ├── Rick and Morty S04E06.mkv
+│   │   ├── Rick and Morty S04E06.nfo
+│   │   ├── Rick and Morty S04E06-thumb.jpg
+│   │   ├── Rick and Morty S04E07.mkv
+│   │   ├── Rick and Morty S04E07.nfo
+│   │   ├── Rick and Morty S04E07-thumb.jpg
+│   │   ├── Rick and Morty S04E08.mkv
+│   │   ├── Rick and Morty S04E08.nfo
+│   │   ├── Rick and Morty S04E08-thumb.jpg
+│   │   ├── Rick and Morty S04E09.mkv
+│   │   ├── Rick and Morty S04E09.nfo
+│   │   ├── Rick and Morty S04E09-thumb.jpg
+│   │   ├── Rick and Morty S04E10.mkv
+│   │   ├── Rick and Morty S04E10.nfo
+│   │   ├── Rick and Morty S04E10-thumb.jpg
+│   │   └── season.nfo
+│   └── tvshow.nfo
+├── Sex Education (2019)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── Season 1
+│   │   ├── season.nfo
+│   │   ├── Sex Education S01E01-320-10.bif
+│   │   ├── Sex Education S01E01.mkv
+│   │   ├── Sex Education S01E01.nfo
+│   │   ├── Sex Education S01E01-thumb.jpg
+│   │   ├── Sex Education S01E02-320-10.bif
+│   │   ├── Sex Education S01E02.mkv
+│   │   ├── Sex Education S01E02.nfo
+│   │   ├── Sex Education S01E02-thumb.jpg
+│   │   ├── Sex Education S01E03-320-10.bif
+│   │   ├── Sex Education S01E03.mkv
+│   │   ├── Sex Education S01E03.nfo
+│   │   ├── Sex Education S01E03-thumb.jpg
+│   │   ├── Sex Education S01E04-320-10.bif
+│   │   ├── Sex Education S01E04.mkv
+│   │   ├── Sex Education S01E04.nfo
+│   │   ├── Sex Education S01E04-thumb.jpg
+│   │   ├── Sex Education S01E05-320-10.bif
+│   │   ├── Sex Education S01E05.mkv
+│   │   ├── Sex Education S01E05.nfo
+│   │   ├── Sex Education S01E05-thumb.jpg
+│   │   ├── Sex Education S01E06-320-10.bif
+│   │   ├── Sex Education S01E06.mkv
+│   │   ├── Sex Education S01E06.nfo
+│   │   ├── Sex Education S01E06-thumb.jpg
+│   │   ├── Sex Education S01E07-320-10.bif
+│   │   ├── Sex Education S01E07.mkv
+│   │   ├── Sex Education S01E07.nfo
+│   │   ├── Sex Education S01E07-thumb.jpg
+│   │   ├── Sex Education S01E08-320-10.bif
+│   │   ├── Sex Education S01E08.mkv
+│   │   ├── Sex Education S01E08.nfo
+│   │   └── Sex Education S01E08-thumb.jpg
+│   ├── Season 2
+│   │   ├── season.nfo
+│   │   ├── Sex Education S02E01-320-10.bif
+│   │   ├── Sex Education S02E01.ass
+│   │   ├── Sex Education S02E01.mkv
+│   │   ├── Sex Education S02E01.nfo
+│   │   ├── Sex Education S02E01-thumb.jpg
+│   │   ├── Sex Education S02E02-320-10.bif
+│   │   ├── Sex Education S02E02.ass
+│   │   ├── Sex Education S02E02.mkv
+│   │   ├── Sex Education S02E02.nfo
+│   │   ├── Sex Education S02E02-thumb.jpg
+│   │   ├── Sex Education S02E03-320-10.bif
+│   │   ├── Sex Education S02E03.mkv
+│   │   ├── Sex Education S02E03.nfo
+│   │   ├── Sex Education S02E03.srt
+│   │   ├── Sex Education S02E03-thumb.jpg
+│   │   ├── Sex Education S02E04-320-10.bif
+│   │   ├── Sex Education S02E04.ass
+│   │   ├── Sex Education S02E04.mkv
+│   │   ├── Sex Education S02E04.nfo
+│   │   ├── Sex Education S02E04-thumb.jpg
+│   │   ├── Sex Education S02E05-320-10.bif
+│   │   ├── Sex Education S02E05.ass
+│   │   ├── Sex Education S02E05.mkv
+│   │   ├── Sex Education S02E05.nfo
+│   │   ├── Sex Education S02E05-thumb.jpg
+│   │   ├── Sex Education S02E06-320-10.bif
+│   │   ├── Sex Education S02E06.ass
+│   │   ├── Sex Education S02E06.mkv
+│   │   ├── Sex Education S02E06.nfo
+│   │   ├── Sex Education S02E06-thumb.jpg
+│   │   ├── Sex Education S02E07-320-10.bif
+│   │   ├── Sex Education S02E07.ass
+│   │   ├── Sex Education S02E07.mkv
+│   │   ├── Sex Education S02E07.nfo
+│   │   ├── Sex Education S02E07-thumb.jpg
+│   │   ├── Sex Education S02E08-320-10.bif
+│   │   ├── Sex Education S02E08.ass
+│   │   ├── Sex Education S02E08.mkv
+│   │   ├── Sex Education S02E08.nfo
+│   │   └── Sex Education S02E08-thumb.jpg
+│   ├── Season 3
+│   │   ├── season.nfo
+│   │   ├── Sex Education S03E01.mkv
+│   │   ├── Sex Education S03E01.nfo
+│   │   ├── Sex Education S03E01-thumb.jpg
+│   │   ├── Sex Education S03E02.mkv
+│   │   ├── Sex Education S03E02.nfo
+│   │   ├── Sex Education S03E02-thumb.jpg
+│   │   ├── Sex Education S03E03.mkv
+│   │   ├── Sex Education S03E03.nfo
+│   │   ├── Sex Education S03E03-thumb.jpg
+│   │   ├── Sex Education S03E04.mkv
+│   │   ├── Sex Education S03E04.nfo
+│   │   ├── Sex Education S03E04-thumb.jpg
+│   │   ├── Sex Education S03E05.mkv
+│   │   ├── Sex Education S03E05.nfo
+│   │   ├── Sex Education S03E05-thumb.jpg
+│   │   ├── Sex Education S03E06.mkv
+│   │   ├── Sex Education S03E06.nfo
+│   │   ├── Sex Education S03E06-thumb.jpg
+│   │   ├── Sex Education S03E07.mkv
+│   │   ├── Sex Education S03E07.nfo
+│   │   ├── Sex Education S03E07-thumb.jpg
+│   │   ├── Sex Education S03E08.mkv
+│   │   ├── Sex Education S03E08.nfo
+│   │   └── Sex Education S03E08-thumb.jpg
+│   └── tvshow.nfo
+├── Shameless (2011)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season04-poster.jpg
+│   ├── season05-poster.jpg
+│   ├── season06-poster.jpg
+│   ├── season07-poster.jpg
+│   ├── season08-poster.jpg
+│   ├── season09-poster.jpg
+│   ├── Season 1
+│   │   ├── Shameless S01E01.1080p.ass
+│   │   ├── Shameless S01E01-320-10.bif
+│   │   ├── Shameless S01E01.mkv
+│   │   ├── Shameless S01E01.nfo
+│   │   ├── Shameless S01E01-thumb.jpg
+│   │   ├── Shameless S01E02.1080p.ass
+│   │   ├── Shameless S01E02-320-10.bif
+│   │   ├── Shameless S01E02.mkv
+│   │   ├── Shameless S01E02.nfo
+│   │   ├── Shameless S01E02-thumb.jpg
+│   │   ├── Shameless S01E03.1080p.ass
+│   │   ├── Shameless S01E03-320-10.bif
+│   │   ├── Shameless S01E03.mkv
+│   │   ├── Shameless S01E03.nfo
+│   │   ├── Shameless S01E03-thumb.jpg
+│   │   ├── Shameless S01E04.1080p.ass
+│   │   ├── Shameless S01E04-320-10.bif
+│   │   ├── Shameless S01E04.mkv
+│   │   ├── Shameless S01E04.nfo
+│   │   ├── Shameless S01E04-thumb.jpg
+│   │   ├── Shameless S01E05.1080p.ass
+│   │   ├── Shameless S01E05-320-10.bif
+│   │   ├── Shameless S01E05.mkv
+│   │   ├── Shameless S01E05.nfo
+│   │   ├── Shameless S01E05-thumb.jpg
+│   │   ├── Shameless S01E06.1080p.ass
+│   │   ├── Shameless S01E06-320-10.bif
+│   │   ├── Shameless S01E06.mkv
+│   │   ├── Shameless S01E06.nfo
+│   │   ├── Shameless S01E06-thumb.jpg
+│   │   ├── Shameless S01E07.1080p.ass
+│   │   ├── Shameless S01E07-320-10.bif
+│   │   ├── Shameless S01E07.mkv
+│   │   ├── Shameless S01E07.nfo
+│   │   ├── Shameless S01E07-thumb.jpg
+│   │   ├── Shameless S01E08.1080p.ass
+│   │   ├── Shameless S01E08-320-10.bif
+│   │   ├── Shameless S01E08.mkv
+│   │   ├── Shameless S01E08.nfo
+│   │   ├── Shameless S01E08-thumb.jpg
+│   │   ├── Shameless S01E09.1080p.ass
+│   │   ├── Shameless S01E09-320-10.bif
+│   │   ├── Shameless S01E09.mkv
+│   │   ├── Shameless S01E09.nfo
+│   │   ├── Shameless S01E09-thumb.jpg
+│   │   ├── Shameless S01E10.1080p.ass
+│   │   ├── Shameless S01E10-320-10.bif
+│   │   ├── Shameless S01E10.mkv
+│   │   ├── Shameless S01E10.nfo
+│   │   ├── Shameless S01E10-thumb.jpg
+│   │   ├── Shameless S01E11.1080p.ass
+│   │   ├── Shameless S01E11-320-10.bif
+│   │   ├── Shameless S01E11.mkv
+│   │   ├── Shameless S01E11.nfo
+│   │   ├── Shameless S01E11-thumb.jpg
+│   │   ├── Shameless S01E12.1080p.ass
+│   │   ├── Shameless S01E12-320-10.bif
+│   │   ├── Shameless S01E12.mkv
+│   │   ├── Shameless S01E12.nfo
+│   │   └── Shameless S01E12-thumb.jpg
+│   ├── Season 10
+│   │   ├── Shameless S10E01-320-10.bif
+│   │   ├── Shameless S10E01.H.264-NTb.srt
+│   │   ├── Shameless S10E01.mkv
+│   │   ├── Shameless S10E01.nfo
+│   │   ├── Shameless S10E01-thumb.jpg
+│   │   ├── Shameless S10E02-320-10.bif
+│   │   ├── Shameless S10E02.H.264-NTb.srt
+│   │   ├── Shameless S10E02.mkv
+│   │   ├── Shameless S10E02.nfo
+│   │   ├── Shameless S10E02-thumb.jpg
+│   │   ├── Shameless S10E03-320-10.bif
+│   │   ├── Shameless S10E03.H.264-NTb.srt
+│   │   ├── Shameless S10E03.mkv
+│   │   ├── Shameless S10E03.nfo
+│   │   ├── Shameless S10E03-thumb.jpg
+│   │   ├── Shameless S10E04-320-10.bif
+│   │   ├── Shameless S10E04.H.264-NTb.srt
+│   │   ├── Shameless S10E04.mkv
+│   │   ├── Shameless S10E04.nfo
+│   │   ├── Shameless S10E04-thumb.jpg
+│   │   ├── Shameless S10E05-320-10.bif
+│   │   ├── Shameless S10E05.H.264-NTb.srt
+│   │   ├── Shameless S10E05.mkv
+│   │   ├── Shameless S10E05.nfo
+│   │   ├── Shameless S10E05-thumb.jpg
+│   │   ├── Shameless S10E06-320-10.bif
+│   │   ├── Shameless S10E06.H.264-NTb.srt
+│   │   ├── Shameless S10E06.mkv
+│   │   ├── Shameless S10E06.nfo
+│   │   ├── Shameless S10E06-thumb.jpg
+│   │   ├── Shameless S10E07-320-10.bif
+│   │   ├── Shameless S10E07.H.264-NTb.srt
+│   │   ├── Shameless S10E07.mkv
+│   │   ├── Shameless S10E07.nfo
+│   │   ├── Shameless S10E07-thumb.jpg
+│   │   ├── Shameless S10E08-320-10.bif
+│   │   ├── Shameless S10E08.H.264-NTb.srt
+│   │   ├── Shameless S10E08.mkv
+│   │   ├── Shameless S10E08.nfo
+│   │   ├── Shameless S10E08-thumb.jpg
+│   │   ├── Shameless S10E09-320-10.bif
+│   │   ├── Shameless S10E09.H.264-NTb.srt
+│   │   ├── Shameless S10E09.mkv
+│   │   ├── Shameless S10E09.nfo
+│   │   ├── Shameless S10E09-thumb.jpg
+│   │   ├── Shameless S10E10-320-10.bif
+│   │   ├── Shameless S10E10.H.264-NTb.srt
+│   │   ├── Shameless S10E10.mkv
+│   │   ├── Shameless S10E10.nfo
+│   │   ├── Shameless S10E10-thumb.jpg
+│   │   ├── Shameless S10E11-320-10.bif
+│   │   ├── Shameless S10E11.H.264-NTb.srt
+│   │   ├── Shameless S10E11.mkv
+│   │   ├── Shameless S10E11.nfo
+│   │   ├── Shameless S10E11-thumb.jpg
+│   │   ├── Shameless S10E12-320-10.bif
+│   │   ├── Shameless S10E12.H.264-NTb.srt
+│   │   ├── Shameless S10E12.mkv
+│   │   ├── Shameless S10E12.nfo
+│   │   └── Shameless S10E12-thumb.jpg
+│   ├── season10-poster.jpg
+│   ├── Season 11
+│   │   ├── Shameless S11E01-320-10.bif
+│   │   ├── Shameless S11E01.ass
+│   │   ├── Shameless S11E01.mkv
+│   │   ├── Shameless S11E01.nfo
+│   │   ├── Shameless S11E01-thumb.jpg
+│   │   ├── Shameless S11E02-320-10.bif
+│   │   ├── Shameless S11E02.ass
+│   │   ├── Shameless S11E02.mkv
+│   │   ├── Shameless S11E02.nfo
+│   │   ├── Shameless S11E02-thumb.jpg
+│   │   ├── Shameless S11E03-320-10.bif
+│   │   ├── Shameless S11E03.ass
+│   │   ├── Shameless S11E03.mkv
+│   │   ├── Shameless S11E03.nfo
+│   │   ├── Shameless S11E03-thumb.jpg
+│   │   ├── Shameless S11E04-320-10.bif
+│   │   ├── Shameless S11E04.mkv
+│   │   ├── Shameless S11E04.nfo
+│   │   ├── Shameless S11E04.srt
+│   │   ├── Shameless S11E04-thumb.jpg
+│   │   ├── Shameless S11E05-320-10.bif
+│   │   ├── Shameless S11E05.mkv
+│   │   ├── Shameless S11E05.nfo
+│   │   ├── Shameless S11E05.srt
+│   │   ├── Shameless S11E05-thumb.jpg
+│   │   ├── Shameless S11E06-320-10.bif
+│   │   ├── Shameless S11E06.mkv
+│   │   ├── Shameless S11E06.nfo
+│   │   ├── Shameless S11E06.srt
+│   │   ├── Shameless S11E06-thumb.jpg
+│   │   ├── Shameless S11E07.jpg
+│   │   ├── Shameless S11E07.mkv
+│   │   ├── Shameless S11E07.nfo
+│   │   ├── Shameless S11E07.zh.default.srt
+│   │   ├── Shameless S11E08.mkv
+│   │   ├── Shameless S11E08.nfo
+│   │   ├── Shameless S11E08-thumb.jpg
+│   │   ├── Shameless S11E08.zh.default.srt
+│   │   ├── Shameless S11E09.mkv
+│   │   ├── Shameless S11E09.nfo
+│   │   ├── Shameless S11E09-thumb.jpg
+│   │   ├── Shameless S11E09.zh.default.ass
+│   │   ├── Shameless S11E10.mkv
+│   │   ├── Shameless S11E10.nfo
+│   │   ├── Shameless S11E10-thumb.jpg
+│   │   ├── Shameless S11E10.zh.default.ass
+│   │   ├── Shameless S11E11.ass
+│   │   ├── Shameless S11E11.Chs&Eng.default.ass
+│   │   ├── Shameless S11E11.mkv
+│   │   ├── Shameless S11E11.nfo
+│   │   ├── Shameless S11E11-thumb.jpg
+│   │   ├── Shameless S11E12.Chs&Eng.default.ass
+│   │   ├── Shameless S11E12.mkv
+│   │   ├── Shameless S11E12.nfo
+│   │   └── Shameless S11E12-thumb.jpg
+│   ├── season11-poster.jpg
+│   ├── Season 2
+│   │   ├── Shameless S02E01-320-10.bif
+│   │   ├── Shameless S02E01.ass
+│   │   ├── Shameless S02E01.mkv
+│   │   ├── Shameless S02E01.nfo
+│   │   ├── Shameless S02E01-thumb.jpg
+│   │   ├── Shameless S02E02-320-10.bif
+│   │   ├── Shameless S02E02.ass
+│   │   ├── Shameless S02E02.mkv
+│   │   ├── Shameless S02E02.nfo
+│   │   ├── Shameless S02E02-thumb.jpg
+│   │   ├── Shameless S02E03-320-10.bif
+│   │   ├── Shameless S02E03.ass
+│   │   ├── Shameless S02E03.mkv
+│   │   ├── Shameless S02E03.nfo
+│   │   ├── Shameless S02E03-thumb.jpg
+│   │   ├── Shameless S02E04-320-10.bif
+│   │   ├── Shameless S02E04.ass
+│   │   ├── Shameless S02E04.mkv
+│   │   ├── Shameless S02E04.nfo
+│   │   ├── Shameless S02E04-thumb.jpg
+│   │   ├── Shameless S02E05-320-10.bif
+│   │   ├── Shameless S02E05.ass
+│   │   ├── Shameless S02E05.mkv
+│   │   ├── Shameless S02E05.nfo
+│   │   ├── Shameless S02E05-thumb.jpg
+│   │   ├── Shameless S02E06-320-10.bif
+│   │   ├── Shameless S02E06.ass
+│   │   ├── Shameless S02E06.mkv
+│   │   ├── Shameless S02E06.nfo
+│   │   ├── Shameless S02E06-thumb.jpg
+│   │   ├── Shameless S02E07-320-10.bif
+│   │   ├── Shameless S02E07.ass
+│   │   ├── Shameless S02E07.mkv
+│   │   ├── Shameless S02E07.nfo
+│   │   ├── Shameless S02E07-thumb.jpg
+│   │   ├── Shameless S02E09-320-10.bif
+│   │   ├── Shameless S02E09.ass
+│   │   ├── Shameless S02E09.mkv
+│   │   ├── Shameless S02E09.nfo
+│   │   ├── Shameless S02E09-thumb.jpg
+│   │   ├── Shameless S02E10-320-10.bif
+│   │   ├── Shameless S02E10.ass
+│   │   ├── Shameless S02E10.mkv
+│   │   ├── Shameless S02E10.nfo
+│   │   ├── Shameless S02E10-thumb.jpg
+│   │   ├── Shameless S02E11-320-10.bif
+│   │   ├── Shameless S02E11.ass
+│   │   ├── Shameless S02E11.mkv
+│   │   ├── Shameless S02E11.nfo
+│   │   ├── Shameless S02E11-thumb.jpg
+│   │   ├── Shameless S02E12-320-10.bif
+│   │   ├── Shameless S02E12.ass
+│   │   ├── Shameless S02E12.mkv
+│   │   ├── Shameless S02E12.nfo
+│   │   └── Shameless S02E12-thumb.jpg
+│   ├── Season 3
+│   │   ├── Shameless S03E01-320-10.bif
+│   │   ├── Shameless S03E01.ass
+│   │   ├── Shameless S03E01.en.srt
+│   │   ├── Shameless S03E01.mkv
+│   │   ├── Shameless S03E01.nfo
+│   │   ├── Shameless S03E01-thumb.jpg
+│   │   ├── Shameless S03E02-320-10.bif
+│   │   ├── Shameless S03E02.ass
+│   │   ├── Shameless S03E02.mkv
+│   │   ├── Shameless S03E02.nfo
+│   │   ├── Shameless S03E02-thumb.jpg
+│   │   ├── Shameless S03E03-320-10.bif
+│   │   ├── Shameless S03E03.ass
+│   │   ├── Shameless S03E03.en.srt
+│   │   ├── Shameless S03E03.mkv
+│   │   ├── Shameless S03E03.nfo
+│   │   ├── Shameless S03E03-thumb.jpg
+│   │   ├── Shameless S03E04-320-10.bif
+│   │   ├── Shameless S03E04.ass
+│   │   ├── Shameless S03E04.en.srt
+│   │   ├── Shameless S03E04.mkv
+│   │   ├── Shameless S03E04.nfo
+│   │   ├── Shameless S03E04-thumb.jpg
+│   │   ├── Shameless S03E05-320-10.bif
+│   │   ├── Shameless S03E05.ass
+│   │   ├── Shameless S03E05.mkv
+│   │   ├── Shameless S03E05.nfo
+│   │   ├── Shameless S03E05-thumb.jpg
+│   │   ├── Shameless S03E06-320-10.bif
+│   │   ├── Shameless S03E06.ass
+│   │   ├── Shameless S03E06.en.srt
+│   │   ├── Shameless S03E06.mkv
+│   │   ├── Shameless S03E06.nfo
+│   │   ├── Shameless S03E06-thumb.jpg
+│   │   ├── Shameless S03E07-320-10.bif
+│   │   ├── Shameless S03E07.ass
+│   │   ├── Shameless S03E07.en.srt
+│   │   ├── Shameless S03E07.mkv
+│   │   ├── Shameless S03E07.nfo
+│   │   ├── Shameless S03E07-thumb.jpg
+│   │   ├── Shameless S03E08-320-10.bif
+│   │   ├── Shameless S03E08.ass
+│   │   ├── Shameless S03E08.mkv
+│   │   ├── Shameless S03E08.nfo
+│   │   ├── Shameless S03E08-thumb.jpg
+│   │   ├── Shameless S03E09-320-10.bif
+│   │   ├── Shameless S03E09.ass
+│   │   ├── Shameless S03E09.en.srt
+│   │   ├── Shameless S03E09.mkv
+│   │   ├── Shameless S03E09.nfo
+│   │   ├── Shameless S03E09-thumb.jpg
+│   │   ├── Shameless S03E10-320-10.bif
+│   │   ├── Shameless S03E10.ass
+│   │   ├── Shameless S03E10.en.srt
+│   │   ├── Shameless S03E10.mkv
+│   │   ├── Shameless S03E10.nfo
+│   │   ├── Shameless S03E10-thumb.jpg
+│   │   ├── Shameless S03E11-320-10.bif
+│   │   ├── Shameless S03E11.ass
+│   │   ├── Shameless S03E11.en.srt
+│   │   ├── Shameless S03E11.mkv
+│   │   ├── Shameless S03E11.nfo
+│   │   ├── Shameless S03E11-thumb.jpg
+│   │   ├── Shameless S03E12-320-10.bif
+│   │   ├── Shameless S03E12.ass
+│   │   ├── Shameless S03E12.en.srt
+│   │   ├── Shameless S03E12.mkv
+│   │   ├── Shameless S03E12.nfo
+│   │   └── Shameless S03E12-thumb.jpg
+│   ├── Season 4
+│   │   ├── Shameless S04E01-320-10.bif
+│   │   ├── Shameless S04E01.default.ass
+│   │   ├── Shameless S04E01.mkv
+│   │   ├── Shameless S04E01.nfo
+│   │   ├── Shameless S04E01-thumb.jpg
+│   │   ├── Shameless S04E02-320-10.bif
+│   │   ├── Shameless S04E02.default.ass
+│   │   ├── Shameless S04E02.mkv
+│   │   ├── Shameless S04E02.nfo
+│   │   ├── Shameless S04E02-thumb.jpg
+│   │   ├── Shameless S04E03-320-10.bif
+│   │   ├── Shameless S04E03.default.ass
+│   │   ├── Shameless S04E03.mkv
+│   │   ├── Shameless S04E03.nfo
+│   │   ├── Shameless S04E03-thumb.jpg
+│   │   ├── Shameless S04E04-320-10.bif
+│   │   ├── Shameless S04E04.default.ass
+│   │   ├── Shameless S04E04.mkv
+│   │   ├── Shameless S04E04.nfo
+│   │   ├── Shameless S04E04-thumb.jpg
+│   │   ├── Shameless S04E05-320-10.bif
+│   │   ├── Shameless S04E05.default.ass
+│   │   ├── Shameless S04E05.mkv
+│   │   ├── Shameless S04E05.nfo
+│   │   ├── Shameless S04E05-thumb.jpg
+│   │   ├── Shameless S04E06-320-10.bif
+│   │   ├── Shameless S04E06.default.ass
+│   │   ├── Shameless S04E06.mkv
+│   │   ├── Shameless S04E06.nfo
+│   │   ├── Shameless S04E06-thumb.jpg
+│   │   ├── Shameless S04E07-320-10.bif
+│   │   ├── Shameless S04E07.default.ass
+│   │   ├── Shameless S04E07.mkv
+│   │   ├── Shameless S04E07.nfo
+│   │   ├── Shameless S04E07-thumb.jpg
+│   │   ├── Shameless S04E08-320-10.bif
+│   │   ├── Shameless S04E08.default.ass
+│   │   ├── Shameless S04E08.mkv
+│   │   ├── Shameless S04E08.nfo
+│   │   ├── Shameless S04E08-thumb.jpg
+│   │   ├── Shameless S04E09-320-10.bif
+│   │   ├── Shameless S04E09.default.ass
+│   │   ├── Shameless S04E09.mkv
+│   │   ├── Shameless S04E09.nfo
+│   │   ├── Shameless S04E09-thumb.jpg
+│   │   ├── Shameless S04E10-320-10.bif
+│   │   ├── Shameless S04E10.default.ass
+│   │   ├── Shameless S04E10.mkv
+│   │   ├── Shameless S04E10.nfo
+│   │   ├── Shameless S04E10-thumb.jpg
+│   │   ├── Shameless S04E11-320-10.bif
+│   │   ├── Shameless S04E11.default.ass
+│   │   ├── Shameless S04E11.mkv
+│   │   ├── Shameless S04E11.nfo
+│   │   ├── Shameless S04E11-thumb.jpg
+│   │   ├── Shameless S04E12-320-10.bif
+│   │   ├── Shameless S04E12.default.ass
+│   │   ├── Shameless S04E12.mkv
+│   │   ├── Shameless S04E12.nfo
+│   │   └── Shameless S04E12-thumb.jpg
+│   ├── Season 5
+│   │   ├── Shameless S05E01.265-SiGMA.ass
+│   │   ├── Shameless S05E01-320-10.bif
+│   │   ├── Shameless S05E01.mkv
+│   │   ├── Shameless S05E01.nfo
+│   │   ├── Shameless S05E01-thumb.jpg
+│   │   ├── Shameless S05E02.265-SiGMA.ass
+│   │   ├── Shameless S05E02-320-10.bif
+│   │   ├── Shameless S05E02.mkv
+│   │   ├── Shameless S05E02.nfo
+│   │   ├── Shameless S05E02-thumb.jpg
+│   │   ├── Shameless S05E03.265-SiGMA.ass
+│   │   ├── Shameless S05E03-320-10.bif
+│   │   ├── Shameless S05E03.mkv
+│   │   ├── Shameless S05E03.nfo
+│   │   ├── Shameless S05E03-thumb.jpg
+│   │   ├── Shameless S05E04.265-SiGMA.ass
+│   │   ├── Shameless S05E04-320-10.bif
+│   │   ├── Shameless S05E04.mkv
+│   │   ├── Shameless S05E04.nfo
+│   │   ├── Shameless S05E04-thumb.jpg
+│   │   ├── Shameless S05E05.265-SiGMA.ass
+│   │   ├── Shameless S05E05-320-10.bif
+│   │   ├── Shameless S05E05.mkv
+│   │   ├── Shameless S05E05.nfo
+│   │   ├── Shameless S05E05-thumb.jpg
+│   │   ├── Shameless S05E06.265-SiGMA.ass
+│   │   ├── Shameless S05E06-320-10.bif
+│   │   ├── Shameless S05E06.mkv
+│   │   ├── Shameless S05E06.nfo
+│   │   ├── Shameless S05E06-thumb.jpg
+│   │   ├── Shameless S05E07.265-SiGMA.ass
+│   │   ├── Shameless S05E07-320-10.bif
+│   │   ├── Shameless S05E07.mkv
+│   │   ├── Shameless S05E07.nfo
+│   │   ├── Shameless S05E07-thumb.jpg
+│   │   ├── Shameless S05E08.265-SiGMA.ass
+│   │   ├── Shameless S05E08-320-10.bif
+│   │   ├── Shameless S05E08.mkv
+│   │   ├── Shameless S05E08.nfo
+│   │   ├── Shameless S05E08-thumb.jpg
+│   │   ├── Shameless S05E09.265-SiGMA.ass
+│   │   ├── Shameless S05E09-320-10.bif
+│   │   ├── Shameless S05E09.mkv
+│   │   ├── Shameless S05E09.nfo
+│   │   ├── Shameless S05E09-thumb.jpg
+│   │   ├── Shameless S05E10.265-SiGMA.ass
+│   │   ├── Shameless S05E10-320-10.bif
+│   │   ├── Shameless S05E10.mkv
+│   │   ├── Shameless S05E10.nfo
+│   │   ├── Shameless S05E10-thumb.jpg
+│   │   ├── Shameless S05E11.265-SiGMA.ass
+│   │   ├── Shameless S05E11-320-10.bif
+│   │   ├── Shameless S05E11.mkv
+│   │   ├── Shameless S05E11.nfo
+│   │   ├── Shameless S05E11-thumb.jpg
+│   │   ├── Shameless S05E12.265-SiGMA.ass
+│   │   ├── Shameless S05E12-320-10.bif
+│   │   ├── Shameless S05E12.mkv
+│   │   ├── Shameless S05E12.nfo
+│   │   └── Shameless S05E12-thumb.jpg
+│   ├── Season 6
+│   │   ├── Shameless S06E01-320-10.bif
+│   │   ├── Shameless S06E01.mkv
+│   │   ├── Shameless S06E01.nfo
+│   │   ├── Shameless S06E01-thumb.jpg
+│   │   ├── Shameless S06E02-320-10.bif
+│   │   ├── Shameless S06E02.mkv
+│   │   ├── Shameless S06E02.nfo
+│   │   ├── Shameless S06E02-thumb.jpg
+│   │   ├── Shameless S06E03-320-10.bif
+│   │   ├── Shameless S06E03.mkv
+│   │   ├── Shameless S06E03.nfo
+│   │   ├── Shameless S06E03-thumb.jpg
+│   │   ├── Shameless S06E04-320-10.bif
+│   │   ├── Shameless S06E04.mkv
+│   │   ├── Shameless S06E04.nfo
+│   │   ├── Shameless S06E04-thumb.jpg
+│   │   ├── Shameless S06E05-320-10.bif
+│   │   ├── Shameless S06E05.mkv
+│   │   ├── Shameless S06E05.nfo
+│   │   ├── Shameless S06E05-thumb.jpg
+│   │   ├── Shameless S06E06-320-10.bif
+│   │   ├── Shameless S06E06.mkv
+│   │   ├── Shameless S06E06.nfo
+│   │   ├── Shameless S06E06-thumb.jpg
+│   │   ├── Shameless S06E07-320-10.bif
+│   │   ├── Shameless S06E07.mkv
+│   │   ├── Shameless S06E07.nfo
+│   │   ├── Shameless S06E07-thumb.jpg
+│   │   ├── Shameless S06E08-320-10.bif
+│   │   ├── Shameless S06E08.mkv
+│   │   ├── Shameless S06E08.nfo
+│   │   ├── Shameless S06E08-thumb.jpg
+│   │   ├── Shameless S06E09-320-10.bif
+│   │   ├── Shameless S06E09.mkv
+│   │   ├── Shameless S06E09.nfo
+│   │   ├── Shameless S06E09-thumb.jpg
+│   │   ├── Shameless S06E10-320-10.bif
+│   │   ├── Shameless S06E10.mkv
+│   │   ├── Shameless S06E10.nfo
+│   │   ├── Shameless S06E10-thumb.jpg
+│   │   ├── Shameless S06E11-320-10.bif
+│   │   ├── Shameless S06E11.mkv
+│   │   ├── Shameless S06E11.nfo
+│   │   ├── Shameless S06E11-thumb.jpg
+│   │   ├── Shameless S06E12-320-10.bif
+│   │   ├── Shameless S06E12.mkv
+│   │   ├── Shameless S06E12.nfo
+│   │   └── Shameless S06E12-thumb.jpg
+│   ├── Season 7
+│   │   ├── Shameless S07E01-320-10.bif
+│   │   ├── Shameless S07E01.en.srt
+│   │   ├── Shameless S07E01.mkv
+│   │   ├── Shameless S07E01.nfo
+│   │   ├── Shameless S07E01-thumb.jpg
+│   │   ├── Shameless S07E01.zh.srt
+│   │   ├── Shameless S07E02-320-10.bif
+│   │   ├── Shameless S07E02.mkv
+│   │   ├── Shameless S07E02.nfo
+│   │   ├── Shameless S07E02-thumb.jpg
+│   │   ├── Shameless S07E02.zh.srt
+│   │   ├── Shameless S07E03-320-10.bif
+│   │   ├── Shameless S07E03.en.srt
+│   │   ├── Shameless S07E03.mkv
+│   │   ├── Shameless S07E03.nfo
+│   │   ├── Shameless S07E03-thumb.jpg
+│   │   ├── Shameless S07E03.zh.srt
+│   │   ├── Shameless S07E04-320-10.bif
+│   │   ├── Shameless S07E04.en.srt
+│   │   ├── Shameless S07E04.mkv
+│   │   ├── Shameless S07E04.nfo
+│   │   ├── Shameless S07E04-thumb.jpg
+│   │   ├── Shameless S07E04.zh.srt
+│   │   ├── Shameless S07E05-320-10.bif
+│   │   ├── Shameless S07E05.en.srt
+│   │   ├── Shameless S07E05.mkv
+│   │   ├── Shameless S07E05.nfo
+│   │   ├── Shameless S07E05-thumb.jpg
+│   │   ├── Shameless S07E05.zh.srt
+│   │   ├── Shameless S07E06-320-10.bif
+│   │   ├── Shameless S07E06.en.srt
+│   │   ├── Shameless S07E06.mkv
+│   │   ├── Shameless S07E06.nfo
+│   │   ├── Shameless S07E06-thumb.jpg
+│   │   ├── Shameless S07E06.zh.srt
+│   │   ├── Shameless S07E07-320-10.bif
+│   │   ├── Shameless S07E07.en.srt
+│   │   ├── Shameless S07E07.mkv
+│   │   ├── Shameless S07E07.nfo
+│   │   ├── Shameless S07E07-thumb.jpg
+│   │   ├── Shameless S07E07.zh.srt
+│   │   ├── Shameless S07E08-320-10.bif
+│   │   ├── Shameless S07E08.en.srt
+│   │   ├── Shameless S07E08.mkv
+│   │   ├── Shameless S07E08.nfo
+│   │   ├── Shameless S07E08-thumb.jpg
+│   │   ├── Shameless S07E08.zh.srt
+│   │   ├── Shameless S07E09-320-10.bif
+│   │   ├── Shameless S07E09.en.srt
+│   │   ├── Shameless S07E09.mkv
+│   │   ├── Shameless S07E09.nfo
+│   │   ├── Shameless S07E09-thumb.jpg
+│   │   ├── Shameless S07E09.zh.srt
+│   │   ├── Shameless S07E10-320-10.bif
+│   │   ├── Shameless S07E10.en.srt
+│   │   ├── Shameless S07E10.mkv
+│   │   ├── Shameless S07E10.nfo
+│   │   ├── Shameless S07E10-thumb.jpg
+│   │   ├── Shameless S07E10.zh.srt
+│   │   ├── Shameless S07E11-320-10.bif
+│   │   ├── Shameless S07E11.en.srt
+│   │   ├── Shameless S07E11.mkv
+│   │   ├── Shameless S07E11.nfo
+│   │   ├── Shameless S07E11-thumb.jpg
+│   │   ├── Shameless S07E11.zh.srt
+│   │   ├── Shameless S07E12-320-10.bif
+│   │   ├── Shameless S07E12.en.srt
+│   │   ├── Shameless S07E12.mkv
+│   │   ├── Shameless S07E12.nfo
+│   │   ├── Shameless S07E12-thumb.jpg
+│   │   └── Shameless S07E12.zh.srt
+│   ├── Season 8
+│   │   ├── Shameless S08E01-320-10.bif
+│   │   ├── Shameless S08E01.mkv
+│   │   ├── Shameless S08E01.nfo
+│   │   ├── Shameless S08E01-thumb.jpg
+│   │   ├── Shameless S08E02-320-10.bif
+│   │   ├── Shameless S08E02.mkv
+│   │   ├── Shameless S08E02.nfo
+│   │   ├── Shameless S08E02-thumb.jpg
+│   │   ├── Shameless S08E03-320-10.bif
+│   │   ├── Shameless S08E03.mkv
+│   │   ├── Shameless S08E03.nfo
+│   │   ├── Shameless S08E03-thumb.jpg
+│   │   ├── Shameless S08E04-320-10.bif
+│   │   ├── Shameless S08E04.mkv
+│   │   ├── Shameless S08E04.nfo
+│   │   ├── Shameless S08E04-thumb.jpg
+│   │   ├── Shameless S08E05-320-10.bif
+│   │   ├── Shameless S08E05.mkv
+│   │   ├── Shameless S08E05.nfo
+│   │   ├── Shameless S08E05-thumb.jpg
+│   │   ├── Shameless S08E06-320-10.bif
+│   │   ├── Shameless S08E06.mkv
+│   │   ├── Shameless S08E06.nfo
+│   │   ├── Shameless S08E06-thumb.jpg
+│   │   ├── Shameless S08E07-320-10.bif
+│   │   ├── Shameless S08E07.mkv
+│   │   ├── Shameless S08E07.nfo
+│   │   ├── Shameless S08E07-thumb.jpg
+│   │   ├── Shameless S08E08-320-10.bif
+│   │   ├── Shameless S08E08.mkv
+│   │   ├── Shameless S08E08.nfo
+│   │   ├── Shameless S08E08-thumb.jpg
+│   │   ├── Shameless S08E09-320-10.bif
+│   │   ├── Shameless S08E09.mkv
+│   │   ├── Shameless S08E09.nfo
+│   │   ├── Shameless S08E09-thumb.jpg
+│   │   ├── Shameless S08E10-320-10.bif
+│   │   ├── Shameless S08E10.mkv
+│   │   ├── Shameless S08E10.nfo
+│   │   ├── Shameless S08E10-thumb.jpg
+│   │   ├── Shameless S08E11-320-10.bif
+│   │   ├── Shameless S08E11.mkv
+│   │   ├── Shameless S08E11.nfo
+│   │   ├── Shameless S08E11-thumb.jpg
+│   │   ├── Shameless S08E12-320-10.bif
+│   │   ├── Shameless S08E12.mkv
+│   │   ├── Shameless S08E12.nfo
+│   │   └── Shameless S08E12-thumb.jpg
+│   ├── Season 9
+│   │   ├── Shameless S09E01-320-10.bif
+│   │   ├── Shameless S09E01.mkv
+│   │   ├── Shameless S09E01.nfo
+│   │   ├── Shameless S09E01-thumb.jpg
+│   │   ├── Shameless S09E02-320-10.bif
+│   │   ├── Shameless S09E02.mkv
+│   │   ├── Shameless S09E02.nfo
+│   │   ├── Shameless S09E02-thumb.jpg
+│   │   ├── Shameless S09E03-320-10.bif
+│   │   ├── Shameless S09E03.mkv
+│   │   ├── Shameless S09E03.nfo
+│   │   ├── Shameless S09E03-thumb.jpg
+│   │   ├── Shameless S09E04-320-10.bif
+│   │   ├── Shameless S09E04.mkv
+│   │   ├── Shameless S09E04.nfo
+│   │   ├── Shameless S09E04-thumb.jpg
+│   │   ├── Shameless S09E05-320-10.bif
+│   │   ├── Shameless S09E05.mkv
+│   │   ├── Shameless S09E05.nfo
+│   │   ├── Shameless S09E05-thumb.jpg
+│   │   ├── Shameless S09E06-320-10.bif
+│   │   ├── Shameless S09E06.mkv
+│   │   ├── Shameless S09E06.nfo
+│   │   ├── Shameless S09E06-thumb.jpg
+│   │   ├── Shameless S09E07-320-10.bif
+│   │   ├── Shameless S09E07.mkv
+│   │   ├── Shameless S09E07.nfo
+│   │   ├── Shameless S09E07-thumb.jpg
+│   │   ├── Shameless S09E08-320-10.bif
+│   │   ├── Shameless S09E08.mkv
+│   │   ├── Shameless S09E08.nfo
+│   │   ├── Shameless S09E08-thumb.jpg
+│   │   ├── Shameless S09E09-320-10.bif
+│   │   ├── Shameless S09E09.mkv
+│   │   ├── Shameless S09E09.nfo
+│   │   ├── Shameless S09E09-thumb.jpg
+│   │   ├── Shameless S09E10-320-10.bif
+│   │   ├── Shameless S09E10.mkv
+│   │   ├── Shameless S09E10.nfo
+│   │   ├── Shameless S09E10-thumb.jpg
+│   │   ├── Shameless S09E11-320-10.bif
+│   │   ├── Shameless S09E11.mkv
+│   │   ├── Shameless S09E11.nfo
+│   │   ├── Shameless S09E11-thumb.jpg
+│   │   ├── Shameless S09E12-320-10.bif
+│   │   ├── Shameless S09E12.mkv
+│   │   ├── Shameless S09E12.nfo
+│   │   ├── Shameless S09E12-thumb.jpg
+│   │   ├── Shameless S09E13-320-10.bif
+│   │   ├── Shameless S09E13.mkv
+│   │   ├── Shameless S09E13.nfo
+│   │   ├── Shameless S09E13-thumb.jpg
+│   │   ├── Shameless S09E14-320-10.bif
+│   │   ├── Shameless S09E14.mkv
+│   │   ├── Shameless S09E14.nfo
+│   │   └── Shameless S09E14-thumb.jpg
+│   ├── season.nfo
+│   └── tvshow.nfo
+├── Sherlock (2010)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season04-poster.jpg
+│   ├── Season 2
+│   │   ├── season.nfo
+│   │   ├── Sherlock S02E00-320-10.bif
+│   │   ├── Sherlock S02E00.en.srt
+│   │   ├── Sherlock S02E00.mkv
+│   │   ├── Sherlock S02E00.nfo
+│   │   ├── Sherlock S02E00-thumb.jpg
+│   │   ├── Sherlock S02E01-320-10.bif
+│   │   ├── Sherlock S02E01.en.srt
+│   │   ├── Sherlock S02E01.mkv
+│   │   ├── Sherlock S02E01.nfo
+│   │   ├── Sherlock S02E01-thumb.jpg
+│   │   ├── Sherlock S02E02-320-10.bif
+│   │   ├── Sherlock S02E02.en.srt
+│   │   ├── Sherlock S02E02.mkv
+│   │   ├── Sherlock S02E02.nfo
+│   │   ├── Sherlock S02E02-thumb.jpg
+│   │   ├── Sherlock S02E03-320-10.bif
+│   │   ├── Sherlock S02E03.en.srt
+│   │   ├── Sherlock S02E03.mkv
+│   │   ├── Sherlock S02E03.nfo
+│   │   └── Sherlock S02E03-thumb.jpg
+│   ├── Season 3
+│   │   ├── season.nfo
+│   │   ├── Sherlock S03E00-320-10.bif
+│   │   ├── Sherlock S03E00.mkv
+│   │   ├── Sherlock S03E00.nfo
+│   │   ├── Sherlock S03E00-thumb.jpg
+│   │   ├── Sherlock S03E01-320-10.bif
+│   │   ├── Sherlock S03E01.mkv
+│   │   ├── Sherlock S03E01.nfo
+│   │   ├── Sherlock S03E01-thumb.jpg
+│   │   ├── Sherlock S03E02-320-10.bif
+│   │   ├── Sherlock S03E02.mkv
+│   │   ├── Sherlock S03E02.nfo
+│   │   ├── Sherlock S03E02-thumb.jpg
+│   │   ├── Sherlock S03E03-320-10.bif
+│   │   ├── Sherlock S03E03.mkv
+│   │   ├── Sherlock S03E03.nfo
+│   │   └── Sherlock S03E03-thumb.jpg
+│   ├── Season 4
+│   │   ├── season.nfo
+│   │   ├── Sherlock S04E01-320-10.bif
+│   │   ├── Sherlock S04E01.en.srt
+│   │   ├── Sherlock S04E01.mkv
+│   │   ├── Sherlock S04E01.nfo
+│   │   ├── Sherlock S04E01-thumb.jpg
+│   │   ├── Sherlock S04E02-320-10.bif
+│   │   ├── Sherlock S04E02.en.srt
+│   │   ├── Sherlock S04E02.mkv
+│   │   ├── Sherlock S04E02.nfo
+│   │   ├── Sherlock S04E02-thumb.jpg
+│   │   ├── Sherlock S04E03-320-10.bif
+│   │   ├── Sherlock S04E03.en.srt
+│   │   ├── Sherlock S04E03.mkv
+│   │   ├── Sherlock S04E03.nfo
+│   │   └── Sherlock S04E03-thumb.jpg
+│   └── tvshow.nfo
+├── Stranger Things (2016)
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── Season 1
+│   │   ├── season.nfo
+│   │   ├── Stranger Things S01E01.mkv
+│   │   ├── Stranger Things S01E01.nfo
+│   │   ├── Stranger Things S01E01-thumb.jpg
+│   │   ├── Stranger Things S01E02.mkv
+│   │   ├── Stranger Things S01E02.nfo
+│   │   ├── Stranger Things S01E02-thumb.jpg
+│   │   ├── Stranger Things S01E03.mkv
+│   │   ├── Stranger Things S01E03.nfo
+│   │   ├── Stranger Things S01E03-thumb.jpg
+│   │   ├── Stranger Things S01E04.mkv
+│   │   ├── Stranger Things S01E04.nfo
+│   │   ├── Stranger Things S01E04-thumb.jpg
+│   │   ├── Stranger Things S01E05.mkv
+│   │   ├── Stranger Things S01E05.nfo
+│   │   ├── Stranger Things S01E05-thumb.jpg
+│   │   ├── Stranger Things S01E06.mkv
+│   │   ├── Stranger Things S01E06.nfo
+│   │   ├── Stranger Things S01E06-thumb.jpg
+│   │   ├── Stranger Things S01E07.mkv
+│   │   ├── Stranger Things S01E07.nfo
+│   │   ├── Stranger Things S01E07-thumb.jpg
+│   │   ├── Stranger Things S01E08.mkv
+│   │   ├── Stranger Things S01E08.nfo
+│   │   └── Stranger Things S01E08-thumb.jpg
+│   ├── Season 2
+│   │   ├── season.nfo
+│   │   ├── Stranger Things S02E01.mkv
+│   │   ├── Stranger Things S02E01.nfo
+│   │   ├── Stranger Things S02E01-thumb.jpg
+│   │   ├── Stranger Things S02E02.mkv
+│   │   ├── Stranger Things S02E02.nfo
+│   │   ├── Stranger Things S02E02-thumb.jpg
+│   │   ├── Stranger Things S02E03.mkv
+│   │   ├── Stranger Things S02E03.nfo
+│   │   ├── Stranger Things S02E03-thumb.jpg
+│   │   ├── Stranger Things S02E04.mkv
+│   │   ├── Stranger Things S02E04.nfo
+│   │   ├── Stranger Things S02E04-thumb.jpg
+│   │   ├── Stranger Things S02E05.mkv
+│   │   ├── Stranger Things S02E05.nfo
+│   │   ├── Stranger Things S02E05-thumb.jpg
+│   │   ├── Stranger Things S02E06.mkv
+│   │   ├── Stranger Things S02E06.nfo
+│   │   ├── Stranger Things S02E06-thumb.jpg
+│   │   ├── Stranger Things S02E07.mkv
+│   │   ├── Stranger Things S02E07.nfo
+│   │   ├── Stranger Things S02E07-thumb.jpg
+│   │   ├── Stranger Things S02E08.mkv
+│   │   ├── Stranger Things S02E08.nfo
+│   │   ├── Stranger Things S02E08-thumb.jpg
+│   │   ├── Stranger Things S02E09.mkv
+│   │   ├── Stranger Things S02E09.nfo
+│   │   └── Stranger Things S02E09-thumb.jpg
+│   ├── Season 3
+│   │   ├── season.nfo
+│   │   ├── Stranger Things S03E01.mkv
+│   │   ├── Stranger Things S03E01.nfo
+│   │   ├── Stranger Things S03E01-thumb.jpg
+│   │   ├── Stranger Things S03E02.mkv
+│   │   ├── Stranger Things S03E02.nfo
+│   │   ├── Stranger Things S03E02-thumb.jpg
+│   │   ├── Stranger Things S03E03.mkv
+│   │   ├── Stranger Things S03E03.nfo
+│   │   ├── Stranger Things S03E03-thumb.jpg
+│   │   ├── Stranger Things S03E04.mkv
+│   │   ├── Stranger Things S03E04.nfo
+│   │   ├── Stranger Things S03E04-thumb.jpg
+│   │   ├── Stranger Things S03E05.mkv
+│   │   ├── Stranger Things S03E05.nfo
+│   │   ├── Stranger Things S03E05-thumb.jpg
+│   │   ├── Stranger Things S03E06.mkv
+│   │   ├── Stranger Things S03E06.nfo
+│   │   ├── Stranger Things S03E06-thumb.jpg
+│   │   ├── Stranger Things S03E07.mkv
+│   │   ├── Stranger Things S03E07.nfo
+│   │   ├── Stranger Things S03E07-thumb.jpg
+│   │   ├── Stranger Things S03E08.mkv
+│   │   ├── Stranger Things S03E08.nfo
+│   │   └── Stranger Things S03E08-thumb.jpg
+│   └── tvshow.nfo
+├── Sweet Tooth (2021)
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── Sweet Tooth S01E01.mkv
+│   │   ├── Sweet Tooth S01E01.nfo
+│   │   ├── Sweet Tooth S01E01-thumb.jpg
+│   │   ├── Sweet Tooth S01E02.mkv
+│   │   ├── Sweet Tooth S01E02.nfo
+│   │   ├── Sweet Tooth S01E02-thumb.jpg
+│   │   ├── Sweet Tooth S01E03.mkv
+│   │   ├── Sweet Tooth S01E03.nfo
+│   │   ├── Sweet Tooth S01E03-thumb.jpg
+│   │   ├── Sweet Tooth S01E04.mkv
+│   │   ├── Sweet Tooth S01E04.nfo
+│   │   ├── Sweet Tooth S01E04-thumb.jpg
+│   │   ├── Sweet Tooth S01E05.mkv
+│   │   ├── Sweet Tooth S01E05.nfo
+│   │   ├── Sweet Tooth S01E05-thumb.jpg
+│   │   ├── Sweet Tooth S01E06.mkv
+│   │   ├── Sweet Tooth S01E06.nfo
+│   │   ├── Sweet Tooth S01E06-thumb.jpg
+│   │   ├── Sweet Tooth S01E07.mkv
+│   │   ├── Sweet Tooth S01E07.nfo
+│   │   ├── Sweet Tooth S01E07-thumb.jpg
+│   │   ├── Sweet Tooth S01E08.mkv
+│   │   ├── Sweet Tooth S01E08.nfo
+│   │   └── Sweet Tooth S01E08-thumb.jpg
+│   ├── season.nfo
+│   └── tvshow.nfo
+├── The Big Bang Theory (2007)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season04-poster.jpg
+│   ├── season05-poster.jpg
+│   ├── season06-poster.jpg
+│   ├── season07-poster.jpg
+│   ├── season08-poster.jpg
+│   ├── season09-poster.jpg
+│   ├── Season 1
+│   │   ├── season.nfo
+│   │   ├── The Big Bang Theory S01E001-320-10.bif
+│   │   ├── The Big Bang Theory S01E001.mkv
+│   │   ├── The Big Bang Theory S01E001.nfo
+│   │   ├── The Big Bang Theory S01E001-thumb.jpg
+│   │   ├── The Big Bang Theory S01E002-320-10.bif
+│   │   ├── The Big Bang Theory S01E002.mkv
+│   │   ├── The Big Bang Theory S01E002.nfo
+│   │   ├── The Big Bang Theory S01E002-thumb.jpg
+│   │   ├── The Big Bang Theory S01E003-320-10.bif
+│   │   ├── The Big Bang Theory S01E003.mkv
+│   │   ├── The Big Bang Theory S01E003.nfo
+│   │   ├── The Big Bang Theory S01E003-thumb.jpg
+│   │   ├── The Big Bang Theory S01E004-320-10.bif
+│   │   ├── The Big Bang Theory S01E004.mkv
+│   │   ├── The Big Bang Theory S01E004.nfo
+│   │   ├── The Big Bang Theory S01E004-thumb.jpg
+│   │   ├── The Big Bang Theory S01E005-320-10.bif
+│   │   ├── The Big Bang Theory S01E005.mkv
+│   │   ├── The Big Bang Theory S01E005.nfo
+│   │   ├── The Big Bang Theory S01E005-thumb.jpg
+│   │   ├── The Big Bang Theory S01E006-320-10.bif
+│   │   ├── The Big Bang Theory S01E006.mkv
+│   │   ├── The Big Bang Theory S01E006.nfo
+│   │   ├── The Big Bang Theory S01E006-thumb.jpg
+│   │   ├── The Big Bang Theory S01E007-320-10.bif
+│   │   ├── The Big Bang Theory S01E007.mkv
+│   │   ├── The Big Bang Theory S01E007.nfo
+│   │   ├── The Big Bang Theory S01E007-thumb.jpg
+│   │   ├── The Big Bang Theory S01E008-320-10.bif
+│   │   ├── The Big Bang Theory S01E008.mkv
+│   │   ├── The Big Bang Theory S01E008.nfo
+│   │   ├── The Big Bang Theory S01E008-thumb.jpg
+│   │   ├── The Big Bang Theory S01E009-320-10.bif
+│   │   ├── The Big Bang Theory S01E009.mkv
+│   │   ├── The Big Bang Theory S01E009.nfo
+│   │   ├── The Big Bang Theory S01E009-thumb.jpg
+│   │   ├── The Big Bang Theory S01E010-320-10.bif
+│   │   ├── The Big Bang Theory S01E010.mkv
+│   │   ├── The Big Bang Theory S01E010.nfo
+│   │   ├── The Big Bang Theory S01E010-thumb.jpg
+│   │   ├── The Big Bang Theory S01E011-320-10.bif
+│   │   ├── The Big Bang Theory S01E011.mkv
+│   │   ├── The Big Bang Theory S01E011.nfo
+│   │   ├── The Big Bang Theory S01E011-thumb.jpg
+│   │   ├── The Big Bang Theory S01E012-320-10.bif
+│   │   ├── The Big Bang Theory S01E012.mkv
+│   │   ├── The Big Bang Theory S01E012.nfo
+│   │   ├── The Big Bang Theory S01E012-thumb.jpg
+│   │   ├── The Big Bang Theory S01E013-320-10.bif
+│   │   ├── The Big Bang Theory S01E013.mkv
+│   │   ├── The Big Bang Theory S01E013.nfo
+│   │   ├── The Big Bang Theory S01E013-thumb.jpg
+│   │   ├── The Big Bang Theory S01E014-320-10.bif
+│   │   ├── The Big Bang Theory S01E014.mkv
+│   │   ├── The Big Bang Theory S01E014.nfo
+│   │   ├── The Big Bang Theory S01E014-thumb.jpg
+│   │   ├── The Big Bang Theory S01E015-320-10.bif
+│   │   ├── The Big Bang Theory S01E015.mkv
+│   │   ├── The Big Bang Theory S01E015.nfo
+│   │   ├── The Big Bang Theory S01E015-thumb.jpg
+│   │   ├── The Big Bang Theory S01E016-320-10.bif
+│   │   ├── The Big Bang Theory S01E016.mkv
+│   │   ├── The Big Bang Theory S01E016.nfo
+│   │   ├── The Big Bang Theory S01E016-thumb.jpg
+│   │   ├── The Big Bang Theory S01E017-320-10.bif
+│   │   ├── The Big Bang Theory S01E017.mkv
+│   │   ├── The Big Bang Theory S01E017.nfo
+│   │   └── The Big Bang Theory S01E017-thumb.jpg
+│   ├── Season 10
+│   │   ├── season.nfo
+│   │   ├── The Big Bang Theory S10E001-320-10.bif
+│   │   ├── The Big Bang Theory S10E001.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E001.mkv
+│   │   ├── The Big Bang Theory S10E001.nfo
+│   │   ├── The Big Bang Theory S10E001-thumb.jpg
+│   │   ├── The Big Bang Theory S10E002-320-10.bif
+│   │   ├── The Big Bang Theory S10E002.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E002.mkv
+│   │   ├── The Big Bang Theory S10E002.nfo
+│   │   ├── The Big Bang Theory S10E002-thumb.jpg
+│   │   ├── The Big Bang Theory S10E003-320-10.bif
+│   │   ├── The Big Bang Theory S10E003.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E003.mkv
+│   │   ├── The Big Bang Theory S10E003.nfo
+│   │   ├── The Big Bang Theory S10E003-thumb.jpg
+│   │   ├── The Big Bang Theory S10E004-320-10.bif
+│   │   ├── The Big Bang Theory S10E004.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E004.mkv
+│   │   ├── The Big Bang Theory S10E004.nfo
+│   │   ├── The Big Bang Theory S10E004-thumb.jpg
+│   │   ├── The Big Bang Theory S10E005-320-10.bif
+│   │   ├── The Big Bang Theory S10E005.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E005.mkv
+│   │   ├── The Big Bang Theory S10E005.nfo
+│   │   ├── The Big Bang Theory S10E005-thumb.jpg
+│   │   ├── The Big Bang Theory S10E006-320-10.bif
+│   │   ├── The Big Bang Theory S10E006.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E006.mkv
+│   │   ├── The Big Bang Theory S10E006.nfo
+│   │   ├── The Big Bang Theory S10E006-thumb.jpg
+│   │   ├── The Big Bang Theory S10E007-320-10.bif
+│   │   ├── The Big Bang Theory S10E007.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E007.mkv
+│   │   ├── The Big Bang Theory S10E007.nfo
+│   │   ├── The Big Bang Theory S10E007-thumb.jpg
+│   │   ├── The Big Bang Theory S10E008-320-10.bif
+│   │   ├── The Big Bang Theory S10E008.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E008.mkv
+│   │   ├── The Big Bang Theory S10E008.nfo
+│   │   ├── The Big Bang Theory S10E008-thumb.jpg
+│   │   ├── The Big Bang Theory S10E009-320-10.bif
+│   │   ├── The Big Bang Theory S10E009.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E009.mkv
+│   │   ├── The Big Bang Theory S10E009.nfo
+│   │   ├── The Big Bang Theory S10E009-thumb.jpg
+│   │   ├── The Big Bang Theory S10E010-320-10.bif
+│   │   ├── The Big Bang Theory S10E010.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E010.mkv
+│   │   ├── The Big Bang Theory S10E010.nfo
+│   │   ├── The Big Bang Theory S10E010-thumb.jpg
+│   │   ├── The Big Bang Theory S10E011-320-10.bif
+│   │   ├── The Big Bang Theory S10E011.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E011.mkv
+│   │   ├── The Big Bang Theory S10E011.nfo
+│   │   ├── The Big Bang Theory S10E011-thumb.jpg
+│   │   ├── The Big Bang Theory S10E012-320-10.bif
+│   │   ├── The Big Bang Theory S10E012.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E012.mkv
+│   │   ├── The Big Bang Theory S10E012.nfo
+│   │   ├── The Big Bang Theory S10E012-thumb.jpg
+│   │   ├── The Big Bang Theory S10E013-320-10.bif
+│   │   ├── The Big Bang Theory S10E013.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E013.mkv
+│   │   ├── The Big Bang Theory S10E013.nfo
+│   │   ├── The Big Bang Theory S10E013-thumb.jpg
+│   │   ├── The Big Bang Theory S10E014-320-10.bif
+│   │   ├── The Big Bang Theory S10E014.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E014.mkv
+│   │   ├── The Big Bang Theory S10E014.nfo
+│   │   ├── The Big Bang Theory S10E014-thumb.jpg
+│   │   ├── The Big Bang Theory S10E015-320-10.bif
+│   │   ├── The Big Bang Theory S10E015.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E015.mkv
+│   │   ├── The Big Bang Theory S10E015.nfo
+│   │   ├── The Big Bang Theory S10E015-thumb.jpg
+│   │   ├── The Big Bang Theory S10E016-320-10.bif
+│   │   ├── The Big Bang Theory S10E016.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E016.mkv
+│   │   ├── The Big Bang Theory S10E016.nfo
+│   │   ├── The Big Bang Theory S10E016-thumb.jpg
+│   │   ├── The Big Bang Theory S10E017-320-10.bif
+│   │   ├── The Big Bang Theory S10E017.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E017.mkv
+│   │   ├── The Big Bang Theory S10E017.nfo
+│   │   ├── The Big Bang Theory S10E017-thumb.jpg
+│   │   ├── The Big Bang Theory S10E018-320-10.bif
+│   │   ├── The Big Bang Theory S10E018.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E018.mkv
+│   │   ├── The Big Bang Theory S10E018.nfo
+│   │   ├── The Big Bang Theory S10E018-thumb.jpg
+│   │   ├── The Big Bang Theory S10E019-320-10.bif
+│   │   ├── The Big Bang Theory S10E019.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E019.mkv
+│   │   ├── The Big Bang Theory S10E019.nfo
+│   │   ├── The Big Bang Theory S10E019-thumb.jpg
+│   │   ├── The Big Bang Theory S10E020-320-10.bif
+│   │   ├── The Big Bang Theory S10E020.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E020.mkv
+│   │   ├── The Big Bang Theory S10E020.nfo
+│   │   ├── The Big Bang Theory S10E020-thumb.jpg
+│   │   ├── The Big Bang Theory S10E021-320-10.bif
+│   │   ├── The Big Bang Theory S10E021.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E021.mkv
+│   │   ├── The Big Bang Theory S10E021.nfo
+│   │   ├── The Big Bang Theory S10E021-thumb.jpg
+│   │   ├── The Big Bang Theory S10E022-320-10.bif
+│   │   ├── The Big Bang Theory S10E022.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E022.mkv
+│   │   ├── The Big Bang Theory S10E022.nfo
+│   │   ├── The Big Bang Theory S10E022-thumb.jpg
+│   │   ├── The Big Bang Theory S10E023-320-10.bif
+│   │   ├── The Big Bang Theory S10E023.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E023.mkv
+│   │   ├── The Big Bang Theory S10E023.nfo
+│   │   ├── The Big Bang Theory S10E023-thumb.jpg
+│   │   ├── The Big Bang Theory S10E024-320-10.bif
+│   │   ├── The Big Bang Theory S10E024.ChsEngA.ass
+│   │   ├── The Big Bang Theory S10E024.mkv
+│   │   ├── The Big Bang Theory S10E024.nfo
+│   │   └── The Big Bang Theory S10E024-thumb.jpg
+│   ├── season10-poster.jpg
+│   ├── Season 11
+│   │   ├── season.nfo
+│   │   ├── The Big Bang Theory S11E001-320-10.bif
+│   │   ├── The Big Bang Theory S11E001.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E001.mkv
+│   │   ├── The Big Bang Theory S11E001.nfo
+│   │   ├── The Big Bang Theory S11E001-thumb.jpg
+│   │   ├── The Big Bang Theory S11E002-320-10.bif
+│   │   ├── The Big Bang Theory S11E002.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E002.mkv
+│   │   ├── The Big Bang Theory S11E002.nfo
+│   │   ├── The Big Bang Theory S11E002-thumb.jpg
+│   │   ├── The Big Bang Theory S11E003-320-10.bif
+│   │   ├── The Big Bang Theory S11E003.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E003.mkv
+│   │   ├── The Big Bang Theory S11E003.nfo
+│   │   ├── The Big Bang Theory S11E003-thumb.jpg
+│   │   ├── The Big Bang Theory S11E004-320-10.bif
+│   │   ├── The Big Bang Theory S11E004.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E004.mkv
+│   │   ├── The Big Bang Theory S11E004.nfo
+│   │   ├── The Big Bang Theory S11E004-thumb.jpg
+│   │   ├── The Big Bang Theory S11E005-320-10.bif
+│   │   ├── The Big Bang Theory S11E005.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E005.mkv
+│   │   ├── The Big Bang Theory S11E005.nfo
+│   │   ├── The Big Bang Theory S11E005-thumb.jpg
+│   │   ├── The Big Bang Theory S11E006-320-10.bif
+│   │   ├── The Big Bang Theory S11E006.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E006.mkv
+│   │   ├── The Big Bang Theory S11E006.nfo
+│   │   ├── The Big Bang Theory S11E006-thumb.jpg
+│   │   ├── The Big Bang Theory S11E007-320-10.bif
+│   │   ├── The Big Bang Theory S11E007.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E007.mkv
+│   │   ├── The Big Bang Theory S11E007.nfo
+│   │   ├── The Big Bang Theory S11E007-thumb.jpg
+│   │   ├── The Big Bang Theory S11E008-320-10.bif
+│   │   ├── The Big Bang Theory S11E008.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E008.mkv
+│   │   ├── The Big Bang Theory S11E008.nfo
+│   │   ├── The Big Bang Theory S11E008-thumb.jpg
+│   │   ├── The Big Bang Theory S11E009-320-10.bif
+│   │   ├── The Big Bang Theory S11E009.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E009.mkv
+│   │   ├── The Big Bang Theory S11E009.nfo
+│   │   ├── The Big Bang Theory S11E009-thumb.jpg
+│   │   ├── The Big Bang Theory S11E010-320-10.bif
+│   │   ├── The Big Bang Theory S11E010.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E010.mkv
+│   │   ├── The Big Bang Theory S11E010.nfo
+│   │   ├── The Big Bang Theory S11E010-thumb.jpg
+│   │   ├── The Big Bang Theory S11E011-320-10.bif
+│   │   ├── The Big Bang Theory S11E011.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E011.mkv
+│   │   ├── The Big Bang Theory S11E011.nfo
+│   │   ├── The Big Bang Theory S11E011-thumb.jpg
+│   │   ├── The Big Bang Theory S11E012-320-10.bif
+│   │   ├── The Big Bang Theory S11E012.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E012.mkv
+│   │   ├── The Big Bang Theory S11E012.nfo
+│   │   ├── The Big Bang Theory S11E012-thumb.jpg
+│   │   ├── The Big Bang Theory S11E013-320-10.bif
+│   │   ├── The Big Bang Theory S11E013.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E013.mkv
+│   │   ├── The Big Bang Theory S11E013.nfo
+│   │   ├── The Big Bang Theory S11E013-thumb.jpg
+│   │   ├── The Big Bang Theory S11E014-320-10.bif
+│   │   ├── The Big Bang Theory S11E014.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E014.mkv
+│   │   ├── The Big Bang Theory S11E014.nfo
+│   │   ├── The Big Bang Theory S11E014-thumb.jpg
+│   │   ├── The Big Bang Theory S11E015-320-10.bif
+│   │   ├── The Big Bang Theory S11E015.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E015.mkv
+│   │   ├── The Big Bang Theory S11E015.nfo
+│   │   ├── The Big Bang Theory S11E015-thumb.jpg
+│   │   ├── The Big Bang Theory S11E016-320-10.bif
+│   │   ├── The Big Bang Theory S11E016.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E016.mkv
+│   │   ├── The Big Bang Theory S11E016.nfo
+│   │   ├── The Big Bang Theory S11E016-thumb.jpg
+│   │   ├── The Big Bang Theory S11E017-320-10.bif
+│   │   ├── The Big Bang Theory S11E017.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E017.mkv
+│   │   ├── The Big Bang Theory S11E017.nfo
+│   │   ├── The Big Bang Theory S11E017-thumb.jpg
+│   │   ├── The Big Bang Theory S11E018-320-10.bif
+│   │   ├── The Big Bang Theory S11E018.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E018.mkv
+│   │   ├── The Big Bang Theory S11E018.nfo
+│   │   ├── The Big Bang Theory S11E018-thumb.jpg
+│   │   ├── The Big Bang Theory S11E019-320-10.bif
+│   │   ├── The Big Bang Theory S11E019.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E019.mkv
+│   │   ├── The Big Bang Theory S11E019.nfo
+│   │   ├── The Big Bang Theory S11E019-thumb.jpg
+│   │   ├── The Big Bang Theory S11E020-320-10.bif
+│   │   ├── The Big Bang Theory S11E020.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E020.mkv
+│   │   ├── The Big Bang Theory S11E020.nfo
+│   │   ├── The Big Bang Theory S11E020-thumb.jpg
+│   │   ├── The Big Bang Theory S11E021-320-10.bif
+│   │   ├── The Big Bang Theory S11E021.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E021.mkv
+│   │   ├── The Big Bang Theory S11E021.nfo
+│   │   ├── The Big Bang Theory S11E021-thumb.jpg
+│   │   ├── The Big Bang Theory S11E022-320-10.bif
+│   │   ├── The Big Bang Theory S11E022.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E022.mkv
+│   │   ├── The Big Bang Theory S11E022.nfo
+│   │   ├── The Big Bang Theory S11E022-thumb.jpg
+│   │   ├── The Big Bang Theory S11E023-320-10.bif
+│   │   ├── The Big Bang Theory S11E023.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E023.mkv
+│   │   ├── The Big Bang Theory S11E023.nfo
+│   │   ├── The Big Bang Theory S11E023-thumb.jpg
+│   │   ├── The Big Bang Theory S11E024-320-10.bif
+│   │   ├── The Big Bang Theory S11E024.ChsEngA.ass
+│   │   ├── The Big Bang Theory S11E024.mkv
+│   │   ├── The Big Bang Theory S11E024.nfo
+│   │   └── The Big Bang Theory S11E024-thumb.jpg
+│   ├── season11-poster.jpg
+│   ├── Season 12
+│   │   ├── The Big Bang Theory S12E001.mkv
+│   │   ├── The Big Bang Theory S12E001.nfo
+│   │   ├── The Big Bang Theory S12E001-thumb.jpg
+│   │   ├── The Big Bang Theory S12E002.mkv
+│   │   ├── The Big Bang Theory S12E002.nfo
+│   │   ├── The Big Bang Theory S12E002-thumb.jpg
+│   │   ├── The Big Bang Theory S12E003.mkv
+│   │   ├── The Big Bang Theory S12E003.nfo
+│   │   ├── The Big Bang Theory S12E003-thumb.jpg
+│   │   ├── The Big Bang Theory S12E004.mkv
+│   │   ├── The Big Bang Theory S12E004.nfo
+│   │   ├── The Big Bang Theory S12E004-thumb.jpg
+│   │   ├── The Big Bang Theory S12E005.mkv
+│   │   ├── The Big Bang Theory S12E005.nfo
+│   │   ├── The Big Bang Theory S12E005-thumb.jpg
+│   │   ├── The Big Bang Theory S12E006.mkv
+│   │   ├── The Big Bang Theory S12E006.nfo
+│   │   ├── The Big Bang Theory S12E006-thumb.jpg
+│   │   ├── The Big Bang Theory S12E007.mkv
+│   │   ├── The Big Bang Theory S12E007.nfo
+│   │   ├── The Big Bang Theory S12E007-thumb.jpg
+│   │   ├── The Big Bang Theory S12E008.mkv
+│   │   ├── The Big Bang Theory S12E008.nfo
+│   │   ├── The Big Bang Theory S12E008-thumb.jpg
+│   │   ├── The Big Bang Theory S12E009.mkv
+│   │   ├── The Big Bang Theory S12E009.nfo
+│   │   ├── The Big Bang Theory S12E009-thumb.jpg
+│   │   ├── The Big Bang Theory S12E010.mkv
+│   │   ├── The Big Bang Theory S12E010.nfo
+│   │   ├── The Big Bang Theory S12E010-thumb.jpg
+│   │   ├── The Big Bang Theory S12E011.mkv
+│   │   ├── The Big Bang Theory S12E011.nfo
+│   │   ├── The Big Bang Theory S12E011-thumb.jpg
+│   │   ├── The Big Bang Theory S12E012.mkv
+│   │   ├── The Big Bang Theory S12E012.nfo
+│   │   ├── The Big Bang Theory S12E012-thumb.jpg
+│   │   ├── The Big Bang Theory S12E013.mkv
+│   │   ├── The Big Bang Theory S12E013.nfo
+│   │   ├── The Big Bang Theory S12E013-thumb.jpg
+│   │   ├── The Big Bang Theory S12E014.mkv
+│   │   ├── The Big Bang Theory S12E014.nfo
+│   │   ├── The Big Bang Theory S12E014-thumb.jpg
+│   │   ├── The Big Bang Theory S12E015.mkv
+│   │   ├── The Big Bang Theory S12E015.nfo
+│   │   ├── The Big Bang Theory S12E015-thumb.jpg
+│   │   ├── The Big Bang Theory S12E016.mkv
+│   │   ├── The Big Bang Theory S12E016.nfo
+│   │   ├── The Big Bang Theory S12E016-thumb.jpg
+│   │   ├── The Big Bang Theory S12E017.mkv
+│   │   ├── The Big Bang Theory S12E017.nfo
+│   │   ├── The Big Bang Theory S12E017-thumb.jpg
+│   │   ├── The Big Bang Theory S12E018.mkv
+│   │   ├── The Big Bang Theory S12E018.nfo
+│   │   ├── The Big Bang Theory S12E018-thumb.jpg
+│   │   ├── The Big Bang Theory S12E019.mkv
+│   │   ├── The Big Bang Theory S12E019.nfo
+│   │   ├── The Big Bang Theory S12E019-thumb.jpg
+│   │   ├── The Big Bang Theory S12E020.mkv
+│   │   ├── The Big Bang Theory S12E020.nfo
+│   │   ├── The Big Bang Theory S12E020-thumb.jpg
+│   │   ├── The Big Bang Theory S12E021.mkv
+│   │   ├── The Big Bang Theory S12E021.nfo
+│   │   ├── The Big Bang Theory S12E021-thumb.jpg
+│   │   ├── The Big Bang Theory S12E022.mkv
+│   │   ├── The Big Bang Theory S12E022.nfo
+│   │   ├── The Big Bang Theory S12E022-thumb.jpg
+│   │   ├── The Big Bang Theory S12E023.mkv
+│   │   ├── The Big Bang Theory S12E023.nfo
+│   │   ├── The Big Bang Theory S12E023-thumb.jpg
+│   │   ├── The Big Bang Theory S12E024.mkv
+│   │   ├── The Big Bang Theory S12E024.nfo
+│   │   └── The Big Bang Theory S12E024-thumb.jpg
+│   ├── season12-poster.jpg
+│   ├── Season 2
+│   │   ├── season.nfo
+│   │   ├── The Big Bang Theory S02E001-320-10.bif
+│   │   ├── The Big Bang Theory S02E001.mp4
+│   │   ├── The Big Bang Theory S02E001.nfo
+│   │   ├── The Big Bang Theory S02E001-thumb.jpg
+│   │   ├── The Big Bang Theory S02E002-320-10.bif
+│   │   ├── The Big Bang Theory S02E002.mp4
+│   │   ├── The Big Bang Theory S02E002.nfo
+│   │   ├── The Big Bang Theory S02E002-thumb.jpg
+│   │   ├── The Big Bang Theory S02E003-320-10.bif
+│   │   ├── The Big Bang Theory S02E003.mp4
+│   │   ├── The Big Bang Theory S02E003.nfo
+│   │   ├── The Big Bang Theory S02E003-thumb.jpg
+│   │   ├── The Big Bang Theory S02E004-320-10.bif
+│   │   ├── The Big Bang Theory S02E004.mp4
+│   │   ├── The Big Bang Theory S02E004.nfo
+│   │   ├── The Big Bang Theory S02E004-thumb.jpg
+│   │   ├── The Big Bang Theory S02E005-320-10.bif
+│   │   ├── The Big Bang Theory S02E005.mp4
+│   │   ├── The Big Bang Theory S02E005.nfo
+│   │   ├── The Big Bang Theory S02E005-thumb.jpg
+│   │   ├── The Big Bang Theory S02E006-320-10.bif
+│   │   ├── The Big Bang Theory S02E006.mp4
+│   │   ├── The Big Bang Theory S02E006.nfo
+│   │   ├── The Big Bang Theory S02E006-thumb.jpg
+│   │   ├── The Big Bang Theory S02E007-320-10.bif
+│   │   ├── The Big Bang Theory S02E007.mp4
+│   │   ├── The Big Bang Theory S02E007.nfo
+│   │   ├── The Big Bang Theory S02E007-thumb.jpg
+│   │   ├── The Big Bang Theory S02E008-320-10.bif
+│   │   ├── The Big Bang Theory S02E008.mp4
+│   │   ├── The Big Bang Theory S02E008.nfo
+│   │   ├── The Big Bang Theory S02E008-thumb.jpg
+│   │   ├── The Big Bang Theory S02E009-320-10.bif
+│   │   ├── The Big Bang Theory S02E009.mp4
+│   │   ├── The Big Bang Theory S02E009.nfo
+│   │   ├── The Big Bang Theory S02E009-thumb.jpg
+│   │   ├── The Big Bang Theory S02E010-320-10.bif
+│   │   ├── The Big Bang Theory S02E010.mp4
+│   │   ├── The Big Bang Theory S02E010.nfo
+│   │   ├── The Big Bang Theory S02E010-thumb.jpg
+│   │   ├── The Big Bang Theory S02E011-320-10.bif
+│   │   ├── The Big Bang Theory S02E011.mp4
+│   │   ├── The Big Bang Theory S02E011.nfo
+│   │   ├── The Big Bang Theory S02E011-thumb.jpg
+│   │   ├── The Big Bang Theory S02E012-320-10.bif
+│   │   ├── The Big Bang Theory S02E012.mp4
+│   │   ├── The Big Bang Theory S02E012.nfo
+│   │   ├── The Big Bang Theory S02E012-thumb.jpg
+│   │   ├── The Big Bang Theory S02E013-320-10.bif
+│   │   ├── The Big Bang Theory S02E013.mp4
+│   │   ├── The Big Bang Theory S02E013.nfo
+│   │   ├── The Big Bang Theory S02E013-thumb.jpg
+│   │   ├── The Big Bang Theory S02E014-320-10.bif
+│   │   ├── The Big Bang Theory S02E014.mp4
+│   │   ├── The Big Bang Theory S02E014.nfo
+│   │   ├── The Big Bang Theory S02E014-thumb.jpg
+│   │   ├── The Big Bang Theory S02E015-320-10.bif
+│   │   ├── The Big Bang Theory S02E015.mp4
+│   │   ├── The Big Bang Theory S02E015.nfo
+│   │   ├── The Big Bang Theory S02E015-thumb.jpg
+│   │   ├── The Big Bang Theory S02E016-320-10.bif
+│   │   ├── The Big Bang Theory S02E016.mp4
+│   │   ├── The Big Bang Theory S02E016.nfo
+│   │   ├── The Big Bang Theory S02E016-thumb.jpg
+│   │   ├── The Big Bang Theory S02E017-320-10.bif
+│   │   ├── The Big Bang Theory S02E017.mp4
+│   │   ├── The Big Bang Theory S02E017.nfo
+│   │   ├── The Big Bang Theory S02E017-thumb.jpg
+│   │   ├── The Big Bang Theory S02E018-320-10.bif
+│   │   ├── The Big Bang Theory S02E018.mp4
+│   │   ├── The Big Bang Theory S02E018.nfo
+│   │   ├── The Big Bang Theory S02E018-thumb.jpg
+│   │   ├── The Big Bang Theory S02E019-320-10.bif
+│   │   ├── The Big Bang Theory S02E019.mp4
+│   │   ├── The Big Bang Theory S02E019.nfo
+│   │   ├── The Big Bang Theory S02E019-thumb.jpg
+│   │   ├── The Big Bang Theory S02E020-320-10.bif
+│   │   ├── The Big Bang Theory S02E020.mp4
+│   │   ├── The Big Bang Theory S02E020.nfo
+│   │   ├── The Big Bang Theory S02E020-thumb.jpg
+│   │   ├── The Big Bang Theory S02E021-320-10.bif
+│   │   ├── The Big Bang Theory S02E021.mp4
+│   │   ├── The Big Bang Theory S02E021.nfo
+│   │   ├── The Big Bang Theory S02E021-thumb.jpg
+│   │   ├── The Big Bang Theory S02E022-320-10.bif
+│   │   ├── The Big Bang Theory S02E022.mp4
+│   │   ├── The Big Bang Theory S02E022.nfo
+│   │   ├── The Big Bang Theory S02E022-thumb.jpg
+│   │   ├── The Big Bang Theory S02E023-320-10.bif
+│   │   ├── The Big Bang Theory S02E023.mp4
+│   │   ├── The Big Bang Theory S02E023.nfo
+│   │   └── The Big Bang Theory S02E023-thumb.jpg
+│   ├── Season 3
+│   │   ├── season.nfo
+│   │   ├── The Big Bang Theory S03E001-320-10.bif
+│   │   ├── The Big Bang Theory S03E001.mkv
+│   │   ├── The Big Bang Theory S03E001.nfo
+│   │   ├── The Big Bang Theory S03E001-thumb.jpg
+│   │   ├── The Big Bang Theory S03E002-320-10.bif
+│   │   ├── The Big Bang Theory S03E002.mkv
+│   │   ├── The Big Bang Theory S03E002.nfo
+│   │   ├── The Big Bang Theory S03E002-thumb.jpg
+│   │   ├── The Big Bang Theory S03E003-320-10.bif
+│   │   ├── The Big Bang Theory S03E003.mkv
+│   │   ├── The Big Bang Theory S03E003.nfo
+│   │   ├── The Big Bang Theory S03E003-thumb.jpg
+│   │   ├── The Big Bang Theory S03E004-320-10.bif
+│   │   ├── The Big Bang Theory S03E004.mkv
+│   │   ├── The Big Bang Theory S03E004.nfo
+│   │   ├── The Big Bang Theory S03E004-thumb.jpg
+│   │   ├── The Big Bang Theory S03E005-320-10.bif
+│   │   ├── The Big Bang Theory S03E005.mkv
+│   │   ├── The Big Bang Theory S03E005.nfo
+│   │   ├── The Big Bang Theory S03E005-thumb.jpg
+│   │   ├── The Big Bang Theory S03E006-320-10.bif
+│   │   ├── The Big Bang Theory S03E006.mkv
+│   │   ├── The Big Bang Theory S03E006.nfo
+│   │   ├── The Big Bang Theory S03E006-thumb.jpg
+│   │   ├── The Big Bang Theory S03E007-320-10.bif
+│   │   ├── The Big Bang Theory S03E007.mkv
+│   │   ├── The Big Bang Theory S03E007.nfo
+│   │   ├── The Big Bang Theory S03E007-thumb.jpg
+│   │   ├── The Big Bang Theory S03E008-320-10.bif
+│   │   ├── The Big Bang Theory S03E008.mkv
+│   │   ├── The Big Bang Theory S03E008.nfo
+│   │   ├── The Big Bang Theory S03E008-thumb.jpg
+│   │   ├── The Big Bang Theory S03E009-320-10.bif
+│   │   ├── The Big Bang Theory S03E009.mkv
+│   │   ├── The Big Bang Theory S03E009.nfo
+│   │   ├── The Big Bang Theory S03E009-thumb.jpg
+│   │   ├── The Big Bang Theory S03E010-320-10.bif
+│   │   ├── The Big Bang Theory S03E010.mkv
+│   │   ├── The Big Bang Theory S03E010.nfo
+│   │   ├── The Big Bang Theory S03E010-thumb.jpg
+│   │   ├── The Big Bang Theory S03E011-320-10.bif
+│   │   ├── The Big Bang Theory S03E011.mkv
+│   │   ├── The Big Bang Theory S03E011.nfo
+│   │   ├── The Big Bang Theory S03E011-thumb.jpg
+│   │   ├── The Big Bang Theory S03E012-320-10.bif
+│   │   ├── The Big Bang Theory S03E012.mkv
+│   │   ├── The Big Bang Theory S03E012.nfo
+│   │   ├── The Big Bang Theory S03E012-thumb.jpg
+│   │   ├── The Big Bang Theory S03E013-320-10.bif
+│   │   ├── The Big Bang Theory S03E013.mkv
+│   │   ├── The Big Bang Theory S03E013.nfo
+│   │   ├── The Big Bang Theory S03E013-thumb.jpg
+│   │   ├── The Big Bang Theory S03E014-320-10.bif
+│   │   ├── The Big Bang Theory S03E014.mkv
+│   │   ├── The Big Bang Theory S03E014.nfo
+│   │   ├── The Big Bang Theory S03E014-thumb.jpg
+│   │   ├── The Big Bang Theory S03E015-320-10.bif
+│   │   ├── The Big Bang Theory S03E015.mkv
+│   │   ├── The Big Bang Theory S03E015.nfo
+│   │   ├── The Big Bang Theory S03E015-thumb.jpg
+│   │   ├── The Big Bang Theory S03E016-320-10.bif
+│   │   ├── The Big Bang Theory S03E016.mkv
+│   │   ├── The Big Bang Theory S03E016.nfo
+│   │   ├── The Big Bang Theory S03E016-thumb.jpg
+│   │   ├── The Big Bang Theory S03E017-320-10.bif
+│   │   ├── The Big Bang Theory S03E017.mkv
+│   │   ├── The Big Bang Theory S03E017.nfo
+│   │   ├── The Big Bang Theory S03E017-thumb.jpg
+│   │   ├── The Big Bang Theory S03E018-320-10.bif
+│   │   ├── The Big Bang Theory S03E018.mkv
+│   │   ├── The Big Bang Theory S03E018.nfo
+│   │   ├── The Big Bang Theory S03E018-thumb.jpg
+│   │   ├── The Big Bang Theory S03E019-320-10.bif
+│   │   ├── The Big Bang Theory S03E019.mkv
+│   │   ├── The Big Bang Theory S03E019.nfo
+│   │   ├── The Big Bang Theory S03E019-thumb.jpg
+│   │   ├── The Big Bang Theory S03E020-320-10.bif
+│   │   ├── The Big Bang Theory S03E020.mkv
+│   │   ├── The Big Bang Theory S03E020.nfo
+│   │   ├── The Big Bang Theory S03E020-thumb.jpg
+│   │   ├── The Big Bang Theory S03E021-320-10.bif
+│   │   ├── The Big Bang Theory S03E021.mkv
+│   │   ├── The Big Bang Theory S03E021.nfo
+│   │   ├── The Big Bang Theory S03E021-thumb.jpg
+│   │   ├── The Big Bang Theory S03E022-320-10.bif
+│   │   ├── The Big Bang Theory S03E022.mkv
+│   │   ├── The Big Bang Theory S03E022.nfo
+│   │   ├── The Big Bang Theory S03E022-thumb.jpg
+│   │   ├── The Big Bang Theory S03E023-320-10.bif
+│   │   ├── The Big Bang Theory S03E023.mkv
+│   │   ├── The Big Bang Theory S03E023.nfo
+│   │   └── The Big Bang Theory S03E023-thumb.jpg
+│   ├── Season 4
+│   │   ├── season.nfo
+│   │   ├── The Big Bang Theory S04E001-320-10.bif
+│   │   ├── The Big Bang Theory S04E001.mkv
+│   │   ├── The Big Bang Theory S04E001.nfo
+│   │   ├── The Big Bang Theory S04E001-thumb.jpg
+│   │   ├── The Big Bang Theory S04E002-320-10.bif
+│   │   ├── The Big Bang Theory S04E002.mkv
+│   │   ├── The Big Bang Theory S04E002.nfo
+│   │   ├── The Big Bang Theory S04E002-thumb.jpg
+│   │   ├── The Big Bang Theory S04E003-320-10.bif
+│   │   ├── The Big Bang Theory S04E003.mkv
+│   │   ├── The Big Bang Theory S04E003.nfo
+│   │   ├── The Big Bang Theory S04E003-thumb.jpg
+│   │   ├── The Big Bang Theory S04E004-320-10.bif
+│   │   ├── The Big Bang Theory S04E004.mkv
+│   │   ├── The Big Bang Theory S04E004.nfo
+│   │   ├── The Big Bang Theory S04E004-thumb.jpg
+│   │   ├── The Big Bang Theory S04E005-320-10.bif
+│   │   ├── The Big Bang Theory S04E005.mkv
+│   │   ├── The Big Bang Theory S04E005.nfo
+│   │   ├── The Big Bang Theory S04E005-thumb.jpg
+│   │   ├── The Big Bang Theory S04E006-320-10.bif
+│   │   ├── The Big Bang Theory S04E006.mkv
+│   │   ├── The Big Bang Theory S04E006.nfo
+│   │   ├── The Big Bang Theory S04E006-thumb.jpg
+│   │   ├── The Big Bang Theory S04E007-320-10.bif
+│   │   ├── The Big Bang Theory S04E007.mkv
+│   │   ├── The Big Bang Theory S04E007.nfo
+│   │   ├── The Big Bang Theory S04E007-thumb.jpg
+│   │   ├── The Big Bang Theory S04E008-320-10.bif
+│   │   ├── The Big Bang Theory S04E008.mkv
+│   │   ├── The Big Bang Theory S04E008.nfo
+│   │   ├── The Big Bang Theory S04E008-thumb.jpg
+│   │   ├── The Big Bang Theory S04E009-320-10.bif
+│   │   ├── The Big Bang Theory S04E009.mkv
+│   │   ├── The Big Bang Theory S04E009.nfo
+│   │   ├── The Big Bang Theory S04E009-thumb.jpg
+│   │   ├── The Big Bang Theory S04E010-320-10.bif
+│   │   ├── The Big Bang Theory S04E010.mkv
+│   │   ├── The Big Bang Theory S04E010.nfo
+│   │   ├── The Big Bang Theory S04E010-thumb.jpg
+│   │   ├── The Big Bang Theory S04E011-320-10.bif
+│   │   ├── The Big Bang Theory S04E011.mkv
+│   │   ├── The Big Bang Theory S04E011.nfo
+│   │   ├── The Big Bang Theory S04E011-thumb.jpg
+│   │   ├── The Big Bang Theory S04E012-320-10.bif
+│   │   ├── The Big Bang Theory S04E012.mkv
+│   │   ├── The Big Bang Theory S04E012.nfo
+│   │   ├── The Big Bang Theory S04E012-thumb.jpg
+│   │   ├── The Big Bang Theory S04E013-320-10.bif
+│   │   ├── The Big Bang Theory S04E013.mkv
+│   │   ├── The Big Bang Theory S04E013.nfo
+│   │   ├── The Big Bang Theory S04E013-thumb.jpg
+│   │   ├── The Big Bang Theory S04E014-320-10.bif
+│   │   ├── The Big Bang Theory S04E014.mkv
+│   │   ├── The Big Bang Theory S04E014.nfo
+│   │   ├── The Big Bang Theory S04E014-thumb.jpg
+│   │   ├── The Big Bang Theory S04E015-320-10.bif
+│   │   ├── The Big Bang Theory S04E015.mkv
+│   │   ├── The Big Bang Theory S04E015.nfo
+│   │   ├── The Big Bang Theory S04E015-thumb.jpg
+│   │   ├── The Big Bang Theory S04E016-320-10.bif
+│   │   ├── The Big Bang Theory S04E016.mkv
+│   │   ├── The Big Bang Theory S04E016.nfo
+│   │   ├── The Big Bang Theory S04E016-thumb.jpg
+│   │   ├── The Big Bang Theory S04E017-320-10.bif
+│   │   ├── The Big Bang Theory S04E017.mkv
+│   │   ├── The Big Bang Theory S04E017.nfo
+│   │   ├── The Big Bang Theory S04E017-thumb.jpg
+│   │   ├── The Big Bang Theory S04E018-320-10.bif
+│   │   ├── The Big Bang Theory S04E018.mkv
+│   │   ├── The Big Bang Theory S04E018.nfo
+│   │   ├── The Big Bang Theory S04E018-thumb.jpg
+│   │   ├── The Big Bang Theory S04E019-320-10.bif
+│   │   ├── The Big Bang Theory S04E019.mkv
+│   │   ├── The Big Bang Theory S04E019.nfo
+│   │   ├── The Big Bang Theory S04E019-thumb.jpg
+│   │   ├── The Big Bang Theory S04E020-320-10.bif
+│   │   ├── The Big Bang Theory S04E020.mkv
+│   │   ├── The Big Bang Theory S04E020.nfo
+│   │   ├── The Big Bang Theory S04E020-thumb.jpg
+│   │   ├── The Big Bang Theory S04E021-320-10.bif
+│   │   ├── The Big Bang Theory S04E021.mkv
+│   │   ├── The Big Bang Theory S04E021.nfo
+│   │   ├── The Big Bang Theory S04E021-thumb.jpg
+│   │   ├── The Big Bang Theory S04E022-320-10.bif
+│   │   ├── The Big Bang Theory S04E022.mkv
+│   │   ├── The Big Bang Theory S04E022.nfo
+│   │   ├── The Big Bang Theory S04E022-thumb.jpg
+│   │   ├── The Big Bang Theory S04E023-320-10.bif
+│   │   ├── The Big Bang Theory S04E023.mkv
+│   │   ├── The Big Bang Theory S04E023.nfo
+│   │   ├── The Big Bang Theory S04E023-thumb.jpg
+│   │   ├── The Big Bang Theory S04E024-320-10.bif
+│   │   ├── The Big Bang Theory S04E024.mkv
+│   │   ├── The Big Bang Theory S04E024.nfo
+│   │   └── The Big Bang Theory S04E024-thumb.jpg
+│   ├── Season 5
+│   │   ├── season.nfo
+│   │   ├── The Big Bang Theory S05E001-320-10.bif
+│   │   ├── The Big Bang Theory S05E001.mkv
+│   │   ├── The Big Bang Theory S05E001.nfo
+│   │   ├── The Big Bang Theory S05E001-thumb.jpg
+│   │   ├── The Big Bang Theory S05E002-320-10.bif
+│   │   ├── The Big Bang Theory S05E002.mkv
+│   │   ├── The Big Bang Theory S05E002.nfo
+│   │   ├── The Big Bang Theory S05E002-thumb.jpg
+│   │   ├── The Big Bang Theory S05E003-320-10.bif
+│   │   ├── The Big Bang Theory S05E003.mkv
+│   │   ├── The Big Bang Theory S05E003.nfo
+│   │   ├── The Big Bang Theory S05E003-thumb.jpg
+│   │   ├── The Big Bang Theory S05E004-320-10.bif
+│   │   ├── The Big Bang Theory S05E004.mkv
+│   │   ├── The Big Bang Theory S05E004.nfo
+│   │   ├── The Big Bang Theory S05E004-thumb.jpg
+│   │   ├── The Big Bang Theory S05E005-320-10.bif
+│   │   ├── The Big Bang Theory S05E005.mkv
+│   │   ├── The Big Bang Theory S05E005.nfo
+│   │   ├── The Big Bang Theory S05E005-thumb.jpg
+│   │   ├── The Big Bang Theory S05E006-320-10.bif
+│   │   ├── The Big Bang Theory S05E006.mkv
+│   │   ├── The Big Bang Theory S05E006.nfo
+│   │   ├── The Big Bang Theory S05E006-thumb.jpg
+│   │   ├── The Big Bang Theory S05E007-320-10.bif
+│   │   ├── The Big Bang Theory S05E007.mkv
+│   │   ├── The Big Bang Theory S05E007.nfo
+│   │   ├── The Big Bang Theory S05E007-thumb.jpg
+│   │   ├── The Big Bang Theory S05E008-320-10.bif
+│   │   ├── The Big Bang Theory S05E008.mkv
+│   │   ├── The Big Bang Theory S05E008.nfo
+│   │   ├── The Big Bang Theory S05E008-thumb.jpg
+│   │   ├── The Big Bang Theory S05E009-320-10.bif
+│   │   ├── The Big Bang Theory S05E009.mkv
+│   │   ├── The Big Bang Theory S05E009.nfo
+│   │   ├── The Big Bang Theory S05E009-thumb.jpg
+│   │   ├── The Big Bang Theory S05E010-320-10.bif
+│   │   ├── The Big Bang Theory S05E010.mkv
+│   │   ├── The Big Bang Theory S05E010.nfo
+│   │   ├── The Big Bang Theory S05E010-thumb.jpg
+│   │   ├── The Big Bang Theory S05E011-320-10.bif
+│   │   ├── The Big Bang Theory S05E011.mkv
+│   │   ├── The Big Bang Theory S05E011.nfo
+│   │   ├── The Big Bang Theory S05E011-thumb.jpg
+│   │   ├── The Big Bang Theory S05E012-320-10.bif
+│   │   ├── The Big Bang Theory S05E012.mkv
+│   │   ├── The Big Bang Theory S05E012.nfo
+│   │   ├── The Big Bang Theory S05E012-thumb.jpg
+│   │   ├── The Big Bang Theory S05E013-320-10.bif
+│   │   ├── The Big Bang Theory S05E013.mkv
+│   │   ├── The Big Bang Theory S05E013.nfo
+│   │   ├── The Big Bang Theory S05E013-thumb.jpg
+│   │   ├── The Big Bang Theory S05E014-320-10.bif
+│   │   ├── The Big Bang Theory S05E014.mkv
+│   │   ├── The Big Bang Theory S05E014.nfo
+│   │   ├── The Big Bang Theory S05E014-thumb.jpg
+│   │   ├── The Big Bang Theory S05E015-320-10.bif
+│   │   ├── The Big Bang Theory S05E015.mkv
+│   │   ├── The Big Bang Theory S05E015.nfo
+│   │   ├── The Big Bang Theory S05E015-thumb.jpg
+│   │   ├── The Big Bang Theory S05E016-320-10.bif
+│   │   ├── The Big Bang Theory S05E016.mkv
+│   │   ├── The Big Bang Theory S05E016.nfo
+│   │   ├── The Big Bang Theory S05E016-thumb.jpg
+│   │   ├── The Big Bang Theory S05E017-320-10.bif
+│   │   ├── The Big Bang Theory S05E017.mkv
+│   │   ├── The Big Bang Theory S05E017.nfo
+│   │   ├── The Big Bang Theory S05E017-thumb.jpg
+│   │   ├── The Big Bang Theory S05E018-320-10.bif
+│   │   ├── The Big Bang Theory S05E018.mkv
+│   │   ├── The Big Bang Theory S05E018.nfo
+│   │   ├── The Big Bang Theory S05E018-thumb.jpg
+│   │   ├── The Big Bang Theory S05E019-320-10.bif
+│   │   ├── The Big Bang Theory S05E019.mkv
+│   │   ├── The Big Bang Theory S05E019.nfo
+│   │   ├── The Big Bang Theory S05E019-thumb.jpg
+│   │   ├── The Big Bang Theory S05E020-320-10.bif
+│   │   ├── The Big Bang Theory S05E020.mkv
+│   │   ├── The Big Bang Theory S05E020.nfo
+│   │   ├── The Big Bang Theory S05E020-thumb.jpg
+│   │   ├── The Big Bang Theory S05E021-320-10.bif
+│   │   ├── The Big Bang Theory S05E021.mkv
+│   │   ├── The Big Bang Theory S05E021.nfo
+│   │   ├── The Big Bang Theory S05E021-thumb.jpg
+│   │   ├── The Big Bang Theory S05E022-320-10.bif
+│   │   ├── The Big Bang Theory S05E022.mkv
+│   │   ├── The Big Bang Theory S05E022.nfo
+│   │   ├── The Big Bang Theory S05E022-thumb.jpg
+│   │   ├── The Big Bang Theory S05E023-320-10.bif
+│   │   ├── The Big Bang Theory S05E023.mkv
+│   │   ├── The Big Bang Theory S05E023.nfo
+│   │   ├── The Big Bang Theory S05E023-thumb.jpg
+│   │   ├── The Big Bang Theory S05E024-320-10.bif
+│   │   ├── The Big Bang Theory S05E024.mkv
+│   │   ├── The Big Bang Theory S05E024.nfo
+│   │   └── The Big Bang Theory S05E024-thumb.jpg
+│   ├── Season 6
+│   │   ├── season.nfo
+│   │   ├── The Big Bang Theory S06E001-320-10.bif
+│   │   ├── The Big Bang Theory S06E001.mkv
+│   │   ├── The Big Bang Theory S06E001.nfo
+│   │   ├── The Big Bang Theory S06E001-thumb.jpg
+│   │   ├── The Big Bang Theory S06E002-320-10.bif
+│   │   ├── The Big Bang Theory S06E002.mkv
+│   │   ├── The Big Bang Theory S06E002.nfo
+│   │   ├── The Big Bang Theory S06E002-thumb.jpg
+│   │   ├── The Big Bang Theory S06E003-320-10.bif
+│   │   ├── The Big Bang Theory S06E003.mkv
+│   │   ├── The Big Bang Theory S06E003.nfo
+│   │   ├── The Big Bang Theory S06E003-thumb.jpg
+│   │   ├── The Big Bang Theory S06E004-320-10.bif
+│   │   ├── The Big Bang Theory S06E004.mkv
+│   │   ├── The Big Bang Theory S06E004.nfo
+│   │   ├── The Big Bang Theory S06E004-thumb.jpg
+│   │   ├── The Big Bang Theory S06E005-320-10.bif
+│   │   ├── The Big Bang Theory S06E005.mkv
+│   │   ├── The Big Bang Theory S06E005.nfo
+│   │   ├── The Big Bang Theory S06E005-thumb.jpg
+│   │   ├── The Big Bang Theory S06E006-320-10.bif
+│   │   ├── The Big Bang Theory S06E006.mkv
+│   │   ├── The Big Bang Theory S06E006.nfo
+│   │   ├── The Big Bang Theory S06E006-thumb.jpg
+│   │   ├── The Big Bang Theory S06E007-320-10.bif
+│   │   ├── The Big Bang Theory S06E007.mkv
+│   │   ├── The Big Bang Theory S06E007.nfo
+│   │   ├── The Big Bang Theory S06E007-thumb.jpg
+│   │   ├── The Big Bang Theory S06E008-320-10.bif
+│   │   ├── The Big Bang Theory S06E008.mkv
+│   │   ├── The Big Bang Theory S06E008.nfo
+│   │   ├── The Big Bang Theory S06E008-thumb.jpg
+│   │   ├── The Big Bang Theory S06E009-320-10.bif
+│   │   ├── The Big Bang Theory S06E009.mkv
+│   │   ├── The Big Bang Theory S06E009.nfo
+│   │   ├── The Big Bang Theory S06E009-thumb.jpg
+│   │   ├── The Big Bang Theory S06E010-320-10.bif
+│   │   ├── The Big Bang Theory S06E010.mkv
+│   │   ├── The Big Bang Theory S06E010.nfo
+│   │   ├── The Big Bang Theory S06E010-thumb.jpg
+│   │   ├── The Big Bang Theory S06E011-320-10.bif
+│   │   ├── The Big Bang Theory S06E011.mkv
+│   │   ├── The Big Bang Theory S06E011.nfo
+│   │   ├── The Big Bang Theory S06E011-thumb.jpg
+│   │   ├── The Big Bang Theory S06E012-320-10.bif
+│   │   ├── The Big Bang Theory S06E012.mkv
+│   │   ├── The Big Bang Theory S06E012.nfo
+│   │   ├── The Big Bang Theory S06E012-thumb.jpg
+│   │   ├── The Big Bang Theory S06E013-320-10.bif
+│   │   ├── The Big Bang Theory S06E013.mkv
+│   │   ├── The Big Bang Theory S06E013.nfo
+│   │   ├── The Big Bang Theory S06E013-thumb.jpg
+│   │   ├── The Big Bang Theory S06E014-320-10.bif
+│   │   ├── The Big Bang Theory S06E014.mkv
+│   │   ├── The Big Bang Theory S06E014.nfo
+│   │   ├── The Big Bang Theory S06E014-thumb.jpg
+│   │   ├── The Big Bang Theory S06E015-320-10.bif
+│   │   ├── The Big Bang Theory S06E015.mkv
+│   │   ├── The Big Bang Theory S06E015.nfo
+│   │   ├── The Big Bang Theory S06E015-thumb.jpg
+│   │   ├── The Big Bang Theory S06E016-320-10.bif
+│   │   ├── The Big Bang Theory S06E016.mkv
+│   │   ├── The Big Bang Theory S06E016.nfo
+│   │   ├── The Big Bang Theory S06E016-thumb.jpg
+│   │   ├── The Big Bang Theory S06E017-320-10.bif
+│   │   ├── The Big Bang Theory S06E017.mkv
+│   │   ├── The Big Bang Theory S06E017.nfo
+│   │   ├── The Big Bang Theory S06E017-thumb.jpg
+│   │   ├── The Big Bang Theory S06E018-320-10.bif
+│   │   ├── The Big Bang Theory S06E018.mkv
+│   │   ├── The Big Bang Theory S06E018.nfo
+│   │   ├── The Big Bang Theory S06E018-thumb.jpg
+│   │   ├── The Big Bang Theory S06E019-320-10.bif
+│   │   ├── The Big Bang Theory S06E019.mkv
+│   │   ├── The Big Bang Theory S06E019.nfo
+│   │   ├── The Big Bang Theory S06E019-thumb.jpg
+│   │   ├── The Big Bang Theory S06E020-320-10.bif
+│   │   ├── The Big Bang Theory S06E020.mkv
+│   │   ├── The Big Bang Theory S06E020.nfo
+│   │   ├── The Big Bang Theory S06E020-thumb.jpg
+│   │   ├── The Big Bang Theory S06E021-320-10.bif
+│   │   ├── The Big Bang Theory S06E021.mkv
+│   │   ├── The Big Bang Theory S06E021.nfo
+│   │   ├── The Big Bang Theory S06E021-thumb.jpg
+│   │   ├── The Big Bang Theory S06E022-320-10.bif
+│   │   ├── The Big Bang Theory S06E022.mkv
+│   │   ├── The Big Bang Theory S06E022.nfo
+│   │   ├── The Big Bang Theory S06E022-thumb.jpg
+│   │   ├── The Big Bang Theory S06E023-320-10.bif
+│   │   ├── The Big Bang Theory S06E023.mkv
+│   │   ├── The Big Bang Theory S06E023.nfo
+│   │   ├── The Big Bang Theory S06E023-thumb.jpg
+│   │   ├── The Big Bang Theory S06E024-320-10.bif
+│   │   ├── The Big Bang Theory S06E024.mkv
+│   │   ├── The Big Bang Theory S06E024.nfo
+│   │   └── The Big Bang Theory S06E024-thumb.jpg
+│   ├── Season 7
+│   │   ├── season.nfo
+│   │   ├── The Big Bang Theory S07E001-320-10.bif
+│   │   ├── The Big Bang Theory S07E001.mkv
+│   │   ├── The Big Bang Theory S07E001.nfo
+│   │   ├── The Big Bang Theory S07E001-thumb.jpg
+│   │   ├── The Big Bang Theory S07E002-320-10.bif
+│   │   ├── The Big Bang Theory S07E002.mkv
+│   │   ├── The Big Bang Theory S07E002.nfo
+│   │   ├── The Big Bang Theory S07E002-thumb.jpg
+│   │   ├── The Big Bang Theory S07E003-320-10.bif
+│   │   ├── The Big Bang Theory S07E003.mkv
+│   │   ├── The Big Bang Theory S07E003.nfo
+│   │   ├── The Big Bang Theory S07E003-thumb.jpg
+│   │   ├── The Big Bang Theory S07E004-320-10.bif
+│   │   ├── The Big Bang Theory S07E004.mkv
+│   │   ├── The Big Bang Theory S07E004.nfo
+│   │   ├── The Big Bang Theory S07E004-thumb.jpg
+│   │   ├── The Big Bang Theory S07E005-320-10.bif
+│   │   ├── The Big Bang Theory S07E005.mkv
+│   │   ├── The Big Bang Theory S07E005.nfo
+│   │   ├── The Big Bang Theory S07E005-thumb.jpg
+│   │   ├── The Big Bang Theory S07E006-320-10.bif
+│   │   ├── The Big Bang Theory S07E006.mkv
+│   │   ├── The Big Bang Theory S07E006.nfo
+│   │   ├── The Big Bang Theory S07E006-thumb.jpg
+│   │   ├── The Big Bang Theory S07E007-320-10.bif
+│   │   ├── The Big Bang Theory S07E007.mkv
+│   │   ├── The Big Bang Theory S07E007.nfo
+│   │   ├── The Big Bang Theory S07E007-thumb.jpg
+│   │   ├── The Big Bang Theory S07E008-320-10.bif
+│   │   ├── The Big Bang Theory S07E008.mkv
+│   │   ├── The Big Bang Theory S07E008.nfo
+│   │   ├── The Big Bang Theory S07E008-thumb.jpg
+│   │   ├── The Big Bang Theory S07E009-320-10.bif
+│   │   ├── The Big Bang Theory S07E009.mkv
+│   │   ├── The Big Bang Theory S07E009.nfo
+│   │   ├── The Big Bang Theory S07E009-thumb.jpg
+│   │   ├── The Big Bang Theory S07E010-320-10.bif
+│   │   ├── The Big Bang Theory S07E010.mkv
+│   │   ├── The Big Bang Theory S07E010.nfo
+│   │   ├── The Big Bang Theory S07E010-thumb.jpg
+│   │   ├── The Big Bang Theory S07E011-320-10.bif
+│   │   ├── The Big Bang Theory S07E011.mkv
+│   │   ├── The Big Bang Theory S07E011.nfo
+│   │   ├── The Big Bang Theory S07E011-thumb.jpg
+│   │   ├── The Big Bang Theory S07E012-320-10.bif
+│   │   ├── The Big Bang Theory S07E012.mkv
+│   │   ├── The Big Bang Theory S07E012.nfo
+│   │   ├── The Big Bang Theory S07E012-thumb.jpg
+│   │   ├── The Big Bang Theory S07E013-320-10.bif
+│   │   ├── The Big Bang Theory S07E013.mkv
+│   │   ├── The Big Bang Theory S07E013.nfo
+│   │   ├── The Big Bang Theory S07E013-thumb.jpg
+│   │   ├── The Big Bang Theory S07E014-320-10.bif
+│   │   ├── The Big Bang Theory S07E014.mkv
+│   │   ├── The Big Bang Theory S07E014.nfo
+│   │   ├── The Big Bang Theory S07E014-thumb.jpg
+│   │   ├── The Big Bang Theory S07E015-320-10.bif
+│   │   ├── The Big Bang Theory S07E015.mkv
+│   │   ├── The Big Bang Theory S07E015.nfo
+│   │   ├── The Big Bang Theory S07E015-thumb.jpg
+│   │   ├── The Big Bang Theory S07E016-320-10.bif
+│   │   ├── The Big Bang Theory S07E016.mkv
+│   │   ├── The Big Bang Theory S07E016.nfo
+│   │   ├── The Big Bang Theory S07E016-thumb.jpg
+│   │   ├── The Big Bang Theory S07E017-320-10.bif
+│   │   ├── The Big Bang Theory S07E017.mkv
+│   │   ├── The Big Bang Theory S07E017.nfo
+│   │   ├── The Big Bang Theory S07E017-thumb.jpg
+│   │   ├── The Big Bang Theory S07E018-320-10.bif
+│   │   ├── The Big Bang Theory S07E018.mkv
+│   │   ├── The Big Bang Theory S07E018.nfo
+│   │   ├── The Big Bang Theory S07E018-thumb.jpg
+│   │   ├── The Big Bang Theory S07E019-320-10.bif
+│   │   ├── The Big Bang Theory S07E019.mkv
+│   │   ├── The Big Bang Theory S07E019.nfo
+│   │   ├── The Big Bang Theory S07E019-thumb.jpg
+│   │   ├── The Big Bang Theory S07E020-320-10.bif
+│   │   ├── The Big Bang Theory S07E020.mkv
+│   │   ├── The Big Bang Theory S07E020.nfo
+│   │   ├── The Big Bang Theory S07E020-thumb.jpg
+│   │   ├── The Big Bang Theory S07E021-320-10.bif
+│   │   ├── The Big Bang Theory S07E021.mkv
+│   │   ├── The Big Bang Theory S07E021.nfo
+│   │   ├── The Big Bang Theory S07E021-thumb.jpg
+│   │   ├── The Big Bang Theory S07E022-320-10.bif
+│   │   ├── The Big Bang Theory S07E022.mkv
+│   │   ├── The Big Bang Theory S07E022.nfo
+│   │   ├── The Big Bang Theory S07E022-thumb.jpg
+│   │   ├── The Big Bang Theory S07E023-320-10.bif
+│   │   ├── The Big Bang Theory S07E023.mkv
+│   │   ├── The Big Bang Theory S07E023.nfo
+│   │   ├── The Big Bang Theory S07E023-thumb.jpg
+│   │   ├── The Big Bang Theory S07E024-320-10.bif
+│   │   ├── The Big Bang Theory S07E024.mkv
+│   │   ├── The Big Bang Theory S07E024.nfo
+│   │   └── The Big Bang Theory S07E024-thumb.jpg
+│   ├── Season 8
+│   │   ├── season.nfo
+│   │   ├── The Big Bang Theory S08E001-320-10.bif
+│   │   ├── The Big Bang Theory S08E001.mkv
+│   │   ├── The Big Bang Theory S08E001.nfo
+│   │   ├── The Big Bang Theory S08E001-thumb.jpg
+│   │   ├── The Big Bang Theory S08E002-320-10.bif
+│   │   ├── The Big Bang Theory S08E002.mkv
+│   │   ├── The Big Bang Theory S08E002.nfo
+│   │   ├── The Big Bang Theory S08E002-thumb.jpg
+│   │   ├── The Big Bang Theory S08E003-320-10.bif
+│   │   ├── The Big Bang Theory S08E003.mkv
+│   │   ├── The Big Bang Theory S08E003.nfo
+│   │   ├── The Big Bang Theory S08E003-thumb.jpg
+│   │   ├── The Big Bang Theory S08E004-320-10.bif
+│   │   ├── The Big Bang Theory S08E004.mkv
+│   │   ├── The Big Bang Theory S08E004.nfo
+│   │   ├── The Big Bang Theory S08E004-thumb.jpg
+│   │   ├── The Big Bang Theory S08E005-320-10.bif
+│   │   ├── The Big Bang Theory S08E005.mkv
+│   │   ├── The Big Bang Theory S08E005.nfo
+│   │   ├── The Big Bang Theory S08E005-thumb.jpg
+│   │   ├── The Big Bang Theory S08E006-320-10.bif
+│   │   ├── The Big Bang Theory S08E006.mkv
+│   │   ├── The Big Bang Theory S08E006.nfo
+│   │   ├── The Big Bang Theory S08E006-thumb.jpg
+│   │   ├── The Big Bang Theory S08E007-320-10.bif
+│   │   ├── The Big Bang Theory S08E007.mkv
+│   │   ├── The Big Bang Theory S08E007.nfo
+│   │   ├── The Big Bang Theory S08E007-thumb.jpg
+│   │   ├── The Big Bang Theory S08E008-320-10.bif
+│   │   ├── The Big Bang Theory S08E008.mkv
+│   │   ├── The Big Bang Theory S08E008.nfo
+│   │   ├── The Big Bang Theory S08E008-thumb.jpg
+│   │   ├── The Big Bang Theory S08E009-320-10.bif
+│   │   ├── The Big Bang Theory S08E009.mkv
+│   │   ├── The Big Bang Theory S08E009.nfo
+│   │   ├── The Big Bang Theory S08E009-thumb.jpg
+│   │   ├── The Big Bang Theory S08E010-320-10.bif
+│   │   ├── The Big Bang Theory S08E010.mkv
+│   │   ├── The Big Bang Theory S08E010.nfo
+│   │   ├── The Big Bang Theory S08E010-thumb.jpg
+│   │   ├── The Big Bang Theory S08E011-320-10.bif
+│   │   ├── The Big Bang Theory S08E011.mkv
+│   │   ├── The Big Bang Theory S08E011.nfo
+│   │   ├── The Big Bang Theory S08E011-thumb.jpg
+│   │   ├── The Big Bang Theory S08E012-320-10.bif
+│   │   ├── The Big Bang Theory S08E012.mkv
+│   │   ├── The Big Bang Theory S08E012.nfo
+│   │   ├── The Big Bang Theory S08E012-thumb.jpg
+│   │   ├── The Big Bang Theory S08E013-320-10.bif
+│   │   ├── The Big Bang Theory S08E013.mkv
+│   │   ├── The Big Bang Theory S08E013.nfo
+│   │   ├── The Big Bang Theory S08E013-thumb.jpg
+│   │   ├── The Big Bang Theory S08E014-320-10.bif
+│   │   ├── The Big Bang Theory S08E014.mkv
+│   │   ├── The Big Bang Theory S08E014.nfo
+│   │   ├── The Big Bang Theory S08E014-thumb.jpg
+│   │   ├── The Big Bang Theory S08E015-320-10.bif
+│   │   ├── The Big Bang Theory S08E015.mkv
+│   │   ├── The Big Bang Theory S08E015.nfo
+│   │   ├── The Big Bang Theory S08E015-thumb.jpg
+│   │   ├── The Big Bang Theory S08E016-320-10.bif
+│   │   ├── The Big Bang Theory S08E016.mkv
+│   │   ├── The Big Bang Theory S08E016.nfo
+│   │   ├── The Big Bang Theory S08E016-thumb.jpg
+│   │   ├── The Big Bang Theory S08E017-320-10.bif
+│   │   ├── The Big Bang Theory S08E017.mkv
+│   │   ├── The Big Bang Theory S08E017.nfo
+│   │   ├── The Big Bang Theory S08E017-thumb.jpg
+│   │   ├── The Big Bang Theory S08E018-320-10.bif
+│   │   ├── The Big Bang Theory S08E018.mkv
+│   │   ├── The Big Bang Theory S08E018.nfo
+│   │   ├── The Big Bang Theory S08E018-thumb.jpg
+│   │   ├── The Big Bang Theory S08E019-320-10.bif
+│   │   ├── The Big Bang Theory S08E019.mkv
+│   │   ├── The Big Bang Theory S08E019.nfo
+│   │   ├── The Big Bang Theory S08E019-thumb.jpg
+│   │   ├── The Big Bang Theory S08E020-320-10.bif
+│   │   ├── The Big Bang Theory S08E020.mkv
+│   │   ├── The Big Bang Theory S08E020.nfo
+│   │   ├── The Big Bang Theory S08E020-thumb.jpg
+│   │   ├── The Big Bang Theory S08E021-320-10.bif
+│   │   ├── The Big Bang Theory S08E021.mkv
+│   │   ├── The Big Bang Theory S08E021.nfo
+│   │   ├── The Big Bang Theory S08E021-thumb.jpg
+│   │   ├── The Big Bang Theory S08E022-320-10.bif
+│   │   ├── The Big Bang Theory S08E022.mkv
+│   │   ├── The Big Bang Theory S08E022.nfo
+│   │   ├── The Big Bang Theory S08E022-thumb.jpg
+│   │   ├── The Big Bang Theory S08E023-320-10.bif
+│   │   ├── The Big Bang Theory S08E023.mkv
+│   │   ├── The Big Bang Theory S08E023.nfo
+│   │   ├── The Big Bang Theory S08E023-thumb.jpg
+│   │   ├── The Big Bang Theory S08E024-320-10.bif
+│   │   ├── The Big Bang Theory S08E024.mkv
+│   │   ├── The Big Bang Theory S08E024.nfo
+│   │   └── The Big Bang Theory S08E024-thumb.jpg
+│   ├── Season 9
+│   │   ├── season.nfo
+│   │   ├── The Big Bang Theory S09E001-320-10.bif
+│   │   ├── The Big Bang Theory S09E001.mp4
+│   │   ├── The Big Bang Theory S09E001.nfo
+│   │   ├── The Big Bang Theory S09E001-thumb.jpg
+│   │   ├── The Big Bang Theory S09E002-320-10.bif
+│   │   ├── The Big Bang Theory S09E002.mp4
+│   │   ├── The Big Bang Theory S09E002.nfo
+│   │   ├── The Big Bang Theory S09E002-thumb.jpg
+│   │   ├── The Big Bang Theory S09E003-320-10.bif
+│   │   ├── The Big Bang Theory S09E003.mp4
+│   │   ├── The Big Bang Theory S09E003.nfo
+│   │   ├── The Big Bang Theory S09E003-thumb.jpg
+│   │   ├── The Big Bang Theory S09E004-320-10.bif
+│   │   ├── The Big Bang Theory S09E004.mp4
+│   │   ├── The Big Bang Theory S09E004.nfo
+│   │   ├── The Big Bang Theory S09E004-thumb.jpg
+│   │   ├── The Big Bang Theory S09E005-320-10.bif
+│   │   ├── The Big Bang Theory S09E005.mp4
+│   │   ├── The Big Bang Theory S09E005.nfo
+│   │   ├── The Big Bang Theory S09E005-thumb.jpg
+│   │   ├── The Big Bang Theory S09E006-320-10.bif
+│   │   ├── The Big Bang Theory S09E006.mp4
+│   │   ├── The Big Bang Theory S09E006.nfo
+│   │   ├── The Big Bang Theory S09E006-thumb.jpg
+│   │   ├── The Big Bang Theory S09E007-320-10.bif
+│   │   ├── The Big Bang Theory S09E007.mp4
+│   │   ├── The Big Bang Theory S09E007.nfo
+│   │   ├── The Big Bang Theory S09E007-thumb.jpg
+│   │   ├── The Big Bang Theory S09E008-320-10.bif
+│   │   ├── The Big Bang Theory S09E008.mp4
+│   │   ├── The Big Bang Theory S09E008.nfo
+│   │   ├── The Big Bang Theory S09E008-thumb.jpg
+│   │   ├── The Big Bang Theory S09E009-320-10.bif
+│   │   ├── The Big Bang Theory S09E009.mp4
+│   │   ├── The Big Bang Theory S09E009.nfo
+│   │   ├── The Big Bang Theory S09E009-thumb.jpg
+│   │   ├── The Big Bang Theory S09E010-320-10.bif
+│   │   ├── The Big Bang Theory S09E010.mp4
+│   │   ├── The Big Bang Theory S09E010.nfo
+│   │   ├── The Big Bang Theory S09E010-thumb.jpg
+│   │   ├── The Big Bang Theory S09E011-320-10.bif
+│   │   ├── The Big Bang Theory S09E011.mp4
+│   │   ├── The Big Bang Theory S09E011.nfo
+│   │   ├── The Big Bang Theory S09E011-thumb.jpg
+│   │   ├── The Big Bang Theory S09E012-320-10.bif
+│   │   ├── The Big Bang Theory S09E012.mp4
+│   │   ├── The Big Bang Theory S09E012.nfo
+│   │   ├── The Big Bang Theory S09E012-thumb.jpg
+│   │   ├── The Big Bang Theory S09E013-320-10.bif
+│   │   ├── The Big Bang Theory S09E013.mp4
+│   │   ├── The Big Bang Theory S09E013.nfo
+│   │   ├── The Big Bang Theory S09E013-thumb.jpg
+│   │   ├── The Big Bang Theory S09E014-320-10.bif
+│   │   ├── The Big Bang Theory S09E014.mp4
+│   │   ├── The Big Bang Theory S09E014.nfo
+│   │   ├── The Big Bang Theory S09E014-thumb.jpg
+│   │   ├── The Big Bang Theory S09E015-320-10.bif
+│   │   ├── The Big Bang Theory S09E015.mp4
+│   │   ├── The Big Bang Theory S09E015.nfo
+│   │   ├── The Big Bang Theory S09E015-thumb.jpg
+│   │   ├── The Big Bang Theory S09E016-320-10.bif
+│   │   ├── The Big Bang Theory S09E016.mp4
+│   │   ├── The Big Bang Theory S09E016.nfo
+│   │   ├── The Big Bang Theory S09E016-thumb.jpg
+│   │   ├── The Big Bang Theory S09E017-320-10.bif
+│   │   ├── The Big Bang Theory S09E017.mp4
+│   │   ├── The Big Bang Theory S09E017.nfo
+│   │   ├── The Big Bang Theory S09E017-thumb.jpg
+│   │   ├── The Big Bang Theory S09E018-320-10.bif
+│   │   ├── The Big Bang Theory S09E018.mp4
+│   │   ├── The Big Bang Theory S09E018.nfo
+│   │   ├── The Big Bang Theory S09E018-thumb.jpg
+│   │   ├── The Big Bang Theory S09E019-320-10.bif
+│   │   ├── The Big Bang Theory S09E019.mp4
+│   │   ├── The Big Bang Theory S09E019.nfo
+│   │   ├── The Big Bang Theory S09E019-thumb.jpg
+│   │   ├── The Big Bang Theory S09E020-320-10.bif
+│   │   ├── The Big Bang Theory S09E020.mp4
+│   │   ├── The Big Bang Theory S09E020.nfo
+│   │   ├── The Big Bang Theory S09E020-thumb.jpg
+│   │   ├── The Big Bang Theory S09E021-320-10.bif
+│   │   ├── The Big Bang Theory S09E021.mp4
+│   │   ├── The Big Bang Theory S09E021.nfo
+│   │   ├── The Big Bang Theory S09E021-thumb.jpg
+│   │   ├── The Big Bang Theory S09E022-320-10.bif
+│   │   ├── The Big Bang Theory S09E022.mp4
+│   │   ├── The Big Bang Theory S09E022.nfo
+│   │   ├── The Big Bang Theory S09E022-thumb.jpg
+│   │   ├── The Big Bang Theory S09E023-320-10.bif
+│   │   ├── The Big Bang Theory S09E023.mp4
+│   │   ├── The Big Bang Theory S09E023.nfo
+│   │   ├── The Big Bang Theory S09E023-thumb.jpg
+│   │   ├── The Big Bang Theory S09E024-320-10.bif
+│   │   ├── The Big Bang Theory S09E024.mp4
+│   │   ├── The Big Bang Theory S09E024.nfo
+│   │   └── The Big Bang Theory S09E024-thumb.jpg
+│   └── tvshow.nfo
+├── The End of the F***ing World (2017)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── Season 1
+│   │   ├── season.nfo
+│   │   ├── The End of the F***ing World S01E01-320-10.bif
+│   │   ├── The End of the F***ing World S01E01.ChsEngA.ass
+│   │   ├── The End of the F***ing World S01E01.mkv
+│   │   ├── The End of the F***ing World S01E01.nfo
+│   │   ├── The End of the F***ing World S01E01-thumb.jpg
+│   │   ├── The End of the F***ing World S01E02-320-10.bif
+│   │   ├── The End of the F***ing World S01E02.ChsEngA.ass
+│   │   ├── The End of the F***ing World S01E02.mkv
+│   │   ├── The End of the F***ing World S01E02.nfo
+│   │   ├── The End of the F***ing World S01E02-thumb.jpg
+│   │   ├── The End of the F***ing World S01E03-320-10.bif
+│   │   ├── The End of the F***ing World S01E03.ChsEngA.ass
+│   │   ├── The End of the F***ing World S01E03.mkv
+│   │   ├── The End of the F***ing World S01E03.nfo
+│   │   ├── The End of the F***ing World S01E03-thumb.jpg
+│   │   ├── The End of the F***ing World S01E04-320-10.bif
+│   │   ├── The End of the F***ing World S01E04.ChsEngA.ass
+│   │   ├── The End of the F***ing World S01E04.mkv
+│   │   ├── The End of the F***ing World S01E04.nfo
+│   │   ├── The End of the F***ing World S01E04-thumb.jpg
+│   │   ├── The End of the F***ing World S01E05-320-10.bif
+│   │   ├── The End of the F***ing World S01E05.ChsEngA.ass
+│   │   ├── The End of the F***ing World S01E05.mkv
+│   │   ├── The End of the F***ing World S01E05.nfo
+│   │   ├── The End of the F***ing World S01E05-thumb.jpg
+│   │   ├── The End of the F***ing World S01E06-320-10.bif
+│   │   ├── The End of the F***ing World S01E06.ChsEngA.ass
+│   │   ├── The End of the F***ing World S01E06.mkv
+│   │   ├── The End of the F***ing World S01E06.nfo
+│   │   ├── The End of the F***ing World S01E06-thumb.jpg
+│   │   ├── The End of the F***ing World S01E07-320-10.bif
+│   │   ├── The End of the F***ing World S01E07.ChsEngA.ass
+│   │   ├── The End of the F***ing World S01E07.mkv
+│   │   ├── The End of the F***ing World S01E07.nfo
+│   │   ├── The End of the F***ing World S01E07-thumb.jpg
+│   │   ├── The End of the F***ing World S01E08-320-10.bif
+│   │   ├── The End of the F***ing World S01E08.ChsEngA.ass
+│   │   ├── The End of the F***ing World S01E08.mkv
+│   │   ├── The End of the F***ing World S01E08.nfo
+│   │   └── The End of the F***ing World S01E08-thumb.jpg
+│   ├── Season 2
+│   │   ├── season.nfo
+│   │   ├── The End of the F***ing World S02E01-320-10.bif
+│   │   ├── The End of the F***ing World S02E01.chs.eng.ass
+│   │   ├── The End of the F***ing World S02E01.mkv
+│   │   ├── The End of the F***ing World S02E01.nfo
+│   │   ├── The End of the F***ing World S02E01-thumb.jpg
+│   │   ├── The End of the F***ing World S02E02-320-10.bif
+│   │   ├── The End of the F***ing World S02E02.chs.eng.ass
+│   │   ├── The End of the F***ing World S02E02.mkv
+│   │   ├── The End of the F***ing World S02E02.nfo
+│   │   ├── The End of the F***ing World S02E02-thumb.jpg
+│   │   ├── The End of the F***ing World S02E03-320-10.bif
+│   │   ├── The End of the F***ing World S02E03.chs.eng.ass
+│   │   ├── The End of the F***ing World S02E03.mkv
+│   │   ├── The End of the F***ing World S02E03.nfo
+│   │   ├── The End of the F***ing World S02E03-thumb.jpg
+│   │   ├── The End of the F***ing World S02E04-320-10.bif
+│   │   ├── The End of the F***ing World S02E04.chs.eng.ass
+│   │   ├── The End of the F***ing World S02E04.mkv
+│   │   ├── The End of the F***ing World S02E04.nfo
+│   │   ├── The End of the F***ing World S02E04-thumb.jpg
+│   │   ├── The End of the F***ing World S02E05-320-10.bif
+│   │   ├── The End of the F***ing World S02E05.chs.eng.ass
+│   │   ├── The End of the F***ing World S02E05.mkv
+│   │   ├── The End of the F***ing World S02E05.nfo
+│   │   ├── The End of the F***ing World S02E05-thumb.jpg
+│   │   ├── The End of the F***ing World S02E06-320-10.bif
+│   │   ├── The End of the F***ing World S02E06.chs.eng.ass
+│   │   ├── The End of the F***ing World S02E06.mkv
+│   │   ├── The End of the F***ing World S02E06.nfo
+│   │   ├── The End of the F***ing World S02E06-thumb.jpg
+│   │   ├── The End of the F***ing World S02E07-320-10.bif
+│   │   ├── The End of the F***ing World S02E07.chs.eng.ass
+│   │   ├── The End of the F***ing World S02E07.mkv
+│   │   ├── The End of the F***ing World S02E07.nfo
+│   │   ├── The End of the F***ing World S02E07-thumb.jpg
+│   │   ├── The End of the F***ing World S02E08-320-10.bif
+│   │   ├── The End of the F***ing World S02E08.chs.eng.ass
+│   │   ├── The End of the F***ing World S02E08.mkv
+│   │   ├── The End of the F***ing World S02E08.nfo
+│   │   └── The End of the F***ing World S02E08-thumb.jpg
+│   └── tvshow.nfo
+├── The Expanse (2015)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── season.nfo
+│   │   ├── The Expanse S01E01-320-10.bif
+│   │   ├── The Expanse S01E01.en.srt
+│   │   ├── The Expanse S01E01.mkv
+│   │   ├── The Expanse S01E01.nfo
+│   │   ├── The Expanse S01E01-thumb.jpg
+│   │   ├── The Expanse S01E02-320-10.bif
+│   │   ├── The Expanse S01E02.en.srt
+│   │   ├── The Expanse S01E02.mkv
+│   │   ├── The Expanse S01E02.nfo
+│   │   ├── The Expanse S01E02-thumb.jpg
+│   │   ├── The Expanse S01E03-320-10.bif
+│   │   ├── The Expanse S01E03.en.srt
+│   │   ├── The Expanse S01E03.mkv
+│   │   ├── The Expanse S01E03.nfo
+│   │   ├── The Expanse S01E03-thumb.jpg
+│   │   ├── The Expanse S01E04-320-10.bif
+│   │   ├── The Expanse S01E04.en.srt
+│   │   ├── The Expanse S01E04.mkv
+│   │   ├── The Expanse S01E04.nfo
+│   │   ├── The Expanse S01E04-thumb.jpg
+│   │   ├── The Expanse S01E05-320-10.bif
+│   │   ├── The Expanse S01E05.en.srt
+│   │   ├── The Expanse S01E05.mkv
+│   │   ├── The Expanse S01E05.nfo
+│   │   ├── The Expanse S01E05-thumb.jpg
+│   │   ├── The Expanse S01E06-320-10.bif
+│   │   ├── The Expanse S01E06.en.srt
+│   │   ├── The Expanse S01E06.mkv
+│   │   ├── The Expanse S01E06.nfo
+│   │   ├── The Expanse S01E06-thumb.jpg
+│   │   ├── The Expanse S01E07-320-10.bif
+│   │   ├── The Expanse S01E07.en.srt
+│   │   ├── The Expanse S01E07.mkv
+│   │   ├── The Expanse S01E07.nfo
+│   │   ├── The Expanse S01E07-thumb.jpg
+│   │   ├── The Expanse S01E08-320-10.bif
+│   │   ├── The Expanse S01E08.en.srt
+│   │   ├── The Expanse S01E08.mkv
+│   │   ├── The Expanse S01E08.nfo
+│   │   ├── The Expanse S01E08-thumb.jpg
+│   │   ├── The Expanse S01E09-320-10.bif
+│   │   ├── The Expanse S01E09.mkv
+│   │   ├── The Expanse S01E09.nfo
+│   │   └── The Expanse S01E09-thumb.jpg
+│   └── tvshow.nfo
+├── The Handmaid's Tale (2017)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── season04-poster.jpg
+│   ├── Season 1
+│   │   ├── season.nfo
+│   │   ├── The Handmaid's Tale S01E01-320-10.bif
+│   │   ├── The Handmaid's Tale S01E01.mkv
+│   │   ├── The Handmaid's Tale S01E01.nfo
+│   │   ├── The Handmaid's Tale S01E01-thumb.jpg
+│   │   ├── The Handmaid's Tale S01E01.zh-cn.srt
+│   │   ├── The Handmaid's Tale S01E02-320-10.bif
+│   │   ├── The Handmaid's Tale S01E02.mkv
+│   │   ├── The Handmaid's Tale S01E02.nfo
+│   │   ├── The Handmaid's Tale S01E02-thumb.jpg
+│   │   ├── The Handmaid's Tale S01E02.zh-cn.srt
+│   │   ├── The Handmaid's Tale S01E03-320-10.bif
+│   │   ├── The Handmaid's Tale S01E03.mkv
+│   │   ├── The Handmaid's Tale S01E03.nfo
+│   │   ├── The Handmaid's Tale S01E03-thumb.jpg
+│   │   ├── The Handmaid's Tale S01E04-320-10.bif
+│   │   ├── The Handmaid's Tale S01E04.mkv
+│   │   ├── The Handmaid's Tale S01E04.nfo
+│   │   ├── The Handmaid's Tale S01E04-thumb.jpg
+│   │   ├── The Handmaid's Tale S01E04.zh-cn.srt
+│   │   ├── The Handmaid's Tale S01E05-320-10.bif
+│   │   ├── The Handmaid's Tale S01E05.mkv
+│   │   ├── The Handmaid's Tale S01E05.nfo
+│   │   ├── The Handmaid's Tale S01E05-thumb.jpg
+│   │   ├── The Handmaid's Tale S01E06-320-10.bif
+│   │   ├── The Handmaid's Tale S01E06.mkv
+│   │   ├── The Handmaid's Tale S01E06.nfo
+│   │   ├── The Handmaid's Tale S01E06-thumb.jpg
+│   │   ├── The Handmaid's Tale S01E07-320-10.bif
+│   │   ├── The Handmaid's Tale S01E07.mkv
+│   │   ├── The Handmaid's Tale S01E07.nfo
+│   │   ├── The Handmaid's Tale S01E07-thumb.jpg
+│   │   ├── The Handmaid's Tale S01E08-320-10.bif
+│   │   ├── The Handmaid's Tale S01E08.mkv
+│   │   ├── The Handmaid's Tale S01E08.nfo
+│   │   ├── The Handmaid's Tale S01E08-thumb.jpg
+│   │   ├── The Handmaid's Tale S01E09-320-10.bif
+│   │   ├── The Handmaid's Tale S01E09.mkv
+│   │   ├── The Handmaid's Tale S01E09.nfo
+│   │   ├── The Handmaid's Tale S01E09-thumb.jpg
+│   │   ├── The Handmaid's Tale S01E10-320-10.bif
+│   │   ├── The Handmaid's Tale S01E10.mkv
+│   │   ├── The Handmaid's Tale S01E10.nfo
+│   │   └── The Handmaid's Tale S01E10-thumb.jpg
+│   ├── Season 2
+│   │   ├── season.nfo
+│   │   ├── The Handmaid's Tale S02E01.mkv
+│   │   ├── The Handmaid's Tale S02E01.nfo
+│   │   ├── The Handmaid's Tale S02E01-thumb.jpg
+│   │   ├── The Handmaid's Tale S02E02.mkv
+│   │   ├── The Handmaid's Tale S02E02.nfo
+│   │   ├── The Handmaid's Tale S02E02-thumb.jpg
+│   │   ├── The Handmaid's Tale S02E03.mkv
+│   │   ├── The Handmaid's Tale S02E03.nfo
+│   │   ├── The Handmaid's Tale S02E03-thumb.jpg
+│   │   ├── The Handmaid's Tale S02E04.mkv
+│   │   ├── The Handmaid's Tale S02E04.nfo
+│   │   ├── The Handmaid's Tale S02E04-thumb.jpg
+│   │   ├── The Handmaid's Tale S02E05.jpg
+│   │   ├── The Handmaid's Tale S02E05.mkv
+│   │   ├── The Handmaid's Tale S02E05.nfo
+│   │   ├── The Handmaid's Tale S02E06.mkv
+│   │   ├── The Handmaid's Tale S02E06.nfo
+│   │   ├── The Handmaid's Tale S02E06-thumb.jpg
+│   │   ├── The Handmaid's Tale S02E07.mkv
+│   │   ├── The Handmaid's Tale S02E07.nfo
+│   │   ├── The Handmaid's Tale S02E07-thumb.jpg
+│   │   ├── The Handmaid's Tale S02E08.mkv
+│   │   ├── The Handmaid's Tale S02E08.nfo
+│   │   ├── The Handmaid's Tale S02E08-thumb.jpg
+│   │   ├── The Handmaid's Tale S02E09.mkv
+│   │   ├── The Handmaid's Tale S02E09.nfo
+│   │   ├── The Handmaid's Tale S02E09-thumb.jpg
+│   │   ├── The Handmaid's Tale S02E10.mkv
+│   │   ├── The Handmaid's Tale S02E10.nfo
+│   │   ├── The Handmaid's Tale S02E10-thumb.jpg
+│   │   ├── The Handmaid's Tale S02E11.mkv
+│   │   ├── The Handmaid's Tale S02E11.nfo
+│   │   ├── The Handmaid's Tale S02E11-thumb.jpg
+│   │   ├── The Handmaid's Tale S02E12.mkv
+│   │   ├── The Handmaid's Tale S02E12.nfo
+│   │   ├── The Handmaid's Tale S02E12-thumb.jpg
+│   │   ├── The Handmaid's Tale S02E13.mkv
+│   │   ├── The Handmaid's Tale S02E13.nfo
+│   │   └── The Handmaid's Tale S02E13-thumb.jpg
+│   ├── Season 3
+│   │   ├── season.nfo
+│   │   ├── The Handmaid's Tale S03E01.mkv
+│   │   ├── The Handmaid's Tale S03E01.nfo
+│   │   ├── The Handmaid's Tale S03E01-thumb.jpg
+│   │   ├── The Handmaid's Tale S03E02.mkv
+│   │   ├── The Handmaid's Tale S03E02.nfo
+│   │   ├── The Handmaid's Tale S03E02-thumb.jpg
+│   │   ├── The Handmaid's Tale S03E03.jpg
+│   │   ├── The Handmaid's Tale S03E03.mkv
+│   │   ├── The Handmaid's Tale S03E03.nfo
+│   │   ├── The Handmaid's Tale S03E04.mkv
+│   │   ├── The Handmaid's Tale S03E04.nfo
+│   │   ├── The Handmaid's Tale S03E04-thumb.jpg
+│   │   ├── The Handmaid's Tale S03E05.mkv
+│   │   ├── The Handmaid's Tale S03E05.nfo
+│   │   ├── The Handmaid's Tale S03E05-thumb.jpg
+│   │   ├── The Handmaid's Tale S03E06.mkv
+│   │   ├── The Handmaid's Tale S03E06.nfo
+│   │   ├── The Handmaid's Tale S03E06-thumb.jpg
+│   │   ├── The Handmaid's Tale S03E07.mkv
+│   │   ├── The Handmaid's Tale S03E07.nfo
+│   │   ├── The Handmaid's Tale S03E07-thumb.jpg
+│   │   ├── The Handmaid's Tale S03E08.mkv
+│   │   ├── The Handmaid's Tale S03E08.nfo
+│   │   ├── The Handmaid's Tale S03E08-thumb.jpg
+│   │   ├── The Handmaid's Tale S03E09.mkv
+│   │   ├── The Handmaid's Tale S03E09.nfo
+│   │   ├── The Handmaid's Tale S03E09-thumb.jpg
+│   │   ├── The Handmaid's Tale S03E10.mkv
+│   │   ├── The Handmaid's Tale S03E10.nfo
+│   │   ├── The Handmaid's Tale S03E10-thumb.jpg
+│   │   ├── The Handmaid's Tale S03E11.mkv
+│   │   ├── The Handmaid's Tale S03E11.nfo
+│   │   ├── The Handmaid's Tale S03E11-thumb.jpg
+│   │   ├── The Handmaid's Tale S03E12.mkv
+│   │   ├── The Handmaid's Tale S03E12.nfo
+│   │   ├── The Handmaid's Tale S03E12-thumb.jpg
+│   │   ├── The Handmaid's Tale S03E13.mkv
+│   │   ├── The Handmaid's Tale S03E13.nfo
+│   │   └── The Handmaid's Tale S03E13-thumb.jpg
+│   ├── Season 4
+│   │   ├── season.nfo
+│   │   ├── The Handmaid's Tale S04E01.mkv
+│   │   ├── The Handmaid's Tale S04E01.nfo
+│   │   ├── The Handmaid's Tale S04E01-thumb.jpg
+│   │   ├── The Handmaid's Tale S04E02.mkv
+│   │   ├── The Handmaid's Tale S04E02.nfo
+│   │   ├── The Handmaid's Tale S04E02-thumb.jpg
+│   │   ├── The Handmaid's Tale S04E03.mkv
+│   │   ├── The Handmaid's Tale S04E03.nfo
+│   │   ├── The Handmaid's Tale S04E03-thumb.jpg
+│   │   ├── The Handmaid's Tale S04E04.mkv
+│   │   ├── The Handmaid's Tale S04E04.nfo
+│   │   ├── The Handmaid's Tale S04E04-thumb.jpg
+│   │   ├── The Handmaid's Tale S04E05.mkv
+│   │   ├── The Handmaid's Tale S04E05.nfo
+│   │   ├── The Handmaid's Tale S04E05-thumb.jpg
+│   │   ├── The Handmaid's Tale S04E06.mkv
+│   │   ├── The Handmaid's Tale S04E06.nfo
+│   │   ├── The Handmaid's Tale S04E06-thumb.jpg
+│   │   ├── The Handmaid's Tale S04E07.mkv
+│   │   ├── The Handmaid's Tale S04E07.nfo
+│   │   ├── The Handmaid's Tale S04E07-thumb.jpg
+│   │   ├── The Handmaid's Tale S04E08.mkv
+│   │   ├── The Handmaid's Tale S04E08.nfo
+│   │   ├── The Handmaid's Tale S04E08-thumb.jpg
+│   │   ├── The Handmaid's Tale S04E09.mkv
+│   │   ├── The Handmaid's Tale S04E09.nfo
+│   │   ├── The Handmaid's Tale S04E09-thumb.jpg
+│   │   ├── The Handmaid's Tale S04E10.mkv
+│   │   ├── The Handmaid's Tale S04E10.nfo
+│   │   └── The Handmaid's Tale S04E10-thumb.jpg
+│   └── tvshow.nfo
+├── The League of Gentlemen (1999)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── Season 1
+│   │   ├── The League of Gentlemen S01E01.mkv
+│   │   ├── The League of Gentlemen S01E01.nfo
+│   │   ├── The League of Gentlemen S01E01-thumb.jpg
+│   │   ├── The League of Gentlemen S01E02.mkv
+│   │   ├── The League of Gentlemen S01E02.nfo
+│   │   ├── The League of Gentlemen S01E02-thumb.jpg
+│   │   ├── The League of Gentlemen S01E03.mkv
+│   │   ├── The League of Gentlemen S01E03.nfo
+│   │   ├── The League of Gentlemen S01E03-thumb.jpg
+│   │   ├── The League of Gentlemen S01E04.mkv
+│   │   ├── The League of Gentlemen S01E04.nfo
+│   │   ├── The League of Gentlemen S01E04-thumb.jpg
+│   │   ├── The League of Gentlemen S01E05.mkv
+│   │   ├── The League of Gentlemen S01E05.nfo
+│   │   ├── The League of Gentlemen S01E05-thumb.jpg
+│   │   ├── The League of Gentlemen S01E06.mkv
+│   │   ├── The League of Gentlemen S01E06.nfo
+│   │   └── The League of Gentlemen S01E06-thumb.jpg
+│   ├── Season 2
+│   │   ├── The League of Gentlemen S02E01.mkv
+│   │   ├── The League of Gentlemen S02E01.nfo
+│   │   ├── The League of Gentlemen S02E01-thumb.jpg
+│   │   ├── The League of Gentlemen S02E02.mkv
+│   │   ├── The League of Gentlemen S02E02.nfo
+│   │   ├── The League of Gentlemen S02E02-thumb.jpg
+│   │   ├── The League of Gentlemen S02E03.mkv
+│   │   ├── The League of Gentlemen S02E03.nfo
+│   │   ├── The League of Gentlemen S02E03-thumb.jpg
+│   │   ├── The League of Gentlemen S02E04.mkv
+│   │   ├── The League of Gentlemen S02E04.nfo
+│   │   ├── The League of Gentlemen S02E04-thumb.jpg
+│   │   ├── The League of Gentlemen S02E05.mkv
+│   │   ├── The League of Gentlemen S02E05.nfo
+│   │   ├── The League of Gentlemen S02E05-thumb.jpg
+│   │   ├── The League of Gentlemen S02E06.mkv
+│   │   ├── The League of Gentlemen S02E06.nfo
+│   │   ├── The League of Gentlemen S02E06-thumb.jpg
+│   │   ├── The League of Gentlemen S02E07.mkv
+│   │   ├── The League of Gentlemen S02E07.nfo
+│   │   └── The League of Gentlemen S02E07-thumb.jpg
+│   ├── Season 3
+│   │   ├── The League of Gentlemen S03E01.mkv
+│   │   ├── The League of Gentlemen S03E01.nfo
+│   │   ├── The League of Gentlemen S03E01-thumb.jpg
+│   │   ├── The League of Gentlemen S03E02.mkv
+│   │   ├── The League of Gentlemen S03E02.nfo
+│   │   ├── The League of Gentlemen S03E02-thumb.jpg
+│   │   ├── The League of Gentlemen S03E03.mkv
+│   │   ├── The League of Gentlemen S03E03.nfo
+│   │   ├── The League of Gentlemen S03E03-thumb.jpg
+│   │   ├── The League of Gentlemen S03E04.mkv
+│   │   ├── The League of Gentlemen S03E04.nfo
+│   │   ├── The League of Gentlemen S03E04-thumb.jpg
+│   │   ├── The League of Gentlemen S03E05.mkv
+│   │   ├── The League of Gentlemen S03E05.nfo
+│   │   ├── The League of Gentlemen S03E05-thumb.jpg
+│   │   ├── The League of Gentlemen S03E06.mkv
+│   │   ├── The League of Gentlemen S03E06.nfo
+│   │   └── The League of Gentlemen S03E06-thumb.jpg
+│   ├── season.nfo
+│   └── tvshow.nfo
+├── The Queen's Gambit (2020)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── season.nfo
+│   │   ├── The Queen's Gambit S01E01.mkv
+│   │   ├── The Queen's Gambit S01E01.nfo
+│   │   ├── The Queen's Gambit S01E01-thumb.jpg
+│   │   ├── The Queen's Gambit S01E02.mkv
+│   │   ├── The Queen's Gambit S01E02.nfo
+│   │   ├── The Queen's Gambit S01E02-thumb.jpg
+│   │   ├── The Queen's Gambit S01E03.mkv
+│   │   ├── The Queen's Gambit S01E03.nfo
+│   │   ├── The Queen's Gambit S01E03-thumb.jpg
+│   │   ├── The Queen's Gambit S01E04.mkv
+│   │   ├── The Queen's Gambit S01E04.nfo
+│   │   ├── The Queen's Gambit S01E04-thumb.jpg
+│   │   ├── The Queen's Gambit S01E05.mkv
+│   │   ├── The Queen's Gambit S01E05.nfo
+│   │   ├── The Queen's Gambit S01E05-thumb.jpg
+│   │   ├── The Queen's Gambit S01E06.mkv
+│   │   ├── The Queen's Gambit S01E06.nfo
+│   │   ├── The Queen's Gambit S01E06-thumb.jpg
+│   │   ├── The Queen's Gambit S01E07.mkv
+│   │   ├── The Queen's Gambit S01E07.nfo
+│   │   └── The Queen's Gambit S01E07-thumb.jpg
+│   └── tvshow.nfo
+├── Unbelievable (2019)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── Unbelievable S01E01-320-10.bif
+│   │   ├── Unbelievable S01E01.简体&英文.srt
+│   │   ├── Unbelievable S01E01.mkv
+│   │   ├── Unbelievable S01E01.nfo
+│   │   ├── Unbelievable S01E01-thumb.jpg
+│   │   ├── Unbelievable S01E02-320-10.bif
+│   │   ├── Unbelievable S01E02.简体&英文.srt
+│   │   ├── Unbelievable S01E02.mkv
+│   │   ├── Unbelievable S01E02.nfo
+│   │   ├── Unbelievable S01E02-thumb.jpg
+│   │   ├── Unbelievable S01E03-320-10.bif
+│   │   ├── Unbelievable S01E03.简体&英文.srt
+│   │   ├── Unbelievable S01E03.mkv
+│   │   ├── Unbelievable S01E03.nfo
+│   │   ├── Unbelievable S01E03-thumb.jpg
+│   │   ├── Unbelievable S01E04-320-10.bif
+│   │   ├── Unbelievable S01E04.简体&英文.srt
+│   │   ├── Unbelievable S01E04.mkv
+│   │   ├── Unbelievable S01E04.nfo
+│   │   ├── Unbelievable S01E04-thumb.jpg
+│   │   ├── Unbelievable S01E05-320-10.bif
+│   │   ├── Unbelievable S01E05.简体&英文.srt
+│   │   ├── Unbelievable S01E05.mkv
+│   │   ├── Unbelievable S01E05.nfo
+│   │   ├── Unbelievable S01E05-thumb.jpg
+│   │   ├── Unbelievable S01E06-320-10.bif
+│   │   ├── Unbelievable S01E06.简体&英文.srt
+│   │   ├── Unbelievable S01E06.mkv
+│   │   ├── Unbelievable S01E06.nfo
+│   │   ├── Unbelievable S01E06-thumb.jpg
+│   │   ├── Unbelievable S01E07-320-10.bif
+│   │   ├── Unbelievable S01E07.简体&英文.srt
+│   │   ├── Unbelievable S01E07.mkv
+│   │   ├── Unbelievable S01E07.nfo
+│   │   ├── Unbelievable S01E07-thumb.jpg
+│   │   ├── Unbelievable S01E08-320-10.bif
+│   │   ├── Unbelievable S01E08.简体&英文.srt
+│   │   ├── Unbelievable S01E08.mkv
+│   │   ├── Unbelievable S01E08.nfo
+│   │   └── Unbelievable S01E08-thumb.jpg
+│   └── tvshow.nfo
+├── Undone (2019)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── Season 1
+│   │   ├── season.nfo
+│   │   ├── Undone S01E01.mkv
+│   │   ├── Undone S01E01.nfo
+│   │   ├── Undone S01E01-thumb.jpg
+│   │   ├── Undone S01E02.mkv
+│   │   ├── Undone S01E02.nfo
+│   │   ├── Undone S01E02-thumb.jpg
+│   │   ├── Undone S01E03.mkv
+│   │   ├── Undone S01E03.nfo
+│   │   ├── Undone S01E03-thumb.jpg
+│   │   ├── Undone S01E04.mkv
+│   │   ├── Undone S01E04.nfo
+│   │   ├── Undone S01E04-thumb.jpg
+│   │   ├── Undone S01E05.mkv
+│   │   ├── Undone S01E05.nfo
+│   │   ├── Undone S01E05-thumb.jpg
+│   │   ├── Undone S01E06.mkv
+│   │   ├── Undone S01E06.nfo
+│   │   ├── Undone S01E06-thumb.jpg
+│   │   ├── Undone S01E07.mkv
+│   │   ├── Undone S01E07.nfo
+│   │   ├── Undone S01E07-thumb.jpg
+│   │   ├── Undone S01E08.mkv
+│   │   ├── Undone S01E08.nfo
+│   │   └── Undone S01E08-thumb.jpg
+│   └── tvshow.nfo
+├── Westworld (2016)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── Season 1
+│   │   ├── season.nfo
+│   │   ├── Westworld S01E01-320-10.bif
+│   │   ├── Westworld S01E01.Atmos-FGT.ass
+│   │   ├── Westworld S01E01.mkv
+│   │   ├── Westworld S01E01.nfo
+│   │   ├── Westworld S01E01-thumb.jpg
+│   │   ├── Westworld S01E02-320-10.bif
+│   │   ├── Westworld S01E02.Atmos-FGT.ass
+│   │   ├── Westworld S01E02.mkv
+│   │   ├── Westworld S01E02.nfo
+│   │   ├── Westworld S01E02-thumb.jpg
+│   │   ├── Westworld S01E03-320-10.bif
+│   │   ├── Westworld S01E03.Atmos-FGT.ass
+│   │   ├── Westworld S01E03.mkv
+│   │   ├── Westworld S01E03.nfo
+│   │   ├── Westworld S01E03-thumb.jpg
+│   │   ├── Westworld S01E04-320-10.bif
+│   │   ├── Westworld S01E04.Atmos-FGT.ass
+│   │   ├── Westworld S01E04.mkv
+│   │   ├── Westworld S01E04.nfo
+│   │   ├── Westworld S01E04-thumb.jpg
+│   │   ├── Westworld S01E05-320-10.bif
+│   │   ├── Westworld S01E05.Atmos-FGT.ass
+│   │   ├── Westworld S01E05.mkv
+│   │   ├── Westworld S01E05.nfo
+│   │   ├── Westworld S01E05-thumb.jpg
+│   │   ├── Westworld S01E06-320-10.bif
+│   │   ├── Westworld S01E06.Atmos-FGT.ass
+│   │   ├── Westworld S01E06.mkv
+│   │   ├── Westworld S01E06.nfo
+│   │   ├── Westworld S01E06-thumb.jpg
+│   │   ├── Westworld S01E07-320-10.bif
+│   │   ├── Westworld S01E07.Atmos-FGT.ass
+│   │   ├── Westworld S01E07.mkv
+│   │   ├── Westworld S01E07.nfo
+│   │   ├── Westworld S01E07-thumb.jpg
+│   │   ├── Westworld S01E08-320-10.bif
+│   │   ├── Westworld S01E08.Atmos-FGT.ass
+│   │   ├── Westworld S01E08.mkv
+│   │   ├── Westworld S01E08.nfo
+│   │   ├── Westworld S01E08-thumb.jpg
+│   │   ├── Westworld S01E09-320-10.bif
+│   │   ├── Westworld S01E09.Atmos-FGT.ass
+│   │   ├── Westworld S01E09.mkv
+│   │   ├── Westworld S01E09.nfo
+│   │   ├── Westworld S01E09-thumb.jpg
+│   │   ├── Westworld S01E10-320-10.bif
+│   │   ├── Westworld S01E10.Atmos-FGT.ass
+│   │   ├── Westworld S01E10.mkv
+│   │   ├── Westworld S01E10.nfo
+│   │   └── Westworld S01E10-thumb.jpg
+│   ├── Season 2
+│   │   ├── season.nfo
+│   │   ├── Westworld S02E01-320-10.bif
+│   │   ├── Westworld S02E01.mkv
+│   │   ├── Westworld S02E01.nfo
+│   │   ├── Westworld S02E01.srt
+│   │   ├── Westworld S02E01-thumb.jpg
+│   │   ├── Westworld S02E02-320-10.bif
+│   │   ├── Westworld S02E02.mkv
+│   │   ├── Westworld S02E02.nfo
+│   │   ├── Westworld S02E02.srt
+│   │   ├── Westworld S02E02-thumb.jpg
+│   │   ├── Westworld S02E03-320-10.bif
+│   │   ├── Westworld S02E03.mkv
+│   │   ├── Westworld S02E03.nfo
+│   │   ├── Westworld S02E03.srt
+│   │   ├── Westworld S02E03-thumb.jpg
+│   │   ├── Westworld S02E04-320-10.bif
+│   │   ├── Westworld S02E04.mkv
+│   │   ├── Westworld S02E04.nfo
+│   │   ├── Westworld S02E04.srt
+│   │   ├── Westworld S02E04-thumb.jpg
+│   │   ├── Westworld S02E05-320-10.bif
+│   │   ├── Westworld S02E05.mkv
+│   │   ├── Westworld S02E05.nfo
+│   │   ├── Westworld S02E05.srt
+│   │   ├── Westworld S02E05-thumb.jpg
+│   │   ├── Westworld S02E06-320-10.bif
+│   │   ├── Westworld S02E06.mkv
+│   │   ├── Westworld S02E06.nfo
+│   │   ├── Westworld S02E06.srt
+│   │   ├── Westworld S02E06-thumb.jpg
+│   │   ├── Westworld S02E07-320-10.bif
+│   │   ├── Westworld S02E07.mkv
+│   │   ├── Westworld S02E07.nfo
+│   │   ├── Westworld S02E07.srt
+│   │   ├── Westworld S02E07-thumb.jpg
+│   │   ├── Westworld S02E08-320-10.bif
+│   │   ├── Westworld S02E08.mkv
+│   │   ├── Westworld S02E08.nfo
+│   │   ├── Westworld S02E08.srt
+│   │   ├── Westworld S02E08-thumb.jpg
+│   │   ├── Westworld S02E09-320-10.bif
+│   │   ├── Westworld S02E09.mkv
+│   │   ├── Westworld S02E09.nfo
+│   │   ├── Westworld S02E09.srt
+│   │   ├── Westworld S02E09-thumb.jpg
+│   │   ├── Westworld S02E10-320-10.bif
+│   │   ├── Westworld S02E10.mkv
+│   │   ├── Westworld S02E10.nfo
+│   │   ├── Westworld S02E10.srt
+│   │   └── Westworld S02E10-thumb.jpg
+│   ├── Season 3
+│   │   ├── season.nfo
+│   │   ├── Westworld S03E01-320-10.bif
+│   │   ├── Westworld S03E01.简体&英文.srt
+│   │   ├── Westworld S03E01.mkv
+│   │   ├── Westworld S03E01.nfo
+│   │   ├── Westworld S03E01-thumb.jpg
+│   │   ├── Westworld S03E02-320-10.bif
+│   │   ├── Westworld S03E02.简体&英文.srt
+│   │   ├── Westworld S03E02.mkv
+│   │   ├── Westworld S03E02.nfo
+│   │   ├── Westworld S03E02-thumb.jpg
+│   │   ├── Westworld S03E03-320-10.bif
+│   │   ├── Westworld S03E03.简体&英文.srt
+│   │   ├── Westworld S03E03.mkv
+│   │   ├── Westworld S03E03.nfo
+│   │   ├── Westworld S03E03-thumb.jpg
+│   │   ├── Westworld S03E04-320-10.bif
+│   │   ├── Westworld S03E04.简体&英文.srt
+│   │   ├── Westworld S03E04.mkv
+│   │   ├── Westworld S03E04.nfo
+│   │   ├── Westworld S03E04-thumb.jpg
+│   │   ├── Westworld S03E05-320-10.bif
+│   │   ├── Westworld S03E05.简体&英文.srt
+│   │   ├── Westworld S03E05.mkv
+│   │   ├── Westworld S03E05.nfo
+│   │   ├── Westworld S03E05-thumb.jpg
+│   │   ├── Westworld S03E06-320-10.bif
+│   │   ├── Westworld S03E06.简体&英文.srt
+│   │   ├── Westworld S03E06.mkv
+│   │   ├── Westworld S03E06.nfo
+│   │   ├── Westworld S03E06-thumb.jpg
+│   │   ├── Westworld S03E07-320-10.bif
+│   │   ├── Westworld S03E07.简体&英文.srt
+│   │   ├── Westworld S03E07.mkv
+│   │   ├── Westworld S03E07.nfo
+│   │   ├── Westworld S03E07-thumb.jpg
+│   │   ├── Westworld S03E08-320-10.bif
+│   │   ├── Westworld S03E08.简体&英文.srt
+│   │   ├── Westworld S03E08.mkv
+│   │   ├── Westworld S03E08.nfo
+│   │   └── Westworld S03E08-thumb.jpg
+│   └── tvshow.nfo
+├── Why Women Kill (2019)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── Season 1
+│   │   ├── season.nfo
+│   │   ├── Why Women Kill S01E01-320-10.bif
+│   │   ├── Why Women Kill S01E01.mkv
+│   │   ├── Why Women Kill S01E01.nfo
+│   │   ├── Why Women Kill S01E01-thumb.jpg
+│   │   ├── Why Women Kill S01E01.zh-cn.ass
+│   │   ├── Why Women Kill S01E02-320-10.bif
+│   │   ├── Why Women Kill S01E02.mkv
+│   │   ├── Why Women Kill S01E02.nfo
+│   │   ├── Why Women Kill S01E02-thumb.jpg
+│   │   ├── Why Women Kill S01E02.zh-cn.ass
+│   │   ├── Why Women Kill S01E03-320-10.bif
+│   │   ├── Why Women Kill S01E03.mkv
+│   │   ├── Why Women Kill S01E03.nfo
+│   │   ├── Why Women Kill S01E03-thumb.jpg
+│   │   ├── Why Women Kill S01E03.zh-cn.srt
+│   │   ├── Why Women Kill S01E04-320-10.bif
+│   │   ├── Why Women Kill S01E04.mkv
+│   │   ├── Why Women Kill S01E04.nfo
+│   │   ├── Why Women Kill S01E04-thumb.jpg
+│   │   ├── Why Women Kill S01E04.zh-cn.ass
+│   │   ├── Why Women Kill S01E05-320-10.bif
+│   │   ├── Why Women Kill S01E05.mkv
+│   │   ├── Why Women Kill S01E05.nfo
+│   │   ├── Why Women Kill S01E05-thumb.jpg
+│   │   ├── Why Women Kill S01E05.zh-cn.ass
+│   │   ├── Why Women Kill S01E06-320-10.bif
+│   │   ├── Why Women Kill S01E06.mp4
+│   │   ├── Why Women Kill S01E06.nfo
+│   │   ├── Why Women Kill S01E06-thumb.jpg
+│   │   ├── Why Women Kill S01E06.zh-cn.ass
+│   │   ├── Why Women Kill S01E07-320-10.bif
+│   │   ├── Why Women Kill S01E07.mp4
+│   │   ├── Why Women Kill S01E07.nfo
+│   │   ├── Why Women Kill S01E07-thumb.jpg
+│   │   ├── Why Women Kill S01E08-320-10.bif
+│   │   ├── Why Women Kill S01E08.mp4
+│   │   ├── Why Women Kill S01E08.nfo
+│   │   ├── Why Women Kill S01E08-thumb.jpg
+│   │   ├── Why Women Kill S01E09-320-10.bif
+│   │   ├── Why Women Kill S01E09.mp4
+│   │   ├── Why Women Kill S01E09.nfo
+│   │   └── Why Women Kill S01E09-thumb.jpg
+│   ├── Season 2
+│   │   ├── season.nfo
+│   │   ├── Why Women Kill S02E01.mkv
+│   │   ├── Why Women Kill S02E01.nfo
+│   │   ├── Why Women Kill S02E01-thumb.jpg
+│   │   ├── Why Women Kill S02E01.zh-cn.srt
+│   │   ├── Why Women Kill S02E02.mkv
+│   │   ├── Why Women Kill S02E02.nfo
+│   │   ├── Why Women Kill S02E02-thumb.jpg
+│   │   ├── Why Women Kill S02E02.zh-cn.srt
+│   │   ├── Why Women Kill S02E03.mkv
+│   │   ├── Why Women Kill S02E03.nfo
+│   │   ├── Why Women Kill S02E03-thumb.jpg
+│   │   ├── Why Women Kill S02E03.zh-cn.srt
+│   │   ├── Why Women Kill S02E04.1.zh-cn.srt
+│   │   ├── Why Women Kill S02E04.mkv
+│   │   ├── Why Women Kill S02E04.nfo
+│   │   ├── Why Women Kill S02E04-thumb.jpg
+│   │   ├── Why Women Kill S02E05.mkv
+│   │   ├── Why Women Kill S02E05.nfo
+│   │   ├── Why Women Kill S02E05-thumb.jpg
+│   │   ├── Why Women Kill S02E05.zh-cn.ass
+│   │   ├── Why Women Kill S02E06.mkv
+│   │   ├── Why Women Kill S02E06.nfo
+│   │   ├── Why Women Kill S02E06-thumb.jpg
+│   │   ├── Why Women Kill S02E06.zh-cn.default.ass
+│   │   ├── Why Women Kill S02E07.简体&英文.ass
+│   │   ├── Why Women Kill S02E07.mkv
+│   │   ├── Why Women Kill S02E07.nfo
+│   │   ├── Why Women Kill S02E07-thumb.jpg
+│   │   ├── Why Women Kill S02E07.zh-cn.ass
+│   │   ├── Why Women Kill S02E08.mkv
+│   │   ├── Why Women Kill S02E08.nfo
+│   │   ├── Why Women Kill S02E08-thumb.jpg
+│   │   ├── Why Women Kill S02E08.zh-cn.ass
+│   │   ├── Why Women Kill S02E09.mkv
+│   │   ├── Why Women Kill S02E09.nfo
+│   │   ├── Why Women Kill S02E09-thumb.jpg
+│   │   ├── Why Women Kill S02E09.zh-cn.ass
+│   │   ├── Why Women Kill S02E10.mkv
+│   │   ├── Why Women Kill S02E10.nfo
+│   │   ├── Why Women Kill S02E10-thumb.jpg
+│   │   └── Why Women Kill S02E10.zh-cn.ass
+│   └── tvshow.nfo
+├── YOU (2018)
+│   ├── banner.jpg
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── Season 1
+│   │   ├── season.nfo
+│   │   ├── YOU S01E01-320-10.bif
+│   │   ├── YOU S01E01.ass
+│   │   ├── YOU S01E01.mkv
+│   │   ├── YOU S01E01.nfo
+│   │   ├── YOU S01E01-thumb.jpg
+│   │   ├── YOU S01E02-320-10.bif
+│   │   ├── YOU S01E02.ass
+│   │   ├── YOU S01E02.mkv
+│   │   ├── YOU S01E02.nfo
+│   │   ├── YOU S01E02-thumb.jpg
+│   │   ├── YOU S01E03-320-10.bif
+│   │   ├── YOU S01E03.ass
+│   │   ├── YOU S01E03.mkv
+│   │   ├── YOU S01E03.nfo
+│   │   ├── YOU S01E03-thumb.jpg
+│   │   ├── YOU S01E04-320-10.bif
+│   │   ├── YOU S01E04.ass
+│   │   ├── YOU S01E04.mkv
+│   │   ├── YOU S01E04.nfo
+│   │   ├── YOU S01E04-thumb.jpg
+│   │   ├── YOU S01E05-320-10.bif
+│   │   ├── YOU S01E05.ass
+│   │   ├── YOU S01E05.mkv
+│   │   ├── YOU S01E05.nfo
+│   │   ├── YOU S01E05-thumb.jpg
+│   │   ├── YOU S01E06-320-10.bif
+│   │   ├── YOU S01E06.ass
+│   │   ├── YOU S01E06.mkv
+│   │   ├── YOU S01E06.nfo
+│   │   ├── YOU S01E06-thumb.jpg
+│   │   ├── YOU S01E07-320-10.bif
+│   │   ├── YOU S01E07.ass
+│   │   ├── YOU S01E07.mkv
+│   │   ├── YOU S01E07.nfo
+│   │   ├── YOU S01E07-thumb.jpg
+│   │   ├── YOU S01E08-320-10.bif
+│   │   ├── YOU S01E08.mkv
+│   │   ├── YOU S01E08.nfo
+│   │   ├── YOU S01E08-thumb.jpg
+│   │   ├── YOU S01E09-320-10.bif
+│   │   ├── YOU S01E09.ass
+│   │   ├── YOU S01E09.mkv
+│   │   ├── YOU S01E09.nfo
+│   │   ├── YOU S01E09-thumb.jpg
+│   │   ├── YOU S01E10-320-10.bif
+│   │   ├── YOU S01E10.ChsEngA.ass
+│   │   ├── YOU S01E10.mkv
+│   │   ├── YOU S01E10.nfo
+│   │   └── YOU S01E10-thumb.jpg
+│   ├── Season 2
+│   │   ├── season.nfo
+│   │   ├── YOU S02E01-320-10.bif
+│   │   ├── YOU S02E01.ChsEngA.ass
+│   │   ├── YOU S02E01.mkv
+│   │   ├── YOU S02E01.nfo
+│   │   ├── YOU S02E01-thumb.jpg
+│   │   ├── YOU S02E02-320-10.bif
+│   │   ├── YOU S02E02.ChsEngA.ass
+│   │   ├── YOU S02E02.mkv
+│   │   ├── YOU S02E02.nfo
+│   │   ├── YOU S02E02-thumb.jpg
+│   │   ├── YOU S02E03-320-10.bif
+│   │   ├── YOU S02E03.ChsEngA.ass
+│   │   ├── YOU S02E03.mkv
+│   │   ├── YOU S02E03.nfo
+│   │   ├── YOU S02E03-thumb.jpg
+│   │   ├── YOU S02E04-320-10.bif
+│   │   ├── YOU S02E04.ChsEngA.ass
+│   │   ├── YOU S02E04.mkv
+│   │   ├── YOU S02E04.nfo
+│   │   ├── YOU S02E04-thumb.jpg
+│   │   ├── YOU S02E05-320-10.bif
+│   │   ├── YOU S02E05.ChsEngA.ass
+│   │   ├── YOU S02E05.mkv
+│   │   ├── YOU S02E05.nfo
+│   │   ├── YOU S02E05-thumb.jpg
+│   │   ├── YOU S02E06-320-10.bif
+│   │   ├── YOU S02E06.ChsEngA.ass
+│   │   ├── YOU S02E06.mkv
+│   │   ├── YOU S02E06.nfo
+│   │   ├── YOU S02E06-thumb.jpg
+│   │   ├── YOU S02E07-320-10.bif
+│   │   ├── YOU S02E07.ChsEngA.ass
+│   │   ├── YOU S02E07.mkv
+│   │   ├── YOU S02E07.nfo
+│   │   ├── YOU S02E07-thumb.jpg
+│   │   ├── YOU S02E08-320-10.bif
+│   │   ├── YOU S02E08.ChsEngA.ass
+│   │   ├── YOU S02E08.mkv
+│   │   ├── YOU S02E08.nfo
+│   │   ├── YOU S02E08-thumb.jpg
+│   │   ├── YOU S02E09-320-10.bif
+│   │   ├── YOU S02E09.ChsEngA.ass
+│   │   ├── YOU S02E09.mkv
+│   │   ├── YOU S02E09.nfo
+│   │   ├── YOU S02E09-thumb.jpg
+│   │   ├── YOU S02E10-320-10.bif
+│   │   ├── YOU S02E10.ChsEngA.ass
+│   │   ├── YOU S02E10.mkv
+│   │   ├── YOU S02E10.nfo
+│   │   └── YOU S02E10-thumb.jpg
+│   ├── Season 3
+│   │   ├── YOU S03E01.mkv
+│   │   ├── YOU S03E01.nfo
+│   │   ├── YOU S03E01-thumb.jpg
+│   │   ├── YOU S03E02.mkv
+│   │   ├── YOU S03E02.nfo
+│   │   ├── YOU S03E02-thumb.jpg
+│   │   ├── YOU S03E03.mkv
+│   │   ├── YOU S03E03.nfo
+│   │   ├── YOU S03E03-thumb.jpg
+│   │   ├── YOU S03E04.mkv
+│   │   ├── YOU S03E04.nfo
+│   │   ├── YOU S03E04-thumb.jpg
+│   │   ├── YOU S03E05.mkv
+│   │   ├── YOU S03E05.nfo
+│   │   ├── YOU S03E05-thumb.jpg
+│   │   ├── YOU S03E06.mkv
+│   │   ├── YOU S03E06.nfo
+│   │   ├── YOU S03E06-thumb.jpg
+│   │   ├── YOU S03E07.mkv
+│   │   ├── YOU S03E07.nfo
+│   │   ├── YOU S03E07-thumb.jpg
+│   │   ├── YOU S03E08.mkv
+│   │   ├── YOU S03E08.nfo
+│   │   ├── YOU S03E08-thumb.jpg
+│   │   ├── YOU S03E09.mkv
+│   │   ├── YOU S03E09.nfo
+│   │   ├── YOU S03E09-thumb.jpg
+│   │   ├── YOU S03E10.mkv
+│   │   ├── YOU S03E10.nfo
+│   │   └── YOU S03E10-thumb.jpg
+│   └── tvshow.nfo
+├── Young Sheldon (2017)
+│   ├── clearlogo.png
+│   ├── fanart.jpg
+│   ├── landscape.jpg
+│   ├── poster.jpg
+│   ├── season01-poster.jpg
+│   ├── season02-poster.jpg
+│   ├── season03-poster.jpg
+│   ├── Season 1
+│   │   ├── Young Sheldon S01E01-320-10.bif
+│   │   ├── Young Sheldon S01E01.ChsEngA.ass
+│   │   ├── Young Sheldon S01E01.mkv
+│   │   ├── Young Sheldon S01E01.nfo
+│   │   ├── Young Sheldon S01E01-thumb.jpg
+│   │   ├── Young Sheldon S01E02-320-10.bif
+│   │   ├── Young Sheldon S01E02.ChsEngA.ass
+│   │   ├── Young Sheldon S01E02.mkv
+│   │   ├── Young Sheldon S01E02.nfo
+│   │   ├── Young Sheldon S01E02-thumb.jpg
+│   │   ├── Young Sheldon S01E03-320-10.bif
+│   │   ├── Young Sheldon S01E03.ChsEngA.ass
+│   │   ├── Young Sheldon S01E03.mkv
+│   │   ├── Young Sheldon S01E03.nfo
+│   │   ├── Young Sheldon S01E03-thumb.jpg
+│   │   ├── Young Sheldon S01E04-320-10.bif
+│   │   ├── Young Sheldon S01E04.ChsEngA.ass
+│   │   ├── Young Sheldon S01E04.mkv
+│   │   ├── Young Sheldon S01E04.nfo
+│   │   ├── Young Sheldon S01E04-thumb.jpg
+│   │   ├── Young Sheldon S01E05-320-10.bif
+│   │   ├── Young Sheldon S01E05.ChsEngA.ass
+│   │   ├── Young Sheldon S01E05.mkv
+│   │   ├── Young Sheldon S01E05.nfo
+│   │   ├── Young Sheldon S01E05-thumb.jpg
+│   │   ├── Young Sheldon S01E06-320-10.bif
+│   │   ├── Young Sheldon S01E06.ChsEngA.ass
+│   │   ├── Young Sheldon S01E06.mkv
+│   │   ├── Young Sheldon S01E06.nfo
+│   │   ├── Young Sheldon S01E06-thumb.jpg
+│   │   ├── Young Sheldon S01E07-320-10.bif
+│   │   ├── Young Sheldon S01E07.ChsEngA.ass
+│   │   ├── Young Sheldon S01E07.mkv
+│   │   ├── Young Sheldon S01E07.nfo
+│   │   ├── Young Sheldon S01E07-thumb.jpg
+│   │   ├── Young Sheldon S01E08-320-10.bif
+│   │   ├── Young Sheldon S01E08.ChsEngA.ass
+│   │   ├── Young Sheldon S01E08.mkv
+│   │   ├── Young Sheldon S01E08.nfo
+│   │   ├── Young Sheldon S01E08-thumb.jpg
+│   │   ├── Young Sheldon S01E09-320-10.bif
+│   │   ├── Young Sheldon S01E09.ChsEngA.ass
+│   │   ├── Young Sheldon S01E09.mkv
+│   │   ├── Young Sheldon S01E09.nfo
+│   │   ├── Young Sheldon S01E09-thumb.jpg
+│   │   ├── Young Sheldon S01E10-320-10.bif
+│   │   ├── Young Sheldon S01E10.ChsEngA.ass
+│   │   ├── Young Sheldon S01E10.mkv
+│   │   ├── Young Sheldon S01E10.nfo
+│   │   ├── Young Sheldon S01E10-thumb.jpg
+│   │   ├── Young Sheldon S01E11-320-10.bif
+│   │   ├── Young Sheldon S01E11.ChsEngA.ass
+│   │   ├── Young Sheldon S01E11.mkv
+│   │   ├── Young Sheldon S01E11.nfo
+│   │   ├── Young Sheldon S01E11-thumb.jpg
+│   │   ├── Young Sheldon S01E12-320-10.bif
+│   │   ├── Young Sheldon S01E12.ChsEngA.ass
+│   │   ├── Young Sheldon S01E12.mkv
+│   │   ├── Young Sheldon S01E12.nfo
+│   │   ├── Young Sheldon S01E12-thumb.jpg
+│   │   ├── Young Sheldon S01E13-320-10.bif
+│   │   ├── Young Sheldon S01E13.ChsEngA.ass
+│   │   ├── Young Sheldon S01E13.mkv
+│   │   ├── Young Sheldon S01E13.nfo
+│   │   ├── Young Sheldon S01E13-thumb.jpg
+│   │   ├── Young Sheldon S01E14-320-10.bif
+│   │   ├── Young Sheldon S01E14.ChsEngA.ass
+│   │   ├── Young Sheldon S01E14.mkv
+│   │   ├── Young Sheldon S01E14.nfo
+│   │   ├── Young Sheldon S01E14-thumb.jpg
+│   │   ├── Young Sheldon S01E15-320-10.bif
+│   │   ├── Young Sheldon S01E15.ChsEngA.ass
+│   │   ├── Young Sheldon S01E15.mkv
+│   │   ├── Young Sheldon S01E15.nfo
+│   │   ├── Young Sheldon S01E15-thumb.jpg
+│   │   ├── Young Sheldon S01E16-320-10.bif
+│   │   ├── Young Sheldon S01E16.ChsEngA.ass
+│   │   ├── Young Sheldon S01E16.mkv
+│   │   ├── Young Sheldon S01E16.nfo
+│   │   ├── Young Sheldon S01E16-thumb.jpg
+│   │   ├── Young Sheldon S01E17-320-10.bif
+│   │   ├── Young Sheldon S01E17.ChsEngA.ass
+│   │   ├── Young Sheldon S01E17.mkv
+│   │   ├── Young Sheldon S01E17.nfo
+│   │   ├── Young Sheldon S01E17-thumb.jpg
+│   │   ├── Young Sheldon S01E18-320-10.bif
+│   │   ├── Young Sheldon S01E18.ChsEngA.ass
+│   │   ├── Young Sheldon S01E18.mkv
+│   │   ├── Young Sheldon S01E18.nfo
+│   │   ├── Young Sheldon S01E18-thumb.jpg
+│   │   ├── Young Sheldon S01E19-320-10.bif
+│   │   ├── Young Sheldon S01E19.ChsEngA.ass
+│   │   ├── Young Sheldon S01E19.mkv
+│   │   ├── Young Sheldon S01E19.nfo
+│   │   ├── Young Sheldon S01E19-thumb.jpg
+│   │   ├── Young Sheldon S01E20-320-10.bif
+│   │   ├── Young Sheldon S01E20.ChsEngA.ass
+│   │   ├── Young Sheldon S01E20.mkv
+│   │   ├── Young Sheldon S01E20.nfo
+│   │   ├── Young Sheldon S01E20-thumb.jpg
+│   │   ├── Young Sheldon S01E21-320-10.bif
+│   │   ├── Young Sheldon S01E21.ChsEngA.ass
+│   │   ├── Young Sheldon S01E21.mkv
+│   │   ├── Young Sheldon S01E21.nfo
+│   │   ├── Young Sheldon S01E21-thumb.jpg
+│   │   ├── Young Sheldon S01E22-320-10.bif
+│   │   ├── Young Sheldon S01E22.ChsEngA.ass
+│   │   ├── Young Sheldon S01E22.mkv
+│   │   ├── Young Sheldon S01E22.nfo
+│   │   └── Young Sheldon S01E22-thumb.jpg
+│   ├── Season 2
+│   │   ├── Young Sheldon S02E01.ChsEngA.ass
+│   │   ├── Young Sheldon S02E01.mkv
+│   │   ├── Young Sheldon S02E01.nfo
+│   │   ├── Young Sheldon S02E01-thumb.jpg
+│   │   ├── Young Sheldon S02E02.ChsEngA.ass
+│   │   ├── Young Sheldon S02E02.mkv
+│   │   ├── Young Sheldon S02E02.nfo
+│   │   ├── Young Sheldon S02E02-thumb.jpg
+│   │   ├── Young Sheldon S02E03.ChsEngA.ass
+│   │   ├── Young Sheldon S02E03.en.srt
+│   │   ├── Young Sheldon S02E03.mkv
+│   │   ├── Young Sheldon S02E03.nfo
+│   │   ├── Young Sheldon S02E03-thumb.jpg
+│   │   ├── Young Sheldon S02E04.mkv
+│   │   ├── Young Sheldon S02E04.nfo
+│   │   ├── Young Sheldon S02E04-thumb.jpg
+│   │   ├── Young Sheldon S02E05.ChsEngA.ass
+│   │   ├── Young Sheldon S02E05.mkv
+│   │   ├── Young Sheldon S02E05.nfo
+│   │   ├── Young Sheldon S02E05-thumb.jpg
+│   │   ├── Young Sheldon S02E06.en.srt
+│   │   ├── Young Sheldon S02E06.mkv
+│   │   ├── Young Sheldon S02E06.nfo
+│   │   ├── Young Sheldon S02E06-thumb.jpg
+│   │   ├── Young Sheldon S02E07.ChsEngA.ass
+│   │   ├── Young Sheldon S02E07.mkv
+│   │   ├── Young Sheldon S02E07.nfo
+│   │   ├── Young Sheldon S02E07-thumb.jpg
+│   │   ├── Young Sheldon S02E08.ChsEngA.ass
+│   │   ├── Young Sheldon S02E08.mkv
+│   │   ├── Young Sheldon S02E08.nfo
+│   │   ├── Young Sheldon S02E08-thumb.jpg
+│   │   ├── Young Sheldon S02E09.ChsEngA.ass
+│   │   ├── Young Sheldon S02E09.mkv
+│   │   ├── Young Sheldon S02E09.nfo
+│   │   ├── Young Sheldon S02E09-thumb.jpg
+│   │   ├── Young Sheldon S02E10.en.srt
+│   │   ├── Young Sheldon S02E10.mkv
+│   │   ├── Young Sheldon S02E10.nfo
+│   │   ├── Young Sheldon S02E10-thumb.jpg
+│   │   ├── Young Sheldon S02E11.ChsEngA.ass
+│   │   ├── Young Sheldon S02E11.mkv
+│   │   ├── Young Sheldon S02E11.nfo
+│   │   ├── Young Sheldon S02E11-thumb.jpg
+│   │   ├── Young Sheldon S02E12.en.srt
+│   │   ├── Young Sheldon S02E12.mkv
+│   │   ├── Young Sheldon S02E12.nfo
+│   │   ├── Young Sheldon S02E12-thumb.jpg
+│   │   ├── Young Sheldon S02E13.ChsEngA.ass
+│   │   ├── Young Sheldon S02E13.mkv
+│   │   ├── Young Sheldon S02E13.nfo
+│   │   ├── Young Sheldon S02E13-thumb.jpg
+│   │   ├── Young Sheldon S02E14.en.srt
+│   │   ├── Young Sheldon S02E14.mkv
+│   │   ├── Young Sheldon S02E14.nfo
+│   │   ├── Young Sheldon S02E14-thumb.jpg
+│   │   ├── Young Sheldon S02E15.ChsEngA.ass
+│   │   ├── Young Sheldon S02E15.mkv
+│   │   ├── Young Sheldon S02E15.nfo
+│   │   ├── Young Sheldon S02E15-thumb.jpg
+│   │   ├── Young Sheldon S02E16.ChsEngA.ass
+│   │   ├── Young Sheldon S02E16.mkv
+│   │   ├── Young Sheldon S02E16.nfo
+│   │   ├── Young Sheldon S02E16-thumb.jpg
+│   │   ├── Young Sheldon S02E17.ChsEngA.ass
+│   │   ├── Young Sheldon S02E17.en.srt
+│   │   ├── Young Sheldon S02E17.mkv
+│   │   ├── Young Sheldon S02E17.nfo
+│   │   ├── Young Sheldon S02E17-thumb.jpg
+│   │   ├── Young Sheldon S02E18.ChsEngA.ass
+│   │   ├── Young Sheldon S02E18.mkv
+│   │   ├── Young Sheldon S02E18.nfo
+│   │   ├── Young Sheldon S02E18-thumb.jpg
+│   │   ├── Young Sheldon S02E19.ChsEngA.ass
+│   │   ├── Young Sheldon S02E19.en.srt
+│   │   ├── Young Sheldon S02E19.mkv
+│   │   ├── Young Sheldon S02E19.nfo
+│   │   ├── Young Sheldon S02E19-thumb.jpg
+│   │   ├── Young Sheldon S02E20.ChsEngA.ass
+│   │   ├── Young Sheldon S02E20.en.srt
+│   │   ├── Young Sheldon S02E20.mkv
+│   │   ├── Young Sheldon S02E20.nfo
+│   │   ├── Young Sheldon S02E20-thumb.jpg
+│   │   ├── Young Sheldon S02E21.ChsEngA.ass
+│   │   ├── Young Sheldon S02E21.mkv
+│   │   ├── Young Sheldon S02E21.nfo
+│   │   ├── Young Sheldon S02E21-thumb.jpg
+│   │   ├── Young Sheldon S02E22.en.srt
+│   │   ├── Young Sheldon S02E22.mkv
+│   │   ├── Young Sheldon S02E22.nfo
+│   │   └── Young Sheldon S02E22-thumb.jpg
+│   ├── Season 3
+│   │   ├── Young Sheldon S03E01.H.264-NTb.ChsEngA.ass
+│   │   ├── Young Sheldon S03E01.mkv
+│   │   ├── Young Sheldon S03E01.nfo
+│   │   ├── Young Sheldon S03E01-thumb.jpg
+│   │   ├── Young Sheldon S03E02.H.264-NTb.ChsEngA.ass
+│   │   ├── Young Sheldon S03E02.mkv
+│   │   ├── Young Sheldon S03E02.nfo
+│   │   ├── Young Sheldon S03E02-thumb.jpg
+│   │   ├── Young Sheldon S03E03.H.264-NTb.ChsEngA.ass
+│   │   ├── Young Sheldon S03E03.mkv
+│   │   ├── Young Sheldon S03E03.nfo
+│   │   ├── Young Sheldon S03E03-thumb.jpg
+│   │   ├── Young Sheldon S03E04-320-10.bif
+│   │   ├── Young Sheldon S03E04.H.264-NTb.ChsEngA.ass
+│   │   ├── Young Sheldon S03E04.mkv
+│   │   ├── Young Sheldon S03E04.nfo
+│   │   ├── Young Sheldon S03E04-thumb.jpg
+│   │   ├── Young Sheldon S03E05.H.264-NTb.ChsEngA.ass
+│   │   ├── Young Sheldon S03E05.mkv
+│   │   ├── Young Sheldon S03E05.nfo
+│   │   ├── Young Sheldon S03E05-thumb.jpg
+│   │   ├── Young Sheldon S03E06.H.264-NTb.ChsEngA.ass
+│   │   ├── Young Sheldon S03E06.mkv
+│   │   ├── Young Sheldon S03E06.nfo
+│   │   ├── Young Sheldon S03E06-thumb.jpg
+│   │   ├── Young Sheldon S03E07.H.264-NTb.ChsEngA.ass
+│   │   ├── Young Sheldon S03E07.mkv
+│   │   ├── Young Sheldon S03E07.nfo
+│   │   ├── Young Sheldon S03E07-thumb.jpg
+│   │   ├── Young Sheldon S03E08-320-10.bif
+│   │   ├── Young Sheldon S03E08.H.264-NTb.ChsEngA.ass
+│   │   ├── Young Sheldon S03E08.mkv
+│   │   ├── Young Sheldon S03E08.nfo
+│   │   ├── Young Sheldon S03E08-thumb.jpg
+│   │   ├── Young Sheldon S03E09.H.264-NTb.ChsEngA.ass
+│   │   ├── Young Sheldon S03E09.mkv
+│   │   ├── Young Sheldon S03E09.nfo
+│   │   ├── Young Sheldon S03E09-thumb.jpg
+│   │   ├── Young Sheldon S03E10-320-10.bif
+│   │   ├── Young Sheldon S03E10.H.264-NTb.ChsEngA.ass
+│   │   ├── Young Sheldon S03E10.mkv
+│   │   ├── Young Sheldon S03E10.nfo
+│   │   ├── Young Sheldon S03E10-thumb.jpg
+│   │   ├── Young Sheldon S03E11.H.264-NTb.ChsEngA.ass
+│   │   ├── Young Sheldon S03E11.mkv
+│   │   ├── Young Sheldon S03E11.nfo
+│   │   ├── Young Sheldon S03E11-thumb.jpg
+│   │   ├── Young Sheldon S03E12-320-10.bif
+│   │   ├── Young Sheldon S03E12.H.264-NTb.ChsEngA.ass
+│   │   ├── Young Sheldon S03E12.mkv
+│   │   ├── Young Sheldon S03E12.nfo
+│   │   ├── Young Sheldon S03E12-thumb.jpg
+│   │   ├── Young Sheldon S03E13-320-10.bif
+│   │   ├── Young Sheldon S03E13.H.264-NTb.ChsEngA.ass
+│   │   ├── Young Sheldon S03E13.mkv
+│   │   ├── Young Sheldon S03E13.nfo
+│   │   ├── Young Sheldon S03E13-thumb.jpg
+│   │   ├── Young Sheldon S03E14-320-10.bif
+│   │   ├── Young Sheldon S03E14.H.264-NTb.ChsEngA.ass
+│   │   ├── Young Sheldon S03E14.mkv
+│   │   ├── Young Sheldon S03E14.nfo
+│   │   ├── Young Sheldon S03E14-thumb.jpg
+│   │   ├── Young Sheldon S03E15-320-10.bif
+│   │   ├── Young Sheldon S03E15.H.264-NTb.ChsEngA.ass
+│   │   ├── Young Sheldon S03E15.mkv
+│   │   ├── Young Sheldon S03E15.nfo
+│   │   ├── Young Sheldon S03E15-thumb.jpg
+│   │   ├── Young Sheldon S03E16.H.264-NTb.ChsEngA.ass
+│   │   ├── Young Sheldon S03E16.mkv
+│   │   ├── Young Sheldon S03E16.nfo
+│   │   ├── Young Sheldon S03E16-thumb.jpg
+│   │   ├── Young Sheldon S03E17-320-10.bif
+│   │   ├── Young Sheldon S03E17.H.264-NTb.ChsEngA.ass
+│   │   ├── Young Sheldon S03E17.mkv
+│   │   ├── Young Sheldon S03E17.nfo
+│   │   ├── Young Sheldon S03E17-thumb.jpg
+│   │   ├── Young Sheldon S03E18-320-10.bif
+│   │   ├── Young Sheldon S03E18.H.264-NTb.ChsEngA.ass
+│   │   ├── Young Sheldon S03E18.mkv
+│   │   ├── Young Sheldon S03E18.nfo
+│   │   ├── Young Sheldon S03E18-thumb.jpg
+│   │   ├── Young Sheldon S03E19.H.264-NTb.ChsEngA.ass
+│   │   ├── Young Sheldon S03E19.mkv
+│   │   ├── Young Sheldon S03E19.nfo
+│   │   ├── Young Sheldon S03E19-thumb.jpg
+│   │   ├── Young Sheldon S03E20.H.264-NTb.ChsEngA.ass
+│   │   ├── Young Sheldon S03E20.mkv
+│   │   ├── Young Sheldon S03E20.nfo
+│   │   ├── Young Sheldon S03E20-thumb.jpg
+│   │   ├── Young Sheldon S03E21-320-10.bif
+│   │   ├── Young Sheldon S03E21.H.264-NTb.ChsEngA.ass
+│   │   ├── Young Sheldon S03E21.mkv
+│   │   ├── Young Sheldon S03E21.nfo
+│   │   └── Young Sheldon S03E21-thumb.jpg
+│   ├── season.nfo
+│   └── tvshow.nfo
+├── เด็กใหม่ (2018)
+│   ├── fanart.jpg
+│   ├── poster.jpg
+│   ├── season02-poster.jpg
+│   ├── Season 1
+│   │   ├── season.nfo
+│   │   ├── เด็กใหม่ S01E01.mkv
+│   │   ├── เด็กใหม่ S01E01.nfo
+│   │   ├── เด็กใหม่ S01E01-thumb.jpg
+│   │   ├── เด็กใหม่ S01E02.mkv
+│   │   ├── เด็กใหม่ S01E02.nfo
+│   │   ├── เด็กใหม่ S01E02-thumb.jpg
+│   │   ├── เด็กใหม่ S01E03.mkv
+│   │   ├── เด็กใหม่ S01E03.nfo
+│   │   ├── เด็กใหม่ S01E03-thumb.jpg
+│   │   ├── เด็กใหม่ S01E04.mkv
+│   │   ├── เด็กใหม่ S01E04.nfo
+│   │   ├── เด็กใหม่ S01E04-thumb.jpg
+│   │   ├── เด็กใหม่ S01E05.mkv
+│   │   ├── เด็กใหม่ S01E05.nfo
+│   │   ├── เด็กใหม่ S01E05-thumb.jpg
+│   │   ├── เด็กใหม่ S01E06.mkv
+│   │   ├── เด็กใหม่ S01E06.nfo
+│   │   ├── เด็กใหม่ S01E06-thumb.jpg
+│   │   ├── เด็กใหม่ S01E07.mkv
+│   │   ├── เด็กใหม่ S01E07.nfo
+│   │   ├── เด็กใหม่ S01E07-thumb.jpg
+│   │   ├── เด็กใหม่ S01E08.mkv
+│   │   ├── เด็กใหม่ S01E08.nfo
+│   │   ├── เด็กใหม่ S01E08-thumb.jpg
+│   │   ├── เด็กใหม่ S01E09.mkv
+│   │   ├── เด็กใหม่ S01E09.nfo
+│   │   ├── เด็กใหม่ S01E09-thumb.jpg
+│   │   ├── เด็กใหม่ S01E10.mkv
+│   │   ├── เด็กใหม่ S01E10.nfo
+│   │   ├── เด็กใหม่ S01E10-thumb.jpg
+│   │   ├── เด็กใหม่ S01E11.mkv
+│   │   ├── เด็กใหม่ S01E11.nfo
+│   │   ├── เด็กใหม่ S01E11-thumb.jpg
+│   │   ├── เด็กใหม่ S01E12.mkv
+│   │   ├── เด็กใหม่ S01E12.nfo
+│   │   ├── เด็กใหม่ S01E12-thumb.jpg
+│   │   ├── เด็กใหม่ S01E13.mkv
+│   │   ├── เด็กใหม่ S01E13.nfo
+│   │   └── เด็กใหม่ S01E13-thumb.jpg
+│   ├── Season 2
+│   │   ├── season.nfo
+│   │   ├── เด็กใหม่ S02E01.mkv
+│   │   ├── เด็กใหม่ S02E01.nfo
+│   │   ├── เด็กใหม่ S02E01-thumb.jpg
+│   │   ├── เด็กใหม่ S02E02.mkv
+│   │   ├── เด็กใหม่ S02E02.nfo
+│   │   ├── เด็กใหม่ S02E02-thumb.jpg
+│   │   ├── เด็กใหม่ S02E03.mkv
+│   │   ├── เด็กใหม่ S02E03.nfo
+│   │   ├── เด็กใหม่ S02E03-thumb.jpg
+│   │   ├── เด็กใหม่ S02E04.mkv
+│   │   ├── เด็กใหม่ S02E04.nfo
+│   │   ├── เด็กใหม่ S02E04-thumb.jpg
+│   │   ├── เด็กใหม่ S02E05.mkv
+│   │   ├── เด็กใหม่ S02E05.nfo
+│   │   ├── เด็กใหม่ S02E05-thumb.jpg
+│   │   ├── เด็กใหม่ S02E06.mkv
+│   │   ├── เด็กใหม่ S02E06.nfo
+│   │   ├── เด็กใหม่ S02E06-thumb.jpg
+│   │   ├── เด็กใหม่ S02E07.mkv
+│   │   ├── เด็กใหม่ S02E07.nfo
+│   │   ├── เด็กใหม่ S02E07-thumb.jpg
+│   │   ├── เด็กใหม่ S02E08.mkv
+│   │   ├── เด็กใหม่ S02E08.nfo
+│   │   └── เด็กใหม่ S02E08-thumb.jpg
+│   └── tvshow.nfo
+└── あなたの番です (2019)
+    ├── fanart.jpg
+    ├── poster.jpg
+    ├── Season 
+    │   ├── あなたの番です S00E01n-320-10.bif
+    │   ├── あなたの番です S00E01n.mp4
+    │   ├── あなたの番です S00E01n.nfo
+    │   ├── あなたの番です S00E01n-thumb.jpg
+    │   ├── あなたの番です S00E02n-320-10.bif
+    │   ├── あなたの番です S00E02n.mp4
+    │   ├── あなたの番です S00E02n.nfo
+    │   ├── あなたの番です S00E02n-thumb.jpg
+    │   ├── あなたの番です S00E03n-320-10.bif
+    │   ├── あなたの番です S00E03n.mp4
+    │   ├── あなたの番です S00E03n.nfo
+    │   ├── あなたの番です S00E03n-thumb.jpg
+    │   ├── あなたの番です S00E04n-320-10.bif
+    │   ├── あなたの番です S00E04n.mp4
+    │   ├── あなたの番です S00E04n.nfo
+    │   ├── あなたの番です S00E04n-thumb.jpg
+    │   ├── あなたの番です S00E05n-320-10.bif
+    │   ├── あなたの番です S00E05n.mp4
+    │   ├── あなたの番です S00E05n.nfo
+    │   ├── あなたの番です S00E05n-thumb.jpg
+    │   ├── あなたの番です S00E06n-320-10.bif
+    │   ├── あなたの番です S00E06n.mp4
+    │   ├── あなたの番です S00E06n.nfo
+    │   ├── あなたの番です S00E06n-thumb.jpg
+    │   ├── あなたの番です S00E07n-320-10.bif
+    │   ├── あなたの番です S00E07n.mp4
+    │   ├── あなたの番です S00E07n.nfo
+    │   ├── あなたの番です S00E07n-thumb.jpg
+    │   ├── あなたの番です S00E08n-320-10.bif
+    │   ├── あなたの番です S00E08n.mp4
+    │   ├── あなたの番です S00E08n.nfo
+    │   ├── あなたの番です S00E08n-thumb.jpg
+    │   ├── あなたの番です S00E09n-320-10.bif
+    │   ├── あなたの番です S00E09n.mp4
+    │   ├── あなたの番です S00E09n.nfo
+    │   ├── あなたの番です S00E09n-thumb.jpg
+    │   ├── あなたの番です S00E10-320-10.bif
+    │   ├── あなたの番です S00E10.mp4
+    │   ├── あなたの番です S00E10.nfo
+    │   └── あなたの番です S00E10-thumb.jpg
+    ├── season.nfo
+    └── tvshow.nfo
+```
+
+</details>

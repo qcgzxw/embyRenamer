@@ -96,7 +96,7 @@ var config = map[string]string{
 	"movieDirFormat":     "{originaltitle} ({year}) [imdbid={imdbid}]",
 	"movieTitleFormat":   "{originaltitle}",
 	"tvDirPath":          "example/data/TV/",
-	"tvTitleFormat":      "",
-	"seasonTitleFormat":  "",
-	"episodeTitleFormat": "",
+	"tvDirFormat":        "{originaltitle} ({year})",
+	"episodeDirFormat":   "Season {season}",
+	"episodeTitleFormat": "{originaltitle} S{SEASON}E{EPISODE}",
 }
