@@ -16,6 +16,7 @@ cd /目标目录/
 find -iname "*.nfo" -exec cp {} /测试目录/{} \;
 ```
 ### 配置文件说明
+复制 **config.json.example** 文件到 **config.json** ，并按需更改配置
 ```json
 {
   "movieDirPath": "example/originData/电影/",# 需要改名的目标文件夹

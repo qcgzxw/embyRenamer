@@ -20,8 +20,7 @@ func GetFileExt(filePath string) (ext string) {
 func GetFileName(filePath string) (name string) {
 	if fileInfo, err := os.Stat(filePath); err == nil && !fileInfo.IsDir() {
 		name = fileInfo.Name()
-		ext := path.Ext(filePath)
-		name = strings.TrimRight(name, ext)
+		name = name[:len(name)-len(filepath.Ext(name))]
 	}
 	return
 }
@@ -52,4 +51,13 @@ func GetNumStr(total uint, no string) (numStr string) {
 		numStr = strings.Repeat("0", len(strconv.Itoa(int(total)))-len(no)) + no
 	}
 	return
+}
+
+func OsRename(oldPath, newPath string) error {
+	if strings.ToLower(GetFileExt(oldPath)) == ".nfo" {
+		if _, ok := invalidNfoPath[oldPath]; ok {
+			delete(invalidNfoPath, oldPath)
+		}
+	}
+	return os.Rename(oldPath, newPath)
 }

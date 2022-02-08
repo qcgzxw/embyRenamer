@@ -3,10 +3,13 @@ package main
 import (
 	"embyRenamer/renamer"
 	"encoding/json"
+	"fmt"
 	"os"
+	"time"
 )
 
 func main() {
+	startTime := time.Now().UnixNano() / 1e6
 	var config *renamer.Config
 	if b, err := os.ReadFile("config.json"); err == nil && len(b) > 0 {
 		err = json.Unmarshal(b, &config)
@@ -40,4 +43,12 @@ func main() {
 			panic(err)
 		}
 	}
+	endTime := time.Now().UnixNano() / 1e6
+	if invalidNfoPath := renamer.InvalidNfoPath(); len(invalidNfoPath) > 0 {
+		println("无法识别的nfo文件列表：")
+		for path, _ := range invalidNfoPath {
+			println(path)
+		}
+	}
+	fmt.Printf("总花费时间：%dms\n", endTime-startTime)
 }
