@@ -7,12 +7,10 @@ import (
 )
 
 var config Config
+var invalidNfoPath = make(map[string]byte)
 
 func scanTvShowNfo(rootPath string, nfoPath string) (client Client) {
-	if ext := GetFileExt(nfoPath); strings.ToLower(ext) != ".nfo" {
-		return
-	}
-	if name := GetFileName(nfoPath); strings.ToLower(name) != "tvshow" {
+	if ext := GetFileExt(nfoPath); strings.ToLower(ext) != ".nfo" || strings.ToLower(GetFileName(nfoPath)) != "tvshow" {
 		return
 	}
 	d, err := os.ReadFile(nfoPath)
@@ -22,7 +20,9 @@ func scanTvShowNfo(rootPath string, nfoPath string) (client Client) {
 	var tvShowInfo *TvShowInfo
 	err = xml.Unmarshal(d, &tvShowInfo)
 	if err != nil || tvShowInfo == nil {
-		println(nfoPath)
+		if _, ok := invalidNfoPath[nfoPath]; !ok {
+			invalidNfoPath[nfoPath] = 0x0
+		}
 		return
 	}
 	client = &TvShow{
@@ -34,10 +34,7 @@ func scanTvShowNfo(rootPath string, nfoPath string) (client Client) {
 	return
 }
 func scanEpisodeNfo(rootPath string, nfoPath string, tvShowInfo TvShowInfo, totalSeasons uint, totalEpisodes uint) (client Client) {
-	if ext := GetFileExt(nfoPath); strings.ToLower(ext) != ".nfo" {
-		return
-	}
-	if name := GetFileName(nfoPath); strings.ToLower(name) == "season" {
+	if ext := GetFileExt(nfoPath); strings.ToLower(ext) != ".nfo" || strings.ToLower(GetFileName(nfoPath)) == "season" {
 		return
 	}
 	d, err := os.ReadFile(nfoPath)
@@ -47,6 +44,9 @@ func scanEpisodeNfo(rootPath string, nfoPath string, tvShowInfo TvShowInfo, tota
 	var episodeInfo *EpisodeDetailsInfo
 	err = xml.Unmarshal(d, &episodeInfo)
 	if err != nil || episodeInfo == nil {
+		if _, ok := invalidNfoPath[nfoPath]; !ok {
+			invalidNfoPath[nfoPath] = 0x0
+		}
 		return
 	}
 	client = &Episode{
@@ -63,7 +63,7 @@ func scanEpisodeNfo(rootPath string, nfoPath string, tvShowInfo TvShowInfo, tota
 	return
 }
 func scanMovieNfo(rootPath string, nfoPath string) (client Client) {
-	if ext := GetFileExt(nfoPath); strings.ToLower(ext) != ".nfo" {
+	if ext := GetFileExt(nfoPath); strings.ToLower(ext) != ".nfo" || strings.ToLower(GetFileName(nfoPath)) == "season" {
 		return
 	}
 	d, err := os.ReadFile(nfoPath)
@@ -74,6 +74,9 @@ func scanMovieNfo(rootPath string, nfoPath string) (client Client) {
 	var movieInfo *MovieInfo
 	err = xml.Unmarshal(d, &movieInfo)
 	if err != nil {
+		if _, ok := invalidNfoPath[nfoPath]; !ok {
+			invalidNfoPath[nfoPath] = 0x0
+		}
 		return
 	}
 	client = &Movie{
@@ -97,14 +100,18 @@ func Scan(rootPath, dirPath string) (clients []Client, err error) {
 		return
 	}
 	for path, file := range files {
-		if ext := GetFileExt(path); ext == ".nfo" {
-			nfoFiles[path] = file
+		if strings.ToLower(file.Name()) == "season.nfo" {
+			continue
 		}
-		if file.Name() == "tvshow.nfo" {
+		if strings.ToLower(file.Name()) == "tvshow.nfo" {
 			isMoviePath = false
 			if c := scanTvShowNfo(rootPath, path); c != nil {
 				clients = append(clients, c)
 			}
+			continue
+		}
+		if ext := GetFileExt(path); ext == ".nfo" {
+			nfoFiles[path] = file
 		}
 	}
 	if isMoviePath {
@@ -158,6 +165,10 @@ func DeepScan(rootPath, dirPath string, deep int) (clients []Client, err error) 
 		}
 	}
 	return
+}
+
+func InvalidNfoPath() map[string]byte {
+	return invalidNfoPath
 }
 
 func LoadConfig(c *Config) {

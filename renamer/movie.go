@@ -74,7 +74,7 @@ func (m *Movie) renameFile() {
 	}
 	files, paths, _ := FilePathWalkDir(filepath.Dir(m.nfoPath))
 	embyTitleReplacer := strings.NewReplacer(
-		strings.TrimRight(m.nfoPath, ".nfo"), m.rootPath+"/"+embyDirName+"/"+embyTitleName,
+		m.nfoPath[:len(m.nfoPath)-4], m.rootPath+"/"+embyDirName+"/"+embyTitleName,
 		filepath.Dir(m.nfoPath)+"/folder.", m.rootPath+"/"+embyDirName+"/folder.",
 		filepath.Dir(m.nfoPath)+"/poster.", m.rootPath+"/"+embyDirName+"/poster.",
 		filepath.Dir(m.nfoPath)+"/cover.", m.rootPath+"/"+embyDirName+"/cover.",
@@ -95,20 +95,20 @@ func (m *Movie) renameFile() {
 	)
 	for path, _ := range files {
 		if newPath := embyTitleReplacer.Replace(path); newPath != path {
-			os.Rename(path, newPath)
+			OsRename(path, newPath)
 		}
 	}
 	if m.rootPath == filepath.Dir(m.nfoPath) {
 		return
 	}
 	embyDirReplacer := strings.NewReplacer(
-		strings.TrimRight(m.nfoPath, ".nfo"), m.rootPath+"/"+embyDirName+"/"+embyTitleName,
+		m.nfoPath[:len(m.nfoPath)-4], m.rootPath+"/"+embyDirName+"/"+embyTitleName,
 		filepath.Dir(m.nfoPath)+"/BDMV", m.rootPath+"/"+embyDirName+"/BDMV",
 		filepath.Dir(m.nfoPath)+"/CERTIFICATE", m.rootPath+"/"+embyDirName+"/CERTIFICATE",
 	)
 	for _, path := range paths {
 		if newPath := embyDirReplacer.Replace(path); newPath != path {
-			os.Rename(path, newPath)
+			OsRename(path, newPath)
 		}
 	}
 	return

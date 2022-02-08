@@ -75,13 +75,13 @@ func (this *Episode) renameFile() {
 	}
 	files, _, _ := FilePathWalkDir(filepath.Dir(this.nfoPath))
 	embyTitleReplacer := strings.NewReplacer(
-		strings.TrimRight(this.nfoPath, ".nfo"), this.rootPath+"/"+embyDirName+"/"+embyTitleName,
+		this.nfoPath[:len(this.nfoPath)-4], this.rootPath+"/"+embyDirName+"/"+embyTitleName,
 		filepath.Dir(this.nfoPath)+"/"+"season.nfo", this.rootPath+"/"+embyDirName+"/"+"season.nfo",
 		filepath.Dir(this.nfoPath)+"/"+"season-specials", this.rootPath+"/"+embyDirName+"/"+"season-specials",
 	)
 	for path, _ := range files {
 		if newPath := embyTitleReplacer.Replace(path); newPath != path {
-			os.Rename(path, newPath)
+			OsRename(path, newPath)
 		}
 	}
 }
