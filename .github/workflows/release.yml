@@ -1,6 +1,8 @@
 name: Build Release
 
 on:
+  release:
+    types: [ created ]
   push:
     branches: [ master ]
   workflow_dispatch:
@@ -8,77 +10,20 @@ jobs:
   release-linux-386:
     name: release linux/386
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        goos: [linux, windows, darwin]
+        goarch: ["386", amd64, arm64]
+        exclude:
+          - goarch: "386"
+            goos: darwin
+          - goarch: arm64
+            goos: windows
     steps:
     - uses: actions/checkout@v2
     - uses: wangyoucao577/go-release-action@v1.24
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        goarch: "386"
-        goos: linux
-        extra_files: "readme.md config.json.example LICENSE"
-  release-linux-amd64:
-    name: release linux/amd64
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - uses: wangyoucao577/go-release-action@v1.24
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        goarch: amd64
-        goos: linux
-        extra_files: "readme.md config.json.example LICENSE"
-  release-linux-arm:
-    name: release linux/arm
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - uses: wangyoucao577/go-release-action@v1.24
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        goarch: "arm"
-        goos: linux
-        extra_files: "readme.md config.json.example LICENSE"
-  release-linux-arm64:
-    name: release linux/arm64
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - uses: wangyoucao577/go-release-action@v1.24
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        goarch: arm64
-        goos: linux
-        extra_files: "readme.md config.json.example LICENSE"
-  release-darwin-amd64:
-    name: release darwin/amd64
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - uses: wangyoucao577/go-release-action@v1.24
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        goarch: amd64
-        goos: darwin
-        extra_files: "readme.md config.json.example LICENSE"
-  release-windows-386:
-    name: release windows/386
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - uses: wangyoucao577/go-release-action@v1.24
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        goarch: "386"
-        goos: windows
-        extra_files: "readme.md config.json.example LICENSE"
-  release-windows-amd64:
-    name: release windows/amd64
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - uses: wangyoucao577/go-release-action@v1.24
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        goarch: amd64
-        goos: windows
-        extra_files: "readme.md config.json.example LICENSE"
+        goos: ${{ matrix.goos }}
+        goarch: ${{ matrix.goarch }}
+        extra_files: readme.md config.json.example LICENSE
