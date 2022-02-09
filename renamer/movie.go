@@ -39,11 +39,11 @@ func (m *Movie) nameReplacer() *strings.Replacer {
 	if m.movieInfo.Originaltitle == "" {
 		m.movieInfo.Originaltitle = m.movieInfo.Title
 	}
-	if strings.Contains(m.movieInfo.Originaltitle, "/") {
-		m.movieInfo.Originaltitle = strings.Replace(m.movieInfo.Originaltitle, "/", " ", -1)
+	if strings.Contains(m.movieInfo.Originaltitle, string(os.PathSeparator)) {
+		m.movieInfo.Originaltitle = strings.Replace(m.movieInfo.Originaltitle, string(os.PathSeparator), " ", -1)
 	}
-	if strings.Contains(m.movieInfo.Title, "/") {
-		m.movieInfo.Title = strings.Replace(m.movieInfo.Title, "/", " ", -1)
+	if strings.Contains(m.movieInfo.Title, string(os.PathSeparator)) {
+		m.movieInfo.Title = strings.Replace(m.movieInfo.Title, string(os.PathSeparator), " ", -1)
 	}
 	return strings.NewReplacer(
 		"{originaltitle}", m.movieInfo.Originaltitle,
@@ -65,33 +65,41 @@ func (m *Movie) renameFile() {
 	if embyDirName = m.GetEmbyDirName(); embyDirName == "" {
 		return
 	}
-	embyDirPath = m.rootPath + "/" + embyDirName
+	embyDirPath = m.rootPath + string(os.PathSeparator) + embyDirName
 	if stat, err := os.Stat(embyDirPath); err != nil || !stat.IsDir() {
 		err = os.MkdirAll(embyDirPath, os.ModePerm)
 		if err != nil {
 			println(err.Error())
 		}
 	}
-	files, paths, _ := FilePathWalkDir(filepath.Dir(m.nfoPath))
+	files, paths, _ := FilePathWalkCurrentDir(filepath.Dir(m.nfoPath))
 	embyTitleReplacer := strings.NewReplacer(
-		m.nfoPath[:len(m.nfoPath)-4], m.rootPath+"/"+embyDirName+"/"+embyTitleName,
-		filepath.Dir(m.nfoPath)+"/folder.", m.rootPath+"/"+embyDirName+"/folder.",
-		filepath.Dir(m.nfoPath)+"/poster.", m.rootPath+"/"+embyDirName+"/poster.",
-		filepath.Dir(m.nfoPath)+"/cover.", m.rootPath+"/"+embyDirName+"/cover.",
-		filepath.Dir(m.nfoPath)+"/default.", m.rootPath+"/"+embyDirName+"/default.",
-		filepath.Dir(m.nfoPath)+"/movie.", m.rootPath+"/"+embyDirName+"/movie.",
-		filepath.Dir(m.nfoPath)+"/clearart.", m.rootPath+"/"+embyDirName+"/clearart.",
-		filepath.Dir(m.nfoPath)+"/backdrop.", m.rootPath+"/"+embyDirName+"/backdrop.",
-		filepath.Dir(m.nfoPath)+"/fanart.", m.rootPath+"/"+embyDirName+"/fanart.",
-		filepath.Dir(m.nfoPath)+"/background.", m.rootPath+"/"+embyDirName+"/background.",
-		filepath.Dir(m.nfoPath)+"/extrafanart.", m.rootPath+"/"+embyDirName+"/extrafanart.",
-		filepath.Dir(m.nfoPath)+"/banner.", m.rootPath+"/"+embyDirName+"/banner.",
-		filepath.Dir(m.nfoPath)+"/disc.", m.rootPath+"/"+embyDirName+"/disc.",
-		filepath.Dir(m.nfoPath)+"/cdart.", m.rootPath+"/"+embyDirName+"/cdart.",
-		filepath.Dir(m.nfoPath)+"/clearlogo.", m.rootPath+"/"+embyDirName+"/clearlogo.",
-		filepath.Dir(m.nfoPath)+"/logo.", m.rootPath+"/"+embyDirName+"/logo.",
-		filepath.Dir(m.nfoPath)+"/thumb.", m.rootPath+"/"+embyDirName+"/thumb.",
-		filepath.Dir(m.nfoPath)+"/landscape.", m.rootPath+"/"+embyDirName+"/landscape.",
+		m.nfoPath[:len(m.nfoPath)-4]+".", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+embyTitleName+".",
+		m.nfoPath[:len(m.nfoPath)-4]+"-", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+embyTitleName+"-",
+		m.nfoPath[:len(m.nfoPath)-4]+"_", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+embyTitleName+"_",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"sample", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"sample",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"folder.", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"folder.",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"poster.", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"poster.",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"cover.", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"cover.",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"default.", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"default.",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"movie.", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"movie.",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"clearart.", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"clearart.",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"backdrop.", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"backdrop.",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"backdropX.", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"backdropX.",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"fanart.", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"fanart.",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"fanart-X.", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"fanart-X.",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"background.", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"background.",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"background-X.", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"background-X.",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"art.", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"art.",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"art-X.", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"art-X.",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"extrafanart.", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"extrafanart.",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"banner.", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"banner.",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"disc.", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"disc.",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"cdart.", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"cdart.",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"clearlogo.", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"clearlogo.",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"logo.", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"logo.",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"thumb.", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"thumb.",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"landscape.", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"landscape.",
 	)
 	for path, _ := range files {
 		if newPath := embyTitleReplacer.Replace(path); newPath != path {
@@ -102,9 +110,10 @@ func (m *Movie) renameFile() {
 		return
 	}
 	embyDirReplacer := strings.NewReplacer(
-		m.nfoPath[:len(m.nfoPath)-4], m.rootPath+"/"+embyDirName+"/"+embyTitleName,
-		filepath.Dir(m.nfoPath)+"/BDMV", m.rootPath+"/"+embyDirName+"/BDMV",
-		filepath.Dir(m.nfoPath)+"/CERTIFICATE", m.rootPath+"/"+embyDirName+"/CERTIFICATE",
+		m.nfoPath[:len(m.nfoPath)-4], m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+embyTitleName,
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"Sample", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"Sample",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"BDMV", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"BDMV",
+		filepath.Dir(m.nfoPath)+string(os.PathSeparator)+"CERTIFICATE", m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+"CERTIFICATE",
 	)
 	for _, path := range paths {
 		if newPath := embyDirReplacer.Replace(path); newPath != path {

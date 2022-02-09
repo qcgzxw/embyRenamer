@@ -5,6 +5,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"os"
+	"strings"
 	"time"
 )
 
@@ -25,7 +26,7 @@ func main() {
 	}
 	if config.MovieDirPath != "" {
 		// 电影
-		if clients, err := renamer.DeepScan(config.MovieRootPath, config.MovieDirPath, -1); err == nil {
+		if clients, err := renamer.DeepScan(strings.TrimRight(config.MovieRootPath, string(os.PathSeparator)), strings.TrimRight(config.MovieDirPath, string(os.PathSeparator)), -1); err == nil {
 			for _, client := range clients {
 				client.Rename()
 			}
@@ -35,7 +36,7 @@ func main() {
 	}
 	if config.MovieDirPath != "" {
 		// 电视剧
-		if clients, err := renamer.DeepScan(config.TvRootPath, config.TvDirPath, -1); err == nil {
+		if clients, err := renamer.DeepScan(strings.TrimRight(config.TvRootPath, string(os.PathSeparator)), strings.TrimRight(config.TvDirPath, string(os.PathSeparator)), -1); err == nil {
 			for _, client := range clients {
 				client.Rename()
 			}
