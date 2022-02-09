@@ -3,20 +3,21 @@ name: Build Release
 on:
   release:
     types: [ created ]
-  workflow_dispatch:
 jobs:
   release-linux-386:
-    name: release linux/386
+    name: build release
     runs-on: ubuntu-latest
     strategy:
       matrix:
         goos: [linux, windows, darwin]
-        goarch: ["386", amd64, arm64]
+        goarch: ["386", amd64, arm64, arm]
         exclude:
           - goarch: "386"
             goos: darwin
           - goarch: arm64
             goos: windows
+          - goarch: arm
+            goos: darwin
     steps:
     - uses: actions/checkout@v2
     - uses: wangyoucao577/go-release-action@v1.24
