@@ -228,12 +228,12 @@
 │   ├── poster.jpg
 │   └── 밤의 해변에서 혼자.zh.default.srt
 ├── 신과함께-죄와 벌 (2017) [imdbid=tt7160070]
-│   ├── 신과함께-죄와 벌.-320-10.bif
-│   ├── 신과함께-죄와 벌.-clearlogo.png
-│   ├── 신과함께-죄와 벌.-fanart.jpg
-│   ├── 신과함께-죄와 벌..mp4
-│   ├── 신과함께-죄와 벌..nfo
-│   └── 신과함께-죄와 벌.-poster.jpg
+│   ├── 신과함께-죄와 벌-320-10.bif
+│   ├── 신과함께-죄와 벌-clearlogo.png
+│   ├── 신과함께-죄와 벌-fanart.jpg
+│   ├── 신과함께-죄와 벌.mp4
+│   ├── 신과함께-죄와 벌.nfo
+│   └── 신과함께-죄와 벌-poster.jpg
 ├── 꾼 (2017) [imdbid=tt7243686]
 │   ├── 꾼-320-10.bif
 │   ├── fanart.jpg
@@ -438,7 +438,6 @@
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── 大象席地而坐 (2018) [imdbid=tt8020896]
-│   ├── 大象席地而坐 (1).srt
 │   ├── 大象席地而坐-320-10.bif
 │   ├── 大象席地而坐.mp4
 │   ├── 大象席地而坐.nfo
@@ -555,7 +554,9 @@
 │   ├── 活着.md5
 │   ├── 活着.mkv
 │   ├── 活着.nfo
-│   └── 活着-poster.jpg
+│   ├── 活着-poster.jpg
+│   └── Sample
+│       └── To.Live.1994.1080p.BluRay.x264-WiKi.Sample.mkv
 ├── 濟公 (1993) [imdbid=tt0106538]
 │   ├── 濟公.mkv
 │   ├── 濟公.nfo
@@ -1025,7 +1026,9 @@
 │   ├── Alita: Battle Angel-landscape.jpg
 │   ├── Alita: Battle Angel.mkv
 │   ├── Alita: Battle Angel.nfo
-│   └── Alita: Battle Angel-poster.jpg
+│   ├── Alita: Battle Angel-poster.jpg
+│   └── Sample
+│       └── Sample-ABABSM10.mkv
 ├── All the Money in the World (2017) [imdbid=tt5294550]
 │   ├── All the Money in the World-320-10.bif
 │   ├── All the Money in the World.avi
@@ -1044,11 +1047,11 @@
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── American Hustle (2013) [imdbid=tt1800241]
-│   ├── American Hustle.-320-10.bif
-│   ├── American Hustle.-fanart.jpg
-│   ├── American Hustle..mkv
-│   ├── American Hustle..nfo
-│   ├── American Hustle.-poster.jpg
+│   ├── American Hustle-320-10.bif
+│   ├── American Hustle-fanart.jpg
+│   ├── American Hustle.mkv
+│   ├── American Hustle.nfo
+│   ├── American Hustle-poster.jpg
 │   ├── clearlogo.png
 │   └── landscape.jpg
 ├── Annihilation (2018) [imdbid=tt2798920]
@@ -1273,13 +1276,11 @@
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── D'après une histoire vraie (2017) [imdbid=tt5893264]
-│   ├── D'après une histoire vraie.2017.FRENCH.1080p.WEB.H264-PREUMS.chs.srt
-│   ├── D'après une histoire vraie.2017.FRENCH.1080p.WEB.H264-PREUMS.cht.srt
-│   ├── D'après une histoire vraie.-320-10.bif
-│   ├── D'après une histoire vraie.-fanart.jpg
-│   ├── D'après une histoire vraie..mkv
-│   ├── D'après une histoire vraie..nfo
-│   └── D'après une histoire vraie.-poster.jpg
+│   ├── D'après une histoire vraie-320-10.bif
+│   ├── D'après une histoire vraie-fanart.jpg
+│   ├── D'après une histoire vraie.mkv
+│   ├── D'après une histoire vraie.nfo
+│   └── D'après une histoire vraie-poster.jpg
 ├── Deadwood: The Movie (2019) [imdbid=tt4943998]
 │   ├── clearlogo.png
 │   ├── Deadwood: The Movie-320-10.bif
@@ -1301,13 +1302,13 @@
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── Donnie Darko (2001) [imdbid=tt0246578]
-│   ├── Donnie Darkoo-320-10.bif
-│   ├── Donnie Darkoo-backdrop.jpg
-│   ├── Donnie Darkoo-clearlogo.png
-│   ├── Donnie Darkoo-landscape.jpg
-│   ├── Donnie Darkoo.nfo
-│   ├── Donnie Darkoo-poster.jpg
-│   └── Donnie Darkoo.rmvb
+│   ├── Donnie Darko-320-10.bif
+│   ├── Donnie Darko-backdrop.jpg
+│   ├── Donnie Darko-clearlogo.png
+│   ├── Donnie Darko-landscape.jpg
+│   ├── Donnie Darko.nfo
+│   ├── Donnie Darko-poster.jpg
+│   └── Donnie Darko.rmvb
 ├── Don't Breathe (2016) [imdbid=tt4160708]
 │   ├── Don't Breathe-320-10.bif
 │   ├── Don't Breathe-backdrop.jpg
@@ -1523,12 +1524,13 @@
 │   ├── Good Will Hunting-fanart.jpg
 │   ├── Good Will Hunting.mkv
 │   ├── Good Will Hunting.nfo
-│   └── Good Will Hunting-poster.jpg
+│   ├── Good Will Hunting-poster.jpg
+│   └── Sample
+│       └── good.will.hunting.1997.1080p.bluray.x264.sample-cinefile.mkv
 ├── Green Book (2018) [imdbid=tt6966692]
 │   ├── fanart.jpg
 │   ├── Green Book-320-10.bif
 │   ├── Green Book.en.srt
-│   ├── Green Booken.srt
 │   ├── Green Book.mkv
 │   ├── Green Book.nfo
 │   └── poster.jpg
@@ -1562,7 +1564,9 @@
 │   ├── Hard Candy.md5
 │   ├── Hard Candy.mkv
 │   ├── Hard Candy.nfo
-│   └── Hard Candy-poster.jpg
+│   ├── Hard Candy-poster.jpg
+│   └── Sample
+│       └── Hard.Candy.2005.1080p.BluRay.x264.DTS-WiKi.Sample.mkv
 ├── Hereditary (2018) [imdbid=tt7784604]
 │   ├── Hereditary-320-10.bif
 │   ├── Hereditary-fanart.jpg
@@ -1833,10 +1837,10 @@
 │   └── poster.jpg
 ├── Matchstick Men (2003) [imdbid=tt0325805]
 │   ├── fanart.jpg
-│   ├── Matchstick Menn-320-10.bif
-│   ├── Matchstick Menn..ass
-│   ├── Matchstick Menn.mkv
-│   ├── Matchstick Menn.nfo
+│   ├── Matchstick Men-320-10.bif
+│   ├── Matchstick Men..ass
+│   ├── Matchstick Men.mkv
+│   ├── Matchstick Men.nfo
 │   └── poster.jpg
 ├── Memoria de Mis Putas Tristes (2011) [imdbid=tt1504019]
 │   ├── fanart.jpg
@@ -1886,11 +1890,11 @@
 │   └── poster.jpg
 ├── No Country for Old Men (2007) [imdbid=tt0477348]
 │   ├── clearlogo.png
-│   ├── No Country for Old Menn-320-10.bif
-│   ├── No Country for Old Menn-backdrop.jpg
-│   ├── No Country for Old Menn.mkv
-│   ├── No Country for Old Menn.nfo
-│   └── No Country for Old Menn-poster.jpg
+│   ├── No Country for Old Men-320-10.bif
+│   ├── No Country for Old Men-backdrop.jpg
+│   ├── No Country for Old Men.mkv
+│   ├── No Country for Old Men.nfo
+│   └── No Country for Old Men-poster.jpg
 ├── Nomadland (2021) [imdbid=tt9770150]
 │   ├── clearlogo.png
 │   ├── fanart.jpg
@@ -2789,12 +2793,12 @@
 │   ├── Shot Caller.nfo
 │   └── Shot Caller-poster.jpg
 ├── Snatch (2000) [imdbid=tt0208092]
-│   ├── Snatch.-320-10.bif
-│   ├── Snatch.-fanart.jpg
-│   ├── Snatch.-landscape.jpg
-│   ├── Snatch..mkv
-│   ├── Snatch..nfo
-│   └── Snatch.-poster.jpg
+│   ├── Snatch-320-10.bif
+│   ├── Snatch-fanart.jpg
+│   ├── Snatch-landscape.jpg
+│   ├── Snatch.mkv
+│   ├── Snatch.nfo
+│   └── Snatch-poster.jpg
 ├── Source Code (2011) [imdbid=tt0945513]
 │   ├── clearlogo.png
 │   ├── fanart.jpg
@@ -2905,6 +2909,8 @@
 │   ├── Taking Woodstock.mkv
 │   └── Taking Woodstock.nfo
 ├── Taxi Driver (1976) [imdbid=tt0075314]
+│   ├── Sample
+│   │   └── taxi.driver.1976.1080p.bluray.x264-amiable.sample.mkv
 │   ├── Taxi Driver-320-10.bif
 │   ├── Taxi Driver.简体&英文.ass
 │   ├── Taxi Driver-clearlogo.png
@@ -3011,6 +3017,8 @@
 │   ├── The Gentlemen.mkv
 │   └── The Gentlemen.nfo
 ├── The Godfather (1972) [imdbid=tt0068646]
+│   ├── Sample
+│   │   └── The.Godfather.1972.1080p.BluRay.x264-WiKi.Sample.mkv
 │   ├── The Godfather-clearlogo.png
 │   ├── The Godfather-fanart.jpg
 │   ├── The Godfather-landscape.jpg
@@ -3019,6 +3027,8 @@
 │   ├── The Godfather.nfo
 │   └── The Godfather-poster.jpg
 ├── The Godfather: Part II (1974) [imdbid=tt0071562]
+│   ├── Sample
+│   │   └── The.Godfather.Part.II.1974.1080p.BluRay.x264-WiKi.Sample.mkv
 │   ├── The Godfather: Part II-clearlogo.png
 │   ├── The Godfather: Part II-fanart.jpg
 │   ├── The Godfather: Part II-landscape.jpg
@@ -3027,6 +3037,8 @@
 │   ├── The Godfather: Part II.nfo
 │   └── The Godfather: Part II-poster.jpg
 ├── The Godfather: Part III (1990) [imdbid=tt0099674]
+│   ├── Sample
+│   │   └── The.Godfather.Part.III.1990.1080p.BluRay.x264-WiKi.Sample.mkv
 │   ├── The Godfather: Part III-clearlogo.png
 │   ├── The Godfather: Part III-fanart.jpg
 │   ├── The Godfather: Part III-landscape.jpg
@@ -3035,13 +3047,13 @@
 │   ├── The Godfather: Part III.nfo
 │   └── The Godfather: Part III-poster.jpg
 ├── The Greatest Showman (2017) [imdbid=tt1485796]
-│   ├── The Greatest Showmann-320-10.bif
-│   ├── The Greatest Showmann-backdrop.jpg
-│   ├── The Greatest Showmann-clearlogo.png
-│   ├── The Greatest Showmann-landscape.jpg
-│   ├── The Greatest Showmann.mp4
-│   ├── The Greatest Showmann.nfo
-│   └── The Greatest Showmann-poster.jpg
+│   ├── The Greatest Showman-320-10.bif
+│   ├── The Greatest Showman-backdrop.jpg
+│   ├── The Greatest Showman-clearlogo.png
+│   ├── The Greatest Showman-landscape.jpg
+│   ├── The Greatest Showman.mp4
+│   ├── The Greatest Showman.nfo
+│   └── The Greatest Showman-poster.jpg
 ├── The Green Mile (1999) [imdbid=tt0120689]
 │   ├── clearlogo.png
 │   ├── landscape.jpg
@@ -3175,6 +3187,8 @@
 │   ├── The Mist.mkv
 │   └── The Mist.nfo
 ├── The Mule (2018) [imdbid=tt7959026]
+│   ├── Sample
+│   │   └── Sample-TMBSM8.mkv
 │   ├── The Mule-320-10.bif
 │   ├── The Mule-clearlogo.png
 │   ├── The Mule-fanart.jpg
@@ -3207,6 +3221,8 @@
 │   ├── The Post.nfo
 │   └── The Post-poster.jpg
 ├── The Princess Diaries (2001) [imdbid=tt0247638]
+│   ├── Sample
+│   │   └── the.princess.diaries.2001.1080p.bluray.x264-psychd.sample.mkv
 │   ├── The Princess Diaries-320-10.bif
 │   ├── The Princess Diaries-clearlogo.png
 │   ├── The Princess Diaries-fanart.jpg
@@ -3464,6 +3480,7 @@
 │   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── poster.jpg
+│   ├── sample.mkv
 │   ├── Titanic.chs&eng.srt
 │   ├── Titanic.mkv
 │   └── Titanic.nfo
@@ -3809,4 +3826,4 @@
     ├── 鹿鼎記 II : 神龍敎.mkv
     └── 鹿鼎記 II : 神龍敎.nfo
 
-501 directories, 3309 files
+511 directories, 3316 files

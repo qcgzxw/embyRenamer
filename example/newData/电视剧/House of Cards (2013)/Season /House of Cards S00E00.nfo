@@ -3,15 +3,15 @@
   <plot />
   <outline />
   <lockdata>false</lockdata>
-  <dateadded>2020-09-24 14:46:57</dateadded>
-  <title>Backstage Politics - On the Set of House of Cards</title>
-  <runtime>25</runtime>
+  <dateadded>2020-09-24 14:25:33</dateadded>
+  <title>A Death In New Mexico</title>
+  <runtime>17</runtime>
   <fileinfo>
     <streamdetails>
       <video>
         <codec>hevc</codec>
         <micodec>hevc</micodec>
-        <bitrate>3246909</bitrate>
+        <bitrate>4346677</bitrate>
         <width>1920</width>
         <height>1080</height>
         <aspect>16:9</aspect>
@@ -20,8 +20,8 @@
         <scantype>progressive</scantype>
         <default>True</default>
         <forced>False</forced>
-        <duration>24</duration>
-        <durationinseconds>1499</durationinseconds>
+        <duration>17</duration>
+        <durationinseconds>1021</durationinseconds>
       </video>
       <audio>
         <codec>ac3</codec>
@@ -37,8 +37,6 @@
       <subtitle>
         <codec>PGSSUB</codec>
         <micodec>PGSSUB</micodec>
-        <width>1920</width>
-        <height>1080</height>
         <language>eng</language>
         <scantype>progressive</scantype>
         <default>False</default>
