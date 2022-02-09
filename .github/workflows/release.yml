@@ -3,8 +3,6 @@ name: Build Release
 on:
   release:
     types: [ created ]
-  push:
-    branches: [ master ]
   workflow_dispatch:
 jobs:
   release-linux-386:
