@@ -55,7 +55,7 @@ func scanEpisodeNfo(rootPath string, nfoPath string, tvShowInfo TvShowInfo, tota
 		tvShowInfo:    tvShowInfo,
 		episodeName:   tvShowInfo.Title,
 		episodeInfo:   *episodeInfo,
-		dirFormat:     config.TvDirFormat + "/" + config.EpisodeDirFormat,
+		dirFormat:     config.TvDirFormat + string(os.PathSeparator) + config.EpisodeDirFormat,
 		titleFormat:   config.EpisodeTitleFormat,
 		totalSeasons:  totalSeasons,
 		totalEpisodes: totalEpisodes,
@@ -92,10 +92,10 @@ func scanMovieNfo(rootPath string, nfoPath string) (client Client) {
 
 // Scan 扫描目录下的nfo文件并返回client实例
 func Scan(rootPath, dirPath string) (clients []Client, err error) {
-	var files = make(map[string]os.FileInfo)
-	var nfoFiles = make(map[string]os.FileInfo)
+	var files = make(map[string]os.DirEntry)
+	var nfoFiles = make(map[string]os.DirEntry)
 	var isMoviePath = true
-	files, _, err = FilePathWalkDir(dirPath)
+	files, _, err = FilePathWalkCurrentDir(dirPath)
 	if err != nil || len(files) == 0 {
 		return
 	}
@@ -152,7 +152,7 @@ func DeepScan(rootPath, dirPath string, deep int) (clients []Client, err error) 
 			clients = append(clients, c)
 		}
 	}
-	_, dirPaths, err := FilePathWalkDir(dirPath)
+	_, dirPaths, err := FilePathWalkCurrentDir(dirPath)
 	if err != nil || len(dirPaths) == 0 {
 		return
 	}

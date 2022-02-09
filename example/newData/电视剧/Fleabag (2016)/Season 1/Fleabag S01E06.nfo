@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <episodedetails>
-  <plot />
+  <plot><![CDATA[Fleabag faces up to her actions and reveals what happened to her beloved friend Boo.]]></plot>
   <outline />
   <lockdata>false</lockdata>
-  <dateadded>2020-11-04 06:26:32</dateadded>
+  <dateadded>2020-09-23 13:52:42</dateadded>
   <title>第 6 集</title>
   <actor>
     <name>Phoebe Waller-Bridge</name>
@@ -73,9 +73,11 @@
   <year>2016</year>
   <imdbid>tt5908782</imdbid>
   <tvdbid>5685554</tvdbid>
-  <runtime>25</runtime>
-  <uniqueid type="Tvdb">5685554</uniqueid>
+  <runtime>26</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
   <uniqueid type="Imdb">tt5908782</uniqueid>
+  <uniqueid type="Tvdb">5685554</uniqueid>
   <episode>6</episode>
   <season>1</season>
   <aired>2016-08-25</aired>
@@ -84,75 +86,39 @@
       <video>
         <codec>h264</codec>
         <micodec>h264</micodec>
-        <bitrate>12098692</bitrate>
-        <width>1920</width>
-        <height>808</height>
-        <aspect>240:101</aspect>
-        <aspectratio>240:101</aspectratio>
+        <bitrate>18775883</bitrate>
+        <width>3840</width>
+        <height>1604</height>
+        <aspect>960:401</aspect>
+        <aspectratio>960:401</aspectratio>
         <framerate>25</framerate>
         <scantype>progressive</scantype>
         <default>True</default>
         <forced>False</forced>
         <duration>25</duration>
-        <durationinseconds>1514</durationinseconds>
+        <durationinseconds>1531</durationinseconds>
       </video>
       <audio>
         <codec>eac3</codec>
         <micodec>eac3</micodec>
-        <language>ita</language>
-        <scantype>progressive</scantype>
-        <channels>6</channels>
-        <samplingrate>48000</samplingrate>
-        <default>True</default>
-        <forced>True</forced>
-      </audio>
-      <audio>
-        <codec>eac3</codec>
-        <micodec>eac3</micodec>
         <language>eng</language>
         <scantype>progressive</scantype>
         <channels>6</channels>
         <samplingrate>48000</samplingrate>
-        <default>False</default>
+        <default>True</default>
         <forced>False</forced>
       </audio>
       <subtitle>
         <codec>subrip</codec>
         <micodec>subrip</micodec>
-        <language>ita</language>
+        <language>eng</language>
         <scantype>progressive</scantype>
         <default>True</default>
-        <forced>True</forced>
-      </subtitle>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>ita</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
         <forced>False</forced>
       </subtitle>
       <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>eng</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>DVDSUB</codec>
-        <micodec>DVDSUB</micodec>
-        <width>1920</width>
-        <height>1080</height>
-        <language>eng</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>ass</codec>
-        <micodec>ass</micodec>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
         <language>chs&amp;eng</language>
         <scantype>progressive</scantype>
         <default>False</default>
