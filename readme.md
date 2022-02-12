@@ -1,9 +1,9 @@
 ## 说明
-该程序是根据nfo文件来将文件名称整理成统一格式，让你的影视目录更整洁。
+该程序是根据emby刮削生成的nfo文件来将文件名称整理成统一格式，让你的影视目录更整洁。
 
-如果你的电影或者电视剧文件夹内没有nfo文件，请勿使用。
+如果你未使用emby或者媒体库未开启 **将媒体图像保存到媒体文件夹中** 功能，请勿使用。
 
-该程序不具备撤销能力，如需使用，请自行备份以免造成文件丢失。
+该程序不具备撤销能力，如需使用，请自行备份以免造成文件丢失。请务必要先按照以下方式生成测试文件，查看效果。
 
 ## 调试
 ### 文件准备
@@ -51,8 +51,16 @@ find -iname "*.nfo" -exec cp {} /测试目录/{} \;
 
 ### 运行
 ```
+# 下载程序
+git clone git@github.com:qcgzxw/embyRenamer.git
+# 复制生成配置文件
+copy config.json.example config.json
+# 编辑配置文件 按照以上规则更改文件目录和相关配置
+vim config.json
+# 运行测试代码
 go run main.go
 ```
+
 ## 预览
 ### 电影目录结构
 默认采用emby官方推荐的格式 **Name (Year) [tmdbid=xxxx]**
@@ -91,3 +99,11 @@ go run main.go
 [BEFORE](example/originData/电视剧目录结构.txt)
 
 [AFTER](example/newData/电视剧目录结构.txt)
+
+## 版本变更
+
+### v1.1
+- 同一文件，多版本支持(https://github.com/qcgzxw/embyRenamer/issues/5)
+### v1.0
+- 电影文件重命名
+- 电视剧文件重命名
