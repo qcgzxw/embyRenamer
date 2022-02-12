@@ -3,16 +3,16 @@
   <plot />
   <outline />
   <lockdata>false</lockdata>
-  <dateadded>2020-09-25 02:18:28</dateadded>
-  <title>publichd.EXTRAS.The.Fall.1080p</title>
-  <runtime>13</runtime>
+  <dateadded>2020-09-25 01:55:59</dateadded>
+  <title>publichd.EXTRAS.Shooting.Sherlock.1080p</title>
+  <runtime>14</runtime>
   <season>3</season>
   <fileinfo>
     <streamdetails>
       <video>
         <codec>hevc</codec>
         <micodec>hevc</micodec>
-        <bitrate>10349570</bitrate>
+        <bitrate>10352559</bitrate>
         <width>1920</width>
         <height>1072</height>
         <aspect>120:67</aspect>
@@ -23,7 +23,7 @@
         <default>True</default>
         <forced>False</forced>
         <duration>13</duration>
-        <durationinseconds>803</durationinseconds>
+        <durationinseconds>810</durationinseconds>
       </video>
       <audio>
         <codec>ac3</codec>
@@ -39,8 +39,6 @@
       <subtitle>
         <codec>PGSSUB</codec>
         <micodec>PGSSUB</micodec>
-        <width>1920</width>
-        <height>1080</height>
         <language>eng</language>
         <scantype>progressive</scantype>
         <default>False</default>

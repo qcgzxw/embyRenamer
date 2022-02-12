@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[男主角1900（人名）是一个被人遗弃在蒸气船上的孤儿，被船上一位好心的烧炉工收养，然而好人不得好报，烧炉工在一次意外中死亡，只有8岁大的1900又再度成为了孤儿。过人的天赋使他无师自通成了一名钢琴大师，但宿命也令他天然地对红尘俗世深怀戒意，他从不敢离船上岸去，只因纽约无际的高楼和川流不息的人群令他迷失自我。纵使后来遇上了一位一见钟情的少女，他思量再三后，还是放弃了上岸寻找初恋情人的冲动...]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-09-20 04:33:37</dateadded>
+  <title>海上钢琴师</title>
+  <originaltitle>La leggenda del pianista sull'oceano</originaltitle>
+  <actor>
+    <name>Tim Roth</name>
+    <role>Danny Boodmann T.D. Lemon Nineteen Hundred '1900'</role>
+    <type>Actor</type>
+    <tmdbid>3129</tmdbid>
+    <imdbid>nm0000619</imdbid>
+  </actor>
+  <actor>
+    <name>Pruitt Taylor Vince</name>
+    <role>Max Tooney</role>
+    <type>Actor</type>
+    <tmdbid>3201</tmdbid>
+    <imdbid>nm0898546</imdbid>
+  </actor>
+  <actor>
+    <name>Mélanie Thierry</name>
+    <role>The Girl</role>
+    <type>Actor</type>
+    <tmdbid>59373</tmdbid>
+  </actor>
+  <actor>
+    <name>Bill Nunn</name>
+    <role>Danny Boodmann</role>
+    <type>Actor</type>
+    <tmdbid>5502</tmdbid>
+  </actor>
+  <actor>
+    <name>Gabriele Lavia</name>
+    <role>Farmer</role>
+    <type>Actor</type>
+    <tmdbid>80503</tmdbid>
+  </actor>
+  <actor>
+    <name>Clarence Williams III</name>
+    <role>Jelly Roll Morton</role>
+    <type>Actor</type>
+    <tmdbid>15864</tmdbid>
+  </actor>
+  <actor>
+    <name>Peter Vaughan</name>
+    <role>'Pops', the Shopkeeper</role>
+    <type>Actor</type>
+    <tmdbid>386</tmdbid>
+  </actor>
+  <actor>
+    <name>Niall O'Brien</name>
+    <role>Harbor Master</role>
+    <type>Actor</type>
+    <tmdbid>104758</tmdbid>
+  </actor>
+  <actor>
+    <name>Alberto Vazquez</name>
+    <role>Mexican Stoker</role>
+    <type>Actor</type>
+    <tmdbid>163808</tmdbid>
+  </actor>
+  <actor>
+    <name>Luca De Luigi</name>
+    <role>Neapolitan Stoker</role>
+    <type>Actor</type>
+    <tmdbid>558801</tmdbid>
+  </actor>
+  <actor>
+    <name>Femi Elufowoju Jr.</name>
+    <role>Black Stoker</role>
+    <type>Actor</type>
+    <tmdbid>1411985</tmdbid>
+  </actor>
+  <actor>
+    <name>Nigel Fan</name>
+    <role>Chinese Stoker</role>
+    <type>Actor</type>
+    <tmdbid>1411986</tmdbid>
+  </actor>
+  <actor>
+    <name>Roger Monk</name>
+    <role>Irish Stoker</role>
+    <type>Actor</type>
+    <tmdbid>126316</tmdbid>
+  </actor>
+  <actor>
+    <name>Leonid Zaslavski</name>
+    <role>Polish Stoker</role>
+    <type>Actor</type>
+    <tmdbid>1411987</tmdbid>
+  </actor>
+  <actor>
+    <name>Bernard Padden</name>
+    <role>Boatswain</role>
+    <type>Actor</type>
+    <tmdbid>1356009</tmdbid>
+  </actor>
+  <actor>
+    <name>Piero Gimondo</name>
+    <type>Actor</type>
+    <tmdbid>2134543</tmdbid>
+  </actor>
+  <actor>
+    <name>Adriano Wajskol</name>
+    <role>Drummer</role>
+    <type>Actor</type>
+    <tmdbid>128088</tmdbid>
+  </actor>
+  <actor>
+    <name>Nicola Di Pinto</name>
+    <type>Actor</type>
+    <tmdbid>39618</tmdbid>
+  </actor>
+  <actor>
+    <name>Anita Zagaria</name>
+    <type>Actor</type>
+    <tmdbid>27394</tmdbid>
+  </actor>
+  <actor>
+    <name>Katy Monique Cuomo</name>
+    <type>Actor</type>
+    <tmdbid>1874607</tmdbid>
+  </actor>
+  <actor>
+    <name>Norman Chancer</name>
+    <role>Impresario</role>
+    <type>Actor</type>
+    <tmdbid>116123</tmdbid>
+  </actor>
+  <actor>
+    <name>Heathcote Williams</name>
+    <role>Doctor Klauserman</role>
+    <type>Actor</type>
+    <tmdbid>30431</tmdbid>
+  </actor>
+  <director tmdbid="65314" imdbid="nm0868153">Giuseppe Tornatore</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=2uf-LDlZMFE</trailer>
+  <rating>8.1</rating>
+  <year>1998</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt0120731</imdbid>
+  <tmdbid>10376</tmdbid>
+  <premiered>1998-10-28</premiered>
+  <releasedate>1998-10-28</releasedate>
+  <criticrating>54</criticrating>
+  <runtime>170</runtime>
+  <country>Italy</country>
+  <genre>剧情</genre>
+  <genre>音乐</genre>
+  <genre>爱情</genre>
+  <studio>Medusa Film</studio>
+  <studio>Sciarlò</studio>
+  <uniqueid type="Tmdb">10376</uniqueid>
+  <uniqueid type="Imdb">tt0120731</uniqueid>
+  <id>tt0120731</id>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>vc1</codec>
+        <micodec>vc1</micodec>
+        <bitrate>28845618</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>169</duration>
+        <durationinseconds>10184</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>448000</bitrate>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>28845618</bitrate>
+        <width>720</width>
+        <height>480</height>
+        <aspect>15:11</aspect>
+        <aspectratio>15:11</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+        <duration>169</duration>
+        <durationinseconds>10184</durationinseconds>
+      </video>
+    </streamdetails>
+  </fileinfo>
+</movie>

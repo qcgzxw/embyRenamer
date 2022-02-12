@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[　　曼尼去他爸爸那里了。杰和歌洛莉亚难得有一个独处的机会。杰定了去拉斯维加斯的机票，决定带歌洛莉亚一起去玩。但歌洛莉亚约好要和克莱尔一起做蛋糕义卖。歌洛莉亚很纠结不知道怎么跟克莱尔说不能参加活动的事。杰建议用电子邮件直接跟克莱尔说。邮件一发出去歌洛莉亚就后悔了，她想象克莱尔收到邮件该是多么生气。就这样，纠结万分的歌洛莉亚还没到机场就往回走了，她一定要当面跟克莱尔解释。莉莉有一个同学的妈妈是开餐馆的。最近刚开了一家以她名字艾米莉亚命名的连锁餐馆，就在米奇尔家附近。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-12 00:06:41</dateadded>
+  <title>诡异的结婚纪念日</title>
+  <actor>
+    <name>Ed O'Neill</name>
+    <role>Jay Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>18977</tmdbid>
+    <imdbid>nm0642145</imdbid>
+  </actor>
+  <actor>
+    <name>Sofía Vergara</name>
+    <role>Gloria Delgado-Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>63522</tmdbid>
+    <imdbid>nm0005527</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Bowen</name>
+    <role>Claire Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>31171</tmdbid>
+    <imdbid>nm0100866</imdbid>
+  </actor>
+  <actor>
+    <name>Ty Burrell</name>
+    <role>Phil Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>15232</tmdbid>
+    <imdbid>nm0123092</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse Tyler Ferguson</name>
+    <role>Mitchell Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>204815</tmdbid>
+    <imdbid>nm0272479</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Stonestreet</name>
+    <role>Cameron Tucker</role>
+    <type>Actor</type>
+    <tmdbid>156962</tmdbid>
+    <imdbid>nm0832314</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Hyland</name>
+    <role>Haley Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>91351</tmdbid>
+    <imdbid>nm0405103</imdbid>
+  </actor>
+  <actor>
+    <name>Ariel Winter</name>
+    <role>Alex Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>42160</tmdbid>
+    <imdbid>nm1736769</imdbid>
+  </actor>
+  <actor>
+    <name>Nolan Gould</name>
+    <role>Luke Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>147710</tmdbid>
+    <imdbid>nm2188098</imdbid>
+  </actor>
+  <actor>
+    <name>Rico Rodriguez</name>
+    <role>Manny Delgado</role>
+    <type>Actor</type>
+    <tmdbid>206737</tmdbid>
+    <imdbid>nm2349726</imdbid>
+  </actor>
+  <actor>
+    <name>Rachael Harris</name>
+    <role>Amelia</role>
+    <type>GuestStar</type>
+    <tmdbid>46074</tmdbid>
+    <imdbid>nm0006713</imdbid>
+  </actor>
+  <actor>
+    <name>Munda Razooki</name>
+    <role>Counterman</role>
+    <type>GuestStar</type>
+    <tmdbid>553397</tmdbid>
+  </actor>
+  <actor>
+    <name>Tristian Eggerling</name>
+    <role>Jackson</role>
+    <type>GuestStar</type>
+    <tmdbid>1669428</tmdbid>
+  </actor>
+  <director>Michael Spiller</director>
+  <rating>7.9</rating>
+  <year>2011</year>
+  <imdbid>tt1627447</imdbid>
+  <tvdbid>3161951</tvdbid>
+  <runtime>21</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <uniqueid type="Imdb">tt1627447</uniqueid>
+  <uniqueid type="Tvdb">3161951</uniqueid>
+  <episode>13</episode>
+  <season>2</season>
+  <aired>2011-01-19</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9838366</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1272</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

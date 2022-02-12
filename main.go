@@ -24,7 +24,7 @@ func main() {
 	if err := config.Check(); err != nil {
 		panic(err)
 	}
-	if config.MovieDirPath != "" {
+	if config.MovieRename && config.MovieDirPath != "" {
 		// 电影
 		if clients, err := renamer.DeepScan(strings.TrimRight(config.MovieRootPath, string(os.PathSeparator)), strings.TrimRight(config.MovieDirPath, string(os.PathSeparator)), -1); err == nil {
 			for _, client := range clients {
@@ -34,7 +34,7 @@ func main() {
 			panic(err)
 		}
 	}
-	if config.MovieDirPath != "" {
+	if config.TvRename && config.TvDirPath != "" {
 		// 电视剧
 		if clients, err := renamer.DeepScan(strings.TrimRight(config.TvRootPath, string(os.PathSeparator)), strings.TrimRight(config.TvDirPath, string(os.PathSeparator)), -1); err == nil {
 			for _, client := range clients {
@@ -46,10 +46,11 @@ func main() {
 	}
 	endTime := time.Now().UnixNano() / 1e6
 	if invalidNfoPath := renamer.InvalidNfoPath(); len(invalidNfoPath) > 0 {
-		println("无法识别的nfo文件列表：")
-		for path, _ := range invalidNfoPath {
-			println(path)
+		println("无法识别的nfo文件列表：\r\n")
+		for path := range invalidNfoPath {
+			println("  ", path)
 		}
 	}
-	fmt.Printf("总花费时间：%dms\n", endTime-startTime)
+	println()
+	fmt.Printf("总花费时间：%dms\r\n", endTime-startTime)
 }

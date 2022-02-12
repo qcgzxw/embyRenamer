@@ -94,10 +94,12 @@ type EpisodeDetailsInfo struct {
 }
 
 type Config struct {
+	MovieRename        bool   `json:"movieRename"`
 	MovieDirPath       string `json:"movieDirPath"`
 	MovieRootPath      string `json:"movieRootPath"`
 	MovieDirFormat     string `json:"movieDirFormat"`
 	MovieTitleFormat   string `json:"movieTitleFormat"`
+	TvRename           bool   `json:"tvRename"`
 	TvDirPath          string `json:"tvDirPath"`
 	TvRootPath         string `json:"tvRootPath"`
 	TvDirFormat        string `json:"tvDirFormat"`
@@ -106,8 +108,10 @@ type Config struct {
 }
 
 var defaultConfig = Config{
+	MovieRename:        true,
 	MovieDirPath:       "example/originData/电影/",
 	MovieRootPath:      "example/newData/电影/",
+	TvRename:           true,
 	TvDirPath:          "example/originData/电视剧/",
 	TvRootPath:         "example/newData/电视剧/",
 	MovieDirFormat:     "{originaltitle} ({year}) [imdbid={imdbid}]",

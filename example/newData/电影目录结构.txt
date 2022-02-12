@@ -445,6 +445,7 @@
 │   ├── fanart.jpg
 │   └── poster.jpg
 ├── 地球最后的夜晚 (2018) [imdbid=tt8185182]
+│   ├── 地球最后的夜晚 - 1080p.WEBRip.x264.nfo
 │   ├── 地球最后的夜晚-320-10.bif
 │   ├── 地球最后的夜晚-fanart.jpg
 │   ├── 地球最后的夜晚.mkv
@@ -1685,11 +1686,17 @@
 │   ├── Lady Bird.nfo
 │   └── Lady Bird-poster.jpg
 ├── La leggenda del pianista sull'oceano (1998) [imdbid=tt0120731]
+│   ├── La leggenda del pianista sull'oceano - 1080p.BluRay.VC-1.mkv
+│   ├── La leggenda del pianista sull'oceano - 1080p.BluRay.VC-1.nfo
+│   ├── La leggenda del pianista sull'oceano-clearlogo - 1080p.BluRay.VC-1.png
 │   ├── La leggenda del pianista sull'oceano-clearlogo.png
+│   ├── La leggenda del pianista sull'oceano-fanart - 1080p.BluRay.VC-1.jpg
 │   ├── La leggenda del pianista sull'oceano-fanart.jpg
+│   ├── La leggenda del pianista sull'oceano-landscape - 1080p.BluRay.VC-1.jpg
 │   ├── La leggenda del pianista sull'oceano-landscape.jpg
 │   ├── La leggenda del pianista sull'oceano.mkv
 │   ├── La leggenda del pianista sull'oceano.nfo
+│   ├── La leggenda del pianista sull'oceano-poster - 1080p.BluRay.VC-1.jpg
 │   └── La leggenda del pianista sull'oceano-poster.jpg
 ├── L'Amant (1992) [imdbid=tt0101316]
 │   ├── fanart.jpg
@@ -1883,6 +1890,7 @@
 │   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
+│   ├── Nobody - 2160p.BluRay.HEVC.nfo
 │   ├── Nobody.iso
 │   ├── Nobody.mkv
 │   ├── Nobody.nfo
@@ -1899,12 +1907,17 @@
 │   ├── clearlogo.png
 │   ├── fanart.jpg
 │   ├── landscape.jpg
+│   ├── Nomadland - 1080p.BluRay.mkv
+│   ├── Nomadland - 1080p.BluRay.nfo
 │   ├── Nomadland-320-10.bif
+│   ├── Nomadland-clearlogo - 1080p.BluRay.png
 │   ├── Nomadland-clearlogo.png
 │   ├── Nomadland.en.srt
+│   ├── Nomadland-fanart - 1080p.BluRay.jpg
 │   ├── Nomadland-fanart.jpg
 │   ├── Nomadland.mkv
 │   ├── Nomadland.nfo
+│   ├── Nomadland-poster - 1080p.BluRay.jpg
 │   ├── Nomadland-poster.jpg
 │   ├── Nomadland.zh-cn.srt
 │   └── poster.jpg
@@ -3740,6 +3753,7 @@
 │   ├── fanart.jpg
 │   ├── landscape.jpg
 │   ├── poster.jpg
+│   ├── Warcraft - 2160p.BluRay.HEVC.nfo
 │   ├── Warcraft-320-10.bif
 │   ├── Warcraft.mkv
 │   └── Warcraft.nfo
@@ -3826,4 +3840,4 @@
     ├── 鹿鼎記 II : 神龍敎.mkv
     └── 鹿鼎記 II : 神龍敎.nfo
 
-511 directories, 3316 files
+511 directories, 3330 files

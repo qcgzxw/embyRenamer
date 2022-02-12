@@ -3,7 +3,7 @@
   <plot><![CDATA[一天晚上，Hutch（鲍勃·奥登科克 Bob Odenkirk 饰）位于郊区的家中遭两名小偷闯入。为了避免暴力冲突，Hutch没有为自己或是家人反击。他的儿子Blake（盖奇·芒罗 Gage Munroe 饰）对他感到很失望，他的老婆Becca（康妮·尼尔森 ConnieNielsen 饰）似乎也因此更加疏远他。这起事件激发了Hutch心中压抑许久的情绪和本能，促使他走上残酷的道路，将揭露他黑暗的秘密和致命的能力。在拳头、枪弹和急速行驶的车阵中，Hutch必须从危险的敌人（阿列克谢·谢列布里亚科夫 AlexeySerebryakov 饰）手中救出自己的家人，并确保别人不会再把他视作无名小卒。]]></plot>
   <outline />
   <lockdata>false</lockdata>
-  <dateadded>2021-06-20 09:08:40</dateadded>
+  <dateadded>2021-04-19 15:05:51</dateadded>
   <title>小人物</title>
   <originaltitle>Nobody</originaltitle>
   <actor>
@@ -276,13 +276,6 @@
     <type>Actor</type>
     <tmdbid>3111672</tmdbid>
   </actor>
-  <actor>
-    <name>Adam Hurtig</name>
-    <role>Police</role>
-    <type>Actor</type>
-    <tmdbid>1148697</tmdbid>
-    <imdbid>nm4463792</imdbid>
-  </actor>
   <director tmdbid="1169024" imdbid="nm5820154">Ilya Naishuller</director>
   <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wZti8QKBWPo</trailer>
   <rating>7.4</rating>
@@ -290,13 +283,13 @@
   <mpaa>R</mpaa>
   <imdbid>tt7888964</imdbid>
   <tmdbid>615457</tmdbid>
-  <premiered>2021-03-18</premiered>
-  <releasedate>2021-03-18</releasedate>
+  <premiered>2021-03-26</premiered>
+  <releasedate>2021-03-26</releasedate>
   <criticrating>84</criticrating>
+  <runtime>92</runtime>
   <country>United States of America</country>
   <genre>动作</genre>
   <genre>犯罪</genre>
-  <genre>惊悚</genre>
   <genre>剧情</genre>
   <studio>Universal Pictures</studio>
   <studio>87North Productions</studio>
@@ -307,6 +300,104 @@
   <uniqueid type="Imdb">tt7888964</uniqueid>
   <id>tt7888964</id>
   <fileinfo>
-    <streamdetails />
+    <streamdetails>
+      <video>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>15557437</bitrate>
+        <width>3840</width>
+        <height>1600</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>91</duration>
+        <durationinseconds>5500</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>120</width>
+        <height>176</height>
+        <aspect>15:22</aspect>
+        <aspectratio>15:22</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>213</width>
+        <height>120</height>
+        <aspect>71:40</aspect>
+        <aspectratio>71:40</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>600</width>
+        <height>882</height>
+        <aspect>100:147</aspect>
+        <aspectratio>100:147</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <embeddedimage>
+        <codec>mjpeg</codec>
+        <micodec>mjpeg</micodec>
+        <width>1067</width>
+        <height>600</height>
+        <aspect>1067:600</aspect>
+        <aspectratio>1067:600</aspectratio>
+        <framerate>90000</framerate>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </embeddedimage>
+      <subtitle>
+        <codec>ssa</codec>
+        <micodec>ssa</micodec>
+        <language>chs</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
   </fileinfo>
 </movie>

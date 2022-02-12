@@ -3,7 +3,7 @@
   <plot><![CDATA[述一个60多岁的女人在经济大萧条中失去了一切，她作为一个居住在货车里的现代游牧民，开始了穿越美国西部的旅程。]]></plot>
   <outline />
   <lockdata>false</lockdata>
-  <dateadded>2021-04-27 06:47:04</dateadded>
+  <dateadded>2021-02-09 05:55:19</dateadded>
   <title>无依之地</title>
   <originaltitle>Nomadland</originaltitle>
   <actor>
@@ -316,7 +316,7 @@
   <premiered>2021-01-29</premiered>
   <releasedate>2021-01-29</releasedate>
   <criticrating>94</criticrating>
-  <runtime>108</runtime>
+  <runtime>107</runtime>
   <country>United States of America</country>
   <genre>剧情</genre>
   <studio>Cor Cordium Productions</studio>
@@ -330,306 +330,46 @@
       <video>
         <codec>h264</codec>
         <micodec>h264</micodec>
-        <bitrate>41440503</bitrate>
+        <bitrate>3345664</bitrate>
         <width>1920</width>
-        <height>1080</height>
-        <aspect>16:9</aspect>
-        <aspectratio>16:9</aspectratio>
-        <framerate>23.976025</framerate>
+        <height>800</height>
+        <aspect>2.40:1</aspect>
+        <aspectratio>2.40:1</aspectratio>
+        <framerate>30</framerate>
         <language>eng</language>
         <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-        <duration>107</duration>
-        <durationinseconds>6456</durationinseconds>
-      </video>
-      <audio>
-        <codec>dts</codec>
-        <micodec>dts</micodec>
-        <language>eng</language>
-        <scantype>progressive</scantype>
-        <channels>6</channels>
-        <samplingrate>48000</samplingrate>
         <default>True</default>
         <forced>False</forced>
-      </audio>
+        <duration>107</duration>
+        <durationinseconds>6435</durationinseconds>
+      </video>
       <audio>
         <codec>ac3</codec>
         <micodec>ac3</micodec>
-        <bitrate>320000</bitrate>
+        <bitrate>384000</bitrate>
         <language>eng</language>
         <scantype>progressive</scantype>
         <channels>2</channels>
         <samplingrate>48000</samplingrate>
-        <default>False</default>
-        <forced>False</forced>
-      </audio>
-      <audio>
-        <codec>ac3</codec>
-        <micodec>ac3</micodec>
-        <bitrate>640000</bitrate>
-        <language>fre</language>
-        <scantype>progressive</scantype>
-        <channels>6</channels>
-        <samplingrate>48000</samplingrate>
-        <default>False</default>
-        <forced>False</forced>
-      </audio>
-      <audio>
-        <codec>ac3</codec>
-        <micodec>ac3</micodec>
-        <bitrate>640000</bitrate>
-        <language>spa</language>
-        <scantype>progressive</scantype>
-        <channels>6</channels>
-        <samplingrate>48000</samplingrate>
-        <default>False</default>
-        <forced>False</forced>
-      </audio>
-      <audio>
-        <codec>ac3</codec>
-        <micodec>ac3</micodec>
-        <bitrate>640000</bitrate>
-        <language>spa</language>
-        <scantype>progressive</scantype>
-        <channels>6</channels>
-        <samplingrate>48000</samplingrate>
-        <default>False</default>
-        <forced>False</forced>
-      </audio>
-      <audio>
-        <codec>ac3</codec>
-        <micodec>ac3</micodec>
-        <bitrate>640000</bitrate>
-        <language>ger</language>
-        <scantype>progressive</scantype>
-        <channels>6</channels>
-        <samplingrate>48000</samplingrate>
-        <default>False</default>
-        <forced>False</forced>
-      </audio>
-      <audio>
-        <codec>ac3</codec>
-        <micodec>ac3</micodec>
-        <bitrate>640000</bitrate>
-        <language>ita</language>
-        <scantype>progressive</scantype>
-        <channels>6</channels>
-        <samplingrate>48000</samplingrate>
-        <default>False</default>
-        <forced>False</forced>
-      </audio>
-      <audio>
-        <codec>ac3</codec>
-        <micodec>ac3</micodec>
-        <bitrate>640000</bitrate>
-        <language>jpn</language>
-        <scantype>progressive</scantype>
-        <channels>6</channels>
-        <samplingrate>48000</samplingrate>
-        <default>False</default>
-        <forced>False</forced>
-      </audio>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>eng</language>
-        <scantype>progressive</scantype>
         <default>True</default>
         <forced>False</forced>
-      </subtitle>
+      </audio>
       <subtitle>
-        <codec>PGSSUB</codec>
-        <micodec>PGSSUB</micodec>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
         <language>eng</language>
         <scantype>progressive</scantype>
         <default>False</default>
         <forced>False</forced>
       </subtitle>
       <subtitle>
-        <codec>PGSSUB</codec>
-        <micodec>PGSSUB</micodec>
-        <language>fre</language>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs</language>
         <scantype>progressive</scantype>
         <default>False</default>
         <forced>False</forced>
       </subtitle>
-      <subtitle>
-        <codec>PGSSUB</codec>
-        <micodec>PGSSUB</micodec>
-        <language>spa</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>PGSSUB</codec>
-        <micodec>PGSSUB</micodec>
-        <language>spa</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>PGSSUB</codec>
-        <micodec>PGSSUB</micodec>
-        <language>ger</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>PGSSUB</codec>
-        <micodec>PGSSUB</micodec>
-        <language>ita</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>PGSSUB</codec>
-        <micodec>PGSSUB</micodec>
-        <language>jpn</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>PGSSUB</codec>
-        <micodec>PGSSUB</micodec>
-        <language>dan</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>PGSSUB</codec>
-        <micodec>PGSSUB</micodec>
-        <language>dut</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>PGSSUB</codec>
-        <micodec>PGSSUB</micodec>
-        <language>fin</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>PGSSUB</codec>
-        <micodec>PGSSUB</micodec>
-        <language>nor</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>PGSSUB</codec>
-        <micodec>PGSSUB</micodec>
-        <language>swe</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>PGSSUB</codec>
-        <micodec>PGSSUB</micodec>
-        <language>fre</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>PGSSUB</codec>
-        <micodec>PGSSUB</micodec>
-        <language>spa</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>PGSSUB</codec>
-        <micodec>PGSSUB</micodec>
-        <language>spa</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>PGSSUB</codec>
-        <micodec>PGSSUB</micodec>
-        <language>ger</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>PGSSUB</codec>
-        <micodec>PGSSUB</micodec>
-        <language>ita</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>PGSSUB</codec>
-        <micodec>PGSSUB</micodec>
-        <language>jpn</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <embeddedimage>
-        <codec>mjpeg</codec>
-        <micodec>mjpeg</micodec>
-        <width>213</width>
-        <height>120</height>
-        <aspect>71:40</aspect>
-        <aspectratio>71:40</aspectratio>
-        <framerate>90000</framerate>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </embeddedimage>
-      <embeddedimage>
-        <codec>mjpeg</codec>
-        <micodec>mjpeg</micodec>
-        <width>600</width>
-        <height>882</height>
-        <aspect>100:147</aspect>
-        <aspectratio>100:147</aspectratio>
-        <framerate>90000</framerate>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </embeddedimage>
-      <embeddedimage>
-        <codec>mjpeg</codec>
-        <micodec>mjpeg</micodec>
-        <width>1067</width>
-        <height>600</height>
-        <aspect>1067:600</aspect>
-        <aspectratio>1067:600</aspectratio>
-        <framerate>90000</framerate>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </embeddedimage>
-      <embeddedimage>
-        <codec>mjpeg</codec>
-        <micodec>mjpeg</micodec>
-        <width>120</width>
-        <height>176</height>
-        <aspect>15:22</aspect>
-        <aspectratio>15:22</aspectratio>
-        <framerate>90000</framerate>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </embeddedimage>
     </streamdetails>
   </fileinfo>
 </movie>

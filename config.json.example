@@ -1,6 +1,8 @@
 {
+  "movieRename": true,
   "movieDirPath": "example/originData/电影/",
   "movieRootPath": "example/newData/电影/",
+  "tvRename": true,
   "tvDirPath": "example/originData/电视剧/",
   "tvRootPath": "example/newData/电视剧/",
   "movieDirFormat": "{originaltitle} ({year}) [imdbid={imdbid}]",
