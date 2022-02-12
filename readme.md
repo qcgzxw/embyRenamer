@@ -19,8 +19,10 @@ find -iname "*.nfo" -exec cp {} /测试目录/{} \;
 复制 **config.json.example** 文件到 **config.json** ，并按需更改配置
 ```json
 {
+  "movieRename": true,# 电影重命名开关
   "movieDirPath": "example/originData/电影/",# 需要改名的目标文件夹
   "movieRootPath": "example/newData/电影/",# 用于保存新数据的文件夹
+  "tvRename": true,# 电视剧重命名开关
   "tvDirPath": "example/originData/电视剧/",# 需要改名的目标文件夹
   "tvRootPath": "example/newData/电视剧/",# 用于保存新数据的文件夹
   "movieDirFormat": "{originaltitle} ({year}) [imdbid={imdbid}]",# 电影目录格式(花括号里的为变量)
