@@ -3,7 +3,7 @@
   <plot><![CDATA[这是一部侦探类型片外壳包裹着的，面对自我记忆、家庭关系的电影。黄觉饰演的男主角回到贵州，偶然发现汤唯饰演的"神秘女子"踪迹，继而回想起十二年前与她度过的那个秘密夏天。]]></plot>
   <outline />
   <lockdata>false</lockdata>
-  <dateadded>2019-03-13 23:08:41</dateadded>
+  <dateadded>2021-07-10 23:21:06</dateadded>
   <title>地球最后的夜晚</title>
   <originaltitle>地球最后的夜晚</originaltitle>
   <actor>
@@ -11,7 +11,6 @@
     <role>Luo Hongwu</role>
     <type>Actor</type>
     <tmdbid>106581</tmdbid>
-    <imdbid>nm1645275</imdbid>
   </actor>
   <actor>
     <name>Tang Wei</name>
@@ -69,7 +68,6 @@
     <name>Qi Xi</name>
     <type>Actor</type>
     <tmdbid>1161018</tmdbid>
-    <imdbid>nm5035471</imdbid>
   </actor>
   <actor>
     <name>Ming Dao</name>
@@ -86,7 +84,7 @@
   <premiered>2018-10-07</premiered>
   <releasedate>2018-10-07</releasedate>
   <criticrating>93</criticrating>
-  <runtime>138</runtime>
+  <runtime>139</runtime>
   <country>China</country>
   <country>France</country>
   <genre>剧情</genre>
@@ -101,36 +99,51 @@
   <fileinfo>
     <streamdetails>
       <video>
-        <codec>h264</codec>
-        <micodec>h264</micodec>
-        <bitrate>5000891</bitrate>
+        <codec>hevc</codec>
+        <micodec>hevc</micodec>
+        <bitrate>11061384</bitrate>
         <width>1920</width>
         <height>1040</height>
         <aspect>24:13</aspect>
         <aspectratio>24:13</aspectratio>
-        <framerate>24</framerate>
-        <language>und</language>
+        <framerate>23.976025</framerate>
+        <language>eng</language>
         <scantype>progressive</scantype>
         <default>True</default>
         <forced>False</forced>
         <duration>138</duration>
-        <durationinseconds>8285</durationinseconds>
+        <durationinseconds>8334</durationinseconds>
       </video>
       <audio>
-        <codec>aac</codec>
-        <micodec>aac</micodec>
-        <bitrate>256000</bitrate>
-        <language>und</language>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>chi</language>
         <scantype>progressive</scantype>
-        <channels>2</channels>
-        <samplingrate>44100</samplingrate>
+        <channels>8</channels>
+        <samplingrate>48000</samplingrate>
         <default>True</default>
         <forced>False</forced>
       </audio>
       <subtitle>
-        <codec>srt</codec>
-        <micodec>srt</micodec>
-        <language>chs</language>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
         <scantype>progressive</scantype>
         <default>False</default>
         <forced>False</forced>

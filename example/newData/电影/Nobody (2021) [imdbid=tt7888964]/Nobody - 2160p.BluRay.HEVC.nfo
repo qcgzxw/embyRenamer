@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<movie>
+  <plot><![CDATA[一天晚上，Hutch（鲍勃·奥登科克 Bob Odenkirk 饰）位于郊区的家中遭两名小偷闯入。为了避免暴力冲突，Hutch没有为自己或是家人反击。他的儿子Blake（盖奇·芒罗 Gage Munroe 饰）对他感到很失望，他的老婆Becca（康妮·尼尔森 ConnieNielsen 饰）似乎也因此更加疏远他。这起事件激发了Hutch心中压抑许久的情绪和本能，促使他走上残酷的道路，将揭露他黑暗的秘密和致命的能力。在拳头、枪弹和急速行驶的车阵中，Hutch必须从危险的敌人（阿列克谢·谢列布里亚科夫 AlexeySerebryakov 饰）手中救出自己的家人，并确保别人不会再把他视作无名小卒。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-06-20 09:08:40</dateadded>
+  <title>小人物</title>
+  <originaltitle>Nobody</originaltitle>
+  <actor>
+    <name>Bob Odenkirk</name>
+    <role>Hutch Mansell</role>
+    <type>Actor</type>
+    <tmdbid>59410</tmdbid>
+    <imdbid>nm0644022</imdbid>
+  </actor>
+  <actor>
+    <name>Aleksey Serebryakov</name>
+    <role>Yulian Kuznetsov</role>
+    <type>Actor</type>
+    <tmdbid>113332</tmdbid>
+    <imdbid>nm0148516</imdbid>
+  </actor>
+  <actor>
+    <name>Connie Nielsen</name>
+    <role>Becca Mansell</role>
+    <type>Actor</type>
+    <tmdbid>935</tmdbid>
+    <imdbid>nm0001567</imdbid>
+  </actor>
+  <actor>
+    <name>Christopher Lloyd</name>
+    <role>David Mansell</role>
+    <type>Actor</type>
+    <tmdbid>1062</tmdbid>
+    <imdbid>nm0000502</imdbid>
+  </actor>
+  <actor>
+    <name>Michael Ironside</name>
+    <role>Eddie Williams</role>
+    <type>Actor</type>
+    <tmdbid>11086</tmdbid>
+    <imdbid>nm0000461</imdbid>
+  </actor>
+  <actor>
+    <name>RZA</name>
+    <role>Harry Mansell</role>
+    <type>Actor</type>
+    <tmdbid>150</tmdbid>
+    <imdbid>nm0753526</imdbid>
+  </actor>
+  <actor>
+    <name>Colin Salmon</name>
+    <role>The Barber</role>
+    <type>Actor</type>
+    <tmdbid>5414</tmdbid>
+    <imdbid>nm0758760</imdbid>
+  </actor>
+  <actor>
+    <name>Billy MacLellan</name>
+    <role>Charlie Williams</role>
+    <type>Actor</type>
+    <tmdbid>63814</tmdbid>
+    <imdbid>nm0533832</imdbid>
+  </actor>
+  <actor>
+    <name>Araya Mengesha</name>
+    <role>Pavel</role>
+    <type>Actor</type>
+    <tmdbid>1959472</tmdbid>
+  </actor>
+  <actor>
+    <name>Gage Munroe</name>
+    <role>Blake Mansell</role>
+    <type>Actor</type>
+    <tmdbid>119251</tmdbid>
+    <imdbid>nm2797152</imdbid>
+  </actor>
+  <actor>
+    <name>Paisley Cadorath</name>
+    <role>Abby Mansell</role>
+    <type>Actor</type>
+    <tmdbid>2593447</tmdbid>
+  </actor>
+  <actor>
+    <name>Aleksandr Pal</name>
+    <role>Teddy Kuznetsov</role>
+    <type>Actor</type>
+    <tmdbid>1337737</tmdbid>
+    <imdbid>nm5952124</imdbid>
+  </actor>
+  <actor>
+    <name>Humberly Gonzalez</name>
+    <role>Lupita</role>
+    <type>Actor</type>
+    <tmdbid>1847915</tmdbid>
+    <imdbid>nm8744341</imdbid>
+  </actor>
+  <actor>
+    <name>Edsson Morales</name>
+    <role>Luis Martin</role>
+    <type>Actor</type>
+    <tmdbid>1793734</tmdbid>
+    <imdbid>nm3110050</imdbid>
+  </actor>
+  <actor>
+    <name>J.P. Manoux</name>
+    <role>Darren</role>
+    <type>Actor</type>
+    <tmdbid>88702</tmdbid>
+    <imdbid>nm0002262</imdbid>
+  </actor>
+  <actor>
+    <name>Adrian McLean</name>
+    <role>Joey</role>
+    <type>Actor</type>
+    <tmdbid>1780955</tmdbid>
+  </actor>
+  <actor>
+    <name>Ilya Naishuller</name>
+    <role>Hitman Anatoly</role>
+    <type>Actor</type>
+    <tmdbid>1169024</tmdbid>
+    <imdbid>nm5820154</imdbid>
+  </actor>
+  <actor>
+    <name>Sergey Shnurov</name>
+    <role>Hitman Valentin</role>
+    <type>Actor</type>
+    <tmdbid>107824</tmdbid>
+    <imdbid>nm1460167</imdbid>
+  </actor>
+  <actor>
+    <name>Joanne Rodriguez</name>
+    <role>Bus Driver Donna</role>
+    <type>Actor</type>
+    <tmdbid>61170</tmdbid>
+    <imdbid>nm1377567</imdbid>
+  </actor>
+  <actor>
+    <name>Stephanie Sy</name>
+    <role>Real Estate Agent</role>
+    <type>Actor</type>
+    <tmdbid>2154533</tmdbid>
+  </actor>
+  <actor>
+    <name>Megan Best</name>
+    <role>Woman on Bus</role>
+    <type>Actor</type>
+    <tmdbid>2511594</tmdbid>
+  </actor>
+  <actor>
+    <name>Paul Essiembre</name>
+    <role>Jim</role>
+    <type>Actor</type>
+    <tmdbid>1128538</tmdbid>
+    <imdbid>nm0261413</imdbid>
+  </actor>
+  <actor>
+    <name>Kristen Harris</name>
+    <role>Police Officer</role>
+    <type>Actor</type>
+    <tmdbid>212141</tmdbid>
+    <imdbid>nm1783534</imdbid>
+  </actor>
+  <actor>
+    <name>Destini Boldt</name>
+    <role>Club Patron</role>
+    <type>Actor</type>
+    <tmdbid>2593445</tmdbid>
+  </actor>
+  <actor>
+    <name>Erik Athavale</name>
+    <role>Police Interrogator</role>
+    <type>Actor</type>
+    <tmdbid>1303813</tmdbid>
+    <imdbid>nm5813845</imdbid>
+  </actor>
+  <actor>
+    <name>Boris Gulyarin</name>
+    <role>Mob Boss</role>
+    <type>Actor</type>
+    <tmdbid>2090224</tmdbid>
+    <imdbid>nm8969966</imdbid>
+  </actor>
+  <actor>
+    <name>Neven Pajkic</name>
+    <role>Big Brute</role>
+    <type>Actor</type>
+    <tmdbid>1948116</tmdbid>
+  </actor>
+  <actor>
+    <name>Sharon Bajer</name>
+    <role>Receptionist</role>
+    <type>Actor</type>
+    <tmdbid>81239</tmdbid>
+    <imdbid>nm0048029</imdbid>
+  </actor>
+  <actor>
+    <name>Frederick Allen</name>
+    <role>Russian Mafia Member</role>
+    <type>Actor</type>
+    <tmdbid>1503899</tmdbid>
+    <imdbid>nm0020524</imdbid>
+  </actor>
+  <actor>
+    <name>Jim Kirby</name>
+    <role>Bus Rider (uncredited)</role>
+    <type>Actor</type>
+    <tmdbid>2154537</tmdbid>
+  </actor>
+  <actor>
+    <name>Daniel Bernhardt</name>
+    <role>Bus Goon</role>
+    <type>Actor</type>
+    <tmdbid>9452</tmdbid>
+    <imdbid>nm0076780</imdbid>
+  </actor>
+  <actor>
+    <name>Alain Moussi</name>
+    <role>Bus Goon</role>
+    <type>Actor</type>
+    <tmdbid>1427888</tmdbid>
+    <imdbid>nm3857692</imdbid>
+  </actor>
+  <actor>
+    <name>Alan Wong</name>
+    <role>Doctor</role>
+    <type>Actor</type>
+    <tmdbid>2938004</tmdbid>
+  </actor>
+  <actor>
+    <name>Yulia Guzhva</name>
+    <role>Le chanteur de karaoké</role>
+    <type>Actor</type>
+    <tmdbid>3111639</tmdbid>
+  </actor>
+  <actor>
+    <name>Vladimir Levkovsky</name>
+    <role>Homme de main</role>
+    <type>Actor</type>
+    <tmdbid>3111647</tmdbid>
+  </actor>
+  <actor>
+    <name>Dasha Naishuller</name>
+    <role>Beta</role>
+    <type>Actor</type>
+    <tmdbid>3111653</tmdbid>
+  </actor>
+  <actor>
+    <name>Thomas Soares</name>
+    <role>Alan Breiseth</role>
+    <type>Actor</type>
+    <tmdbid>3111664</tmdbid>
+  </actor>
+  <actor>
+    <name>Stephane Jullien</name>
+    <role>Voyou dans le bus</role>
+    <type>Actor</type>
+    <tmdbid>3111668</tmdbid>
+  </actor>
+  <actor>
+    <name>Meaghan Ann De Werrenne-Walle</name>
+    <role>La serveuse du karaoké</role>
+    <type>Actor</type>
+    <tmdbid>3111669</tmdbid>
+  </actor>
+  <actor>
+    <name>Robert Heinamaki</name>
+    <role>Le culturiste</role>
+    <type>Actor</type>
+    <tmdbid>3111671</tmdbid>
+  </actor>
+  <actor>
+    <name>Brent Alarie</name>
+    <role>L'accueil de la boutique de tatouage</role>
+    <type>Actor</type>
+    <tmdbid>3111672</tmdbid>
+  </actor>
+  <actor>
+    <name>Adam Hurtig</name>
+    <role>Police</role>
+    <type>Actor</type>
+    <tmdbid>1148697</tmdbid>
+    <imdbid>nm4463792</imdbid>
+  </actor>
+  <director tmdbid="1169024" imdbid="nm5820154">Ilya Naishuller</director>
+  <trailer>plugin://plugin.video.youtube/?action=play_video&amp;videoid=wZti8QKBWPo</trailer>
+  <rating>7.4</rating>
+  <year>2021</year>
+  <mpaa>R</mpaa>
+  <imdbid>tt7888964</imdbid>
+  <tmdbid>615457</tmdbid>
+  <premiered>2021-03-18</premiered>
+  <releasedate>2021-03-18</releasedate>
+  <criticrating>84</criticrating>
+  <country>United States of America</country>
+  <genre>动作</genre>
+  <genre>犯罪</genre>
+  <genre>惊悚</genre>
+  <genre>剧情</genre>
+  <studio>Universal Pictures</studio>
+  <studio>87North Productions</studio>
+  <studio>Odenkirk Provissiero Entertainment</studio>
+  <studio>Eighty Two Films</studio>
+  <studio>Perfect World Pictures</studio>
+  <uniqueid type="Tmdb">615457</uniqueid>
+  <uniqueid type="Imdb">tt7888964</uniqueid>
+  <id>tt7888964</id>
+  <fileinfo>
+    <streamdetails />
+  </fileinfo>
+</movie>

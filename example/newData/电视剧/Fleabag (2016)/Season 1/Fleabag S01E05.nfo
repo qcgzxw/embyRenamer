@@ -1,9 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <episodedetails>
-  <plot><![CDATA[On the anniversary of her mother's death, Fleabag and Claire return to their family home for the annual memorial lunch.]]></plot>
+  <plot />
   <outline />
   <lockdata>false</lockdata>
-  <dateadded>2020-09-23 13:52:16</dateadded>
+  <dateadded>2020-11-04 06:10:10</dateadded>
   <title>第 5 集</title>
   <actor>
     <name>Phoebe Waller-Bridge</name>
@@ -74,10 +74,8 @@
   <imdbid>tt5908780</imdbid>
   <tvdbid>5685553</tvdbid>
   <runtime>23</runtime>
-  <genre>Comedy</genre>
-  <genre>Drama</genre>
-  <uniqueid type="Imdb">tt5908780</uniqueid>
   <uniqueid type="Tvdb">5685553</uniqueid>
+  <uniqueid type="Imdb">tt5908780</uniqueid>
   <episode>5</episode>
   <season>1</season>
   <aired>2016-08-18</aired>
@@ -86,18 +84,28 @@
       <video>
         <codec>h264</codec>
         <micodec>h264</micodec>
-        <bitrate>17224247</bitrate>
-        <width>3840</width>
-        <height>1604</height>
-        <aspect>960:401</aspect>
-        <aspectratio>960:401</aspectratio>
+        <bitrate>13352997</bitrate>
+        <width>1920</width>
+        <height>808</height>
+        <aspect>240:101</aspect>
+        <aspectratio>240:101</aspectratio>
         <framerate>25</framerate>
         <scantype>progressive</scantype>
         <default>True</default>
         <forced>False</forced>
         <duration>23</duration>
-        <durationinseconds>1397</durationinseconds>
+        <durationinseconds>1380</durationinseconds>
       </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>True</forced>
+      </audio>
       <audio>
         <codec>eac3</codec>
         <micodec>eac3</micodec>
@@ -105,20 +113,38 @@
         <scantype>progressive</scantype>
         <channels>6</channels>
         <samplingrate>48000</samplingrate>
-        <default>True</default>
+        <default>False</default>
         <forced>False</forced>
       </audio>
       <subtitle>
         <codec>subrip</codec>
         <micodec>subrip</micodec>
-        <language>eng</language>
+        <language>ita</language>
         <scantype>progressive</scantype>
-        <default>True</default>
+        <default>False</default>
         <forced>False</forced>
       </subtitle>
       <subtitle>
-        <codec>srt</codec>
-        <micodec>srt</micodec>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>DVDSUB</codec>
+        <micodec>DVDSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
         <language>chs&amp;eng</language>
         <scantype>progressive</scantype>
         <default>False</default>

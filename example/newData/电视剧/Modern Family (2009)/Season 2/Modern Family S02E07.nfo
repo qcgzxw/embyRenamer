@@ -4,111 +4,10 @@
   <outline />
   <lockdata>false</lockdata>
   <dateadded>2021-03-12 00:13:28</dateadded>
-  <title>坏掉的烟火报警器</title>
-  <actor>
-    <name>Ed O'Neill</name>
-    <role>Jay Pritchett</role>
-    <type>Actor</type>
-    <tmdbid>18977</tmdbid>
-    <imdbid>nm0642145</imdbid>
-  </actor>
-  <actor>
-    <name>Sofía Vergara</name>
-    <role>Gloria Delgado-Pritchett</role>
-    <type>Actor</type>
-    <tmdbid>63522</tmdbid>
-    <imdbid>nm0005527</imdbid>
-  </actor>
-  <actor>
-    <name>Julie Bowen</name>
-    <role>Claire Dunphy</role>
-    <type>Actor</type>
-    <tmdbid>31171</tmdbid>
-    <imdbid>nm0100866</imdbid>
-  </actor>
-  <actor>
-    <name>Ty Burrell</name>
-    <role>Phil Dunphy</role>
-    <type>Actor</type>
-    <tmdbid>15232</tmdbid>
-    <imdbid>nm0123092</imdbid>
-  </actor>
-  <actor>
-    <name>Jesse Tyler Ferguson</name>
-    <role>Mitchell Pritchett</role>
-    <type>Actor</type>
-    <tmdbid>204815</tmdbid>
-    <imdbid>nm0272479</imdbid>
-  </actor>
-  <actor>
-    <name>Eric Stonestreet</name>
-    <role>Cameron Tucker</role>
-    <type>Actor</type>
-    <tmdbid>156962</tmdbid>
-    <imdbid>nm0832314</imdbid>
-  </actor>
-  <actor>
-    <name>Sarah Hyland</name>
-    <role>Haley Dunphy</role>
-    <type>Actor</type>
-    <tmdbid>91351</tmdbid>
-    <imdbid>nm0405103</imdbid>
-  </actor>
-  <actor>
-    <name>Ariel Winter</name>
-    <role>Alex Dunphy</role>
-    <type>Actor</type>
-    <tmdbid>42160</tmdbid>
-    <imdbid>nm1736769</imdbid>
-  </actor>
-  <actor>
-    <name>Nolan Gould</name>
-    <role>Luke Dunphy</role>
-    <type>Actor</type>
-    <tmdbid>147710</tmdbid>
-    <imdbid>nm2188098</imdbid>
-  </actor>
-  <actor>
-    <name>Rico Rodriguez</name>
-    <role>Manny Delgado</role>
-    <type>Actor</type>
-    <tmdbid>206737</tmdbid>
-    <imdbid>nm2349726</imdbid>
-  </actor>
-  <actor>
-    <name>Mike Rock</name>
-    <role>Jim</role>
-    <type>GuestStar</type>
-    <tmdbid>1725664</tmdbid>
-  </actor>
-  <actor>
-    <name>Samantha Klein</name>
-    <role>Deb</role>
-    <type>GuestStar</type>
-    <tmdbid>204080</tmdbid>
-  </actor>
-  <actor>
-    <name>Bryan Krasner</name>
-    <role>Jack</role>
-    <type>GuestStar</type>
-    <tmdbid>76538</tmdbid>
-  </actor>
-  <actor>
-    <name>James Devoti</name>
-    <role>Ron</role>
-    <type>GuestStar</type>
-    <tmdbid>117516</tmdbid>
-  </actor>
-  <actor>
-    <name>Reid Ewing</name>
-    <role>Dylan Marshall</role>
-    <type>GuestStar</type>
-    <tmdbid>967692</tmdbid>
-    <imdbid>nm2938641</imdbid>
-  </actor>
-  <director tmdbid="1055673">Darren Dupree Washington</director>
+  <title>第 7 集</title>
+  <director>Darren Dupree Washington</director>
   <director>Michael Spiller</director>
-  <rating>7.3</rating>
+  <rating>7.7</rating>
   <year>2010</year>
   <imdbid>tt1627458</imdbid>
   <tvdbid>2969521</tvdbid>
@@ -116,10 +15,81 @@
   <genre>Comedy</genre>
   <genre>Drama</genre>
   <genre>Romance</genre>
-  <tvrageid>1064986469</tvrageid>
-  <uniqueid type="Imdb">tt1627458</uniqueid>
-  <uniqueid type="Tvdb">2969521</uniqueid>
-  <uniqueid type="TvRage">1064986469</uniqueid>
+  <actor>
+    <name>Ed O'Neill</name>
+    <role>Jay Pritchett</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Sofía Vergara</name>
+    <role>Gloria Delgado-Pritchett</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Julie Bowen</name>
+    <role>Claire Dunphy</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ty Burrell</name>
+    <role>Phil Dunphy</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Jesse Tyler Ferguson</name>
+    <role>Mitchell Pritchett</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Eric Stonestreet</name>
+    <role>Cameron Tucker</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Sarah Hyland</name>
+    <role>Haley Dunphy</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ariel Winter</name>
+    <role>Alex Dunphy</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Nolan Gould</name>
+    <role>Luke Dunphy</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Rico Rodriguez</name>
+    <role>Manny Delgado</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Reid Ewing</name>
+    <role>Dylan Marshall</role>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Mike Rock</name>
+    <role>Jim</role>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Samantha Klein</name>
+    <role>Deb</role>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Bryan Krasner</name>
+    <role>Jack</role>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>James Devoti</name>
+    <role>Ron</role>
+    <type>GuestStar</type>
+  </actor>
   <episode>7</episode>
   <season>2</season>
   <aired>2010-11-03</aired>
@@ -158,14 +128,6 @@
         <language>eng</language>
         <scantype>progressive</scantype>
         <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>ass</codec>
-        <micodec>ass</micodec>
-        <language>chi</language>
-        <scantype>progressive</scantype>
-        <default>True</default>
         <forced>False</forced>
       </subtitle>
     </streamdetails>
