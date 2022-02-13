@@ -88,7 +88,7 @@ func GetNumStr(total uint, no string) (numStr string) {
 	return
 }
 
-func OsRename(oldPath, newPath string) error {
+func OsRename(oldPath, newPath, newPathRoot string) error {
 	if strings.ToLower(GetFileExt(oldPath)) == ".nfo" {
 		if _, ok := invalidNfoPath[oldPath]; ok {
 			delete(invalidNfoPath, oldPath)
@@ -103,14 +103,20 @@ func OsRename(oldPath, newPath string) error {
 			return nil
 		}
 		// 已存在文件 适配多版本
-		newPath = genMultiVersionName(oldPath, newPath)
+		newPath = genMultiVersionName(oldPath, newPath, newPathRoot)
 	}
 	return os.Rename(oldPath, newPath)
 }
 
-func genMultiVersionName(oldPath, newPath string) (s string) {
-	ext := filepath.Ext(oldPath)
-	s = newPath[:len(newPath)-len(ext)]
+func genMultiVersionName(oldPath, newPath, newPathRoot string) (s string) {
+	var ext string
+	if newPathRoot != "" && strings.Contains(newPath, newPathRoot) {
+		ext = newPath[len(newPathRoot):]
+		s = newPathRoot
+	} else {
+		ext = filepath.Ext(oldPath)
+		s = newPath[:len(newPath)-len(ext)]
+	}
 	if specials := getMovieSpecialInfo(GetFileName(oldPath)); len(specials) > 0 {
 		s += " - " + strings.Join(specials, ".")
 	}

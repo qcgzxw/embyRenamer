@@ -103,7 +103,7 @@ func (this *Episode) renameFile() {
 	)
 	for path, _ := range files {
 		if newPath := embyTitleReplacer.Replace(path); newPath != path {
-			OsRename(path, newPath)
+			OsRename(path, newPath, this.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+embyTitleName)
 		}
 	}
 }

@@ -3,15 +3,15 @@
   <plot />
   <outline />
   <lockdata>false</lockdata>
-  <dateadded>2020-09-24 14:46:57</dateadded>
-  <title>Backstage Politics - On the Set of House of Cards</title>
-  <runtime>25</runtime>
+  <dateadded>2020-09-23 05:26:41</dateadded>
+  <title>Menu Art</title>
+  <runtime>1</runtime>
   <fileinfo>
     <streamdetails>
       <video>
         <codec>hevc</codec>
         <micodec>hevc</micodec>
-        <bitrate>3246909</bitrate>
+        <bitrate>2483508</bitrate>
         <width>1920</width>
         <height>1080</height>
         <aspect>16:9</aspect>
@@ -20,30 +20,20 @@
         <scantype>progressive</scantype>
         <default>True</default>
         <forced>False</forced>
-        <duration>24</duration>
-        <durationinseconds>1499</durationinseconds>
+        <duration>0</duration>
+        <durationinseconds>59</durationinseconds>
       </video>
       <audio>
-        <codec>ac3</codec>
-        <micodec>ac3</micodec>
-        <bitrate>192000</bitrate>
+        <codec>aac</codec>
+        <micodec>aac</micodec>
+        <bitrate>320000</bitrate>
         <language>eng</language>
         <scantype>progressive</scantype>
-        <channels>2</channels>
+        <channels>6</channels>
         <samplingrate>48000</samplingrate>
         <default>False</default>
         <forced>False</forced>
       </audio>
-      <subtitle>
-        <codec>PGSSUB</codec>
-        <micodec>PGSSUB</micodec>
-        <width>1920</width>
-        <height>1080</height>
-        <language>eng</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
     </streamdetails>
   </fileinfo>
 </episodedetails>

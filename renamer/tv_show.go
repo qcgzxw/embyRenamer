@@ -87,7 +87,7 @@ func (this *TvShow) renameFile() {
 	var episodeNfoFiles = make(map[string]byte)
 	for path, _ := range files {
 		if newPath := embyTitleReplacer.Replace(path); newPath != path {
-			OsRename(path, newPath)
+			OsRename(path, newPath, "")
 		} else if strings.ToLower(GetFileExt(path)) == ".nfo" {
 			episodeNfoFiles[path] = 0x0
 		}

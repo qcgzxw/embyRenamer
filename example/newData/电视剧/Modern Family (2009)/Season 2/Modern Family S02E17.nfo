@@ -4,9 +4,112 @@
   <outline />
   <lockdata>false</lockdata>
   <dateadded>2021-03-11 23:36:05</dateadded>
-  <title>第 17 集</title>
+  <title>莉莉的姓氏</title>
+  <actor>
+    <name>Ed O'Neill</name>
+    <role>Jay Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>18977</tmdbid>
+    <imdbid>nm0642145</imdbid>
+  </actor>
+  <actor>
+    <name>Sofía Vergara</name>
+    <role>Gloria Delgado-Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>63522</tmdbid>
+    <imdbid>nm0005527</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Bowen</name>
+    <role>Claire Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>31171</tmdbid>
+    <imdbid>nm0100866</imdbid>
+  </actor>
+  <actor>
+    <name>Ty Burrell</name>
+    <role>Phil Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>15232</tmdbid>
+    <imdbid>nm0123092</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse Tyler Ferguson</name>
+    <role>Mitchell Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>204815</tmdbid>
+    <imdbid>nm0272479</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Stonestreet</name>
+    <role>Cameron Tucker</role>
+    <type>Actor</type>
+    <tmdbid>156962</tmdbid>
+    <imdbid>nm0832314</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Hyland</name>
+    <role>Haley Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>91351</tmdbid>
+    <imdbid>nm0405103</imdbid>
+  </actor>
+  <actor>
+    <name>Ariel Winter</name>
+    <role>Alex Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>42160</tmdbid>
+    <imdbid>nm1736769</imdbid>
+  </actor>
+  <actor>
+    <name>Nolan Gould</name>
+    <role>Luke Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>147710</tmdbid>
+    <imdbid>nm2188098</imdbid>
+  </actor>
+  <actor>
+    <name>Rico Rodriguez</name>
+    <role>Manny Delgado</role>
+    <type>Actor</type>
+    <tmdbid>206737</tmdbid>
+    <imdbid>nm2349726</imdbid>
+  </actor>
+  <actor>
+    <name>Jonathan McMurtry</name>
+    <role>Ed</role>
+    <type>GuestStar</type>
+    <tmdbid>1580221</tmdbid>
+  </actor>
+  <actor>
+    <name>Mary Anne McGarry</name>
+    <role>Winnie</role>
+    <type>GuestStar</type>
+    <tmdbid>167115</tmdbid>
+    <imdbid>nm0566911</imdbid>
+  </actor>
+  <actor>
+    <name>Tangie Ambrose</name>
+    <role>Noranne</role>
+    <type>GuestStar</type>
+    <tmdbid>97260</tmdbid>
+    <imdbid>nm0024425</imdbid>
+  </actor>
+  <actor>
+    <name>Christen Sussin</name>
+    <role>Laurie</role>
+    <type>GuestStar</type>
+    <tmdbid>265789</tmdbid>
+    <imdbid>nm0625238</imdbid>
+  </actor>
+  <actor>
+    <name>Kaliko Kauahi</name>
+    <role>Kim</role>
+    <type>GuestStar</type>
+    <tmdbid>1376123</tmdbid>
+  </actor>
   <director>Beth McCarthy-Miller</director>
-  <rating>7.8</rating>
+  <rating>7.1</rating>
   <year>2011</year>
   <imdbid>tt1841231</imdbid>
   <tvdbid>3609681</tvdbid>
@@ -14,81 +117,8 @@
   <genre>Comedy</genre>
   <genre>Drama</genre>
   <genre>Romance</genre>
-  <actor>
-    <name>Ed O'Neill</name>
-    <role>Jay Pritchett</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Sofía Vergara</name>
-    <role>Gloria Delgado-Pritchett</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Julie Bowen</name>
-    <role>Claire Dunphy</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Ty Burrell</name>
-    <role>Phil Dunphy</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Jesse Tyler Ferguson</name>
-    <role>Mitchell Pritchett</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Eric Stonestreet</name>
-    <role>Cameron Tucker</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Sarah Hyland</name>
-    <role>Haley Dunphy</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Ariel Winter</name>
-    <role>Alex Dunphy</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Nolan Gould</name>
-    <role>Luke Dunphy</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Rico Rodriguez</name>
-    <role>Manny Delgado</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Jonathan McMurtry</name>
-    <role>Ed</role>
-    <type>GuestStar</type>
-  </actor>
-  <actor>
-    <name>Mary Anne McGarry</name>
-    <role>Winnie</role>
-    <type>GuestStar</type>
-  </actor>
-  <actor>
-    <name>Tangie Ambrose</name>
-    <role>Noranne</role>
-    <type>GuestStar</type>
-  </actor>
-  <actor>
-    <name>Christen Sussin</name>
-    <role>Laurie</role>
-    <type>GuestStar</type>
-  </actor>
-  <actor>
-    <name>Kaliko Kauahi</name>
-    <role>Kim</role>
-    <type>GuestStar</type>
-  </actor>
+  <uniqueid type="Imdb">tt1841231</uniqueid>
+  <uniqueid type="Tvdb">3609681</uniqueid>
   <episode>17</episode>
   <season>2</season>
   <aired>2011-03-02</aired>
@@ -121,6 +151,14 @@
         <default>True</default>
         <forced>False</forced>
       </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
     </streamdetails>
   </fileinfo>
 </episodedetails>

@@ -3,7 +3,7 @@
   <plot><![CDATA[男主角1900（人名）是一个被人遗弃在蒸气船上的孤儿，被船上一位好心的烧炉工收养，然而好人不得好报，烧炉工在一次意外中死亡，只有8岁大的1900又再度成为了孤儿。过人的天赋使他无师自通成了一名钢琴大师，但宿命也令他天然地对红尘俗世深怀戒意，他从不敢离船上岸去，只因纽约无际的高楼和川流不息的人群令他迷失自我。纵使后来遇上了一位一见钟情的少女，他思量再三后，还是放弃了上岸寻找初恋情人的冲动...]]></plot>
   <outline />
   <lockdata>false</lockdata>
-  <dateadded>2021-09-20 04:33:38</dateadded>
+  <dateadded>2021-09-20 04:33:37</dateadded>
   <title>海上钢琴师</title>
   <originaltitle>La leggenda del pianista sull'oceano</originaltitle>
   <actor>
@@ -146,7 +146,7 @@
   <premiered>1998-10-28</premiered>
   <releasedate>1998-10-28</releasedate>
   <criticrating>54</criticrating>
-  <runtime>50</runtime>
+  <runtime>170</runtime>
   <country>Italy</country>
   <genre>剧情</genre>
   <genre>音乐</genre>
@@ -159,20 +159,62 @@
   <fileinfo>
     <streamdetails>
       <video>
-        <codec>mpeg2video</codec>
-        <micodec>mpeg2video</micodec>
-        <bitrate>7785456</bitrate>
-        <width>720</width>
-        <height>576</height>
+        <codec>vc1</codec>
+        <micodec>vc1</micodec>
+        <bitrate>28845618</bitrate>
+        <width>1920</width>
+        <height>1080</height>
         <aspect>16:9</aspect>
         <aspectratio>16:9</aspectratio>
-        <framerate>25</framerate>
-        <scantype>interlaced</scantype>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
         <default>True</default>
         <forced>False</forced>
-        <duration>49</duration>
-        <durationinseconds>2976</durationinseconds>
+        <duration>169</duration>
+        <durationinseconds>10184</durationinseconds>
       </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
+      <audio>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>192000</bitrate>
+        <language>tha</language>
+        <scantype>progressive</scantype>
+        <channels>2</channels>
+        <samplingrate>48000</samplingrate>
+        <default>False</default>
+        <forced>False</forced>
+      </audio>
       <audio>
         <codec>ac3</codec>
         <micodec>ac3</micodec>
@@ -181,35 +223,108 @@
         <scantype>progressive</scantype>
         <channels>2</channels>
         <samplingrate>48000</samplingrate>
-        <default>True</default>
+        <default>False</default>
         <forced>False</forced>
       </audio>
       <subtitle>
         <codec>PGSSUB</codec>
         <micodec>PGSSUB</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>ita</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>PGSSUB</codec>
+        <micodec>PGSSUB</micodec>
+        <width>1920</width>
+        <height>1080</height>
         <language>chi</language>
         <scantype>progressive</scantype>
         <default>True</default>
         <forced>False</forced>
       </subtitle>
-      <subtitle>
-        <codec>PGSSUB</codec>
-        <micodec>PGSSUB</micodec>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>28845618</bitrate>
         <width>720</width>
-        <height>576</height>
-        <language>ita</language>
+        <height>480</height>
+        <aspect>15:11</aspect>
+        <aspectratio>15:11</aspectratio>
+        <framerate>23.976025</framerate>
         <scantype>progressive</scantype>
         <default>False</default>
         <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>PGSSUB</codec>
-        <micodec>PGSSUB</micodec>
-        <language>ita</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
+        <duration>169</duration>
+        <durationinseconds>10184</durationinseconds>
+      </video>
     </streamdetails>
   </fileinfo>
 </movie>

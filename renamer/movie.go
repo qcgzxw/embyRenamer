@@ -103,7 +103,7 @@ func (m *Movie) renameFile() {
 	)
 	for path, _ := range files {
 		if newPath := embyTitleReplacer.Replace(path); newPath != path {
-			OsRename(path, newPath)
+			OsRename(path, newPath, m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+embyTitleName)
 		}
 	}
 	if m.rootPath == filepath.Dir(m.nfoPath) {
@@ -117,7 +117,7 @@ func (m *Movie) renameFile() {
 	)
 	for _, path := range paths {
 		if newPath := embyDirReplacer.Replace(path); newPath != path {
-			OsRename(path, newPath)
+			OsRename(path, newPath, m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+embyTitleName)
 		}
 	}
 	return
