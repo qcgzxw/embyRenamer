@@ -37,23 +37,25 @@ func (m *Movie) Rename() {
 }
 func (m *Movie) nameReplacer() *strings.Replacer {
 	if m.movieInfo.Originaltitle == "" {
-		m.movieInfo.Originaltitle = m.movieInfo.Title
+		m.movieInfo.Originaltitle = *m.movieInfo.Title
 	}
 	if strings.Contains(m.movieInfo.Originaltitle, string(os.PathSeparator)) {
 		m.movieInfo.Originaltitle = strings.Replace(m.movieInfo.Originaltitle, string(os.PathSeparator), " ", -1)
 	}
-	if strings.Contains(m.movieInfo.Title, string(os.PathSeparator)) {
-		m.movieInfo.Title = strings.Replace(m.movieInfo.Title, string(os.PathSeparator), " ", -1)
+	if strings.Contains(*m.movieInfo.Title, string(os.PathSeparator)) {
+		if tmp := strings.Replace(*m.movieInfo.Title, string(os.PathSeparator), " ", -1); tmp != "" {
+			m.movieInfo.Title = &tmp
+		}
 	}
 	return strings.NewReplacer(
 		"{originaltitle}", m.movieInfo.Originaltitle,
-		"{title}", m.movieInfo.Title,
-		"{year}", m.movieInfo.Year,
-		"{imdbid}", m.movieInfo.Imdbid,
+		"{title}", *m.movieInfo.Title,
+		"{year}", *m.movieInfo.Year,
+		"{imdbid}", *m.movieInfo.Imdbid,
 		"{tmdbid}", m.movieInfo.Tmdbid,
 		"{releasedate}", m.movieInfo.Releasedate,
 		"{country}", m.movieInfo.Country,
-		"{id}", m.movieInfo.ID,
+		"{id}", *m.movieInfo.ID,
 	)
 }
 
@@ -103,7 +105,7 @@ func (m *Movie) renameFile() {
 	)
 	for path, _ := range files {
 		if newPath := embyTitleReplacer.Replace(path); newPath != path {
-			OsRename(path, newPath)
+			OsRename(path, newPath, m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+embyTitleName)
 		}
 	}
 	if m.rootPath == filepath.Dir(m.nfoPath) {
@@ -117,7 +119,7 @@ func (m *Movie) renameFile() {
 	)
 	for _, path := range paths {
 		if newPath := embyDirReplacer.Replace(path); newPath != path {
-			OsRename(path, newPath)
+			OsRename(path, newPath, m.rootPath+string(os.PathSeparator)+embyDirName+string(os.PathSeparator)+embyTitleName)
 		}
 	}
 	return

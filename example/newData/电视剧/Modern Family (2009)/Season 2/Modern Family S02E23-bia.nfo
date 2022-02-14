@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[　　今天是艾丽克斯初中毕业典礼，艾丽克斯考了全年级第一，要作为毕业生代表演讲。一家人都为她高兴。克莱尔更是百感交集。菲尔知道克莱尔一旦遇到事情，当天表现正常，可第二天一定会歇斯底里地把前一天控制的感情爆发出来。菲尔和一帮哥们约好第二天去拉斯维加斯玩，他担心克莱尔第二天的状况会让他走不了。所以他不断地煽情，想让克莱尔在今天将感情释放出来。可克莱尔一直没有爆发。他们让海莉先载艾丽克斯去学校，然后其他人在杰家里集合，晚一点去。艾丽克斯一直在背演讲稿。海莉听到她的演讲词非常担忧。她认为艾丽克斯极力标榜了自己的刻苦，没有看到和肯定他人的成绩，没有融入同学当中，这样的结果只会让她被孤立。艾丽克斯对她的话不屑一顾。其他家人都聚集在杰家里。米奇尔一直暗笑不停。他告诉大家，早上卡梅隆摔进莉莉的小泳池里，那庞大的身躯，袖珍的泳池，那场面太搞笑了。卡梅隆在众人的哄笑声中尴尬无比。大家此时注意到杰的脸有些异常。他半边脸不仅煞白，一侧的眼皮还耷拉着，大家很紧张，要把他送到医院。实在掩饰不下去了，杰只好向大家坦白自己去注射了肉毒杆菌。众人皆惊呆了。估计时间差不多了，大家准备出发。谁知杰家里院子的电动门坏了，车开不出去。急坏的菲尔夫妇俩骑着歌洛莉亚找来的双人自行车先走一步。谁知路上链条断了。克莱尔突然就崩溃了。原来她觉得艾丽克斯长大了，会不会也会像海莉一样慢慢疏远他。菲尔安慰他。然后拦了一辆过路车，赶在艾丽克斯开始演讲时及时赶到。艾丽克斯没有照着之前写的稿子背，而是接受海莉的建议临时发挥，将自己融入到同学中间去，表现的大方得体。果然，典礼结束后同学们主动邀请艾丽克斯一起参加庆祝活动。]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2021-03-11 23:27:19</dateadded>
+  <title>第 23 集</title>
+  <director>Steven Levitan</director>
+  <rating>8.2</rating>
+  <year>2011</year>
+  <imdbid>tt1900347</imdbid>
+  <tvdbid>4078474</tvdbid>
+  <runtime>21</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Romance</genre>
+  <actor>
+    <name>Ed O'Neill</name>
+    <role>Jay Pritchett</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Sofía Vergara</name>
+    <role>Gloria Delgado-Pritchett</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Julie Bowen</name>
+    <role>Claire Dunphy</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ty Burrell</name>
+    <role>Phil Dunphy</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Jesse Tyler Ferguson</name>
+    <role>Mitchell Pritchett</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Eric Stonestreet</name>
+    <role>Cameron Tucker</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Sarah Hyland</name>
+    <role>Haley Dunphy</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ariel Winter</name>
+    <role>Alex Dunphy</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Nolan Gould</name>
+    <role>Luke Dunphy</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Rico Rodriguez</name>
+    <role>Manny Delgado</role>
+    <type>Actor</type>
+  </actor>
+  <episode>23</episode>
+  <season>2</season>
+  <aired>2011-05-18</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>9803687</bitrate>
+        <width>1920</width>
+        <height>1080</height>
+        <aspect>16:9</aspect>
+        <aspectratio>16:9</aspectratio>
+        <framerate>23.976025</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>21</duration>
+        <durationinseconds>1276</durationinseconds>
+      </video>
+      <audio>
+        <codec>dts</codec>
+        <micodec>dts</micodec>
+        <bitrate>1536000</bitrate>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>spa</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>fre</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

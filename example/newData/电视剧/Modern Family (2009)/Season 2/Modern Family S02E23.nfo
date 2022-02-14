@@ -4,9 +4,92 @@
   <outline />
   <lockdata>false</lockdata>
   <dateadded>2021-03-11 23:27:19</dateadded>
-  <title>第 23 集</title>
+  <title>艾丽克斯的毕业典礼</title>
+  <actor>
+    <name>Ed O'Neill</name>
+    <role>Jay Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>18977</tmdbid>
+    <imdbid>nm0642145</imdbid>
+  </actor>
+  <actor>
+    <name>Sofía Vergara</name>
+    <role>Gloria Delgado-Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>63522</tmdbid>
+    <imdbid>nm0005527</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Bowen</name>
+    <role>Claire Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>31171</tmdbid>
+    <imdbid>nm0100866</imdbid>
+  </actor>
+  <actor>
+    <name>Ty Burrell</name>
+    <role>Phil Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>15232</tmdbid>
+    <imdbid>nm0123092</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse Tyler Ferguson</name>
+    <role>Mitchell Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>204815</tmdbid>
+    <imdbid>nm0272479</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Stonestreet</name>
+    <role>Cameron Tucker</role>
+    <type>Actor</type>
+    <tmdbid>156962</tmdbid>
+    <imdbid>nm0832314</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Hyland</name>
+    <role>Haley Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>91351</tmdbid>
+    <imdbid>nm0405103</imdbid>
+  </actor>
+  <actor>
+    <name>Ariel Winter</name>
+    <role>Alex Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>42160</tmdbid>
+    <imdbid>nm1736769</imdbid>
+  </actor>
+  <actor>
+    <name>Nolan Gould</name>
+    <role>Luke Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>147710</tmdbid>
+    <imdbid>nm2188098</imdbid>
+  </actor>
+  <actor>
+    <name>Rico Rodriguez</name>
+    <role>Manny Delgado</role>
+    <type>Actor</type>
+    <tmdbid>206737</tmdbid>
+    <imdbid>nm2349726</imdbid>
+  </actor>
+  <actor>
+    <name>Gina St. John</name>
+    <role>Principal Kaizler</role>
+    <type>GuestStar</type>
+    <tmdbid>84880</tmdbid>
+    <imdbid>nm0820638</imdbid>
+  </actor>
+  <actor>
+    <name>Brigitte the Dog</name>
+    <role>Stella (uncredited)</role>
+    <type>GuestStar</type>
+    <tmdbid>3059870</tmdbid>
+  </actor>
   <director>Steven Levitan</director>
-  <rating>8.2</rating>
+  <rating>7.4</rating>
   <year>2011</year>
   <imdbid>tt1900347</imdbid>
   <tvdbid>4078474</tvdbid>
@@ -14,56 +97,8 @@
   <genre>Comedy</genre>
   <genre>Drama</genre>
   <genre>Romance</genre>
-  <actor>
-    <name>Ed O'Neill</name>
-    <role>Jay Pritchett</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Sofía Vergara</name>
-    <role>Gloria Delgado-Pritchett</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Julie Bowen</name>
-    <role>Claire Dunphy</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Ty Burrell</name>
-    <role>Phil Dunphy</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Jesse Tyler Ferguson</name>
-    <role>Mitchell Pritchett</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Eric Stonestreet</name>
-    <role>Cameron Tucker</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Sarah Hyland</name>
-    <role>Haley Dunphy</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Ariel Winter</name>
-    <role>Alex Dunphy</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Nolan Gould</name>
-    <role>Luke Dunphy</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Rico Rodriguez</name>
-    <role>Manny Delgado</role>
-    <type>Actor</type>
-  </actor>
+  <uniqueid type="Imdb">tt1900347</uniqueid>
+  <uniqueid type="Tvdb">4078474</uniqueid>
   <episode>23</episode>
   <season>2</season>
   <aired>2011-05-18</aired>

@@ -41,13 +41,18 @@ find -iname "*.nfo" -exec cp {} /测试目录/{} \;
 | {season} | 第几季 | 3 |
 | {SEASON} | 第几季 | 03 |
 | {episode} | 第几集 | 5 |
+| {episodetitle} | 集标题 |第一集标题 |
 | {EPISODE} | 第几集 | 05 |
 | {imdbid} | imdb id | tt5729348 |
-| {tmdbid} | tmdb id | 432836 |
-| {releasedate} | 发行日期 | 2017-09-07 |
-| {country} | 国家 | South Korea |
-| {id} | id | tt5729348 |
-其中 **{season}** **{SEASON}** **{episode}** **{EPISODE}** 为电视独有
+| {tmdbid} | tmdb id | 432836  |
+| {tvdbid} | tvdb id | 414615  |
+| {releasedate} | 发行日期   | 2017-09-07 |
+| {country} | 国家     | South Korea |
+| {id} | id     | tt5729348 |
+
+其中 **{season}** **{SEASON}** **{episode}** **{tvdbid}** **{episodetitle}** **{EPISODE}** 为电视独有
+
+备注为空的说明字段有可能为空
 
 ### 运行
 ```

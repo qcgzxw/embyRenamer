@@ -1,7 +1,6 @@
 package renamer
 
 import (
-	"encoding/xml"
 	"os"
 	"strings"
 )
@@ -13,13 +12,9 @@ func scanTvShowNfo(rootPath string, nfoPath string) (client Client) {
 	if ext := GetFileExt(nfoPath); strings.ToLower(ext) != ".nfo" || strings.ToLower(GetFileName(nfoPath)) != "tvshow" {
 		return
 	}
-	d, err := os.ReadFile(nfoPath)
+	tvShowInfo := new(TvShowInfo)
+	err := ParseXml(nfoPath, tvShowInfo)
 	if err != nil {
-		return
-	}
-	var tvShowInfo *TvShowInfo
-	err = xml.Unmarshal(d, &tvShowInfo)
-	if err != nil || tvShowInfo == nil {
 		if _, ok := invalidNfoPath[nfoPath]; !ok {
 			invalidNfoPath[nfoPath] = 0x0
 		}
@@ -37,12 +32,8 @@ func scanEpisodeNfo(rootPath string, nfoPath string, tvShowInfo TvShowInfo, tota
 	if ext := GetFileExt(nfoPath); strings.ToLower(ext) != ".nfo" || strings.ToLower(GetFileName(nfoPath)) == "season" {
 		return
 	}
-	d, err := os.ReadFile(nfoPath)
-	if err != nil {
-		return
-	}
-	var episodeInfo *EpisodeDetailsInfo
-	err = xml.Unmarshal(d, &episodeInfo)
+	episodeInfo := new(EpisodeDetailsInfo)
+	err := ParseXml(nfoPath, episodeInfo)
 	if err != nil || episodeInfo == nil {
 		if _, ok := invalidNfoPath[nfoPath]; !ok {
 			invalidNfoPath[nfoPath] = 0x0
@@ -53,7 +44,7 @@ func scanEpisodeNfo(rootPath string, nfoPath string, tvShowInfo TvShowInfo, tota
 		rootPath:      rootPath,
 		nfoPath:       nfoPath,
 		tvShowInfo:    tvShowInfo,
-		episodeName:   tvShowInfo.Title,
+		episodeName:   *tvShowInfo.Title,
 		episodeInfo:   *episodeInfo,
 		dirFormat:     config.TvDirFormat + string(os.PathSeparator) + config.EpisodeDirFormat,
 		titleFormat:   config.EpisodeTitleFormat,
@@ -66,15 +57,10 @@ func scanMovieNfo(rootPath string, nfoPath string) (client Client) {
 	if ext := GetFileExt(nfoPath); strings.ToLower(ext) != ".nfo" || strings.ToLower(GetFileName(nfoPath)) == "season" {
 		return
 	}
-	d, err := os.ReadFile(nfoPath)
+	movieInfo := new(MovieInfo)
+	err := ParseXml(nfoPath, movieInfo)
 	if err != nil {
-		println(err.Error())
-		return
-	}
-	var movieInfo *MovieInfo
-	err = xml.Unmarshal(d, &movieInfo)
-	if err != nil {
-		if _, ok := invalidNfoPath[nfoPath]; !ok {
+		if _, ok := invalidNfoPath[nfoPath]; err.Error() == "无法解析的xml数据" && !ok {
 			invalidNfoPath[nfoPath] = 0x0
 		}
 		return

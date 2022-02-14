@@ -9,15 +9,15 @@ type MovieInfo struct {
 	Outline       string   `xml:"outline,omitempty"`
 	Lockdata      string   `xml:"lockdata,omitempty"`
 	Dateadded     string   `xml:"dateadded,omitempty"`
-	Title         string   `xml:"title"`
+	Title         *string  `xml:"title"`
 	Originaltitle string   `xml:"originaltitle,omitempty"`
 	Rating        string   `xml:"rating,omitempty"`
-	Year          string   `xml:"year"`
+	Year          *string  `xml:"year"`
 	Mpaa          string   `xml:"mpaa,omitempty"`
-	Imdbid        string   `xml:"imdbid"`
-	Tmdbid        string   `xml:"tmdbid"`
+	Imdbid        *string  `xml:"imdbid"`
+	Tmdbid        string   `xml:"tmdbid,omitempty"`
 	Premiered     string   `xml:"premiered,omitempty"`
-	Releasedate   string   `xml:"releasedate"`
+	Releasedate   string   `xml:"releasedate,omitempty"`
 	Runtime       string   `xml:"runtime,omitempty"`
 	Country       string   `xml:"country,omitempty"`
 	Genre         []string `xml:"genre,omitempty"`
@@ -26,7 +26,7 @@ type MovieInfo struct {
 		Text string `xml:",chardata"`
 		Type string `xml:"type,attr,omitempty"`
 	} `xml:"uniqueid,omitempty"`
-	ID string `xml:"id"`
+	ID *string `xml:"id"`
 }
 
 type TvShowInfo struct {
@@ -36,14 +36,14 @@ type TvShowInfo struct {
 	Outline       string   `xml:"outline,omitempty"`
 	Lockdata      string   `xml:"lockdata,omitempty"`
 	Dateadded     string   `xml:"dateadded,omitempty"`
-	Title         string   `xml:"title"`
+	Title         *string  `xml:"title"`
 	Originaltitle string   `xml:"originaltitle,omitempty"`
 	Trailer       []string `xml:"trailer,omitempty"`
 	Rating        string   `xml:"rating,omitempty"`
-	Year          string   `xml:"year"`
+	Year          *string  `xml:"year"`
 	Mpaa          string   `xml:"mpaa,omitempty"`
-	ImdbID        string   `xml:"imdb_id"`
-	Tmdbid        string   `xml:"tmdbid"`
+	ImdbID        string   `xml:"imdb_id,omitempty"`
+	Tmdbid        string   `xml:"tmdbid,omitempty"`
 	Premiered     string   `xml:"premiered,omitempty"`
 	Releasedate   string   `xml:"releasedate,omitempty"`
 	Runtime       string   `xml:"runtime,omitempty"`
@@ -54,7 +54,7 @@ type TvShowInfo struct {
 		Type string `xml:"type,attr,omitempty"`
 	} `xml:"uniqueid,omitempty"`
 	Tvdbid       string `xml:"tvdbid,omitempty"`
-	ID           string `xml:"id"`
+	ID           string `xml:"id,omitempty"`
 	Season       string `xml:"season,omitempty"`
 	Episode      string `xml:"episode,omitempty"`
 	Displayorder string `xml:"displayorder,omitempty"`
@@ -84,12 +84,12 @@ type EpisodeDetailsInfo struct {
 	Outline   string   `xml:"outline,omitempty"`
 	Lockdata  string   `xml:"lockdata,omitempty"`
 	Dateadded string   `xml:"dateadded,omitempty"`
-	Title     string   `xml:"title,omitempty"`
+	Title     *string  `xml:"title"`
 	Rating    string   `xml:"rating,omitempty"`
 	Year      string   `xml:"year,omitempty"`
 	Runtime   string   `xml:"runtime,omitempty"`
-	Episode   string   `xml:"episode"`
-	Season    string   `xml:"season"`
+	Episode   *string  `xml:"episode"`
+	Season    *string  `xml:"season"`
 	Aired     string   `xml:"aired,omitempty"`
 }
 

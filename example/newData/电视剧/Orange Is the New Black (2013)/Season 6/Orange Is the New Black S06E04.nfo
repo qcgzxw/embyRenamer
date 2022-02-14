@@ -3,7 +3,7 @@
   <plot><![CDATA[艾莲达在外求职屡屡碰壁。走投无路的妮可为了认罪协议而供出红老大。美味蒂向卡普托求助。]]></plot>
   <outline />
   <lockdata>false</lockdata>
-  <dateadded>2019-10-06 10:23:23</dateadded>
+  <dateadded>2019-10-05 16:58:01</dateadded>
   <title>会说话的驴蛋</title>
   <actor>
     <name>Taylor Schilling</name>
@@ -371,13 +371,12 @@
       <video>
         <codec>h264</codec>
         <micodec>h264</micodec>
-        <bitrate>51445555</bitrate>
-        <width>3840</width>
-        <height>2160</height>
+        <bitrate>4502504</bitrate>
+        <width>1920</width>
+        <height>1080</height>
         <aspect>16:9</aspect>
         <aspectratio>16:9</aspectratio>
         <framerate>23.976025</framerate>
-        <language>eng</language>
         <scantype>progressive</scantype>
         <default>True</default>
         <forced>False</forced>
@@ -385,8 +384,9 @@
         <durationinseconds>3383</durationinseconds>
       </video>
       <audio>
-        <codec>eac3</codec>
-        <micodec>eac3</micodec>
+        <codec>ac3</codec>
+        <micodec>ac3</micodec>
+        <bitrate>384000</bitrate>
         <language>eng</language>
         <scantype>progressive</scantype>
         <channels>6</channels>
@@ -400,60 +400,12 @@
         <language>eng</language>
         <scantype>progressive</scantype>
         <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>eng</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>eng</language>
-        <scantype>progressive</scantype>
-        <default>True</default>
         <forced>True</forced>
       </subtitle>
       <subtitle>
         <codec>subrip</codec>
         <micodec>subrip</micodec>
-        <language>ara</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>bul</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>dan</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>ger</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>gre</language>
+        <language>eng</language>
         <scantype>progressive</scantype>
         <default>False</default>
         <forced>False</forced>
@@ -462,22 +414,6 @@
         <codec>subrip</codec>
         <micodec>subrip</micodec>
         <language>spa</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>spa</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>fin</language>
         <scantype>progressive</scantype>
         <default>False</default>
         <forced>False</forced>
@@ -486,54 +422,6 @@
         <codec>subrip</codec>
         <micodec>subrip</micodec>
         <language>fre</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>heb</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>ita</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>jpn</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>kor</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>nob</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>dut</language>
         <scantype>progressive</scantype>
         <default>False</default>
         <forced>False</forced>
@@ -550,70 +438,6 @@
         <codec>subrip</codec>
         <micodec>subrip</micodec>
         <language>por</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>por</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>rum</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>swe</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>tha</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>tur</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>vie</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>chi</language>
-        <scantype>progressive</scantype>
-        <default>False</default>
-        <forced>False</forced>
-      </subtitle>
-      <subtitle>
-        <codec>subrip</codec>
-        <micodec>subrip</micodec>
-        <language>chi</language>
         <scantype>progressive</scantype>
         <default>False</default>
         <forced>False</forced>

@@ -4,99 +4,9 @@
   <outline />
   <lockdata>false</lockdata>
   <dateadded>2021-03-12 00:04:44</dateadded>
-  <title>情人节</title>
-  <actor>
-    <name>Ed O'Neill</name>
-    <role>Jay Pritchett</role>
-    <type>Actor</type>
-    <tmdbid>18977</tmdbid>
-    <imdbid>nm0642145</imdbid>
-  </actor>
-  <actor>
-    <name>Sofía Vergara</name>
-    <role>Gloria Delgado-Pritchett</role>
-    <type>Actor</type>
-    <tmdbid>63522</tmdbid>
-    <imdbid>nm0005527</imdbid>
-  </actor>
-  <actor>
-    <name>Julie Bowen</name>
-    <role>Claire Dunphy</role>
-    <type>Actor</type>
-    <tmdbid>31171</tmdbid>
-    <imdbid>nm0100866</imdbid>
-  </actor>
-  <actor>
-    <name>Ty Burrell</name>
-    <role>Phil Dunphy</role>
-    <type>Actor</type>
-    <tmdbid>15232</tmdbid>
-    <imdbid>nm0123092</imdbid>
-  </actor>
-  <actor>
-    <name>Jesse Tyler Ferguson</name>
-    <role>Mitchell Pritchett</role>
-    <type>Actor</type>
-    <tmdbid>204815</tmdbid>
-    <imdbid>nm0272479</imdbid>
-  </actor>
-  <actor>
-    <name>Eric Stonestreet</name>
-    <role>Cameron Tucker</role>
-    <type>Actor</type>
-    <tmdbid>156962</tmdbid>
-    <imdbid>nm0832314</imdbid>
-  </actor>
-  <actor>
-    <name>Sarah Hyland</name>
-    <role>Haley Dunphy</role>
-    <type>Actor</type>
-    <tmdbid>91351</tmdbid>
-    <imdbid>nm0405103</imdbid>
-  </actor>
-  <actor>
-    <name>Ariel Winter</name>
-    <role>Alex Dunphy</role>
-    <type>Actor</type>
-    <tmdbid>42160</tmdbid>
-    <imdbid>nm1736769</imdbid>
-  </actor>
-  <actor>
-    <name>Nolan Gould</name>
-    <role>Luke Dunphy</role>
-    <type>Actor</type>
-    <tmdbid>147710</tmdbid>
-    <imdbid>nm2188098</imdbid>
-  </actor>
-  <actor>
-    <name>Rico Rodriguez</name>
-    <role>Manny Delgado</role>
-    <type>Actor</type>
-    <tmdbid>206737</tmdbid>
-    <imdbid>nm2349726</imdbid>
-  </actor>
-  <actor>
-    <name>Jeremy Rowley</name>
-    <role>Broderick</role>
-    <type>GuestStar</type>
-    <tmdbid>1224220</tmdbid>
-    <imdbid>nm0746811</imdbid>
-  </actor>
-  <actor>
-    <name>Edward Stanley</name>
-    <role>Maitre D'</role>
-    <type>GuestStar</type>
-    <tmdbid>2394928</tmdbid>
-  </actor>
-  <actor>
-    <name>Reid Ewing</name>
-    <role>Dylan Marshall</role>
-    <type>GuestStar</type>
-    <tmdbid>967692</tmdbid>
-    <imdbid>nm2938641</imdbid>
-  </actor>
+  <title>第 14 集</title>
   <director>Chris Koch</director>
-  <rating>7.2</rating>
+  <rating>8</rating>
   <year>2011</year>
   <imdbid>tt1627448</imdbid>
   <tvdbid>3409591</tvdbid>
@@ -104,8 +14,66 @@
   <genre>Comedy</genre>
   <genre>Drama</genre>
   <genre>Romance</genre>
-  <uniqueid type="Imdb">tt1627448</uniqueid>
-  <uniqueid type="Tvdb">3409591</uniqueid>
+  <actor>
+    <name>Ed O'Neill</name>
+    <role>Jay Pritchett</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Sofía Vergara</name>
+    <role>Gloria Delgado-Pritchett</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Julie Bowen</name>
+    <role>Claire Dunphy</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ty Burrell</name>
+    <role>Phil Dunphy</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Jesse Tyler Ferguson</name>
+    <role>Mitchell Pritchett</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Eric Stonestreet</name>
+    <role>Cameron Tucker</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Sarah Hyland</name>
+    <role>Haley Dunphy</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Ariel Winter</name>
+    <role>Alex Dunphy</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Nolan Gould</name>
+    <role>Luke Dunphy</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Rico Rodriguez</name>
+    <role>Manny Delgado</role>
+    <type>Actor</type>
+  </actor>
+  <actor>
+    <name>Jeremy Rowley</name>
+    <role>Broderick</role>
+    <type>GuestStar</type>
+  </actor>
+  <actor>
+    <name>Reid Ewing</name>
+    <role>Dylan Marshall</role>
+    <type>GuestStar</type>
+  </actor>
   <episode>14</episode>
   <season>2</season>
   <aired>2011-02-09</aired>
@@ -138,14 +106,6 @@
         <default>True</default>
         <forced>False</forced>
       </audio>
-      <subtitle>
-        <codec>ass</codec>
-        <micodec>ass</micodec>
-        <language>chi</language>
-        <scantype>progressive</scantype>
-        <default>True</default>
-        <forced>False</forced>
-      </subtitle>
     </streamdetails>
   </fileinfo>
 </episodedetails>
