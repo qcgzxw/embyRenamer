@@ -109,6 +109,7 @@ go run main.go
 
 ### v1.1
 - 同一文件，多版本支持(https://github.com/qcgzxw/embyRenamer/issues/5)
+- 过滤不包含季、集信息的nfo文件(https://github.com/qcgzxw/embyRenamer/issues/7)
 ### v1.0
 - 电影文件重命名
 - 电视剧文件重命名
