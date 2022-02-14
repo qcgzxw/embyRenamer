@@ -5,9 +5,9 @@
   "tvRename": true,
   "tvDirPath": "example/originData/电视剧/",
   "tvRootPath": "example/newData/电视剧/",
-  "movieDirFormat": "{originaltitle} ({year}) [imdbid={imdbid}]",
-  "movieTitleFormat": "{originaltitle}",
-  "tvDirFormat": "{originaltitle} ({year})",
+  "movieDirFormat": "{title} ({year}) [imdbid={imdbid}]",
+  "movieTitleFormat": "{title}",
+  "tvDirFormat": "{title} ({year})",
   "episodeDirFormat": "Season {season}",
-  "episodeTitleFormat": "{originaltitle} S{SEASON}E{EPISODE}"
+  "episodeTitleFormat": "{title} S{SEASON}E{EPISODE}"
 }

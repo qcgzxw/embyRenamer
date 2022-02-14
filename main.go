@@ -10,6 +10,7 @@ import (
 )
 
 func main() {
+	println("运行中，请勿终止程序...")
 	startTime := time.Now().UnixNano() / 1e6
 	var config *renamer.Config
 	if b, err := os.ReadFile("config.json"); err == nil && len(b) > 0 {
@@ -52,5 +53,5 @@ func main() {
 		}
 	}
 	println()
-	fmt.Printf("总花费时间：%dms\r\n", endTime-startTime)
+	fmt.Printf("转换完毕，总花费时间：%dms\r\n", endTime-startTime)
 }

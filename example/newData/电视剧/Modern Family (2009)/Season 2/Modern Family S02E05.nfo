@@ -4,9 +4,115 @@
   <outline />
   <lockdata>false</lockdata>
   <dateadded>2021-03-12 00:12:48</dateadded>
-  <title>第 5 集</title>
+  <title>远离电子产品比赛</title>
+  <actor>
+    <name>Ed O'Neill</name>
+    <role>Jay Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>18977</tmdbid>
+    <imdbid>nm0642145</imdbid>
+  </actor>
+  <actor>
+    <name>Sofía Vergara</name>
+    <role>Gloria Delgado-Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>63522</tmdbid>
+    <imdbid>nm0005527</imdbid>
+  </actor>
+  <actor>
+    <name>Julie Bowen</name>
+    <role>Claire Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>31171</tmdbid>
+    <imdbid>nm0100866</imdbid>
+  </actor>
+  <actor>
+    <name>Ty Burrell</name>
+    <role>Phil Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>15232</tmdbid>
+    <imdbid>nm0123092</imdbid>
+  </actor>
+  <actor>
+    <name>Jesse Tyler Ferguson</name>
+    <role>Mitchell Pritchett</role>
+    <type>Actor</type>
+    <tmdbid>204815</tmdbid>
+    <imdbid>nm0272479</imdbid>
+  </actor>
+  <actor>
+    <name>Eric Stonestreet</name>
+    <role>Cameron Tucker</role>
+    <type>Actor</type>
+    <tmdbid>156962</tmdbid>
+    <imdbid>nm0832314</imdbid>
+  </actor>
+  <actor>
+    <name>Sarah Hyland</name>
+    <role>Haley Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>91351</tmdbid>
+    <imdbid>nm0405103</imdbid>
+  </actor>
+  <actor>
+    <name>Ariel Winter</name>
+    <role>Alex Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>42160</tmdbid>
+    <imdbid>nm1736769</imdbid>
+  </actor>
+  <actor>
+    <name>Nolan Gould</name>
+    <role>Luke Dunphy</role>
+    <type>Actor</type>
+    <tmdbid>147710</tmdbid>
+    <imdbid>nm2188098</imdbid>
+  </actor>
+  <actor>
+    <name>Rico Rodriguez</name>
+    <role>Manny Delgado</role>
+    <type>Actor</type>
+    <tmdbid>206737</tmdbid>
+    <imdbid>nm2349726</imdbid>
+  </actor>
+  <actor>
+    <name>Lauren Cohan</name>
+    <role>Receptionist</role>
+    <type>GuestStar</type>
+    <tmdbid>62220</tmdbid>
+  </actor>
+  <actor>
+    <name>Taylor Nichols</name>
+    <role>Mr. Plympton</role>
+    <type>GuestStar</type>
+    <tmdbid>4944</tmdbid>
+  </actor>
+  <actor>
+    <name>Carla Renata</name>
+    <role>Nikki</role>
+    <type>GuestStar</type>
+    <tmdbid>166685</tmdbid>
+  </actor>
+  <actor>
+    <name>Michael Rothhaar</name>
+    <role>Larry Paulson</role>
+    <type>GuestStar</type>
+    <tmdbid>1234044</tmdbid>
+  </actor>
+  <actor>
+    <name>Libby Baker</name>
+    <role>Stephanie</role>
+    <type>GuestStar</type>
+    <tmdbid>1996465</tmdbid>
+  </actor>
+  <actor>
+    <name>Kiran Deol</name>
+    <role>Kavita</role>
+    <type>GuestStar</type>
+    <tmdbid>970238</tmdbid>
+  </actor>
   <director>Michael Spiller</director>
-  <rating>8.2</rating>
+  <rating>7.3</rating>
   <year>2010</year>
   <imdbid>tt1627461</imdbid>
   <tvdbid>2923031</tvdbid>
@@ -14,76 +120,10 @@
   <genre>Comedy</genre>
   <genre>Drama</genre>
   <genre>Romance</genre>
-  <actor>
-    <name>Ed O'Neill</name>
-    <role>Jay Pritchett</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Sofía Vergara</name>
-    <role>Gloria Delgado-Pritchett</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Julie Bowen</name>
-    <role>Claire Dunphy</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Ty Burrell</name>
-    <role>Phil Dunphy</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Jesse Tyler Ferguson</name>
-    <role>Mitchell Pritchett</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Eric Stonestreet</name>
-    <role>Cameron Tucker</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Sarah Hyland</name>
-    <role>Haley Dunphy</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Ariel Winter</name>
-    <role>Alex Dunphy</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Nolan Gould</name>
-    <role>Luke Dunphy</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Rico Rodriguez</name>
-    <role>Manny Delgado</role>
-    <type>Actor</type>
-  </actor>
-  <actor>
-    <name>Lauren Cohan</name>
-    <role>Receptionist</role>
-    <type>GuestStar</type>
-  </actor>
-  <actor>
-    <name>Taylor Nichols</name>
-    <role>Mr. Plympton</role>
-    <type>GuestStar</type>
-  </actor>
-  <actor>
-    <name>Carla Renata</name>
-    <role>Nikki</role>
-    <type>GuestStar</type>
-  </actor>
-  <actor>
-    <name>Michael Rothhaar</name>
-    <role>Larry Paulson</role>
-    <type>GuestStar</type>
-  </actor>
+  <tvrageid>1064977444</tvrageid>
+  <uniqueid type="Imdb">tt1627461</uniqueid>
+  <uniqueid type="Tvdb">2923031</uniqueid>
+  <uniqueid type="TvRage">1064977444</uniqueid>
   <episode>5</episode>
   <season>2</season>
   <aired>2010-10-20</aired>
@@ -116,6 +156,14 @@
         <default>True</default>
         <forced>False</forced>
       </audio>
+      <subtitle>
+        <codec>ass</codec>
+        <micodec>ass</micodec>
+        <language>chi</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
     </streamdetails>
   </fileinfo>
 </episodedetails>

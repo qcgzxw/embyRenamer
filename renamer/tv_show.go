@@ -14,7 +14,7 @@ type TvShow struct {
 }
 
 func (this *TvShow) GetOriginName() (originName string) {
-	return this.tvShowInfo.Title
+	return *this.tvShowInfo.Title
 }
 func (this *TvShow) GetEmbyDirName() (originName string) {
 	if this.dirFormat == "" || !strings.Contains(this.dirFormat, "{") {
@@ -31,18 +31,18 @@ func (this *TvShow) Rename() {
 }
 func (this *TvShow) nameReplacer() *strings.Replacer {
 	if this.tvShowInfo.Originaltitle == "" {
-		this.tvShowInfo.Originaltitle = this.tvShowInfo.Title
+		this.tvShowInfo.Originaltitle = *this.tvShowInfo.Title
 	}
 	if strings.Contains(this.tvShowInfo.Originaltitle, string(os.PathSeparator)) {
 		this.tvShowInfo.Originaltitle = strings.Replace(this.tvShowInfo.Originaltitle, string(os.PathSeparator), " ", -1)
 	}
-	if strings.Contains(this.tvShowInfo.Title, string(os.PathSeparator)) {
-		this.tvShowInfo.Title = strings.Replace(this.tvShowInfo.Title, string(os.PathSeparator), " ", -1)
+	if strings.Contains(*this.tvShowInfo.Title, string(os.PathSeparator)) {
+		*this.tvShowInfo.Title = strings.Replace(*this.tvShowInfo.Title, string(os.PathSeparator), " ", -1)
 	}
 	return strings.NewReplacer(
 		"{originaltitle}", this.tvShowInfo.Originaltitle,
-		"{title}", this.tvShowInfo.Title,
-		"{year}", this.tvShowInfo.Year,
+		"{title}", *this.tvShowInfo.Title,
+		"{year}", *this.tvShowInfo.Year,
 		"{imdbid}", this.tvShowInfo.ImdbID,
 		"{tmdbid}", this.tvShowInfo.Tmdbid,
 		"{tvdbid}", this.tvShowInfo.Tvdbid,

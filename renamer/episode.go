@@ -39,22 +39,25 @@ func (this *Episode) Rename() {
 	this.renameFile()
 }
 func (this *Episode) nameReplacer() *strings.Replacer {
-	if strings.Contains(this.episodeInfo.Title, string(os.PathSeparator)) {
-		this.episodeInfo.Title = strings.Replace(this.episodeInfo.Title, string(os.PathSeparator), " ", -1)
+	if strings.Contains(*this.episodeInfo.Title, string(os.PathSeparator)) {
+		if tmp := strings.Replace(*this.episodeInfo.Title, string(os.PathSeparator), " ", -1); tmp != "" {
+			this.episodeInfo.Title = &tmp
+		}
 	}
 	return strings.NewReplacer(
 		"{originaltitle}", this.tvShowInfo.Originaltitle,
-		"{title}", this.tvShowInfo.Title,
-		"{year}", this.tvShowInfo.Year,
+		"{title}", *this.tvShowInfo.Title,
+		"{episodetitle}", *this.episodeInfo.Title,
+		"{year}", *this.tvShowInfo.Year,
 		"{imdbid}", this.tvShowInfo.ImdbID,
 		"{tmdbid}", this.tvShowInfo.Tmdbid,
 		"{tvdbid}", this.tvShowInfo.Tvdbid,
 		"{releasedate}", this.tvShowInfo.Releasedate,
 		"{id}", this.tvShowInfo.ID,
-		"{season}", this.episodeInfo.Season,
-		"{SEASON}", GetNumStr(this.totalSeasons, this.episodeInfo.Season),
-		"{episode}", this.episodeInfo.Episode,
-		"{EPISODE}", GetNumStr(this.totalEpisodes, this.episodeInfo.Episode),
+		"{season}", *this.episodeInfo.Season,
+		"{SEASON}", GetNumStr(this.totalSeasons, *this.episodeInfo.Season),
+		"{episode}", *this.episodeInfo.Episode,
+		"{EPISODE}", GetNumStr(this.totalEpisodes, *this.episodeInfo.Episode),
 	)
 }
 

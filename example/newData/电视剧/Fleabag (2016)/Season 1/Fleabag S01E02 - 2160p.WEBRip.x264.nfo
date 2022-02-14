@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<episodedetails>
+  <plot><![CDATA[Fleabag attempts to rekindle romantic fires to distract her from the mayhem of her life.]]></plot>
+  <outline />
+  <lockdata>false</lockdata>
+  <dateadded>2020-09-23 14:25:07</dateadded>
+  <title>第 2 集</title>
+  <actor>
+    <name>Phoebe Waller-Bridge</name>
+    <role>Fleabag</role>
+    <type>Actor</type>
+    <tmdbid>1023483</tmdbid>
+    <imdbid>nm3564817</imdbid>
+  </actor>
+  <actor>
+    <name>Sian Clifford</name>
+    <role>Claire</role>
+    <type>Actor</type>
+    <tmdbid>1648728</tmdbid>
+    <imdbid>nm5427486</imdbid>
+  </actor>
+  <actor>
+    <name>Olivia Colman</name>
+    <role>Godmother</role>
+    <type>Actor</type>
+    <tmdbid>39187</tmdbid>
+    <imdbid>nm1469236</imdbid>
+  </actor>
+  <actor>
+    <name>Bill Paterson</name>
+    <role>Dad</role>
+    <type>Actor</type>
+    <tmdbid>104795</tmdbid>
+    <imdbid>nm0665473</imdbid>
+  </actor>
+  <actor>
+    <name>Jenny Rainsford</name>
+    <role>Boo</role>
+    <type>Actor</type>
+    <tmdbid>1648727</tmdbid>
+    <imdbid>nm5082535</imdbid>
+  </actor>
+  <actor>
+    <name>Brett Gelman</name>
+    <role>Martin</role>
+    <type>Actor</type>
+    <tmdbid>224197</tmdbid>
+    <imdbid>nm1443368</imdbid>
+  </actor>
+  <actor>
+    <name>Hugh Skinner</name>
+    <role>Harry</role>
+    <type>Actor</type>
+    <tmdbid>1206337</tmdbid>
+    <imdbid>nm2369260</imdbid>
+  </actor>
+  <actor>
+    <name>Hugh Dennis</name>
+    <role>Bank Manager</role>
+    <type>Actor</type>
+    <tmdbid>151344</tmdbid>
+    <imdbid>nm0219465</imdbid>
+  </actor>
+  <actor>
+    <name>Jamie Demetriou</name>
+    <role>Bus Rodent</role>
+    <type>Actor</type>
+    <tmdbid>1470911</tmdbid>
+    <imdbid>nm5857152</imdbid>
+  </actor>
+  <actor>
+    <name>Daniella Isaacs</name>
+    <role>Yoga Girl 1</role>
+    <type>GuestStar</type>
+    <tmdbid>2449199</tmdbid>
+  </actor>
+  <actor>
+    <name>Olivia Gray</name>
+    <role>Yoga Girl 2</role>
+    <type>GuestStar</type>
+    <tmdbid>2449200</tmdbid>
+  </actor>
+  <actor>
+    <name>Kevin McNally</name>
+    <role>Older Man</role>
+    <type>GuestStar</type>
+    <tmdbid>2449</tmdbid>
+  </actor>
+  <actor>
+    <name>Ben Aldridge</name>
+    <role>Arsehole Guy</role>
+    <type>GuestStar</type>
+    <tmdbid>969316</tmdbid>
+  </actor>
+  <actor>
+    <name>Jeff Mirza</name>
+    <role>Shop Owner</role>
+    <type>GuestStar</type>
+    <tmdbid>1229053</tmdbid>
+  </actor>
+  <director>Harry Bradbeer</director>
+  <rating>7.636</rating>
+  <year>2016</year>
+  <imdbid>tt5908776</imdbid>
+  <tvdbid>5685550</tvdbid>
+  <runtime>27</runtime>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <uniqueid type="Imdb">tt5908776</uniqueid>
+  <uniqueid type="Tvdb">5685550</uniqueid>
+  <episode>2</episode>
+  <season>1</season>
+  <aired>2016-07-28</aired>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <micodec>h264</micodec>
+        <bitrate>17846999</bitrate>
+        <width>3840</width>
+        <height>1604</height>
+        <aspect>960:401</aspect>
+        <aspectratio>960:401</aspectratio>
+        <framerate>25</framerate>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+        <duration>26</duration>
+        <durationinseconds>1601</durationinseconds>
+      </video>
+      <audio>
+        <codec>eac3</codec>
+        <micodec>eac3</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <channels>6</channels>
+        <samplingrate>48000</samplingrate>
+        <default>True</default>
+        <forced>False</forced>
+      </audio>
+      <subtitle>
+        <codec>subrip</codec>
+        <micodec>subrip</micodec>
+        <language>eng</language>
+        <scantype>progressive</scantype>
+        <default>True</default>
+        <forced>False</forced>
+      </subtitle>
+      <subtitle>
+        <codec>srt</codec>
+        <micodec>srt</micodec>
+        <language>chs&amp;eng</language>
+        <scantype>progressive</scantype>
+        <default>False</default>
+        <forced>False</forced>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+</episodedetails>

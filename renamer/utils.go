@@ -1,10 +1,13 @@
 package renamer
 
 import (
+	"encoding/xml"
+	"errors"
 	"fmt"
 	"os"
 	"path"
 	"path/filepath"
+	"reflect"
 	"regexp"
 	"strconv"
 	"strings"
@@ -88,6 +91,7 @@ func GetNumStr(total uint, no string) (numStr string) {
 	return
 }
 
+// OsRename 重命名
 func OsRename(oldPath, newPath, newPathRoot string) error {
 	if strings.ToLower(GetFileExt(oldPath)) == ".nfo" {
 		if _, ok := invalidNfoPath[oldPath]; ok {
@@ -106,6 +110,36 @@ func OsRename(oldPath, newPath, newPathRoot string) error {
 		newPath = genMultiVersionName(oldPath, newPath, newPathRoot)
 	}
 	return os.Rename(oldPath, newPath)
+}
+
+// ParseXml 解析xml文件
+func ParseXml(xmlFilePath string, ptr interface{}) (err error) {
+	f, err := os.ReadFile(xmlFilePath)
+	if err != nil {
+		return
+	}
+	err = xml.Unmarshal(f, ptr)
+	if err != nil {
+		return
+	}
+	t := reflect.TypeOf(ptr)
+	if t.Kind() != reflect.Ptr || t.Elem().Kind() != reflect.Struct {
+		return fmt.Errorf("参数应该为结构体指针")
+	}
+	v := reflect.ValueOf(ptr).Elem()
+	for i := 0; i < v.NumField(); i++ {
+		if v.Type().Field(i).Tag == "" {
+			continue
+		}
+		if xmlTag, ok := v.Type().Field(i).Tag.Lookup("xml"); ok &&
+			!strings.Contains(xmlTag, "omitempty") &&
+			v.Type().Field(i).Type.Kind() == reflect.Ptr &&
+			v.Field(i).IsNil() {
+			err = errors.New("无法解析的xml数据")
+			break
+		}
+	}
+	return
 }
 
 func genMultiVersionName(oldPath, newPath, newPathRoot string) (s string) {
