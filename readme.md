@@ -57,7 +57,7 @@ find -iname "*.nfo" -exec cp {} /测试目录/{} \;
 ### 运行
 ```
 # 下载程序
-git clone git@github.com:qcgzxw/embyRenamer.git
+git clone https://github.com/qcgzxw/embyRenamer.git
 # 复制生成配置文件
 copy config.json.example config.json
 # 编辑配置文件 按照以上规则更改文件目录和相关配置
