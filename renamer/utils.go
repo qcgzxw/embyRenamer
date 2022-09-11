@@ -4,6 +4,7 @@ import (
 	"encoding/xml"
 	"errors"
 	"fmt"
+	"io"
 	"os"
 	"path"
 	"path/filepath"
@@ -109,7 +110,34 @@ func OsRename(oldPath, newPath, newPathRoot string) error {
 		// 已存在文件 适配多版本
 		newPath = genMultiVersionName(oldPath, newPath, newPathRoot)
 	}
-	return os.Rename(oldPath, newPath)
+	return osRename(oldPath, newPath)
+}
+
+func osRename(sourcePath, destPath string) (err error) {
+	if err1 := os.Rename(sourcePath, destPath); err1 == nil {
+		return
+	}
+	inputFile, err := os.Open(sourcePath)
+	if err != nil {
+		return fmt.Errorf("couldn't open source file: %s", err)
+	}
+	outputFile, err := os.Create(destPath)
+	if err != nil {
+		inputFile.Close()
+		return fmt.Errorf("couldn't open dest file: %s", err)
+	}
+	defer outputFile.Close()
+	_, err = io.Copy(outputFile, inputFile)
+	inputFile.Close()
+	if err != nil {
+		return fmt.Errorf("writing to output file failed: %s", err)
+	}
+	// The copy was successful, so now delete the original file
+	err = os.Remove(sourcePath)
+	if err != nil {
+		return fmt.Errorf("failed removing original file: %s", err)
+	}
+	return
 }
 
 // ParseXml 解析xml文件
